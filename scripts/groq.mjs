@@ -30,9 +30,14 @@ KURALLAR:
    başlayan bir biçimde yaz — kaynak başlık TAMAMEN BÜYÜK HARFLE ("SON DAKİKA...", "AÇIKLAMA
    GELDİ" gibi) verilmiş olsa bile, bunu asla olduğu gibi kopyalama; gerçek bir gazetenin normal
    başlık üslubuna çevir.
+8. "highlights": yazdığın "body" metninin en can alıcı 3 noktasını, her biri tek ve kısa bir
+   cümle (en fazla ~110 karakter) olacak şekilde özetleyen bir dizi üret. Bunlar body'deki
+   cümlelerin birebir kopyası DEĞİL, okuyucuya hızlı bir özet sunan kendi cümlelerin olsun;
+   yine kural 2'deki gibi hiçbir yeni bilgi uydurma. Body tek bir kısa cümleyse ve gerçekten
+   3 ayrı nokta çıkaracak kadar malzeme yoksa, diziyi kısa bırak (1-2 öğe de olabilir).
 
 Sadece şu JSON şemasında cevap ver, başka hiçbir şey yazma:
-{"headline": "...", "body": "...", "imageKeyword": "..."}`;
+{"headline": "...", "body": "...", "imageKeyword": "...", "highlights": ["...", "...", "..."]}`;
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -58,7 +63,7 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
         { role: 'user', content: userContent },
       ],
       temperature: 0.6,
-      max_completion_tokens: 900,
+      max_completion_tokens: 1050,
       response_format: { type: 'json_object' },
     }),
     signal: AbortSignal.timeout(30_000),
@@ -91,5 +96,56 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
     headline: String(parsed.headline).trim(),
     body: String(parsed.body).trim(),
     imageKeyword: parsed.imageKeyword ? String(parsed.imageKeyword).trim() : null,
+    highlights: Array.isArray(parsed.highlights)
+      ? parsed.highlights.map((h) => String(h).trim()).filter(Boolean).slice(0, 3)
+      : [],
   };
+}
+
+const HIGHLIGHTS_PROMPT = `Sana zaten yayınlanmış bir haberin tam metni verilecek. Bu metnin en
+can alıcı 3 noktasını, her biri tek ve kısa bir cümle (en fazla ~110 karakter) olacak şekilde
+özetle. Cümleler metindeki cümlelerin birebir kopyası olmasın, kendi kısa ifaden olsun; metinde
+olmayan hiçbir bilgi uydurma. Metin çok kısaysa 1-2 öğe de yeterli.
+Sadece şu JSON şemasında cevap ver: {"highlights": ["...", "...", "..."]}`;
+
+export async function generateHighlights(body, apiKey, retries = 3) {
+  const res = await fetch(GROQ_URL, {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${apiKey}`,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({
+      model: MODEL,
+      messages: [
+        { role: 'system', content: HIGHLIGHTS_PROMPT },
+        { role: 'user', content: body },
+      ],
+      temperature: 0.5,
+      // gpt-oss-120b is a reasoning model — it spends completion tokens on
+      // hidden chain-of-thought before it ever emits the JSON answer, so a
+      // "just 3 short bullets" budget still needs real headroom or the
+      // response gets cut off mid-reasoning with no valid JSON at all.
+      max_completion_tokens: 700,
+      response_format: { type: 'json_object' },
+    }),
+    signal: AbortSignal.timeout(30_000),
+  });
+
+  if (res.status === 429 && retries > 0) {
+    const body429 = await res.text();
+    const waitMatch = /try again in ([\d.]+)s/i.exec(body429);
+    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 3000;
+    await sleep(waitMs);
+    return generateHighlights(body, apiKey, retries - 1);
+  }
+  if (!res.ok) throw new Error(`Groq API ${res.status}: ${await res.text()}`);
+
+  const data = await res.json();
+  const raw = data?.choices?.[0]?.message?.content;
+  if (!raw) throw new Error('Groq yanıtı boş döndü');
+  const parsed = JSON.parse(raw);
+  return Array.isArray(parsed.highlights)
+    ? parsed.highlights.map((h) => String(h).trim()).filter(Boolean).slice(0, 3)
+    : [];
 }

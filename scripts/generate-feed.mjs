@@ -69,6 +69,7 @@ async function rewriteAndIllustrate(raw) {
       imageCredit: photo?.imageCredit ?? null,
       timeAgo: timeAgoTrSnapshot(raw.publishedAt),
       body: rewritten.body,
+      highlights: rewritten.highlights ?? [],
       externalUrl: raw.externalUrl,
       publishedAt: raw.publishedAt,
       category: raw.category,

@@ -108,7 +108,7 @@
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
   .ticker-inner {
-    max-width: 1180px; margin: 0 auto; padding: 0 20px;
+    max-width: 1440px; margin: 0 auto; padding: 0 20px;
     height: 30px; display: flex; align-items: center; gap: 14px;
   }
   .live-badge {
@@ -143,7 +143,7 @@
   @media (max-width: 600px) { .live-ticker { display: none; } }
 
   .header-inner {
-    max-width: 1180px; margin: 0 auto;
+    max-width: 1440px; margin: 0 auto;
     padding: 14px 20px;
     display: flex; align-items: center; gap: 18px;
   }
@@ -213,7 +213,7 @@
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
   .categories-row {
-    max-width: 1180px; margin: 0 auto; padding: 0 16px;
+    max-width: 1440px; margin: 0 auto; padding: 0 16px;
     display: flex; align-items: center; gap: 12px;
   }
   .categories-inner {
@@ -252,7 +252,7 @@
 
   /* ---------- Breadcrumb ---------- */
   .breadcrumb {
-    max-width: 1180px; margin: 0 auto; padding: 16px 20px 0;
+    max-width: 1440px; margin: 0 auto; padding: 16px 20px 0;
     font-size: 13px; color: var(--text-secondary);
     display: flex; align-items: center; gap: 6px;
   }
@@ -260,12 +260,12 @@
   .breadcrumb a:hover { color: var(--navy); text-decoration: underline; }
   .breadcrumb .current { color: var(--text); font-weight: 700; }
   .page-heading {
-    max-width: 1180px; margin: 6px auto 0; padding: 0 20px;
+    max-width: 1440px; margin: 6px auto 0; padding: 0 20px;
     font-size: 26px; font-weight: 800; display: flex; align-items: center; gap: 10px;
   }
 
   /* ---------- Layout ---------- */
-  main { max-width: 1180px; margin: 0 auto; padding: 22px 20px 60px; }
+  main { max-width: 1440px; margin: 0 auto; padding: 22px 20px 60px; }
 
   .featured {
     display: grid; grid-template-columns: 1.4fr 1fr; gap: 18px;
@@ -326,7 +326,7 @@
   .section-title::before { content: ""; width: 4px; height: 16px; background: var(--gold); border-radius: 2px; }
 
   /* ---------- Home layout: 70/30 content + sidebar ---------- */
-  .home-layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 26px; align-items: start; }
+  .home-layout { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 28px; align-items: start; }
   .main-col { min-width: 0; }
   .sidebar { display: flex; flex-direction: column; gap: 18px; position: sticky; top: 92px; }
 
@@ -370,6 +370,11 @@
     color: rgba(var(--navy-rgb), 0.3); width: 22px; flex-shrink: 0; text-align: center;
   }
   .trend-num.top { font-size: 23px; color: var(--gold); text-shadow: 0 0 12px rgba(var(--gold-rgb),0.35); }
+  .trend-item img.related-thumb, .trend-item .thumb-fallback {
+    width: 52px; height: 52px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--divider);
+    aspect-ratio: unset; font-size: 9px; padding: 4px; text-align: center;
+  }
+  .trend-item .thumb-fallback .msr { font-size: 16px !important; }
   .trend-info { min-width: 0; }
   .trend-info h4 { font-size: 12.5px; margin: 0; font-weight: 700; line-height: 1.32; color: var(--text);
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
@@ -477,26 +482,52 @@
   .fade-in { animation: fadeIn .35s ease both; }
   @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
 
-  /* ---------- Ad slots ---------- */
-  .ad-slot {
-    border: 1px solid var(--card-border);
-    border-radius: 10px;
-    background: var(--bg);
-    display: flex; flex-direction: column; align-items: center; justify-content: center;
-    gap: 3px; text-align: center; color: var(--text-secondary);
+  /* ---------- Native ad placements ---------- */
+
+  /* Sticky billboard: lives inside the sticky header itself (last row),
+     so it rides along with the rest of the masthead instead of needing
+     its own separate sticky context. */
+  .billboard-banner {
+    background: rgba(255,255,255,0.04);
+    overflow: hidden;
   }
-  .ad-slot .ad-eyebrow {
-    font-size: 9.5px; font-weight: 800; letter-spacing: 0.8px; text-transform: uppercase;
-    color: var(--text-secondary); opacity: 0.55;
+  .billboard-inner {
+    max-width: 1440px; margin: 0 auto; padding: 0 20px;
+    height: 40px; display: flex; align-items: center; gap: 12px;
+    color: rgba(255,255,255,0.55);
   }
-  .ad-slot .ad-label { font-size: 12px; opacity: 0.85; }
-  .ad-slot .msr { font-size: 18px; opacity: 0.28; }
-  .ad-slot.leaderboard {
-    min-height: 64px; margin-bottom: 22px;
-    flex-direction: row; gap: 10px;
+  .billboard-eyebrow {
+    flex-shrink: 0; font-size: 9.5px; font-weight: 800; letter-spacing: 0.7px;
+    text-transform: uppercase; color: rgba(255,255,255,0.4);
+    border: 1px solid rgba(255,255,255,0.18); border-radius: 4px; padding: 2px 6px;
   }
-  .ad-slot.leaderboard .ad-eyebrow, .ad-slot.leaderboard .ad-label { text-align: left; }
-  .ad-slot.in-article { min-height: 160px; margin: 26px 0; }
+  .billboard-shimmer {
+    flex: 1; height: 10px; border-radius: 5px;
+    background: linear-gradient(100deg, rgba(255,255,255,0.03) 30%, rgba(255,255,255,0.09) 50%, rgba(255,255,255,0.03) 70%);
+    background-size: 200% 100%;
+    animation: adShimmer 1.8s ease-in-out infinite;
+  }
+  .billboard-label { flex-shrink: 0; font-size: 11.5px; }
+  @media (max-width: 600px) { .billboard-banner { display: none; } }
+
+  /* Sidebar premium unit — the sidebar column itself is already sticky, so
+     an ad placed as its last child naturally rides along with the rest. */
+  .sidebar-ad {
+    width: 100%; max-width: 300px; min-height: 600px; margin: 0 auto;
+    border-radius: 14px; border: 1px solid var(--card-border); background: var(--card);
+    position: relative; overflow: hidden;
+  }
+  .sidebar-ad .ad-shimmer { opacity: 0.6; }
+  .sidebar-ad-content {
+    position: relative; z-index: 1; height: 100%;
+    display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px;
+    color: var(--text-secondary); text-align: center; padding: 20px;
+  }
+  .sidebar-ad-content .ad-eyebrow {
+    font-size: 10px; font-weight: 800; letter-spacing: 0.7px; text-transform: uppercase; opacity: 0.5;
+  }
+  .sidebar-ad-content .ad-label { font-size: 12.5px; opacity: 0.8; }
+  .sidebar-ad-content .msr { font-size: 24px; opacity: 0.25; }
 
   /* In-feed ad card: reuses the exact .card-media/.card-footer split of a
      real news card (same size/radius/dark fallback, same footer height) so
@@ -565,9 +596,12 @@
     font-weight: 700; font-size: 14px; background: rgba(255,255,255,0.12);
     padding: 7px 14px; border-radius: 20px;
   }
-  .article-wrap { max-width: 760px; margin: 0 auto; padding: 28px 20px 70px; }
-  .article-wrap .badge { margin-bottom: 14px; }
-  .article-wrap h1 { font-size: 30px; line-height: 1.28; margin: 0 0 14px; font-weight: 800; }
+  .article-wrap { max-width: 1440px; margin: 0 auto; padding: 28px 20px 70px; }
+  .article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 28px; align-items: start; }
+  .article-main { min-width: 0; }
+  .article-inner { max-width: 760px; }
+  .article-inner .badge { margin-bottom: 14px; }
+  .article-inner h1 { font-size: 34px; line-height: 1.22; margin: 0 0 14px; font-weight: 800; }
   .article-meta {
     display: flex; align-items: center; gap: 10px; margin-bottom: 20px;
     color: var(--text-secondary); font-size: 13.5px; flex-wrap: wrap;
@@ -576,28 +610,96 @@
     width: 30px; height: 30px; border-radius: 50%; background: var(--navy); color: #fff;
     display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 13px; flex-shrink: 0;
   }
-  .tts-btn {
-    margin-left: auto; display: flex; align-items: center; gap: 6px;
-    border: 1px solid var(--divider); background: var(--card); color: var(--navy);
-    border-radius: 20px; padding: 6px 12px; cursor: pointer; font-size: 12.5px; font-weight: 700;
+
+  /* ---------- AI highlights box ---------- */
+  .ai-summary {
+    margin: 4px 0 24px; padding: 18px 20px; border-radius: 16px;
+    background: linear-gradient(135deg, rgba(var(--navy-rgb),0.07), rgba(var(--gold-rgb),0.1));
+    border: 1px solid rgba(var(--gold-rgb),0.28);
   }
-  .tts-btn.playing { background: var(--navy); color: #fff; border-color: var(--navy); }
-  .article-wrap img.hero { width: 100%; border-radius: 14px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 6px; }
-  .image-credit { font-size: 11.5px; color: var(--text-secondary); margin-bottom: 22px; }
+  .ai-summary-title {
+    display: flex; align-items: center; gap: 7px; font-size: 12px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.5px; color: var(--navy); margin-bottom: 12px;
+  }
+  .ai-summary-title .msr { font-size: 17px; color: var(--gold); }
+  .ai-summary ul { margin: 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 9px; }
+  .ai-summary li { display: flex; gap: 9px; align-items: flex-start; font-size: 14.5px; line-height: 1.5; color: var(--text); }
+  .ai-summary li::before {
+    content: ""; width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; margin-top: 7px;
+  }
+
+  .article-inner img.hero { width: 100%; border-radius: 14px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 6px; }
+  .image-credit { font-size: 11.5px; color: var(--text-secondary); margin-bottom: 6px; }
   .image-credit a { text-decoration: underline; }
-  .article-body { font-size: 17px; line-height: 1.75; color: var(--text); }
+
+  /* ---------- Post-hero toolbar: share/save/font/listen ---------- */
+  .article-toolbar {
+    display: flex; align-items: center; gap: 8px; flex-wrap: wrap;
+    padding: 12px 0; margin-bottom: 22px; border-top: 1px solid var(--divider); border-bottom: 1px solid var(--divider);
+  }
+  .font-size-controls {
+    display: flex; align-items: center; gap: 2px; margin-left: auto;
+    border: 1px solid var(--divider); border-radius: 20px; padding: 2px;
+  }
+  .font-size-btn {
+    width: 28px; height: 28px; border-radius: 50%; border: none; background: transparent;
+    display: flex; align-items: center; justify-content: center; cursor: pointer;
+    color: var(--text); font-weight: 800; transition: background .15s;
+  }
+  .font-size-btn:hover { background: var(--bg); }
+  .font-size-btn.small { font-size: 12px; }
+  .font-size-btn.large { font-size: 16px; }
+
+  .article-body { font-size: var(--article-font-size, 18px); line-height: 1.75; color: var(--text); }
   .article-body p { margin: 0 0 20px; }
   .article-body p:last-child { margin-bottom: 0; }
   .article-body p:first-of-type::first-letter {
     font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 46px;
     float: left; line-height: 0.85; padding: 6px 6px 0 0; color: var(--navy);
   }
-  .byline-note {
-    margin-top: 26px; padding-top: 18px; border-top: 1px solid var(--divider);
-    display: flex; align-items: center; gap: 8px;
-    font-size: 13px; color: var(--text-secondary); font-style: italic;
+  blockquote.pull-quote {
+    margin: 10px 0 28px; padding: 2px 0 2px 22px; border-left: 4px solid var(--gold);
+    font-family: 'Plus Jakarta Sans', sans-serif; font-size: 22px; font-weight: 700; line-height: 1.42;
+    color: var(--navy); font-style: normal;
   }
-  .byline-note .msr { color: var(--gold); opacity: 1; }
+
+  /* ---------- Publisher card (replaces the plain byline note) ---------- */
+  .publisher-card {
+    display: flex; align-items: center; gap: 14px; margin-top: 30px; padding: 16px 18px;
+    border-radius: 14px; border: 1px solid var(--card-border); background: var(--card);
+  }
+  .publisher-card img { width: 42px; height: 42px; border-radius: 50%; flex-shrink: 0; object-fit: contain; background: var(--navy); padding: 7px; }
+  .pc-info { min-width: 0; }
+  .pc-name { font-weight: 800; font-size: 14px; }
+  .pc-desc { font-size: 12px; color: var(--text-secondary); margin-top: 2px; line-height: 1.4; }
+  .pc-link {
+    margin-left: auto; flex-shrink: 0; font-size: 12.5px; font-weight: 700; color: var(--navy);
+    border: 1px solid var(--divider); border-radius: 20px; padding: 7px 14px; cursor: pointer; white-space: nowrap;
+  }
+  .pc-link:hover { background: var(--bg); }
+
+  /* ---------- Related "also read" grid ---------- */
+  .related-heading { font-size: 15px; font-weight: 800; margin: 34px 0 14px; }
+  .related-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+  @media (max-width: 540px) { .related-grid { grid-template-columns: 1fr; } }
+
+  /* ---------- Next-up / auto-advance ---------- */
+  .next-up-card {
+    margin-top: 34px; border-radius: 16px; overflow: hidden; position: relative;
+    cursor: pointer; min-height: 170px; display: flex; align-items: flex-end; background: var(--navy); color: #fff;
+  }
+  .next-up-card img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.55; }
+  .next-up-scrim { position: absolute; inset: 0; background: linear-gradient(180deg, rgba(4,14,28,0) 20%, rgba(2,8,17,0.93) 100%); }
+  .next-up-body { position: relative; z-index: 1; padding: 20px; width: 100%; }
+  .next-up-eyebrow { display: flex; align-items: center; gap: 8px; font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px; color: rgba(255,255,255,0.75); margin-bottom: 8px; }
+  .next-up-progress { width: 60px; height: 3px; background: rgba(255,255,255,0.25); border-radius: 2px; overflow: hidden; }
+  .next-up-progress-bar { height: 100%; background: var(--gold); width: 0%; }
+  .next-up-card h3 { font-size: 19px; font-weight: 800; margin: 0; line-height: 1.3; }
+  .next-up-cancel {
+    position: absolute; top: 12px; right: 12px; z-index: 2; width: 28px; height: 28px; border-radius: 50%;
+    background: rgba(0,0,0,0.4); color: #fff; display: flex; align-items: center; justify-content: center; cursor: pointer;
+  }
+  .next-up-cancel .msr { font-size: 16px; }
 
   /* ---------- Reactions ---------- */
   .reactions-block { margin-top: 24px; }
@@ -633,6 +735,7 @@
   }
   .icon-btn:hover { background: var(--bg); transform: translateY(-1px); }
   .icon-btn .msr { font-size: 18px; }
+  .icon-btn.playing { background: var(--navy); color: #fff; border-color: var(--navy); }
 
   /* ---------- Comments ---------- */
   .comments-section { margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--divider); }
@@ -663,7 +766,7 @@
     background: var(--navy-dark); color: rgba(255,255,255,0.65);
     padding: 30px 20px; margin-top: 20px; font-size: 12.5px; line-height: 1.7;
   }
-  footer .inner { max-width: 1180px; margin: 0 auto; }
+  footer .inner { max-width: 1440px; margin: 0 auto; }
   footer strong { color: #fff; }
   footer a { text-decoration: underline; cursor: pointer; }
   footer .foot-links { margin-top: 14px; display: flex; gap: 16px; flex-wrap: wrap; }
@@ -672,13 +775,15 @@
     .featured { grid-template-columns: 1fr; }
     .featured-main { min-height: 340px; }
     .grid { grid-template-columns: repeat(2, 1fr); }
-    .home-layout { grid-template-columns: 1fr; }
+    .home-layout, .article-layout { grid-template-columns: 1fr; }
     .sidebar { position: static; flex-direction: row; overflow-x: auto; }
     .sidebar .widget-card { min-width: 260px; flex-shrink: 0; }
+    .sidebar .sidebar-ad { flex-shrink: 0; }
     .search-box { max-width: 160px; }
     .kbd-hint { display: none; }
     .updated-at { display: none; }
-    .article-wrap h1 { font-size: 24px; }
+    .article-inner h1 { font-size: 24px; }
+    .related-grid { grid-template-columns: 1fr; }
   }
   @media (max-width: 540px) {
     .grid { grid-template-columns: 1fr; }
@@ -722,6 +827,13 @@
       <div class="live-show-badge"><span class="msr" style="font-size:14px">podcasts</span>Podcast</div>
     </div>
   </nav>
+  <div class="billboard-banner">
+    <div class="billboard-inner">
+      <span class="billboard-eyebrow">Sponsorlu</span>
+      <div class="billboard-shimmer"></div>
+      <span class="billboard-label">Reklam alanı</span>
+    </div>
+  </div>
 </header>
 
 <div id="breadcrumbWrap"></div>
@@ -812,15 +924,6 @@ function escapeHtml(s) {
   return (s || '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
-function paragraphsHtml(text) {
-  return (text || '')
-    .split(/\n{2,}/)
-    .map((p) => p.trim())
-    .filter(Boolean)
-    .map((p) => `<p>${escapeHtml(p)}</p>`)
-    .join('');
-}
-
 function readingTime(text) {
   const words = (text || '').trim().split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 180));
@@ -846,7 +949,7 @@ function cardImage(article, cls) {
 function adSlotCard() {
   return `<div class="card ad-slot in-feed">
     <div class="card-media">
-      <span class="ad-badge">Sponsorlu</span>
+      <span class="ad-badge">Sponsorlu İçerik</span>
       <div class="ad-shimmer"></div>
     </div>
     <div class="card-footer"><span class="cf-item"><span class="msr">campaign</span>Reklam alanı</span></div>
@@ -877,19 +980,14 @@ function toggleBookmark(id) {
   return list.includes(id);
 }
 
-function adSlotLeaderboard() {
-  return `<div class="ad-slot leaderboard">
-    <span class="msr">campaign</span>
-    <span class="ad-eyebrow">Reklam</span>
-    <span class="ad-label">728 × 90 reklam alanı</span>
-  </div>`;
-}
-
-function adSlotInArticle() {
-  return `<div class="ad-slot in-article">
-    <span class="msr">campaign</span>
-    <span class="ad-eyebrow">Reklam</span>
-    <span class="ad-label">İçerik arası reklam alanı</span>
+function sidebarAdHtml() {
+  return `<div class="sidebar-ad">
+    <div class="ad-shimmer"></div>
+    <div class="sidebar-ad-content">
+      <span class="msr">ads_click</span>
+      <span class="ad-eyebrow">Reklam</span>
+      <span class="ad-label">300 × 600 Premium Alan</span>
+    </div>
   </div>`;
 }
 
@@ -1017,12 +1115,36 @@ function widgetSkeletonHtml() {
     <div class="skeleton-block" style="height:13px;border-radius:6px"></div>`;
 }
 
-function renderSidebar() {
+function renderSidebar(opts) {
+  const relatedHtml = opts && opts.relatedTo ? relatedWidgetHtml(opts.relatedTo) : '';
   return `<aside class="sidebar">
     <div class="widget-card" id="marketsWidget">${widgetSkeletonHtml()}</div>
     <div class="widget-card" id="trendingWidget">${trendingWidgetHtml()}</div>
     <div class="widget-card" id="weatherWidget">${widgetSkeletonHtml()}</div>
+    ${relatedHtml}
+    ${sidebarAdHtml()}
   </aside>`;
+}
+
+// Sidebar'daki "İlgili Haberler" — makale sayfasına özel, aynı kategoriden
+// (kendisi hariç) en yeni birkaç haberi kompakt bir liste olarak gösterir.
+function relatedWidgetHtml(currentArticle) {
+  // Ana kolondaki 4'lü "Bunu Okuyanlar Bunları da Okudu" ile aynı havuzdan,
+  // ama bir sonraki 4 öğeyi alarak (skip=4) iki bileşende de aynı haberlerin
+  // tekrar etmesini olabildiğince azaltır.
+  const items = pickRelatedArticles(currentArticle, 4, 4);
+  if (items.length === 0) return '';
+  return `<div class="widget-card">
+    <div class="widget-title"><span class="msr">link</span>İlgili Haberler</div>
+    ${items.map(a => `
+      <div class="trend-item" data-id="${a.id}">
+        ${cardImage(a, 'related-thumb')}
+        <div class="trend-info">
+          <h4>${escapeHtml(a.headline)}</h4>
+          <div class="trend-meta"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</div>
+        </div>
+      </div>`).join('')}
+  </div>`;
 }
 
 // Bir kez çekilip her sayfa geçişinde önbellekten tekrar çizilir (haber
@@ -1252,8 +1374,6 @@ function renderHome() {
     </div>
   </div>`;
 
-  main += adSlotLeaderboard();
-
   if (gridItems.length > 0) {
     main += `<div class="section-title">Son Dakika</div>`;
     main += gridWithAds(gridItems);
@@ -1337,28 +1457,152 @@ function likeStorageKey(id) { return 'kh_liked_' + id; }
 function commentsStorageKey(id) { return 'kh_comments_' + id; }
 function reactionStorageKey(id) { return 'kh_reaction_' + id; }
 
+// Pull-quote: picks a real sentence already present in the article's own
+// (AI-written) body text — verbatim extraction, not new content — from
+// roughly the middle third of the piece, the classic "pull quote" editorial
+// technique. Purely client-side so it works on every article immediately,
+// no pipeline dependency.
+function pickPullQuote(id, body) {
+  if (!body) return null;
+  const sentences = body.replace(/\n+/g, ' ').split(/(?<=[.!?])\s+/).map(s => s.trim())
+    .filter(s => s.length >= 55 && s.length <= 200);
+  if (sentences.length === 0) return null;
+  const start = Math.floor(sentences.length * 0.25);
+  const end = Math.max(start + 1, Math.floor(sentences.length * 0.75));
+  const pool = sentences.slice(start, end);
+  if (pool.length === 0) return sentences[0];
+  return pool[seededInt(id + 'quote', 0, pool.length - 1)];
+}
+
+function publisherCardHtml() {
+  return `<div class="publisher-card">
+    <img src="assets/brand/icon-transparent@2x.png" alt="${SITE_NAME}">
+    <div class="pc-info">
+      <div class="pc-name">${SITE_NAME}</div>
+      <div class="pc-desc">Yapay zekayla özgün cümlelerle yeniden yazılmış, editöryel kontrolden geçen bağımsız haber içeriği.</div>
+    </div>
+    <div class="pc-link" id="publisherAboutLink">Hakkımızda</div>
+  </div>`;
+}
+
+// "Bunu okuyanlar bunları da okudu" — aynı kategoriden, kendisi hariç,
+// isteğe bağlı bir offset ile (sidebar'daki İlgili Haberler listesiyle
+// aynı havuzdan farklı öğeler göstermek için) 4 kart seçer.
+function pickRelatedArticles(currentArticle, skip, limit) {
+  const pool = currentArticle.category
+    ? allArticles.filter(a => a.id !== currentArticle.id && a.category === currentArticle.category)
+    : allArticles.filter(a => a.id !== currentArticle.id);
+  const sliced = pool.slice(skip, skip + limit);
+  return sliced.length > 0 ? sliced : pool.slice(0, limit);
+}
+
+// Sıradaki haber: "Çok Okunanlar" ile aynı sözde-rastgele görüntülenme
+// sıralamasından, mevcut haber hariç en popüler olanı seçer.
+function pickNextArticle(currentArticle) {
+  const candidates = allArticles.filter(a => a.id !== currentArticle.id);
+  if (candidates.length === 0) return null;
+  return candidates
+    .map(a => ({ a, views: seededInt('views_' + a.id, 900, 18000) }))
+    .sort((x, y) => y.views - x.views)[0].a;
+}
+
+function articleFontSize() {
+  const saved = parseInt(localStorage.getItem('kh_article_font_size') || '18', 10);
+  return Math.min(22, Math.max(15, saved || 18));
+}
+function setArticleFontSize(px) {
+  const clamped = Math.min(22, Math.max(15, px));
+  localStorage.setItem('kh_article_font_size', String(clamped));
+  document.getElementById('articleDetail').style.setProperty('--article-font-size', clamped + 'px');
+}
+
+let nextUpObserver = null;
+let nextUpTimer = null;
+function initNextUp(nextArticle) {
+  const card = document.getElementById('nextUpCard');
+  if (!card || !nextArticle) return;
+  const cancelBtn = document.getElementById('nextUpCancel');
+  const bar = document.getElementById('nextUpProgressBar');
+  let cancelled = false;
+
+  cancelBtn.addEventListener('click', (e) => {
+    e.stopPropagation();
+    cancelled = true;
+    if (nextUpObserver) nextUpObserver.disconnect();
+    if (nextUpTimer) clearTimeout(nextUpTimer);
+    card.querySelector('.next-up-eyebrow').lastChild.textContent = ' Otomatik geçiş iptal edildi';
+    bar.style.width = '0%';
+  });
+  card.addEventListener('click', () => { location.hash = encodeURIComponent(nextArticle.id); });
+
+  const AUTO_ADVANCE_MS = 4000;
+  nextUpObserver = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting && !cancelled) {
+        bar.style.transition = `width ${AUTO_ADVANCE_MS}ms linear`;
+        requestAnimationFrame(() => { bar.style.width = '100%'; });
+        nextUpTimer = setTimeout(() => {
+          if (!cancelled) location.hash = encodeURIComponent(nextArticle.id);
+        }, AUTO_ADVANCE_MS);
+      } else if (!entry.isIntersecting) {
+        if (nextUpTimer) clearTimeout(nextUpTimer);
+        bar.style.transition = 'none';
+        bar.style.width = '0%';
+      }
+    });
+  }, { root: document.getElementById('overlay'), threshold: 0.6 });
+  nextUpObserver.observe(card);
+}
+
+function articleBodyHtml(a) {
+  const paragraphs = (a.body || '').split(/\n{2,}/).map(p => p.trim()).filter(Boolean);
+  const quote = pickPullQuote(a.id, a.body);
+  const quoteAfterIndex = paragraphs.length >= 3 ? Math.floor(paragraphs.length / 2) - 1 : -1;
+  let html = '';
+  paragraphs.forEach((p, i) => {
+    html += `<p>${escapeHtml(p)}</p>`;
+    if (quote && i === quoteAfterIndex) {
+      html += `<blockquote class="pull-quote">${escapeHtml(quote)}</blockquote>`;
+    }
+  });
+  return html;
+}
+
 function openArticle(id) {
   const a = allArticles.find(x => x.id === id);
   if (!a) { location.hash = ''; return; }
   setBreadcrumb('');
   speechSynthesis.cancel();
+  if (nextUpObserver) { nextUpObserver.disconnect(); nextUpObserver = null; }
+  if (nextUpTimer) clearTimeout(nextUpTimer);
 
   const baseLikes = seededInt(a.id, 40, 320);
   const liked = localStorage.getItem(likeStorageKey(a.id)) === '1';
   const likeCount = baseLikes + (liked ? 1 : 0);
   const comments = loadComments(a.id);
   const myReaction = localStorage.getItem(reactionStorageKey(a.id));
+  const related = pickRelatedArticles(a, 0, 4);
+  const nextArticle = pickNextArticle(a);
 
   const detail = document.getElementById('articleDetail');
   detail.className = 'article-wrap fade-in';
+  detail.style.setProperty('--article-font-size', articleFontSize() + 'px');
   detail.innerHTML = `
+    <div class="article-layout">
+    <div class="article-main"><div class="article-inner">
     ${a.category ? `<span class="badge" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
     <h1>${escapeHtml(a.headline)}</h1>
     <div class="article-meta">
       <div class="source-avatar"><span class="msr" style="font-size:16px">newspaper</span></div>
       <span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span> · <span class="time-tag"><span class="msr">menu_book</span>${readingTime(a.body)} dk okuma</span>
-      <button class="tts-btn" id="ttsBtn"><span class="msr">volume_up</span> Dinle</button>
     </div>
+
+    ${a.highlights && a.highlights.length > 0 ? `
+      <div class="ai-summary">
+        <div class="ai-summary-title"><span class="msr">auto_awesome</span>Yapay Zeka Özeti</div>
+        <ul>${a.highlights.map(h => `<li>${escapeHtml(h)}</li>`).join('')}</ul>
+      </div>` : ''}
+
     ${a.imageUrl ? `
       <img class="hero" src="${escapeHtml(a.imageUrl)}" alt="">
       ${a.imageCredit && a.imageCredit.photographer ? `
@@ -1366,17 +1610,33 @@ function openArticle(id) {
           <a href="${escapeHtml(a.imageCredit.unsplashUrl || 'https://unsplash.com')}" target="_blank" rel="noopener">Unsplash</a>
         </div>` : ''}
     ` : ''}
-    <div class="article-body" id="articleBodyText"></div>
-    ${adSlotInArticle()}
-    <div class="byline-note">
-      <span class="msr" style="font-size:16px">edit_note</span>
-      Bu haber ${SITE_NAME} editörlüğünde hazırlanmıştır.
+
+    <div class="article-toolbar">
+      <span class="share-label">Paylaş</span>
+      <a class="icon-btn" target="_blank" rel="noopener" href="https://wa.me/?text=${encodeURIComponent(a.headline + ' — ' + location.origin + location.pathname + '#' + a.id)}" title="WhatsApp"><span class="msr">share</span></a>
+      <a class="icon-btn" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=${encodeURIComponent(a.headline)}&url=${encodeURIComponent(location.origin + location.pathname + '#' + a.id)}" title="X"><span class="msr">forum</span></a>
+      <a class="icon-btn" target="_blank" rel="noopener" href="https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(location.origin + location.pathname + '#' + a.id)}" title="Facebook"><span class="msr">thumb_up</span></a>
+      <button class="icon-btn" id="copyLinkBtn" title="Bağlantıyı kopyala"><span class="msr">link</span></button>
+      <button class="icon-btn" id="ttsBtn" title="Dinle"><span class="msr">volume_up</span></button>
+      <div class="font-size-controls" title="Metin boyutu">
+        <button class="font-size-btn small" id="fontDecBtn">A</button>
+        <button class="font-size-btn large" id="fontIncBtn">A</button>
+      </div>
     </div>
+
+    <div class="article-body" id="articleBodyText">${articleBodyHtml(a)}</div>
+
+    ${publisherCardHtml()}
 
     <div class="reactions-block">
       <div class="reactions-title">Bu haber hakkında ne düşünüyorsun?</div>
       <div class="reactions-row" id="reactionsRow"></div>
     </div>
+
+    ${related.length > 0 ? `
+      <div class="related-heading">Bunu Okuyanlar Bunları da Okudu</div>
+      <div class="related-grid">${related.map(r => cardHtml(r)).join('')}</div>
+    ` : ''}
 
     <div class="action-row">
       <button class="action-btn ${liked ? 'liked' : ''}" id="likeBtn">
@@ -1385,11 +1645,20 @@ function openArticle(id) {
       <button class="action-btn" id="jumpToComments">
         <span class="msr">chat_bubble</span> <span>${comments.length}</span>
       </button>
-      <span class="share-label">Paylaş</span>
-      <a class="icon-btn" target="_blank" rel="noopener" href="https://wa.me/?text=${encodeURIComponent(a.headline + ' — ' + location.origin + location.pathname + '#' + a.id)}"><span class="msr">share</span></a>
-      <a class="icon-btn" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=${encodeURIComponent(a.headline)}&url=${encodeURIComponent(location.origin + location.pathname + '#' + a.id)}"><span class="msr">forum</span></a>
-      <button class="icon-btn" id="copyLinkBtn"><span class="msr">link</span></button>
     </div>
+
+    ${nextArticle ? `
+      <div class="next-up-card" id="nextUpCard">
+        ${nextArticle.imageUrl ? `<img src="${escapeHtml(nextArticle.imageUrl)}" alt="">` : ''}
+        <div class="next-up-scrim"></div>
+        <div class="next-up-cancel" id="nextUpCancel"><span class="msr">close</span></div>
+        <div class="next-up-body">
+          <div class="next-up-eyebrow"><span class="msr" style="font-size:14px">skip_next</span>
+            <div class="next-up-progress"><div class="next-up-progress-bar" id="nextUpProgressBar"></div></div>
+            Sıradaki haber</div>
+          <h3>${escapeHtml(nextArticle.headline)}</h3>
+        </div>
+      </div>` : ''}
 
     <div class="comments-section" id="commentsSection">
       <div class="comments-heading"><span class="msr">chat_bubble_outline</span> Yorumlar (<span id="commentsCount">${comments.length}</span>)</div>
@@ -1403,10 +1672,14 @@ function openArticle(id) {
       </div>
       <div id="commentsList"></div>
     </div>
+    </div></div>
+    ${renderSidebar({ relatedTo: a })}
+    </div>
   `;
 
-  document.getElementById('articleBodyText').innerHTML = paragraphsHtml(a.body);
   bindCardClicks(detail);
+  ensureMarketsLoaded();
+  ensureWeatherLoaded();
 
   // Reactions
   const reactionsRow = document.getElementById('reactionsRow');
@@ -1430,6 +1703,10 @@ function openArticle(id) {
   document.getElementById('commentName').addEventListener('input', updateCommentAvatar);
   document.getElementById('commentSubmit').addEventListener('click', () => submitComment(a.id));
   document.getElementById('ttsBtn').addEventListener('click', () => toggleTts(a));
+  document.getElementById('publisherAboutLink').addEventListener('click', () => { location.hash = 'hakkimizda'; });
+
+  document.getElementById('fontDecBtn').addEventListener('click', () => setArticleFontSize(articleFontSize() - 1));
+  document.getElementById('fontIncBtn').addEventListener('click', () => setArticleFontSize(articleFontSize() + 1));
 
   const copyBtn = document.getElementById('copyLinkBtn');
   copyBtn.addEventListener('click', () => {
@@ -1438,6 +1715,7 @@ function openArticle(id) {
     setTimeout(() => { copyBtn.innerHTML = '<span class="msr">link</span>'; }, 1500);
   });
 
+  initNextUp(nextArticle);
   renderComments(a.id);
   document.getElementById('overlay').classList.add('open');
   document.getElementById('overlay').scrollTop = 0;
@@ -1481,13 +1759,14 @@ function toggleLike(id) {
 function toggleTts(a) {
   const btn = document.getElementById('ttsBtn');
   if (!('speechSynthesis' in window)) {
-    btn.textContent = 'Bu tarayıcı desteklemiyor';
+    btn.title = 'Bu tarayıcı sesli okumayı desteklemiyor';
     return;
   }
   if (speechSynthesis.speaking) {
     speechSynthesis.cancel();
     btn.classList.remove('playing');
-    btn.innerHTML = '<span class="msr">volume_up</span> Dinle';
+    btn.innerHTML = '<span class="msr">volume_up</span>';
+    btn.title = 'Dinle';
     return;
   }
   const utter = new SpeechSynthesisUtterance(a.headline + '. ' + (a.body || ''));
@@ -1495,11 +1774,13 @@ function toggleTts(a) {
   utter.rate = 1;
   utter.onend = () => {
     btn.classList.remove('playing');
-    btn.innerHTML = '<span class="msr">volume_up</span> Dinle';
+    btn.innerHTML = '<span class="msr">volume_up</span>';
+    btn.title = 'Dinle';
   };
   speechSynthesis.speak(utter);
   btn.classList.add('playing');
-  btn.innerHTML = '<span class="msr">stop</span> Durdur';
+  btn.innerHTML = '<span class="msr">stop</span>';
+  btn.title = 'Durdur';
 }
 
 /** Comments are stored locally per-browser only (no shared backend) — the
