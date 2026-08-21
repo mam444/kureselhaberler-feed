@@ -1,21 +1,38 @@
 const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
 const MODEL = 'openai/gpt-oss-120b';
 
-const SYSTEM_PROMPT = `Sen bir haber editörüsün. Sana verilen başlık ve özeti, içindeki kişi
-isimlerini, yer isimlerini, sayıları ve olay gerçeklerini KORUYARAK, tamamen farklı bir cümle
-yapısı, farklı cümle SIRASI ve kelime seçimiyle, kendi cümlelerinle yeniden yaz. Kaynağı kelime
-kelime veya cümle cümle kopyalama; aynı sırayla aynı noktaları tekrarlama.
-Hiçbir yeni bilgi, tahmin, yorum veya gerçek kişiler hakkında kaynakta olmayan hiçbir iddia
-uydurma — sadece verilen bilgiyi yeniden ifade et; emin olmadığın hiçbir detayı ekleme. Türkçe
-yaz (haber İngilizce ise Türkçeye çevirip özgün cümlelerle yaz). 2-4 cümlelik kısa bir gövde metni
-üret. Ayrıca haberin konusunu özetleyen, İngilizce, Unsplash'ta arama yapmaya uygun 1-3 kelimelik
-somut bir görsel anahtar kelimesi belirle (örn. "stock market", "police car", "gold bars").
-Kategori üretme; kategori ataması ayrıca yapılıyor.
+const SYSTEM_PROMPT = `Sen deneyimli bir haber editörüsün. Sana bir olayın başlığı ve kısa bir özeti
+verilecek. Görevin, bunu gerçek bir haber sitesinde yayınlanacak kalitede, akıcı ve tam bir haber
+metnine dönüştürmek — kaynağı özetleyen tek bir paragraf değil, doğru habercilik biçiminde
+yazılmış bir metin.
+
+KURALLAR:
+1. İçindeki kişi isimlerini, yer isimlerini, sayıları, tarihleri ve olay gerçeklerini KORU.
+   Kaynağı kelime kelime veya cümle cümle kopyalama; tamamen farklı cümle yapısı, farklı cümle
+   SIRASI ve kendi kelime seçiminle yeniden yaz.
+2. HİÇBİR yeni bilgi, tahmin, alıntı, istatistik veya gerçek kişiler hakkında kaynakta olmayan
+   hiçbir iddia UYDURMA. Sadece sana verilen bilgiyi daha akıcı ve profesyonel bir dille yeniden
+   ifade et ve doğal habercilik bağlam cümleleriyle (örn. "Olay, ... sırasında meydana geldi.")
+   çevrele — ama hiçbir zaman somut bir detay (isim, sayı, konum, alıntı) icat etme.
+3. Kaynak metin zenginse (birden fazla olgu/ayrıntı içeriyorsa), gerçek bir haber sitesi gibi
+   2-3 paragraflık, giriş cümlesi olayın özünü veren ("inverted pyramid") bir yapı kur. Kaynak
+   metin çok kısaysa (tek cümlelik bir özetse), metni de kısa tut — dolgu cümlelerle veya
+   uydurma ayrıntıyla YAPAY olarak uzatma. Uzunluk her zaman kaynaktaki gerçek bilgi miktarına
+   göre belirlenir, asla sabit bir hedefe göre değil.
+4. Türkçe yaz (haber İngilizce ise Türkçeye çevirip özgün cümlelerle yaz). Paragrafları "\\n\\n"
+   ile ayır.
+5. Haberin konusunu özetleyen, İngilizce, Unsplash'ta arama yapmaya uygun, somut ve GERÇEKTE
+   FOTOĞRAFLANABİLİR 1-3 kelimelik bir görsel anahtar kelimesi belirle (örn. "stock market",
+   "police car", "gold bars", "football stadium"). Soyut kavramlar değil, gerçek nesne/sahne
+   tarif et.
+6. Kategori üretme; kategori ataması ayrıca yapılıyor.
 
 Sadece şu JSON şemasında cevap ver, başka hiçbir şey yazma:
 {"headline": "...", "body": "...", "imageKeyword": "..."}`;
 
-export async function rewriteArticle({ headline, body, category }, apiKey) {
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+export async function rewriteArticle({ headline, body, category }, apiKey, retries = 3) {
   const userContent = [
     `Başlık: ${headline}`,
     body ? `Özet: ${body}` : null,
@@ -37,10 +54,22 @@ export async function rewriteArticle({ headline, body, category }, apiKey) {
         { role: 'user', content: userContent },
       ],
       temperature: 0.6,
+      max_completion_tokens: 900,
       response_format: { type: 'json_object' },
     }),
     signal: AbortSignal.timeout(30_000),
   });
+
+  // Ücretsiz kademenin dakikalık token limitine takılırsa kısa bir bekleme
+  // sonrası yeniden dener — art arda birçok haber işlenirken sık karşılaşılır.
+  if (res.status === 429 && retries > 0) {
+    const body429 = await res.text();
+    const waitMatch = /try again in ([\d.]+)s/i.exec(body429);
+    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 3000;
+    console.warn(`[groq] rate limit, ${waitMs}ms bekleniyor (${retries} deneme kaldı)...`);
+    await sleep(waitMs);
+    return rewriteArticle({ headline, body, category }, apiKey, retries - 1);
+  }
 
   if (!res.ok) {
     throw new Error(`Groq API ${res.status}: ${await res.text()}`);

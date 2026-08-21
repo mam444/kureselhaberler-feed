@@ -55,7 +55,10 @@ async function rewriteAndIllustrate(raw) {
       return null;
     }
 
-    const photo = await findPhoto(rewritten.imageKeyword ?? raw.category, UNSPLASH_ACCESS_KEY);
+    const photo = await findPhoto(
+      [rewritten.imageKeyword, raw.category, 'news', 'newspaper'],
+      UNSPLASH_ACCESS_KEY,
+    );
 
     return {
       id: raw.id,
@@ -102,9 +105,16 @@ async function main() {
   const brandNewRaw = deduped.filter((a) => !previousIds.has(a.id)).slice(0, MAX_NEW_PER_RUN);
   console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (bu çalıştırmada, üst sınır ${MAX_NEW_PER_RUN}).`);
 
-  const rewritten = GROQ_API_KEY
-    ? (await Promise.all(brandNewRaw.map(rewriteAndIllustrate))).filter(Boolean)
-    : [];
+  // Sıralı işlenir (paralel değil): artık daha uzun/tam metinler ürettiğimiz
+  // için Groq'un ücretsiz kademe dakikalık token limitine (TPM) paralel
+  // isteklerle çok hızlı takılıyorduk.
+  const rewritten = [];
+  if (GROQ_API_KEY) {
+    for (const raw of brandNewRaw) {
+      const article = await rewriteAndIllustrate(raw);
+      if (article) rewritten.push(article);
+    }
+  }
 
   const merged = [...rewritten, ...previous]
     .filter((a, i, arr) => arr.findIndex((b) => b.id === a.id) === i)
