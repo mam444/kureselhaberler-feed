@@ -5,10 +5,14 @@ import { fetchAllSources } from './fetch-rss.mjs';
 import { rewriteArticle } from './groq.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
+import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
 const MAX_NEW_PER_RUN = 8;
 const MAX_TOTAL_ARTICLES = 300;
+// Groq çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
+// yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
+const MAX_ALLOWED_SIMILARITY = 0.5;
 
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -41,6 +45,16 @@ async function rewriteAndIllustrate(raw) {
       { headline: raw.headline, body: raw.body, category: raw.category },
       GROQ_API_KEY,
     );
+    const sourceText = `${raw.headline} ${raw.body ?? ''}`;
+    const rewrittenText = `${rewritten.headline} ${rewritten.body}`;
+    const similarity = jaccardSimilarity(sourceText, rewrittenText);
+    if (similarity > MAX_ALLOWED_SIMILARITY) {
+      console.warn(
+        `[guard] "${raw.headline}" kaynağa çok benziyor (${similarity.toFixed(2)}), bu turda yayınlanmıyor.`,
+      );
+      return null;
+    }
+
     const photo = await findPhoto(rewritten.imageKeyword ?? raw.category, UNSPLASH_ACCESS_KEY);
 
     return {
