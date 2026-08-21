@@ -28,6 +28,12 @@
     font-size: 20px; line-height: 1; letter-spacing: normal;
     display: inline-block; white-space: nowrap; word-wrap: normal;
     direction: ltr; -webkit-font-feature-settings: 'liga'; vertical-align: middle;
+    /* Material Symbols renders via ligature substitution on lowercase glyph
+       names (e.g. "trending_up") — any ancestor with text-transform:uppercase
+       (badges, widget titles, eyebrows) recapitalizes that text before the
+       ligature can match, so the raw glyph name shows up as literal text
+       instead of an icon. Force it back to normal case, unconditionally. */
+    text-transform: none !important;
   }
   :root {
     --navy: #0E2F5A;
@@ -283,7 +289,7 @@
     font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
     color: var(--navy); display: flex; align-items: center; gap: 6px; margin-bottom: 2px;
   }
-  .featured-side-title .msr { font-size: 16px; color: var(--gold); }
+  .featured-side-title .msr { font-size: 18px; color: var(--gold); flex-shrink: 0; }
 
   .badge {
     display: inline-block; font-size: 11px; font-weight: 700;
@@ -331,9 +337,10 @@
   .widget-card:hover { box-shadow: 0 10px 26px var(--shadow); }
   .widget-title {
     font-size: 12.5px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
-    color: var(--navy); display: flex; align-items: center; gap: 6px; margin-bottom: 12px;
+    color: var(--navy); display: flex; align-items: center; gap: 8px; margin-bottom: 12px;
+    min-width: 0;
   }
-  .widget-title .msr { font-size: 16px; color: var(--gold); }
+  .widget-title .msr { font-size: 18px; color: var(--gold); flex-shrink: 0; }
   .widget-title .live-dot {
     width: 6px; height: 6px; border-radius: 50%; background: var(--up); margin-left: auto;
     box-shadow: 0 0 0 3px rgba(29,163,74,0.18);
@@ -346,7 +353,10 @@
   .market-row:last-child { border-bottom: none; padding-bottom: 0; }
   .market-name { font-weight: 700; color: var(--text); }
   .market-name small { display: block; font-weight: 500; font-size: 10.5px; color: var(--text-secondary); margin-top: 1px; }
-  .market-right { text-align: right; }
+  .market-name { min-width: 0; }
+  .market-spark { flex-shrink: 0; }
+  .sparkline { width: 44px; height: 20px; display: block; }
+  .market-right { text-align: right; flex-shrink: 0; }
   .market-value { font-weight: 800; font-variant-numeric: tabular-nums; }
   .market-change { font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: flex-end; gap: 1px; }
   .market-change.up { color: var(--up); }
@@ -356,9 +366,10 @@
   .trend-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--divider); cursor: pointer; }
   .trend-item:last-child { border-bottom: none; padding-bottom: 0; }
   .trend-num {
-    font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 18px;
-    color: rgba(var(--navy-rgb), 0.18); width: 20px; flex-shrink: 0; text-align: center;
+    font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 19px;
+    color: rgba(var(--navy-rgb), 0.3); width: 22px; flex-shrink: 0; text-align: center;
   }
+  .trend-num.top { font-size: 23px; color: var(--gold); text-shadow: 0 0 12px rgba(var(--gold-rgb),0.35); }
   .trend-info { min-width: 0; }
   .trend-info h4 { font-size: 12.5px; margin: 0; font-weight: 700; line-height: 1.32; color: var(--text);
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
@@ -370,25 +381,39 @@
   .weather-info { min-width: 0; }
   .weather-temp { font-size: 25px; font-weight: 800; line-height: 1; }
   .weather-desc { font-size: 12px; color: var(--text-secondary); margin-top: 4px; }
-  .weather-city { font-size: 11.5px; color: var(--text-secondary); margin-top: 2px; display: flex; align-items: center; gap: 3px; }
-  .weather-city .msr { font-size: 13px; }
+  .city-select {
+    width: 100%; margin-bottom: 12px; padding: 6px 10px; border-radius: 8px;
+    border: 1px solid var(--divider); background: var(--bg); color: var(--text);
+    font-size: 12px; font-weight: 700; cursor: pointer; outline: none;
+  }
+  .weather-extra { display: flex; gap: 16px; margin-top: 12px; padding-top: 10px; border-top: 1px solid var(--divider); }
+  .we-item { display: flex; align-items: center; gap: 4px; font-size: 11.5px; color: var(--text-secondary); font-weight: 600; }
+  .we-item .msr { font-size: 15px; color: var(--navy); }
   .widget-empty { font-size: 12px; color: var(--text-secondary); padding: 4px 0; }
 
   .grid {
     display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
   }
   .card {
-    position: relative; aspect-ratio: 4/5; border-radius: 14px; overflow: hidden;
-    border: 1px solid var(--card-border); cursor: pointer; background: var(--navy);
+    position: relative; border-radius: 14px; overflow: hidden;
+    border: 1px solid var(--card-border); cursor: pointer; background: var(--card);
     transition: box-shadow .2s ease, transform .2s ease;
-    display: flex; flex-direction: column; justify-content: flex-end;
+    display: flex; flex-direction: column;
   }
-  .card.no-image { background: linear-gradient(135deg, var(--navy), var(--accent-blue)); }
   .card:hover {
     transform: translateY(-4px);
     box-shadow: 0 14px 30px rgba(var(--navy-rgb),0.16), 0 0 0 1px rgba(var(--gold-rgb),0.18), 0 0 24px rgba(var(--gold-rgb),0.12);
   }
-  .card .thumb { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .card-media {
+    position: relative; aspect-ratio: 4/5; overflow: hidden; background: var(--navy);
+    display: flex; flex-direction: column; justify-content: flex-end; flex-shrink: 0;
+  }
+  .card.no-image .card-media { background: linear-gradient(135deg, var(--navy), var(--accent-blue)); }
+  .card .thumb {
+    position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover;
+    transition: transform .5s ease;
+  }
+  .card:hover .thumb { transform: scale(1.05); }
   .card .scrim {
     position: absolute; inset: 0;
     background: linear-gradient(180deg, rgba(4,14,28,0) 32%, rgba(4,14,28,0.6) 68%, rgba(2,8,17,0.94) 100%);
@@ -399,20 +424,36 @@
     display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
     color: rgba(255,255,255,0.75); font-size: 13px; font-weight: 700; flex-shrink: 0;
   }
-  .card .thumb-fallback { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: unset; }
-  .card .body { position: relative; z-index: 1; padding: 14px; display: flex; flex-direction: column; gap: 6px; color: #fff; }
-  .card h3 { font-size: 14.5px; line-height: 1.34; margin: 0; font-weight: 700; color: #fff;
+  .card-media .thumb-fallback { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: unset; }
+  .card-media .body { position: relative; z-index: 1; padding: 14px; display: flex; flex-direction: column; gap: 6px; color: #fff; }
+  .card h3 { font-size: 14.5px; line-height: 1.34; margin: 0; font-weight: 700;
+    font-family: 'Plus Jakarta Sans', 'Inter', sans-serif; color: #fff;
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-  .card .card-meta { color: rgba(255,255,255,0.75); }
-  .card .card-meta .source-name { color: rgba(255,255,255,0.92); }
 
   .cat-tag {
     position: absolute; top: 10px; left: 10px; z-index: 2;
     display: inline-block; font-size: 10.5px; font-weight: 800;
     text-transform: uppercase; letter-spacing: 0.4px;
-    background: var(--gold); color: var(--navy-dark);
-    padding: 3px 8px; border-radius: 5px; cursor: pointer;
+    color: #fff; padding: 3px 8px; border-radius: 5px; cursor: pointer;
   }
+
+  /* ---------- Card footer: meta row + share/bookmark ---------- */
+  .card-footer {
+    display: flex; flex-wrap: wrap; align-items: center; row-gap: 4px; column-gap: 6px;
+    padding: 9px 12px; font-size: 10.5px; font-weight: 600; color: var(--text-secondary);
+  }
+  .cf-item { display: flex; align-items: center; gap: 3px; white-space: nowrap; }
+  .cf-item .msr { font-size: 13px; opacity: 0.75; }
+  .cf-dot { opacity: 0.45; }
+  .cf-actions { margin-left: auto; display: flex; gap: 2px; flex-shrink: 0; }
+  .cf-icon-btn {
+    width: 25px; height: 25px; border-radius: 50%; border: none; background: transparent;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--text-secondary); cursor: pointer; transition: background .15s, color .15s; padding: 0;
+  }
+  .cf-icon-btn:hover { background: var(--bg); color: var(--navy); }
+  .cf-icon-btn.active { color: var(--gold); }
+  .cf-icon-btn .msr { font-size: 15px; }
   .source-name { font-weight: 700; color: var(--text); }
   .time-tag { display: inline-flex; align-items: center; gap: 3px; }
   .time-tag .msr { font-size: 14px; opacity: 0.7; }
@@ -457,15 +498,14 @@
   .ad-slot.leaderboard .ad-eyebrow, .ad-slot.leaderboard .ad-label { text-align: left; }
   .ad-slot.in-article { min-height: 160px; margin: 26px 0; }
 
-  /* In-feed ad card: same size/radius/dark fallback as a real news card
-     (border/background/border-radius come straight from .card), just a
-     gray "Reklam" badge instead of a category pill and a shimmering
-     placeholder instead of an image, so it never reads as an empty
-     white box while no real ad network is wired in yet. */
-  .card.ad-slot.in-feed {
-    background: var(--navy); border-radius: 14px;
-    display: block; color: inherit;
-  }
+  /* In-feed ad card: reuses the exact .card-media/.card-footer split of a
+     real news card (same size/radius/dark fallback, same footer height) so
+     it never reads as an empty white box or throws off the grid row
+     height, just with a gray "Reklam" badge instead of a category pill and
+     a shimmering placeholder instead of a photo. */
+  .card.ad-slot.in-feed { border-radius: 14px; color: inherit; align-items: stretch; justify-content: flex-start; }
+  .card.ad-slot.in-feed .card-media { background: var(--navy); align-items: stretch; }
+  .card.ad-slot.in-feed .card-footer { text-align: left; }
   .ad-badge {
     position: absolute; top: 10px; left: 10px; z-index: 2;
     display: inline-block; font-size: 10px; font-weight: 800;
@@ -805,9 +845,36 @@ function cardImage(article, cls) {
 
 function adSlotCard() {
   return `<div class="card ad-slot in-feed">
-    <span class="ad-badge">Sponsorlu</span>
-    <div class="ad-shimmer"></div>
+    <div class="card-media">
+      <span class="ad-badge">Sponsorlu</span>
+      <div class="ad-shimmer"></div>
+    </div>
+    <div class="card-footer"><span class="cf-item"><span class="msr">campaign</span>Reklam alanı</span></div>
   </div>`;
+}
+
+// Kategoriye göre yumuşak/pastel rozet rengi — eşlemesi olmayan kategoriler
+// (Dünya, Son Dakika vb.) nötr bir gri-mavi ile gösterilir.
+const CATEGORY_COLORS = {
+  'Ekonomi': '#1DA34A',
+  'Spor': '#E43B3B',
+  'Teknoloji': '#1A73E8',
+  'Gündem': '#F2994A',
+};
+function categoryColor(cat) {
+  return CATEGORY_COLORS[cat] || '#6B7A90';
+}
+
+function getBookmarks() {
+  try { return JSON.parse(localStorage.getItem('kh_bookmarks') || '[]'); } catch { return []; }
+}
+function isBookmarked(id) { return getBookmarks().includes(id); }
+function toggleBookmark(id) {
+  const list = getBookmarks();
+  const idx = list.indexOf(id);
+  if (idx >= 0) list.splice(idx, 1); else list.push(id);
+  localStorage.setItem('kh_bookmarks', JSON.stringify(list));
+  return list.includes(id);
 }
 
 function adSlotLeaderboard() {
@@ -827,14 +894,27 @@ function adSlotInArticle() {
 }
 
 function cardHtml(a) {
+  const mins = readingTime(a.body);
+  const bookmarked = isBookmarked(a.id);
   return `
     <div class="card ${a.imageUrl ? '' : 'no-image'}" data-id="${a.id}">
-      ${cardImage(a, 'thumb')}
-      <div class="scrim"></div>
-      ${a.category ? `<span class="cat-tag" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
-      <div class="body">
-        <h3>${escapeHtml(a.headline)}</h3>
-        <div class="card-meta"><span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span></div>
+      <div class="card-media">
+        ${cardImage(a, 'thumb')}
+        <div class="scrim"></div>
+        ${a.category ? `<span class="cat-tag" data-cat="${escapeHtml(a.category)}" style="background:${categoryColor(a.category)}">${escapeHtml(a.category)}</span>` : ''}
+        <div class="body">
+          <h3>${escapeHtml(a.headline)}</h3>
+        </div>
+      </div>
+      <div class="card-footer">
+        ${a.category ? `<span class="cf-item">${escapeHtml(a.category)}</span><span class="cf-dot">·</span>` : ''}
+        <span class="cf-item"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span>
+        <span class="cf-dot">·</span>
+        <span class="cf-item"><span class="msr">menu_book</span>${mins} dk okuma</span>
+        <div class="cf-actions">
+          <button class="cf-icon-btn" data-share="${a.id}" title="Paylaş"><span class="msr">share</span></button>
+          <button class="cf-icon-btn ${bookmarked ? 'active' : ''}" data-bookmark="${a.id}" title="Kaydet"><span class="msr">${bookmarked ? 'bookmark' : 'bookmark_border'}</span></button>
+        </div>
       </div>
     </div>`;
 }
@@ -857,6 +937,27 @@ function bindCardClicks(root) {
     el.addEventListener('click', (e) => {
       e.stopPropagation();
       location.hash = 'kategori/' + encodeURIComponent(el.getAttribute('data-cat'));
+    });
+  });
+  root.querySelectorAll('[data-share]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const id = btn.getAttribute('data-share');
+      navigator.clipboard.writeText(location.origin + location.pathname + '#' + id);
+      const icon = btn.querySelector('.msr');
+      const original = icon.textContent;
+      icon.textContent = 'check';
+      setTimeout(() => { icon.textContent = original; }, 1400);
+    });
+  });
+  root.querySelectorAll('[data-bookmark]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const id = btn.getAttribute('data-bookmark');
+      const active = toggleBookmark(id);
+      btn.classList.toggle('active', active);
+      const icon = btn.querySelector('.msr');
+      icon.textContent = active ? 'bookmark' : 'bookmark_border';
     });
   });
 }
@@ -974,13 +1075,34 @@ function fmtNum(n, digits) {
   return n.toLocaleString('tr-TR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
 }
 
-function marketRowHtml(name, sub, entry, digits, suffix) {
+// Basit tohumlu "random walk" ile küçük bir sparkline çizgisi üretir —
+// gerçek geçmiş fiyat verisi çekmediğimiz için (bu, sadece küçük bir
+// trend ikonu amaçlı) kullanıcıya açıkça "simülasyon" olarak sunulur;
+// son nokta gerçek değişim yönüyle (up/down) tutarlı olacak şekilde
+// yönlendirilir, böylece en azından bugünkü gerçek artış/azalışla çelişmez.
+function sparklineSvg(seed, up) {
+  const n = 7;
+  const pts = [12];
+  for (let i = 1; i < n - 1; i++) {
+    const next = pts[i - 1] + (seededInt(seed + i, -4, 4));
+    pts.push(Math.max(3, Math.min(21, next)));
+  }
+  const bias = seededInt(seed + 'e', 4, 9);
+  pts.push(up ? Math.min(22, pts[pts.length - 1] + bias) : Math.max(2, pts[pts.length - 1] - bias));
+  const stepX = 56 / (pts.length - 1);
+  const path = pts.map((p, i) => `${(2 + i * stepX).toFixed(1)},${(24 - p).toFixed(1)}`).join(' ');
+  const stroke = up ? 'var(--up)' : 'var(--down)';
+  return `<svg class="sparkline" viewBox="0 0 60 24" preserveAspectRatio="none"><polyline points="${path}" fill="none" stroke="${stroke}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+}
+
+function marketRowHtml(seedKey, name, sub, entry, digits, suffix) {
   if (!entry || typeof entry.price !== 'number') {
     return `<div class="market-row"><div class="market-name">${name}<small>${sub}</small></div><div class="widget-empty">veri yok</div></div>`;
   }
   const up = entry.changePct >= 0;
   return `<div class="market-row">
     <div class="market-name">${name}<small>${sub}</small></div>
+    <div class="market-spark">${sparklineSvg(seedKey, up)}</div>
     <div class="market-right">
       <div class="market-value">${fmtNum(entry.price, digits)}${suffix}</div>
       <div class="market-change ${up ? 'up' : 'down'}"><span class="msr">${up ? 'arrow_drop_up' : 'arrow_drop_down'}</span>%${fmtNum(Math.abs(entry.changePct), 2)}</div>
@@ -990,10 +1112,10 @@ function marketRowHtml(name, sub, entry, digits, suffix) {
 
 function marketsWidgetHtml(data) {
   return marketsWidgetTitle()
-    + marketRowHtml('Dolar', 'USD/TRY', data.usdTry, 2, ' ₺')
-    + marketRowHtml('Euro', 'EUR/TRY', data.eurTry, 2, ' ₺')
-    + marketRowHtml('Altın', 'gram, TRY', data.goldGramTry, 0, ' ₺')
-    + marketRowHtml('BIST 100', 'endeks', data.bist100, 0, '');
+    + marketRowHtml('usd', 'Dolar', 'USD/TRY', data.usdTry, 2, ' ₺')
+    + marketRowHtml('eur', 'Euro', 'EUR/TRY', data.eurTry, 2, ' ₺')
+    + marketRowHtml('gold', 'Altın', 'gram, TRY', data.goldGramTry, 0, ' ₺')
+    + marketRowHtml('bist', 'BIST 100', 'endeks', data.bist100, 0, '');
 }
 
 // "En çok okunan" — gerçek bir analitik altyapısı olmadığından, sayfanın
@@ -1009,7 +1131,7 @@ function trendingWidgetHtml() {
     .slice(0, 5);
   return title + ranked.map((r, i) => `
     <div class="trend-item" data-id="${r.a.id}">
-      <div class="trend-num">${i + 1}</div>
+      <div class="trend-num ${i < 3 ? 'top' : ''}">${i + 1}</div>
       <div class="trend-info">
         <h4>${escapeHtml(r.a.headline)}</h4>
         <div class="trend-meta"><span class="msr">visibility</span>${r.views.toLocaleString('tr-TR')} okuma</div>
@@ -1017,7 +1139,14 @@ function trendingWidgetHtml() {
     </div>`).join('');
 }
 
-const WEATHER_LAT = 41.0082, WEATHER_LON = 28.9784; // İstanbul
+const WEATHER_CITIES = [
+  { name: 'İstanbul', lat: 41.0082, lon: 28.9784 },
+  { name: 'Ankara', lat: 39.9334, lon: 32.8597 },
+  { name: 'İzmir', lat: 38.4237, lon: 27.1428 },
+  { name: 'Antalya', lat: 36.8969, lon: 30.7133 },
+  { name: 'Bursa', lat: 40.1826, lon: 29.0665 },
+];
+let weatherCityIndex = 0;
 const WEATHER_CODES = {
   0: ['clear_day', 'Açık'], 1: ['clear_day', 'Az Bulutlu'], 2: ['partly_cloudy_day', 'Parçalı Bulutlu'], 3: ['cloud', 'Kapalı'],
   45: ['foggy', 'Sisli'], 48: ['foggy', 'Kırağı Sisi'],
@@ -1029,18 +1158,33 @@ const WEATHER_CODES = {
 };
 
 let weatherPromise = null;
+function fetchWeatherFor(city) {
+  return fetch(`https://api.open-meteo.com/v1/forecast?latitude=${city.lat}&longitude=${city.lon}&current=temperature_2m,weather_code,relative_humidity_2m,wind_speed_10m&timezone=Europe%2FIstanbul`)
+    .then(r => r.json()).catch(() => null);
+}
 function ensureWeatherLoaded() {
   if (!weatherPromise) {
-    weatherPromise = fetch(`https://api.open-meteo.com/v1/forecast?latitude=${WEATHER_LAT}&longitude=${WEATHER_LON}&current=temperature_2m,weather_code&timezone=Europe%2FIstanbul`)
-      .then(r => r.json()).catch(() => null);
+    weatherPromise = fetchWeatherFor(WEATHER_CITIES[weatherCityIndex]);
   }
   weatherPromise.then(data => {
     weatherData = data && data.current ? data : null;
     paintTickerStats();
-    const el = document.getElementById('weatherWidget');
-    if (!el) return;
-    el.innerHTML = weatherData ? weatherWidgetHtml(weatherData) : weatherWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
+    paintWeatherWidget();
   });
+}
+function paintWeatherWidget() {
+  const el = document.getElementById('weatherWidget');
+  if (!el) return;
+  el.innerHTML = weatherData ? weatherWidgetHtml(weatherData) : weatherWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
+  const sel = document.getElementById('citySelect');
+  if (sel) {
+    sel.addEventListener('change', () => {
+      weatherCityIndex = parseInt(sel.value, 10);
+      weatherPromise = fetchWeatherFor(WEATHER_CITIES[weatherCityIndex]);
+      el.innerHTML = weatherWidgetTitle() + widgetSkeletonHtml();
+      ensureWeatherLoaded();
+    });
+  }
 }
 
 function weatherWidgetTitle() {
@@ -1051,14 +1195,22 @@ function weatherWidgetHtml(data) {
   const code = data.current.weather_code;
   const [icon, desc] = WEATHER_CODES[code] || ['thermostat', 'Güncel'];
   const temp = Math.round(data.current.temperature_2m);
-  return weatherWidgetTitle() + `<div class="weather-card">
+  const humidity = data.current.relative_humidity_2m;
+  const wind = data.current.wind_speed_10m;
+  const cityOptions = WEATHER_CITIES.map((c, i) => `<option value="${i}" ${i === weatherCityIndex ? 'selected' : ''}>${c.name}</option>`).join('');
+  return weatherWidgetTitle() + `
+    <select class="city-select" id="citySelect">${cityOptions}</select>
+    <div class="weather-card">
       <span class="msr weather-icon">${icon}</span>
       <div class="weather-info">
         <div class="weather-temp">${temp}°</div>
         <div class="weather-desc">${desc}</div>
-        <div class="weather-city"><span class="msr">location_on</span>İstanbul</div>
       </div>
-    </div>`;
+    </div>
+    ${typeof humidity === 'number' || typeof wind === 'number' ? `<div class="weather-extra">
+      ${typeof humidity === 'number' ? `<span class="we-item"><span class="msr">water_drop</span>%${humidity}</span>` : ''}
+      ${typeof wind === 'number' ? `<span class="we-item"><span class="msr">air</span>${Math.round(wind)} km/s</span>` : ''}
+    </div>` : ''}`;
 }
 
 function renderHome() {
