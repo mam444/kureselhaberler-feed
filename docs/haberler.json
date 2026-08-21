@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-21T17:16:35.566Z",
+  "generatedAt": "2026-08-21T17:50:04.144Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/live-erzurumspor-fk-galatasaray-maci-canli-anlatim-super-ligde-hafta-aciliyor-3457429",
+      "headline": "Erzurumspor FK ve Galatasaray Süper Lig haftasının açılış maçında karşı karşıya",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODczMzA5NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Abigail  Keenan",
+        "photographerUrl": "https://unsplash.com/@akeenster",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM"
+      },
+      "timeAgo": "şimdi",
+      "body": "Süper Lig'in yeni haftası, Erzurumspor FK ile Galatasaray arasında oynanacak maçla başladı. İki takım, lig takvimindeki ilk karşılaşmalarını bu çerçevede gerçekleştirecek.\n\nMaçın canlı anlatımı, izleyicilere bu platform üzerinden sunuluyor. Taraftarlar, sahadaki tüm gelişmeleri anlık olarak takip edebilecekler.",
+      "highlights": [
+        "Erzurumspor FK ve Galatasaray Süper Lig'in açılış haftasında karşılaşacak.",
+        "Maçın canlı anlatımı bu sayfada izleyicilere sunuluyor.",
+        "Taraftarlar, oyunun tüm anlarını anlık olarak takip edebilecek."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/live-erzurumspor-fk-galatasaray-maci-canli-anlatim-super-ligde-hafta-aciliyor-3457429",
+      "publishedAt": "2026-08-21T20:32:11.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/aziz-yildirimdan-futbol-takimi-ve-teknik-heyete-net-mesaj-3457512",
       "headline": "Aziz Yıldırım, futbolcılara ve teknik heyete destek mesajı verdi",
