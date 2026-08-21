@@ -266,6 +266,10 @@
 
 <script>
 const FEED_URL = './haberler.json';
+// Byline shown throughout the site: the text is our own AI-authored rewrite,
+// not the original publisher's wording, so it's bylined as ours — the
+// original outlet is kept only as a small, low-key source link.
+const SITE_NAME = 'Küresel Haberler';
 let allArticles = [];
 let activeCategory = 'Tümü';
 let searchQuery = '';
@@ -285,15 +289,15 @@ function escapeHtml(s) {
   return (s || '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
-function sourceInitial(name) {
-  return (name || '?').trim().charAt(0).toUpperCase();
+function sourceInitial() {
+  return SITE_NAME.charAt(0).toUpperCase();
 }
 
 function cardImage(article, cls) {
   if (article.imageUrl) {
     return `<img class="${cls}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`;
   }
-  return `<div class="${cls === 'thumb' ? 'thumb-fallback' : 'thumb-fallback'}">${escapeHtml(article.source)}</div>`;
+  return `<div class="${cls === 'thumb' ? 'thumb-fallback' : 'thumb-fallback'}">${SITE_NAME}</div>`;
 }
 
 function render() {
@@ -321,7 +325,7 @@ function render() {
       <div class="content">
         ${top.category ? `<span class="badge">${escapeHtml(top.category)}</span>` : ''}
         <h2>${escapeHtml(top.headline)}</h2>
-        <div class="featured-meta"><span class="source-name">${escapeHtml(top.source)}</span> · <span>${timeAgo(top.publishedAt)}</span></div>
+        <div class="featured-meta"><span class="source-name">${SITE_NAME}</span> · <span>${timeAgo(top.publishedAt)}</span></div>
       </div>
     </div>
     <div class="featured-side">
@@ -330,7 +334,7 @@ function render() {
           ${cardImage(a, 'thumb')}
           <div class="info">
             <h3>${escapeHtml(a.headline)}</h3>
-            <div class="card-meta"><span class="source-name">${escapeHtml(a.source)}</span> · <span>${timeAgo(a.publishedAt)}</span></div>
+            <div class="card-meta"><span class="source-name">${SITE_NAME}</span> · <span>${timeAgo(a.publishedAt)}</span></div>
           </div>
         </div>`).join('')}
     </div>
@@ -345,7 +349,7 @@ function render() {
           ${a.category ? `<span class="cat-tag">${escapeHtml(a.category)}</span>` : ''}
           <h3>${escapeHtml(a.headline)}</h3>
           ${a.body ? `<p class="excerpt">${escapeHtml(a.body)}</p>` : ''}
-          <div class="card-meta"><span class="source-name">${escapeHtml(a.source)}</span> · <span>${timeAgo(a.publishedAt)}</span></div>
+          <div class="card-meta"><span class="source-name">${SITE_NAME}</span> · <span>${timeAgo(a.publishedAt)}</span></div>
         </div>
       </div>`).join('');
     html += `</div>`;
@@ -380,8 +384,8 @@ function openArticle(id) {
     ${a.category ? `<span class="badge">${escapeHtml(a.category)}</span>` : ''}
     <h1>${escapeHtml(a.headline)}</h1>
     <div class="article-meta">
-      <div class="source-avatar">${escapeHtml(sourceInitial(a.source))}</div>
-      <span class="source-name">${escapeHtml(a.source)}</span> · <span>${timeAgo(a.publishedAt)}</span>
+      <div class="source-avatar">${sourceInitial()}</div>
+      <span class="source-name">${SITE_NAME}</span> · <span>${timeAgo(a.publishedAt)}</span>
     </div>
     ${a.imageUrl ? `
       <img class="hero" src="${escapeHtml(a.imageUrl)}" alt="">
@@ -393,8 +397,8 @@ function openArticle(id) {
     <div class="article-body">${escapeHtml(a.body || '')}</div>
     ${a.externalUrl ? `
       <div class="source-cta">
-        <div class="label">Orijinal habere ve yayıncının kendi ifadesine ulaşmak için:</div>
-        <a class="btn" href="${escapeHtml(a.externalUrl)}" target="_blank" rel="noopener">Kaynakta Oku ↗</a>
+        <div class="label">Bu haber, ${escapeHtml(a.source)} kaynaklı bir olaya dayanılarak ${SITE_NAME} editörlüğünde özgün olarak kaleme alınmıştır.</div>
+        <a class="btn" href="${escapeHtml(a.externalUrl)}" target="_blank" rel="noopener">Kaynağa Git ↗</a>
       </div>` : ''}
   `;
   document.getElementById('overlay').classList.add('open');
