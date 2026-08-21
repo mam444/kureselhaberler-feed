@@ -43,8 +43,11 @@
     --text: #1A1A1A;
     --text-secondary: #767A82;
     --divider: #E7E8EC;
+    --card-border: rgba(15, 23, 42, 0.09);
     --shadow: rgba(15, 23, 42, 0.08);
     --header-bg: rgba(14, 47, 90, 0.82);
+    --up: #1DA34A;
+    --down: #E43B3B;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
@@ -53,6 +56,7 @@
       --text: #EDEFF3;
       --text-secondary: #8D97A8;
       --divider: #232E45;
+      --card-border: rgba(255, 255, 255, 0.08);
       --shadow: rgba(0, 0, 0, 0.35);
     }
   }
@@ -62,6 +66,7 @@
     --text: #EDEFF3;
     --text-secondary: #8D97A8;
     --divider: #232E45;
+    --card-border: rgba(255, 255, 255, 0.08);
     --shadow: rgba(0, 0, 0, 0.35);
   }
   * { box-sizing: border-box; }
@@ -180,18 +185,23 @@
   }
   .featured-main {
     position: relative; border-radius: 16px; overflow: hidden;
-    background: var(--navy); color: #fff; min-height: 380px;
+    background: var(--navy); color: #fff; min-height: 480px;
     display: flex; align-items: flex-end; cursor: pointer;
   }
   .featured-main img {
-    position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.6;
+    position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.7;
   }
   .featured-main .grad {
     position: absolute; inset: 0;
     background: linear-gradient(180deg, rgba(8,29,59,0) 12%, rgba(4,14,28,0.55) 55%, rgba(2,8,17,0.97) 100%);
   }
-  .featured-main .content { position: relative; padding: 26px; }
-  .featured-side { display: flex; flex-direction: column; gap: 12px; }
+  .featured-main .content { position: relative; padding: 30px; }
+  .featured-side { display: flex; flex-direction: column; gap: 10px; }
+  .featured-side-title {
+    font-size: 13px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+    color: var(--navy); display: flex; align-items: center; gap: 6px; margin-bottom: 2px;
+  }
+  .featured-side-title .msr { font-size: 16px; color: var(--gold); }
 
   .badge {
     display: inline-block; font-size: 11px; font-weight: 700;
@@ -199,22 +209,26 @@
     background: var(--gold); color: var(--navy-dark);
     padding: 3px 9px; border-radius: 4px; margin-bottom: 10px; cursor: pointer;
   }
-  .featured-main h2 { font-size: 26px; line-height: 1.28; margin: 0 0 8px; font-weight: 800; }
+  .featured-main h2 { font-size: 32px; line-height: 1.24; margin: 0 0 10px; font-weight: 800; max-width: 90%; }
   .featured-meta, .card-meta { font-size: 12.5px; color: var(--text-secondary); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
   .featured-main .featured-meta { color: rgba(255,255,255,0.8); }
 
   .side-card {
-    display: flex; gap: 12px; background: var(--card); border-radius: 12px;
+    display: flex; gap: 10px; align-items: center; background: var(--card); border-radius: 12px;
     padding: 10px; cursor: pointer; transition: box-shadow .2s, transform .2s;
-    border: 1px solid var(--divider);
+    border: 1px solid var(--card-border);
   }
-  .side-card:hover { box-shadow: 0 10px 24px rgba(var(--navy-rgb),0.14); transform: translateY(-4px); }
-  .side-card img { width: 84px; height: 84px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--divider); }
-  .side-card .thumb-fallback { width: 84px; height: 84px; aspect-ratio: unset; border-radius: 8px; font-size: 9px; text-align: center; padding: 4px; }
+  .side-card:hover { box-shadow: 0 10px 24px var(--shadow); transform: translateY(-4px); }
+  .side-card .num {
+    font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 26px;
+    color: rgba(var(--navy-rgb), 0.16); flex-shrink: 0; width: 26px; text-align: center; line-height: 1;
+  }
+  .side-card img { width: 72px; height: 72px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--divider); }
+  .side-card .thumb-fallback { width: 72px; height: 72px; aspect-ratio: unset; border-radius: 8px; font-size: 9px; text-align: center; padding: 4px; }
   .side-card .thumb-fallback .msr { font-size: 18px !important; }
   .side-card .info { min-width: 0; }
   .side-card h3 { font-size: 13.5px; line-height: 1.32; margin: 0 0 6px; font-weight: 700;
-    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
   .section-title {
     font-size: 15px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
@@ -223,33 +237,100 @@
   }
   .section-title::before { content: ""; width: 4px; height: 16px; background: var(--gold); border-radius: 2px; }
 
+  /* ---------- Home layout: 70/30 content + sidebar ---------- */
+  .home-layout { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: 26px; align-items: start; }
+  .main-col { min-width: 0; }
+  .sidebar { display: flex; flex-direction: column; gap: 18px; position: sticky; top: 92px; }
+
+  .widget-card {
+    background: var(--card); border: 1px solid var(--card-border); border-radius: 14px;
+    padding: 16px; transition: box-shadow .2s ease, transform .2s ease;
+  }
+  .widget-card:hover { box-shadow: 0 10px 26px var(--shadow); }
+  .widget-title {
+    font-size: 12.5px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+    color: var(--navy); display: flex; align-items: center; gap: 6px; margin-bottom: 12px;
+  }
+  .widget-title .msr { font-size: 16px; color: var(--gold); }
+  .widget-title .live-dot {
+    width: 6px; height: 6px; border-radius: 50%; background: var(--up); margin-left: auto;
+    box-shadow: 0 0 0 3px rgba(29,163,74,0.18);
+  }
+
+  .market-row {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 8px 0; border-bottom: 1px solid var(--divider); font-size: 13px;
+  }
+  .market-row:last-child { border-bottom: none; padding-bottom: 0; }
+  .market-name { font-weight: 700; color: var(--text); }
+  .market-name small { display: block; font-weight: 500; font-size: 10.5px; color: var(--text-secondary); margin-top: 1px; }
+  .market-right { text-align: right; }
+  .market-value { font-weight: 800; font-variant-numeric: tabular-nums; }
+  .market-change { font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: flex-end; gap: 1px; }
+  .market-change.up { color: var(--up); }
+  .market-change.down { color: var(--down); }
+  .market-change .msr { font-size: 13px; }
+
+  .trend-item { display: flex; align-items: center; gap: 10px; padding: 8px 0; border-bottom: 1px solid var(--divider); cursor: pointer; }
+  .trend-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .trend-num {
+    font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 18px;
+    color: rgba(var(--navy-rgb), 0.18); width: 20px; flex-shrink: 0; text-align: center;
+  }
+  .trend-info { min-width: 0; }
+  .trend-info h4 { font-size: 12.5px; margin: 0; font-weight: 700; line-height: 1.32; color: var(--text);
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .trend-meta { font-size: 10.5px; color: var(--text-secondary); margin-top: 3px; display: flex; align-items: center; gap: 3px; }
+  .trend-meta .msr { font-size: 12px; }
+
+  .weather-card { display: flex; align-items: center; gap: 14px; }
+  .weather-icon { font-size: 38px; color: var(--gold); flex-shrink: 0; }
+  .weather-info { min-width: 0; }
+  .weather-temp { font-size: 25px; font-weight: 800; line-height: 1; }
+  .weather-desc { font-size: 12px; color: var(--text-secondary); margin-top: 4px; }
+  .weather-city { font-size: 11.5px; color: var(--text-secondary); margin-top: 2px; display: flex; align-items: center; gap: 3px; }
+  .weather-city .msr { font-size: 13px; }
+  .widget-empty { font-size: 12px; color: var(--text-secondary); padding: 4px 0; }
+
   .grid {
     display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
   }
   .card {
-    background: var(--card); border-radius: 14px; overflow: hidden;
-    border: 1px solid var(--divider); cursor: pointer;
+    position: relative; aspect-ratio: 4/5; border-radius: 14px; overflow: hidden;
+    border: 1px solid var(--card-border); cursor: pointer; background: var(--navy);
     transition: box-shadow .2s ease, transform .2s ease;
-    display: flex; flex-direction: column;
+    display: flex; flex-direction: column; justify-content: flex-end;
   }
+  .card.no-image { background: linear-gradient(135deg, var(--navy), var(--accent-blue)); }
   .card:hover {
     transform: translateY(-4px);
     box-shadow: 0 14px 30px rgba(var(--navy-rgb),0.16), 0 0 0 1px rgba(var(--gold-rgb),0.18), 0 0 24px rgba(var(--gold-rgb),0.12);
   }
-  .card .thumb { width: 100%; aspect-ratio: 16/9; object-fit: cover; background: var(--divider); }
+  .card .thumb { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+  .card .scrim {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(4,14,28,0) 32%, rgba(4,14,28,0.6) 68%, rgba(2,8,17,0.94) 100%);
+  }
   .thumb-fallback {
     width: 100%; aspect-ratio: 16/9;
     background: linear-gradient(135deg, var(--navy), var(--accent-blue));
     display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
     color: rgba(255,255,255,0.75); font-size: 13px; font-weight: 700; flex-shrink: 0;
   }
-  .card .body { padding: 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
-  .card h3 { font-size: 15px; line-height: 1.35; margin: 0; font-weight: 700;
+  .card .thumb-fallback { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: unset; }
+  .card .body { position: relative; z-index: 1; padding: 14px; display: flex; flex-direction: column; gap: 6px; color: #fff; }
+  .card h3 { font-size: 14.5px; line-height: 1.34; margin: 0; font-weight: 700; color: #fff;
     display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-  .card p.excerpt { font-size: 12.5px; color: var(--text-secondary); margin: 0;
-    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .card .card-meta { color: rgba(255,255,255,0.75); }
+  .card .card-meta .source-name { color: rgba(255,255,255,0.92); }
 
-  .cat-tag { color: var(--accent-blue); font-weight: 700; cursor: pointer; }
+  .cat-tag {
+    position: absolute; top: 10px; left: 10px; z-index: 2;
+    display: inline-block; font-size: 10.5px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.4px;
+    background: var(--gold); color: var(--navy-dark);
+    padding: 3px 8px; border-radius: 5px; cursor: pointer;
+  }
   .source-name { font-weight: 700; color: var(--text); }
   .time-tag { display: inline-flex; align-items: center; gap: 3px; }
   .time-tag .msr { font-size: 14px; opacity: 0.7; }
@@ -275,22 +356,26 @@
 
   /* ---------- Ad slots ---------- */
   .ad-slot {
-    border: 1.5px dashed var(--divider);
-    border-radius: 12px;
-    background: var(--card);
+    border: 1px solid var(--card-border);
+    border-radius: 10px;
+    background: var(--bg);
     display: flex; flex-direction: column; align-items: center; justify-content: center;
-    gap: 4px; text-align: center; color: var(--text-secondary);
+    gap: 3px; text-align: center; color: var(--text-secondary);
   }
   .ad-slot .ad-eyebrow {
-    font-size: 10px; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase;
-    color: var(--text-secondary); opacity: 0.7;
+    font-size: 9.5px; font-weight: 800; letter-spacing: 0.8px; text-transform: uppercase;
+    color: var(--text-secondary); opacity: 0.55;
   }
-  .ad-slot .ad-label { font-size: 12.5px; }
-  .ad-slot .msr { font-size: 22px; opacity: 0.35; }
-  .ad-slot.leaderboard { min-height: 90px; margin-bottom: 22px; }
-  .ad-slot.in-feed { aspect-ratio: 16/9; }
+  .ad-slot .ad-label { font-size: 12px; opacity: 0.85; }
+  .ad-slot .msr { font-size: 18px; opacity: 0.28; }
+  .ad-slot.leaderboard {
+    min-height: 64px; margin-bottom: 22px;
+    flex-direction: row; gap: 10px;
+  }
+  .ad-slot.leaderboard .ad-eyebrow, .ad-slot.leaderboard .ad-label { text-align: left; }
+  .ad-slot.in-feed { aspect-ratio: 4/5; }
   .ad-slot.in-feed .body-fill { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; width: 100%; }
-  .ad-slot.in-article { min-height: 200px; margin: 26px 0; }
+  .ad-slot.in-article { min-height: 160px; margin: 26px 0; }
 
   /* ---------- Command-K search modal ---------- */
   .cmdk-backdrop {
@@ -440,7 +525,11 @@
 
   @media (max-width: 860px) {
     .featured { grid-template-columns: 1fr; }
+    .featured-main { min-height: 340px; }
     .grid { grid-template-columns: repeat(2, 1fr); }
+    .home-layout { grid-template-columns: 1fr; }
+    .sidebar { position: static; flex-direction: row; overflow-x: auto; }
+    .sidebar .widget-card { min-width: 260px; flex-shrink: 0; }
     .search-box { max-width: 160px; }
     .kbd-hint { display: none; }
     .updated-at { display: none; }
@@ -617,12 +706,12 @@ function adSlotInArticle() {
 
 function cardHtml(a) {
   return `
-    <div class="card" data-id="${a.id}">
+    <div class="card ${a.imageUrl ? '' : 'no-image'}" data-id="${a.id}">
       ${cardImage(a, 'thumb')}
+      <div class="scrim"></div>
+      ${a.category ? `<span class="cat-tag" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
       <div class="body">
-        ${a.category ? `<span class="cat-tag" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
         <h3>${escapeHtml(a.headline)}</h3>
-        ${a.body ? `<p class="excerpt">${escapeHtml(a.body)}</p>` : ''}
         <div class="card-meta"><span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span></div>
       </div>
     </div>`;
@@ -696,6 +785,131 @@ function setBreadcrumb(html) {
     ? `<div class="breadcrumb">${html}</div>` : '';
 }
 
+/* ---------- sidebar: live markets, trending, weather ---------- */
+
+function widgetSkeletonHtml() {
+  return `<div class="skeleton-block" style="height:14px;width:55%;border-radius:6px;margin-bottom:14px"></div>
+    <div class="skeleton-block" style="height:13px;border-radius:6px;margin-bottom:10px"></div>
+    <div class="skeleton-block" style="height:13px;border-radius:6px;margin-bottom:10px"></div>
+    <div class="skeleton-block" style="height:13px;border-radius:6px"></div>`;
+}
+
+function renderSidebar() {
+  return `<aside class="sidebar">
+    <div class="widget-card" id="marketsWidget">${widgetSkeletonHtml()}</div>
+    <div class="widget-card" id="trendingWidget">${trendingWidgetHtml()}</div>
+    <div class="widget-card" id="weatherWidget">${widgetSkeletonHtml()}</div>
+  </aside>`;
+}
+
+// Bir kez çekilip her sayfa geçişinde önbellekten tekrar çizilir (haber
+// akışı gibi 10 dakikada bir güncellenen statik markets.json'a her
+// sayfa değişiminde yeniden istek atmamak için).
+let marketsPromise = null;
+function ensureMarketsLoaded() {
+  if (!marketsPromise) {
+    marketsPromise = fetch('./markets.json').then(r => r.json()).catch(() => null);
+  }
+  marketsPromise.then(data => {
+    const el = document.getElementById('marketsWidget');
+    if (!el) return;
+    el.innerHTML = data ? marketsWidgetHtml(data) : marketsWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
+  });
+}
+
+function marketsWidgetTitle() {
+  return `<div class="widget-title"><span class="msr">trending_up</span>Canlı Piyasalar<span class="live-dot"></span></div>`;
+}
+
+function fmtNum(n, digits) {
+  return n.toLocaleString('tr-TR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
+}
+
+function marketRowHtml(name, sub, entry, digits, suffix) {
+  if (!entry || typeof entry.price !== 'number') {
+    return `<div class="market-row"><div class="market-name">${name}<small>${sub}</small></div><div class="widget-empty">veri yok</div></div>`;
+  }
+  const up = entry.changePct >= 0;
+  return `<div class="market-row">
+    <div class="market-name">${name}<small>${sub}</small></div>
+    <div class="market-right">
+      <div class="market-value">${fmtNum(entry.price, digits)}${suffix}</div>
+      <div class="market-change ${up ? 'up' : 'down'}"><span class="msr">${up ? 'arrow_drop_up' : 'arrow_drop_down'}</span>%${fmtNum(Math.abs(entry.changePct), 2)}</div>
+    </div>
+  </div>`;
+}
+
+function marketsWidgetHtml(data) {
+  return marketsWidgetTitle()
+    + marketRowHtml('Dolar', 'USD/TRY', data.usdTry, 2, ' ₺')
+    + marketRowHtml('Euro', 'EUR/TRY', data.eurTry, 2, ' ₺')
+    + marketRowHtml('Altın', 'gram, TRY', data.goldGramTry, 0, ' ₺')
+    + marketRowHtml('BIST 100', 'endeks', data.bist100, 0, '');
+}
+
+// "En çok okunan" — gerçek bir analitik altyapısı olmadığından, sayfanın
+// geri kalanındaki beğeni/tepki sayaçlarıyla aynı yöntemle (id'den türeyen
+// sabit sözde-rastgele sayı) tutarlı bir sıralama üretir; yorum/isim gibi
+// uydurma İÇERİK değil, sadece bir görüntülenme SAYISI temsil eder.
+function trendingWidgetHtml() {
+  const title = `<div class="widget-title"><span class="msr">local_fire_department</span>Günün Trendleri</div>`;
+  if (allArticles.length === 0) return title + '<div class="widget-empty">Henüz veri yok.</div>';
+  const ranked = allArticles.slice(0, 20)
+    .map(a => ({ a, views: seededInt('views_' + a.id, 900, 18000) }))
+    .sort((x, y) => y.views - x.views)
+    .slice(0, 5);
+  return title + ranked.map((r, i) => `
+    <div class="trend-item" data-id="${r.a.id}">
+      <div class="trend-num">${i + 1}</div>
+      <div class="trend-info">
+        <h4>${escapeHtml(r.a.headline)}</h4>
+        <div class="trend-meta"><span class="msr">visibility</span>${r.views.toLocaleString('tr-TR')} okuma</div>
+      </div>
+    </div>`).join('');
+}
+
+const WEATHER_LAT = 41.0082, WEATHER_LON = 28.9784; // İstanbul
+const WEATHER_CODES = {
+  0: ['clear_day', 'Açık'], 1: ['clear_day', 'Az Bulutlu'], 2: ['partly_cloudy_day', 'Parçalı Bulutlu'], 3: ['cloud', 'Kapalı'],
+  45: ['foggy', 'Sisli'], 48: ['foggy', 'Kırağı Sisi'],
+  51: ['rainy', 'Çisenti'], 53: ['rainy', 'Çisenti'], 55: ['rainy', 'Yoğun Çisenti'],
+  61: ['rainy', 'Hafif Yağmur'], 63: ['rainy', 'Yağmur'], 65: ['rainy', 'Kuvvetli Yağmur'],
+  71: ['weather_snowy', 'Hafif Kar'], 73: ['weather_snowy', 'Kar'], 75: ['weather_snowy', 'Kuvvetli Kar'],
+  80: ['rainy', 'Sağanak'], 81: ['rainy', 'Sağanak'], 82: ['rainy', 'Şiddetli Sağanak'],
+  95: ['thunderstorm', 'Gök Gürültülü Fırtına'], 96: ['thunderstorm', 'Dolulu Fırtına'], 99: ['thunderstorm', 'Dolulu Fırtına'],
+};
+
+let weatherPromise = null;
+function ensureWeatherLoaded() {
+  if (!weatherPromise) {
+    weatherPromise = fetch(`https://api.open-meteo.com/v1/forecast?latitude=${WEATHER_LAT}&longitude=${WEATHER_LON}&current=temperature_2m,weather_code&timezone=Europe%2FIstanbul`)
+      .then(r => r.json()).catch(() => null);
+  }
+  weatherPromise.then(data => {
+    const el = document.getElementById('weatherWidget');
+    if (!el) return;
+    el.innerHTML = data && data.current ? weatherWidgetHtml(data) : weatherWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
+  });
+}
+
+function weatherWidgetTitle() {
+  return `<div class="widget-title"><span class="msr">device_thermostat</span>Hava Durumu</div>`;
+}
+
+function weatherWidgetHtml(data) {
+  const code = data.current.weather_code;
+  const [icon, desc] = WEATHER_CODES[code] || ['thermostat', 'Güncel'];
+  const temp = Math.round(data.current.temperature_2m);
+  return weatherWidgetTitle() + `<div class="weather-card">
+      <span class="msr weather-icon">${icon}</span>
+      <div class="weather-info">
+        <div class="weather-temp">${temp}°</div>
+        <div class="weather-desc">${desc}</div>
+        <div class="weather-city"><span class="msr">location_on</span>İstanbul</div>
+      </div>
+    </div>`;
+}
+
 function renderHome() {
   document.getElementById('overlay').classList.remove('open');
   setBreadcrumb('');
@@ -708,10 +922,10 @@ function renderHome() {
   }
 
   const [top, ...rest] = allArticles;
-  const sideItems = rest.slice(0, 3);
-  const gridItems = rest.slice(3);
+  const sideItems = rest.slice(0, 4);
+  const gridItems = rest.slice(4);
 
-  let html = `<div class="featured">
+  let main = `<div class="featured">
     <div class="featured-main" data-id="${top.id}">
       ${top.imageUrl ? `<img src="${escapeHtml(top.imageUrl)}" alt="">` : ''}
       <div class="grad"></div>
@@ -722,8 +936,10 @@ function renderHome() {
       </div>
     </div>
     <div class="featured-side">
-      ${sideItems.map(a => `
+      <div class="featured-side-title"><span class="msr">bolt</span>Öne Çıkanlar</div>
+      ${sideItems.map((a, i) => `
         <div class="side-card" data-id="${a.id}">
+          <div class="num">${i + 1}</div>
           ${cardImage(a, 'thumb')}
           <div class="info">
             <h3>${escapeHtml(a.headline)}</h3>
@@ -733,15 +949,19 @@ function renderHome() {
     </div>
   </div>`;
 
-  html += adSlotLeaderboard();
+  main += adSlotLeaderboard();
 
   if (gridItems.length > 0) {
-    html += `<div class="section-title">Son Dakika</div>`;
-    html += gridWithAds(gridItems);
+    main += `<div class="section-title">Son Dakika</div>`;
+    main += gridWithAds(gridItems);
   }
+
+  const html = `<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
 
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
+  ensureMarketsLoaded();
+  ensureWeatherLoaded();
 }
 
 function renderCategoryPage(name) {
@@ -753,14 +973,18 @@ function renderCategoryPage(name) {
   const items = allArticles.filter(a => a.category === name);
 
   const content = document.getElementById('content');
-  let html = `<div class="page-heading"><span class="msr" style="color:var(--gold)">grid_view</span>${escapeHtml(name)}</div>`;
+  let main = '';
   if (items.length === 0) {
-    html += '<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.4">inbox</span><br>Bu kategoride henüz haber yok.</div>';
+    main += '<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.4">inbox</span><br>Bu kategoride henüz haber yok.</div>';
   } else {
-    html += `<div style="margin-top:18px">${gridWithAds(items)}</div>`;
+    main += `<div style="margin-top:2px">${gridWithAds(items)}</div>`;
   }
+  const heading = `<div class="page-heading" style="max-width:none;margin:0;padding:0"><span class="msr" style="color:var(--gold)">grid_view</span>${escapeHtml(name)}</div>`;
+  const html = `${heading}<div class="home-layout" style="margin-top:18px"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
+  ensureMarketsLoaded();
+  ensureWeatherLoaded();
 }
 
 function renderAboutPage() {
