@@ -373,9 +373,32 @@
     flex-direction: row; gap: 10px;
   }
   .ad-slot.leaderboard .ad-eyebrow, .ad-slot.leaderboard .ad-label { text-align: left; }
-  .ad-slot.in-feed { aspect-ratio: 4/5; }
-  .ad-slot.in-feed .body-fill { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; width: 100%; }
   .ad-slot.in-article { min-height: 160px; margin: 26px 0; }
+
+  /* In-feed ad card: same size/radius/dark fallback as a real news card
+     (border/background/border-radius come straight from .card), just a
+     gray "Reklam" badge instead of a category pill and a shimmering
+     placeholder instead of an image, so it never reads as an empty
+     white box while no real ad network is wired in yet. */
+  .card.ad-slot.in-feed {
+    background: var(--navy); border-radius: 14px;
+    display: block; color: inherit;
+  }
+  .ad-badge {
+    position: absolute; top: 10px; left: 10px; z-index: 2;
+    display: inline-block; font-size: 10px; font-weight: 800;
+    text-transform: uppercase; letter-spacing: 0.5px;
+    background: rgba(255,255,255,0.16); color: rgba(255,255,255,0.8);
+    backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
+    padding: 3px 8px; border-radius: 5px;
+  }
+  .ad-shimmer {
+    position: absolute; inset: 0;
+    background: linear-gradient(100deg, rgba(255,255,255,0.03) 30%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.03) 70%);
+    background-size: 200% 100%;
+    animation: adShimmer 1.8s ease-in-out infinite;
+  }
+  @keyframes adShimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
 
   /* ---------- Command-K search modal ---------- */
   .cmdk-backdrop {
@@ -680,11 +703,8 @@ function cardImage(article, cls) {
 
 function adSlotCard() {
   return `<div class="card ad-slot in-feed">
-    <div class="body-fill">
-      <span class="msr">campaign</span>
-      <span class="ad-eyebrow">Reklam</span>
-      <span class="ad-label">Bu alana reklam yerleştirilecek</span>
-    </div>
+    <span class="ad-badge">Sponsorlu</span>
+    <div class="ad-shimmer"></div>
   </div>`;
 }
 
