@@ -1,5 +1,8 @@
-const GROQ_URL = 'https://api.groq.com/openai/v1/chat/completions';
-const MODEL = 'openai/gpt-oss-120b';
+// Gemini'nin OpenAI-uyumlu endpoint'i — istek/yanıt şekli Groq/OpenAI ile
+// birebir aynı olduğundan (Authorization: Bearer + messages + JSON şeması),
+// önceki groq.mjs'ten yalnızca URL/model/parametre isimleri değişti.
+const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions';
+const MODEL = 'gemini-3.6-flash';
 
 const SYSTEM_PROMPT = `Sen deneyimli bir haber editörüsün. Sana bir olayın başlığı ve kısa bir özeti
 verilecek. Görevin, bunu gerçek bir haber sitesinde yayınlanacak kalitede, akıcı ve tam bir haber
@@ -62,7 +65,7 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
     .filter(Boolean)
     .join('\n');
 
-  const res = await fetch(GROQ_URL, {
+  const res = await fetch(GEMINI_URL, {
     method: 'POST',
     headers: {
       Authorization: `Bearer ${apiKey}`,
@@ -75,38 +78,34 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
         { role: 'user', content: userContent },
       ],
       temperature: 0.6,
-      // NTV/Bloomberg tarzı uzun (5-7+ paragraf) makaleler + gpt-oss-120b'nin
-      // JSON'a geçmeden önce harcadığı görünmez "reasoning" token payı için
-      // geniş bir tavan — bu sadece bir üst sınır, modelin bittiğinde
-      // durmasını engellemiyor, sadece erken kesilmeyi önlüyor.
-      max_completion_tokens: 2800,
+      max_tokens: 3000,
       response_format: { type: 'json_object' },
     }),
-    signal: AbortSignal.timeout(30_000),
+    signal: AbortSignal.timeout(45_000),
   });
 
-  // Ücretsiz kademenin dakikalık token limitine takılırsa kısa bir bekleme
-  // sonrası yeniden dener — art arda birçok haber işlenirken sık karşılaşılır.
+  // Ücretsiz kademenin dakikalık istek/token limitine takılırsa kısa bir
+  // bekleme sonrası yeniden dener.
   if (res.status === 429 && retries > 0) {
     const body429 = await res.text();
-    const waitMatch = /try again in ([\d.]+)s/i.exec(body429);
-    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 3000;
-    console.warn(`[groq] rate limit, ${waitMs}ms bekleniyor (${retries} deneme kaldı)...`);
+    const waitMatch = /retry.{0,20}?([\d.]+)s/i.exec(body429);
+    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 5000;
+    console.warn(`[gemini] rate limit, ${waitMs}ms bekleniyor (${retries} deneme kaldı)...`);
     await sleep(waitMs);
     return rewriteArticle({ headline, body, category }, apiKey, retries - 1);
   }
 
   if (!res.ok) {
-    throw new Error(`Groq API ${res.status}: ${await res.text()}`);
+    throw new Error(`Gemini API ${res.status}: ${await res.text()}`);
   }
 
   const data = await res.json();
   const raw = data?.choices?.[0]?.message?.content;
-  if (!raw) throw new Error('Groq yanıtı boş döndü');
+  if (!raw) throw new Error('Gemini yanıtı boş döndü');
 
   const parsed = JSON.parse(raw);
   if (!parsed.headline || !parsed.body) {
-    throw new Error('Groq yanıtı beklenen alanları içermiyor');
+    throw new Error('Gemini yanıtı beklenen alanları içermiyor');
   }
   return {
     headline: String(parsed.headline).trim(),
@@ -125,7 +124,7 @@ olmayan hiçbir bilgi uydurma. Metin çok kısaysa 1-2 öğe de yeterli.
 Sadece şu JSON şemasında cevap ver: {"highlights": ["...", "...", "..."]}`;
 
 export async function generateHighlights(body, apiKey, retries = 3) {
-  const res = await fetch(GROQ_URL, {
+  const res = await fetch(GEMINI_URL, {
     method: 'POST',
     headers: {
       Authorization: `Bearer ${apiKey}`,
@@ -138,28 +137,24 @@ export async function generateHighlights(body, apiKey, retries = 3) {
         { role: 'user', content: body },
       ],
       temperature: 0.5,
-      // gpt-oss-120b is a reasoning model — it spends completion tokens on
-      // hidden chain-of-thought before it ever emits the JSON answer, so a
-      // "just 3 short bullets" budget still needs real headroom or the
-      // response gets cut off mid-reasoning with no valid JSON at all.
-      max_completion_tokens: 700,
+      max_tokens: 400,
       response_format: { type: 'json_object' },
     }),
-    signal: AbortSignal.timeout(30_000),
+    signal: AbortSignal.timeout(45_000),
   });
 
   if (res.status === 429 && retries > 0) {
     const body429 = await res.text();
-    const waitMatch = /try again in ([\d.]+)s/i.exec(body429);
-    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 3000;
+    const waitMatch = /retry.{0,20}?([\d.]+)s/i.exec(body429);
+    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 5000;
     await sleep(waitMs);
     return generateHighlights(body, apiKey, retries - 1);
   }
-  if (!res.ok) throw new Error(`Groq API ${res.status}: ${await res.text()}`);
+  if (!res.ok) throw new Error(`Gemini API ${res.status}: ${await res.text()}`);
 
   const data = await res.json();
   const raw = data?.choices?.[0]?.message?.content;
-  if (!raw) throw new Error('Groq yanıtı boş döndü');
+  if (!raw) throw new Error('Gemini yanıtı boş döndü');
   const parsed = JSON.parse(raw);
   return Array.isArray(parsed.highlights)
     ? parsed.highlights.map((h) => String(h).trim()).filter(Boolean).slice(0, 3)

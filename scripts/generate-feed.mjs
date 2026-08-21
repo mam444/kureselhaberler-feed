@@ -2,23 +2,22 @@ import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { ALL_SOURCES } from './sources.mjs';
 import { fetchAllSources } from './fetch-rss.mjs';
-import { rewriteArticle } from './groq.mjs';
+import { rewriteArticle } from './gemini.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-// NTV tarzı uzun makaleler artık başına 2800 token'a kadar harcayabiliyor
-// (öncesi 1050'ydi) — Groq ücretsiz kademenin günlük 200.000 token
-// sınırını daha hızlı tüketmemek için çalıştırma başına işlenen yeni haber
-// sayısı düşürüldü; böylece bütçe günün daha büyük bölümüne yayılıyor.
-const MAX_NEW_PER_RUN = 5;
+// Gemini'nin ücretsiz kademesinde Groq'un aksine sabit bir günlük token
+// duvarı yok (günde 1500 istek + dakikada 1M token) — NTV tarzı uzun
+// makaleler için bu sınırı tekrar rahatça yükseltebiliyoruz.
+const MAX_NEW_PER_RUN = 10;
 const MAX_TOTAL_ARTICLES = 300;
-// Groq çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
+// Gemini çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
 const MAX_ALLOWED_SIMILARITY = 0.5;
 
-const GROQ_API_KEY = process.env.GROQ_API_KEY;
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const ONESIGNAL_APP_ID = process.env.ONESIGNAL_APP_ID;
 const ONESIGNAL_REST_API_KEY = process.env.ONESIGNAL_REST_API_KEY;
@@ -47,7 +46,7 @@ async function rewriteAndIllustrate(raw) {
   try {
     const rewritten = await rewriteArticle(
       { headline: raw.headline, body: raw.body, category: raw.category },
-      GROQ_API_KEY,
+      GEMINI_API_KEY,
     );
     const sourceText = `${raw.headline} ${raw.body ?? ''}`;
     const rewrittenText = `${rewritten.headline} ${rewritten.body}`;
@@ -80,14 +79,14 @@ async function rewriteAndIllustrate(raw) {
       lang: raw.lang,
     };
   } catch (err) {
-    console.warn(`[groq] "${raw.headline}" yeniden yazılamadı: ${err.message}`);
+    console.warn(`[gemini] "${raw.headline}" yeniden yazılamadı: ${err.message}`);
     return null;
   }
 }
 
 async function main() {
-  if (!GROQ_API_KEY) {
-    console.log('[main] GROQ_API_KEY tanımlı değil — RSS çekilecek ama hiçbir haber yeniden yazılmayacak.');
+  if (!GEMINI_API_KEY) {
+    console.log('[main] GEMINI_API_KEY tanımlı değil — RSS çekilecek ama hiçbir haber yeniden yazılmayacak.');
   }
 
   console.log(`[main] ${ALL_SOURCES.length} kaynak taranıyor...`);
@@ -110,11 +109,10 @@ async function main() {
   const brandNewRaw = deduped.filter((a) => !previousIds.has(a.id)).slice(0, MAX_NEW_PER_RUN);
   console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (bu çalıştırmada, üst sınır ${MAX_NEW_PER_RUN}).`);
 
-  // Sıralı işlenir (paralel değil): artık daha uzun/tam metinler ürettiğimiz
-  // için Groq'un ücretsiz kademe dakikalık token limitine (TPM) paralel
-  // isteklerle çok hızlı takılıyorduk.
+  // Sıralı işlenir (paralel değil): dakikalık istek/token limitine paralel
+  // isteklerle takılmamak için.
   const rewritten = [];
-  if (GROQ_API_KEY) {
+  if (GEMINI_API_KEY) {
     for (const raw of brandNewRaw) {
       const article = await rewriteAndIllustrate(raw);
       if (article) rewritten.push(article);

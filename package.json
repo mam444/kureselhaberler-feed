@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "RSS -> Groq (yeniden yazma) -> Unsplash (görsel) -> haberler.json üreten otomasyon hattı.",
+  "description": "RSS -> Gemini (yeniden yazma) -> Unsplash (görsel) -> haberler.json üreten otomasyon hattı.",
   "scripts": {
     "generate": "node scripts/generate-feed.mjs",
     "markets": "node scripts/fetch-markets.mjs"

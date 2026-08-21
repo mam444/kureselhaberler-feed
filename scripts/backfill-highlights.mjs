@@ -6,15 +6,15 @@
 // body text (no re-rewrite, no Unsplash/similarity-guard involvement).
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
-import { generateHighlights } from './groq.mjs';
+import { generateHighlights } from './gemini.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
 const MAX_BACKFILL = 25;
-const GROQ_API_KEY = process.env.GROQ_API_KEY;
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 
 async function main() {
-  if (!GROQ_API_KEY) {
-    console.log('[backfill-highlights] GROQ_API_KEY tanımlı değil, çıkılıyor.');
+  if (!GEMINI_API_KEY) {
+    console.log('[backfill-highlights] GEMINI_API_KEY tanımlı değil, çıkılıyor.');
     return;
   }
   const raw = await readFile(FEED_PATH, 'utf8');
@@ -32,7 +32,7 @@ async function main() {
   for (const article of missing) {
     if (!article.body) continue;
     try {
-      const highlights = await generateHighlights(article.body, GROQ_API_KEY);
+      const highlights = await generateHighlights(article.body, GEMINI_API_KEY);
       if (highlights.length > 0) {
         article.highlights = highlights;
         updated++;
