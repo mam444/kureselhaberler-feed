@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:32:42.475Z",
+  "generatedAt": "2026-08-21T12:39:18.193Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/insan-kaynaklari/turkiyenin-kadin-girisimcisi-yarismasinda-basvurular-basladi-3457408",
@@ -196,6 +196,132 @@
       "body": "Diyarbakır’da bir otomobil, sürüş sırasında sulama kanalına devrildi. Olay anında araç içinde bulunan dört kişi, dışarı çıkmak için kendi çabalarıyla hareket etti ve araçtan ayrıldı. \n\nYerel yetkililer, kazanın ardından olay yerinde inceleme başlattı ve duruma ilişkin soruşturmanın sürdüğünü belirtti.",
       "externalUrl": "https://www.cnnturk.com/yerel-haberler/diyarbakir/diyarbakirda-sulama-kanalina-dusen-otomobildeki-4-kisi-kendi-imkanlariyla-cikti-3457400",
       "publishedAt": "2026-08-21T14:58:07.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/malatya/malatyada-iki-otomobilin-carpismasi-sonucu-3-kisi-yaralandi-3457401",
+      "headline": "Malatya'da iki otomobilin çarpışması sonucu 3 kişi yaralandı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1597328290883-50c5787b7c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2FyJTIwYWNjaWRlbnR8ZW58MXwwfHx8MTc4NzMxNTkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Clark Van Der Beken",
+        "photographerUrl": "https://unsplash.com/@snapsbyclark",
+        "unsplashUrl": "https://unsplash.com/photos/damaged-silver-car-with-crushed-hood-CSkriQWeTVs"
+      },
+      "timeAgo": "şimdi",
+      "body": "Malatya’da iki otomobilin çarpışması sonucunda üç kişi yaralandı. Olay, şehir içinde gerçekleşen bir trafik kazası olarak kayıtlara geçti.\n\nKazanın ardından sağlık ekipleri olay yerine intikal ederek yaralıları ilk müdahale etti ve hastanelere sevk etti. Yetkililer, benzer kazaların önlenmesi için sürücülerin dikkatli olmasını ve trafik kurallarına uymalarını hatırlattı.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/malatya/malatyada-iki-otomobilin-carpismasi-sonucu-3-kisi-yaralandi-3457401",
+      "publishedAt": "2026-08-21T14:58:06.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/samsun/samsunspor-yarin-caykur-rizespora-konuk-olacak-3457402",
+      "headline": "Samsunspor, yarın Çaykur Rizespor'a konuk olacak",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODczMTU5MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Krzysztof Dubiel",
+        "photographerUrl": "https://unsplash.com/@kris1902",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-game-in-stadium-hQBIJsBtyBw"
+      },
+      "timeAgo": "şimdi",
+      "body": "Samsunspor, futbol programında yer alan bir sonraki karşılaşma kapsamında yarın Çaykur Rizespor ile Rize'de karşı karşıya gelecek. Takım, konuk olarak Rize'nin ev sahibi olduğu stadyumda çalım atacak ve puan mücadelesi sürdürecek.\n\nMaç, lig takvimine göre belirlenen tarihte oynanacak ve iki kulübün de sezon hedeflerine yön verecek önemli bir fırsat sunacak. Taraftarların yoğun ilgi göstermesi beklenirken, saha içinde ve dışında taktiksel hazırlıkların yoğunlaştığı bildirildi.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/samsun/samsunspor-yarin-caykur-rizespora-konuk-olacak-3457402",
+      "publishedAt": "2026-08-21T14:58:05.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/canakkale/canakkalede-zirai-alanda-cikan-yangina-mudahale-ediliyor-3457403",
+      "headline": "Çanakkale'de zirai alanda çıkan yangına müdahale ediliyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1634009653379-a97409ee15de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d2lsZGZpcmV8ZW58MXwwfHx8MTc4NzMxNTkyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mike Newbry",
+        "photographerUrl": "https://unsplash.com/@mikenewbry",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-fire-is-burning-in-the-mountains-DwtX9mMHBJ0"
+      },
+      "timeAgo": "şimdi",
+      "body": "Çanakkale'de tarımsal bir alanda meydana gelen yangın, itfaiye ekipleri ve ilgili birimlerin yoğun çabalarıyla kontrol altına alınmaya çalışılıyor. Olayın gerçekleştiği bölge, yoğun tarım faaliyetlerinin sürdüğü bir arazi olup, yetkililer yangının yayılmasını önlemek amacıyla su ve kimyasal söndürme ekipmanlarını kullanıyor.\n\nYetkililer, yangının söndürülmesi sürecinde bölgeye yaklaşan vatandaşları uzak durmaya davet ederken, yangının kontrol altına alınmasıyla ilgili gelişmeleri yakından takip ettiklerini belirtti.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/canakkale/canakkalede-zirai-alanda-cikan-yangina-mudahale-ediliyor-3457403",
+      "publishedAt": "2026-08-21T14:58:04.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/antalya/antalyada-termometreler-40-dereceyi-gosterdi-kent-merkezi-bos-kaldi-3457380",
+      "headline": "Antalya’da termometreler 40 dereceyi gösterdi, kent merkezi boş kaldı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1641227059171-624465a39750?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QW50YWx5YSUyMHN0cmVldHxlbnwxfDB8fHwxNzg3MzE1OTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Igor Savelev",
+        "photographerUrl": "https://unsplash.com/@isavelev",
+        "unsplashUrl": "https://unsplash.com/photos/a-narrow-street-lined-with-brick-buildings-y1uMtJWEVV4"
+      },
+      "timeAgo": "şimdi",
+      "body": "Antalya’da termometreler 40 dereceyi işaret ederken, şehir merkezindeki insan trafiği neredeyse tamamen durdu. Sıcaklığın etkisiyle kent merkezi, sokakları ve alışveriş alanları boş kaldı.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/antalya/antalyada-termometreler-40-dereceyi-gosterdi-kent-merkezi-bos-kaldi-3457380",
+      "publishedAt": "2026-08-21T14:53:56.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/yozgat/yozgatta-bugday-hirsizligi-iddiasiyla-4-supheli-yakalandi-3457381",
+      "headline": "Yozgat'ta buğday hırsızlığı iddiasıyla 4 şüpheli yakalandı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1437252611977-07f74518abd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8d2hlYXQlMjBmaWVsZHxlbnwxfDB8fHwxNzg3MzE1OTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Melissa Askew",
+        "photographerUrl": "https://unsplash.com/@melissaaskew",
+        "unsplashUrl": "https://unsplash.com/photos/wheat-field-y4xZxzN754M"
+      },
+      "timeAgo": "şimdi",
+      "body": "Yozgat’taki bir buğday tarlasında gerçekleştiği bildirilen hırsızlık olayına ilişkin soruşturma kapsamında, Yozgat Emniyet Müdürlüğü ekipleri dört şüpheliyi gözaltına aldı. Olayın meydana geldiği bölgeye gelen polis ekipleri, saha incelemesi ve görgü tanıklarının ifadeleri doğrultusunda şüphelileri tespit ederek yakaladı.\n\nŞüphelilerin tutuklanmasının ardından, ilgili birimlerin incelemeleri sürüyor ve olayın tam olarak nasıl gerçekleştiği, çalınan buğday miktarı gibi detaylar hakkında bilgi toplama çalışması devam ediyor.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/yozgat/yozgatta-bugday-hirsizligi-iddiasiyla-4-supheli-yakalandi-3457381",
+      "publishedAt": "2026-08-21T14:53:55.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/amasya/tasovada-polisten-vatandaslara-telefon-dolandiriciligi-uyarisi-3457382",
+      "headline": "Taşova’da polisten vatandaşlara “telefon dolandırıcılığı” uyarısı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1757710436034-f1d7372ec1be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cGhvbmV8ZW58MXwwfHx8MTc4NzMxNTkzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Igor Omilaev",
+        "photographerUrl": "https://unsplash.com/@omilaev",
+        "unsplashUrl": "https://unsplash.com/photos/two-orange-smartphones-on-an-orange-background-X4S-G_Q9U9g"
+      },
+      "timeAgo": "şimdi",
+      "body": "Taşova Emniyet Müdürlüğü, son dönemde artan telefon dolandırıcılığı vakalarına karşı vatandaşları uyarma amacıyla bir bilgilendirme yaptı. Yetkililer, sahte aramalarda kişisel ve finansal bilgilerin istenebileceğini, bu tür taleplere kesinlikle yanıt verilmemesi ve şüpheli durumların en yakın karakola bildirilmesi gerektiğini belirtti.\n\nPolisin verdiği uyarı, özellikle yaşlı vatandaşların hedef alınma riskinin yüksek olduğuna dikkat çekiyor. Dolandırıcıların, resmi kurumları taklit ederek güven kazanmaya çalıştıkları ve genellikle acil para transferi talep ettikleri ifade edildi. Vatandaşların, tanımadıkları numaralardan gelen çağrılara karşı temkinli olmaları ve resmi kurumların hiçbir zaman telefon üzerinden para talep etmediğini hatırlamaları istendi.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/amasya/tasovada-polisten-vatandaslara-telefon-dolandiriciligi-uyarisi-3457382",
+      "publishedAt": "2026-08-21T14:53:54.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/diyarbakir/diyarbakirda-kurallari-ihlal-eden-surucuye-111-bin-lira-ceza-kesildi-3457383",
+      "headline": "Diyarbakır’da kuralları ihlal eden sürücüye 111 bin lira ceza",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604360898901-ddcbeafab6ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhZmZpYyUyMHBvbGljZXxlbnwxfDB8fHwxNzg3MzE1OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Thomas Evans",
+        "photographerUrl": "https://unsplash.com/@thoeva",
+        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-HdsoYqVpDFg"
+      },
+      "timeAgo": "şimdi",
+      "body": "Diyarbakır’da bir sürücünün trafik kurallarını çiğnemesi üzerine yetkililer, 111 000 TL tutarında bir para cezası uyguladı. Olay, şehir içinde gerçekleşen bir trafik denetimi sırasında tespit edildi ve ilgili sürücüye yasal prosedürler çerçevesinde ceza kesildi.\n\nUygulanan tutar, trafik güvenliğini sağlamak ve kural ihlallerine caydırıcı bir etkisi olmak amacıyla belirlenen mevzuata uygun olarak belirlendi. Yetkililer, benzer ihlallerin önüne geçmek ve yol kullanıcılarının güvenliğini artırmak için denetimlerin sürdürüleceğini belirtti.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/diyarbakir/diyarbakirda-kurallari-ihlal-eden-surucuye-111-bin-lira-ceza-kesildi-3457383",
+      "publishedAt": "2026-08-21T14:53:52.000Z",
       "category": null,
       "lang": "tr"
     },
