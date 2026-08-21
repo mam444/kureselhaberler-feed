@@ -1,6 +1,78 @@
 {
-  "generatedAt": "2026-08-21T11:28:17.718Z",
+  "generatedAt": "2026-08-21T11:54:12.284Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/son-dakika-akin-gurlek-acikladi-netanyahu-hakkinda-kirmizi-bulten-talebi-3457377",
+      "headline": "Akın Gürlek, Netanyahu ve Afek Moskovitch’e “soykırım” suçlamasıyla kırmızı bülten talebini açıkladı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1632156212749-acb119bac25d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmVkJTIwbm90aWNlfGVufDF8MHx8fDE3ODczMTMyNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ghis ‍ ‍",
+        "photographerUrl": "https://unsplash.com/@isubakoa",
+        "unsplashUrl": "https://unsplash.com/photos/a-red-and-white-sign-sitting-on-the-side-of-a-road-K6LMLWErgN0"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye, Binyamin Netanyahu ve Afek Moskovitch’in soykırım suçundan yargılanması için Interpol’a kırmızı bülten gönderilmesini istediğini Akın Gürlek duyurdu. İddialar, ilgili kişilerin uluslararası adli takibe alınmasını hedefliyor.",
+      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-akin-gurlek-acikladi-netanyahu-hakkinda-kirmizi-bulten-talebi-3457377",
+      "publishedAt": "2026-08-21T14:50:30.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/dunya/son-dakika-pezeskiyan-savasi-sona-erdirmeliyiz-3457374",
+      "headline": "Son Dakika: Cumhurbaşkanı Pezeşkiyan'dan Savaşın Sonlandırılması Çağrısı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1703783419681-e3247591ba18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cGVhY2UlMjBuZWdvdGlhdGlvbnN8ZW58MXwwfHx8MTc4NzMxMzI0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jon Tyson",
+        "photographerUrl": "https://unsplash.com/@jontyson",
+        "unsplashUrl": "https://unsplash.com/photos/a-blue-flag-with-a-dove-and-peace-on-it-Eg7t0Bb3T6g"
+      },
+      "timeAgo": "şimdi",
+      "body": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ABD ile süren çatışma üzerine değerlendirmelerde bulundu. Pezeşkiyan, mevcut savaşın acilen bitirilmesi gerektiğini belirtti.",
+      "externalUrl": "https://www.cnnturk.com/dunya/son-dakika-pezeskiyan-savasi-sona-erdirmeliyiz-3457374",
+      "publishedAt": "2026-08-21T14:39:32.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/video/spor/futbol/ronaldinho-sahalara-geri-donuyor-3-lig-takimiyla-anlasti-3457373",
+      "headline": "Ronaldinho, 3. Lig Takımıyla Anlaştı ve Sahalara Dönüyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c29jY2VyJTIwc3RhZGl1bXxlbnwxfDB8fHwxNzg3MzEzMjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
+      },
+      "timeAgo": "şimdi",
+      "body": "Brezilyalı futbol ikonu, 11 yıl aradan sonra 46 yaşında yeniden sahada yer alacak. Üçüncül ligdeki yeni kulübüyle sözleşme imzalayan Ronaldinho, top koşturmaya hazırlanıyor.",
+      "externalUrl": "https://www.cnnturk.com/video/spor/futbol/ronaldinho-sahalara-geri-donuyor-3-lig-takimiyla-anlasti-3457373",
+      "publishedAt": "2026-08-21T14:38:06.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/turkiye/izmirde-engelsiz-is-birligi-kasapoglu-devreye-girdi-tugay-biz-yapalim-dedi-3457372",
+      "headline": "İzmir'de engelli ulaşımına yönelik yeni iş birliği kuruldu",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1545483656-1a34ae73add1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YWNjZXNzaWJsZSUyMHRyYW5zcG9ydHxlbnwxfDB8fHwxNzg3MzEzMjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "AbsolutVision",
+        "photographerUrl": "https://unsplash.com/@codzilla_swiss",
+        "unsplashUrl": "https://unsplash.com/photos/handicap-symbol-UudGNHJdNSo"
+      },
+      "timeAgo": "şimdi",
+      "body": "İzmir'de engelli vatandaşların ulaşım sorununu çözmek amacıyla bir iş birliği hayata geçirildi. Eski Gençlik ve Spor Bakanı ve AK Parti İzmir milletvekili Dr. Mehmet Kasapoğlu sürece dahil olurken, İzmir Büyükşehir Belediye Başkanı Cemil Tugay \"Biz yapalım\" diyerek harekete geçti. Bu girişim, Engelli Bireyleri Koruma ve Eğitim Vakfı (EBKOV) tarafından kurulan köydeki ulaşım krizini gidermeyi amaçlıyor.",
+      "externalUrl": "https://www.cnnturk.com/turkiye/izmirde-engelsiz-is-birligi-kasapoglu-devreye-girdi-tugay-biz-yapalim-dedi-3457372",
+      "publishedAt": "2026-08-21T14:32:55.000Z",
+      "category": null,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/erzurumspor-galatasaray-hangi-kanalda-super-lig-erzurumspor-galatasaray-maci-saat-kacta-ne-zaman-iste-muhtemel-11ler-3457370",
       "headline": "Erzurumspor – Galatasaray maçı hangi kanalda ve saat kaçta? İşte tahmini ilk 11",
@@ -88,6 +160,24 @@
       "body": "Kanal D'nin \"Kuralsız Sokaklar\" adlı keşif ve macera programında Mert Öztürk, izleyicileri üç farklı rotada eşsiz deneyimlere götürüyor. İlk durak, İspanya'nın turistik şehri Barcelona; burada, ülkeye yasa dışı yollarla giren ve zorlu yaşam koşullarıyla mücadele eden bireylerin öyküleri ekrana yansıtılıyor. Programın ilerleyen bölümlerinde ise Jamaika ve Mısır'da benzer temalar işlenecek.",
       "externalUrl": "https://www.cnnturk.com/magazin/kuralsiz-sokaklarda-rotamiz-ispanya-jamaika-ve-misir-3457365",
       "publishedAt": "2026-08-21T13:45:07.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/ekonomi/turk-ogrencilerden-4-uluslararasi-olimpiyatta-15-madalya-3457364",
+      "headline": "Türk Genç Bilim İnsanları Dört Uluslararası Olimpiyada 15 Madalya Kazandı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1648801098849-565ca6939c56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c2NpZW5jZSUyMG9seW1waWFkfGVufDF8MHx8fDE3ODczMTMyNDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Haseeb Modi",
+        "photographerUrl": "https://unsplash.com/@haseebm",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-young-boys-standing-next-to-each-other-GAXi5NV-QE4"
+      },
+      "timeAgo": "şimdi",
+      "body": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, sosyal medya üzerinden genç araştırmacıların elde ettiği başarıları duyurdu. TÜBİTAK BİDEB'in 2202 Bilim Olimpiyatları Programı kapsamında desteklenen öğrenciler, bilgisayar, yapay zekâ ve coğrafya alanlarında düzenlenen dört farklı uluslararası yarışmada toplam 15 madalya elde etti.",
+      "externalUrl": "https://www.cnnturk.com/ekonomi/turk-ogrencilerden-4-uluslararasi-olimpiyatta-15-madalya-3457364",
+      "publishedAt": "2026-08-21T13:42:29.000Z",
       "category": null,
       "lang": "tr"
     },
@@ -358,6 +448,60 @@
       "body": "Karşıyaka’da bugün gündemin adı Mert Torlak olarak belirlendi.",
       "externalUrl": "https://www.cnnturk.com/yerel-haberler/izmir/karsiyakada-gundem-mert-torlak-3457350",
       "publishedAt": "2026-08-21T13:07:13.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/manisa/turgutlu/esini-bogmaya-calistigi-ileri-surulen-koca-gozaltina-alindi-3457353",
+      "headline": "Eşini boğmaya çalıştığı iddia edilen erkek gözaltına alındı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1548630435-998a2cbbff67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZG9tZXN0aWMlMjB2aW9sZW5jZXxlbnwxfDB8fHwxNzg3MzEzMjQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nadine E",
+        "photographerUrl": "https://unsplash.com/@nadineshaabana",
+        "unsplashUrl": "https://unsplash.com/photos/close-up-photography-of-person-lifting-hands-DRzYMtae-vA"
+      },
+      "timeAgo": "şimdi",
+      "body": "Polis, eşini boğma girişiminde bulunduğu iddiasıyla bir erkeği tutukladı. Soruşturma kapsamında şüpheli gözaltına alındı ve yasal süreç başlatıldı.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/manisa/turgutlu/esini-bogmaya-calistigi-ileri-surulen-koca-gozaltina-alindi-3457353",
+      "publishedAt": "2026-08-21T13:07:10.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/antalya/antalyada-silahli-saldiriya-ugrayan-kadin-oldu-3457356",
+      "headline": "Antalya’da bir kadına yönelik silahlı saldırı sonucu hayatını kaybetti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1595590424283-b8f17842773f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Z3VuJTIwdmlvbGVuY2V8ZW58MXwwfHx8MTc4NzMxMzI0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tom Def",
+        "photographerUrl": "https://unsplash.com/@thdef",
+        "unsplashUrl": "https://unsplash.com/photos/black-semi-automatic-pistol-on-black-textile-MfM3p2yn4Ew"
+      },
+      "timeAgo": "şimdi",
+      "body": "Şehrin bir semtinde gerçekleşen olayda, saldırıya maruz kalan kadın olay yerinde yaşamını yitirdi. Yetkililer konuyla ilgili soruşturma başlattı.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/antalya/antalyada-silahli-saldiriya-ugrayan-kadin-oldu-3457356",
+      "publishedAt": "2026-08-21T13:07:10.000Z",
+      "category": null,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/manisa/turgutlu/manisada-hurdaliktaki-yangin-tarim-arazisine-de-sicradi-3457355",
+      "headline": "Manisa’da hurdalıkta başlayan yangın, çevredeki tarım arazilerine de yayıldı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1495467033336-2effd8753d51?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c2NyYXAlMjBmaXJlfGVufDF8MHx8fDE3ODczMTMyNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kelis",
+        "photographerUrl": "https://unsplash.com/@raquelraclette",
+        "unsplashUrl": "https://unsplash.com/photos/red-flame-MYjFOiVWWT8"
+      },
+      "timeAgo": "şimdi",
+      "body": "Manisa’nın bir ilçesinde hurdalıkta çıkan yangın kontrol altına alınamadı ve yakınlardaki tarım arazilerine sıçradı. Yetkililer yangını söndürmek için ekip göndererek çiftçilerin mahsullerine zarar gelmemesi için müdahale ediyor.",
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/manisa/turgutlu/manisada-hurdaliktaki-yangin-tarim-arazisine-de-sicradi-3457355",
+      "publishedAt": "2026-08-21T13:07:10.000Z",
       "category": null,
       "lang": "tr"
     },
