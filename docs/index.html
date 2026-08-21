@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Küresel Haberler</title>
+<meta name="description" content="Yapay zeka ile özgün cümlelerle yeniden yazılmış, bağımsız stok fotoğraflarla görselleştirilmiş güncel haberler.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+<style>
+  :root {
+    --navy: #0E2F5A;
+    --navy-dark: #081D3B;
+    --gold: #E0A800;
+    --accent-red: #E43B3B;
+    --accent-blue: #1A73E8;
+    --accent-orange: #F2994A;
+    --bg: #F4F5F7;
+    --card: #FFFFFF;
+    --text: #1A1A1A;
+    --text-secondary: #767A82;
+    --divider: #E7E8EC;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+  body, input, button { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    -webkit-font-smoothing: antialiased;
+  }
+  a { color: inherit; text-decoration: none; }
+
+  /* ---------- Header ---------- */
+  header.site-header {
+    position: sticky; top: 0; z-index: 20;
+    background: var(--navy);
+    color: #fff;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  }
+  .header-inner {
+    max-width: 1180px; margin: 0 auto;
+    padding: 14px 20px;
+    display: flex; align-items: center; gap: 18px;
+  }
+  .logo {
+    display: flex; align-items: center; gap: 8px;
+    font-weight: 800; font-size: 20px; letter-spacing: -0.3px;
+    white-space: nowrap;
+  }
+  .logo .dot { color: var(--gold); }
+  .search-box {
+    flex: 1; max-width: 360px; margin-left: auto;
+    position: relative;
+  }
+  .search-box input {
+    width: 100%; padding: 9px 14px 9px 34px;
+    border-radius: 20px; border: none;
+    background: rgba(255,255,255,0.14);
+    color: #fff; font-size: 14px;
+    outline: none;
+  }
+  .search-box input::placeholder { color: rgba(255,255,255,0.65); }
+  .search-box svg { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); opacity: 0.7; }
+  .updated-at { font-size: 11.5px; color: rgba(255,255,255,0.55); white-space: nowrap; }
+
+  nav.categories {
+    background: var(--navy-dark);
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  nav.categories::-webkit-scrollbar { display: none; }
+  .categories-inner {
+    max-width: 1180px; margin: 0 auto;
+    display: flex; gap: 6px; padding: 0 16px;
+  }
+  .cat-btn {
+    flex-shrink: 0;
+    padding: 10px 14px;
+    font-size: 13.5px; font-weight: 600;
+    color: rgba(255,255,255,0.7);
+    border-bottom: 2px solid transparent;
+    cursor: pointer;
+    transition: color .15s;
+  }
+  .cat-btn:hover { color: #fff; }
+  .cat-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
+
+  /* ---------- Layout ---------- */
+  main { max-width: 1180px; margin: 0 auto; padding: 22px 20px 60px; }
+
+  .featured {
+    display: grid; grid-template-columns: 1.4fr 1fr; gap: 18px;
+    margin-bottom: 26px;
+  }
+  .featured-main {
+    position: relative; border-radius: 16px; overflow: hidden;
+    background: var(--navy); color: #fff; min-height: 380px;
+    display: flex; align-items: flex-end; cursor: pointer;
+  }
+  .featured-main img {
+    position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; opacity: 0.55;
+  }
+  .featured-main .grad {
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, rgba(8,29,59,0) 20%, rgba(8,29,59,0.95) 100%);
+  }
+  .featured-main .content { position: relative; padding: 26px; }
+  .featured-side { display: flex; flex-direction: column; gap: 12px; }
+
+  .badge {
+    display: inline-block; font-size: 11px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.4px;
+    background: var(--gold); color: var(--navy-dark);
+    padding: 3px 9px; border-radius: 4px; margin-bottom: 10px;
+  }
+  .featured-main h2 { font-size: 26px; line-height: 1.28; margin: 0 0 8px; font-weight: 800; }
+  .featured-meta, .card-meta { font-size: 12.5px; color: var(--text-secondary); display: flex; gap: 8px; align-items: center; }
+  .featured-main .featured-meta { color: rgba(255,255,255,0.75); }
+
+  .side-card {
+    display: flex; gap: 12px; background: var(--card); border-radius: 12px;
+    padding: 10px; cursor: pointer; transition: box-shadow .15s, transform .15s;
+    border: 1px solid var(--divider);
+  }
+  .side-card:hover { box-shadow: 0 4px 14px rgba(0,0,0,0.08); transform: translateY(-1px); }
+  .side-card img { width: 84px; height: 84px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--divider); }
+  .side-card .info { min-width: 0; }
+  .side-card h3 { font-size: 13.5px; line-height: 1.32; margin: 0 0 6px; font-weight: 700;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .section-title {
+    font-size: 15px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.4px;
+    color: var(--navy); margin: 30px 0 14px;
+    display: flex; align-items: center; gap: 8px;
+  }
+  .section-title::before { content: ""; width: 4px; height: 16px; background: var(--gold); border-radius: 2px; }
+
+  .grid {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+  }
+  .card {
+    background: var(--card); border-radius: 14px; overflow: hidden;
+    border: 1px solid var(--divider); cursor: pointer;
+    transition: box-shadow .15s, transform .15s;
+    display: flex; flex-direction: column;
+  }
+  .card:hover { box-shadow: 0 8px 22px rgba(0,0,0,0.09); transform: translateY(-2px); }
+  .card .thumb { width: 100%; aspect-ratio: 16/9; object-fit: cover; background: var(--divider); }
+  .card .thumb-fallback {
+    width: 100%; aspect-ratio: 16/9;
+    background: linear-gradient(135deg, var(--navy), var(--accent-blue));
+    display: flex; align-items: center; justify-content: center;
+    color: rgba(255,255,255,0.5); font-size: 13px; font-weight: 600;
+  }
+  .card .body { padding: 14px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+  .card h3 { font-size: 15px; line-height: 1.35; margin: 0; font-weight: 700;
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+  .card p.excerpt { font-size: 12.5px; color: var(--text-secondary); margin: 0;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .cat-tag { color: var(--accent-blue); font-weight: 700; }
+  .source-name { font-weight: 700; color: var(--text); }
+
+  .empty-state { text-align: center; padding: 60px 20px; color: var(--text-secondary); }
+  .loading { text-align: center; padding: 80px 20px; color: var(--text-secondary); font-size: 14px; }
+
+  /* ---------- Article detail ---------- */
+  .overlay {
+    position: fixed; inset: 0; background: var(--bg); z-index: 100;
+    overflow-y: auto; display: none;
+  }
+  .overlay.open { display: block; }
+  .overlay-header {
+    position: sticky; top: 0; background: var(--navy); color: #fff; z-index: 5;
+    padding: 12px 20px; display: flex; align-items: center; gap: 14px;
+  }
+  .back-btn {
+    cursor: pointer; display: flex; align-items: center; gap: 6px;
+    font-weight: 700; font-size: 14px; background: rgba(255,255,255,0.12);
+    padding: 7px 14px; border-radius: 20px;
+  }
+  .article-wrap { max-width: 760px; margin: 0 auto; padding: 28px 20px 70px; }
+  .article-wrap .badge { margin-bottom: 14px; }
+  .article-wrap h1 { font-size: 30px; line-height: 1.28; margin: 0 0 14px; font-weight: 800; }
+  .article-meta {
+    display: flex; align-items: center; gap: 10px; margin-bottom: 20px;
+    color: var(--text-secondary); font-size: 13.5px; flex-wrap: wrap;
+  }
+  .source-avatar {
+    width: 30px; height: 30px; border-radius: 50%; background: var(--navy); color: #fff;
+    display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 13px;
+  }
+  .article-wrap img.hero { width: 100%; border-radius: 14px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 6px; }
+  .image-credit { font-size: 11.5px; color: var(--text-secondary); margin-bottom: 22px; }
+  .image-credit a { text-decoration: underline; }
+  .article-body { font-size: 17px; line-height: 1.7; color: var(--text); white-space: pre-line; }
+  .source-cta {
+    margin-top: 30px; padding: 18px; border-radius: 12px; background: var(--card);
+    border: 1px solid var(--divider); display: flex; align-items: center; justify-content: space-between; gap: 14px; flex-wrap: wrap;
+  }
+  .source-cta .label { font-size: 13px; color: var(--text-secondary); }
+  .source-cta a.btn {
+    background: var(--navy); color: #fff; padding: 10px 18px; border-radius: 8px;
+    font-weight: 700; font-size: 13.5px; display: inline-flex; align-items: center; gap: 6px;
+  }
+
+  /* ---------- Footer ---------- */
+  footer {
+    background: var(--navy-dark); color: rgba(255,255,255,0.65);
+    padding: 30px 20px; margin-top: 20px; font-size: 12.5px; line-height: 1.7;
+  }
+  footer .inner { max-width: 1180px; margin: 0 auto; }
+  footer strong { color: #fff; }
+  footer a { text-decoration: underline; }
+
+  @media (max-width: 860px) {
+    .featured { grid-template-columns: 1fr; }
+    .grid { grid-template-columns: repeat(2, 1fr); }
+    .search-box { max-width: 160px; }
+    .updated-at { display: none; }
+    .article-wrap h1 { font-size: 24px; }
+  }
+  @media (max-width: 540px) {
+    .grid { grid-template-columns: 1fr; }
+    .logo span.full { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="logo">🌐 <span class="full">Küresel<span class="dot">Haberler</span></span></div>
+    <div class="search-box">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.4"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+      <input id="searchInput" type="text" placeholder="Haber ara...">
+    </div>
+    <div class="updated-at" id="updatedAt"></div>
+  </div>
+  <nav class="categories"><div class="categories-inner" id="categoryNav"></div></nav>
+</header>
+
+<main>
+  <div id="content"><div class="loading">Haberler yükleniyor…</div></div>
+</main>
+
+<footer>
+  <div class="inner">
+    <strong>Küresel Haberler</strong> bağımsız bir haber uygulamasıdır. Buradaki haber metinleri, çeşitli haber
+    kaynaklarının kamuya açık başlık/özetleri temel alınarak yapay zeka ile özgün cümlelerle yeniden yazılmıştır;
+    ilgili yayıncının kendi metninin birebir kopyası değildir. Kapak görselleri, konuya uygun bağımsız stok
+    fotoğraflardır (<a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a>) — yayıncıya değil,
+    ilgili fotoğrafçıya aittir. Her haber, orijinal içeriği okumak isteyenler için kaynağın kendi sayfasına
+    yönlendiren bir bağlantı içerir. Bu site, herhangi bir haber kuruluşuyla resmi bağlantılı değildir.
+    <br><br>
+    Otomasyon hattı: <a href="https://github.com/mam444/kureselhaberler-feed" target="_blank" rel="noopener">github.com/mam444/kureselhaberler-feed</a>
+  </div>
+</footer>
+
+<div class="overlay" id="overlay">
+  <div class="overlay-header">
+    <div class="back-btn" id="backBtn">← Geri</div>
+  </div>
+  <div class="article-wrap" id="articleDetail"></div>
+</div>
+
+<script>
+const FEED_URL = './haberler.json';
+let allArticles = [];
+let activeCategory = 'Tümü';
+let searchQuery = '';
+
+function timeAgo(iso) {
+  if (!iso) return '';
+  const diffMs = Date.now() - new Date(iso).getTime();
+  const min = Math.max(0, Math.round(diffMs / 60000));
+  if (min < 1) return 'şimdi';
+  if (min < 60) return min + ' dk önce';
+  const hr = Math.round(min / 60);
+  if (hr < 24) return hr + ' sa önce';
+  return Math.round(hr / 24) + ' gün önce';
+}
+
+function escapeHtml(s) {
+  return (s || '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function sourceInitial(name) {
+  return (name || '?').trim().charAt(0).toUpperCase();
+}
+
+function cardImage(article, cls) {
+  if (article.imageUrl) {
+    return `<img class="${cls}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`;
+  }
+  return `<div class="${cls === 'thumb' ? 'thumb-fallback' : 'thumb-fallback'}">${escapeHtml(article.source)}</div>`;
+}
+
+function render() {
+  const filtered = allArticles.filter(a => {
+    const matchesCat = activeCategory === 'Tümü' || a.category === activeCategory;
+    const matchesQuery = !searchQuery || a.headline.toLowerCase().includes(searchQuery) || (a.body || '').toLowerCase().includes(searchQuery);
+    return matchesCat && matchesQuery;
+  });
+
+  const content = document.getElementById('content');
+  if (filtered.length === 0) {
+    content.innerHTML = '<div class="empty-state">Bu kritere uyan haber bulunamadı.</div>';
+    return;
+  }
+
+  const [top, ...rest] = filtered;
+  const sideItems = rest.slice(0, 3);
+  const gridItems = rest.slice(3);
+
+  let html = '';
+  html += `<div class="featured">
+    <div class="featured-main" data-id="${top.id}">
+      ${top.imageUrl ? `<img src="${escapeHtml(top.imageUrl)}" alt="">` : ''}
+      <div class="grad"></div>
+      <div class="content">
+        ${top.category ? `<span class="badge">${escapeHtml(top.category)}</span>` : ''}
+        <h2>${escapeHtml(top.headline)}</h2>
+        <div class="featured-meta"><span class="source-name">${escapeHtml(top.source)}</span> · <span>${timeAgo(top.publishedAt)}</span></div>
+      </div>
+    </div>
+    <div class="featured-side">
+      ${sideItems.map(a => `
+        <div class="side-card" data-id="${a.id}">
+          ${cardImage(a, 'thumb')}
+          <div class="info">
+            <h3>${escapeHtml(a.headline)}</h3>
+            <div class="card-meta"><span class="source-name">${escapeHtml(a.source)}</span> · <span>${timeAgo(a.publishedAt)}</span></div>
+          </div>
+        </div>`).join('')}
+    </div>
+  </div>`;
+
+  if (gridItems.length > 0) {
+    html += `<div class="section-title">Son Dakika</div><div class="grid">`;
+    html += gridItems.map(a => `
+      <div class="card" data-id="${a.id}">
+        ${cardImage(a, 'thumb')}
+        <div class="body">
+          ${a.category ? `<span class="cat-tag">${escapeHtml(a.category)}</span>` : ''}
+          <h3>${escapeHtml(a.headline)}</h3>
+          ${a.body ? `<p class="excerpt">${escapeHtml(a.body)}</p>` : ''}
+          <div class="card-meta"><span class="source-name">${escapeHtml(a.source)}</span> · <span>${timeAgo(a.publishedAt)}</span></div>
+        </div>
+      </div>`).join('');
+    html += `</div>`;
+  }
+
+  content.innerHTML = html;
+  content.querySelectorAll('[data-id]').forEach(el => {
+    el.addEventListener('click', () => openArticle(el.getAttribute('data-id')));
+  });
+}
+
+function renderCategoryNav() {
+  const cats = ['Tümü', ...new Set(allArticles.map(a => a.category).filter(Boolean))];
+  const nav = document.getElementById('categoryNav');
+  nav.innerHTML = cats.map(c =>
+    `<div class="cat-btn ${c === activeCategory ? 'active' : ''}" data-cat="${escapeHtml(c)}">${escapeHtml(c)}</div>`
+  ).join('');
+  nav.querySelectorAll('.cat-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      activeCategory = btn.getAttribute('data-cat');
+      renderCategoryNav();
+      render();
+    });
+  });
+}
+
+function openArticle(id) {
+  const a = allArticles.find(x => x.id === id);
+  if (!a) return;
+  const detail = document.getElementById('articleDetail');
+  detail.innerHTML = `
+    ${a.category ? `<span class="badge">${escapeHtml(a.category)}</span>` : ''}
+    <h1>${escapeHtml(a.headline)}</h1>
+    <div class="article-meta">
+      <div class="source-avatar">${escapeHtml(sourceInitial(a.source))}</div>
+      <span class="source-name">${escapeHtml(a.source)}</span> · <span>${timeAgo(a.publishedAt)}</span>
+    </div>
+    ${a.imageUrl ? `
+      <img class="hero" src="${escapeHtml(a.imageUrl)}" alt="">
+      ${a.imageCredit && a.imageCredit.photographer ? `
+        <div class="image-credit">Fotoğraf: ${escapeHtml(a.imageCredit.photographer)} /
+          <a href="${escapeHtml(a.imageCredit.unsplashUrl || 'https://unsplash.com')}" target="_blank" rel="noopener">Unsplash</a>
+        </div>` : ''}
+    ` : ''}
+    <div class="article-body">${escapeHtml(a.body || '')}</div>
+    ${a.externalUrl ? `
+      <div class="source-cta">
+        <div class="label">Orijinal habere ve yayıncının kendi ifadesine ulaşmak için:</div>
+        <a class="btn" href="${escapeHtml(a.externalUrl)}" target="_blank" rel="noopener">Kaynakta Oku ↗</a>
+      </div>` : ''}
+  `;
+  document.getElementById('overlay').classList.add('open');
+  window.scrollTo(0, 0);
+  history.pushState({ id }, '', '#' + encodeURIComponent(id));
+}
+
+function closeArticle() {
+  document.getElementById('overlay').classList.remove('open');
+  if (location.hash) history.pushState({}, '', location.pathname);
+}
+
+document.getElementById('backBtn').addEventListener('click', closeArticle);
+window.addEventListener('popstate', () => {
+  if (!location.hash) closeArticle();
+});
+
+document.getElementById('searchInput').addEventListener('input', (e) => {
+  searchQuery = e.target.value.trim().toLowerCase();
+  render();
+});
+
+fetch(FEED_URL)
+  .then(r => r.json())
+  .then(data => {
+    allArticles = (data.articles || []).slice().sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0));
+    if (data.generatedAt) {
+      document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
+    }
+    renderCategoryNav();
+    render();
+
+    const hashId = decodeURIComponent(location.hash.replace('#', ''));
+    if (hashId) openArticle(hashId);
+  })
+  .catch(() => {
+    document.getElementById('content').innerHTML = '<div class="empty-state">Haberler yüklenemedi. Lütfen daha sonra tekrar deneyin.</div>';
+  });
+</script>
+
+</body>
+</html>
