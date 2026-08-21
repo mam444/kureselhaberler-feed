@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-21T17:50:04.144Z",
+  "generatedAt": "2026-08-21T18:17:07.623Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/bakan-memisoglu-duyurdu-izmire-ikinci-sehir-hastanesi-geliyor-3457515",
+      "headline": "Sağlık Bakanı Memişoğlu, İzmir'e 1800 yataklı ikinci şehir hastanesini duyurdu",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1626315869436-d6781ba69d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzg3MzM2MTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Acton Crawford",
+        "photographerUrl": "https://unsplash.com/@acton_crawford",
+        "unsplashUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-near-green-trees-under-blue-sky-during-daytime-8PB_TFEy2XQ"
+      },
+      "timeAgo": "şimdi",
+      "body": "Sağlık Bakanı Kemal Memişoğlu, İzmir'de yeni bir şehir hastanesinin inşa edileceğini resmen açıkladı. Bakan, 1 800 yatak kapasiteli Tınaztepe Şehir Hastanesi projesinin hayata geçirileceğini belirterek, şehrin sağlık altyapısına ikinci büyük hastane kazandırılacağını vurguladı.\n\nMemişoğlu, 2023 yılında hizmete giren ve 2 200 yatak kapasitesine sahip İzmir Şehir Hastanesi'nin ardından, Tınaztepe bölgesinde aynı ölçekli bir sağlık tesisi daha inşa edileceğini söyledi. Yeni hastanenin kapasitesi, mevcut hastanenin sunduğu hizmetleri tamamlayarak bölgedeki hasta yoğunluğunu dengelemeyi amaçlıyor.\n\nİzmir, Türkiye'nin en kalabalık ve dinamik şehirlerinden biri olarak, sağlık hizmetlerine olan talebin sürekli artmasıyla dikkat çekiyor. İkinci şehir hastanesinin eklenmesi, özellikle yoğun bakım, cerrahi ve kronik hastalık tedavileri gibi kritik alanlarda hastane yataklarının yeterliliğini artıracak ve vatandaşların bekleme sürelerini kısaltacak.\n\nŞehir hastaneleri, ülke genelinde sağlık hizmetlerinin kalitesini yükseltmek ve bölgesel eşitsizlikleri azaltmak amacıyla yürütülen büyük ölçekli projeler arasında yer alıyor. Bu çerçevede, Tınaztepe Şehir Hastanesi de modern tıbbi ekipman, geniş poliklinik birimleri ve eğitim olanaklarıyla sağlık sistemine katkı sağlayacak.\n\nYeni hastanenin inşası, yerel istihdamı da olumlu yönde etkileyecek. İnşaat sürecinde binlerce işçi istihdamı sağlanacağı gibi, hastane açıldığında da doktor, hemşire ve sağlık personeli gibi kalifiye çalışanlara yeni istihdam fırsatları doğacak.\n\nBakan Memişoğlu, projenin kısa vadede hayata geçirileceğini ve tamamlandığında İzmir'in sağlık hizmetleri ağını daha da güçlendireceğini ifade etti. Bu adım, şehir hastanelerinin ülke çapındaki yaygınlaştırma stratejisinin bir parçası olarak değerlendiriliyor.\n\nİzmir'de ikinci şehir hastanesinin kurulması, bölgenin sağlık kapasitesini artırırken, vatandaşların daha yakın ve kaliteli hizmet almasını sağlayacak. Projenin ilerleyişi, sağlık bakanlığı tarafından düzenli olarak kamuoyu ile paylaşılacak.",
+      "highlights": [
+        "Sağlık Bakanı Memişoğlu, İzmir'de 1 800 yataklı Tınaztepe Şehir Hastanesi projesini duyurdu",
+        "Yeni hastane, 2023'te açılan 2 200 yataklı hastanenin ardından şehrin sağlık altyapısını güçlendirecek",
+        "Proje, yerel istihdamı artırarak hem inşaat hem de sağlık personeli açısından yeni iş fırsatları yaratacak"
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/bakan-memisoglu-duyurdu-izmire-ikinci-sehir-hastanesi-geliyor-3457515",
+      "publishedAt": "2026-08-21T20:46:46.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/live-erzurumspor-fk-galatasaray-maci-canli-anlatim-super-ligde-hafta-aciliyor-3457429",
       "headline": "Erzurumspor FK ve Galatasaray Süper Lig haftasının açılış maçında karşı karşıya",
