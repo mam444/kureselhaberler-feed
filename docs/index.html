@@ -583,27 +583,17 @@
   .cmdk-item-meta { font-size: 11.5px; color: var(--text-secondary); margin-top: 2px; }
   .cmdk-empty { padding: 30px; text-align: center; color: var(--text-secondary); font-size: 13.5px; }
 
-  /* ---------- Article detail ---------- */
-  .overlay {
-    position: fixed; inset: 0; background: var(--bg); z-index: 100;
-    overflow-y: auto; display: none;
-  }
-  .overlay.open { display: block; }
-  .overlay-header {
-    position: sticky; top: 0; background: var(--header-bg);
-    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
-    color: #fff; z-index: 5;
-    padding: 12px 20px; display: flex; align-items: center; gap: 14px;
-  }
-  .back-btn {
-    cursor: pointer; display: flex; align-items: center; gap: 6px;
-    font-weight: 700; font-size: 14px; background: rgba(255,255,255,0.12);
-    padding: 7px 14px; border-radius: 20px;
-  }
-  .article-wrap { max-width: 1440px; margin: 0 auto; padding: 28px 20px 70px; }
-  .article-layout { display: grid; grid-template-columns: minmax(0, 1fr) 360px; gap: 28px; align-items: start; }
+  /* ---------- Article detail ----------
+     Renders straight into #content like every other page (home/category/
+     about) instead of a separate fixed full-screen overlay — that overlay
+     used to sit visually on top of the real sticky header (hiding it) and,
+     worse, left #content's own sidebar widgets (#marketsWidget etc.) still
+     in the DOM underneath, so document.getElementById silently painted the
+     hidden copy while the visible one stayed stuck on its skeleton. */
+  .article-wrap { padding: 8px 0 40px; }
+  .article-layout { display: grid; grid-template-columns: minmax(0, 72fr) minmax(300px, 28fr); gap: 28px; align-items: start; }
   .article-main { min-width: 0; }
-  .article-inner { max-width: 760px; }
+  .article-inner { max-width: 760px; min-height: 60vh; }
   .article-inner .badge { margin-bottom: 14px; }
   .article-inner h1 { font-size: 34px; line-height: 1.22; margin: 0 0 14px; font-weight: 800; }
   .article-meta {
@@ -655,7 +645,7 @@
   .font-size-btn.large { font-size: 16px; }
 
   .article-body { font-size: var(--article-font-size, 18px); line-height: 1.75; color: var(--text); }
-  .article-body p { margin: 0 0 20px; }
+  .article-body p { margin: 0 0 1.5rem; }
   .article-body p:last-child { margin-bottom: 0; }
   .article-body p:first-of-type::first-letter {
     font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 46px;
@@ -878,13 +868,6 @@
   </div>
 </footer>
 
-<div class="overlay" id="overlay">
-  <div class="overlay-header">
-    <div class="back-btn" id="backBtn"><span class="msr" style="font-size:18px">arrow_back</span> Geri</div>
-  </div>
-  <div class="article-wrap" id="articleDetail"></div>
-</div>
-
 <div class="cmdk-backdrop" id="cmdkBackdrop">
   <div class="cmdk-box">
     <div class="cmdk-input-row">
@@ -1096,12 +1079,6 @@ function updateProgress(scrollTop, scrollHeight, clientHeight) {
 }
 window.addEventListener('scroll', () => {
   updateProgress(window.scrollY, document.documentElement.scrollHeight, window.innerHeight);
-});
-document.addEventListener('DOMContentLoaded', () => {
-  const overlay = document.getElementById('overlay');
-  overlay.addEventListener('scroll', () => {
-    updateProgress(overlay.scrollTop, overlay.scrollHeight, overlay.clientHeight);
-  });
 });
 
 /* ---------- pages ---------- */
@@ -1341,7 +1318,6 @@ function weatherWidgetHtml(data) {
 }
 
 function renderHome() {
-  document.getElementById('overlay').classList.remove('open');
   setBreadcrumb('');
   renderCategoryNav(null);
 
@@ -1393,7 +1369,6 @@ function renderHome() {
 }
 
 function renderCategoryPage(name) {
-  document.getElementById('overlay').classList.remove('open');
   setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">${escapeHtml(name)}</span>`);
   document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
   renderCategoryNav(name);
@@ -1416,7 +1391,6 @@ function renderCategoryPage(name) {
 }
 
 function renderAboutPage() {
-  document.getElementById('overlay').classList.remove('open');
   setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">Hakkımızda</span>`);
   document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
   renderCategoryNav(null);
@@ -1555,7 +1529,7 @@ function initNextUp(nextArticle) {
         bar.style.width = '0%';
       }
     });
-  }, { root: document.getElementById('overlay'), threshold: 0.6 });
+  }, { threshold: 0.6 });
   nextUpObserver.observe(card);
 }
 
@@ -1576,7 +1550,14 @@ function articleBodyHtml(a) {
 function openArticle(id) {
   const a = allArticles.find(x => x.id === id);
   if (!a) { location.hash = ''; return; }
-  setBreadcrumb('');
+  const shortTitle = a.headline.length > 60 ? a.headline.slice(0, 60) + '…' : a.headline;
+  setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> ${
+    a.category ? `<a id="bcCat" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</a> <span class="msr" style="font-size:15px">chevron_right</span> ` : ''
+  }<span class="current">${escapeHtml(shortTitle)}</span>`);
+  document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
+  const bcCat = document.getElementById('bcCat');
+  if (bcCat) bcCat.addEventListener('click', () => { location.hash = 'kategori/' + encodeURIComponent(a.category); });
+  renderCategoryNav(a.category || null);
   speechSynthesis.cancel();
   if (nextUpObserver) { nextUpObserver.disconnect(); nextUpObserver = null; }
   if (nextUpTimer) clearTimeout(nextUpTimer);
@@ -1589,10 +1570,9 @@ function openArticle(id) {
   const related = pickRelatedArticles(a, 0, 4);
   const nextArticle = pickNextArticle(a);
 
-  const detail = document.getElementById('articleDetail');
-  detail.className = 'article-wrap fade-in';
-  detail.style.setProperty('--article-font-size', articleFontSize() + 'px');
-  detail.innerHTML = `
+  const content = document.getElementById('content');
+  content.innerHTML = `
+    <div class="article-wrap fade-in" id="articleDetail" style="--article-font-size: ${articleFontSize()}px">
     <div class="article-layout">
     <div class="article-main"><div class="article-inner">
     ${a.category ? `<span class="badge" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
@@ -1680,9 +1660,10 @@ function openArticle(id) {
     </div></div>
     ${renderSidebar({ relatedTo: a })}
     </div>
+    </div>
   `;
 
-  bindCardClicks(detail);
+  bindCardClicks(content);
   ensureMarketsLoaded();
   ensureWeatherLoaded();
 
@@ -1722,8 +1703,6 @@ function openArticle(id) {
 
   initNextUp(nextArticle);
   renderComments(a.id);
-  document.getElementById('overlay').classList.add('open');
-  document.getElementById('overlay').scrollTop = 0;
   updateProgress(0, 1, 1);
 }
 
@@ -1967,7 +1946,6 @@ function route() {
   window.scrollTo(0, 0);
 }
 
-document.getElementById('backBtn').addEventListener('click', () => history.back());
 document.getElementById('logoHome').addEventListener('click', () => { location.hash = ''; });
 document.getElementById('aboutLink').addEventListener('click', () => { location.hash = 'hakkimizda'; });
 window.addEventListener('hashchange', route);
