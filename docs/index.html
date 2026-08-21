@@ -19,7 +19,7 @@
 <link rel="manifest" href="site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,500,0,0" rel="stylesheet">
 <style>
   .msr {
@@ -91,48 +91,110 @@
   header.site-header {
     position: sticky; top: 0; z-index: 20;
     background: var(--header-bg);
-    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
     color: #fff;
     box-shadow: 0 2px 16px rgba(0,0,0,0.15);
   }
+
+  /* ---------- Live ticker ---------- */
+  .live-ticker {
+    background: rgba(4,14,28,0.5);
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .ticker-inner {
+    max-width: 1180px; margin: 0 auto; padding: 0 20px;
+    height: 30px; display: flex; align-items: center; gap: 14px;
+  }
+  .live-badge {
+    display: flex; align-items: center; gap: 5px; flex-shrink: 0;
+    background: rgba(228,59,59,0.16); color: #FF6B6B;
+    font-size: 10px; font-weight: 800; letter-spacing: 0.5px;
+    padding: 3px 9px; border-radius: 20px; text-transform: uppercase;
+  }
+  .live-dot-blink {
+    width: 6px; height: 6px; border-radius: 50%; background: #FF3B3B; flex-shrink: 0;
+    animation: blink 1.3s ease-in-out infinite;
+  }
+  @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+  .ticker-track-wrap { flex: 1; min-width: 0; overflow: hidden; }
+  .ticker-track {
+    font-size: 12.5px; font-weight: 600; color: rgba(255,255,255,0.88);
+    white-space: nowrap; overflow: hidden; text-overflow: ellipsis; cursor: pointer;
+    animation: tickerFade .5s ease;
+  }
+  @keyframes tickerFade { from { opacity: 0; transform: translateY(3px); } to { opacity: 1; transform: none; } }
+  .ticker-right {
+    display: flex; align-items: center; gap: 14px; flex-shrink: 0;
+    font-size: 11.5px; color: rgba(255,255,255,0.7);
+  }
+  .ticker-stat { display: flex; align-items: center; gap: 4px; white-space: nowrap; }
+  .ticker-stat .ts-label { font-weight: 700; color: rgba(255,255,255,0.5); }
+  .ticker-stat .ts-value { font-weight: 700; color: #fff; font-variant-numeric: tabular-nums; }
+  .ticker-stat .ts-change { font-weight: 700; font-size: 10.5px; }
+  .ticker-stat .ts-change.up { color: var(--up); }
+  .ticker-stat .ts-change.down { color: var(--down); }
+  @media (max-width: 860px) { .ticker-right { display: none; } }
+  @media (max-width: 600px) { .live-ticker { display: none; } }
+
   .header-inner {
     max-width: 1180px; margin: 0 auto;
     padding: 14px 20px;
     display: flex; align-items: center; gap: 18px;
   }
   .logo {
-    display: flex; align-items: center; gap: 9px;
-    font-weight: 800; font-size: 21px; letter-spacing: -0.4px;
+    display: flex; align-items: center; gap: 10px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    font-weight: 900; font-size: 22px; letter-spacing: -0.6px;
     white-space: nowrap; cursor: pointer;
   }
   .logo-icon {
-    width: 32px; height: 32px; flex-shrink: 0; object-fit: contain;
+    width: 36px; height: 36px; flex-shrink: 0; object-fit: contain;
   }
   .logo .dot { color: var(--gold); }
-  .theme-toggle {
+  .header-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
+  .icon-btn-header {
     width: 34px; height: 34px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.18);
     background: rgba(255,255,255,0.08); color: #fff; display: flex; align-items: center; justify-content: center;
-    cursor: pointer; flex-shrink: 0; transition: background .2s, transform .3s;
+    cursor: pointer; flex-shrink: 0; transition: background .2s, transform .3s; position: relative;
   }
-  .theme-toggle:hover { background: rgba(255,255,255,0.18); }
+  .icon-btn-header:hover { background: rgba(255,255,255,0.18); }
   .theme-toggle .msr { transition: transform .4s ease; }
+  .bell-wrap { position: relative; }
+  .bell-dropdown {
+    position: absolute; top: calc(100% + 12px); right: 0; width: 300px;
+    background: var(--card); color: var(--text); border-radius: 14px;
+    box-shadow: 0 20px 50px rgba(0,0,0,0.3); border: 1px solid var(--card-border);
+    padding: 8px; display: none; max-height: 380px; overflow-y: auto; z-index: 30;
+  }
+  .bell-dropdown.open { display: block; }
+  .bell-title {
+    font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
+    color: var(--text-secondary); padding: 8px 10px 6px;
+  }
+  .bell-item { padding: 9px 10px; border-radius: 10px; cursor: pointer; }
+  .bell-item:hover { background: var(--bg); }
+  .bell-item-title { font-size: 13px; font-weight: 600; line-height: 1.35; }
+  .bell-item-meta { font-size: 11px; color: var(--text-secondary); margin-top: 3px; }
+  .bell-empty { padding: 22px; text-align: center; font-size: 12.5px; color: var(--text-secondary); }
+
   .search-box {
     flex: 1; max-width: 360px; margin-left: auto;
     position: relative; cursor: pointer;
   }
   .search-box input {
-    width: 100%; padding: 9px 46px 9px 38px;
-    border-radius: 20px; border: 1px solid rgba(255,255,255,0.14);
-    background: rgba(255,255,255,0.1);
+    width: 100%; padding: 9px 52px 9px 38px;
+    border-radius: 999px; border: 1px solid rgba(255,255,255,0.16);
+    background: rgba(255,255,255,0.09);
     color: #fff; font-size: 14px;
-    outline: none; cursor: pointer;
+    outline: none; cursor: pointer; transition: background .2s, border-color .2s;
   }
+  .search-box:hover input { background: rgba(255,255,255,0.14); border-color: rgba(255,255,255,0.26); }
   .search-box input::placeholder { color: rgba(255,255,255,0.6); }
-  .search-icon { position: absolute; left: 10px; top: 50%; transform: translateY(-50%); opacity: 0.75; font-size: 18px; }
+  .search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); opacity: 0.75; font-size: 18px; }
   .kbd-hint {
-    position: absolute; right: 8px; top: 50%; transform: translateY(-50%);
+    position: absolute; right: 9px; top: 50%; transform: translateY(-50%);
     font-size: 10.5px; font-weight: 700; color: rgba(255,255,255,0.55);
-    border: 1px solid rgba(255,255,255,0.25); border-radius: 5px; padding: 1px 5px;
+    border: 1px solid rgba(255,255,255,0.25); border-radius: 6px; padding: 2px 6px;
   }
   .updated-at {
     font-size: 11.5px; color: rgba(255,255,255,0.55); white-space: nowrap;
@@ -142,25 +204,45 @@
 
   nav.categories {
     background: rgba(8, 29, 59, 0.55);
-    overflow-x: auto;
-    scrollbar-width: none;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
   }
-  nav.categories::-webkit-scrollbar { display: none; }
+  .categories-row {
+    max-width: 1180px; margin: 0 auto; padding: 0 16px;
+    display: flex; align-items: center; gap: 12px;
+  }
   .categories-inner {
-    max-width: 1180px; margin: 0 auto;
-    display: flex; gap: 6px; padding: 0 16px;
+    flex: 1; min-width: 0;
+    display: flex; gap: 4px;
+    overflow-x: auto; scrollbar-width: none;
   }
+  .categories-inner::-webkit-scrollbar { display: none; }
   .cat-btn {
+    position: relative;
     flex-shrink: 0;
     padding: 10px 14px;
     font-size: 13.5px; font-weight: 600;
     color: rgba(255,255,255,0.7);
-    border-bottom: 2px solid transparent;
+    border-radius: 8px 8px 0 0;
     cursor: pointer;
-    transition: color .15s;
+    transition: color .15s, background .15s, transform .15s;
   }
-  .cat-btn:hover { color: #fff; }
-  .cat-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
+  .cat-btn:hover { color: #fff; transform: translateY(-1px); }
+  .cat-btn.active { color: var(--gold); background: rgba(var(--gold-rgb), 0.13); }
+  .cat-btn.active::after {
+    content: ""; position: absolute; left: 10px; right: 10px; bottom: 0; height: 2px;
+    background: var(--gold); border-radius: 2px; box-shadow: 0 0 8px rgba(var(--gold-rgb),0.85);
+  }
+  .live-show-badge {
+    flex-shrink: 0; display: flex; align-items: center; gap: 5px;
+    background: rgba(var(--gold-rgb), 0.16); color: var(--gold);
+    font-size: 10.5px; font-weight: 800; letter-spacing: 0.5px; text-transform: uppercase;
+    padding: 7px 12px; border-radius: 20px; cursor: default; white-space: nowrap;
+    animation: podcastGlow 2.4s ease-in-out infinite;
+  }
+  @keyframes podcastGlow {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(var(--gold-rgb), 0.35); }
+    50% { box-shadow: 0 0 0 6px rgba(var(--gold-rgb), 0); }
+  }
 
   /* ---------- Breadcrumb ---------- */
   .breadcrumb {
@@ -561,6 +643,8 @@
   @media (max-width: 540px) {
     .grid { grid-template-columns: 1fr; }
     .logo span.full { display: none; }
+    .live-show-badge { display: none; }
+    .bell-dropdown { width: 260px; right: -60px; }
   }
 </style>
 </head>
@@ -569,17 +653,35 @@
 <div id="progressBar"></div>
 
 <header class="site-header">
+  <div class="live-ticker">
+    <div class="ticker-inner">
+      <div class="live-badge"><span class="live-dot-blink"></span>Son Dakika</div>
+      <div class="ticker-track-wrap"><div class="ticker-track" id="tickerTrack">Yükleniyor...</div></div>
+      <div class="ticker-right" id="tickerStats"></div>
+    </div>
+  </div>
   <div class="header-inner">
-    <div class="logo" id="logoHome"><img class="logo-icon" src="assets/brand/icon-transparent@2x.png" alt="Küresel Haberler" width="32" height="32"> <span class="full">Küresel<span class="dot">Haberler</span></span></div>
+    <div class="logo" id="logoHome"><img class="logo-icon" src="assets/brand/icon-transparent@2x.png" alt="Küresel Haberler" width="36" height="36"> <span class="full">Küresel<span class="dot">Haberler</span></span></div>
     <div class="search-box" id="searchBoxTrigger">
       <span class="msr search-icon">search</span>
       <input id="searchInput" type="text" placeholder="Haber ara..." readonly>
-      <span class="kbd-hint">Ctrl K</span>
+      <span class="kbd-hint" id="kbdHint">Ctrl K</span>
     </div>
-    <div class="theme-toggle" id="themeToggle"><span class="msr" id="themeIcon">dark_mode</span></div>
+    <div class="header-actions">
+      <div class="bell-wrap">
+        <div class="icon-btn-header" id="bellToggle"><span class="msr">notifications</span></div>
+        <div class="bell-dropdown" id="bellDropdown"></div>
+      </div>
+      <div class="icon-btn-header theme-toggle" id="themeToggle"><span class="msr" id="themeIcon">dark_mode</span></div>
+    </div>
     <div class="updated-at"><span class="msr" style="font-size:15px">schedule</span> <span id="updatedAt"></span></div>
   </div>
-  <nav class="categories"><div class="categories-inner" id="categoryNav"></div></nav>
+  <nav class="categories">
+    <div class="categories-row">
+      <div class="categories-inner" id="categoryNav"></div>
+      <div class="live-show-badge"><span class="msr" style="font-size:14px">podcasts</span>Podcast</div>
+    </div>
+  </nav>
 </header>
 
 <div id="breadcrumbWrap"></div>
@@ -824,17 +926,44 @@ function renderSidebar() {
 
 // Bir kez çekilip her sayfa geçişinde önbellekten tekrar çizilir (haber
 // akışı gibi 10 dakikada bir güncellenen statik markets.json'a her
-// sayfa değişiminde yeniden istek atmamak için).
+// sayfa değişiminde yeniden istek atmamak için). Aynı önbellek üst
+// banttaki canlı bilgi bandını da besler (bkz. paintTickerStats).
+let marketsData = null;
+let weatherData = null;
 let marketsPromise = null;
 function ensureMarketsLoaded() {
   if (!marketsPromise) {
     marketsPromise = fetch('./markets.json').then(r => r.json()).catch(() => null);
   }
   marketsPromise.then(data => {
+    marketsData = data;
+    paintTickerStats();
     const el = document.getElementById('marketsWidget');
     if (!el) return;
     el.innerHTML = data ? marketsWidgetHtml(data) : marketsWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
   });
+}
+
+function tickerStatChip(label, entry, digits, suffix) {
+  if (!entry || typeof entry.price !== 'number') return '';
+  const up = entry.changePct >= 0;
+  return `<span class="ticker-stat"><span class="ts-label">${label}</span><span class="ts-value">${fmtNum(entry.price, digits)}${suffix}</span><span class="ts-change ${up ? 'up' : 'down'}">${up ? '▲' : '▼'}${fmtNum(Math.abs(entry.changePct), 2)}%</span></span>`;
+}
+
+function paintTickerStats() {
+  const el = document.getElementById('tickerStats');
+  if (!el) return;
+  let html = '';
+  if (marketsData) {
+    html += tickerStatChip('BIST100', marketsData.bist100, 0, '');
+    html += tickerStatChip('USD', marketsData.usdTry, 2, '₺');
+    html += tickerStatChip('EUR', marketsData.eurTry, 2, '₺');
+  }
+  if (weatherData && weatherData.current) {
+    const temp = Math.round(weatherData.current.temperature_2m);
+    html += `<span class="ticker-stat"><span class="msr" style="font-size:14px">device_thermostat</span><span class="ts-value">İstanbul ${temp}°</span></span>`;
+  }
+  el.innerHTML = html;
 }
 
 function marketsWidgetTitle() {
@@ -906,9 +1035,11 @@ function ensureWeatherLoaded() {
       .then(r => r.json()).catch(() => null);
   }
   weatherPromise.then(data => {
+    weatherData = data && data.current ? data : null;
+    paintTickerStats();
     const el = document.getElementById('weatherWidget');
     if (!el) return;
-    el.innerHTML = data && data.current ? weatherWidgetHtml(data) : weatherWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
+    el.innerHTML = weatherData ? weatherWidgetHtml(weatherData) : weatherWidgetTitle() + '<div class="widget-empty">Şu anda yüklenemedi.</div>';
   });
 }
 
@@ -1316,6 +1447,72 @@ function initCmdk() {
   });
 }
 
+/* ---------- top ticker headline rotation ---------- */
+
+let tickerIndex = 0;
+let tickerTimer = null;
+function paintTickerHeadline() {
+  const track = document.getElementById('tickerTrack');
+  if (!track || allArticles.length === 0) return;
+  const items = allArticles.slice(0, 6);
+  const a = items[tickerIndex % items.length];
+  tickerIndex++;
+  track.style.animation = 'none';
+  void track.offsetWidth; // reflow, so the fade-in replays on each headline swap
+  track.style.animation = '';
+  track.textContent = a.headline;
+  track.onclick = () => { location.hash = encodeURIComponent(a.id); };
+}
+function startTicker() {
+  paintTickerHeadline();
+  if (tickerTimer) clearInterval(tickerTimer);
+  tickerTimer = setInterval(paintTickerHeadline, 4500);
+}
+
+/* ---------- notification bell ---------- */
+
+function renderBellDropdown() {
+  const el = document.getElementById('bellDropdown');
+  if (!el) return;
+  if (allArticles.length === 0) {
+    el.innerHTML = '<div class="bell-empty">Henüz haber yok.</div>';
+    return;
+  }
+  el.innerHTML = '<div class="bell-title">Son Haberler</div>' + allArticles.slice(0, 5).map(a => `
+    <div class="bell-item" data-id="${a.id}">
+      <div class="bell-item-title">${escapeHtml(a.headline)}</div>
+      <div class="bell-item-meta">${timeAgo(a.publishedAt)}</div>
+    </div>`).join('');
+  el.querySelectorAll('[data-id]').forEach(item => {
+    item.addEventListener('click', () => {
+      closeBell();
+      location.hash = encodeURIComponent(item.getAttribute('data-id'));
+    });
+  });
+}
+function closeBell() { document.getElementById('bellDropdown').classList.remove('open'); }
+function initBell() {
+  document.getElementById('bellToggle').addEventListener('click', (e) => {
+    e.stopPropagation();
+    const dropdown = document.getElementById('bellDropdown');
+    const wasOpen = dropdown.classList.contains('open');
+    dropdown.classList.toggle('open');
+    if (!wasOpen) renderBellDropdown();
+  });
+  document.addEventListener('click', (e) => {
+    const dropdown = document.getElementById('bellDropdown');
+    const toggle = document.getElementById('bellToggle');
+    if (dropdown.classList.contains('open') && !dropdown.contains(e.target) && !toggle.contains(e.target)) {
+      closeBell();
+    }
+  });
+}
+
+function initKbdHint() {
+  const isApple = /Mac|iPhone|iPad/.test(navigator.userAgent);
+  document.getElementById('kbdHint').textContent = isApple ? '⌘K' : 'Ctrl K';
+}
+
 /* ---------- router ---------- */
 
 function route() {
@@ -1339,6 +1536,12 @@ window.addEventListener('hashchange', route);
 
 initTheme();
 initCmdk();
+initBell();
+initKbdHint();
+// Bant, üst menü her sayfada (haber detayında dahi) göründüğünden, sadece
+// ana sayfa/kategori render'ında değil burada, açılışta bir kez tetiklenir.
+ensureMarketsLoaded();
+ensureWeatherLoaded();
 
 fetch(FEED_URL)
   .then(r => r.json())
@@ -1347,6 +1550,7 @@ fetch(FEED_URL)
     if (data.generatedAt) {
       document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
     }
+    startTicker();
     route();
   })
   .catch(() => {
