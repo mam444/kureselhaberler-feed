@@ -8,7 +8,11 @@ import { sendNewArticleNotification } from './onesignal.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-const MAX_NEW_PER_RUN = 8;
+// NTV tarzı uzun makaleler artık başına 2800 token'a kadar harcayabiliyor
+// (öncesi 1050'ydi) — Groq ücretsiz kademenin günlük 200.000 token
+// sınırını daha hızlı tüketmemek için çalıştırma başına işlenen yeni haber
+// sayısı düşürüldü; böylece bütçe günün daha büyük bölümüne yayılıyor.
+const MAX_NEW_PER_RUN = 5;
 const MAX_TOTAL_ARTICLES = 300;
 // Groq çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).

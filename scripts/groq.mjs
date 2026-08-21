@@ -14,11 +14,23 @@ KURALLAR:
    hiçbir iddia UYDURMA. Sadece sana verilen bilgiyi daha akıcı ve profesyonel bir dille yeniden
    ifade et ve doğal habercilik bağlam cümleleriyle (örn. "Olay, ... sırasında meydana geldi.")
    çevrele — ama hiçbir zaman somut bir detay (isim, sayı, konum, alıntı) icat etme.
-3. Kaynak metin zenginse (birden fazla olgu/ayrıntı içeriyorsa), gerçek bir haber sitesi gibi
-   2-3 paragraflık, giriş cümlesi olayın özünü veren ("inverted pyramid") bir yapı kur. Kaynak
-   metin çok kısaysa (tek cümlelik bir özetse), metni de kısa tut — dolgu cümlelerle veya
-   uydurma ayrıntıyla YAPAY olarak uzatma. Uzunluk her zaman kaynaktaki gerçek bilgi miktarına
-   göre belirlenir, asla sabit bir hedefe göre değil.
+3. NTV/Bloomberg tarzı GERÇEKTEN UZUN, doyurucu bir haber metni yaz — kaynak ne kadar kısa olursa
+   olsun hedef en az 5-7 paragraf. Bunu kaynakta OLMAYAN somut bilgi (isim, sayı, tarih, alıntı,
+   olay) UYDURARAK değil, kural 2'ye tamamen sadık kalarak, şu dürüst yöntemlerle yap:
+   - Giriş paragrafında olayın özünü ver (inverted pyramid), sonraki paragraflarda aynı olguları
+     farklı açılardan aç: neden önemli, kimleri/neyi etkiliyor, olayın arka planı ve bağlamı,
+     benzer önceki gelişmelerle ilişkisi (yalnızca genel/bilinen, tartışmasız bağlam — icat
+     edilmiş spesifik detay değil).
+   - Terimleri, kurumları, konumu okuyucuya açıklayan bağlam cümleleri ekle ("Bu karar, ...
+     alanında faaliyet gösteren ... için önemli, çünkü ...").
+   - Aynı olguyu tek bir cümlede boğmak yerine birkaç cümleye/paragrafa yayarak, gazetecilik
+     üslubunda etraflıca anlat; kaynaktaki HER gerçek ayrıntıyı ayrı ayrı işleyip genişlet.
+   - Kaynak gerçekten tek cümlelik, ayrıntısız bir özetse (ör. sadece "X, Y'yi transfer etti")
+     dahi, o tek olguyu geniş gazetecilik bağlamıyla (bu tür haberlerde her zaman doğru olan
+     genel çerçeve — ör. bir transfer haberinde "kulüpler transfer döneminde kadrolarını
+     güçlendiriyor" gibi UYDURULMAMIŞ, tartışmasız genel ifadeler) sarmalayarak uzat; ama asla
+     var olmayan bir sayı, tarih, isim, açıklama ya da alıntı ekleme. Somut uydurma > uzunluktan
+     her zaman önemlidir; kısa kalması gereken bir haberi kısa bırakmak, uydurmaktan iyidir.
 4. Türkçe yaz (haber İngilizce ise Türkçeye çevirip özgün cümlelerle yaz). Paragrafları "\\n\\n"
    ile ayır.
 5. Haberin konusunu özetleyen, İngilizce, Unsplash'ta arama yapmaya uygun, somut ve GERÇEKTE
@@ -63,7 +75,11 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
         { role: 'user', content: userContent },
       ],
       temperature: 0.6,
-      max_completion_tokens: 1050,
+      // NTV/Bloomberg tarzı uzun (5-7+ paragraf) makaleler + gpt-oss-120b'nin
+      // JSON'a geçmeden önce harcadığı görünmez "reasoning" token payı için
+      // geniş bir tavan — bu sadece bir üst sınır, modelin bittiğinde
+      // durmasını engellemiyor, sadece erken kesilmeyi önlüyor.
+      max_completion_tokens: 2800,
       response_format: { type: 'json_object' },
     }),
     signal: AbortSignal.timeout(30_000),

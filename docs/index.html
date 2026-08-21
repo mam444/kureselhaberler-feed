@@ -529,22 +529,6 @@
   .sidebar-ad-content .ad-label { font-size: 12.5px; opacity: 0.8; }
   .sidebar-ad-content .msr { font-size: 24px; opacity: 0.25; }
 
-  /* In-feed ad card: reuses the exact .card-media/.card-footer split of a
-     real news card (same size/radius/dark fallback, same footer height) so
-     it never reads as an empty white box or throws off the grid row
-     height, just with a gray "Reklam" badge instead of a category pill and
-     a shimmering placeholder instead of a photo. */
-  .card.ad-slot.in-feed { border-radius: 14px; color: inherit; align-items: stretch; justify-content: flex-start; }
-  .card.ad-slot.in-feed .card-media { background: var(--navy); align-items: stretch; }
-  .card.ad-slot.in-feed .card-footer { text-align: left; }
-  .ad-badge {
-    position: absolute; top: 10px; left: 10px; z-index: 2;
-    display: inline-block; font-size: 10px; font-weight: 800;
-    text-transform: uppercase; letter-spacing: 0.5px;
-    background: rgba(255,255,255,0.16); color: rgba(255,255,255,0.8);
-    backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px);
-    padding: 3px 8px; border-radius: 5px;
-  }
   .ad-shimmer {
     position: absolute; inset: 0;
     background: linear-gradient(100deg, rgba(255,255,255,0.03) 30%, rgba(255,255,255,0.1) 50%, rgba(255,255,255,0.03) 70%);
@@ -552,6 +536,26 @@
     animation: adShimmer 1.8s ease-in-out infinite;
   }
   @keyframes adShimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+
+  /* Horizontal banner between feed sections (every AD_EVERY_N cards) —
+     keeps the news grid itself 100% real articles, no ad tiles mixed in. */
+  .feed-banner {
+    display: flex; align-items: center; gap: 12px;
+    border: 1px solid var(--card-border); border-radius: 12px; background: var(--card);
+    padding: 0 16px; height: 52px; margin: 22px 0; color: var(--text-secondary);
+  }
+  .feed-banner-eyebrow {
+    flex-shrink: 0; font-size: 9.5px; font-weight: 800; letter-spacing: 0.7px;
+    text-transform: uppercase; opacity: 0.55;
+    border: 1px solid var(--divider); border-radius: 4px; padding: 2px 6px;
+  }
+  .feed-banner-shimmer {
+    flex: 1; height: 10px; border-radius: 5px;
+    background: linear-gradient(100deg, rgba(var(--navy-rgb),0.05) 30%, rgba(var(--navy-rgb),0.15) 50%, rgba(var(--navy-rgb),0.05) 70%);
+    background-size: 200% 100%;
+    animation: adShimmer 1.8s ease-in-out infinite;
+  }
+  .feed-banner-label { flex-shrink: 0; font-size: 11.5px; opacity: 0.85; }
 
   /* ---------- Command-K search modal ---------- */
   .cmdk-backdrop {
@@ -946,13 +950,14 @@ function cardImage(article, cls) {
   return `<div class="thumb-fallback"><span class="msr" style="font-size:26px;opacity:.85">newspaper</span><span>${SITE_NAME}</span></div>`;
 }
 
-function adSlotCard() {
-  return `<div class="card ad-slot in-feed">
-    <div class="card-media">
-      <span class="ad-badge">Sponsorlu İçerik</span>
-      <div class="ad-shimmer"></div>
-    </div>
-    <div class="card-footer"><span class="cf-item"><span class="msr">campaign</span>Reklam alanı</span></div>
+// Bölüm arası yatay reklam bandı — akışın kesintisiz kalması için artık
+// haber kartlarının arasına DEĞİL, her AD_EVERY_N haberlik bir bloktan
+// sonra tam genişlikte, ince bir bant olarak konur (bkz. feedSectionsHtml).
+function feedBannerHtml() {
+  return `<div class="feed-banner">
+    <span class="feed-banner-eyebrow">Sponsorlu</span>
+    <div class="feed-banner-shimmer"></div>
+    <span class="feed-banner-label">Reklam alanı</span>
   </div>`;
 }
 
@@ -1017,13 +1022,13 @@ function cardHtml(a) {
     </div>`;
 }
 
-function gridWithAds(items) {
-  let html = '<div class="grid">';
-  items.forEach((a, i) => {
-    html += cardHtml(a);
-    if ((i + 1) % AD_EVERY_N === 0 && i !== items.length - 1) html += adSlotCard();
-  });
-  html += '</div>';
+function feedSectionsHtml(items) {
+  let html = '';
+  for (let i = 0; i < items.length; i += AD_EVERY_N) {
+    const chunk = items.slice(i, i + AD_EVERY_N);
+    html += `<div class="grid">${chunk.map(cardHtml).join('')}</div>`;
+    if (i + AD_EVERY_N < items.length) html += feedBannerHtml();
+  }
   return html;
 }
 
@@ -1376,7 +1381,7 @@ function renderHome() {
 
   if (gridItems.length > 0) {
     main += `<div class="section-title">Son Dakika</div>`;
-    main += gridWithAds(gridItems);
+    main += feedSectionsHtml(gridItems);
   }
 
   const html = `<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
@@ -1400,7 +1405,7 @@ function renderCategoryPage(name) {
   if (items.length === 0) {
     main += '<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.4">inbox</span><br>Bu kategoride henüz haber yok.</div>';
   } else {
-    main += `<div style="margin-top:2px">${gridWithAds(items)}</div>`;
+    main += `<div style="margin-top:2px">${feedSectionsHtml(items)}</div>`;
   }
   const heading = `<div class="page-heading" style="max-width:none;margin:0;padding:0"><span class="msr" style="color:var(--gold)">grid_view</span>${escapeHtml(name)}</div>`;
   const html = `${heading}<div class="home-layout" style="margin-top:18px"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
