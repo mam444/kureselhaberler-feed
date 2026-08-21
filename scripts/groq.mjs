@@ -26,6 +26,10 @@ KURALLAR:
    "police car", "gold bars", "football stadium"). Soyut kavramlar değil, gerçek nesne/sahne
    tarif et.
 6. Kategori üretme; kategori ataması ayrıca yapılıyor.
+7. Başlığı normal Türkçe yazım kurallarına uygun, sadece cümle başı ve özel isimler büyük harfle
+   başlayan bir biçimde yaz — kaynak başlık TAMAMEN BÜYÜK HARFLE ("SON DAKİKA...", "AÇIKLAMA
+   GELDİ" gibi) verilmiş olsa bile, bunu asla olduğu gibi kopyalama; gerçek bir gazetenin normal
+   başlık üslubuna çevir.
 
 Sadece şu JSON şemasında cevap ver, başka hiçbir şey yazma:
 {"headline": "...", "body": "...", "imageKeyword": "..."}`;
