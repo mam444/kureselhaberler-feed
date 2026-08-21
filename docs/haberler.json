@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-21T18:17:07.623Z",
+  "generatedAt": "2026-08-21T19:01:35.300Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/istanbulda-mezarlik-manzarali-daire-3457524",
+      "headline": "İstanbul Avcılar’da mezarlık manzaralı daireler tartışma yarattı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594900295631-20ac7ad573dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2VtZXRlcnklMjB2aWV3fGVufDF8MHx8fDE3ODczMzg4NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "JF Martin",
+        "photographerUrl": "https://unsplash.com/@numericcitizen",
+        "unsplashUrl": "https://unsplash.com/photos/silhouette-of-people-standing-on-top-of-building-during-sunset-MXXB9T6BMYQ"
+      },
+      "timeAgo": "şimdi",
+      "body": "İstanbul’un Avcılar ilçesinde, kentsel dönüşüm projesi kapsamında yenilenen bir apartman binasının konumu gündeme oturdu. Yeniden inşa edilen yapı, hemen yanındaki mezarlığa bakan pencereler ve balkonlar sayesinde bazı daire sakinlerinin mezarlık manzarasını doğrudan görmesine olanak tanıyor.\n\nKentsel dönüşüm, eski ve riskli yapıların yerine modern konutların yapılmasını hedefleyen geniş çaplı bir şehir planlama programıdır. Bu süreçte yeni binalar, mevcut altyapı ve çevresel unsurlarla bir arada değerlendirilerek inşa edilse de, bazen komşu alanlarla olan görsel ve fonksiyonel ilişkiler göz ardı edilebiliyor.\n\nSöz konusu apartman, yüksek katlı bir yapı olarak yeniden tasarlandı ve pencereleri ile balkonları, mezarlığın açık alanına doğru yönlendirildi. Gözlemcilerin belirttiği üzere, bazı dairelerdeki yaşam alanları, mezarlığın sakin ve sessiz atmosferiyle doğrudan temas halinde bulunuyor.\n\nBu durum, bölge sakinleri ve sosyal medya kullanıcıları arasında çeşitli tepkilere yol açtı. Bazı vatandaşlar, mezarlık manzarasının mahremiyet ve psikolojik konfor açısından sorun yaratabileceğini dile getirirken, belediye yetkilileri mevcut inşaat mevzuatına uygun hareket edildiğini vurguladı.\n\nBenzer durumlar, şehirlerin hızlı büyüme ve yenileme süreçlerinde zaman zaman ortaya çıkabiliyor. Planlama otoriteleri, mezarlık gibi kutsal alanların yakınındaki yapıların tasarımında görsel etkileri ve çevresel faktörleri göz önünde bulundurmaları gerektiğini hatırlatıyor.\n\nBu gelişme, Avcılar’da kentsel dönüşüm projelerinin toplumsal duyarlılık çerçevesinde yeniden değerlendirilmesi gerektiği tartışmasını alevlendirdi. İlgili kurumların, mevcut yapıyı gözden geçirerek olası düzenlemeler yapması bekleniyor.",
+      "highlights": [
+        "Avcılar’da yeni apartman, mezarlığa bakan pencerelerle dikkat çekti.",
+        "Sosyal medyada mezarlık manzarasının mahremiyet üzerindeki etkisi tartışıldı.",
+        "Belediye, inşaatın mevcut mevzuata uygun olduğunu belirtti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/istanbulda-mezarlik-manzarali-daire-3457524",
+      "publishedAt": "2026-08-21T21:58:48.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/bakan-memisoglu-duyurdu-izmire-ikinci-sehir-hastanesi-geliyor-3457515",
       "headline": "Sağlık Bakanı Memişoğlu, İzmir'e 1800 yataklı ikinci şehir hastanesini duyurdu",
