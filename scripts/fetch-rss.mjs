@@ -66,7 +66,10 @@ function parseRssItem(item, source) {
   const description = stripHtml(descriptionRaw);
   const publishedAt = item.pubDate ? new Date(textOf(item.pubDate)) : null;
   const image = extractImageFromItem(item, descriptionRaw);
-  const category = item.category ? textOf(item.category).trim() : source.defaultCategory;
+  // Always our own curated Turkish category, never the feed's own <category>
+  // tag — those are inconsistent per source (some English, some missing),
+  // and a real news site's category nav needs to be clean and predictable.
+  const category = source.defaultCategory;
 
   return {
     id: link,
@@ -96,7 +99,7 @@ function parseAtomEntry(entry, source) {
   const publishedRaw = entry.published || entry.updated;
   const publishedAt = publishedRaw ? new Date(textOf(publishedRaw)) : null;
   const image = extractImageFromItem(entry, contentRaw || summaryRaw);
-  const category = entry.category?.['@_term'] || source.defaultCategory;
+  const category = source.defaultCategory;
 
   return {
     id: link,

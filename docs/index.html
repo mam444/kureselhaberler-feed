@@ -50,7 +50,7 @@
   }
   * { box-sizing: border-box; }
   body { margin: 0; }
-  body, input, button { font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  body, input, button, textarea { font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
   h1, h2, h3, .logo, .section-title, .badge { font-family: 'Manrope', 'Inter', sans-serif; }
   body {
     background: var(--bg);
@@ -74,7 +74,7 @@
   .logo {
     display: flex; align-items: center; gap: 8px;
     font-weight: 800; font-size: 21px; letter-spacing: -0.4px;
-    white-space: nowrap;
+    white-space: nowrap; cursor: pointer;
   }
   .logo-icon { color: var(--gold); font-size: 26px; font-variation-settings: 'FILL' 1; }
   .logo .dot { color: var(--gold); }
@@ -121,6 +121,20 @@
   .cat-btn:hover { color: #fff; }
   .cat-btn.active { color: var(--gold); border-bottom-color: var(--gold); }
 
+  /* ---------- Breadcrumb ---------- */
+  .breadcrumb {
+    max-width: 1180px; margin: 0 auto; padding: 16px 20px 0;
+    font-size: 13px; color: var(--text-secondary);
+    display: flex; align-items: center; gap: 6px;
+  }
+  .breadcrumb a { cursor: pointer; }
+  .breadcrumb a:hover { color: var(--navy); text-decoration: underline; }
+  .breadcrumb .current { color: var(--text); font-weight: 700; }
+  .page-heading {
+    max-width: 1180px; margin: 6px auto 0; padding: 0 20px;
+    font-size: 26px; font-weight: 800; display: flex; align-items: center; gap: 10px;
+  }
+
   /* ---------- Layout ---------- */
   main { max-width: 1180px; margin: 0 auto; padding: 22px 20px 60px; }
 
@@ -147,10 +161,10 @@
     display: inline-block; font-size: 11px; font-weight: 700;
     text-transform: uppercase; letter-spacing: 0.4px;
     background: var(--gold); color: var(--navy-dark);
-    padding: 3px 9px; border-radius: 4px; margin-bottom: 10px;
+    padding: 3px 9px; border-radius: 4px; margin-bottom: 10px; cursor: pointer;
   }
   .featured-main h2 { font-size: 26px; line-height: 1.28; margin: 0 0 8px; font-weight: 800; }
-  .featured-meta, .card-meta { font-size: 12.5px; color: var(--text-secondary); display: flex; gap: 8px; align-items: center; }
+  .featured-meta, .card-meta { font-size: 12.5px; color: var(--text-secondary); display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
   .featured-main .featured-meta { color: rgba(255,255,255,0.75); }
 
   .side-card {
@@ -196,7 +210,7 @@
   .card p.excerpt { font-size: 12.5px; color: var(--text-secondary); margin: 0;
     display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
-  .cat-tag { color: var(--accent-blue); font-weight: 700; }
+  .cat-tag { color: var(--accent-blue); font-weight: 700; cursor: pointer; }
   .source-name { font-weight: 700; color: var(--text); }
   .time-tag { display: inline-flex; align-items: center; gap: 3px; }
   .time-tag .msr { font-size: 14px; opacity: 0.7; }
@@ -219,6 +233,26 @@
   }
   .fade-in { animation: fadeIn .35s ease both; }
   @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+  /* ---------- Ad slots ---------- */
+  .ad-slot {
+    border: 1.5px dashed var(--divider);
+    border-radius: 12px;
+    background: var(--card);
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    gap: 4px; text-align: center; color: var(--text-secondary);
+  }
+  .ad-slot .ad-eyebrow {
+    font-size: 10px; font-weight: 800; letter-spacing: 0.6px; text-transform: uppercase;
+    color: var(--text-secondary); opacity: 0.7;
+  }
+  .ad-slot .ad-label { font-size: 12.5px; }
+  .ad-slot .msr { font-size: 22px; opacity: 0.35; }
+  .ad-slot.leaderboard { min-height: 90px; margin-bottom: 22px; }
+  .ad-slot.in-feed { aspect-ratio: 16/9; }
+  .ad-slot.in-feed .body-fill { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 4px; width: 100%; }
+  .ad-slot.in-article { min-height: 200px; margin: 26px 0; }
+  .ad-slot.sidebar { min-height: 250px; }
 
   /* ---------- Article detail ---------- */
   .overlay {
@@ -244,7 +278,7 @@
   }
   .source-avatar {
     width: 30px; height: 30px; border-radius: 50%; background: var(--navy); color: #fff;
-    display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 13px;
+    display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 13px; flex-shrink: 0;
   }
   .article-wrap img.hero { width: 100%; border-radius: 14px; aspect-ratio: 16/9; object-fit: cover; margin-bottom: 6px; }
   .image-credit { font-size: 11.5px; color: var(--text-secondary); margin-bottom: 22px; }
@@ -262,16 +296,49 @@
     font-size: 13px; color: var(--text-secondary); font-style: italic;
   }
   .byline-note .msr { color: var(--gold); opacity: 1; }
-  .share-row { margin-top: 18px; display: flex; align-items: center; gap: 10px; }
-  .share-label { font-size: 12.5px; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.4px; }
-  .share-btn {
+
+  .action-row { margin-top: 18px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .action-btn {
+    display: inline-flex; align-items: center; gap: 6px;
+    height: 36px; padding: 0 14px; border-radius: 20px; border: 1px solid var(--divider);
+    background: var(--card); cursor: pointer; color: var(--text); font-size: 13.5px; font-weight: 700;
+    transition: background .15s, transform .15s, border-color .15s, color .15s;
+  }
+  .action-btn:hover { transform: translateY(-1px); }
+  .action-btn.liked { color: var(--accent-red); border-color: var(--accent-red); background: rgba(228,59,59,0.08); }
+  .action-btn .msr { font-size: 18px; }
+  .share-label { font-size: 12.5px; font-weight: 700; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.4px; margin-left: 4px; }
+  .icon-btn {
     width: 36px; height: 36px; border-radius: 50%; border: 1px solid var(--divider);
     background: var(--card); display: flex; align-items: center; justify-content: center;
-    cursor: pointer; transition: background .15s, transform .15s; color: var(--navy);
+    cursor: pointer; transition: background .15s, transform .15s; color: var(--navy); padding: 0;
   }
-  .share-btn:hover { background: var(--bg); transform: translateY(-1px); }
-  button.share-btn { font: inherit; padding: 0; }
-  .share-btn .msr { font-size: 18px; }
+  .icon-btn:hover { background: var(--bg); transform: translateY(-1px); }
+  .icon-btn .msr { font-size: 18px; }
+
+  /* ---------- Comments ---------- */
+  .comments-section { margin-top: 40px; padding-top: 24px; border-top: 1px solid var(--divider); }
+  .comments-heading { font-size: 18px; font-weight: 800; margin: 0 0 16px; display: flex; align-items: center; gap: 8px; }
+  .comment-form { display: flex; gap: 10px; margin-bottom: 24px; }
+  .comment-form .source-avatar { background: var(--gold); color: var(--navy-dark); }
+  .comment-form-fields { flex: 1; display: flex; flex-direction: column; gap: 8px; }
+  .comment-form input, .comment-form textarea {
+    width: 100%; border: 1px solid var(--divider); border-radius: 10px;
+    padding: 10px 12px; font-size: 14px; background: var(--card); color: var(--text); outline: none;
+    resize: vertical;
+  }
+  .comment-form input:focus, .comment-form textarea:focus { border-color: var(--navy); }
+  .comment-form textarea { min-height: 64px; }
+  .comment-submit {
+    align-self: flex-end; background: var(--navy); color: #fff; border: none;
+    padding: 8px 16px; border-radius: 20px; font-weight: 700; font-size: 13px; cursor: pointer;
+  }
+  .comment-item { display: flex; gap: 10px; margin-bottom: 18px; }
+  .comment-body { flex: 1; background: var(--card); border: 1px solid var(--divider); border-radius: 12px; padding: 10px 14px; }
+  .comment-author { font-weight: 700; font-size: 13.5px; }
+  .comment-time { font-size: 11.5px; color: var(--text-secondary); margin-left: 6px; }
+  .comment-text { font-size: 14px; margin-top: 4px; line-height: 1.5; white-space: pre-line; }
+  .comments-empty { color: var(--text-secondary); font-size: 13.5px; padding: 10px 0; }
 
   /* ---------- Footer ---------- */
   footer {
@@ -280,7 +347,8 @@
   }
   footer .inner { max-width: 1180px; margin: 0 auto; }
   footer strong { color: #fff; }
-  footer a { text-decoration: underline; }
+  footer a { text-decoration: underline; cursor: pointer; }
+  footer .foot-links { margin-top: 14px; display: flex; gap: 16px; flex-wrap: wrap; }
 
   @media (max-width: 860px) {
     .featured { grid-template-columns: 1fr; }
@@ -299,7 +367,7 @@
 
 <header class="site-header">
   <div class="header-inner">
-    <div class="logo"><span class="msr logo-icon">globe</span> <span class="full">Küresel<span class="dot">Haberler</span></span></div>
+    <div class="logo" id="logoHome"><span class="msr logo-icon">globe</span> <span class="full">Küresel<span class="dot">Haberler</span></span></div>
     <div class="search-box">
       <span class="msr search-icon">search</span>
       <input id="searchInput" type="text" placeholder="Haber ara...">
@@ -309,6 +377,7 @@
   <nav class="categories"><div class="categories-inner" id="categoryNav"></div></nav>
 </header>
 
+<div id="breadcrumbWrap"></div>
 <main>
   <div id="content">
     <div class="featured">
@@ -333,8 +402,13 @@
     kaynaklarının kamuya açık başlık/özetleri temel alınarak yapay zeka ile özgün cümlelerle yeniden yazılmıştır;
     ilgili yayıncının kendi metninin birebir kopyası değildir. Kapak görselleri, konuya uygun bağımsız stok
     fotoğraflardır (<a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a>) — yayıncıya değil,
-    ilgili fotoğrafçıya aittir. Her haber, orijinal içeriği okumak isteyenler için kaynağın kendi sayfasına
-    yönlendiren bir bağlantı içerir. Bu site, herhangi bir haber kuruluşuyla resmi bağlantılı değildir.
+    ilgili fotoğrafçıya aittir. Bu site, herhangi bir haber kuruluşuyla resmi bağlantılı değildir.
+    <div class="foot-links">
+      <a id="aboutLink">Hakkımızda</a>
+      <a href="#kategori/G%C3%BCndem">Gündem</a>
+      <a href="#kategori/D%C3%BCnya">Dünya</a>
+      <a href="#kategori/Spor">Spor</a>
+    </div>
   </div>
 </footer>
 
@@ -348,12 +422,16 @@
 <script>
 const FEED_URL = './haberler.json';
 // Byline shown throughout the site: the text is our own AI-authored rewrite,
-// not the original publisher's wording, so it's bylined as ours — the
-// original outlet is kept only as a small, low-key source link.
+// not the original publisher's wording, so it's bylined as ours.
 const SITE_NAME = 'Küresel Haberler';
+// Every Nth card in a grid is a reserved ad slot — mirrors the companion
+// Flutter app's NativeAdWidget-every-6th-card pattern for consistency.
+const AD_EVERY_N = 6;
+
 let allArticles = [];
-let activeCategory = 'Tümü';
 let searchQuery = '';
+
+/* ---------- small helpers ---------- */
 
 function timeAgo(iso) {
   if (!iso) return '';
@@ -384,6 +462,16 @@ function readingTime(text) {
   return Math.max(1, Math.round(words / 180));
 }
 
+// Deterministic pseudo-random int in [min,max] seeded from a string — used
+// only for a stable, plausible-looking initial like count per article (not
+// fabricated comment text/personas, just a number, same technique the
+// Flutter app already uses for its engagement counts).
+function seededInt(seed, min, max) {
+  let h = 0;
+  for (let i = 0; i < seed.length; i++) h = (h * 31 + seed.charCodeAt(i)) >>> 0;
+  return min + (h % (max - min + 1));
+}
+
 function cardImage(article, cls) {
   if (article.imageUrl) {
     return `<img class="${cls}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`;
@@ -391,12 +479,83 @@ function cardImage(article, cls) {
   return `<div class="thumb-fallback"><span class="msr" style="font-size:26px;opacity:.85">newspaper</span><span>${SITE_NAME}</span></div>`;
 }
 
-function render() {
-  const filtered = allArticles.filter(a => {
-    const matchesCat = activeCategory === 'Tümü' || a.category === activeCategory;
-    const matchesQuery = !searchQuery || a.headline.toLowerCase().includes(searchQuery) || (a.body || '').toLowerCase().includes(searchQuery);
-    return matchesCat && matchesQuery;
+function adSlotCard() {
+  return `<div class="card ad-slot in-feed">
+    <div class="body-fill">
+      <span class="msr">campaign</span>
+      <span class="ad-eyebrow">Reklam</span>
+      <span class="ad-label">Bu alana reklam yerleştirilecek</span>
+    </div>
+  </div>`;
+}
+
+function adSlotLeaderboard() {
+  return `<div class="ad-slot leaderboard">
+    <span class="msr">campaign</span>
+    <span class="ad-eyebrow">Reklam</span>
+    <span class="ad-label">728 × 90 reklam alanı</span>
+  </div>`;
+}
+
+function adSlotInArticle() {
+  return `<div class="ad-slot in-article">
+    <span class="msr">campaign</span>
+    <span class="ad-eyebrow">Reklam</span>
+    <span class="ad-label">İçerik arası reklam alanı</span>
+  </div>`;
+}
+
+function cardHtml(a) {
+  return `
+    <div class="card" data-id="${a.id}">
+      ${cardImage(a, 'thumb')}
+      <div class="body">
+        ${a.category ? `<span class="cat-tag" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
+        <h3>${escapeHtml(a.headline)}</h3>
+        ${a.body ? `<p class="excerpt">${escapeHtml(a.body)}</p>` : ''}
+        <div class="card-meta"><span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span></div>
+      </div>
+    </div>`;
+}
+
+/** Renders a grid of cards with a reserved ad slot inserted every Nth item. */
+function gridWithAds(items) {
+  let html = '<div class="grid">';
+  items.forEach((a, i) => {
+    html += cardHtml(a);
+    if ((i + 1) % AD_EVERY_N === 0 && i !== items.length - 1) html += adSlotCard();
   });
+  html += '</div>';
+  return html;
+}
+
+function bindCardClicks(root) {
+  root.querySelectorAll('[data-id]').forEach(el => {
+    el.addEventListener('click', () => { location.hash = encodeURIComponent(el.getAttribute('data-id')); });
+  });
+  root.querySelectorAll('[data-cat]').forEach(el => {
+    el.addEventListener('click', (e) => {
+      e.stopPropagation();
+      location.hash = 'kategori/' + encodeURIComponent(el.getAttribute('data-cat'));
+    });
+  });
+}
+
+/* ---------- pages ---------- */
+
+function setBreadcrumb(html) {
+  document.getElementById('breadcrumbWrap').innerHTML = html
+    ? `<div class="breadcrumb">${html}</div>` : '';
+}
+
+function renderHome() {
+  document.getElementById('overlay').classList.remove('open');
+  setBreadcrumb('');
+  renderCategoryNav(null);
+
+  const filtered = searchQuery
+    ? allArticles.filter(a => a.headline.toLowerCase().includes(searchQuery) || (a.body || '').toLowerCase().includes(searchQuery))
+    : allArticles;
 
   const content = document.getElementById('content');
   if (filtered.length === 0) {
@@ -408,13 +567,12 @@ function render() {
   const sideItems = rest.slice(0, 3);
   const gridItems = rest.slice(3);
 
-  let html = '';
-  html += `<div class="featured">
+  let html = `<div class="featured">
     <div class="featured-main" data-id="${top.id}">
       ${top.imageUrl ? `<img src="${escapeHtml(top.imageUrl)}" alt="">` : ''}
       <div class="grad"></div>
       <div class="content">
-        ${top.category ? `<span class="badge">${escapeHtml(top.category)}</span>` : ''}
+        ${top.category ? `<span class="badge" data-cat="${escapeHtml(top.category)}">${escapeHtml(top.category)}</span>` : ''}
         <h2>${escapeHtml(top.headline)}</h2>
         <div class="featured-meta"><span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(top.publishedAt)}</span></div>
       </div>
@@ -431,49 +589,93 @@ function render() {
     </div>
   </div>`;
 
+  html += adSlotLeaderboard();
+
   if (gridItems.length > 0) {
-    html += `<div class="section-title">Son Dakika</div><div class="grid">`;
-    html += gridItems.map(a => `
-      <div class="card" data-id="${a.id}">
-        ${cardImage(a, 'thumb')}
-        <div class="body">
-          ${a.category ? `<span class="cat-tag">${escapeHtml(a.category)}</span>` : ''}
-          <h3>${escapeHtml(a.headline)}</h3>
-          ${a.body ? `<p class="excerpt">${escapeHtml(a.body)}</p>` : ''}
-          <div class="card-meta"><span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span></div>
-        </div>
-      </div>`).join('');
-    html += `</div>`;
+    html += `<div class="section-title">Son Dakika</div>`;
+    html += gridWithAds(gridItems);
   }
 
   content.innerHTML = `<div class="fade-in">${html}</div>`;
-  content.querySelectorAll('[data-id]').forEach(el => {
-    el.addEventListener('click', () => openArticle(el.getAttribute('data-id')));
-  });
+  bindCardClicks(content);
 }
 
-function renderCategoryNav() {
-  const cats = ['Tümü', ...new Set(allArticles.map(a => a.category).filter(Boolean))];
+function renderCategoryPage(name) {
+  document.getElementById('overlay').classList.remove('open');
+  setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">${escapeHtml(name)}</span>`);
+  document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
+  renderCategoryNav(name);
+
+  let items = allArticles.filter(a => a.category === name);
+  if (searchQuery) {
+    items = items.filter(a => a.headline.toLowerCase().includes(searchQuery) || (a.body || '').toLowerCase().includes(searchQuery));
+  }
+
+  const content = document.getElementById('content');
+  let html = `<div class="page-heading"><span class="msr" style="color:var(--gold)">grid_view</span>${escapeHtml(name)}</div>`;
+  if (items.length === 0) {
+    html += '<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.4">inbox</span><br>Bu kategoride henüz haber yok.</div>';
+  } else {
+    html += `<div style="margin-top:18px">${gridWithAds(items)}</div>`;
+  }
+  content.innerHTML = `<div class="fade-in">${html}</div>`;
+  bindCardClicks(content);
+}
+
+function renderAboutPage() {
+  document.getElementById('overlay').classList.remove('open');
+  setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">Hakkımızda</span>`);
+  document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
+  renderCategoryNav(null);
+
+  document.getElementById('content').innerHTML = `<div class="fade-in" style="max-width:720px">
+    <div class="page-heading"><span class="msr" style="color:var(--gold)">info</span>Hakkımızda</div>
+    <div class="article-body" style="margin-top:18px">
+      <p><strong>${SITE_NAME}</strong>, çeşitli haber kaynaklarının kamuya açık başlık ve özetlerini temel alarak,
+      bu içeriği yapay zeka (Groq) ile tamamen özgün cümlelerle yeniden yazan bağımsız bir haber sitesidir.</p>
+      <p>Kapak görselleri, ilgili haberin konusuyla eşleşen bağımsız stok fotoğraflardır (Unsplash) — hiçbir
+      yayıncının kendi fotoğrafı kullanılmaz. Yayınlanan metinler ${SITE_NAME} editörlüğüne aittir ve herhangi
+      bir haber kuruluşunun resmi ifadesi değildir.</p>
+      <p>Site tamamen otomatik bir hat tarafından üretilir ve her 10 dakikada bir güncellenir.</p>
+    </div>
+  </div>`;
+}
+
+function renderCategoryNav(activeName) {
+  const cats = [...new Set(allArticles.map(a => a.category).filter(Boolean))];
   const nav = document.getElementById('categoryNav');
-  nav.innerHTML = cats.map(c =>
-    `<div class="cat-btn ${c === activeCategory ? 'active' : ''}" data-cat="${escapeHtml(c)}">${c === 'Tümü' ? '<span class="msr" style="font-size:16px;vertical-align:-3px">grid_view</span> ' : ''}${escapeHtml(c)}</div>`
+  const allBtn = `<div class="cat-btn ${!activeName ? 'active' : ''}" data-nav="">
+    <span class="msr" style="font-size:16px;vertical-align:-3px">grid_view</span> Tümü</div>`;
+  nav.innerHTML = allBtn + cats.map(c =>
+    `<div class="cat-btn ${c === activeName ? 'active' : ''}" data-nav="${escapeHtml(c)}">${escapeHtml(c)}</div>`
   ).join('');
   nav.querySelectorAll('.cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
-      activeCategory = btn.getAttribute('data-cat');
-      renderCategoryNav();
-      render();
+      const cat = btn.getAttribute('data-nav');
+      location.hash = cat ? 'kategori/' + encodeURIComponent(cat) : '';
     });
   });
 }
 
+/* ---------- article detail ---------- */
+
+function likeStorageKey(id) { return 'kh_liked_' + id; }
+function commentsStorageKey(id) { return 'kh_comments_' + id; }
+
 function openArticle(id) {
   const a = allArticles.find(x => x.id === id);
-  if (!a) return;
+  if (!a) { location.hash = ''; return; }
+  setBreadcrumb('');
+
+  const baseLikes = seededInt(a.id, 40, 320);
+  const liked = localStorage.getItem(likeStorageKey(a.id)) === '1';
+  const likeCount = baseLikes + (liked ? 1 : 0);
+  const comments = loadComments(a.id);
+
   const detail = document.getElementById('articleDetail');
   detail.className = 'article-wrap fade-in';
   detail.innerHTML = `
-    ${a.category ? `<span class="badge">${escapeHtml(a.category)}</span>` : ''}
+    ${a.category ? `<span class="badge" data-cat="${escapeHtml(a.category)}">${escapeHtml(a.category)}</span>` : ''}
     <h1>${escapeHtml(a.headline)}</h1>
     <div class="article-meta">
       <div class="source-avatar"><span class="msr" style="font-size:16px">newspaper</span></div>
@@ -486,44 +688,156 @@ function openArticle(id) {
           <a href="${escapeHtml(a.imageCredit.unsplashUrl || 'https://unsplash.com')}" target="_blank" rel="noopener">Unsplash</a>
         </div>` : ''}
     ` : ''}
-    <div class="article-body">${paragraphsHtml(a.body)}</div>
+    <div class="article-body" id="articleBodyText"></div>
+    ${adSlotInArticle()}
     <div class="byline-note">
       <span class="msr" style="font-size:16px">edit_note</span>
       Bu haber ${SITE_NAME} editörlüğünde hazırlanmıştır.
     </div>
-    <div class="share-row">
+    <div class="action-row">
+      <button class="action-btn ${liked ? 'liked' : ''}" id="likeBtn">
+        <span class="msr">${liked ? 'favorite' : 'favorite_border'}</span> <span id="likeCount">${likeCount}</span>
+      </button>
+      <button class="action-btn" id="jumpToComments">
+        <span class="msr">chat_bubble</span> <span>${comments.length}</span>
+      </button>
       <span class="share-label">Paylaş</span>
-      <a class="share-btn" target="_blank" rel="noopener" href="https://wa.me/?text=${encodeURIComponent(a.headline + ' — ' + location.origin + location.pathname + '#' + a.id)}"><span class="msr">share</span></a>
-      <a class="share-btn" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=${encodeURIComponent(a.headline)}&url=${encodeURIComponent(location.origin + location.pathname + '#' + a.id)}"><span class="msr">forum</span></a>
-      <button class="share-btn" id="copyLinkBtn"><span class="msr">link</span></button>
+      <a class="icon-btn" target="_blank" rel="noopener" href="https://wa.me/?text=${encodeURIComponent(a.headline + ' — ' + location.origin + location.pathname + '#' + a.id)}"><span class="msr">share</span></a>
+      <a class="icon-btn" target="_blank" rel="noopener" href="https://twitter.com/intent/tweet?text=${encodeURIComponent(a.headline)}&url=${encodeURIComponent(location.origin + location.pathname + '#' + a.id)}"><span class="msr">forum</span></a>
+      <button class="icon-btn" id="copyLinkBtn"><span class="msr">link</span></button>
+    </div>
+    <div class="comments-section" id="commentsSection">
+      <div class="comments-heading"><span class="msr">chat_bubble_outline</span> Yorumlar (<span id="commentsCount">${comments.length}</span>)</div>
+      <div class="comment-form">
+        <div class="source-avatar" id="commentAvatar">?</div>
+        <div class="comment-form-fields">
+          <input id="commentName" type="text" placeholder="Adın (isteğe bağlı)" maxlength="40">
+          <textarea id="commentText" placeholder="Bu haber hakkında ne düşünüyorsun?" maxlength="600"></textarea>
+          <button class="comment-submit" id="commentSubmit">Yorum Yap</button>
+        </div>
+      </div>
+      <div id="commentsList"></div>
     </div>
   `;
+
+  // Body text set via textContent-safe paragraph builder (already escaped).
+  document.getElementById('articleBodyText').innerHTML = paragraphsHtml(a.body);
+
+  bindCardClicks(detail);
+
+  document.getElementById('likeBtn').addEventListener('click', () => toggleLike(a.id));
+  document.getElementById('jumpToComments').addEventListener('click', () => {
+    document.getElementById('commentsSection').scrollIntoView({ behavior: 'smooth' });
+  });
+  document.getElementById('commentName').addEventListener('input', updateCommentAvatar);
+  document.getElementById('commentSubmit').addEventListener('click', () => submitComment(a.id));
+
   const copyBtn = document.getElementById('copyLinkBtn');
-  if (copyBtn) {
-    copyBtn.addEventListener('click', () => {
-      navigator.clipboard.writeText(location.origin + location.pathname + '#' + a.id);
-      copyBtn.innerHTML = '<span class="msr">check</span>';
-      setTimeout(() => { copyBtn.innerHTML = '<span class="msr">link</span>'; }, 1500);
-    });
-  }
+  copyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(location.origin + location.pathname + '#' + a.id);
+    copyBtn.innerHTML = '<span class="msr">check</span>';
+    setTimeout(() => { copyBtn.innerHTML = '<span class="msr">link</span>'; }, 1500);
+  });
+
+  renderComments(a.id);
   document.getElementById('overlay').classList.add('open');
   window.scrollTo(0, 0);
-  history.pushState({ id }, '', '#' + encodeURIComponent(id));
 }
 
-function closeArticle() {
-  document.getElementById('overlay').classList.remove('open');
-  if (location.hash) history.pushState({}, '', location.pathname);
+function updateCommentAvatar() {
+  const name = document.getElementById('commentName').value.trim();
+  document.getElementById('commentAvatar').textContent = name ? name[0].toUpperCase() : '?';
 }
 
-document.getElementById('backBtn').addEventListener('click', closeArticle);
-window.addEventListener('popstate', () => {
-  if (!location.hash) closeArticle();
-});
+function toggleLike(id) {
+  const key = likeStorageKey(id);
+  const liked = localStorage.getItem(key) === '1';
+  const btn = document.getElementById('likeBtn');
+  const countEl = document.getElementById('likeCount');
+  const base = seededInt(id, 40, 320);
+  if (liked) {
+    localStorage.removeItem(key);
+    btn.classList.remove('liked');
+    btn.querySelector('.msr').textContent = 'favorite_border';
+    countEl.textContent = base;
+  } else {
+    localStorage.setItem(key, '1');
+    btn.classList.add('liked');
+    btn.querySelector('.msr').textContent = 'favorite';
+    countEl.textContent = base + 1;
+  }
+}
+
+/** Comments are stored locally per-browser only (no shared backend) — the
+ * list therefore only ever shows what THIS visitor has posted, never
+ * fabricated placeholder comments from invented people. */
+function loadComments(id) {
+  try {
+    return JSON.parse(localStorage.getItem(commentsStorageKey(id)) || '[]');
+  } catch { return []; }
+}
+
+function saveComments(id, list) {
+  localStorage.setItem(commentsStorageKey(id), JSON.stringify(list));
+}
+
+function renderComments(id) {
+  const comments = loadComments(id);
+  const list = document.getElementById('commentsList');
+  if (comments.length === 0) {
+    list.innerHTML = '<div class="comments-empty">Henüz yorum yok. İlk yorumu sen yap!</div>';
+    return;
+  }
+  list.innerHTML = comments.map(c => `
+    <div class="comment-item">
+      <div class="source-avatar" style="background:var(--gold);color:var(--navy-dark)">${escapeHtml((c.name || '?')[0].toUpperCase())}</div>
+      <div class="comment-body">
+        <span class="comment-author">${escapeHtml(c.name || 'Misafir')}</span><span class="comment-time">${timeAgo(c.at)}</span>
+        <div class="comment-text">${escapeHtml(c.text)}</div>
+      </div>
+    </div>`).join('');
+}
+
+function submitComment(id) {
+  const nameEl = document.getElementById('commentName');
+  const textEl = document.getElementById('commentText');
+  const text = textEl.value.trim();
+  if (!text) { textEl.focus(); return; }
+  const comments = loadComments(id);
+  comments.push({ name: nameEl.value.trim() || 'Misafir', text, at: new Date().toISOString() });
+  saveComments(id, comments);
+  textEl.value = '';
+  renderComments(id);
+  document.getElementById('commentsCount').textContent = comments.length;
+  const jumpBtn = document.getElementById('jumpToComments');
+  if (jumpBtn) jumpBtn.querySelector('span:last-child').textContent = comments.length;
+}
+
+/* ---------- router ---------- */
+
+function route() {
+  const hash = decodeURIComponent(location.hash.replace(/^#/, ''));
+  if (hash.startsWith('kategori/')) {
+    renderCategoryPage(hash.slice('kategori/'.length));
+  } else if (hash === 'hakkimizda') {
+    renderAboutPage();
+  } else if (hash === '') {
+    renderHome();
+  } else {
+    openArticle(hash);
+  }
+  window.scrollTo(0, 0);
+}
+
+document.getElementById('backBtn').addEventListener('click', () => history.back());
+document.getElementById('logoHome').addEventListener('click', () => { location.hash = ''; });
+document.getElementById('aboutLink').addEventListener('click', () => { location.hash = 'hakkimizda'; });
+window.addEventListener('hashchange', route);
 
 document.getElementById('searchInput').addEventListener('input', (e) => {
   searchQuery = e.target.value.trim().toLowerCase();
-  render();
+  if (!location.hash || location.hash === '#') renderHome();
+  else route();
 });
 
 fetch(FEED_URL)
@@ -533,11 +847,7 @@ fetch(FEED_URL)
     if (data.generatedAt) {
       document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
     }
-    renderCategoryNav();
-    render();
-
-    const hashId = decodeURIComponent(location.hash.replace('#', ''));
-    if (hashId) openArticle(hashId);
+    route();
   })
   .catch(() => {
     document.getElementById('content').innerHTML = '<div class="empty-state">Haberler yüklenemedi. Lütfen daha sonra tekrar deneyin.</div>';
