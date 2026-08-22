@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T02:11:00.539Z",
+  "generatedAt": "2026-08-22T03:10:00.501Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/siber-guvenlik-baskanligi-personel-alimi-ne-zaman-siber-guvenlik-baskanligi-275-sozlesmeli-personel-alimi-sartlari-neler-3457545",
@@ -23,6 +23,29 @@
       "publishedAt": "2026-08-22T01:58:49.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "headline": "Ukrayna'da alışveriş merkezine düzenlenen dron saldırısında can kaybı artıyor: 16 ölü, 130 yaralı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1686620225824-d4120ed3a81e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZGFtYWdlZCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODczNjc1MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jade Koroliuk",
+        "photographerUrl": "https://unsplash.com/@jadekoroliuk",
+        "unsplashUrl": "https://unsplash.com/photos/a-very-large-building-that-has-been-destroyed-PH9S5SfpV0E"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Ukrayna'da sivillerin yoğun olarak bulunduğu bir alışveriş merkezini hedef alan insansız hava aracı (İHA) saldırısında büyük bir trajedi yaşandı. Yerel yetkililer tarafından yapılan açıklamaya göre, Rus güçlerince gerçekleştirilen dron bombardımanı sonucunda en az 16 kişi yaşamını yitirdi.\n\nSaldırının yıkıcı bilançosu can kayıplarıyla sınırlı kalmadı. Bölge yönetimi başkanı tarafından paylaşılan resmi verilere göre, faciada 23'ü çocuk olmak üzere en az 130 kişi de çeşitli derecelerde yaralandı. Olay yerinden tahliye edilen yaralıların bölgedeki hastanelerde tedavi altına alındığı bildirildi.\n\nYetkililer, saldırının kısa aralıklarla iki kez vurma olarak bilinen \"çifte vuruş\" yöntemiyle gerçekleştirildiğini belirtti. İlk patlamanın ardından arama kurtarma ve yardım ekiplerinin bölgeye ulaştığı anlarda meydana gelen ikinci darbenin, kayıpların ve yaralanmaların artmasında büyük etken olduğu ifade ediliyor.\n\nGün ortasında, insanların alışveriş yaptığı sırada meydana gelen patlamalar ticari komplekste büyük yıkıma ve yangına yol açtı. Saldırının hemen ardından başlatılan arama-kurtarma çalışmaları neticesinde enkaz altından çok sayıda kişi çıkarılırken, binadaki yangın uzun uğraşlar sonucu kontrol altına alınabildi.\n\nSivil altyapıların ve insanların günlük yaşamlarını sürdürdüğü kamusal alanların hedef alınması, bölgedeki insani durumu daha da ağırlaştırıyor. Yerel makamlar, yerleşim yerlerine yakın noktaların bombardıman altında kalmasının masum siviller üzerindeki tehlikeyi tırmandırdığına dikkat çekiyor.",
+      "highlights": [
+        "Ukrayna'da bir alışveriş merkezine düzenlenen dron saldırısında 16 kişi yaşamını yitirdi.",
+        "Açıklanan resmi verilere göre, 23'ü çocuk en az 130 kişi saldırıda yaralandı.",
+        "Saldırının art arda gerçekleşen iki darbe (çifte vuruş) şeklinde yapıldığı bildirildi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T01:47:54.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/dunya/trumptan-irana-acik-mesaj-askeri-secenekler-halen-masada-3457544",
