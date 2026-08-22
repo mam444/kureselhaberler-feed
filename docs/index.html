@@ -786,6 +786,13 @@
     .bell-dropdown { width: 260px; right: -60px; }
   }
 </style>
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(async function (OneSignal) {
+    await OneSignal.init({ appId: '5b263376-383f-4a88-adf1-30a5080e27cb', notifyButton: { enable: false } });
+  });
+</script>
 </head>
 <body>
 
@@ -1888,23 +1895,41 @@ function startTicker() {
 
 /* ---------- notification bell ---------- */
 
-function renderBellDropdown() {
+async function pushSubscribeRowHtml() {
+  try {
+    const subscribed = window.OneSignal ? await OneSignal.User.PushSubscription.optedIn : false;
+    return subscribed
+      ? '<div class="bell-item bell-empty" style="text-align:left">Bildirimler açık ✓</div>'
+      : '<div class="bell-item" id="bellSubscribeRow"><div class="bell-item-title"><span class="msr" style="font-size:14px;vertical-align:-2px">notifications_active</span> Yeni haberlerde bildirim al</div></div>';
+  } catch {
+    return '';
+  }
+}
+async function renderBellDropdown() {
   const el = document.getElementById('bellDropdown');
   if (!el) return;
+  const subscribeRow = await pushSubscribeRowHtml();
   if (allArticles.length === 0) {
-    el.innerHTML = '<div class="bell-empty">Henüz haber yok.</div>';
-    return;
-  }
-  el.innerHTML = '<div class="bell-title">Son Haberler</div>' + allArticles.slice(0, 5).map(a => `
+    el.innerHTML = subscribeRow + '<div class="bell-empty">Henüz haber yok.</div>';
+  } else {
+    el.innerHTML = subscribeRow + '<div class="bell-title">Son Haberler</div>' + allArticles.slice(0, 5).map(a => `
     <div class="bell-item" data-id="${a.id}">
       <div class="bell-item-title">${escapeHtml(a.headline)}</div>
       <div class="bell-item-meta">${timeAgo(a.publishedAt)}</div>
     </div>`).join('');
+  }
   el.querySelectorAll('[data-id]').forEach(item => {
     item.addEventListener('click', () => {
       closeBell();
       location.hash = encodeURIComponent(item.getAttribute('data-id'));
     });
+  });
+  const subRow = document.getElementById('bellSubscribeRow');
+  if (subRow) subRow.addEventListener('click', async () => {
+    if (!window.OneSignal) return;
+    await OneSignal.Notifications.requestPermission();
+    await OneSignal.User.PushSubscription.optIn();
+    renderBellDropdown();
   });
 }
 function closeBell() { document.getElementById('bellDropdown').classList.remove('open'); }
