@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:46:00.478Z",
+  "generatedAt": "2026-08-22T14:15:00.470Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/video/dunya/45-yil-filistinli-esir-israil-iskencelerini-cnn-turke-anlatti-kopekleri-ustumuze-saldilar-gaz-ve-siddet-uyguladilar-3457620",
@@ -21,6 +21,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/video/dunya/45-yil-filistinli-esir-israil-iskencelerini-cnn-turke-anlatti-kopekleri-ustumuze-saldilar-gaz-ve-siddet-uyguladilar-3457620",
       "publishedAt": "2026-08-22T16:00:46.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/turkiye/giresun-helikopter-kazasi-son-dakika-giresun-pirazizde-helikopter-neden-dustu-olu-yarali-var-mi-kaza-sonrasi-ilk-bilgiler-3457616",
+      "headline": "Giresun'un Piraziz ilçesinde helikopter kazası iddiası ekipleri harekete geçirdi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1557818673-effec50525e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cmVzY3VlJTIwaGVsaWNvcHRlcnxlbnwxfDB8fHwxNzg3NDA3Mzk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Isaac Benhesed",
+        "photographerUrl": "https://unsplash.com/@isaacbenhesed",
+        "unsplashUrl": "https://unsplash.com/photos/red-helicopter-nCm8AOjM_zE"
+      },
+      "timeAgo": "şimdi",
+      "body": "Giresun'un Piraziz ilçesinde, bölgede tarama faaliyeti yürüten bir elektrik dağıtım şirketine ait helikopterin düştüğü yönündeki iddialar hareketlilik yaşanmasına neden oldu. Bölgeden gelen ihbarlar üzerine güvenlik ve arama kurtarma ekipleri zaman kaybetmeden olay yerine sevk edildi.\n\nEdinilen bilgilere göre, söz konusu hava aracının hat kontrolü ve saha tarama çalışmaları kapsamında bölgede uçuş gerçekleştirdiği öne sürüldü. İddiaların kısa sürede yayılmasıyla birlikte, olayın meydana gelip gelmediğini doğrulamak amacıyla geniş çaplı incelemeler başlatıldı.\n\nYetkili birimlerin ihbar doğrultusunda sahadaki arama ve kontrol faaliyetleri titizlikle devam ediyor. Ekipler, helikopterin düştüğü iddia edilen noktada arama çalışmalarını sürdürürken, arazi koşulları ve hava şartları da dikkate alınarak bölge taranıyor.\n\nŞu ana kadar helikopterin tam olarak durumu, içinde kaç kişinin bulunduğu veya muhtemel bir kazada ölü ya da yaralı olup olmadığına ilişkin doğrulayıcı net bir bilgiye ulaşılamadı. İddiaların odağındaki hava aracına dair detaylar henüz belirsizliğini koruyor.\n\nOlayın gerçekliği ve olası bir kazanın ayrıntılarına dair resmi makamların yürüttüğü saha çalışmaları sürüyor. Bölgedeki durumun, yetkili kurumlar tarafından yapılacak resmi açıklamalarla birlikte netlik kazanması bekleniyor.",
+      "highlights": [
+        "Giresun'un Piraziz ilçesinde elektrik dağıtım helikopterinin düştüğü iddia edildi.",
+        "İhbarlar üzerine arama kurtarma ve güvenlik ekipleri bölgeye sevk edildi.",
+        "Helikopterin durumu ve yolculara ilişkin henüz resmi bir doğrulama yapılmadı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/giresun-helikopter-kazasi-son-dakika-giresun-pirazizde-helikopter-neden-dustu-olu-yarali-var-mi-kaza-sonrasi-ilk-bilgiler-3457616",
+      "publishedAt": "2026-08-22T16:00:23.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
