@@ -38,5 +38,23 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/haberler.json docs/markets.json
-          git diff --cached --quiet && echo "Değişiklik yok, commit atlanıyor" || git commit -m "chore: haberler.json ve markets.json güncelle"
-          git push
+          git diff --cached --quiet && echo "Değişiklik yok, commit atlanıyor" && exit 0
+          git commit -m "chore: haberler.json ve markets.json güncelle"
+
+          # Back-to-back scheduled runs (every 10 min) can queue up and race
+          # on push — the previous run's commit lands first and this run's
+          # push is rejected as non-fast-forward. Rebase onto the latest
+          # remote commit and retry a few times before giving up, instead of
+          # failing outright (which previously happened on a large fraction
+          # of runs even though generation itself had already succeeded).
+          for i in 1 2 3 4 5; do
+            if git push; then
+              exit 0
+            fi
+            echo "Push reddedildi (deneme $i/5), rebase edip tekrar deneniyor..."
+            git fetch origin main
+            git rebase origin/main
+            sleep $((RANDOM % 5 + 1))
+          done
+          echo "5 denemeden sonra push başarısız oldu." >&2
+          exit 1
