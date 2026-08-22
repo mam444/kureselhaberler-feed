@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T23:17:55.411Z",
+  "generatedAt": "2026-08-22T23:40:12.879Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/alihan-kuris-suc-orgutune-yonelik-ikinci-dalga-operasyondan-servet-cikti-3457701",
@@ -140,6 +140,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.cnnturk.com/resmi-ilanlar/maltepe-belediye-baskanligi-3457619",
+      "headline": "Maltepe Belediye Başkanlığı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1565832077355-ad10f941cc11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2l0eSUyMGhhbGx8ZW58MXwwfHx8MTc4NzQ0MTk3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mateus Campos Felipe",
+        "photographerUrl": "https://unsplash.com/@matcfelipe",
+        "unsplashUrl": "https://unsplash.com/photos/white-building-during-daytime-s6bHUxFXjLA"
+      },
+      "timeAgo": "şimdi",
+      "body": "Yerel yönetimler ve kamu hizmetleri bağlamında belediyelerin üstlendiği roller, kentsel yaşamın sürdürülebilirliği ve vatandaşların günlük ihtiyaçlarının karşılanması açısından büyük bir önem taşımaktadır. Bu kapsamda faaliyet gösteren Maltepe Belediye Başkanlığı, ilgili idari birimleri, hizmet binaları ve yerel düzeyde yürüttüğü idari işleyişle gündemde yer almaktadır.\n\nGünümüz yerel yönetim anlayışında belediyeler, sadece altyapı ve temizlik gibi temel hizmetlerin sunulmasından sorumlu olmayıp, aynı zamanda bölge halkının sosyal, kültürel ve idari beklentilerine yanıt veren merkezler olarak konumlanmaktadır. Maltepe Belediye Başkanlığı da bu çerçevede, yetki alanına giren coğrafi bölge içerisinde çeşitli idari ve kamusal faaliyetlerin koordinasyonunu sağlamaktadır.\n\nKurumun yürüttüğü çalışmalar, yerel halkın belediye hizmetlerine erişimini kolaylaştırmayı ve kentsel yaşam kalitesini artırmayı hedefleyen bir idari yapı içerisinde şekillenmektedir. Yerel yönetim organları, merkezi idare ile vatandaşlar arasında bir köprü görevi görerek bölgesel kararların hayata geçirilmesinde kritik bir rol oynamaktadır.\n\nKamuoyunun yakından takip ettiği Maltepe Belediye Başkanlığı ile ilgili gelişmeler, belediyenin idari yapısı, aldığı kararlar ve halka sunduğu hizmetlerin kapsamı doğrultusunda şekillenmektedir. Yerel yönetimlerin şeffaflık, hesap verebilirlik ve etkinlik ilkeleri doğrultusunda faaliyet göstermesi, bölgede yaşayan bireylerin kentsel süreçlere katılımını da doğrudan etkilemektedir.\n\nSonuç olarak, Maltepe Belediye Başkanlığı'nın kurumsal kimliği ve yürüttüğü idari işler, yerel yönetim dinamiklerinin anlaşılması açısından temel bir başvuru noktası oluşturmaktadır. Bu tür kurumların faaliyetleri, kentin genel yapısının düzenlenmesinde ve kamusal hizmetlerin kesintisiz bir şekilde sürdürülmesinde belirleyici olmaya devam etmektedir.",
+      "highlights": [
+        "Maltepe Belediye Başkanlığı yerel hizmetlerin merkezinde yer alıyor.",
+        "Kurum idari yapısı ve bölgesel faaliyetleriyle dikkat çekiyor.",
+        "Yerel yönetimler kentsel yaşamın sürdürülebilirliğini destekliyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/resmi-ilanlar/maltepe-belediye-baskanligi-3457619",
+      "publishedAt": "2026-08-23T00:00:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.cnnturk.com/video/dunya/federal-yargi-trumpa-dur-dedi-75-ulkeden-gocmen-vizesi-yasagina-mahkeme-engeli-3457689",
       "headline": "Federal yargı Trump'a dur dedi: 75 ülkeden göçmen vizesi yasağına mahkeme engeli",
       "source": "CNN Türk",
@@ -161,6 +184,29 @@
       "publishedAt": "2026-08-22T23:49:24.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "headline": "Avustralya'da Victoria Liberal Partisi'nden daha sert cezalar için yeni mahkeme planı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1623008946073-ad1c850ad0dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODc0NDE5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Melody Ayres-Griffiths",
+        "photographerUrl": "https://unsplash.com/@melodyayresgriffiths",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-white-building-with-a-gate-in-front-of-it-gW4y6IPZV2A"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "Avustralya'nın Victoria eyaletinde siyasi gündem, muhalefet kanadından gelen yeni bir adalet ve yargı reformu teklifiyle hareketlendi. Victoria Liberal Partisi, iktidara gelmeleri durumunda eyaletteki mevcut temyiz mahkemesinin yapısında köklü bir değişikliğe gideceklerini kamuoyuna duyurdu. Yapılan resmi açıklamalara göre, halihazırda tek bir çatı altında hizmet veren temyiz mahkemesi iki ayrı birime ayrılacak. Bu plan doğrultusunda, suç hukuku ve medeni hukuk davaları tamamen birbirinden bağımsız iki farklı yüksek mahkeme tarafından görülecek.\n\nSöz konusu yapısal dönüşümün en temel amaçlarından biri, suç işleyen kişilere yönelik cezalandırma süreçlerinin toplumun adalet duygusu ve beklentileriyle tam bir uyum içerisinde gerçekleşmesini sağlamak olarak açıklandı. Muhalefet lideri Jess Wilson tarafından kamuoyuna sunulacak olan strateji, özellikle ceza hukuku alanında uzmanlaşmış ek yargıçların göreve getirilmesini öngörüyor. Yeni kurulması planlanan ceza temyiz mahkemesinde görev yapacak bu uzman hakimler, suçluların cezalandırılması hususunda daha kararlı bir duruş sergileyecek ve kararlarıyla emsal niteliği taşıyan içtihatlar oluşturacak.\n\nVictoria Liberallerinin bu hamlesi, eyalette uzun süredir tartışılan kefalet ve ceza yasalarının etkin bir şekilde uygulanabilmesi için atılmış kritik bir adım olarak değerlendiriliyor. Muhalefet cephesi, mevcut sistemin suçla mücadele ve caydırıcılık konusunda zaman zaman yetersiz kaldığını ve halkın beklentilerini karşılamakta zorlandığını savunuyor. Yeni mahkemenin faaliyete geçmesiyle birlikte, verilecek her bir cezanın gelecekteki davalar için bağlayıcı birer emsal teşkil edeceği ve böylece suç eylemlerine karşı çok daha tutarlı ve orantılı hukuki sonuçların ortaya çıkacağı vurgulanıyor.\n\nPlanlanan reform paketi, sadece mahkemelerin ikiye bölünmesini değil, aynı zamanda ceza yargılamalarının kalitesinin ve ihtisaslaşma düzeyinin artırılmasını da hedefliyor. Ceza hukuku alanında derinlemesine bilgi ve tecrübeye sahip yeni yargıçların atanması, mahkeme süreçlerinin daha hızlı, etkin ve toplumsal vicdanı tatmin edecek kararlarla neticelenmesine zemin hazırlayacak. Bu kapsamlı adımla birlikte, Victoria'daki adalet mekanizmasının işleyişinde belirgin bir değişim yaşanması ve hukuk sisteminin güncel toplumsal ihtiyaçlara daha iyi yanıt vermesi bekleniyor.\n\nSeçimler öncesinde muhalefet partisi tarafından vadedilen bu önemli yargı reformu, eyalet genelindeki hukuk tartışmalarının merkezine oturmuş durumda. Toplumun güvenliğini artırmayı ve adalet sistemine olan güveni pekiştirmeyi amaçlayan bu planın detayları, muhalefet lideri Jess Wilson'ın yapacağı kapsamlı açıklamalarla netleşmeye devam ediyor. Victoria'daki seçmenlerin ve hukuk dünyasının yakından takip ettiği bu süreç, ilerleyen dönemde eyalet siyasetinin ve adalet politikalarının en önemli tartışma başlıklarından biri olmayı sürdürecek.",
+      "highlights": [
+        "Victoria Liberal Partisi iktidara gelirse temyiz mahkemesini ikiye ayırmayı vadediyor.",
+        "Yeni kurulacak ceza temyiz mahkemesine uzman ceza yargıçları atanacak.",
+        "Verilecek kararların emsal oluşturarak toplumsal beklentileri karşılaması hedefleniyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
+      "publishedAt": "2026-08-22T23:26:46.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-alparslan-kuytul-sorusturmasi-44-isim-icin-tutuklama-talep-edildi-1738444",
@@ -485,6 +531,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.haberturk.com/yarin-kandil-mi-ne-kandili-2026-mevlid-kandili-ne-zaman-hangi-gun-ayin-kacinda-mevlid-kandili-tarihi-2026-diyanet-dini-gunler-takvimi-ile-belli-oldu-3907439",
+      "headline": "Mevlid kandili ne zaman idrak edilecek, yarın kandil mi?",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1560740365-ba43f34cb52e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bW9zcXVlJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4NzQ0MTk4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Utsman Media",
+        "photographerUrl": "https://unsplash.com/@utsmanmedia",
+        "unsplashUrl": "https://unsplash.com/photos/red-and-yellow-area-rug-L4SDwP3LElQ"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "İslam alemi için manevi açıdan büyük bir öneme sahip olan ve heyecanla beklenen Mevlid Kandili tarihi, yılın bu döneminde vatandaşların en çok merak ettiği ve araştırdığı konuların başında gelmeye devam ediyor. Arama motorlarında yoğun bir şekilde sorgulanan \"Yarın kandil mi, ne kandili?\" gibi sorular, bu mübarek gecenin ne zaman idrak edileceğine dair bilgileri öğrenmek isteyenlerin gündemindeki yerini koruyor.\n\nİki cihan güneşi ve alemlere rahmet olarak gönderilen Peygamber Efendimiz Hz. Muhammed Mustafa'nın (s.a.v.) dünyaya teşrif edişinin yıl dönümü olarak idrak edilen Mevlid Kandili, milyonlarca Müslüman tarafından büyük bir coşku ve manevi bir iklimde karşılanıyor. Bu özel gecenin anlam ve önemi, İslam coğrafyasında birlik, beraberlik ve şükür duygularının pekişmesine vesile olurken, inanlar için de derin bir tefekkür fırsatı sunuyor.\n\nDini takvime göre hareket eden milyonlarca insan, Hicri takvim ile Miladi takvim arasındaki farklar nedeniyle her yıl farklı tarihlere denk gelen bu mübarek gecenin takvimdeki tam karşılığını öğrenmek istiyor. Yapılan araştırmalarda, Mevlid Kandili'nin Hicri takvime göre Rebiülevvel ayının 12. gecesine denk geldiği bilgisi bir kez daha hatırlatılıyor.\n\nSöz konusu bu mübarek gecede camilerde ve evlerde ellerini semaya açan milyonlarca Müslüman, dualar ederek Yüce Allah'tan af diliyor ve manevi bir huzur arayışı içinde ibadetlerini yerine getiriyor. Toplumun her kesiminden vatandaş, bu anlamlı gecenin maneviyatını en iyi şekilde yaşamak adına hazırlıklarını sürdürüyor.\n\nKonuya ilişkin en doğru ve güncel bilgileri, Diyanet İşleri Başkanlığı tarafından yayımlanan resmi dini günler takvimi üzerinden takip eden vatandaşlar, 2026 yılı Mevlid Kandili'nin hangi güne denk geldiğini ve ayın kaçında idrak edileceğini netleştirmeye çalışıyor. Bu kapsamda Diyanet takvimi, yıl boyunca idrak edilecek tüm dini gün ve gecelerin tarihlerini kamuoyuyla paylaşmaya devam ediyor.",
+      "highlights": [
+        "Mevlid Kandili tarihi yaklaşırken vatandaşlar arama motorlarında araştırmalarını hızlandırdı.",
+        "Bu mübarek gece, Hz. Muhammed'in dünyaya gelişinin yıl dönümü olarak idrak ediliyor.",
+        "Tarih ve takvim detayları Diyanet'in dini günler takvimi üzerinden takip ediliyor."
+      ],
+      "externalUrl": "https://www.haberturk.com/yarin-kandil-mi-ne-kandili-2026-mevlid-kandili-ne-zaman-hangi-gun-ayin-kacinda-mevlid-kandili-tarihi-2026-diyanet-dini-gunler-takvimi-ile-belli-oldu-3907439",
+      "publishedAt": "2026-08-22T21:38:37.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.hurriyet.com.tr/sporarena/oosterwoldeden-fenerbahcede-kalacak-misin-sorusuna-yanit-43282064",
       "headline": "Oosterwolde'den transfer iddialarına yanıt",
       "source": "Hürriyet",
@@ -619,6 +688,29 @@
       ],
       "externalUrl": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-lubnanin-guneyindeki-saldirilari-suruyor/4034864",
       "publishedAt": "2026-08-22T21:25:14.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/video/gundem/kelkit-seker-fasulyesi-ile-dunya-rekoru-kirildi-tek-kazanda-6-bin-840-litre-pisirildi-4850224",
+      "headline": "Kelkit şeker fasulyesi ile dünya rekoru kırıldı: Tek kazanda 6 bin 840 litre pişirildi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1779357806743-0426094a6515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Z2lhbnQlMjBwb3R8ZW58MXwwfHx8MTc4NzQ0MTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Random Institute",
+        "photographerUrl": "https://unsplash.com/@randominstitute",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-collection-of-terracotta-and-ceramic-pots-displayed-outdoors-CC_61Q3oxI4"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Türkiye'nin gastronomi alanındaki uluslararası başarılarına bir yenisi daha eklendi. Gümüşhane ilinin sınırları içerisinde yer alan Kelkit ilçesinde, bölgenin tescilli lezzeti olan coğrafi işaretli Kelkit Şeker Fasulyesi ile dev bir organizasyona imza atıldı. Gerçekleştirilen bu etkinlik kapsamında, devasa boyutlardaki tek bir kazanda tam 6 bin 840 litre kuru fasulye pişirilerek eşine az rastlanır bir organizasyon tamamlandı.\n\nBu dev organizasyon, daha önce kırılmış olan uluslararası bir rekorun da hedefi haline geldi. Kayıtlara geçen bilgilere göre, 2012 yılında Kuzey Makedonya'da gerçekleştirilen benzer bir etkinlikte tek kazanda 5 bin 600 litre kuru fasulye pişirilmiş ve bu miktar o dönem kırılan rekor olarak tescillenmişti. Kelkit'te hazırlanan 6 bin 840 litrelik dev porsiyon, bu önceki rekoru açık ara geride bırakarak yeni zirvenin sahibi oldu.\n\nElde edilen bu dikkat çekici başarı, resmiyet kazanarak tescillendi. Gerçekleştirilen rekor denemesi ve elde edilen hacim sonucunda Kelkit, adını resmen Guinness Dünya Rekorlar Kitabı'na yazdırmayı başardı. Söz konusu gelişme, hem ilçe genelinde hem de ülke çapında memnuniyetle karşılanırken, bölgenin tarımsal potansiyelinin ve yöresel ürünlerinin uluslararası düzeyde tanıtılması açısından da önemli bir eşik olarak değerlendirildi.\n\nCoğrafi işaretli bir ürün olan Kelkit Şeker Fasulyesi'nin bu denli büyük bir organizasyonda kullanılması, yerel değerlerin korunması ve yaşatılması çalışmalarına da katkı sundu. Uzun hazırlık süreçlerinin ardından tek kazanda binlerce litre yemeğin pişirilmesi, yerel halkın ve yetkililerin katılımıyla organize edildi. Organizasyon alanında toplanan kalabalık, rekorun kırılmasıyla birlikte büyük bir sevinç yaşadı.\n\nDünya rekorunun Kelkit'e geçmesiyle birlikte, bölgenin adını duyuran bu tarımsal ürünün tanınırlığının daha da artması bekleniyor. Kuzey Makedonya'daki eski rekorun geride bırakılmasıyla sonuçlanan bu girişim, Gümüşhane ve Kelkit adının uluslararası rekorlar platformunda anılmasını sağladı. Yetkililer ve organizasyonda emeği geçenler, coğrafi işaretli ürünlerin bu tür global başarılarla taçlandırılmasının önemine dikkat çekti.",
+      "highlights": [
+        "Kelkit'te coğrafi işaretli şeker fasulyesiyle rekor denemesi yapıldı.",
+        "Tek kazanda pişirilen 6 bin 840 litre fasulye ile rekor kırıldı.",
+        "Kuzey Makedonya'nın 2012'deki rekoru geride bırakılarak kitaba girildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/kelkit-seker-fasulyesi-ile-dunya-rekoru-kirildi-tek-kazanda-6-bin-840-litre-pisirildi-4850224",
+      "publishedAt": "2026-08-22T21:24:42.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -826,6 +918,29 @@
       ],
       "externalUrl": "https://www.haberturk.com/turksat-4a-yeni-uydu-frekans-ayarlari-2026-turksat-4a-frekans-ayari-nasil-yapilir-show-tv-trt-1-atv-star-tv-kanal-d-tv8-tv100-now-tv-frekans-bilgileri-3907248",
       "publishedAt": "2026-08-22T21:00:34.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/resmi-ilanlar/buyukcekmece-icra-dairesi-mudurlugu-43281676",
+      "headline": "Büyükçekmece İcra Dairesi Müdürlüğü faaliyetlerini sürdürüyor",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODc0NDE5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Colin Lloyd",
+        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-clock-on-the-front-of-it-_JEiyOfC2y8"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Adalet hizmetlerinin en önemli halkalarından biri olan icra daireleri, vatandaşların alacak ve borç ilişkilerindeki hukuki süreçlerin yürütülmesinde kritik bir rol oynamaktadır. Bu kapsamda görev yapan resmi kurumlardan biri olan Büyükçekmece İcra Dairesi Müdürlüğü, bölgedeki yasal takiplerin ve idari işlemlerin merkezi konumunda bulunmaktadır.\n\nTürkiye genelindeki yargı teşkilatının ayrılmaz bir parçası olan icra müdürlükleri, mahkeme kararlarının infazı, ilamlı ve ilamsız icra takipleri, borç tahsilatları ve mal varlığı üzerindeki haciz veya satış gibi işlemleri yasal mevzuata uygun olarak yerine getirmektedir. Büyükçekmece İcra Dairesi Müdürlüğü de sorumluluk bölgesinde doğan bu tür hukuki uyuşmazlıkların çözümünde ve icra hukukunun gereklerinin yerine getirilmesinde aktif olarak faaliyet göstermektedir.\n\nHukuk devletinin en temel unsurlarından biri olan hak arama özgürlüğü ve mülkiyet hakkının korunması, icra dairelerinin etkin ve hızlı çalışmasıyla doğrudan ilişkilidir. Vatandaşların ve tüzel kişilerin hak kayıplarının önüne geçilmesi amacıyla yapılandırılan bu kurumlar, borçlu ile alacaklı arasındaki dengenin yasal çerçevede korunmasını hedefler. Büyükçekmece İcra Dairesi Müdürlüğü de bu evrensel hukuk ilkeleri doğrultusunda iş süreçlerini yürütmektedir.\n\nGünümüzde icra dairelerinin iş yükü, ekonomik faaliyetlerin çeşitlenmesiyle birlikte önemli ölçüde artış göstermiştir. Alacaklıların haklarına kavuşması ve borçluların yasal haklarının gözetilmesi dengesi, bu kurumların titizlikle yürüttüğü işlemler sayesinde sağlanmaktadır. Büyükçekmece İcra Dairesi Müdürlüğü, artan işlem hacmine rağmen mevzuatın öngördüğü usul ve esaslara bağlı kalarak hizmet vermeye devam etmektedir.\n\nSonuç olarak, Büyükçekmece İcra Dairesi Müdürlüğü, bölgedeki adli ve idari mekanizmanın düzgün işleyişine katkı sunan temel bir kamu kurumu olarak çalışmalarını sürdürmektedir. İcra ve iflas hukuku alanındaki gelişmeler ve yasal düzenlemeler çerçevesinde şekillenen bu süreçler, vatandaşların adalet mekanizmasına olan güveninin pekişmesinde önemli bir etkiye sahiptir.",
+      "highlights": [
+        "Büyükçekmece İcra Dairesi Müdürlüğü bölgedeki yasal takiplerin merkezidir.",
+        "Kurum, alacak ve borç ilişkilerindeki hukuki süreçleri yürütmektedir.",
+        "İşlemler yasal mevzuata ve icra hukuku kurallarına uygun yapılmaktadır."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/resmi-ilanlar/buyukcekmece-icra-dairesi-mudurlugu-43281676",
+      "publishedAt": "2026-08-22T21:00:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -1244,6 +1359,52 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.aa.com.tr/tr/kultur/cso-ada-ankaranin-acik-hava-sinemasinda-odyssey-filmi-gosterildi/4034833",
+      "headline": "CSO Ada Ankara'nın açık hava sinemasında Odyssey filmi gösterildi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1623720676213-af134f1fd22b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8b3BlbiUyMGFpciUyMGNpbmVtYXxlbnwxfDB8fHwxNzg3NDQxOTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andre Ouellet",
+        "photographerUrl": "https://unsplash.com/@ledoc",
+        "unsplashUrl": "https://unsplash.com/photos/cars-parked-in-front-of-white-building-during-night-time-qoM80lkgc84"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Başkentin kültür ve sanat hayatına önemli katkılar sunan merkezlerden biri olan CSO Ada Ankara, sinemaseverler için dikkat çekici bir etkinliğe ev sahipliği yaptı. Bu kapsamda, kurumun bünyesinde yer alan Açık Hava Sineması alanında, sanatseverlerin beğenisine sunulan yapımlar arasında bulunan \"Odyssey\" filminin gösterimi gerçekleştirildi. Ankara'da yaşayan ve sinema sanatına ilgi duyan çok sayıda vatandaş, açık havada film izleme deneyimini yaşamak üzere etkinlik alanında bir araya geldi.\n\nKültür ve sanat faaliyetlerinin başkentteki önemli adreslerinden biri konumunda bulunan CSO Ada Ankara, düzenlediği bu tür organizasyonlarla farklı sanat dallarını İstanbullu veya Ankaralı sanatseverlerle buluşturmaya devam ediyor. Açık hava sinema etkinlikleri, özellikle yaz aylarında ve mevsim geçişlerinde sinemaseverlerin hem sosyalleşmesi hem de nitelikli yapımlarla açık havada buluşması açısından ayrı bir önem taşıyor. Bu doğrultuda programlanan \"Odyssey\" gösterimi de sinemaseverler tarafından ilgiyle karşılandı ve geniş bir katılımcı kitlesini bir araya getirdi.\n\nGerçekleştirilen bu özel sinema etkinliği, başkentteki kültürel buluşmaların çeşitliliğini artırırken, izleyicilere açık havada film izleme keyfini bir arada yaşattı. CSO Ada Ankara'nın sunduğu bu tarz sanatsal ve kültürel imkanlar, kentin sosyal dokusunu zenginleştiren unsurlar arasında yer alıyor. \"Odyssey\" filminin gösterimi sırasında izleyiciler, açık hava sinemasının sunduğu atmosferde keyifli anlar yaşarken, etkinlik boyunca düzen ve organizasyon akışı sorunsuz bir şekilde sürdürüldü.\n\nAnkara'daki sanat takviminde kendine kalıcı bir yer edinen CSO Ada Ankara'nın açık hava etkinlikleri, önümüzdeki dönemde de benzer film gösterimleri ve sanatsal buluşmalarla devam etmesi beklenen faaliyetler arasında bulunuyor. Sinemaseverlerin açık havada film izleme kültürünü yaşatmasına olanak tanıyan bu tür organizasyonlar, başkent halkının sanata olan ilgisini canlı tutmada etkin bir rol oynuyor. \"Odyssey\" filminin gösterimiyle bir kez daha hareketlenen Açık Hava Sineması alanı, sinema izleyicilerinden tam not alarak başarılı bir kültürel buluşmaya daha imza attı.",
+      "highlights": [
+        "CSO Ada Ankara Açık Hava Sineması'nda Odyssey filmi gösterildi.",
+        "Etkinlik, başkentteki sinemaseverler tarafından ilgiyle karşılandı.",
+        "Gösterim, açık havada film izleme deneyimi yaşattı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/kultur/cso-ada-ankaranin-acik-hava-sinemasinda-odyssey-filmi-gosterildi/4034833",
+      "publishedAt": "2026-08-22T19:52:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "headline": "İsrail'den işgal altındaki Batı Şeria'da yeni yasadışı yerleşim hamlesi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1541888946425-d81bb19240f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y29uc3RydWN0aW9uJTIwc2l0ZXxlbnwxfDB8fHwxNzg3NDQxOTk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Scott Blake",
+        "photographerUrl": "https://unsplash.com/@sunburned_surveyor",
+        "unsplashUrl": "https://unsplash.com/photos/seven-construction-workers-standing-on-white-field-x-ghf9LjrVg"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "İsrail devleti, uluslararası kamuoyunun ve bölgedeki aktörlerin tepkisine rağmen, işgal altındaki Batı Şeria'da yeni konut projelerinin hayata geçirilmesi amacıyla inşaat ihalesi sürecini resmen başlattı. Son dönemde bölgedeki hareketliliği artıran bu gelişme, İsrail yönetiminin tartışmalı yerleşim politikasını kararlılıkla sürdürdüğünü bir kez daha gözler önüne serdi. Uluslararası hukuk standartları ve Birleşmiş Milletler kararları çerçevesinde yasadışı olarak kabul edilen bu yerleşim birimleri, Filistin topraklarındaki statükoyu doğrudan etkileyen en önemli meselelerin başında geliyor.\n\nBölgedeki gelişmeler yakından takip edilirken, İsrail makamlarının açtığı yeni konut ihaleleri, sahadaki fiili durumun daha da karmaşıklaşmasına yol açabilecek bir potansiyel barındırıyor. İşgal altındaki Batı Şeria genelinde atılan bu tür adımlar, uzun yıllardır devam eden İsrail-Filistin anlaşmazlığının çözümsüzlük sarmalında kalmasında kilit bir rol oynuyor. Yeni inşaat projelerinin duyurulması, taraflar arasındaki diplomatik müzakere zeminini zayıflatırken, bölgede kalıcı barışın tesis edilmesini hedefleyen uluslararası çabaları da sekteye uğratıyor.\n\nSöz konusu yerleşim birimlerinin inşası için ihale süreçlerinin başlatılması, yalnızca yerel düzeyde değil, aynı zamanda küresel diplomasi platformlarında da geniş yankı uyandırıyor. Birçok ülke ve uluslararası kuruluş, İsrail'in işgal altındaki topraklarda yürüttüğü bu faaliyetlerin uluslararası hukuka açıkça aykırı olduğunu hatırlatarak kararı kınıyor. Bununla birlikte, İsrail hükümeti iç siyasi dinamikler ve güvenlik gerekçeleriyle bu politikalarını savunmaya devam ediyor ve Batı Şeria'daki varlığını genişletme stratejisinden vazgeçmiyor.\n\nİşgal altındaki Batı Şeria'da yükselmesi planlanan yeni konut projelerinin, bölgenin demografik yapısını ve coğrafi bütünlüğünü kalıcı olarak değiştirmesinden endişe ediliyor. Filistinli yetkililer ve sivil toplum kuruluşları, bu tür hamlelerin gelecekteki olası bir bağımsız Filistin devletinin coğrafi bütünlüğünü tamamen ortadan kaldırmayı amaçladığını savunuyor. İhale sürecinin tamamlanmasının ardından sahadaki inşaat çalışmalarının hız kazanması beklenirken, bu durumun sahadaki gerilimi tırmandırması kaçınılmaz görülüyor.\n\nUluslararası toplumun çağrılarına kulak tıkayan İsrail'in yeni yerleşim hamlesi, Orta Doğu'daki dengeleri sarsmaya devam ederken, konunun yakın gelecekte Birleşmiş Milletler Güvenlik Konseyi ve diğer uluslararası platformlarda da acil gündem maddesi olması bekleniyor. Bölgede yaşanan bu son gelişmeler, on yıllardır süren kronik sorunun çözümü konusunda taraflar arasındaki uçurumun ne kadar derin olduğunu bir kez daha kanıtlıyor.",
+      "highlights": [
+        "İsrail, Batı Şeria'da yeni konutlar için inşaat ihalesi açtı.",
+        "Uluslararası hukuka göre bu yerleşimler yasadışı kabul ediliyor.",
+        "Yeni hamle, bölgedeki gerilimi ve diplomatik tepkileri artırdı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+      "publishedAt": "2026-08-22T19:40:58.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.ntv.com.tr/turkiye/galeri-alparslan-kuytul-sorusturmasinda-feto-tespiti-dokuz-isim-belirlendi-1738444",
       "headline": "Alparslan Kuytul soruşturmasında FETÖ tespiti: Dokuz isim belirlendi",
       "source": "NTV",
@@ -1287,6 +1448,29 @@
       "externalUrl": "https://www.ntv.com.tr/teknoloji/galeri-usain-boltun-rekorunu-gecti-robot-100-metreyi-932-saniyede-kostu-1738463",
       "publishedAt": "2026-08-22T18:44:57.000Z",
       "category": "Teknoloji",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-bicakli-saldiriya-ugrayan-yeni-partili-milletvekili-istanbula-sevk-edildi-1738441",
+      "headline": "Bıçaklı saldırıya uğrayan Yeni Partili milletvekili Melih Meriç entübe edildi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1776241419373-ee58d6a40e1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aG9zcGl0YWwlMjBhbWJ1bGFuY2V8ZW58MXwwfHx8MTc4NzQ0MjAwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Florencia Gonzalez Bazzano",
+        "photographerUrl": "https://unsplash.com/@flor050881",
+        "unsplashUrl": "https://unsplash.com/photos/a-white-ambulance-with-red-lights-on-the-roof-PguLIwPMDzA"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Gaziantep kentinde yaşanan talihsiz bir olay neticesinde bıçaklı saldırıya hedef olan ve vücudunun çeşitli yerlerinden yaralanan Yeni Parti milletvekili Melih Meriç'in sağlık durumuna ilişkin yeni ve kritik gelişmeler yaşandı. Olayın hemen ardından başlatılan tıbbi müdahaleler ve tedavi süreçleri kapsamında, yaralı milletvekili Gaziantep'ten hava yoluyla nakledilerek büyükşehirdeki sağlık merkezlerine sevk edildi. Yetkililerden alınan son bilgilere göre, Yeni Parti Milletvekili Melih Meriç hastaneye ulaştırılmasının ardından İstanbul'a getirildi ve burada doktorların gözetiminde entübe edildi.\n\nBilindiği üzere bu tür acil vakalarda zamanla yarışılırken, hastaların nakil süreçleri son derece büyük bir titizlik ve dikkat gerektirmektedir. Gaziantep'te meydana gelen ve siyaset dünyasında olduğu kadar kamuoyunda da büyük bir şok ve endişe yaratan bıçaklı saldırı olayının ardından, yerel sağlık kuruluşlarında ilk müdahaleleri yapılan Melih Meriç için hızlı bir sevk operasyonu planlandı. Karayolu taşımacılığının getirebileceği riskleri en aza indirmek ve en kısa sürede donanımlı bir üst düzey sağlık merkezine erişim sağlamak amacıyla özel bir ambulans uçak devreye sokuldu. Bu doğrultuda gerçekleştirilen hava yolu nakli ile milletvekili Meriç, güvenli ve hızlı bir şekilde İstanbul'daki hastaneye ulaştırıldı.\n\nİstanbul'a varışının hemen ardından uzman hekimler tarafından kapsamlı bir tetkik ve tedavi sürecine alınan Melih Meriç'in hayati tehlikesinin devam ettiği ve bu sebeple tıbbi destek amacıyla entübe edildiği bildirildi. Yoğun bakım ünitesinde solunum cihazına bağlanan milletvekilinin durumu, parti teşkilatı, yakınları ve tüm Türkiye tarafından yakından ve endişeyle takip ediliyor. Siyaset sahnesinde üzüntüye neden olan bu şiddet olayı, toplumun her kesiminden tepki toplarken, adli makamların olayla ilgili soruşturma süreçlerini titizlikle sürdürdüğü biliniyor.\n\nOlayın ardından hastane çevresinde ve parti genel merkezinde güvenlik önlemleri artırılırken, milletvekili Melih Meriç'in sağlığına kavuşabilmesi için tıbbi ekiplerin tüm imkanları seferber ettiği ifade edildi. İstanbul'daki hastanede sürdürülen bu kritik süreçte, doktorların yapacağı resmi açıklamalar ve ilerleyen saatlerdeki sağlık durumu güncellemeleri tüm ülke tarafından büyük bir dikkatle beklenmektedir.",
+      "highlights": [
+        "Gaziantep'te bıçaklı saldırıya uğrayan Melih Meriç yaralandı.",
+        "Yeni Parti milletvekili ambulans uçakla İstanbul'a sevk edildi.",
+        "İstanbul'da hastanede tedavi altına alınan Meriç entübe edildi."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-bicakli-saldiriya-ugrayan-yeni-partili-milletvekili-istanbula-sevk-edildi-1738441",
+      "publishedAt": "2026-08-22T18:36:46.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
@@ -1656,6 +1840,29 @@
       "publishedAt": "2026-08-22T16:09:07.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/cq6dn26n521o?at_medium=RSS&at_campaign=rss",
+      "headline": "Furkan Vakfı operasyonunda Alparslan Kuytul adliyeye sevk edildi",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1643149007777-5d3c2126d62a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODc0NDE5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Colin Lloyd",
+        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-sitting-on-a-bench-in-front-of-a-building-52LVSjj7voc"
+      },
+      "timeAgo": "8 sa önce",
+      "body": "Türkiye genelinde yürütülen güvenlik çalışmaları kapsamında, Adana merkezli olarak toplam altı ilde gerçekleştirilen kapsamlı operasyonlar neticesinde gözaltına alınan şüphelilerin emniyetteki işlemleri tamamlandı. Gerçekleştirilen bu operasyonlar çerçevesinde, aralarında Furkan Vakfı Başkanı Alparslan Kuytul'un da bulunduğu toplam 56 kişinin, soruşturmayı yürüten savcılığa ifade vermek üzere adliyeye sevk edildiği bildirildi.\n\nEmniyet birimleri tarafından yürütülen soruşturmanın detaylarına ilişkin resmi makamlarca henüz kapsamlı bir ek bilgi paylaşılmazken, gözaltına alınan kişilerin adliyeye sevk edilmesi süreci geniş güvenlik önlemleri altında gerçekleştirildi. Adana merkezli olarak başlatılan ve altı farklı ili kapsayan operasyon dalgası, kamuoyunda geniş yankı uyandırırken, sürecin nasıl ilerleyeceği ve savcılığın yapacağı değerlendirmelerin ardından mahkemeye sevk işlemlerinin nasıl şekilleneceği basın mensupları ve ilgili takipçiler tarafından yakından izleniyor.\n\nFurkan Vakfı ve vakfın lider kadrosuna yönelik olarak gerçekleştirilen bu tür yasal işlemler, daha önceki dönemlerde de benzer hukuki süreçlerle gündeme gelmişti. Türkiye'deki sivil toplum kuruluşları, dernekler ve vakıflar üzerinde yürütülen denetimler ve hukuki soruşturmalar, ilgili yasal mevzuatlar çerçevesinde yürütülmekte olup, bu operasyon da söz konusu denetim ve soruşturma halkalarından biri olarak kayıtlara geçti.\n\nAltı ilde eş zamanlı olarak yürütülen operasyonların lojistik ve operasyonel detayları hakkında henüz resmi bir kriz masası açıklaması yapılmazken, adliyeye sevk edilen 56 şüphelinin savcılık sorgularının ardından mahkemeye çıkarılması bekleniyor. Savcılık makamının yapacağı sevkler sonrasında nöbetçi sulh ceza hakimliklerinin alacağı kararlar, dosyanın seyrini belirleyecek en kritik aşama olarak değerlendiriliyor.\n\nOlayla ilgili olarak hem yerel hem de ulusal basında geniş yer bulan gelişmeler, tarafların ve vakıf mensuplarının sosyal medya ve diğer iletişim kanalları üzerinden yaptıkları açıklamalarla da farklı boyutlar kazanıyor. Ancak adli makamların gizlilik ve tarafsızlık ilkeleri çerçevesinde yürüttüğü soruşturma dosyasındaki resmi bilgiler, şu aşamada savcılığın atacağı yeni adımlara odaklanmış durumda.",
+      "highlights": [
+        "Adana merkezli altı ilde operasyon düzenlendi.",
+        "Furkan Vakfı Başkanı Alparslan Kuytul gözaltına alındı.",
+        "Toplam 56 kişi emniyetteki işlemlerinin ardından adliyeye sevk edildi."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cq6dn26n521o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T16:05:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/45-yil-filistinli-esir-israil-iskencelerini-cnn-turke-anlatti-kopekleri-ustumuze-saldilar-gaz-ve-siddet-uyguladilar-3457620",
