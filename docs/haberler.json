@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T23:40:12.879Z",
+  "generatedAt": "2026-08-22T23:56:58.533Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/alihan-kuris-suc-orgutune-yonelik-ikinci-dalga-operasyondan-servet-cikti-3457701",
@@ -163,6 +163,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.cnnturk.com/spor/futbol/kerem-akturkoglu-korkuttu-fenerbahceden-aciklama-geldi-3457693",
+      "headline": "Kerem Aktürkoğlu korkuttu, Fenerbahçe'den açıklama geldi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MzYwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Krzysztof Dubiel",
+        "photographerUrl": "https://unsplash.com/@kris1902",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-game-in-stadium-hQBIJsBtyBw"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Türk futbol camiasını ve sarı-lacivertli taraftarları derinden sarsan ve endişelendiren talihsiz bir gelişme yaşandı. Futbol dünyasında büyük bir yankı uyandıran olay, Fenerbahçe forması giyen başarılı oyuncu Kerem Aktürkoğlu'nun yaşadığı sağlık sorunuyla gündeme geldi. Spor sahalarında her zaman sporcuların sağlığının ve güvenliğinin her şeyin üzerinde yer aldığı bilinciyle, yaşanan bu kritik anlar tribünlerdeki ve ekran başındaki binlerce futbolseverde büyük bir korku ve panik yarattı.\n\nEdinilen bilgilere göre, mücadelenin devam ettiği anlarda sahnede olan Kerem Aktürkoğlu, talihsiz bir pozisyonun ardından kafa travması geçirdi. Sahada yaşanan bu ciddi ve tehlikeli durum, sağlık ekiplerinin anında ve hızlı bir şekilde müdahale etmesini zorunlu kıldı. Spor müsabakalarında baş ve kafa bölgesine alınan darbelerin ne kadar hassas ve riskli olduğu bilindiğinden, sağlık görevlileri büyük bir dikkatle oyuncunun yanına koştu ve ilk müdahaleyi saha içinde gerçekleştirdi.\n\nYaşanan bu endişe verici saniyelerin hemen ardından, oyuncunun güvenliği ve detaylı tetkiklerin yapılabilmesi amacıyla Kerem Aktürkoğlu sedyeyle oyundan alındı. Sedyeyle saha kenarına ve ardından hastaneye veya sağlık alanına doğru taşınan futbolcunun durumu, tüm futbolseverlerin odak noktası haline geldi. Maçın heyecanı bir anda yerini büyük bir sessizliğe ve endişeli bir bekleyişe bırakırken, stadyumdaki atmosfer tamamen oyuncunun sağlık durumundan gelecek iyi haberlere odaklandı.\n\nOlayın hemen akabinde spor kamuoyunda ve sosyal medyada binlerce spekülasyon ve endişe dolu paylaşım yapılırken, merakla beklenen resmi bilgilendirme kulüpten geldi. Fenerbahçe Kulübü, yaşanan bu talihsiz kafa travması ve sonrasındaki gelişmelerle ilgili resmi bir açıklama yayınlayarak kamuoyunu bilgilendirme ihtiyacı hissetti. Yapılan bu açıklama, taraftarların yüreğine kısmen de olsa su serperken, kulübün süreci yakından takip ettiği ve oyuncunun sağlığının en büyük öncelik olduğu vurgulandı.\n\nSpor dünyasında bu tür kafa travmaları, protokoller gereği son derece titizlikle ele alınmaktadır. Kerem Aktürkoğlu'nun geçirdiği bu talihsiz kaza, sporcu sağlığının ne kadar kırılgan olabileceğini bir kez daha gözler önüne sererken, futbol camiasının tüm paydaşları oyuncuya geçmiş olsun dileklerini iletmek için bir araya geldi. Fenerbahçe'nin yaptığı açıklama ile olayın detayları netleşirken, oyuncunun en kısa sürede sağlığına kavuşması ve sahalara dönmesi için tüm futbol ailesi iyi dileklerini paylaşıyor.",
+      "highlights": [
+        "Kerem Aktürkoğlu kafa travması geçirerek sedyeyle oyundan alındı.",
+        "Yaşanan bu sağlık sorunu taraftarlarda ve spor camiasında büyük korku yarattı.",
+        "Fenerbahçe Kulübü, oyuncunun durumu hakkında resmi bir açıklama yaptı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/kerem-akturkoglu-korkuttu-fenerbahceden-aciklama-geldi-3457693",
+      "publishedAt": "2026-08-22T23:52:43.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.cnnturk.com/video/dunya/federal-yargi-trumpa-dur-dedi-75-ulkeden-gocmen-vizesi-yasagina-mahkeme-engeli-3457689",
       "headline": "Federal yargı Trump'a dur dedi: 75 ülkeden göçmen vizesi yasağına mahkeme engeli",
       "source": "CNN Türk",
@@ -205,6 +228,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/australia-news/live/2026/aug/23/australia-news-live-anthony-albanese-sydney-swans-police-investigation-alan-jones-antisemitism-inquiry-icac-nsw-liberals-ntwnfb",
       "publishedAt": "2026-08-22T23:26:46.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+      "headline": "İran'dan komşu ülkelere ABD'nin ekonomik savaş politikalarına karşı uyarı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1693139062697-f5f8663217fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGZsYWd8ZW58MXwwfHx8MTc4NzQ0Mjk4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "sina drakhshani",
+        "photographerUrl": "https://unsplash.com/@sina_drakhshani",
+        "unsplashUrl": "https://unsplash.com/photos/flag-of-iran-waving-9S96Rqy9Q1U"
+      },
+      "timeAgo": "30 dk önce",
+      "body": "Uluslararası ilişkilerde tansiyonun yüksek seyrettiği bu dönemde Tahran yönetiminden dikkat çekici bir uyarı geldi. İran, yakın çevresinde bulunan ve komşu konumda olan devletlerin, Amerika Birleşik Devletleri tarafından yürütülen ekonomik savaş çabalarına ve hamlelerine dahil olmamaları hususunda net bir mesaj iletti. Bu kritik uyarı açıklaması, Washington yönetiminin Tahran hükümetini zayıflatma ve iktidarı ekonomik olarak baskı altına alarak izole etme stratejisini izlediği bir süreçte kamuoyuyla paylaşıldı.\n\nBilindiği üzere, ABD Başkanı Donald Trump geçtiğimiz dönemde İran'a yönelik ekonomik kısıtlamaları ve tecrit politikalarını artırarak ülkenin yönetimini güçten düşürmeyi hedefleyen tehditlerde bulunmuştu. Washington'ın bu kapsamlı ekonomik baskı politikası, bölgedeki dengeleri doğrudan etkilerken, Tahran yönetimi de kendi stratejik çıkarlarını korumak adına diplomasi ve uyarı mekanizmalarını devreye sokuyor. İranlı yetkililerin yaptığı bu son uyarı, ABD'nin ekonomik ambargolarına ve yaptırım politikalarına bölgesel aktörlerin destek vermemesi gerektiğinin altını çiziyor.\n\nBölgesel iş birliği ve komşuluk ilişkileri açısından kritik bir eşikte yapılan bu değerlendirmeler, Tahran ile Washington arasındaki uzun soluklu gerilimin yeni bir cephesini gözler önüne seriyor. ABD'nin İran ekonomisini hedef alan ve ülkeyi uluslararası ticaret ve finans sisteminden koparmayı amaçlayan adımları, sadece iki ülke arasındaki ikili ilişkileri değil, aynı zamanda Orta Doğu'nun genel istikrarını ve güvenlik mimarisini de yakından ilgilendiriyor.\n\nİran tarafı, komşu ülkelerin ABD'nin bu stratejisine ortak olmasının bölgesel barışa ve ekonomik entegrasyona zarar vereceğini savunuyor. Tahran'ın bu konudaki duruşu, dış politikada yalnızlaştırma girişimlerine karşı bölgesel dayanışmanın önemine işaret ederken, komşu devletlerin bu süreçte hangi tutumu takineceği merak konusu olmaya devam ediyor. Özellikle ekonomik olarak birbirine entegre olan bölge ülkelerinin, iki süper güç arasındaki bu sert rekabet ortamında denge politikası izlemeye çalıştığı biliniyor.\n\nABD Başkanı Trump'ın yönetimi döneminde yoğunlaşan ekonomik tecrit politikaları, İran ekonomisinin iç dinamiklerini ve dış ticaret kapasitesini hedef alıyor. Washington'ın bu baskıları karşısında Tahran yönetimi hem ulusal direnci artırmaya yönelik tedbirler alıyor hem de komşu ülkeleri bu ekonomik kuşatmanın bir parçası olmamaları konusunda uyarıyor. Gün geçtikçe karmaşıklaşan bu süreç, uluslararası toplumun ve bölgesel aktörlerin dikkatle izlediği en önemli dış politika başlıklarından biri olma özelliğini koruyor.",
+      "highlights": [
+        "İran komşu ülkelere ABD'nin ekonomik savaş politikalarına katılmama uyarısı yaptı.",
+        "ABD Başkanı Trump İran'ı ekonomik olarak izole ederek zayıflatmakla tehdit ediyor.",
+        "Tahran yönetimi Washington'ın tecrit politikalarına karşı bölgesel duruş sergiliyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+      "publishedAt": "2026-08-22T23:26:15.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -485,6 +531,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "headline": "Suriye'den İsrail saldırısına uluslararası hukuk tepkisi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1536714303373-a2114b28b6b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlsaXRhcnklMjBqZXR8ZW58MXwwfHx8MTc4NzQ0Mjk4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Clayton Holmes",
+        "photographerUrl": "https://unsplash.com/@clayton_holmes",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-grey-fire-fighter-plane-BGaGusB9rL4"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Orta Doğu'da gerilimi tırmandıran yeni bir gelişme olarak, Suriye makamları başkent Şam yakınlarında gerçekleştirilen askeri bir hava saldırısının uluslararası hukukun açık bir ihlali olduğunu duyurdu. Bölgede son dönemde artış gösteren askeri hareketlilik ve sınır ötesi operasyonlar, uluslararası toplumun ve ilgili ülkelerin dikkatini çekmeye devam ederken, Şam yönetiminden gelen bu resmi açıklama yaşanan olayların hukuki boyutunu ön plana çıkardı. Diplomatik ve stratejik dengelerin hassas olduğu bölgede, bu tür hava operasyonları sık sık bölgesel istikrarı tehdit eden unsurlar olarak değerlendiriliyor ve taraflar arasında karşılıklı suçlamalara zemin hazırlıyor.\n\nSöz konusu son askeri olay, İsrail güçlerinin Türkiye sınırına yakın bir konumda bulunan askeri bir hava üssünü hedef aldığına dair haberlerin basına yansımasından sadece birkaç gün sonra meydana geldi. Bu durum, arka arkaya yaşanan askeri müdahalelerin tesadüf olmadığını, aksine belirli bir stratejik yönelimin parçası olabileceği yönündeki değerlendirmeleri beraberinde getirdi. Sınır hatlarına ve stratejik noktalara yakın bölgelerde yaşanan bu çatışmalar ve hava saldırıları, hem komşu ülkelerin güvenliğini doğrudan etkilemekte hem de uluslararası diplomatik kanallarda yoğun tartışmalara neden olmaktadır.\n\nUluslararası hukuk uzmanları ve siyasi gözlemciler, bu tür hava operasyonlarının egemenlik haklarının ihlali anlamına gelip gelmediği konusunda uzun süredir tartışmalar yürütmektedir. Suriye yönetiminin Şam civarındaki saldırıyı uluslararası hukuka aykırı olarak nitelendirmesi, ülkenin maruz kaldığı askeri müdahalelere karşı hukuki zemin üzerinden tepki gösterme stratejisinin bir parçası olarak dikkat çekiyor. Benzer olayların geçmişte de defalarca yaşandığı bilinirken, her yeni saldırı bölgesel güvenlik mimarisinin ne kadar kırılgan olduğunu bir kez daha gözler önüne seriyor.\n\nÖzellikle Türkiye sınırına yakın bölgelerde gerçekleştiği bildirilen önceki hava saldırıları, bu operasyonların sadece yerel bir mesele olmadığını, coğrafi olarak daha geniş bir alanı ve birden fazla aktörün çıkarlarını etkilediğini ortaya koymaktadır. Askeri tesislerin ve stratejik hava üssü gibi kritik altyapıların hedef alınması, taraflar arasındaki çatışmanın niteliğini değiştirmekte ve olası bir tırmanma senaryosunu her zaman masada tutmaktadır. Şam'ın uluslararası topluma yaptığı çağrılar ve gösterdiği tepkiler, bu krizin diplomatik yollarla çözülmesinin ne kadar zor ama bir o kadar da elzem olduğunu göstermektedir.\n\nSon günlerde art arda gelen bu askeri gelişmeler, bölgedeki diplomatik misyonların ve uluslararası kuruluşların da gündemini meşgul ediyor. İsrail'in düzenlediği öne sürülen bu operasyonların ardından, tarafların önümüzdeki günlerde nasıl bir tutum takınacağı ve uluslararası platformlarda hangi adımların atılacağı merakla bekleniyor. Gerek Şam yönetiminin açıklamaları gerekse sınır bölgelerindeki hareketlilik, Orta Doğu'daki tansiyonun düşmek bilmediğini ve jeopolitik risklerin tüm ağırlığıyla devam ettiğini net bir şekilde kanıtlamaktadır.",
+      "highlights": [
+        "Suriye, Şam yakınlarındaki hava saldırısını uluslararası hukuka aykırı buldu.",
+        "Son olay, Türkiye sınırına yakın bir üsse düzenlenen saldırıdan gün sonra yaşandı.",
+        "Bölgedeki arka arkaya gelen askeri operasyonlar uluslararası alanda tepki topluyor."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T21:42:42.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.yenisafak.com/galeri/hayat/ayagina-takilan-tas-hayatini-degistirdi-catidaki-gizli-hazineyi-simdi-dunyaya-gonderiyor-4850234",
       "headline": "Hatay'da ayağına takılan taş hayatını değiştirdi: Çatıdaki koleksiyonunu dünyaya ihraç ediyor",
       "source": "Yeni Şafak",
@@ -692,6 +761,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.haberturk.com/turkiye-slovenya-voleybol-maci-ne-zaman-saat-kacta-turkiye-slovenya-voleybol-maci-hangi-kanalda-avrupa-sampiyonasi-filenin-sultanlari-mac-takvimi-3907408",
+      "headline": "Türkiye-Slovenya voleybol maçı ne zaman ve saat kaçta? Filenin Sultanları Avrupa Şampiyonası'nda sahne alıyor",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1547347298-4074fc3086f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dm9sbGV5YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3ODc0NDI5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vince Fleming",
+        "photographerUrl": "https://unsplash.com/@vincefleming",
+        "unsplashUrl": "https://unsplash.com/photos/women-playing-volleyball-inside-court-aZVpxRydiJk"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Uluslararası voleybol takvimi içerisinde büyük bir heyecana sahne olan CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası tüm hızıyla devam ederken, Türk sporseverlerin gözü kulağı A Milli Kadın Voleybol Takımı'nın alacağı sonuçlara çevrilmiş durumda. Ülkemizi uluslararası arenada gururla temsil eden ve 'Filenin Sultanları' olarak anılan ay-yıldızlı millilerimiz, şampiyonadaki mücadelesini büyük bir kararlılıkla sürdürüyor. Turnuvanın açılış karşılaşmasında rakibi Letonya ile parkede karşı karşıya gelen milli takımımız, üstün bir performans ortaya koyarak sahadan 3-0'lık net bir galibiyetle ayrılmayı başarmıştı. Bu başarılı başlangıç, hem takımın moralini en üst seviyeye çıkardı hem de şampiyonluk yolundaki iddiamızı bir kez daha gözler önüne serdi.\n\nLetonya karşısında elde edilen bu konforlu ve moral verici galibiyetin ardından, A Milli Kadın Voleybol Takımı'mız şimdi çok daha kritik bir eşiğe odaklanmış durumda. Millilerimiz, Avrupa Şampiyonası serüvenindeki ikinci sınavında Slovenya voleybol takımı ile kozlarını paylaşmaya hazırlanıyor. Spor kamuoyu ve milyonlarca voleybol sever, bu zorlu mücadelenin ne zaman oynanacağını, hangi saatte başlayacağını ve hangi televizyon kanalından canlı olarak ekranlara geleceğini büyük bir merakla araştırmayı sürdürüyor. Turnuvanın genel dinamikleri göz önüne alındığında, gruptaki her bir karşılaşmanın sıralama ve ilerleyen turlar açısından stratejik bir önem taşıdığı açıkça görülüyor.\n\nTeknik heyet ve sporcularımız, Slovenya karşısında da aynı disiplin ve odaklanmayla sahaya çıkmayı planlıyor. Ay-yıldızlı ekibimiz, güçlü rakibi Slovenya engelini de kayıpsız bir şekilde aşarak, Avrupa Voleybol Şampiyonası'nda yoluna namağlup ve kayıpsız devam etmeyi hedefliyor. Türk voleybolunun son yıllarda elde ettiği uluslararası başarılar, Filenin Sultanları'nın her turnuvada en büyük favoriler arasında gösterilmesini sağlarken, bu maç da bu geleneğin sürdürülmesi adına ayrı bir önem taşıyor. Takım içerisindeki uyum, tecrübeli oyuncuların liderliği ve genç yeteneklerin enerjisi, şampiyonluk yolunda en büyük güvencelerimiz arasında yer alıyor.\n\nAvrupa'nın en büyük milli takımlar organizasyonlarından biri olan bu dev şampiyona, sadece sportif bir rekabet olmanın ötesinde, ülkelerin voleybol ekollerinin buluştuğu bir platform niteliği taşıyor. A Milli Kadın Voleybol Takımı'mız da bu platformda Türkiye'yi en iyi şekilde temsil etmek için var gücüyle ter döküyor. Slovenya maçı öncesinde tüm hazırlıklarını titizlikle sürdüren millilerimiz, maç saatini beklemeye başladı. Spor severler ise Türkiye-Slovenya voleybol maçının tarihi, saati ve yayıncı kuruluş detaylarını öğrenmek için resmi takvim açıklamalarını ve spor medyasını yakından takip ediyor.\n\nŞampiyonanın ilerleyen aşamalarında daha zorlu rakiplerle karşılaşacak olan Filenin Sultanları için grup aşamasındaki her galibiyet, hem özgüven hem de turnuva ritmini yakalamak adına büyük bir fırsat sunuyor. Slovenya maçı da bu ritmin korunması adına kritik bir basamak teşkil ediyor. Ay-yıldızlı ekibimizin sahaya koyacağı mücadele, sadece bu maçın sonucunu değil, aynı zamanda turnuvanın geri kalanı için de önemli ipuçları verecek. Milyonların desteğini arkasına alan millilerimiz, Türk bayrağını en yukarılara taşımak için parkede tüm gücünü ortaya koyacak.",
+      "highlights": [
+        "A Milli Kadın Voleybol Takımı, CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası'nda mücadelesini sürdürüyor.",
+        "Filenin Sultanları, turnuvaya Letonya karşısında aldığı 3-0'lık net galibiyetle başlamıştı.",
+        "Ay-yıldızlılar, Slovenya engelini de aşarak Avrupa Şampiyonası'nda yoluna kayıpsız devam etmeyi hedefliyor."
+      ],
+      "externalUrl": "https://www.haberturk.com/turkiye-slovenya-voleybol-maci-ne-zaman-saat-kacta-turkiye-slovenya-voleybol-maci-hangi-kanalda-avrupa-sampiyonasi-filenin-sultanlari-mac-takvimi-3907408",
+      "publishedAt": "2026-08-22T21:24:59.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/video/gundem/kelkit-seker-fasulyesi-ile-dunya-rekoru-kirildi-tek-kazanda-6-bin-840-litre-pisirildi-4850224",
       "headline": "Kelkit şeker fasulyesi ile dünya rekoru kırıldı: Tek kazanda 6 bin 840 litre pişirildi",
       "source": "Yeni Şafak",
@@ -780,6 +872,29 @@
       ],
       "externalUrl": "https://www.sabah.com.tr/dunya/israilli-bakandan-turkiye-aciklamasi-7646577",
       "publishedAt": "2026-08-22T21:19:37.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/malatyada-otomobil-motosiklete-carpti-iki-kardes-yaralandi-4850222",
+      "headline": "Malatya'da otomobil motosiklete çarptı: İki kardeş yaralandı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673187139211-1e7ec3dd60ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3ODc0NDI5OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Malik",
+        "photographerUrl": "https://unsplash.com/@usmanbim94",
+        "unsplashUrl": "https://unsplash.com/photos/a-red-car-is-on-a-flatbed-tow-truck-kE__1vnDxg4"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Malatya'nın Battalgazi ilçesinde trafikte seyir halinde olan bir otomobil ile motosikletin karışması sonucunda yaşanan kazada iki kardeş yaralandı. Edinilen bilgilere göre olay, Malatya ili sınırları içinde bulunan Battalgazi bölgesinde meydana geldi. Henüz plakası ve sürücüsünün ismi resmi makamlarca açıklanmayan bir otomobil, aynı güzergahta ilerleyen motosikletle çarpıştı.\n\nYaşanan şiddetli çarpışmanın etkisiyle motosiklet üzerinde bulunan iki kardeş bulundukları yerden savrularak yere düştü ve çeşitli yerlerinden yaralandı. Kazayı gören çevredeki diğer sürücüler ile vatandaşlar durumu hemen sağlık ve emniyet birimlerine bildirdi. Olay yerine kısa süre içerisinde ulaşan 112 Acil Sağlık ekipleri, yaralı iki kardeşe ilk müdahaleyi kaza yerinde yaptıktan sonra ambulanslarla bölgedeki hastanelere sevk etti. Tedavi altına alınan yaralıların sağlık durumlarına ilişkin detaylı bir bilgilendirme henüz yapılmadı.\n\nÖte yandan, kazanın ardından otomobilini olay yerinde bırakarak ya da aracıyla birlikte hızla uzaklaşarak kayıplara karışan sürücünün kimliğini belirlemek ve yakalamak için emniyet güçleri geniş çaplı bir soruşturma başlattı. Polis ekipleri, kazanın meydana geldiği güzergahtaki güvenlik kameralarını incelemeye alırken, görgü tanıklarının ifadelerine de başvurarak kaçan sürücünün peşine düştü. Olayla ilgili soruşturma çok yönlü olarak sürdürülüyor.",
+      "highlights": [
+        "Malatya'nın Battalgazi ilçesinde otomobil motosiklete çarptı.",
+        "Kazada yaralanan iki kardeş hastaneye kaldırıldı.",
+        "Olay yerinden kaçan sürücünün yakalanması için polis çalışma başlattı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/malatyada-otomobil-motosiklete-carpti-iki-kardes-yaralandi-4850222",
+      "publishedAt": "2026-08-22T21:18:16.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -1428,6 +1543,52 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.aa.com.tr/tr/dunya/berlinde-filistine-destek-gosterisi-yapildi/4034820",
+      "headline": "Berlin'de Filistin'e destek gösterisi yapıldı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1511898634545-c01af8a54dd5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHJvdGVzdCUyMGNyb3dkfGVufDF8MHx8fDE3ODc0NDMwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alex Radelich",
+        "photographerUrl": "https://unsplash.com/@alexradelich",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-group-of-people-holding-up-signs-Evo4wmtRaPI"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Almanya'nın başkenti Berlin'de, Filistin'e destek vermek amacıyla bir gösteri gerçekleştirildi. Kentin çeşitli noktalarından gelen katılımcılar, uluslararası gündemde uzun süredir yer alan Filistin meselesine dikkat çekmek ve dayanışma sergilemek üzere sokaklara döküldü. Bu tür etkinlikler, Avrupa'nın genelinde olduğu gibi Almanya'da da kamuoyunun yakından takip ettiği ve farklı toplumsal kesimlerin katılım gösterdiği eylemler arasında bulunuyor.\n\nGerçekleştirilen bu son gösteri, Berlin genelindeki hareketli atmosferin bir parçası olarak kayda geçti. Toplanma özgürlüğü ve ifade hürriyeti çerçevesinde organize edilen etkinlikte, katılımcılar sloganlar atarak ve pankartlar taşıyarak taleplerini dile getirdi. Kentteki güvenlik birimleri, kalabalığın izlediği güzergah boyunca tedbirler alarak gösterinin akışını denetledi ve olası aksaklıkların önüne geçmek için sahada görev yaptı.\n\nAlmanya'nın idari merkezi konumundaki Berlin, geçmişte de benzer nitelikteki pek çok siyasi ve toplumsal eyleme ev sahipliği yapmıştır. Dünyanın dört bir yanından gelen göçmen toplulukların ve Alman vatandaşlarının bir arada yaşadığı metropolde, Orta Doğu'daki gelişmeler sık sık meydanlara taşınmaktadır. Filistin lehine düzenlenen bu yürüyüş ve mitingler, yerel basının yanı sıra uluslararası haber ajansları tarafından da yakından izlenen gelişmeler arasında yer almaktadır.\n\nToplumsal olayların ve protesto kültürünün önemli bir merkezlerinden biri olan başkentte, yetkililer gösterilerin barışçıl bir şekilde tamamlanması için çeşitli idari düzenlemeler uygulamaktadır. Katılımcıların ve çevredeki vatandaşların güvenliğinin sağlanması, şehirdeki kolluk kuvvetlerinin temel öncelikleri arasında yer alırken, bu tür mitinglerin kent hayatına etk en az düzeyde tutulması hedeflenmektedir. Berlin'de yaşanan bu son hareketlilik, uluslararası krizlerin yerel düzeydeki yansımalarını bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Almanya'nın başkenti Berlin'de Filistin'e destek yürüyüşü düzenlendi.",
+        "Katılımcılar pankartlar taşıyarak ve sloganlar atarak taleplerini duyurdu.",
+        "Güvenlik birimleri etkinlik boyunca kent genelinde önlemler aldı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/berlinde-filistine-destek-gosterisi-yapildi/4034820",
+      "publishedAt": "2026-08-22T19:15:05.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/dunya/israilden-geri-adim-turkiye-ile-gerilimi-artirma-niyetinde-degiliz-43281987",
+      "headline": "İsrail'den Türkiye açıklaması: Gerilimi artırma niyetinde değiliz",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1758518730037-a16581a040e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZGlwbG9tYWN5JTIwbWVldGluZ3xlbnwxfDB8fHwxNzg3NDQzMDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vitaly Gariev",
+        "photographerUrl": "https://unsplash.com/@silverkblack",
+        "unsplashUrl": "https://unsplash.com/photos/business-professionals-in-a-meeting-around-a-table-5txln04Cx7I"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Uluslararası ilişkilerde diplomasi trafiği hız kesmeden devam ederken, İsrail kanadından Türkiye'ye yönelik dikkat çeken bir mesaj geldi. Son dönemde iki ülke arasında yaşanan diplomatik ve siyasi gelişmeler kamuoyunda yakından takip edilirken, konuya ilişkin resmi bir değerlendirme İsrail Dışişleri Bakanı Gideon Saar tarafından yapıldı. Bakan Saar, yaptığı son açıklamalarda Türkiye ile olan ilişkilerde gerginliği tırmandırma gibi bir niyetlerinin bulunmadığını açık bir şekilde dile getirdi.\n\nGünümüz dış politikasında devletler arası ilişkilerin hassas dengeler üzerinde yürüdüğü bilinirken, bölgesel istikrarın korunması adına bu tür diplomatik mesajlar büyük bir önem taşımaktadır. Gideon Saar'ın ifadeleri, iki ülke arasındaki mevcut diplomatik zemin ve olası gelecekteki temaslar açısından analistler tarafından yakından inceleniyor. Uluslararası kamuoyunda geniş yankı uyandıran bu açıklama, karşılıklı ilişkilerin gelecekteki seyrine dair ipuçları barındırması bakımından kritik bir eşikte geldi.\n\nDiplomasi tarihinde komşu ve bölge ülkeleri arasındaki diyalog kanallarının açık tutulması, krizlerin derinleşmesini önlemek adına temel bir unsur olarak kabul edilir. Dışişleri Bakanı Saar'ın açıklaması da bu bağlamda, taraflar arasındaki gerilimin kontrol altında tutulabileceğine dair bir sinyal niteliği taşıyor. Haber merkezlerine düşen ilk bilgiler doğrultusunda, İsrail'in Türkiye ile olan ilişkilerde çatışmacı bir tutum izlemek istemediği vurgulanmış oldu.\n\nSöz konusu gelişmeler, dış politika takipçileri ve uluslararası ilişkiler uzmanları tarafından coğrafi ve stratejik dengeler çerçevesinde değerlendiriliyor. Bölgesel aktörlerin karşılıklı açıklamaları, gelecekte atılacak adımların yönünü belirlemede kilit rol oynamaktadır. İsrail Dışişleri Bakanı'nın bu konudaki net tavrı, diplomatik çevrelerde diyalog ihtimalinin her zaman masada olduğuna işaret eden bir gelişme olarak kayıtlara geçti.\n\nSonuç olarak, Gideon Saar'ın Türkiye ile gerilimi artırmama yönündeki iradesini beyan etmesi, iki ülke arasındaki diplomatik diyalog süreçlerinin geleceği adına önemli bir durak oluşturmaktadır. Bundan sonraki süreçte tarafların atacağı somut adımlar ve yapacağı yeni açıklamalar, bölgesel barış ve ikili ilişkilerin seyri açısından belirleyici olmaya devam edecektir.",
+      "highlights": [
+        "İsrail Dışişleri Bakanı Gideon Saar, Türkiye ile gerilimi artırmak istemediklerini belirtti.",
+        "Açıklama, uluslararası ilişkiler ve bölgesel diplomasi çevrelerinde yakından takip edildi.",
+        "İsrail cephesinden gelen bu mesaj, iki ülke arasındaki diplomatik zemin açısından önem taşıyor."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/dunya/israilden-geri-adim-turkiye-ile-gerilimi-artirma-niyetinde-degiliz-43281987",
+      "publishedAt": "2026-08-22T19:07:20.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.ntv.com.tr/teknoloji/galeri-usain-boltun-rekorunu-gecti-robot-100-metreyi-932-saniyede-kostu-1738463",
       "headline": "Çin'de geliştirilen robot Usain Bolt'un 100 metre rekorunu geride bıraktı",
       "source": "NTV",
@@ -1750,6 +1911,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.ntv.com.tr/teknoloji/galeri-tufan-kamikaze-ida-teknofest-mavi-vatanda-ilk-kez-suya-indirildi-1738457",
+      "headline": "Tufan kamikaze İDA, Teknofest Mavi Vatan'da ilk kez suya indirildi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1569524166489-1ebe78a62185?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWlsaXRhcnklMjBib2F0fGVufDF8MHx8fDE3ODc0NDMwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andy Holmes",
+        "photographerUrl": "https://unsplash.com/@andyjh07",
+        "unsplashUrl": "https://unsplash.com/photos/white-war-ship-iqdLoflYWJs"
+      },
+      "timeAgo": "7 sa önce",
+      "body": "Türk savunma sanayiinin denizcilik alanındaki yenilikçi projelerine her geçen gün bir yenisi eklenirken, bu alandaki stratejik hamlelerden biri olan TUFAN Kamikaze İnsansız Deniz Aracı, geniş yankı uyandıran bir etkinlikle kamuoyuna tanıtıldı. Savunma teknolojilerindeki yerli ve milli üretim hamlelerinin en önemli vitrinlerinden biri konumunda bulunan etkinlikler dizisinde sergilenen bu yeni nesil sistem, hem denizcilik profesyonellerinin hem de teknoloji meraklılarının yoğun ilgisiyle karşılaştı. Gelişen askeri teknolojiler ve değişen muharebe konseptleri göz önüne alınarak tasarlanan sistemler, orduların operasyonel kabiliyetlerini dönüştürmeye devam ediyor.\n\nSavunma sektörünün öncü kuruluşlarından biri olan ASELSAN tarafından geliştirilen TUFAN Kamikaze İnsansız Deniz Aracı, deniz savaşlarının yeni nesil vurucu gücü olarak konumlandırılıyor. Şirketin uzun yıllara dayanan mühendislik birikimi ve Ar-Ge çalışmaları sonucunda şekillenen bu platform, modern deniz harp sahasının kritik ihtiyaçlarına yanıt vermek üzere tasarlandı. Gerek tasarımı gerekse üstlendiği stratejik görevler itibarıyla deniz üzerindeki tehditlere karşı caydırıcı bir unsur olması hedeflenen araç, insansız sistemler teknolojisindeki Türk mühendisliğinin ulaştığı seviyeyi gözler önüne seriyor.\n\nOlayın ve tanıtımın gerçekleştiği zemin olan TEKNOFEST Mavi Vatan, Türkiye'nin denizcilik alanındaki teknolojik atılımlarını sergilediği en önemli platformlardan biri olma özelliği taşıyor. Geniş kitlelerin savunma sanayii projeleriyle buluştuğu bu büyük organizasyon, yerli sistemlerin halkın beğenisine sunulması ve gelecek vadeden teknolojilerin ilk kez sahada test edilmesi açısından büyük bir anlam taşıyor. Bu bağlamda, TUFAN'ın ilk kez bu etkinlik kapsamında suya indirilmesi, projenin geldiği aşama ve halka duyurulması açısından dönüm noktası niteliği taşıyan bir gelişme olarak kayıtlara geçti.\n\nDeniz savaşlarında insansız ve otonom sistemlerin rolü her geçen gün artarken, kamikaze İDA konsepti de modern askeri doktrinlerde kendine sağlam bir yer buluyor. Riskli ve yüksek tehlike içeren operasyonlarda insan hayatını tehlikeye atmadan nokta atışı görevler icra edebilen bu tür araçlar, deniz güvenliğinin sağlanmasında ordulara önemli bir esneklik kazandırıyor. ASELSAN'ın geliştirdiği TUFAN da bu stratejik vizyonun somut bir yansıması olarak, Türk deniz kuvvetlerinin caydırıcılığını artıracak kabiliyetlerle donatıldı.\n\nİlk kez suya indirilerek pratik kabiliyetlerini ve yüzme testlerindeki başarısını sergileyen TUFAN Kamikaze İnsansız Deniz Aracı, ilerleyen dönemde yapılacak kapsamlı testler ve entegrasyon çalışmalarının ardından envanter sürecine dair yeni aşamalara geçeceği öngörülen projeler arasında yer alıyor. Türk savunma sanayiinin deniz üstü harp alanındaki dışa bağımlılığını azaltma ve özgün çözümler sunma hedefi doğrultusunda geliştirilen bu araç, ülkemizin teknolojik bağımsızlık vizyonuna da doğrudan katkı sunuyor.",
+      "highlights": [
+        "TUFAN Kamikaze İnsansız Deniz Aracı TEKNOFEST Mavi Vatan'da suya indirildi.",
+        "Araç, ASELSAN tarafından deniz savaşlarının yeni nesil vurucu gücü olarak geliştirildi.",
+        "Bu lansman, yerli denizcilik teknolojilerinin geldiği noktayı gözler önüne serdi."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/teknoloji/galeri-tufan-kamikaze-ida-teknofest-mavi-vatanda-ilk-kez-suya-indirildi-1738457",
+      "publishedAt": "2026-08-22T16:45:34.000Z",
+      "category": "Teknoloji",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.bbc.com/turkce/articles/c0rdrg1dwn9o?at_medium=RSS&at_campaign=rss",
       "headline": "Çocuk yıldızların madde bağımlılığı riski ve sektörün baskıları",
       "source": "BBC Türkçe",
@@ -1842,6 +2026,25 @@
       "lang": "en"
     },
     {
+      "id": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+      "headline": "Badenoch, Reform UK'ye geçen eski parti üyelerini eleştirdi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "8 sa önce",
+      "body": "Muhafazakâr Parti lideri Kemi Badenoch, Reform UK partisine katılan eski parti üyelerini sert bir dille eleştirerek onları şimdiye kadar tanıdığı en dürüst olmayan kişiler arasında gösterdi. Edinburgh festival fringe kapsamında yaptığı açıklamalarda, partisinden ayrılan isimlerin gelecekte geri dönüşüne kesinlikle izin verilmeyeceğini vurguladı ve bu kişileri 'drama kraliçeleri' olarak nitelendirdi. Siyasi arenada sıklıkla tartışma yaratan parti değiştirmeler ve ittifak iddiaları üzerine net mesajlar veren Badenoch, bu grubun Muhafazakâr Parti çatısı altında tekrar kabul görmesinin söz konusu olmadığını dile getirdi.\n\nGerçekleştirilen bu açıklama, İngiliz siyasetinde muhafazakâr kanadın gelecekteki stratejilerine dair önemli ipuçları barındırıyor. Özellikle son dönemde Nigel Farage liderliğindeki Reform UK partisinin yükselişi ve Muhafazakâr Parti'den yaşanan geçişler, merkez sağ siyasetin dengelerini etkileyen unsurlar arasında yer alıyor. Badenoch, Edinburgh'daki etkinlikte yaptığı konuşmada, Nigel Farage'ın partisi ile herhangi bir seçim anlaşması veya koalisyon ihtimalini bir kez daha tamamen reddetti. Siyasi kulislerde zaman zaman dile getirilen olası iş birliği senaryolarına kapıyı kapatan Muhafazakâr lider, iki parti arasında resmi ya da gayriresmi bir ortaklığın kurulmayacağını net bir üslupla ifade etti.\n\nMuhafazakâr Parti'nin liderlik koltuğunda oturan Kemi Badenoch'un bu tutumu, partinin ideolojik sınırlarını koruma ve tabandaki sadakati pekiştirme çabasının bir parçası olarak değerlendiriliyor. Siyasi partiler arası geçişlerin yoğun olduğu dönemlerde liderlerin sergilediği tavırlar, hem parti içi disiplini sağlamak hem de seçmene net bir mesaj vermek açısından kritik rol oynamaktadır. Badenoch'un açıklamaları, özellikle son ayrılıkların ardından partide yaşanan hayal kırıklığını ve liderliğin bu duruma karşı koyma kararlılığını gözler önüne seriyor.\n\nNigel Farage liderliğindeki Reform UK'nin muhafazakâr seçmenden oy koparma potansiyeli, İngiltere siyasetinde uzun süredir tartışılan başlıklar arasında bulunuyor. Muhafazakâr Parti liderliği, bu tehditle başa çıkabilmek için kendi saflarını sıklaştırma stratejisini benimsemiş durumda. Badenoch'un koalisyon kapılarını tamamen kapatması ve partiden ayrılanlara yönelik sert ifadeler kullanması, bu stratejinin en somut göstergelerinden biri olarak öne çıkıyor. Siyasi gözlemciler, bu tür keskin söylemlerin hem parti içi birlik açısından hem de iki parti arasındaki rekabetin sertleşmesi açısından belirleyici olacağını belirtiyor.",
+      "highlights": [
+        "Muhafazakâr Parti lideri Kemi Badenoch, Reform'a geçenleri eleştirdi.",
+        "Badenoch, Nigel Farage'ın partisiyle koalisyon ihtimalini dışladı.",
+        "Eski parti üyelerinin yeniden kabul edilmeyeceğini duyurdu."
+      ],
+      "externalUrl": "https://www.theguardian.com/politics/2026/aug/22/kemi-badenoch-says-reform-defectors-some-of-the-most-dishonest-people-i-have-met",
+      "publishedAt": "2026-08-22T16:08:23.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.bbc.com/turkce/articles/cq6dn26n521o?at_medium=RSS&at_campaign=rss",
       "headline": "Furkan Vakfı operasyonunda Alparslan Kuytul adliyeye sevk edildi",
       "source": "BBC Türkçe",
@@ -1930,6 +2133,25 @@
       ],
       "externalUrl": "http://tr.euronews.com/2026/08/22/israil-suriyeye-yeni-hava-saldirisi-duzenledi-abd-elcisine-tepki-gosterdi",
       "publishedAt": "2026-08-22T15:54:15.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "http://tr.euronews.com/2026/08/22/mogolistandaki-cop17-arazi-tahribatina-karsi-cozumler-araniyor",
+      "headline": "Moğolistan’daki COP17: Arazi tahribatına karşı çözümler aranıyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "8 sa önce",
+      "body": "Dünya genelinde milyonlarca insanı doğrudan etkileyen çevre sorunlarına kalıcı çözümler bulmak amacıyla uluslararası toplum bir araya geldi. Çölleşmeyle Mücadele Birleşmiş Milletler Sözleşmesi çerçevesinde düzenlenen COP17 toplantıları kapsamında, dünyanın dört bir yanından gelen temsilciler önemli konuları masaya yatırdı. Etkinliğe katılan 179 ülkenin yetkilileri, yeryüzünün verimliliğini yitirmesine karşı küresel ölçekte atılabilecek adımları değerlendiriyor.\n\nGerçekleştirilen bu kritik zirvede, arazi tahribatının sadece çevresel bir yıkım olmadığı, aynı zamanda milyonlarca insanın yaşam koşullarını tehdit eden sosyo-ekonomik bir kriz olduğu vurgulandı. Uzmanlar ve delegeler, toprakların bozulmasının dünya nüfusunun yarısını yakından etkilediğine dikkat çekerek bu durumun doğurduğu tehlikelere işaret etti. Toprak verimliliğinin düşmesiyle birlikte tarımsal üretimde yaşanabilecek sıkıntılar, küresel gıda güvenliği açısından da ciddi endişe kaynakları arasında yer alıyor.\n\nToplantılarda ele alınan en temel meselelerden biri de yoksulluk ve kitlesel göç dalgaları oldu. Arazi tahribatının derinleştiği bölgelerde yaşayan toplulukların geçim kaynaklarını kaybetmesi, insanları yerlerinden eden büyük göç hareketlerini tetikliyor. Bu durumun hem yerel ekonomileri sarstığı hem de uluslararası düzeyde yeni göç krizlerine zemin hazırladığı ifade ediliyor. Delegeler, bu olumsuz tablonun tersine çevrilmesi için kapsamlı stratejilerin hayata geçirilmesi gerektiği konusunda hemfikir görünüyor.\n\nÇözüm süreçlerinin başarısı için çok paydaşlı bir yaklaşımın benimsenmesi gerektiği zirvenin ana gündem maddelerinden biri oldu. Bu doğrultuda, devlet yetkililerinin yanı sıra yerel halkın ve iş dünyasının karar alma mekanizmalarına dahil edilmesi ve ortak projeler geliştirilmesi hedefleniyor. Yerel toplulukların geleneksel bilgi birikimi ile iş dünyasının finansal ve teknolojik imkanlarını buluşturacak işbirliği modellerinin, çölleşmeyle mücadelede en etkili silah olacağı ifade ediliyor.\n\nMoğolistan'da devam eden görüşmelerde, tarafların somut adımlar atması ve uluslararası düzeyde bağlayıcı kararlar alması bekleniyor. Toprakların korunması ve bozulmuş arazilerin yeniden canlandırılması için 179 ülkenin temsilcileri ortak bir vizyon oluşturmaya çalışıyor. Gerçekleştirilen bu oturumların, gelecek nesillerin yaşanabilir bir dünyada hayat sürdürebilmesi adına milat niteliği taşıyabileceği değerlendiriliyor.",
+      "highlights": [
+        "179 ülkenin temsilcileri Moğolistan'daki COP17 zirvesinde bir araya geldi.",
+        "Arazi tahribatının dünya nüfusunun yarısını etkilediği vurgulandı.",
+        "Yerel halk ve iş dünyasının işbirliğiyle çözümler aranıyor."
+      ],
+      "externalUrl": "http://tr.euronews.com/2026/08/22/mogolistandaki-cop17-arazi-tahribatina-karsi-cozumler-araniyor",
+      "publishedAt": "2026-08-22T15:52:39.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
