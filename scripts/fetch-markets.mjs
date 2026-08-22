@@ -48,28 +48,15 @@ async function safeFetch(symbol, previousEntry) {
   }
 }
 
-// BIST30'un en çok işlem gören birkaç hissesi — aynı ücretsiz Yahoo uç
-// noktasından, endeksle aynı çağrıda çekiliyor.
-const STOCKS = [
-  { symbol: 'THYAO.IS', name: 'THY' },
-  { symbol: 'GARAN.IS', name: 'Garanti BBVA' },
-  { symbol: 'ASELS.IS', name: 'Aselsan' },
-  { symbol: 'SISE.IS', name: 'Şişecam' },
-];
-
 async function main() {
   const previous = await loadPrevious();
-  const prevStocks = Object.fromEntries((previous?.stocks ?? []).map(s => [s.symbol, s]));
 
-  const [usdTry, eurTry, gold, bist100, ...stockResults] = await Promise.all([
+  const [usdTry, eurTry, gold, bist100] = await Promise.all([
     safeFetch('USDTRY=X', previous?.usdTry),
     safeFetch('EURTRY=X', previous?.eurTry),
     safeFetch('GC=F', previous?.gold),
     safeFetch('XU100.IS', previous?.bist100),
-    ...STOCKS.map(s => safeFetch(s.symbol, prevStocks[s.symbol])),
   ]);
-
-  const stocks = STOCKS.map((s, i) => stockResults[i] ? { symbol: s.symbol, name: s.name, ...stockResults[i] } : null).filter(Boolean);
 
   // Ons altın (USD) -> gram altın (TRY): önce dolar bazlı gram, sonra
   // güncel USDTRY kuruyla çeviriliyor. usdTry gelmezse (çok nadir), altın
@@ -85,7 +72,6 @@ async function main() {
     eurTry,
     goldGramTry,
     bist100,
-    stocks,
   };
 
   await mkdir(path.dirname(MARKETS_PATH), { recursive: true });
