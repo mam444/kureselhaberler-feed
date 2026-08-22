@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-22T18:00:00.464Z",
+  "generatedAt": "2026-08-22T19:28:00.513Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/saglik/gol-keyfi-kabusu-oldu-beyin-yiyen-amip-alarmi-3457674",
+      "headline": "Louisiana'da gölde yüzen kişide 'beyin yiyen amip' şüphesi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1571161535093-e7642c4bd0c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bGFrZSUyMHdhdGVyfGVufDF8MHx8fDE3ODc0MjU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rasmus Gundorff Sæderup",
+        "photographerUrl": "https://unsplash.com/@rasmusgs",
+        "unsplashUrl": "https://unsplash.com/photos/body-of-water-HpaDxLjg2kQ"
+      },
+      "timeAgo": "şimdi",
+      "body": "Amerika Birleşik Devletleri'nin Louisiana eyaletinde serinlemek amacıyla göle giren bir kişinin, halk arasında \"beyin yiyen amip\" olarak bilinen ciddi bir enfeksiyon şüphesiyle hastaneye kaldırıldığı bildirildi.\n\nLouisiana Sağlık Bakanlığı tarafından yapılan bilgilendirmede, söz konusu kişinin eyaletin kuzey kesiminde yer alan Claiborne Gölü'nde yüzdüğü ifade edildi. Yetkililer, hastanın gölde bulunduğu sırada \"Naegleria fowleri\" adlı mikroskobik canlıyla temas etmiş olabileceği ihtimali üzerinde duruyor.\n\nTatlı su alanlarında meydana gelen bu tür vakalar son derece nadir kaydedilse de insan sağlığı üzerinde son derece ağır sonuçlara yol açabiliyor. Hastanede tıbbi gözetim altına alınan kişinin durumuna ilişkin detaylı incelemelerin sürdüğü öğrenildi.\n\nSıcak havalarda tatlı su kaynaklarında çoğalabilen Naegleria fowleri adlı amip, vücuda çoğunlukla burun yoluyla giriş yapıyor. Burun kanalını takip ederek beyin dokusuna ulaşan mikroorganizma, burada hızla ilerleyen ve hayati risk oluşturan enfeksiyonlara zemin hazırlıyor.\n\nEyalet sağlık yetkilileri, olayın gerçekleştiği Claiborne Gölü ve çevresindeki gelişmeleri yakından izliyor. Vakaya dair kesin tanının konulması ve enfeksiyonun doğrulanması amacıyla laboratuvar tetkiklerinin titizlikle yürütüldüğü kaydedildi.\n\nUzmanlar ve ilgili kurumlar, özellikle yaz aylarında tatlı su birikintilerinde ve göllerde yüzen vatandaşların bu tür nadir fakat tehlikeli durumlara karşı tedbirli olmaları gerektiğine dikkat çekiyor.",
+      "highlights": [
+        "ABD'nin Louisiana eyaletinde bir kişi, Claiborne Gölü'nde yüzdükten sonra hastaneye kaldırıldı.",
+        "Louisiana Sağlık Bakanlığı, hastanın Naegleria fowleri amibiyle temas etmiş olabileceğini duyurdu.",
+        "Nadir görülen ancak ciddi sonuçlar doğuran enfeksiyon şüphesiyle ilgili tetkikler devam ediyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/saglik/gol-keyfi-kabusu-oldu-beyin-yiyen-amip-alarmi-3457674",
+      "publishedAt": "2026-08-22T21:33:59.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/fenerbahce-konyaspor-hangi-kanalda-trendyol-super-lig-fenerbahce-tumosan-konyaspor-maci-saat-kacta-ne-zaman-iste-muhtemel-11ler-3457604",
       "headline": "Fenerbahçe, Trendyol Süper Lig'de Tümosan Konyaspor'u konuk ediyor: İşte maç öncesi tüm detaylar",
