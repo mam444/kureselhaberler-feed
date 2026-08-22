@@ -1226,7 +1226,8 @@ function marketsWidgetHtml(data) {
     + marketRowHtml('usd', 'Dolar', 'USD/TRY', data.usdTry, 2, ' ₺')
     + marketRowHtml('eur', 'Euro', 'EUR/TRY', data.eurTry, 2, ' ₺')
     + marketRowHtml('gold', 'Altın', 'gram, TRY', data.goldGramTry, 0, ' ₺')
-    + marketRowHtml('bist', 'BIST 100', 'endeks', data.bist100, 0, '');
+    + marketRowHtml('bist', 'BIST 100', 'endeks', data.bist100, 0, '')
+    + (data.stocks ?? []).map(s => marketRowHtml(s.symbol, s.name, 'hisse', s, 2, ' ₺')).join('');
 }
 
 // "En çok okunan" — gerçek bir analitik altyapısı olmadığından, sayfanın

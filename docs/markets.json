@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:15:00.953Z",
+  "updatedAt": "2026-08-22T06:10:27.335Z",
   "usdTry": {
     "price": 48.03,
     "changePct": 0.08439346106961218,
@@ -19,5 +19,35 @@
     "price": 14514.82,
     "changePct": 0.8218664258673963,
     "stale": false
-  }
+  },
+  "stocks": [
+    {
+      "symbol": "THYAO.IS",
+      "name": "THY",
+      "price": 301,
+      "changePct": -0.08298755186721991,
+      "stale": false
+    },
+    {
+      "symbol": "GARAN.IS",
+      "name": "Garanti BBVA",
+      "price": 129.9,
+      "changePct": 0.4640371229698331,
+      "stale": false
+    },
+    {
+      "symbol": "ASELS.IS",
+      "name": "Aselsan",
+      "price": 403.25,
+      "changePct": 0.2486016159105034,
+      "stale": false
+    },
+    {
+      "symbol": "SISE.IS",
+      "name": "Şişecam",
+      "price": 39.9,
+      "changePct": -0.25000000000000355,
+      "stale": false
+    }
+  ]
 }
