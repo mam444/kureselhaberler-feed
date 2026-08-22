@@ -106,8 +106,30 @@ async function main() {
   const previous = await loadPreviousFeed();
   const previousIds = new Set(previous.map((a) => a.id));
 
-  const brandNewRaw = deduped.filter((a) => !previousIds.has(a.id)).slice(0, MAX_NEW_PER_RUN);
-  console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (bu çalıştırmada, üst sınır ${MAX_NEW_PER_RUN}).`);
+  const unseen = deduped.filter((a) => !previousIds.has(a.id));
+
+  // A single fast-refreshing (or always-recent-pubDate) source can otherwise
+  // fill every slot on every run and starve every other outlet out
+  // indefinitely — round-robin one pick per source instead of a flat "most
+  // recent overall" cut, so every source (including the international/world
+  // ones) gets a fair turn each run rather than one feed monopolizing it.
+  const bySource = new Map();
+  for (const a of unseen) {
+    if (!bySource.has(a.source)) bySource.set(a.source, []);
+    bySource.get(a.source).push(a); // already newest-first, from `deduped`'s sort
+  }
+  const brandNewRaw = [];
+  for (let addedInRound = true; brandNewRaw.length < MAX_NEW_PER_RUN && addedInRound; ) {
+    addedInRound = false;
+    for (const list of bySource.values()) {
+      if (brandNewRaw.length >= MAX_NEW_PER_RUN) break;
+      if (list.length > 0) {
+        brandNewRaw.push(list.shift());
+        addedInRound = true;
+      }
+    }
+  }
+  console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (bu çalıştırmada, üst sınır ${MAX_NEW_PER_RUN}, ${bySource.size} kaynaktan).`);
 
   // Sıralı işlenir (paralel değil): dakikalık istek/token limitine paralel
   // isteklerle takılmamak için.
