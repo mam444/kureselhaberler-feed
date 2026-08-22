@@ -2,7 +2,14 @@
 // birebir aynı olduğundan (Authorization: Bearer + messages + JSON şeması),
 // önceki groq.mjs'ten yalnızca URL/model/parametre isimleri değişti.
 const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions';
-const MODEL = 'gemini-3.6-flash';
+// "gemini-3.6-flash"in bu projedeki gerçek ücretsiz kademe kotası günde
+// sadece 20 istek çıktı (Google'ın kendi 429 yanıtında doğrulandı,
+// 2026-08-22) — yaygın "günde 1500" rakamı bu modele uymuyor. "-lite"
+// ailesi ayrı ve çok daha geniş bir kotaya sahip (aynı hesapla canlı test
+// edildi, kaliteli/uzun makale üretimi doğrulandı) — o yüzden buraya
+// geçildi. Kotayla ilgili şüphe varsa https://ai.dev/rate-limit üzerinden
+// (Google hesabı girişiyle) canlı kontrol edilebilir, buradan değil.
+const MODEL = 'gemini-3.5-flash-lite';
 
 const SYSTEM_PROMPT = `Sen deneyimli bir haber editörüsün. Sana bir olayın başlığı ve kısa bir özeti
 verilecek. Görevin, bunu gerçek bir haber sitesinde yayınlanacak kalitede, akıcı ve tam bir haber
@@ -17,9 +24,10 @@ KURALLAR:
    hiçbir iddia UYDURMA. Sadece sana verilen bilgiyi daha akıcı ve profesyonel bir dille yeniden
    ifade et ve doğal habercilik bağlam cümleleriyle (örn. "Olay, ... sırasında meydana geldi.")
    çevrele — ama hiçbir zaman somut bir detay (isim, sayı, konum, alıntı) icat etme.
-3. NTV/Bloomberg tarzı GERÇEKTEN UZUN, doyurucu bir haber metni yaz — kaynak ne kadar kısa olursa
-   olsun hedef en az 5-7 paragraf. Bunu kaynakta OLMAYAN somut bilgi (isim, sayı, tarih, alıntı,
-   olay) UYDURARAK değil, kural 2'ye tamamen sadık kalarak, şu dürüst yöntemlerle yap:
+3. NTV/Bloomberg tarzı GERÇEKTEN UZUN, doyurucu bir haber metni yaz. Bu bir hedef değil, SERT BİR
+   TABAN: kaynak tek cümlelik bile olsa, "body" alanı EN AZ 350 KELİME (~2200+ karakter) ve en az
+   5-7 paragraf olmak ZORUNDA. Bunu kaynakta OLMAYAN somut bilgi (isim, sayı, tarih, alıntı, olay)
+   UYDURARAK değil, kural 2'ye tamamen sadık kalarak, şu dürüst yöntemlerle yap:
    - Giriş paragrafında olayın özünü ver (inverted pyramid), sonraki paragraflarda aynı olguları
      farklı açılardan aç: neden önemli, kimleri/neyi etkiliyor, olayın arka planı ve bağlamı,
      benzer önceki gelişmelerle ilişkisi (yalnızca genel/bilinen, tartışmasız bağlam — icat
@@ -32,8 +40,11 @@ KURALLAR:
      dahi, o tek olguyu geniş gazetecilik bağlamıyla (bu tür haberlerde her zaman doğru olan
      genel çerçeve — ör. bir transfer haberinde "kulüpler transfer döneminde kadrolarını
      güçlendiriyor" gibi UYDURULMAMIŞ, tartışmasız genel ifadeler) sarmalayarak uzat; ama asla
-     var olmayan bir sayı, tarih, isim, açıklama ya da alıntı ekleme. Somut uydurma > uzunluktan
-     her zaman önemlidir; kısa kalması gereken bir haberi kısa bırakmak, uydurmaktan iyidir.
+     var olmayan bir sayı, tarih, isim, açıklama ya da alıntı ekleme.
+   - 350 kelimeye ulaşmadan bitirme: kaynak ne kadar kısa olursa olsun, yukarıdaki dürüst
+     yöntemlerle (bağlam, arka plan, önem, etkilenenler, terim açıklaması) her zaman 350 kelimeye
+     çıkarılabilir — bunu yapmadan taslağı sonlandırma. Somut bilgi uydurmak asla kabul edilemez,
+     ama "kısa bırakmak" bir çıkış yolu DEĞİLDİR; kısa kalan her taslak eksiktir, tekrar genişlet.
 4. Türkçe yaz (haber İngilizce ise Türkçeye çevirip özgün cümlelerle yaz). Paragrafları "\\n\\n"
    ile ayır.
 5. Haberin konusunu özetleyen, İngilizce, Unsplash'ta arama yapmaya uygun, somut ve GERÇEKTE
@@ -78,7 +89,7 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
         { role: 'user', content: userContent },
       ],
       temperature: 0.6,
-      max_tokens: 3000,
+      max_tokens: 5000,
       response_format: { type: 'json_object' },
     }),
     signal: AbortSignal.timeout(45_000),
