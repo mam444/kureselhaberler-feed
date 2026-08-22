@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-22T12:01:00.526Z",
+  "generatedAt": "2026-08-22T12:56:00.494Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/son-dakika-giresunda-elektrik-dagitim-sirketine-ait-helikopter-dustu-3457615",
+      "headline": "Giresun'un Piraziz ilçesinde helikopter düştüğü iddiası ekipleri harekete geçirdi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1694931458368-33f1e05c06db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cmVzY3VlJTIwaGVsaWNvcHRlcnxlbnwxfDB8fHwxNzg3NDAxODg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Lincoln Holley",
+        "photographerUrl": "https://unsplash.com/@linxphotography",
+        "unsplashUrl": "https://unsplash.com/photos/a-helicopter-flying-through-a-cloudy-sky-on-a-cloudy-day-nY72N8j3Vqo"
+      },
+      "timeAgo": "şimdi",
+      "body": "Giresun'dan gelen son dakika haberine göre, Piraziz ilçesi sınırları dahilinde bir helikopterin kaza yaptığı yönünde ihbarda bulunuldu. Alınan iddialar üzerine ilgili bölgeye çok sayıda arama kurtarma ve güvenlik ekibi sevk edildi.\n\nElde edilen ilk bilgilere göre, söz konusu hava aracının bölgedeki elektrik hatlarında tarama ve denetim faaliyetleri gerçekleştiren bir elektrik dağıtım şirketine ait olduğu öğrenildi.\n\nİhbarın ardından Piraziz ilçesindeki muhtemel kaza bölgesine yönlendirilen ekipler, olayın meydana geldiği değerlendirilen sahada geniş çaplı arama ve inceleme çalışması başlattı.\n\nBölgeye ulaşan emniyet, sağlık ve arama kurtarma görevlilerinin sahadaki tara tarama faaliyetleri devam ediyor. Olayın gerçekliği ve olası bir kazanın detaylarına ilişkin incelemeler titizlikle yürütülüyor.\n\nEkiplerin bölgedeki çalışmaları sürerken, konuya ilişkin resmi makamlardan yapılacak net açıklamalar yakından takip ediliyor.",
+      "highlights": [
+        "Giresun'un Piraziz ilçesinde helikopter düştüğü iddiası üzerine bölgeye ekipler yönlendirildi.",
+        "Söz konusu hava aracının bir elektrik dağıtım şirketine ait olduğu belirtildi.",
+        "Arama kurtarma ve güvenlik güçlerinin sahadaki inceleme ve tarama çalışmaları sürüyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-giresunda-elektrik-dagitim-sirketine-ait-helikopter-dustu-3457615",
+      "publishedAt": "2026-08-22T15:20:41.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/son-dakika-cep-telefonum-yok-demisti-alihan-kurisin-gsm-yalani-desifre-oldu-3457581",
       "headline": "Alihan Kuriş'in 'cep telefonum yok' iddiası soruşturmayla çürütüldü",
