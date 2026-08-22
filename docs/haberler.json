@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-22T07:33:58.723Z",
+  "generatedAt": "2026-08-22T08:12:00.560Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/teknoloji/sanal-medya-siber-suclularin-isini-kolaylastiriyor-3457582",
+      "headline": "Sosyal medyadaki kontrolsüz paylaşımlar siber suçlara davetiye çıkarıyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1548092372-0d1bd40894a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y3liZXIlMjBzZWN1cml0eXxlbnwxfDB8fHwxNzg3Mzg1NTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Philipp Katzenberger",
+        "photographerUrl": "https://unsplash.com/@fantasyflip",
+        "unsplashUrl": "https://unsplash.com/photos/closeup-photo-of-turned-on-blue-and-white-laptop-computer-iIJrUoeRoCQ"
+      },
+      "timeAgo": "şimdi",
+      "body": "Dijital mecraların günlük yaşamın ayrılmaz bir parçası haline gelmesiyle birlikte, sosyal medyada yapılan paylaşımların güvenlik boyutları yeniden gündeme geldi. Siber güvenlik uzmanları, kişisel verilerin dijital platformlarda kontrolsüz şekilde dolaşıma sokulmasının ciddi güvenlik açıklarına zemin hazırladığı konusunda uyarıda bulunuyor.\n\nUzmanların tespitlerine göre, sanal mecrada paylaşılan her türlü kişisel ayrıntı siber korsanlar ve dolandırıcılar için açık bir veri kaynağına dönüşüyor. Kullanıcıların kamuya açık alanlarda paylaştığı detaylar ve kimlik verileri, kötü niyetli kişilerin dijital ortamda iz sürmesini ve bilgi toplamasını oldukça kolaylaştırıyor.\n\nBu tür kontrolsüz paylaşımların yol açtığı tehlikelerin başında kimlik hırsızlığı geliyor. Saldırganlar, açık kaynaklardan topladıkları bu verileri kullanarak kullanıcılar adına sahte profiller oluşturabiliyor veya çeşitli dolandırıcılık yöntemlerine başvurabiliyor. Aynı zamanda, toplanan kişisel veriler kullanılarak doğrudan bireyleri hedef alan siber saldırıların riski de artış gösteriyor.\n\nHedefli siber saldırılarda suçlular, mağdurun sosyal medya üzerindeki hareketlerini ve geçmişini analiz ederek güven kazanmaya çalışıyor. Mağdurun sosyal çevresi veya günlük yaşamına dair paylaşımları, dolandırıcılık senaryolarının inandırıcılığını artırmak için kullanılabiliyor. Bu durum, basit bir paylaşımın bile uzun vadede ciddi güvenlik tehditleri oluşturabileceğini gösteriyor.\n\nSanal alemdeki bu tehditlere karşı güvenlik uzmanları, kullanıcıların çok daha dikkatli ve bilinçli hareket etmesi gerektiğinin altını çiziyor. Uzmanlar, kişisel verilerin korunması adına sosyal medya hesaplarındaki gizlilik ayarlarının kontrol edilmesi ve hassas bilgilerin paylaşılmaması çağrısında bulunuyor.\n\nDijital dünyada bırakılan veri izlerinin siber korsanlar tarafından kötüye kullanılabileceğini belirten yetkililer, sanal mecrada atılan her adımda tedbirli olunmasının en temel korunma yöntemi olduğunu vurguluyor.",
+      "highlights": [
+        "Uzmanlar, sosyal medyada kontrolsüzce paylaşılan verilerin siber riskleri artırdığı konusunda uyardı.",
+        "Kişisel bilgilerin açıkça paylaşılması kimlik hırsızlığı ve dolandırıcılığa zemin hazırlıyor.",
+        "Siber korsanlar, kullanıcı paylaşımlarını analiz ederek kişiye özel hedefli saldırılar düzenliyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/teknoloji/sanal-medya-siber-suclularin-isini-kolaylastiriyor-3457582",
+      "publishedAt": "2026-08-22T10:28:25.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-22-08-2026-3457579",
       "headline": "Marmara Bölgesinde az bulutlu hava etkisini sürdürüyor: Sıcaklıklar yüksek seyrediyor",
@@ -67,6 +90,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/emlak-ve-galericiler-dikkat-8-2-milyon-liralik-ceza-3457574",
       "publishedAt": "2026-08-22T10:15:51.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/turkiye/umraniyede-otomobil-devrildi-3-araca-carpti-3457577",
+      "headline": "Ümraniye'de kontrolden çıkan otomobil devrildi: Park halindeki 3 araca çarptı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673187139612-6bf684a74815?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2FyJTIwY3Jhc2h8ZW58MXwwfHx8MTc4NzM4NTU0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Malik",
+        "photographerUrl": "https://unsplash.com/@usmanbim94",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-that-has-been-hit-by-another-car-xlxeGeh1DY4"
+      },
+      "timeAgo": "şimdi",
+      "body": "İstanbul'un Ümraniye ilçesinde sokak üzerinde seyreden bir otomobil, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu kontrolden çıktı. Savrulan araç, yol kenarında park halinde bulunan üç farklı otomobile çarparak devrildi.\n\nÇarpışmanın şiddetiyle yan yatan otomobilin sürücüsü kazada yaralandı. Olayı gören çevredeki vatandaşların durumu bildirmesi üzerine bölgeye güvenlik ve sağlık ekipleri sevk edildi.\n\nİhbar üzerine adrese ulaşan sağlık ekipleri, yaralanan sürücüye yaptıkları ilk müdahalenin ardından ambulansla hastaneye kaldırdı. Kaza nedeniyle olayın meydana geldiği sokakta araç trafiği geçici olarak durduruldu.\n\nDevrilen otomobilin ve hasar gören araçların yoldan kaldırılması için bölgeye çekici sevk edildi. Yan yatan aracın ekipler tarafından çekici vasıtasıyla caddeden kaldırılmasının ardından sokak üzerinde temizleme çalışmaları yürütüldü.\n\nOtomobilin çekilerek yolun temizlenmesi ve güvenliğin tekrar sağlanmasıyla birlikte, bir süre ulaşıma kapalı kalan sokak yeniden araç trafiğine açıldı.",
+      "highlights": [
+        "Ümraniye'de direksiyon hakimiyeti kaybolan otomobil park halindeki 3 araca çarparak devrildi.",
+        "Kazada yaralanan otomobil sürücüsü ilk müdahalesinin ardından hastaneye kaldırıldı.",
+        "Devrilen aracın çekici yardımıyla kaldırılmasıyla sokak yeniden trafiğe açıldı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/umraniyede-otomobil-devrildi-3-araca-carpti-3457577",
+      "publishedAt": "2026-08-22T10:15:30.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -228,6 +274,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/afyonkarahisarda-yolcu-otobusu-devrildi-22-yarali-3457568",
       "publishedAt": "2026-08-22T09:51:08.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/teknoloji/goruntulu-aramayla-hacklenebiliyor-3457566",
+      "headline": "Unisoc modemlerinde kritik güvenlik açığı: Görüntülü aramayla Android çekirdeğine sızılabiliyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y3liZXIlMjBzZWN1cml0eXxlbnwxfDB8fHwxNzg3Mzg1NTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Adi Goldstein",
+        "photographerUrl": "https://unsplash.com/@adigold1",
+        "unsplashUrl": "https://unsplash.com/photos/teal-led-panel-EUsVwEOsblE"
+      },
+      "timeAgo": "şimdi",
+      "body": "Android cihazlarda kullanılan Unisoc modem yazılımında kritik bir güvenlik açığı tespit edildi. Söz konusu açık, kötü niyetli kişilerin VoLTE teknolojisini kullanan görüntülü aramalar vasıtasıyla akıllı telefonların işletim sistemi çekirdeğine doğrudan erişim sağlamasına imkan tanıyor.\n\nMobil cihaz güvenliğini tehdit eden bu durum, doğrudan Android işletim sisteminin en kritik noktası olan çekirdek seviyesini hedef alıyor. Unisoc modem bileşenini barındıran cihazları etkileyen güvenlik zafiyeti, sistem üzerinde yetkisiz kontrol elde edilmesine zemin hazırlıyor.\n\nAncak söz konusu siber saldırının başarıyla gerçekleşebilmesi için oldukça spesifik şartların bir araya gelmesi gerekiyor. Güvenlik ihlalinin tamamlanabilmesi adına öncelikle saldırgan tarafın özel olarak yapılandırılmış bir 4G mobil ağına erişiminin veya kontrolünün bulunması şart koşuluyor.\n\nTeknik ağ gereksinimlerinin yanı sıra, sürecin tamamlanması doğrudan hedefteki kişinin eylemine bağlı durumda. Kötü niyetli girişimlerin amacına ulaşabilmesi için hedef alınan kullanıcının, VoLTE altyapısı üzerinden gelen görüntülü aramayı bizzat yanıtlaması gerekiyor.\n\nTehlikenin boyutuna rağmen, tespit edilen bu güvenlik açığı için henüz yayınlanmış resmi bir yama veya yazılım güncellemesi bulunmuyor. Kullanıcıların, üretici tarafından bir düzeltme sunulana kadar gelen şüpheli görüntülü aramalara karşı tedbirli olmaları tavsiye ediliyor.",
+      "highlights": [
+        "Unisoc modem yazılımındaki açık, VoLTE aramalarıyla Android çekirdeğine erişim sağlıyor.",
+        "Saldırının gerçekleşmesi için özel bir 4G ağı ve kullanıcının aramayı yanıtlaması gerekiyor.",
+        "Tespit edilen güvenlik zafiyeti için henüz yayınlanmış bir güncelleme veya yama bulunmuyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/teknoloji/goruntulu-aramayla-hacklenebiliyor-3457566",
+      "publishedAt": "2026-08-22T09:39:54.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
