@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T22:56:59.423Z",
+  "updatedAt": "2026-08-22T23:17:55.868Z",
   "usdTry": {
     "price": 48.03,
     "changePct": 0.08439346106961218,
@@ -16,8 +16,8 @@
     "stale": false
   },
   "bist100": {
-    "price": 14514.82,
-    "changePct": 0.8218664258673963,
+    "price": 14514.8,
+    "changePct": 0.8217275032125814,
     "stale": false
   }
 }
