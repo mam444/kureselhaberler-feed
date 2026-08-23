@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T23:56:58.533Z",
+  "generatedAt": "2026-08-23T01:16:55.001Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/alihan-kuris-suc-orgutune-yonelik-ikinci-dalga-operasyondan-servet-cikti-3457701",
@@ -23,6 +23,52 @@
       "publishedAt": "2026-08-23T01:32:03.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/bu-kaleyi-savunmamiz-gerek-4850189",
+      "headline": "Genç mühendis adaylarının TEKNOFEST Mavi Vatan'daki projeleri dikkat çekti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1659429471995-036d35ca8ec7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dW5tYW5uZWQlMjBzdXJmYWNlJTIwdmVoaWNsZXxlbnwxfDB8fHwxNzg3NDQ3NzMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alexandros Giannakakis",
+        "photographerUrl": "https://unsplash.com/@alegi__",
+        "unsplashUrl": "https://unsplash.com/photos/a-boat-on-the-water-w6Oa4t6FHaQ"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Türkiye'nin teknoloji ve havacılık alanındaki en önemli etkinliklerinden biri olan TEKNOFEST kapsamında gerçekleştirilen Mavi Vatan yarışmaları, genç mühendis adaylarının yenilikçi projelerine sahne olmaya devam ediyor. Bu yılki etkinliklerde sergilenen insansız deniz araçları ve su altı teknolojileri, hem katılımcıların hem de uzmanların büyük beğenisini kazandı. Türkiye'nin denizlerdeki gücünü artırmayı ve yerli teknolojileri geliştirmeyi hedefleyen bu organizasyon, geleceğin mühendislerine yeteneklerini sergileme fırsatı sunuyor.\n\nEtkinlikte dikkat çeken projelerden birine imza atan 10 kişilik ekibin üyesi olan Filistinli yüksek lisans öğrencisi Yusuf Alhams, geliştirilen insansız deniz aracı (İDA) üzerine yürütülen çalışmalardan bahsetti. Ekip olarak büyük bir özveriyle çalıştıklarını belirten Alhams, Türkiye'ye ve projeye dair duygu ve düşüncelerini paylaşırken \"Türkiye’yi son kale olarak görüyorum. Bu kaleyi savunmalıyız\" ifadelerini kullandı. Bu açıklama, genç araştırmacıların projelerine yalnızca teknik bir çalışma olarak değil, aynı zamanda stratejik bir sorumluluk bilinciyle yaklaştıklarını ortaya koydu.\n\nOrganizasyonda boy gösteren bir diğer isim olan Yıldız Teknik Üniversitesi'nden (YTÜ) Yusuf Buğra Sancaktutar ise ekibinin su altı ve su üstü olmak üzere toplamda dört farklı araç geliştirdiğini kaydetti. Sancaktutar, genç mühendislerin tasarladığı bu sistemlerin laboratuvar ortamından çıkıp geniş kitlelere ulaşması adına önemli hedefleri bulunduğunu vurguladı. Geliştirilen su altı ve su üstü araçlarının önümüzdeki süreçte seri üretime geçirilmesinin hedeflendiğini belirten Sancaktutar, bu hamleyle yerli teknolojinin yaygınlaşmasına katkı sunmayı amaçladıklarını dile getirdi.\n\nTEKNOFEST Mavi Vatan platformu, genç yeteneklerin endüstriyel üretime geçiş yapabilmesi ve projelerini ticari veya kamusal alanda kullanılabilir hale getirmesi için kritik bir köprü görevi üstleniyor. Geliştirilen insansız deniz araçları ile su altı teknolojilerinin, gelecekte farklı alanlarda aktif olarak rol alması bekleniyor. Genç mühendislerin bu çabaları, ülkenin savunma sanayi ve denizcilik teknolojilerindeki dışa bağımlılığını azaltma vizyonuna doğrudan hizmet ediyor.\n\nEtkinlik boyunca sergilenen projeler, Türkiye'nin teknoloji ekosistemindeki potansiyeli bir kez daha gözler önüne serdi. Farklı üniversitelerden gelen genç beyinlerin ortaklaşa ya da kendi ekipleriyle geliştirdiği bu tür yenilikçi sistemler, ülkemizin gelecekteki teknolojik bağımsızlığı adına umut vadediyor. Yarışma alanını ziyaret edenlerin de büyük ilgi gösterdiği insansız deniz araçları, Mavi Vatan vizyonunun somut örnekleri arasında yerini aldı.",
+      "highlights": [
+        "Genç mühendis adayları TEKNOFEST Mavi Vatan'da projelerini sergiledi.",
+        "Filistinli öğrenci Yusuf Alhams Türkiye'yi son kale olarak nitelendirdi.",
+        "YTÜ'den Sancaktutar dört farklı araç için seri üretim hedeflediklerini söyledi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/bu-kaleyi-savunmamiz-gerek-4850189",
+      "publishedAt": "2026-08-23T01:00:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "headline": "Avustralya'da ilk kez bir memelide H5 kuş gribi tespit edildi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1680371564641-56c5d84178c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZnVyJTIwc2VhbHxlbnwxfDB8fHwxNzg3NDQ3NzgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bob Brewer",
+        "photographerUrl": "https://unsplash.com/@brewbottle",
+        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-seals-sitting-on-top-of-a-rocky-beach-zJF1lRdUdAw"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "Avustralya'da yaşanan son gelişmeler, küresel ölçekte endişe yaratan kuş gribi salgınının seyrinde kritik bir eşiğin aşıldığını gösterdi. Güney Avustralya eyaletinde, uzun burunlu bir kürklü fokun H5 kuş gribi nedeniyle yaşamını yitirdiği resmi olarak açıklandı. Bu olay, virüsün Avustralya ana karasında bir memeli türünde ölümcül olduğunun teyit edildiği ilk vaka olarak kayıtlara geçti. Küresel çapta milyonlarca kanatlı hayvanın ölümüne yol açan bu son derece patojenik virüs türünün, deniz memelilerine de sıçramış olması yetkilileri ve bilim insanlarını harekete geçirdi.\n\nYetkililer tarafından yapılan açıklamalara göre, söz konusu deniz memelisi çarşamba günü eyaletin Limestone Coast bölgesindeki Beachport sahilinde ölü olarak bulundu. Bu üzücü keşif, salgının coğrafi yayılımında yeni ve endişe verici bir tırmanışa işaret ediyor. Olay, Güney Avustralya Başbakanı Peter Malinauskas'ın açık denizdeki adalarda binden fazla büyük tepeli martının (greater crested tern) ölümüne yol açan üç ayrı toplu ölüm olayını duyurmasından sadece birkaç gün sonra gerçekleşti. Kuş popülasyonundaki bu yıkıcı kayıpların ardından ana karada bir memelide de virüsün görülmesi, tehlikenin boyutunu gözler önüne serdi.\n\nBilim dünyası ve yetkili kurumlar, virüsün kuşlardan memelilere geçiş yeteneğini uzun süredir yakından takip ediyordu. Daha önce dünyanın farklı bölgelerinde fil fokları gibi çeşitli memeli türlerinde de görülen H5 suşu, artık Avustralya ekosistemini de doğrudan tehdit ediyor. Federal hükümet tarafından yapılan risk değerlendirmelerinde, uzun burunlu kürklü foklar ile nesli tükenme tehlikesi altında bulunan Avustralya deni aslanlarının bu virüse karşı çok yüksek risk altında olduğu ön görülmüştü. Gerçekleşen bu son ölüm vakası, söz konusu resmi uyarıların ne kadar yerinde ve acil olduğunu doğruladı.\n\nBununla birlikte, salgının etkileri sadece ana karadaki foklarla sınırlı kalmadı. Güney Avustralya hükümeti, bu hafta Kangaroo Adası'nda bulunan bir küçük penguenin de yapılan testler sonucunda H5 kuş gribi pozitif çıktığını doğruladı. Adalardaki kuş ölümleri ile ana karadaki memeli vakasının bir araya gelmesi, virüsün bölgedeki farklı yaban hayatı popülasyonları arasında hızla yayılma potansiyelini açıkça ortaya koyuyor. Çevre koruma ve tarım yetkilileri, bölgedeki durumu yakından izlemeye devam ederken, halkı ve ilgili grupları ölü veya hasta yaban hayvanlarıyla temasa geçmemeleri konusunda uyarıyor.\n\nKüresel biyoçeşitlilik üzerinde büyük bir baskı oluşturan H5 kuş gribi salgını, ada kıtası konumundaki Avustralya'nın izole ekosistemini de tehdit eder hale geldi. Uzmanlar, virüsün hem deniz kuşları hem de memeliler arasındaki yayılımını durdurmak veya etkilerini anlamak için kapsamlı saha çalışmalarını sürdürüyor. Federal ve eyalet hükümetleri, olası ekolojik felaketlerin önüne geçebilmek adına veri toplama ve karantina önlemlerini gözden geçirirken, yaban hayatı uzmanları da önümüzdeki dönemde yaşanabilecek yeni vakalara karşı hazırlık yapıyor.",
+      "highlights": [
+        "Uzun burunlu bir kürklü fok, H5 kuş gribi nedeniyle öldü.",
+        "Bu olay, Avustralya ana karasında bir memelideki ilk vaka.",
+        "Kangaroo Adası'nda bulunan bir küçük penguen de pozitif çıktı."
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/aug/23/fur-seal-death-first-australian-mainland-mammal-h5-bird-flu",
+      "publishedAt": "2026-08-23T00:42:49.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-22-agustos-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-3457685",
@@ -67,6 +113,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/ismail-kartal-takviyemiz-olacak-3457699",
       "publishedAt": "2026-08-23T00:36:01.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/aydinda-bariyerlere-carpan-minibus-tarlaya-devrildi-1-olu-2-yarali-3907453",
+      "headline": "Aydın'da bariyerlere çarpan minibüs tarlaya devrildi: 1 kişi hayatını kaybetti, 2 yaralı var",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1755324062385-217b16b14611?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8b3ZlcnR1cm5lZCUyMHZhbnxlbnwxfDB8fHwxNzg3NDQ3Nzg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hi",
+        "photographerUrl": "https://unsplash.com/@million_chopsticks",
+        "unsplashUrl": "https://unsplash.com/photos/abandoned-van-overgrown-with-green-vegetation-DSD_Se0U8-o"
+      },
+      "timeAgo": "47 dk önce",
+      "body": "Aydın il sınırları içerisinde yer alan Sultanhisar ilçesinde, kara yolu üzerinde seyir halinde olan bir minibüsün karıştığı trafik kazasında acı bir bilanço ortaya çıktı. Edinilen bilgilere göre, henüz ismi açıklanmayan veya detayları trafik ekiplerince incelenen olayda, sürücünün direksiyon hakimiyetini kaybetmesi sonucu trajik bir kaza meydana geldi. Kontrolden çıkan motorlu taşıt, yol kenarında bulunan bariyerlere çarptıktan sonra savrularak tarım arazisi niteliğindeki bir tarlaya devrildi. \n\nMeydana gelen bu şiddetli trafik kazasının ardından, olay yerine çevredeki vatandaşların ihbarı üzerine sağlık, itfaiye ve emniyet ekipleri sevk edildi. Gerçekleşen kazanın vahameti, olay yerine ulaşan ekiplerin yaptığı ilk kontrollerle birlikte netlik kazandı. Trafik kazasında minibüsün sürücü koltuğunda bulunan Mehmet Fuat Ceng, olay yerinde ağır yaralandı. Yapılan tüm müdahalelere rağmen, 22 yaşındaki genç sürücü kurtarılamayarak hayatını kaybetti. \n\nKazada yaşamını yitiren sürücünün yanı sıra, minibüs içerisinde bulunan diğer kişilerden 2'si de yaralandı. Yaralılar, olay yerinde sağlık ekiplerinin ilk müdahalesini yapmasının ardından ambulanslarla çevredeki hastanelere kaldırılarak tedavi altına alındı. Hastanede tedavi gören yaralıların sağlık durumlarına ilişkin resmi makamlarca henüz detaylı bir açıklama yapılmazken, kazayla ilgili incelemelerin sürdüğü bildirildi.\n\nUlaşım güvenliği açısından kritik önem taşıyan bu tür kazalar, sürücülerin seyir halindeyken dikkatli olmasının ve trafik kurallarına riayet etmesinin ne kadar hayati olduğunu bir kez daha gözler önüne serdi. Sultanhisar ilçesindeki tarlaya devrilen minibüsün kaldırılması ve kara yolunda aksayan trafiğin normale döndürülmesi için güvenlik güçleri bölgede çalışma yürüttü. \n\nOlayla ilgili olarak adli ve idari makamlarca soruşturma başlatıldığı öğrenildi. Kazanın tam olarak hangi sebepten kaynaklandığını belirlemek amacıyla trafik polisleri ve olay yeri inceleme ekipleri detaylı bir rapor hazırlamak üzere çalışma başlattı. Aydın genelinde yaşanan bu elim kaza, bölge halkı ve sürücüler arasında üzüntüye neden oldu.",
+      "highlights": [
+        "Aydın'ın Sultanhisar ilçesinde minibüs kazası meydana geldi.",
+        "22 yaşındaki sürücü Mehmet Fuat Ceng hayatını kaybetti.",
+        "Kazada yaralanan 2 kişi hastaneye kaldırıldı."
+      ],
+      "externalUrl": "https://www.haberturk.com/aydinda-bariyerlere-carpan-minibus-tarlaya-devrildi-1-olu-2-yarali-3907453",
+      "publishedAt": "2026-08-23T00:29:27.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -163,6 +232,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "headline": "İran'dan komşu ülkelere ABD ekonomik savaşı uyarısı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1693139062697-f5f8663217fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aXJhbiUyMGZsYWd8ZW58MXwwfHx8MTc4NzQ0Nzc5NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "sina drakhshani",
+        "photographerUrl": "https://unsplash.com/@sina_drakhshani",
+        "unsplashUrl": "https://unsplash.com/photos/flag-of-iran-waving-9S96Rqy9Q1U"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Orta Doğu'da tansiyonu yükselten gelişmeler hız kesmeden devam ederken, Tahran yönetiminden komşu ülkelere yönelik son derece sert ve net bir uyarı geldi. Bölgesel güvenlik ve dış politika dengelerini doğrudan ilgilendiren bu kritik süreçte, üst düzey bir yetkili tarafından yapılan resmi açıklamada, Amerika Birleşik Devletleri'nin yürüttüğü ekonomik faaliyetlere ve politikalara destek veren herhangi bir devletin Tahran'ın doğrudan hedefi haline geleceği açıkça ifade edildi. Yapılan değerlendirmelerde, Washington yönetimi tarafından devreye sokulan ekonomik baskı mekanizmalarına ortak olan veya bu süreçte Amerikan tarafıyla iş birliği yapmayı tercih eden komşu ülkelerin, İran'ın ulusal güvenlik algısında resmen \"düşman\" kategorisinde değerlendirileceği vurgulandı.\n\nUluslararası ilişkiler uzmanlarının ve dış politika gözlemcilerinin dikkatle takip ettiği bu gelişme, Tahran ile Washington arasında uzun süredir devam eden ekonomik ve siyasi gerilimin, bölgedeki diğer aktörleri de içine alabilecek potansiyel bir cepheleşmeye evrilebileceğini gösteriyor. Resmi makamlar tarafından paylaşılan bilgilere göre, söz konusu uyarı sadece diplomatik bir söylemle sınırlı kalmayıp, somut karşılıkları da beraberinde getiriyor. İranlı yetkililer, ABD ile hareket ederek ülkenin çıkarlarını tehlikeye atan ya da Washington'ın ekonomik politikalarına askeri veya lojistik olmayan alanlarda dahi destek veren bölgesel aktörlerin menfaatlerinin misilleme olarak doğrudan hedef alınacağını kaydetti. Bu durum, sınır komşuları ve bölge ülkeleri açısından denge politikasını sürdürmeyi son derece güç bir hale getirirken, mevcut krizin coğrafi olarak yayılma riskini de en üst seviyeye çıkardı.\n\nYaşanan bu diplomatik ve stratejik restleşme, halihazırda ekonomik sıkıntılarla ve yaptırımlarla boğuşan bölge ülkeleri üzerinde yeni bir baskı unsuru oluşturuyor. Tahran'ın, Washington'ın ekonomik hamlelerini sadece ikili bir mesele olarak görmediği, aksine bu politikaları ülkenin egemenliğine ve güvenliğine yönelik doğrudan bir tehdit olarak okuduğu anlaşıldı. Bu bağlamda, komşu devletlerin atacağı adımların yakından izlendiği, ABD ekonomik savaşına destek vermenin maliyetinin ağır olacağı ve Tahran'ın çıkarlarını korumak adına her türlü misilleme seçeneğini masada tuttuğu net bir şekilde yinelemdi. Bölgesel ticaret hatları, enerji koridorları ve diplomatik ilişkiler ağı açısından derin kırılmalara yol açabilecek olan bu uyarı, önümüzdeki dönemde Orta Doğu'daki tüm diplomatik dengelerin yeniden şekillenmesine neden olabilecek nitelik taşıyor.",
+      "highlights": [
+        "Tahran, ABD ekonomik savaşına katılan devletlerin düşman sayılacağını bildirdi.",
+        "İranlı yetkili, bu ülkelerin çıkarlarının misilleme olarak hedef alınacağını açıkladı.",
+        "Uyarı, bölge ülkelerini Washington ile ilişkilerinde zor bir tercihle karşı karşıya bıraktı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "publishedAt": "2026-08-23T00:00:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.cnnturk.com/spor/futbol/kerem-akturkoglu-korkuttu-fenerbahceden-aciklama-geldi-3457693",
       "headline": "Kerem Aktürkoğlu korkuttu, Fenerbahçe'den açıklama geldi",
       "source": "CNN Türk",
@@ -205,6 +297,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/video/dunya/federal-yargi-trumpa-dur-dedi-75-ulkeden-gocmen-vizesi-yasagina-mahkeme-engeli-3457689",
       "publishedAt": "2026-08-22T23:49:24.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/live-fenerbahce-4-2-konyaspor-mac-ozeti-kanarya-sahasinda-farkli-kazandi-3457593",
+      "headline": "Fenerbahçe sahasında Konyaspor'u 4-2 mağlup etti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MjAyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mario Klassen",
+        "photographerUrl": "https://unsplash.com/@marioklassen",
+        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Süper Lig heyecanı tüm hızıyla sürerken, futbolseverlerin odak noktası olan kritik bir karşılaşma daha geride kaldı. Şampiyonluk yarışında ve lig sıralamasında üst sıraları hedefleyen Fenerbahçe ile Konyaspor, futbol coşkusunun merkezlerinden biri olan Kadıköy'de kozlarını paylaştı. İki köklü ekibin sahaya çıktığı bu mücadele, her iki camia ve taraftarlar için büyük bir önem taşırken, 90 dakika boyunca yaşananlar tribünleri ve ekran başındaki izleyicileri heyecanlandırdı.\n\nKarşılaşmanın başlama düdüğüyle birlikte her iki takım da sahada üstünlük kurmak için taktiksel hamlelerini sergiledi. Futbolun evrensel dinamikleri gereği, Süper Lig'in bu kritik haftasında oynanan müsabaka, takımların sezon boyunca verdikleri mücadelenin somut bir yansıması oldu. Kadıköy'ün atmosferinde taraftarlarının da desteğini arkasına alan ev sahibi ekip, maçın genelinde etkili bir performans ortaya koyarken, rakip Konyaspor ise deplasmanda puan ya da puanlar alabilmek adına savunma güvenliğini elden bırakmadan hücum organizasyonları geliştirmeye çalıştı.\n\nZorlu 90 dakikanın sonunda skor tabelası Fenerbahçe lehine sonuçlandı ve sarı-lacivertli ekip sahadan 4-2'lik galibiyetle ayrılmayı başardı. Müsabaka boyunca atılan goller, maçın temposunu sürekli yüksek tutarken, tarafların taktik savaşları ve oyuncuların saha içindeki bireysel mücadeleleri futbol severlere unutulmaz anlar yaşattı. Ev sahibi ekibin hücum hattındaki üretkenliği ve skor üstünlüğünü koruma refleksi, bu galibiyetin zeminini hazırlayan unsurlar arasında yer aldı.\n\nBu galibiyetle birlikte Fenerbahçe, Süper Lig'deki iddiasını bir kez daha tescillemiş olurken, puan tablosundaki konumunu da sağlamlaştırma yolunda önemli bir adım attı. Lig maratonunun uzun ve yorucu doğası göz önüne alındığında, iç sahada alınan bu tür net galibiyetler takımların moral ve motivasyonu açısından büyük bir kritik değere sahip bulunuyor. Konyaspor ise Kadıköy deplasmanından mağlubiyetle ayrılsa da, mücadelenin genelindeki direnciyle önümüzdeki haftalar için sinyaller verdi.\n\nSüper Lig'in bu dikkat çekici mücadelesi, Türk futbolunun rekabetçi yapısını bir kez daha gözler önüne sererken, her iki kulübün taraftarları da maç boyunca yaşanan heyecanı yakından takip etti. Spor basınının ve futbol kamuoyunun geniş yer ayırdığı bu karşılaşma, sezonun geri kalan haftaları için hem Fenerbahçe hem de Konyaspor adına üzerinde konuşulacak birçok taktiksel detayı ve istatistiği geride bıraktı.",
+      "highlights": [
+        "Fenerbahçe ile Konyaspor Kadıköy'de karşı karşıya geldi.",
+        "Mücadele Fenerbahçe'nin 4-2'lik üstünlüğüyle tamamlandı.",
+        "Ev sahibi ekip sahadan galibiyetle ayrılan taraf oldu."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/live-fenerbahce-4-2-konyaspor-mac-ozeti-kanarya-sahasinda-farkli-kazandi-3457593",
+      "publishedAt": "2026-08-22T23:41:23.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -1589,6 +1704,75 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskan-yardimcisi-genel-secimlerin-zamaninda-yapilacagini-acikladi/4034816",
+      "headline": "Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh'ten seçim açıklaması",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1621220577822-6a1d9c1d6dee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cGFsZXN0aW5pYW4lMjBmbGFnfGVufDF8MHx8fDE3ODc0NDc4MDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Manny Becerra",
+        "photographerUrl": "https://unsplash.com/@mannyb",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-brown-jacket-holding-flag-cZtTvhpb2IU"
+      },
+      "timeAgo": "6 sa önce",
+      "body": "Orta Doğu'da ve bölge siyasetinde yakından takip edilen gelişmeler kapsamında Filistin cephesinden yeni bir açıklama geldi. Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh, ülke genelinde yapılması planlanan genel seçimlerin daha önceden belirlenen ve kararlaştırılan takvime uygun olarak zamanında gerçekleştirileceğini kamuoyuna duyurdu.\n\nSon dönemde bölgede yaşanan siyasi hareketlilik, uluslararası diplomasi trafiği ve Filistin iç politikasındaki dengeler göz önüne alındığında, seçimlerin ne zaman yapılacağı konusu hem yerel halk hem de uluslararası aktörler tarafından büyük bir merakla bekleniyordu. Hüseyin eş-Şeyh, yaptığı bu net açıklamada herhangi bir belirsizliğe yer bırakmayarak, hazırlıkların ve planlamaların öngörülen zaman çizelgesi doğrultusunda kararlılıkla sürdürüldüğünü net bir dille ifade etti.\n\nDemokratik süreçlerin işletilmesi, halkın iradesinin sandığa yansıtılması ve idari mekanizmaların güncellenmesi açısından kritik bir eşik olarak değerlendirilen genel seçimler, Filistin'in siyasi geleceği adına büyük bir önem taşıyor. Eş-Şeyh'in vurguladığı üzere, belirlenen takvimin şaşmadan uygulanması, ülkedeki siyasi istikrarın sağlanması ve toplumsal beklentilerin karşılanması noktasında hayati bir adım olarak değerlendiriliyor.\n\nSöz konusu seçim kararı ve bu kararın zamanında hayata geçirileceğine dair yapılan üst düzey güvence, diplomatik çevrelerde de dikkatle analiz ediliyor. Filistin yönetiminin bu iradesi, bölgedeki demokratik geleneklerin sürdürülmesi ve halkın iradesinin yönetim kademelerine yansıtılması bakımından atılan temel adımlardan biri olma niteliğini koruyor. Hüseyin eş-Şeyh tarafından verilen bu resmi bilgi, seçim sürecine dair merak edilen spekülasyonları da büyük ölçüde bertaraf etmiş oldu.\n\nİlerleyen günlerde seçim takviminin tüm detaylarının netleşmesi ve hazırlıkların hız kazandığı süreçlerin resmi kanallar aracılığıyla kamuoyuyla paylaşılması bekleniyor. Filistin Devlet Başkan Yardımcısı'nın işaret ettiği bu çerçeve, hem iç politikadaki aktörler hem de süreci yakından izleyen uluslararası gözlemciler için temel referans noktası olmayı sürdürüyor.",
+      "highlights": [
+        "Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh kritik açıklamalarda bulundu.",
+        "Genel seçimlerin kararlaştırılan zamanda yapılacağı net bir şekilde belirtildi.",
+        "Açıklama, seçim süreçlerine dair bölgedeki spekülasyonlara son noktayı koydu."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskan-yardimcisi-genel-secimlerin-zamaninda-yapilacagini-acikladi/4034816",
+      "publishedAt": "2026-08-22T19:03:04.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "headline": "Otel rezervasyonundaki hata, mantık katili Erin Patterson'ın mahkumiyetini bozabilir",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aG90ZWwlMjByb29tfGVufDF8MHx8fDE3ODc0NDc4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "visualsofdana",
+        "photographerUrl": "https://unsplash.com/@visualsofdana",
+        "unsplashUrl": "https://unsplash.com/photos/hotel-bedroom-with-wooden-bed-T5pL6ciEn-I"
+      },
+      "timeAgo": "6 sa önce",
+      "body": "Uluslararası kamuoyunun yakından takip ettiği ve dünya genelinde geniş yankı uyandıran dava sürecinde, sanık avukatlarının eline yeni bir hukuki argüman geçti. Edinilen bilgilere göre, bir masa tenisi turnuvası ile bir boğaz pastili, Erin Patterson'ın avukatlarının müvekkillerinin aldığı mahkumiyet kararlarını bozdurabilmesi için kritik bir fırsat sunabileceği ifade ediliyor. Hukuk dünyasında büyük bir tartışma başlatan bu beklenmedik gelişme, dava dosyasındaki bazı detayların yeniden ele alınmasını zorunlu kılıyor.\n\nOlayın merkezinde yer alan Erin Patterson, daha önce yargı makamları tarafından suçlu bulunmuş ve hakkında mahkumiyet kararı verilmişti. Ancak savunma ekibinin yürüttüğü son incelemeler, otel rezervasyonlarındaki bir karışıklığın davanın seyrini değiştirebilecek nitelikte olduğunu ortaya koydu. Bu karışıklığın, olayların kronolojisi ve zaman çizelgesi üzerinde doğrudan bir etkiye sahip olduğu belirtiliyor. Avukatlar, bu maddi hatanın mahkeme tarafından gözden kaçırıldığını ve adli hata ihtimalini güçlendirdiğini savunuyor.\n\nDosyadaki bir diğer ilginç detay ise bir masa tenisi turnuvası ile boğaz pastili unsurlarının hukuki argümanlar arasına dahil edilmesi oldu. Savunma tarafı, bu unsurların davanın genel çerçevesi içinde nasıl bir rol oynadığını ve mevcut delil bütünlüğünü nasıl etkilediğini detaylı bir şekilde inceliyor. Her ne kadar bu nesneler ve etkinlikler ilk bakışta davanın ana konusuyla doğrudan bağlantılı görünmese de, avukatların stratejisinde önemli birer detay olarak öne çıktığı kaydediliyor.\n\nBu tür karmaşık cinayet ve adli tıp davalarında, zaman çizelgesindeki en küçük bir kayma veya rezervasyon hatası bile savunma makamı için hayatı önem taşıyabiliyor. Uzmanlar, otel rezervasyonu gibi lojistik detaylardaki tutarsızlıkların sanığın lehine kullanılabileceğine dikkat çekiyor. Patterson'ın avukatları da bu stratejiden yola çıkarak kararın bozulması için üst mahkemeye başvurmaya hazırlanıyor.\n\nSüreçle ilgili olarak önümüzdeki günlerde yeni duruşmaların yapılması ve savunma ekibinin bu yeni delil ve argümanları resmi olarak mahkemeye sunması bekleniyor. Kamuoyu ve medya organları, adaletin nasıl tecelli edeceğini merakla izlerken, bu hukuki hamlenin mahkumiyet kararını gerçekten tersine çevirip çeviremeyeceği sorusu hâlâ yanıt arıyor.",
+      "highlights": [
+        "Erin Patterson'ın avukatları mahkumiyeti bozdurmak için yeni delillere dayanıyor.",
+        "Otel rezervasyonundaki bir karışıklık davanın zaman çizelgesini etkiliyor.",
+        "Masa tenisi turnuvası ve boğaz pastili detayları savunma stratejisinde yer alıyor."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-22T19:03:03.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/sporarena/vedat-muriqiden-6-yil-sonra-ilk-gol-sanki-hic-gitmemis-gibi-geri-dondu-43281981",
+      "headline": "Vedat Muriqi'den 6 yıl sonra ilk gol: Sanki hiç gitmemiş gibi geri döndü",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MjAyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
+      },
+      "timeAgo": "6 sa önce",
+      "body": "Türk futbolunun ve sarı-lacivertli camianın yakından tanıdığı isimlerden biri olan Vedat Muriqi, uzun bir aranın ardından yeniden formasını giydiği Fenerbahçe ile golle buluştu. Futbolseverlerin hafızasında bıraktığı izlerle hatırlanan tecrübeli golcü, geçtiğimiz günlerde gerçekleştirilen kritik Konyaspor karşılaşmasında gösterdiği performansla dikkatleri üzerine çekti. Bu mücadele, oyuncunun kariyerindeki yeni dönemeç açısından ayrı bir önem taşırken, aynı zamanda taraftarların uzun süredir beklediği anın gerçekleşmesine sahne oldu.\n\nKarşılaşmanın ilerleyen dakikalarında yaşanan bir pozisyonda rakip fileleri havalandırmayı başaran deneyimli futbolcu, böylece sarı-lacivertli formayla Süper Lig'deki gol hesabını da resmen açmış oldu. Bu gol, sadece maçın gidişatını etkilemekle kalmadı, aynı zamanda oyuncunun takıma katıldığı günden bu yana sürdürdüğü uyum sürecinin ne kadar hızlı işlediğini de gözler önüne serdi. Yeşil sahalarda sergilediği hırslı ve mücadeleci futbol anlayışı, onun eski günlerdeki formunu aratmadığını ve adeta hiç ayrılmamış gibi takımın vazgeçilmez bir parçası haline geldiğini açıkça gösterdi.\n\nSöz konusu karşılaşmanın ardından spor kamuoyunda geniş yankı uyandıran bu gelişme, özellikle Fenerbahçe tribünlerinde büyük bir coşkuyla karşılandı. Uzun yıllar süren ayrılığın ardından yeniden kadroya dahil edilen Muriqi'nin bu ilk golü, hem oyuncunun kendi öz güvenini tazeledi hem de teknik heyetin kendisine duyduğu güveni boşa çıkarmadığını kanıtladı. Lig maratonunun bu kritik aşamasında kazanılan ivme, takımın genel hedefleri doğrultusunda büyük bir moral kaynağı oluştururken, oyuncunun ilerleyen haftalarda sergileyeceği performans şimdiden merakla beklenmeye başlandı.\n\nFutbol dünyasında transfer dönemlerinin ve oyuncu geri dönüşlerinin her zaman büyük riskler barındırdığı bilinen bir gerçektir. Ancak Vedat Muriqi örneğinde görüldüğü üzere, kulübün dinamiklerini ve camianın beklentilerini yakından bilen isimlerin adaptasyon süreci çok daha kısa sürebilmektedir. Konyaspor maçında atılan bu kritik gol, sadece istatistiksel bir veri olmanın ötesinde, geçmişteki başarılı günlerin bir tekrarının sinyallerini verdi. Sarı-lacivertli taraftarlar, bu golle birlikte geçmişin güzel hatıralarını yeniden hatırlarken, gelecekteki maçlar için de umut dolu bir tabloyla baş başa kaldı.\n\nÖzetle, uzun yıllar sonra gerçekleşen bu kavuşma, Türk futbolunda ve Süper Lig gündeminde en çok konuşulan konulardan biri olmayı sürdürüyor. Vedat Muriqi'nin Konyaspor karşısında attığı imza niteliğindeki bu gol, onun sahadaki varlığını ve takım için ne denli kritik bir silah olduğunu bir kez daha tescilledi. Kulübün bu sezonki hedeflerine ulaşmasında tecrübeli golcünün katkısının nasıl şekilleneceği, önümüzdeki haftalarda oynanacak karşılaşmalarla birlikte daha net bir şekilde görülecektir.",
+      "highlights": [
+        "Vedat Muriqi uzun bir aranın ardından yeniden Fenerbahçe forması giydi.",
+        "Konyaspor maçında fileleri havalandıran golcü oyuncu ligdeki hesabını açtı.",
+        "Deneyimli ismin bu performansı sarı-lacivertli camiada büyük sevinç yarattı."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/sporarena/vedat-muriqiden-6-yil-sonra-ilk-gol-sanki-hic-gitmemis-gibi-geri-dondu-43281981",
+      "publishedAt": "2026-08-22T19:03:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.ntv.com.tr/teknoloji/galeri-usain-boltun-rekorunu-gecti-robot-100-metreyi-932-saniyede-kostu-1738463",
       "headline": "Çin'de geliştirilen robot Usain Bolt'un 100 metre rekorunu geride bıraktı",
       "source": "NTV",
@@ -2154,6 +2338,29 @@
       "publishedAt": "2026-08-22T15:52:39.000Z",
       "category": "Dünya",
       "lang": "tr"
+    },
+    {
+      "id": "https://news.sky.com/story/17-year-old-girl-killed-in-sword-attack-at-swedish-school-13575868",
+      "headline": "İsveç'teki bir okulda kılıçlı saldırı: 17 yaşındaki genç kız hayatını kaybetti",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591123120675-6f7f1aae0e5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c2Nob29sJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4NzMyMTg0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Erika Fletcher",
+        "photographerUrl": "https://unsplash.com/@joyshotsphotography",
+        "unsplashUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-MZxqc6n9qCw"
+      },
+      "timeAgo": "9 sa önce",
+      "body": "İsveç genelindeki eğitim kurumlarında endişe ve şaşkınlık yaratan son dakika gelişmeleri kapsamında, ülkedeki bir okulda kılıçlı bir saldırı olayı yaşandığı ve bu şiddet eylemi neticesinde bir öğrencinin yaşamını yitirdiği bildirildi. Dünyanın farklı ülkelerinde zaman zaman gündeme gelen ve toplumsal güvenlik ile okul güvenliği tartışmalarını yeniden alevlendiren bu trajik olay, uluslararası kamuoyunda da geniş yankı uyandırdı. Aktarılan ilk bilgilere göre, saldırıyı gerçekleştiren failin de bir genç olduğu belirtilirken, olay yerindeki öğrenci ve öğretmenlerin büyük bir korku ve panik yaşadığı ifade ediliyor.\n\nElde edilen resmi ve basın kaynaklı raporlara göre, saldırının hedefi olan 17 yaşındaki genç bir kızın ağır yaralandığı ve tüm müdahalelere rağmen kurtarılamayarak hayatını kaybettiği aktarıldı. İsveç medyasında ve uluslararası ajanslarda yer bulan haberlerde, kurbanın yaşının genç olması ve saldırının doğrudan bir okul ortamında gerçekleştirilmiş olması, olayla ilgili duyulan infialin boyutunu daha da artırdı. Eğitim yuvalarında öğrencilerin güvenliğinin sağlanması meselesi, bu tür münferit ancak son derece şiddet içerikli olaylarla birlikte bir kez daha öncelikli bir gündem maddesi haline geldi.\n\nOlayın hemen ardından okul kampüsüne ve çevre sokaklara çok sayıda acil durum ekibi, sağlık görevlisi ve güvenlik gücü sevk edildi. İsveç polisinin olayla ilgili olarak kapsamlı bir inceleme başlattığı ve saldırganın yakalanmasına ya da durumunun netleştirilmesine yönelik operasyonel süreçleri yürüttüğü kaydedildi. Güvenlik birimleri, saldırının nasıl gerçekleştiğini, failin okula nasıl girdiğini ve olayda kullanılan kılıcın temin edilme biçimini titizlikle araştırıyor. Okul çevresinde geniş güvenlik önlemleri alınırken, velilerin ve öğrencilerin yaşadığı travmanın atlatılması için uzman ekiplerin de devreye girdiği tahmin ediliyor.\n\nBenzer şiddet olaylarının nadir görüldüğü İskandinav coğrafyasında, özellikle okul gibi hassas alanlarda yaşanan bu tür kılıçlı saldırılar, toplumun genelinde derin bir sarsıntı yaratmaktadır. Ülkedeki sivil toplum kuruluşları, eğitim sendikaları ve siyasi yetkililer, okullardaki güvenlik zafiyetlerinin giderilmesi ve benzer trajedilerin önlenmesi adına daha sıkı tedbirlerin alınması gerektiği yönünde değerlendirmelerde bulunuyor. Olayın tüm yönleriyle aydınlatılması amacıyla başlatılan adli ve idari soruşturmaların devam ettiği, yetkili mercilerin önümüzdeki saatlerde kamuoyunu daha detaylı bir şekilde bilgilendirmesinin beklendiği bildirildi.\n\nSon olarak, 17 yaşındaki talihsiz kızın ailesine ve yakınlarına yönelik başsağlığı mesajları iletilirken, saldırıda yaralanan veya olay tanığı olan diğer öğrencilerin psikolojik destek süreçlerinin de yakından takip edildiği vurgulandı. İsveç'teki bu acı olay, modern toplumların eğitim kurumlarında gençlerin güvenliğini sağlama noktasında karşılaştığı zorlukları bir kez daha gözler önüne sererken, hukuki sürecin nasıl işleyeceği ve saldırganın hangi gerekçelerle bu eylemi gerçekleştirdiği soruşturmanın ilerleyen aşamalarında netleşecek.",
+      "highlights": [
+        "İsveç'teki bir okulda kılıçlı saldırı meydana geldi.",
+        "Saldırıda 17 yaşındaki genç bir kız hayatını kaybetti.",
+        "Güvenlik güçleri olayla ilgili kapsamlı soruşturma başlattı."
+      ],
+      "externalUrl": "https://news.sky.com/story/17-year-old-girl-killed-in-sword-attack-at-swedish-school-13575868",
+      "publishedAt": "2026-08-22T15:49:00.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/son-dakika-giresunda-elektrik-dagitim-sirketine-ait-helikopter-dustu-3457615",
