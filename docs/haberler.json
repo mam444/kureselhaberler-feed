@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:43:07.553Z",
+  "generatedAt": "2026-08-23T23:02:04.173Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-kale-onunde-daha-bitirici-olmaliyiz-3457986",
@@ -255,6 +255,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.aa.com.tr/tr/gundem/diyarbakirda-plazada-cikan-yangin-sonduruldu/4035369",
+      "headline": "Diyarbakır'da plazada çıkan yangın söndürüldü",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1768291424905-ea47f32e11cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8b2ZmaWNlJTIwYnVpbGRpbmclMjBmaXJlfGVufDF8MHx8fDE3ODc1MjYwODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Paul Yong",
+        "photographerUrl": "https://unsplash.com/@paulysj",
+        "unsplashUrl": "https://unsplash.com/photos/modern-buildings-with-reflective-glass-windows-under-blue-sky-mPWXXsSSe7w"
+      },
+      "timeAgo": "44 dk önce",
+      "body": "Güneydoğu Anadolu bölgesinin önemli merkezlerinden biri olan Diyarbakır'da, kent genelindeki hareketliliğin yoğun olduğu noktalardan biri olarak bilinen Kayapınar ilçesinde dikkat çeken bir olay yaşandı. İlçe sınırları içerisinde faaliyet gösteren bir plazada henüz belirlenemeyen bir nedenle alevlerin yükselmesi, bölgede kısa süreli bir endişe ve hareketliliğe neden oldu. Olayın hemen ardından çevredeki vatandaşların durumu bildirmesi üzerine bölgeye çok sayıda ilgili ekip sevk edildi.\n\nEdinilen bilgilere göre, Diyarbakır ilinin merkez ilçelerinden Kayapınar'da yer alan söz konusu plazada yangın çıktığı fark edildiği andan itibaren hızlı bir refleks gösterildi. Kentin modern yapılanma alanlarından biri olan ve iş yerleri ile ofislerin bulunduğu bilinen bu tür plazalarda, yangın gibi acil durumlar büyük bir risk teşkil ettiği için ekipler duruma anında müdahale etmek üzere harekete geçti. Güvenlik önlemlerinin üst düzeyde alındığı bölgede, itki ve kurtarma ekiplerinin koordineli çalışmasıyla alevlerin yayılması engellendi.\n\nGerçekleşen bu olay sonrasında, plazadaki yangının kontrol altına alınması için yoğun bir söndürme çalışması yürütüldü. İlgili görevlilerin zamanında ve etkili müdahalesi sayesinde alevler kısa süre içerisinde tamamen söndürüldü. Büyük bir paniğe yol açabilecek olan bu tehlikeli durum, ekiplerin profesyonel yaklaşımı sayesinde büyümeden ve çevreye daha fazla zarar vermeden bertaraf edilmiş oldu.\n\nYangının söndürülmesinin ardından bölgede soğutma çalışmalarına geçildi. Ekipler, plazanın iç kısımlarında ve çıkış noktasında olası bir yeniden alevlenme riskine karşı detaylı bir inceleme ve kontrol faaliyeti yürüttü. Bu süreçte plazanın çevresinde güvenlik çemberi oluşturularak vatandaşların yaklaşmasına izin verilmedi ve olası olumsuzlukların önüne geçildi.\n\nYaşanan bu gelişme, büyük şehirlerdeki yüksek katlı binaların ve plazaların yangın güvenliği konusundaki hassasiyetini bir kez daha gündeme getirdi. Kayapınar ilçesindeki plazada meydana gelen ve başarıyla söndürülen bu olayda, can kaybı veya yaralanmaya dair herhangi bir resmi açıklama yapılmazken, olayla ilgili inceleme ve değerlendirme süreçlerinin devam ettiği bildirildi.",
+      "highlights": [
+        "Diyarbakır'ın Kayapınar ilçesindeki bir plazada yangın çıktı.",
+        "İlgili ekiplerin hızlı müdahalesiyle alevler kısa sürede söndürüldü.",
+        "Olay yerinde ekipler tarafından soğutma çalışmaları gerçekleştirildi."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/diyarbakirda-plazada-cikan-yangin-sonduruldu/4035369",
+      "publishedAt": "2026-08-23T22:17:35.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aa.com.tr/tr/gundem/diyarbakirda-bir-plazada-yangin-cikti/4035369",
       "headline": "Diyarbakır'da plaza yangını: 3'ü itfaiye eri 5 kişi etkilendi",
       "source": "Anadolu Ajansı",
@@ -276,6 +299,29 @@
       "publishedAt": "2026-08-23T22:17:35.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "headline": "Gine'nin başkentindeki çöp yığınında meydana gelen toprak kaymasında 30 kişi hayatını kaybetti",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc4NzUyNjA5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Greg Rosenke",
+        "photographerUrl": "https://unsplash.com/@greg_rosenke",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-brown-globe-on-persons-hand-1TjORT2dLOw"
+      },
+      "timeAgo": "45 dk önce",
+      "body": "Batı Afrika ülkesi Gine'nin başkenti Conakry'de bulunan devasa bir çöp sahasında, şiddetli yağışların ardından büyük bir toprak kayması meydana geldiği bildirildi. Ülke yönetiminden yapılan resmi açıklamada, felaket sonucunda yaşamını yitirenlerin sayısının 30 olduğu duyuruldu. Olayın, gece saatlerinde etkisini artıran yoğun yağışlar nedeniyle çöp yığınının aniden çökmesiyle tetiklendiği kaydedildi.\n\nGerçekleşen facia, çöp dağının yakınlarında yer alan geçici çadırları ve derme çatma barakaları tamamen yuttu. Bölgedeki yaşam alanlarının bu tür riskli bölgelere yakın kurulmuş olması, felaketin boyutunu daha da artırırken, arama ve kurtarma çalışmalarının zorlu koşullar altında sürdürüldüğü aktarıldı. Yetkililer, çökmenin ardından bölgede mahsur kalanlar ve kayıp olabilecek vatandaşlar için müdahalelerin devam ettiğini belirtti.\n\nYaşanan bu trajik olay, hükümetin söz konusu çöp sahasının kapatılacağını ve atıkların başka bir noktaya taşınacağını duyurmasından sadece birkaç gün sonra meydana geldi. Bakanlık düzeyinde yapılan son açıklamalarda, özellikle yağmur sezonunda ciddi tehlike arz eden bu alanın risk oluşturduğu vurgulanmış ve tahliye planları kamuoyu ile paylaşılmıştı. Ancak planlanan bu taşıma işlemi hayata geçirilemeden facianın yaşanması, bölgedeki tehlikenin aciliyetini bir kez daha gözler önüne serdi.\n\nBatı Afrika genelinde etkili olan ve her yıl düzenli olarak tekrarlanan yağmur sezonu, özellikle altyapı eksikliklerinin bulunduğu kalabalık şehirlerde büyük riskler barındırıyor. Bölge coğrafyasında bu dönemsel yağışlar, sık sık heyecan ve ölümlü ani su baskınları gibi felaketleri beraberinde getiriyor. Uzmanlar ve yerel yönetimler, hızla büyüyen kentsel alanlarda atık yönetimi ve yerleşim planlaması konularının hayati önem taşıdığına dikkat çekiyor.\n\nConakry'deki çöp sahasında yaşanan bu son felaket, Gine'de kentsel dönüşüm, atık bertarafı ve risk altındaki bölgelerde yaşayan halkın güvenliği konularını yeniden acil gündem maddesi haline getirdi. Hükümet yetkililerinin daha önce tehlikeye dikkat çekmiş olmasına rağmen, gerekli önlemlerin tam anlamıyla uygulanamamış olması kamuoyunda tartışmalara yol açarken, olayla ilgili inceleme ve çalışmaların tüm hızıyla sürdüğü ifade ediliyor.",
+      "highlights": [
+        "Gine'nin başkenti Conakry'deki çöp sahasında toprak kayması meydana geldi.",
+        "Şiddetli yağışlar sonucu çöken çöp yığını çadırları ve barakaları yuttu.",
+        "Olay, hükümetin sahanın taşınacağını duyurmasından bir hafta sonra yaşandı."
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/aug/23/landslide-waste-mound-conakry-guinea-kills-dozens",
+      "publishedAt": "2026-08-23T22:16:53.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/arac-bagajinda-akvaryum-modifiye-tutkunu-gencten-ilginc-tasarim-3457974",
@@ -324,6 +370,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.haberturk.com/lyon-fenerbahce-rovans-maci-ne-zaman-saat-kacta-hangi-kanalda-sampiyonlar-ligi-play-off-turu-fenerbahce-nasil-tur-atlar-3907572",
+      "headline": "Lyon - Fenerbahçe maçı ne zaman ve saat kaçta oynanacak?",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc1MDAxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
+      },
+      "timeAgo": "58 dk önce",
+      "body": "Türk futbolunun köklü temsilcilerinden Fenerbahçe, Avrupa'nın kulüpler düzeyindeki en prestijli organizasyonu olan UEFA Şampiyonlar Ligi'nde yoluna devam edebilmek adına kritik bir dönemeçten geçiyor. Sarı-lacivertli ekip, turnuvanın play-off turu kapsamında kendi taraftarı önünde oynadığı ilk karşılaşmada Fransız temsilcisi Lyon ile kozlarını paylaştı. Kadıköy'deki sahada büyük bir çekişmeye sahne olan mücadele, iki takımın da karşılıklı bulduğu gollerle 1-1'lik eşitlikle sonuçlandı. Bu skorla birlikte taraflar, tur biletini Fransa'da oynanacak ikinci ve son 90 dakikaya bıraktı.\n\nAvrupa kupalarında her sezon üst sıraları hedefleyen ve Şampiyonlar Ligi'nin yeni formatındaki lig aşamasında yer almayı kafasına koyan Fenerbahçe, deplasmanda oynayacağı rövanş maçından galibiyetle ayrılarak adını bir üst tura yazdırmanın hesaplarını yapıyor. Teknik heyet ve futbolcular, bu zorlu mücadelenin hazırlıklarını büyük bir ciddiyetle sürdürürken, sarı-lacivertli camia da tamamen Fransa'da oynanacak olan bu kritik eşleşmeye odaklanmış durumda. İlk maçta sahasında galibiyeti kaçıran taraf olan Kanarya, deplasman sahnesinde göstereceği performansla turu geçen taraf olmayı amaçlıyor.\n\nİstanbul'daki ilk karşılaşmanın ardından futbolseverler ve sarı-lacivertli taraftarlar, arama motorları üzerinden yoğun bir şekilde Lyon - Fenerbahçe rövanş maçının detaylarını araştırmaya koyuldu. Özellikle mücadelenin ne zaman oynanacağı, başlama saati ve hangi kanaldan canlı olarak ekranlara geleceği spor kamuoyunun en çok merak ettiği konuların başında geliyor. Bu bağlamda sporseverler, karşılaşmanın yayın akışı bilgilerini ve maç takvimine dair resmi açıklamaları yakından takip ediyor.\n\nFutbolseverlerin en çok merak ettiği bir diğer husus ise sarı-lacivertli ekibin Fransa deplasmanında nasıl tur atlayacağı yönünde şekilleniyor. UEFA kupası statüsü gereği, Kadıköy'de alınan 1-1'lik beraberliğin ardından rövanş maçında her türlü galibiyet Fenerbahçe'ye doğrudan turu getirecek. Karşılaşmanın normal süresinin yine beraberlikle sonuçlanması durumunda ise mücadele uzatmalara, eşitliğin bozulmaması halinde ise seri penaltı atışlarına gidecek. Lyon cephesi ise kendi sahasında taraftar desteğini arkasına alarak avantajlı konuma gelmeye çalışacak.\n\nAvrupa kupalarında yılların deneyimine sahip olan Fenerbahçe, Fransa'daki zorlu deplasmanda sahadan gülerek ayrılmak ve kulüp tarihindeki Şampiyonlar Ligi hedefine bir adım daha yaklaşmak için sahaya çıkacak. Karşılaşmanın başlama saati ve yayıncı kuruluş detaylarının netleşmesiyle birlikte heyecan doruğa ulaşırken, milyonlarca taraftar ekran başında takımlarına destek vermek için gün sayıyor. Bu kritik eşleşme, hem Türk futbolunun UEFA ülke puanı sıralaması hem de sarı-lacivertli kulübün gelecek vizyonu açısından büyük bir önem taşımaya devam ediyor.",
+      "highlights": [
+        "Fenerbahçe ile Lyon Şampiyonlar Ligi play-off ilk maçında 1-1 berabere kaldı.",
+        "Sarı-lacivertliler tur umutlarını Fransa'daki rövanş karşılaşmasına taşıdı.",
+        "Futbolseverler rövanş maçının tarihini ve yayın bilgilerini araştırıyor."
+      ],
+      "externalUrl": "https://www.haberturk.com/lyon-fenerbahce-rovans-maci-ne-zaman-saat-kacta-hangi-kanalda-sampiyonlar-ligi-play-off-turu-fenerbahce-nasil-tur-atlar-3907572",
+      "publishedAt": "2026-08-23T22:03:21.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aa.com.tr/tr/dunya/iraktan-iran-ve-suudi-arabistana-ortak-guvenlik-koordinasyon-konseyi-kurulmasi-teklifi/4035366",
       "headline": "Irak'tan İran ve Suudi Arabistan'a ortak güvenlik koordinasyon konseyi teklifi",
       "source": "Anadolu Ajansı",
@@ -366,6 +435,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/egitim/dgs-tercihleri-ne-zaman-baslayacak-2026-dgs-tercihleri-ne-zaman-hangi-tarihte-basliyor-osym-dgs-tercih-kilavuzu-yayimlandi-mi-3457975",
       "publishedAt": "2026-08-23T21:58:59.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/ekonomi/sans-topu-cekilis-sonuclari-sorgulama-ekrani-23-agustos-sans-topu-cekilis-sonuclari-nereden-ve-nasil-sorgulanir-sans-topu-sonuc-3457959",
+      "headline": "Şans Topu çekiliş sonuçları sorgulama ekranı: 23 Ağustos sonuçları nasıl ve nereden öğrenilir?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1629723515744-9ece210b6ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bG90dGVyeSUyMHRpY2tldHN8ZW58MXwwfHx8MTc4NzUyNjEwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alejandro Garay",
+        "photographerUrl": "https://unsplash.com/@chinitogaray",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-blue-round-ornament-1RxbuMvugxk"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Şans oyunları tutkunlarının yakından takip ettiği Şans Topu çekilişi için heyecanlı bekleyiş sona erdi ve sonuç sorgulama ekranı vatandaşların erişimine açıldı. Takvimler 23 Ağustos 2026 Pazar gününü gösterdiğinde gerçekleştirilen çekiliş, akşam saatlerinde büyük bir ilgiyle takip edilmeye başlandı ve internet üzerindeki arama motorlarında yoğun bir şekilde sorgulanır hale geldi. Şansını denemek isteyen binlerce kişinin merakla beklediği bu süreçte, kazanan numaraların hangileri olduğu ve ikramiye dağılımının nasıl şekillendiği netleşmeye başladı.\n\nGerçekleştirilen bu şans oyunu çekilişi, şeffaflık ilkeleri gereğince Sisal Şans tarafından noter huzurunda organize ediliyor. Sürecin güvenilir bir şekilde yürütülmesi amacıyla yapılan bu çekilişler, şans oyunları severlerin kafasında herhangi bir soru işareti bırakmamak adına her aşamada titizlikle denetleniyor. Katılımcılar, noter denetiminde gerçekleşen bu heyecanlı anları yakından takip ederek kendi kuponlarındaki numaralarla çekiliş sonuçlarını kıyaslama imkanı elde ediyor.\n\nMilli Piyango'nun resmi YouTube kanalı üzerinden canlı olarak yayınlanan Şans Topu çekilişi, talihlilerin sonuçları anbean takip edebilmesine olanak tanıyor. Kurumun dijital mecraları aracılığıyla naklen aktarılan bu süreç, dileyen herkesin çekiliş anına doğrudan tanıklık etmesini sağlıyor. Böylece vatandaşlar, herhangi bir aracıya ihtiyaç duymadan, çekilişin gerçekleştirildiği andan itibaren topları ve çıkan rakamları kendi gözleriyle görme fırsatını yakalıyor.\n\nŞans Topu çekilişinin tamamlanmasının ardından, kuponlarında belirli rakamları tutturmayı başaran vatandaşlar kazançlarını öğrenmek için harekete geçiyor. Bu kapsamda 5 bilenler, 4 artı 1 bilenler, 4 bilenler, 3 artı 1 bilenler ve son olarak 3 bilen talihliler, hak ettikleri ikramiye miktarlarını öğrenmek üzere arayışa koyuluyor. Dağıtılacak olan ikramiyelerin tutarları ve kazanan kombinasyonlar, şans oyunları katılımcılarının gün boyunca en çok merak ettiği konuların başında geliyor.\n\nİkramiye kazanan vatandaşlar, sonuçları öğrenmek ve kazandıkları tutarları sorgulamak için resmi Milli Piyango çekiliş sonuçları sorgulama ekranını kullanıyor. İnternet üzerinden hizmet veren bu dijital sorgulama sayfası, kupon sahiplerine hızlı ve pratik bir şekilde sonuç öğrenme imkanı sunuyor. Katılımcılar, bilet numaralarını veya kupon detaylarını ilgili sisteme girerek ikramiye durumlarını saniyeler içinde kontrol edebiliyor.\n\nŞans oyunları dünyasında her hafta milyonlarca kişiye umut kapısı aralayan Şans Topu, belirlenen kurallar çerçevesinde ve belirli günlerde heyecan yaratmaya devam ediyor. 23 Ağustos 2026 Pazar akşamı yapılan çekilişin ardından da benzer bir hareketlilik yaşanırken, vatandaşlar hem kazanan numaraları hem de kendi biletlerine isabet eden ikramiye tutarlarını sistem üzerinden teyit etmeyi sürdürüyor. Şans Topu ile ilgili tüm detaylar, resmi kanallar aracılığıyla kamuoyuyla paylaşılmaya devam ediyor.",
+      "highlights": [
+        "Şans Topu çekiliş sonuçları 23 Ağustos 2026 Pazar akşamı itibarıyla sorgulanmaya başlandı.",
+        "Çekilişler Sisal Şans tarafından noter huzurunda yapılarak Milli Piyango YouTube kanalından naklen yayınlanıyor.",
+        "5, 4+1, 4, 3+1 ve 3 bilen talihliler ikramiyelerini resmi sorgulama ekranından öğrenebiliyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/sans-topu-cekilis-sonuclari-sorgulama-ekrani-23-agustos-sans-topu-cekilis-sonuclari-nereden-ve-nasil-sorgulanir-sans-topu-sonuc-3457959",
+      "publishedAt": "2026-08-23T21:52:55.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -550,6 +642,29 @@
       ],
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/serbia-requests-international-assistance-to-battle-wildfires?traffic_source=rss",
       "publishedAt": "2026-08-23T21:27:57.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "headline": "ABD'nin Türkiye Büyükelçisi Tom Barrack, Suriye'nin Golan Tepeleri hakkındaki sözlerini geri çekti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1581024013650-28295fd60327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YW1lcmljYW4lMjBmbGFnfGVufDF8MHx8fDE3ODc1MjYxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Charles \"Duck\" Unitas",
+        "photographerUrl": "https://unsplash.com/@unitasphotography",
+        "unsplashUrl": "https://unsplash.com/photos/american-flag-with-red-white-stripes-hPq1nLfLgBY"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Uluslararası diplomasiyi yakından ilgilendiren önemli bir gelişme yaşandı. Amerika Birleşik Devletleri'nin Türkiye Büyükelçisi Tom Barrack, daha önce yaptığı ve kamuoyunda geniş yankı uyandıran, Suriye'ye ait Golan Tepeleri'nin işgal altında olmadığı yönündeki tartışmalı ifadesini geri çektiğini açıkladı.\n\nGerçekleşen bu geri adım, bölgedeki diplomatik dengeler ve uluslararası hukuk normları açısından büyük bir önem taşıyor. Büyükelçi Barrack, yaptığı yeni açıklamada, Washington yönetiminin dış politikadaki temel yaklaşımına açıklık getirdi. Buna göre, ABD'nin İsrail'in söz konusu Suriye toprakları üzerindeki iddia ettiği egemenliği tanıma politikasında herhangi bir değişiklik bulunmuyor.\n\nOlayın arka planına bakıldığında, ABD'nin resmi duruşunun korunduğu vurgulanmış oldu. Amerika Birleşik Devletleri'nin Türkiye Büyükelçisi sıfatıyla görev yapan Tom Barrack, yaptığı düzeltmeyle birlikte ülkesinin diplomatik pozisyonunun değişmediğinin altını çizdi. Washington'ın daha önce benimsemiş olduğu tanıma politikasının halen geçerliliğini koruduğu ve bu konuda bir revizyona gidilmediği net bir şekilde ifade edildi.\n\nDiplomatik çevrelerde büyük ses getiren bu süreç, küresel güçlerin Orta Doğu'daki hassas dengelere yaklaşımını bir kez daha gözler önüne serdi. Suriye topraklarının statüsü ve İsrail egemenliği meselesi, uluslararası alanda uzun süredir tartışılan ve hukuki statüsü mercek altında tutulan konuların başında geliyor. Büyükelçi Barrack'ın ifadeleri, bu konudaki resmi politikanın seyrini anlamak adına kritik bir referans oluşturdu.\n\nSöz konusu açıklama ve ardından gelen geri çekme hamlesi, uluslararası ilişkiler uzmanları tarafından dikkatle takip edildi. Büyükelçi düzeyinde yapılan bu düzeltme, diplomatik iletişimde kullanılan ifadelerin ne denli hassas olduğunu ve en üst düzeyde bile anında netleştirme ihtiyacı doğurabildiğini bir kez daha kanıtladı.\n\nSonuç olarak, ABD'nin Türkiye Büyükelçisi Tom Barrack'ın Golan Tepeleri'ne ilişkin sözlerini resmi olarak geri almasıyla birlikte, Washington'ın İsrail egemenliğini tanıma yönündeki mevcut politikası teyit edilmiş oldu. Bölgesel gelişmeler ve uluslararası diplomasi trafiği açısından bu tür açıklamalar, ülkelerin dış politika yönelimlerini doğrudan yansıtması bakımından yakından izlenmeye devam ediyor.",
+      "highlights": [
+        "ABD Büyükelçisi Tom Barrack, Golan Tepeleri hakkındaki sözlerini geri aldı.",
+        "Büyükelçi, ABD'nin resmi politikasının değişmediğini vurguladı.",
+        "Washington'ın İsrail'in egemenliğini tanıma kararı sürdüğü ifade edildi."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/8/23/us-envoy-tom-barrack-retracts-comment-that-syrias-golan-is-occupied?traffic_source=rss",
+      "publishedAt": "2026-08-23T21:23:05.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -1474,6 +1589,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.yenisafak.com/galeri/gundem/baskentliler-sicak-havadan-kacip-1600-rakimli-karagolde-serinledi-4850374",
+      "headline": "Başkentliler sıcak havadan kaçıp 1600 rakımlı Karagöl'de serinledi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bW91bnRhaW4lMjBsYWtlfGVufDF8MHx8fDE3ODc1MjYxMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "John Lee",
+        "photographerUrl": "https://unsplash.com/@john_artifexfilm",
+        "unsplashUrl": "https://unsplash.com/photos/scenery-of-mountain-oMneOBYhJxY"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Türkiye genelinde olduğu gibi Başkent Ankara'da da mevsim normallerinin üzerinde seyreden sıcak hava dalgası günlük yaşamı olumsuz etkilerken, vatandaşlar çareyi doğayla iç içe olan serin noktalarda buluyor. Termometrelerin yüksek değerleri gösterdiği şehir merkezindeki bunaltıcı atmosferden uzaklaşmak isteyen pek çok kişi, son günlerde artan sıcaklıklar sebebiyle alternatif rotalara yöneliyor. Bu kapsamda, kentin hava sıcaklığından bunalan pek çok vatandaş, serin havası ve muazzam doğal güzellikleriyle adından söz ettiren rotaların başında gelen adresleri tercih ediyor.\n\nSöz konusu yoğun ilgi, özellikle hafta sonları ve sıcaklığın zirve yaptığı günlerde belirgin bir şekilde artış gösteriyor. Başkentlilerin akın ettiği bu gözde noktaların başında, Çubuk ilçesi sınırları içerisinde yer alan ve deniz seviyesinden yüksekliği bin 600 metreye ulaşan Karagöl Tabiat Parkı geliyor. Şehir merkezindeki basık ve sıcak havadan kaçarak buraya gelen ziyaretçiler, bölgenin rakımından kaynaklanan serin iklimi sayesinde rahat bir nefes alabiliyorlar.\n\nÇubuk ilçesinde konumlanan ve sahip olduğu coğrafi özelliklerle dikkat çeken Karagöl Tabiat Parkı, sadece serinletici havasıyla değil, aynı zamanda göz alıcı doğal manzaralarıyla da öne çıkıyor. Yemyeşil bitki örtüsü, zengin flora ve faunası ile doğaseverlerin uğrak yerlerinden biri olan bu tabiat parkı, yılın bu döneminde yoğun bir ziyaretçi akınına uğruyor. Bölgeye gelen vatandaşlar, şehrin gürültüsünden ve sıcak dalgasından uzakta, doğanın kalbinde vakit geçirme fırsatı yakalıyorlar.\n\nYetkililer ve bölgeyi ziyaret eden vatandaşların aktardığı gözlemlere göre, 1600 rakımlı Karagöl Tabiat Parkı, sıcak yaz günlerinde Başkentliler için adeta bir sığınak işlevi görüyor. Kent merkezindeki sıcaklıkların yarattığı yorgunluğu ve stresi üzerlerinden atmak isteyenler, ailecek veya bireysel olarak bu doğal alanı dolduruyor. Parkın sunduğu serin atmosfer, ziyaretçilere hem fiziksel hem de zihinsel olarak dinlenme imkanı tanıyor.\n\nBölgedeki doğal güzelliklerin tadını çıkaran vatandaşlar, göl çevresinde yürüyüş yaparak, bol oksijenli havanın keyfini çıkararak ve gölge alanlarda dinlenerek günlerini değerlendiriyor. Karagöl Tabiat Parkı'nın sunduğu bu eşsiz ekosistem, Ankara'nın sıcak yaz günlerinde serinlemek isteyenler için en popüler kaçış noktalarından biri olma özelliğini sürdürüyor. Artan sıcaklıkların önümüzdeki günlerde de etkisini sürdürmesi beklenirken, Karagöl gibi yüksek rakımlı ve doğa parklarının Başkent sakinleri tarafından sıklıkla tercih edilmeye devam edeceği öngörülüyor.",
+      "highlights": [
+        "Ankara'da etkili olan sıcak havadan bunalan vatandaşlar serin arayışına girdi.",
+        "Başkentliler, Çubuk ilçesindeki 1600 rakımlı Karagöl Tabiat Parkı'na akın etti.",
+        "Doğal güzellikleriyle öne çıkan park, ziyaretçilere serin bir nefes aldırdı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/baskentliler-sicak-havadan-kacip-1600-rakimli-karagolde-serinledi-4850374",
+      "publishedAt": "2026-08-23T19:26:25.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.hurriyet.com.tr/sporarena/fatih-tekke-salah-saha-disinda-da-profesyonel-43282798",
       "headline": "Fatih Tekke'den Başakşehir galibiyeti değerlendirmesi",
       "source": "Hürriyet",
@@ -1539,6 +1677,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/manchester-city-uzatma-anlarinda-guldu-3457960",
       "publishedAt": "2026-08-23T19:21:40.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/turkiye/ankarada-agaclik-alanda-cikan-yanginin-faili-yakalandi-954722.html",
+      "headline": "Ankara Mamak'ta ağaçlık alanda çıkan yangının faili yakalandı",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1634009653379-a97409ee15de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9yZXN0JTIwZmlyZXxlbnwxfDB8fHwxNzg3NTEyMDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mike Newbry",
+        "photographerUrl": "https://unsplash.com/@mikenewbry",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-fire-is-burning-in-the-mountains-DwtX9mMHBJ0"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Başkent Ankara'nın Mamak ilçesinde bulunan ağaçlık alanda henüz belirlenemeyen bir nedenle yangın çıktı. Olayın ardından bölgeye sevk edilen itfaiye ekipleri, alevlerin yayılmasını önlemek ve kontrol altına almak amacıyla çalışma başlattı. Doğal dokunun ve yeşil alanların bulunduğu bölgede yükselen dumanlar çevrede endişe yaratırken, ekiplerin alevlere müdahalesi çok yönlü olarak sürdürüldü.\n\nYaşanan gelişmelerin hemen akabinde, Ankara Valiliği tarafından konuyla ilgili resmi bir açıklama yapıldı. Valilik tarafından kamuoyuyla paylaşılan bilgide, söz konusu yangına sebep olduğu tespit edilen şüphelinin güvenlik güçleri tarafından yakalandığı duyuruldu. Olayın sorumlusunun kısa süre içinde ele geçirilmesi, yetkililerin konuya hızlı ve etkin bir şekilde müdahale ettiğini gösterdi.\n\nKent genelinde özellikle ormanlık ve ağaçlık bölgelerde bu tür olayların önüne geçmek amacıyla yürütülen güvenlik ve denetim faaliyetleri büyük önem taşıyor. Ankara'da meydana gelen bu son olay, hem çevrenin korunması hem de benzer vakaların tekrarlanmaması adına yetkili kurumların ne kadar hassas bir süreç yürüttüğünü bir kez daha gözler önüne serdi. Vatandaşların da bu tür durumlar karşısında duyarlı olması ve şüpheli faaliyetleri yetkililere bildirmesi gerektiği hatırlatıldı.\n\nEkiplerin Mamak'taki ağaçlık alanda yürüttüğü söndürme ve soğutma çalışmalarının ardından bölgede hasar tespiti yapılması bekleniyor. Yakalanan şüphelinin emniyetteki işlemlerinin devam ettiği ve soruşturmanın tüm yönleriyle sürdürüldüğü bildirildi. Başkentte yaşanan bu üzücü olay, resmi kurumların koordineli çalışması sayesinde büyümeden kontrol altına alınırken, failin adalete teslim edilmesi sürecin en kritik aşaması oldu.",
+      "highlights": [
+        "Ankara Mamak'taki ağaçlık alanda yangın çıktı.",
+        "İtfaiye ekipleri alevlere müdahale etmek için bölgeye sevk edildi.",
+        "Ankara Valiliği yangına sebep olan kişinin yakalandığını açıkladı."
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/turkiye/ankarada-agaclik-alanda-cikan-yanginin-faili-yakalandi-954722.html",
+      "publishedAt": "2026-08-23T19:13:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -2115,6 +2276,29 @@
       "externalUrl": "http://tr.euronews.com/kultur/2026/08/23/trump-beyaz-saray-balo-salonunun-sutunlari-icin-indiana-tasini-italyaya-gonderiyor",
       "publishedAt": "2026-08-23T17:41:30.000Z",
       "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-tarim-iscilerinin-saldiriya-ugradigi-iddialarina-iliskin-aciklama-yapti-43282761",
+      "headline": "Bakan Gürlek'ten Zonguldak'taki tarım işçileri iddiası açıklaması",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1600150806193-cf869bcfee05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YWdyaWN1bHR1cmFsJTIwd29ya2Vyc3xlbnwxfDB8fHwxNzg3NTI2MTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Deepak kumar",
+        "photographerUrl": "https://unsplash.com/@story_from_slowman",
+        "unsplashUrl": "https://unsplash.com/photos/people-running-on-dirt-road-during-daytime-b4eRRodrirQ"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Türkiye genelinde kamuoyunun yakından takip ettiği son dakika gelişmelerinden biri olan mevsimlik tarım işçilerine yönelik iddialar, yetkili makamların gündemindeki yerini koruyor. Son dönemde ülke gündeminde geniş yankı uyandıran olayların ardından, adli ve idari süreçlerin şeffaf bir şekilde yürütülmesi büyük önem arz ediyor. Benzer toplumsal olaylar, kamu vicdanının rahatlatılması ve adaletin eksiksiz tecelli etmesi adına devletin ilgili tüm birimlerinin koordineli çalışmasını zorunlu kılıyor.\n\nZonguldak iline bağlı Alaplı ilçesinde, mevsimlik tarım işçilerinin saldırıya uğradığı yönünde ortaya atılan iddialar üzerine Adalet Bakanı Akın Gürlek konuya dair resmi bir değerlendirmede bulundu. Kamuoyunda ve basın organlarında yer bulan bu iddiaların ardından, yaşananların gerçeğe uygun biçimde ortaya çıkarılması için adli mekanizmaların ivedilikle harekete geçirildiği bildirildi. Tarım işçiliği gibi hassas bir çalışma alanında yaşanan bu tür olayların toplumsal barış açısından da yakından takip edildiği biliniyor.\n\nAdalet Bakanı Akın Gürlek, yaptığı açıklamada, söz konusu olayın bütün yönleriyle aydınlatılması maksadıyla gerekli adli ve idari işlemlerin titizlikle sürdürüldüğünü vurguladı. Bakanlık düzeyinde meseleye gösterilen bu hassasiyet, hukukun üstünlüğü ilkesi çerçevesinde her türlü iddianın soruşturulacağının altını çiziyor. Yargı süreçlerinin tarafsız ve eksiksiz işlemesi, benzer olayların tekrar yaşanmaması adına toplumsal bir caydırıcılık da sağlıyor.\n\nÜlkenin farklı bölgelerinden gelerek tarım sektöründe geçimlerini sağlamaya çalışan mevsimlik işçilerin çalışma koşulları ve güvenlikleri, her zaman öncelikli meseleler arasında yer alıyor. Zonguldak Alaplı'da cereyan ettiği öne sürülen olayla ilgili yürütülen soruşturmanın kapsamı, gerçeğin tüm boyutlarıyla açığa çıkarılmasını hedefliyor. Cumhuriyet savcılıkları ve kolluk kuvvetleri, olayın şüphelilerini ve arka planını netleştirmek adına delil toplama çalışmalarını aralıksız sürdürüyor.\n\nSürecin yakından izlenmesi, hem mağdur haklarının korunması hem de iddiaların aslı olup olmadığının hukuki zemin üzerinden tespiti açısından kritik bir rol oynuyor. Adalet Bakanı Akın Gürlek'in işaret ettiği titiz inceleme süreci tamamlandığında, elde edilen bulguların kamuoyu ile paylaşılması ve yargı makamlarının nihai kararlarını vermesi bekleniyor. Bu tür olayların adil bir sonuca bağlanması, toplumun adalete olan inancının pekişmesi bakımından da büyük bir sorumluluk teşkil ediyor.",
+      "highlights": [
+        "Adalet Bakanı Akın Gürlek, Zonguldak Alaplı'daki iddialarla ilgili konuştu.",
+        "Olayın tüm yönleriyle aydınlatılması için titiz işlemlerin sürdüğü belirtildi.",
+        "Mevsimlik tarım işçilerine yönelik iddialar adli mercilerce inceleniyor."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-tarim-iscilerinin-saldiriya-ugradigi-iddialarina-iliskin-aciklama-yapti-43282761",
+      "publishedAt": "2026-08-23T17:40:31.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
@@ -6686,190 +6870,6 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-57-yillik-yesil-duvar-raylarin-iki-yanina-dikilmis-1738557",
       "publishedAt": "2026-08-23T09:57:33.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/robotaksi-binek-otonom-arac-yarismasi-kocaelide-1738553",
-      "headline": "Robotaksi binek otonom araç yarışması Kocaeli'de başlıyor",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1694729101068-a2c621f877b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXV0b25vbW91cyUyMGNhcnxlbnwxfDB8fHwxNzg3NDc4OTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "gibblesmash asdf",
-        "photographerUrl": "https://unsplash.com/@gibblesmash139",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-that-is-driving-down-the-street-Qr67ewAPBvY"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Türkiye'nin teknoloji ve havacılık alanındaki en önemli etkinliklerinden biri olan Teknofest bünyesinde gerçekleştirilen faaliyetler hız kesmeden devam ediyor. Bu kapsamda, genç mühendislerin ve teknoloji meraklılarının ilgiyle takip ettiği Robotaksi-Binek Otonom Araç Yarışması'nın final aşaması için heyecanlı bekleyiş sona erdi. Etkinlik, ülkenin gelecekteki ulaşım teknolojilerine yön vermeyi hedefleyen genç yetenekleri bir araya getiren prestijli bir platform olma özelliği taşıyor.\n\nGerçekleştirilen bu büyük organizasyonun final etabında, ülkenin dört bir yanından gelen alanında iddialı ekipler yer alıyor. Verilen resmi bilgilere göre, yarışmanın bu son aşamasında tam 50 takım ve bu takımlarda ter döken toplam 753 yarışmacı kıyasıya bir mücadele için hazırlıklarını tamamladı. Katılımcılar, kendi tasarlayıp geliştirdikleri otonom araçların sürüş kabiliyetlerini jüri ve izleyicilerin beğenisine sunacaklar.\n\nŞampünyanın final yarışmalarına ev sahipliği yapan adres ise inovasyon ve Ar-Ge çalışmalarının merkezlerinden biri konumundaki Kocaeli Bilişim Vadisi oldu. Modern altyapısı ve teknolojik imkanlarıyla bilinen bu üst düzey kampüs, otonom araçların zorlu parkurlardaki performanslarını test etmek için son derece elverişli bir ortam sunuyor. Yarışmacılar, burada gerçekleştirilecek sürüş testleriyle araçlarının yapay zeka ve sensör teknolojilerini sergileme fırsatı bulacaklar.\n\nOtonom sürüş teknolojileri, günümüz otomotiv endüstrisinde ve geleceğin akıllı şehirlerinde hayati bir dönemeç olarak değerlendiriliyor. Bu bağlamda, Teknofest çatısı altında düzenlenen Robotaksi yarışmaları, sadece bir müsabaka olmanın ötesinde, genç beyinlerin bu alandaki pratik deneyimlerini artırmaları için kritik bir basamak teşkil ediyor. Ekipler, günlerce süren yoğun çalışmaların ardından geliştirdikleri algoritmaları ve mekanik tasarımları gerçek dünya koşullarına yakın senaryolarda test ediyorlar.\n\nKocaeli Bilişim Vadisi'nde gerçekleşen bu dev buluşma, Türkiye'nin yerli ve milli teknoloji hamlesine katkı sunan projelerin kamuoyuyla paylaşılması açısından da büyük önem arz ediyor. Yarışma boyunca sergilenecek olan otonom sürüş yetenekleri, otonom sistemlerin ülkemizdeki gelişim seviyesini gözler önüne serecek. Organizasyonun final etabında ödül alacak takımların belirlenmesiyle birlikte, Türkiye'nin teknoloji odaklı geleceğine yatırım yapan genç mühendisler bir kez daha ödüllendirilmiş olacak.",
-      "highlights": [
-        "Teknofest kapsamında Robotaksi-Binek Otonom Araç Yarışması'nın finali düzenleniyor.",
-        "Etkinlikte 50 takım ve 753 yarışmacı otonom sürüş becerilerini sergiliyor.",
-        "Yarışmalar Kocaeli Bilişim Vadisi'nin ev sahipliğinde gerçekleştiriliyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/robotaksi-binek-otonom-arac-yarismasi-kocaelide-1738553",
-      "publishedAt": "2026-08-23T09:53:16.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-37-supheli-tutuklandi/4035036",
-      "headline": "Siber suçlarla mücadele operasyonlarında 37 şüpheli tutuklandı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1743271823568-772866c88092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwY29tcHV0ZXJ8ZW58MXwwfHx8MTc4NzQ3ODk5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Silas Lundquist",
-        "photographerUrl": "https://unsplash.com/@silaslundquist",
-        "unsplashUrl": "https://unsplash.com/photos/a-police-motorcycles-side-2ByNBrE5dMQ"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Türkiye genelinde dijital suç ağlarına karşı yürütülen güvenlik operasyonları kararlılıkla devam ediyor. Bu kapsamda, yurdun farklı noktalarında güvenlik güçleri tarafından gerçekleştirilen geniş çaplı siber suçlarla mücadele operasyonlarının sonuçları resmi merciler tarafından kamuoyuyla paylaşıldı. Elde edilen bilgilere göre, ülkenin dört bir yanında suç şebekelerine yönelik düzenlenen operasyonlar neticesinde toplamda yetmiş yedi şüpheli şahıs gözaltına alındı. Emniyet birimlerindeki ilk işlemlerinin ardından adliyeye sevk edilen şüphelilerden otuz yedi tanesi, çıkarıldıkları mahkemelerce tutuklanarak cezaevine gönderildi. İçişleri Bakanlığı tarafından yapılan resmi açıklamada, bu operasyonların toplamda on sekiz farklı ilde eş zamanlı olarak icra edildiği vurgulandı.\n\nSon yıllarda teknolojinin ve dijital mecraların hayatımızın merkezine yerleşmesiyle birlikte, kötü niyetli kişi ve örgütler de faaliyetlerini sanal ortama taşıdı. Dolandırıcılık, bilişim sistemlerini hedef alan yasa dışı faaliyetler ve kişisel verilerin hukuka aykırı olarak ele geçirilmesi gibi suçlarla mücadele, hem kamu güvenliği hem de toplumsal huzur açısından kritik bir önem taşımaktadır. İçişleri Bakanlığı ve ilgili emniyet birimleri, bu tür organize suç yapılarına karşı yürütülen çalışmalarını aralıksız sürdürüyor. Dijital dünyanın getirdiği güvenlik risklerine karşı alınan önlemler, vatandaşların haklarının korunması ve suçluların adalete teslim edilmesi noktasında büyük bir titizlikle uygulanıyor.\n\nGerçekleştirilen bu son operasyonların, birden fazla ili kapsayan geniş bir koordinasyon gerektirdiği belirtildi. On sekiz ilde eş zamanlı olarak harekete geçen güvenlik güçleri, teknik ve fiziki takiplar sonucunda şüphelilerin adreslerine baskınlar düzenledi. Gözaltına alınan yetmiş yedi şahsın emniyetteki sorgu süreçleri, elde edilen dijital materyallerin incelenmesiyle derinleştirildi. Uzman ekipler tarafından bilgisayarlar, cep telefonları ve diğer dijital depolama araçları üzerinde yapılan incelemeler, suç ağlarının deşifre edilmesinde önemli rol oynamaktadır. Soruşturma dosyasına giren bu deliller, yargı sürecinin sağlıklı bir şekilde ilerlemesi için titizlikle değerlendiriliyor.\n\nAdli makamlara sevk edilen zanlılardan otuz yedisinin tutuklanması kararı, yürütülen soruşturmanın ciddiyetini ve elde edilen delillerin somutluğunu gözler önüne serdi. Tutuklanan şahıslar cezaevine sevk edilirken, diğer şüphelilerle ilgili hukuki süreçlerin ve soruşturmanın devam ettiği bildirildi. Yetkililer, siber suçlarla mücadelenin yalnızca operasyonlarla sınırlı kalmadığını, aynı zamanda önleyici tedbirler ve toplumsal farkındalık çalışmalarıyla da desteklendiğini sık sık dile getiriyor. Vatandaşların internet ortamında karşılaşabilecekleri şüpheli durumları ve dolandırıcılık girişimlerini derhal yetkili makamlara bildirmeleri, bu suçlarla mücadelenin etkinliğini artıran en önemli unsurlar arasında yer alıyor.\n\nÜlke genelinde huzur ve güven ortamının tesis edilmesi amacıyla yürütülen bu tür operasyonlar, önümüzdeki dönemde de aynı kararlılıkla devam edecektir. Suç odaklarının dijital dünyada da barınamayacağını gösteren bu gelişmeler, kolluk kuvvetlerinin siber uzaydaki etkinliğini ve kapasitesini bir kez daha kanıtlamıştır. Bakanlık kaynakları, bilişim suçlarıyla mücadelede ulusal ve uluslararası koordinasyonun önemine dikkat çekerken, vatandaşların da dijital güvenlik konusunda daha dikkatli olmaları gerektiğini hatırlatıyor. Yapılan bu son operasyon, siber suç şebekelerine vurulan büyük darbelerden biri olarak kayıtlara geçerken, adli süreçlerin titizlikle takip edileceği yinelendi.",
-      "highlights": [
-        "İçişleri Bakanlığı 18 ilde operasyon düzenlendiğini açıkladı.",
-        "Operasyonlar kapsamında gözaltına alınan 77 kişiden 37'si tutuklandı.",
-        "Bilişim suçlarına karşı yürütülen güvenlik tedbirleri sürecek."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-37-supheli-tutuklandi/4035036",
-      "publishedAt": "2026-08-23T09:52:36.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/kultur/2026/08/23/vogue-kapaklarinin-tahtini-kopekler-mi-devraliyor-dogue-yildizlari-insanlari-geride-birakt",
-      "headline": "Vogue kapaklarının tahtını köpekler mi devralıyor? 'Dogue' yıldızları insanları geride bıraktı",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1546238232-20216dec9f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y3V0ZSUyMGRvZ3xlbnwxfDB8fHwxNzg3NDc5MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Bharathi Kannan",
-        "photographerUrl": "https://unsplash.com/@bk010397",
-        "unsplashUrl": "https://unsplash.com/photos/five-yellow-labrador-retriever-puppies-rfL-thiRzDs"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Moda dünyasının en prestijli yayınlarından biri olarak kabul edilen ve uzun yıllardır popüler kültürün, haute couture tasarımların ve dönemin en ünlü simalarının ağırlık merkezini oluşturan Vogue dergisi, son dönemde alışılagelmiş yayıncılık dinamiklerinin dışına çıkan beklenmedik bir akımla karşı karşıya bulunuyor. Geleneksel olarak dünyanın en tanınmış modellerini, aktörlerini, müzisyenlerini ve kamusal figürlerini kapak sayfalarına taşıyan bu köklü ekol, basılı medya dünyasında adeta yeni bir dönemin kapılarını aralayan farklı bir rakiple sınanıyor.\n\nUluslararası basında geniş yankı uyandıran gelişmeler ve The Guardian gazetesinin aktardığı değerlendirmelere göre, Vogue dergisinin son yıllarda sıklıkla tartışmalara konu olan, eleştirilen veya kamuoyunda farklı tepkiler toplayan kapaklarının karşısında, bu kez bambaşka bir kulvardan gelen ve 'Dogue' olarak adlandırılan konsept büyük bir ilgi odağı haline geldi. İnsan figürlerinin ve ünlülerin yer aldığı geleneksel kapak tasarımlarının aksine, bu alternatif akımın merkezinde tamamen dört ayaklı sevimli dostlar yer alıyor. Köpeklerin ön plana çıktığı bu özel kapak çalışmaları, moda severlerin ve hayvan dostlarının yoğun ilgisini çekerek adeta geleneksel yayıncılık anlayışına meydan okuyor.\n\nModa yayıncılığı sektöründe uzun süredir belirli estetik ve kültürel normlar üzerinden yürütülen kapak politikaları, son yıllarda okuyucu kitlelerinin değişen alışkanlıkları ve dijital mecraların etkisiyle sürekli bir dönüşüm süreci yaşıyordu. Vogue dergisinin modern dönemdeki kapak tercihleri, kimileri tarafından sanatsal ve yenilikçi bulunurken, kimileri tarafından ise aşırı tartışmalı veya popüler kültürün sınırlarını zorlayan hamleler olarak değerlendiriliyordu. Tam da bu tartışmaların yoğunlaştığı bir dönemde ortaya çıkan 'Dogue' olgusu, okuyucuların ve moda takipçilerinin dikkatini hızla başka bir yöne çekmeyi başardı.\n\nBasına yansıyan analizlerde ve The Guardian'ın haber detaylarında vurgulandığı üzere, dört ayaklı yıldızların rol aldığı bu kapaklar, insan modellere kıyasla beklenmedik ölçüde büyük bir kitleyi peşinden sürüklüyor. Hayvanların doğallığı, samimiyeti ve estetik kompozisyonlarla birleşen sevimli halleri, moda dünyasının zaman zaman eleştirilen mesafeli ve soğuk havasını kırarak geniş kitlelere hitap eden sıcak bir alternatif sunuyor. Bu durum, sadece bir mizah veya eğlence unsuru olmanın ötesinde, basılı yayınların okuyucuyla kurduğu duygusal bağı da kökten yeniden şekillendiren bir dinamik olarak öne çıkıyor.\n\nModa ve yayıncılık otoriteleri, bu tür alternatif konseptlerin giderek artan popülaritesini yakından takip ederken, okuyucuların artık klasikleşmiş kapak formatlarından sıkılmış olabileceği ihtimali de sektör kulislerinde yüksek sesle tartışılıyor. 'Dogue' yıldızlarının insanları geride bıraktığı yönündeki gözlemler, dergi kapaklarının geleceğinde estetik anlayışın ve hedef kitle tercihlerinin ne denli büyük bir değişim eşiğinde olduğunu açıkça gözler önüne seriyor. Önümüzdeki dönemde moda yayıncılığının bu sevimli akımdan ne ölçüde ilham alacağı veya geleneksel çizgilerini nasıl koruyacağı merakla bekleniyor.",
-      "highlights": [
-        "Vogue kapaklarına karşı 'Dogue' adıyla bilinen alternatif akım büyük ilgi görüyor.",
-        "The Guardian'ın aktardığına göre dört ayaklı yıldızlar insanları geride bıraktı.",
-        "Köpeklerin yer aldığı kapak tasarımları moda dünyasında yeni tartışmalar başlattı."
-      ],
-      "externalUrl": "http://tr.euronews.com/kultur/2026/08/23/vogue-kapaklarinin-tahtini-kopekler-mi-devraliyor-dogue-yildizlari-insanlari-geride-birakt",
-      "publishedAt": "2026-08-23T09:49:40.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/my-europe/2026/08/23/polonyada-siyasilerin-adini-kullanarak-sahte-siparis-olusturan-genc-yakalandi-8-yila-kadar",
-      "headline": "Polonya'da siyasilerin adını kullanarak sahte sipariş oluşturan genç yakalandı: 8 yıla kadar hapsi isteniyor",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1752666749571-0e39bbdaddf8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwaGFuZGN1ZmZzfGVufDF8MHx8fDE3ODc1MjA4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel Silva",
-        "photographerUrl": "https://unsplash.com/@thesilvafocus",
-        "unsplashUrl": "https://unsplash.com/photos/german-police-officers-stand-guard-in-public-fqFi4iihhvU"
-      },
-      "timeAgo": "12 sa önce",
-      "body": "Dünya genelinde zaman zaman yaşanan sıra dışı adli olaylara bir yenisi Polonya'da eklendi. Ülke genelinde son dönemde basına yansıyan ve kamuoyunun dikkatini çeken olayda, henüz genç yaşta olan bir şüphelinin gerçekleştirdiği eylemler adli makamları harekete geçirdi. Polonya emniyet birimlerinin yürüttüğü titiz çalışmalar neticesinde yakalanan 23 yaşındaki zanlı, sıradan bir tüketici alışverişi gibi görünmeyen ancak arkasında ciddi hukuki yaptırımlar barındıran bir skandalın merkezinde yer aldı.\n\nElde edilen bilgilere göre, söz konusu şüpheli tek bir seferde oldukça yüksek miktarda ve dikkat çekici bir gıda siparişi oluşturdu. Gerçekleştirilen bu işlem kapsamında yaklaşık 300 adet pizza siparişi verildiği, bu toplu siparişin toplam ekonomik değerinin ise tam 8 bin 583 euroyu bulduğu tespit edildi. Bu denli büyük bir siparişin tek bir merkezden ve olağan dışı yöntemlerle verilmesi, hem ilgili işletmelerin hem de güvenlik güçlerinin dikkatini hızla çeken ilk unsur oldu.\n\nOlayı sıradışı kılan en önemli detaylardan biri ise siparişlerin veriliş şekli ve teslimat aşamasında kullanılan ifadelerdi. Şüphelinin, oluşturduğu siparişlerin teslimat notları kısmında rastgele veya kişisel talepler yerine, ülkenin tanınmış siyasilerinin isimlerini kullandığı belirlendi. Bununla da kalmayan 23 yaşındaki zanlının, bu notlar aracılığıyla çeşitli tehditler savurduğu ortaya çıktı. Siyasilerin adını karıştırarak yapılan bu tehdit içerikli notlar, olayın adli ve siyasi boyutunu bambaşka bir seviyeye taşıdı.\n\nToplumda ve ilgili kurumlar arasında huzursuzluğa yol açma potansiyeli taşıyan bu eylemlerin ardından güvenlik güçleri geniş çaplı bir soruşturma başlattı. Kısa sürede kimliği tespit edilen ve düzenlenen operasyonla yakalanan 23 yaşındaki şüpheli, çıkarıldığı mercilerce sorguya alındı. Emniyetteki işlemlerinin ardından adliyeye sevk edilen zanlı hakkında hazırlanan iddianame de netleşmeye başladı.\n\nSavcılık makamları tarafından yürütülen hukuki süreç sonucunda, şahsın işlediği suçların niteliği göz önünde bulundurularak ağır bir ceza talebinde bulunuldu. Buna göre, siyasilerin adını kullanarak tehditler savuran ve binlerce euro değerinde sahte sipariş oluşturan 23 yaşındaki şüphelinin 8 yıla kadar hapis cezası ile yargılanması isteniyor. Olayla ilgili hukuki sürecin ilerleyen günlerde mahkeme salonlarında devam etmesi bekleniyor.",
-      "highlights": [
-        "Polonya'da 23 yaşındaki bir genç, tek seferde yaklaşık 300 pizza siparişi verdi.",
-        "Oluşturulan siparişlerin toplam ekonomik değerinin 8 bin 583 euro olduğu belirlendi.",
-        "Teslimat notlarında siyasilerin adını kullanarak tehditler savuran zanlı için 8 yıla kadar hapis isteniyor."
-      ],
-      "externalUrl": "http://tr.euronews.com/my-europe/2026/08/23/polonyada-siyasilerin-adini-kullanarak-sahte-siparis-olusturan-genc-yakalandi-8-yila-kadar",
-      "publishedAt": "2026-08-23T09:48:04.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/ezan-sevdalisi-savasin-hayali-gercek-oldu-celal-karature-kabede-hacilar-ilahisiyle-karsiladi-4850270",
-      "headline": "Down sendromlu Savaş'ın ezan sevgisi sosyal medyanın tanıdık yüzünü Adana'ya taşıdı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1757744705465-ea08b0ddc38a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c21pbGluZyUyMG1hbnxlbnwxfDB8fHwxNzg3NDc5MDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Josias Garibay",
-        "photographerUrl": "https://unsplash.com/@josiasegl",
-        "unsplashUrl": "https://unsplash.com/photos/a-smiling-young-man-in-a-dark-blue-sweater-rifCUO-4X8k"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Adana genelinde yaşanan ve yürekleri ısıtan olay, toplumun farklı kesimlerini bir araya getiren anlamlı bir buluşmaya zemin hazırladı. Kentte yaşayan ve down sendromlu birey olan Savaş Yavuz'un ezan ile ilahilere duyduğu derin ilgi ve sevgi, geniş kitlelerin dikkatini çekti. Bu durum, sosyal medya alanında geniş bir takipçi kitlesine sahip olan fenomen Celal Karatüre'nin de ilgisinisuz bırakmadı ve sürece dair adımlar atılmasına neden oldu.\n\nSosyal medyadaki paylaşımları ve içerikleriyle tanınan Celal Karatüre, Savaş Yavuz'un ezan ve ilahilere olan bu özel bağından haberdar olmasının ardından kayıtsız kalmayarak harekete geçti. Gerçekleşen bu süreç, Adana'nın Feke ilçesinde anlamlı ve samimi bir buluşmanın yaşanmasıyla sonuçlandı. İkilinin bir araya gelmesi, hem bölge halkı hem de bu tür duyarlı hikayeleri takip eden vatandaşlar tarafından olumlu bir şekilde karşılandı.\n\nToplumsal yaşamda engelli bireylerin ilgi alanlarının, sevdikleri unsurların ve yaşam motivasyonlarının ne denli kıymetli olduğunu bir kez daha gözler önüne seren bu gelişme, küçük dokunuşların ne kadar büyük mutluluklar yaratabileceğinin somut bir örneğini oluşturdu. Savaş Yavuz'un ezan ve ilahi sevgisinin vesile olduğu bu anlamlı ziyaret, Feke ilçesinde sıcak ve samimi anların yaşanmasına zemin hazırladı.\n\nÜlke genelinde ve yerel mecralarda sıklıkla yer bulabilen bu tarz insani hikayeler, toplumsal dayanışma ve empati duygularının pekişmesine katkı sunmaya devam ediyor. Adana'da yaşanan olay da, bireyler arasındaki gönül köprülerinin kurulmasında sevgi ve samimiyetin ne kadar güçlü birer unsur olduğunu bir kez daha kanıtlamış oldu. Gerçekleşen bu buluşma, hem Savaş Yavuz'un hem de çevresindekilerin hafızasında unutulmaz anılar bıraktı.\n\nSöz konusu ziyaretin ardından, bölgedeki vatandaşlar ve konuya ilgi duyan internet kullanıcıları yaşanan bu güzel gelişmeyi takdirle karşıladı. Toplumun her kesiminden insanı ortak bir duyguda buluşturan bu tür anlamlı olaylar, günlük yaşamın koşturmacası içerisinde unuttuğumuz insani değerleri yeniden hatırlatması bakımından önem taşıyor. Adana'da atılan bu adım, sevginin ve ilginin engel tanımadığını bir kez daha gözler önüne serdi.",
-      "highlights": [
-        "Savaş Yavuz'un ezan ve ilahi sevgisi dikkat çekti.",
-        "Fenomen Celal Karatüre Adana'nın Feke ilçesine geldi.",
-        "Yaşanan buluşma samimi anlara sahne oldu."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/ezan-sevdalisi-savasin-hayali-gercek-oldu-celal-karature-kabede-hacilar-ilahisiyle-karsiladi-4850270",
-      "publishedAt": "2026-08-23T09:43:43.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/turkiye/sanliurfada-termometreler-46-dereceyi-gosterdi-954695.html",
-      "headline": "Şanlıurfa'da termometreler 46 dereceyi gösterdi",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1612852098567-8b5d42ee6a52?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aG90JTIwc3VuJTIwZGVzZXJ0fGVufDF8MHx8fDE3ODc0ODA1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marek Okon",
-        "photographerUrl": "https://unsplash.com/@marekokon",
-        "unsplashUrl": "https://unsplash.com/photos/green-grass-on-brown-sand-during-sunset-TE6py7hHhz4"
-      },
-      "timeAgo": "40 dk önce",
-      "body": "Türkiye genelinde etkisini artıran yaz sıcaklıkları, ülkenin güneydoğu bölgesinde hayatı durma noktasına getirdi. Güneydoğu Anadolu Bölgesi'nin en önemli tarım ve nüfus merkezlerinden biri olan Şanlıurfa'da, meteoroloji ölçümlerine göre termometreler gölgede dahi 46 dereceyi gördü. Mevsim normallerinin oldukça üzerinde seyreden bu aşırı sıcak hava dalgası, kentin genelinde günlük yaşamı ve sosyal faaliyetleri son derece olumsuz bir şekilde etkilemeye devam ediyor.\n\nŞehir merkezinde hava sıcaklığının 46 dereceye ulaşmasıyla birlikte, sokaklar ve caddeler adeta hayalet şehre döndü. Günün en sıcak saatlerinde vatandaşların zorunlu olmadıkça dışarı çıkmamayı tercih ettiği görüldü. Kentin kalabalık meydanları, tarihi ve turistik odak noktaları ile ana arterleri normal günlerdeki hareketliliğini yitirdi. Uzmanların ve yetkililerin yaptığı uyarılar doğrultusunda, özellikle yaşlılar, kronik rahatsızlığı bulunanlar ve çocuklar günün en riskli saatlerinde evlerinde kalmayı yeğledi.\n\nSıcaklığın rekor seviyelere ulaştığı Şanlıurfa'da, açık alanda çalışmak zorunda kalan işçiler, çiftçiler ve esnaf bu durumdan en çok etkilenen kesimler arasında yer aldı. Tarımsal faaliyetlerin ve inşaat sektörünün yoğun olarak sürdürüldüğü kentte, çalışanlar güneşin zararlı ışınlarından ve aşırı nem ile sıcaklık kombinasyonundan korunmak için kendi imkanlarıyla önlem almaya çalıştı. Gölge alanlar ve ağaç altları, gün boyunca serinlemek isteyen vatandaşların akınına uğradı.\n\nŞanlıurfa'da görülen bu yüksek sıcaklık değerleri, yaz aylarında bölgenin sahip olduğu iklim koşullarının insan yaşamı üzerindeki baskısını bir kez daha gözler önüne serdi. Meteoroloji yetkilileri, aşırı sıcakların önümüzdeki günlerde de bölgede etkisini sürdürmesini beklediklerini belirterek, halkı uyardı. Güneş çarpması ve sıvı kaybı gibi sağlık sorunlarına karşı dikkatli olunması gerektiği vurgulanırken, zorunlu haller dışında dışarı çıkılmaması yönündeki tavsiyeler yinelendi.",
-      "highlights": [
-        "Şanlıurfa'da termometreler 46 dereceye ulaştı.",
-        "Aşırı sıcaklar günlük yaşamı olumsuz etkiledi.",
-        "Sokaklar boş kalırken vatandaşlar uyarılıyor."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/turkiye/sanliurfada-termometreler-46-dereceyi-gosterdi-954695.html",
-      "publishedAt": "2026-08-23T09:43:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "headline": "Dünya İnsansı Robot Oyunları Pekin'de boks, futbol ve koşu branşlarıyla başladı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aHVtYW5vaWQlMjByb2JvdHxlbnwxfDB8fHwxNzg3NDc5MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Franck V.",
-        "photographerUrl": "https://unsplash.com/@possessedphotography",
-        "unsplashUrl": "https://unsplash.com/photos/white-robot-wallpaper-JjGXjESMxOY"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Teknoloji dünyasının merakla beklediği ve yapay zeka ile robotik alanındaki son gelişmelerin sahne aldığı büyük organizasyonlardan biri olan Dünya İnsansı Robot Oyunları, bu yıl ikinci kez kapılarını açtı. Beş gün sürmesi planlanan bu uluslararası ve kapsamlı rekabetin başlangıcı, Çin'in başkenti Pekin'de gerçekleştirilen açılış töreniyle Cumartesi günü yapıldı. Dünyanın dört bir yanından gelen gelişmiş insansı makineler, insan benzeri fiziksel yeteneklerini sergilemek üzere bu dev platformda bir araya geldi.\n\nOrganizasyonun en çok ilgi çeken ve tribünleri dolduran izleyicilerin merakla takip ettiği ana branşları arasında boks, futbol ve sürat koşusu yer alıyor. Farklı mühendislik ekipleri tarafından tasarlanan ve programlanan robotlar, ringde yumruklaşarak boks becerilerini gösterirken, yeşil sahalarda ise top peşinde koşturarak futbol müsabakalarında rekabet ediyorlar. Aynı zamanda atletizm pistlerinde gerçekleştirilen sprint yarışları, makinelerin hız, denge ve mekanik dayanıklılık sınırlarını zorlayan görüntülere sahne oluyor. Bu branşlar, robotik teknolojisinin sadece endüstriyel alanlarda değil, aynı zamanda dinamik ve hareketli ortamlarda da ne kadar ileri bir seviyeye ulaştığını gözler önüne seriyor.\n\nBeş gün boyunca devam edecek olan bu devasa etkinlik, mühendislerin, araştırmacıların ve teknoloji meraklılarının buluşma noktası haline gelmiş durumda. Pekin'deki tesiste yarışan insansı makineler, sadece kendi aralarında yarışmakla kalmıyor, aynı zamanda geleceğin otomasyon ve yapay zeka entegrasyonu hakkında da çok önemli veriler sunuyor. Birçok farklı ülkeden gelen takımlar, robotlarının algoritmalarını, sensör kapasitelerini ve motor becerilerini bu zorlu parkurlarda test etme fırsatı buluyor.\n\nOyunların ikincisi olarak düzenlenen bu organizasyon, ilk edisyondan bu yana robot teknolojisindeki hızlı ilerlemeyi de net bir şekilde ortaya koyuyor. Özellikle denge sağlama, hızlı karar verme ve ani fiziksel müdahalelere tepki verme konularında makinelerin kat ettiği mesafe, uzmanlar tarafından yakından takip ediliyor. Pekin ev sahipliğinde gerçekleşen bu beş günlük rekabet maratonu, insansı robotların gelecekte günlük yaşamın ve farklı sektörlerin bir parçası olup olamayacağına dair önemli ipuçları barındırıyor.\n\nCumartesi günü verilen başlangıç düdüğüyle birlikte tüm gözler Pekin'e çevrilirken, önümüzdeki günlerde yapılacak final müsabakaları ve madalya yarışmaları büyük bir heyecanla bekleniyor. Dünya İnsansı Robot Oyunları, teknoloji ile sporun kesiştiği noktada insanlığın mühendislik harikası eserlerini sergilediği eşsiz bir küresel platform olmaya devam ediyor.",
-      "highlights": [
-        "Dünya İnsansı Robot Oyunları'nın ikinci edisyonu Pekin'de başladı.",
-        "Beş gün sürecek organizasyonda robotlar boks, futbol ve koşuda yarışıyor.",
-        "Çin'deki etkinlik, robotik teknolojisindeki son gelişmeleri gözler önüne seriyor."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T09:42:05.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-73-orman-yanginina-iliskin-sorusturmalarda-12-tutuklama-43282399",
-      "headline": "Bakan Gürlek: 73 orman yangınına ilişkin soruşturmalarda 12 tutuklama",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1615092296061-e2ccfeb2f3d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9yZXN0JTIwZmlyZXxlbnwxfDB8fHwxNzg3MzI4MTY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Matt Palmer",
-        "photographerUrl": "https://unsplash.com/@mattpalmer",
-        "unsplashUrl": "https://unsplash.com/photos/wildfire-burning-across-hillside-at-dusk-kbTp7dBzHyY"
-      },
-      "timeAgo": "45 dk önce",
-      "body": "Türkiye genelinde yaz mevsimiyle birlikte artan sıcaklıklar ve kurak hava koşullarının da etkisiyle gündeme gelen orman yangınlarına karşı adli merciler tarafından yürütülen çalışmalar hız kesmeden sürdürülüyor. Yurdun farklı bölgelerinde yaşanan doğa olayları ve bu olayların arkasındaki etkenlerin aydınlatılması amacıyla başlatılan adli süreçler kamuoyuyla paylaşılmaya devam ediyor. Bu kapsamda, ormanlık alanlarda yaşanan tahribatların ardından güvenlik güçleri ve yargı organları harekete geçerek kapsamlı incelemeler başlattı.\n\nKonuya ilişkin resmi açıklamalarda bulunan yetkili isimlerden Bakan Gürlek, 1 Haziran 2026 tarihinden bu yana ülke genelinde yaşanan orman yangınları hakkında yürütülen soruşturmaların son durumunu kamuoyuna aktardı. Yapılan bilgilendirmeye göre, belirtilen tarihten itibaren yurdun farklı noktalarında ortaya çıkan yangın olaylarının tamamı titizlikle inceleniyor. Cumhuriyet Başsavcılıkları koordinesinde yürütülen soruşturmaların, yangınların çıkış nedenlerini ortaya çıkarmak ve sorumluları adalet önüne getirmek amacıyla çok yönlü bir şekilde devam ettiği bildirildi.\n\nSöz konusu açıklamada paylaşılan verilere göre, 1 Haziran 2026’dan bu yana toplam 25 farklı il sınırları içinde meydana gelen 73 ayrı orman yangınıyla ilgili olarak adli işlemler resmiyet kazandı. Ülkenin coğrafi ve iklimsel açıdan hassas bölgelerini de etkileyen bu yangın olaylarının ardından başlatılan soruşturmalar, ilgili birimlerin ortak çalışmalarıyla derinleştirildi. Cumhuriyet Başsavcılıkları tarafından yürütülen hukuki süreçler çerçevesinde, olaylarla bağlantısı olduğu değerlendirilen şüphelilerin tespiti için teknik ve fiziki çalışmalar gerçekleştirildi.\n\nYürütülen soruşturma faaliyetleri neticesinde, toplamda 46 şahsın kimliği ve olaylarla olası bağlantısı resmi merciler tarafından tespit edildi. Güvenlik birimlerinin topladığı deliller ve savcılık talimatları doğrultusunda gözaltına alınan şüpheliler, adli makamlara sevk edildi. Yargı sürecinin işletilmesinin ardından, mahkemeye çıkarılan şüphelilerden 12’sinin tutuklanarak cezaevine gönderildiği açıklandı.\n\nBunun yanı sıra, soruşturma kapsamında hakim karşısına çıkan diğer şüphelilerle ilgili de bazı tedbir kararları alındı. Açıklanan verilere göre, 21 şüpheli hakkında adli kontrol tedbiri uygulanmasına karar verildi. Yargı mercileri tarafından alınan bu kararlar, şüphelilerin tutuksuz yargılanma süresince belirli yükümlülüklere uymasını zorunlu kılıyor. Yetkililer, orman yangınlarıyla mücadele ve bu felaketlere sebep olanlarla ilgili hukuki sürecin tüm şeffaflığı ve ciddiyetiyle takip edileceğini vurguluyor.",
-      "highlights": [
-        "1 Haziran 2026'dan bu yana 25 ilde 73 orman yangını yaşandı.",
-        "Cumhuriyet Başsavcılıkları yürütülen soruşturmalarda 46 şüpheliyi belirledi.",
-        "Şüphelilerden 12'si tutuklandı, 21'i hakkında adli kontrol kararı verildi."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/bakan-gurlek-73-orman-yanginina-iliskin-sorusturmalarda-12-tutuklama-43282399",
-      "publishedAt": "2026-08-23T09:38:06.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
