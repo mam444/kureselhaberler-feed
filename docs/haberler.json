@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-23T09:31:43.171Z",
+  "generatedAt": "2026-08-23T09:57:12.872Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-3457812",
+      "headline": "Türkiye'nin elektrik kurulu gücü 126 bin 476 megavata ulaştı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG93ZXIlMjBwbGFudHxlbnwxfDB8fHwxNzg3NDc4OTc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nicolas HIPPERT",
+        "photographerUrl": "https://unsplash.com/@nhippert",
+        "unsplashUrl": "https://unsplash.com/photos/nuclear-cooling-towers-at-night-C82jAEQkfE0"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye genelinde enerji alanındaki kapasite artışına yönelik çalışmalar devam ederken, Enerji ve Tabii Kaynaklar Bakanlığı konuya ilişkin yeni verileri kamuoyuyla paylaştı. Günümüzün hızla artan enerji talebini karşılamak, sanayi ve konutlardaki elektrik arz güvenliğini kesintisiz bir şekilde sürdürmek ve ekonomik büyümeye enerji altyapısıyla destek olmak amacıyla yürütülen projeler meyvesini vermeye devam ediyor. Bu kapsamda, ülkenin genel üretim kapasitesini doğrudan etkileyen kurulu güç rakamlarında önemli bir eşik daha geride bırakıldı.\n\nEnerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, sosyal medya hesabı ve resmi değerlendirmeleri üzerinden yaptığı açıklamada, Türkiye'nin toplam elektrik kurulu gücünün güncel durumuna dikkat çekti. Yapılan son hesaplamalara ve resmi verilere göre, ülke genelindeki tüm üretim tesislerinin kapasitelerini kapsayan toplam elektrik kurulu gücü, temmuz ayı itibarıyla net bir şekilde 126 bin 476 megavata yükseldi. Bu gelişme, enerji sektöründeki yatırımların planlanan takvime uygun olarak kararlılıkla sürdüğünü ve arz portföyünün istikrarlı bir şekilde genişlediğini ortaya koydu.\n\nSöz konusu kurulu güç rakamı, ülkenin enerji politikasının temel direklerini oluşturan fosil yakıtlı, hidroelektrik, rüzgâr, güneş, jeotermal ve biyokütle gibi farklı kaynakların tamamının toplam kapasitesini ifade ediyor. Türkiye, artan enerji ihtiyacını karşılayabilmek ve dışa bağımlılığı en aza indirmek adına uzun süredir yerli ve yenilenebilir enerji kaynaklarına ağırlık veriyor. Temmuz ayı sonu itibarıyla ulaşılan bu 126 bin 476 megavatlık büyüklük, enerji yatırımlarının çeşitlendirilmesi ve devreye alınan yeni tesislerin toplam sisteme olan katkısının somut bir göstergesi olarak değerlendiriliyor.\n\nUzmanlar, elektrik kurulu gücündeki bu tür dönemsel artışların, özellikle yaz aylarında artan klima kullanımı, turizm hareketliliği ve endüstriyel üretim süreçlerindeki yoğunluk gibi dönemsel talep artışlarını karşılamada kritik bir rol oynadığını belirtiyor. Altyapının bu denli güçlü tutulması, sistemde yaşanabilecek olası dar boğazların ve arz kesintilerinin önüne geçilmesi açısından büyük bir önem arz ediyor. Bakanlık tarafından açıklanan bu son veri, aynı zamanda gelecek döneme yönelik planlanan yeni kapasite artışları ve iletim hatlarının güçlendirilmesi çalışmaları için de bir referans teşkil ediyor.\n\nTürkiye'nin enerji arz güvenliğini uluslararası standartlarda tutma hedefi doğrultusunda, hem kamunun hem de özel sektörün yaptığı yatırımlar aralıksız sürüyor. Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar'ın paylaştığı temmuz ayı verileri, ülkenin enerji üretim altyapısının ne denli dinamik bir yapıda olduğunu bir kez daha gözler önüne serdi. Ulaşılan 126 bin 476 megavatlık bu hacim, Türkiye'nin bölgesel bir enerji merkezi olma vizyonu çerçevesinde attığı sağlam adımların ve kapasite geliştirme hamlelerinin kararlılıkla devam ettiğini teyit ediyor.",
+      "highlights": [
+        "Türkiye'nin elektrik kurulu gücü temmuz ayı itibarıyla 126 bin 476 megavata ulaştı.",
+        "Açıklama Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar tarafından yapıldı.",
+        "Artan kapasite, ülkenin enerji arz güvenliğine ve altyapısına katkı sağlıyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-3457812",
+      "publishedAt": "2026-08-23T12:48:10.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/yerel-haberler/samsun/ogretmenevinin-duvarindan-dusen-beton-parcalari-nedeniyle-yol-trafige-kapatildi-3457788",
       "headline": "Öğretmenevi'nin duvarından düşen beton parçaları nedeniyle yol trafiğe kapatıldı",
@@ -117,6 +140,144 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.ntv.com.tr/turkiye/robotaksi-binek-otonom-arac-yarismasi-kocaelide-1738553",
+      "headline": "Robotaksi binek otonom araç yarışması Kocaeli'de başlıyor",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1694729101068-a2c621f877b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXV0b25vbW91cyUyMGNhcnxlbnwxfDB8fHwxNzg3NDc4OTgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "gibblesmash asdf",
+        "photographerUrl": "https://unsplash.com/@gibblesmash139",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-that-is-driving-down-the-street-Qr67ewAPBvY"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Türkiye'nin teknoloji ve havacılık alanındaki en önemli etkinliklerinden biri olan Teknofest bünyesinde gerçekleştirilen faaliyetler hız kesmeden devam ediyor. Bu kapsamda, genç mühendislerin ve teknoloji meraklılarının ilgiyle takip ettiği Robotaksi-Binek Otonom Araç Yarışması'nın final aşaması için heyecanlı bekleyiş sona erdi. Etkinlik, ülkenin gelecekteki ulaşım teknolojilerine yön vermeyi hedefleyen genç yetenekleri bir araya getiren prestijli bir platform olma özelliği taşıyor.\n\nGerçekleştirilen bu büyük organizasyonun final etabında, ülkenin dört bir yanından gelen alanında iddialı ekipler yer alıyor. Verilen resmi bilgilere göre, yarışmanın bu son aşamasında tam 50 takım ve bu takımlarda ter döken toplam 753 yarışmacı kıyasıya bir mücadele için hazırlıklarını tamamladı. Katılımcılar, kendi tasarlayıp geliştirdikleri otonom araçların sürüş kabiliyetlerini jüri ve izleyicilerin beğenisine sunacaklar.\n\nŞampünyanın final yarışmalarına ev sahipliği yapan adres ise inovasyon ve Ar-Ge çalışmalarının merkezlerinden biri konumundaki Kocaeli Bilişim Vadisi oldu. Modern altyapısı ve teknolojik imkanlarıyla bilinen bu üst düzey kampüs, otonom araçların zorlu parkurlardaki performanslarını test etmek için son derece elverişli bir ortam sunuyor. Yarışmacılar, burada gerçekleştirilecek sürüş testleriyle araçlarının yapay zeka ve sensör teknolojilerini sergileme fırsatı bulacaklar.\n\nOtonom sürüş teknolojileri, günümüz otomotiv endüstrisinde ve geleceğin akıllı şehirlerinde hayati bir dönemeç olarak değerlendiriliyor. Bu bağlamda, Teknofest çatısı altında düzenlenen Robotaksi yarışmaları, sadece bir müsabaka olmanın ötesinde, genç beyinlerin bu alandaki pratik deneyimlerini artırmaları için kritik bir basamak teşkil ediyor. Ekipler, günlerce süren yoğun çalışmaların ardından geliştirdikleri algoritmaları ve mekanik tasarımları gerçek dünya koşullarına yakın senaryolarda test ediyorlar.\n\nKocaeli Bilişim Vadisi'nde gerçekleşen bu dev buluşma, Türkiye'nin yerli ve milli teknoloji hamlesine katkı sunan projelerin kamuoyuyla paylaşılması açısından da büyük önem arz ediyor. Yarışma boyunca sergilenecek olan otonom sürüş yetenekleri, otonom sistemlerin ülkemizdeki gelişim seviyesini gözler önüne serecek. Organizasyonun final etabında ödül alacak takımların belirlenmesiyle birlikte, Türkiye'nin teknoloji odaklı geleceğine yatırım yapan genç mühendisler bir kez daha ödüllendirilmiş olacak.",
+      "highlights": [
+        "Teknofest kapsamında Robotaksi-Binek Otonom Araç Yarışması'nın finali düzenleniyor.",
+        "Etkinlikte 50 takım ve 753 yarışmacı otonom sürüş becerilerini sergiliyor.",
+        "Yarışmalar Kocaeli Bilişim Vadisi'nin ev sahipliğinde gerçekleştiriliyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/robotaksi-binek-otonom-arac-yarismasi-kocaelide-1738553",
+      "publishedAt": "2026-08-23T09:53:16.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-37-supheli-tutuklandi/4035036",
+      "headline": "Siber suçlarla mücadele operasyonlarında 37 şüpheli tutuklandı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1743271823568-772866c88092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwY29tcHV0ZXJ8ZW58MXwwfHx8MTc4NzQ3ODk5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Silas Lundquist",
+        "photographerUrl": "https://unsplash.com/@silaslundquist",
+        "unsplashUrl": "https://unsplash.com/photos/a-police-motorcycles-side-2ByNBrE5dMQ"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Türkiye genelinde dijital suç ağlarına karşı yürütülen güvenlik operasyonları kararlılıkla devam ediyor. Bu kapsamda, yurdun farklı noktalarında güvenlik güçleri tarafından gerçekleştirilen geniş çaplı siber suçlarla mücadele operasyonlarının sonuçları resmi merciler tarafından kamuoyuyla paylaşıldı. Elde edilen bilgilere göre, ülkenin dört bir yanında suç şebekelerine yönelik düzenlenen operasyonlar neticesinde toplamda yetmiş yedi şüpheli şahıs gözaltına alındı. Emniyet birimlerindeki ilk işlemlerinin ardından adliyeye sevk edilen şüphelilerden otuz yedi tanesi, çıkarıldıkları mahkemelerce tutuklanarak cezaevine gönderildi. İçişleri Bakanlığı tarafından yapılan resmi açıklamada, bu operasyonların toplamda on sekiz farklı ilde eş zamanlı olarak icra edildiği vurgulandı.\n\nSon yıllarda teknolojinin ve dijital mecraların hayatımızın merkezine yerleşmesiyle birlikte, kötü niyetli kişi ve örgütler de faaliyetlerini sanal ortama taşıdı. Dolandırıcılık, bilişim sistemlerini hedef alan yasa dışı faaliyetler ve kişisel verilerin hukuka aykırı olarak ele geçirilmesi gibi suçlarla mücadele, hem kamu güvenliği hem de toplumsal huzur açısından kritik bir önem taşımaktadır. İçişleri Bakanlığı ve ilgili emniyet birimleri, bu tür organize suç yapılarına karşı yürütülen çalışmalarını aralıksız sürdürüyor. Dijital dünyanın getirdiği güvenlik risklerine karşı alınan önlemler, vatandaşların haklarının korunması ve suçluların adalete teslim edilmesi noktasında büyük bir titizlikle uygulanıyor.\n\nGerçekleştirilen bu son operasyonların, birden fazla ili kapsayan geniş bir koordinasyon gerektirdiği belirtildi. On sekiz ilde eş zamanlı olarak harekete geçen güvenlik güçleri, teknik ve fiziki takiplar sonucunda şüphelilerin adreslerine baskınlar düzenledi. Gözaltına alınan yetmiş yedi şahsın emniyetteki sorgu süreçleri, elde edilen dijital materyallerin incelenmesiyle derinleştirildi. Uzman ekipler tarafından bilgisayarlar, cep telefonları ve diğer dijital depolama araçları üzerinde yapılan incelemeler, suç ağlarının deşifre edilmesinde önemli rol oynamaktadır. Soruşturma dosyasına giren bu deliller, yargı sürecinin sağlıklı bir şekilde ilerlemesi için titizlikle değerlendiriliyor.\n\nAdli makamlara sevk edilen zanlılardan otuz yedisinin tutuklanması kararı, yürütülen soruşturmanın ciddiyetini ve elde edilen delillerin somutluğunu gözler önüne serdi. Tutuklanan şahıslar cezaevine sevk edilirken, diğer şüphelilerle ilgili hukuki süreçlerin ve soruşturmanın devam ettiği bildirildi. Yetkililer, siber suçlarla mücadelenin yalnızca operasyonlarla sınırlı kalmadığını, aynı zamanda önleyici tedbirler ve toplumsal farkındalık çalışmalarıyla da desteklendiğini sık sık dile getiriyor. Vatandaşların internet ortamında karşılaşabilecekleri şüpheli durumları ve dolandırıcılık girişimlerini derhal yetkili makamlara bildirmeleri, bu suçlarla mücadelenin etkinliğini artıran en önemli unsurlar arasında yer alıyor.\n\nÜlke genelinde huzur ve güven ortamının tesis edilmesi amacıyla yürütülen bu tür operasyonlar, önümüzdeki dönemde de aynı kararlılıkla devam edecektir. Suç odaklarının dijital dünyada da barınamayacağını gösteren bu gelişmeler, kolluk kuvvetlerinin siber uzaydaki etkinliğini ve kapasitesini bir kez daha kanıtlamıştır. Bakanlık kaynakları, bilişim suçlarıyla mücadelede ulusal ve uluslararası koordinasyonun önemine dikkat çekerken, vatandaşların da dijital güvenlik konusunda daha dikkatli olmaları gerektiğini hatırlatıyor. Yapılan bu son operasyon, siber suç şebekelerine vurulan büyük darbelerden biri olarak kayıtlara geçerken, adli süreçlerin titizlikle takip edileceği yinelendi.",
+      "highlights": [
+        "İçişleri Bakanlığı 18 ilde operasyon düzenlendiğini açıkladı.",
+        "Operasyonlar kapsamında gözaltına alınan 77 kişiden 37'si tutuklandı.",
+        "Bilişim suçlarına karşı yürütülen güvenlik tedbirleri sürecek."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-37-supheli-tutuklandi/4035036",
+      "publishedAt": "2026-08-23T09:52:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "http://tr.euronews.com/kultur/2026/08/23/vogue-kapaklarinin-tahtini-kopekler-mi-devraliyor-dogue-yildizlari-insanlari-geride-birakt",
+      "headline": "Vogue kapaklarının tahtını köpekler mi devralıyor? 'Dogue' yıldızları insanları geride bıraktı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1546238232-20216dec9f72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y3V0ZSUyMGRvZ3xlbnwxfDB8fHwxNzg3NDc5MDA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bharathi Kannan",
+        "photographerUrl": "https://unsplash.com/@bk010397",
+        "unsplashUrl": "https://unsplash.com/photos/five-yellow-labrador-retriever-puppies-rfL-thiRzDs"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Moda dünyasının en prestijli yayınlarından biri olarak kabul edilen ve uzun yıllardır popüler kültürün, haute couture tasarımların ve dönemin en ünlü simalarının ağırlık merkezini oluşturan Vogue dergisi, son dönemde alışılagelmiş yayıncılık dinamiklerinin dışına çıkan beklenmedik bir akımla karşı karşıya bulunuyor. Geleneksel olarak dünyanın en tanınmış modellerini, aktörlerini, müzisyenlerini ve kamusal figürlerini kapak sayfalarına taşıyan bu köklü ekol, basılı medya dünyasında adeta yeni bir dönemin kapılarını aralayan farklı bir rakiple sınanıyor.\n\nUluslararası basında geniş yankı uyandıran gelişmeler ve The Guardian gazetesinin aktardığı değerlendirmelere göre, Vogue dergisinin son yıllarda sıklıkla tartışmalara konu olan, eleştirilen veya kamuoyunda farklı tepkiler toplayan kapaklarının karşısında, bu kez bambaşka bir kulvardan gelen ve 'Dogue' olarak adlandırılan konsept büyük bir ilgi odağı haline geldi. İnsan figürlerinin ve ünlülerin yer aldığı geleneksel kapak tasarımlarının aksine, bu alternatif akımın merkezinde tamamen dört ayaklı sevimli dostlar yer alıyor. Köpeklerin ön plana çıktığı bu özel kapak çalışmaları, moda severlerin ve hayvan dostlarının yoğun ilgisini çekerek adeta geleneksel yayıncılık anlayışına meydan okuyor.\n\nModa yayıncılığı sektöründe uzun süredir belirli estetik ve kültürel normlar üzerinden yürütülen kapak politikaları, son yıllarda okuyucu kitlelerinin değişen alışkanlıkları ve dijital mecraların etkisiyle sürekli bir dönüşüm süreci yaşıyordu. Vogue dergisinin modern dönemdeki kapak tercihleri, kimileri tarafından sanatsal ve yenilikçi bulunurken, kimileri tarafından ise aşırı tartışmalı veya popüler kültürün sınırlarını zorlayan hamleler olarak değerlendiriliyordu. Tam da bu tartışmaların yoğunlaştığı bir dönemde ortaya çıkan 'Dogue' olgusu, okuyucuların ve moda takipçilerinin dikkatini hızla başka bir yöne çekmeyi başardı.\n\nBasına yansıyan analizlerde ve The Guardian'ın haber detaylarında vurgulandığı üzere, dört ayaklı yıldızların rol aldığı bu kapaklar, insan modellere kıyasla beklenmedik ölçüde büyük bir kitleyi peşinden sürüklüyor. Hayvanların doğallığı, samimiyeti ve estetik kompozisyonlarla birleşen sevimli halleri, moda dünyasının zaman zaman eleştirilen mesafeli ve soğuk havasını kırarak geniş kitlelere hitap eden sıcak bir alternatif sunuyor. Bu durum, sadece bir mizah veya eğlence unsuru olmanın ötesinde, basılı yayınların okuyucuyla kurduğu duygusal bağı da kökten yeniden şekillendiren bir dinamik olarak öne çıkıyor.\n\nModa ve yayıncılık otoriteleri, bu tür alternatif konseptlerin giderek artan popülaritesini yakından takip ederken, okuyucuların artık klasikleşmiş kapak formatlarından sıkılmış olabileceği ihtimali de sektör kulislerinde yüksek sesle tartışılıyor. 'Dogue' yıldızlarının insanları geride bıraktığı yönündeki gözlemler, dergi kapaklarının geleceğinde estetik anlayışın ve hedef kitle tercihlerinin ne denli büyük bir değişim eşiğinde olduğunu açıkça gözler önüne seriyor. Önümüzdeki dönemde moda yayıncılığının bu sevimli akımdan ne ölçüde ilham alacağı veya geleneksel çizgilerini nasıl koruyacağı merakla bekleniyor.",
+      "highlights": [
+        "Vogue kapaklarına karşı 'Dogue' adıyla bilinen alternatif akım büyük ilgi görüyor.",
+        "The Guardian'ın aktardığına göre dört ayaklı yıldızlar insanları geride bıraktı.",
+        "Köpeklerin yer aldığı kapak tasarımları moda dünyasında yeni tartışmalar başlattı."
+      ],
+      "externalUrl": "http://tr.euronews.com/kultur/2026/08/23/vogue-kapaklarinin-tahtini-kopekler-mi-devraliyor-dogue-yildizlari-insanlari-geride-birakt",
+      "publishedAt": "2026-08-23T09:49:40.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/video/gundem/ezan-sevdalisi-savasin-hayali-gercek-oldu-celal-karature-kabede-hacilar-ilahisiyle-karsiladi-4850270",
+      "headline": "Down sendromlu Savaş'ın ezan sevgisi sosyal medyanın tanıdık yüzünü Adana'ya taşıdı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1757744705465-ea08b0ddc38a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c21pbGluZyUyMG1hbnxlbnwxfDB8fHwxNzg3NDc5MDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Josias Garibay",
+        "photographerUrl": "https://unsplash.com/@josiasegl",
+        "unsplashUrl": "https://unsplash.com/photos/a-smiling-young-man-in-a-dark-blue-sweater-rifCUO-4X8k"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "Adana genelinde yaşanan ve yürekleri ısıtan olay, toplumun farklı kesimlerini bir araya getiren anlamlı bir buluşmaya zemin hazırladı. Kentte yaşayan ve down sendromlu birey olan Savaş Yavuz'un ezan ile ilahilere duyduğu derin ilgi ve sevgi, geniş kitlelerin dikkatini çekti. Bu durum, sosyal medya alanında geniş bir takipçi kitlesine sahip olan fenomen Celal Karatüre'nin de ilgisinisuz bırakmadı ve sürece dair adımlar atılmasına neden oldu.\n\nSosyal medyadaki paylaşımları ve içerikleriyle tanınan Celal Karatüre, Savaş Yavuz'un ezan ve ilahilere olan bu özel bağından haberdar olmasının ardından kayıtsız kalmayarak harekete geçti. Gerçekleşen bu süreç, Adana'nın Feke ilçesinde anlamlı ve samimi bir buluşmanın yaşanmasıyla sonuçlandı. İkilinin bir araya gelmesi, hem bölge halkı hem de bu tür duyarlı hikayeleri takip eden vatandaşlar tarafından olumlu bir şekilde karşılandı.\n\nToplumsal yaşamda engelli bireylerin ilgi alanlarının, sevdikleri unsurların ve yaşam motivasyonlarının ne denli kıymetli olduğunu bir kez daha gözler önüne seren bu gelişme, küçük dokunuşların ne kadar büyük mutluluklar yaratabileceğinin somut bir örneğini oluşturdu. Savaş Yavuz'un ezan ve ilahi sevgisinin vesile olduğu bu anlamlı ziyaret, Feke ilçesinde sıcak ve samimi anların yaşanmasına zemin hazırladı.\n\nÜlke genelinde ve yerel mecralarda sıklıkla yer bulabilen bu tarz insani hikayeler, toplumsal dayanışma ve empati duygularının pekişmesine katkı sunmaya devam ediyor. Adana'da yaşanan olay da, bireyler arasındaki gönül köprülerinin kurulmasında sevgi ve samimiyetin ne kadar güçlü birer unsur olduğunu bir kez daha kanıtlamış oldu. Gerçekleşen bu buluşma, hem Savaş Yavuz'un hem de çevresindekilerin hafızasında unutulmaz anılar bıraktı.\n\nSöz konusu ziyaretin ardından, bölgedeki vatandaşlar ve konuya ilgi duyan internet kullanıcıları yaşanan bu güzel gelişmeyi takdirle karşıladı. Toplumun her kesiminden insanı ortak bir duyguda buluşturan bu tür anlamlı olaylar, günlük yaşamın koşturmacası içerisinde unuttuğumuz insani değerleri yeniden hatırlatması bakımından önem taşıyor. Adana'da atılan bu adım, sevginin ve ilginin engel tanımadığını bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Savaş Yavuz'un ezan ve ilahi sevgisi dikkat çekti.",
+        "Fenomen Celal Karatüre Adana'nın Feke ilçesine geldi.",
+        "Yaşanan buluşma samimi anlara sahne oldu."
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/ezan-sevdalisi-savasin-hayali-gercek-oldu-celal-karature-kabede-hacilar-ilahisiyle-karsiladi-4850270",
+      "publishedAt": "2026-08-23T09:43:43.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "headline": "Dünya İnsansı Robot Oyunları Pekin'de boks, futbol ve koşu branşlarıyla başladı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1535378620166-273708d44e4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aHVtYW5vaWQlMjByb2JvdHxlbnwxfDB8fHwxNzg3NDc5MDE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Franck V.",
+        "photographerUrl": "https://unsplash.com/@possessedphotography",
+        "unsplashUrl": "https://unsplash.com/photos/white-robot-wallpaper-JjGXjESMxOY"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Teknoloji dünyasının merakla beklediği ve yapay zeka ile robotik alanındaki son gelişmelerin sahne aldığı büyük organizasyonlardan biri olan Dünya İnsansı Robot Oyunları, bu yıl ikinci kez kapılarını açtı. Beş gün sürmesi planlanan bu uluslararası ve kapsamlı rekabetin başlangıcı, Çin'in başkenti Pekin'de gerçekleştirilen açılış töreniyle Cumartesi günü yapıldı. Dünyanın dört bir yanından gelen gelişmiş insansı makineler, insan benzeri fiziksel yeteneklerini sergilemek üzere bu dev platformda bir araya geldi.\n\nOrganizasyonun en çok ilgi çeken ve tribünleri dolduran izleyicilerin merakla takip ettiği ana branşları arasında boks, futbol ve sürat koşusu yer alıyor. Farklı mühendislik ekipleri tarafından tasarlanan ve programlanan robotlar, ringde yumruklaşarak boks becerilerini gösterirken, yeşil sahalarda ise top peşinde koşturarak futbol müsabakalarında rekabet ediyorlar. Aynı zamanda atletizm pistlerinde gerçekleştirilen sprint yarışları, makinelerin hız, denge ve mekanik dayanıklılık sınırlarını zorlayan görüntülere sahne oluyor. Bu branşlar, robotik teknolojisinin sadece endüstriyel alanlarda değil, aynı zamanda dinamik ve hareketli ortamlarda da ne kadar ileri bir seviyeye ulaştığını gözler önüne seriyor.\n\nBeş gün boyunca devam edecek olan bu devasa etkinlik, mühendislerin, araştırmacıların ve teknoloji meraklılarının buluşma noktası haline gelmiş durumda. Pekin'deki tesiste yarışan insansı makineler, sadece kendi aralarında yarışmakla kalmıyor, aynı zamanda geleceğin otomasyon ve yapay zeka entegrasyonu hakkında da çok önemli veriler sunuyor. Birçok farklı ülkeden gelen takımlar, robotlarının algoritmalarını, sensör kapasitelerini ve motor becerilerini bu zorlu parkurlarda test etme fırsatı buluyor.\n\nOyunların ikincisi olarak düzenlenen bu organizasyon, ilk edisyondan bu yana robot teknolojisindeki hızlı ilerlemeyi de net bir şekilde ortaya koyuyor. Özellikle denge sağlama, hızlı karar verme ve ani fiziksel müdahalelere tepki verme konularında makinelerin kat ettiği mesafe, uzmanlar tarafından yakından takip ediliyor. Pekin ev sahipliğinde gerçekleşen bu beş günlük rekabet maratonu, insansı robotların gelecekte günlük yaşamın ve farklı sektörlerin bir parçası olup olamayacağına dair önemli ipuçları barındırıyor.\n\nCumartesi günü verilen başlangıç düdüğüyle birlikte tüm gözler Pekin'e çevrilirken, önümüzdeki günlerde yapılacak final müsabakaları ve madalya yarışmaları büyük bir heyecanla bekleniyor. Dünya İnsansı Robot Oyunları, teknoloji ile sporun kesiştiği noktada insanlığın mühendislik harikası eserlerini sergilediği eşsiz bir küresel platform olmaya devam ediyor.",
+      "highlights": [
+        "Dünya İnsansı Robot Oyunları'nın ikinci edisyonu Pekin'de başladı.",
+        "Beş gün sürecek organizasyonda robotlar boks, futbol ve koşuda yarışıyor.",
+        "Çin'deki etkinlik, robotik teknolojisindeki son gelişmeleri gözler önüne seriyor."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T09:42:05.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.haberturk.com/kuytulcu-oldugu-one-surulen-iki-kisi-yol-kesip-otomobil-durdurdu-3907495",
+      "headline": "Alparslan Kuytul yanlısı olduğu öne sürülen kişilerden Fırat Avcı'ya yol kesme girişimi",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1453838956707-38a7aa3cd62d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c3RyZWV0JTIwZGlzY3Vzc2lvbnxlbnwxfDB8fHwxNzg3NDc5MDIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anna Vander Stel",
+        "photographerUrl": "https://unsplash.com/@ann_van_",
+        "unsplashUrl": "https://unsplash.com/photos/two-men-talking-while-sitting-on-bench-zimQNLdnKp0"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Türkiye genelinde ve dijital mecralarda gündem yaratan gelişmelerin ardından, sosyal medya platformlarında Alparslan Kuytul ile bu yapının faaliyetlerine yönelik eleştirel veya bilgilendirici yayınlar gerçekleştiren Fırat Avcı, yakın zamanda Adana kentine bir ziyaret gerçekleştirdi. Gerçekleşen bu seyahatin hemen ardından, yerel dinamikler ve sosyal medya paylaşımları üzerinden tırmanan gerginlik sokağa yansıdı ve Fırat Avcı'nın seyahat rotası üzerinde dikkat çekici bir olay yaşandı.\n\nElde edilen resmi ve güvenilir bilgilere göre, Fırat Avcı'nın Adana'ya adım atmasının ve kentteki temaslarının başlamasının ardından, kamuoyunda \"Kuytulcu\" olarak anılan grupla ilişkili olduğu iddia edilen iki şahıs harekete geçti. Söz konusu iki kişi, Fırat Avcı'nın içinde bulunduğu veya hareket halinde olduğu güzergahı takip ederek yolunu kesti. Bu ani ve beklenmeyen müdahale, kentteki taraflar arasındaki huzursuzluğu ve gerilimi doruk noktasına çıkardı.\n\nYaşanan yol kesme olayının hemen akabinde, taraflar arasında sözlü bir münakaşa ve şiddetli tartışma patlak verdi. Sosyal medyadaki fikir ayrılıkları ve dijital yayınlar üzerinden yürütülen tartışmaların fiziksel kamusal alana taşınmasıyla birlikte, taraflar karşılıklı olarak birbirlerine tepki gösterdi. Adana sokaklarında aniden yükselen tansiyon, çevredeki vatandaşların ve olayla ilgili kişilerin dikkatini çekerken, durumun büyümemesi için çevredekiler endişeyle süreci takip etti.\n\nBilindiği üzere Alparslan Kuytul ve yapılanması, uzun süredir Türkiye'nin farklı bölgelerindeki etkinlikleri, açıklamaları ve sosyal medyadaki yansımalarıyla sık sık kamuoyunun ve haber bültenlerinin odak noktasında yer alıyor. Bu yapılanma hakkında eleştirel içerikler üreten Fırat Avcı gibi isimlerin hedef alınması veya bu tür gerginliklerin yaşanması, dijital medyadaki kutuplaşmaların ve fikir çatışmalarının sokaktaki yansımalarını gözler önüne seren önemli bir toplumsal olgu olarak değerlendiriliyor.\n\nAdana'da meydana gelen bu gergin buluşma ve sonrasındaki tartışma, her iki tarafın da savunduğu görüşler ile sosyal medyadaki kamplaşmanın ne denli hassas bir denge üzerine kurulduğunu bir kez daha kanıtladı. Güvenlik birimlerinin ve ilgili otoritelerin yakından takip ettiği bu tür olaylar, internet ortamındaki ifade özgürlüğü ile sokaktaki fiziki güvenlik arasındaki ince çizgiyi sorgulatan gelişmeler arasında yer alıyor.\n\nOlayın ardından tarafların sakinleşmesi ve herhangi bir fiziki şiddet boyutuna evrilmeden durumun yatıştırılması beklenirken, Fırat Avcı'nın Adana ziyaretine ve sonrasında yaşanan bu yol kesme hadisesine dair gelişmeler kamuoyu tarafından yakından izlenmeye devam ediyor. Sosyal medya mecralarında geniş yankı uyandıran bu tatsız olay, dijital dünyadaki ihtilafların gerçek hayattaki olası risklerini bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Sosyal medyada Kuytul yayınları yapan Fırat Avcı Adana'ya geldi.",
+        "Kuytulcu olduğu öne sürülen iki kişi Avcı'nın yolunu kesti.",
+        "İki taraf arasında sokak ortasında sözlü tartışma çıktı."
+      ],
+      "externalUrl": "https://www.haberturk.com/kuytulcu-oldugu-one-surulen-iki-kisi-yol-kesip-otomobil-durdurdu-3907495",
+      "publishedAt": "2026-08-23T09:37:46.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.cnnturk.com/spor/futbol/20-milyon-euroyu-getir-torreirayi-al-3457758",
       "headline": "Galatasaray'dan Lucas Torreira için 20 milyon euro bonservis beklentisi",
       "source": "CNN Türk",
@@ -136,6 +297,52 @@
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/20-milyon-euroyu-getir-torreirayi-al-3457758",
       "publishedAt": "2026-08-23T09:36:10.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.sabah.com.tr/gundem/2026/08/23/chpde-kritik-gun-myk-ve-pm-pes-pese-toplanacak",
+      "headline": "Chp'de kritik gün: Myk ve pm peş peşe toplanacak",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1668706971199-37e30a4e6298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saXRpY2FsJTIwbWVldGluZ3xlbnwxfDB8fHwxNzg3NDUyNzMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jon Tyson",
+        "photographerUrl": "https://unsplash.com/@jontyson",
+        "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-wall-A8BWoNvljVA"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "Cumhuriyet Halk Partisi (CHP) genel merkezinde bugün son derece yoğun ve kritik bir mesai günü yaşanacak. Siyasi kulislerin yakından takip ettiği bu süreçte, partinin en üst karar ve yönetim organları olan Merkez Yönetim Kurulu (MYK) ile Parti Meclisi (PM) üst üste gerçekleştirilecek toplantılarla bir araya gelecek. Gerçekleştirilecek olan bu kapsamlı oturumlara, CHP Genel Başkanı Kemal Kılıçdaroğlu'nun doğrudan başkanlık edeceği bildirildi. Ankara'daki parti genel merkezinde yapılacak olan mesai, gün boyu siyasetin ana gündem maddesini oluşturacak.\n\nSiyasi partilerin karar alma mekanizmalarında kritik bir öneme sahip olan bu tür üst düzey toplantılar, hem parti içi dengelerin değerlendirilmesi hem de ülkenin güncel meselelerine ilişkin politikaların şekillendirilmesi açısından büyük bir rol oynamaktadır. CHP MYK ve PM üyelerinin katılımıyla düzenlenecek oturumlarda, son dönemde yaşanan gelişmelerin etraflıca masaya yatırılması bekleniyor. Kemal Kılıçdaroğlu'nun liderliğinde toplanacak olan kurulların, partinin önümüzdeki döneme yönelik stratejilerini ve izleyeceği yolu netleştirmesi öngörülüyor.\n\nToplantının en dikkat çeken yönlerinden biri de parti içindeki açıklamalar ve yansımaları oldu. Konuya dair basın mensuplarına ve kamuoyuna yansıyan değerlendirmeler arasında, CHP İstanbul İl Başkanı Gürsel Tekin’in sözleri de geniş yankı buldu. Gürsel Tekin’in yaptığı açıklamalarda, genel başkanın tutumuna ve sürecin seyrine dair ifadeler yer aldı. Bilindiği üzere, yerel teşkilatların ve özellikle İstanbul gibi büyük bir metropolün il başkanlığının bu tür süreçlerdeki duruşu, genel merkezin atacağı adımlar bakımından her zaman ayrı bir önem taşımaktadır.\n\nGenel merkez binasında sabah saatlerinden itibaren hareketliliğin artması beklenirken, kurul üyelerinin toplantı gündemine ilişkin hazırlıklarını tamamladığı öğrenildi. Partinin yetkili organlarının alacağı kararların, sadece CHP örgütleri tarafından değil, aynı zamanda tüm kamuoyu ve siyasi gözlemciler tarafından yakından takip edildiği biliniyor. Özellikle yaklaşan siyasi takvim ve partinin iç dinamikleri göz önüne alındığında, bu peş peşe yapılacak toplantılardan çıkacak sonuçların önemi bir kat daha artmaktadır.\n\nToplantıların ardından parti sözcülüğü veya yetkili isimler tarafından kamuoyuna bilgilendirme yapılması beklenirken, kulislerde konuşulan başlıkların resmiyet kazanıp kazanmayacağı merak konusu. Kemal Kılıçdaroğlu'nun başkanlık edeceği bu kritik maraton, CHP'nin önümüzdeki günlerdeki siyasi söylemini ve eylem planını doğrudan etkileyecek temel unsurlar arasında yer alıyor. Hem MYK hem de PM oturumlarının tamamlanmasının ardından, alınan kararların detaylarının netleşmesi bekleniyor.",
+      "highlights": [
+        "CHP Merkez Yönetim Kurulu ve Parti Meclisi peş peşe toplanıyor.",
+        "Toplantılara Genel Başkan Kemal Kılıçdaroğlu başkanlık edecek.",
+        "CHP İstanbul İl Başkanı Gürsel Tekin de süreçle ilgili açıklamalarda bulundu."
+      ],
+      "externalUrl": "https://www.sabah.com.tr/gundem/2026/08/23/chpde-kritik-gun-myk-ve-pm-pes-pese-toplanacak",
+      "publishedAt": "2026-08-23T09:31:43.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-acun-ilicali-ve-loca-aciklamasi-43282385",
+      "headline": "Fenerbahçe'den Acun Ilıcalı ve loca açıklaması",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MzIxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Krzysztof Dubiel",
+        "photographerUrl": "https://unsplash.com/@kris1902",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-game-in-stadium-hQBIJsBtyBw"
+      },
+      "timeAgo": "33 dk önce",
+      "body": "Spor dünyasında ve kulislerde son zamanlarda sıklıkla konuşulan bazı iddialar ve gelişmeler üzerine, Süper Lig'in köklü kulüplerinden Fenerbahçe tarafından resmi bir adım atıldı. Kulüp, kamuoyunda merakla takip edilen ve çeşitli spekülasyonlara konu olan Acun Ilıcalı'nın locasıyla ilgili tartışmalara son noktayı koymak adına kurumsal iletişim kanalları üzerinden net bir bilgilendirmede bulundu.\n\nSöz konusu gelişmelerin ardından sarı-lacivertli kulübün yetkili isimleri, taraftarların ve spor kamuoyunun doğru bilgilendirilmesi amacıyla resmi yayın organını devreye soktu. Yapılan bu resmi duyuru, kulübün şeffaflık politikası çerçevesinde, son günlerde artan bilgi kirliliğini önlemek ve gerçeğe dayanmayan iddiaların önüne geçmek için kritik bir hamle olarak değerlendirildi.\n\nFenerbahçe gibi milyonlarca taraftarı bulunan büyük spor kulüplerinde, yönetim ile kulübe destek veren önde gelen isimler arasındaki ilişkiler her zaman kamuoyunun yakın markajında yer almaktadır. Acun Ilıcalı gibi kamuoyunun yakından tanıdığı isimlerin kulüp tesislerindeki stat localarıyla olan ilişkileri de bu bağlamda sıklıkla gündeme gelmekte ve çeşitli yorumlara kapı aralamaktadır.\n\nKulüp tarafından yapılan bu resmi açıklama, sadece ilgili kişiyi değil, aynı zamanda kulübün idari işleyişini yakından takip eden tüm futbolseverleri ilgilendiren bir nitelik taşıyor. Profesyonel futbol endüstrisinde bu tür kurumsal açıklamalar, kulüplerin resmi duruşunu yansıtması açısından büyük bir önem arz etmekte ve spekülasyonların büyümesini engellemektedir.\n\nYaşanan bu son gelişmelerin ardından Fenerbahçe camiası, kulübün resmi iletişim kanallarından yapılan bu açıklamalara odaklanmış durumda. Hem yazılı hem de görsel medyada geniş yankı uyandıran bu konu, kulübün gelecekteki idari süreçleri ve stadyum içi organizasyonları açısından da yakından izlenmeye devam ediyor.",
+      "highlights": [
+        "Fenerbahçe kulübü, Acun Ilıcalı'nın locasıyla ilgili resmi bir açıklama yaptı.",
+        "Açıklama, kulübün kurumsal yayın organı aracılığıyla kamuoyuyla paylaşıldı.",
+        "Yapılan duyuru ile konu hakkındaki iddialara ve spekülasyonlara yanıt verildi."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/sporarena/fenerbahceden-acun-ilicali-ve-loca-aciklamasi-43282385",
+      "publishedAt": "2026-08-23T09:24:38.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -161,6 +368,29 @@
       "publishedAt": "2026-08-23T09:22:09.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
+      "headline": "Japonya'nın doğusunda meydana gelen 5.9 büyüklüğündeki depremde 37 kişi yaralandı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1617585411149-54e9fdf60348?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGFtYWdlZCUyMGJ1aWxkaW5nJTIwZWFydGhxdWFrZXxlbnwxfDB8fHwxNzg3NDc5MDMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carl Campbell",
+        "photographerUrl": "https://unsplash.com/@carlbcampbell",
+        "unsplashUrl": "https://unsplash.com/photos/gray-concrete-building-during-daytime-D4PJKYGH2qY"
+      },
+      "timeAgo": "36 dk önce",
+      "body": "Uzak Doğu'nun sismik açıdan en hareketli bölgelerinden biri olan Japonya'da, ülkenin doğu kesimlerinde sarsıcı bir doğal afet yaşandı. Meydana gelen sarsıntı, bölge halkı arasında büyük bir paniğe neden olurken, ilk belirlemelere göre çok sayıda vatandaşın çeşitli derecelerde yaralandığı bildirildi. Yetkililer tarafından paylaşılan resmi verilere göre, büyüklüğü 5.9 olarak ölçülen deprem sonucunda toplam 37 kişi yaralandı. Yaşanan bu sarsıntı, Japonya'nın yapısal olarak depremlere dayanıklı altyapısına rağmen, sarsıntının şiddeti ve hissedildiği alanın genişliği nedeniyle vatandaşların güvenliğini tehlikeye attı.\n\nDepremin merkez üssü ve çevresindeki yerleşim birimlerinde yaşayan insanlar, sarsıntının başlamasıyla birlikte evlerini ve iş yerlerini terk ederek güvenli alanlara ve sokaklara çıktı. Bölgeden gelen ilk haberler, sarsıntının sokağa dökülen kalabalıklar arasında kısa süreli bir şoka yol açtığını gösteriyor. Yetkili birimler ve acil durum ekipleri, olay yerlerinde ve hastanelerde gerekli müdahaleleri yapmak üzere hızla harekete geçti. Yaralanan 37 kişinin durumlarının tespiti ve tedavileri için sağlık kuruluşlarında çalışmalar aralıksız sürdürülürken, hasar tespitiyle ilgili incelemeler de titizlikle yürütülüyor.\n\nJaponya genelinde sıkça karşılaşılan tektonik hareketlilikler, ülkenin hem günlük yaşamını hem de kriz yönetimi kapasitesini sürekli olarak test ediyor. Benzer sarsıntılar, ülkenin yapı stoğunun ne denli önemli olduğunu bir kez daha gözler önüne seriyor. Deprem kuşağında yer alan ülkede, bu tür doğa olayları son derece alışıldık olmakla birlikte, her seferinde can ve mal güvenliğini sağlamak adına devletin tüm kurumları alarm durumuna geçiyor. Doğu Japonya'da kaydedilen bu son 5.9 büyüklüğündeki olay da acil durum protokollerinin derhal devreye sokulmasını zorunlu kıldı.\n\nYaşanan sarsıntının ardından arama-kurtarma ve hasar tespit çalışmaları koordineli bir şekilde devam ediyor. Yerel makamlar, halkı artçı sarsıntılara karşı dikkatli olmaları konusunda uyarırken, uzmanlar ise bölgedeki tektonik hareketliliği yakından takip etmeyi sürdürüyor. 37 kişinin yaralanmasıyla sonuçlanan bu doğa olayı, bölgedeki sismik riskin boyutlarını bir kez daha hatırlatırken, yetkililerden gelecek yeni resmi açıklamalar bekleniyor.",
+      "highlights": [
+        "Japonya'nın doğusunda 5.9 büyüklüğünde deprem meydana geldi.",
+        "Sarsıntı sonucunda toplam 37 kişi yaralandı.",
+        "Bölgede arama-kurtarma ve hasar tespit çalışmaları sürüyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/37-injured-as-magnitude-5-9-earthquake-strikes-eastern-japan?traffic_source=rss",
+      "publishedAt": "2026-08-23T09:21:12.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.aa.com.tr/tr/spor/fenerbahceden-kerem-akturkoglunun-saglik-durumuna-iliskin-aciklama/4035013",
@@ -6661,236 +6891,6 @@
         "Galatasaray, Rus orta saha oyuncusu Aleksei Batrakov'u kadrosuna kattı.",
         "Futbolcu kariyerine Lokomotiv Moskova altyapısında başlayıp A takıma yükseldi.",
         "Yönetim, Batrakov'un orta sahaya dinamizm katacağına inanıyor."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/son-dakika-turkiye-ve-10-ulkeden-suriyedeki-saldirilara-kinama-3457441",
-      "headline": "Türkiye ve 10 ülkeden Suriye'deki saldırılara sert kınama",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1482751838270-bb82af1c88c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YWlyJTIwYmFzZXxlbnwxfDB8fHwxNzg3MzI0MjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hans Dorries",
-        "photographerUrl": "https://unsplash.com/@hdorries",
-        "unsplashUrl": "https://unsplash.com/photos/four-white-jet-planes-flying-during-daytime-fsEgvr_Pm-Y"
-      },
-      "timeAgo": "şimdi",
-      "body": "Orta Doğu coğrafyasında son dönemde yaşanan gelişmeler diplomatik arenada yankı bulmaya devam ederken, Türkiye ve 10 farklı ülke İsrail tarafından Suriye'nin kuzeybatısındaki stratejik bir noktaya düzenlenen askeri operasyonlara karşı ortak bir tutum sergiledi. Yaşanan bu gelişmeler, bölgede halihazırda hassas olan dengelerin korunması ve uluslararası hukukun işletilmesi konusundaki tartışmaları yeniden alevlendirdi. Ankara yönetimi başta olmak üzere, uluslararası toplumun çeşitli kesimleri bölgeden gelen son haberleri yakından takip ederken, atılan diplomatik adımlar ve yayımlanan kınama mesajları kamuoyunun dikkatini çekti.\n\nGerçekleşen diplomatik tepkinin odağında, İsrail güçlerinin Suriye'nin kuzeybatı bölgesinde konuşlu bulunan ve kritik bir konuma sahip olan Ebu Zuhur Askeri Hava Üssü'ne yönelik gerçekleştirdiği hava saldırıları yer aldı. Söz konusu askeri tesis, bölgedeki askeri hareketlilik açısından önem arz eden yerler arasında bulunuyor. Yapılan resmi değerlendirmelerde, bu tesisin hedef alınmasının sadece askeri bir hamle olmadıklarını, aynı zamanda daha geniş çaplı bölgesel sonuçlar doğurabilecek nitelik taşıdığına dikkat çekildi. Türkiye Cumhuriyeti makamları, söz konusu hava saldırılarını en sert şekilde kınadığını açık bir dille kamuoyuna duyurdu.\n\nAnkara tarafından yapılan değerlendirmelerde, gerçekleştirilen bu askeri operasyonun uluslararası hukukun temel prensiplerine açıkça aykırılık teşkil ettiği vurgulandı. Türkiye, bu tür sınır ötesi müdahalelerin bölgedeki mevcut istikrarı ve güvenliği doğrudan tehdit ettiğinin altını çizdi. Dış politika ve uluslararası ilişkiler uzmanları, bu tür askeri hamlelerin halihazırda krizlerle boğuşan bölgede yeni bir gerilim dalgası yaratma potansiyeli taşıdığına işaret ediyor. Türkiye'nin bu konudaki tutumu, bölge ülkelerinin haklarının ve sınır güvenliğinin korunması gerekliliğini bir kez daha ön plana çıkardı.\n\nSadece Türkiye'nin değil, aynı zamanda uluslararası arenadan 10 farklı ülkenin de katılımıyla yayımlanan ortak açıklama, diplomatik tepkinin boyutunu genişletti. Bu on ülke, Türkiye ile aynı çizgiyi paylaşarak İsrail'in Ebu Zuhur Askeri Hava Üssü'ne yönelik eylemlerini kınayan ortak bir metne imza attı. Ortak bildiride yer alan tespitlere göre, bu tür operasyonlar bölgede yaşayan sivillerin can güvenliğini doğrudan riske atıyor. Ayrıca söz konusu saldırıların, bölgede kalıcı barışın tesis edilmesi için yürütülen uluslararası çabalara ve diplomatik süreçlere de ciddi zararlar verdiği ifade edildi.\n\nOrtak açıklamayı imzalayan devletler, yaşanan bu gelişmeler karşısında uluslararası toplumun sessiz kalmaması gerektiğinin altını çizdi. Metinde, bu tür askeri eylemlerin ve ihlallerin tekrarlanmasının önlenmesi amacıyla küresel aktörlerin ve uluslararası kuruluşların ortak ve eş güdümlü bir şekilde hareket etmesinin şart olduğu vurgulandı. Diplomatik gözlemciler, on ülkenin Türkiye ile birlikte hareket etmesinin, İsrail'in bölgesel politikalarına karşı oluşturulan ortak cephenin diplomatik ağırlığını artırdığını belirtiyor.\n\nİsrail'in Ebu Zuhur Hava Üssü'ne düzenlediği bu son operasyon, Suriye coğrafyasında varlık gösteren veya bölgedeki gelişmeleri yakından izleyen diğer uluslararası ve bölgesel aktörlerin de tepkisini tetikledi. Bölgedeki askeri hareketliliğin tırmanışa geçmesi, diplomatik kanalların ve uyarıların önemini bir kat daha artırdı. Türkiye ve on ülkenin imzasını taşıyan bu ortak kınama mesajı, tırmanan gerilim ortamında taraflara yapılmış güçlü ve net bir diplomatik uyarı niteliği taşıyor. Önümüzdeki günlerde bu diplomatik baskının sahaya ve uluslararası platformlardaki tartışmalara nasıl yansıyacağı merakla bekleniyor.",
-      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-turkiye-ve-10-ulkeden-suriyedeki-saldirilara-kinama-3457441",
-      "publishedAt": "2026-08-21T17:39:59.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Türkiye, İsrail'in Ebu Zuhur Askeri Hava Üssü'ne yönelik saldırılarını kınadı.",
-        "Ankara, gerçekleştirilen hava operasyonunun uluslararası hukuka aykırı olduğunu belirtti.",
-        "10 ülke ortak açıklamayla saldırıların sivilleri riske attığını ve barışı zedelediğini vurguladı."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/transfer-elias-jelert-galatasaraydan-fransaya-kiralandi-3457444",
-      "headline": "Elias Jelert Galatasaray'dan Fransa'ya kiralandı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1508087625439-de3978963553?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBwbGF5ZXJ8ZW58MXwwfHx8MTc4NzMyNDI3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Edoardo Busti",
-        "photographerUrl": "https://unsplash.com/@phoedobus",
-        "unsplashUrl": "https://unsplash.com/photos/man-kicking-soccer-ball-on-field-2QwMsZ1TIdI"
-      },
-      "timeAgo": "şimdi",
-      "body": "Süper Lig'in köklü ekiplerinden Galatasaray, kadrosunda yapılanma çalışmaları kapsamında dikkat çeken bir hamleye imza attı. Kulüp tarafından yapılan resmi açıklamaya göre, sarı-kırmızılı takımın genç futbolcusu Elias Jelert, sezon sonuna kadar geçerli olmak üzere Fransa'dan bir kulübe kiralandı. Yaşanan bu gelişmeyle birlikte, sarı-kırmızılı forma altında bugüne kadar ter döken 23 yaşındaki sağ bek oyuncusu, kariyerinde yeni bir sayfa açarak Fransa futbolunun rekabetçi atmosferinde boy göstermeye hazırlanıyor. Bu hamle, genç yeteneğin yurt dışında tecrübe kazanması adına önemli bir adım olarak değerlendiriliyor.\n\nGalatasaray'da geçirdiği süre zarfında ortaya koyduğu performansla dikkatleri üzerine çeken Elias Jelert, sezonun geri kalan bölümünde Fransa liginde ter dökecek. Futbol dünyasında kulüplerin, genç yeteneklerin gelişimini desteklemek amacıyla sıklıkla tercih ettiği kiralık formülü bu kez Jelert için hayata geçirildi. Oyuncunun yeni adresine en kısa sürede uyum sağlaması ve bu süreçte süre alarak maç tecrübesini artırması bekleniyor. Sarı-kırmızılı camiada, genç futbolcunun bu geçici transfer dönemini en verimli şekilde değerlendireceği ve gelecekte takıma daha güçlü bir şekilde döneceği yönünde beklentiler bulunuyor.\n\nÖte yandan, gerçekleştirilen bu transfer operasyonunun ardından futbol kamuoyunda merak edilen bazı detaylar da kafaları meşgul ediyor. Kulüp cephesinden yapılan bilgilendirmelere göre, Elias Jelert'in kiralanması konusunda anlaşmaya varılan Fransa kulübünün adı henüz resmi olarak kamuoyuyla paylaşılmadı. Aynı şekilde, transferin mali detayları veya olası satın alma opsiyonu gibi sözleşme şartlarına dair ayrıntılar da şu aşamada gizliliğini koruyor. Tarafların ilerleyen günlerde bu konularla ilgili daha kapsamlı açıklamalar yapması ve oyuncunun yeni kulübüyle resmi sözleşme imza süreçlerini tamamlayarak sahaya inmesi bekleniyor.\n\nGenç sağ bek oyuncusunun bu hamlesi, hem kendi kariyer gelişimi hem de Galatasaray'ın kadro planlaması açısından stratejik bir hamle olma özelliği taşıyor. Futbolcuların kariyer basamaklarını tırmanırken farklı ülkelerin oyun stillerini ve kültürlerini tanımaları, modern futbolun vazgeçilmez unsurları arasında yer alıyor. Bu kapsamda Fransa'da edineceği deneyimin, Elias Jelert'in oyun kalitesine ve sahadaki olgunluğuna doğrudan katkı sağlaması öngörülüyor. Galatasaray teknik heyeti ve yönetimi de oyuncunun bu süreçteki gelişimini yakından takip ederek, sezon sonunda takıma döneceği dönemin hazırlıklarını şimdiden yapıyor.\n\nTürk futbolunda ve özellikle sarı-kırmızılı kulüpte yabancı oyuncu kontenjanı ile genç yeteneklerin değerlendirilmesi dengesi her dönem büyük bir önem arz ediyor. Jelert'in Fransa macerası, kulübün oyuncu yetiştirme ve geliştirme stratejisinin de bir parçasını oluşturuyor. Futbolseverler ve kulüp taraftarları, 23 yaşındaki sağ bekin yeni takımındaki ilk maçlarına ne zaman çıkacağını ve performansıyla nasıl bir grafik çizeceğini büyük bir merakla bekliyor. Sürecin tüm detaylarının önümüzdeki günlerde netleşmesiyle birlikte, genç futbolcunun yeni takımındaki resmi tanıtımının da yapılması bekleniyor.",
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/transfer-elias-jelert-galatasaraydan-fransaya-kiralandi-3457444",
-      "publishedAt": "2026-08-21T17:36:15.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Galatasaray'ın 23 yaşındaki sağ bek oyuncusu Elias Jelert kiralandı.",
-        "Genç futbolcu kariyerine sezon sonuna kadar Fransa'da devam edecek.",
-        "Transferin detayları ve kulüp adı henüz resmi olarak açıklanmadı."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/yerel-haberler/corum/corumda-bicakli-kavgada-agir-yaralanan-70-yasindaki-kisi-oldu-3457449",
-      "headline": "Çorum'da bıçaklı kavgada ağır yaralanan 70 yaşındaki kişi hayatını kaybetti",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1574906328425-c7a4cb49bfa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8a25pZmV8ZW58MXwwfHx8MTc4NzMyNDI4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Richard Iwaki",
-        "photographerUrl": "https://unsplash.com/@roppongi",
-        "unsplashUrl": "https://unsplash.com/photos/gray-stainless-steel-knife-RM_z7uXAes0"
-      },
-      "timeAgo": "şimdi",
-      "body": "Çorum kent merkezinde yaşanan şiddetli bir olay, yerel halk arasında büyük bir endişe ve üzüntüye neden oldu. Edinilen bilgilere göre, henüz belirlenemeyen bir nedenle çıkan bıçaklı kavgada taraflar arasında tansiyon kısa sürede yükseldi. Söz konusu tartışmanın kavgaya dönüşmesi üzerine, olay yerinde bulunan 70 yaşındaki bir vatandaş ağır bir şekilde yaralandı. Yaşanan bu elim durum, bölgede bulunan vatandaşların ihbarı üzerine hızla harekete geçen acil durum ekiplerinin dikkatini çekti.\n\nİhbarın ardından olay yerine çok sayıda sağlık ve polis ekibi sevk edildi. Kısa süre içinde adrese ulaşan sağlık görevlileri, yerde ağır yaralı olarak yatan 70 yaşındaki şahsa ilk müdahaleyi olay yerinde gerçekleştirdi. Sağlık ekiplerinin olay yerindeki yoğun ve titiz çabalarına rağmen, yaşlı adamın durumunun ciddiyetini koruduğu belirtildi. İlk müdahalenin ardından hızla hastaneye nakledilen yaralı vatandaş, doktorların tüm tıbbi müdahalelerine rağmen kurtarılamayarak yaşamını yitirdi. Bu acı olay, hastane çevresinde ve hayatını kaybeden şahsın yakınları arasında derin bir yasa yol açtı.\n\nOlayın ardından Çorum emniyet birimleri, geniş çaplı bir soruşturma başlattı. Güvenlik güçleri, bıçaklı kavganın çıkış nedenini aydınlatmak ve olayın sorumlularını bir an önce yakalamak için delil toplama çalışmalarını sürdürüyor. Şehrin huzur ve güvenliğini sağlamakla görevli olan yetkililer, kavgaya karışan kişi ya da kişilerin kimliklerinin tespiti ve adalete teslim edilmesi amacıyla titiz bir inceleme yürütüyor. Toplumsal yaşamda bu tür şiddet olaylarının önlenmesine yönelik güvenlik önlemlerinin ve denetimlerin önemi bir kez daha gözler önüne serilirken, soruşturmanın tüm yönleriyle devam ettiği bildirildi.",
-      "externalUrl": "https://www.cnnturk.com/yerel-haberler/corum/corumda-bicakli-kavgada-agir-yaralanan-70-yasindaki-kisi-oldu-3457449",
-      "publishedAt": "2026-08-21T17:25:05.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Çorum'da çıkan bıçaklı kavgada 70 yaşındaki bir kişi ağır yaralandı.",
-        "Sağlık ekiplerinin müdahalesine rağmen hastanede kurtarılamadı.",
-        "Olayın nedeni ve sorumluları için soruşturma başlatıldı."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/yerel-haberler/mugla/fethiyede-ari-icme-suyu-noktalari-bakimdan-gecirildi-3457464",
-      "headline": "Fethiye’de arı içme suyu noktaları bakımdan geçirildi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1592103634714-c738838b03c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8d2F0ZXIlMjBmb3VudGFpbnxlbnwxfDB8fHwxNzg3MzMwOTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel Hooper 🌊",
-        "photographerUrl": "https://unsplash.com/@dantakesphotos",
-        "unsplashUrl": "https://unsplash.com/photos/silver-faucet-with-water-droplets-vpl1J43zRWk"
-      },
-      "timeAgo": "şimdi",
-      "body": "Muğla'nın turistik ilçelerinden biri olan Fethiye'de, yerel halkın ve bölgeyi ziyaret eden misafirlerin günlük yaşamda sıklıkla kullandığı kamusal alanlardaki altyapı unsurlarına yönelik çalışmalar aralıksız bir şekilde sürdürülüyor. Bu kapsamda, Fethiye Belediyesi tarafından gerçekleştirilen son operasyonda, ilçede bulunan ve halk arasında \"Arı\" adıyla bilinen içme suyu noktaları detaylı bir bakım ve temizlik sürecinden geçirildi.\n\nGünlük yaşamın akışında önemli bir yere sahip olan bu su kaynaklarının hijyenik koşullara tam uygunluk sağlaması amacıyla belediye bünyesinde görev yapan saha ekipleri kapsamlı bir mesai yürüttü. Gerçekleştirilen bu saha çalışmaları sırasında, söz konusu içme suyu noktalarının tamamı titizlikle kontrol edildi ve muhtemel aksaklıkların önüne geçmek adına gerekli müdahalelerde bulunuldu.\n\nKontrol süreçlerinin ardından, suyun kalitesini ve güvenliğini korumak amacıyla detaylı temizlik ve dezenfeksiyon işlemleri icra edildi. Gerçekleştirilen bu teknik ve hijyenik müdahaleler sayesinde, bölge sakinlerinin ve ziyaretçilerin bu noktalardan tamamen güvenli bir şekilde içme suyu temin etmesi hedeflendi ve sunulan hizmetin genel kalitesi bir üst seviyeye taşındı.\n\nKonuya ilişkin olarak belediye yetkilileri tarafından yapılan açıklamalarda, halk sağlığının korunmasının en temel öncelikler arasında yer aldığına dikkat çekildi. Yetkililer, benzer denetim, bakım ve onarım faaliyetlerinin önümüzdeki dönemde de periyodik olarak devam edeceğini, bu sayede kamusal su kaynaklarının her zaman en iyi koşullarda halkın kullanımına sunulmasının amaçlandığını vurguladı.",
-      "externalUrl": "https://www.cnnturk.com/yerel-haberler/mugla/fethiyede-ari-icme-suyu-noktalari-bakimdan-gecirildi-3457464",
-      "publishedAt": "2026-08-21T17:24:53.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Fethiye Belediyesi Arı içme suyu noktalarının bakımını tamamladı.",
-        "Ekipler hijyen ve dezenfeksiyon işlemlerini titizlikle yürüttü.",
-        "Halk sağlığını korumak için denetimlerin süreceği açıklandı."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/yerel-haberler/elazig/karakocan-geven-balinin-hasadi-1900-rakimli-yaylada-yapildi-3457465",
-      "headline": "Karakoçan'da 1900 rakımlı yaylada geven balı hasadı gerçekleştirildi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1697394755192-c86bb8236e5c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bW91bnRhaW4lMjBob25leXxlbnwxfDB8fHwxNzg3MzI4MjAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Luca J",
-        "photographerUrl": "https://unsplash.com/@lucajns",
-        "unsplashUrl": "https://unsplash.com/photos/a-river-running-through-a-lush-green-hillside-C-bAbTd62ps"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye'nin önemli tarım ve üretim merkezlerinden biri olan Karakoçan bölgesinde, merakla beklenen geven balı hasadı dönemi başarıyla tamamlandı. Arıcılık faaliyetlerinin yoğun olarak yürütüldüğü bölgede, bu yılki hasat çalışması deniz seviyesinden bin dokuz yüz metre yükseklikte yer alan sarp yaylalarda yapıldı. Doğal coğrafi yapısı ve zengin bitki örtüsüyle bilinen bu yüksek rakımlı alanlar, yerel arıcıların sezon boyunca gösterdiği titiz ve yoğun çalışmaların merkezi haline geldi.\n\nGerçekleştirilen bu hasat süreci, bölge ekonomisi ve tarımsal çeşitlilik açısından büyük bir dikkatle takip ediliyor. Uzmanların ve üreticilerin değerlendirmelerine göre, söz konusu yaylaların sahip olduğu yüksek rakım, üretilen balın kendine has aromatik özellikler kazanmasında doğrudan etkili oluyor. Doğal koşulların elverişliliği sayesinde arıların zengin çiçek kaynaklarına rahatlıkla ulaşabildiği bu coğrafya, Karakoçan genelinde bal üretiminin en verimli ve kaliteli şekilde gerçekleştirildiği alanların başında geliyor.\n\nBölgedeki arıcılar, yılın belirli dönemlerinde zorlu coğrafi şartlara rağmen büyük bir özveriyle arıcılık faaliyetlerini sürdürüyor. Bin dokuz yüz rakımlı yaylalarda elde edilen geven balı, hem geleneksel üretim yöntemlerinin yaşatılması hem de coğrafi işaret potansiyeli taşıyan yerel ürünlerin tanıtılması adına ayrı bir önem taşıyor. Yüksek rakımda toplanan bu özel bal türü, kalite standartları ve yöresel tarımsal faaliyetlerin çeşitliliği bağlamında bölgenin en değerli tarımsal çıktıları arasında yerini alıyor.\n\nKarakoçan'ın doğal flora zenginliği, arıcılık sektörünün bu bölgede gelişmesine zemin hazırlayan temel unsurlar arasında bulunuyor. Arıların doğal ortamlarında beslenmesi ve insan müdahalesinden uzak alanlarda çiçek nektarı toplaması, elde edilen balın saf ve nitelikli yapısını korumasını sağlıyor. Üreticilerin sezon boyunca gösterdiği gayret, bu yıl da yüksek rakımlı yaylalardan nitelikli bir ürün alınmasını beraberinde getirdi.\n\nTarım ve kırsal kalkınma faaliyetleri çerçevesinde, bu tür yerel üretimlerin desteklenmesi bölge halkı için de ekonomik bir kazanım oluşturuyor. Karakoçan geven balının bin dokuz yüz rakımlı yaylalardan başlayan bu hasat yolculuğu, hem üreticilerin emeğini taçlandırıyor hem de bölgenin coğrafi zenginliklerinin tarımsal üretime katma değer olarak nasıl yansıdığını açıkça gözler önüne seriyor.",
-      "externalUrl": "https://www.cnnturk.com/yerel-haberler/elazig/karakocan-geven-balinin-hasadi-1900-rakimli-yaylada-yapildi-3457465",
-      "publishedAt": "2026-08-21T17:24:53.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Karakoçan'da geven balı hasadı 1900 metre rakımlı yaylada yapıldı.",
-        "Yüksek rakımın balın aromatik özelliklerine katkı sağladığı belirtildi.",
-        "Bölge, arıların çiçek kaynaklarına ulaşabildiği verimli alanlar arasında yer alıyor."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/video/turkiye/mustafa-varank-tcg-anadolunun-pistinde-cnn-turke-konustu-3457427",
-      "headline": "Mustafa Varank'tan TCG Anadolu açıklaması: Bu konsepti uygulayan tek ülkeyiz",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1753781467329-416d05e7e477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZHJvbmUlMjBjYXJyaWVyfGVufDF8MHx8fDE3ODczMjE3NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Valentin Zickner",
-        "photographerUrl": "https://unsplash.com/@vzickner",
-        "unsplashUrl": "https://unsplash.com/photos/drones-are-flying-in-a-cloudy-blue-sky-FQa5xUZlAUo"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye'nin teknoloji ve havacılık alanındaki en önemli etkinliklerinden biri olan TEKNOFEST, bu kez Kocaeli'nin Gölcük ilçesinde ev sahipliği yaptığı özel programlarla dikkatleri üzerine çekti. Bu kapsamda gerçekleştirilen buluşmalarda, Türkiye'nin savunma sanayiindeki son dönemeçleri ve stratejik projeleri kamuoyu ile paylaşıldı. Etkinliğin en dikkat çeken anlarından birinde, Cumhurbaşkanlığı Yatırım ve Dış Ticaret Ofisi Başkanı ve AK Parti Bursa Milletvekili Mustafa Varank, gurur kaynağı olan deniz platformlarına ilişkin kritik açıklamalarda bulundu.\n\nCNN TÜRK muhabiri Serdar Er'in sorularını yanıtlayan Varank, Türk Donanması'nın envanterinde yer alan ve stratejik öneme sahip TCG Anadolu gemisinin geçirdiği dönüşüm sürecine değindi. Yapılan çalışmalar neticesinde TCG Anadolu'nun, sadece geleneksel görevleri icra eden bir deniz aracı olmaktan çıkarıldığını belirten Varank, geminin insansız hava araçlarının yani İHA'ların etkin bir şekilde operasyon gerçekleştirebileceği modern bir platforma dönüştürüldüğünün altını çizdi. Bu yenilikçi yaklaşımın, Türkiye'nin savunma teknolojilerindeki yerli ve milli hamlelerinin somut bir göstergesi olduğu ifade edildi.\n\nKonuşmasında küresel ölçekteki askeri ve teknolojik rekabete de parantez açan Mustafa Varank, Türkiye'nin bu alanda kaydettiği tarihi eşiğe dikkat çekti. Varank, dünya genelinde bu özgün konsepti tasarlayan, hayata geçiren ve insansız hava araçlarını bu tip gemilerden başarılı bir şekilde hem indirip hem de kaldırarak operasyon yapma kabiliyetine erişen tek ülkenin Türkiye olduğunu vurguladı. Bu başarının, Türk mühendisliğinin ve savunma sanayiinin ulaştığı üst düzey olgunluk seviyesini net bir biçimde gözler önüne serdiği kaydedildi.\n\nEtkinlik boyunca ele alınan bir diğer temel başlık ise stratejik öneme sahip Mavi Vatan konsepti oldu. Varank, Mavi Vatan projesinin temel amacının ülkenin denizlerdeki yeteneklerini ve operasyonel kapasitesini en üst düzeye çıkarmak olduğunu dile getirdi. Bu vizyon doğrultusunda geliştirilen TCG Anadolu'nun, sahip olduğu çoklu görev yeteneği sayesinde deniz, hava ve kara unsurlarının kusursuz bir entegrasyon içinde çalışabilmesine olanak tanıdığı ifade edildi. Bu entegrasyonun, Türkiye'nin caydırıcılık gücünü ve harekat kabiliyetini büyük ölçüde artırdığına işaret edildi.\n\nGölcük'teki TEKNOFEST etkinlik alanında sergilenen gelişmeler, sadece uzmanların değil, aynı zamanda festivale akın eden çok sayıda vatandaşın ve ziyaretçinin de yoğun ilgisiyle karşılaştı. Katılımcılar, Türkiye'nin denizcilik tarihindeki bu önemli dönüm noktası olan TCG Anadolu'nun yeni fonksiyonlarını yakından inceleme, geminin kabiliyetleri hakkında detaylı bilgi alma ve bu gurur verici tabloya tanıklık etme fırsatı buldu.",
-      "externalUrl": "https://www.cnnturk.com/video/turkiye/mustafa-varank-tcg-anadolunun-pistinde-cnn-turke-konustu-3457427",
-      "publishedAt": "2026-08-21T17:12:41.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Mustafa Varank, TCG Anadolu'nun İHA operasyonu yapabilen bir platforma dönüştürüldüğünü söyledi.",
-        "Türkiye'nin bu konsepti uygulayan dünyadaki tek ülke olduğu vurgulandı.",
-        "TCG Anadolu'nun çoklu görev yeteneğiyle deniz, hava ve kara unsurlarını entegre ettiği belirtildi."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/live-erzurumspor-fk-galatasaray-macina-dogru-muhtemel-11ler-3457429",
-      "headline": "Erzurumspor FK ile Galatasaray Süper Lig'in açılışında karşı karşıya",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODczMTU1NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Krzysztof Dubiel",
-        "photographerUrl": "https://unsplash.com/@kris1902",
-        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-game-in-stadium-hQBIJsBtyBw"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye futbol liglerinde yeni sezonun heyecanı başlarken, futbolseverlerin odak noktası haftanın açılış karşılaşması olan dev mücadeleye çevrildi. Yapılan resmi duyurulara göre, Erzurumspor FK ile Galatasaray, Süper Lig'in ilk hafta mücadelesinde kozlarını paylaşmak üzere sahaya çıkacak. Karşılaşmanın Erzurumspor FK'nın ev sahipliğinde gerçekleşecek olması, futbol kamuoyunda ve taraftarlar arasında büyük bir heyecan yaratmış durumda. Sezonun henüz en başında, takımların form durumunu görmek adına kritik bir eşik olarak değerlendirilen bu müsabakaya sporseverlerin yoğun ilgi göstermesi bekleniyor.\n\nHer iki kulübün de sezonun bu ilk resmi sınavı öncesinde hazırlıklarını sürdürdüğü ve teknik heyetlerin son taktik çalışmalarını yaptığı biliniyor. Maç yaklaşırken yapılan teknik analizlerde, her iki takımın da sahaya süreceği muhtemel ilk 11'ler üzerine çeşitli değerlendirmeler yapıldığı görülüyor. Kulüpler kadrolarını henüz kesin olarak kamuoyuyla paylaşmamış olsa da, antrenmanlardaki oyuncu performansları, form durumları ve teknik direktörlerin tercih edeceği taktik kurgular üzerine spor camiasında spekülasyonlar ve fikir yürütmeler hız kesmeden devam ediyor. Sezonun açılış haftası olması sebebiyle teknik adamların sahaya süreceği kadro tercihleri, ilerleyen haftalar için de önemli ipuçları barındırıyor.\n\nBu tür açılış karşılaşmaları, sezon boyunca yarışacak olan ekiplerin genel performansı açısından büyük bir gösterge niteliği taşıyor. Bir tarafta ligdeki şampiyonluk ve üst sıralar iddiasını ilk düdükten itibaren ortaya koymak isteyen Galatasaray'ın hamleleri dikkat çekerken, diğer tarafta ise sahasında taraftar desteğini arkasına alacak olan Erzurumspor FK'nın ev sahibi avantajını nasıl kullanacağı merak konusu olmaya devam ediyor. İki kulübün geçmişteki mücadeleleri ve mevcut kadro yapıları göz önüne alındığında, bu açılış maçının sahadaki seyrini belirleyecek en temel unsurlar netleşiyor.\n\nFutbol takviminin en çok beklenen anlarından biri olan Süper Lig başlangıcı, hem kulüpler hem de milyonlarca ekran başındaki izleyici için uzun bir maratonun ilk adımı anlamına geliyor. Erzurumspor FK ve Galatasaray gibi köklü camiaların sezona açılış maçıyla 'merhaba' demesi, ligin genel rekabet seviyesi hakkında da erken bir fikir veriyor. Hakem düdüğüyle birlikte başlayacak olan 90 dakikalık mücadelede, tarafların sahada ortaya koyacağı performans ve taktik disiplin, futbol gündeminin en üst sıralarında yer almayı sürdürüyor.",
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/live-erzurumspor-fk-galatasaray-macina-dogru-muhtemel-11ler-3457429",
-      "publishedAt": "2026-08-21T17:12:00.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Erzurumspor FK ve Galatasaray Süper Lig açılışında kozlarını paylaşacak.",
-        "Karşılaşma öncesinde her iki takımın teknik heyetlerinin taktik hazırlıkları sürüyor.",
-        "Galatasaray'ın iddiası ve Erzurumspor FK'nın ev sahibi avantajı maçın seyrini belirleyecek."
-      ]
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/cumhurbaskani-erdogandan-cuma-namazi-sonrasi-chpli-marmaris-belediye-baskani-unluyu-ak-partiye-davet-etti-4849957",
-      "headline": "Erdoğan'dan Marmaris Belediye Başkanı Acar Ünlü'ye AK Parti'ye katılım çağrısı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1512970648279-ff3398568f77?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bW9zcXVlfGVufDF8MHx8fDE3ODczMzI1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Juan Camilo Guarin P",
-        "photographerUrl": "https://unsplash.com/@jcguarinpenaranda",
-        "unsplashUrl": "https://unsplash.com/photos/white-mosque-njEXjDmYn8w"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Türkiye'nin siyasi gündeminde son günlerde dikkat çeken gelişmelerden biri, Muğla'nın turistik ilçesi Marmaris'te yaşandı. Ülke genelinde siyasi dengelerin ve yerel yönetimlerle merkezi iktidar arasındaki ilişkilerin önem taşıdığı bir dönemde, Cumhurbaşkanı Recep Tayyip Erdoğan'ın gerçekleştirdiği bir görüşme kamuoyunun odak noktası haline geldi. Olay, Muğla il sınırları içerisinde bulunan ve resmi ibadethane statüsündeki Okluk Millet Camii'nde meydana geldi. Bölgedeki programları kapsamında söz konusu camide Cuma namazını eda eden Cumhurbaşkanı Erdoğan, namaz ibadetinin tamamlanmasının ardından cami avlusunda ve çevresinde bulunan vatandaşlar ile yetkililerle bir araya geldi.\n\nNamaz sonrasında camiden ayrılış hazırlıkları yaptığı sırada, CHP'li Marmaris Belediye Başkanı Acar Ünlü ile Cumhurbaşkanı Erdoğan arasında kısa ve samimi bir diyalog gerçekleşti. Edinilen bilgilere göre, ibadethane çıkışında Cumhurbaşkanı'nı selamlayan Marmaris Belediye Başkanı Ünlü, resmi ve nezaket içeren bir ifadeyle \"Hoş geldiniz efendim, var mı yapabileceğimiz bir şey?\" sorusunu yöneltti. Yerel bir yönetici olarak merkezi idare temsilcisine ve cumhurbaşkanına yöneltilen bu soru, yerel siyaset ile merkezi yönetim arasındaki diyalog kanallarının işleyişini göstermesi açısından dikkat çekti.\n\nBelediye Başkanı Ünlü'nün bu yaklaşımı üzerine Cumhurbaşkanı Recep Tayyip Erdoğan, oldukça net ve doğrudan bir yanıt vererek dikkatleri üzerine çekti. Erdoğan, Ünlü'nün sunduğu yardımlaşma ve diyalog teklifine karşılık olarak, \"Kapımız açık, gelmek istiyorsan\" şeklinde konuştu. Gerçekleşen bu kısa konuşma, siyasi kulislerde ve kamuoyunda, iktidar partisinin yerel yönetimlere yönelik siyasi stratejilerinin bir yansıması olarak yorumlandı ve bir parti daveti niteliği taşıdığı yönünde değerlendirildi.\n\nYaşanan bu diyalog, tamamen şans eseri veya sadece sözlü bir temas olarak kalmadı; olayın yaşandığı anlar, cami girişinde bulunan güvenlik kameraları vasıtasıyla kayıt altına alındı. Güvenlik ve mobese kameralarının kaydettiği bu görüntüler daha sonra yazılı ve görsel medyada geniş bir şekilde yayınlanarak kamuoyu ile paylaşıldı. Görüntülerin yayınlanmasının ardından, iki isim arasındaki bu samimi ama bir o kadar da stratejik konuşma, hem yerel siyaset çevrelerinin hem de ulusal medyanın en çok konuşulan başlıklarından biri haline geldi.\n\nSöz konusu görüşmenin ardından, siyasi analistler ve köşe yazarları konuyu farklı açılardan ele alarak tartışmaya açtı. CHP'li bir belediye başkanına yapılan bu açık davet, Türkiye'deki parti geçişleri, yerel yönetimlerin merkezi iktidarla olan ilişkileri ve siyasi partilerin stratejileri bağlamında geniş bir tartışma konusu oluşturdu. Yerel siyasetin dinamiklerini doğrudan etkileyebilecek nitelikteki bu diyalog, önümüzdeki dönemde siyasi arenada yaşanabilecek olası gelişmeler açısından da ipuçları barındıran önemli bir olay olarak kayıtlara geçti.",
-      "externalUrl": "https://www.yenisafak.com/video/gundem/cumhurbaskani-erdogandan-cuma-namazi-sonrasi-chpli-marmaris-belediye-baskani-unluyu-ak-partiye-davet-etti-4849957",
-      "publishedAt": "2026-08-21T17:10:01.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "Cumhurbaşkanı Erdoğan, Cuma namazı sonrası Marmaris Belediye Başkanı Ünlü ile görüştü.",
-        "CHP'li Başkan Ünlü'nün sorusuna Erdoğan, \"Kapımız açık, gelmek istiyorsan\" yanıtını verdi.",
-        "Cami girişindeki güvenlik kameralarına yansıyan diyalog medyada geniş yankı uyandırdı."
-      ]
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
-      "headline": "Mültecilerin Kanal'ı geçme girişimi Fransa'da polis çatışmasına yol açtı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1504716325983-cb91edab7e7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Ym9hdHxlbnwxfDB8fHwxNzg3MzMyNTUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Willian Justen de Vasconcellos",
-        "photographerUrl": "https://unsplash.com/@willianjusten",
-        "unsplashUrl": "https://unsplash.com/photos/birds-eye-photography-of-white-boat-g5FyZvIzUS4"
-      },
-      "timeAgo": "17 dk önce",
-      "body": "Fransa'nın kuzey bölgelerinde geçtiğimiz Cuma günü yaşanan hareketli saatler, uluslararası kamuoyunun yakından takip ettiği sınır güvenliği ve göç meselelerini bir kez daha gündemin üst sıralarına taşıdı. Edinilen bilgilere göre, dünya genelinde sıklıkla haberlere konu olan ve tehlikeli yolculukların merkezlerinden biri haline gelen İngiliz Kanalı'nı küçük bir tekne yardımıyla aşmayı hedefleyen kalabalık bir göçmen grubu, bölgede görev yapan Fransa sınır polislerinin dikkatini çekti. Güvenlik güçleri, söz konusu teknenin sulara açılmasını engellemek üzere hızlı bir operasyon başlattı ve deniz taşıtını durdurmak için müdahalede bulundu.\n\nYetkililer tarafından yapılan resmi açıklamalara ve sahadan gelen ilk bilgilere göre, polisin teknenin hareketini kısıtlama ve göçmenleri durdurma çabaları sırasında taraflar arasında şiddetli bir arbede yaşandı. Küçük teknenin denize açılmasına mani olmak isteyen güvenlik birimleri ile seyahat etmekte kararlı olan göçmenler arasında doğrudan fiziksel temas meydana geldiği, olayın anlık olarak oldukça gergin bir atmosferde cereyan ettiği ifade edildi. Sınır hattında görevli polislerin kontrolü sağlamak ve kalabalığı yatıştırmak amacıyla yoğun bir gayret sarf ettiği, yaşanan kargaşanın kısa süreliğine de olsa bölgede büyük bir hareketliliğe neden olduğu kaydedildi.\n\nOlay yerindeki tansiyonun düşürülmesinin ve güvenlik güçlerinin durumu tamamen kontrol altına almasının ardından, operasyonun neticeleri de netleşmeye başladı. Gerçekleşen arbedenin ve müdahalenin akabinde, göçmen grubundan bir kısmının güvenlik birimleri tarafından gözaltına alındığı bildirildi. Aynı zamanda, göçmenlerin Kanal'ı geçmek için kullandığı küçük teknenin de polis ekipleri tarafından ele geçirilerek muhafaza altına alındığı aktarıldı. Bu tür operasyonların, son dönemde artış gösteren ve güvenlik güçlerinin sürekli olarak karşı karşıya kaldığı riskli durumların somut bir göstergesi olduğu belirtiliyor.\n\nYaşanan bu son olay, İngiliz Kanalı üzerinden gerçekleştirilen düzensiz göç girişimlerinin tüm engelleme çaba ve tedbirlerine rağmen hâlâ son derece yoğun bir şekilde devam ettiğini gözler önüne serdi. Uzmanlar ve gözlemciler, bu tarz tehlikeli geçiş denemelerinin hem göçmenlerin hayatını büyük bir riske attığını hem de sınır güvenliğini sağlayan birimlerin işini son derece zorlaştırdığını vurguluyor. Cuma günü yaşanan çatışma, bölgedeki jeopolitik ve insani krizin karmaşık yapısını ve taraflar arasında yaşanan fiziksel mücadelenin sertliğini, güncel gelişmeler ışığında bir kez daha aydınlatmış oldu.\n\nFransa'nın kuzey kıyılarında sıklıkla alınan sıkı güvenlik önlemlerine ve devriye faaliyetlerine rağmen, göçmenlerin alternatif ve tehlikeli yolları denemekten vazgeçmediği bu olayla birlikte bir kez daha teyit edilmiş oldu. Sınır muhafızlarının karşılaştığı bu direnç ve sonrasındaki adli işlemler, konunun sadece insani boyutuyla değil, aynı zamanda yasal ve güvenlik boyutlarıyla da ne kadar kapsamlı bir mücadele gerektirdiğini gösteriyor. Olayla ilgili resmi makamların incelemelerini sürdürdüğü ve bölgedeki devriye tedbirlerinin en üst seviyede tutulmaya devam edeceği ifade ediliyor.",
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/21/migrants-clash-with-french-police-as-they-attempt-to-cross-the-channel?traffic_source=rss",
-      "publishedAt": "2026-08-21T16:58:28.000Z",
-      "category": "World",
-      "lang": "en",
-      "highlights": [
-        "Fransa'nın kuzeyinde Cuma günü göçmenler ve polis arasında çatışma çıktı.",
-        "Güvenlik güçleri, İngiliz Kanalı'nı geçmeye çalışan teknenin önünü kesti.",
-        "Olayın ardından bazı göçmenler tutuklandı ve tekne ele geçirildi."
-      ]
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/son-dakika-isvecte-okula-kilicli-saldiri-olu-ve-cok-sayida-yarali-var-3457432",
-      "headline": "İsveç'te okula kılıçlı saldırı düzenlendi: Bir ölü, çok sayıda yaralı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1613896527026-f195d5c818ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c2Nob29sJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4NzMyMTc1NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Wander Fleur",
-        "photographerUrl": "https://unsplash.com/@wanderfleur",
-        "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-1lmGTHdQdjM"
-      },
-      "timeAgo": "şimdi",
-      "body": "İsveç'te yer alan bir eğitim kurumunda yaşanan vahim olay, ülke genelinde büyük bir şok ve endişe yarattı. Edinilen ilk bilgilere göre, bir okul hedef alınarak kılıçlı bir saldırı gerçekleştirildi. Gerçekleşen bu şiddet eylemi sonucunda bir kişinin hayatını kaybettiği ve çok sayıda öğrenci ile okul personelinin yaralandığı bildirildi. Eğitim yuvalarında güvenliğin tesis edilmesi konusu bir kez daha ön plana çıkarken, olayın ardından bölgede geniş güvenlik önlemleri alındı.\n\nSaldırının ihbar edilmesinin hemen ardından emniyet birimleri hızla harekete geçerek olay yerine çok sayıda polis ekibi sevk etti. Güvenlik güçlerinin hızlı ve kararlı müdahalesi sayesinde şüpheli saldırgan olay yerinde etkisiz hale getirilerek gözaltına alındı. Emniyet yetkilileri, şüphelinin kimliği ve olayın arka planına dair detaylı bir inceleme yürütürken, okul binası ve çevresinde güvenlik çemberi oluşturuldu.\n\nOlay yerinde bulunan çok sayıda yaralı öğrenci ve okul personeli için sağlık ekipleri seferber oldu. Acil durum ekipleri, saldırıda yaralanan kişilere ilk müdahaleyi olay yerinde gerçekleştirdikten sonra, ambulanslarla çevredeki hastanelere kaldırdı. Hastanelere sevk edilen yaralıların tedavi süreçleri devam ederken, aileler ve eğitim camiası hastane önlerinde ve okul çevresinde endişeli bir bekleyiş içine girdi.\n\nİsveç'teki bu trajik olayın ardından yetkililer, saldırının sebeplerini ve tüm yönlerini aydınlatmak üzere kapsamlı bir soruşturma başlattı. Adli makamlar ve kolluk kuvvetleri, saldırının hangi saikle gerçekleştirildiğini, şüphelinin geçmişini ve olay anındaki durumunu netleştirmek için delil toplama çalışmalarını sürdürüyor. Eğitim kurumlarında yaşanan bu tür şiddet olaylarının önlenmesine yönelik tartışmalar da yeniden alevlendi.\n\nToplumun her kesimini derinden sarsan bu elim olay, eğitim alanındaki güvenlik açıklarını ve toplumsal huzuru tehdit eden unsurları bir kez daha gündeme taşıdı. İsveç makamları, soruşturmanın selameti açısından kamuoyunu bilgilendirmeye devam edeceklerini ve olayla ilgili resmi açıklamaların yetkili merciler tarafından yapılacağını bildirdi. Yaralıların sağlık durumuna ilişkin güncel bilgilerin ve soruşturmanın ilerleyen aşamalarının önümüzdeki saatlerde netleşmesi bekleniyor.",
-      "externalUrl": "https://www.cnnturk.com/dunya/son-dakika-isvecte-okula-kilicli-saldiri-olu-ve-cok-sayida-yarali-var-3457432",
-      "publishedAt": "2026-08-21T16:58:26.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "highlights": [
-        "İsveç'teki bir okula kılıçlı saldırı düzenlendi.",
-        "Saldırıda bir kişi hayatını kaybetti, çok sayıda yaralı var.",
-        "Saldırgan polis tarafından gözaltına alınarak soruşturma başlatıldı."
       ]
     }
   ]
