@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:39:08.848Z",
+  "generatedAt": "2026-08-23T17:00:12.680Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/dunya/irandan-abdye-tepki-bumerang-gibi-kendisine-donecek-3457961",
@@ -21,6 +21,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/dunya/irandan-abdye-tepki-bumerang-gibi-kendisine-donecek-3457961",
       "publishedAt": "2026-08-23T19:36:11.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/manchester-city-uzatma-anlarinda-guldu-3457960",
+      "headline": "Manchester City, uzatma anlarında güldü",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MzIxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mario Klassen",
+        "photographerUrl": "https://unsplash.com/@marioklassen",
+        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
+      },
+      "timeAgo": "şimdi",
+      "body": "İngiltere Premier Lig'de yeni sezona start verilirken, futbolseverler nefes kesen ve son dakikalarına kadar büyük bir heyecana sahne olan karşılaşmalara tanıklık etmeye başladı. Sezonun açılış haftasında sahne alan Manchester City, zorlu geçen mücadelede rakibi Bournemouth karşısında son anlarda bulduğu golle sahadan galibiyetle ayrılmasını bildi. Futbol dünyasında büyük bir yankı uyandıran bu karşılaşma, ligin henüz ilk haftasında dahi rekabetin ne denli yüksek seviyede seyredeceğini gözler önüne serdi.\n\nKarşılaşma boyunca iki ekip de sahada rakiplerine üstünlük kurmak için büyük bir mücadele ortaya koydu. Taktiksel disiplinin ön planda olduğu ve her iki takımın da savunma güvenliğini elden bırakmamaya özen gösterdiği müsabakada, dakikalar ilerledikçe sahadaki tansiyon da tırmandı. Teknik direktörlerin hamleleriyle şekillenen oyun, uzun süre dengede kaldı ve taraflar aradıkları golü bulmakta zorlandı. Özellikle hücum hattında yaşanan hareketlilik tribünlerdeki ve ekran başındaki heyecanı artırırken, savunmaların ve kalecilerin başarılı performansları skorun bozulmasına uzun süre izin vermedi.\n\nAncak maçın normal süresinin sonuna yaklaşılırken ve herkes karşılaşmanın beraberlikle sonuçlanacağını düşünürken, Manchester City adına kilit açılan an uzatma dakikalarında geldi. Maçın kopma anı olarak nitelendirilebilecek bu sekans, mavi-beyazlı ekibin hücum baskısını en üst düzeye çıkardığı dakikalarda yaşandı. Rakip savunmanın anlık bir dikkat dağınıklığını ve yorgunluğunu iyi değerlendiren Manchester City, uzatma anlarında bulduğu golle skoru lehine çevirmeyi başardı ve sahadan büyük bir sevinçle ayrıldı.\n\nBu kritik galibiyet, Manchester City'nin yeni sezona hem moral hem de puan açısından son derece güçlü bir başlangıç yapmasını sağladı. Şampiyonluk yarışının en önemli adaylarından biri olarak gösterilen ekip, sezonun ilk sınavını başarıyla vererek taraftarlarına umut aşıladı. Ligin henüz en başı olmasına rağmen, bu tür son dakika golleriyle kazanılan galibiyetlerin uzun maratonlarda ne kadar kritik bir öneme sahip olduğu futbol otoriteleri tarafından sıkça dile getirilmektedir.\n\nDiğer taraftan Bournemouth ise sergilediği dirençli futbolla dikkat çekti ancak uzatma dakikalarında yenen golle puansız ayrılmanın üzüntüsünü yaşadı. Maçın büyük bölümünde güçlü rakibine karşı başa baş bir mücadele sergileyen kırmızı-siyahlı ekip, sahadan puan ya da puanlarla ayrılmaya çok yaklaşmışken son anlarda gelen bu gole engel olamadı. Alınan bu sonuç, Bournemouth'un önümüzdeki haftalardaki performans grafiği açısından önemli veriler sunarken, takımın genel oyun yapısının ligde kalıcı bir direnç göstereceğinin de sinyallerini verdi.",
+      "highlights": [
+        "Manchester City, Premier Lig'deki ilk maçında Bournemouth ile karşı karşıya geldi.",
+        "Zorlu mücadelenin normal süresi dengeli bir oyunla ilerledi.",
+        "Manchester City aradığı golü uzatma anlarında bularak 3 puanı hanesine yazdırdı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/manchester-city-uzatma-anlarinda-guldu-3457960",
+      "publishedAt": "2026-08-23T19:21:40.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -163,6 +186,75 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.yenisafak.com/gundem/yunanistan-olume-itti-sahil-guvenlik-kurtardi-marmaris-aciklarinda-can-pazari-4850349",
+      "headline": "Yunanistan unsurlarının Türk kara sularına ittiği göçmenler Sahil Güvenlik tarafından kurtarıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1598924112268-6150e1e49bf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y29hc3QlMjBndWFyZCUyMHNoaXB8ZW58MXwwfHx8MTc4NzUwNDM4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michael Maga-ao",
+        "photographerUrl": "https://unsplash.com/@michaelmagaao",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-ship-on-dock-during-daytime-Mau0p_nyoVY"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Ege Denizi'nde düzensiz göçmen hareketliliğini ve insani dramları beraberinde getiren olayların bir yenisi Muğla'nın Marmaris ilçesi açıklarında yaşandı. Edinilen bilgilere göre, uluslararası sularda ve deniz sınırlarında sıklıkla karşılaşılan geri itme (pushback) uygulamalarından biri daha gerçekleşti. Yunanistan unsurları tarafından haksız ve tehlikeli bir şekilde Türk kara sularına doğru itilen kişilerin bulunduğu bilgisi, ilgili makamlar ve güvenlik birimleri tarafından alındı. Can salı içerisindekilerin çaresiz bekleyişi, Türk Sahil Güvenlik ekiplerinin zamanında ve profesyonel müdahalesi ile son buldu.\n\nMuğla'nın gözde turizm merkezlerinden biri olan Marmaris'in açıklarında icra edilen operasyonda, deniz ortasında ölümle burun buruna gelen göçmenlerin kurtarılması için kapsamlı bir çalışma başlatıldı. İhbarın alınmasının ardından bölgeye sevk edilen Sahil Güvenlik botları, kısa süre içerisinde olay yerine intikal etti. Zorlu deniz koşullarında gerçekleştirilen kurtarma faaliyeti neticesinde, can salı içerisinde mahsur kalan bireyler güvenli bir şekilde Türk Sahil Güvenlik gemisine alındı. Operasyon esnasında ekiplerin gösterdiği hassasiyet ve profesyonellik, olası bir facianın eşiğinden dönülmesini sağladı.\n\nGerçekleştirilen operasyonun detaylarına bakıldığında, kurtarılan toplam düzensiz göçmen sayısının 16 olduğu belirlendi. Bu grubun içerisinde yer alan 2 çocuğun varlığı, yaşanan insanlık trajedisinin boyutunu bir kez daha gözler önüne serdi. Deniz yoluyla güvenli bir yaşam umuduyla yola çıkan ancak komşu ülke unsurlarının müdahalesiyle Türk kara sularına terk edilen savunmasız insanlar, sahil güvenlik personelinin sağladığı ilk yardım ve destek ile güvence altına alındı. Çocukların ve diğer mağdurların yaşadığı korku ve şaşkınlık, ekiplerin insani yaklaşımıyla bir nebze olsun hafifletildi.\n\nKurtarma operasyonunun başarıyla tamamlanmasının ardından Sahil Güvenlik botuna alınan 16 düzensiz göçmen, Marmaris'teki karaya çıkarma noktasına nakledildi. Karaya ayak basan göçmenlere limanda hazır bekletilen sağlık ekipleri tarafından ilk kontrolleri yapıldı. Uzun süredir açık denizde can salı içerisinde açlık, susuzluk ve soğuk hava şartlarıyla mücadele eden kişilerin durumlarının tespiti için gerekli tıbbi müdahaleler gerçekleştirildi. Sağlık durumlarının stabil olduğu öğrenilen göçmenler, ilgili yasal süreçlerin yürütülmesi ve idari işlemlerin tamamlanması amacıyla yetkili birimlere teslim edildi.\n\nBu tür olaylar, Ege Denizi'ndeki göç rotaları üzerinde yaşanan hukuki ve insani tartışmaları yeniden gündeme taşırken, Türk Sahil Güvenlik Komutanlığı'nın bölgedeki arama-kurtarma faaliyetlerinin hayati önemini bir kez daha kanıtladı. Deniz güvenliğini sağlamak ve insan hayatını her koşulda korumak amacıyla 7 gün 24 saat esasına göre görev yapan ekipler, benzer kriz durumlarında vazife bilinciyle hareket etmeye devam ediyor. Marmaris açıklarında yaşanan bu son olay, hem uluslararası deniz hukuku ihlallerini hem de Türk makamlarının insani yardım konusundaki kararlılığını gözler önüne seren somut bir gelişme olarak kayıtlara geçti.",
+      "highlights": [
+        "Yunanistan unsurlarınca Türk kara sularına itilen can salındaki göçmenler kurtarıldı.",
+        "Muğla'nın Marmaris açıklarında gerçekleştirilen operasyonda 2'si çocuk 16 kişi sağ olarak kurtarıldı.",
+        "Kurtarılan düzensiz göçmenler karaya çıkarılarak sağlık kontrolleri ve yasal işlemler için ilgili birimlere teslim edildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/yunanistan-olume-itti-sahil-guvenlik-kurtardi-marmaris-aciklarinda-can-pazari-4850349",
+      "publishedAt": "2026-08-23T16:54:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+      "headline": "Elche ve Barcelona La Liga mücadelesinde karşı karşıya geliyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MzIxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fancy Crave",
+        "photographerUrl": "https://unsplash.com/@fancycrave",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "İspanya La Liga heyecanında futbolseverlerin merakla beklediği karşılaşmalardan biri olan Elche ile Barcelona maçı büyük bir ilgiyle takip ediliyor. Sezonun bu kritik döneminde sahne alacak olan her iki ekip de sahadan galibiyetle ayrılabilmek adına hazırlıklarını tamamladı ve mücadelenin başlama düdüğü için geri sayım başladı. Futbol dünyasının yakından izlediği bu önemli randevu öncesinde, her iki kulübün taraftarları ve spor otoriteleri karşılaşmaya dair son gelişmeleri ve maçın muhtemel senaryolarını yakından değerlendiriyor.\n\nBarcelona cephesinde, La Liga maratonuna hızlı bir başlangıç yapma hedefi ön plana çıkıyor. Teknik ekibin sahaya sürmesi beklenen ilk 11 ve oyuncu tercihleri maç saatine kadar futbol gündemindeki sıcaklığını korurken, takımın genel form durumu da detaylı analizlerle ele alınıyor. İspanyol futbolunun köklü temsilcilerinden biri olan Katalan ekibi, deplasmanda oynayacağı bu zorlu müsabakada üç puanı hanesine yazdırmak ve sezondaki iddialı konumunu perçinlemek istiyor. Sezon boyunca atılacak her adımın ve alınacak her sonucun şampiyonluk yarışındaki dengeleri doğrudan etkileyeceği biliniyor.\n\nDiğer tarafta ev sahibi konumundaki Elche ise kendi taraftar desteğini arkasına alarak sahada sürpriz bir sonuca imza atmayı hedefliyor. Ligin bu aşamasında güçlü rakibi karşısında puan ya da puanlar arayacak olan ev sahibi ekip, maçın taktik disiplinine sadık kalarak mücadele etmeyi planlıyor. Teknik direktörlerin saha kenarındaki hamleleri ve oyuncuların bireysel performansları, 90 dakikanın gidişatını belirleyen en temel unsurlar arasında yer alıyor. Karşılaşmanın taktiksel boyutları, uzmanlar tarafından maç öncesi yayınlarda geniş bir şekilde masaya yatırılıyor.\n\nFutbol severler ve maçı yerinde takip edemeyen milyonlarca izleyici için ise tüm gelişmeler, analizler ve karşılaşmanın anlık canlı metin anlatımı kesintisiz olarak aktarılıyor. Maçın başlama düdüğünden itibaren sahada yaşanacak her önemli pozisyon, sarı ve kırmızı kartlar, oyuncu değişiklikleri ve goller anbean futbol kamuoyuyla paylaşılıyor. Karşılaşmanın ön analizi niteliğindeki bu gelişmeler, mücadelenin heyecanını artırırken, sporseverlere de geniş bir bilgilendirme imkânı sunuyor.\n\nİspanya futbol ligi takviminin en çok merak edilen karşılaşmalarından biri olan bu mücadele, her iki takımın tarihindeki rekabet izlerini de yeniden hatırlatıyor. Sezonun genel gidişatı açısından büyük önem taşıyan 90 dakikalık süre zarfında, oyuncuların sahaya koyacağı performans ve hakem kararları da maçın ardından uzun süre tartışılacak ana başlıkları oluşturacak. Futbol dünyasının gözü kulağı şimdi bu heyecan dolu mücadeleden gelecek son dakika haberlerinde ve canlı anlatım detaylarında.",
+      "highlights": [
+        "Elche ile Barcelona La Liga mücadelesinde karşı karşıya geliyor.",
+        "Katalan ekip sezona iddialı bir başlangıç yapmayı hedefliyor.",
+        "Karşılaşmaya dair tüm gelişmeler ve canlı anlatım takip ediliyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
+      "publishedAt": "2026-08-23T16:50:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/bilim-teknoloji/deniz-kuvvetleri-komutani-oramiral-tatlioglu-denizlere-hakim-olan-cihana-hakim-olur/4035233",
+      "headline": "Deniz Kuvvetleri Komutanı Oramiral Tatlıoğlu'ndan stratejik deniz gücü vurgusu",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1719553946838-1190abdeee92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmF2YWwlMjBzaGlwfGVufDF8MHx8fDE3ODc1MDQzODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Abdullah Al Hasan",
+        "photographerUrl": "https://unsplash.com/@aa_hasan",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-ship-in-the-middle-of-the-ocean-8dJM0LwzsfU"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Türkiye Cumhuriyeti'nin güvenliği ve bekası açısından askeri stratejilerin önemini vurgulayan üst düzey bir değerlendirme, Deniz Kuvvetleri Komutanı Oramiral Tatlıoğlu tarafından kamuoyuyla paylaşıldı. Yapılan bu önemli açıklamalar, ülkenin deniz sınırlarının ve deniz aşırı menfaatlerinin korunmasında etkin rol oynayan deniz harp merkezlerinin kapasitesini bir kez daha gündeme taşıdı.\n\nGerçekleştirilen değerlendirmelerde, Türkiye'nin coğrafi yapısının doğası gereği askeri yapılanmada denizcilik unsuruna ayrı bir ihtimam gösterilmesi gerektiği net bir dille ifade edildi. Oramiral Tatlıoğlu, ülkenin üç tarafının denizlerle çevrili olmasının getirdiği jeostratejik konumun, kaçınılmaz olarak son derece güçlü bir Deniz Kuvvetleri varlığına sahip olmayı zorunlu kıldığını belirtti.\n\nSöz konusu jeostratejik zorunlulukların Türk askeri doktrinindeki yeri uzun yıllardır bilinen ve uygulanan temel prensipler arasında yer alıyor. Tarihsel süreç ve uluslararası ilişkilerdeki dengeler göz önüne alındığında, denizlerdeki caydırıcılığın ulusal güvenlik için taşıdığı hayati önem her fırsatta yetkililer tarafından dile getiriliyor.\n\nKomutan Tatlıoğlu, mevcut askeri kapasiteye dair yaptığı değerlendirmede ülkenin sahip olduğu imkan ve kabiliyetlerin altını çizdi. Yapılan açıklamada, Türk Deniz Kuvvetleri'nin halihazırda bölgede ve dünyada hatırı sayılır, son derece güçlü bir deniz gücü olduğu vurgulanarak, personelin ve donanmanın yetkinliğine olan güven ifade edildi.\n\nÜç tarafı denizlerle çevrili olan bir coğrafyada, deniz ticaret yollarının güvenliğinden kıta sahanlığındaki hakların korunmasına kadar pek çok farklı alanda faaliyet gösteren deniz unsurları, ülkenin caydırıcılık kapasitesinin omurgasını oluşturuyor. Bu bağlamda, Deniz Kuvvetleri'nin modernizasyonu ve operasyonel hazırlık seviyesi sürekli olarak üst düzeyde tutulmaya devam ediliyor.\n\nTürkiye'nin denizlerdeki menfaatlerini koruma kararlılığı, geçmişten bugüne izlenen savunma politikalarının temel taşlarından birini oluştururken, Oramiral Tatlıoğlu'nun sözleri bu stratejik vizyonun kararlılıkla sürdürüldüğünü bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Oramiral Tatlıoğlu, Türkiye'nin jeostratejik konumu gereği güçlü bir donanmaya ihtiyaç duyduğunu belirtti.",
+        "Türkiye'nin üç tarafının denizlerle çevrili olmasının askeri yapılanmayı doğrudan etkilediği ifade edildi.",
+        "Türk Deniz Kuvvetleri'nin halihazırda son derece güçlü bir yapıya sahip olduğu vurgulandı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/bilim-teknoloji/deniz-kuvvetleri-komutani-oramiral-tatlioglu-denizlere-hakim-olan-cihana-hakim-olur/4035233",
+      "publishedAt": "2026-08-23T16:48:40.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.cnnturk.com/spor/futbol/trabzonspor-basaksehir-mac-kadrosu-trabzonspor-istanbul-basaksehir-maci-ne-zaman-hangi-kanalda-saat-kacta-3457913",
       "headline": "Trabzonspor ile Başakşehir Süper Lig'in ikinci haftasında karşı karşıya geliyor",
       "source": "CNN Türk",
@@ -251,6 +343,29 @@
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/bursada-traktor-devrildi-15-yasindaki-surucu-hayatini-kaybetti-4850346",
       "publishedAt": "2026-08-23T16:28:12.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/kpss-ortaogretim-2026-basvuru-ve-sinav-tarihi-osym-takvimi-ile-kpss-ortaogretim-sinav-basvurulari-ne-zaman-kpss-lise-sinavi-hangi-gun-yapilacak-3907208",
+      "headline": "Kpss lise sınavı ne zaman?",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZXhhbSUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzg3NTA0MzkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ivan Aleksic",
+        "photographerUrl": "https://unsplash.com/@ivalex",
+        "unsplashUrl": "https://unsplash.com/photos/empty-classroom-with-desks-and-chalkboard-PDRFeeDniCk"
+      },
+      "timeAgo": "32 dk önce",
+      "body": "Yılın belirli bir dönemine yaklaşılmasıyla birlikte, lise mezunu olan ve kamuda kariyer hedefleyen binlerce adayın katılım göstereceği 2026 Kamu Personel Seçme Sınavı (KPSS) Ortaöğretim oturumuna yönelik merak ve arayışlar da hız kazandı. Devlet kurumlarında çeşitli kadrolarda istihdam edilmek isteyen adaylar, özellikle başvuru takvimi, sınav günü ve sonuçların ilan edileceği tarihler konusunda detaylı bilgi edinmek için araştırmalarını yoğunlaştırmış durumdadır.\n\nEylül ayının yaklaşması ve sınav takviminin işletilme süreçleri, memur adaylarının gündeminde ilk sıralarda yer alıyor. Eğitim hayatını lise düzeyinde tamamlamış olan geniş bir kitlenin katılım sağlayacağı bu önemli sınav, kamuya personel alım süreçlerinde kritik bir basamak oluşturuyor. Adaylar, hazırlıklarını bu doğrultuda sürdürürken, sürecin resmi adımlarını kaçırmamak adına Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından duyurulan takvimi yakından takip ediyor.\n\nÖSYM sınav takvimi ile birlikte lise düzeyi KPSS sınavına dair tüm temel tarihler resmiyet kazanmış ve netleşmiştir. Buna göre, binlerce adayın merakla beklediği sınav başvurularının başlangıç tarihi, sınavın yapılacağı gün ve sonuçların kamuoyuna duyurulacağı tarih ilgili takvimde yerini almıştır. Adaylar bu süreçte başvuru ücreti gibi finansal detayları da göz önünde bulundurarak işlemlerini zamanında tamamlamak için hazırlık yapmaktadır.\n\nKamu kurum ve kuruluşlarında görev alabilmek amacıyla uzun süredir hazırlık yapan lise mezunları için 2026 KPSS Ortaöğretim sınavı hayati bir önem taşımaktadır. Sınav gününe kadar geçecek sürede adayların hem ders çalışarak akademik hazırlıklarını tamamlaması hem de ÖSYM'nin duyurularını düzenli olarak kontrol etmesi büyük bir gereklilik olarak öne çıkmaktadır. Başvuru süresinin kaçırılmaması, sınav salon kurallarına riayet edilmesi ve sonuç takviminin izlenmesi bu sürecin sağlıklı yürütülmesini sağlayacaktır.\n\nSonuç olarak, 2026 yılı içerisinde gerçekleştirilecek olan KPSS Ortaöğretim sınavına ilişkin tüm aşamalar ÖSYM'nin takvimi çerçevesinde netleşmiş ve adayların bilgisine sunulmuştur. Eylül ayına girilen bu dönemde, başvuru tarihlerinden sınav gününe ve sonuç açıklamasına kadar olan tüm bu resmi tarihler, kamu personeli olma hayali kuran lise mezunları tarafından titizlikle takip edilmeye devam etmektedir.",
+      "highlights": [
+        "2026 KPSS Ortaöğretim sınavı için araştırmalar hız kazandı.",
+        "Lise mezunu adaylar kamu kurumlarında görev almak istiyor.",
+        "ÖSYM sınav takvimi ile başvuru ve sınav tarihleri netleşti."
+      ],
+      "externalUrl": "https://www.haberturk.com/kpss-ortaogretim-2026-basvuru-ve-sinav-tarihi-osym-takvimi-ile-kpss-ortaogretim-sinav-basvurulari-ne-zaman-kpss-lise-sinavi-hangi-gun-yapilacak-3907208",
+      "publishedAt": "2026-08-23T16:28:09.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -646,6 +761,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
+      "headline": "Kuzey Avrupa Futbol Federasyonları Gianni Infantino'ya olan güvenlerini yitirdi",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc0MzIxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fancy Crave",
+        "photographerUrl": "https://unsplash.com/@fancycrave",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Uluslararası futbol camiasında yankı uyandıran son gelişmeler kapsamında, Kuzey Avrupa'daki altı futbol federasyonu, Uluslararası Futbol Federasyonları Birliği (FIFA) Başkanı Gianni Infantino hakkında dikkat çeken bir karara imza attı. Yapılan resmi açıklamalar doğrultusunda, söz konusu federasyonların FIFA başkanı Infantino'ya duydukları güvenin tamamen sona erdiği kamuoyuna duyuruldu. Bu gelişmeyle birlikte, küresel futbolun en üst düzey yönetim organının başında bulunan başkan üzerindeki baskı ortamının da önemli ölçüde arttığı gözlemlendi.\n\nFutbol dünyasında yönetim anlayışları ve alınan kararlar zaman zaman çeşitli tartışmaları beraberinde getirirken, bu kez Kuzey Avrupa bölgesinden gelen bu hamle sürecin boyutunu değiştirdi. Bölgedeki ülkelerin futbol otoriteleri, FIFA yönetimiyle ilgili uzun süredir devam eden bazı çekincelerini daha da net bir boyuta taşıyarak Infantino'ya karşı resmi bir tutum sergilemiş oldu. Söz konusu federasyonlar, FIFA başkanı ile gerçekleştirilen temaslar ve son dönemdeki uygulamalar sonrasında bu kararın kaçınılmaz hale geldiğini ima eden ciddi endişelerini açık bir dille dile getirdiler.\n\nUluslararası spor otoriteleri ve paydaşlar açısından büyük bir önem taşıyan bu tür krizler, genellikle küresel futbol siyasetinde yeni bir dönemin kapısını aralamaktadır. Altı ülkenin futbol federasyonunun ortak bir duruş sergileyerek FIFA başkanı nezdinde güven oylaması niteliği taşıyan bu açıklamayı yapması, üye federasyonlar arasındaki memnuniyetsizliğin somut bir göstergesi olarak değerlendiriliyor. Spor kamuoyu ve medya organları, bu beklenmedik ama etkili hamlenin ardından FIFA merkezinden gelebilecek olası bir yanıtı ya da yeni bir açıklamayı yakından takip etmeye başladı.\n\nBaşkanlık koltuğunda oturan Gianni Infantino ve FIFA yönetimi, geçmişte de çeşitli reform tartışmaları ve organizasyon kararları nedeniyle üye federasyonların eleştirilerine maruz kalmıştı. Ancak altı Kuzey Avrupa ülkesinin doğrudan güven kaybını deklare etmesi ve ciddi endişelerini resmi olarak raporlaması, mevcut yönetimin karşı karşıya kaldığı en net diplomatik krizlerden biri olma niteliğini taşıyor. Bu durumun, önümüzdeki dönemde düzenlenecek olan genel kurullarda, oylamalarda ve FIFA'nın stratejik kararlarında nasıl bir etki yaratacağı şimdiden futbol çevrelerinin en çok merak ettiği konular arasında yer alıyor.\n\nFutbolun doğası gereği şeffaflık, adil yönetim ve kulüpler ile federasyonlar arası ilişkilerin dengede tutulması, küresel organizasyonların başarısı için hayati önem arz etmektedir. Kuzey Avrupa federasyonlarının dile getirdiği ciddi endişelerin temelinde, bu ilkelerin uygulanışı ve FIFA'nın izlediği idari yol haritasına dair soru işaretlerinin bulunduğu anlaşılıyor. Taraflar arasındaki bu gerilimin, ilerleyen süreçte diğer kıta ve bölge federasyonlarının tutumunu nasıl etkileyeceği, uluslararası spor diplomasisinin en sıcak başlıklarından biri olmayı sürdürecek gibi görünmektedir.",
+      "highlights": [
+        "Kuzey Avrupa'daki altı futbol federasyonu Gianni Infantino'ya güvenmediklerini açıkladı.",
+        "Bu karar, FIFA başkanı üzerindeki mevcut baskıyı ve eleştirileri tırmandırdı.",
+        "Federasyonlar, FIFA yönetimiyle ilgili ciddi endişelerini resmi olarak dile getirdi."
+      ],
+      "externalUrl": "https://news.sky.com/story/gianni-infantino-nordic-fas-lose-confidence-in-fifa-chief-and-raise-serious-concerns-13576326",
+      "publishedAt": "2026-08-23T15:07:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.haberturk.com/istanbulda-sicaktan-bunalanlar-bogaza-akin-etti-3907549",
       "headline": "İstanbul'da boğaz'a akın",
       "source": "Habertürk",
@@ -734,6 +872,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/games/2026/aug/24/michael-myers-halloween-video-game-banned-in-australia-drugs",
       "publishedAt": "2026-08-23T15:00:36.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "headline": "Avustralya'da spor formalarmdaki kumar reklamları için tartışmalı geçiş süreci",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1676498111080-5b73b7f0122c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBqZXJzZXl8ZW58MXwwfHx8MTc4NzUwNDQwMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Cristian Tarzi",
+        "photographerUrl": "https://unsplash.com/@ctarzi",
+        "unsplashUrl": "https://unsplash.com/photos/a-row-of-clothes-hanging-on-a-clothes-line-uBgmduO_ZBg"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Avustralya'da çocukların ve gençlerin profesyonel spor müsabakalarında sporcu formaları üzerinde kumar şirketi logolarıyla karşılaşmaya devam edeceği bildirildi. Ülke genelinde spor ile bahis arasındaki bağın koparılması yönündeki siyasi taahhütlere rağmen, konuya ilişkin uygulamaya konulan yeni düzenlemelerin tartışmaları beraberinde getirdiği ifade edildi. Avustralya hükümeti tarafından formalar üzerindeki kumar kuruluşu logolarının yasaklandığı, ancak ilgili kulüpler ile bahis şirketlerinin yeni mali ve idari şartlara uyum sağlaması amacıyla beş yıllık bir geçiş döneminin yasal olarak tanındığı kaydedildi. Bu yasal düzenleme çerçevesinde, söz konusu reklamların formalar üzerinde 2032 yılına kadar varlığını sürdürebileceği belirtildi.\n\nUygulanan bu uzun vadeli geçiş süreci, kamuoyunda ve siyasi çevrelerde çeşitli eleştirilerin hedefi oldu. Özellikle Pocock gibi isimler tarafından \"absürt\" olarak nitelendirilen bu karar, çocukların korunması amacıyla atılan adımların yetersiz olduğu yönündeki tartışmaları alevlendirdi. Siyasetin ve spor otoritelerinin konuya yaklaşımı toplumun farklı kesimlerinde endişeyle karşılanırken, kumar reklamlarının spor sahalarındaki varlığının çocuklar üzerindeki olumsuz etkilerine dikkat çekildi. Uzun yıllara yayına bu tür ticari ilişkilerin çocukların zihinsel gelişimi ve bahis alışkanlıkları üzerindeki potansiyel riskleri, eleştirilerin temel dayanağını oluşturdu.\n\nHükümet kanadından yapılan resmi açıklamalarda ise, kulüplerin ve spor organizasyonlarının formalarındaki bahis şirketi anlaşmalarını öngörülen takvimden çok daha önce, gönüllü olarak sonlandırmasının ümit edildiği vurgulandı. Yetkililer, bu durumun tamamen bir ticari karar niteliği taşıdığını ve kulüplerin ekonomik dengelerinin de gözetilmesi gerektiğini savundu. Bahis şirketleriyle yapılan mevcut sözleşmelerin ani bir kararla feshedilmesinin kulüpler üzerinde yaratabileceği ekonomik baskılara işaret eden yöneticiler, beş yıllık uyum sürecinin sektördeki olası şokları önlemek amacıyla tasarlandığını belirtti. Bununla birlikte, hükümetin gelecekte spor dünyasında tamamen reklamsız bir yapı oluşturma hedefinden sapmadığı da dile getirildi.\n\nÜlkedeki spor kulüpleri ile bahis sektörü arasındaki mali bağların geçmişi oldukça eskiye dayanıyor. Profesyonel spor liglerinin sürdürülebilirliği ve altyapı yatırımları açısından kumar şirketlerinin sağladığı finansal destek, kulüp yöneticileri tarafından kritik bir gelir kalemi olarak değerlendiriliyor. Bu nedenle, getirilen yasaklar ve geçiş süreci, kulüplerin bütçe planlamalarında köklü değişiklikler yapmasını zorunlu kılıyor. Sektör temsilcileri, alternatif gelir kaynakları bulunana kadar bahis sponsorluklarının ani bir şekilde kesilmesinin spor kulüplerini mali açıdan zor durumda bırakabileceğini savunuyor.\n\nÖnümüzdeki yıllarda Avustralya spor arenasının nasıl bir dönüşüm geçireceği ve kulüplerin bu ticari ortaklıklardan ne zaman tamamen vazgeçeceği merakla bekleniyor. Toplumun geniş kesimlerinden gelen baskıların artmasıyla birlikte, bazı kulüplerin öngörülen 2032 tarihini beklemeksizin logoları formalarından erken bir tarihte kaldırabileceği ihtimali de gündemde tutuluyor. Spor ve kumar endüstrisi arasındaki ilişkinin geleceği, hem ailelerin hem de çocuk hakları savunucularının yakın takibinde kalmaya devam ediyor.",
+      "highlights": [
+        "Çocuklar 2032 yılına kadar spor formalarında kumar logoları görecek.",
+        "Hükümet kulüplerin anlaşmaları daha erken bitirmesini umuyor.",
+        "Beş yıllık geçiş süreci siyasi çevrelerde eleştirilere yol açtı."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/aug/24/gambling-sport-logos-jerseys-pocock-labor",
+      "publishedAt": "2026-08-23T15:00:35.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -1562,6 +1723,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celik-mavi-vatan-yaklasimimizin-ne-kadar-stratejik-oldugu-bir-kez-daha-goruluyor-43282621",
+      "headline": "Ömer Çelik'ten Mavi Vatan açıklaması: Stratejik önem bir kez daha görüldü",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1508530786855-dfea35260b8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmF2YWwlMjBkZWZlbnNlfGVufDF8MHx8fDE3ODc1MDQ0MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michael Afonso",
+        "photographerUrl": "https://unsplash.com/@mafonso",
+        "unsplashUrl": "https://unsplash.com/photos/gray-warship-on-body-of-water-BQgAYwERXhs"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Adalet ve Kalkınma Partisi (AK Parti) Sözcüsü Ömer Çelik, Türkiye'nin denizlardaki hak ve menfaatlerini koruma kararlılığının simgesi olan Mavi Vatan kavramına dair önemli değerlendirmelerde bulundu. Küresel düzeyde artan gerilimler ve çatışma eksenleri ele alındığında, Türkiye'nin bu stratejik yaklaşımının ne denli hayati bir önem taşıdığının bir kez daha açık bir şekilde anlaşıldığı ifade edildi. Yapılan bu değerlendirmeler, ülkenin dış politika ve güvenlik politikalarının temel taşlarından biri olan denizlardaki stratejik duruşun altını bir kez daha çizdi.\n\nSözcü Ömer Çelik, yaptığı açıklamalarda özellikle TEKNOFEST Mavi Vatan etkinliklerinin taşıdığı anlama dikkat çekti. Bu tür organizasyonların, Türkiye'nin savunma sanayiindeki kabiliyetlerini artırma ve geliştirme sürecinde ne kadar kritik bir rol oynadığını vurgulayan Çelik, etkinliklerin mevcut yeteneklerin sergilenmesi açısından da büyük bir fırsat sunduğunu belirtti.\n\nKabiliyetlerin geliştirilmesi sürecinin arkasındaki temel itici güce de değinen AK Parti Sözcüsü, bu başarının Cumhurbaşkanı Recep Tayyip Erdoğan'ın liderliğinde gerçekleştirilen özgüven devriminin bir sonucu olduğunu dile getirdi. Çelik, bahsi geçen özgüven devriminin hiçbir kesintiye uğramadan, kararlılıkla ve artarak ilerlemeye devam ettiğini bu etkinliklerin açıkça ispat ettiğini vurguladı.\n\nGünümüzde bölgesel ve küresel güvenlik dinamiklerinin hızla değiştiği, deniz yetki alanları ve enerji kaynakları üzerindeki rekabetin kızıştığı bir dönemde, Türkiye'nin Mavi Vatan doktrini ulusal güvenliğin merkezinde yer alıyor. Bu bağlamda, atılan her adımın ve geliştirilen her yerli kabiliyetin, ülkenin denizlardaki caydırıcılığını pekiştirdiği biliniyor. TEKnoFEST gibi teknoloji ve havacılık odaklı etkinliklerin deniz temasıyla genişletilmesi de genç nesillerin bu stratejik vizyona olan ilgisini artırmayı hedefliyor.\n\nÖmer Çelik'in açıklamaları, Türkiye'nin hem diplomatik hem de askeri alandaki teknolojik bağımsızlık hedeflerinden taviz vermeyeceğinin bir göstergesi olarak değerlendiriliyor. Özgüven devrimi vurgusuyla, yerli ve millî üretim hamlelerinin kararlılıkla süreceği mesajı verilirken, Mavi Vatan'ın sadece bir askeri strateji değil, aynı zamanda ulusal bir aidiyet ve gelecek vizyonu olduğu bir kez daha hatırlatılmış oldu.",
+      "highlights": [
+        "AK Parti Sözcüsü Ömer Çelik Mavi Vatan yaklaşımının stratejik önemini vurguladı.",
+        "TEKNOFEST Mavi Vatan etkinlikleri kabiliyetlerin geliştiğini kanıtlıyor.",
+        "Cumhurbaşkanının gerçekleştirdiği özgüven devrimi kesintisiz ilerliyor."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/ak-parti-sozcusu-omer-celik-mavi-vatan-yaklasimimizin-ne-kadar-stratejik-oldugu-bir-kez-daha-goruluyor-43282621",
+      "publishedAt": "2026-08-23T13:45:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.sabah.com.tr/yasam/beykozdaki-kazadan-aci-haber-29-yasindaki-kameraman-deniz-kucukler-hayatini-kaybetti-7646921",
       "headline": "Beykoz'daki trafik kazasında yaralanan kameraman Deniz Küçükler hayatını kaybetti",
       "source": "Sabah",
@@ -1648,6 +1832,29 @@
       "publishedAt": "2026-08-23T13:37:50.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.sabah.com.tr/yasam/teknofest-mavi-vatanda-kapanis-coskusu-binlerce-vatandas-akin-etti-gururluyuz-mutluyuz-gelecekten-umutluyuz-7646919",
+      "headline": "Teknofest Mavi Vatan'da kapanış coşkusu: Binlerce vatandaş akın etti",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1564590325500-35fd32a51fac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dGVjaG5vbG9neSUyMGZlc3RpdmFsJTIwY3Jvd2R8ZW58MXwwfHx8MTc4NzUwNDQwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alex Bracken",
+        "photographerUrl": "https://unsplash.com/@alexbracken",
+        "unsplashUrl": "https://unsplash.com/photos/photography-of-people-gathering-near-outdoor-during-nighttime-y4MgW_OGQ28"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Türkiye’nin ilk denizcilik odaklı teknoloji festivali olan ve büyük bir ilgiyle takip edilen TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'nda düzenlenen etkinliklerle coşkulu bir şekilde sona erdi. Festivalin son gününde binlerce vatandaş, yerli ve milli savunma sanayii teknolojilerini yakından incelemek amacıyla alana akın etti.\n\nGün boyunca süren kapanış etkinliklerinde, Türkiye'nin denizcilik alanındaki teknolojik kabiliyetlerini sergileyen çeşitli projeler ve sistemler katılımcıların beğenisine sunuldu. Ülkenin dört bir yanından gelen her yaştan teknoloji meraklısı, yerli üretim savunma araçlarını yakından görme fırsatı bulurken, organizasyonun son gününde yaşanan yoğunluk dikkatlerden kaçmadı.\n\nGölcük Tersanesi Komutanlığı ev sahipliğinde gerçekleştirilen dev organizasyon, denizcilik teknolojilerindeki yenilikleri geniş kitlelerle buluşturmayı başardı. Ziyaretçiler, festival boyunca sergilenen yüksek teknolojili ürünlerin yanı sıra savunma sanayiindeki son gelişmeler hakkında da yetkililerden detaylı bilgiler alma imkanı elde etti.\n\nEtkinlik alanını dolduran vatandaşlar, festivalin son gününde duydukları memnuniyeti ve gururu dile getirdiler. Alanda bulunan birçok katılımcı ve ziyaretçi duygularını \"Gururluyuz, mutluyuz, gelecekten umutluyuz\" sözleriyle ifade ederek, Türkiye'nin teknoloji alanındaki ilerleyişinden duydukları kıvancı paylaştılar.\n\nTEKNOFEST Mavi Vatan, denizcilik ve teknoloji odaklı vizyonuyla genç nesillerin bu alana olan ilgisini artırmayı hedeflerken, kapanış gününde rekor düzeyde bir katılım sahne oldu. Festivalin sona ermesiyle birlikte, yerli ve milli teknoloji hamlesinin denizcilik sektöründeki yansımaları bir kez daha geniş bir toplumsal kitle tarafından yerinde gözlemlenmiş oldu.",
+      "highlights": [
+        "TEKNOFEST Mavi Vatan, Gölcük Tersanesi Komutanlığı'ndaki son gününde yoğun ilgi gördü.",
+        "Binlerce vatandaş yerli ve milli denizcilik teknolojilerini yakından inceledi.",
+        "Ziyaretçiler organizasyonun ardından gururlu ve gelecekten umutlu olduklarını belirtti."
+      ],
+      "externalUrl": "https://www.sabah.com.tr/yasam/teknofest-mavi-vatanda-kapanis-coskusu-binlerce-vatandas-akin-etti-gururluyuz-mutluyuz-gelecekten-umutluyuz-7646919",
+      "publishedAt": "2026-08-23T13:37:45.000Z",
+      "category": "Gündem",
+      "lang": "tr"
     },
     {
       "id": "https://www.aa.com.tr/tr/bilim-teknoloji/ataturkun-manevi-mirasi-tcg-savarona-ziyaretcilerini-duygulandiriyor/4035152",
@@ -2129,6 +2336,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/turkiyenin-elektrik-kurulu-gucu-126-bin-476-megavata-ulasti-3457812",
       "publishedAt": "2026-08-23T12:48:10.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/video-istanbulda-sicak-hava-alarmi-serinlemek-icin-bogaza-girdiler-1738583",
+      "headline": "İstanbul'da sıcak hava alarmı: Serinlemek için Boğaz’a girdiler",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1743959061862-6aa05c0b9092?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cGVvcGxlJTIwc3dpbW1pbmclMjBCb3NwaG9ydXN8ZW58MXwwfHx8MTc4NzUwNDQxMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ilker Ozmen",
+        "photographerUrl": "https://unsplash.com/@iozmen",
+        "unsplashUrl": "https://unsplash.com/photos/people-fish-off-a-pier-at-sunset-J7UYSR47NF8"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Türkiye genelinde etkisini artıran mevsim normallerinin üzerindeki sıcaklıklar, megakent İstanbul'da da günlük yaşamı ve kent sakinlerini zorlamaya başladı. Yapılan meteorolojik değerlendirmelere göre, Afrika üzerinden yurdun batı kesimlerine doğru hareket eden sıcak hava dalgası, İstanbul üzerinde de yoğun bir baskı oluşturdu. Kent genelinde termometrelerin tırmanmasıyla birlikte hissedilen sıcaklıklar da doruk noktaya ulaştı.\n\nSıcaklıkların ani artışı ve yüksek nem oranı, İstanbulluların günlük rutinlerini doğrudan etkiledi. Özellikle öğle saatlerinde açık alanda bulunmak oldukça güçleşirken, vatandaşlar aşırı bunaltıcı havadan kaçmanın yollarını aradı. Kentin en hareketli ve popüler noktalarından biri olan sahil şeritleri, bu süreçte serinlemek isteyen yüzlerce kişi tarafından dolduruldu.\n\nBu kapsamda Boğaziçi'nin serin suları, kentin bunaltıcı sıcaklarından kaçmak isteyenler için doğal bir sığınak haline geldi. İstanbul Boğazı kıyıları boyunca yaşanan hareketlilik dikkat çekerken, özellikle Bebek Sahili'nde tatil yörelerini andıran renkli görüntüler ortaya çıktı. Sahil boyunca güneşlenen ve suyun tadını çıkaran vatandaşlar, yoğun şehir temposundan kısa süreliğine de olsa uzaklaşma fırsatı buldu.\n\nUzmanlar, Afrika kaynaklı bu sıcak hava dalgasının önümüzdeki günlerde de etkisini sürdürmesini beklediklerini ifade ediyor. Bu durum, özellikle kronik rahatsızlığı bulunanlar, yaşlılar ve çocuklar başta olmak üzere geniş bir kesim için dikkatli olunması gerektiğini ortaya koyuyor. Yetkililer, günün en sıcak saatlerinde zorunlu olmadıkça dışarı çıkılmaması ve bol sıvı tüketilmesi yönündeki uyarılarını yineliyor.\n\nİstanbul gibi yoğun bir metropolde yaşanan bu mevsimsel aşırılıklar, kentsel alanlarda yeşil alanların ve sahil gibi kamusal serinleme alanlarının ne denli hayati bir önem taşıdığını bir kez daha gözler önüne serdi. Kent sakinleri, ani sıcaklık artışlarıyla başa çıkabilmek adına sahil parklarına ve Boğaz kıyılarına akın etmeye devam ediyor.",
+      "highlights": [
+        "Afrika üzerinden gelen sıcak hava dalgası İstanbul'da etkisini gösterdi.",
+        "Sıcaktan bunalan kent sakinleri serinlemek için Boğaz kıyılarına akın etti.",
+        "Bebek Sahili'nde kaydedilen görüntüler tatil beldelerini andırdı."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/video-istanbulda-sicak-hava-alarmi-serinlemek-icin-bogaza-girdiler-1738583",
+      "publishedAt": "2026-08-23T12:46:52.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6646,236 +6876,6 @@
       "publishedAt": "2026-08-22T21:38:37.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/oosterwoldeden-fenerbahcede-kalacak-misin-sorusuna-yanit-43282064",
-      "headline": "Oosterwolde'den transfer iddialarına yanıt",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBwbGF5ZXJ8ZW58MXwwfHx8MTc4NzQzODEyMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Emilio Garcia",
-        "photographerUrl": "https://unsplash.com/@piensaenpixel",
-        "unsplashUrl": "https://unsplash.com/photos/man-playing-soccer-game-on-field-AWdCgDDedH0"
-      },
-      "timeAgo": "59 dk önce",
-      "body": "Süper Lig'de futbol heyecanı tüm hızıyla devam ederken, takımların sahadaki mücadelesinin yanı sıra transfer kulisleri de hareketliliğini sürdürüyor. Bu kapsamda adı son günlerde İtalya Serie A ekiplerinden Roma ile anılan Fenerbahçe'nin başarılı futbolcusu Jayden Oosterwolde hakkında, futbol dünyasında ve taraftarlar arasında çeşitli spekülasyonlar yer alıyordu. Sezonun kritik dönemecinde, takımdaki geleceği merak konusu olan genç oyuncunun adı, ara transfer dönemi yaklaşırken sıklıkla transfer dedikodularına karışmıştı. \n\nSöz konusu gelişmelerin gölgesinde, Fenerbahçe'nin Konyaspor ile oynadığı karşılaşmanın ardından stadyum çıkışında basın mensuplarının ve taraftarların odağındaki isimlerden biri haline gelen Jayden Oosterwolde, hareketli dakikalar yaşanmasına neden oldu. Müsabakanın tamamlanmasının ardından stat binasından ayrılmak üzere otoparka yönelen sarı-lacivertli oyuncu, bu esnada çevredeki futbolseverler ve medya mensupları tarafından akıllardaki sorulara maruz kaldı. \n\nYoğun ilgi altında aracına doğru ilerleyen başarılı savunma oyuncusuna, özellikle son dönemde artan İtalyan kulübü Roma ile ilgili transfer iddiaları hatırlatıldı. Kalabalığın arasından kendisine yöneltilen 'Fenerbahçe'de kalacak mısın?' sorusu karşısında sessiz kalmayan ve dikkatleri üzerine çeken Jayden Oosterwolde, merakla beklenen bu soruya kısa ve net bir yanıt verdi. \n\nFutbolcunun vermiş olduğu bu yanıt, kısa süre içerisinde spor kamuoyunda ve sosyal medya platformlarında geniş yankı uyandırarak en çok konuşulan başlıklar arasına girdi. Hem kulüp yönetiminin hem de teknik heyetin sezon planlamasında önemli bir yere sahip olan oyuncunun durumu, sarı-lacivertli camiada yakından takip ediliyor. Özellikle taraftarlar, başarılı ismin takımda kalıp kalmayacağına dair yapılacak resmi açıklamaları ve gelişmeleri büyük bir dikkatle izliyor.\n\nBilindiği üzere, futbol endüstrisinde bu tür transfer dönemleri, kulüpler ile futbolcular arasında yeni kararların alındığı ve geleceğe yönelik stratejilerin belirlendiği kritik zaman dilimleri olarak öne çıkıyor. Jayden Oosterwolde'nin adı geçen İtalyan kulübüyle anılması da bu konjonktürde değerlendirilirken, oyuncunun stadyum çıkışındaki tavrı ve yöneltilen soruya verdiği karşılık, mevcut belirsizliğin bir süre daha gündemde kalacağının sinyallerini verdi. \n\nSonuç olarak, Konyaspor karşılaşmasının ardından yaşanan bu olay, transfer piyasasındaki hareketliliğin sahadaki rekabetle ne kadar iç içe olduğunu bir kez daha gözler önüne serdi. Fenerbahçe forması giyen genç futbolcunun geleceğinin ne yönde şekilleneceği, önümüzdeki günlerde gerçekleşecek görüşmelerin ve yönetim kurulunun alacağı kararların ardından netlik kazanacak olup, spor basınının ve futbolseverlerin bu konudaki yakın takibi devam etmektedir.",
-      "highlights": [
-        "Jayden Oosterwolde'nin adı son günlerde Roma ile anılıyordu.",
-        "Konyaspor maçı sonrası stadyumdan ayrılırken kendisine soru yöneltildi.",
-        "Fenerbahçe'de kalıp kalmayacağına dair verdiği yanıt dikkat çekti."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/oosterwoldeden-fenerbahcede-kalacak-misin-sorusuna-yanit-43282064",
-      "publishedAt": "2026-08-22T21:36:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/saglik/gol-keyfi-kabusu-oldu-beyin-yiyen-amip-alarmi-3457674",
-      "headline": "Louisiana'da gölde yüzen kişide 'beyin yiyen amip' şüphesi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1571161535093-e7642c4bd0c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bGFrZSUyMHdhdGVyfGVufDF8MHx8fDE3ODc0MjU2MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rasmus Gundorff Sæderup",
-        "photographerUrl": "https://unsplash.com/@rasmusgs",
-        "unsplashUrl": "https://unsplash.com/photos/body-of-water-HpaDxLjg2kQ"
-      },
-      "timeAgo": "şimdi",
-      "body": "Amerika Birleşik Devletleri'nin Louisiana eyaletinde serinlemek amacıyla göle giren bir kişinin, halk arasında \"beyin yiyen amip\" olarak bilinen ciddi bir enfeksiyon şüphesiyle hastaneye kaldırıldığı bildirildi.\n\nLouisiana Sağlık Bakanlığı tarafından yapılan bilgilendirmede, söz konusu kişinin eyaletin kuzey kesiminde yer alan Claiborne Gölü'nde yüzdüğü ifade edildi. Yetkililer, hastanın gölde bulunduğu sırada \"Naegleria fowleri\" adlı mikroskobik canlıyla temas etmiş olabileceği ihtimali üzerinde duruyor.\n\nTatlı su alanlarında meydana gelen bu tür vakalar son derece nadir kaydedilse de insan sağlığı üzerinde son derece ağır sonuçlara yol açabiliyor. Hastanede tıbbi gözetim altına alınan kişinin durumuna ilişkin detaylı incelemelerin sürdüğü öğrenildi.\n\nSıcak havalarda tatlı su kaynaklarında çoğalabilen Naegleria fowleri adlı amip, vücuda çoğunlukla burun yoluyla giriş yapıyor. Burun kanalını takip ederek beyin dokusuna ulaşan mikroorganizma, burada hızla ilerleyen ve hayati risk oluşturan enfeksiyonlara zemin hazırlıyor.\n\nEyalet sağlık yetkilileri, olayın gerçekleştiği Claiborne Gölü ve çevresindeki gelişmeleri yakından izliyor. Vakaya dair kesin tanının konulması ve enfeksiyonun doğrulanması amacıyla laboratuvar tetkiklerinin titizlikle yürütüldüğü kaydedildi.\n\nUzmanlar ve ilgili kurumlar, özellikle yaz aylarında tatlı su birikintilerinde ve göllerde yüzen vatandaşların bu tür nadir fakat tehlikeli durumlara karşı tedbirli olmaları gerektiğine dikkat çekiyor.",
-      "highlights": [
-        "ABD'nin Louisiana eyaletinde bir kişi, Claiborne Gölü'nde yüzdükten sonra hastaneye kaldırıldı.",
-        "Louisiana Sağlık Bakanlığı, hastanın Naegleria fowleri amibiyle temas etmiş olabileceğini duyurdu.",
-        "Nadir görülen ancak ciddi sonuçlar doğuran enfeksiyon şüphesiyle ilgili tetkikler devam ediyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/saglik/gol-keyfi-kabusu-oldu-beyin-yiyen-amip-alarmi-3457674",
-      "publishedAt": "2026-08-22T21:33:59.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/malatyada-alevlerin-arasinda-can-pazari-itfaiye-ekipleri-yavru-kopegi-yanmaktan-kurtardi-4850228",
-      "headline": "Malatya'da anız yangını: Alevlerin arasından yavru köpek kurtarıldı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1656110075078-aa3c30c5ce47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZmlyZWZpZ2h0ZXIlMjBwdXBweXxlbnwxfDB8fHwxNzg3NDQwNjU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Aaron James",
-        "photographerUrl": "https://unsplash.com/@aaronjamesmedia_co",
-        "unsplashUrl": "https://unsplash.com/photos/a-dog-on-a-leash-N2z2ERc3H8Q"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Malatya ilimizin Akçadağ ilçesinde, henüz belirlenemeyen bir sebepten ötürü çıkan ve kısa sürede büyüyerek çevreye yayılan anız yangını, bölgeye sevk edilen itfaiye ekiplerinin zamanında ve etkin müdahalesi sayesinde kontrol altına alınarak tamamen söndürüldü. Günlük yaşamı ve tarım alanlarını tehdit eden bu tür olaylar, çevre güvenliği ve canlı yaşamı açısından büyük riskler barındırması nedeniyle ekipleri anında harekete geçiriyor.\n\nEdinilen bilgilere göre, Akçadağ sınırları içerisinde yer alan tarım arazilerindeki anızlık alanda birdenbire başlayan yangın, rüzgarın da etkisiyle hızla yayıldı. Metrelerce yüksekliğe ulaşan alevler gökyüzünü kaplarken, çevredeki vatandaşların durumu bildirmesi üzerine olay yerine çok sayıda itfaiye ekibi sevk edildi. Yangının büyüklüğü ve kontrolsüz yayılımı, bölgedeki tehlikenin boyutunu gözler önüne serdi.\n\nOlay yerinde alevlerle mücadele eden itfaiye erleri, bir yandan yangını söndürmek için yoğun çaba sarf ederken, diğer yandan da bölgede olası diğer tehlikeleri önlemek için arama tarama faaliyeti yürüttü. Yapılan bu çalışmalar sırasında, alevlerin ortasında mahsur kaldığı tespit edilen küçük bir yavru köpek fark edildi. Yoğun duman ve yüksek ısı altında zor anlar yaşayan hayvan, ekiplerin dikkatli ve hızlı hamlesiyle son anda güvenli bir bölgeye taşındı.\n\nKurtarılan yavru köpeğin sağlık durumunun iyi olduğu ve alevlerin hedefi olmaktan kıl payı kurtulduğu öğrenildi. İtfaiye ekiplerinin hem doğayı hem de canlıları korumak adına yürüttüğü bu özverili çalışma, bölge halkı tarafından takdirle karşılandı. Yangının tamamen söndürülmesinin ardından ekipler, soğutma çalışmalarını tamamlayarak olay yerinden ayrıldı.\n\nBu tür anız yangınlarının doğaya, tarım topraklarına ve yaban hayatına verdiği zararlar bir kez daha bu olayla birlikte gündeme geldi. Yetkililer, benzer olayların tekrar yaşanmaması ve can kayıplarının önlenmesi adına vatandaşların daha duyarlı ve dikkatli olmaları gerektiğini vurguladı. Akçadağ'daki bu olay, itfaiye teşkilatının sadece yapıları değil, aynı zamanda dilsiz dostlarımızı da kurtarmak için ne kadar büyük bir fedakarlıkla çalıştığını bir kez daha kanıtlamış oldu.",
-      "highlights": [
-        "Malatya'nın Akçadağ ilçesinde anız yangını çıktı.",
-        "İtfaiye ekipleri alevleri büyümeden kontrol altına aldı.",
-        "Mahsur kalan yavru köpek son anda kurtarıldı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/malatyada-alevlerin-arasinda-can-pazari-itfaiye-ekipleri-yavru-kopegi-yanmaktan-kurtardi-4850228",
-      "publishedAt": "2026-08-22T21:33:31.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "headline": "Açık hava sineması Harkum'da film gecelerini yeniden canlandırıyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1527979809431-ea3d5c0c01c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8b3BlbiUyMGFpciUyMGNpbmVtYXxlbnwxfDB8fHwxNzg3NDM2MDg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zhifei Zhou",
-        "photographerUrl": "https://unsplash.com/@phoebezzf",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-sitting-on-raw-gray-chairs-XO4A1pWBEbE"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "Sudan'ın başkenti Harkum'da hayata geçirilen açık hava sineması, bölge sakinlerine savaş ortamından kısa bir süreliğine de olsa uzaklaşma imkanı sunuyor. Son dönemde yaşanan çatışmalar ve zorlu yaşam koşulları nedeniyle sosyal hayatın büyük ölçüde sekteye uğradığı şehirde, sinema gösterimleri yeniden dikkat çeken bir buluşma noktası haline geldi. Bu kapsamda, özellikle aileler ve çocuklu ebeveynler, açık havadaki film gösterimlerine yoğun bir katılım göstererek uzun bir aradan sonra sinema salonu deneyimini yeniden yaşamaya başladı.\n\nSöz konusu açık hava sineması etkinliği, kentin karmaşası ve çatışmaların yarattığı baskı altında hayata tutunmaya çalışan Harkum sakinleri için adeta nefes alacak bir alan oluşturuyor. Günlük hayatın getirdiği stres, güvenlik endişeleri ve ekonomik zorluklarla mücadele eden siviller, bu tür kültürel ve sosyal etkinlikler sayesinde bir nebze olsun moral buluyor. Sinema gösterimlerinin yapıldığı alan, katılımcılara güvenli ve huzurlu bir ortamda bir araya gelme fırsatı tanırken, toplumsal dayanışma duygusunu da pekiştiriyor.\n\nUzun süredir devam eden çatışmaların gölgesinde yaşayan Harkum halkı, kültürel etkinliklerin ve sanatsal faaliyetlerin kısıtlandığı bir dönemden geçiyor. Bu bağlamda, açık hava sineması gibi girişimler sadece bir eğlence aracı olmanın ötesinde, şehrin normalleşme çabalarının da simgelerinden biri olarak öne çıkıyor. Aileler, çocuklarıyla birlikte bu etkinliklere katılarak hem sosyal hayata yeniden karışıyor hem de yaşanan trajedilerin ve gerilimin yarattığı psikolojik yükü hafifletmeye çalışıyor.\n\nSinema biletlerine ve gösterim alanına olan ilginin her geçen gün arttığı gözlemlenirken, organizasyonun kentin farklı mahallelerinde yaşayan insanları bir araya getirdiği belirtiliyor. Farklı kesimlerden gelen vatandaşlar, aynı açık hava ekranı etrafında toplanarak ortak bir kültürel deneyimi paylaşıyor. Bu durum, Harkum'daki toplumsal dokunun korunması ve insanların ortak yaşam alanlarında yeniden bir araya gelebilmesi açısından da önem taşıyor.\n\nYetkililer ve organizatörler, bu tür açık hava etkinliklerinin güvenli koşullar altında sürdürülebilmesi için çeşitli önlemler almaya devam ediyor. Savaşın getirdiği yıkım ve belirsizlik ortamına rağmen, sinema gösterimleri Harkum sakinlerine geleceğe dair umut aşılamayı sürdürüyor. Açık hava sineması projesi, zor koşullar altında dahi sanatın ve insan bir araya gelme arzusunun varlığını sürdürebileceğinin somut bir örneği olarak kayda geçiyor.",
-      "highlights": [
-        "Harkum'da kurulan açık hava sineması, ailelere savaş ortamından uzaklaşma şansı tanıyor.",
-        "Bölge sakinleri, film gösterimleri sayesinde günlük çatışma stresinden bir süre uzaklaşıyor.",
-        "Etkinlik, kentteki sosyal hayatın canlanmasına ve toplumsal dayanışmaya katkı sağlıyor."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
-      "publishedAt": "2026-08-22T21:27:22.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-lyondan-kaliteliyiz-43282051",
-      "headline": "Vedat Muriqi: Lyon'dan kaliteliyiz",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1785807047596-3f3abd23df6a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBwbGF5ZXJzJTIwcHJlc3MlMjBjb25mZXJlbmNlfGVufDF8MHx8fDE3ODc0NDA2NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kauê Martins Bergamasco",
-        "photographerUrl": "https://unsplash.com/@_raccoon_holmes",
-        "unsplashUrl": "https://unsplash.com/photos/politicians-at-a-press-conference-with-a-futuro-glorioso-backdrop-J3hCskIN-YY"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türk futbolunun köklü kulüplerinden Fenerbahçe'nin formasını giyen profesyonel futbolcu Vedat Muriqi, takımdaki diğer oyuncular Mason Greenwood ve Marco Asensio ile birlikte son oynanan Konyaspor müsabakasının ardından basın mensuplarının karşısına geçerek dikkat çekici değerlendirmelerde bulundu. Süper Lig'de ve kulüp kulvarında yaşanan rekabetin yanı sıra takımın genel performansı ve hedefleri üzerine yapılan bu açıklamalar, sarı-lacivertli camiada ve futbol kamuoyunda geniş yankı uyandırdı.\n\nSöz konusu karşılaşmanın ardından gerçekleştirilen medya buluşmasında, Fenerbahçe'nin hücum hattındaki önemli isimlerden biri olan Vedat Muriqi, takımın potansiyeline ve uluslararası alandaki rekabet gücüne dair iddialı ifadeler kullandı. Tecrübeli golcü, takım arkadaşlarının da katılımıyla yapılan bu değerlendirmede, özellikle Avrupa sahnesinde ve genel güç dengelerinde sarı-lacivertli ekibin konumunu öven açıklamalara imza attı. Muriqi'nin bu çıkışı, taraftarlar arasında büyük bir heyecan yaratırken, kulübün sezon boyunca sürdüreceği performans açısından da bir motivasyon unsuru olarak değerlendirildi.\n\nBilindiği üzere Süper Lig ve Türkiye kupası gibi yerel organizasyonların yanı sıra, takımların sezon içindeki form durumları, oyuncu demeçleriyle sık sık gündeme gelmektedir. Konyaspor mücadelesi sonrasında verilen bu demeçler, sadece o anki maçın skorundan ziyade, takımın genel vizyonunu ve gelecek haftalardaki hedeflerini yansıtması bakımından önem taşıyor. Teknik heyet ve yönetim tarafından da yakından takip edilen bu süreçte, oyuncuların sahada olduğu kadar saha dışında da birlik ve iddia ortaya koyması, takım içi uyumun bir göstergesi olarak yorumlanıyor.\n\nFenerbahçe forması terleten Vedat Muriqi, Mason Greenwood ve Marco Asensio gibi uluslararası düzeyde tanınan ve kariyerlerinde önemli başarılar barındıran futbolcuların aynı platformda yaptıkları bu ortak açıklamalar, kulübün transfer politikasının ve kadro kalitesinin de bir yansıması niteliğindedir. Bu isimlerin Konyaspor karşılaşması sonrasında dile getirdiği görüşler, hem yerel ligdeki rakiplere hem de Avrupa'daki olası rakiplere karşı verilen güçlü bir mesaj olarak dikkat çekti.\n\nSon dönemde futbol gündeminin en üst sıralarında yer alan bu gelişmeler, sarı-lacivertli taraftarların takıma olan inancını pekiştirirken, spor medyasında da futbolcuların bu özgüvenli duruşu üzerine çeşitli tartışma programları ve analizler yapılmasına zemin hazırladı. Vedat Muriqi'nin öncülüğünde yapılan bu açıklamaların, takımın önümüzdeki maçlarda sahaya yansıtacağı motivasyonu doğrudan etkilemesi bekleniyor.",
-      "highlights": [
-        "Fenerbahçeli futbolcular Konyaspor maçı sonrası konuştu.",
-        "Vedat Muriqi'den Lyon kıyaslaması ve iddialı sözler.",
-        "Mason Greenwood ve Marco Asensio da açıklamalarda bulundu."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/vedat-muriqi-lyondan-kaliteliyiz-43282051",
-      "publishedAt": "2026-08-22T21:26:30.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-lubnanin-guneyindeki-saldirilari-suruyor/4034864",
-      "headline": "İsrail ordusunun ateşkese rağmen Lübnan'ın güneyindeki saldırıları sürüyor",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1561323577-5b76286cb15f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bWlsaXRhcnklMjBleHBsb3Npb258ZW58MXwwfHx8MTc4NzQzNDg2OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Chandler Cruttenden",
-        "photographerUrl": "https://unsplash.com/@chanphoto",
-        "unsplashUrl": "https://unsplash.com/photos/green-helicopter-near-big-fire-NLD95k-yDkY"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Orta Doğu'da tansiyonun yüksek seyrettiği süreçte, bölgeden gelen son dakika haberleri sahadaki kırılgan durumun devam ettiğini gözler önüne seriyor. Alınan bilgilere göre, varılan ateşkes mutabakatına rağmen İsrail ordusunun Lübnan'ın güney kesimlerine yönelik askeri operasyonları ve taarruzları hız kesmeden devam ediyor. Bölge kaynaklarından aktarılan detaylara göre, İsrail güçleri tarafından söz konusu hatta hem havadan hem de karadan yoğun bir baskı uygulanıyor.\n\nGerçekleştirilen askeri faaliyetler yalnızca belirli noktalarla sınırlı kalmıyor; sahadaki yansımaları oldukça geniş bir alana yayılıyor. Bu bağlamda, Lübnan'ın güneyindeki yerleşim yerleri ve kırsal bölgeler, İsrail ordusunun hava saldırılarının hedefi olmaya devam ediyor. Hava taarruzlarının yanı sıra bölgede geniş çaplı patlatma faaliyetlerinin de icra edildiği rapor ediliyor. Bu durum, yerel altyapı üzerinde derin bir tahribat yaratırken, sahadaki sivil yaşamı da doğrudan tehdit eden unsurlar arasında yer alıyor.\n\nSaldırıların bir diğer dikkat çekici boyutunu ise ağır silah mühimmatlarının kullanımı oluşturuyor. Sahadan edinilen bilgilere göre, İsrail birlikleri tarafından Lübnan'ın güneyine yönelik topçu atışları da aralıksız sürdürülüyor. Bu topçu atışlarında, uluslararası alanda tartışmalı ve sivil yerleşimler açısından ciddi riskler barındıran fosfor bombalarının da kullanıldığı belirtiliyor. Söz konusu mühimmat türü, hem yangın çıkarma kapasitesi hem de insan sağlığı üzerindeki kalıcı ve tehlikeli etkileri nedeniyle bölgedeki endişeleri en üst seviyeye tırmandırıyor.\n\nBölgede ilan edilen ateşkese rağmen bu tür yoğun saldırıların ve ağır mühimmat kullanımının sürmesi, diplomatik çabaların sahadaki karşılığını sorgulatıyor. Uzmanlar, taraflar arasında varılan mutabakatların uygulama aşamasında ciddi ihlallerle karşı karşıya kaldığına dikkat çekiyor. Lübnan'ın güneyindeki siviller, artan bu şiddet dalgası ve devam eden askeri hareketlilik karşısında belirsizlik ve güvenlik kaygısıyla mücadele etmeyi sürdürüyor.\n\nİsrail ordusunun bölgedeki varlığını ve operasyonel kapasitesini koruması, önümüzdeki döneme ilişkin barış umutlarını zayıflatıyor. Bölge genelinde istikrarın sağlanması amacıyla uluslararası platformlarda yürütülen diplomatik girişimler sürerken, sahadaki bu fiili durum krizin derinleşmesine zemin hazırlıyor. Yetkililer, ateşkes şartlarının eksiksiz bir şekilde uygulanması ve ihlallerin son bulması yönündeki çağrılarını yinelese de, sahadan gelen raporlar çatışma halinin halihazırda varlığını koruduğunu net bir biçimde ortaya koyuyor.",
-      "highlights": [
-        "İsrail ordusu, ateşkese rağmen Lübnan'ın güneyine yönelik saldırılarını sürdürüyor.",
-        "Bölgede hava saldırıları ve geniş çaplı patlatma faaliyetleri aralıksız devam ediyor.",
-        "Askeri operasyonlar kapsamında fosfor bombalı topçu atışları da gerçekleştiriliyor."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-ateskese-ragmen-lubnanin-guneyindeki-saldirilari-suruyor/4034864",
-      "publishedAt": "2026-08-22T21:25:14.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/turkiye-slovenya-voleybol-maci-ne-zaman-saat-kacta-turkiye-slovenya-voleybol-maci-hangi-kanalda-avrupa-sampiyonasi-filenin-sultanlari-mac-takvimi-3907408",
-      "headline": "Türkiye-Slovenya voleybol maçı ne zaman ve saat kaçta? Filenin Sultanları Avrupa Şampiyonası'nda sahne alıyor",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1547347298-4074fc3086f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dm9sbGV5YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3ODc0NDI5OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vince Fleming",
-        "photographerUrl": "https://unsplash.com/@vincefleming",
-        "unsplashUrl": "https://unsplash.com/photos/women-playing-volleyball-inside-court-aZVpxRydiJk"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "Uluslararası voleybol takvimi içerisinde büyük bir heyecana sahne olan CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası tüm hızıyla devam ederken, Türk sporseverlerin gözü kulağı A Milli Kadın Voleybol Takımı'nın alacağı sonuçlara çevrilmiş durumda. Ülkemizi uluslararası arenada gururla temsil eden ve 'Filenin Sultanları' olarak anılan ay-yıldızlı millilerimiz, şampiyonadaki mücadelesini büyük bir kararlılıkla sürdürüyor. Turnuvanın açılış karşılaşmasında rakibi Letonya ile parkede karşı karşıya gelen milli takımımız, üstün bir performans ortaya koyarak sahadan 3-0'lık net bir galibiyetle ayrılmayı başarmıştı. Bu başarılı başlangıç, hem takımın moralini en üst seviyeye çıkardı hem de şampiyonluk yolundaki iddiamızı bir kez daha gözler önüne serdi.\n\nLetonya karşısında elde edilen bu konforlu ve moral verici galibiyetin ardından, A Milli Kadın Voleybol Takımı'mız şimdi çok daha kritik bir eşiğe odaklanmış durumda. Millilerimiz, Avrupa Şampiyonası serüvenindeki ikinci sınavında Slovenya voleybol takımı ile kozlarını paylaşmaya hazırlanıyor. Spor kamuoyu ve milyonlarca voleybol sever, bu zorlu mücadelenin ne zaman oynanacağını, hangi saatte başlayacağını ve hangi televizyon kanalından canlı olarak ekranlara geleceğini büyük bir merakla araştırmayı sürdürüyor. Turnuvanın genel dinamikleri göz önüne alındığında, gruptaki her bir karşılaşmanın sıralama ve ilerleyen turlar açısından stratejik bir önem taşıdığı açıkça görülüyor.\n\nTeknik heyet ve sporcularımız, Slovenya karşısında da aynı disiplin ve odaklanmayla sahaya çıkmayı planlıyor. Ay-yıldızlı ekibimiz, güçlü rakibi Slovenya engelini de kayıpsız bir şekilde aşarak, Avrupa Voleybol Şampiyonası'nda yoluna namağlup ve kayıpsız devam etmeyi hedefliyor. Türk voleybolunun son yıllarda elde ettiği uluslararası başarılar, Filenin Sultanları'nın her turnuvada en büyük favoriler arasında gösterilmesini sağlarken, bu maç da bu geleneğin sürdürülmesi adına ayrı bir önem taşıyor. Takım içerisindeki uyum, tecrübeli oyuncuların liderliği ve genç yeteneklerin enerjisi, şampiyonluk yolunda en büyük güvencelerimiz arasında yer alıyor.\n\nAvrupa'nın en büyük milli takımlar organizasyonlarından biri olan bu dev şampiyona, sadece sportif bir rekabet olmanın ötesinde, ülkelerin voleybol ekollerinin buluştuğu bir platform niteliği taşıyor. A Milli Kadın Voleybol Takımı'mız da bu platformda Türkiye'yi en iyi şekilde temsil etmek için var gücüyle ter döküyor. Slovenya maçı öncesinde tüm hazırlıklarını titizlikle sürdüren millilerimiz, maç saatini beklemeye başladı. Spor severler ise Türkiye-Slovenya voleybol maçının tarihi, saati ve yayıncı kuruluş detaylarını öğrenmek için resmi takvim açıklamalarını ve spor medyasını yakından takip ediyor.\n\nŞampiyonanın ilerleyen aşamalarında daha zorlu rakiplerle karşılaşacak olan Filenin Sultanları için grup aşamasındaki her galibiyet, hem özgüven hem de turnuva ritmini yakalamak adına büyük bir fırsat sunuyor. Slovenya maçı da bu ritmin korunması adına kritik bir basamak teşkil ediyor. Ay-yıldızlı ekibimizin sahaya koyacağı mücadele, sadece bu maçın sonucunu değil, aynı zamanda turnuvanın geri kalanı için de önemli ipuçları verecek. Milyonların desteğini arkasına alan millilerimiz, Türk bayrağını en yukarılara taşımak için parkede tüm gücünü ortaya koyacak.",
-      "highlights": [
-        "A Milli Kadın Voleybol Takımı, CEV Trendyol 2026 Kadınlar Avrupa Voleybol Şampiyonası'nda mücadelesini sürdürüyor.",
-        "Filenin Sultanları, turnuvaya Letonya karşısında aldığı 3-0'lık net galibiyetle başlamıştı.",
-        "Ay-yıldızlılar, Slovenya engelini de aşarak Avrupa Şampiyonası'nda yoluna kayıpsız devam etmeyi hedefliyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/turkiye-slovenya-voleybol-maci-ne-zaman-saat-kacta-turkiye-slovenya-voleybol-maci-hangi-kanalda-avrupa-sampiyonasi-filenin-sultanlari-mac-takvimi-3907408",
-      "publishedAt": "2026-08-22T21:24:59.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/kelkit-seker-fasulyesi-ile-dunya-rekoru-kirildi-tek-kazanda-6-bin-840-litre-pisirildi-4850224",
-      "headline": "Kelkit şeker fasulyesi ile dünya rekoru kırıldı: Tek kazanda 6 bin 840 litre pişirildi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1779357806743-0426094a6515?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Z2lhbnQlMjBwb3R8ZW58MXwwfHx8MTc4NzQ0MTk4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Random Institute",
-        "photographerUrl": "https://unsplash.com/@randominstitute",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-collection-of-terracotta-and-ceramic-pots-displayed-outdoors-CC_61Q3oxI4"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türkiye'nin gastronomi alanındaki uluslararası başarılarına bir yenisi daha eklendi. Gümüşhane ilinin sınırları içerisinde yer alan Kelkit ilçesinde, bölgenin tescilli lezzeti olan coğrafi işaretli Kelkit Şeker Fasulyesi ile dev bir organizasyona imza atıldı. Gerçekleştirilen bu etkinlik kapsamında, devasa boyutlardaki tek bir kazanda tam 6 bin 840 litre kuru fasulye pişirilerek eşine az rastlanır bir organizasyon tamamlandı.\n\nBu dev organizasyon, daha önce kırılmış olan uluslararası bir rekorun da hedefi haline geldi. Kayıtlara geçen bilgilere göre, 2012 yılında Kuzey Makedonya'da gerçekleştirilen benzer bir etkinlikte tek kazanda 5 bin 600 litre kuru fasulye pişirilmiş ve bu miktar o dönem kırılan rekor olarak tescillenmişti. Kelkit'te hazırlanan 6 bin 840 litrelik dev porsiyon, bu önceki rekoru açık ara geride bırakarak yeni zirvenin sahibi oldu.\n\nElde edilen bu dikkat çekici başarı, resmiyet kazanarak tescillendi. Gerçekleştirilen rekor denemesi ve elde edilen hacim sonucunda Kelkit, adını resmen Guinness Dünya Rekorlar Kitabı'na yazdırmayı başardı. Söz konusu gelişme, hem ilçe genelinde hem de ülke çapında memnuniyetle karşılanırken, bölgenin tarımsal potansiyelinin ve yöresel ürünlerinin uluslararası düzeyde tanıtılması açısından da önemli bir eşik olarak değerlendirildi.\n\nCoğrafi işaretli bir ürün olan Kelkit Şeker Fasulyesi'nin bu denli büyük bir organizasyonda kullanılması, yerel değerlerin korunması ve yaşatılması çalışmalarına da katkı sundu. Uzun hazırlık süreçlerinin ardından tek kazanda binlerce litre yemeğin pişirilmesi, yerel halkın ve yetkililerin katılımıyla organize edildi. Organizasyon alanında toplanan kalabalık, rekorun kırılmasıyla birlikte büyük bir sevinç yaşadı.\n\nDünya rekorunun Kelkit'e geçmesiyle birlikte, bölgenin adını duyuran bu tarımsal ürünün tanınırlığının daha da artması bekleniyor. Kuzey Makedonya'daki eski rekorun geride bırakılmasıyla sonuçlanan bu girişim, Gümüşhane ve Kelkit adının uluslararası rekorlar platformunda anılmasını sağladı. Yetkililer ve organizasyonda emeği geçenler, coğrafi işaretli ürünlerin bu tür global başarılarla taçlandırılmasının önemine dikkat çekti.",
-      "highlights": [
-        "Kelkit'te coğrafi işaretli şeker fasulyesiyle rekor denemesi yapıldı.",
-        "Tek kazanda pişirilen 6 bin 840 litre fasulye ile rekor kırıldı.",
-        "Kuzey Makedonya'nın 2012'deki rekoru geride bırakılarak kitaba girildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/kelkit-seker-fasulyesi-ile-dunya-rekoru-kirildi-tek-kazanda-6-bin-840-litre-pisirildi-4850224",
-      "publishedAt": "2026-08-22T21:24:42.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/dunya/trumpa-mahkemeden-kotu-haber-43282054",
-      "headline": "Trump yönetiminin vize askıya alma politikasına mahkemeden iptal kararı",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1618771623063-6c3faa854a61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRyb29tJTIwZ2F2ZWx8ZW58MXwwfHx8MTc4NzQzNjA5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sasun Bughdaryan",
-        "photographerUrl": "https://unsplash.com/@sasun1990",
-        "unsplashUrl": "https://unsplash.com/photos/judges-gavel-and-open-book-on-table-ozS0tPf8QT0"
-      },
-      "timeAgo": "37 dk önce",
-      "body": "Amerika Birleşik Devletleri'nin New York eyaletinde bulunan bir bölge mahkemesinden, Başkan Donald Trump yönetiminin dış politika ve göçmenlik uygulamaları bağlamında hayata geçirdiği tartışmalı bir uygulamaya yönelik önemli bir hukuki karar çıktı. Alınan bu yargı kararı, Afganistan, İran, Rusya ve Somali gibi devletlerin de aralarında bulunduğu toplam 75 farklı ülkenin vatandaşlarını etkileyen vize işlemlerinin askıya alınması politikasını doğrudan hedef aldı. Bilindiği üzere, uluslararası seyahatler, göç süreçleri ve diplomatik ilişkiler açısından geniş yankı uyandıran bu tür uygulamalar, dünya genelinde pek çok insanı ve konsolosluk süreçlerini yakından ilgilendiriyor. New York'taki bölge mahkemesinin verdiği bu iptal kararı, söz konusu devletlerin vatandaşlarının vize süreçlerine dair getirilen kısıtlamaların hukuki altyapısını sarstı.\n\nİlgili vize askıya alma politikası, yürürlüğe girdiği günden bu yana hem hukuki çevrelerde hem de kamuoyunda çeşitli tartışmalara sebep oluyordu. Afganistan, İran, Rusya ve Somali gibi farklı coğrafyalardan ve hassas bölgelerden gelen bireylerin Amerika Birleşik Devletleri vizesi alabilme süreçlerini sekteye uğratan bu politika, mahkemenin son müdahalesiyle yeni bir evreye taşındı. Hukuk sistemindeki bu tür gelişmeler, yürütme organının göçmenlik ve vize rejimi üzerindeki yetkilerinin sınırları konusunda önemli tartışmaları da beraberinde getiriyor. Uzmanlar, bu tarz yargı kararlarının idari makamların kararlarını denetlemede kritik bir rol oynadığını belirtirken, karar doğrultusunda ilgili vize işlemlerinin nasıl bir seyir izleyeceği merakla takip ediliyor.\n\nÖzellikle 75 ülkenin vatandaşlarını kapsadığı belirtilen bu geniş çaplı vize durdurma hamlesi, uluslararası alanda büyük yankı uyandırmış ve diplomatik ilişkilerden aile birleşimlerine kadar pek çok farklı alanı doğrudan etkilemişti. New York bölge mahkemesinin hakimleri tarafından incelenen dosya sonucunda verilen iptal kararı, bu süreçten zarar gören başvuru sahipleri ve ilgili hukuk örgütleri tarafından yakından izleniyor. Başkan Donald Trump yönetiminin göçmenlik politikaları ekseninde atılan bu adımın yargı engeline takılması, ABD iç politikasındaki kuvvetler ayrılığı mekanizmasının vize rejimine müdahalesinin somut bir örneğini oluşturuyor.\n\nSöz konusu kararın ardından, Afganistan, İran, Rusya ve Somali vatandaşları başta olmak üzere, vize başvuruları askıya alınan binlerce kişinin durumunun ne olacağı konusu da gündemdeki yerini koruyor. Mahkemenin iptal hükmü, idari makamların bu kısıtlayıcı politikaları uygulama biçimini yeniden gözden geçirmesini zorunlu kılabilir. Amerika Birleşik Devletleri'nin göçmenlik ve vize politikaları, geçmişten gün yana ülkenin iç ve dış siyasetinin en hararetli tartışma konularından biri olmaya devam ederken, New York'tan gelen bu son yargı kararı, bu alandaki hukuki mücadelenin uzun bir süre daha devam edeceğini gösteriyor.",
-      "highlights": [
-        "New York'taki bölge mahkemesi Trump yönetiminin vize politikasını iptal etti.",
-        "Karar Afganistan, İran, Rusya ve Somali dahil 75 ülkeyi kapsıyor.",
-        "Vize işlemlerinin askıya alınması uygulaması yargı engeline takıldı."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/dunya/trumpa-mahkemeden-kotu-haber-43282054",
-      "publishedAt": "2026-08-22T21:24:38.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
-      "headline": "Meghan Markle'ın The Gentlemen dizisindeki olası rolü İngiltere'deki tepkiler üzerine iptal edildi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1515634928627-2a4e0dae3ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZmlsbSUyMHNldHxlbnwxfDB8fHwxNzg3NDM0OTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Avel Chuklanov",
-        "photographerUrl": "https://unsplash.com/@chuklanov",
-        "unsplashUrl": "https://unsplash.com/photos/person-holding-clapperboard-Hn3S90f6aak"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "Sussex Düşesi Meghan Markle'ın, ünlü yönetmen Guy Ritchie imzalı popüler suç komedisi türündeki The Gentlemen dizisinin planlanan üçüncü sezon kadrosunda yer alacağına yönelik iddiaların ardından yeni bir gelişme yaşandı. Kamuoyunda ve basın organlarında geniş yankı uyandıran bu iddiaların, ülkede beklenmedik bir tartışma dalgası yarattığı bildirildi. Konuya dair dikkat çekici açıklamalar, Vanity Fair ve The New Yorker dergilerinin eski genel yayın yönetmeni olan deneyimli gazeteci Tina Brown tarafından hafta sonu yapıldı. Brown, cumartesi günü kaleme aldığı değerlendirmesinde, Sussex Düşesi'nin projeye dahil edilme sürecinin sonlandırıldığını duyurdu.\n\nMedya dünyasında ve eğlence sektöründe büyük ses getiren bu gelişme, özellikle yapımın arkasındaki isim olan Guy Ritchie'nin hayranları ve dizi takipçileri tarafından yakından takip ediliyordu. Netflix platformunda yayınlanan ve izleyicilerden büyük ilgi gören The Gentlemen, suç dünyasının karmaşık ve absürt dinamiklerini komedi unsurlarıyla harmanlayan yapısıyla biliniyor. Dizinin olası yeni sezonuna dair kulis bilgileri, projeye duyulan merakı artırırken, aynı zamanda farklı çevrelerden gelen eleştirilerin de odak noktası haline geldi. Özellikle İngiltere sınırları içinde yaşanan yoğun toplumsal ve medya tepkisi, projenin geleceği açısından kritik bir eşik oluşturdu.\n\nTina Brown'ın aktardığı bilgilere göre, Sussex Düşesi'nin dizi kadrosuna katılmasına yönelik hazırlıklar ilerleyen aşamalarda iptal edilmek durumunda kaldı. Kararın alınmasında, ülkedeki tepkilerin dozu ve geldiği noktanın belirleyici olduğu ifade edildi. İngiltere'de konuya ilişkin oluşan atmosferin giderek sertleşmesi ve tartışmaların kontrol edilemez bir boyuta ulaşması, yapımcılar ve ilgili taraflar açısından süreci sürdürülemez kıldı. Bu durum, özellikle yüksek bütçeli ve küresel çaptaki projelerin, yerel kamuoyu hassasiyetlerinden ne derece etkilenebildiğini bir kez daha gözler önüne serdi.\n\nSussex Düşesi Meghan Markle ve eşi Prens Harry, son yıllarda İngiliz medyası ve kamuoyu ile yaşadıkları çalkantılı ilişkilerle sıklıkla gündeme gelmeye devam ediyor. Kraliyet ailesindeki resmi görevlerinden ayrıldıktan sonra Amerika Birleşik Devletleri'ne yerleşen çift, medya projeleri ve yapımlarla adlarından söz ettirirken, İngiltere'deki toplumsal algı her adımda hassasiyetle izleniyor. The Gentlemen dizisi özelinde ortaya çıkan bu son durum, bu hassasiyetlerin eğlence ve dizi sektöründeki ticari ve sanatsal kararları doğrudan etkileyebileceğini gösteren somut bir örnek olarak kayıtlara geçti.\n\nDizinin yaratıcısı Guy Ritchie veya yapımcı şirketten henüz resmi ve kapsamlı bir doğrulama gelmemiş olsa da, Tina Brown gibi sektörün tanınmış bir figürünün bu bilgiyi paylaşmış olması iddialara ağırlık kazandırdı. Netflix'in geniş kitlelere ulaşan projelerinden biri olan The Gentlemen'ın üçüncü sezonuna dair hazırlıkların nasıl şekilleneceği ve bu iptal kararının senaryo ile kadro seçimlerine nasıl yansıyacağı önümüzdeki dönemde merakla bekleniyor. İngiltere'deki tepkilerin yatışıp yatışmayacağı ve yapım ekibinin sonraki adımlarının ne olacağı, dizi dünyasının yakından takip ettiği konular arasında yer almayı sürdürüyor.",
-      "highlights": [
-        "Meghan Markle'ın The Gentlemen dizisindeki olası rolü iptal edildi.",
-        "Kararın arkasında İngiltere'de oluşan yoğun tepkilerin olduğu belirtildi.",
-        "Gelişmeyi gazeteci Tina Brown kamuoyuna duyurdu."
-      ],
-      "externalUrl": "https://www.theguardian.com/film/2026/aug/22/meghan-markles-casting-in-the-gentlemen-reportedly-withdrawn-after-uk-backlash",
-      "publishedAt": "2026-08-22T21:23:18.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
