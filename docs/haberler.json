@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T23:54:25.003Z",
+  "generatedAt": "2026-08-24T01:03:54.772Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/yerel-haberler/bitlis/tatvanda-iki-aracin-carpistigi-kazada-4-kisi-yaralandi-3458046",
@@ -46,6 +46,121 @@
       "publishedAt": "2026-08-24T02:08:42.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/bartin/bartinda-yolcu-minibusuyle-otomobilin-carpistigi-kazada-11-kisi-yaralandi-3458048",
+      "headline": "Bartın'da yolcu minibüsü ile otomobil çarpıştı: 11 yaralı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673187139181-795761a40ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3ODc1MzM0MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Malik",
+        "photographerUrl": "https://unsplash.com/@usmanbim94",
+        "unsplashUrl": "https://unsplash.com/photos/two-cars-parked-next-to-each-other-in-a-parking-lot-cbXfPEOc1-k"
+      },
+      "timeAgo": "şimdi",
+      "body": "Bartın il sınırları içerisinde akşam saatlerinde meydana gelen trafik kazasında, bir yolcu minibüsü ile otomobilin çarpışması neticesinde aralarında yolcuların da bulunduğu toplam 11 kişi yaralandı. Kentte büyük bir endişeye yol açan olay, bölgedeki vatandaşların ve sürücülerin dikkati sayesinde daha büyük bir faciaya dönüşmeden ucuz atlatıldı. Kaza haberinin alınmasının ardından olay yerine çok sayıda sağlık ve güvenlik ekibi sevk edildi.\n\nEdinilen bilgilere göre kaza, Bartın genelinde ulaşımın sağlandığı güzergahlardan birinde, henüz belirlenemeyen bir sebepten ötürü iki aracın çarpışmasıyla gerçekleşti. Seyir halindeki yolcu minibüsü ile otomobilin henüz bilinmeyen bir noktada karıştığı kaza, çevredeki vatandaşlar tarafından büyük bir şokla karşılandı. Çarpışmanın şiddetiyle her iki araçta da maddi hasar meydana gelirken, araçların içerisinde bulunan bireyler kazanın etkisiyle yaralandı.\n\nKazanın ardından çevrede bulunan görgü tanıklarının ihbarı üzerine olay mahalline çok sayıda 112 Acil Sağlık, polis ve jandarma ekibi yönlendirildi. Kısa süre içerisinde kaza noktasına intikal eden sağlık personeli, yaralı vatandaşlara ilk müdahaleyi olay yerinde gerçekleştirdi. Yapılan ilk kontrollerin ardından yaralılar, ambulanslarla çevre hastanelere kaldırılarak tedavi altına alındı. Hastanelere sevk edilen 11 yaralının sağlık durumlarıyla ilgili detaylı incelemelerin sürdüğü bildirildi.\n\nÖte yandan, yaşanan bu kaza anına dair dikkat çekici bir detay da ortaya çıktı. Edinilen bilgilere göre, yolcu minibüsü ile otomobilin çarpışma anı, çevrede bulunan bir iş yerinin güvenlik kamerası tarafından saniye saniye kaydedildi. Güvenlik kameralarına yansıyan görüntüler, kazanın şiddetini ve o anlarda yaşanan hareketliliği gözler önüne serdi. İlgili birimlerin, kaza görüntülerini inceleme altına aldığı ve olayla ilgili soruşturma başlattığı öğrenildi.\n\nBu tür trafik kazaları, bölge halkı arasında ulaşım güvenliği konusundaki hassasiyeti bir kez daha artırırken, yetkililer sürücülerin trafikte daha dikkatli ve kurallara uygun hareket etmeleri yönündeki uyarılarını yinelendi. Bartın'da yaşanan ve 11 kişinin yaralanmasıyla sonuçlanan bu kaza, yerel gündemde geniş yankı uyandırırken, kazaya ilişkin adli ve idari tahkikatın tüm yönleriyle devam ettiği belirtildi.",
+      "highlights": [
+        "Bartın'da yolcu minibüsü ile otomobilin çarpışması sonucu 11 kişi yaralandı.",
+        "Olay yerine sevk edilen sağlık ekipleri, yaralıları çevredeki hastanelere kaldırdı.",
+        "Kaza anı, çevrede bulunan bir güvenlik kamerası tarafından saniye saniye kaydedildi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/bartin/bartinda-yolcu-minibusuyle-otomobilin-carpistigi-kazada-11-kisi-yaralandi-3458048",
+      "publishedAt": "2026-08-24T02:08:40.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/baba-ogul-arasinda-sigara-parasi-kavgasi-birbirlerini-bicakla-yaraladilar-1738623",
+      "headline": "Baba ile oğlu arasında sigara parası yüzünden bıçaklı kavga çıktı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1760001868370-9f6f1ce80a85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwYW1idWxhbmNlJTIwc3RyZWV0fGVufDF8MHx8fDE3ODc1MzM0MDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nico Knaack",
+        "photographerUrl": "https://unsplash.com/@xoxnk",
+        "unsplashUrl": "https://unsplash.com/photos/emergency-worker-directs-traffic-near-ambulance-feIcPEaAf_U"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Türkiye'nin iç kesimlerinde yer alan Kayseri ilinde, son derece ender rastlanabilecek ve trajikomik olduğu kadar tehlikeli boyutlara ulaşan bir aile içi şiddet olayı yaşandı. Kentin nüfus yoğunluğu bakımından önemli merkezlerinden biri olan Melikgazi ilçesinde meydana gelen olay, bölge sakinlerini ve kamuoyunu şaşkına çevirdi. Alınan bilgilere göre, bir baba ile aynı evde yaşayan oğlu arasında henüz belirlenemeyen bir sebepten ötürü başlayan tartışma, kısa sürede şiddetini artırdı. Tartışmanın ana odağının gündelik hayatta sıkça karşılaşılan ancak bu kez yıkıcı bir boyuta evrilen sigara parası meselesi olduğu öğrenildi.\n\nİddialara göre, baba ve oğul arasında finansal konulardan, özellikle de sigara masraflarının karşılanmasından ötürü patlak veren sözlü münakaşa, tarafların sinirlerine hakim olamamasıyla birlikte kısa sürede fiziksel bir arbedeye dönüştü. Ev içerisinde yaşanan gerginliğin tırmanması üzerine her iki taraf da kesici aletlere başvurdu. Karşılıklı olarak birbirlerine saldıran baba ve oğul, yaşanan arbede sırasında aldıkları bıçak darbeleri neticesinde yaralandı. Olayın mahalle sakinleri tarafından fark edilmesi ve durumun yetkili mercilere bildirilmesi üzerine bölgeye çok sayıda sağlık ve polis ekibi sevk edildi.\n\nKısa süre içerisinde olay yerine intikal eden 112 Acil Sağlık ekipleri, yaralı halde bulunan baba ile oğluna ilk müdahaleyi olay yerinde gerçekleştirdi. Yapılan ilk müdahalelerin ardından her iki yaralı da ambulanslarla çevredeki hastanelere kaldırılarak tedavi altına alındı. Hastanede tedavi süreçleri devam eden baba ve oğlun sağlık durumlarına ilişkin detaylı bilgi verilmezken, olayla ilgili olarak güvenlik güçleri tarafından kapsamlı bir soruşturma başlatıldığı bildirildi.\n\nMelikgazi ilçesindeki bu üzücü olay, aile içi iletişim kopukluklarının ve fevri davranışların ne denli büyük felaketlere yol açabileceğini bir kez daha gözler önüne serdi. Uzmanlar, bu tür tartışmaların büyümeden çözülmesi gerektiğini vurgularken, emniyet birimleri de benzer adli vakaların önlenmesi adına çalışmalarını sürdürüyor. Olayın tam olarak hangi saatte ve hangi mekan detaylarıyla gerçekleştiğine dair resmi makamlardan yapılacak açıklamalar beklenirken, Kayseri halkı yaşanan bu şok edici aile kavgasının yarattığı şaşkınlığı üzerinden atmaya çalışıyor.\n\nToplumsal huzurun ve aile içi bağların sorgulanmasına neden olan bu tür olaylar, adli makamların yanı sıra sosyal inceleme birimlerinin de dikkatini çekmektedir. Kayseri emniyeti, tarafların ifadelerinin alınması ve hastanedeki tedavi süreçlerinin tamamlanmasının ardından adli işlemlere devam edileceğini belirtti. Gündemin merakla takip edilen bu yerel olayı, küçük bir kıvılcımın bile ne denli büyük bir şiddet sarmalına dönüşebileceğinin en somut örneklerinden biri olarak kayıtlara geçti.",
+      "highlights": [
+        "Kayseri'nin Melikgazi ilçesinde baba ve oğul arasında sigara parası kavgası çıktı.",
+        "Tartışmanın büyümesiyle taraflar birbirlerini bıçaklayarak yaraladı.",
+        "Sağlık ekiplerince hastaneye kaldırılan yaralıların tedavisi sürüyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/baba-ogul-arasinda-sigara-parasi-kavgasi-birbirlerini-bicakla-yaraladilar-1738623",
+      "publishedAt": "2026-08-24T01:02:23.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/teknofestte-muhtesem-final-4850385",
+      "headline": "Teknofest Mavi Vatan Gölcük'teki etkinliklerle sona erdi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1698658546066-94f4f951246c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YWlyJTIwc2hvdyUyMGpldHxlbnwxfDB8fHwxNzg3NTMzNDA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "david hili",
+        "photographerUrl": "https://unsplash.com/@davidhili123",
+        "unsplashUrl": "https://unsplash.com/photos/a-fighter-jet-flying-through-a-blue-sky-SH1j81ticjs"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Türkiye'nin teknoloji ve savunma alanındaki en önemli etkinliklerinden biri olan festival, dört gün süren programın ardından tamamlandı. Denizcilik, teknoloji ve savunma sanayiini aynı çatı altında bir araya getiren organizasyon, katılımcılardan yoğun ilgi gördü. Ülkenin dört bir yanından gelen ziyaretçiler, etkinlik boyunca sergilenen son teknoloji ürünleri ve projeleri yakından inceleme fırsatı buldu.\n\nFestivalin kapanış gününde gerçekleştirilen etkinlikler ise büyük bir heyecana sahne oldu. Gölcük semalarında düzenlenen gösteri uçuşları, gökyüzünde renkli görüntüler oluştururken izleyicilerden tam not aldı. Vatandaşlar, Türk havacılığının yeteneklerini ve modern hava araçlarının performansını ilgiyle takip etti.\n\nProgramın en dikkat çekici anlarından biri de Türk komandolarının sahne aldığı performanslar oldu. Zorlu kabiliyetlerini ve disiplinlerini gözler önüne seren komandoların nefes kesen gösterileri, alandakiler tarafından büyük bir coşku ve alkışla izlendi.\n\nSavunma sanayii ve denizcilik temalarını halkla buluşturan organizasyon, gençlerin teknolojiye olan ilgisini artırmayı ve yerli üretim bilincini yaygınlaştırmayı amaçlıyor. Dört gün boyunca binlerce kişinin ziyaret ettiği etkinlik, hem sergilenen kabiliyetler hem de kapanış gösterileriyle hafızalarda yer edindi.\n\nEtkinliğin tamamlanmasıyla birlikte, gelecek yıllarda düzenlenecek benzer buluşmalar için de şimdiden hazırlık ve değerlendirme sürecinin başlaması bekleniyor. Mavi Vatan konseptiyle denizcilik ve teknolojinin birleştirildiği bu özel festival, türünün ilk örneklerinden biri olarak kayıtlara geçti.",
+      "highlights": [
+        "Dört gün süren festival denizcilik ve teknolojiyi buluşturdu.",
+        "Gölcük semalarındaki gösteri uçuşları büyük ilgi gördü.",
+        "Türk komandolarının nefes kesen gösterileriyle sona erdi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/teknofestte-muhtesem-final-4850385",
+      "publishedAt": "2026-08-24T01:00:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/manisa-da-berber-dukkanina-silahli-saldiri-2-olu-3907610",
+      "headline": "Manisa'da berber dükkanına silahlı saldırı: İki kişi hayatını kaybetti",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1625449281218-cbb6183f0aec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwY3JpbWUlMjBzY2VuZXxlbnwxfDB8fHwxNzg3NTMzNDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Campbell Jensen",
+        "photographerUrl": "https://unsplash.com/@visuals_by_campbell",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-blue-ford-f-150-b6hJHLGpPiI"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Manisa iline bağlı Gölmarmara ilçesinde meydana gelen olayda, bir berber dükkanına yönelik silahlı bir saldırı gerçekleştirildi. Gerçekleşen bu silahlı saldırı sonucunda içeride bulunan iki vatandaşımız hayatını kaybetti. Bölgede büyük bir şok ve endişe yaratan bu elim hadisenin ardından, güvenlik güçleri ve sağlık ekipleri derhal harekete geçerek olay yerine intikal etti. Güvenlik güçlerinin olay mahallinde yaptığı ilk incelemeler ve topladığı deliller doğrultusunda, saldırıyı gerçekleştirdiği iddia edilen şüphelinin kimliği tespit edildi.\n\nSaldırının hemen ardından olay yerinden kaçarak izini kaybettirmeye çalışan şüpheli, emniyet güçlerinin titiz ve hızlı çalışmaları neticesinde kısa süre içerisinde yakalandı. Polis ekiplerinin gerçekleştirdiği operasyonla gözaltına alınan şüpheli, sorgulanmak üzere emniyet müdürlüğüne götürüldü. Olayla ilgili başlatılan soruşturma çok yönlü olarak devam ederken, saldırının arka planı ve sebepleri hakkında adli makamlar tarafından detaylı bir inceleme yürütülüyor. Benzer toplumsal olayların ve şiddet eylemlerinin önlenmesine yönelik güvenlik önlemleri de bölgede hassasiyetle sürdürülmektedir.\n\nToplum sağlığını ve huzurunu tehdit eden bu tür silahlı şiddet olayları, ülke genelinde olduğu gibi yerel düzeyde de büyük bir hassasiyetle ele alınmaktadır. Gölmarmara ilçesindeki esnafı ve sakinleri derinden sarsan bu olay, güvenlik güçlerinin suç ve suçlularla mücadelesindeki kararlılığını bir kez daha gözler önüne serdi. Gözaltına alınan şüphelinin emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edilmesi bekleniyor. Olayın tüm yönleriyle aydınlatılması adına yürütülen adli tahkikat titizlikle sürdürülmektedir.",
+      "highlights": [
+        "Manisa'nın Gölmarmara ilçesinde bir berber dükkanına silahlı saldırı düzenlendi.",
+        "Gerçekleşen saldırı sonucunda iki kişi hayatını kaybetti.",
+        "Olayın ardından kaçan şüpheli, polis ekiplerince yakalanarak gözaltına alındı."
+      ],
+      "externalUrl": "https://www.haberturk.com/manisa-da-berber-dukkanina-silahli-saldiri-2-olu-3907610",
+      "publishedAt": "2026-08-24T00:45:33.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
+      "headline": "Ankara Mamak'ta büyük orman yangını yerleşim yerlerini tehdit ediyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1615092296061-e2ccfeb2f3d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9yZXN0JTIwZmlyZXxlbnwxfDB8fHwxNzg3NTEyMDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Matt Palmer",
+        "photographerUrl": "https://unsplash.com/@mattpalmer",
+        "unsplashUrl": "https://unsplash.com/photos/wildfire-burning-across-hillside-at-dusk-kbTp7dBzHyY"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "Türkiye'nin başkenti Ankara'nın banliyölerinde yer alan Mamak ilçesi kırsalında büyük bir orman yangını çıktı. Bölgeden gelen ilk bilgiler, alevlerin hızla yayıldığını ve yerleşim alanlarına tehlikeli bir şekilde yaklaştığını gösteriyor. Başkentin bu bölgesinde yaşanan olay, yerel halk arasında büyük bir endişe yaratırken, yetkililer durumun ciddiyeti karşısında hızla harekete geçti.\n\nOrman yangınlarının doğa, ekosistem ve insan hayatı üzerindeki yıkıcı etkileri göz önüne alındığında, Mamak'ta meydana gelen bu tehlikeli durum geniş yankı uyandırdı. Yerleşim yerlerinin hemen yakınında başlayan alevler, rüzgarın da etkisiyle geniş bir alana yayılma potansiyeli taşıyor. Uzmanlar, bu tür orman yangınlarının özellikle meskun mahallerin sınırlarında yer alması durumunda acil ve koordineli bir müdahalenin hayati önem taşıdığına dikkat çekiyor.\n\nAnkara'nın doğusunda konumlanan Mamak, hem kentsel yerleşim alanlarını hem de doğal bitki örtüsünü barındıran yapısıyla biliniyor. Bölgedeki ormanlık alanların yerleşim yerleriyle iç içe geçmesi, olası yangın senaryolarında risk faktörünü artırıyor. Mevcut olayda da alevlerin evlerin yakınına kadar ilerlemiş olması, durumun ne denli hassas olduğunu ve hızlı bir tahliye veya söndürme müdahalesini zorunlu kıldığını ortaya koyuyor.\n\nYangının baş göstermesinin ardından ilgili tüm ekiplerin bölgeye sevk edildiği ve alevleri kontrol altına almak için yoğun bir çaba sarf edildiği bildirildi. Orman yangınlarıyla mücadele ekipleri, zorlu arazi koşullarına rağmen alevlerin yerleşim yerlerine sıçramasını önlemek amacıyla havadan ve karadan müdahale stratejilerini değerlendiriyor. Güvenlik güçleri ve yerel yönetimler de bölgedeki vatandaşların güvenliğini sağlamak için gerekli tedbirleri alıyor.\n\nŞehir merkezine yakın konumdaki ormanlık alanlarda yaz aylarında veya kurak dönemlerde artış gösteren bu tür tehlikeler, kamuoyunun dikkatini bir kez daha orman yangınlarıyla mücadele ve önlem politikalarına çekiyor. Mamak'taki yangının kontrol altına alınması için yürütülen çalışmalar titizlikle sürdürülürken, bölge halkı ve yetkililer gelecek haberleri endişeyle bekliyor. Olayın gelişimi ve hasar tespiti konusunda resmi makamlardan yapılacak yeni açıklamaların takip edileceği belirtiliyor.",
+      "highlights": [
+        "Ankara'nın Mamak ilçesinde büyük bir orman yangını çıktı.",
+        "Alevler yerleşim yerlerine tehlikeli bir şekilde yaklaştı.",
+        "Ekipler yangını kontrol altına almak için çalışmalara başladı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/24/large-forest-fire-burns-close-to-residential-areas-in-ankara?traffic_source=rss",
+      "publishedAt": "2026-08-24T00:30:00.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-kale-onunde-daha-bitirici-olmaliyiz-3457986",
@@ -276,6 +391,29 @@
       "publishedAt": "2026-08-23T23:02:56.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer",
+      "headline": "İngiltere ve Galler'deki otel ve publar için iş yeri vergi değerlemelerinde adalet adımı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1723672833895-e82664c37af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHViJTIwaG90ZWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzg3NTMzNDE5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jon Tyson",
+        "photographerUrl": "https://unsplash.com/@jontyson",
+        "unsplashUrl": "https://unsplash.com/photos/a-hotel-sign-on-the-side-of-a-building-HaGzg4HZkQY"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "İngiltere ve Galler genelindeki oteller ve publar gibi konaklama sektörü işletmelerini yakından ilgilendiren önemli bir gelişme yaşandı. Hükümet, bu tesislerin iş yeri vergi değerlemelerinin daha adil bir yapıya kavuşturulması yönünde resmi bir taahhütte bulundu. Bu kapsamda hayata geçirilecek olan özel ve bağımsız bir inceleme süreci, önümüzdeki döneme ışık tutacak. Yapılacak bu kapsamlı çalışmanın, 2029 yılındaki bir sonraki yeniden değerleme tarihine kadar İngiltere ve Galler sınırları içerisindeki konaklama işletmelerinin sistemini iyileştirmeyi hedefleyeceği bildirildi.\n\nSöz konusu adım, özellikle son dönemde zorluklarla boğuşan ve ülke genelinde geniş bir kesim tarafından desteklenen konaklama sektörüne yönelik artan çağrıların ardından geldi. Andy Burnham'ın da bu süreçte sektörün desteklenmesi yönünde artan taleplerle karşı karşıya olduğu belirtiliyor. Pandemi döneminde işletmelere sağlanan özel muafiyet ve indirimlerin sona ermesi ve aynı süreçte yeni vergi yeniden değerlemelerinin yürürlüğe girmesi, işletmeciler üzerinde ciddi bir yük oluşturmuştu. Bu durum, sektör temsilcilerinin maliyet baskısıyla karşı karşıya kalmasına ve daha adil bir sistem taleplerinin seslendirilmesine zemin hazırladı.\n\nKonaklama ve yeme-içme sektörü, ekonominin genel istihdam ve yerel ticaret dengesi açısından kilit taşlarından biri olarak kabul ediliyor. Bu doğrultuda atılan yeni inceleme adımı, işletmelerin mevcut vergi yüklerini hafifletmeyi ve gelecekteki değerleme süreçlerinin daha dengeli yürütülmesini amaçlayan yapısal bir reform girişimi olarak değerlendiriliyor. Hükümetin bu taahhüdü, sektörün önümüzdeki yıllarda karşılaşacağı mali planlamalar açısından kritik bir dönüm noktası oluşturuyor.\n\n2029 yılında yapılması planlanan bir sonraki yeniden değerleme tarihine kadar sürecek olan bu bağımsız inceleme sürecinin, işletmelerin mevcut yüklerini ve sistemin işleyişini detaylı bir şekilde ele alması bekleniyor. İngiltere ve Galler'deki konaklama mekanları için hayati önem taşıyan bu çalışmanın, gelecekteki vergi politikalarının şekillenmesinde temel teşkil edeceği ifade ediliyor. Yetkililer ve sektör paydaşları, bu sürecin sonuçlarını yakından takip ederken, atılacak adımların işletmelerin üzerindeki mali baskıyı ne ölçüde hafifleteceği merakla bekleniyor.",
+      "highlights": [
+        "Hükümet, otel ve publar için vergi değerlemelerini daha adil yapma taahhüdünde bulundu.",
+        "İnceleme, 2029 yılındaki yeniden değerleme tarihine kadar sistemi iyileştirmeyi amaçlıyor.",
+        "Sektör, pandemi indirimi bitişi ve yeni değerlemeler sonrası artan vergi yükleriyle karşılaşmıştı."
+      ],
+      "externalUrl": "https://www.theguardian.com/business/2026/aug/24/government-vows-to-make-business-rate-valuations-for-pubs-and-hotels-fairer",
+      "publishedAt": "2026-08-23T23:01:45.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.theguardian.com/business/2026/aug/24/uk-productivity-growing-faster-official-figures-resolution-foundation",
@@ -1771,6 +1909,29 @@
       "publishedAt": "2026-08-23T19:32:59.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/spor/genclerbirligi-deplasmanda-goztepeyi-maglup-etti/4035308",
+      "headline": "Gençlerbirliği deplasmanda Göztepe'yi tek golle geçti",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODc1MDAxMDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
+      },
+      "timeAgo": "6 sa önce",
+      "body": "Türkiye futbolunun en üst seviye lig organizasyonu olan Trendyol Süper Lig'de heyecan tüm hızıyla devam ediyor. Futbolseverlerin büyük bir ilgiyle takip ettiği ligin rekabet dolu ikinci hafta karşılaşmalarında, takımlar sahadaki mücadelesini sürdürürken kritik sonuçlar da gelmeye başladı. Bu kapsamda merakla beklenen müsabakalardan birinde Gençlerbirliği ile Göztepe kozlarını paylaştı. Göztepe'nin ev sahipliğinde gerçekleştirilen bu önemli futbol maçı, iki ekibin de sahadan galibiyetle ayrılma hedefiyle büyük bir çekişmeye sahne oldu.\n\nKarşılaşma boyunca iki takım da sahadan 3 puanla ayrılabilmek adına taktiksel hamleler yaparken, taraflar arasındaki mücadele tribünlerin ve ekran başında maçı takip eden futbolseverlerin dikkatini çekti. Futbolun vazgeçilmez rekabet ortamında taraflar birbirlerinin savunmasını aşmaya çalıştı. Maçın ilerleyen bölümlerinde dengeyi bozmayı başaran taraf ise konuk ekip oldu. Gençlerbirliği, rakip sahada oynadığı bu zorlu müsabakada bulduğu golle skoru lehine çevirmeyi başardı ve kritik bir üstünlük yakaladı.\n\nMücadelenin kalan dakikalarında Göztepe skoru eşitlemek için baskısını artırsa da, Gençlerbirliği savunması bu ataklar karşısında direnç gösterdi. Hakemin son düdüğü çalmasıyla birlikte maçın sonucu tescillendi. Alınan bu sonuçla birlikte Gençlerbirliği, Trendyol Süper Lig'in ikinci haftasında deplasmanda elde ettiği bu galibiyetle hanesine değerli 3 puan yazdırmış oldu. Başkent temsilcisi, zorlu deplasmandan galibiyetle dönmenin moralini yaşarken, ev sahibi Göztepe ise sahadan mağlubiyetle ayrıldı.\n\nSüper Lig gibi uzun soluklu ve zorlu maratonlarda deplasman galibiyetlerinin önemi sezon genelinde oldukça büyük bir yer tutuyor. Gençlerbirliği'nin Göztepe karşısında aldığı bu 1-0'lık skor, takımın ligdeki genel hedefleri doğrultusunda önemli bir adım olarak kayıtlara geçti. Sezonun henüz başı olmasına rağmen alınan bu tür sonuçlar, takımların form durumunu ve ilerleyen haftalardaki performans eğrilerini doğrudan etkileme potansiyeline sahip bulunuyor.\n\nFutbol kamuoyunda geniş yankı uyandıran bu karşılaşma, Trendyol Süper Lig'in rekabetçi yapısını bir kez daha gözler önüne serdi. Göztepe kendi sahasında taraftar desteğini arkasına alarak mücadele etse de, arzuladığı skora ulaşamadı ve haftayı puansız kapattı. Gençlerbirliği ise deplasman mücadelesindeki disiplinli oyunu sayesinde sahadan galibiyetle ayrılarak taraftarlarını sevindirdi. Ligin sonraki haftalarında her iki takımın da sergileyeceği performans şimdiden merakla bekleniyor.",
+      "highlights": [
+        "Gençlerbirliği, Trendyol Süper Lig'in 2. haftasında sahne aldı.",
+        "Başkent ekibi, deplasmanda Göztepe'ye konuk oldu.",
+        "Mücadeleyi 1-0 kazanan Gençlerbirliği 3 puanı hanesine yazdırdı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/spor/genclerbirligi-deplasmanda-goztepeyi-maglup-etti/4035308",
+      "publishedAt": "2026-08-23T19:31:17.000Z",
+      "category": "Gündem",
+      "lang": "tr"
     },
     {
       "id": "https://news.sky.com/story/guinea-landslide-kills-30-people-after-mound-of-waste-collapses-at-landfill-site-13576442",
@@ -5744,6 +5905,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.hurriyet.com.tr/dunya/rumlar-alarma-gecti-gkryyi-israil-panigi-sardi-43282366",
+      "headline": "Rumlar alarma geçti: GKRY'yi İsrail paniği sardı",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1705955463252-e3f670e4041b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmVhbCUyMGVzdGF0ZSUyMGNpdHl8ZW58MXwwfHx8MTc4NzUzMzQyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zoshua Colah",
+        "photographerUrl": "https://unsplash.com/@zoshuacolah",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-with-lots-of-tall-buildings-FI922t2kyRI"
+      },
+      "timeAgo": "13 sa önce",
+      "body": "Güney Kıbrıs Rum Yönetimi'nde (GKRY) son dönemde yaşanan gelişmeler, bölgede yeni bir endişe dalgasının hâkim olmasına yol açtı. Gündeme gelen son bilgilere göre, İsrailliler tarafından gerçekleştirilen arazi ve gayrimenkul alımlarında belirgin bir artış kaydedildi. Bu durum, yerel kamuoyunda ve ilgili çevrelerde dikkatle takip edilen önemli bir konu başlığı hâline geldi.\n\nSöz konusu mülk edinme süreçlerinin yanı sıra, bölgede topluluğa yönelik altyapı çalışmalarının da hız kazandığı gözlemleniyor. Bu kapsamda okul, ibadethane ve çeşitli işletmeler gibi kamusal ve sosyal alanların sayısının artması, Rum kesimindeki kaygıları artıran temel unsurlar arasında yer alıyor. Yapılan gözlemler ve değerlendirmeler, bu altyapısal hareketliliğin toplumsal yaşamın farklı alanlarında kendini gösterdiğini ortaya koyuyor.\n\nYaşanan bu yoğunlaşma, GKRY genelinde İsrail varlığının geçici bir karakter taşımaktan uzaklaşarak kalıcı bir yerleşim sürecine evrilebileceği yönündeki korkuları tetikledi. Bölgedeki gayrimenkul hareketliliği ve kurumsal yapılanmaların artması, bu sürecin uzun vadeli sonuçları üzerine yapılan tartışmaları da beraberinde getiriyor. Konuya ilişkin değerlendirmelerde, mevcut durumun yarattığı tedirginliğin toplumsal ve idari düzeyde hissedildiği vurgulanıyor.\n\nOlayın arka planında, bölgesel ilişkiler ve coğrafi yakınlığın getirdiği hareketliliğin mülkiyet piyasasına yansıması bulunuyor. Uzmanlar ve gözlemciler, artan gayrimenkul satışlarının ve buna eşlik eden sosyal altyapı yatırımlarının demografik ve mülkiyet yapısı üzerindeki potansiyel etkilerini yakından izliyor. Bu durum, GKRY içerisinde hem siyasi hem de toplumsal mecralarda sıklıkla dile getirilen bir endişe kaynağı olmayı sürdürüyor.\n\nSonuç olarak, Güney Kıbrıs Rum Yönetimi'nde İsrail kökenli bireylerin ve grupların mülk edinimindeki artış ile toplumsal altyapının genişlemesi, bölgedeki kalıcı yerleşim tartışmalarını alevlendirmiş durumda. Gelişmelerin nasıl bir seyir izleyeceği ve yetkililerin bu konuya yönelik herhangi bir idari adım atıp atmayacağı, önümüzdeki dönemde tarafların ve kamuoyunun odak noktasında kalmaya devam edecek gibi görünmektedir.",
+      "highlights": [
+        "GKRY'de İsraillilerin arazi ve gayrimenkul alımlarında artış gözlemleniyor.",
+        "Okul, ibadethane ve işletme gibi toplumsal altyapılar hızla çoğalıyor.",
+        "Durum, bölgede kalıcı yerleşim endişelerini ve paniği beraberinde getirdi."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/dunya/rumlar-alarma-gecti-gkryyi-israil-panigi-sardi-43282366",
+      "publishedAt": "2026-08-23T12:28:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/gundem/kuzenini-ve-onun-4-yasindaki-oglunu-tufekle-yaralayan-supheli-yakalandi-4850307",
       "headline": "Bursa'da aile kavgasında dehşet saçan şüpheli yakalandı",
       "source": "Yeni Şafak",
@@ -6018,6 +6202,29 @@
       "publishedAt": "2026-08-23T11:58:32.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "headline": "Tayland'ın güneyinde koordineli ateşe verme eylemleri düzenlendi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1634009653379-a97409ee15de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmlyZSUyMGRpc2FzdGVyfGVufDF8MHx8fDE3ODc1MzM0MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mike Newbry",
+        "photographerUrl": "https://unsplash.com/@mikenewbry",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-fire-is-burning-in-the-mountains-DwtX9mMHBJ0"
+      },
+      "timeAgo": "13 sa önce",
+      "body": "Uzak Doğu ülkesi Tayland'ın güney kesimlerinde, birden fazla noktayı hedef alan ve planlı bir şekilde gerçekleştirildiği anlaşılan çok sayıda ateşe verme eylemi meydana geldi. Bölgede büyük bir endişe yaratan bu olaylar silsilesi, ülkenin güneyindeki güvenlik birimlerini ve yetkilileri alarma geçirdi. Yaşanan bu olayların ardından güvenlik güçleri ve ilgili resmi kurumlar, bölgedeki durumu kontrol altına almak ve benzer yeni saldırıların önüne geçmek amacıyla geniş çaplı incelemeler ve operasyonlar başlattı. Eş zamanlı olarak yürütülen bu saldırıların detayları henüz tam olarak netleşmemişken, olayların arkasındaki faillerin kimlikleri ve amaçları merak konusu olmaya devam ediyor.\n\nGerçekleşen bu kundaklama dalgası sonrasında, henüz herhangi bir silahlı grup veya yasa dışı oluşum saldırıların sorumluluğunu üstlendiğine dair bir açıklama yapmadı. Güvenlik analistleri ve bölgedeki gözlemciler, bu tür örgütlü eylemlerin genellikle belirli bir mesaj verme veya toplumsal huzursuzluk yaratma amacı taşıdığına dikkat çekiyor. Hiçbir yapının henüz üstlenmemiş olması, olayların arkasındaki perde arkasının aydınlatılmasını zorlaştırırken, soruşturmayı yürüten birimler her ihtimali titizlikle değerlendiriyor.\n\nKonuya ilişkin olarak ordu kaynaklarından yapılan resmi değerlendirmelerde, bu organize saldırıların temel hedefinin net bir şekilde huzursuzluk ortamı yaratmak olduğu vurgulandı. Askeri yetkililer, yaşanan olayların bölgedeki istikrarı bozmayı amaçlayan provokatif eylemler olduğunu belirterek, bu tür girişimlerin karşılıksız kalmayacağını ve güvenlik önlemlerinin en üst seviyeye çıkarıldığını ifade etti. Bölge halkının güvenliğini sağlamak adına devriye faaliyetlerinin artırıldığı ve istihbarat çalışmalarının yoğunlaştırıldığı bildirildi.\n\nTayland'ın güneyinde geçmişte de benzer güvenlik sorunları ve çatışmalar yaşanmış olması, bu son saldırıların arka planını anlamak açısından önem taşıyor. Ülkenin bu bölgesindeki hassas demografik ve siyasi dengeler, dönemsel olarak bu tarz gerginliklerin ve şiddet olaylarının ortaya çıkmasına zemin hazırlayabiliyor. Yetkililer, bölgede kalıcı barış ve güvenliğin sağlanması adına hem askeri hem de sivil düzeyde tedbirlerin kararlılıkla sürdürüleceğini, halkın can ve mal güvenliğinin her şeyden önce geldiğini sürekli olarak hatırlatıyor.\n\nEş zamanlı gerçekleştirilen bu kundaklama eylemlerinin ardından bölgede hayatın normale dönmesi için çalışmalar sürerken, sivil toplum kuruluşları ve yerel yöneticiler de olayların yarattığı tedirginliği gidermek amacıyla temaslarda bulunuyor. Güvenlik güçleri, soruşturmanın selameti açısından elde edilen yeni delilleri ve güvenlik kamerası görüntülerini incelemeye devam ediyor. Önümüzdeki günlerde yetkili makamlar tarafından soruşturmanın ilerleyişine dair yeni resmi açıklamaların yapılması bekleniyor.",
+      "highlights": [
+        "Tayland'ın güneyinde çok sayıda koordineli ateşe verme eylemi gerçekleşti.",
+        "Şu ana kadar hiçbir grup saldırıların sorumluluğunu üstlenmedi.",
+        "Ordu yetkilileri olayların huzursuzluk yaratmayı amaçladığını açıkladı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T11:50:59.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.theguardian.com/world/2026/aug/23/ukraine-election-wartime-risk-russia-zelenskyy",
@@ -6679,213 +6886,6 @@
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cp3rgv5zgw3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-23T10:42:13.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/galeri-aydinda-orman-yangini-ekipler-mudahale-ediyor-1738564",
-      "headline": "Aydın Germencik'te orman yangını çıktı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1634009653379-a97409ee15de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9yZXN0JTIwZmlyZXxlbnwxfDB8fHwxNzg3NDgyMTcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mike Newbry",
-        "photographerUrl": "https://unsplash.com/@mikenewbry",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-fire-is-burning-in-the-mountains-DwtX9mMHBJ0"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Türkiye genelinde yaz sezonunun etkisini sürdürdüğü ve sıcaklıkların mevsim normallerinin üzerinde seyrettiği bu dönemde, doğanın korunması ve ormanlık alanların güvenliği büyük bir hassasiyetle takip edilirken, Aydın ilinden endişe verici bir haber geldi. Alınan son bilgilere göre, Aydın ilinin Germencik ilçesi sınırları içinde henüz belirlenemeyen bir sebepten ötürü ormanlık alanda yangın meydana geldi. \n\nBölgeden yükselen dumanların ve alevlerin fark edilmesinin ardından çevre sakinleri ile yetkili birimler hemen harekete geçti. İhbar üzerine olay yerine çok sayıda ekip sevk edildi. Yangının yayılma riskine karşı havadan ve karadan yürütülen müdahale çalışmalarının aralıksız bir şekilde sürdürüldüğü bildirildi. Orman yangınları, ekosisteme, canlı yaşamına ve doğal kaynaklara verdiği büyük zararlar nedeniyle ülkenin dört bir yanında en hassas yaklaşılan konuların başında geliyor.\n\nGermencik'teki bu olay da, orman yangınlarıyla mücadelenin ne denli kritik bir önem taşıdığını bir kez daha gözler önüne serdi. Yetkili kurumlar, alevlerin yerleşim yerlerine sıçramaması ve daha geniş bir sahaya yayılmaması için tüm imkânlarını seferber etmiş durumda. Hem havadan helikopter veya uçak destekli atışlar yapılırken, hem de karadaki arazözler ve orman işçileri alevlerin etrafını sararak kontrol altına almak için yoğun bir mesai harcıyor.\n\nZorlu coğrafi koşullar ve rüzgârın etkisi zaman zaman söndürme çalışmalarını güçleştirse de, ekiplerin koordineli ve kararlı müdahalesi devam ediyor. Yangının çıkış nedeninin belirlenmesi için ilerleyen saatlerde detaylı bir inceleme başlatılması beklenirken, şu an için tüm odak noktası alevlerin tamamen söndürülmesine ve bölgede soğutma çalışmalarının tamamlanmasına verilmiş durumda. Bu tür olaylar, vatandaşların ve ilgili tüm kurumların ormanlık alanlarda daha dikkatli ve tedbirli olması gerektiğini bir kez daha hatırlatıyor.",
-      "highlights": [
-        "Aydın'ın Germencik ilçesinde ormanlık alanda yangın çıktı.",
-        "Bölgeye sevk edilen ekiplerin müdahalesi havadan ve karadan sürüyor.",
-        "Alevlerin kontrol altına alınması için yoğun bir çalışma yürütülüyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-aydinda-orman-yangini-ekipler-mudahale-ediyor-1738564",
-      "publishedAt": "2026-08-23T10:42:09.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/atv-uydu-frekans-ayarlari-2026-turksat-4a-yeni-atv-frekans-ayari-nasil-yapilir-trabzonspor-ferencvaros-maci-sifresiz-nasil-izlenir-3906994",
-      "headline": "Atv uydu ve frekans ayarları nasıl yapılır?",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1560169897-fc0cdbdfa4d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dGVsZXZpc2lvbiUyMHJlbW90ZSUyMGNvbnRyb2x8ZW58MXwwfHx8MTc4NzQ4MzMxNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Glenn Carstens-Peters",
-        "photographerUrl": "https://unsplash.com/@glenncarstenspeters",
-        "unsplashUrl": "https://unsplash.com/photos/turned-on-flat-screen-television-EOQhsfFBhRk"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Televizyon yayıncılığında güncel frekans bilgilerinin kontrol edilmesi süreci, özellikle milyonlarca izleyicinin ekrana kilitlendiği büyük karşılaşmalar öncesinde hız kazanmaktadır. Akşam saatlerinde ekrana gelecek olan kritik Trabzonspor - Ferencvaros maçı dolayısıyla, sporseverler ve canlı yayın takipçileri Atv uydu frekans ayarlarını yakından incelemeye başlamıştır. Karşılaşmayı herhangi bir kesinti yaşamadan, yüksek görüntü kalitesiyle takip etmek isteyen vatandaşlar, arama motorları üzerinden kanalın güncel frekans değerlerine ulaşmaya çalışmaktadır.\n\nGünlük yayın akışı içerisinde yer alan yapımların yanı sıra özel ve önemli spor müsabakaları öncesinde frekans güncellemeleri büyük bir önem taşımaktadır. Türksat uydusu üzerinden Atv yayınlarını takip eden izleyiciler, televizyonlarının uydu alıcısı menüsünden doğru frekans değerlerini sisteme girerek kanalı yeniden cihazlarına ekleme imkanına sahiptir. Bu süreçte kanal arama işleminin adımları da merak konusu olmakta ve kullanıcılar en doğru ayarlama yöntemlerini araştırmaktadır.\n\nTürksat 4A uydusu üzerinden yapılan yayınlarda doğru frekans ayarının yapılması, sinyal kalitesinin düşmemesi ve yayınların sorunsuz alınabilmesi açısından kritik bir adımdır. Televizyon kumandası yardımıyla uydu ekleme veya manuel kanal arama menüsüne giren izleyiciler, güncel parametreleri ilgili alanlara yazarak tarama gerçekleştirebilmektedir. Bu işlemlerin ardından Atv kanalı cihazın kanal listesine eklenmekte ve yayınlar kesintisiz bir şekilde takip edilebilmektedir.\n\nÖzellikle futbolseverlerin yakından takip ettiği Trabzonspor - Ferencvaros maçı gibi uluslararası ve heyecan dolu karşılaşmalar, şifresiz yayın detaylarıyla da gündemdeki yerini korumaktadır. Müsabakayı evlerinde televizyon başında izlemek isteyenler, yayın akışı ve frekans bilgileri doğrultusunda hazırlıklarını tamamlamaktadır. Kanalın güncel frekans bilgileri ve kanal ayarlama adımları, bu gibi yoğun ilgi gören yayın dönemlerinde en çok aranan konular arasında bulunmayı sürdürmektedir.",
-      "highlights": [
-        "Trabzonspor - Ferencvaros maçı öncesi Atv frekans ayarları merak ediliyor.",
-        "Türksat uydusu üzerinden Atv yayınını izlemek için güncel frekanslar kontrol ediliyor.",
-        "Doğru frekans değerleri girilerek kanal televizyonlara yeniden eklenebiliyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/atv-uydu-frekans-ayarlari-2026-turksat-4a-yeni-atv-frekans-ayari-nasil-yapilir-trabzonspor-ferencvaros-maci-sifresiz-nasil-izlenir-3906994",
-      "publishedAt": "2026-08-23T10:41:45.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss",
-      "headline": "Aşırı sağcı provokatör Jake Lang Minneapolis'teki olayların ardından gözaltına alındı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1485056616736-b0840bdf4732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwcmlvdHxlbnwxfDB8fHwxNzg3NDgyMTc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Spenser H",
-        "photographerUrl": "https://unsplash.com/@spenserh",
-        "unsplashUrl": "https://unsplash.com/photos/policemen-holding-clear-fiber-glass-shield-OxJxV4qakx0"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Son dönemde düzenlediği etkinlikler ve sosyal medya paylaşımlarıyla adından söz ettiren aşırı sağcı provokatör ve internet fenomeni Jake Lang, ABD'nin Minnesota eyaletine bağlı Minneapolis kentinde yaşanan olayların ardından emniyet güçleri tarafından gözaltına alındı. Kentin merkezi noktalarından biri olan Minneapolis Belediye Binası'nın önünde toplanan kalabalıkla birlikte bir miting düzenleyen Lang, etkinlik sırasında patlak veren şiddetli çatışmaların baş aktörlerinden biri olarak gösteriliyor. Gün boyunca gergin anlara sahne olan gösteri alanında, taraflar arasında kısa sürede arbede yaşandığı ve durumun kontrolden çıkması üzerine güvenlik birimlerinin müdahalede bulunduğu bildirildi.\n\nOlay, Amerika Birleşik Devletleri'nde son yıllarda artış gösteren siyasi kutuplaşmanın ve sokak eylemlerinin en son halkalarından biri olarak kayıtlara geçti. Minneapolis Belediye Binası çevresinde güvenlik önlemlerini artıran yerel polis departmanı, göstericiler ile karşıt gruplar arasında başlayan sözlü tartışmaların hızla fiziksel kavgaya dönüşmesi üzerine geniş çaplı bir operasyon başlattı. Çıkan olaylar sırasında kamu düzenini bozduğu ve şiddet eylemlerine karıştığı gerekçesiyle hedef alınan Jake Lang, güvenlik güçlerinin müdahalesiyle alandan uzaklaştırılarak gözaltına alındı. Yetkililer, kalabalığı dağıtmakte biber gazı ve benzeri teçhizatların kullanılıp kullanılmadığına dair henüz ayrıntılı bir resmi açıklama yapmazken, bölgede tedbirlerin bir süre daha üst düzeyde tutulacağını duyurdu.\n\nKamuoyunda tanınan aşırı sağcı figürlerden biri olan Jake Lang'in Minneapolis'te düzenlediği mitingin arka planı, şehirdeki sivil toplum kuruluşları ve yerel yöneticiler tarafından uzun süredir endişeyle takip ediliyordu. Toplumun farklı kesimlerini karşı karşıya getiren bu tür etkinliklerin bölge halkı üzerinde yarattığı psikolojik baskı ve güvenlik kaygıları, son yaşanan olaylarla birlikte yeniden en üst seviyeye çıktı. Uzmanlar, bu tarz marjinal gösterilerin toplumsal barışı tehdit ettiğini ve şehir merkezlerinde ticari hayatı olumsuz etkilediğini vurgularken, yerel yönetimlerin bu tür toplanmalara karşı izleyeceği stratejilerin de önümüzdeki dönemde daha fazla tartışılacağını belirtiyor.\n\nGözaltı işleminin ardından Jake Lang'in emniyetteki sorgu sürecinin devam ettiği ve hakkındaki resmi suçlamaların savcılık tarafından netleştirileceği öğrenildi. Olay yerindeki güvenlik kameraları ve çevredeki kişilerin cep telefonlarıyla kaydettiği görüntüler, soruşturmayı yürüten dedektifler tarafından titizlikle inceleniyor. Şiddet olaylarına karışan diğer kişilerin tespiti için de çalışmalarını sürdüren Minneapolis polis teşkilatı, kamuoyunu sakinliğe davet eden çağrılarda bulundu. Kent genelinde olası yeni protesto dalgalarının önüne geçmek amacıyla devriye ekiplerinin sayısı artırıldı ve kritik kamu binaları çevresinde güvenlik çemberi oluşturuldu.\n\nBu son gelişme, ABD genelinde ifade özgürlüğü ile kamu güvenliği arasındaki hassas dengenin bir kez daha sorgulanmasına yol açtı. Jake Lang'in taraftarları sosyal medya üzerinden gözaltı kararını kınayan paylaşımlarda bulunurken, karşıt gruplar ise adaletin yerini bulması gerektiği yönünde çağrılar yaptı. Toplumsal huzursuzluğun tırmandığı bu süreçte, yargı makamlarının atacağı adımlar ve savcılığın sunacağı iddianame, davanın seyrini belirleyecek en önemli etkenler arasında yer alıyor. Olayların tüm yönleriyle aydınlatılması için başlatılan soruşturma çok yönlü olarak devam ediyor.",
-      "highlights": [
-        "Aşırı sağcı internet fenomeni Jake Lang Minneapolis'te gözaltına alındı.",
-        "Olaylar, Belediye Binası önünde düzenlenen miting sırasında çıktı.",
-        "Güvenlik güçleri gösteride yaşanan çatışmalara müdahale etti."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/8/23/far-right-provocateur-jake-lang-arrested-after-minneapolis-riot?traffic_source=rss",
-      "publishedAt": "2026-08-23T10:41:05.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "http://tr.euronews.com/kultur/2026/08/23/foto-galerisi-senhora-da-agonia-festivalinin-en-guzel-anlari",
-      "headline": "Senhora da Agonia Festivali'nin en güzel anları foto galeriyle taçlandı",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1585607344893-43a4bd91169a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y3VsdHVyYWwlMjBmZXN0aXZhbHxlbnwxfDB8fHwxNzg3NDgzMzE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nandu Menon",
-        "photographerUrl": "https://unsplash.com/@nandumenon",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-hGHldbCgYDA"
-      },
-      "timeAgo": "28 dk önce",
-      "body": "Dünyanın dört bir yanından ve ülkenin farklı bölgelerinden gelen ziyaretçilerin ilgi odağı olan Senhora da Agonia Şenlikleri, bu yıl da geleneksel dokusu ve kültürel zenginliğiyle büyük bir coşkuya sahne oldu. Geleneksel kutlamaların merkez üssü olan Viana do Castelo bölgesinde hayata geçirilen bu görkemli etkinlikler, sadece sıradan bir dini ayin olmanın ötesinde anlamlar barındırıyor. Yıllardır süregelen bu köklü gelenek, Portekiz'in uluslararası alanda en önemli simgelerinden biri olarak kabul ediliyor.\n\nGerçekleştirilen bu renkli ve köklü şenlikler, aynı zamanda Minho kadınının benzersiz güzelliğinin ve toplumsal gücünün en ihtişamlı kutlaması olma niteliğini taşıyor. Etkinlikler boyunca bölge halkı ve katılımcılar, yerel kültürü en saf haliyle deneyimleme fırsatı bulurken, sergilenen zengin kıyafetler ve takılar festivalin görsel atmosferini zirveye taşıyor. Altın renginin ve estetiğin ön planda olduğu bu özel anlar, fotoğraf sanatçılarının objektiflerinden yansıtılarak geniş kitlelerle paylaşılıyor.\n\nKültürel mirasın yaşatılması ve gelecek nesillere aktarılması açısından büyük bir önem taşıyan Senhora da Agonia Şenlikleri, her yıl olduğu gibi bu dönemde de toplumsal dayanışmanın ve inancın bir arada harmanlandığı buluşma noktası oldu. Geleneksel ritüellerin modern dünyadaki yansıması olan bu kutlamalar, Minho bölgesinin kimliğini belirleyen en temel unsurlar arasında yer alıyor. Katılımcıların yoğun ilgi gösterdiği etkinlik, bölgenin turistik ve kültürel cazibesini artırmaya devam ediyor.\n\nHazırlanan özel foto galeri çalışması, bu eşsiz festivalin en çarpıcı, renkli ve duygusal anlarını ölümsüzleştirerek izleyicilerin beğenisine sunuyor. Viana do Castelo sokaklarında hareketlilik yaratan şenliklerin her karesi, Minho kadınının zarafetini ve gücünü gözler önüne seriyor. Bu görsel derleme, festivalin sadece anlık bir eğlence olmadığını, derin köklere sahip bir kültürel mirasın yaşayan kanıtı olduğunu bir kez daha kanıtlıyor.",
-      "highlights": [
-        "Viana do Castelo'daki Senhora da Agonia Şenlikleri büyük coşkuyla kutlandı.",
-        "Etkinlikler dini ayinin ötesinde Minho kadınının gücünü ve güzelliğini simgeliyor.",
-        "Festivalin en güzel anları özel bir foto galeri çalışmasıyla gözler önüne serildi."
-      ],
-      "externalUrl": "http://tr.euronews.com/kultur/2026/08/23/foto-galerisi-senhora-da-agonia-festivalinin-en-guzel-anlari",
-      "publishedAt": "2026-08-23T10:40:31.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.dw.com/tr/ukrayna-lideri-zelenskiy-seçim-ülkeyi-yok-eder/a-78475547?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Ukrayna lideri Zelenskiy'den seçim çağrılarına ret: Ülkeyi yok eder",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1620607035670-a57878a8f074?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Vm9sb2R5bXlyJTIwWmVsZW5za3l5fGVufDF8MHx8fDE3ODc0ODIxODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Levi Meir Clancy",
-        "photographerUrl": "https://unsplash.com/@levimeirclancy",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-green-and-brown-camouflage-jacket-wearing-green-cap-sitting-on-brown-wooden-chair-FhLWOzSMus8"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "Ukrayna'nın devlet başkanı Volodimir Zelenskiy, ülkesinde yapılması gündeme gelebilecek olası seçim tartışmalarına ilişkin çok net ve keskin bir duruş sergileyerek bu yöndeki talepleri kesin bir dille reddetti. Dünyanın ve bölgenin yakından takip ettiği bu kritik süreçte, mevcut savaş koşulları altında sandığa gitmenin hiçbir şekilde mümkün olmadığını vurgulayan Zelenskiy, bu tarz bir adımın atılması durumunda bunun Ukrayna devleti için tam anlamıyla yıkıcı sonuçlar doğuracağını ifade etti.\n\nDevam eden askeri çatışmaların ve ülke genelindeki güvenlik krizinin yarattığı olağanüstü şartlar, iç politikadaki olağan işleyişi de doğrudan etkilemeye devam ediyor. Ukrayna lideri, devam eden kriz ortamında seçim düzenleme fikrinin devletin varlığına ve bütünlüğüne çok büyük zararlar verebileceğini savundu. Savaş dönemlerinde demokratik süreçlerin ve sandık iradesinin nasıl işletilmesi gerektiği uluslararası kamuoyunda da sıkça tartışılırken, Kiyiv yönetiminin bu konudaki resmi tavrı bir kez daha netlik kazanmış oldu.\n\nÜlkenin içinde bulunduğu bu zorlu dönemeçte, siyasi tartışmaların ve seçim çağrılarının ülkeyi zayıflatmaktan başka bir işe yaramayacağı yönündeki görüşler ağır basıyor. Yapılan bu açıklama, ülkenin iç istikrarını koruma çabalarının bir parçası olarak değerlendirilirken, Zelenskiy'nin vurguladığı tehlikeler Ukrayna'nın karşı karşıya olduğu muazzam jeopolitik ve askeri baskıları da gözler önüne seriyor. Savaşın getirdiği yıkım ve belirsizlikler sürerken, yönetimin önceliğinin sandık kurmak değil, savunma ve ülkenin güvenliğini sağlamak olduğu bir kez daha teyit edilmiş oldu.\n\nBölgesel ve uluslararası diplomasi çevrelerinde de yakından izlenen bu gelişmeler, Ukrayna'nın iç siyasetinde yakın vadede bir seçim ihtimalinin tamamen devre dışı bırakıldığını gösteriyor. Mevcut yönetim, ülkenin karşı karşıya kaldığı varoluşsal tehditler ortadayken seçim odaklı bir gündemin lüks olduğunu ve devletin savunma reflekslerini zayıflatacağını savunuyor. Bu çerçevede yapılan değerlendirmeler, ülkenin önümüzdeki dönemde de önceliklerini askeri ve güvenlik odaklı tutmaya devam edeceğini ortaya koyuyor.",
-      "highlights": [
-        "Ukrayna Devlet Başkanı Zelenskiy, savaş koşullarında seçim çağrılarına kapıyı kapattı.",
-        "Böyle bir adımın ülkeyi yok edeceğini savunan lider, sandık ihtimalini reddetti.",
-        "Mevcut olağanüstü şartlar altında iç politikada seçim yapılmasının imkansız olduğu vurgulandı."
-      ],
-      "externalUrl": "https://www.dw.com/tr/ukrayna-lideri-zelenskiy-seçim-ülkeyi-yok-eder/a-78475547?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-08-23T10:40:00.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-      "headline": "Rusya, Ukrayna yardımları nedeniyle Birleşik Krallık büyükelçisini çekti",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1635121973221-345318b519f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bG9uZG9uJTIwZW1iYXNzeXxlbnwxfDB8fHwxNzg3NDgyMTg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ben Conod",
-        "photographerUrl": "https://unsplash.com/@bxnconod",
-        "unsplashUrl": "https://unsplash.com/photos/a-red-sports-car-parked-on-the-side-of-a-street-NqicBp_LJTU"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Kremlin yönetimi ile Londra arasındaki diplomatik ilişkilerde yeni ve dikkat çekici bir gelişme yaşandı. Edinilen son bilgilere göre Rusya, Birleşik Krallık nezdindeki büyükelçisini görevden çekme kararı aldı. Bu hamle, Moskova'nın özellikle Londra'nın Ukrayna'ya yönelik sürdürdüğü askeri ve siyasi destek politikaları karşısında baskıyı artırma stratejisinin bir parçası olarak değerlendiriliyor. Diplomatik kaynaklardan sızan detaylar, iki ülke arasındaki tansiyonun son dönemde tırmanışta olduğunu gösteriyor.\n\nSöz konusu karar kapsamında, ülkenin Londra büyükelçisi olarak görev yapan Andrey Kelin, geçtiğimiz ay Birleşik Krallık'tan ayrıldı. Kelin'in bu ülkedeki diplomatik misyonunu tamamlayarak ayrılmasıyla birlikte, yedi yıllık görev süresi de resmen sona ermiş oldu. Ancak Moskova'daki yetkili makamlar tarafından, Andrey Kelin'den boşalan bu kritik diplomatik koltuğa yeni bir ismin atanıp atanmayacağına ya da yerine başka bir büyükelçinin gönderilip gönderilmeyeceğine dair herhangi bir açıklama yapılmadı. Bu belirsizlik durumu, diplomatik kulislerde çeşitli yorumlara neden oluyor.\n\nUluslararası ilişkiler uzmanları ve diplomatik gözlemciler, bu gelişmenin son yıllarda zaten gergin olan Moskova-Londra hattındaki diyaloğu daha da zayıflatabileceğine işaret ediyor. Birleşik Krallık'ın, Doğu Avrupa'daki çatışmaların başlangıcından bu yana Kiev yönetimine sağladığı yoğun destek ve yardımlar, Kremlin tarafından sürekli olarak eleştiriliyor ve tepkiyle karşılanıyor. Rusya'nın büyükelçilik düzeyindeki temsilini bu şekilde askıya alması veya belirsiz bir süreliğine boş bırakması, iki başkent arasındaki siyasi krizin derinleştiğinin somut bir göstergesi olarak okunuyor.\n\nGeçmişteki diplomatik teamüller ve mevcut jeopolitik konjonktür göz önüne alındığında, büyükelçilerin geri çağrılması veya yerlerine yeni atamaların geciktirilmesi, devletler arası ilişkilerde hoşnutsuzluğun en üst düzeydeki diplomatik ifadelerinden biri olarak kabul ediliyor. Andrey Kelin'in yedi yıllık görev süresinin ardından ani sayılabilecek bir şekilde ülkeyi terk etmesi, bu sürecin uzun vadeli sonuçları olabileceği ihtimalini gündeme getiriyor. Taraflar arasında doğrudan iletişim kanallarının daralması, mevcut krizlerin çözümünü daha da zorlaştıran bir etken olarak öne çıkıyor.\n\nŞu aşamada Kremlin'in ilerleyen günlerde Londra büyükelçiliği pozisyonu için nasıl bir adım atacağı ve Birleşik Krallık Dışişleri Bakanlığı'nın bu duruma resmi olarak nasıl bir tepki vereceği merakla bekleniyor. Ukrayna'daki savaşın seyri ve Batılı ülkelerin Kiev'e verdiği taahhütler devam ettiği sürece, Rusya'nın bu tür diplomatik baskı araçlarını kullanmaya devam etmesi bekleniyor. Londra ile Moskova arasındaki bu yeni diplomatik krizin bölgesel ve küresel dengelere yansımaları yakından takip ediliyor.",
-      "highlights": [
-        "Rusya, Birleşik Krallık nezdindeki büyükelçisini görevden çekti.",
-        "Büyükelçi Andrey Kelin, yedi yıllık görev süresinin ardından geçen ay ülkeyi terk etti.",
-        "Kelin'in yerine yeni bir atama yapılıp yapılmayacağı konusunda henüz bir açıklama yapılmadı."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/2026/aug/23/russia-withdraws-ambassador-uk-kremlin-pressure-ukraine-andrey-kelin",
-      "publishedAt": "2026-08-23T10:37:39.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/sosyal-medyadaki-kufurlu-icerige-savciliktan-sorusturma-43282460",
-      "headline": "Sosyal medyadaki paylaşıma savcılıktan soruşturma",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1623008946073-ad1c850ad0dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODc0NTg4MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Melody Ayres-Griffiths",
-        "photographerUrl": "https://unsplash.com/@melodyayresgriffiths",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-white-building-with-a-gate-in-front-of-it-gW4y6IPZV2A"
-      },
-      "timeAgo": "38 dk önce",
-      "body": "Ankara Cumhuriyet Başsavcılığı tarafından son günlerde dijital platformlarda yayımlanan içeriklere yönelik olarak yeni bir adli adım atıldığı bildirildi. Edinilen bilgilere göre, resmi makamlar tarafından yürütülen incelemeler sonucunda, internet ortamında ve sosyal paylaşım mecralarında kamu görevlilerini hedef alan bazı ifadelerin kullanıldığı saptandı. Özellikle fotoğraf ve video paylaşımına dayalı popüler ağlar üzerinde faaliyet gösterdiği belirtilen sanal medya hesapları, adli mercilerin yakın takibine girdi.\n\nSöz konusu süreç kapsamında, Instagram üzerinde 'Kuzey' rumuzunu kullanan bir hesabın sahibi hakkında hukuki süreç düğmesine basıldı. Adli kaynaklardan edinilen bilgilere göre, bu profil üzerinden bir kamu görevlisine yönelik hakaret içerikli paylaşımlar yapıldığı tespit edildi. Yapılan bu tespitin ardından Ankara Cumhuriyet Başsavcılığı, ilgili kişi hakkında resen soruşturma başlatma kararı aldı.\n\nTürk adalet sisteminde 'resen soruşturma', şikayete bağlı olmaksızın, suç şüphesinin makamlarca doğrudan öğrenilmesi üzerine savcılık tarafından kendiliğinden işletilen bir süreç olarak biliniyor. Bu bağlamda, kamu düzenini ve resmi görevlilerin saygınlığını korumak amacıyla harekete geçen savcılık makamı, bahse konu hesabın sahibinin kimliğini ve bulunduğu konumu belirlemek için kapsamlı bir çalışma başlattı.\n\nYürütülen soruşturma doğrultusunda, suçun faili olduğu iddia edilen kişinin en kısa sürede yakalanması ve adalete teslim edilmesi amacıyla emniyet birimlerine gözaltı talimatı verildiği aktarıldı. İnternet kullanıcılarının dijital mecralardaki paylaşımlarında hukuk sınırları içinde kalması gerektiği vurgulanırken, benzer nitelikteki hakaret ve hedef gösterme fiillerine karşı adli mercilerin hassasiyetle yaklaşmaya devam edeceği ifade edildi.\n\nSon dönemde dijital platformlarda artış gösteren benzer olaylar, hukuki düzenlemelerin ve denetim mekanizmalarının önemini bir kez daha gözler önüne seriyor. Soruşturmanın ilerleyen aşamalarında elde edilecek bulgulara göre adli sürecin derinleşmesi ve ilgili şahsın emniyetteki işlemlerinin ardından adliyeye sevk edilmesi bekleniyor.",
-      "highlights": [
-        "Ankara Cumhuriyet Başsavcılığı sosyal medya paylaşımları için harekete geçti.",
-        "'Kuzey' rumuzlu hesap sahibine kamu görevlisine hakaretten soruşturma açıldı.",
-        "Şüpheli hakkında emniyet birimlerine gözaltı talimatı verildi."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/sosyal-medyadaki-kufurlu-icerige-savciliktan-sorusturma-43282460",
-      "publishedAt": "2026-08-23T10:31:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/my-europe/2026/08/23/italya-basbakani-meloni-trump-ile-islerin-daha-kolay-olacagini-dusunmustum",
-      "headline": "İtalya Başbakanı Meloni'den Trump açıklaması: İşlerin daha kolay olacağını düşünmüştüm",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1495020689067-958852a7765e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmV3c3BhcGVyJTIwaW50ZXJ2aWV3fGVufDF8MHx8fDE3ODc0ODQ4NTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Roman Kraft",
-        "photographerUrl": "https://unsplash.com/@iamromankraft",
-        "unsplashUrl": "https://unsplash.com/photos/man-sitting-on-bench-reading-newspaper-_Zua2hyvTBk"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "İtalya Başbakanı Giorgia Meloni, uluslararası basının dikkatle takip ettiği son gelişmeler kapsamında ABD Başkanı Donald Trump ile olan ilişkilerine dair önemli değerlendirmelerde bulundu. Dünyanın önde gelen basın kuruluşlarından biri olan New York Times gazetesine kapsamlı bir röportaj veren İtalyan lider, iki ülke arasındaki siyasi ve diplomatik diyalogların seyrine ışık tuttu. Geride bıraktığımız dönemde yaşanan bazı fikir ayrılıkları ve gerilimlerin ardından gelen bu açıklamalar, transatlantik ilişkilerin geleceği açısından uluslararası kamuoyunda geniş yankı uyandırdı.\n\nGerçekleştirilen bu özel mülakat sırasında, özellikle ABD ve Avrupa Birliği arasındaki köklü bağlar ve bu bağların liderler düzeyindeki yansımaları masaya yatırıldı. Küresel siyasetin en baskın figürlerinden biri olan Donald Trump ile olan mesaisi hakkında konuşan Giorgia Meloni, sürecin başlangıcındaki beklentileri ile bugünkü tablo arasındaki farka dikkat çekti. Siyasi arenadaki genel algının aksine, süreç ilerledikçe karşılaşılan diplomatik zorlukların ve karar alma mekanizmalarındaki pürüzlerin kendisini şaşırttığını ima eden İtalyan Başbakanı, bu ilişkinin dışarıdan göründüğünden daha karmaşık bir yapıya sahip olduğunu vurguladı.\n\nBilindiği üzere İtalya Başbakanı Meloni, göreve geldiği günden bu yana Washington yönetimiyle yakın ve yapıcı bir diyalog kurma çabasıyla dikkat çekiyordu. İki liderin ideolojik ve politik bazı ortak paydalarda buluşabileceği yönündeki yaygın beklentiler, taraflar arasında ilişkilerin çok daha pürüzsüz ve hızlı ilerleyeceği yönündeki öngörüleri beslemişti. Ancak New York Times'a yapılan bu son değerlendirmeler, uluslararası diplomasi pratiklerinin her zaman teorideki kadar basit işlemediğini ve liderler arası uyumun zaman zaman sınamalara tabi tutulduğunu bir kez daha gözler önüne serdi.\n\nABD Başkanı Donald Trump'ın kendine has liderlik tarzı ve izlediği politikalar, dünya genelindeki müttefik ülkelerle olan ilişkileri doğrudan etkilemeye devam ediyor. İtalya gibi stratejik bir Akdeniz ülkesinin liderinin bu konudaki izlenimleri, Avrupa'nın Washington yönetimiyle kurduğu hassas dengeleri anlamak adına büyük önem taşıyor. Meloni'nin röportajda dile getirdiği ifadeler, iki müttefik ülke arasındaki bağların ne denli dinamik bir yapıya sahip olduğunu ve zaman zaman yaşanan gerilimlerin diplomasi masasında nasıl ele alındığını gösteren somut bir örnek oluşturuyor.\n\nSon dönemde artan küresel krizler, ekonomik dalgalanmalar ve güvenlik meseleleri, Batılı liderler arasındaki iş birliğinin kesintisiz ve uyumlu bir şekilde yürütülmesini zorunlu kılıyor. İtalya Başbakanı Giorgia Meloni'nin New York Times aracılığıyla kamuoyuyla paylaştığı bu samimi değerlendirmeler, aynı zamanda gelecekteki olası diplomatik temasların da tonunu belirleyebilecek nitelikte. İki liderin önümüzdeki dönemde atacağı adımlar ve aralarındaki diyalog kanallarının nasıl şekilleneceği, hem İtalyan iç siyasetinde hem de küresel dış politika gündeminde yakından takip edilmeyi sürdürecek.",
-      "highlights": [
-        "İtalya Başbakanı Meloni, New York Times'a özel bir röportaj verdi.",
-        "Açıklamalar ABD Başkanı Donald Trump ile yaşanan son gerilimlere odaklandı.",
-        "Meloni, ilişkilerin başlangıçta umduğundan daha zorlu geçtiğini belirtti."
-      ],
-      "externalUrl": "http://tr.euronews.com/my-europe/2026/08/23/italya-basbakani-meloni-trump-ile-islerin-daha-kolay-olacagini-dusunmustum",
-      "publishedAt": "2026-08-23T10:30:30.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
-      "headline": "Suriye'den İsrail açıklaması: Güvenlik anlaşması beklentisi",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1653289755997-1b028ff8ace8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGlwbG9tYWN5JTIwbWVldGluZ3xlbnwxfDB8fHwxNzg3NDgzMzI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Winkler",
-        "photographerUrl": "https://unsplash.com/@markuswinkler",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-piece-of-paper-on-it-Sv9jlqr7B3I"
-      },
-      "timeAgo": "43 dk önce",
-      "body": "Uluslararası kamuoyunun yakından takip ettiği gelişmeler kapsamında Suriye'deki geçiş dönemi yönetiminden dikkat çeken bir açıklama geldi. Suriye Geçiş Dönemi Yönetimi Dışişleri Bakanı Esad Şeybani, ülkenin dış politika ve güvenlik önceliklerine ilişkin önemli değerlendirmelerde bulundu. Şeybani, uluslararası haber ajansı Reuters'ın 23 Ağustos tarihinde servis ettiği röportajda, İsrail'in Suriye topraklarından tamamen çekilmesini hedefleyen bir güvenlik anlaşması çerçevesinde müzakerelerin önümüzdeki süreçte yeniden ivme kazanmasını ve hayata geçmesini beklediğini dile getirdi.\n\nSon dönemde bölgede yaşanan askeri hareketlilik ve gerilimler, Suriye yönetimi açısından acil diplomatik adımların atılmasını zorunlu kılan başlıca unsurlar arasında yer alıyor. Yapılan açıklamalara göre, Şam yönetiminin bu süreçteki en temel ve değişmez önceliğini, ülkeye yönelik gerçekleştirilen İsrail saldırılarının ve askeri müdahalelerin bir an önce kalıcı olarak durdurulması oluşturuyor. Dışişleri Bakanı Şeybani, bu hedefe ulaşabilmek adına taraflar arasında güven artırıcı somut adımların atılmasının hayati önem taşıdığını vurguladı. Mevcut diplomatik temasların ve mekanizmaların, bölgedeki İsrail işgalini meşrulaştıran veya kalıcı hale getiren bir yapıya dönüşmemesi gerektiğinin altı çizildi.\n\nSuriye makamları, kurulması öngörülen yeni mekanizmaların ve yürütülecek müzakere süreçlerinin, işgalin kalıcılaştırılmasına zemin hazırlamak aksine, tam ters bir yönde ilerlemesi gerektiğini savunuyor. Bu kapsamda, taraflar arasında adil ve kalıcı bir güvenlik anlaşmasının önünün açılmasının elzem olduğu ifade ediliyor. Bölgesel istikrarın yeniden tesis edilmesi ve sükûnetin sağlanması amacıyla diplomatik kanalların açık tutulması gerektiği belirtilirken, Şam yönetiminin bu doğrultudaki beklentilerini ve kırmızı çizgilerini uluslararası platformlarda açık bir dille dile getirdiği görülüyor.\n\nÖnümüzdeki dönemde diplomatik trafiğin hangi yönde evrileceği ve taraflar arasında yeni bir müzakere turunun ne zaman başlayacağı merakla bekleniyor. Şuriye geçiş yönetiminin dış politika vizyonunu şekillendiren bu kritik süreç, hem bölgesel aktörlerin tutumu hem de uluslararası toplumun arabuluculuk çabaları açısından büyük bir hassasiyet barındırıyor. Şeybani'nin yaptığı bu son açıklamalar, Şam'ın askeri müdahalelerin son bulması ve toprak bütünlüğünün korunması yönündeki kararlılığını bir kez daha gözler önüne sererken, gelecekteki olası güvenlik mimarisinin de çerçevesini çiziyor.",
-      "highlights": [
-        "Suriye Dışişleri Bakanı Şeybani, İsrail ile müzakerelerin yeniden başlamasını bekliyor.",
-        "Şam yönetiminin temel önceliği ülkeye yönelik İsrail saldırılarının durdurulması.",
-        "Güvenlik anlaşmasının işgali kalıcılaştırmak yerine barışın önünü açması isteniyor."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/c0qvq4j3lj4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-23T10:26:03.000Z",
       "category": "Dünya",
       "lang": "tr"
     }
