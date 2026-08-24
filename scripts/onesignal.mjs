@@ -19,7 +19,18 @@ export async function sendNewArticleNotification(article, { appId, restApiKey })
       headings: { tr: article.source, en: article.source },
       contents: { tr: article.headline, en: article.headline },
       url: article.externalUrl ?? undefined,
+      // article.imageUrl is our own Unsplash-sourced stock photo (see
+      // unsplash.mjs), never the original publisher's copyrighted image —
+      // safe to redistribute in the push.
+      big_picture: article.imageUrl ?? undefined,
+      chrome_web_image: article.imageUrl ?? undefined,
       data: { articleId: article.id },
+      // Routes into the Flutter app's own "breaking_news" Android channel
+      // (created client-side in notification_service.dart) so a real push
+      // uses the same custom sound + vibration pattern as an in-app local
+      // notification, instead of the OS default. Ignored on platforms/apps
+      // where that channel doesn't exist (e.g. web push).
+      existing_android_channel_id: 'breaking_news',
     }),
     signal: AbortSignal.timeout(15_000),
   });
