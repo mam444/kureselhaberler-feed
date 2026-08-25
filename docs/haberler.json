@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-25T11:12:29.024Z",
+  "generatedAt": "2026-08-25T11:51:47.685Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/yeni-iddia-valinin-oglu-gulistanin-oldugu-yerde-sabahlamis-3458742",
+      "headline": "Gülistan Doku soruşturmasında yeni iddia: Eski valinin oğlu olay yerinde sabahlamış",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1606022831434-91293aebf25a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwxfDB8fHwxNzg3NjU4NDM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michael Förtsch",
+        "photographerUrl": "https://unsplash.com/@michael_f",
+        "unsplashUrl": "https://unsplash.com/photos/police-car-with-flashing-emergency-lights-y5LaV9IEC_g"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye'nin uzun süredir gündeminden düşmeyen ve kamuoyunun yakından takip ettiği Gülistan Doku soruşturmasında, hukuki süreci derinden etkileyebilecek nitelikte yepyeni bir iddia ortaya atıldı. Tunceli'de 5 Ocak 2020 tarihinden bu yana kendisinden hiçbir haber alınamayarak kayıplara karışan genç kadınla ilgili yürütülen dosya, yeni ayrıntılarla güncelliğini korumaya devam ediyor.\n\nElde edilen son bilgilere göre, ailenin hukuki temsilciliğini üstlenen avukat tarafından önemli açıklamalar yapıldı. Yapılan bu açıklamalarda, dosyada yer alan gizli tanık beyanları ile iletişim trafiğini ve sinyal bilgilerini gösteren HTS kayıtlarının dikkat çekici detayları gün yüzüne çıkarıldı. Soruşturma dosyasındaki bu yeni veriler, olayın seyrine dair soru işaretlerini bir kez daha artırdı.\n\nAvukatın aktardığı bilgilere göre, genç kızın hayatını kaybettiği ve ardından gömüldüğü iddia edilen şüpheli noktaya, dönemin valisinin oğlunun gittiği öne sürüldü. İddialar yalnızca bununla sınırlı kalmayıp, bahse konu kişinin söz konusu bölgede sabah saatlerine kadar kaldığı yönündeki ifadeleri de beraberinde getirdi. Bu durum, olayla ilgili şüphelerin belirli bir nokta üzerinde yoğunlaşmasına neden oldu.\n\nOlayın meydana geldiği günden bu yana, başta Gülistan Doku'nun ailesi olmak üzere, toplumun geniş kesimleri tarafından adaletin yerini bulması ve gerçeğin tüm yönleriyle aydınlatılması talep ediliyor. Dosyaya giren her yeni iddia ve delil, adli mercilerin önündeki inceleme sürecinin titizlikle sürdürülmesini zorunlu kılıyor. Hukukçular ve kamuoyu, gizli tanık ifadeleri ile HTS analizlerinin soruşturmanın geleceği açısından kritik bir eşik oluşturduğunu belirtiyor.\n\nEski valinin oğlunun Doku'nun kaybolduğu süreçte ve iddia edilen mekanla olan irtibatına dair bu son gelişmeler, soruşturmanın derinleştirilmesi yönündeki beklentileri de beraberinde getirdi. Ailenin avukatı tarafından kamuoyuyla paylaşılan bu çarpıcı detaylar, adli makamların atacağı yeni adımların ne kadar elzem olduğunu bir kez daha gözler önüne serdi.\n\nSoruşturma dosyası kapsamındaki bu tür iddiaların, yargı organları tarafından detaylı bir şekilde incelenmesi ve tarafların iddialarının gerek teknik analizlerle gerekse tanık ifadeleriyle teyit edilmesi bekleniyor. Tunceli'deki bu gizemli kaybın üzerinden geçen zaman zarfında yaşanan her yeni gelişme, dosyanın kapatılmadığını ve hukuki mücadelenin tüm hızıyla sürdüğünü kanıtlar nitelikte değerlendiriliyor.",
+      "highlights": [
+        "Gülistan Doku soruşturmasında gizli tanık ve HTS kayıtlarına dayanan yeni bir iddia ortaya atıldı.",
+        "Ailenin avukatı, eski valinin oğlunun genç kızın öldürüldüğü iddia edilen yerde sabahladığını açıkladı.",
+        "Tunceli'de 5 Ocak 2020'den bu yana kayıp olan Doku'yu arama ve soruşturma süreci devam ediyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/yeni-iddia-valinin-oglu-gulistanin-oldugu-yerde-sabahlamis-3458742",
+      "publishedAt": "2026-08-25T14:38:16.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/kocaelispor-amedspor-macindaki-sari-posete-5-gozalti-3458736",
       "headline": "Kocaelispor ile Amedspor arasındaki karşılaşmada sarı poşet olayı nedeniyle 5 kişiye gözaltı kararı",
@@ -117,6 +140,98 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.yenisafak.com/video/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-hedefine-ulastiginda-yeni-donemin-kapilari-acilacak-4850746",
+      "headline": "Cumhurbaşkanı Erdoğan'dan Malazgirt Zaferi mesajı: Terörsüz Türkiye hedefine ulaştığında yeni dönemin kapıları açılacak",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1560354618-3d881dd9f580?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aGlzdG9yaWMlMjBtb251bWVudHxlbnwxfDB8fHwxNzg3NjU4NTMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "S M",
+        "photographerUrl": "https://unsplash.com/@iridescentstars",
+        "unsplashUrl": "https://unsplash.com/photos/white-painted-building-X-wP9famEPs"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "Türkiye Cumhuriyeti Cumhurbaşkanı Recep Tayyip Erdoğan, ülkenin tarihi dönüm noktalarından biri olan Malazgirt Zaferi'nin 955. yıl dönümü kutlamaları çerçevesinde Bitlis'in Ahlat ilçesinde vatandaşlarla bir araya geldi. Bölgede düzenlenen resmi ve kültürel etkinlikler vesilesiyle bir konuşma gerçekleştiren Cumhurbaşkanı Erdoğan, ülkenin iç ve dış siyasetine, güvenlik politikalarına ve gelecekte atılacak adımlara dair önemli değerlendirmelerde bulundu.\n\nGüncel gelişmelerin ve stratejik hedeflerin ele alındığı konuşmada, son dönemin en çok tartışılan ve üzerinde durulan konularından biri olan güvenlik ve terörle mücadele başlığına geniş bir parantez açıldı. Cumhurbaşkanı Erdoğan, devletin kararlı duruşunu vurgulayarak yürütülen güvenlik politikalarının ülkenin genel refahı üzerindeki doğrudan etkilerine dikkat çekti. Yapılan açıklamada, güvenlik ve huzur ortamının kalıcı olarak tesis edilmesinin ardından ülkenin önünde yepyeni bir siyasi, sosyal ve ekonomik dönemin başlayacağı net bir dille ifade edildi.\n\nLider, konuşmasının devamında birlik ve beraberlik vurgusunu yineleyerek toplumsal dayanışmanın önemine işaret etti. Vatandaşların kardeşlik bağı ve ortak iradesinin ülkeyi her türlü zorluğa karşı dirençli kıldığını belirten Erdoğan, iç cephenin güçlendirilmesinin dışarıya karşı en büyük güvenceyi oluşturduğunu dile getirdi. Bu çerçevede, güvenlik alanında atılan adımların sadece terörle mücadeleyle sınırlı kalmadığı, aynı zamanda ülkenin genel kalkınma hamlelerine de zemin hazırladığına dikkat çekildi.\n\nEkonomi ve kalkınma boyutuna da değinilen etkinlikte, güvenlik ortamının iyileşmesiyle birlikte ekonomik göstergelerin de olumlu yönde etkileneceği belirtildi. Ülkenin sahip olduğu potansiyelin en verimli şekilde değerlendirilmesi için huzur ve istikrarın vazgeçilmez bir unsur olduğu hatırlatıldı. Cumhurbaşkanı, geleceğe yönelik umut dolu mesajlar vererek büyük ve güçlü Türkiye idealinin adım adım gerçeğe dönüştüğünü, bu sürecin milletin ortak gayretleriyle taçlandırılacağını kaydetti.\n\nProgramın sonunda, tarihi mirasın ve milli bilincin gelecek nesillere aktarılmasının önemi bir kez daha hatırlatıldı. Ahlat'taki şahitlerin ve tarihi mekanların bu ruhun en büyük tanığı olduğunu belirten Erdoğan, milletin geçmişinden aldığı ilhamla geleceğe daha güvenle yürüdüğünü ifade etti. Yapılan bu kapsamlı değerlendirmeler, önümüzdeki dönemde atılacak adımlar ve izlenecek politikalar açısından kamuoyuna önemli bir yol haritası sundu.",
+      "highlights": [
+        "Cumhurbaşkanı Erdoğan, Ahlat'taki Malazgirt Zaferi etkinliklerinde konuştu.",
+        "Terörsüz Türkiye hedefinin gerçekleşmesiyle yeni bir dönemin kapısının açılacağını belirtti.",
+        "Birlik ve kardeşliğin artmasıyla ekonominin de güçleneceğini vurguladı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/cumhurbaskani-erdogan-terorsuz-turkiye-hedefine-ulastiginda-yeni-donemin-kapilari-acilacak-4850746",
+      "publishedAt": "2026-08-25T11:32:13.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/danimarka-basbakani-guzellik-tavsiyelerine-sert-yanit-verdi-vucudumdan-memnunum-3907978",
+      "headline": "Danimarka Başbakanı Frederiksen'den güzellik tavsiyesinde bulunan cerraha sert tepki",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1722392493604-7382c3d0f646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3ODc2NTg2MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Cristina  Cerda",
+        "photographerUrl": "https://unsplash.com/@cristinacerda",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-at-a-podium-giving-a-speech-4v6L6Ryc4HI"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Dünya siyasetinde zaman zaman karşılaşılan sıradışı olaylara bir yenisi daha eklendi. Danimarka Başbakanı Mette Frederiksen, yakın zamanda gerçekleştirdiği Ukrayna ziyareti sonrasında kendisine yöneltilen estetik müdahale tavsiyelerine karşı sessiz kalmayarak kamuoyuna açıklamalarda bulundu. Siyasi temaslarda bulunmak üzere Ukrayna'ya giden ve buradaki resmi programlarını tamamlayarak ülkesine dönen Danimarka Başbakanı, bu seyahatin ardından beklenmedik bir mesajla karşılaştı.\n\nEdinilen bilgilere göre, Başbakan Frederiksen'e Ukrayna ziyareti dönüşünde bir plastik cerrah tarafından doğrudan mesaj gönderildi. Söz konusu mesajda, Frederiksen'in burnunun üzerinde yer alan küçük bir noktanın düzeltilmesi gerektiği yönünde tavsiyelerde bulunulduğu ortaya çıktı. Siyasi bir liderin yoğun diplomatik ve kamusal faaliyetlerinin ardından bu tarz kişisel görünüm odaklı mesajlar alması dikkat çekici bir gelişme olarak değerlendirilirken, Danimarka Başbakanı bu duruma karşı oldukça net bir tutum sergiledi.\n\nKendisine iletilen estetik önerisini ve bu konudaki müdahale teklifini cevapsız bırakmayan Başbakan Mette Frederiksen, gelen mesaj karşısındaki rahatsızlığını ve duruşunu açıkça dile getirdi. Vücuduyla ilgili herhangi bir memnuniyetsizliği bulunmadığını vurgulayan Danimarka lideri, dış görünüşüne müdahale edilmesi yönündeki telkinleri tamamen reddetti. Frederiksen, konuya ilişkin yaptığı açıklamada, fiziksel özelliklerinden son derece memnun olduğunu belirterek, bir erkek plastik cerrahın bu konuda vereceği fikre ya da tavsiyeye hiçbir şekilde ihtiyaç duymadığının altını çizdi.\n\nSiyasetçilerin dış görünüşlerine yönelik yapılan değerlendirmeler ve toplumsal baskılar, uluslararası alanda sıkça tartışılan konular arasında yer alıyor. Özellikle kadın liderlerin kamusal alandaki duruşları, kıyafetleri ve fiziksel detayları üzerinden eleştirilere ya da yönlendirmelere maruz kalması uzun süredir kadın hakları ve eşitlik bağlamında eleştiriliyor. Danimarka Başbakanı Frederiksen'in verdiği bu net ve kararlı yanıt, liderlerin bu tür kişisel sınır ihlallerine ve istenmeyen tavsiyelere karşı gösterdiği direncin somut bir örneği olarak öne çıktı.\n\nOlayın ardından Danimarka kamuoyunda ve medya organlarında geniş yankı uyandıran bu açıklama, bireysel irade ve beden dokunulmazlığı konularını bir kez daha gündeme taşıdı. Başbakanlık makamında bulunan bir ismin, yoğun devlet işleri ve uluslararası diplomasinin yanı sıra bu tür kişisel meselelerle de kamusal düzeyde yüzleşmek zorunda kalması, siyaset dünyasındaki cinsiyetçi yaklaşımları ve estetik dayatmalarını bir kez daha tartışmaya açtı. Frederiksen'in tepkisi, hem kendi ülkesinde hem de uluslararası platformlarda destek bulurken, liderlerin özel alanlarına ve bedensel özerkliklerine saygı duyulması gerektiği yönündeki çağrıları da beraberinde getirdi.",
+      "highlights": [
+        "Danimarka Başbakanı Frederiksen, Ukrayna ziyaretinin ardından bir plastik cerrahtan mesaj aldığını açıkladı.",
+        "Cerrahi müdahale teklifine tepki gösteren Frederiksen, vücudundan memnun olduğunu belirtti.",
+        "Başbakan, bir erkek plastik cerrahın bu konuda görüşüne ihtiyaç duymadığını vurguladı."
+      ],
+      "externalUrl": "https://www.haberturk.com/danimarka-basbakani-guzellik-tavsiyelerine-sert-yanit-verdi-vucudumdan-memnunum-3907978",
+      "publishedAt": "2026-08-25T11:29:04.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/8/25/ex-wimbledon-champion-vondrousova-appeals-to-cas-over-four-year-doping-ban?traffic_source=rss",
+      "headline": "Eski Wimbledon şampiyonu Vondrousova, 4 yıllık doping cezasını CAS'a taşıdı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1545809074-59472b3f5ecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dGVubmlzJTIwY291cnR8ZW58MXwwfHx8MTc4NzY1ODY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Renith R",
+        "photographerUrl": "https://unsplash.com/@renithr17",
+        "unsplashUrl": "https://unsplash.com/photos/woman-holding-tennis-ball-and-racket-MLU_X1d3ofQ"
+      },
+      "timeAgo": "26 dk önce",
+      "body": "Tenis dünyasında son dönemin en dikkat çekici gelişmelerinden biri yaşandı ve eski Wimbledon şampiyonu konumundaki Çek sporcu Vondrousova, kariyerini ve profesyonel geleceğini doğrudan ilgilendiren ağır bir yaptırıma karşı hukuki yollara başvurma kararı aldı. Spor arenasındaki gelişmeler, disiplin süreçleri ve bu süreçlerin sporcular üzerindeki etkileri bir kez daha uluslararası spor kamuoyunun merkezine yerleşirken, yaşanan bu hukuki süreç tüm paydaşlar tarafından yakından takip ediliyor.\n\nEdinilen bilgilere göre, konunun özü haziran ayında alınan kararlara dayanıyor. Çek tenisçi Vondrousova, yetkili bir doping kontrol memuru tarafından kendisine yapılan bildirim sonrasında gerekli numuneyi sunmadığı gerekçesiyle resmi olarak dört yıllık bir men cezasına çarptırılmıştı. Uluslararası spor disiplin mekanizmalarında bu tür bildirimlerin ve numune verme süreçlerinin büyük bir titizlikle yürütüldüğü biliniyor; kurallara riayet edilmemesi durumunda ise son derece sert ve bağlayıcı yaptırımların uygulanması standart bir prosedür olarak öne çıkıyor.\n\nSöz konusu cezanın ardından taraflar hukuki ve idari değerlendirmelerini sürdürürken, Vondrousova cephesinden beklenen hamle geldi. Çek sporcu, kendisine verilen bu dört yıllık uzun süreli uzaklaştırma kararının iptal edilmesi veya hafifletilmesi talebiyle Spor Tahkim Mahkemesi'ne (CAS) resmi bir temyiz başvurusunda bulundu. Spor dünyasındaki nihai uyuşmazlıkların ve disiplin cezalarının çözüme kavuşturulduğu en üst düzey bağımsız merci olan CAS, şimdi tarafların sunduğu argümanları ve dosyadaki tüm olguları incelemek üzere detaylı bir inceleme süreci başlatacak.\n\nUluslararası spor hukukunda bu tür davalar, hem ilgili sporcunun kariyeri hem de dopingle mücadele ajanslarının yürüttüğü küresel politikalar açısından emsal niteliği taşıyabiliyor. Test verme sürecinde yaşanan anlaşmazlıkların veya prosedür eksikliklerinin mahkeme önünde nasıl değerlendirileceği, davanın seyrini belirleyecek en kritik unsurlar arasında yer alıyor. Vondrousova'nın avukatları ve ilgili spor otoriteleri, CAS nezdinde yürütülecek olan duruşmalarda kendi tezlerini savunmak üzere hazırlıklarını sürdürüyor.\n\nTenis takvimi ve sporcunun geleceği açısından büyük bir belirsizlik yaratan bu sürecin ne zaman sonuçlanacağı henüz netlik kazanmazken, Spor Tahkim Mahkemesi'nin tarafları dinledikten sonra önümüzdeki dönemde nihai kararını açıklaması bekleniyor. Kararın çıkacağı tarihe kadar sporcunun profesyonel müsabakalardan uzak kalmaya devam edeceği ve CAS'ın vereceği hükmün profesyonel tenis kariyerinin dönüm noktası olacağı gerçeği, konunun önemini bir kat daha artırıyor.",
+      "highlights": [
+        "Eski Wimbledon şampiyonu Vondrousova, 4 yıllık cezası için CAS'a başvurdu.",
+        "Çek sporcu haziran ayında numune sunmadığı gerekçesiyle cezalandırılmıştı.",
+        "Mahkemenin vereceği nihai karar sporcunun kariyeri açısından kritik önem taşıyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/8/25/ex-wimbledon-champion-vondrousova-appeals-to-cas-over-four-year-doping-ban?traffic_source=rss",
+      "publishedAt": "2026-08-25T11:24:55.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.dw.com/tr/almanya-dan-afganistan-a-toplu-sınır-dışı-uçuşu/a-78495954?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "Almanya'dan Afganistan'a yeni toplu sınır dışı uçuşu gerçekleştirildi",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1585011070837-1bf8e294a858?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YWlycGxhbmUlMjB0YXJtYWN8ZW58MXwwfHx8MTc4NzY1ODY4MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jack",
+        "photographerUrl": "https://unsplash.com/@kednk",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-jacket-and-black-pants-standing-beside-airplane-GfY0jL1GJl4"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Almanya, göç ve iltica politikaları kapsamında geçtiğimiz saatlerde yeni bir adım atarak Afganistan uyruklu vatandaşların sınır dışı edilmesine yönelik operasyonlarına bir yenisini ekledi. Edinilen bilgilere göre, sabah saatlerinde gerçekleştirilen operasyonla toplamda 23 Afganistan vatandaşı daha menşe ülkelerine geri gönderildi. Bu gelişme, Berlin yönetiminin son dönemde düzensiz göç ve sınır dışı prosedürlerinde izlediği daha sert ve kararlı politikanın somut bir yansıması olarak dikkat çekti. Yetkililer tarafından yapılan değerlendirmelerde, sınır dışı mekanizmalarının işletilmesinde bundan sonraki süreçte daha geniş bir kapsamın ele alınacağı açıkça ortaya konuldu.\n\nAlman makamları tarafından belirlenen yeni stratejik çerçeveye göre, sınır dışı uygulamaları artık sadece kamu güvenliği açısından doğrudan tehdit oluşturduğu gerekçesiyle resmi olarak \"tehlikeli suçlu\" kategorisinde değerlendirilen bireylerle sınırlı kalmayacak. Berlin hükümeti, Almanya topraklarında yasal olarak kalış hakkı hukuki süreçler sonucunda tamamen sona ermiş olan diğer Afgan vatandaşlarının da ülkeden çıkarılması yönünde kararlı bir tutum benimsemiş durumda. Bu hukuki ve idari değişim, ülkedeki sığınmacı ve göçmen statülerinin denetlenmesi konusunda daha sıkı bir döneme girildiğinin en net göstergelerinden biri olarak yorumlanıyor.\n\nSöz konusu sınır dışı uçuşu ve Berlin'in benimsediği yeni kriterler, hem Almanya iç siyasetinde hem de uluslararası kamuoyunda geniş yankı uyandıran tartışmaları beraberinde getirdi. Almanya genelinde artan göçmen baskısı ve yerel yönetimlerin barınma ile entegrasyon süreçlerinde yaşadığı zorluklar, federal hükümeti bu alanda daha somut ve hızlı adımlar atmaya zorlayan başlıca etkenler arasında yer alıyor. Hukuken kalış hakkı bulunmayan kişilerin tespiti ve ülkeden ayrılmalarının sağlanması, ülkenin iç güvenlik ve göç idaresi politikalarının merkezinde yer alan en kritik gündem maddelerinden biri olma özelliğini koruyor.\n\nUzmanlar, Almanya'nın bu uygulamayla birlikte Avrupa Birliği genelinde giderek sertleşen iltica ve geri gönderme trendine uyum sağladığına dikkat çekiyor. Yasal statüsünü yitiren kişilerin ülkelerine iadesi, hem iç politikadaki güvenlik endişelerini gidermeyi amaçlıyor hem de gelecekte yapılacak benzer operasyonlar için bir emsal teşkil ediyor. Berlin yönetiminin önümüzdeki dönemde de benzer sınır dışı uçuşlarını organize etmesi ve hukuki altyapısı tamamlanan dosyaları sırasıyla işleme koyması bekleniyor.\n\nGerçekleştirilen bu son sınır dışı operasyonuyla birlikte, Almanya'daki göç yönetiminin operasyonel kapasitesi ve izlenen prosedürlerin hızı bir kez daha gözler önüne serildi. Ülke genelinde kalış hakkı bulunmayan bireylerin tespit edilerek sınır dışı edilmesine yönelik idari süreçlerin titizlikle yürütüldüğü, yetkili mercilerin bu konudaki denetimleri artırdığı ifade ediliyor. Afganistan'a yönelik bu son uçuş, Berlin'in göç politikalarındaki yeni dönemin kararlılıkla uygulanmaya devam edeceğini net bir şekilde ortaya koydu.",
+      "highlights": [
+        "Almanya sabah saatlerinde 23 Afgan vatandaşını daha sınır dışı etti.",
+        "Berlin yönetimi artık sadece tehlikeli suçluları değil, kalış hakkı bitenleri de gönderecek.",
+        "Yeni uygulama, ülkedeki göç ve iltica politikalarında sertleşen dönemin bir parçası."
+      ],
+      "externalUrl": "https://www.dw.com/tr/almanya-dan-afganistan-a-toplu-sınır-dışı-uçuşu/a-78495954?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-08-25T11:23:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/gundem/2-ilde-uyusturucu-tacirlerine-operasyon-4-supheli-yakalandi-4850743",
       "headline": "İki ilde uyuşturucu operasyonu: Dört şüpheli gözaltına alındı, üçü tutuklandı",
       "source": "Yeni Şafak",
@@ -159,6 +274,29 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-cem-kucuk-sorusturmasinda-3-kisi-hakkinda-yakalama-karari-cikarildi-1738868",
       "publishedAt": "2026-08-25T11:10:01.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/gundem/hakkari-ve-samsunda-uyusturucu-operasyonu-3-tutuklama-43284546",
+      "headline": "Hakkari ve Samsun'da uyuşturucu operasyonu: 3 tutuklama",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1526666361175-e3595627c376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3ODc2NTg3MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "King's Church International",
+        "photographerUrl": "https://unsplash.com/@kingschurchinternational",
+        "unsplashUrl": "https://unsplash.com/photos/police-standing-on-road-3mjspmQDM_M"
+      },
+      "timeAgo": "46 dk önce",
+      "body": "Türkiye genelinde güvenlik güçlerinin suç ve suçlularla mücadelesi kararlılıkla devam ederken, bu kapsamda ülkenin farklı coğrafi bölgelerinde eş zamanlı ve hedef odaklı operasyonlar icra edilmektedir. Son olarak elde edilen bilgilere göre, güvenlik birimleri tarafından Hakkari ve Samsun illerinde uyuşturucu madde ticaretinin men ve takibine yönelik kapsamlı bir operasyon gerçekleştirildi. Emniyet ve jandarma birimlerinin koordineli çalışmaları neticesinde, uyuşturucu ticaretine karıştığı tespit edilen şüphelilerin yakalanması için operasyon düğmesine basıldı.\n\nGerçekleştirilen bu operasyonlar, Türkiye'de uzun süredir büyük bir hassasiyetle yürütülen uyuşturucuyla mücadele stratejisinin önemli bir parçasını oluşturmaktadır. İçişleri Bakanlığı tarafından yapılan resmi açıklamada, söz konusu iki ilde faaliyet gösteren ve uyuşturucu ticareti yaptığı belirlenen suç şebekelerine yönelik baskınlar düzenlendiği ifade edildi. Operasyonlar sırasında güvenlik güçlerinin titiz çalışmaları sayesinde, suç unsurlarıyla birlikte aranan şahısların saklandıkları adresler tespit edilerek etkisiz hale getirildi.\n\nYetkili makamların paylaştığı bilgilere göre, Hakkari ve Samsun illerindeki operasyonlar sonucunda toplamda 4 şüpheli şahıs yakalanarak gözaltına alındı. Gözaltına alınan zanlılar, emniyetteki ilk işlemlerinin ve sorgulama süreçlerinin tamamlanmasının ardından, haklarındaki yasal işlemlerin tesisi için adliyeye sevk edildi. Adli makamlar huzuruna çıkarılan şüphelilerin durumları savcılık ve hakimlik nezdinde tek tek değerlendirildi.\n\nMahkemeye sevk edilen zanlılardan 3'ü, hakimlik tarafından tutuklanarak cezaevine gönderildi. Tutuklama kararının ardından zanlıların ceza infaz kurumlarına sevk edildiği bildirilirken, operasyon kapsamında ele geçirilen diğer maddi delillerin ise incelenmek üzere kriminal laboratuvarlara gönderildiği tahmin edilmektedir. Emniyet kaynakları, uyuşturucu ticaretinin toplumsal yapıyı ve özellikle genç nesilleri hedef alan çok boyutlu bir tehdit olduğunu, bu nedenle mücadelenin aralıksız ve artan bir tempoyla süreceğini vurgulamaktadır.\n\nBu tür operasyonlar, sadece sokak düzeyindeki satıcıları değil, aynı zamanda bu zehir tacirliğini organize eden şebekeleri de hedef alması bakımından büyük önem taşımaktadır. Hakkari ve Samsun'da gerçekleştirilen son operasyonlar da bu stratejinin sahadaki somut bir yansıması olarak kayıtlara geçti. Güvenlik güçlerinin, vatandaşların huzur ve güvenliğini sağlamak, kamu düzenini korumak ve suç odaklarına göz açtırmamak adına yürüttüğü operasyonların kararlılıkla devam edeceği, yetkili merciler tarafından sık sık dile getirilmektedir.",
+      "highlights": [
+        "Hakkari ve Samsun'da uyuşturucu operasyonu düzenlendi.",
+        "Operasyonlar sonucunda 4 şüpheli yakalandı.",
+        "Adliyeye sevk edilen 4 şüpheliden 3'ü tutuklandı."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/hakkari-ve-samsunda-uyusturucu-operasyonu-3-tutuklama-43284546",
+      "publishedAt": "2026-08-25T11:06:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6761,144 +6899,6 @@
       "externalUrl": "https://www.dw.com/tr/aziz-ihsan-aktaş-davasında-karar-açıklanıyor/a-78483902?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-08-24T14:18:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/eski-bakan-idris-naim-sahine-tahsisli-2-aracta-daha-yeni-bulgu-3458252",
-      "headline": "Eski Bakan İdris Naim Şahin'e tahsisli iki araçta daha suç bulgusu",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1637016887843-c6d136c06d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwY2FyfGVufDF8MHx8fDE3ODc1NzE1Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Max Fleischmann",
-        "photographerUrl": "https://unsplash.com/@maxfleischmann",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-police-car-with-its-lights-on-4wcI3YQAWpI"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye gündeminde geniş yankı uyandıran ve adli makamlarca titizlikle yürütülen soruşturma süreçleri kapsamında yeni gelişmeler yaşanmaya devam ediyor. Kamuoyunda Alihan Kuriş Suç Örgütü olarak adlandırılan yapılanmaya yönelik olarak sürdürülen soruşturma dosyası, yeni ve dikkat çekici detaylarla derinleşiyor. Güvenlik birimlerinin ve soruşturmayı yürüten adli mercilerin titiz çalışmaları neticesinde, yürütülen tahkikatın kapsamı her geçen gün biraz daha genişliyor.\n\nElde edilen son dakika bilgilerine göre, eski İçişleri Bakanlarından İdris Naim Şahin adına tahsis edilmiş olan iki farklı aracın durumu soruşturma dosyasına girdi. Söz konusu olan 34 S 7815 ile 34 RM 8677 resmi veya özel plakalı iki aracın, asıl tahsis amaçlarının dışına çıkılarak kullanıldığı resmi makamlarca belirlendi. Bu araçların sadece kullanım amacından sapmakla kalmadığı, aynı zamanda bahsi geçen suç örgütünün illegal faaliyetleri çerçevesinde de aktif olarak değerlendirildiği tespit edildi.\n\nSoruşturmanın bu aşaması, tahsisli araçların suç ağları içerisindeki rolünü gözler önüne sererken, adli ve idari mercilerin olayla ilgili incelemelerini çok yönlü bir şekilde sürdürdüğü bildiriliyor. Yapılan tespitler, suç örgütünün lojistik ve ulaşım faaliyetlerinin nasıl koordine edildiğine dair önemli ipuçları barındırıyor. Emniyet güçleri ve savcılık makamları, örgüt ile bağlantılı olan tüm unsurları ortaya çıkarmak adına çalışmalarını aralıksız bir şekilde sürdürmektedir.\n\nBu tür soruşturmalar, kamu kaynaklarının veya resmi tahsislerin ne amaçla kullanıldığının denetlenmesinin önemini bir kez daha hatırlatırken, hukuki süreçlerin tüm hızıyla devam edeceği ifade ediliyor. Eski Bakan İdris Naim Şahin'in adının geçtiği bu iki araçla ilgili elde edilen yeni bulguların, soruşturmanın ilerleyen aşamalarında dosyaya sunulacak iddianamede de yer alması bekleniyor. Soruşturma kapsamında adaletin tecelli etmesi ve suç unsurlarının bütünüyle aydınlatılması adına atılan adımlar kamuoyu tarafından yakından takip edilmektedir.\n\nOlayla ilgili olarak adli makamların önümüzdeki günlerde yeni değerlendirmelerde bulunması ve elde edilen deliller doğrultusunda gerekli hukuki prosedürleri işletmesi öngörülmektedir. Soruşturmanın gizliliği ve selameti açısından detaylar aşamalı olarak paylaşılırken, suç örgütü yapılanmasına yönelik mücadelenin kararlılıkla devam edeceği vurgulanmaktadır.",
-      "highlights": [
-        "Alihan Kuriş Suç Örgütü soruşturmasında yeni detaylar ortaya çıktı.",
-        "İdris Naim Şahin'e tahsisli iki aracın suç faaliyetlerinde kullanıldığı belirlendi.",
-        "Tespit edilen araçların 34 S 7815 ve 34 RM 8677 plakalı olduğu bildirildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/eski-bakan-idris-naim-sahine-tahsisli-2-aracta-daha-yeni-bulgu-3458252",
-      "publishedAt": "2026-08-24T14:16:25.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/c9v98e7430no?at_medium=RSS&at_campaign=rss",
-      "headline": "Gta 6 sızıntıları yılın en büyük oyunu için ne anlama geliyor?",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1552820728-8b83bb6b773f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dmlkZW8lMjBnYW1lJTIwY29udHJvbGxlcnxlbnwxfDB8fHwxNzg3NTAwMDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alexey Savchenko",
-        "photographerUrl": "https://unsplash.com/@alexxsvch",
-        "unsplashUrl": "https://unsplash.com/photos/game-controller-on-wooden-surface-k4Akpt5-Sfk"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "Video oyun dünyasının en çok beklenen yapımları arasında yer alan Grand Theft Auto, kısaca GTA 6, son günlerde arka arkaya yaşanan sızıntı olaylarıyla gündemdeki sıcaklığını koruyor. Oyun sektörünün en büyük projelerinden biri olarak gösterilen yapımın henüz geliştirme aşamasındayken ortaya çıkan görüntüleri, dijital mecralarda geniş yankı uyandırdı. Yaklaşık bir haftadır sosyal medya platformlarında ve çeşitli forumlarda paylaşılan bu materyaller, oyunseverler arasında büyük bir tartışma ortamı yaratırken, gözler yapımcı şirketin atacağı adımlara çevrilmiş durumda.\n\nYaşanan bu gelişmelerin ardından, oyunun geliştiricisi konumundaki Rockstar Games tarafından henüz resmi ve kapsamlı bir açıklama yapılmadı. Şirketin sessizliğini koruması, oyun dünyasında farklı spekülasyonlara yol açarken, projenin geleceği ve içerik güvenliği konusunda çeşitli soru işaretlerini de beraberinde getirdi. Sektör analistleri ve takipçiler, böylesine büyük bütçeli ve yüksek gizlilik gerektiren bir yapımda meydana gelen bu tür sızıntıların, geliştirme süreçlerini ve pazarlama stratejilerini nasıl etkileyeceğini yakından takip ediyor.\n\nDiğer yandan, Rockstar Games'in üst çatı şirketi olan Take Two Interactive, yaşanan bilgi ve görüntü sızıntılarına karşı hukuki düzeyde harekete geçti. Şirket yönetimi, gizli materyalleri internet ortamında yayan ve sızdıran hesapların kimlik bilgilerinin resmi mercilerle paylaşılması amacıyla yasal süreç başlattı. Bu hamle, şirketin korsan içerik ve yetkisiz paylaşımlara karşı ne kadar sert bir tutum sergilediğini bir kez daha gözler önüne sererken, dijital korsanlıkla mücadele konusundaki kararlılığını da ortaya koydu.\n\nOyun dünyasında bu tür büyük çaplı sızıntılar, genellikle yapımcıların güvenlik protokollerini yeniden gözden geçirmesine neden oluyor. GTA serisinin küresel çaptaki devasa oyuncu kitlesi ve kültürel etkisi göz önüne alındığında, yaşanan bu sızıntı olayının sadece şirketin ticari çıkarlarını değil, aynı zamanda milyonlarca hayranın oyun deneyimini de etkileyebileceği ifade ediliyor. Hukuki sürecin ilerleyişi ve şirketlerin yapacağı olası yeni açıklamalar, önümüzdeki günlerde sektörün en önemli gündem maddeleri arasında yer almaya devam edecek.",
-      "highlights": [
-        "GTA 6'nın görüntüleri bir haftadır internette sızdırılıyor.",
-        "Geliştirici Rockstar Games henüz resmi bir açıklama yapmadı.",
-        "Take Two Interactive sızıntı yapanlar için yasal işlem başlattı."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/c9v98e7430no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T14:16:01.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/next/2026/08/24/macron-liselerde-telefon-yasagi-yeni-donemde-yururluge-giriyor",
-      "headline": "Fransa'da liselerde cep telefonu yasağı önümüzdeki hafta başlıyor",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1629470937928-5f873c06005c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZnJlbmNoJTIwc2Nob29sfGVufDF8MHx8fDE3ODc1ODM0NDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Erik Mclean",
-        "photographerUrl": "https://unsplash.com/@introspectivedsgn",
-        "unsplashUrl": "https://unsplash.com/photos/red-and-brown-wooden-board-MEiCmQgMFoI"
-      },
-      "timeAgo": "54 dk önce",
-      "body": "Fransa genelinde eğitim ve öğretim hayatını yakından ilgilendiren yeni bir düzenlemenin eşiğinde olunduğu bildirildi. Gelen son bilgilere göre, ülkedeki liselerde cep telefonu kullanımını kısıtlayacak ya da tamamen yasaklayacak olan yeni uygulamanın hayata geçirilmesi için geri sayım resmen başladı. Konuyla ilgili olarak hükümet kanadından yapılan resmi açıklamalar, uygulamanın zamanlamasına dair net bir takvimi gözler önüne serdi.\n\nFransa Hükümet Sözcüsü Maud Bregeon tarafından kamuoyuyla paylaşılan bilgilere göre, uzun süredir tartışılan ve üzerinde çalışılan liselerde cep telefonu yasağı tedbiri çok kısa bir süre içinde yürürlük kazanacak. Sözcü Bregeon, yaptığı bilgilendirmede, söz konusu yasağın önümüzdeki hafta itibarıyla, yani okulların açılmasıyla birlikte fiilen uygulamaya konulabileceğini dile getirdi.\n\nEğitim kurumlarında dijital dikkat dağıtıcı unsurların en aza indirilmesi ve öğrencilerin derslere daha fazla odaklanmasının sağlanması amacıyla gündeme getirilen bu hamle, ülkenin eğitim politikasındaki güncel adımlardan biri olarak dikkat çekiyor. Okulların yeniden açılacağı döneme denk getirilen bu stratejik zamanlama, hem öğrencileri hem de velileri yakından ilgilendiren yeni bir dönemin habercisi niteliğini taşıyor.\n\nFransa'da okulların açılış haftasında devreye girmesi beklenen bu kısıtlamanın uygulama detayları ve sahada nasıl bir etki yaratacağı, eğitim camiası ile kamuoyu tarafından yakından takip ediliyor. Hükümet yetkililerinin yapacağı ilave açıklamalar ve okulların açılmasıyla birlikte atılacak somut adımlar, sürecin seyrini belirleyecek temel unsurlar arasında yer alıyor.",
-      "highlights": [
-        "Fransa'da liselerde telefon yasağı önümüzdeki hafta yürürlüğe giriyor.",
-        "Kararı Hükümet Sözcüsü Maud Bregeon kamuoyuna açıkladı.",
-        "Uygulama okulların açılış dönemiyle birlikte hayata geçirilecek."
-      ],
-      "externalUrl": "http://tr.euronews.com/next/2026/08/24/macron-liselerde-telefon-yasagi-yeni-donemde-yururluge-giriyor",
-      "publishedAt": "2026-08-24T14:03:22.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665",
-      "headline": "Kanadalı siyasetçiden ABD'ye elektrik ve maden kesintisi tehdidi",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWNpdHklMjBweWxvbnN8ZW58MXwwfHx8MTc4NzYxMDIwNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Matthew Henry",
-        "photographerUrl": "https://unsplash.com/@matthewhenry",
-        "unsplashUrl": "https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI"
-      },
-      "timeAgo": "8 sa önce",
-      "body": "Uluslararası ilişkilerde ve ticaret dinamiklerinde tansiyonu yükselten son gelişmeler kapsamında, Kanadalı bir siyasetçi tarafından ABD yönetimine yönelik dikkat çekici bir uyarı yapıldı. Yaşanan bu sert diplomatik çıkışın arka planında, Amerika Birleşik Devletleri Başkanı Donald Trump'ın bazı mallara uygulanan gümrük vergilerini yüzde 50 oranına kadar yükseltme kararı yer alıyor. Alınan bu vergisel önlemlerin ardından Kanada cephesinden gelen reaksiyon, iki komşu ülke arasındaki ekonomik ve ticari bağların ne denli kırılgan bir süreçten geçtiğini gözler önüne serdi.\n\nSöz konusu siyasi figür, ABD'nin uyguladığı yüksek gümrük tarifelerine doğrudan bir yanıt olarak, ülkesinin sınırın güneyindeki komşusuna sağladığı elektrik enerjisi ile kritik maden sevkiyatını tamamen durdurabileceğini ifade etti. Bu tehdit, özellikle enerji arz güvenliği ve sanayi hammaddeleri açısından iki ülke arasındaki bağımlılık ilişkisini bir kez daha tartışmaya açtı. Hem elektrik şebekelerinin entegre yapısı hem de kritik mineral tedarik zincirleri, Kuzey Amerika pazarındaki ekonomik istikrarın temel taşları arasında bulunuyor.\n\nBaşkan Trump'ın ticaret politikaları çerçevesinde devreye soktuğu ve bazı ürünlerde yüzde 50'ye ulaşan ek tarifeler, uluslararası ticaret partnerleri arasında geniş yankı uyandırmaya devam ediyor. Korumacı ekonomi politikalarının bir uzantısı olarak değerlendirilen bu vergiler, sadece küresel tedarik zincirlerini sarsmakla kalmıyor, aynı zamanda müttefik ülkeler arasında da siyasi krizlerin tetiklenmesine zemin hazırlıyor. Kanada gibi ABD ile yoğun ticaret hacmine sahip bir ülkenin yetkililerinden gelen bu tür sert karşılıklar, ekonomik baskı araçlarının nasıl birer misilleme aracına dönüşebileceğini gösteriyor.\n\nElektrik ve mineral arzının kesilmesi yönündeki bu potansiyel hamle, hayata geçirilmesi durumunda her iki ülkenin iç piyasalarında da derin etkilere yol açabilecek nitelikte. ABD'nin belirli bölgelerindeki enerji tüketicileri ve sanayi tesisleri, Kanada'dan gelen elektrik enerjisine büyük ölçüde bağımlı durumdayken, aynı şekilde teknoloji ve imalat sektörleri de kritik mineraller açısından bu tedarik yollarına dayanıyor. Dolayısıyla, siyasi söylem düzeyinde kalan bu tür tehditler dahi piyasalarda ve karar alıcılar arasında yakından takip edilen stratejik riskler olarak değerlendiriliyor.\n\nTrump yönetiminin 'sıraya girin' anlamına gelen ve müttefik ülkeleri Amerikan ticaret politikalarına uyum sağlamaya zorlayan uyarıları, bu tür diplomatik gerilimlerin tırmanmasında ana katalizör rolü oynadı. Uluslararası ticaret hukuku ve serbest piyasa ilkeleri çerçevesinde tartışılan bu hamleler, taraflar arasında yeni bir ekonomik mücadelenin fitilini ateşlemiş durumda. Kanadalı siyasetçinin dile getirdiği elektrik ve maden kısıtlaması ihtimali, bundan sonraki süreçte atılacak adımların ve yürütülecek diplomatik müzakerelerin seyrini doğrudan etkileyecek kritik bir eşik olarak öne çıkıyor.",
-      "highlights": [
-        "Kanadalı bir siyasetçi ABD'ye elektrik ve maden sevkiyatını kesmekle tehdit etti.",
-        "Bu hamle, Başkan Trump'ın bazı mallara uygulanan vergileri yüzde 50'ye çıkarmasına yanıt olarak geldi.",
-        "ABD yönetimi, ticaret politikaları kapsamında müttefiklerine 'sıraya girin' uyarısında bulundu."
-      ],
-      "externalUrl": "https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665",
-      "publishedAt": "2026-08-24T13:59:00.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "headline": "İsrail'den Gazze'den uçurulan uçurtmalara karşı 'sert yanıt' uyarısı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1646988473884-a9dc0051650b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Ym9yZGVyJTIwZmVuY2V8ZW58MXwwfHx8MTc4NzU4MzQ1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniela Holzer",
-        "photographerUrl": "https://unsplash.com/@matscha",
-        "unsplashUrl": "https://unsplash.com/photos/a-fence-with-barbed-wire-and-a-field-in-the-background-sJ7BUg5T334"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "İsrail makamları, son günlerde ülke sınırındaki yerleşim birimlerinde tespit edilen uçurtmaların ardından dikkat çeken bir uyarıda bulundu. Yaşanan gelişmeler üzerine yapılan resmi değerlendirmelerde, sınır bölgesindeki güvenliği tehdit eden bu tür unsurlara karşı oldukça güçlü ve kararlı bir karşılık verileceği açıklandı. Sınır hattında son zamanlarda sıklıkla karşılaşılan ve bölgede gerilimin tırmanmasına yol açabilen söz konusu uçurtma vakaları, iki taraf arasındaki hassas dengelerin yeniden gündeme gelmesine neden oldu.\n\nDiğer taraftan, konuyla ilgili olarak Filistin tarafındaki hareketlilikten sorumlu olan Hamas cephesinden de bir açıklama geldi. Hamas, İsrail sınırına yakın topluluklarda son günlerde ele geçirilen uçurtmaların yetişkinler veya örgüt mensupları tarafından değil, Gazze'deki çocuklar tarafından uçurulduğunu ifade etti. Yapılan bu açıklama, sınır hattında yaşanan olayların arka planına dair farklı bir perspektif sunarken, bölgede halihazırda var olan hassasiyetin boyutlarını da gözler önüne serdi.\n\nBölgesel güvenliği yakından takip eden uzmanlar, bu tür küçük çaplı gibi görünen eylemlerin bile taraflar arasında daha büyük çaplı bir gerilime zemin hazırlayabileceğine dikkat çekiyor. İsrail yönetimi tarafından yapılan sert yanıt uyarısı, sınır güvenliğinin ne denli hassas bir kırmızı çizgi olarak görüldüğünü bir kez daha teyit eder nitelikte. Özellikle son dönemde yaşanan benzer olaylar, bölgede görev yapan güvenlik güçlerinin alarm durumunu artırmasına ve tedbirleri en üst seviyeye çıkarmasına yol açmış durumda.\n\nİsrail sınırına yakın bölgelerde yaşayan yerel halkın güvenliğini sağlamak amacıyla alınan tedbirler titizlikle uygulanmaya devam ediyor. Yetkililer, sınır hattındaki hareketliliği anbean izlerken, çocukların veya sivillerin bu tür riskli durumların içine çekilmesinin veya bu faaliyetlerin bölgedeki tansiyonu artırmasının önüne geçilmesi için diplomatik ve askeri kanallardaki temaslarını sürdürüyor. Güvenlik birimleri, yaşanan her türlü olağandışı durumu yakından takip ederek olası risklere karşı hazırlıklı olduklarını vurguluyor.\n\nOrtadoğu'daki mevcut jeopolitik durum ve sınır hatlarında sıklıkla yaşanan bu tarz olaylar, uluslararası kamuoyunun da dikkatini çekiyor. Uzmanlar, taraflar arasında her an kriz çıkarabilecek bu gibi küçük olayların kontrol altına alınmasının hem bölgesel barış hem de sivil halkın emniyeti açısından büyük önem taşıdığını belirtiyor. Hamas'ın yaptığı açıklama ile İsrail'in verdiği sert tepki uyarısı arasındaki bu zıtlık, bölgedeki kalıcı gerilim atmosferinin ne kadar kırılgan bir yapıda olduğunu bir kez daha kanıtlıyor.",
-      "highlights": [
-        "İsrail, sınır bölgesine uçurulan uçurtmalara karşı sert karşılık vereceğini duyurdu.",
-        "Hamas, söz konusu uçurtmaların Gazze'deki çocuklar tarafından uçurulduğunu açıkladı.",
-        "Sınır hattındaki bu gelişmeler iki taraf arasındaki gerilimi yeniden tırmandırdı."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-24T13:56:22.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/cerceve-yasa-kapsaminda-kurulan-takip-ve-degerlendirme-kurulu-ilk-kez-toplandi/4035959",
-      "headline": "Çerçeve Yasa Kapsamında Kurulan Takip ve Değerlendirme Kurulu İlk Toplantısını Gerçekleştirdi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1606836591695-4d58a73eba1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWVldGluZyUyMHJvb218ZW58MXwwfHx8MTc4NzU4MDEzNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rodeo Project Management Software",
-        "photographerUrl": "https://unsplash.com/@getrodeo",
-        "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-chair-inside-building-ONe-snuCaqQ"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Türkiye'nin yakın siyasi ve toplumsal gündeminde önemli bir yer tutan süreç kapsamında atılan adımlar hız kesmeden devam ederken, konuyla ilgili kritik bir mekanizma ilk kez bir araya geldi. Kamuoyunda geniş yankı uyandıran ve hukuki altyapısı geçtiğimiz dönemde oluşturulan süreç çerçevesinde yeni bir idari aşamaya geçildiği bildirildi.\n\nEdinilen bilgilere göre, resmi düzenlemeler doğrultusunda hayata geçirilen yapı, faaliyetlerine resmen başlangıç yaptı. İlgili yasal metinlerde yer alan hükümler uyarınca teşkil edilen organ, ülkenin toplumsal dokusunu güçlendirmeyi ve dayanışma bilincini artırmayı hedefleyen çalışmalarını koordine etmek üzere ilk oturumunu gerçekleştirdi.\n\nSöz konusu kurulun oluşturulmasına zemin hazırlayan hukuki düzenleme, yetkili merciler tarafından titizlikle ele alınan bir çerçeve sunuyor. Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun adı verilen yasal metin, bu tür idari ve denetim mekanizmalarının kurulmasında temel teşkil ediyor. Kanunun amir hükümlerine dayanarak faaliyete başlayan Takip ve Değerlendirme Kurulu, ilgili sürecin tüm aşamalarını yakından izleme misyonunu taşıyor.\n\nGerçekleştirilen bu ilk toplantı, kurulun önümüzdeki dönemde izleyeceği stratejilerin belirlenmesi açısından büyük önem taşıyor. Yapının üyeleri, kanunla kendilerine verilen yetkiler çerçevesinde atılacak adımları, yürütülecek faaliyetleri ve toplumsal bütünleşmeye katkı sağlayacak projeleri masaya yatırdı. Toplantının, önümüzdeki süreçte atılacak somut adımların planlanması adına bir yol haritası niteliği taşıdığı ifade ediliyor.\n\nUzmanlar ve siyasi gözlemciler, bu tür kurulların işlevselliğinin, sürecin şeffaf ve güvenilir bir şekilde yürütülmesi açısından kritik olduğunu vurguluyor. Takip ve Değerlendirme Kurulu'nun yapacağı çalışmaların, ilgili kanunun amaçlarına ulaşmasında kilit rol oynaması bekleniyor. Kurulun bundan sonraki süreçte düzenli olarak toplanması ve yürüttüğü faaliyetlere ilişkin değerlendirmelerde bulunması öngörülüyor.\n\nToplantının ardından kurulun çalışma usul ve esaslarına dair detayların da netleştiği tahmin ediliyor. Milli Dayanışma ve Toplumsal Bütünleşmenin Güçlendirilmesine Dair Kanun'un öngördüğü hedefler doğrultusunda şekillenen bu yeni dönemin, ülkedeki toplumsal barış ve bütünleşme dinamiklerine olumlu etkiler yapması umuluyor. Kurulun atacağı yeni adımlar ve yapacağı açıklamalar, hem kamuoyu hem de ilgili çevreler tarafından yakından takip edilmeye devam edecek.",
-      "highlights": [
-        "Takip ve Değerlendirme Kurulu ilk toplantısını gerçekleştirdi.",
-        "Süreç Milli Dayanışma Kanunu kapsamında yürütülüyor.",
-        "Kurul toplumsal bütünleşmeyi güçlendirmeyi hedefliyor."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/cerceve-yasa-kapsaminda-kurulan-takip-ve-degerlendirme-kurulu-ilk-kez-toplandi/4035959",
-      "publishedAt": "2026-08-24T13:53:58.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ]
