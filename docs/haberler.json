@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-08-25T21:11:47.683Z",
+  "generatedAt": "2026-08-25T21:47:30.345Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/gullunun-olumunde-yeni-gelisme-olay-gecesine-ait-yeni-goruntuler-ortaya-cikti-3459004",
+      "headline": "Güllü'nün ölüm davasında yeni görüntüler ortaya çıktı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1701605919891-1824e8dae598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc4NzY5NDQwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nathan Cima",
+        "photographerUrl": "https://unsplash.com/@nathan_cima",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-door-A4Qca4vX1Q0"
+      },
+      "timeAgo": "şimdi",
+      "body": "Yalova'da yaşanan ve kamuoyunda geniş yankı uyandıran olayla ilgili adli süreçte yeni bir aşamaya geçildi. Bilindiği üzere, evinin altıncı katındaki pencereden düşerek yaşamını yitiren şarkıcı Güllü'nün ölümüyle ilgili yürütülen soruşturma ve dava dosyası, Türkiye'nin gündemindeki yerini korumaya devam ediyor. Bu trajik olay, sanatçının hayranlarını ve kamuoyunu derinden sarsarken, adalet mekanizmasının gerçeği ortaya çıkarmak için yürüttüğü çalışmalar titizlikle sürdürülüyor.\n\nSöz konusu dava kapsamında hazırlanan iddianamede yer alan suçlamalar ve talepler, davanın seyrini doğrudan etkiliyor. Yargı makamları önünde görülen davada, sanatçının kızı Tuğyan Ülkem Gülter hakkında mahkemeye sunulan dosyalarda son derece ağır bir suçlama yöneltiliyor. Savcılık makamı, Tuğyan Ülkem Gülter'in \"tasarlayarak üst soya karşı kasten öldürme\" suçundan yargılanmasını talep ediyor ve bu suçlama doğrultusunda sanık için ağırlaştırılmış müebbet hapis cezası isteniyor. Bu durum, davanın hukuki boyutunu en üst düzeyde ciddiyet gerektiren bir noktaya taşıyor.\n\nBununla birlikte, dava dosyasında adı geçen bir diğer isim olan Sultan Nur Ulu hakkında da hukuki süreç işlemeye devam ediyor. Hazırlanan iddianamede Sultan Nur Ulu'nun konumu ve eylemleri de ayrıntılı bir şekilde ele alınıyor. İlgili makamlar tarafından Sultan Nur Ulu için “yalan tanıklık” suçlaması yöneltilirken, bu suçlamayla ilgili olarak 4 yıla kadar hapis cezası talep ediliyor. Yargılamanın ilerleyen aşamalarında bu tanıklık iddialarının mahkeme heyeti tarafından nasıl değerlendirileceği, davanın gidişatı açısından büyük önem arz ediyor.\n\nYaşanan son gelişmeler, davanın delil havuzunu da genişletti. Adli makamların incelemesi sonucunda, olay gecesine ait yeni ve kritik görüntüler ortaya çıktı. Ortaya çıkan bu yeni görüntülerin, hem savcılığın iddianamesindeki iddiaları hem de sanık ile tanık konumundaki kişilerin ifadelerini doğrulamak veya çürütmek adına mahkeme heyetine önemli veriler sunması bekleniyor. Görüntülerin içeriği ve dosyaya olan yansımaları, hem avukatlar hem de kamuoyu tarafından yakından takip ediliyor.\n\nTürkiye genelinde büyük bir ilgiyle izlenen bu hukuki süreç, benzer olaylarda adaletin tesisi adına atılan adımların da bir göstergesi niteliği taşıyor. Yalova'daki mahkemede görülecek olan müteakip duruşmalarda, ortaya çıkan bu yeni görüntülerin yanı sıra tüm delillerin yeniden ele alınması ve tarafların savunmalarının dinlenmesi bekleniyor. Toplumun vicdanını yaralayan bu ölümün arkasındaki tüm gerçeklerin aydınlatılması amacıyla sürdürülen yargılamanın, önümüzdeki celselerde yeni kararlara sahne olması öngörülüyor.",
+      "highlights": [
+        "Şarkıcı Güllü'nün ölümüne ilişkin açılan davada yeni bir gelişme yaşandı.",
+        "Kızı Tuğyan Ülkem Gülter hakkında ağırlaştırılmış müebbet hapis cezası isteniyor.",
+        "Olay gecesine ait yeni görüntüler dava dosyasına girdi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/gullunun-olumunde-yeni-gelisme-olay-gecesine-ait-yeni-goruntuler-ortaya-cikti-3459004",
+      "publishedAt": "2026-08-26T00:25:14.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/resmi-ilanlar/foca-sulh-hukuk-mahkemesi-3458952",
       "headline": "Foça Sulh Hukuk Mahkemesi'nden hukuki süreçler ve yargı faaliyetleri",
@@ -117,6 +140,144 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-gullunun-oldugu-geceden-yeni-goruntu-polise-panikle-defalarca-annem-iyi-mi-diye-sormus-1738921",
+      "headline": "Güllü'nün ölüm gecesine ait yeni görüntüler ortaya çıktı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1509732344995-2397751a0061?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzg3Njk0NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bruno Martins",
+        "photographerUrl": "https://unsplash.com/@brunus",
+        "unsplashUrl": "https://unsplash.com/photos/a-street-light-with-a-blue-light-on-top-of-it-i6Ynmfi6UBg"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Kamuoyunda yankı uyandıran ve müzik dünyasını yasa boğan olayla ilgili olarak, soruşturma dosyasını ve olay gecesini aydınlatabilecek nitelikte yeni kayıtlara ulaşıldı. Şarkıcı Güllü'nün şüpheli bir şekilde hayatını kaybettiği ve düşüşüyle sonuçlanan o geceye ait yeni görüntüler basınla ve soruşturma makamlarıyla paylaşıldı. Ortaya çıkan bu son görüntüler, olayın hemen ardından yaşanan hareketliliği ve olay yerindeki kişilerin ilk tepkilerini gözler önüne serdi.\n\nEdinilen bilgilere göre, söz konusu kayıtlarda şarkıcı Güllü'nün tutuklu bulunan kızı Tuğyan Ülkem Gülter'in polis ekipleri karşısındaki halleri yer alıyor. Görüntülerde, Tuğyan Ülkem Gülter'in olay yerindeki güvenlik güçlerine karşı oldukça panik halinde olduğu ve büyük bir endişe içerisinde bulunduğu net bir şekilde görülüyor. Genç kadının, polis memurlarına defalarca kez \"Annem iyi mi?\" şeklinde sorular yönelttiği ve annesinin durumu hakkında bilgi almaya çalıştığı kayıtlara yansıdı.\n\nTürkiye'nin tanınmış seslerinden biri olan ve geniş bir hayran kitlemine sahip Güllü'nün trajik ölümü, sanat camiasında ve toplumun tüm kesimlerinde büyük bir şok yaratmıştı. Olayın ardından başlatılan adli süreç ve soruşturma derinlemesine sürdürülürken, dosyaya giren her yeni delil ve görüntü büyük bir titizlikle inceleniyor. Emniyet birimleri ve savcılık makamları, olayın tam olarak nasıl gerçekleştiğini, arka plandaki tüm detayları ve gerçeği ortaya çıkarabilmek adına çalışmalarını çok yönlü bir şekilde yürütmeye devam ediyor.\n\nOrtaya çıkan bu son video kayıtları, soruşturmayı yürüten yetkililer kadar kamuoyu tarafından da yakından takip ediliyor. Özellikle olay gecesi evde bulunan ve şu an tutuklu statüsünde yargılanan Tuğyan Ülkem Gülter'in ruh hali, sergilediği panik ve sarf ettiği sözler, davanın seyrini ve tarafların savunmalarını etkileyebilecek unsurlar arasında değerlendiriliyor. Hukuki süreç tüm hızıyla devam ederken, adli mercilerin önümüzdeki günlerde bu yeni görüntüleri de dikkate alarak soruşturmayı derinleştirmesi ve konuyla ilgili yeni adımlar atması bekleniyor.\n\nYaşanan bu acı olay, magazin basınından hukuki platformlara kadar geniş bir alanda tartışılmaya devam ederken, sevenleri ve yakınları da soruşturmanın bir an önce sonuçlanmasını ve adaletin yerini bulmasını talep ediyor. Olay gecesine dair soru işaretlerinin aydınlatılması adına ortaya çıkan her yeni bulgu, hem soruşturmanın yürütülmesinde hem de kamuoyunun aydınlatılmasında kritik bir rol oynamaktadır. Emniyet güçlerinin ve adli makamların yürüttüğü titiz incelemeler neticesinde, olayın tüm boyutlarıyla netlik kazanması ve gerçeğin bütün çıplaklığıyla ortaya çıkması öngörülmektedir.",
+      "highlights": [
+        "Şarkıcı Güllü'nün hayatını kaybettiği geceye ait yeni görüntüler ortaya çıktı.",
+        "Tutuklu bulunan kızı Tuğyan Ülkem Gülter'in polislere panikle yaklaştığı görüldü.",
+        "Görüntülerde genç kadının polislere defalarca \"Annem iyi mi?\" diye sorduğu yer aldı."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-gullunun-oldugu-geceden-yeni-goruntu-polise-panikle-defalarca-annem-iyi-mi-diye-sormus-1738921",
+      "publishedAt": "2026-08-25T21:44:07.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/video/gundem/sarkici-gullu-cinayetinde-yeni-goruntuler-ortaya-cikti-annem-iyi-mi-diyerek-paniklemis-4850856",
+      "headline": "Şarkıcı Güllü'nün ölümünde yeni görüntüler: 'Annem iyi mi?' paniği kamerada",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1602397619614-fc97b1755723?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwc3RhdGlvbiUyMHNlY3VyaXR5JTIwY2FtZXJhfGVufDF8MHx8fDE3ODc2OTQ0MTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "G-R Mottez",
+        "photographerUrl": "https://unsplash.com/@grmot",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-no-smoking-sign-JvrSpH_1JJU"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Kamuoyunda yankı uyandıran ve derin bir üzüntüye neden olan olay, Yalova'da yürekleri burkan gelişmelerle yeniden gündeme geldi. Sanat dünyasında tanınan şarkıcı Güllü, daha önce şüpheli bir şekilde apartmanın altıncı katındaki dairenin penceresinden düşerek yaşamını yitirmişti. Bu trajik ölümün ardından başlatılan adli süreçte çok yönlü soruşturma sürerken, davanın seyrini etkileyebilecek yeni ve dikkat çekici güvenlik kamerası kayıtlarına ulaşıldı. Elde edilen bu son görüntüler, olayın hemen ardından yaşanan dakikalara ışık tuttu.\n\nSöz konusu olayla ilgili olarak yürütülen soruşturma çerçevesinde hazırlanan iddianamede çarpıcı suçlamalar yer almıştı. Hayatını kaybeden sanatçının kızı olan Tuğyan Ülkem Gülter hakkında, annesini tartışma sonrasında iterek ölümüne neden olduğu iddiasıyla dava açıldığı biliniyor. Yargı makamları tarafından sanık hakkında ağırlaştırılmış müebbet hapis cezası talep edilirken, olayla ilgili hukuki süreç tüm hızıyla devam ediyor. Savcılık ve ilgili birimler, dosyadaki delilleri titizlikle inceleyerek gerçeğin aydınlatılması için çalışmalarını sürdürüyor.\n\nOrtaya çıkan yeni güvenlik kamerası kayıtları, polisin olay yerine intikal ettiği anlardaki ilk temasları gözler önüne serdi. Görüntülerde, merhum şarkıcının kızı Tuğyan Ülkem Gülter'in polislere karşı oldukça endişeli ve tedirgin olduğu net bir şekilde fark ediliyor. Genç kadının, olay yerindeki güvenlik güçlerine yaklaşarak panik içerisinde 'Annem iyi mi?' şeklinde sorular yönelttiği anlar kameralar tarafından saniye saniye kaydedildi. Bu anların kayıtlara geçmesi, soruşturmayı yürüten yetkililer ve mahkeme heyeti tarafından dikkatle incelenen detaylar arasında yer aldı.\n\nToplumun farklı kesimlerinde geniş yankı uyandıran bu trajik ölüm, ebeveyn ve çocuk ilişkileri ile ev içi güvenlik tartışmalarını da beraberinde getirdi. Şarkıcı Güllü'nün ani ve şüpheli vefatı, sevenlerini ve müzik camiasını yasa boğarken, davanın duruşmalarında ortaya çıkan her yeni delil kamuoyu tarafından yakından takip ediliyor. Yargılamanın ilerleyen aşamalarında bu yeni görüntülerin mahkeme salonunda nasıl bir savunma ve iddia stratejisine yol açacağı ise hukuk çevreleri tarafından merakla bekleniyor.\n\nŞeffaf ve adil bir yargılama sürecinin işletilmesi amacıyla sürdürülen soruşturmada, bilirkişi raporları ve tanık ifadeleri de büyük önem taşıyor. Olay gecesi dairede yaşananların tam olarak nasıl geliştiği, taraflar arasındaki olası anlaşmazlıkların boyutu ve düşme anına giden süreç, adli tıp ve kriminal incelemelerle netlik kazanmaya çalışılıyor. Savcılığın hazırladığı ağırlaştırılmış müebbet talepli iddianame doğrultusunda, mahkemenin vereceği karar tüm ülke genelinde büyük bir dikkatle beklenmeye devam ediyor.",
+      "highlights": [
+        "Şarkıcı Güllü'nün Yalova'daki 6. kat penceresinden düşerek ölümüne ilişkin yeni görüntüler ulaşıldı.",
+        "Kızı Tuğyan Ülkem Gülter hakkında annesini iterek öldürdüğü iddiasıyla ağırlaştırılmış müebbet isteniyor.",
+        "Güvenlik kamerasına yansıyan anlarda şüphelinin panikle polislere 'Annem iyi mi?' dediği görüldü."
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/sarkici-gullu-cinayetinde-yeni-goruntuler-ortaya-cikti-annem-iyi-mi-diyerek-paniklemis-4850856",
+      "publishedAt": "2026-08-25T21:43:30.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+      "headline": "Avustralya'da makaslı saldırı: Kadın ve oğlu hastaneye kaldırıldı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8V29ybGR8ZW58MXwwfHx8MTc4NzY5NDQyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NASA",
+        "photographerUrl": "https://unsplash.com/@nasa",
+        "unsplashUrl": "https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Avustralya'nın Melbourne kentinde yaşanan şiddet olayında bir kadın, iddialara göre makasla bıçaklanarak yaralandı. Olayın ardından harekete geçen yerel güvenlik güçleri, saldırıyı gerçekleştirdiği öne sürülen bir erkeği gözaltına alarak hakkında resmi suçlamalarda bulundu. Salı günü meydana gelen olayda, saldırıya uğrayan kadın ile darbedildiği belirtilen oğlu, sağlık ekipleri tarafından hastaneye sevk edildi. Tedavi altına alınan mağdurların aldıkları yaraların hayati tehlike oluşturmadığı bildirildi.\n\nBu şiddet vakası, Avustralya genelinde kadın cinayetleri ve toplumsal cinsiyete dayalı şiddetle mücadele konusundaki tartışmaları yeniden alevlendirdi. Yaşanan gelişmeler üzerine Yeşiller Partisi'nden (Greens) konuya ilişkin resmi açıklamalar yapıldı. Partinin lideri Larissa Waters, Başbakan'ın Ulusal Kabine toplantısında kadınlara yönelik şiddet sorununu öncelikli gündem maddesi olarak ele alması gerektiğini vurguladı.\n\nWaters, yaptığı değerlendirmede durumun aciliyetine dikkat çekerek yetkililerin harekete geçmesi için daha fazla vakit kaybedilmemesi gerektiğini ifade etti. Özellikle genç erkeklerin şiddete bakış açısındaki endişe verici gerilemenin durdurulması gerektiğini belirten Yeşiller lideri, önleyici çalışmalar için ayrılan bütçenin artırılmasının şart olduğunu kaydetti.\n\nPlanlanan Ulusal Kabine toplantısının önümüzdeki günlerde kritik kararlara sahne olması bekleniyor. Yeşiller Partisi, şiddet mağduru kadın veya çocukların yardım arayışında olduklarında hiçbir kapıdan geri çevrilmemesi gerektiğini savunuyor. Bu doğrultuda, ön saflarda hizmet veren destek kurumlarının tam olarak finanse edilmesi çağrısı yineleniyor.\n\nToplumun farklı kesimlerinden gelen tepkiler, kadına yönelik şiddetle mücadelede finansal kaynakların yanı sıra güçlü bir siyasi iradenin de sergilenmesi gerektiğini gösteriyor. Uzmanlar, artan vakaların önlenmesi adına kapsamlı politikaların hayata geçirilmesinin elzem olduğunu vurgularken, siyaset kurumunun bu konuda atacağı somut adımlar yakından takip ediliyor.",
+      "highlights": [
+        "Melbourne'de bir kadın makasla saldırıya uğrarken oğlu da darbedildi.",
+        "Yaralanan anne ve oğlu hastaneye kaldırıldı, durumlarının iyi olduğu bildirildi.",
+        "Yeşiller Partisi lideri Waters, Ulusal Kabine'ye şiddetle mücadele çağrısı yaptı."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/live/2026/aug/26/national-cabinet-datacentres-cpi-inflation-data-politics-reactions-anthony-albansese-labor-angus-taylor-coalition-ntwnfb",
+      "publishedAt": "2026-08-25T21:39:31.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-louisiana-eyaletinde-100-milyar-dolarlik-uzay-ussu-insa-edecek/4037503",
+      "headline": "SpaceX Louisiana eyaletinde dev yatırıma hazırlanıyor",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1457365050282-c53d772ef8b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cm9ja2V0JTIwbGF1bmNofGVufDF8MHx8fDE3ODc2OTQ0MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "SpaceX",
+        "photographerUrl": "https://unsplash.com/@spacex",
+        "unsplashUrl": "https://unsplash.com/photos/rocket-launch-arc-over-dark-water-TV2gg2kZD1o"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Dünya genelinde yürütülen uzay ve havacılık faaliyetleri ile dikkat çeken teknoloji alanındaki önemli girişimlerden biri olan SpaceX, Amerika Birleşik Devletleri sınırları içerisinde yeni ve kapsamlı bir projeyi hayata geçirmeye hazırlanıyor. Şirket tarafından yapılan resmi duyurulara göre, söz konusu stratejik girişim kapsamında ülkenin güneyindeki Louisiana eyaletinde büyük çaplı bir uzay üssünün inşası gerçekleştirilecek. Bu hamle, küresel havacılık ve uzay endüstrisindeki rekabetin ve yatırımların boyutunu gözler önüne sererken, sektörün gelecekteki yapılanması açısından da kritik bir dönüm noktası olarak değerlendiriliyor.\n\nGerçekleştirilmesi planlanan bu devasa projenin mali boyutunun ise rekor seviyelerde olduğu ifade ediliyor. Yapılan açıklamalara göre, uzay, havacılık ve yapay zeka alanlarında faaliyet gösteren SpaceX, Louisiana eyaletinde kurulacak olan yeni uzay üssü için toplamda 100 milyar dolarlık devasa bir yatırım bütçesi ayırdı. Bu finansal büyüklük, günümüz endüstriyel yatırımları arasında eşine az rastlanır bir ölçeği temsil ederken, şirketin uzun vadeli vizyonunu ve teknolojik altyapısını güçlendirme konusundaki kararlılığını da açık bir şekilde ortaya koyuyor.\n\nSöz konusu tesisin inşasıyla birlikte Louisiana eyaletinin, ABD'nin uzay ve havacılık haritasındaki konumunun daha da güçlenmesi bekleniyor. Uzay araştırmaları, uydu teknolojileri ve roket geliştirme süreçlerinin merkez üssü olması öngörülen bu yeni altyapı, hem bölgesel istihdama hem de ülkenin genel teknolojik kalkınma hedeflerine doğrudan katkı sunma potansiyeli taşıyor. Projenin detayları ve ilerleyen aşamalarda atılacak adımlar, ilgili çevreler ve ekonomi otoriteleri tarafından yakından takip ediliyor.\n\nTeknoloji dünyasının önde gelen aktörlerinden biri konumundaki şirket, bu hamlesiyle birlikte faaliyet alanlarını genişletmeye ve operasyonel kapasitesini artırmaya devam ediyor. Yapay zeka ve havacılık teknolojilerini bir araya getiren çok yönlü projeleriyle tanınan kuruluş, Louisiana'da hayata geçirilecek bu tesisle beraber geleceğin uzay taşımacılığı ve keşif görevleri için kritik bir üs elde etmiş olacak. Yatırımın planlandığı gibi tamamlanması durumunda, küresel ölçekte uzay ekonomisinin hareketlenmesi ve yeni iş birliklerinin önünün açılması bekleniyor.\n\nBöylesine büyük bütçeli bir projenin duyurulması, hem ulusal hem de uluslararası kamuoyunda geniş yankı uyandırdı. Uzay teknolojilerine yapılan bu devasa sermaye akışı, sektördeki diğer oyuncuların stratejilerini de etkileyebilecek nitelikte bir gelişme olarak öne çıkıyor. Louisiana eyaletinde kurulacak olan bu modern uzay üssünün inşası ve operasyonel hale gelmesiyle ilgili sürecin, önümüzdeki dönemde atılacak somut adımlarla birlikte daha da netleşmesi öngörülüyor.",
+      "highlights": [
+        "SpaceX, Louisiana'da yeni bir uzay üssü kuracak.",
+        "Proje için 100 milyar dolarlık yatırım yapılacak.",
+        "Girişim, havacılık ve yapay zeka sektörünü ilgilendiriyor."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-louisiana-eyaletinde-100-milyar-dolarlik-uzay-ussu-insa-edecek/4037503",
+      "publishedAt": "2026-08-25T21:37:51.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+      "headline": "Amerikalı yargıç, Ohio eyaletinin oy kullanma kaydı için vatandaşlık kanıtı zorunluluğunu engelledi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1767972463877-b64ba4283cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y291cnRyb29tJTIwanVkZ2UlMjBnYXZlbHxlbnwxfDB8fHwxNzg3Njk0NDMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sasun Bughdaryan",
+        "photographerUrl": "https://unsplash.com/@sasun1990",
+        "unsplashUrl": "https://unsplash.com/photos/wooden-gavel-resting-on-a-dark-surface-next-to-book-FaTLrG5-ViE"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Amerika Birleşik Devletleri'nde yargı organları, seçim süreçleri ile ilgili tartışmalı düzenlemelere bir yenisini ekleyerek önemli bir karar aldı. Yapılan son değerlendirmelere göre, Ohio eyaletinde seçmen kaydı sırasında vatandaşlık kanıtı sunulmasını zorunlu kılan yasal düzenleme, bir federal yargıç tarafından durduruldu. Bu gelişme, eyalet genelindeki seçim mekanizmaları ve seçmen kayıt prosedürleri bakımından yakından takip edilen hukuki bir adım olarak kayda geçti.\n\nGündeme gelen söz konusu yasa, eyalet düzeyindeki Cumhuriyetçi parti temsilcileri tarafından tasarlanmış ve hayata geçirilmişti. Cumhuriyetçi kanadın bu düzenlemeyi hazırlamasındaki temel motivasyonun, eyalette vatandaş olmayan kişilerin oy kullandığına dair kanıtlanmamış iddiaların önüne geçmek ve bu konuda daha sıkı tedbirler almak olduğu belirtiliyor. Bu kapsamda hazırlanan ve daha sonra üzerinde değişiklikler yapılarak güncellenen metin, oy verme hakkı ile kayıt işlemleri arasındaki dengeyi, seçim güvenliği argümanlarıyla yeniden tanımlamayı amaçlıyordu.\n\nAncak yürürlüğe girmesi planlanan bu düzenleme, hukuki alanda da çeşitli tartışmaları ve itirazları beraberinde getirdi. Vatandaşlık kanıtı ibraz etme zorunluluğunun seçmen katılımını olumsuz etkileyebileceği ve demokratik süreçlere erişimi zorlaştırabileceği yönündeki endişeler, konunun mahkemeye taşınmasına yol açtı. Yargı makamları, tarafların iddialarını inceledikten sonra yasanın uygulanmasını engelleyen karara vardı.\n\nAlınan bu yargı kararı, Ohio eyaletindeki seçim güvenliği tartışmalarını ve partiler arası siyasi dengeleri de doğrudan etkiliyor. Cumhuriyetçilerin seçim bütünlüğünü koruma gerekçesiyle savunduğu önlemler, federal düzeydeki hak savunucuları ve muhalefet çevreleri tarafından seçmen haklarının kısıtlanması olarak değerlendiriliyordu. Bu hukuki engelleme, eyaletteki mevcut kayıt sisteminin şimdilik değişmeden kalmasını sağlarken, taraflar arasındaki mücadelenin önümüzdeki süreçte nasıl şekilleneceği merakla bekleniyor.\n\nSeçmen kayıt kuralları, Amerika Birleşik Devletleri genelinde her dönem kritik bir siyasi başlık olmaya devam ediyor. Özellikle eyalet parlamentolarında çoğunluğu elinde bulunduran partilerin çıkardığı yasalar ile federal haklar arasındaki denge, sık sık yargı denetimine tabi tutuluyor. Ohio'daki bu son hukuki süreç de, seçim yasalarının anayasaya uygunluğu ve vatandaşların oy hakkına erişimi konusundaki hassas dengelerin ne denli dikkatle korunduğunu bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Ohio eyaletinde seçmen kaydı için vatandaşlık kanıtı zorunluluğu yargı engeline takıldı.",
+        "Düzenleme, eyalet Cumhuriyetçileri tarafından vatandaş olmayanların oy kullandığı iddialarına karşı tasarlanmıştı.",
+        "Federal yargıcın kararı, eyaletteki seçim güvenliği ve seçmen hakları tartışmalarını yeniden alevlendirdi."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+      "publishedAt": "2026-08-25T21:32:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.haberturk.com/ags-sonuclari-aciklandi-mi-ags-sonuclari-ne-zaman-aciklanacak-erken-aciklanir-mi-ags-sonuc-sorgulama-ekrani-3908093",
+      "headline": "Ags sonuçları ne zaman açıklanacak? Meb ags sınav sonuç tarihi ve sorgulama ekranı detayları",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1611074182055-4ac85bad8bb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZXhhbSUyMGhhbGx8ZW58MXwwfHx8MTc4NzY5NDQzNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bisworaj Saheb",
+        "photographerUrl": "https://unsplash.com/@bisworaj",
+        "unsplashUrl": "https://unsplash.com/photos/brown-wooden-framed-glass-window-zFveAjAXMB4"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Türkiye genelinde binlerce öğretmen adayının katılımıyla gerçekleştirilen Milli Eğitim Bakanlığı (MEB) Akademi Giriş Sınavı (AGS) sonrasında gözler tamamen sonuçların ilan edileceği tarihe çevrilmiş durumda. Sınavın ardından adaylar, kariyerlerini şekillendirecek olan bu önemli sürecin sonuçları için büyük bir merakla bekleyişlerini sürdürüyor. Milli Eğitim Bakanlığı tarafından hayata geçirilen ve öğretmen istihdamı ile mesleğe hazırlık sürecinde kritik bir basamak olan Akademi Giriş Sınavı, eğitim camiasında geniş bir yankı uyandırmış ve katılım gösteren adaylar açısından yoğun bir gündem oluşturmuştur.\n\nSınavın tamamlanmasının ardından, adayların en çok araştırdığı konuların başında sonuçların ne zaman ve hangi platform üzerinden erişime açılacağı geliyor. Edinilen bilgilere göre, Akademi Giriş Sınavı (AGS) sonuçları ilan edildiği anda adaylar puanlarını ve genel başarı durumlarını detaylı bir şekilde öğrenebilecekler. Sürecin şeffaf ve güvenli bir şekilde yürütülmesi amacıyla sınav sonuçlarının, ÖSYM'nin resmi internet adresi üzerinden adayların erişimine sunulacağı belirtiliyor. Sonuç sorgulama işlemlerini gerçekleştirmek isteyen adaylar, T.C. kimlik numaraları ve kişisel aday şifrelerini kullanarak sisteme giriş yapabilecek ve sonuç belgesine ulaşabilecekler.\n\nÖte yandan, Akademi Giriş Sınavı sonuçlarının açıklanması sadece puanların öğrenilmesiyle sınırlı kalmayacak; aynı zamanda bundan sonraki adımlar için de bir dönüm noktası oluşturacak. Sınav sonuçlarının ilan edilmesinin hemen ardından, tercih ve yerleştirme sürecine ilişkin takvimin de netleşmesi bekleniyor. Adaylar, aldıkları puanlar doğrultusunda önümüzdeki döneme ait tercih kılavuzunu ve yerleştirme takvimini takip ederek kariyer planlamalarına yön verebilecekler.\n\nMilli Eğitim Bakanlığı'nın düzenlediği bu merkezi sınav, öğretmen adaylarının mesleki yeterliliklerini ve bilgi düzeylerini ölçen önemli bir değerlendirme aracı olarak öne çıkıyor. Sınavın yapısı ve kapsamı göz önüne alındığında, sonuçların açıklanmasıyla birlikte eğitim sektöründe yeni bir hareketliliğin başlaması öngörülüyor. Adaylar, sonuç tarihine ilişkin resmi makamlardan ve ilgili kurumların duyuru kanallarından yapılacak açıklamaları anbean takip ederken, 2026 AGS sonuçlarına dair tüm merak edilen detaylar güncelliğini korumaya devam ediyor.",
+      "highlights": [
+        "Milli Eğitim Bakanlığı tarafından düzenlenen AGS sonuçları için adayların bekleyişi sürüyor.",
+        "Sonuçlar açıklandığında adaylar ÖSYM'nin resmi internet sitesinden T.C. kimlik numarası ve şifreleriyle sorgulama yapabilecek.",
+        "Sonuçların ilan edilmesinin ardından tercih ve yerleştirme takviminin de netlik kazanması bekleniyor."
+      ],
+      "externalUrl": "https://www.haberturk.com/ags-sonuclari-aciklandi-mi-ags-sonuclari-ne-zaman-aciklanacak-erken-aciklanir-mi-ags-sonuc-sorgulama-ekrani-3908093",
+      "publishedAt": "2026-08-25T21:31:54.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazindaki-gecis-koridoru-7-mil-genisliginde-ve-guney-koridoru-kapatildi/4037489",
       "headline": "İran'dan Hürmüz Boğazı açıklaması: Güney koridor kapatıldı",
       "source": "Anadolu Ajansı",
@@ -159,6 +320,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/meteoroloji-uzmani-orhan-sen-uyardi-asiri-sicaklarin-ardindan-yagisa-dikkat-3458976",
       "publishedAt": "2026-08-25T21:01:01.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/resmi-ilanlar/soma-2-asliye-hukuk-mahkemesi-hakimligi-43284877",
+      "headline": "Soma 2. Asliye Hukuk Mahkemesi Hakimliği ile ilgili hukuki süreç ve gelişmeler",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1645570990200-2701a49d45ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnRyb29tJTIwanVkZ2V8ZW58MXwwfHx8MTc4NzY5NDQ0MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Conny Schneider",
+        "photographerUrl": "https://unsplash.com/@choys_",
+        "unsplashUrl": "https://unsplash.com/photos/a-3d-image-of-a-judges-hammer-on-a-black-background-3hkKv6WzjcE"
+      },
+      "timeAgo": "47 dk önce",
+      "body": "Yargı sistemimiz içerisinde önemli bir konuma sahip olan ve vatandaşların adalet arayışında kritik dosyaları ele alan yargı mercilerinden biri olan Soma 2. Asliye Hukuk Mahkemesi Hakimliği, ülkenin adalet mekanizması içerisinde hukuki uyuşmazlıkların çözümünde aktif olarak görev yapmayı sürdürmektedir. Hukuk devletinin en temel unsurlarından biri olan bağımsız yargı organları, toplumda adaletin tesis edilmesi ve hak arama hürriyetinin etkin bir şekilde kullanılabilmesi adına büyük bir sorumluluk taşımaktadır.\n\nAsliye hukuk mahkemeleri, genel mahkemeler sıfatıyla, özel hukuk ilişkilerinden doğan ve kanunların başka bir mahkemenin görev alanına bırakmadığı her türlü dava ve işe bakmakla yükümlüdür. Bu kapsamda Soma 2. Asliye Hukuk Mahkemesi Hakimliği de, yargı çevresinde meydana gelen mülkiyet uyuşmazlıkları, sözleşme ihtilafları, tazminat talepleri ve benzeri hukuki meselelerin hakkaniyete uygun biçimde karara bağlanması için çalışmalarını sürdürmektedir. Türkiye'nin hukuki altyapısının temel taşlarını oluşturan asliye hukuk mahkemeleri, vatandaşların haklarının korunmasında ve toplumsal barışın hukuki zemin üzerinde güvence altına alınmasında kilit bir rol oynamaktadır.\n\nGünümüzde hukuki süreçlerin şeffaf, adil ve makul sürede tamamlanması, hem bireyler hem de kurumlar açısından büyük bir önem arz etmektedir. Soma 2. Asliye Hukuk Mahkemesi Hakimliği nezdinde görülen her bir dava, hukukun üstünlüğü ilkesi çerçevesinde ele alınmakta ve ilgili mevzuat hükümlerine göre titizlikle incelenmektedir. Hâkimler ve savcılar, anayasa ve kanunlara uygun olarak vicdani kanaatlerine göre karar verirken, yargılamanın taraflarına da adil yargılanma hakkının gereklerinin eksiksiz bir şekilde sağlanması hedeflenmektedir.\n\nTürkiye genelindeki adliyelerde yürütülen yargı faaliyetlerinin etkinliğinin artırılması, adalet hizmetlerine erişimin kolaylaştırılması ve yargılamaların hızlandırılması amacıyla son yıllarda çeşitli reformlar ve idari düzenlemeler hayata geçirilmiştir. Soma 2. Asliye Hukuk Mahkemesi Hakimliği de bu genel hukuki ve idari çerçeve içerisinde, adaletin gecikmeksizin tecelli etmesi için mesai harcayan yargı birimleri arasında yer almaktadır. Hukuk sisteminin işleyişine dair bu tür kurumsal yapılar, ülkede hukuki güvenliğin tesis edilmesinde vazgeçilmez bir işleve sahiptir.\n\nSonuç olarak, Soma 2. Asliye Hukuk Mahkemesi Hakimliği gibi yerel yargı mercileri, Türk hukuk sisteminin omurgasını oluşturmakta ve vatandaşların haklarını koruma noktasında temel güvenceyi sağlamaktadır. Yargı organlarının tarafsız ve bağımsız bir şekilde görev yapması, demokratik toplum düzeninin sürdürülebilirliği açısından hayati önem taşımaktadır ve bu mahkemeler de bu sorumluluk bilinciyle faaliyetlerini icra etmeye devam etmektedir.",
+      "highlights": [
+        "Soma 2. Asliye Hukuk Mahkemesi Hakimliği yargı faaliyetlerini sürdürmektedir.",
+        "Asliye hukuk mahkemeleri genel dava ve uyuşmazlıklara bakmakla yükümlüdür.",
+        "Yargı organları hukukun üstünlüğü ilkesi çerçevesinde kararlar almaktadır."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/resmi-ilanlar/soma-2-asliye-hukuk-mahkemesi-hakimligi-43284877",
+      "publishedAt": "2026-08-25T21:00:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -1290,6 +1474,29 @@
       "lang": "tr"
     },
     {
+      "id": "http://tr.euronews.com/my-europe/2026/08/25/abd-basini-cia-direktoru-ratcliffe-gizli-ziyaret-icin-moskovaya-gitti",
+      "headline": "ABD basını: CIA Direktörü Ratcliffe gizli ziyaret için Moskova’ya gitti",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1658187732720-f5a092e61f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bW9zY293JTIwc2t5bGluZXxlbnwxfDB8fHwxNzg3Njk0NDQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dns Omm",
+        "photographerUrl": "https://unsplash.com/@dns419",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-buildings-RJfRCKENgv0"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Amerikan basınında yer alan son dakika haberlerine göre, Merkezi Haberalma Teşkilatı (CIA) Direktörü John Ratcliffe, temaslarda bulunmak üzere salı günü Rusya'nın başkenti Moskova'ya gizli bir ziyaret gerçekleştirdi. Basına yansıyan bu kritik temasın, Ratcliffe'in göreve gelmesinin ardından Rusya topraklarına gerçekleştirdiği ilk resmi veya gayriresmi ziyaret olduğu değerlendiriliyor. Uluslararası ilişkiler uzmanları ve dış politika gözlemcileri, bu tür istihbarat odaklı ziyaretlerin iki ülke arasındaki hassas diplomasi ve güvenlik dengeleri açısından büyük bir önem taşıdığına dikkat çekiyor. Son dönemde küresel güvenlik mimarisinde yaşanan gelişmeler ve iki büyük nükleer güç arasındaki diplomatik tıkanıklıklar göz önüne alındığında, istihbarat teşkilatları arasındaki bu tür doğrudan temasların olası krizlerin önlenmesi ve bilgi alışverişi bakımından kritik bir rol üstlendiği biliniyor. Salı günü gerçekleştirildiği belirtilen bu ani seyahat, Washington ile Moskova hatlarında son derece nadir görülen ve kapalı kapılar ardında yürütülen diplomasi süreçlerinin bir parçası olarak değerlendiriliyor.\n\nSöz konusu ziyaretin detayları ve Moskova'daki temasların içeriği hakkında şu aşamada resmi makamlar tarafından kapsamlı bir açıklama yapılmazken, Amerikan medyasında yer alan haberler olayın gizlilik derecesine vurgu yapıyor. CIA Direktörü düzeyindeki bu tür seyahatler, uluslararası teamüller gereği genellikle kamuoyundan ve basından gizli tutuluyor; bu durum da temasların hassasiyetini ve stratejik ağırlığını artırıyor. Rusya'nın başkenti Moskova'da gerçekleştirilen görüşmelerin, iki ülkeyi yakından ilgilendiren bölgesel meseleler, güvenlik başlıkları ve olası istihbarat iş birliği alanları etrafında şekillenmiş olabileceği tahmin ediliyor. Küresel diplomasi trafiğinin en yoğun olduğu merkezlerden biri olan Moskova, geçmişte de benzer gizli istihbarat ziyaretlerine ev sahipliği yapmış, bu tür temaslar bazen uluslararası krizlerin çözümünde ya da gerilimin düşürülmesinde ara buluculuk işlevi görmüştür. John Ratcliffe'in bu hamlesi, ABD'nin Rusya ile yürüttüğü istihbarat diplomasisinde yeni bir dönemin ya da farklı bir yaklaşımın işareti olarak da yorumlanabilir.\n\nİstihbarat teşkilatlarının başkanları düzeyindeki bu tarz diplomatik hamleler, ülkelerin dış politika stratejilerinde açık diplomasi yollarının tıkandığı veya yetersiz kaldığı noktalarda devreye giren alternatif kanallar olarak biliniyor. Salı günü gerçekleştiği bildirilen Moskova seyahatinin, iki ülke arasındaki derin görüş ayrılıklarının ele alındığı bir zemin oluşturduğu düşünülüyor. ABD basınının geniş yer ayırdığı bu gelişme, uluslararası kamuoyunda da geniş yankı uyandırırken, uzmanlar bu tür ziyaretlerin sonuçlarının ancak uzun vadede ve sahadaki yansımalarıyla görülebileceğini belirtiyor. CIA Direktörünün Rusya başkentine yaptığı bu ilk ziyaretin arkasındaki motivasyonlar ve görüşme masasında ele alınan spesifik başlıklar, ilerleyen günlerde iki ülkenin dış politika hamleleriyle daha net bir şekilde ortaya çıkacaktır. Hem Washington hem de Moskova cephesinden gelecek olası resmi açıklamalar, bu gizli temasın diplomatik boyuttaki gerçek etkisini ve iki güç arasındaki gelecekteki olası diyalog kanallarının seyrini belirleyecektir.",
+      "highlights": [
+        "CIA Direktörü John Ratcliffe salı günü Moskova'ya gitti.",
+        "Ziyaretin, Ratcliffe'in bu göreve gelmesinden sonra Rusya'ya yapılan ilk seyahat olduğu değerlendiriliyor.",
+        "Temasların gizli bir şekilde yürütüldüğü Amerikan basını tarafından bildirildi."
+      ],
+      "externalUrl": "http://tr.euronews.com/my-europe/2026/08/25/abd-basini-cia-direktoru-ratcliffe-gizli-ziyaret-icin-moskovaya-gitti",
+      "publishedAt": "2026-08-25T18:09:59.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/gundem/ertan-yildizdan-imamoglu-yapisi-itirafi-gayri-yasal-para-islerine-bizzat-sahidim-4850814",
       "headline": "Ertan Yıldız'dan 'İmamoğlu yapısı' itirafı: Gayri yasal para işlerine bizzat şahidim",
       "source": "Yeni Şafak",
@@ -1677,6 +1884,29 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/uskudar-belediyesinde-baskan-vekilligi-secimine-yurutmeyi-durdurma-karari-1738904",
       "publishedAt": "2026-08-25T16:58:12.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.sabah.com.tr/gundem/2026/08/25/ertan-yildizdan-yapi-itirafi-ekosistemi-tek-tek-anlatti-cumhurbaskanligi-hayaliyle-basladik-yapiyi-gorunce-ayrildim",
+      "headline": "Ertan Yıldız'dan yapı itirafı: Cumhurbaşkanlığı hayaliyle başladık, yapıyı görünce ayrıldım",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1713963634999-1309638acb5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc4NzY5NDQ1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Yum Cheol-Ho",
+        "photographerUrl": "https://unsplash.com/@rusweboi",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-building-with-a-grass-roof-2NJtBm6TXug"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Kamuoyunda geniş yankı uyandıran ve yakından takip edilen süreçte, İmamoğlu çıkar amaçlı suç örgütü davasına ilişkin dikkat çekici yeni gelişmeler yaşanmaya devam ediyor. Bu kapsamda görülen davada, etkin pişmanlık hükümlerinden faydalanan isimler arasında yer alan tutuksuz sanık Ertan Yıldız'ın mahkemedeki beyanları dava dosyasına damga vurdu. Yıldız'ın duruşma salonunda yaptığı açıklamalar, siyaset kulislerinde ve kamuoyunda büyük bir merakla incelenirken, özellikle örgüt içi ilişkiler ve finansal ağlar konusunda paylaşılan detaylar haberin merkezinde yer aldı.\n\nSöz konusu dava dosyasına yansıyan bilgilere göre, yargılama sürecinde tutuksuz olarak yargılanan Ertan Yıldız, etkin pişmanlık yasasının sağladığı imkanlardan yararlanarak bildiklerini adli makamlarla paylaştı. Yıldız'ın ifadelerinde, Cumhuriyet Halk Partisi (CHP) içerisindeki üst düzey isimler ile söz konusu karanlık para ilişkileri arasındaki bağlantılara dair çarpıcı iddialar yer aldı. Türk siyasi hayatında tartışma yaratacak nitelikteki bu beyanlar, özellikle parti içi mekanizmaların işleyişi ve son dönemde gündeme gelen iddiaların arka planı açısından ayrı bir önem taşımaktadır.\n\nErtan Yıldız, mahkemedeki savunmasında ve beyanlarında, yaşanan sürecin başlangıç aşamasına da ışık tuttu. Yapılan açıklamada, faaliyetlerin başlangıçta bir cumhurbaşkanlığı hayaliyle yola çıkılarak kurgulandığı ve bu ideal etrafında bir araya gelindiği ifade edildi. Ancak zaman içerisinde içerideki işleyişi, mekanizmaları ve gerçek yapıyı net bir şekilde gördüğünü belirten Yıldız, bu karanlık tablo ile karşılaştıktan sonra söz konusu yapıdan tamamen ayrıldığını vurguladı.\n\nOlayın ve davanın mahiyeti, Türkiye'de siyaset ve yargı gündemini uzun süredir meşgul eden iddiaların yeni bir boyut kazanmasına neden oldu. Etkin pişmanlık hükümleri kapsamında verilen bu ifadelerin, ilerleyen duruşmalarda davanın seyrini nasıl etkileyeceği hukuki çevreler tarafından yakından takip ediliyor. Özellikle üst düzey isimler arasındaki para ilişkileri ve suç örgütü iddialarının mercek altına alındığı bu süreç, taraflar arasındaki hukuki ve siyasi tartışmaları da beraberinde getirdi.\n\nSiyasi kulislerde sarsıntı yaratan bu itiraflar, adli mercilerin yürüttüğü soruşturmaların ve kovuşturmaların derinleşmesine zemin hazırlarken, kamuoyunun da yakından izlediği başlıklar arasında ilk sıralarda yer almayı sürdürüyor. Ertan Yıldız'ın anlattığı ekosistem detayları ve yapının işleyiş mekanizması, bundan sonraki yargı aşamalarında da en çok tartışılacak konuların başında gelmesi beklenmektedir.",
+      "highlights": [
+        "Ertan Yıldız, İmamoğlu çıkar amaçlı suç örgütü davasında etkin pişmanlıktan yararlandı.",
+        "Tutuksuz sanık Yıldız, CHP'li üst düzey isimler arasındaki para ilişkilerini anlattı.",
+        "Yıldız, cumhurbaşkanlığı hayaliyle başladıkları süreçten yapıyı görünce ayrıldığını belirtti."
+      ],
+      "externalUrl": "https://www.sabah.com.tr/gundem/2026/08/25/ertan-yildizdan-yapi-itirafi-ekosistemi-tek-tek-anlatti-cumhurbaskanligi-hayaliyle-basladik-yapiyi-gorunce-ayrildim",
+      "publishedAt": "2026-08-25T16:58:11.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6668,236 +6898,6 @@
       ],
       "externalUrl": "https://www.aa.com.tr/tr/kultur/dalgic-ciftten-deniz-altindaki-kirlilige-gonullu-mudahale/4036348",
       "publishedAt": "2026-08-24T21:57:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/ahlatta-malazgirt-coskusu-celik-kanatlar-ve-mehmetcik-sahada-4850647",
-      "headline": "Ahlat'ta Malazgirt zaferinin 955. yıl dönümü coşkuyla kutlanıyor",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1489223339793-de491ea9108b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWlsaXRhcnklMjBoZWxpY29wdGVyfGVufDF8MHx8fDE3ODc2MDgzODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Curioso Photography",
-        "photographerUrl": "https://unsplash.com/@curioso",
-        "unsplashUrl": "https://unsplash.com/photos/low-angle-photography-of-brown-and-gray-helicopter-xYrTdhysQY0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Türk tarihi açısından dönüm noktalarından biri olan ve Anadolu'nun kapılarını Türk milletine açan Malazgirt Zaferi'nin yıl dönümü kutlamaları, ülke genelinde ve tarihi sahnelerde büyük bir heyecanla idrak edilmeye başlandı. Bu kapsamda, zaferin 955. yıl dönümü kutlamaları, tarihi dokusu ve manevi atmosferiyle ön plana çıkan Bitlis'in Ahlat ilçesinde coşkulu bir törenle start aldı. Her yıl binlerce vatandaşın ve devlet yetkililerinin katılımıyla gerçekleştirilen etkinlikler, bu yıl da geniş katılımlı programlar ve görkemli gösterilerle kapılarını ziyaretçilere açtı.\n\nTarihi kutlamaların en dikkat çekici katılımcılarından biri olan İçişleri Bakanlığı, hazırlanan etkinlik alanında geniş bir kadro ve teçhizatla yerini aldı. Bakanlığın bu özel ve anlamlı organizasyon için bölgeye sevk ettiği toplam 445 personel, kutlamaların güvenliği, koordinasyonu ve ziyaretçilere sunulan tanıtım faaliyetleri için görev başındaydı. Personelin yanı sıra alanda sergilenen operasyonel imkânlar, devletin güvenlik ve savunma alanındaki güncel kapasitesini gözler önüne serdi.\n\nKutlama alanında gerçekleştirilen etkinlikler arasında en büyük ilgi gören bölümlerden biri hava gösterileri oldu. Gökyüzünde hünerlerini sergileyen helikopterler, izleyenlere adeta görsel bir şölen sunarken, Çelik Kanatlar olarak anılan hava unsurlarının manevraları alandakilerden büyük alkış aldı. Bu hava gösterileri, kutlamaların ulusal önemine ve askeri ihtişamına ayrı bir boyut kazandırdı.\n\nSadece hava unsurlarıyla sınırlı kalmayan törenlerde, karadaki gösteri ve geçişler de kutlama alanındaki heyecanı doruğa çıkardı. Tarihsel mirasa vurgu yapan atlı birlikler ile modern çağın gereklerine uygun olarak donatılmış motorlu birlikler, Ahlat'taki etkinlik alanında resmi geçit ve sunumlar gerçekleştirdi. Geçmiş ile geleceği buluşturan bu birliklerin uyumlu görüntüsü, izleyicilerden tam not aldı.\n\nAyrıca İçişleri Bakanlığı'nın envanterinde bulunan son teknoloji operasyonel sistemler de Ahlat'taki alanlarda sergilenerek halkın ve ilgililerin incelemesine sunuldu. Güvenlik güçlerinin sahada kullandığı modern donanımlar, devletin imkânlarının katılımcılara aktarılması açısından önemli bir fırsat oluşturdu. Bitlis'in Ahlat ilçesinde başlayan ve gün boyunca çeşitli etkinliklerle devam eden Malazgirt Zaferi'nin 955. yıl dönümü kutlamaları, yurdun dört bir yanından gelen vatandaşların yoğun ilgisiyle sürüyor.",
-      "highlights": [
-        "Malazgirt Zaferi'nin 955. yıl dönümü kutlamaları Bitlis'in Ahlat ilçesinde başladı.",
-        "İçişleri Bakanlığı 445 personeli ve son teknoloji sistemleriyle alanda yer aldı.",
-        "Helikopter gösterileri, atlı ve motorlu birliklerin geçişi büyük coşku yarattı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/ahlatta-malazgirt-coskusu-celik-kanatlar-ve-mehmetcik-sahada-4850647",
-      "publishedAt": "2026-08-24T21:52:29.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/ebru-yasar-turkiye-den-fransa-ya-karpuz-getirtti-3907845-magazin",
-      "headline": "Ebru Yaşar'dan Fransa'da Diyarbakır karpuzu sürprizi",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1622208489373-1fe93e2c6720?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8d2F0ZXJtZWxvbiUyMGZydWl0fGVufDF8MHx8fDE3ODc2MTM1NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rens D",
-        "photographerUrl": "https://unsplash.com/@rens23",
-        "unsplashUrl": "https://unsplash.com/photos/sliced-watermelon-on-white-table-wh3qvHXdGak"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Magazin dünyasının tanınan isimlerinden biri olan Ebru Yaşar, tatil amacıyla bulunduğu Fransa'nın gözde turizm merkezlerinden Saint-Tropez'de yaşadığı ilginç bir gastronomik istekle gündeme geldi. Fransa'nın Akdeniz kıyısındaki bu ünlü tatil beldesinde dinlendiği sırada memleket lezzeti olan Diyarbakır karpuzu aşeren ünlü isim, bu isteğini yerine getirmek için oldukça dikkat çekici bir operasyona imza attı.\n\nGerçekleştirilen bu özel organizasyon kapsamında, binlerce kilometre uzaktaki Türkiye'den Fransa'ya kadar uzanan özel bir karpuz sevkiyatı yapıldı. Bulunduğu tatil lokasyonunda yerel imkanlarla bu spesifik lezzete ulaşamayan veya Türkiye'de yetişen orijinal Diyarbakır karpuzunu tercih eden sanatçı, lojistik açıdan zahmetli ve maliyetli bir süreci göze alarak özel siparişini hayata geçirdi. Bu durum, sosyal medya ve magazin kulislerinde geniş yankı uyandırarak kısa sürede büyük bir merak konusu haline geldi.\n\nUluslararası mesafelerin ve lojistik engellerin, geleneksel tat düşkünlüğü karşısında nasıl aşıldığını gösteren bu olay, ünlü isimlerin yurt dışı seyahatlerinde yaşadıkları alışkanlıkları ve tercihlerini bir kez daha gözler önüne serdi. Saint-Tropez'deki tatiline devam eden Ebru Yaşar'ın, Türkiye'den özel olarak getirtilen bu dev karpuzu nasıl tükettiği ve çevresindekilerle paylaşıp paylaşmadığı ise hayranları tarafından merakla takip edilen detaylar arasında yer aldı.\n\nTürkiye ile Fransa arasında gerçekleştirilen bu olağandışı gıda transferi, hem karpuzun büyüklüğü ve kalitesiyle bilinen Diyarbakır'ın tarımsal değerini bir kez daha hatırlattı hem de lüks tüketim ve tatil alışkanlıklarının sınır tanımayan boyutlarını gözler önüne serdi. Müzik kariyerinin yanı sıra özel hayatıyla da sık sık magazin basınının odağında yer alan Ebru Yaşar'ın bu adımı, uluslararası taşımacılığın ve özel kurye ağlarının gıda alanında nerelere ulaşılabileceğinin ilginç bir örneği olarak kayıtlara geçti.",
-      "highlights": [
-        "Ebru Yaşar Fransa tatilinde Diyarbakır karpuzu aşerdi.",
-        "Binlerce kilometre öteden özel siparişle karpuz getirtti.",
-        "Olay magazin dünyasında ve sosyal medyada geniş yankı uyandırdı."
-      ],
-      "externalUrl": "https://www.haberturk.com/ebru-yasar-turkiye-den-fransa-ya-karpuz-getirtti-3907845-magazin",
-      "publishedAt": "2026-08-24T21:48:47.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/video/turkiye/belediye-baskanlari-neden-chpyi-secti-3458427",
-      "headline": "Belediye başkanlarının CHP tercihi ve siyasi kulislerdeki yankıları",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1698270723454-a2c84bfb61c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3ODc1OTcyMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sebastian Romero",
-        "photographerUrl": "https://unsplash.com/@sebasmeroo",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-holding-a-microphone-aVpE5dVepy8"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye'nin siyasi gündeminde yerel yönetimler ve parti içi tercihler tartışılmaya devam ederken, Mersin Büyükşehir Belediye Başkanı Vahap Seçer'den Cumhuriyet Halk Partisi'ne ve parti yönetimine açık bir destek geldi. Yaşanan bu gelişmelerin ardından, ülkenin farklı bölgelerinde görev yapan büyükşehir belediye başkanlarının siyasi duruşları ve gelecekte hangi çatı altında siyaset yapacakları sorusu kamuoyunun ve medya organlarının yakın takibine girdi. Siyasi kulislerde hareketliliğin artmasına neden olan bu süreç, özellikle yerel yönetimlerin merkezi siyasetle olan ilişkileri bağlamında da önemli tartışmaları beraberinde getirdi.\n\nMersin Büyükşehir Belediye Başkanı Vahap Seçer, yaptığı açıklamalarda CHP Genel Başkanı Özgür Özel'e net bir şekilde destek verdiğini ifade ederek, partinin seçilmiş liderinin Özgür Özel olduğunu vurguladı. Seçer, yaptığı değerlendirmede Cumhuriyet Halk Partisi'nin sıradan bir siyasi teşkilat olmadığını, aksine Türkiye Cumhuriyeti'nin kurucusu Mustafa Kemal Atatürk tarafından tesis edilmiş köklü ve güçlü bir çatı olduğunu dile getirdi. Bu köklü geçmişe olan bağlılıklarını her fırsatta yinelediklerini belirten Seçer, parti disiplini ve birliktelik vurgusuyla dikkatleri üzerine çekti.\n\nVahap Seçer'in bu net çıkışının hemen ardından tüm gözler, daha önceki süreçlerde de Özgür Özel'e destek beyan etmiş olan diğer büyükşehir belediye başkanlarının tutumuna çevrildi. Siyasi kulislerde bazı belediye başkanlarının Yeni Parti adı verilen yeni siyasi oluşuma katılım sağladığı görülürken, bir grup başkanın ise yollarına Cumhuriyet Halk Partisi bünyesinde devam etme kararı aldığı netleşti. Bu kapsamda Ankara Büyükşehir Belediye Başkanı Mansur Yavaş, Muğla Büyükşehir Belediye Başkanı Ahmet Aras, Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer ve Balıkesir Büyükşehir Belediye Başkanı Ahmet Akın'ın tercihlerini CHP'den yana kullanarak partide kaldıkları bilgisi kamuoyuyla paylaşıldı.\n\nÖzellikle Ankara Büyükşehir Belediye Başkanı Mansur Yavaş'ın nihai kararının ne olacağı, siyaset çevrelerinde büyük bir merak konusu olmayı sürdürdü. Yavaş'ın ismi etrafında yürütülen tartışmalar ve spekülasyonlar yoğunlaşırken, mevcut siyasi tablo ve elde edilen veriler ışığında, Mansur Yavaş'ın Yeni Parti bünyesine katılmasına kesinlikle ihtimal verilmiyor. Yavaş'ın mevcut siyasi pozisyonunu koruyarak çalışmalarına devam etmesi bekleniyor.\n\nYaşanan bu parti içi gelişmeler ve belediye başkanlarının tercihleri, önümüzdeki dönemde yerel yönetimler ile parti genel merkezleri arasındaki ilişkilerin seyrini belirleyecek ana unsurlar arasında yer alıyor. Hem parti içindeki dengelerin korunması hem de yerel seçimlerde elde edilen başarıların sürdürülebilmesi adına bu tür açıklamaların ve duruşların büyük bir hassasiyetle takip edildiği ifade ediliyor. Siyasi analistler ve gözlemciler, önümüzdeki günlerde belediye başkanlarının atacağı adımların genel siyasetin nabzını tutmaya devam edeceğini belirtiyor.",
-      "highlights": [
-        "Mersin Büyükşehir Belediye Başkanı Vahap Seçer, Özgür Özel'e net destek verdi.",
-        "Mansur Yavaş, Ahmet Aras, Candan Yüceer ve Ahmet Akın CHP'de kaldı.",
-        "Mansur Yavaş'ın Yeni Parti'ye katılması mevcut tabloda beklenmiyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/turkiye/belediye-baskanlari-neden-chpyi-secti-3458427",
-      "publishedAt": "2026-08-24T21:43:33.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/ap-abd-yonetimi-yaklasik-200-bin-yabancinin-vizesini-iptal-etmeye-hazirlaniyor/4036342",
-      "headline": "Abd yönetimi yaklaşık 200 bin yabancının vizesini iptal etmeye hazırlanıyor",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1655722725332-9925c96dd627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cGFzc3BvcnQlMjBjb250cm9sfGVufDF8MHx8fDE3ODc2MDgzOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Global Residence Index",
-        "photographerUrl": "https://unsplash.com/@globalresidenceindex",
-        "unsplashUrl": "https://unsplash.com/photos/passport-with-many-travel-stamps-LPdaW746WAw"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Küresel çapta yankı uyandıran ve uluslararası göç politikaları açısından kritik önem taşıyan yeni bir iddia gündeme geldi. Associated Press'in (AP) aktardığı bilgilere göre, Amerika Birleşik Devletleri (ABD) yönetimi, geçmiş dönemlerde ülkeye sığınma talebinde bulunmuş olan ya da halihazırda bu hukuki süreci devam eden yaklaşık 200 bin yabancı uyruklu bireyin çalışma ve turizm vizelerini iptal etmek üzere hazırlık yapıyor.\n\nSöz konusu gelişme, Amerika'nın mevcut göçmen ve vize rejiminde atılabilecek en kapsamlı adımlardan biri olarak değerlendiriliyor. Uzun süredir devam eden sığınma başvurularının sonuçlanmasını bekleyen ya da bu süreçte çeşitli vizelerle ülkede ikamet eden yabancıları doğrudan ilgilendiren bu hamle, göçmen toplulukları arasında endişe yaratırken, ulusal kamuoyunda da geniş bir tartışma zemin oluşturmuş durumda. Yetkili mercilerin bu kararı hayata geçirmesi halinde, ülkedeki statüleri belirsiz olan yüz binlerce insanın günlük yaşamını, çalışma hayatını ve yasal durumunu derinden etkileyecek radikal değişimlerin kapıda olduğu ifade ediliyor.\n\nUluslararası ilişkiler ve iç politika dengeleri bakımından büyük bir hassasiyet barındıran bu tür vize ve sığınma süreçleri, genel olarak ülkeye yasal yollardan giriş yapmış ancak statü değişimi yaşayan bireylerin hukuki pozisyonlarını yakından ilgilendiriyor. AP'nin haberinde yer alan bilgilere dayanarak yapılan değerlendirmelere göre, çalışma ve turizm vizelerinin iptal edilmesi planlanan kitlenin büyüklüğü, operasyonun lojistik ve hukuki boyutunu da gözler önüne seriyor. ABD gibi göçmen nüfusun yoğun olduğu ve bürokratik prosedürlerin son derece katı uygulandığı ülkelerde, bu tür toplu iptal kararları hem federal kurumlar üzerinde yoğun bir iş yükü oluşturmakta hem de yargı organlarına taşınabilecek çok sayıda hukuki itirazın önünü açmaktadır.\n\nÖzellikle sığınma başvurularının sonuçlanmasının yıllar alabildiği mevcut sistem içerisinde, başvuru sahiplerinin çalışma izni veya turistik amaçlı vizelerle ülkede kalabilmesi hayati bir önem taşıyordu. Eğer iddia edildiği gibi bu vizeler iptal edilirse, söz konusu yabancılar sınır dışı edilme tehlikesiyle karşı karşıya kalabilecek veya yasal olarak ülkede bulunma haklarını tamamen yitirebilecekler. Bu durum, göçmen hakları savunucuları ile federal yönetim arasında halihazırda var olan gerginlikleri daha da tırmandırabilecek potansiyele sahip bulunuyor.\n\nWashington yönetiminden henüz resmi ve nihai bir teyit metni yayımlanmamış olsa da, AP'nin servis ettiği bu kulis bilgisi kısa süre içinde iç siyasetin en üst sıralarına yerleşti. İlerleyen günlerde ilgili federal kurumların konuyla ilgili daha detaylı açıklamalar yapması ve atılacak adımların netleşmesi bekleniyor. ABD'nin göç ve sınır güvenliği politikalarındaki bu olası sert dönüş, hem içerideki milyonlarca yabancıyı hem de dış politikadaki müttefik ülkeleri yakından takip etmeye sevk ediyor.",
-      "highlights": [
-        "ABD yönetiminin yaklaşık 200 bin yabancının vizesini iptal etmeye hazırlandığı iddia edildi.",
-        "Karardan etkilenecek kişilerin uzun süredir sığınma sürecinde olduğu veya başvurduğu belirtildi.",
-        "İptal edilmesi planlanan belgeler arasında çalışma ve turizm vizelerinin yer aldığı kaydedildi."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/ap-abd-yonetimi-yaklasik-200-bin-yabancinin-vizesini-iptal-etmeye-hazirlaniyor/4036342",
-      "publishedAt": "2026-08-24T21:42:04.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "headline": "ABD'den Doğu Pasifik'te uyuşturucu kaçakçılığı şüphelilerine yönelik operasyon: 2 ölü",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1666601769125-182ad453c3e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bmF2YWwlMjBwYXRyb2wlMjBib2F0fGVufDF8MHx8fDE3ODc2MDgzOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jack Irving",
-        "photographerUrl": "https://unsplash.com/@jackelele",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-boat-in-the-water-Q1k9X_XGHyw"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Amerika Birleşik Devletleri ordusunun, Pasifik Okyanusu'nun doğu kesimlerinde gerçekleştirdiği operasyonda, uyuşturucu kaçakçılığı faaliyetleriyle suçlanan bir deniz aracının hedef alındığı bildirildi. Meydana gelen bu ölümcül askeri müdahale sonucunda iki kişinin yaşamını yitirdiği kaydedildi. Konuyla ilgili resmi açıklamalar, operasyonun arka planını ve detaylarını kamuoyuyla paylaşan yetkili askeri merciler tarafından yapıldı.\n\nOperasyonun, ABD ordusunun bölgedeki faaliyetlerini yürüten ilgili komutanlığı olan ABD Güney Komutanlığı (SouthCom) tarafından icra edildiği açıklandı. Pazartesi günü kamuoyuna duyurulan bilgilere göre, söz konusu askeri hamle doğrudan Doğu Pasifik bölgesinde tespit edilen bir deniz hedefine yönelik olarak gerçekleştirildi.\n\nYetkililer tarafından yapılan değerlendirmelerde, hedef alınan teknenin niteliği ve konumu üzerinde özellikle duruldu. Açıklamada, saldırının hedefi olan deniz aracının 'düşük profilli' bir yapıya sahip olduğu ve bu durumun bölgedeki güvenlik güçlerinin işini zorlaştıran unsurlar arasında yer aldığı ifade edildi. Ayrıca bu tür araçların genellikle deniz yoluyla yürütülen yasadışı faaliyetlerde tercih edildiği biliniyor.\n\nGerçekleştirilen bu askeri müdahalenin zamanlaması da dikkat çeken unsurlar arasında yer aldı. Edinilen bilgilere göre bu olay, son aylarda bölgede bu tür operasyonların yeniden ivme kazandığı bir döneme denk geldi ve uzun bir aranın ardından kaydedilen ilk ölümcül saldırı olma özelliğini taşıdı.\n\nUyuşturucu ticaretinin önlenmesi amacıyla Doğu Pasifik'teki devriye ve gözetim faaliyetlerini sürdüren ABD askeri unsurlarının, bilinen rotalar üzerinde denetimlerini artırdığı biliniyor. Söz konusu teknenin de bu kapsamda tespit edilerek hedef alındığı vurgulandı.\n\nOperasyonun ardından bölgedeki güvenlik önlemlerinin ve devriye faaliyetlerinin devam edeceği, uyuşturucu kaçakçılığıyla mücadele kapsamında benzer adımların atılabileceği belirtiliyor. ABD Güney Komutanlığı'nın yürüttüğü bu operasyon, uluslararası sularda uyuşturucu ticaretiyle mücadele stratejilerinin bir parçası olarak kayıtlara geçti.",
-      "highlights": [
-        "ABD Güney Komutanlığı Doğu Pasifik'te deniz aracını vurdu.",
-        "Operasyonda uyuşturucu ticaretiyle suçlanan iki kişi öldü.",
-        "Saldırı aylar sonra gerçekleştirilen ilk ölümcül müdahale oldu."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-      "publishedAt": "2026-08-24T21:40:48.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/samsun-sahilinde-gizemli-madde-alarmi-4850640",
-      "headline": "Samsun sahillerinde kıyıya vuran gizemli çuvallar paniğe yol açtı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1740483796403-6aecf79a8cf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwYmVhY2h8ZW58MXwwfHx8MTc4NzYxMDEzOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zoshua Colah",
-        "photographerUrl": "https://unsplash.com/@zoshuacolah",
-        "unsplashUrl": "https://unsplash.com/photos/a-police-boat-is-docked-in-a-harbor-mgC-XQE1AjI"
-      },
-      "timeAgo": "44 dk önce",
-      "body": "Karadeniz kıyısındaki Samsun ilinin farklı ilçelerine ait sahillerde yaşanan sıra dışı bir olay, bölge halkı ve yerel yetkililer arasında kısa süreli bir endişe ve hareketliliğe neden oldu. Kentin sahil şeridinde yer alan Atakum, Çarşamba ve Terme ilçelerinin kıyı kesimlerinde, deniz suyuyla birlikte karaya vuran çok sayıda çuval tespit edildi. Çevre sakinlerinin ve sahilde yürüyüş yapan vatandaşların fark ettiği bu çuvalların içerisinden sızan ya da yayılan şüpheli toz ve köpük benzeri maddeler, kıyı hattında güvenlik önlemlerinin alınmasını tetikledi.\n\nDurumun yetkili mercilere bildirilmesinin ardından, olay bölgesine çok sayıda resmi ekip sevk edildi. Sahil şeridinde geniş güvenlik çemberi oluşturan birimler arasında Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Sahil Güvenlik Komutanlığı ve Emniyet Müdürlüğü'ne bağlı polis ekipleri yer aldı. Uzman ekipler, kıyıya vuran çuvallardaki maddelerin yapısını ve potansiyel tehlikelerini belirlemek amacıyla kapsamlı bir inceleme ve numune alma çalışması başlattı. Vatandaşların can güvenliğini gözetmek adına sahilin belirli bölümleri geçici olarak yaya trafiğine ve incelemeler süresince kontrollü geçişlere tabi tutuldu.\n\nYürütülen ilk incelemeler ve teknik değerlendirmeler sonucunda, halk arasında en çok merak edilen ve endişe uyandıran konulardan biri olan radyasyon ihtimaline dair sevindirici bir açıklama geldi. Yapılan ilk ölçüm ve analizlerde, maddelerde herhangi bir radyoaktif bulguya ya da tehlikeli ışınıma rastlanmadığı resmi makamlarca duyuruldu. Uzmanlar, söz konusu toz ve köpük yapısındaki maddelerin kimyasal içeriğinin tam olarak netleşmesi için laboratuvar analizlerinin devam ettiğini belirtti. Samsun sahilindeki bu gizemli olayın aydınlatılması ve çuvalların denize nasıl ulaştığının tespiti yönündeki idari ve teknik soruşturma süreci tüm hızıyla sürdürülüyor.",
-      "highlights": [
-        "Samsun'un Atakum, Çarşamba ve Terme sahillerinde şüpheli çuvallar bulundu.",
-        "Çuvallardan çıkan toz ve köpük maddesi kıyılarda endişe ve paniğe yol açtı.",
-        "AFAD ve güvenlik ekiplerinin ilk incelemesinde radyoaktif izine rastlanmadı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/samsun-sahilinde-gizemli-madde-alarmi-4850640",
-      "publishedAt": "2026-08-24T21:37:54.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-      "headline": "ABD'de İran ile savaşa halk desteği azalıyor ve Trump'ın onay oranı rekor düşük seviyede",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591588211599-04eeffe9acc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cHJvdGVzdCUyMGNyb3dkfGVufDF8MHx8fDE3ODc2MDgzOTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Koshu Kunii",
-        "photographerUrl": "https://unsplash.com/@koshuuu",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-people-on-street-t86cJxwmBWc"
-      },
-      "timeAgo": "18 dk önce",
-      "body": "Amerika Birleşik Devletleri genelinde, İran ile olası bir çatışmaya yönelik kamusal destekte belirgin bir düşüş kaydedildiği bildirildi. Son dönemde yapılan kamuoyu araştırmaları, toplumun farklı kesimlerinde bu konudaki kaygıların arttığını ve özellikle siyasi dinamikler ile ekonomik göstergelerin bu eğilimde kritik bir rol oynadığını ortaya koydu. Uzmanlar, dış politika kararlarının ve uluslararası gerilimlerin Amerikan iç siyasetini doğrudan etkilediğini vurgularken, mevcut konjonktürün kamuoyundaki hassasiyetleri tetiklediğine dikkat çekiyor.\n\nAraştırma sonuçlarına göre, söz konusu düşüşün arkasında yatan en önemli faktörlerden biri, Cumhuriyetçi seçmen tabanı arasındaki desteğin azalması oldu. Geleneksel olarak daha şahin veya müdahaleci politikaları destekleme eğiliminde olan bu kesimde dahi, İran ile bir çatışma senaryosuna mesafeli yaklaşıldığı gözlemlendi. Bu durum, siyasi partilerin iç dinamiklerindeki değişimleri ve tabanın beklentilerindeki dönüşümü gözler önüne sererken, Washington'daki karar alıcılar üzerinde de baskı oluşturuyor.\n\nÖte yandan, iç politikadaki bu dalgalanma yalnızca dış politika tercihleriyle sınırlı kalmadı. Ülke genelinde artış gösteren akaryakıt fiyatları, vatandaşların günlük yaşamını doğrudan etkileyen ekonomik unsurlar arasında öne çıktı. Enerji maliyetlerindeki yükselişin, enflasyon ve genel geçim sıkıntısı endişeleriyle birleştiği, bunun da halkın dışarıdaki olası askeri operasyonlara yaklaşımını olumsuz yönde etkilediği ifade ediliyor. Ekonomik kaygıların, güvenlik odaklı tartışmaların önüne geçebildiği bu tür dönemlerde, halkın hükümetin dış politika hamlelerine mesafeli durduğu biliniyor.\n\nKamuoyu yoklamalarında dikkat çeken bir diğer husus ise, ABD Başkanı Donald Trump'ın onay oranlarının rekor düzeyde düşük seviyelere gerilemesi oldu. Hem iç ekonomik gelişmelerin hem de dış politikadaki belirsizliklerin, liderin halk nezdindeki popülaritesini zedelediği kaydedildi. Siyasi analistler, başkanlık onay oranlarındaki bu gerilemenin, gelecekte atılacak adımların maliyetini artırabileceğini ve yönetim üzerindeki siyasi baskıyı büyütebileceğini belirtiyor.\n\nTüm bu gelişmeler, uzun süreli bir çatışma ihtimaline duyulan korkuların Amerikan kamuoyunda ne denli derin olduğunu bir kez daha kanıtladı. Geçmişteki uzun soluklu askeri tecrübelerin hatıraları, halkın yeni bir bölgesel savaş senaryosuna karşı oldukça temkinli yaklaşmasına neden oluyor. Uzun sürecek ve maliyeti belirsiz bir müdahalenin hem ekonomik hem de insani açıdan getireceği yükler, vatandaşlar arasında en çok tartışılan konuların başında geliyor.\n\nSonuç olarak, açıklanan son anket verileri; azalan siyasi destek, tırmanan akaryakıt fiyatları ve uzayan savaş korkusu gibi birden fazla faktörün bir araya gelmesiyle şekillenen yeni bir toplumsal ruh halini işaret ediyor. Hem yönetim hem de yasama organı üyeleri, bu kamuoyu eğilimlerini dikkate almak zorunda kalırken, dış politika ve ekonomi eksenindeki bu hassas dengenin önümüzdeki süreçte nasıl bir seyir izleyeceği merakla takip ediliyor.",
-      "highlights": [
-        "Amerika Birleşik Devletleri'nde İran ile olası bir savaşa verilen halk desteği geriliyor.",
-        "Cumhuriyetçi tabandaki destek kaybı ve artan benzin fiyatları düşüşü tetikleyen ana unsurlar arasında yer alıyor.",
-        "Başkan Donald Trump'ın onay oranları anketlere göre rekor düzeyde düşük seviyelere indi."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-      "publishedAt": "2026-08-24T21:35:10.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
-      "headline": "Andy Burnham sosyal konut fonu harcama planından geri adım attı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1516501312919-d0cb0b7b60b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bW9kZXJuJTIwYXBhcnRtZW50JTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4NzYxMDE4OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nate Watson",
-        "photographerUrl": "https://unsplash.com/@nathanielw",
-        "unsplashUrl": "https://unsplash.com/photos/black-and-white-building-during-daytime-Ib_nblJ2Jis"
-      },
-      "timeAgo": "53 dk önce",
-      "body": "İngiltere siyasetinde konut politikalarına yönelik tartışmalar sürerken, konuya ilişkin dikkat çekici bir gelişme yaşandı. Kamuoyunda ve siyasi kulislerde yakından tanınan bir isim olan Andy Burnham, hükümetin mevcut konut stratejilerini tamamen ortadan kaldırarak sosyal konut inşasına ağırlık verilmesi yönündeki eski önerisinden vazgeçti. Bu tutum değişikliği, ülkenin genel konut arzı, bütçe dağılımı ve sosyal devlet politikaları açısından geniş yankı uyandıran bir süreci beraberinde getirdi.\n\nSon dönemde hayata geçirilen idari ve politik adımlar çerçevesinde, merkezi yönetim geçtiğimiz Pazartesi günü önemli bir planlamayı kamuoyuyla paylaştı. Bakanlar tarafından açıklanan bu stratejiye göre, 10 yıllık bir sürece yayılması öngörülen ve toplamda 10 milyar sterlin büyüklüğe sahip olan Uygun Fiyatlı Konut Programı kapsamında kullanılacak fonun ilk diliminin dağılımı netleşti. Bu finansal kaynağın yaklaşık yüzde 40'lık bölümünün, tek tip sosyal konutlar yerine korumalı konutlar ve ortak mülkiyet gibi farklı sübvansiyonlu konut modellerine tahsis edileceği duyuruldu.\n\nSöz konusu fon dağılımı ve politika yönelimi, mevcut Başbakan Keir Starmer liderliğindeki hükümetin genel siyasi çizgisiyle tam bir uyum gösteriyor. Hükümet yetkilileri, konut krizine çözüm bulmak amacıyla tek bir modele odaklanmak yerine çeşitlendirilmiş bir yaklaşım benimsemenin daha gerçekçi ve sürdürülebilir bir strateji olduğunu savunuyor. Bu doğrultuda atılan adımlar, ülkedeki dar gelirli vatandaşların ve konuta erişimde zorlanan kesimlerin farklı ihtiyaçlarına yanıt vermeyi amaçlıyor.\n\nAndy Burnham'ın daha önceki açıklamalarında hükümetin planlarını radikal bir şekilde değiştirmeyi ve doğrudan sosyal konut yapımını hızlandırmayı hedeflediği biliniyordu. Ancak son yaşanan gelişmeler, siyasi aktörler ile merkezi hükümet arasındaki uzlaşı arayışlarının veya stratejik gözden geçirmelerin bir sonucu olarak bu pozisyonda esneme yaşandığını açıkça ortaya koydu. Burnham'ın bu geri adımı, yerel yönetimler ile merkezi idare arasındaki yetki ve politika uyumu tartışmalarını da yeniden gündeme taşıdı.\n\nİngiltere genelinde Affordable Homes Programme bünyesinde yürütülen bu çalışmalar, milyonlarca vatandaşın barınma sorununa kalıcı çözümler üretme iddiasını taşıyor. 10 milyar sterlinlik devasa bütçenin farklı konut kategorilerine paylaştırılması, emlak piyasasındaki dengeleri ve sosyal konut üreticilerinin stratejilerini doğrudan etkileyebilecek nitelikte görülüyor. Uzmanlar, korumalı konutlar ve ortak mülkiyet projelerinin payının artırılmasının, özellikle yaşlılar ve ilk kez ev sahibi olacaklar için yeni fırsatlar yaratabileceğini belirtiyor.\n\nBütün bu gelişmeler ışığında, konut politikalarındaki bu revizyonun uzun vadede nasıl sonuçlar doğuracağı hem siyasi çevreler hem de konut sektörünün paydaşları tarafından dikkatle takip ediliyor. Hükümetin belirlediği çerçeveye uyum sağlayan yerel aktörlerin tutumu, önümüzdeki dönemde hayata geçirilecek projelerin hızını ve etkinliğini belirlemede kritik bir rol oynamaya devam edecek.",
-      "highlights": [
-        "Andy Burnham sosyal konut fonu planından geri adım attı.",
-        "10 milyar sterlinlik fonun yaklaşık yüzde 40'ı farklı modellere gidecek.",
-        "Karar Starmer hükümetinin konut politikalarıyla uyumlu şekilde alındı."
-      ],
-      "externalUrl": "https://www.theguardian.com/society/2026/aug/24/andy-burnham-social-homes-backtrack",
-      "publishedAt": "2026-08-24T21:30:39.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
-      "headline": "Target, sosyal medyadaki tepkilerin ardından tartışmalı cadılar bayramı kostümünü raflardan kaldırdı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1509635776280-892e4447ff86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aGFsbG93ZWVuJTIwY29zdHVtZXxlbnwxfDB8fHwxNzg3NjExOTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Haley Phelps",
-        "photographerUrl": "https://unsplash.com/@haleyephelps",
-        "unsplashUrl": "https://unsplash.com/photos/toddler-wearing-snow-white-costume-8CZDAq41tIE"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "ABD'nin önde gelen perakende devlerinden Target, sosyal medya platformlarında hızla yayılan sert eleştiriler ve tepkiler sonrasında tartışmaların odağındaki bir Cadılar Bayramı kostümünü satıştan çektiğini duyurdu. Şirket tarafından atılan bu adım, çocuklara yönelik hazırlanan ve kamuoyunda ırkçı bir karikatürü andırdığı yönünde güçlü değerlendirmeler yapılan ürünün raflardan indirilmesiyle sonuçlandı.\n\nSöz konusu tartışmalar, perakende şirketinin web sitesinde ve tanıtım mecralarında yer alan reklam görseli ile başladı. \"Kids’ Glows Under Blacklight Circus Clown Halloween Costume\" adıyla piyasaya sürülen ürünün tanıtımında, parlak turuncu ve siyah tonlarında bir üst giysi giyen, ellerinde tamamen siyah eldivenler bulunan ve geniş, dişleri belirgin bir gülümsemeye sahip maske takan Siyah bir çocuğun yer aldığı görüldü. Bu görsel materyal, kısa süre içinde dijital dünyada geniş bir tartışma dalgasını beraberinde getirdi.\n\nSosyal medya kullanıcıları ve çeşitli sivil toplum gözlemcileri, reklamda yer alan çocuğun duruşunun yanı sıra kullanılan maske ve eldiven detaylarının, geçmişteki minstrel gösterilerinde Siyah bireyleri hedef alan ve ırkçı nitelik taşıyan karikatürleri fazlasıyla hatırlattığına dikkat çekti. Gelen eleştirilerin odağındaki bu benzerlik, ürünün kısa sürede milyonlarca kullanıcı tarafından fark edilmesine ve şirket yönetimine yönelik baskının artmasına yol açtı.\n\nPerakende devi Target, kamuoyunda beliren bu rahatsızlık ve yükselen tepkiler üzerine hızlı bir değerlendirme süreci yürüttü. Şirket yetkilileri, söz konusu kostümün hem fiziksel mağazalardan hem de dijital satış platformundan derhal kaldırıldığını ve ürünün tedarik ile satış süreçlerinin durdurulduğunu açıkladı. Bu karar, büyük ölçekli markaların sosyal duyarlılık ve kamusal eleştiriler karşısında ne denli hassas bir denge gözetmek zorunda olduğunu bir kez daha gözler önüne serdi.\n\nBenzer ticari krizler, perakende sektöründe faaliyet gösteren uluslararası şirketlerin ürün seçimi ve pazarlama süreçlerinde toplumsal algıları ne kadar dikkatli analiz etmesi gerektiğine dair uzun süredir devam eden tartışmaları da yeniden alevlendirdi. Target’ın hızlı müdahalesi, şirket politikaları ile toplumsal beklentiler arasındaki uyumun korunması adına atılan zorunlu bir adım olarak değerlendirilirken, olay geniş kitleler tarafından yakından takip edilmeye devam ediyor.",
-      "highlights": [
-        "Target, tepki çeken Cadılar Bayramı kostümünü raflardan kaldırdı.",
-        "Reklam görseli sosyal medyada ırkçı karikatürlere benzetilerek eleştirildi.",
-        "Şirket, ürünün satışının durdurulduğunu ve kaldırıldığını açıkladı."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/aug/24/target-apology-halloween-costume-backlash",
-      "publishedAt": "2026-08-24T21:29:28.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/corluda-komsularin-keserli-kavgasinda-3-kisi-gozaltina-alindi-4850631",
-      "headline": "Çorlu'da komşular arasında keserli kavga çıktı: 3 gözaltı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1637016887843-c6d136c06d74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwY2FyfGVufDF8MHx8fDE3ODc1MDYwMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Max Fleischmann",
-        "photographerUrl": "https://unsplash.com/@maxfleischmann",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-police-car-with-its-lights-on-4wcI3YQAWpI"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Tekirdağ'ın Çorlu ilçesinde, aralarında daha önceden husumet bulunduğu öğrenilen iki komşu aile arasında sokak ortasında şiddetli bir tartışma yaşandı. Taraflar arasındaki gerginliğin kısa süre içinde büyümesiyle birlikte sözlü atışma fiziksel bir arbedeye dönüştü. Olayın büyümesi üzerine tarafların birbirine keser ve yumruklarla saldırdığı bildirildi.\n\nEdinilen bilgilere göre, taraflardan birine ait olan park halindeki bir minibüs de kavga sırasında hedef alındı. Araç, ellerindeki keserlerle vurulmak suretiyle maddi hasara uğratıldı. Sokakta yankılanan bağrışmalar ve yaşanan arbede mahallede büyük bir endişe yaratırken, çevredeki vatandaşlar durumu sakinleştirmek için yoğun çaba sarf etti.\n\nÇevredeki mahalle sakinlerinin araya girmesi ve tarafları ayırmak için gösterdiği büyük çaba sayesinde kavga daha fazla büyümeden güçlükle yatıştırıldı. İhbar üzerine olay yerine intikal eden emniyet güçleri, tarafları ayırarak çevrede güvenlik önlemleri aldı ve durumun kontrolünü sağladı.\n\nYaşanan olayda tarafların birbirine fiziksel zarar vermesi ve park halindeki araçta hasar meydana gelmesi üzerine polis ekipleri soruşturma başlattı. Gerçekleştirilen ilk incelemeler ve tarafların tespiti doğrultusunda, kavgaya karıştığı belirlenen 3 kişi emniyet güçleri tarafından gözaltına alındı.\n\nGözaltına alınan şüpheliler, ifade işlemleri ve yasal prosedürlerin tamamlanması amacıyla emniyete götürüldü. Olayla ilgili başlatılan soruşturmanın, taraflar arasındaki geçmişteki husumetin detayları da göz önünde bulundurularak sürdürüldüğü öğrenildi.",
-      "highlights": [
-        "Çorlu'da aralarında husumet bulunan iki komşu aile kavga etti.",
-        "Kavga sırasında park halindeki bir minibüs keserle hasar gördü.",
-        "Olayın ardından polis ekipleri 3 kişiyi gözaltına aldı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/corluda-komsularin-keserli-kavgasinda-3-kisi-gozaltina-alindi-4850631",
-      "publishedAt": "2026-08-24T21:25:33.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
