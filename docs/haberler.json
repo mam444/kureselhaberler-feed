@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T14:12:41.327Z",
+  "generatedAt": "2026-08-25T15:07:25.854Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/yerel-haberler/kayseri/erciyes-kayak-merkezinde-dag-kizagi-projesinde-calismalar-suruyor-3458867",
@@ -48,6 +48,98 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+      "headline": "Avustralya'da yapay zeka şirketlerinin yeni düzenlemelerden kaçınmak için veri merkezi inşaatını hızlandırabileceği belirtiliyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1683322499436-f4383dd59f5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c2VydmVyJTIwcm9vbXxlbnwxfDB8fHwxNzg3NjcwMjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Scott Rodgerson",
+        "photographerUrl": "https://unsplash.com/@scottrodgerson",
+        "unsplashUrl": "https://unsplash.com/photos/a-bunch-of-blue-wires-connected-to-each-other-PSpf_XgOM5w"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Avustralya genelinde planlanan çok sayıda veri merkezinin, Başbakan Anthony Albanese yönetimi tarafından gündeme getirilen katı yeni yasal düzenlemelerden kaçınabilmek amacıyla önümüzdeki aylarda onay süreçlerini hızlandırmaya çalışabileceği bildiriliyor. Uzmanlar, sektördeki bu olası hareketliliğin yapay zeka firmalarının yaklaşan yükümlülüklerden kaçma stratejisinin bir parçası olabileceğine dikkat çekiyor. Konuya ilişkin değerlendirmelerde bulunan uzmanlar, mevcut durumun ülkede bir veri merkezi inşaat dalgasını tetikleyebileceğini ifade ediyorlar.\n\nPlanlanan bu yeni düzenlemelerin hayata geçmesi halinde, yeni tesislerin elektrik fiyatlarını yukarı çekmesini önlemek amacıyla çeşitli tedbirler alınması zorunlu hale getirilecek. Bu kapsamda, kurulacak yeni veri merkezlerinin kendi yenilenebilir enerji santrallerini inşa etmeleri ve aynı zamanda su kullanımını en aza indirmeleri yönünde yasal gereklilikler getirilmesi öngörülüyor. Sektör temsilcileri ve politika yapıcılar, artan enerji ve kaynak talebinin toplumsal maliyetlerini dengelemek adına bu tür kısıtlamaların kaçınılmaz olduğunu savunuyor.\n\nÖte yandan, ülkedeki bu gelişmeler yaşanırken, veri merkezlerine yönelik bir moratoryum ilan edilmesi yönündeki çağrıların da giderek arttığı gözlemleniyor. Çeşitli çevreler, kontrolsüz ve hızlı büyümenin altyapı üzerinde aşırı baskı oluşturabileceği endişesini dile getirirken, projelerin durdurulması veya en azından yavaşlatılması yönünde baskı yapıyor. Sektör paydaşları ile düzenleyici kurumlar arasındaki bu gerilim, ülkenin dijital altyapı politikalarının geleceği açısından kritik bir dönemeç teşkil ediyor.\n\nTüm bu tartışmaların odağındaki Başbakan Anthony Albanese'nin, Çarşamba günü gerçekleştireceği ulusal kabine toplantısında veri merkezlerine yönelik federal düzenlemeler konusunda bir mutabakata varmayı amaçladığı belirtiliyor. Söz konusu toplantı, hem teknoloji şirketlerinin gelecekteki yatırımları hem de ülkenin enerji ve su kaynaklarının korunması açısından hayati önem taşıyor. Kararın çıkması beklenen bu kritik toplantı öncesinde, ilgili tüm tarafların hazırlıklarını hızlandırdığı ifade ediliyor.\n\nUzmanlar ve sektör gözlemcileri, hükümetin atacağı adımların Avustralya'nın dijital ekonomisinin büyüme hızı ile çevresel sürdürülebilirlik hedefleri arasındaki dengeyi belirleyeceğini vurguluyor. Yapay zeka firmalarının artan hesaplama gücü ihtiyaçları ile ülkenin elektrik ve su kaynaklarının kapasitesi arasındaki bu hassas denge, önümüzdeki dönemde hem federal hem de eyalet düzeyindeki politikaların merkezinde yer almaya devam edecek gibi görünmektedir.",
+      "highlights": [
+        "Yapay zeka firmalarının yeni düzenlemelerden kaçınmak için süreci hızlandırması bekleniyor.",
+        "Yeni kuralların elektrik fiyatlarını korumak için yenilenebilir enerji şartı getirmesi planlanıyor.",
+        "Başbakan Albanese'nin çarşamba günü ulusal kabineyle bir araya gelmesi öngörülüyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+      "publishedAt": "2026-08-25T15:00:19.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/jandarmanin-celik-kanatlar-ve-uzum-salkimi-gosterileri-malazgirtte-ilgiyle-izlendi/4037129",
+      "headline": "Malazgirt'te jandarma gösterilerine yoğun ilgi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1519074031893-210d39bd3885?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBoZWxpY29wdGVyfGVufDF8MHx8fDE3ODc2NzAyNTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "DON JACKSON-WYATT",
+        "photographerUrl": "https://unsplash.com/@the_don_photography",
+        "unsplashUrl": "https://unsplash.com/photos/military-attack-helicopter-over-rural-landscape-sbhubyl7lWI"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Tarihi şanla dolu Malazgirt Zaferi'nin 955. yıl dönümü kutlamaları, Anadolu'nun dört bir yanından gelen vatandaşların katılımıyla coşku içinde devam ediyor. Bu kapsamda Muş'un Malazgirt ilçesinde düzenlenen etkinlikler, katılımcılara unutulmaz anlar yaşatırken, programın en dikkat çekici bölümlerinden biri güvenlik güçlerinin sunduğu gökyüzü performansları oldu.\n\nKutlama etkinlikleri çerçevesinde Türk jandarmasının envanterinde bulunan hava unsurları, ilçe sakinlerine ve dışarıdan gelen ziyaretçilere nefis bir görsel şölen sundu. Gökyüzünde sergilenen ve büyük bir ustalık gerektiren hareketlerle bilinen \"Çelik Kanatlar\" ile \"Üzüm Salkımı\" gösterileri, izleyenlerden tam not aldı. Vatandaşlar, bu özel ve anlamlı günde gerçekleştirilen hava gösterilerini yakından takip edebilmek için etkinlik alanını doldurdu.\n\nMalazgirt'in tarihi atmosferinde yapılan bu tür gösteriler, zafer yıl dönümü kutlamalarının coşkusunu zirveye taşıdı. Hem yerel halkın hem de farklı şehirlerden gelen konukların yoğun ilgi gösterdiği hava akrobasisi ve operasyonel beceri gösterileri, katılımcılar tarafından büyük bir beğeni ve gururla izlendi.\n\nEtkinlikler boyunca güvenlik güçlerinin gösterdiği profesyonellik ve yetenek, vatandaşların takdirini toplarken, kutlama alanında toplanan kalabalık bu anları cep telefonlarıyla kaydetmek için adeta birbiriyle yarıştı. Malazgirt Zaferi'nin yıl dönümü vesilesiyle düzenlenen bu görkemli hava gösterileri, hafızalardan uzun süre silinmeyecek anılara sahne oldu.",
+      "highlights": [
+        "Malazgirt Zaferi'nin 955. yıl dönümü Muş'ta kutlandı.",
+        "Jandarma helikopterleri gökyüzünde gösteri sundu.",
+        "Çelik Kanatlar ve Üzüm Salkımı ilgiyle izlendi."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/jandarmanin-celik-kanatlar-ve-uzum-salkimi-gosterileri-malazgirtte-ilgiyle-izlendi/4037129",
+      "publishedAt": "2026-08-25T14:56:12.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "http://tr.euronews.com/next/2026/08/25/norvec-akilli-gozluk-kullanimina-siki-kurallar-getiriyor",
+      "headline": "Norveç akıllı gözlük kullanımına sıkı kurallar getiriyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1483412468200-72182dbbc544?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c21hcnQlMjBnbGFzc2VzfGVufDF8MHx8fDE3ODc2NzAzMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "blocks",
+        "photographerUrl": "https://unsplash.com/@blocks",
+        "unsplashUrl": "https://unsplash.com/photos/eyeglasses-with-black-frames-0R1ci4Rb9jU"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Günümüz teknolojisinde hızla yaygınlaşan ve kullanıcılara günlük yaşamlarında farklı kolaylıklar sunan giyilebilir cihazlar, ulusal düzenleyicilerin de yakın markajına girmeye devam ediyor. Son dönemde popülaritesi artan ve özellikle sunduğu özelliklerle dikkat çeken akıllı gözlükler, teknoloji pazarındaki yerini sağlamlaştırırken bu cihazların kullanım alanlarına yönelik yeni hukuki ve idari tartışmaları da beraberinde getiriyor. Bu kapsamda, özellikle İskandinav coğrafyasının önde gelen ülkelerinden biri olan Norveç, son yıllarda hayatımızın merkezine yerleşen bu yenilikçi teknolojinin denetlenmesi ve sınırlandırılmasına yönelik önemli adımlar atmaya hazırlanıyor. Ülke genelinde, kullanıcıların günlük yaşam akışı içerisinde sıklıkla tercih ettiği bu cihazların kullanımına getirilecek olan sıkı kuralların, hem bireysel haklar hem de kamusal düzen açısından geniş yankı uyandırması bekleniyor.\n\nBilindiği üzere akıllı gözlükler; bünyelerinde barındırdıkları dahili kamera ve mikrofon donanımlarının yanı sıra, kullanıcılara gelişmiş artırılmış gerçeklik ekranları sunan son derece işlevsel giyilebilir teknoloji ürünleri arasında yer alıyor. Söz konusu bu cihazlar, temel olarak kullanıcıların anlık olarak yüksek çözünürlüklü fotoğraf ve video çekmesine olanak tanırken, aynı zamanda dijital dünyadan gelen çeşitli verileri ve bilgileri doğrudan kişinin görüş alanına başarılı bir şekilde yansıtma kapasitesiyle öne çıkıyor. Klasik gözlük tasarımlarından farklı olarak, barındırdıkları bu entegre dijital bileşenler sayesinde sadece bir optik araç olmanın ötesine geçen cihazlar, dış dünya ile dijital ağlar arasında köprü vazifesi görüyor. Ancak tam da bu noktada, sağladığı pratik avantajların yanı sıra bireylerin mahremiyeti ve kişisel verilerin korunması gibi hassas konularda da çeşitli soru işaretlerini beraberinde getiriyor.\n\nİşte bu noktada devreye giren Norveçli yetkililer, akıllı gözlüklerin sunduğu bu cazip özelliklerin kontrolsüz bir şekilde kullanılmasının doğurabileceği olası sakıncaların önüne geçmek amacıyla bir dizi yeni kuralı hayata geçirmeyi planlıyor. Gelişen teknolojiyle birlikte toplumsal yaşamın her alanında hissedilmeye başlanan dijital dönüşüm, beraberinde yeni denetim mekanizmalarını da zorunlu kılıyor. Giyilebilir teknolojilerin pazar payını hızla artırdığı bu dönemde, özellikle kamusal alanlarda ya da özel mülklerde bu tür kayıt cihazlarının taşıdığı potansiyel riskler, idari otoritelerin dikkatinden kaçmıyor. Norveç yönetiminin getirmesi beklenen bu sıkı düzenlemeler, cihazların hangi alanlarda aktif olarak kullanılabileceği, görüntü ve ses kaydı özelliklerinin hangi şartlar altında devreye sokulabileceği gibi temel konuları kapsayacak şekilde şekilleniyor.\n\nGetirilmesi planlanan bu yeni kuralların, sadece teknoloji kullanıcılarını değil, aynı zamanda bu tür cihazları üreten ve pazarlayan küresel teknoloji şirketlerini de doğrudan ilgilendirdiği ifade ediliyor. Akıllı gözlük pazarındaki rekabet her geçen gün kızışırken, üreticilerin de ülkenin getireceği bu yasal sınırlamalara uyum sağlamak adına yeni yazılımsal ve donanımsal tedbirler almaları gerekebilir. Özellikle gizlilik odaklı özelliklerin artırılması, kayıt esnasında çevredeki insanları uyarıcı ışık ya da sinyal sistemlerinin entegre edilmesi gibi taleplerin, bu tür yasal süreçlerin ardından sektörde standart haline gelmesi muhtemel görünüyor. Norveç'in bu hamlesi, diğer Avrupa ülkeleri ve küresel ölçekteki diğer devletler için de benzer düzenlemelerin hayata geçirilmesi konusunda emsal teşkil edebilecek nitelikte değerlendiriliyor.\n\nSonuç olarak, giyilebilir teknolojilerin hayatımızın ayrılmaz bir parçası haline geldiği bu süreçte, inovasyon ile bireysel haklar arasındaki dengenin korunması büyük bir önem arz ediyor. Akıllı gözlüklerin sunduğu fotoğraf ve video çekme ile verileri görüş alanına yansıtma gibi hayatı kolaylaştırıcı özellikler bir yandan dijital deneyimi zenginleştirirken, diğer yandan toplumsal yaşamda mahremiyet algısını yeniden tanımlıyor. Norveç'in akıllı gözlük kullanımına getireceği sıkı kurallar, bu hassas dengenin kurulmasında kritik bir eşik olarak kabul ediliyor. İlerleyen günlerde söz konusu düzenlemelerin detaylarının netleşmesiyle birlikte, hem tüketicilerin cihaz kullanım alışkanlıklarının değişmesi hem de teknoloji sektörünün bu yeni hukuki çerçeveye nasıl uyum sağlayacağının yakından takip edilmesi bekleniyor.",
+      "highlights": [
+        "Akıllı gözlükler kamera, mikrofon ve artırılmış gerçeklik ekranları sunuyor.",
+        "Cihazlar fotoğraf çekmeye ve veriyi görüş alanına yansıtmaya yarar.",
+        "Norveç, akıllı gözlük kullanımına yönelik sıkı kurallar getirmeye hazırlanıyor."
+      ],
+      "externalUrl": "http://tr.euronews.com/next/2026/08/25/norvec-akilli-gozluk-kullanimina-siki-kurallar-getiriyor",
+      "publishedAt": "2026-08-25T14:47:18.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
+      "headline": "Çin'den ABD'nin İran yaptırımlarına tepki: Çıkarlarımızı savunacağız",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1758138258458-64ee0fbdef4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZGlwbG9tYXRpYyUyMG1lZXRpbmd8ZW58MXwwfHx8MTc4NzY3MDM0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zulfugar Karimov",
+        "photographerUrl": "https://unsplash.com/@zulfugarkarimov",
+        "unsplashUrl": "https://unsplash.com/photos/european-union-and-us-flags-on-a-table-72ZimVFnRYA"
+      },
+      "timeAgo": "23 dk önce",
+      "body": "Orta Doğu'da devam eden gerilimler ve uluslararası diplomasi trafiği sürerken, Amerika Birleşik Devletleri'nin İran'a yönelik yaptırım mekanizmalarını genişletme kararı küresel boyutta yeni bir diplomatik tartışmanın fitilini ateşledi. Pekin yönetimi, Washington'ın hayata geçirdiği bu yeni kısıtlayıcı adımların bölgedeki krizin çözümüne hiçbir katkı sağlamayacağını açık bir şekilde ifade etti. Çin makamları, söz konusu yaptırım hamlelerinin meseleleri çözümsüzlüğe ittiğini savunarak, bu politikalara karşı kendi ulusal menfaatlerini kararlılıkla koruyacaklarını ve muhafaza edeceklerini duyurdu.\n\nUluslararası ilişkilerde ekonomik kısıtlamaların ve tek taraflı yaptırımların kalıcı barışa hizmet etmediği görüşünü savunan Çin, bölgedeki tansiyonun düşürülmesi adına acil adımların atılması gerektiğinin altını çizdi. Pekin hükümeti yaptığı değerlendirmelerde, Orta Doğu coğrafyasında yaşanan çatışmaların ve derinleşen kriz ortamının sona erdirilmesi için taraflara derhal ateşkes ilan edilmesi çağrısında bulundu. Yetkililer, askeri ve ekonomik baskı araçlarının barışçıl bir müzakere ortamı oluşturmak yerine mevcut sorunları daha da karmaşık hale getirdiğini kaydetti.\n\nKüresel ticaretin ve enerji hatlarının güvenliğinin yakından etkilendiği bu hassas dönemde, büyük devletler arasındaki stratejik rekabet ve diplomatik ayrışmalar da net bir şekilde gözler önüne seriliyor. Washington'ın yaptırım baskısını artırma stratejisine karşılık, Pekin'in kendi ekonomik ve siyasi çıkarlarını savunma yönündeki duruşu, uluslararası diplomasi arenasındaki dengelerin önemini bir kez daha hatırlatıyor. Çinli yetkililer, gelecekte atılacak adımlarda ve dış politika kararlarında kendi egemenlik haklarını ve ticari çıkarlarını gözetmeye devam edeceklerini vurguladı.\n\nOrta Doğu'daki istikrarsızlığın diplomatik yollarla çözülmesi gerektiği yönündeki tezini yürüten Çin, Washington'ın tek taraflı yaptırım kararlarının bölgedeki insani ve siyasi tablosu üzerinde olumlu bir etki yaratmayacağını savunuyor. Bölgesel aktörlerin ve uluslararası toplumun katılımıyla sürdürülebilir bir barış zeminine ulaşılmasının mühim olduğunu belirten Pekin yönetimi, askeri ve ekonomik tedbirlerin çatışmaları durdurmaktan ziyade uzlaşmazlığı derinleştirdiğine dikkat çekti.\n\nSonuç olarak, ABD'nin İran'a yönelik genişlettiği yaptırımlar küresel güçler arasında yeni bir diplomatik cepheleşmenin sinyallerini verirken, Çin'in bu hamleye karşı kendi çıkarlarını koruma kararlılığı dış politika gündemindeki yerini koruyor. Ateşkes çağrısını yineliyerek sorunun diplomatik kanallarla çözülmesi gerektiğini savunan Pekin, yaptırım siyasetinin krizleri çözmede etkisiz ve yapıcı olmaktan uzak bir yöntem olduğunun altını çizmeye devam ediyor.",
+      "highlights": [
+        "Çin, ABD'nin İran yaptırımlarının bölgedeki krizi çözmeyeceğini belirtti.",
+        "Pekin yönetimi, kendi ulusal çıkarlarını korumakta kararlı olduğunu vurguladı.",
+        "Çin, Orta Doğu'daki çatışmaların durdurulması için acil ateşkes çağrısı yaptı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
+      "publishedAt": "2026-08-25T14:43:12.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.cnnturk.com/video/turkiye/yeni-iddia-valinin-oglu-gulistanin-oldugu-yerde-sabahlamis-3458742",
       "headline": "Gülistan Doku soruşturmasında yeni iddia: Eski valinin oğlu olay yerinde sabahlamış",
       "source": "CNN Türk",
@@ -67,6 +159,52 @@
       ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/yeni-iddia-valinin-oglu-gulistanin-oldugu-yerde-sabahlamis-3458742",
       "publishedAt": "2026-08-25T14:38:16.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/chp-mutlak-butlan-davasinda-geri-adim-atti-temyiz-basvurusu-geri-cekildi-4850793",
+      "headline": "Chp mutlak butlan davasında geri adım attı: Temyiz başvurusu geri çekildi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1643149007777-5d3c2126d62a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODc2NzAzNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Colin Lloyd",
+        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-sitting-on-a-bench-in-front-of-a-building-52LVSjj7voc"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Türk siyasi hayatının ve yargı gündeminin yakın takibinde olan önemli bir hukuki süreçte yeni bir gelişme yaşandı. Edinilen son bilgilere göre, Cumhuriyet Halk Partisi (CHP) yargı mercileri nezdinde yürütülen mutlak butlan davasına ilişkin yapmış olduğu temyiz başvurusunu geri çekme kararı aldı. Partinin bu adımı, davanın seyri açısından kritik bir dönüm noktası oluştururken, siyasi kulislerde ve kamuoyunda da geniş yankı uyandıran gelişmeler arasında yerini aldı.\n\nSöz konusu hukuki süreç ve atılan bu son adım, parti içinde ve dışında farklı değerlendirmelere neden oldu. Yaşanan bu gelişmeyle birlikte, Cumhuriyet Halk Partisi'nin hukuki itiraz mekanizmasından vazgeçtiği resmiyet kazanmış oldu. Bilindiği üzere yargı sistemimizde temyiz aşaması, mahkeme kararlarının hukuka uygunluğunun üst mahkemelerce denetlenmesini sağlayan son derece önemli bir aşama olarak işlev görüyor. Ancak partinin bu aşamadan feragat etmesi, sürecin hukuki boyutunda yeni bir statünün oluşmasına zemin hazırladı.\n\nKonuya ilişkin olarak yapılan değerlendirmelerde, Yeni Parti Genel Başkanı Özgür Özel'in ifadeleri de sürece dair kritik bir çerçeve sundu. Özgür Özel, CHP'nin bu başvuruyu geri çekmesi durumunda ilgili mahkeme kararının kesinleşmiş olacağını belirtti. Siyasi ve hukuki açıdan büyük bir ehemmiyet taşıyan bu tespit, davanın bundan sonraki evresinin kalıcı bir hukuki statüye kavuşacağını da net bir biçimde ortaya koymuş durumda.\n\nMutlak butlan kavramı, hukuk terminolojisinde hukuki bir işlemin veya durumun hiç yapılmamış sayılması sonucunu doğuran ağır bir hükümsüzlük halini ifade ediyor. Bu bağlamda, Cumhuriyet Halk Partisi tarafından açılan ve sürdürülen davanın temyiz aşamasından vazgeçilmesi, bu hukuki nitelendirme ve sonuçların olduğu gibi kabul edilmesi anlamını taşıyor. Tarafların ve ilgili siyasi aktörlerin bu hamlesi, davanın esasını doğrudan etkileyen bir irade beyanı olarak kayıtlara geçti.\n\nHukukçular ve siyaset bilimciler, bir siyasi partinin yargı yolundaki bu tür geri adımlarının kurumsal yapılar ve tüzel kişilikler bakımından önemli sonuçları olabileceğine dikkat çekiyor. Temyiz hakkından resmen feragat edilmesiyle beraber, dosyanın Yargıtay veya ilgili üst yargı mercilerindeki inceleme süreci de fiilen sona ermiş oluyor. Böylece, yerel mahkemenin veya ilk derece mercii tarafından verilen karar, herhangi bir üst denetim engeline takılmaksızın nihai ve kesin bir hukuki metin haline gelmiş bulunuyor.\n\nSonuç olarak, Cumhuriyet Halk Partisi'nin mutlak butlan davası çerçevesindeki temyiz başvurusunu geri çekmesiyle birlikte, dava dosyası üzerindeki hukuki tartışmalar yeni bir evreye taşınmış oldu. Yeni Parti Genel Başkanı Özgür Özel'in de dikkat çektiği üzere, bu geri çekme hamlesi kararın kesinleşmesini beraberinde getirdi. Partinin bu kararı, hem kendi iç bünyesindeki hukuki stratejilerin gözden geçirildiğini hem de davanın geldiği son aşamada bu yönde bir irade ortaya konulduğunu açıkça gösterdi.",
+      "highlights": [
+        "Cumhuriyet Halk Partisi mutlak butlan temyiz başvurusunu geri çekti.",
+        "Yeni Parti Genel Başkanı Özgür Özel kararın kesinleşeceğini ifade etti.",
+        "Temyiz başvurusunun geri çekilmesiyle birlikte ilgili karar kesinleşmiş oldu."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/chp-mutlak-butlan-davasinda-geri-adim-atti-temyiz-basvurusu-geri-cekildi-4850793",
+      "publishedAt": "2026-08-25T14:38:05.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/dunya/ermenistandan-5-yillik-program-ankara-ve-baku-adimi-onaylandi-43284828",
+      "headline": "Ermenistan Parlamentosu'ndan kritik 5 yıllık program onayı",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1760872645518-8d0ee5ce9098?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cGFybGlhbWVudCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODc2NzA0NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zoshua Colah",
+        "photographerUrl": "https://unsplash.com/@zoshuacolah",
+        "unsplashUrl": "https://unsplash.com/photos/grand-historic-building-with-dome-and-tower-reflected-in-water-hcE6HEtaQAE"
+      },
+      "timeAgo": "40 dk önce",
+      "body": "Ermenistan'ın önümüzdeki döneme yönelik izleyeceği stratejik yol haritasını belirleyen yeni hükümet programı, parlamentoda yapılan oylama sonucunda resmen onaylandı. Ülkenin gelecekteki siyasi ve ekonomik yönelimini şekillendirmesi beklenen bu kapsamlı belgenin, bölgesel ilişkiler açısından son derece kritik başlıklar barındırdığı bildirildi.\n\nSöz konusu 5 yıllık programın en dikkat çekici ve öncelikli unsurlarını, komşu ülkelerle yürütülecek dış politika girişimleri oluşturuyor. Bu bağlamda, belgenin en temel hedefleri arasında Azerbaycan ile kalıcı barışın tesis edilmesi ve bu sürecin en güçlü şekilde sağlamlaştırılması yer alıyor. Erivan yönetimi, bölgesel istikrarın ancak bu adımlarla kalıcı hale gelebileceğini savunuyor.\n\nAynı program çerçevesinde ele alınan bir diğer mühim başlık ise Türkiye ile olan ilişkilerin normalleştirilmesi süreci oldu. Onaylanan metin, Ankara ile diplomatik ve ticari bağların yeniden ele alınması ve normalleşme yolunda somut ilerlemeler kaydedilmesi yönündeki resmi iradeyi de açıkça ortaya koyuyor.\n\nBölgesel diplomasi trafiğini doğrudan etkileyecek olan bu 5 yıllık stratejik planın kabul edilmesi, uluslararası kamuoyunda ve Güney Kafkasya'yı yakından takip eden çevrelerde geniş yankı uyandırdı. Uzmanlar, belgede yer alan hedeflerin hayata geçirilmesinin, hem Ermenistan'ın dış politikası hem de tüm bölgenin güvenlik ve refah dengeleri bakımından dönüm noktası niteliği taşıyabileceğine dikkat çekiyor.\n\nErmenistan hükümetinin hazırladığı ve parlamentodan vize alan bu uzun vadeli programın, önümüzdeki süreçte tatbik edilmesi beklenen diplomatik temasların ve olası müzakerelerin temel zeminini oluşturacağı öngörülüyor. Tarafların atacağı müteakip adımların, Güney Kafkasya'daki mevcut jeopolitik tabloyu nasıl etkileyeceği ise yakından izlenmeye devam ediyor.",
+      "highlights": [
+        "Ermenistan Parlamentosu yeni hükümet programını kabul etti.",
+        "Plan Azerbaycan ile barışın güçlendirilmesini hedefliyor.",
+        "Türkiye ile ilişkilerin normalleşmesi programda yer alıyor."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/dunya/ermenistandan-5-yillik-program-ankara-ve-baku-adimi-onaylandi-43284828",
+      "publishedAt": "2026-08-25T14:26:58.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6760,144 +6898,6 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-brezilya-devlet-baskani-ile-gorustu-1738729",
       "publishedAt": "2026-08-24T15:48:19.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/business/2026/08/24/portekizin-en-buyuk-gunes-santralini-isleten-ingiliz-sirket-iflas-surecine-girdi",
-      "headline": "Portekiz'in en büyük güneş santralini işleten İngiliz şirket iflas sürecine girdi",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1613665813446-82a78c468a1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c29sYXIlMjBwYW5lbHN8ZW58MXwwfHx8MTc4NzU5MjQ1OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nuno Marques",
-        "photographerUrl": "https://unsplash.com/@logvisuals",
-        "unsplashUrl": "https://unsplash.com/photos/black-and-white-solar-panels-0GbrjL3vZF4"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Enerji sektöründe yankı uyandıran son gelişmeler doğrultusunda, Portekiz'in en büyük güneş enerjisi santrali konumunda bulunan tesisin işletmeciliğini yürüten İngiliz şirket iflas sürecine resmi olarak girdi. Ülkenin güney kesimindeki Algarve bölgesine bağlı Alcoutim sınırları içerisinde yer alan Solara4 adlı devasa tesis, uzun süredir devam eden operasyonel geçmişine rağmen zorlu bir döneme adını yazdırdı. Bilindiği üzere söz konusu güneş enerjisi tesisi, yaklaşık beş yıldır kesintisiz bir şekilde faaliyetlerini sürdürmekteydi ve bölgenin yenilenebilir enerji altyapısı açısından stratejik bir öneme sahip bulunuyordu. Ancak son zamanlarda yaşanan talihsiz gelişmeler ve ekonomik dalgalanmalar, şirketin mali yapısını derinden sarsmayı başardı.\n\nAlcoutim'de kurulan Solara4 projesi, hayata geçirildiği günden bu yana Portekiz'in yeşil enerji hedeflerine katkı sunan en mühim projeler arasında gösteriliyordu. Ülkenin en büyük güneş santrali olma unvanını elinde bulunduran bu tesis, geniş bir coğrafi alana yayılması ve yüksek enerji üretim kapasitesiyle dikkat çekiyordu. Aradan geçen beş yıllık süre zarfında binlerce hanenin ve işletmenin elektrik ihtiyacının karşılanmasında pay sahibi olan tesis, bölgenin ekonomik ve çevresel dengeleri açısından da kritik bir konumdaydı. Yenilenebilir enerji yatırımlarının dünya genelinde hız kazandığı bir dönemde yaşanan bu iflas süreci, sektördeki risklerin ve sürdürülebilirlik zorluklarının ne denli büyük olabileceğini bir kez daha gözler önüne serdi.\n\nSon dönemde peş peşe karşısına çıkan aksiliklerle mücadele etmek zorunda kalan İngiliz şirket, ne yazık ki bu kriz ortamından çıkış yolu bulamadı. Edinilen bilgilere göre, işletmeci şirketin karşı karşıya kaldığı problemler zinciri, operasyonel süreçlerin yürütülmesini imkansız hale getirecek boyutlara ulaştı. Küresel piyasalardaki belirsizlikler, tedarik zinciri aksamaları ve proj finansmanındaki tıkanıklıklar gibi faktörlerin, şirketi bu noktaya sürükleyen süreçte etkili olduğu değerlendiriliyor. Portekiz enerji piyasasında büyük bir paya sahip olan Solara4 gibi devasa bir tesisin arkasındaki ana şirketin iflas bayrağını çekmesi, sektörün tüm paydaşları tarafından yakından takip edilen endişe verici bir gelişme olarak kayıtlara geçti.\n\nGelinen bu aşamada, Algarve bölgesindeki Alcoutim'de bulunan Solara4 güneş santralinin geleceğinin ne olacağı sorusu henüz netlik kazanmış değil. Beş yıldır faaliyette olan ve Portekiz'in yenilenebilir enerji üretiminde önemli bir kilometre taşı olan tesisin, iflas sürecinin ardından hangi statüde faaliyetlerine devam edeceği veya devir işlemlerinin yapılıp yapılmayacağı önümüzdeki günlerde netleşecek. Enerji hukuku ve iflas masası uzmanlarının yürüteceği yasal süreçlerin, tesisin operasyonel bütünlüğünün korunması açısından kritik bir rol oynaması bekleniyor. Ülkenin en büyük güneş enerjisi üretim merkezlerinden birinde yaşanan bu idari ve mali kriz, yenilenebilir enerji projelerinin finansal sürdürülebilirliği konusundaki tartışmaları da yeniden alevlendirdi.\n\nSektör temsilcileri ve ekonomi çevreleri, İngiliz şirketin iflas sürecine girmesinin ardından Portekiz'deki diğer yabancı menşeli enerji yatırımlarının da etkilenip etkilenmeyeceğini tartışmaya başladı. Alcoutim bölgesindeki yerel halk ve istihdam edilen personel de sürecin seyrini büyük bir dikkatle izliyor. Solara4'ün beş yıllık geçmişi boyunca elde ettiği üretim başarılarının, şirketin yaşadığı finansal kriz nedeniyle gölgelenmesi, enerji sektöründe faaliyet gösteren diğer firmalar için de önemli bir örnek teşkil ediyor. İflas sürecinin resmi prosedürleri ilerledikçe, tesisin borçlarının tasfiyesi, alacaklıların durumu ve santralin mülkiyet yapısının geleceği hakkındaki ayrıntılı tablonun önümüzdeki süreçte kamuoyuyla paylaşılması bekleniyor.",
-      "highlights": [
-        "Portekiz'in en büyük güneş santralini işleten İngiliz şirket iflas sürecine girdi.",
-        "Algarve bölgesindeki Alcoutim'de bulunan Solara4, beş yıldır faaliyette bulunuyordu.",
-        "Tesis son dönemde peş peşe karşılaştığı aksilikler ve mali krizle sarsıldı."
-      ],
-      "externalUrl": "http://tr.euronews.com/business/2026/08/24/portekizin-en-buyuk-gunes-santralini-isleten-ingiliz-sirket-iflas-surecine-girdi",
-      "publishedAt": "2026-08-24T15:44:56.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.dw.com/tr/paşinyan-ab-ye-resmî-üyelik-başvurusu-yapacağız/a-78488532?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Ermenistan'dan Avrupa Birliği'ne üyelik adımı: Paşinyan duyurdu, Moskova'dan uyarı geldi",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RXVyb3BlYW4lMjBVbmlvbiUyMGZsYWd8ZW58MXwwfHx8MTc4NzU4NzcyOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Guillaume Périgois",
-        "photographerUrl": "https://unsplash.com/@guillaumeperigois",
-        "unsplashUrl": "https://unsplash.com/photos/row-of-european-union-flags-0NRkVddA2fw"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Ermenistan Başbakanı Nikol Paşinyan tarafından yapılan açıklamada, ülkesinin Avrupa Birliği'ne resmî üyelik başvurusunda bulunmak üzere hazırlık sürecini çok yakın bir zaman dilimi içerisinde başlatacağı kamuoyuna duyuruldu. Uluslararası ilişkilerde geniş yankı uyandıran bu stratejik hamle, Erivan yönetiminin dış politikasında Batı eksenli entegrasyonu derinleştirme niyetinin en somut göstergelerinden biri olarak değerlendiriliyor.\n\nAvrupa Birliği ile ilişkilerini son yıllarda kademeli olarak güçlendirme gayretinde olan Ermenistan, bu yeni dönemde tam üyelik statüsü elde edebilmek adına idari ve yasal altyapı çalışmalarına hız vermeyi hedefliyor. Başbakan Nikol Paşinyan'ın liderliğindeki hükümet, ülkenin demokratik standartlarını ve kurumsal kapasitesini Birlik normlarına uyumlu hale getirmek için çeşitli reform paketlerini hayata geçirmeyi planlıyor. Bu süreç, ülkenin siyasi ve ekonomik yapısında kapsamlı dönüşümleri beraberinde getirebilecek bir nitelik taşıyor.\n\nDiğer taraftan, Ermenistan'ın bu hamlesi bölgesel ve küresel aktörlerin de dikkatinden kaçmadı. Özellikle Moskova merkezli gelişmeler, Kremlin'in Erivan'ın Batı ile yakınlaşma hamlelerine mesafeli ve temkinli yaklaştığını bir kez daha gözler önüne serdi. Kremlin yönetimi, Ermenistan'ın Avrupa Birliği'ne yönelme kararına ilişkin değerlendirmelerde bulunurken Türkiye örneğini gündeme getirdi. Moskova, Erivan yönetimini bu süreçte dikkatli olmaları konusunda açıkça uyardı.\n\nKremlin'in Türkiye vurgusu yaparak yaptığı uyarı, bölgedeki jeopolitik dengelerin ne denli hassas ve kırılgan olduğunu bir kez daha teyit etti. Türkiye'nin geçmişten bu yana Avrupa Birliği ile yürüttüğü ve uzun yıllara dayanan müzakere sürecindeki deneyimleri ve karşılaştığı zorluklar, Moskova tarafından Erivan için bir kıyas noktası olarak gösterildi. Bu durum, Ermenistan'ın önündeki yolun diplomatik ve siyasi açıdan oldukça çetin engellerle dolu olabileceğine işaret ediyor.\n\nUluslararası gözlemciler, Ermenistan Başbakanı Nikol Paşinyan'ın duyurduğu bu hazırlık sürecinin hem iç politikada hem de dış politikada yeni tartışmaları ve dengeleri tetikleyeceğini belirtiyor. Bir yandan Batı kurumlarıyla entegrasyonu savunan kesimler bu adımı memnuniyetle karşılamaya hazırlanırken, diğer yandan ülkenin geleneksel güvenlik ortaklıkları ve ekonomik bağımlılıkları göz önüne alındığında sürecin riskleri de sıkça dile getiriliyor.\n\nSon gelişmeler ışığında, Ermenistan'ın Avrupa Birliği'ne resmî başvuru hazırlıklarının sahada nasıl bir karşılık bulacağı ve Moskova'nın uyarılarının Erivan'ın diplomatik adımlarını ne ölçüde yavaşlatacağı önümüzdeki dönemin en sıcak başlıkları arasında yer almayı sürdürecek. Başbakan Paşinyan'ın liderliğinde atılacak adımlar, ülkenin gelecek on yıllarına yön verecek en kritik dönüm noktalarından biri olarak kayda geçiyor.",
-      "highlights": [
-        "Ermenistan Başbakanı Nikol Paşinyan, AB'ye resmî üyelik başvurusu hazırlıklarına başlayacaklarını açıkladı.",
-        "Kremlin yönetimi, Erivan'ın bu stratejik kararı karşısında Türkiye örneğini vererek Ermenistan'ı uyardı.",
-        "Ermenistan'ın Batı entegrasyonu hamlesi bölgesel ve uluslararası diplomasi gündeminde geniş yankı uyandırdı."
-      ],
-      "externalUrl": "https://www.dw.com/tr/paşinyan-ab-ye-resmî-üyelik-başvurusu-yapacağız/a-78488532?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-08-24T15:42:00.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/gezi/2026/08/24/alplerde-antisemitik-videonun-ardindan-gerginlik",
-      "headline": "Alpler'de antisemitik videonun ardından yaşanan gerilim derinleşiyor",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1521292270410-a8c4d716d518?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QWxwcyUyMG1vdW50YWluc3xlbnwxfDB8fHwxNzg3NTk3MjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marco Meyer",
-        "photographerUrl": "https://unsplash.com/@bladeoftree",
-        "unsplashUrl": "https://unsplash.com/photos/mountain-filled-with-trees-during-daytime-eAAjKAGEKmI"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "Dünyanın engebeli ve huzurlu coğrafyalarından biri olan Alpler'de, son dönemde ortaya çıkan antisemitik bir video kaydı bölgedeki sosyal dinamikleri yeniden alevlendirdi. Söz konusu olay, uzun yıllardır devam eden kültürel ve toplumsal hassasiyetleri bir kez daha gündemin merkezine taşıdı.\n\nAlpler'in sakin dağları, on yıllardır yaz aylarında Ortodoks Yahudi topluluklarının düzenli buluşma noktası olageldi. Bölgenin doğal güzellikleri ve ferah iklimi, bu toplulukların her yıl belirli dönemlerde burayı tercih etmesinde önemli bir rol oynuyor. Ancak bu geleneksel yaz buluşmaları, beraberinde bazı sosyal uyum tartışmalarını da getiriyor.\n\nOrtodoks Yahudi topluluklarının bölgedeki varlığı ve katı kurallı yaşam biçimleri, zaman zaman yerel halk ile dışarıdan gelen tatilciler arasında gerginliklerin yaşanmasına zemin hazırlıyor. Yaşam tarzlarındaki farklılıklar, günlük etkileşimlerde bazı sürtüşmelerin kaçınılmaz olmasına neden oluyor.\n\nBölgede son zamanlarda kaydedilen antisemitik video, bu hassas dengenin sarsılmasına yol açtı. Görüntülerin ortaya çıkmasının ardından taraflar arasındaki huzursuzluk su yüzüne çıkarken, olayın ardından bölgedeki atmosferin nasıl etkileneceği merak konusu oldu.\n\nYetkililer ve gözlemciler, Alpler'deki bu coğrafi ve kültürel kesişim noktasında yaşanan gerginliğin yatıştırılması için taraflar arasındaki diyalogun önemine dikkat çekiyor. Uzun soluklu bir geleneğin parçası olan yaz buluşmalarının geleceği ve toplumsal barışın korunması adına atılacak adımlar yakından takip ediliyor.",
-      "highlights": [
-        "Ortodoks Yahudi toplulukları on yıllardır Alpler'de yaz buluşmaları düzenliyor.",
-        "Katı kurallı yaşam tarzı yerel halk ve tatilciler arasında zaman zaman gerginlik yaratıyor.",
-        "Ortaya çıkan antisemitik bir video bölgedeki sosyal huzursuzluğu artırdı."
-      ],
-      "externalUrl": "http://tr.euronews.com/gezi/2026/08/24/alplerde-antisemitik-videonun-ardindan-gerginlik",
-      "publishedAt": "2026-08-24T15:38:20.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
-      "headline": "Minnesota United ve San Jose Earthquakes maçında şaşırtıcı an: Sahaya giren bebek oyunu durdurdu",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8V29ybGR8ZW58MXwwfHx8MTc4NzU3Njk4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Andrew Stutesman",
-        "photographerUrl": "https://unsplash.com/@drwmrk",
-        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Amerikan Futbol Ligi MLS kapsamında oynanan ve futbolseverlerin heyecanla takip ettiği karşılaşmalardan birinde, yeşil sahalarda son derece sıra dışı ve renkli anlar yaşandı. Minnesota United ile San Jose Earthquakes takımları arasında gerçekleşen mücadele, sadece sahadaki skor tabelasıyla değil, aynı zamanda karşılaşmanın son dakikalarında yaşanan beklenmedik bir olayla da hafızalara kazındı. Normal şartlarda profesyonel spor karşılaşmalarının son derece sıkı güvenlik önlemleri altında ve belirli kurallar çerçevesinde ilerlemesi gerekirken, bu kez yaşanan olay futbol dünyasında ender rastlanan durumlardan biri olarak kayıtlara geçti.\n\nKarşılaşmanın ilerleyen dakikalarında, tüm futbolcular ve teknik heyet galibiyet veya mağlubiyet mücadelesi verirken, küçük bir çocuğun sahaya girmesi herkesi şaşırttı. Kaliforniya eyaletine bağlı San Jose şehrindeki PayPal Park Stadyumu'nun ev sahipliği yaptığı bu mücadelenin sonuna doğru, oyunun temposunun en yüksek olduğu anlarda sahaya giren minik seyirci, tüm dikkatlerin bir anda kendisine çevrilmesine neden oldu. Karşılaşmayı izleyenler ve stadyumdaki binlerce taraftar, yeşil çimlerin üzerinde koşan küçük çocuğu şaşkınlıkla izledi.\n\nOlayın yaşandığı anlarda maçın hakemi, sahadaki güvenliği ve küçük çocuğun sağlığını tehlikeye atmamak adına hızlı bir karar alarak düdüğünü çaldı ve oyunu durdurdu. Hakemin bu kararıyla birlikte iki takımın oyuncuları da oyuna ara vererek sahada yaşanan bu olağanüstü durumu izlemeye başladı. Bu sırada müsabakayı ekranları başında naklen yayınlayan kanalların birinde görev yapan maç analisti, şaşkınlığını gizleyemeyerek mikrofonlardan milyonlarca izleyiciye hitaben \"Sahada bir bebek var\" ifadelerini kullandı. Bu anlar, kısa süre içinde hem statta bulunanlar hem de yayıncı kuruluşun izleyicileri arasında gülümseten anlara sahne oldu.\n\nGerçekleşen bu ilginç olay, mücadelenin sportif boyutunun yanı sıra sosyal medyada ve spor basını gündeminde de geniş yankı uyandırdı. Profesyonel futbol liglerinde sahaya yabancı cisim veya taraftar girmesi vakaları zaman zaman güvenlik önlemlerinin tartışılmasına yol açarken, bu olayda başrolün çok küçük bir çocuk olması durumu tamamen değiştirdi. Karşılaşmanın ardından Minnesota United kulübü, sosyal medya hesaplarından esprili bir dille galibiyetlerini kutlayarak durumu \"Bir bebekten para almak gibiydi\" sözleriyle özetledi ve yaşanan bu sevimli anı kulüp tarihinin unutulmaz notları arasına ekledi.\n\nSportif açıdan büyük bir üstünlüğe sahne olan ve Minnesota United takımının rakibi San Jose Earthquakes karşısında üstün bir performans sergilediği maç, nihayetinde 5-1 gibi farklı bir skorla sona erdi. Konuk ekip Minnesota United, deplasmanda aldığı bu net galibiyetle sahadan 3 puanla ayrılmayı başarırken, maçın son anlarında yaşanan bu bebek vakası, mücadelenin önüne geçen en eğlenceli detay olarak futbol literatürüne geçti. Spor dünyasının ve taraftarların uzun süre konuşacağı bu olay, futbolun zaman zaman ne kadar beklenmedik ve neşeli sürprizlere açık bir oyun olduğunu bir kez daha gözler önüne serdi.",
-      "highlights": [
-        "Minnesota United ile San Jose Earthquakes maçında bir çocuk sahaya girdi.",
-        "Hakem, küçük çocuğun sahaya girmesi üzerine düdük çalarak oyunu durdurdu.",
-        "Minnesota mücadeleyi 5-1 kazanırken, kulüp galibiyeti esprili bir dille kutladı."
-      ],
-      "externalUrl": "https://www.theguardian.com/football/2026/aug/24/toddler-pitch-invader-mls-minnesota-united-san-jose-earthquakes",
-      "publishedAt": "2026-08-24T15:29:55.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/ysk-baskani-mutta-kazakistandaki-kurultay-seciminin-halkin-demokrasiye-bagliligini-gosterdigini-soyledi/4036095",
-      "headline": "Ysk Başkanı Mutta'dan Kazakistan seçimleri değerlendirmesi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1667964267136-c0256d70b7a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dm90aW5nJTIwYmFsbG90JTIwYm94fGVufDF8MHx8fDE3ODc1ODU3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ernie Journeys",
-        "photographerUrl": "https://unsplash.com/@erniejourneys",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-outside-a-building-Pl9mKIpWw6g"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Yüksek Seçim Kurulu Başkanı Serdar Mutta, Kazakistan'da gerçekleştirilen Kurultay seçim sürecine ilişkin önemli değerlendirmelerde bulundu. Geride bıraktığımız gün sandık başına giden Kazakistan halkının tercihlerini yansıtan seçimlerin genel atmosferi, yetkililer tarafından yakından takip edildi ve değerlendirildi.\n\nYetkililer tarafından yapılan ilk tespitlere göre, Kurultay için kurulan sandıklarda oy verme süreci son derece sakin ve barışçıl bir atmosferde tamamlandı. Ülke genelinde gözlemlenen bu huzur ortamı, demokratik süreçlerin sağlıklı bir şekilde işletilebilmesi açısından kritik bir eşik olarak değerlendirildi.\n\nSeçimlere katılım oranının yüksek seviyelerde gerçekleşmesi, uluslararası gözlemciler ve yetkililer tarafından dikkatle ele alındı. YSK Başkanı Serdar Mutta, bu yüksek katılım oranının taşıdığı anlama dikkat çekerek, durumun Kazak halkının demokrasiye olan inancını açıkça ortaya koyduğunu vurguladı.\n\nMutta, vatandaşların sandık başına giderek kendi iradelerine sahip çıktığını ve bu tutumun demokrasi kültürünün yerleşmesi adına büyük bir kıymet taşıdığını ifade etti. Seçimlerin ardından yapılan bu açıklamalar, iki ülke arasındaki ilişkiler ve bölgesel demokratik gelişmeler bağlamında da ele alındı.\n\nDemokrasi bilincinin sandığa yansıma biçimi, seçim güvenliği ve huzurunun yanı sıra halkın siyasi süreçlere olan katılım isteğini de gözler önüne serdi. Serdar Mutta'nın değerlendirmeleri, Kazakistan'daki seçim sonuçlarının ve katılım trendlerinin gelecekteki siyasi yapılanmalar için de önemli bir gösterge olacağını işaret etti.\n\nSüreç boyunca yaşanan olumlu gelişmeler, hem yerel hem de uluslararası kamuoyunda barışçıl bir seçim tecrübesi olarak kayıtlara geçti. YSK Başkanı'nın vurguladığı unsurlar, halk iradesinin sandığa yansımasındaki başarının altını bir kez daha çizdi.",
-      "highlights": [
-        "YSK Başkanı Serdar Mutta Kazakistan seçimlerini değerlendirdi.",
-        "Kurultay seçimlerinin son derece sakin ve barışçıl geçtiği belirtildi.",
-        "Yüksek katılım oranı halkın demokrasiye bağlılığını gösterdi."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/ysk-baskani-mutta-kazakistandaki-kurultay-seciminin-halkin-demokrasiye-bagliligini-gosterdigini-soyledi/4036095",
-      "publishedAt": "2026-08-24T15:29:22.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/jayden-oosterwoldeden-fenerbahceye-veda-43283778",
-      "headline": "Jayden Oosterwolde Fenerbahçe'ye veda etti",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1475116730596-402cbd4ff6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBwbGF5ZXIlMjBzbWlsaW5nfGVufDF8MHx8fDE3ODc1ODc3MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Emma Dau",
-        "photographerUrl": "https://unsplash.com/@daugirl",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-men-standing-next-to-each-other-on-a-field-zc6ezUR4-8I"
-      },
-      "timeAgo": "41 dk önce",
-      "body": "Türk futbolunun köklü kulüplerinden Fenerbahçe'de hareketli saatler yaşanırken, savunma hattının önemli isimlerinden biri olan Jayden Oosterwolde takımdan ayrıldığını duyurdu. Sarı-lacivertli ekibin formasını terleten başarılı futbolcu, kariyerine İtalya'nın prestijli ligi Serie A'da devam etme kararı aldı. Yapılan son görüşmelerin ardından İtalyan devi Roma ile anlaşmaya varıldığı bildirildi.\n\nFutbol dünyasında transfer dönemlerinin en dikkat çekici hareketliliğinden biri olarak kayıtlara geçen bu gelişme, hem Türk futbolseverler hem de İtalyan spor kamuoyu tarafından yakından takip ediliyordu. Fenerbahçe formasıyla gösterdiği performansla adından söz ettiren Jayden Oosterwolde, kulüp kariyerinde yeni bir sayfa açmak üzere İstanbul'a veda etti. Roma kulübüyle prensip anlaşmasına varan oyuncunun, kısa süre içerisinde resmi sözleşmeyi imzalaması ve yeni takımıyla antrenmanlara başlaması bekleniyor.\n\nSavunma oyuncularının transfer pazarında büyük ilgi gördüğü bu dönemde gerçekleşen bu hamle, hem Fenerbahçe'nin kadro planlamasını hem de Serie A'daki rekabet dengelerini yakından ilgilendiriyor. Kulüpler arasında yapılan görüşmelerin olumlu sonuçlanmasıyla birlikte, Jayden Oosterwolde'nin İtalya macerasının detayları da netleşmeye başladı. Türk futbolundan İtalyan futboluna uzanan bu transfer yolculuğu, oyuncunun kariyerinde önemli bir dönüm noktası olarak değerlendiriliyor.\n\nFenerbahçe taraftarları ve camiası için duygusal anların yaşandığı bu veda sürecinde, oyuncunun kulübe yaptığı katkılar hatırlatıldı. Sarı-lacivertli formayla sahada mücadelesini ortaya koyan Jayden Oosterwolde, yeni adresinde kariyerine yeni başarılar eklemeyi hedefliyor. Roma'nın teknik kadrosu ve yönetiminin de oyuncunun takıma katulmasından duyduğu memnuniyeti dile getirdiği, transferin her iki taraf için de hayırlı olması temennisinde bulunulduğu öğrenildi.\n\nAvrupa kupaları ve lig maratonunda zorlu bir sezondan geçen kulüpler, ara transfer döneminde kadrolarını güçlendirmek için stratejik hamleler yapmaya devam ediyor. Jayden Oosterwolde'nin Fenerbahçe'den ayrılarak Roma'ya transfer olması, bu dönemin en çok ses getiren ve taraftarlar arasında en çok konuşulan olayları arasında yerini aldı. İki kulüp arasındaki diplomatik ve sportif ilişkilerin olumlu bir şekilde yansıtıldığı bu süreç, futbol dünyasında geniş yankı uyandırdı.\n\nÖnümüzdeki günlerde Roma kulübü tarafından resmi imza töreninin düzenlenmesi ve oyuncunun basın mensuplarının karşısına çıkması bekleniyor. Jayden Oosterwolde, Fenerbahçe forması altında geçirdiği dönemi geride bırakarak İtalya Serie A'da yeni bir meydan okumaya hazırlanırken, Türk futbolseverler de oyuncunun yeni takımındaki performansını merakla bekliyor olacak.",
-      "highlights": [
-        "Jayden Oosterwolde, Fenerbahçe'ye veda etti.",
-        "Başarılı futbolcu Roma ile anlaşmaya vardı.",
-        "Yıldız oyuncu kariyerine Serie A'da devam edecek."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/jayden-oosterwoldeden-fenerbahceye-veda-43283778",
-      "publishedAt": "2026-08-24T15:27:32.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
