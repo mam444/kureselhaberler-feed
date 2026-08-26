@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:56:42.265Z",
+  "generatedAt": "2026-08-26T01:11:31.434Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/ekonomi/kyk-burs-basvurulari-basladi-mi-gsb-kyk-burs-basvurulari-ne-zaman-alinacak-kyk-burs-ucreti-ne-kadar-3459007",
@@ -94,6 +94,52 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
+      "headline": "Victoria hükümeti tartışmalı Suburban Rail Loop projesini finanse etmek için toplu taşıma ücretlerini gizlice artırdı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1515165562839-978bbcf18277?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dHJhaW4lMjBzdGF0aW9ufGVufDF8MHx8fDE3ODc2MDQ2OTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tomas Anton Escobar",
+        "photographerUrl": "https://unsplash.com/@tomasjolmes",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-red-train-beside-building-at-daytime-PHyF2mCMei0"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "Avustralya'nın Victoria eyaletinde hükümetin, büyük maliyetli ve tartışmalara yol açan Suburban Rail Loop (SRL) demiryolu projesi ile diğer büyük altyapı girişimlerini finanse etmek amacıyla toplu taşıma bilet fiyatlarına gizli bir zam uyguladığı ortaya çıktı. Eyalet denetçisi tarafından hazırlanan ve çarşamba günü parlamento gündemine taşınan resmi rapor, bu mali manevranın detaylarını gözler önüne serdi.\n\nDenetçi genel raporuna göre, Victoria hükümeti hem başkent Melbourne metropolitan alanında hem de eyaletin kırsal bölgelerinde geçerli olan tüm toplu taşıma biletlerine ocak 2025 tarihinden bu yana sessiz sedasız bir ek ücret ve vergi yansıttı. Bu gizli artıştan elde edilen gelirlerin, kamuoyunda uzun süredir tartışılan dev altyapı projelerinin bütçe açıklarını kapamak için yönlendirildiği belirtildi.\n\nSöz konusu rapor, eyalet yönetiminin en iddialı ve yüksek bütçeli ulaşım hamlelerinden biri olan Suburban Rail Loop projesinin finansal sürdürülebilirliğine dair ciddi soru işaretlerini de beraberinde getirdi. Özellikle projenin Cheltenham ile Box Hill arasında uzanacak ve SRL East olarak adlandırılan 26 kilometrelik çift tüp tünel inşaatını kapsayan ilk etabının planlanan bütçe sınırları içinde ve öngörülen takvime uygun şekilde tamamlanıp tamamlanamayacağı konusundaki endişeler raporda açıkça dile getirildi.\n\nÇok milyar dolarlık devasa bütçesiyle dikkat çeken bu proje, uzun süredir eyalet siyasetinin en hararetli tartışma konularından biri olma özelliğini koruyor. Hükümetin mali kaynak yaratma amacıyla toplu taşıma kullanıcılarına yük getiren bu gizli düzenlemesi, hem muhalefet çevrelerinde hem de bağımsız denetim organlarında tepkiyle karşılandı. Projenin devasa maliyet yükünün vatandaşların günlük ulaşım maliyetlerine bu şekilde yansıtılması, kamuoyundaki eleştirileri daha da artırdı.\n\nDenetçi raporunda yer alan tespitler, eyaletteki büyük altyapı hamlelerinin finansman modellerinin şeffaflığına dair derin tartışmaları tetikledi. Toplu taşıma kullanıcılarının bilet fiyatları üzerinden dolaylı olarak finanse edilen bu tür dev yatırımların, önümüzdeki dönemde eyalet parlamentosunda ve kamuoyunda daha fazla ele alınması bekleniyor. Projenin ilerleyen aşamalarında yaşanabilecek mali ve takvime dair aksaklıklar, Victoria hükümeti üzerindeki baskıyı artırmaya devam edecektir.",
+      "highlights": [
+        "Victoria hükümeti toplu taşıma biletlerine gizli zam yaptı.",
+        "Ek ücretlerin Suburban Rail Loop için kullanıldığı açıklandı.",
+        "Denetçi raporu projenin bütçe ve takvimine dair şüpheler içeriyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/aug/26/victoria-suburban-rail-loop-srl-public-transport-fare-levy-increase",
+      "publishedAt": "2026-08-26T00:41:35.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+      "headline": "Myanmar'da insan hakları durumu yeni bir dip seviyeye geriledi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594415156128-af1d8788db6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMHNpZ258ZW58MXwwfHx8MTc4NzcwNjY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Corey Young",
+        "photographerUrl": "https://unsplash.com/@corey_untitled",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-people-holding-a-signage-LB9dklK0xb0"
+      },
+      "timeAgo": "42 dk önce",
+      "body": "Birleşmiş Milletler tarafından hazırlanan son rapor, Myanmar'da insan hakları koşullarının tehlikeli bir şekilde kötüleştiğini ve durumun tarihin en alt seviyelerine indiğini ortaya koydu. Ülke genelinde yaşanan gelişmeler, uluslararası toplumun dikkatini yeniden bu coğrafyaya çekerken, özellikle azınlık gruplarına yönelik hak ihlallerinin derinleştiğine dikkat çekildi. \n\nUluslararası gözlemciler ve insan hakları savunucuları tarafından uzun süredir takip edilen süreç, hazırlanan bu kapsamlı raporla birlikte bir kez daha tescillenmiş oldu. Birleşmiş Milletler raporunda yer alan tespitlere göre, Myanmar'daki krizin derinleşmesinde iki temel faktör kritik rol oynuyor. Bunlardan ilki, Arakanlı Müslümanlara yani Rohingyalara yönelik devam eden hak ihlalleri ve baskı ortamı olarak öne çıkıyor. İkincisi ise ülkenin zengin yer altı ve yer üstü kaynaklarının herhangi bir denetime tabi tutulmaksızın, kontrolsüz bir şekilde sömürülmesidir.\n\nMyanmar'da sivillerin yaşam koşullarını doğrudan etkileyen bu olumsuz tablo, mevcut siyasi ve ekonomik istikrarsızlığı da körüklüyor. Rapor, kaynak sömürüsünün ülkenin ekonomik yapısını tahrip ettiğini ve halkın temel haklara erişimini imkansız hale getirdiğini vurguluyor. Uzmanlar, doğal kaynakların bu şekilde talan edilmesinin hem çevreye kalıcı zararlar verdiğini hem de yerel halkın haklarını ihlal ettiğini belirtiyor.\n\nBirleşmiş Milletler'in yayımladığı bu yeni değerlendirme, bölgedeki insani krizin boyutlarını gözler önüne sermesi açısından büyük bir önem taşıyor. Raporun bulguları, uluslararası mekanizmaların harekete geçmesi ve Myanmar halkının karşı karşıya kaldığı ihlallerin durdurulması için yeni çağrıların yapılmasına zemin hazırladı.\n\nYaşanan gelişmeler, insan hakları örgütlerinin sahadaki raporlamalarının ne kadar haklı olduğunu bir kez daha kanıtlarken, Rohingya halkının maruz kaldığı sistematik baskıların sona erdirilmesi için acil adımlar atılması gerekliliğini hatırlatıyor. Myanmar genelindeki bu vahim tablo, hem bölgesel güvenlik hem de küresel insan hakları standartları açısından çözülmesi gereken en acil kornişlerden biri olarak duruyor.",
+      "highlights": [
+        "Birleşmiş Milletler raporu Myanmar'da insan haklarının dip yaptığını belirtti.",
+        "Rohingyalara yönelik hak ihlalleri ve sömürü krizin derinleşmesine yol açıyor.",
+        "Doğal kaynakların kontrolsüz sömürüsü ülkedeki tabloyu daha da kötüleştiriyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
+      "publishedAt": "2026-08-26T00:29:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.cnnturk.com/turkiye/gullunun-olumunde-yeni-gelisme-olay-gecesine-ait-yeni-goruntuler-ortaya-cikti-3459004",
       "headline": "Güllü'nün ölüm davasında yeni görüntüler ortaya çıktı",
       "source": "CNN Türk",
@@ -113,6 +159,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/gullunun-olumunde-yeni-gelisme-olay-gecesine-ait-yeni-goruntuler-ortaya-cikti-3459004",
       "publishedAt": "2026-08-26T00:25:14.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/resmi-ilanlar/karasu-icra-dairesi-mudurlugu-3458949",
+      "headline": "Karasu İcra Dairesi Müdürlüğü faaliyetlerini sürdürüyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1701605919903-5771a1580bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnQlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzg3NjM2NjQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nathan Cima",
+        "photographerUrl": "https://unsplash.com/@nathan_cima",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-clock-tower-OHE90W2rQF4"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Türkiye genelinde yargı sisteminin ve adalet hizmetlerinin ayrılmaz bir parçası olarak faaliyet gösteren icra daireleri, vatandaşların hukuki uyuşmazlıklarında alacak ve borç ilişkilerinin yasal çerçevede çözüme kavuşturulmasında kritik bir rol üstlenmektedir. Bu kapsamda ülke genelinde yapılandırılan birimlerden biri olan Karasu İcra Dairesi Müdürlüğü, görev alanına giren konularda mesai harcamaya devam etmektedir. Hukuk devletinin en temel unsurlarından biri olan mahkeme kararlarının ve icra takiplerinin yerine getirilmesi süreci, hem alacaklıların haklarının korunması hem de borçluların hukuki statülerinin gözetilmesi açısından büyük bir hassasiyet gerektirmektedir.\n\nAdalet Bakanlığı'nın belirlediği idari yapılanma ve işleyiş usulleri doğrultusunda hizmet veren Karasu İcra Dairesi Müdürlüğü, bölgedeki hukuki süreçlerin yürütülmesinde önemli bir operasyonel merkeze ev sahipliği yapmaktadır. İcra dairelerinin temel işlevleri arasında, kesinleşmiş mahkeme ilamları ile ilamsız takiplerin yasal süreler içerisinde tahsili, haciz işlemleri, mal varlıklarının tespiti ve satış süreçlerinin organize edilmesi gibi çok sayıda mali ve idari görev yer almaktadır. Bu işlemlerin tamamı, yürürlükteki mevzuata ve kanuni prosedürlere tam bir uygunluk içerisinde, tarafların hak kaybına uğramaması amacıyla titizlikle yürütülmektedir.\n\nGünümüz ekonomik ve sosyal şartlarında, borç ve alacak ilişkilerinden kaynaklanan uyuşmazlıkların sayısındaki değişimler, icra dairelerinin iş yükünü doğrudan etkileyen unsurlar arasında bulunmaktadır. Karasu İcra Dairesi Müdürlüğü de sorumluluk sahasında yer alan dosya takipleri, tebligat işlemleri ve yasal yazışmalar gibi rutin kamu hizmetlerini aralıksız bir şekilde sürdürmektedir. Kurumun yürüttüğü bu çalışmalar, yargı sisteminin işleyiş hızını ve adalete erişim imkanlarını doğrudan belirleyen etkenlerden biri olarak öne çıkmaktadır.\n\nAdli süreçlerin şeffaf, adil ve hukuka uygun bir biçimde yürütülmesi, vatandaşların adalet mekanizmasına olan güveninin pekişmesi açısından hayati önem taşımaktadır. Karasu İcra Dairesi Müdürlüğü nezdindeki tüm işlemler de bu evrensel hukuk ilkeleri çerçevesinde, kamu yararı gözetilerek ve yürürlükteki kanunlara tam bağlılıkla ele alınmaktadır. Birimin gerçekleştirdiği faaliyetler, yerel düzeyde hukuki düzenin korunmasına ve ekonomik ilişkilerdeki güven ortamının muhafaza edilmesine katkı sağlamaktadır.\n\nÖnümüzdeki dönemde de adalet hizmetlerinin etkinliğinin artırılması ve yargı süreçlerinin daha hızlı sonuçlandırılması amacıyla benzer idari yapıların çalışmalarına devam etmesi beklenmektedir. Karasu İcra Dairesi Müdürlüğü, mevcut yasal düzenlemeler ve idari imkanlar dahilinde, kendisine tevdi edilen görevleri yerine getirmeyi sürdürmektedir. Bu bağlamda, kurumun yürüttüğü her türlü hukuki işlem ve takip, hem bireysel hakların korunmasında hem de toplumsal barışın sürdürülmesinde temel bir güvence unsuru olmaya devam etmektedir.",
+      "highlights": [
+        "Karasu İcra Dairesi Müdürlüğü bölgedeki adli faaliyetlerini sürdürüyor.",
+        "Kurum, borç ve alacak ilişkilerindeki yasal süreçleri yürütmektedir.",
+        "İşlemler yürürlükteki mevzuata uygun olarak titizlikle gerçekleştiriliyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/resmi-ilanlar/karasu-icra-dairesi-mudurlugu-3458949",
+      "publishedAt": "2026-08-26T00:00:40.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -370,6 +439,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.haberturk.com/beykoz-da-denize-giren-kisi-boguldu-3908095",
+      "headline": "Beykoz'da denize giren kişi boğuldu",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1759845565206-ff20e0fddbe5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y29hc3RhbCUyMHJlc2N1ZXxlbnwxfDB8fHwxNzg3NzA2NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Joachim Lesne",
+        "photographerUrl": "https://unsplash.com/@joaching",
+        "unsplashUrl": "https://unsplash.com/photos/lifeguards-with-surfboard-on-beach-near-ocean-x80FFRdpaD4"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "İstanbul'un Beykoz ilçesinde sıcak havanın etkisiyle serinlemek amacıyla denize giren bir bireyin trajik bir şekilde yaşamını yitirdiği bildirildi. Yaşanan bu üzücü olay, bölgede büyük bir şok ve endişe yaratırken, çevredeki vatandaşların ihbarı üzerine olay yerine çok sayıda kurtarma ekibi sevk edildi. Edinilen bilgilere göre, söz konusu şahıs denize girdikten kısa bir süre sonra gözden kayboldu ve kendisinden bir süre haber alınamadı.\n\nİhbarın ardından olay mahalline derhal intikal eden deniz polisi, sahil güvenlik ekipleri ve ilgili arama kurtarma birimleri, su altında ve kıyı şeridinde geniş çaplı bir tarama faaliyeti başlattı. Uzun süren arama çalışmaları neticesinde, kaybolan kişinin cansız bedenine ulaşıldı. Ekiplerin titizlikle gerçekleştirdiği operasyonun ardından şahsın cenazesi sudan çıkarılarak güvenli bir alana nakledildi.\n\nBu tür trajik olaylar, deniz güvenliği ve kıyı bölgelerindeki yüzme faaliyetlerinin tehlikelerini bir kez daha gözler önüne sererken, uzmanlar vatandaşları özellikle cankurtaran bulunmayan ve yüzmek için uygun olmayan noktalarda denize girmemeleri konusunda sürekli olarak uyarıyor. İstanbul genelinde yaz aylarında artan serinleme amaçlı deniz aktiviteleri, zaman zaman bu tür acı sonuçları beraberinde getirebiliyor.\n\nSudan çıkarılan cenaze, olay yerindeki ilk incelemelerin ve savcılık prosedürlerinin ardından kesin ölüm sebebinin belirlenmesi amacıyla adli tıp kurumuna veya ilgili morg birimine sevk edildi. Emniyet güçleri ve adli makamlar olayla ilgili tahkikat başlatırken, şahsın kimlik bilgileri ve yakınlarına ulaşılması için gerekli işlemlerin sürdürüldüğü öğrenildi.\n\nBeykoz'daki bu üzücü gelişme, bölge halkı arasında derin bir üzüntüye yol açarken, benzer acıların tekrar yaşanmaması adına sahil güvenlik ve yerel yönetimlerin aldığı önlemlerin önemi bir kez daha vurgulandı. Yaz sezonunun devam ettiği bu günlerde, vatandaşların deniz kıyılarında daha dikkatli olmaları ve güvenlik uyarılarına riayet etmeleri hayati önem taşımaktadır.",
+      "highlights": [
+        "İstanbul Beykoz'da serinlemek amacıyla denize giren bir kişi kayboldu.",
+        "Ekiplerin yürüttüğü çalışmalar sonucunda şahsın cansız bedeni bulundu.",
+        "Cenaze, gerekli incelemeler için sudan çıkarılarak morga kaldırıldı."
+      ],
+      "externalUrl": "https://www.haberturk.com/beykoz-da-denize-giren-kisi-boguldu-3908095",
+      "publishedAt": "2026-08-25T22:42:14.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasinda-37-klasor-belge-ele-gecirildi-1738922",
       "headline": "Alihan Kuriş soruşturmasında 37 klasör belge ele geçirildi",
       "source": "NTV",
@@ -389,6 +481,29 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/alihan-kuris-sorusturmasinda-37-klasor-belge-ele-gecirildi-1738922",
       "publishedAt": "2026-08-25T22:40:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/buyuk-taarruzun-104-yil-donumu-dolayisiyla-zafer-yuruyusu-duzenlendi/4037506",
+      "headline": "Büyük Taarruz'un 104. yıl dönümü kapsamında Zafer Yürüyüşü gerçekleştirildi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1734969195401-3056535c3d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aGlzdG9yaWNhbCUyMG1hcmNoJTIwbmlnaHR8ZW58MXwwfHx8MTc4NzcwNjY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "The Cleveland Museum of Art",
+        "photographerUrl": "https://unsplash.com/@clevelandart",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-square-at-night-with-searchlights-in-the-sky-aNKwpVQtxq8"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Türkiye'nin yakın tarihinin en önemli dönüm noktalarından biri olan Büyük Taarruz'un 104. yıl dönümü, yurdun çeşitli bölgelerinde ve tarihi olayların yaşandığı merkezlerde büyük bir coşku ve gururla anılmaya devam ediyor. Bu anlamlı tarihî mirasın yaşatılması ve gelecek nesillere aktarılması amacıyla her yıl geleneksel olarak düzenlenen etkinlikler kapsamında, bu kez Afyonkarahisar iline bağlı Şuhut ilçesinde geniş katılımlı bir \"Zafer Yürüyüşü\" organizasyonu hayata geçirildi.\n\nSöz konusu etkinlik, Türk milletinin bağımsızlık mücadelesinde simge haline gelen coğrafyalardan biri olan Şuhut'ta, tarihe tanıklık eden ruhun yeniden canlandırılmasına vesile oldu. Büyük Taarruz'un başlangıç anını ve o dönemin zorlu koşullarında verilen kahramanca mücadeleyi hatırlatmak hedefiyle organize edilen yürüyüşe, her yaştan çok sayıda vatandaş yoğun ilgi gösterdi. Katılımcılar, ellerinde Türk bayrakları ve meşalelerle bir araya gelerek tarihi yürüyüş güzergahında birlik ve beraberlik mesajları verdiler.\n\nTarih boyunca bağımsızlığından asla taviz vermeyen Türk milletinin kazandığı büyük zaferin yıl dönümünde gerçekleştirilen bu tür etkinlikler, toplumsal hafızanın tazelenmesinde ve millî bilincin pekiştirilmesinde kritik bir rol oynamaktadır. Afyonkarahisar'ın Şuhut ilçesinde düzenlenen Zafer Yürüyüşü de, bu tarihî misyonun bugünkü temsilcileri olan vatandaşların geçmişe olan minnettarlığını ve bağlılığını gözler önüne serdi.\n\nYetkililer ve organizasyonda görev alanlar, Büyük Taarruz'un yıl dönümü etkinliklerinin sadece bir anma programı olmadığını, aynı zamanda bu toprakların hangi fedakarlıklarla vatan kılındığını genç nesillere aktarmak adına bir eğitim ve aidiyet vesilesi olduğunu vurguladılar. Şuhut'taki yürüyüş boyunca herhangi bir aksaklık yaşanmazken, güvenli ve düzenli bir şekilde ilerleyen kortej, coşkulu sloganlar ve marşlar eşliğinde yürüyüşü tamamladı.\n\nBu anlamlı organizasyon, hem bölge halkının hem de şehir dışından gelen tarih meraklılarının yoğun katılımıyla hafızalarda kalacak anlara sahne oldu. Büyük Taarruz'un 104. yıl dönümü dolayısıyla Şuhut'ta icra edilen Zafer Yürüyüşü, geçmişin kahramanlarını rahmet ve minnetle anarken, milletin birlik içinde geleceğe yürümekteki kararlılığını bir kez daha tüm dünyaya gösteren anlamlı bir buluşma olarak kayıtlara geçti.",
+      "highlights": [
+        "Afyonkarahisar'ın Şuhut ilçesinde Büyük Taarruz'un 104. yıl dönümü kutlandı.",
+        "Anma etkinlikleri kapsamında geleneksel Zafer Yürüyüşü düzenlendi.",
+        "Çok sayıda vatandaşın katıldığı yürüyüş coşkulu ve birlik içinde geçti."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/buyuk-taarruzun-104-yil-donumu-dolayisiyla-zafer-yuruyusu-duzenlendi/4037506",
+      "publishedAt": "2026-08-25T22:40:12.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -968,6 +1083,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.yenisafak.com/video/gundem/alibey-deresine-suruklenen-yavru-yunus-icin-itfaiye-seferber-oldu-4850852",
+      "headline": "Alibey Deresi'ne sürüklenen yavru yunus itfaiye ekiplerince kurtarıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1651871979877-7afef92792c4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YmFieSUyMGRvbHBoaW4lMjByZXNjdWV8ZW58MXwwfHx8MTc4NzcwNjY3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Pascal van de Vendel",
+        "photographerUrl": "https://unsplash.com/@pascalvendel",
+        "unsplashUrl": "https://unsplash.com/photos/two-dolphins-swimming-in-water-fCwSTENrNmQ"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "İstanbul'un tarihi ve merkezi noktalarından biri olan Eminönü açıklarından Eyüpsultan istikametine doğru ilerleyen Alibey Deresi'nde, denizin akıntısı ve çeşitli çevresel etkenler sonucunda yönünü kaybederek sürüklenen ve burada mahsur kalan yavru bir yunus, bölgedeki vatandaşların ihbarı üzerine harekete geçen ekiplerin başarılı operasyonuyla sağ salim kurtarıldı. Kent genelinde yürütülen arama kurtarma faaliyetleri kapsamında, su altı ve su üstü operasyonlarında uzmanlaşmış olan İtfaiye Su Altı Arama Kurtarma timleri duruma hızla müdahale etmek üzere olay yerine sevk edildi.\n\nAlibey Deresi içerisindeki dar alanda sıkışıp kalan ve kendi başına açık suya dönme imkanı bulamayan yavru yunusun kurtarılması amacıyla başlatılan çalışmalar, ekiplerin titiz ve koordineli çabalarıyla yürütüldü. Deniz canlılarının doğasına uygun bir şekilde ve herhangi bir fiziksel zarar görmemesine azami özen gösterilerek gerçekleştirilen operasyonda, itfaiye personelinin uzmanlığı ön plana çıktı. Hayatî tehlike arz edebilecek bu zorlu süreç, ekiplerin profesyonel yaklaşımı sayesinde kısa süre içerisinde olumlu bir neticeyle sonuçlandırıldı.\n\nMahsur kaldığı noktadan itfaiye su altı arama kurtarma görevlileri tarafından dikkatli bir biçimde sudan çıkarılan yavru yunus, güvenli bir şekilde muhafaza edilerek doğal yaşam alanı olan İstanbul Boğazı'na taşındı. İstanbul Boğazı'nın serin sularına yeniden kavuşan ve burada özgürlüğüne adım atan deniz memelisinin, yapılan kontrollerin ardından herhangi bir olumsuz durum yaşamaksızın açık denize doğru hareket ettiği öğrenildi. Olay, bölgedeki vatandaşlar tarafından da ilgiyle takip edilirken, ekiplerin hızlı reaksiyon süresi takdir topladı.\n\nKent sularında bu tür deniz canlılarının zaman zaman akıntılara kapılarak iç kesimlere kadar ilerleyebildiği bilinirken, yetkililer benzer durumlarda vatandaşların duyarlı davranarak ilgili kurtarma birimlerine haber vermesinin hayati önem taşıdığını vurgulamaktadır. İstanbul'un su altı ve su üstü ekosisteminin korunması ile bu tür vakalara müdahale konusunda deneyim kazanan itfaiye teşkilatı, yaşanan bu son olayla birlikte bir kez daha başarılı bir operasyona imza atmış oldu. Kurtarılan yavru yunusun Boğaz'ın sularında gözden kaybolmasıyla birlikte bölgedeki çalışmalar da sorunsuz bir şekilde tamamlandı.",
+      "highlights": [
+        "Eminönü'nden Alibey Deresi'ne sürüklenen yavru yunus mahsur kaldı.",
+        "İtfaiye Su Altı Arama Kurtarma ekipleri bölgede operasyon düzenledi.",
+        "Sudan çıkarılan yunus yeniden İstanbul Boğazı'na bırakıldı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/alibey-deresine-suruklenen-yavru-yunus-icin-itfaiye-seferber-oldu-4850852",
+      "publishedAt": "2026-08-25T21:26:38.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
       "headline": "Gazze'deki yardım deposuna düzenlenen İsrail saldırısında yedi kişi yaşamını yitirdi",
       "source": "Al Jazeera",
@@ -1170,6 +1308,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/meteoroloji-uzmani-orhan-sen-uyardi-asiri-sicaklarin-ardindan-yagisa-dikkat-3458976",
       "publishedAt": "2026-08-25T21:01:01.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/resmi-ilanlar/ortaca-sulh-hukuk-mahkemesi-satis-memurlugu-43284830",
+      "headline": "Ortaca Sulh Hukuk Mahkemesi Satış Memurluğu'ndan gayrimenkul satış duyurusu",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1643149007777-5d3c2126d62a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnQlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzg3NjM2NjQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Colin Lloyd",
+        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-sitting-on-a-bench-in-front-of-a-building-52LVSjj7voc"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Yargı sistemimizin işleyişi içerisinde, adli makamların yürüttüğü çeşitli hukuki süreçler vatandaşların ve ilgili tarafların bilgisine sunulmaya devam ediyor. Bu kapsamda, yargı mercilerinin aldığı kararlar doğrultusunda gerçekleştirilen işlemler arasında icra ve satış duyuruları önemli bir yer tutmaktadır. Ülke genelinde mahkemelerin denetimi altında yürütülen bu tür ilanlar, taşınmaz maliklerinin ve alacaklıların haklarının korunması amacıyla resmi kanallar aracılığıyla kamuoyuyla paylaşılmaktadır.\n\nSon olarak, ilgili adli makamlarca yapılan resmi duyurular zincirine bir yenisi daha eklendi. Yapılan son bilgilendirmeye göre, Ortaca Sulh Hukuk Mahkemesi Satış Memurluğu tarafından resmi bir ilan yayımlandığı bildirildi. Adı geçen memurluk bünyesinde yürütülen bu süreç, mahkeme kararlarının ve yasal prosedürlerin yerine getirilmesi aşamasında atılan adımlardan biri olarak dikkat çekiyor. Yargı süreçlerinde şeffaflığın sağlanması ve ilgili tüm tarafların zamanında bilgilendirilmesi açısından bu tür ilanların önemi oldukça büyüktür.\n\nSöz konusu duyurunun detayları ve kapsamı, yargı birimlerinin çalışma usullerine uygun olarak belirlenmektedir. Ortaca Sulh Hukuk Mahkemesi Satış Memurluğu'nun yürüttüğü bu işlemler, borç-alacak ilişkileri veya mahkeme kararıyla ortaklığın giderilmesi gibi hukuki gerekçelere dayanabilmektedir. Bu tür satış süreçleri, yasal mevzuata tam uyum içerisinde ve adli denetim altında gerçekleştirilerek hukuki güvenliğin tesis edilmesine katkı sağlamaktadır.\n\nGayrimenkul satışları ve benzeri adli ilanlar, vatandaşların yanı sıra yatırımcılar ve piyasayı yakından takip edenler tarafından da dikkatle izlenmektedir. Ortaca Sulh Hukuk Mahkemesi Satış Memurluğu'nun yayımladığı bu son bildirim, ilgili bölgedeki adli ve idari gelişmelerin bir parçası olarak kayıtlara geçti. Hukuki süreçlerin şeffaf bir şekilde yürütülmesi prensibi gereği, satışa çıkarılan unsurlara dair tüm resmi bilgilere yetkili mercilerin duyuru kanalları üzerinden erişilebilmektedir.\n\nGenel olarak adliye teşkilatının ve mahkeme memurluklarının yürüttüğü idari ve icrai işler, yargının etkinliğinin artmasında kilit rol oynamaktadır. Ortaca Sulh Hukuk Mahkemesi Satış Memurluğu tarafından yapılan bu duyuru da, adli birimlerin işleyiş mekanizmasının somut örneklerinden birini oluşturuyor. İlgili tarafların hak kaybına uğramaması adına bu tür resmi ilanları yakından takip etmeleri, yasal süreler içerisinde gerekli adımları atmaları büyük bir önem taşımaktadır.",
+      "highlights": [
+        "Ortaca Sulh Hukuk Mahkemesi Satış Memurluğu yeni bir duyuru yayımladı.",
+        "Yargı süreci kapsamındaki işlemler resmi kanallar üzerinden duyuruldu.",
+        "İlgili tarafların adli duyuruları ve yasal süreçleri takip etmesi gerekiyor."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/resmi-ilanlar/ortaca-sulh-hukuk-mahkemesi-satis-memurlugu-43284830",
+      "publishedAt": "2026-08-25T21:00:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -3654,6 +3815,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.bbc.com/turkce/articles/cx2zg8k382go?at_medium=RSS&at_campaign=rss",
+      "headline": "Aziz İhsan Aktaş kararına tepkiler: Örgüt var diye iki yıl zulmedenlerin cezalandırılması lazım",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1767972159674-460283907c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnRyb29tJTIwZ2F2ZWx8ZW58MXwwfHx8MTc4NzY3NTYxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sasun Bughdaryan",
+        "photographerUrl": "https://unsplash.com/@sasun1990",
+        "unsplashUrl": "https://unsplash.com/photos/a-gavel-rests-on-a-dark-background-qVOJqYI37qE"
+      },
+      "timeAgo": "10 sa önce",
+      "body": "Gündemdeki gelişmeler ve yargı süreçleri sonrasında yaşanan tartışmalar devam ederken, siyasi çevrelerden konuyla ilgili dikkat çeken açıklamalar gelmeye devam ediyor. Son olarak Yeni Parti lideri Özel, kamuoyunda geniş yankı uyandıran Aziz İhsan Aktaş kararıyla ilgili olarak önemli değerlendirmelerde bulundu ve sürecin geçmişine dair hatırlatmalarda bulundu.\n\nYapılan değerlendirmelerde, olayla ilgili olarak çok sayıda kişinin yaklaşık iki yıl önce suç örgütü üyeliği iddiasıyla tutuklandığı gerçeğine dikkat çekildi. Siyasi parti lideri Özel, aradan geçen zaman zarfında yaşanan mağduriyetlerin altını çizerek, yargı ve idari süreçlerdeki çelişkili durumlara yönelik sert eleştiriler yöneltti.\n\nSüreç boyunca atılan adımların ve yapılan suçlamaların doğurduğu sonuçlara değinen Özel, yetkililerin ve süreci yürütenlerin sorumluluğuna vurgu yaptı. Açıklamalarında, hukuki süreçlerin geldiği nokta ile başlangıçtaki iddialar arasındaki tezatlığın sorgulanması gerektiğinin altını çizdi.\n\nÖzel, konuya ilişkin değerlendirmesinde, sürecin başlangıcında ortaya atılan iddiaların ve sonrasındaki gelişmelerin doğurduğu sonuçları ele alarak, \"Örgüt\" suçlamasıyla uzun süreli mağduriyetler yaratıldığına işaret etti. Bu bağlamda, geçmişteki kararların ve bu kararları alanların hesap vermesi gerektiği savunuldu.\n\nSiyasi arenada ve hukuk çevrelerinde tartışılmaya devam eden bu kararın ardından, sorumluların tespiti ve cezalandırılması yönündeki talepler de yüksek sesle dile getirilmeye başlandı. Yeni Parti lideri Özel, en başından beri somut deliller olmaksızın örgüt suçlamasıyla insanların mağdur edildiğini savunarak, bu durumun cezasız kalmaması gerektiğini ifade etti.\n\nOlayın gelişimi, geçmişte yapılan tutuklamalar ve gelinen son aşama, Türkiye'deki adalet ve yargı mekanizmalarının işleyişi üzerine yapılan tartışmaları yeniden alevlendirdi. Önümüzdeki günlerde konunun siyasi ve hukuki boyutta nasıl bir seyir izleyeceği, ilgili tarafların yapacağı yeni açıklamalar ve atılacak adımlar ile netlik kazanacak.",
+      "highlights": [
+        "Yeni Parti lideri Özel, Aziz İhsan Aktaş kararına yönelik tepkilerini kamuoyuyla paylaştı.",
+        "Çok sayıda kişinin iki yıl önce suç örgütü üyeliği iddiasıyla tutuklandığı hatırlatıldı.",
+        "Başta örgüt var diyenlerin cezalandırılması gerektiği vurgulandı."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cx2zg8k382go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-25T15:02:27.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
       "headline": "Avustralya'da yapay zeka şirketlerinin yeni düzenlemelerden kaçınmak için veri merkezi inşaatını hızlandırabileceği belirtiliyor",
       "source": "The Guardian",
@@ -3697,6 +3881,29 @@
       "externalUrl": "https://www.aa.com.tr/tr/gundem/jandarmanin-celik-kanatlar-ve-uzum-salkimi-gosterileri-malazgirtte-ilgiyle-izlendi/4037129",
       "publishedAt": "2026-08-25T14:56:12.000Z",
       "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "http://tr.euronews.com/next/2026/08/25/norvec-akilli-gozluklere-siki-kurallar-getiriyor",
+      "headline": "Norveç akıllı gözlüklere sıkı kurallar getiriyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1556306510-31ca015374b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c21hcnQlMjBnbGFzc2VzfGVufDF8MHx8fDE3ODc3MDY2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Claudio Schwarz",
+        "photographerUrl": "https://unsplash.com/@purzlbaum",
+        "unsplashUrl": "https://unsplash.com/photos/black-framed-eyeglasses-e8TtkC5xyv4"
+      },
+      "timeAgo": "10 sa önce",
+      "body": "Günümüzde teknolojinin gündelik hayatın her alanına entegre olmasıyla birlikte, giyilebilir cihazların sunduğu imkânlar ve bu cihazların yarattığı hukuki ile etik tartışmalar da hız kesmeden devam ediyor. Son olarak, giyilebilir teknoloji pazarının dikkat çeken ürünleri arasında yer alan ve kullanıcıların çevrelerini kayıt altına almalarını sağlayan donanımlar, resmi otoritelerin odak noktası haline geldi. Bu kapsamda, Norveç yönetimi tarafından akıllı gözlüklere yönelik olarak oldukça sıkı kuralların ve yasal düzenlemelerin getirilmesi planlanıyor.\n\nGiyilebilir teknolojiler arasında önemli bir yere sahip olan akıllı gözlükler, temel olarak kamera, yüksek hassasiyetli mikrofon ve gelişmiş artırılmış gerçeklik ekranları gibi donanım bileşenlerini içeren cihazlar olarak tanımlanıyor. Bu özel teknolojik ürünler, kullanıcıların istedikleri an çevrelerinin fotoğrafını çekmesine, video kaydı almasına ve dijital verileri doğrudan kendi görüş alanlarına yansıtmasına imkân tanıyor. Bu durum, cihaz sahiplerine büyük bir kullanım kolaylığı ve pratiklik sağlarken, aynı zamanda kamusal alandaki bireylerin gizliliği konusunda ciddi soru işaretlerini de beraberinde getiriyor.\n\nÖzellikle son yıllarda bu tür cihazların yaygınlaşması, mahremiyet haklarının ihlal edilebileceği yönündeki endişeleri artırmış durumda. İnsanların rızası olmadan görüntü veya ses kaydı alınabilmesi ihtimali, dünya genelindeki veri koruma otoritelerinin dikkatini çekerken, Norveç'in atacağı bu yeni adımların Avrupa genelindeki diğer ülkelere de emsal teşkil edebileceği ifade ediliyor. Getirilecek sıkı kuralların, cihaz üreticilerini tasarımlarında ve yazılımlarında önemli değişiklikler yapmaya zorlayabileceği tahmin ediliyor.\n\nYetkililer, teknolojik yeniliklerin önünün kesilmemesi ancak bireysel hakların da en üst düzeyde korunması gerektiğinin altını çiziyor. Bu çerçevede hazırlanan yeni düzenleme taslaklarının, cihazların kullanım alanlarını sınırlandırması ve özellikle toplu taşıma, sokaklar ve kapalı kamusal alanlarda kayıt yapılırken uyulması gereken katı kuralları içermesi bekleniyor. Akıllı gözlük kullanıcılarının hak ve sorumluluklarının net bir şekilde tanımlanacağı bu sürecin, teknoloji sektörü ile yasal otoriteler arasındaki dengeleri nasıl etkileyeceği ise merakla takip ediliyor.\n\nSonuç olarak, akıllı gözlüklerin sunduğu kamera, mikrofon ve artırılmış gerçeklik ekranı gibi özelliklerin toplumsal hayatta yarattığı bu yeni durum, Norveç'in başlattığı bu hamle ile birlikte uluslararası kamuoyunda daha geniş bir şekilde tartışılmaya başlandı. Cihazların fotoğraf ve video çekme ile verileri görüş alanına yansıtma kabiliyetleri, bundan sonraki süreçte hem üreticiler hem de kullanıcılar açısından çok daha sıkı denetimlere tabi tutulacak gibi görünmektedir.",
+      "highlights": [
+        "Norveç, akıllı gözlüklere yönelik sıkı kurallar getirmeye hazırlanıyor.",
+        "Cihazlar kamera, mikrofon ve artırılmış gerçeklik ekranları barındırıyor.",
+        "Teknoloji kullanıcıların fotoğraf çekmesine ve veri yansıtmasına imkân tanıyor."
+      ],
+      "externalUrl": "http://tr.euronews.com/next/2026/08/25/norvec-akilli-gozluklere-siki-kurallar-getiriyor",
+      "publishedAt": "2026-08-25T14:47:18.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -3790,6 +3997,29 @@
       "publishedAt": "2026-08-25T14:38:05.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
+      "headline": "Kanada'dan ABD menşeli ürünlere yönelik milyarlarca dolarlık tarife kararı",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1585713181935-d5f622cc2415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwfGVufDF8MHx8fDE3ODc2NzU1OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Venti Views",
+        "photographerUrl": "https://unsplash.com/@ventiviews",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-blue-and-white-boat-on-body-of-water-during-daytime-FPKnAO-CF6M"
+      },
+      "timeAgo": "11 sa önce",
+      "body": "Küresel ticaret dengelerini yakından ilgilendiren önemli bir gelişme yaşandı ve Kanada yönetimi, Amerika Birleşik Devletleri'nden ülkeye gelen ürünlere karşı yeni gümrük vergileri uygulama kararı aldığını kamuoyuyla paylaştı. İki komşu ülke arasında uzun süredir hassasiyetle takip edilen ticari ilişkilerdeki gerilimin tırmanışa geçtiği bu dönemde duyurulan hamle, uluslararası kamuoyunun ve piyasa aktörlerinin dikkatini hızla bu hatta çekti. \n\nEdinilen bilgilere göre, Kanada tarafından hedef alınan ve ek vergilerle karşı karşıya kalacak olan ABD menşeli ürünlerin toplam ekonomik değerinin milyarlarca doları bulduğu belirtildi. Bu kapsamlı tarife kararının, iki ülke arasındaki mevcut ticari anlaşmazlıkları daha da belirgin hale getirdiği ve taraflar arasındaki ekonomik rekabetin boyutunu değiştirdiği ifade ediliyor. Küresel ticaret mekanizmalarında korumacı politikaların ve karşılıklı önlemlerin arttığı bir evrede gelen bu adım, ticari ilişkilerin geleceği açısından da kritik bir dönüm noktası oluşturuyor.\n\nİki komşu ekonominin birbirine yüksek oranda entegre olduğu bilinen tedarik zincirleri ve pazar yapıları göz önüne alındığında, söz konusu vergi artışlarının hem üreticileri hem de tüketicileri etkilemesi kaçınılmaz bir olasılık olarak değerlendiriliyor. Uzmanlar, bu tür hamlelerin genel ekonomik konjonktür üzerinde belirleyici bir rol oynayabileceğine ve taraflar arasındaki müzakere süreçlerini doğrudan şekillendirebileceğine dikkat çekiyor. Kanada tarafının attığı bu adımın ardından, Washington yönetiminden gelecek olası yanıtlar ve atılacak diplomatik adımlar merakla bekleniyor.\n\nTicaret savaşları kavramının uluslararası literatürde yeniden sıklıkla anılmasına yol açan bu gelişmeler, benzer ekonomik krizlerin ve korumacı tedbirlerin geçmişteki yansımalarını da akıllara getiriyor. Küresel piyasalarda dalgalanmalara neden olabilecek her türlü politika değişikliği, hem yatırımcılar hem de sanayi temsilcileri tarafından yakından izleniyor. Kanada'nın duyurduğu yeni gümrük tarifelerinin uygulama takvimi ve kapsamı hakkındaki detayların netleşmesiyle birlikte, piyasalardaki hareketliliğin de sürmesi öngörülüyor.\n\nİki ülke arasındaki bu son ticari gerilim, uzun vadeli ekonomik ortaklıkların kriz dönemlerinde nasıl sınandığını gösteren somut bir örnek olarak kayıtlara geçiyor. Taraflar arasındaki diplomatik ve ticari temasların bundan sonraki süreçte hangi yönde evrileceği, hem Kuzey Amerika ekonomisi hem de küresel ticaret dengeleri açısından hayati önem taşıyor. Kanada'nın uygulamaya koyacağı bu yeni vergilerin ekonomik etkileri, önümüzdeki günlerde tarafların atacağı karşılıklı adımlarla daha net bir şekilde görülecektir.",
+      "highlights": [
+        "Kanada, ABD ürünlerine yönelik yeni tarifeler açıklayarak ticari gerilimi tırmandırdı.",
+        "Uygulanacak ek vergilerin toplam ekonomik değerinin milyarlarca dolar olduğu belirtildi.",
+        "İki komşu ülke arasındaki bu hamle, küresel ticaret dengelerini ve piyasaları yakından ilgilendiriyor."
+      ],
+      "externalUrl": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
+      "publishedAt": "2026-08-25T14:29:00.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.hurriyet.com.tr/dunya/ermenistandan-5-yillik-program-ankara-ve-baku-adimi-onaylandi-43284828",
@@ -6663,236 +6893,6 @@
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cx2zy4enn0do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-25T04:11:04.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "http://tr.euronews.com/business/2026/08/25/ev-alabilmek-icin-koye-donduler-barinma-krizinden-kacan-genclerin-tersine-gocu",
-      "headline": "Ev alabilmek için köye döndüler: Barınma krizinden kaçan gençlerin tersine göçü",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1638836715722-e41b57641d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c3BhbmlzaCUyMHZpbGxhZ2V8ZW58MXwwfHx8MTc4NzYzMTY1OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kenneth Ian Ricafort",
-        "photographerUrl": "https://unsplash.com/@kennethiannn",
-        "unsplashUrl": "https://unsplash.com/photos/a-city-street-with-two-tall-towers-in-the-middle-of-it-UwS8F2UYcck"
-      },
-      "timeAgo": "24 dk önce",
-      "body": "Günümüz ekonomik koşullarında artan konut fiyatları ve derinleşen barınma krizi, toplumun farklı kesimlerini köklü kararlar almaya yöneltiyor. Son dönemde ortaya çıkan veriler, gayrimenkul sahibi olma hayali kuran bireylerin geleneksel büyükşehir yaşamından uzaklaşmaya başladığını gösteriyor. Özellikle ev satın almak isteyen kişilerin yüzde 13 gibi dikkat çekici bir oranının, nüfusu 10 binin altında kalan küçük ilçelere yerleşmeyi planladığı ortaya çıktı. Bu durum, kırsal bölgelere doğru yeni bir hareketliliğin başladığını net bir şekilde gözler önüne seriyor.\n\nYaşanan bu süreç, bilhassa büyükşehirlerde yaşayan ve konut piyasasında daralan imkanlarla mücadele eden kesimleri doğrudan etkiliyor. Araştırma sonuçlarına göre, 35 yaşındaki orta gelirli bekarlar için büyük şehirlerde ev sahibi olma kapısının neredeyse tamamen kapandığı görülüyor. Yükselen gayrimenkul maliyetleri ve yaşam masrafları, bu demografik gruptaki bireyleri geleneksel yerleşim yerlerinin dışına çıkmaya zorluyor. Büyük metropollerdeki finansal baskı, genç yetişkinleri alternatif yaşam alanları aramaya iten temel etkenlerin başında geliyor.\n\nBüyükşehirlerdeki konut krizine karşı geliştirilen bu yeni yaşam stratejisinde, İspanya kırsalı önemli bir cazibe merkezi haline geldi. Şehir merkezlerindeki yüksek fiyatlar karşısında barınma ihtiyacını karşılamakta zorlanan orta gelirli bekarlar ve ev arayışındakiler için boşalan İspanya kırsalı adeta tek çıkış yolu olarak öne çıkıyor. Yıllardır göç veren ve nüfusu azalan kırsal bölgeler, bu yeni dalgayla birlikte yeniden canlanma sinyalleri veriyor. Şehirli nüfusun taşraya yönelmesi, hem bireylerin konut sahibi olma hedefini destekliyor hem de kırsal bölgelerdeki demografik yapıyı dönüştürüyor.\n\nUzmanlar, bu tersine göç hareketinin sadece geçici bir eğilim olmadığını, aynı zamanda derinleşen konut piyasası sorunlarının kalıcı bir sonucu olduğunu belirtiyor. 35 yaşındaki bekarların orta gelir düzeyiyle büyük şehirlerde daire satın alması imkansızlaşırken, kırsaldaki uygun fiyatlı alternatifler bu kitleye nefes aldırıyor. Nüfusu 10 binin altındaki yerleşim yerleri, sundukları ekonomik konut seçenekleri sayesinde giderek daha fazla talep görüyor. Bu yönelim, önümüzdeki dönemde gayrimenkul sektörünün ve nüfus dağılımının nasıl şekilleneceğine dair önemli ipuçları barındırıyor.\n\nÖzetle, barınma krizinin getirdiği ekonomik zorluklar, genç ve orta gelirli bireyleri hayatlarında radikal değişiklikler yapmaya mecbur bırakıyor. Ev sahibi olma hayalini gerçekleştirmek isteyen kitleler, büyük metropolleri terk ederek kırsal bölgelerin yolunu tutuyor. Nüfusu 10 binin altındaki ilçelere yönelik bu artış ve İspanya kırsalının boşalan dokusunun yeniden değerlendirilmesi, modern dönemin en belirgin göç dinamiklerinden biri olarak kayıtlara geçiyor.",
-      "highlights": [
-        "Ev almayı planlayanların yüzde 13'ü nüfusu 10 binin altındaki ilçelere taşınmak istiyor.",
-        "35 yaşındaki orta gelirli bekarlar için büyükşehirlerde konut sahibi olmak neredeyse imkansız hale geldi.",
-        "Boşalan İspanya kırsalı, artan barınma krizinden kaçanlar için tek çıkış yolu olarak öne çıkıyor."
-      ],
-      "externalUrl": "http://tr.euronews.com/business/2026/08/25/ev-alabilmek-icin-koye-donduler-barinma-krizinden-kacan-genclerin-tersine-gocu",
-      "publishedAt": "2026-08-25T03:56:41.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/umman-aciklarinda-petrol-tankeri-vuruldu/4036382",
-      "headline": "Umman açıklarında petrol tankeri vuruldu",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1642864835712-a9e172ceeafe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8b2lsJTIwdGFua2VyfGVufDF8MHx8fDE3ODc2MzE2NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Scott Tobin",
-        "photographerUrl": "https://unsplash.com/@scottywatty",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-boat-floating-on-top-of-a-body-of-water-RM4EkUNmjG4"
-      },
-      "timeAgo": "28 dk önce",
-      "body": "Uluslararası deniz taşımacılığı ve enerji güvenliği açısından stratejik bir öneme sahip olan bölgede, Umman açıklarında seyir halinde bulunan bir petrol tankerinin hedef alındığı ve vurulduğu bildirildi. Denizcilik sektöründe ve küresel ticaret koridorlarında büyük bir endişe yaratan bu olay, enerji arz güvenliği konusundaki riskleri bir kez daha gündemin üst sıralarına taşıdı.\n\nYetkililerden ve ilgili denizcilik makamlarından alınan ilk bilgilere göre, saldırının detayları ve tankerin aldığı hasar henüz netlik kazanmazken, olay bölgesinde güvenlik önlemleri üst seviyeye çıkarıldı. Söz konusu petrol tankerinin vurulması, özellikle Orta Doğu petrollerinin dünya pazarlarına ulaştırıldığı güzergahlarda yaşanan güvenlik açıklarını ve olası tehditleri gözler önüne serdi.\n\nBenzer denizcilik olayları, geçmişte de ham petrol fiyatları üzerinde dalgalanmalara yol açmış ve enerji piyasalarında tedirginliğe neden olmuştu. Umman açıklarında meydana gelen bu son gelişme de, küresel lojistik zincirinin ne denli kırılgan olabileceğini ve deniz ticaret yollarının güvenliğinin uluslararası ekonomi açısından hayati önem taşıdığını bir kez daha hatırlattı.\n\nOlayın ardından ilgili kurtarma ve güvenlik ekipleri bölgeye yönlendirilirken, tankerin durumu, mürettebatın güvenliği ve petrolde herhangi bir sızıntı olup olmadığına dair incelemeler titizlikle sürdürülüyor. Uluslararası toplum ve denizcilik örgütleri, bölgedeki seyrüsefer emniyetini tehlikeye atan bu tür olayların tekrarlanmaması adına yürütülecek çalışmaları yakından takip ediyor.\n\nKüresel enerji piyasaları, bölgeden gelecek yeni resmi açıklamalara odaklanmış durumdayken, uzmanlar deniz ticaret yollarındaki güvenlik risklerinin hem ham petrol sevkiyatını hem de denizcilik sigorta maliyetlerini doğrudan etkileyebileceğine dikkat çekiyor. Umman açıklarındaki saldırının arka planı ve sorumlularına ilişkin araştırmalar, yetkili merciler tarafından çok yönlü olarak yürütülmeye devam ediyor.",
-      "highlights": [
-        "Umman açıklarında seyreden bir petrol tankeri vuruldu.",
-        "Olay bölgede ve küresel enerji piyasalarında endişe yarattı.",
-        "Yetkililer tankerin durumu ve güvenlik önlemleri için inceleme başlattı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/umman-aciklarinda-petrol-tankeri-vuruldu/4036382",
-      "publishedAt": "2026-08-25T03:52:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/turkiye/sicakliklar-dusuyor-yagisli-hava-geliyor-954833.html",
-      "headline": "Sıcaklıklar düşüyor, yağışlı hava geliyor",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1576514864427-f0809d2b66eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmFpbnklMjBzdHJlZXR8ZW58MXwwfHx8MTc4NzYzMTY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Gil Ribeiro",
-        "photographerUrl": "https://unsplash.com/@gileres",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-in-rainy-day-FhR46F3l9KQ"
-      },
-      "timeAgo": "31 dk önce",
-      "body": "Meteorolojik tahminlere göre, Türkiye genelinde hava sıcaklıklarında önemli bir değişim yaşanmaya hazırlanıyor. Bir süredir etkisini sürdüren mevcut hava koşullarının ardından, özellikle cuma gününden itibaren termometrelerin ibresi ters yöne dönecek. Yapılan son değerlendirmelere göre, yurdun kuzey, iç ve batı kesimlerinde hava sıcaklıkları hissedilir derecede azalacak. Bu ani düşüşle birlikte, vatandaşların mevsim normallerine uygun kıyafetler tercih etmesi ve ani ısı değişimlerine karşı dikkatli olması gerekecek.\n\nÖte yandan, yurdu etkisi altına alan yağışlı hava dalgası önümüzdeki günlerde de etkisini sürdürmeye devam edecek. Hafta boyunca aralıklarla görülecek olan yağışların, cuma gününden itibaren ise etki alanını daha da genişletmesi bekleniyor. Ülke genelinde geniş bir coğrafyayı etkilemesi öngörülen bu yağışlı sistem, tarımsal faaliyetler ve su kaynakları açısından önem arz ederken, günlük yaşamda da bazı tedbirlerin alınmasını zorunlu kılıyor.\n\nÖzellikle hafta sonu yaklaşırken, yurdun birçok bölgesinde sağanak yağış geçişleri görüleceği tahmin ediliyor. Meteoroloji yetkilileri, hafta sonu plan yapacak olan vatandaşların yaşanabilecek olumsuzluklara karşı dikkatli ve tedbirli olmaları konusunda uyarıda bulunuyor. Beklenen sağanak yağışların su birikintileri ve ulaşımda olası aksamalara yol açabileceği belirtilirken, yetkili mercilerin yapacağı güncel uyarıların ve hava raporlarının yakından takip edilmesi büyük önem taşıyor.\n\nYaşanacak bu meteorolojik hareketlilik, son dönemdeki hava durumu trendlerinin bir devamı niteliğinde değerlendiriliyor. Uzmanlar, geçiş mevsimlerinde bu tür ani sıcaklık düşüşleri ve geniş alanlara yaylanan yağışların olağan olduğunu, ancak ani değişimlerin insan sağlığı ve ulaşım üzerinde geçici etkiler bırakabileceğini hatırlatıyor. Önümüzdeki günlerde hava muhalefetinin seyrine göre ilgili kurumların ek bilgilendirmeler yapması bekleniyor.",
-      "highlights": [
-        "Cuma gününden itibaren kuzey, iç ve batı kesimlerde sıcaklık düşecek.",
-        "Yağışlı hava hafta boyunca sürecek ve cumadan itibaren yayılacak.",
-        "Hafta sonunda yurdun birçok bölgesinde sağanak yağış bekleniyor."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/turkiye/sicakliklar-dusuyor-yagisli-hava-geliyor-954833.html",
-      "publishedAt": "2026-08-25T03:50:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/kayseri-de-yolcu-otobusu-ile-yakit-tankeri-carpisti-35-yarali-3907855",
-      "headline": "Kayseri'de otobüs ile yakıt tankeri çarpıştı: 35 yaralı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1573068111653-f18bef611c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3ODc2Mjg5MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Lucian Alexe",
-        "photographerUrl": "https://unsplash.com/@lucian_alexe",
-        "unsplashUrl": "https://unsplash.com/photos/orange-and-white-traffic-cone-p3Ip8U0eNNM"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Türkiye'nin önemli iç Anadolu merkezlerinden biri olan Kayseri'de, karayolu ulaşımını sarsan ciddi bir trafik kazası meydana geldi. Edinilen bilgilere göre, şehir merkezinde yer alan Melikgazi ilçesi sınırları içinde, yolcu taşımacılığı yapan bir otobüs ile akaryakıt sevkiyatı gerçekleştiren bir tanker henüz belirlenemeyen bir nedenle çarpıştı. İki büyük tonajlı aracın karıştığı bu şiddetli çarpışma, bölgede büyük bir endişe ve hareketliliğe neden olurken, kaza haberinin alınmasının ardından olay yerine çok sayıda sağlık, itfaiye ve güvenlik ekibi sevk edildi.\n\nGerçekleşen kazanın ardından ortalık adeta savaş alanına dönerken, otobüs içerisindeki yolcular büyük bir şok yaşadı. Yetkililerden alınan son bilgilere göre, her iki aracın karıştığı bu korkunç kazada toplam 35 kişi yaralandı. Olay yerinde ilk müdahaleleri yapılan yaralılar, ambulanslarla çevredeki hastanelere kaldırılarak tedavi altına alındı. Sağlık ekiplerinin yaralılara müdahale edebilmesi ve kurbanların güvenli bir şekilde hastanelere ulaştırılabilmesi için bölgedeki trafik akışı geçici olarak kontrollü bir şekilde sağlandı.\n\nYetkililer, her gün binlerce aracın kullandığı bu güzergahta meydana gelen kazanın ardından detaylı bir inceleme başlattı. Otobüs ile yakıt tankerinin hangi koşullar altında çarpıştığı, sürücülerin kusur durumları ve yol şartlarının kazaya ne ölçüde etki ettiği, yapılacak teknik incelemeler ve uzman raporları sonucunda netlik kazanacak. Özellikle akaryakıt taşıyan bir tanker söz konusu olduğu için, çarpışmanın hemen ardından yaşanabilecek olası bir yangın veya patlama riskine karşı ekiplerin hızlı ve titiz bir kriz yönetimi sergilediği bildirildi.\n\nKayseri genelinde ve özellikle Melikgazi ilçesinde ulaşım güvenliği, ağır tonajlı araçların trafiğe katılımı ve şehir içi geçiş güzergahları bir kez daha kamuoyunun dikkatini çekti. Bu tür büyük kazalar, toplu taşıma ve tehlikeli madde taşıyan araçların karayollarındaki hareketliliğinin ne denli büyük bir dikkat gerektirdiğini gözler önüne sererken, yetkililer sürücülere trafik kurallarına uymaları ve hız ile takip mesafesi gibi hayati unsurlara azami özen göstermeleri yönünde uyarılarda bulundu.\n\nHastanelerde tedavileri süren 35 yaralının sağlık durumlarıyla ilgili resmi makamlardan yapılacak olan yeni açıklamalar beklenirken, kaza nedeniyle kapanan veya aksayan yolun yeniden trafiğe tam olarak açılması için karayolları ve belediye ekiplerinin temizlik ve kaldırma çalışmaları gün boyunca devam etti. Olayla ilgili soruşturma çok yönlü olarak sürdürülmektedir.",
-      "highlights": [
-        "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile yakıt tankeri çarpıştı.",
-        "Meydana gelen kazada toplam 35 kişi yaralanarak hastanelere kaldırıldı.",
-        "Olay yerine çok sayıda sağlık ve güvenlik ekibi sevk edilerek inceleme başlatıldı."
-      ],
-      "externalUrl": "https://www.haberturk.com/kayseri-de-yolcu-otobusu-ile-yakit-tankeri-carpisti-35-yarali-3907855",
-      "publishedAt": "2026-08-25T03:31:30.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
-      "headline": "Woodside, İran savaşının yarattığı petrol karları ortasında uzun vadeli emisyon ve temiz enerji hedeflerinden vazgeçti",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8b2lsJTIwcmVmaW5lcnl8ZW58MXwwfHx8MTc4NzYyODkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Patrick Hendry",
-        "photographerUrl": "https://unsplash.com/@worldsbetweenlines",
-        "unsplashUrl": "https://unsplash.com/photos/factories-with-smoke-under-cloudy-sky-6xeDIZgoPaw"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Küresel enerji piyasalarında yaşanan hareketlilik ve jeopolitik gerilimlerin sektörel yansımaları sürerken, enerji devlerinden dikkat çekici stratejik kararlar gelmeye devam ediyor. Elde edilen son finansal verilere göre, Avustralya'nın en büyük petrol ve doğalgaz üreticisi konumundaki Woodside Energy şirketi, uzun vadeli emisyon azaltım ve temiz enerji hedeflerini rafa kaldırdığını duyurdu. Bu hamle, şirketin Orta Doğu'daki gelişmelerin ardından elde ettiği yüksek kâr rakamlarının kamuoyuna yansımasıyla aynı döneme denk geldi.\n\nSöz konusu kurumsal karar, özellikle son dönemde küresel çapta hissedilen enerji arzı sıkıntıları ve bu duruma bağlı olarak ham petrol fiyatlarında yaşanan yukarı yönlü sert hareketlerin arkasından geldi. İran bölgesinde yaşanan çatışmaların dünya genelindeki enerji akışını sekteye uğratması, petrol fiyatlarında kayda değer bir artışa zemin hazırladı. Bu durum, piyasada faaliyet gösteren büyük enerji şirketlerinin finansal tablolarına doğrudan yansıdı.\n\nŞirket tarafından salı günü resmi makamlara sunulan mali raporlara göre, ilgili altı aylık raporlama döneminde Woodside Energy'nin satış kârında yüzde 27 oranında belirgin bir artış kaydedildi. Şirket bu dönemde 1,67 milyar dolar (yaklaşık 2,33 milyar Avustralya doları) tutarında satış kârı elde ettiğini bildirdi. Küresel arz zincirlerindeki aksamalardan kaynaklanan bu beklenmedik finansal kazanç dalgası, şirket yönetiminin uzun vadeli çevresel hedeflerini yeniden değerlendirmesine yol açtı.\n\nAlınan stratejik karar, enerji sektöründe faaliyet gösteren büyük şirketlerin öncelikleri ile çevresel sürdürülebilirlik taahhütleri arasındaki hassas dengenin nasıl etkilendiğine dair tartışmaları da beraberinde getirdi. Bir yandan artan enerji talebi ve jeopolitik risklerin tetiklediği kârlılık rekorları kırılırken, diğer yandan iklim krizi ve emisyon azaltımı gibi uzun vadeli taahhütlerin esnetilmesi veya tamamen iptal edilmesi, sektördeki genel yönelim konusunda soru işaretleri yaratıyor.\n\nAvustralya'nın en büyük enerji oyuncusunun bu adımı, ülkenin genel enerji politikaları ve çevresel tartışmaları açısından da yakından takip ediliyor. Şirket yönetimi tarafından yapılan bu resmi değişikliğin, hem hissedarlar hem de çevreci gruplar nezdinde nasıl bir karşılık bulacağı ve önümüzdeki dönemde enerji piyasalarındaki yatırım kararlarını nasıl şekillendireceği, sektör analistleri tarafından titizlikle izlenen konuların başında geliyor.",
-      "highlights": [
-        "Woodside Energy uzun vadeli emisyon ve temiz enerji hedeflerini iptal etti.",
-        "Şirket, altı aylık raporda satış kârını yüzde 27 artırarak 1,67 milyar dolara çıkardı.",
-        "Artış, İran çatışmasının neden olduğu ham petrol arz kesintileri ve fiyat artışlarıyla gerçekleşti."
-      ],
-      "externalUrl": "https://www.theguardian.com/australia-news/2026/aug/25/woodside-scraps-emissions-clean-energy-targets-australia",
-      "publishedAt": "2026-08-25T03:29:38.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.haberturk.com/kpss-ortaogretim-2026-basvuru-ve-sinav-tarihi-osym-takvimi-ile-kpss-ortaogretim-sinav-basvurulari-ne-zaman-kpss-lise-sinavi-hangi-gun-yapilacak-3907208",
-      "headline": "2026 KPSS Ortaöğretim sınav takvimi açıklandı: Başvuru ve sınav tarihleri ne zaman?",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1644055066046-054ac0fc7213?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZXhhbSUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzg3NjMxNjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Donald Wu",
-        "photographerUrl": "https://unsplash.com/@donaldwuid",
-        "unsplashUrl": "https://unsplash.com/photos/a-classroom-filled-with-lots-of-wooden-desks-APsC3KJzwVw"
-      },
-      "timeAgo": "56 dk önce",
-      "body": "Eylül ayının yaklaşmasıyla birlikte, kamuda kariyer hedefleyen lise mezunu binlerce adayın katılım göstereceği 2026 Kamu Personel Seçme Sınavı (KPSS) Ortaöğretim oturumuna yönelik merak ve araştırmalar ülke genelinde hız kazanmış durumda. Her yıl milyonlarca vatandaşın devlet kurumlarında istihdam edilmek üzere ter döktüğü bu kritik süreçte, Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) tarafından yayımlanan güncel sınav takvimi adayların tüm sorularına yanıt niteliği taşıyor. Lise düzeyi KPSS sınavı için adayların odaklandığı başvuru takvimi, sınavın gerçekleştirileceği gün ve nihai sonuçların ilan edileceği tarih artık resmi olarak netleşti.\n\nKamu kurum ve kuruluşlarında kadro alarak görev yapmak isteyen lise mezunu adaylar, kariyer planlamalarını ÖSYM'nin belirlediği bu resmi takvime göre şekillendiriyor. Sürecin en önemli aşamalarından biri olan başvuruların ne zaman başlayacağı ve adayların ödeyeceği sınav ücretinin ne kadar olduğu, son dönemde en çok araştırılan konuların başında geliyor. Milyonlarca adayın yakından takip ettiği bu süreç, Türkiye genelinde geniş bir katılımcı kitlesini barındırması nedeniyle her sınav döneminde büyük bir toplumsal ve idari hareketliliğe sahne oluyor.\n\nÖSYM sınav takvimi çerçevesinde, 2026 KPSS Ortaöğretim sınavı için geri sayım resmen başladı. Adaylar, belirlenen tarihler arasında başvurularını tamamlayarak uzun süredir hazırlandıkları sınav maratonu için ilk resmi adımı atmış olacaklar. Başvuru işlemlerinin hemen ardından gözler, sınav gününe ve sonrasındaki değerlendirme sürecine çevrilecek. Kamu sektöründe istihdam edilmek isteyen lise mezunları, bu sınavdan alacakları puanlar doğrultusunda gelecekte yapılacak olan merkezi atama ve yerleştirme işlemlerine başvuru hakkı elde edecekler.\n\nSınavın yapılacağı gün yaklaştıkça, adayların hazırlık temposu da doğal olarak zirveye ulaşıyor. Uzmanlar ve eğitim çevreleri, lise düzeyi KPSS'nin adaylar için hayati bir eşik olduğunu belirtirken, başvuru tarihlerinin kaçırılmaması gerektiği konusunda uyarılarda bulunuyor. ÖSYM'nin resmi internet sitesi ve duyuruları üzerinden yürütülecek olan başvuru ve ücret yatırma süreçlerinin, belirtilen takvime sıkı sıkıya bağlı kalınarak yürütülmesi büyük önem taşıyor. Sınavın hemen ardından ise heyecan dolu sonuç açıklama süreci başlayacak ve adaylar başarı sıralamalarını öğrenebilecekler.\n\nÖzetle, 2026 KPSS Ortaöğretim sınavı ile ilgili tüm merak edilen takvim detayları ÖSYM tarafından netleştirilmiş olup, süreç işlemeye devam ediyor. Eylül ayının getirdiği yoğunlukla birlikte başvuru tarihlerinden sınav gününe, oradan da sonuçların ilan edileceği güne kadar uzanan bu zorlu ve heyecanlı maraton, binlerce lise mezununun geleceğini doğrudan etkileyecek adımlardan biri olarak kayıtlara geçiyor. Adaylar, kurumun yapacağı yeni duyuruları ve kılavuz güncellemelerini yakından takip ederek hazırlıklarını sürdürüyor.",
-      "highlights": [
-        "2026 KPSS Ortaöğretim sınav takvimi ÖSYM tarafından netleştirildi.",
-        "Lise mezunu binlerce aday için başvuru ve sınav tarihleri belirlendi.",
-        "Kamu kurumlarında görev almak isteyenler için süreç hız kazandı."
-      ],
-      "externalUrl": "https://www.haberturk.com/kpss-ortaogretim-2026-basvuru-ve-sinav-tarihi-osym-takvimi-ile-kpss-ortaogretim-sinav-basvurulari-ne-zaman-kpss-lise-sinavi-hangi-gun-yapilacak-3907208",
-      "publishedAt": "2026-08-25T03:25:25.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/kayseride-yolcu-otobusu-ile-yakit-tasiyan-tankerin-carpistigi-kazada-35-kisi-yaralandi-/4036379",
-      "headline": "Kayseri'de otobüs ile tanker çarpıştı: 35 yaralı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1739457626242-0fb5bd6af7c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc4NzQ5NTg0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Michał Parzuchowski",
-        "photographerUrl": "https://unsplash.com/@mparzuchowski",
-        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-people-standing-outside-of-a-store-at-night-8n8Yx_iypy4"
-      },
-      "timeAgo": "20 dk önce",
-      "body": "Türkiye'nin önemli iç Anadolu merkezlerinden biri olan Kayseri'de, trafiğin yoğun olduğu güzergahlardan birinde büyük bir trafik kazası meydana geldi. Edinilen bilgilere göre, şehir genelindeki ulaşım ağının kritik noktalarından biri olan Melikgazi ilçesi sınırları içinde, yolcu taşımacılığı yapan bir otobüs ile akaryakıt sevkiyatı gerçekleştiren bir tanker çarpıştı. Bu şiddetli çarpışmanın ardından bölgede adeta can pazarı yaşandı.\n\nGerçekleşen kazanın hemen ardından çevredeki vatandaşların ihbarı üzerine olay yerine çok sayıda sağlık, itfaiye ve emniyet ekibi sevk edildi. Yetkililer tarafından yapılan ilk tespitlere göre, her iki araçta bulunan toplam 35 kişi kazada yaralandı. Yaralılar, olay yerinde sağlık ekiplerinin yaptığı ilk müdahalelerin ardından ambulanslarla hızla çevredeki çeşitli hastanelere kaldırılarak tedavi altına alındı.\n\nUlaşım güvenliği açısından kritik bir öneme sahip olan Melikgazi ilçesindeki bu kaza, trafikteki riskleri bir kez daha gözler önüne serdi. Otobüs ve tanker gibi büyük hacimli araçların karıştığı bu tür kazalar, hem yolcuların hem de çevredeki diğer sürücülerin güvenliği açısından büyük tehlike arz ediyor. Olay yerinde güvenlik güçleri tarafından geniş çaplı önlemler alınırken, trafik akışı bir süreliğine kontrollü olarak sağlandı.\n\nKazanın nasıl meydana geldiğine ilişkin detaylı inceleme başlatıldı. Uzman ekipler, hem yolcu otobüsünün hem de akaryakıt tankerinin hızını, sürücülerin durumunu ve yol koşullarını incelemek üzere kaza mahallinde delil toplama çalışmalarını sürdürüyor. Kazaya karışan araçların yoldan kaldırılmasının ardından trafik normale dönerken, yaralıların hastanelerdeki tedavilerinin devam ettiği bildirildi.",
-      "highlights": [
-        "Kayseri'nin Melikgazi ilçesinde otobüs ve tanker çarpıştı.",
-        "Meydana gelen kazada toplam 35 kişi yaralandı.",
-        "Yaralılar çevredeki hastanelere kaldırılarak tedavi altına alındı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/kayseride-yolcu-otobusu-ile-yakit-tasiyan-tankerin-carpistigi-kazada-35-kisi-yaralandi-/4036379",
-      "publishedAt": "2026-08-25T03:15:47.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/turkiye/yolcu-otobusu-benzin-tankeriyle-carpisti-35-yarali-954825.html",
-      "headline": "Kayseri'de yolcu otobüsü ile benzin tankeri çarpıştı: 35 yaralı",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1641309664023-52a016965404?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YnVzJTIwYWNjaWRlbnR8ZW58MXwwfHx8MTc4NzYyODkyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Gen Pol",
-        "photographerUrl": "https://unsplash.com/@genpol",
-        "unsplashUrl": "https://unsplash.com/photos/a-white-bus-driving-down-a-street-next-to-tall-buildings-gCsVRQSDS9E"
-      },
-      "timeAgo": "24 dk önce",
-      "body": "Türkiye'nin önemli ulaşım ve ticaret merkezlerinden biri olan Kayseri'de, şehir içi ve şehirler arası trafik akışının yoğun olduğu güzergahlardan birinde ciddi bir trafik kazası meydana geldi. Edinilen bilgilere göre, kentin merkezi ilçelerinden biri olan Melikgazi sınırları içerisinde, henüz belirlenemeyen bir sebepten ötürü bir yolcu otobüsü ile benzin taşıyan bir tanker çarpıştı. Her iki ağır tonajlı ve toplu/tehlikeli madde taşıyan aracın karıştığı bu olay, çevrede büyük bir paniğe ve endişeye neden oldu.\n\nGerçekleşen şiddetli çarpışmanın ardından bölgeye çok sayıda sağlık, itfaiye ve emniyet ekibi sevk edildi. Yetkililerden alınan ilk resmi verilere göre, olay yerinde bulunan ve her iki araçta seyahat etmekte olan toplam 35 kişi kazada yaralandı. Trafik kazalarının önlenmesi ve karayolu güvenliğinin sağlanması açısından büyük önem taşıyan bu tür güzergahlarda yaşanan olay, ulaşım güvenliği konusundaki hassasiyeti bir kez daha gözler önüne serdi.\n\nOlayın hemen ardından hızla olay mahalline intikal eden 112 Acil Sağlık ekipleri, yaralı vatandaşlara ilk müdahaleleri olay yerinde gerçekleştirdi. Sağlık görevlilerinin yaptığı ilk değerlendirmelerin ardından, vücutlarının çeşitli yerlerinden yaralanan 35 kişi, ambulanslarla hızla çevredeki hastanelere nakledildi. Hastanelerde tedavi altına alınan yaralıların sağlık durumlarıyla ilgili süreç yakından takip edilirken, yetkililer konuya ilişkin detaylı incelemelerin sürdüğünü bildirdi.\n\nKaza nedeniyle Melikgazi ilçesindeki ilgili karayolunda trafik akışı bir süre kontrollü olarak sağlandı veya aksamalara uğradı. Emniyet ve jandarma trafik ekipleri, yolun güvenli bir şekilde tekrar trafiğe açılması için yoğun bir çalışma yürüttü. Kazaya karışan yolcu otobüsü ile benzin tankerinin olay yerinden kaldırılması ve yolun temizlenmesi çalışmalarının ardından, ulaşım normale döndü.\n\nYetkililer, bu tür büyük çaplı trafik kazalarının sebepleri ve sorumlularının belirlenmesi amacıyla kapsamlı bir soruşturma başlatıldığını açıkladı. Melikgazi ilçesinde yaşanan ve 35 kişinin yaralanmasıyla sonuçlanan bu kaza, karayolu taşımacılığında ve özellikle tehlikeli madde taşıyan tankerler ile yolcu otobüslerinin seyir halindeki güvenlik tedbirlerinin önemini bir kez daha hatırlattı. Olayla ilgili adli ve idari tahkikat mercii tarafından yürütülen çalışmaların devam ettiği kaydedildi.",
-      "highlights": [
-        "Kayseri'nin Melikgazi ilçesinde yolcu otobüsü ile benzin tankeri çarpıştı.",
-        "Meydana gelen trafik kazası sonucunda toplam 35 kişi yaralandı.",
-        "Yaralılar sağlık ekiplerince hastanelere kaldırıldı ve inceleme başlatıldı."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/turkiye/yolcu-otobusu-benzin-tankeriyle-carpisti-35-yarali-954825.html",
-      "publishedAt": "2026-08-25T03:11:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://news.sky.com/story/why-is-trump-slapping-tariffs-on-his-neighbour-13576837",
-      "headline": "Trump'ın komşu ülkeye yönelik gümrük vergisi hamlesi merak konusu oldu",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1744827324103-6aae68abb440?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhZGUlMjB0YXJpZmZzfGVufDF8MHx8fDE3ODc2MzE2OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Igor Omilaev",
-        "photographerUrl": "https://unsplash.com/@omilaev",
-        "unsplashUrl": "https://unsplash.com/photos/a-golden-trump-looks-at-planet-earth-emFUQHEYJmU"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Uluslararası kamuoyunun yakından takip ettiği son gelişmeler arasında, Amerika Birleşik Devletleri'nin seçilmiş lideri veya eski başkanı Donald Trump'ın komşu ülkelere yönelik izleyeceği dış ticaret politikaları bir kez daha en üst sıralara yerleşti. Küresel ticaret dengelerini, tedarik zincirlerini ve ülkeler arası diplomatik ilişkileri doğrudan etkileyen bu tür ekonomik hamleler, hem ekonomi çevrelerinde hem de siyaset sahnesinde geniş yankı uyandırmaya devam ediyor. Özellikle sınır komşularıyla yürütülen ticaret müzakerelerinde gümrük vergisi silahının kullanılmasının ardında yatan dinamikler, uzmanlar tarafından çeşitli açılardan masaya yatırılıyor.\n\nBilindiği üzere uluslararası ilişkilerde gümrük vergileri ve korumacı ekonomi politikaları, devletlerin yerli sanayilerini korumak, dış ticaret açığını kapatmak ya da müzakerelerde ellerini güçlendirmek amacıyla sıklıkla başvurduğu araçlar arasında yer alıyor. Trump'ın döneminde veya dönemiyle ilişkilendirilen bu tür ekonomik kararlar, serbest ticaret ilkeleri ile korumacılık arasındaki hassas dengenin yeniden tartışılmasına zemin hazırlıyor. Komşu ülkelere uygulanan ya da tehdit olarak masada tutulan vergiler, yalnızca ekonomik değil, aynı zamanda jeopolitik ve stratejik sonuçlar da doğuruyor.\n\nBu bağlamda, Trump'ın komşusuna yönelik vergi uygulama kararı veya niyetinin arkasındaki temel motivasyonların neler olduğu sorusu, podcast yayıncıları ve haber mecraları tarafından da sıklıkla ele alınıyor. Dinleyiciler ve haber tüketicileri, güncel gelişmeleri derinlemesine anlamak amacıyla bu tür özel içerikleri ve analiz programlarını yakın markaja alıyor. Trump100 gibi özel podcast serileri de bu kapsamda yaşanan her bir adımı, kulis bilgilerini ve ekonomik analizleri takipçileriyle buluşturarak konunun şeffaflık kazanmasına katkı sağlıyor.\n\nKüresel ekonominin içinden geçtiği bu hassas dönemde, liderlerin attığı adımların piyasalar üzerindeki yansıması anlık olarak hissediliyor. Döviz kurlarından borsa endekslerine, ithalat ve ihracat rakamlarından iki ülke arasındaki siyasi diyaloglara kadar pek çok alan, bu gümrük vergisi tartışmalarından doğrudan etkileniyor. Uzmanlar, tarafların önümüzdeki süreçte nasıl bir strateji izleyeceğini ve bu baskı politikasının somut sonuçlar doğurup doğurmayacağını yakından izliyor.\n\nSonuç olarak, Donald Trump'ın komşu ülkeyle olan ticari ilişkilerde gümrük vergilerini gündeme getirmesi, dış politika ve ekonomi gündeminin en sıcak başlıklarından biri olmayı sürdürüyor. Konuyla ilgili en güncel analizleri, uzman değerlendirmelerini ve olayların perde arkasını kaçırmak istemeyen takipçiler, çeşitli dijital platformlar ve podcast uygulamaları üzerinden yayımlanan özel yayınları takip etmeye devam ediyor.",
-      "highlights": [
-        "Trump'ın komşu ülkelere yönelik gümrük vergisi hamleleri küresel çapta tartışılıyor.",
-        "Korumacı ticaret politikalarının ekonomik ve jeopolitik yansımaları inceleniyor.",
-        "Gelişmeler, podcast uygulamaları ve özel medya serileriyle takipçilere aktarılıyor."
-      ],
-      "externalUrl": "https://news.sky.com/story/why-is-trump-slapping-tariffs-on-his-neighbour-13576837",
-      "publishedAt": "2026-08-25T03:05:00.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/ced71gwqxl6o?at_medium=RSS&at_campaign=rss",
-      "headline": "Alarm kurmadan nasıl uyanılır?",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1631963465762-71a3597e08e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c3VucmlzZSUyMGJlZHJvb218ZW58MXwwfHx8MTc4NzYyODkyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "XAVIER PHOTOGRAPHY",
-        "photographerUrl": "https://unsplash.com/@xavierqu",
-        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-at-sunset-from-a-rooftop-qtQvQTZfG-w"
-      },
-      "timeAgo": "33 dk önce",
-      "body": "Günlük yaşamın koşturmacası içerisinde sabahları çalan saatlerin ve alarmların sesinden rahatsız olmadan, tamamen doğal bir süreçle güne başlamak pek çok insan için uzak bir ihtimal gibi görünmektedir. Oysa uzmanların ve uyku sağlığı üzerine yapılan değerlendirmelerin işaret ettiği üzere, uyku düzeninizi biraz organize ederek doğal bir şekilde uyanmak tahmin etmediğiniz derecede kolay olabilir. Modern hayatın getirdiği yoğun temposu, her ne kadar insanları yüksek sesli ve ani uyarıcılara bağımlı kılıyor olsa da insan vücudu aslında kendi içsel ritmine sahip biyolojik bir saate bütünüyle sahiptir.\n\nUykunun kalitesini artırmak ve sabahları alarm sesine maruz kalmadan gözlerini açabilmek, öncelikle akşam saatlerinde atılacak adımlarla ve rutinlerin düzenlenmesiyle başlar. Uyku düzeninizi biraz organize etmek kavramı, aslında günün yirmi dört saatlik dilimini uyku ve uyanıklık dengesi gözeterek yeniden yapılandırmayı ifade eder. Biyolojik saatimiz, yani sirkadiyen ritmimiz, dış etkenlerden ziyade düzenli alışkanlıklarla en yüksek verimle çalışır. Dolayısıyla, her gün benzer saatlerde uyumak ve benzer saatlerde yatakta olmak, vücudun hangi zaman diliminde dinleneceğini ve hangi zaman diliminde uyanık kalacağını öğrenmesini sağlar.\n\nVücudun bu doğal akışına uyum sağlaması sürecinde, çevresel faktörlerin de en az içsel rutinler kadar büyük bir rol oynadığı bilinmektedir. Doğal bir şekilde uyanmak tahmin etmediğiniz derecede kolay olabilir tespiti, uykunun sadece kaç saat sürdüğünden ziyade, bu sürenin ne kadar kesintisiz ve kaliteli geçirildiğiyle doğrudan ilişkilidir. Akşamları uykuya geçişi kolaylaştıracak ortamların hazırlanması, odanın ışık ve sıcaklık dengesinin gözetilmesi, sabahları ise güneş ışığının odaya yavaşça süzülmesine izin verilmesi, alarm kurma zorunluluğunu ortadan kaldıran en temel unsurlar arasında yer alır.\n\nİnsan organizması, sabah saatlerinde yavaşça artan gün ışığı ve buna eşlik eden hormon salınımları sayesinde kendiliğinden uyanmak üzere tasarlanmıştır. Bu doğal mekanizmanın doğru şekilde çalışabilmesi için gece uykusunun derin ve dinlendirici olması şarttır. Uyku düzeninizi biraz organize ederek uykunun evrelerini daha verimli hale getirmek, sabahları yataktan kalkarken yaşanan sersemlik ve yorgunluk hissinin de büyük oranda azalmasına katkı sunar. Alarm sesinin yarattığı ani stres ve kalp atış hızı yükselmesi gibi olumsuzluklar, doğal uyanma yöntemi sayesinde tamamen ortadan kalkar.\n\nSonuç olarak, sabahları alarm kurma gereksinimini ortadan kaldırmak ve güne daha dinç bir başlangıç yapmak, radikal değişimlerden ziyade küçük ama tutarlı düzenlemelerle mümkündür. Uyku düzeninizi biraz organize ederek doğal bir şekilde uyanmak tahmin etmediğiniz derecede kolay olabilir gerçeği, bireylerin kendi vücut sinyallerini dinlemesi ve buna uygun bir yaşam tarzı benimsemesi gerektiğinin altını çizer. Günlük alışkanlıkların gözden geçirilmesi ve uyku hijyenine gereken önemin verilmesi, alarm saatlerine olan bağımlılığı azaltarak daha huzurlu sabahların kapısını aralamaktadır.",
-      "highlights": [
-        "Uyku düzenini organize ederek alarm kurmadan uyanmak mümkündür.",
-        "Biyolojik saat, düzenli alışkanlıklar sayesinde doğal ritmine kavuşur.",
-        "Doğru uyku hijyeni, sabahları yaşanan yorgunluk hissini azaltır."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/ced71gwqxl6o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-25T03:02:27.000Z",
       "category": "Dünya",
       "lang": "tr"
     }
