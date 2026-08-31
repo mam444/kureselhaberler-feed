@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-30T23:47:17.272Z",
+  "updatedAt": "2026-08-31T01:40:41.976Z",
   "usdTry": {
-    "price": 48.2472,
-    "changePct": 0.03566245075679566,
+    "price": 48.24,
+    "changePct": 0.02073398299814455,
     "stale": false
   },
   "eurTry": {
-    "price": 55.9428,
-    "changePct": 0.1310193736844365,
+    "price": 55.9499,
+    "changePct": 0.14372753697896737,
     "stale": false
   },
   "goldGramTry": {
-    "price": 6984.048589706215,
-    "changePct": -0.6070774189275702,
+    "price": 6975.406685081586,
+    "changePct": -0.715247577209202,
     "stale": false
   },
   "bist100": {
