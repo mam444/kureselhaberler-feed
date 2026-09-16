@@ -1,6 +1,236 @@
 {
-  "generatedAt": "2026-09-16T14:02:27.320Z",
+  "generatedAt": "2026-09-16T18:10:13.521Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/son-dakika-fed-faiz-karari-belli-oldu-3467585",
+      "headline": "Fed faiz kararını açıkladı: Politika faizi sabit bırakıldı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1642515561103-c7d7c943f6cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YmFuayUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODk1ODIxNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bart Ros",
+        "photographerUrl": "https://unsplash.com/@bartros",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-rabobank-building-too2MXe9sP4"
+      },
+      "timeAgo": "şimdi",
+      "body": "Küresel piyasaların büyük bir dikkatle ve merakla takip ettiği ABD Merkez Bankası (Fed) toplantısına ilişkin beklenen karar nihayet açıklandı. Finans çevreleri ve yatırımcılar tarafından günlerdir yakından izlenen süreçte, para otoritesi yeni döneme dair stratejisini netleştirdi. Küresel ekonomideki dengeler, enflasyon dinamikleri ve istihdam piyasasındaki gelişmelerin rol oynadığı bu kritik değerlendirme sonucunda, ABD Merkez Bankası politika faizini beklentilerle tam bir uyum içerisinde sabit tutma kararı aldı.\n\nAlınan bu stratejik karar doğrultusunda, ABD Merkez Bankası (Fed) politika faizini yüzde 3,75 ile yüzde 4,00 aralığında tutmaya devam edecek. Para politikasının yönünü belirleyen bu oran, piyasa aktörlerinin geniş kesimi tarafından öngörüldüğü gibi korundu. Ekonomik göstergelerin seyrine göre şekillenen bu oran, ülkedeki borçlanma maliyetlerinden tüketici kredilerine kadar pek çok kalemde mevcut dengelerin korunmasını sağlayacak bir çerçeve sunuyor. Uzmanlar, söz konusu faiz bandının finansal piyasalar tarafından halihazırda fiyatlanmış olduğuna dikkat çekiyor.\n\nDünya genelindeki tüm finans piyasaları, döviz kurları, emtia fiyatları ve tahvil piyasaları açısından kritik bir öneme sahip olan bu karar, açıklanmasının hemen ardından uluslararası borsalarda ve serbest piyasalarda yakından takip edildi. Fed'in attığı bu adım, Amerikan ekonomisinin mevcut konjonktürünü ve bankanın gelecekteki olası hamlelerine dair ipuçlarını okumak isteyen analistler tarafından derinlemesine inceleniyor. Politika faizinin yüzde 3,75-4,00 aralığında sabit bırakılması, hem ulusal hem de uluslararası ekonomik dengeler açısından önümüzdeki dönemin makroekonomik rotasını şekillendirecek temel unsurlardan biri olarak değerlendiriliyor.\n\nPara politikasını belirleyen yetkililerin önümüzdeki dönemde izleyeceği yol haritası, başta ABD ekonomisi olmak üzere gelişmekte olan ülkeler dahil tüm küresel ekonomileri etkileme potansiyelini koruyor. Enflasyonla mücadele sürecinde atılan adımların ve ekonomik büyüme verilerinin dengelenmeye çalışıldığı bu hassas dönemde, Fed'in faiz oranlarında değişikliğe gitmeyerek mevcut seviyeyi koruması ihtiyatlı bir yaklaşım olarak öne çıkıyor. Piyasalar, bundan sonraki süreçte açıklanacak ekonomik verilere ve banka yetkililerinin yapacağı olası açıklamalara odaklanmış durumda.\n\nSonuç olarak, ABD Merkez Bankası'nın gerçekleştirdiği bu olağan toplantıdan çıkan karar, finans dünyasının beklentileriyle birebir örtüşmesi sayesinde piyasalarda büyük bir şok yaratmadı. Politika faizinin yüzde 3,75-4,00 seviyesinde sabit kalmasıyla birlikte, yatırımcılar ve kurumlar mevcut ekonomik şartlara göre pozisyon almaya devam edecek. Küresel ekonominin yönü açısından hayati önem taşıyan bu oran, önümüzdeki dönemin para politikası hamleleri için de bir referans noktası olmaya devam edecek.",
+      "highlights": [
+        "ABD Merkez Bankası Fed, merakla beklenen faiz kararını duyurdu.",
+        "Politika faizi piyasa beklentileri doğrultusunda değiştirilmeyerek sabit bırakıldı.",
+        "Faiz oranı yüzde 3,75-4,00 aralığında tutulmaya devam edilecek."
+      ],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/son-dakika-fed-faiz-karari-belli-oldu-3467585",
+      "publishedAt": "2026-09-16T21:06:11.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+      "headline": "Demokratlardan Mike Johnson'a Meclis'i erken tatile soktuğu için eleştiri",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594581979864-36977b15d0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3ODk1ODIxODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andy Feliciotti",
+        "photographerUrl": "https://unsplash.com/@someguy",
+        "unsplashUrl": "https://unsplash.com/photos/united-states-capitol-in-washington-dc-6kA9FjqUxhM"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Amerika Birleşik Devletleri siyasetinde yaşanan son gelişmeler, Temsilciler Meclisi'ndeki dengeleri yeniden tartışmaya açtı. Meclis'in Cumhuriyetçi Başkanı Mike Johnson'ın, milletvekillerini planlanan tarihten bir gün önce tatile göndermesi Demokrat Partili isimlerin sert tepkisiyle karşılaştı. Temsilciler Meclisi üyelerinin yasama faaliyetlerine ara vererek evlerine dönme kararının alınması, Washington'da siyasi hareketliliğe neden oldu.\n\nAlınan bu beklenmeyen karar, yasama takviminde daha önceden planlanan birçok kritik oturumun ve oylamanın iptal edilmesine yol açtı. Özellikle perşembe günü yapılması öngörülen oylamaların düşmesi, meclis içindeki dengeleri doğrudan etkileyen bir gelişme olarak kayıtlara geçti. İptal edilen kritik gündem maddeleri arasında, Savunma Bakanı Pete Hegseth hakkında hazırlanan azil teklifine yönelik oylamanın da bulunduğu bildirildi.\n\nDemokrat milletvekilleri, bu hamlenin parlamenter süreçleri sekteye uğrattığını ve önemli denetim mekanizmalarının işletilmesini engellediğini savunuyor. Siyasi kulislerde, tatil kararının zamanlaması ve beraberinde getirdiği iptaller, iktidar ve muhalefet kanatları arasında yeni bir tartışma başlığı yarattı. Savunma Bakanı Pete Hegseth'e yönelik tasarının oylanamamış olması, muhalefet tarafından eleştirilerin merkezine yerleştirildi.\n\nWashington'daki siyasi atmosfer ısınmaya devam ederken, yaşanan bu gelişmeler önümüzdeki döneme ilişkin yasama çalışmalarının nasıl şekilleneceği konusunda soru işaretleri doğuruyor. Meclis yönetiminin aldığı tatil kararı ve bunun yasama takvimine etkileri, ABD siyasetinin güncel gündemindeki yerini koruyor. Demokratların konuyla ilgili tepkilerinin ve atacakları yeni adımların ne olacağı ise ilerleyen günlerde netleşecek.",
+      "highlights": [
+        "Mike Johnson'ın meclisi erken tatile sokması Demokratların tepkisini çekti.",
+        "Perşembe günü yapılması planlanan tüm oylamalar iptal edildi.",
+        "İptal edilen gündemde Savunma Bakanı Pete Hegseth'in azil teklifi de yer alıyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/live/2026/sep/16/donald-trump-iran-russia-midterms-north-carolina-latest-news-updates",
+      "publishedAt": "2026-09-16T18:04:57.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/son-dakika-turkiye-den-mekke-ye-iha-li-saldiriya-tepki-3912947",
+      "headline": "Türkiye'den Mekke'ye yönelik insansız hava aracı saldırısına sert tepki",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1761862062324-e0b9dc024433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bW9zcXVlJTIwbWluYXJldHxlbnwxfDB8fHwxNzg5NTgyMTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ekrem osmanoglu",
+        "photographerUrl": "https://unsplash.com/@konevi",
+        "unsplashUrl": "https://unsplash.com/photos/golden-dome-of-a-mosque-against-a-clear-blue-sky-Wt9IEna6wgY"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Türkiye Cumhuriyeti Dışişleri Bakanlığı, uluslararası kamuoyunu ve bölgesel güvenliği yakından ilgilendiren kritik bir konuda resmi bir kınama mesajı yayımladı. Yapılan açıklamada, Husilerin kutsal Mekke şehrini hedef alan insansız hava aracı (İHA) saldırısının şiddetle kınandığı vurgulandı. Bölgesel istikrarı ve kutsal mekanların güvenliğini tehdit eden bu tür eylemlerin kabul edilemez olduğu belirtilen açıklamada, Türkiye'nin konuya ilişkin net duruşu bir kez daha kamuoyuyla paylaşıldı.\n\nSöz konusu saldırının ardından Türkiye'nin üst düzey yetkilileri ve siyasi parti sözcüleri de peş peşe tepki mesajları yayımladılar. İletişim Başkanı Burhanettin Duran, sosyal medya hesabı üzerinden yaptığı paylaşımla saldırıyı lanetlediğini duyurdu. Duran, mesajında kutsal şehirlere ve sivil altyapıya yöneltilen bu tarz saldırıların bölgesel barışa ağır bir darbe vurduğunu ifade ederek tepkisini dile getirdi.\n\nBenzer şekilde, AK Parti Sözcüsü Çelik de sosyal medya aracılığıyla yaşanan gelişmelere sert tepki gösterdi. Çelik, yaptığı paylaşımda Mekke'ye yönelik gerçekleştirilen İHA saldırılarını kınayarak, kutsal mekanların hedef alınmasının hiçbir gerekçesinin olamayacağını belirtti. Siyasi mecralardan gelen bu ortak kınama mesajları, Türkiye'nin kutsal mekanların korunması konusundaki hassasiyetini ve kararlılığını gözler önüne serdi.\n\nGerçekleşen bu diplomatik tepki dizisi, Türkiye'nin dış politika ekseninde bölgedeki tüm güvenlik tehditlerine ve provokatif eylemlere karşı gösterdiği hassasiyetin bir yansıması olarak değerlendirildi. Dışişleri Bakanlığı başta olmak üzere devletin yetkili makamları, bu tür saldırıların uluslararası hukuka ve barış çabalarına açık bir meydan okuma teşkil ettiğini savunuyor.\n\nSon dönemde artış gösteren ve özellikle stratejik noktaları hedef alan insansız hava aracı saldırıları, bölge ülkeleri ve uluslararası aktörler tarafından yakından takip ediliyor. Türkiye'nin yayımladığı bu kınama metni ve yetkililerin sosyal medya üzerinden yaptığı paylaşımlar, yaşanan olaylar karşısındaki diplomatik tavrın ve tepkinin net bir göstergesi olmayı sürdürüyor.",
+      "highlights": [
+        "Dışişleri Bakanlığı, Mekke'ye düzenlenen İHA saldırısını şiddetle kınadı.",
+        "İletişim Başkanı Burhanettin Duran, sosyal medya paylaşımıyla saldırıyı lanetledi.",
+        "AK Parti Sözcüsü Çelik de tepkisini sosyal medya üzerinden dile getirdi."
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-turkiye-den-mekke-ye-iha-li-saldiriya-tepki-3912947",
+      "publishedAt": "2026-09-16T18:02:18.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/ekonomi/abd-merkez-bankasi-politika-faizini-25-baz-puan-artisla-yuzde-3-75-4-araligina-yukseltti-/4059423",
+      "headline": "Amerika Birleşik Devletleri Merkez Bankası politika faizini yükseltti",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1633059050703-0f1b50828402?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmVkZXJhbCUyMHJlc2VydmUlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzg5NTgyMTkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Joshua Woroniecki",
+        "photographerUrl": "https://unsplash.com/@joshuaworoniecki",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-flag-on-the-corner-Skfy8ljB7X4"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Küresel ekonomi çevrelerinin yakından takip ettiği para politikası kararları çerçevesinde yeni bir adım atıldı. Amerika Birleşik Devletleri Merkez Bankası, yürütmekte olduğu para politikası operasyonları kapsamında politika faizinde değişikliğe gitme kararı aldı. Alınan son kararla birlikte, ülkedeki temel faiz oranı yirmi beş baz puan oranında bir artışa tabi tutuldu. Gerçekleştirilen bu yukarı yönlü revizyon sonucunda, gösterge faiz oranının bulunduğu aralık da yeniden şekillendi.\n\nYapılan resmi açıklamalara göre, söz konusu faiz artışının ardından Amerika Birleşik Devletleri'nde politika faizi yüzde 3,75 ila yüzde 4 seviyeleri aralığına taşınmış oldu. Bu oran, son dönemdeki ekonomik göstergeler ve enflasyonla mücadele stratejileri doğrultusunda şekillenen para politikası adımlarının somut bir yansıması olarak değerlendiriliyor. Merkez bankalarının attığı bu tür adımlar, hem ulusal ekonomi hem de uluslararası finans piyasaları üzerinde geniş yankı uyandırması nedeniyle büyük bir önem taşımaktadır.\n\nFinans piyasalarının ve yatırımcıların uzun süredir odaklandığı bu toplantıdan çıkan sonuç, ekonomik dengelerin gözetildiği bir süreçte alındı. Politika faizindeki yirmi beş baz puanlık bu artış, ülkenin para otoritesinin mevcut ekonomik koşullara uyum sağlama çabasının bir parçası olarak kayıtlara geçti. Uzmanlar, faiz koridorunun yüzde 3,75-4 bandına yükseltilmesinin piyasa dinamikleri üzerindeki etkilerini analiz etmeye devam ederken, karar metninde yer alan ifadeler de gelecek döneme ilişkin ipuçları barındırıyor.\n\nEkonomi otoritelerinin ve serbest piyasa aktörlerinin yakından izlediği bu süreç, borçlanma maliyetlerinden döviz krizlerine, kredi faizlerinden tüketici harcamalarına kadar geniş bir yelpazeyi doğrudan etkiliyor. Amerika Birleşik Devletleri Merkez Bankası'nın faiz oranlarını bu aralığa çekmesi, özellikle küresel ticaret ve sermaye akışları açısından kritik bir eşik oluşturmaktadır. Piyasalar, bundan sonraki süreçte açıklanacak makroekonomik verileri ve merkez bankası yetkililerinin yapacağı sözlü yönlendirmeleri dikkate alarak pozisyon almayı sürdürecek.\n\nGerçekleştirilen bu faiz artışı hamlesi, son yıllarda izlenen sıkı para politikası adımlarının bir devamı niteliğini taşıyor. Yüzde 3,75-4 aralığına yükselen politika faizi ile birlikte, ülkedeki finansal istikrarın korunması ve fiyat istikrarının sağlanması amacıyla atılan adımlar kararlılıkla sürdürülmüş oldu. Hem ulusal hem de uluslararası düzeyde ekonomik dengeleri etkileme potansiyeline sahip bu karar, önümüzdeki dönemde para politikası kurullarının alacağı diğer kararlar için de bir referans noktası teşkil edecektir.",
+      "highlights": [
+        "Amerika Birleşik Devletleri Merkez Bankası politika faizinde artışa gitti.",
+        "Faiz oranı yirmi beş baz puanlık bir oranla yükseltildi.",
+        "Yeni politika faizi yüzde 3,75 ila yüzde 4 aralığında belirlendi."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/ekonomi/abd-merkez-bankasi-politika-faizini-25-baz-puan-artisla-yuzde-3-75-4-araligina-yukseltti-/4059423",
+      "publishedAt": "2026-09-16T18:02:11.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/fatihte-insaatin-birinci-katindan-dusen-isci-agir-yaralandi-4856502",
+      "headline": "Fatih'te inşaat kazası: Birinci kattan demirlerin üzerine düşen işçi ağır yaralandı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1694521788304-1d42378498da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y29uc3RydWN0aW9uJTIwc2l0ZSUyMHdvcmtlcnxlbnwxfDB8fHwxNzg5NTgyMTk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Glenov Brankovic",
+        "photographerUrl": "https://unsplash.com/@glenovbrankovic",
+        "unsplashUrl": "https://unsplash.com/photos/a-construction-worker-standing-in-a-pile-of-sand-k3Xa8xH2TPY"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Türkiye'nin en kalabalık ve hareketli metropollerinden biri olan İstanbul'un tarihi ve merkezi ilçelerinden Fatih'te, çalışma hayatının en riskli alanlarından biri olan inşaat sektöründe endişe verici bir kaza meydana geldi. Kent genelinde süren çok sayıda yapı ve şantiye faaliyetinden biri sırasında yaşanan bu talihsiz olay, iş güvenliği konusunun ve şantiyelerdeki denetim ile tedbirlerin önemini bir kez daha gözler önüne serdi.\n\nEdinilen bilgilere göre, Fatih sınırları içinde yer alan bir inşaat sahasında mesai yapmakta olan işçilerden 60 yaşındaki Zihni Demirsoy, yapının birinci kat seviyesinde faaliyetlerini sürdürdüğü esnada beklenmedik bir şekilde dengesini yitirdi. Gün boyunca yoğun bir tempoda çalışan emekçinin, henüz belirlenemeyen bir sebepten ötürü ayaklarının kayması ya da basacağı zemini tam olarak kestirememesi sonucunda metrelerce yükseklikten aşağıya doğru düştüğü öğrenildi.\n\nZihni Demirsoy'un düşüş istikametinde bulunan ve inşaat sektöründe yapıların dayanıklılığını artırmak amacıyla yoğun olarak kullanılan sivri ve tehlikeli demir yığınlarının üzerine çakılması, olayın ciddiyetini ve vahametini daha da artırdı. Birinci kattan doğrudan inşaat demirlerinin üzerine düşen 60 yaşındaki işçi, bu sert ve tehlikeli çarpmanın etkisiyle ağır bir şekilde yaralandı. Şantiyede bulunan diğer mesai arkadaşlarının durumu fark etmesiyle birlikte olay yerinde büyük bir panik ve endişe hakim oldu.\n\nÇevredeki diğer çalışanların durumu 112 Acil Çağrı Merkezi'ne bildirmesinin ardından, ihbar üzerine olay yerine çok kısa süre içerisinde sağlık ve güvenlik ekipleri sevk edildi. Sağlık görevlilerinin inşaat sahasına ulaşmasıyla birlikte, demirlerin üzerine düşerek ağır yaralanan Zihni Demirsoy'a olay yerinde ilk müdahale ivedilikle gerçekleştirildi. Ekiplerin titiz ve dikkatli çalışmaları sonucunda yaralı işçi, sedye yardımıyla ambulansa taşındı.\n\nAmbulansa alınan 60 yaşındaki Zihni Demirsoy, sağlık ekiplerinin refakatinde en yakın hastaneye hızla nakledildi. Hastanenin acil servisinde tedavi altına alınan işçinin sağlık durumunun ciddiyetini koruduğu ve hayati tehlikesinin devam ettiği belirtilirken, olayla ilgili olarak resmi makamlarca inceleme ve soruşturma süreci başlatıldığı ifade edildi.",
+      "highlights": [
+        "Fatih'teki bir inşaatta çalışan 60 yaşındaki Zihni Demirsoy dengesini kaybetti.",
+        "Birinci kattan inşaat demirlerinin üzerine düşen işçi ağır şekilde yaralandı.",
+        "Olay yerine gelen sağlık ekiplerince hastaneye kaldırılan işçi tedavi altına alındı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/fatihte-insaatin-birinci-katindan-dusen-isci-agir-yaralandi-4856502",
+      "publishedAt": "2026-09-16T17:57:42.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
+      "headline": "Küresel bölünmeler Güvenlik Konseyi'ni kilitliyor: Guterres'ten acil reform çağrısı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1706823871410-ed8b01faef7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8V29ybGR8ZW58MXwwfHx8MTc4OTU4MjE5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nikhilesh Boppana",
+        "photographerUrl": "https://unsplash.com/@nikhilens",
+        "unsplashUrl": "https://unsplash.com/photos/a-map-of-the-world-made-out-of-wood-j9jBsNg2pSw"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Dünya genelinde yaşanan krizler karşısında uluslararası toplumun en üst düzey karar alma organlarından biri olan mekanizmaların yetersiz kalması, küresel diplomasi platformlarında gündemdeki yerini koruyor. Birleşmiş Milletler Genel Sekreteri Antonio Guterres, uluslararası alandaki mevcut siyasi ve jeopolitik ayrışmaların, Güvenlik Konseyi'nin uluslararası meseleler karşısında hızlı ve etkili adımlar atmasının önündeki en büyük engellerden birini oluşturduğunu belirtti. Konuyla ilgili yaptığı değerlendirmelerde, mevcut yapının günümüz dünya gerçeklerinden uzaklaştığına ve küresel sorunlarla başa çıkabilmek adına kapsamlı bir yapılanmaya acilen ihtiyaç duyulduğuna dikkat çekti.\n\nGünümüz dünyasında ortaya çıkan çatışmalar, insani dramlar ve uluslararası krizler, çok taraflı diplomasi mekanizmalarının işleyişini doğrudan etkiliyor. Birleşmiş Milletler Güvenlik Konseyi'nin daimi üyeleri ve diğer paydaşları arasındaki derinleşen siyasi uçurumlar, küresel barış ve güvenliği tehdit eden gelişmeler karşısında ortak bir tutum sergilenmesini güçleştiriyor. Bu durum, uluslararası toplumun kriz bölgelerinde müdahale kapasitesini sınırlarken, diplomatik çözümlerin de gecikmesine yol açıyor. Genel Sekreter Guterres'in dile getirdiği endişeler, bu kurumsal kilitlenmenin uluslararası istikrar açısından yarattığı riskleri bir kez daha gözler önüne seriyor.\n\nUluslararası ilişkiler uzmanları ve diplomatik çevreler, Güvenlik Konseyi'nin yapısının yirmi birinci yüzyılın dinamiklerine uygun olarak yeniden ele alınması gerektiği yönündeki görüşleri uzun süredir savunuyor. Mevcut karar alma süreçleri, özellikle veto yetkisi gibi mekanizmalar nedeniyle, çıkmaza girebiliyor. Guterres'in yaptığı son açıklamalar da bu yapısal tıkanıklığın altını çizerken, küresel aktörlerin sorumluluk alması ve daha kapsayıcı bir sistemin inşası için çağrıda bulunma niteliği taşıyor. Yapısal reformların hayata geçirilmesi, organın gelecekteki krizlere karşı daha işlevsel ve esnek bir yapıya kavuşması açısından kritik önem arz ediyor.\n\nKüresel barışı koruma misyonunu üstlenen bu kurumun etkinliğinin azalması, dünya genelindeki sivil halkları ve çatışma bölgelerindeki mazlum insanları doğrudan etkileyen sonuçlar doğuruyor. Siyasi çekişmelerin insani yardımların ulaştırılmasını ve barış müzakerelerinin başlatılmasını engellemesi, uluslararası hukukun ve insan haklarının korunması hususunda kaygıları artırıyor. Guterres'in uyarıları, bu kısır döngünün kırılması ve küresel krizlerin çözümünde çok taraflılığın yeniden canlandırılması gerektiği yönündeki çağrıların en üst düzeyde yinelendiğini gösteriyor.\n\nÖnümüzdeki dönemde Güvenlik Konseyi'nin reforme edilmesine yönelik tartışmaların diplomatik ajandada daha üst sıralara çıkması bekleniyor. Üye ülkelerin bu süreçte atacağı adımlar, Birleşmiş Milletler'in küresel meselelerdeki ağırlığını ve inandırıcılığını koruması bakımından belirleyici olacak. Genel Sekreter'in vurguladığı üzere, jeopolitik bölünmelerin aşılması ve ortak akılla hareket edilmesi, hem kurumsal güvenilirlik hem de dünya barışının tesis edilmesi adına hayati bir zorunluluk olarak öne çıkıyor.",
+      "highlights": [
+        "Guterres, jeopolitik ayrışmaların Güvenlik Konseyi'nin etkinliğini engellediğini belirtti.",
+        "Birleşmiş Milletler Genel Sekreteri acil reform çağrısında bulundu.",
+        "Mevcut siyasi bölünmeler küresel krizlere karşı hamle yapmayı zorlaştırıyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/9/16/geopolitical-divides-fueling-security-council-inaction-guterres-warns?traffic_source=rss",
+      "publishedAt": "2026-09-16T17:55:49.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.sabah.com.tr/ekonomi/finansal-istikrar-komitesi-toplaniyor-7662210",
+      "headline": "Finansal İstikrar Komitesi piyasalardaki son durum için bir araya geliyor",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1688380692117-63178554d76d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZmluYW5jZSUyMG1lZXRpbmd8ZW58MXwwfHx8MTc4OTU4MjIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fatemeh Rezvani",
+        "photographerUrl": "https://unsplash.com/@irzvn_",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-around-a-laptop-computer-MnPWB-ybjHQ"
+      },
+      "timeAgo": "23 dk önce",
+      "body": "Türkiye'nin ekonomik ve finansal mimarisinde kritik bir rol üstlenen yapısal kurullardan biri olan Finansal İstikrar Komitesi (FİK), piyasalardaki güncel hareketlilikleri ve makroekonomik gelişmeleri masaya yatırmak üzere kapsamlı bir toplantı gerçekleştirmeye hazırlanıyor. Hazine ve Maliye Bakanlığı tarafından yapılan resmi bilgilendirmeye göre, ülkenin finansal istikrarının korunması ve piyasalarda güven ortamının pekiştirilmesi amacıyla düzenli olarak toplanan komite, gündemindeki konuları etraflıca ele alacak.\n\nGerçekleştirilmesi planlanan bu kritik zirvede, küresel ve yerel ekonomik dinamiklerin Türk finans piyasaları üzerindeki olası yansımaları detaylı bir şekilde analiz edilecek. Yatırımcıların ve ekonomi çevrelerinin yakından takip ettiği komite toplantısında, piyasalarda gözlenen son dalgalanmaların arka planı incelenirken, olası risklere karşı alınabilecek ihtiyati tedbirler de değerlendirilecek başlıklar arasında yer alıyor.\n\nToplantının en önemli gündem maddelerinden birini, Hazine ve Maliye Bakanı Mehmet Şimşek'in koordinesinde yürütülen ekonomik politikalar ve bu politikaların sahadaki yansımaları oluşturuyor. Bakan Şimşek'in liderliğinde bir araya gelecek olan komite üyeleri, ilgili kamu kurumları ve düzenleyici otoriteler arasındaki eşgüdümün artırılmasına yönelik atılacak adımları gözden geçirecek.\n\nEkonomik güvenin ve sürdürülebilir büyümenin temel yapı taşlarından biri olan finansal istikrarın muhafaza edilmesi, kurulun temel misyonları arasında bulunuyor. Bu doğrultuda, bankacılık sektöründen sermaye piyasalarına kadar geniş bir yelpazede faaliyet gösteren paydaşların yakından izlediği gelişmeler, komite masasında tüm yönleriyle ele alınarak ortak bir değerlendirme çerçevesine oturtulacak.\n\nToplantı sonrasında, piyasalardaki aktörlerin ve kamuoyunun bilgilendirilmesi amacıyla süreçle ilgili kapsamlı değerlendirmelerin yapılması bekleniyor. Finansal sistemin dayanıklılığını artırmaya yönelik stratejik kararların alındığı ve makro ihtiyati politikaların güncellendiği bu tür üst düzey toplantılar, Türkiye'nin ekonomik istikrar programının kararlılıkla sürdürüldüğünün bir göstergesi olarak değerlendiriliyor.",
+      "highlights": [
+        "Finansal İstikrar Komitesi piyasalardaki son gelişmeleri değerlendirecek.",
+        "Toplantı Hazine ve Maliye Bakanlığı'nın duyurusuyla gerçekleştirilecek.",
+        "Zirveye Hazine ve Maliye Bakanı Mehmet Şimşek başkanlık edecek."
+      ],
+      "externalUrl": "https://www.sabah.com.tr/ekonomi/finansal-istikrar-komitesi-toplaniyor-7662210",
+      "publishedAt": "2026-09-16T17:47:09.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/disisleri-bakanligindan-husilerin-mekkeyi-hedef-alan-saldirilarina-tepki-1742146",
+      "headline": "Dışişleri Bakanlığı'ndan Husiler'in Mekke'yi hedef alan saldırılarına tepki",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1761862062324-e0b9dc024433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bW9zcXVlJTIwZXh0ZXJpb3J8ZW58MXwwfHx8MTc4OTU4MjIwNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ekrem osmanoglu",
+        "photographerUrl": "https://unsplash.com/@konevi",
+        "unsplashUrl": "https://unsplash.com/photos/golden-dome-of-a-mosque-against-a-clear-blue-sky-Wt9IEna6wgY"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "Türkiye Cumhuriyeti Dışişleri Bakanlığı, uluslararası kamuoyunun yakından takip ettiği gelişmeler çerçevesinde, Yemen'deki Husiler tarafından kutsal şehir Mekke'yi hedef alan insansız hava aracı saldırılarına yönelik resmi bir kınama mesajı yayımladı. Bölgesel istikrarı ve güvenliği tehdit eden bu tür eylemler, diplomatik çevrelerde endişeyle karşılanırken, Türkiye'nin konuya ilişkin duruşu ve tepkisi açık bir dille kamuoyuyla paylaşıldı.\n\nGerçekleştirilen bu saldırıların hedefi olan Mekke, İslam dünyası açısından taşıdığı merkezi ve manevi önem nedeniyle büyük bir hassasiyet barındırıyor. Söz konusu İHA saldırılarının kutsal mekanları ve sivil yerleşimleri doğrudan tehdit etmesi, bölgede barış ve huzurun tesis edilmesine yönelik çabaları sekteye uğratırken, uluslararası toplumun bu tür provokasyonlara karşı ortak bir duruş sergilemesi gerekliliğini bir kez daha gözler önüne serdi.\n\nBakanlık tarafından yapılan resmi açıklamada, Türkiye'nin terörle ve her türlü şiddet eylemiyle mücadeledeki kararlı tutumu yinelendi. Bölgesel güvenlik dengelerini altüst etmeyi amaçlayan bu saldırıların kabul edilemez olduğu vurgulanırken, kardeş ve dost ülkelerin toprak bütünlüğüne ve güvenliğine verilen destek bir kez daha teyit edildi.\n\nYaşanan bu son gelişme, Yemen'deki krizin bölgesel boyutunu ve kutsal bölgelerin güvenliğinin ne denli kritik bir mesele olduğunu bir kez daha hatırlattı. Dışişleri Bakanlığı, benzer saldırıların tekrarlanmaması ve bölgede kalıcı barışın sağlanması için diplomatik kanalların etkin bir şekilde işletilmesi gerektiğinin altını çizdi.\n\nTürkiye'nin dış politikadaki öncelikleri arasında yer alan bölgesel barış ve istikrarın korunması ilkesi doğrultusunda, Mekke'yi hedef alan bu saldırılara karşı gösterilen tepki, uluslararası diplomatik platformlarda da yankı buldu. Bakanlık, konunun yakından takip edildiğini ve bölgedeki gelişmeler karşısında Türkiye'nin yapıcı rolünü sürdürmeye devam edeceğini belirtti.",
+      "highlights": [
+        "Dışişleri Bakanlığı, Husiler'in Mekke'ye yönelik İHA saldırılarını kınadı.",
+        "Açıklamada saldırıların kutsal mekanları hedef aldığı vurgulandı.",
+        "Türkiye bölgesel güvenlik ve barışın korunması gerektiğine dikkat çekti."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/disisleri-bakanligindan-husilerin-mekkeyi-hedef-alan-saldirilarina-tepki-1742146",
+      "publishedAt": "2026-09-16T17:44:50.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.dw.com/tr/ingiltere-sığınmacı-planına-kızan-köy-bağımsızlık-ilan-etti/a-79296965?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "İngiltere'de 350 nüfuslu köyden sığınmacı planına tepki: Sembolik bağımsızlık kararı",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1670620800615-4225fe6ecb75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZW5nbGlzaCUyMHZpbGxhZ2V8ZW58MXwwfHx8MTc4OTU4MjIxMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "George Ciobra",
+        "photographerUrl": "https://unsplash.com/@george_ciobra",
+        "unsplashUrl": "https://unsplash.com/photos/a-street-lined-with-stone-buildings-next-to-a-lush-green-forest-LX1k7rOj7Sg"
+      },
+      "timeAgo": "37 dk önce",
+      "body": "Dünya genelinde yerel yönetimler ile merkezî hükümetler arasında zaman zaman yaşanan krizlere bir yenisi İngiltere'de eklendi. Ülke genelinde tartışma yaratan göçmen ve sığınmacı politikaları, küçük bir yerleşim yerinde beklenmedik ve sıra dışı bir protesto biçiminin ortaya çıkmasına zemin hazırladı. Edinilen bilgilere göre, sadece 350 kişilik bir nüfusa sahip olan sakin bir köy, merkezî hükümet tarafından hayata geçirilmek istenen tartışmalı bir yerleştirme planına karşı sert bir duruş sergiledi. \n\nSöz konusu gerilimin temelinde, hükümetin bölgeye 1200'ü aşkın erkek sığınmacıyı yerleştirme yönündeki girişimi yatıyor. Bu planın duyulmasının ardından köy halkı arasında büyük bir huzursuzluk baş gösterdi. Yerleşik sakinler, altyapının ve mevcut imkânların bu büyüklükte bir nüfus hareketini kaldırmaya yetmeyeceğini savunarak karara karşı çeşitli eylemler ve istişareler organize etti.\n\nYetkililerin adımını protesto etmek amacıyla köyde olağanüstü bir süreç işletildi ve sembolik bir referandum sandığı kuruldu. Halkın yoğun ilgi gösterdiği bu gayriresmî oylamada, merkezi otoriteye mesaj vermek amacıyla dikkat çekici bir karar alındı. Yapılan sayımlar sonucunda, bölge sakinlerinin oylarıyla Birleşik Krallık'tan ayrılma yönünde bir irade ortaya çıktı.\n\nHer ne kadar hukuki ve uluslararası alanda hiçbir geçerliliği bulunmasa da alınan bu sembolik ayrılık kararı, İngiltere kamuoyunda geniş yankı uyandırdı. Küçük bir yerleşimin gösterdiği bu tepki, merkezî yönetimin göç politikalarına karşı yerelde duyulan rahatsızlığın boyutlarını gözler önüne seren sembolik bir hareket olarak kayıtlara geçti.\n\nSüreç boyunca köy sakinleri, alınan kararın tamamen barışçıl bir protesto niteliği taşıdığına dikkat çekti. Merkezî hükümetin planlarında herhangi bir değişikliğe gidip gitmeyeceği ya da bölge halkının bu eylem sonrasında yeni adımlar atıp atmayacağı ise önümüzdeki günlerde yaşanacak gelişmelerle netleşecek.",
+      "highlights": [
+        "İngiltere'de 350 nüfuslu bir köy sığınmacı planına karşı ayaklandı.",
+        "Bölgeye 1200'ü aşkın erkek sığınmacı yerleştirilmesi planlanıyordu.",
+        "Düzenlenen sembolik referandumda Birleşik Krallık'tan ayrılma kararı çıktı."
+      ],
+      "externalUrl": "https://www.dw.com/tr/ingiltere-sığınmacı-planına-kızan-köy-bağımsızlık-ilan-etti/a-79296965?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-09-16T17:33:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "headline": "Gazze'de hasarlı binanın çökmesi sonucu 8'i çocuk 21 kişi hayatını kaybetti",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1686620225824-d4120ed3a81e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y29sbGFwc2VkJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4OTU4MjIxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jade Koroliuk",
+        "photographerUrl": "https://unsplash.com/@jadekoroliuk",
+        "unsplashUrl": "https://unsplash.com/photos/a-very-large-building-that-has-been-destroyed-PH9S5SfpV0E"
+      },
+      "timeAgo": "53 dk önce",
+      "body": "Yaşanan son gelişmeler, bölgedeki insani krizin boyutlarını bir kez daha gözler önüne sererken, arama kurtarma ekiplerinin verdiği bilgilere göre Gazze Şehri'nde hasar görmüş bir binanın yıkılması neticesinde aralarında çocukların da bulunduğu çok sayıda insan yaşamını yitirdi. Facianın ardından bölgeye sevk edilen ekipler, enkaz altında kalan vatandaşlara ulaşmak için yoğun bir çalışma yürüttü.\n\nYetkililer tarafından paylaşılan ilk raporlara göre, altı katlı bu yapının daha önceki çatışmalar sürecinde isabet alarak yapısal hasar gördüğü belirtildi. Geçtiğimiz yıl gerçekleşen bir İsrail saldırısı sonucunda zarar gören binanın, o dönemden bu yana tehlike arz ettiği biliniyordu.\n\nTüm bu risklere rağmen, bölgedeki konut sıkıntısı ve barınma krizi nedeniyle yaklaşık 10 ailenin bu tehlikeli yapıda yaşamını sürdürmeye devam ettiği aktarıldı. Savaşın getirdiği zorluklar ve yerinden edilme dalgası, sivilleri bu tür riskli binalarda kalmaya mecbur bırakan temel etkenler arasında yer alıyor.\n\nGerçekleşen bu trajik çökme olayı, bölgedeki altyapının ne kadar büyük bir tahribata uğradığını ve hâlihazırda ayakta durmaya çalışan binaların ne denli büyük bir güvenlik riski barındırdığını bir kez daha kanıtladı. Uzmanlar ve gözlemciler, savaş kalıntısı yapıların ani yıkılma tehlikelerine karşı sürekli bir tehdit oluşturduğunu vurguluyor.\n\nArama kurtarma çalışmaları sonucunda enkaz altından çıkarılan cansız bedenlerin kimlik tespiti ve ailelere ulaştırılması süreçleri devam ederken, olay yerindeki ekipler olası diğer risklere karşı bölgede güvenlik önlemlerini artırdı. Yaşanan bu olay, bölgede süregelen çatışmaların sivil halk üzerindeki yıkıcı etkilerini ve barınma krizinin aciliyetini bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Gazze Şehri'nde altı katlı hasarlı bir bina henüz belirlenemeyen bir nedenle çöktü.",
+        "Olayda sekizi çocuk olmak üzere toplam 21 kişinin hayatını kaybettiği bildirildi.",
+        "Binada, geçen yılki saldırıda zarar görmesine rağmen yaklaşık 10 ailenin yaşadığı belirtildi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-16T17:16:47.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/elazigda-feci-kaza-otomobil-ikiye-bolundu-2-olu-2-yarali-3467496",
       "headline": "Elazığ'da iki otomobilin çarpıştığı feci kazada iki kişi yaşamını yitirdi",
@@ -6670,236 +6900,6 @@
       "publishedAt": "2026-09-12T03:02:28.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://news.sky.com/story/trump-due-to-arrive-in-ireland-as-major-security-operation-under-way-13584681",
-      "headline": "Trump İrlanda'ya varıyor: Ülke genelinde geniş güvenlik önlemleri devrede",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1517400508447-f8dd518b86db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YWlycG9ydCUyMHNlY3VyaXR5fGVufDF8MHx8fDE3ODkxODg3ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Erik Odiin",
-        "photographerUrl": "https://unsplash.com/@odiin",
-        "unsplashUrl": "https://unsplash.com/photos/person-looking-up-to-the-flight-schedules-jbQvJx2EWnU"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "ABD'nin eski başkanı Donald Trump'ın bu sabah saatlerinde İrlanda'ya iniş yapması beklenirken, ülkenin emniyet güçleri tarafından tarihin en kapsamlı güvenlik operasyonlarından biri hayata geçiriliyor. Güvenlik birimlerinin sabahın erken saatlerinden itibaren üst düzey alarm durumuna geçtiği ve havalimanı başta olmak üzere ziyaret rotası üzerinde olağanüstü tedbirler aldığı bildirildi.\n\nYetkililer, ülkenin polis teşkilatının koordinesinde yürütülen bu devasa operasyonun, şimdiye kadar ulusal düzeyde uygulanan en büyük güvenlik planlamalarından biri olarak kayıtlara geçtiğini ifade ediyor. Alınan önlemler kapsamında kritik noktaların çevresinde yoğun güvenlik kordonları oluşturulduğu, havadan ve karadan sürekli devriye faaliyetlerinin sürdürüldüğü kaydedildi.\n\nSöz konusu ziyaretin gerçekleşeceği bölgede günlük yaşamın akışı da güvenlik tedbirlerinden doğrudan etkileniyor. Trafik akışında geçici düzenlemelere gidilirken, kritik güzergâhlar ve çevresindeki bazı alanlar güvenlik gerekçesiyle yaya ve araç geçişlerine kısıtlandı. Yerel yetkililer, seyahat edecek vatandaşların ve bölgede bulunacak kişilerin olası aksamalara karşı hazırlıklı olması gerektiğini vurguladı.\n\nUluslararası düzeyde yakından takip edilen bu tür üst düzey ziyaretler, ev sahibi ülkelerin güvenlik birimleri açısından her zaman lojistik ve stratejik açıdan büyük bir sınav niteliği taşıyor. İrlanda makamlarının da bu doğrultuda tüm birimleriyle tam koordinasyon halinde çalıştığı ve olası herhangi bir güvenlik zafiyetine karşı hiçbir ayrıntıyı şansa bırakmadığı aktarıldı.\n\nTrump'ın İrlanda topraklarına ayak basmasının ardından temaslarına başlaması öngörülürken, geniş güvenlik çemberinin ziyaret süresince kesintisiz olarak sürdürüleceği belirtildi. Emniyet yetkilileri, operasyonun sorunsuz bir şekilde tamamlanması için tüm imkânların seferber edildiğini ve sürecin yakından izlendiğini yineledi.",
-      "highlights": [
-        "Donald Trump'ın bu sabah saatlerinde İrlanda'ya varması bekleniyor.",
-        "İrlanda polisi tarafından ülkenin en büyük güvenlik operasyonlarından biri yürütülüyor.",
-        "Ziyaret rotası üzerinde havadan ve karadan olağanüstü tedbirler alındı."
-      ],
-      "externalUrl": "https://news.sky.com/story/trump-due-to-arrive-in-ireland-as-major-security-operation-under-way-13584681",
-      "publishedAt": "2026-09-12T02:06:00.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-okullarda-14-eylulde-dersler-10-00-15-00-saatleri-arasinda-yapilacak-3465463",
-      "headline": "İstanbul'daki okullarda 14 Eylül'de dersler 10.00-15.00 saatleri arasında yapılacak",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c2Nob29sJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4OTE3MjgwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Priscilla Du Preez 🇨🇦",
-        "photographerUrl": "https://unsplash.com/@priscilladupreez",
-        "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photography-of-bookshelfs-ggeZ9oyI-PE"
-      },
-      "timeAgo": "şimdi",
-      "body": "İstanbul genelindeki tüm eğitim kurumlarında öğrencileri ve velileri yakından ilgilendiren yeni bir düzenleme hayata geçiriliyor. Alınan karar doğrultusunda,megakentteki okullarda eğitim ve öğretim faaliyetleri belirli bir gün için zamansal olarak yeniden şekillendirilecek. Milyonlarca öğrencinin ve öğretmenlerin günlük rutinini etkileyecek olan bu uygulama kapsamında, önümüzdeki günlerde özel bir saat uygulamasına gidileceği netlik kazandı.\n\nBelirlenen takvime göre, İstanbul sınırları içerisindeki okullarda ders zili bu hafta içerisinde farklı bir zaman diliminde çalacak. Yapılan resmî açıklamada paylaşılan detaylara göre, söz konusu uygulama sadece tek bir günü kapsayacak şekilde planlandı. Bu bağlamda, milyonlarca öğrencinin eğitim aldığı okul binalarında mesai, haftanın ortasındaki belirli bir tarihte olağan akışından farklı bir saat aralığında yürütülecek.\n\nKonuya ilişkin yapılan bilgilendirmede, özellikle 14 Eylül tarihinde derslerin işleniş saatleri konusunda esnekliğe gidildiği vurgulandı. Buna göre, İstanbul'daki okullarda 14 Eylül'de dersler 10.00 ile 15.00 saatleri arasında yapılacak. Sabah saatlerinde evlerinden çıkacak olan öğrenciler ile veliler, bu özel zaman aralığına göre günlük planlamalarını yeniden gözden geçirmek durumunda kalacaklar.\n\nEğitim yılının ve dönemin belirli dönemlerinde yaşanan bu tür zamansal düzenlemeler, genellikle ulaşım, kent içi yoğunluk ve benzeri lojistik faktörler göz önünde bulundurularak hayata geçiriliyor. İstanbul gibi nüfus yoğunluğunun ve günlük hareketliliğin en üst seviyede olduğu büyük metropollerde, okulların başlangıç ve bitiş saatlerinin yeniden ayarlanması hem toplu taşıma sistemini hem de yaya trafiğini doğrudan etkileyen unsurlar arasında yer alıyor.\n\nOkul yönetimleri, öğretmenler, öğrenciler ve veliler bu karar doğrultusunda hazırlıklarını sürdürürken, belirtilen gün ve saatlerde herhangi bir aksama yaşanmaması adına gerekli idari tedbirlerin alındığı ifade ediliyor. 14 Eylül tarihinde geçerli olacak 10.00-15.00 saat aralığı, sadece o gün için geçerli bir istisnai uygulama olarak kayıtlara geçecek ve eğitim süreçleri bu çerçevede yürütülecek.",
-      "highlights": [
-        "İstanbul'daki okullarda 14 Eylül tarihinde ders saatleri değiştirildi.",
-        "Yeni düzenlemeye göre dersler 10.00 ile 15.00 saatleri arasında yapılacak.",
-        "Uygulama megakent genelindeki eğitim kurumlarını kapsayacak."
-      ],
-      "externalUrl": "https://www.cnnturk.com/yerel-haberler/istanbul/istanbuldaki-okullarda-14-eylulde-dersler-10-00-15-00-saatleri-arasinda-yapilacak-3465463",
-      "publishedAt": "2026-09-12T02:04:03.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-onumuzde-gercekten-buyuk-bir-potansiyel-var-3465448",
-      "headline": "Vincenzo Italiano: Önümüzde gerçekten büyük bir potansiyel var",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3ODkwNzE3ODJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vienna Reyes",
-        "photographerUrl": "https://unsplash.com/@viennachanges",
-        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
-      },
-      "timeAgo": "şimdi",
-      "body": "Süper Lig kulüplerinden Beşiktaş'ın teknik direktörü Vincenzo Italiano, takımıyla sahaya çıktığı son mücadelenin ardından dikkat çekici değerlendirmelerde bulundu. Siyah-beyazlı ekibin Erzurumspor FK ile oynadığı karşılaşmadan galibiyetle ayrılmasının hemen ardından basının karşısına çıkan deneyimli çalıştırıcı, hem alınan skoru hem de takımın genel seyrini değerlendirdi.\n\nFutbol dünyasında rekabetin her geçen hafta arttığı ve takımların kadro kalitelerini sahaya yansıtmakta zorlandığı bu dönemde, Beşiktaş cephesinden gelen açıklamalar spor kamuoyunda geniş yankı uyandırdı. Karşılaşmanın bitiş düdüğüyle birlikte düzenlenen basın toplantısında gazetecilerin sorularını yanıtlayan İtalyan teknik adam, takımının ortaya koyduğu performanstan duyduğu memnuniyeti dile getirdi. Erzurumspor FK karşısında elde edilen bu kritik galibiyet, kulübün sezon içerisindeki hedefleri doğrultusunda önemli bir adım olarak değerlendiriliyor.\n\nÖzellikle takımın iç dinamikleri ve ilerleyen haftalarda sergilemesi beklenen performans hakkında konuşan Italiano, kadronun sahip olduğu kapasiteye vurgu yaptı. Açıklamalarında takımın henüz tamamlanmamış bir gelişim sürecinde olduğuna işaret eden teknik direktör, mevcut yapının içerisinde barındırdığı imkânların altını çizdi. Siyah-beyazlı ekibin geleceğine dair umutlu mesajlar veren çalıştırıcı, camianın ve taraftarların beklentilerini karşılamak adına ellerinden gelen gayreti gösterdiklerini belirtti.\n\nFutbolcuların antrenman sahasında ve maç sırasındaki uyumuna değinen Italiano, takım içerisindeki çalışma disiplininin her geçen gün daha iyi bir seviyeye ulaştığını ifade etti. Erzurumspor FK mücadelesi gibi zorlu karşılaşmaların, takımın gerçek gücünü keşfetmesi açısından birer fırsat niteliği taşıdığına dikkat çekildi. Uzun maraton süresince dalgalanmaların yaşanabileceğini ancak genel hedeften sapmadan yola devam edeceklerini belirten teknik ekip, her maçın ayrı bir sınav olduğunun bilincinde hareket ediyor.\n\nKulüp yönetimi, teknik kadro ve oyuncu grubu arasındaki uyumun saha sonuçlarına doğrudan yansıdığını belirten bu tür açıklamalar, Beşiktaş camiasında moral ve motivasyonun artmasına katkı sağlıyor. Erzurumspor FK galibiyetinin ardından gözler tamamen ilerleyen haftalarda oynanacak müsabakalara çevrilirken, Italiano'nun yaptığı bu değerlendirmeler kulübün gelecek vizyonuna ışık tutuyor. Takımın önündeki süreçte bu potansiyeli ne ölçüde sahaya yansıtabileceği, spor otoriteleri ve futbolseverler tarafından yakından takip edilmeye devam edilecek.",
-      "highlights": [
-        "Vincenzo Italiano, Erzurumspor FK galibiyetinin ardından konuştu.",
-        "Beşiktaş teknik direktörü takımının önünde büyük bir potansiyel olduğunu belirtti.",
-        "Açıklamalar siyah-beyazlı camiada memnuniyet yarattı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/vincenzo-italiano-onumuzde-gercekten-buyuk-bir-potansiyel-var-3465448",
-      "publishedAt": "2026-09-12T00:56:23.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "headline": "Tasia Fortune'un ölümüne ilişkin Mississippi'de bir kişi gözaltına alındı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1557075831-9227ec7d0097?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saWNlJTIwdGFwZXxlbnwxfDB8fHwxNzg5MTcyODA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hiroshi Kimura",
-        "photographerUrl": "https://unsplash.com/@muukii",
-        "unsplashUrl": "https://unsplash.com/photos/yellow-police-tape-rtX4wxMEI2M"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "Amerika Birleşik Devletleri'nin Mississippi eyaletinde, ağaca asılı halde ölü bulunan siyah bir kadının ölüm olayına dair adli makamlar tarafından resmi bir adım atıldı. Konuyla ilgili olarak yetkililer tarafından yürütülen soruşturma kapsamında bir şüphelinin gözaltına alındığı bildirildi. Kamuoyunda geniş yankı uyandıran bu trajik olay, ülke genelinde dikkatleri üzerine çekerken, soruşturmanın seyrine dair yeni gelişmeler güvenlik güçleri tarafından takip ediliyor.\n\nElde edilen resmi bilgilere göre, Tasia Fortune adlı kadının cansız bedeni ağustos ayı içerisinde terk edilmiş bir evin arazisinde bulunmuştu. Olay yerinde yapılan ilk incelemelerin ardından başlatılan geniş çaplı soruşturma, yerel ve federal düzeydeki kolluk kuvvetlerinin koordineli çalışmalarıyla sürdürülüyordu. Terk edilmiş arazide yaşanan bu ölümün aydınlatılması amacıyla delil toplama çalışmaları titizlikle yürütülmüş, adli tıp raporları ve olay yeri bulguları soruşturma dosyasında merkezi bir yer tutmuştu.\n\nSoruşturma sürecinde elde edilen yeni bulgular neticesinde gerçekleştirilen gözaltı işlemi, davanın çözülmesi yolunda kritik bir dönemeç olarak değerlendiriliyor. Yetkililer, şüphelinin kimliği ve gözaltı kararının ardındaki somut delil durumu hakkında henüz ayrıntılı bir açıklamada bulunmazken, adli süreçlerin yasal prosedürler çerçevesinde titizlikle devam ettiğini vurguladılar. Olayın tüm yönleriyle açığa çıkarılması ve adaletin sağlanması adına yürütülen soruşturmanın bu aşaması, yerel topluluklar ve sivil toplum kuruluşları tarafından da yakından takip ediliyor.\n\nMississippi eyaletindeki bu şüpheli ölüm vakası, Amerika'da benzer olayların geçmişteki sosyal ve hukuki yankılarını yeniden gündeme getirdi. Tasia Fortune'un hayatını kaybetmesine yol açan koşulların netleşmesi için savcılık ve emniyet birimleri çok yönlü incelemelerini sürdürüyor. Gözaltına alınan şüphelinin hakim karşısına çıkması ve soruşturmanın ilerleyen aşamalarında resmi suçlamaların yöneltilmesi beklenirken, kamuoyu adli makamlardan gelecek yeni bilgilendirmeleri bekliyor.",
-      "highlights": [
-        "Tasia Fortune'un cansız bedeni Mississippi'de bulunmuştu.",
-        "Olay, ağustos ayında terk edilmiş bir evin arazisinde gerçekleşti.",
-        "Ölüm vakasıyla ilgili olarak bir kişi gözaltına alındı."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-12T00:07:23.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
-      "headline": "Eski üst düzey ABD'li diplomat Zalmay Khalilzad'dan 11 Eylül sonrası dönem için hata itirafı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1594581979864-36977b15d0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dXMlMjBjYXBpdG9sJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc4OTE3MjgxMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Andy Feliciotti",
-        "photographerUrl": "https://unsplash.com/@someguy",
-        "unsplashUrl": "https://unsplash.com/photos/united-states-capitol-in-washington-dc-6kA9FjqUxhM"
-      },
-      "timeAgo": "22 dk önce",
-      "body": "Küresel siyasetin ve uluslararası ilişkilerin en kritik dönemlerinden birinde görev yapmış olan eski üst düzey ABD'li diplomat ve Büyükelçi Zalmay Khalilzad, 11 Eylül terör saldırılarının ardından izlenen politikalarla ilgili dikkat çekici açıklamalarda bulundu. Yaşanan bu tarihi olayların ardından Washington yönetimi tarafından atılan adımları ve yürütülen stratejileri değerlendiren deneyimli diplomat, özellikle askeri ve diplomatik hamlelerde bazı ciddi yanılgıların ve hataların yapıldığını dile getirdi. Habere konu olan bu değerlendirmeler, Amerikan dış politikasının yakın tarihine ışık tutarken, geçmişte alınan kararların uzun vadeli sonuçlarını da yeniden tartışmaya açtı.\n\nZalmay Khalilzad'ın üzerinde durduğu temel meselelerin başında, Afganistan ve Irak savaşlarının sevk ve idaresi geliyor. ABD'nin bu iki ülkeye yönelik gerçekleştirdiği askeri müdahalelerin ardından izlenen süreçleri yakından takip eden ve bizzat sürecin içinde yer alan eski büyükelçi, Washington'ın sahadaki gelişmeleri ve bölgenin karmaşık yapısını ele alırken önemli yanlış hesaplamalarda bulunduğunu ifade etti. Bu tür büyük ölçekli jeopolitik hamlelerin, hem bölge halkları hem de uluslararası barış ve güvenlik dengeleri üzerinde derin ve kalıcı etkiler bırakması, diplomatın yaptığı bu özeleştirinin ağırlığını daha da artırıyor.\n\nUluslararası ilişkiler uzmanları ve stratejistler, 11 Eylül saldırılarının ABD'nin ulusal güvenlik doktrininde köklü bir dönüm noktası oluşturduğunu sıkça vurgulamaktadır. Bu bağlamda, dönemin karar alıcıları tarafından belirlenen stratejilerin masaya yatırılması, gelecekte benzer krizlerle karşılaşılması durumunda hangi hataların tekrarlanmaması gerektiği konusunda önemli dersler barındırmaktadır. Khalilzad gibi tecrübeli bir ismin, geçmişteki uygulamalara yönelik bu tür tereddütleri ve pişmanlıkları kamuoyuyla paylaşması, dış politika çevrelerinde geniş yankı uyandıran ve tartışılan bir gelişme olarak kayda geçti.\n\nSöz konusu açıklamalar, askeri güç kullanımının sınırları ve ulus inşası süreçlerinin karmaşıklığı gibi kronikleşmiş sorunları yeniden gündemin üst sıralarına taşıdı. Irak ve Afganistan eksenli yürütülen operasyonların maliyeti, beşeri kayıplar ve bölgede yaratılan siyasi boşluklar, aradan geçen yıllara rağmen hem Amerikan kamuoyunda hem de akademik platformlarda irdelenmeye devam ediyor. Eski diplomatın aktardığı izlenimler, bu süreçlerin ne denli zorlu ve öngörülemez dinamikler barındırdığını bir kez daha gözler önüne seriyor.\n\nSonuç olarak, Zalmay Khalilzad'ın dile getirdiği bu çekinceler ve hata itirafları, ABD'nin dış politika ve güvenlik stratejilerinin tarihsel bir muhasebesi niteliğini taşımaktadır. 11 Eylül sonrasında şekillenen dönemin getirdiği kriz yönetimi refleksleri, günümüzdeki küresel diplomasi yaklaşımlarını da etkilemeyi sürdürmektedir. Bu çerçevede yapılan her yeni değerlendirme, geçmişin karanlıkta kalan yönlerinin aydınlatılmasına ve gelecekteki karar alma mekanizmalarına ışık tutması açısından önem arz etmektedir.",
-      "highlights": [
-        "Eski diplomat Zalmay Khalilzad 11 Eylül sonrası hataları açıkladı.",
-        "Açıklamalar ABD'nin Irak ve Afganistan politikalarını hedef alıyor.",
-        "Deneyimli isim Washington'ın süreç yönetiminde yanlışlar yapıldığını belirtti."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/9/12/former-top-us-diplomat-reveals-mistakes-made-after-9-11?traffic_source=rss",
-      "publishedAt": "2026-09-12T00:04:23.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd",
-      "headline": "Çin'in yükselişiyle birlikte Avustralya ABD'nin savaş makinesine daha fazla mı çekiliyor?",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1719918508801-0dd00797d959?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QXVzdHJhbGlhbiUyMFBhcmxpYW1lbnR8ZW58MXwwfHx8MTc4OTE3MjgxNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Serina Bird",
-        "photographerUrl": "https://unsplash.com/@joyfulfrugalista",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-flag-on-top-of-it-t7IQEtBnGws"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Küresel dengelerin hızla değiştiği ve jeopolitik rekabetin en üst seviyeye ulaştığı günümüzde, Avustralya'nın dış politika ve güvenlik tercihleri uluslararası kamuoyunda geniş yankı uyandırmaya devam ediyor. Dünyanın en çekişmeli ve stratejik açıdan hassas bölgelerinden birinde yer alan Avustralya, Çin'in yükselen küresel gücü karşısında kendi konumunu yeniden değerlendirirken, ülkenin müttefikiyle olan ilişkilerinin potansiyel riskleri de uzmanlar tarafından masaya yatırılıyor.\n\nSon dönemde artan endişeler, Avustralya'nın güçlü müttefiki tarafından giderek daha fazla kullanıldığı ve bu durumun ülkeyi istem dışı da olsa Çin ile yaşanabilecek olası bir çatışmanın içine çekebileceği yönündeki uyarıları beraberinde getiriyor. Uluslararası ilişkiler uzmanları ve güvenlik analistleri, mevcut stratejik ortaklığın ülkenin güvenliğini sağlama amacı ile barındırdığı tehlikeli senaryolar arasında sıkışıp kaldığına dikkat çekiyor.\n\nKonuya ilişkin değerlendirmelerde bulunan isimlerden biri olan Kevin Rudd, bu hafta National Press Club önünde gerçekleştirdiği konuşmada ülkenin güvenlik önceliklerine vurgu yaptı. Rudd, \"Fiziksel güvenlik önemlidir\" diyerek, bu coğrafyadaki en temel sorumluluğun halkın geleceğini güvence altına almak olduğunun altını çizdi. Ancak bu temel sorumluluğun nasıl ve hangi müttefiklik ilişkileriyle sürdürüleceği sorusu, ülkenin siyasi kulislerinde tartışılmaya devam ediyor.\n\nAvustralya gibi stratejik konuma sahip ülkelerin, süper güçler arasındaki rekabetin merkezinde yer alması, iç politikada da yeni tartışma başlıklarını beraberinde getiriyor. Ülkenin siyasi ve kamusal platformlarında, günlük haber podcast'leri ve siyasi bültenler aracılığıyla geniş kitlelere ulaştırılan bu tartışmalar, halkın ve uzmanların dış politika tercihlerine yaklaşımını şekillendiriyor.\n\nMevcut ittifak bağlarının getirdiği yükümlülükler ile bölgesel istikrarın korunması arasındaki hassas denge, Avustralya'nın diplomatik geleceğini tayin edecek en önemli unsurlar arasında gösteriliyor. Uzmanlar, ülkenin en contested (çekişmeli) bölgesinde varlığını sürdürebilmesi için izleyeceği stratejilerin hem ülkenin kendi güvenliğini riske atmaması hem de müttefiklik ilişkilerini doğru yönetmesi gerektiğine işaret ediyor.\n\nSonuç olarak, Çin'in bölgedeki askeri ve ekonomik ağırlığının artması, Avustralya'nın Washington yönetimi ile olan askeri ve stratejik bağlarını daha da sorgulanır hale getiriyor. İttifakın getirdiği risklerin hala alınıp alınmayacağı sorusu, önümüzdeki dönemde de ülkenin dış politikasının en sıcak gündem maddesi olmayı sürdürecek gibi görünmektedir.",
-      "highlights": [
-        "Uzmanlar, Avustralya'nın Çin ile olası bir çatışmaya çekilme riskine dikkat çekiyor.",
-        "Kevin Rudd, fiziksel güvenliğin bölgedeki en temel sorumluluk olduğunu belirtti.",
-        "Mevcut stratejik ittifakın getirdiği tehlikeler ülke içindeki tartışmaları artırıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/australia-news/2026/sep/12/rise-of-china-is-australia-us-alliance-still-worth-the-risk-kevin-rudd",
-      "publishedAt": "2026-09-12T00:00:18.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/live-blog/yemen-ordusu-muhada-cok-sayida-husi-unsurunun-etkisiz-hale-getirildigini-duyurdu/6355",
-      "headline": "Yemen ordusu Muha'da çok sayıda Husi unsurunun etkisiz hale getirildiğini açıkladı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1570728281949-126fc89a4da7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBqZXR8ZW58MXwwfHx8MTc4OTE3MjgyMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Timothy Holmes",
-        "photographerUrl": "https://unsplash.com/@timholmes",
-        "unsplashUrl": "https://unsplash.com/photos/gray-airplane-DXIpirwgP2Q"
-      },
-      "timeAgo": "52 dk önce",
-      "body": "Yemen'den gelen son askeri bilgilere göre, ülkenin batı kesiminde stratejik öneme sahip olan bölgelerde hareketlilik yaşanmaya devam ediyor. Bu kapsamda Yemen ordusu tarafından yapılan resmi açıklamada, ülkenin batı bölgesinde yer alan Taiz iline bağlı ve Kızıldeniz kıyısında konumlanan Muha kenti ile civarındaki noktalarda önemli bir askeri operasyonun gerçekleştirildiği duyuruldu. Bölgede tansiyonun yüksek seyrettiği süreçte, söz konusu kent ve çevresine yönelik hava saldırılarının düzenlendiği ifade edildi.\n\nAskeri kaynakların aktardığı detaylara göre, gerçekleştirilen bu hava operasyonları neticesinde bölgede varlık gösteren çok sayıda Husi unsurunun etkisiz hale getirildiği bildirildi. Yemen ordusu, düzenlenen hassas hava saldırılarının yalnızca personel açısından değil, aynı zamanda milis güçlerinin lojistik kapasitesine de darbe vurduğunu kaydetti. Operasyonlar sırasında Husilere ait olduğu belirtilen çok sayıda askeri aracın yanı sıra çeşitli silah ve mühimmatın da hedef alınarak tamamen imha edildiği bilgisi paylaşıldı.\n\nKızıldeniz sahilinde yer alması ve coğrafi konumu itibarıyla kritik bir lojistik hat üzerinde bulunan Muha kenti, uzun süredir çatışmaların ve askeri stratejilerin merkezinde yer alıyor. Ülke genelinde yaşanan iç kriz ve taraflar arasındaki mücadele, özellikle stratejik liman kentleri ve kıyı şeritleri üzerinde yoğunlaşıyor. Yemen ordusunun bu bölgede yürüttüğü operasyonlar, sahadaki dengelerin değişmesi ve güvenliğin sağlanması açısından düzenli olarak güncellenen askeri raporlarda yer alıyor.\n\nSöz konusu askeri hareketlilik, Yemen'in batısındaki güvenlik durumunun ne denli kırılgan olduğunu ve taraflar arasındaki çatışmaların aralıksız sürdüğünü bir kez daha gözler önüne serdi. Bölgedeki askeri yetkililer, ülkenin huzur ve güvenliğini yeniden tesis etmek amacıyla yürütülen operasyonların kararlılıkla devam edeceğini vurguluyor. Yapılan bu son açıklama, özellikle Taiz ve Muha hattındaki silahlı faaliyetlerin ve bunlara karşılık veren ordu unsurlarının stratejik hamlelerinin sahadaki seyrini yansıtması bakımından dikkat çekiyor.\n\nBölgede operasyonların ardından hasar tespit ve arama tarama faaliyetlerinin durumu hakkında henüz başka bir ayrıntı paylaşılmadı. Yemen ordusunun hava destekli operasyonlarının ardından Muha ve çevresindeki güvenlik önlemlerinin en üst seviyeye çıkarıldığı tahmin ediliyor. Ülke içindeki taraflar arasında yaşanan bu tür çatışmalar, sivillerin durumu ve bölgenin genel istikrarı üzerinde doğrudan etkide bulunmaya devam ediyor.",
-      "highlights": [
-        "Yemen ordusu, Muha ve çevresine hava saldırıları düzenlendiğini duyurdu.",
-        "Operasyonlarda çok sayıda Husi unsurunun etkisiz hale getirildiği bildirildi.",
-        "Husilere ait çok sayıda askeri araç ve silahın imha edildiği açıklandı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/live-blog/yemen-ordusu-muhada-cok-sayida-husi-unsurunun-etkisiz-hale-getirildigini-duyurdu/6355",
-      "publishedAt": "2026-09-11T23:34:48.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/leandro-trossard-takima-yardim-etmek-istiyorum-3465438",
-      "headline": "Leandro Trossard'dan maç sonu açıklaması: Takıma yardım etmek istiyorum",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/flagged/photo-1550413231-202a9d53a331?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBwbGF5ZXJ8ZW58MXwwfHx8MTc4OTEzNDkyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Waldemar Brandt",
-        "photographerUrl": "https://unsplash.com/@waldemarbrandt67w",
-        "unsplashUrl": "https://unsplash.com/photos/soccer-game-iiwYpGkbDgM"
-      },
-      "timeAgo": "şimdi",
-      "body": "Spor dünyasında ve yeşil sahalarda yaşanan son gelişmeler yakından takip edilirken, futbolcuların müsabaka sonrasında yaptığı değerlendirmeler kamuoyunun ve taraftarların büyük ilgisini çekmeye devam ediyor. Bu kapsamda, takımı Beşiktaş'ın Erzurumspor FK ile karşı karşıya geldiği mücadelenin ardından oyuncu Leandro Trossard önemli açıklamalarda bulundu. Karşılaşmanın düdüğüyle birlikte hem sahadaki performans değerlendirmeleri yapılırken hem de oyuncuların gelecek hedefleri ve takım içi dinamikler spor kamuoyunun gündemindeki yerini aldı.\n\nFutbolcuların bu tür kritik karşılaşmaların ardındankurtardıkları veya sergiledikleri performanslar, sezonun genel gidişatını doğrudan etkileyen unsurlar arasında yer alıyor. Beşiktaş forması giyen Leandro Trossard'ın Erzurumspor FK maçı sonrasında dile getirdiği düşünceler, hem teknik heyetin hem de taraftarların dikkatle incelediği konular arasında bulunuyor. Profesyonel futbol liglerinde takımların sezon boyunca karşılaştığı yoğun maç takvimi, oyuncuların her müsabaka sonrasında hem fiziksel hem de zihinsel olarak hazır olmalarını zorunlu kılıyor.\n\nYapılan bu tür açıklamalar, sporcuların takım içerisindeki rollerini, hedeflerini ve genel motivasyon durumlarını yansıtması açısından da büyük bir önem taşıyor. Özellikle Beşiktaş gibi köklü kulüplerde forma giyen sporcuların her maça ayrı bir öneme sahip olduğunu belirten ifadeleri, takımın ortak hedefleri doğrultusunda ilerlediğini gösteriyor. Erzurumspor FK mücadelesinin geride kalmasıyla birlikte, hem kulüp cephesinde hem de spor basını ve taraftarlar arasında bu değerlendirmelerin yankıları sürerken, gözler gelecek haftalarda oynanacak diğer müsabakalara çevrilmiş durumda.\n\nSezon boyunca sürdürülebilir bir başarı elde etmek isteyen takımlar için bu tür maç sonu demeçleri, iç dinamiklerin dışarıya yansıyan yüzünü oluşturuyor. Leandro Trossard'ın takıma katkı sağlama yönündeki kararlılığını ifade etmesi de, futbolcunun kulüp içerisindeki uyumunu ve sorumluluk bilincini gözler önüne seriyor. Spor dünyasında her geçen gün artan rekabet ortamı, oyuncuların bireysel performanslarının yanı sıra kolektif hedeflere ne kadar odaklandıklarını da test eden bir süreç olarak öne çıkıyor.\n\nSonuç olarak, Erzurumspor FK karşılaşmasının ardından Beşiktaş adına yapılan bu açıklamalar, hem takımın güncel durumunu özetlemekte hem de önümüzdeki döneme dair ipuçları barındırmaktadır. Futbolseverler ve kulüp yetkilileri, sezonun geri kalanında yaşanacak gelişmeleri bu tür açıklamalar ışığında takip etmeyi sürdürecek. Spor medyasında geniş yer bulan bu tarz değerlendirmeler, ligdeki genel rekabetin ve oyuncu motivasyonlarının anlaşılmasında her zaman belirleyici bir rol oynamaya devam ediyor.",
-      "highlights": [
-        "Leandro Trossard, Beşiktaş'ın Erzurumspor FK ile oynadığı maçın ardından konuştu.",
-        "Deneyimli futbolcu, takıma katkı sağlama arzusunu dile getirdi.",
-        "Yapılan açıklamalar spor kamuoyunda ve taraftarlar arasında ilgi gördü."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/leandro-trossard-takima-yardim-etmek-istiyorum-3465438",
-      "publishedAt": "2026-09-11T22:54:43.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/bilgi/foto/13-yargi-paketi-maddeleri-son-dakika-2026-13-yargi-paketi-ne-zaman-cikacak-suresiz-nafaka-kalkacak-mi-yeni-yargi-paketi-maddeleri-neler-3911905",
-      "headline": "13. Yargı paketi düzenlemeleri: Nafaka ve boşanma davalarında yeni dönem",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1784983699370-7dfb34bb2129?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc4OTE3MjgyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jade Gray",
-        "photographerUrl": "https://unsplash.com/@jadderz",
-        "unsplashUrl": "https://unsplash.com/photos/three-illuminated-circular-signs-spell-gin-in-darkness-z9Kd_5tZBNs"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türkiye'nin hukuk gündeminde önemli bir yer tutan ve kamuoyunun yakından takip ettiği 13. Yargı Paketi ile ilgili çalışmalar tüm hızıyla sürüyor. Özellikle son dönemde vatandaşların ve hukukçuların merakla beklediği nafaka ile boşanma davalarına yönelik planlanan yeni yasal düzenlemeler, paketin ana eksenini oluşturuyor. Konuya ilişkin yürütülen hazırlıklar, yargı sisteminin işleyişini hızlandırmayı ve mevcut toplumsal ihtiyaçlara yanıt vermeyi amaçlıyor.\n\nAdalet Bakanı Akın Gürlek, konuyla ilgili yaptığı resmi açıklamada, merakla beklenen yargı paketinin ikinci kısmının ekim ayında Meclis gündemine taşınmasının planlandığını belirtti. Bakan Gürlek, hazırlanmakta olan bu yeni kısmın yaklaşık 24 ila 25 maddeden oluşmasının öngörüldüğünü kamuoyu ile paylaştı. Bu kapsamlı düzenleme, yasama organının sonbahar dönemi çalışmalarının en kritik gündem maddelerinden biri olmaya aday görünüyor.\n\nPaketin içerdiği en hassas başlıklardan biri, Anayasa Mahkemesi'nin süresiz nafaka konusuna dair verdiği iptal kararının ardından ortaya çıkan yasal boşluğu doldurmayı hedefliyor. Yüksek mahkemenin kararı sonrasında doğan hukuki ihtiyaçlar doğrultusunda, süresiz nafaka uygulamasına yönelik yeni ve kapsamlı yasal düzenlemelerin pakete dahil edilmesi planlanıyor. Bu durum, hem nafaka yükümlüleri hem de hak sahipleri açısından uzun süredir tartışılan konulara hukuki bir çerçeve getirilmesini amaçlıyor.\n\nÖte yandan, hazırlık aşamasındaki yargı paketinin bir diğer önemli önceliği ise boşanma davalarının daha hızlı bir şekilde sonuçlandırılması olarak öne çıkıyor. Mevcut adli süreçlerin uzun sürmesi nedeniyle yaşanan mağduriyetlerin önüne geçilmesi ve yargılama süreçlerinin kayda değer ölçüde kısaltılması hedefleniyor. Bu adım, hem mahkemelerin iş yükünü hafifletmek hem de tarafların hukuki süreçleri daha az yıpratıcı bir şekilde tamamlamasını sağlamak adına atılıyor.\n\nBütün bu gelişmeler ışığında, \"13. Yargı Paketi ne zaman çıkacak?\", \"Meclis'e geldi mi?\", \"Süresiz nafaka kalkacak mı?\" ve \"Yeni nafaka düzenlemesi nasıl olacak?\" gibi sorular vatandaşlar tarafından sıklıkla sorulmaya devam ediyor. Ekim ayında Meclis gündemine gelmesi beklenen maddelerin yasalaşma süreci, hem hukuk camiası hem de vatandaşlar tarafından yakından izleniyor. Paketin içeriği netleştikçe, Türk hukuk sisteminde adalete erişimin hızlanması ve toplumsal beklentilerin karşılanması bekleniyor.",
-      "highlights": [
-        "13. Yargı Paketi'nin ikinci kısmının ekim ayında gündeme gelmesi planlanıyor.",
-        "Yeni paketin yaklaşık 24-25 maddeden oluşması öngörülüyor.",
-        "Pakette süresiz nafaka ve boşanma davalarının hızlandırılması yer alıyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/bilgi/foto/13-yargi-paketi-maddeleri-son-dakika-2026-13-yargi-paketi-ne-zaman-cikacak-suresiz-nafaka-kalkacak-mi-yeni-yargi-paketi-maddeleri-neler-3911905",
-      "publishedAt": "2026-09-11T22:47:26.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.sabah.com.tr/yasam/2027-2029-donemi-butce-cagrisi-resmi-gazetede-7659120",
-      "headline": "2027-2029 dönemi bütçe çağrısı Resmi Gazete'de yayımlandı",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1649532716965-c798cda4b153?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8T2ZmaWNpYWwlMjBHYXpldHRlJTIwVHVya2V5fGVufDF8MHx8fDE3ODkxNzI4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tyler Moulton",
-        "photographerUrl": "https://unsplash.com/@tjmbirds",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-turkey-standing-in-a-field-ORGVEmqqmaY"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türkiye'nin önümüzdeki üç yıllık ekonomik yol haritasını belirleyecek olan kritik bir idari adım atıldı. Konuya ilişkin merakla beklenen 2027-2029 Dönemi Bütçe Çağrısı Tebliği, yürürlüğe girmek üzere Resmi Gazete'nin ilgili sayılarında kamuoyu ile paylaşıldı. Bu gelişmeyle birlikte, ülkenin kamusal harcamalarının ve mali planlamasının hangi stratejik öncelikler doğrultusunda şekillendirileceği de resmiyet kazandı.\n\nSöz konusu tebliğ metninde yer alan düzenlemeler, son derece kapsamlı bir planlama döneminin çerçevesini çiziyor. Buna göre, 2027 ila 2029 yıllarını kapsayan üç yıllık dönem boyunca atılacak her türlü mali adım ve bütçe tahsisi, halihazırda yürürlükte bulunan On İkinci Kalkınma Planı'nın temel amaçları ile tam bir uyum içerisinde yürütülecek. 2024-2028 yıllarını kapsayan bu stratejik kalkınma planının hedefleri, yeni dönemin bütçe politikaları için temel referans noktası olma özelliğini koruyacak.\n\nYayınlanan çağrı metninin en temel odak noktalarından birini ise ekonomik dengelerin korunması ve sağlamlaştırılması oluşturuyor. Bu bağlamda, 2027-2029 döneminde makroekonomik istikrarın yanı sıra finansal istikrarın da güçlendirilmesi hedefleniyor. Yetkili merciler tarafından hazırlanan bu tebliğ, Türkiye ekonomisinin orta vadeli perspektifte karşılaşabileceği küresel ve yerel dalgalanmalara karşı daha dirençli bir yapıya kavuşturulmasını amaçlayan mali disiplin tedbirlerinin de habercisi niteliğinde.\n\nKamu kaynaklarının etkin, verimli ve ekonomik bir şekilde kullanılmasını sağlamak üzere tasarlanan bu bütçe çağrısı, ilgili tüm kamu idarelerinin hazırlık süreçlerinde rehber olacak. Planlanan dönemin mali yapısı, ekonomik büyüme dinamikleri ile fiyat istikrarı arasındaki hassas dengenin gözetilmesi temelinde şekillendirilecek. Böylece, kamu harcamalarının önceliklendirilmesi ve kaynak tahsis süreçlerinde rasyonelliğin artırılması hedefleniyor.\n\nResmi Gazete'de yer alan düzenleme, aynı zamanda devlet kurumlarının bütçe teklif hazırlıklarının hangi takvim ve usuller çerçevesinde yapılacağını da netleştiriyor. İlgili tüm paydaşların, yayımlanan tebliğde belirtilen esaslar doğrultusunda çalışmalarını şekillendirmesi beklenirken, süreç boyunca mali saydamlık ve hesap verebilirlik ilkelerinin ön planda tutulacağı vurgulanıyor. Türkiye'nin orta vadeli mali planlama geleneğinin önemli bir halkasını oluşturan bu çağrı, önümüzdeki yıllarda izlenecek iktisadi politikalara yön verecek olması açısından büyük bir önem taşıyor.",
-      "highlights": [
-        "2027-2029 dönemi bütçe çağrısı tebliği Resmi Gazete'de yayımlandı.",
-        "Yeni dönem politikaları On İkinci Kalkınma Planı hedefleriyle uyumlu olacak.",
-        "Makroekonomik ve finansal istikrarın güçlendirilmesi amaçlanıyor."
-      ],
-      "externalUrl": "https://www.sabah.com.tr/yasam/2027-2029-donemi-butce-cagrisi-resmi-gazetede-7659120",
-      "publishedAt": "2026-09-11T22:27:03.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ]
 }
