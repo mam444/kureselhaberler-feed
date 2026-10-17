@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-10-16T23:40:44.896Z",
+  "generatedAt": "2026-10-17T01:33:49.595Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/istanbul/sariyer/ayazagada-jandarma-ekipleri-sel-sonrasi-temizlik-calismalarina-katildi-3480621",
+      "headline": "Ayazağa'da sel felaketinin ardından jandarma ekiplerinden temizlik mesaisi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604275689235-fdc521556c16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Z2VuZGFybWVyaWUlMjBmbG9vZCUyMGNsZWFuaW5nfGVufDF8MHx8fDE3OTIyMDA3OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Chris Gallagher",
+        "photographerUrl": "https://unsplash.com/@chriswebdog",
+        "unsplashUrl": "https://unsplash.com/photos/floodwaters-surrounding-stone-buildings-and-car-9Jgn8hSYUFc"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye genelinde ve büyükşehirlerde zaman zaman yaşanan olumsuz hava koşulları, hayatın akışını doğrudan etkilemeye devam ediyor. Bu kapsamda, yakın zamanda etkili olan şiddetli yağışların ardından İstanbul'un önemli yerleşim bölgelerinden biri olan Ayazağa'da da birtakım su baskınları ve olumsuzluklar yaşandı. Yaşanan bu doğa olayının hemen ardından, bölgedeki hayatın normale döndürülmesi ve vatandaşların mağduriyetinin en aza indirilmesi amacıyla devletin ilgili kurumları hızla harekete geçti. Güvenlik ve kamu düzenini sağlamakla yükümlü olan güvenlik birimleri, bu tür olağanüstü durumlarda toplumsal dayanışmanın en güzel örneklerini sergileyerek sahada aktif rol üstleniyor.\n\nEdinilen bilgilere göre, Ayazağa bölgesinde meydana gelen sel felaketinin yaralarını sarmak üzere jandarma ekipleri sahaya inerek kapsamlı bir çalışma başlattı. Bölgede görev yapan jandarma personeli, sel sularının çekilmesinin ardından geriye kalan çamur, moloz ve çeşitli atıkların temizlenmesi sürecine doğrudan destek verdi. Vatandaşların günlük yaşamlarına en kısa sürede güvenli bir şekilde dönebilmesi için sokaklarda ve ortak kullanım alanlarında yoğun bir mesai harcayan ekipler, belediye ve diğer yerel birimlerle koordineli bir şekilde faaliyetlerini sürdürdü. Gerçekleştirilen bu ortak temizlik operasyonu, bölge halkı tarafından memnuniyetle karşılandı.\n\nYetkililer, bu tür felaketlerin ardından hızlı müdahalenin ve kurumlar arası iş birliğinin hayati önem taşıdığına dikkat çekiyor. Ayazağa'da yürütülen çalışmalar sayesinde, tıkanan mazgallar açıldı, yollar yaya ve araç trafiğine yeniden elverişli hale getirildi ve su baskınından zarar gören alanlar detaylı bir şekilde arındırıldı. Jandarma ekiplerinin yalnızca asayiş olaylarında değil, aynı zamanda bu tarz afet ve acil durum senaryolarında da halkın yardımına koşan temel unsurlardan biri olduğu bir kez daha kanıtlanmış oldu.\n\nAfet durumlarında sergilenen bu tür dayanışma ve müdahale biçimleri, toplumun kriz anlarında nasıl bir araya gelebildiğini gösteren en somut örnekler arasında yer alıyor. Ayazağa sakinleri, selin yarattığı tahribatın izlerinin silinmesi noktasında devletin tüm imkanlarıyla yanlarında olmasından duydukları memnuniyeti dile getirdi. Temizlik ve onarım faaliyetlerinin büyük ölçüde tamamlanmasıyla birlikte semtte hayat yavaş yavaş olağan akışına dönmeye başladı ve bölge halkı normal rutinlerine kavuştu.\n\nBenzer hava olaylarının gelecekte de yaşanabileceği göz önünde bulundurularak, hem yerel yönetimler hem de güvenlik güçleri olası kriz durumlarına karşı hazırlıklı olma bilinciyle hareket ediyor. Ayazağa örneğinde görüldüğü üzere, jandarma teşkilatının operasyonel kabiliyeti ve saha hakimiyeti, afet sonrasındaki iyileştirme süreçlerinin hızlanmasında kritik bir rol oynuyor. Toplumsal güvenliğin ve huzurun korunması adına atılan bu adımlar, benzer süreçlerde bundan sonraki çalışmalar için de bir model teşkil etmeye devam edecektir.",
+      "highlights": [
+        "Ayazağa'da yaşanan sel felaketi sonrasında jandarma ekipleri harekete geçti.",
+        "Jandarma personeli bölgedeki temizlik çalışmalarına aktif olarak katıldı.",
+        "Yürütülen ortak çalışmalarla bölgede hayatın normale dönmesi sağlandı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/istanbul/sariyer/ayazagada-jandarma-ekipleri-sel-sonrasi-temizlik-calismalarina-katildi-3480621",
+      "publishedAt": "2026-10-17T02:26:09.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/ekonomi/migros-1-alana-1-bedava-16-18-ekim-migrosta-hangi-urunler-bedava-kisisel-bakim-ve-hijyen-urunleri-3480033",
       "headline": "Migros'tan 16-18 Ekim tarihlerinde geçerli yeni bir alana bir bedava kampanyası",
@@ -23,6 +46,121 @@
       "publishedAt": "2026-10-17T01:42:41.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazzenin-yeniden-imarina-liderlik-etmeye-hazir/4091596",
+      "headline": "Filistin Para Otoritesi'nden yeniden imar açıklaması",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1764983432249-ec5965fc01be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YmFuayUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTIyMDA3OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Leo_Visions",
+        "photographerUrl": "https://unsplash.com/@leo_visions_",
+        "unsplashUrl": "https://unsplash.com/photos/the-bank-of-california-facade-with-columns-mtYs85dFFkI"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Filistin Para Otoritesi Başkanı Yahya Şennar, bölgedeki ekonomik ve mali yapıya dair önemli değerlendirmelerde bulundu. Yapılan açıklamada, uzun süredir çatışmaların ve abluka koşullarının yarattığı tahribatla mücadele eden Gazze Şeridi'nin yeniden ayağa kaldırılması sürecinde yerel imkanların önemine vurgu yapıldı.\n\nGüncel gelişmeler ve sahadaki ihtiyaçlar doğrultusunda, Filistin Para Otoritesi'nin liderlik edeceği bu süreçte, bankacılık sektörünün kritik bir rol üstleneceği ifade edildi. Yetkililer, bölgenin geleceği açısından hayati önem taşıyan imar projelerinin ve toparlanma çalışmalarının rastgele değil, planlı bir şekilde yürütülmesi gerektiğinin altını çizdi.\n\nEkonomik faaliyetlerin yeniden canlandırılması ve sosyal yapının desteklenmesi amacıyla atılacak adımlarda yerel kurumların aktif rol oynaması bekleniyor. Açıklamada, özel sektörün dinamizminin de bu sürece dahil edilmesinin kaçınılmaz olduğu, böylece toparlanma çabalarının daha kalıcı ve etkili sonuçlar doğurabileceği belirtildi.\n\nFilistin yönetiminin genel politikaları ve öncülüğü çerçevesinde şekillenecek olan bu projelerin, bölgedeki finansal istikrarın sağlanmasında da temel teşkil edeceği kaydedildi. Bankacılık sektörünün mevcut zorluklara rağmen sahip olduğu altyapı ve kapasiteyle, yeniden imar faaliyetlerinin finansmanında öncü bir misyon üstlenmeye hazır olduğu bildirildi.\n\nUzmanlar ve sektör temsilcileri, bu tür kapsamlı imar ve toparlanma hamlelerinin yalnızca fiziksel yapının yenilenmesi anlamına gelmediğini, aynı zamanda ekonomik güvenin yeniden tesisi için de bir fırsat sunduğunu belirtiyor. Filistin Para Otoritesi'nin bu vizyoner yaklaşımı, hem yerel aktörlerin güçlendirilmesi hem de uluslararası yardımların doğru koordinasyonu açısından yeni bir dönemin kapılarını aralayabilir.\n\nÖnümüzdeki dönemde atılacak somut adımlarla birlikte, bankacılık ve özel sektör iş birliğinin Gazze'nin yeniden inşasında nasıl bir pratik kazanacağı yakından takip ediliyor. Kurumun yaptığı bu stratejik yönlendirme, bölge ekonomisinin geleceğine dair atılan en net adımlardan biri olarak kayda geçti.",
+      "highlights": [
+        "Gazze'nin yeniden imarında Filistin yönetimi öncü olacak.",
+        "Yerel bankacılık sektörü toparlanma sürecine liderlik etmeye hazır.",
+        "Özel sektörün çabaları imar projelerinin merkezinde yer alacak."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/filistin-para-otoritesi-yerel-bankacilik-sektoru-gazzenin-yeniden-imarina-liderlik-etmeye-hazir/4091596",
+      "publishedAt": "2026-10-17T01:19:39.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "headline": "Oregon'da okul saldırganına karşı cesur mücadele: Silahlı baba şüpheliyi etkisiz hale getirdi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZWxlbWVudGFyeSUyMHNjaG9vbHxlbnwxfDB8fHwxNzkyMjAwODAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Quilia",
+        "photographerUrl": "https://unsplash.com/@heyquilia",
+        "unsplashUrl": "https://unsplash.com/photos/students-in-classroom-with-teacher-presenting-zFSo6bnZJTw"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Amerika Birleşik Devletleri'nin Oregon eyaletinde yaşanan tehlikeli bir olay, eğitim kurumlarında güvenlik önlemlerinin ve anlık müdahalelerin ne kadar hayati önem taşıdığını bir kez daha gözler önüne serdi. Edinilen resmi bilgilere göre, henüz 16 yaşında olan şüpheli bir birey, daha önceden eğitim aldığı bilinen bir ilkokul binasını hedef aldı. Polis kaynakları tarafından yapılan açıklamalarda, saldırganın özellikle özel eğitim ihtiyacı olan öğrencilerin bulunduğu sınıfa yöneldiği ve bu durumun faciaya davetiye çıkardığı belirtildi. Olayın gelişimi, okul içerisindeki personelin ve duyarlı vatandaşların hızlı refleksleri sayesinde çok daha büyük bir felaketin eşiğinden dönülmesini sağladı.\n\nGerçekleşen korku dolu anlar sırasında, okulda görev yapan bir öğretmen, şüpheli şahısla doğrudan karşı karşıya gelerek büyük bir cesaret örneği sergiledi. Saldırganın niyetini fark eden ve çocukların güvenliğini sağlamak adına kendi hayatını tehlikeye atan öğretmen, saldırganla fiziksel bir mücadeleye girişti. Bu kritik anlar, okul içerisindeki diğer kişilerin güvenliğe ulaşması için gereken zamanı kazandırırken, fedakar öğretmenin gösterdiği direnç facianın boyutunu sınırlayan en önemli etkenlerden biri olarak kayıtlara geçti. Eğitim çalışanlarının kriz anlarında sergilediği bu tür refleksler, okullardaki güvenlik protokollerinin ne kadar insan odaklı olduğunu bir kez daha hatırlattı.\n\nOlayın en kritik dönüm noktası ise okulda bulunan silahlı bir babanın duruma müdahale etmesiyle yaşandı. Öğretmenin saldırganla mücadelesi sürerken devreye giren cesur baba, tehdidi ortadan kaldırmak amacıyla silahını kullandı. Emniyet birimlerinin paylaştığı detaylara göre silahlı baba, şüpheli şahsı birden fazla kez vurarak etkisiz hale getirdi. Bu ani ve kararlı müdahale, saldırganın daha fazla zarar vermesini kesin olarak engelledi ve olay yerindeki tehlike durumunu sonlandırdı. Olayın ardından bölgeye çok sayıda polis ve sağlık ekibi sevk edilerek güvenlik çemberi oluşturuldu.\n\nYetkililer tarafından yürütülen soruşturma kapsamında, 16 yaşındaki şüphelinin geçmişi ve eylemi neden bu belirli okula yönelttiği titizlikle inceleniyor. Şüphelinin daha önce aynı ilkokulun öğrencisi olmş bulunması, olayın arkasındaki psikolojik ve sosyal dinamiklerin de araştırılmasına neden oluyor. Özel eğitim sınıfının özellikle hedef seçilmiş olması, soruşturmanın odak noktalarından biri haline gelirken, emniyet güçleri olayla ilgili tüm olasılıkları değerlendirmeye devam ediyor. Eğitim camiası ve öğrenci velileri ise yaşanan bu travmatik olay sonrasında büyük bir şok ve endişe yaşarken, okullardaki güvenlik tedbirlerinin artırılması yönündeki çağrılar yeniden gündeme geldi.\n\nBu tür trajik olaylar, dünya genelinde okulların fiziksel güvenliği, denetim mekanizmaları ve potansiyel tehlikelere karşı hazırlık süreçleri hakkındaki tartışmaları alevlendirmektedir. Oregon'da meydana gelen bu vakada da görüldüğü üzere, resmi güvenlik güçleri olay yerine ulaşana kadar geçen sürede içeride bulunan kişilerin sergilediği bireysel refleksler hayat kurtarıcı olabilmektedir. Ancak uzmanlar, okulların silahlı veya silahsız bireysel müdahalelere kalmasının bir güvenlik stratejisi olarak sürdürülebilir olmadığını ve kalıcı kurumsal önlemlerin şart olduğunu vurgulamaktadır. Olayla ilgili adli ve idari süreçler, tüm yönleriyle aydınlatılmak üzere çok yönlü olarak sürdürülmektedir.",
+      "highlights": [
+        "16 yaşındaki şüpheli özel eğitim sınıfını hedef aldı.",
+        "Bir öğretmen saldırganla fiziksel mücadeleye girişti.",
+        "Silahlı baba şüpheliyi birden fazla kez vurarak etkisiz hale getirdi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-17T01:19:04.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/cevat-ozkaya-hakka-yurudu-4864973",
+      "headline": "Yayıncı ve yazar Cevat Özkaya 72 yaşında vefat etti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1506755594592-349d12a7c52a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZnVuZXJhbCUyMGNyb3dkfGVufDF8MHx8fDE3OTIyMDA4MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rob Curran",
+        "photographerUrl": "https://unsplash.com/@curranrob",
+        "unsplashUrl": "https://unsplash.com/photos/grascale-photo-of-people-standing-on-ground-sUXXO3xPBYo"
+      },
+      "timeAgo": "33 dk önce",
+      "body": "Türkiye'nin fikir ve kültür hayatında derin izler bırakan, yayıncılık dünyasının tanınan isimlerinden Pınar Yayınları'nın kurucularından yazar ve yayıncı Cevat Özkaya, 72 yaşında hayata gözlerini yumdu. Uzun yıllar boyunca Türkiye'nin yayıncılık alanındaki gelişimine katkı sunan Özkaya'nın vefatı, edebiyat ve fikir camiasında derin bir üzüntüyle karşılandı. Yaklaşık yarım asırlık meslek hayatı boyunca yayınevi bünyesinde pek çok değerli eserin basılmasına öncülük eden merhum Özkaya, okuyucuları farklı düşünce akımlarıyla buluşturarak kültürel hayata mühim hizmetlerde bulundu.\n\nMerhum Cevat Özkaya, aktif yayıncılık kariyeri süresince sadece basım faaliyetleriyle sınırlı kalmayarak, ülkenin düşünce dünyasının zenginleşmesi adına da yoğun bir gayret sarf etti. İslam düşüncesinden dünya fikir mirasının seçkin örneklerine kadar geniş bir yelpazede çok sayıda eseri Türk okurunun beğenisine sunan yayıncı, bu yönüyle kültürel hafızanın oluşmasında da kilit bir rol oynadı. Hayatı boyunca pek çok yayının titizlikle hazırlanıp okuyucuyla buluşmasını sağlayan Özkaya, nesiller boyu okunacak eserlerin Türkçeye kazandırılmasında ve basılmasında önemli bir sorumluluk üstlendi.\n\nKültür ve fikir hayatına yaptığı katkılarla hatırlanacak olan Cevat Özkaya'nın vefat haberi, sevenleri ve meslektaşları tarafından üzüntüyle karşılandı. Uzun yıllar boyunca sektöre emek veren, genç yayıncılara ve yazarlara rehberlik eden Özkaya, eserleri ve kurduğu yayınevi aracılığıyla bıraktığı mirasla anılmaya devam edecek. Onun ömrünü adadığı yayıncılık faaliyetleri, Türkiye'nin düşünsel ve edebi birikiminin korunmasında ve sonraki nesillere aktarılmasında kalıcı bir iz bıraktı.\n\nCevat Özkaya için düzenlenecek son veda töreninin detayları da netleşti. Alınan bilgiye göre, merhumun cenazesi bugün Üsküdar'da eda edilecek cenaze namazının ardından son yolculuğuna uğurlanacak. Cenaze namazının kılınmasının akabinde Kartal Soğanlık Mezarlığı'na nakledilecek olan Özkaya, burada sevenlerinin duaları eşliğinde toprağa verilecek. Ailesi, yakınları, yayıncılık camiası ve okurları, bu son görev için bir araya gelerek merhuma veda edecek.",
+      "highlights": [
+        "Pınar Yayınları'nın kurucularından Cevat Özkaya 72 yaşında vefat etti.",
+        "Yarım asırlık kariyerinde İslam ve dünya düşüncesinden eserler kazandırdı.",
+        "Cenazesi Üsküdar'da kılınarak Kartal Soğanlık Mezarlığı'na defnedilecek."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/cevat-ozkaya-hakka-yurudu-4864973",
+      "publishedAt": "2026-10-17T01:00:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/adiyaman-da-kamyonet-ile-traktor-carpisti-1-olu-1-yarali-3920369",
+      "headline": "Adıyaman'da kamyonet ile traktörün çarpıştığı kazada bir kişi hayatını kaybetti",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673187139181-795761a40ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTIyMDA4MTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Malik",
+        "photographerUrl": "https://unsplash.com/@usmanbim94",
+        "unsplashUrl": "https://unsplash.com/photos/two-cars-parked-next-to-each-other-in-a-parking-lot-cbXfPEOc1-k"
+      },
+      "timeAgo": "52 dk önce",
+      "body": "Trafik güvenliğini tehdit eden kazalara bir yenisi daha eklendi ve Adıyaman'da yaşanan elim bir olay sonucunda bölgeden acı haberler geldi. Edinilen bilgilere göre, ulaşımın sağlandığı güzergahlardan birinde seyir halindeyken iki motorlu taşıtın karıştığı tehlikeli bir durum felaketle sonuçlandı. Trafik akışının sürdüğü esnada bir kamyonet ile bir traktörün çarpışmasıyla meydana gelen olayda, taraflar büyük bir şok yaşarken çevredekilerin ihbarı üzerine bölgeye hemen ekipler sevk edildi.\n\nGerçekleşen bu şiddetli çarpışmanın ardından karayolu üzerinde büyük bir can pazarı yaşandı. Kazanın şiddetiyle her iki araçta da ciddi maddi hasar meydana gelirken, araçların içerisinde bulunan şahıslar ağır bir şekilde etkilendi. Olay yerinin hemen yakınındaki vatandaşların durumu yetkili mercilere bildirmesiyle birlikte, kısa süre içerisinde kaza mahalline sağlık ve güvenlik ekipleri intikal etti.\n\nBölgeye ulaşan sağlık görevlileri, kamyonet ile traktörün çarpışması sonucunda yaralanan ve hayatını kaybeden kişilere ilk müdahaleyi yapmak üzere çalışmalara başladı. Yapılan ilk kontrollerde, kazanın ne denli büyük bir yıkıma yol açtığı gözler önüne serildi. Gerçekleştirilen tüm tıbbi müdahalelere rağmen, kazada bir kişinin yaşamını yitirdiği belirlendi. Bu acı kayıp, kazanın üzüntü verici boyutunu gözler önüne serdi.\n\nÖte yandan, aynı olayda yaralanan diğer bir kişi ise sağlık ekiplerinin olay yerindeki ilk müdahalesinin ardından ambulansla hızla hastaneye kaldırıldı. Tedavi altına alınan yaralının sağlık durumuna ilişkin süreç hastane ortamında yakından takip edilirken, yetkililer kazayla ilgili detaylı bir inceleme başlattı.\n\nUlaşım güvenliği açısından bu tür kazaların önlenmesi adına denetimlerin ve sürücü dikkatlerinin ne kadar hayati önem taşıdığı bir kez daha hatırlatıldı. Adıyaman'daki bu kaza, karayollarındaki dikkat eksikliklerinin ve beklenmeyen anların ne kadar büyük felaketlere zemin hazırlayabileceğini acı bir tecrübeyle gösterdi. Yetkili birimler, kazanın kesin oluş nedenini ve sorumluluk dağılımını netleştirmek üzere soruşturmayı sürdürüyor.",
+      "highlights": [
+        "Adıyaman'da kamyonet ve traktörün çarpışmasıyla kaza meydana geldi.",
+        "Yaşanan elim olayda bir kişi hayatını kaybederken bir kişi yaralandı.",
+        "Yaralı şahıs sağlık ekipleri tarafından hastaneye kaldırılarak tedavi altına alındı."
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/adiyaman-da-kamyonet-ile-traktor-carpisti-1-olu-1-yarali-3920369",
+      "publishedAt": "2026-10-17T00:41:29.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+      "headline": "Oregon'daki okul saldırısının zanlısı eski bir özel eğitim öğrencisi çıktı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1713950658643-b6882cc08e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwY3JpbWUlMjBzY2VuZXxlbnwxfDB8fHwxNzkyMjAwODE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Daniel von Appen",
+        "photographerUrl": "https://unsplash.com/@daniel_von_appen",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-yellow-police-line-behind-bars-WW-4bspunFY"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "ABD'nin Oregon eyaletinde geçtiğimiz günlerde yaşanan ve dört kişinin hayatını kaybettiği trajik okul saldırısının ardından polis yetkilileri yeni bilgileri kamuoyuyla paylaştı. Emniyet birimleri tarafından Cuma günü yapılan resmi açıklamada, saldırıyı gerçekleştiren genç failin geçmişte özel eğitim görmüş bir öğrenci olduğu bilgisi teyit edildi. Bu acı olay, eğitim kurumlarındaki güvenlik açıklarını ve öğrenci profillerini bir kez daha ulusal gündemin en üst sıralarına taşıdı.\n\nOlayın detaylarına ilişkin paylaşılan bilgilere göre, saldırı anında bir öğretmen cesur bir müdahalede bulunarak genç saldırganla fiziksel olarak mücadele etti. Bu kritik direniş, çevredeki diğer insanlara hayat kurtarıcı bir zaman kazandırırken, durumun ciddiyetini gözler önüne serdi. Öğretmenin gösterdiği bu cesaret, okul içerisindeki faciayı daha da büyümeden önlemede hayati bir rol oynadı.\n\nMücadelenin hemen ardından olay yerinde bulunan bir veli duruma müdahale etti ve silahlı saldırganı vurarak etkisiz hale getirdi. Emniyet güçleri, velinin bu hamlesiyle saldırganın hayatını kaybettiğini doğruladı. Dört kişinin yaşamını yitirdiği ve toplulukta derin yaralar açan bu korkunç olaydan sadece bir gün sonra gelen bu açıklamalar, soruşturmanın seyrini aydınlatmaya devam ediyor.\n\nYetkililer, saldırganın geçmişteki okul hayatına dair detayları incelerken, olay günü yaşanan kahramanca müdahalelerin arka planını da netleştirmeye çalışıyor. Hem öğretmenin fedakarlığı hem de velinin müdahalesi, yaşanan olağanüstü kriz anındaki insan tepkilerini gözler önüne serdi. Polis departmanı, soruşturmanın tüm yönleriyle titizlikle sürdürüldüğünü ve kamuoyunun gelişmelerden zamanında haberdar edileceğini belirtti.\n\nEğitim camiası ve bölge halkı, dört kişinin hayatını kaybettiği bu büyük travmanın izlerini silmeye çalışırken, benzer olayların önlenmesine yönelik tartışmalar da hız kazandı. Okullardaki güvenlik önlemleri, öğrenci destek sistemleri ve bireysel silahlanma gibi hassas başlıklar, bu son olayla birlikte yeniden geniş bir toplumsal ve hukuki değerlendirme sürecine girdi. Yetkililer, adli ve idari soruşturmaların tamamlanmasının ardından daha kapsamlı raporların paylaşılacağını bildirdi.",
+      "highlights": [
+        "Polis, Oregon'daki okul saldırganının eski bir özel eğitim öğrencisi olduğunu açıkladı.",
+        "Bir öğretmen saldırganla mücadele ederken, bir veli onu vurarak öldürdü.",
+        "Dört kişinin hayatını kaybetmesinden bir gün sonra yeni detaylar paylaşıldı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say?traffic_source=rss",
+      "publishedAt": "2026-10-17T00:25:22.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/resmi-ilanlar/sivas-2-asliye-hukuk-mahkemesi-3480453",
@@ -91,6 +229,29 @@
       "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-ekim-2026-1746646",
       "publishedAt": "2026-10-16T23:30:00.000Z",
       "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/c51kd8vm9912o?at_medium=RSS&at_campaign=rss",
+      "headline": "Fransa'daki öğrenci eylemleri: Ülke kırılma noktasında mı?",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1573358695783-005699a7fc94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGNyb3dkfGVufDF8MHx8fDE3OTIyMDA4MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Owen Cannon",
+        "photographerUrl": "https://unsplash.com/@llamastudios",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-of-people-on-city-street-6TLCSMj8zgE"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Fransa'da son dönemde yaşanan ve geniş yankı uyandıran öğrenci eylemleri, ülkede tansiyonun yükselmesine neden olmaya devam ediyor. Konuya ilişkin olarak Fransa Başbakanı tarafından yapılan açıklamalarda, öğrenci öfkesinin siyasi veya toplumsal birer silah olarak kullanıldığı iddia edildi. Hükümet kanadından gelen bu değerlendirmeler, protesto dalgasının arka planındaki siyasi tartışmaları da beraberinde getirdi. Yaşanan gelişmeler üzerine sendikalar ve diğer protestocu gruplar, tepkilerini dile getirmek ve seslerini duyurmak amacıyla bugün yeniden sokaklara çıkmaya hazırlanıyor.\n\nÜlke genelindeki bu hareketlilik, Fransa'nın mevcut politik ve sosyal atmosferinde önemli bir kırılma noktası olup olmadığına dair tartışmaları da alevlendirdi. Eğitim kurumlarında ve sokaklarda kendini gösteren hoşnutsuzluk, farklı kesimlerin de katılımıyla geniş çaplı bir toplumsal reaksiyona dönüşme eğilimi gösteriyor. Başbakanlık makamından yapılan yöneltilen eleştiriler ve öfkenin manipüle edildiği yönündeki iddialar, protestoların doğası hakkındaki fikir ayrılıklarını derinleştiriyor. Eylemciler ise taleplerinden vazgeçmeyeceklerini belirterek alanlardaki varlıklarını sürdürmekte kararlı bir duruş sergiliyor.\n\nSendikaların ve çeşitli sivil toplum inisiyatiflerinin öncülüğünde gerçekleştirilecek bugünkü yürüyüşler ve mitingler, ülkenin güvenlik ve kamusal düzen birimleri açısından da yakından takip edilen bir süreci işaret ediyor. Güvenlik güçlerinin olası olaylara karşı aldığı tedbirler artırılırken, göstericilerin güzergahları ve eylem planları da netleşmeye başladı. Fransa'da uzun süredir hissedilen ekonomik ve sosyal sıkıntıların bir yansıması olarak değerlendirilen bu öğrenci eylemleri, yalnızca eğitim sektörünü değil, genel olarak hükümetin izlediği politikaların tamamını hedef alan bir nitelik bürünüyor.\n\nSiyaset analizcileri, Başbakan'ın açıklamalarının ardından taraflar arasındaki diyalog kanallarının kapanma riskine dikkat çekiyor. Öğrenci öfkesinin bir silah olarak kullanıldığına yönelik suçlamalar, eylemleri gerçekleştiren kesimler tarafından tepkiyle karşılanırken, sokaktaki kararlılığı daha da artırıcı bir etki yaratmış durumda. Bugün düzenlenecek olan yeni gösterilerin katılım oranı ve seyri, Fransa'nın önümüzdeki günlerde iç siyasetinde yaşanabilecek gelişmelerin ve olası hükümet adımlarının yönünü belirlemede kritik bir eşik olarak kabul ediliyor.\n\nToplumsal hareketlerin tarihte önemli izler bıraktığı Fransa'da, bu son protesto dalgasının ne kadar süre devam edeceği ve tarafların atacağı yeni adımlar merakla bekleniyor. Hükümetin eleştirilerini sürdürmesine karşın, sokaklardaki kalabalıkların taleplerinden ödün vermemesi, krizin yakın zamanda çözüme kavuşmayabileceğini gösteriyor. Sendikaların katılımıyla bugün zirve yapması beklenen eylemlerin ülke genelindeki ekonomik ve günlük yaşamı nasıl etkileyeceği ise önümüzdeki saatlerde netlik kazanacak.",
+      "highlights": [
+        "Fransa Başbakanı, öğrenci öfkesinin bir silah olarak kullanıldığını öne sürdü.",
+        "Sendikalar ve protestocular bugün yeniden sokaklara çıkmaya hazırlanıyor.",
+        "Eylemlerin ülkeyi bir kırılma noktasına taşıyıp taşımadığı tartışılıyor."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/c51kd8vm9912o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-16T23:29:36.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -186,6 +347,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "headline": "Oregon'daki ilkokul saldırısını gerçekleştiren şüphelinin okulun eski öğrencisi olduğu açıklandı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZWxlbWVudGFyeSUyMHNjaG9vbHxlbnwxfDB8fHwxNzkyMjAwODAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "note thanun",
+        "photographerUrl": "https://unsplash.com/@notethanun",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-people-wearing-white-and-orange-backpacks-walking-on-gray-concrete-pavement-during-daytime-CYlPykF-qAM"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Amerika Birleşik Devletleri'nin Oregon eyaletinde yaşanan ve tüm ülkeyi yasa boğan trajik bir okul saldırısıyla ilgili resmi makamlar tarafından önemli bilgiler kamuoyuyla paylaşıldı. Yetkililer tarafından cuma günü düzenlenen basın toplantısında aktarılan detaylara göre, Silver Rail İlkokulu'nu hedef alan ve bir öğretmen ile üç çocuğun hayatını kaybetmesine yol açan silahlı saldırının failinin, bu okulun eski bir öğrencisi olduğu kesinleşti.\n\nOlayın gelişimine ilişkin paylaşılan bilgilere göre, saldırıyı gerçekleştiren 16 yaşındaki Griffin J John II, olay günü okul sınırlarına dahil olmak için tesise ait bir çiti tırmanarak arazinin içine girdi. Şahsın daha sonra kilitli durumda olan bir kapı setine ateş açarak binanın içerisine zorla girdiği ve burada rastgele ateş açmaya başladığı bildirildi. Oldukça ağır silahlarla donatılmış olduğu belirtilen saldırganın gerçekleştirdiği bu dehşet verici eylem sonucunda, eğitim kurumunda görev yapan bir öğretmen ile yaşları küçük üç öğrenci olay yerinde hayatını kaybetti.\n\nBu tür trajik olaylar, ülke genelinde okul güvenliği, silah kontrolü ve benzeri güvenlik önlemlerinin ne kadar kritik bir öneme sahip olduğunu bir kez daha gündeme getirdi. Eğitim kurumlarının güvenliğini artırmaya yönelik tartışmalar, özellikle çocukların ve eğitim emekçilerinin hedef alındığı bu gibi saldırıların ardından toplumun tüm kesimleri tarafından yoğun bir şekilde sürdürülüyor. Yetkililer, saldırının ardındaki motivasyonu ve detayları tam olarak aydınlatabilmek adına soruşturmayı çok yönlü bir şekilde derinleştirerek devam ettiriyor.\n\nSaldırının ardından yerel topluluk ve okul çevresindeki aileler büyük bir şok ve üzüntü yaşarken, olayla ilgili resmi soruşturma süreci tüm hızıyla sürüyor. Emniyet güçleri ve adli makamlar, saldırganın geçmişteki bağlantılarını, okulla olan ilişkisini ve olayın gerçekleştiği ana kadarki hareket tarzını titizlikle inceliyor. Basın toplantısında paylaşılan ilk bulgular, kamuoyu ile şeffaf bir şekilde paylaşılırken, soruşturmanın ilerleyen aşamalarında yeni detayların ortaya çıkması bekleniyor.\n\nYaşanan bu acı olay, eğitim verilen güvenli alanların korunması gerektiği gerçeğini bir kez daha gözler önüne sererken, benzer trajedilerin önlenmesi adına atılması gereken adımlar ulusal düzeyde tartışılmaya devam ediyor. Yetkililer tarafından yürütülen hukuki ve idari süreçlerin tamamlanmasının ardından, olayın tüm boyutlarıyla aydınlatılması ve kamuoyunun bilgilendirilmesi öngörülüyor.",
+      "highlights": [
+        "Saldırganın 16 yaşındaki Griffin J John II olduğu açıklandı.",
+        "Şüphelinin Silver Rail İlkokulu'nun eski bir öğrencisi olduğu teyit edildi.",
+        "Olayda bir öğretmen ve üç çocuk hayatını kaybetti."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/oct/16/oregon-school-shooting-latest",
+      "publishedAt": "2026-10-16T23:03:42.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
       "headline": "Leeds ve Manchester United Premier League randevusunda karşı karşıya geliyor",
       "source": "Al Jazeera",
@@ -207,6 +391,29 @@
       "publishedAt": "2026-10-16T22:53:26.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-36-il-icin-kuvvetli-yagis-uyarisi-istanbulda-alarm-seviyesi-yukseltildi-1746587",
+      "headline": "45 il için kuvvetli yağış uyarısı: İstanbul'da alarm seviyesi yükseltildi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1725072318216-1a56e31a3049?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aGVhdnklMjByYWluJTIwY2l0eXxlbnwxfDB8fHwxNzkyMjAwODI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Uday Vatti",
+        "photographerUrl": "https://unsplash.com/@vatteu23",
+        "unsplashUrl": "https://unsplash.com/photos/a-wet-city-street-with-a-few-cars-on-it-X_CCeX8Fg8U"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Türkiye genelinde etkisini göstermesi beklenen olumsuz hava koşulları ve meteorolojik hareketlilik nedeniyle yetkili kurumlar harekete geçti. Yapılan son değerlendirmelere ve resmi uyarı raporlarına göre, ülkenin farklı bölgelerinde yer alan toplam 45 şehir için kuvvetli yağış uyarısı yapıldı. Meteorolojik verilere dayandırılan bu kritik süreçte, hava muhalefetinin potansiyel riskleri göz önünde bulundurularak ilgili iller için çeşitli renk kodlarıyla ikazlar paylaşıldı. Bu kapsamda, yurdun genelinde vatandaşların ve ilgili birimlerin tedbirli olması gerektiği vurgulanırken, özellikle büyük şehirlerde olası olumsuzluklara karşı hazırlık seviyeleri üst düzeye çıkarıldı.\n\nSöz konusu meteorolojik değerlendirmeler doğrultusunda, toplam 40 il için sarı kodlu uyarı yayınlandı. Sarı kod, hava durumunun potansiyel tehlikeler barındırdığını, tahmin edilen meteorolojik şartların olağandışı olmadığını ancak dikkatli olunması gerektiğini ifade eden bir risk derecesi olarak öne çıkıyor. Bu illerde yaşayan vatandaşların günlük faaliyetlerinde ve ulaşımda yaşanabilecek aksamalara karşı hazırlıklı olması bekleniyor. Yetkililer, sarı kodla uyarılan bölgelerdeki yerel yönetimlerin ve acil durum ekiplerinin olası su baskınları, taşkınlar ve fırtına gibi etkilere karşı teyakkuz halinde olduğunu belirtti.\n\nUyarının en dikkat çekici boyutu ise megakent İstanbul'un da aralarında bulunduğu 5 şehir için turuncu kod seviyesine geçilmesi oldu. Turuncu kod, hava durumunun tehlikeli olduğunu; hasar ve kayıpların oluşmasının muhtemel olduğunu simgeleyen daha ciddi bir uyarı kategorisi olarak biliniyor. Bu bağlamda, İstanbul başta olmak üzere turuncu kodla işaretlenen illerde riskin boyutu ve olası etkileri daha da ciddiye alınarak kriz masaları ve ilgili tüm operasyonel birimler hazırlıklarını yoğunlaştırdı. Uzmanlar ve yetkili merciler, bu düzeydeki uyarıların can ve mal güvenliğini korumak adına büyük bir titizlikle takip edildiğini hatırlatıyor.\n\nMegakent İstanbul özelinde ise tehlikenin zamanlamasına dair net çağrılar yapıldı. Yapılan duyurularda, özellikle öğleden sonraki saatlerde etkisini artırması beklenen şiddetli yağışlar ve hava muhalefeti nedeniyle vatandaşlara yönelik uyarı yinelendi. İstanbullulara, gerekmedikçe trafiğe çıkmamaları, zorunlu hallerde ise toplu taşıma araçlarını tercih etmeleri ve olası su birikintilerine karşı dikkatli olmaları çağrısında bulunuldu. Kent genelindeki altyapı ve ulaşım hizmetlerinden sorumlu ekiplerin, yaşanabilecek olumsuzluklara anında müdahale edebilmek adına kritik noktalarda konuşlandırıldığı ifade edildi.\n\nYaşanan bu gelişmeler, son dönemde ülke genelinde görülen mevsim normallerinin dışındaki hava olaylarının ve ani iklim geçişlerinin bir yansıması olarak değerlendiriliyor. Meteoroloji birimleri ile ilgili diğer kurumlar, vatandaşların anlık hava durumu raporlarını ve resmi makamlardan yapılacak yeni duyuruları yakından takip etmesinin hayati önem taşıdığını hatırlattı. Alınan önlemlerin ve yapılan uyarıların temel amacının, oluşabilecek riskleri en aza indirmek ve güvenliği sağlamak olduğu bir kez daha vurgulandı.",
+      "highlights": [
+        "Türkiye genelinde toplam 45 il için kuvvetli yağış uyarısı yapıldı.",
+        "Meteoroloji tarafından 40 il sarı, İstanbul dahil 5 il ise turuncu kodla uyarildi.",
+        "İstanbul'da özellikle öğleden sonraki saatler için vatandaşlara dikkatli olun çağrısı yapıldı."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-36-il-icin-kuvvetli-yagis-uyarisi-istanbulda-alarm-seviyesi-yukseltildi-1746587",
+      "publishedAt": "2026-10-16T21:59:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/kutahyada-otomobil-takla-atti-biri-agir-dort-kisi-yaralandi-4864975",
@@ -412,6 +619,29 @@
       ],
       "externalUrl": "https://www.cnnturk.com/teknoloji/whatsapp-coktu-mu-16-ekim-whatsapp-ne-zaman-duzelecek-mesajlar-neden-gitmiyor-3480495",
       "publishedAt": "2026-10-16T21:03:31.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/sporarena/besiktas-acikladi-orkun-kokcude-yirtik-tespit-edildi-43344728",
+      "headline": "Beşiktaş'tan Orkun Kökçü açıklaması: Sağ ayak tabanında kısmi yırtık tespit edildi",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1713711437257-0232e837f40c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBwbGF5ZXIlMjBpbmp1cnl8ZW58MXwwfHx8MTc5MjIwMDgyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Omar Ramadan",
+        "photographerUrl": "https://unsplash.com/@omarvellous14",
+        "unsplashUrl": "https://unsplash.com/photos/a-soccer-player-is-laying-on-the-ground-A9XmmNGthbc"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Spor dünyasında son günlerin en çok konuşulan gelişmelerinden biri olan sağlık durumlarına dair kulüplerden resmi bilgilendirmeler gelmeye devam ederken, siyah-beyazlı camiadan oyuncunun sağlık durumu hakkında yeni bir duyuru yapıldı. Türk futbolunun dikkat çeken isimlerinden biri olan ve performansıyla taraftarların odağında yer alan Orkun Kökçü hakkında Beşiktaş kulübü tarafından resmi bir açıklama kamuoyuyla paylaşıldı.\n\nYapılan bu resmi bilgilendirmede, başarılı futbolcu Orkun Kökçü'nün geçirdiği tetkikler ve sağlık kontrolleri neticesinde yaşadığı rahatsızlığın boyutu netlik kazandı. Kulüp yetkilileri ve sağlık ekibinin ortaklaşa yürüttüğü detaylı incelemeler sonucunda, sporcunun sağ ayak tabanı bölgesinde kısmi yırtık tespit edildiği resmen duyuruldu. Bu tür sakatlık durumları, profesyonel sporcuların antrenman ve maç programlarında önemli aksamalara yol açabildiği için kulüpler tarafından büyük bir titizlikle takip edilmektedir.\n\nFutbol sahalarında yaşanan bu tür fiziksel talihsizlikler, hem oyuncunun bireysel kariyerini hem de takımın genel kadro planlamasını doğrudan etkileyen unsurlar arasında yer almaktadır. Sezonun yoğun temposu ve karşılaşmaların sıklığı göz önüne alındığında, sporcuların vücut sağlığı ve sakatlık süreçlerinin yönetimi kulüplerin en kritik operasyonel alanlarından birini oluşturur. Orkun Kökçü'nün durumu da bu kapsamda siyah-beyazlı ekibin teknik heyeti ve sağlık departmanı tarafından yakından izlenmektedir.\n\nSöz konusu sakatlığın tespitiyle birlikte, oyuncunun yeşil sahalardan ne kadar süre uzak kalacağı ve tedavi sürecinin nasıl ilerleyeceği merak konusu oldu. Profesyonel spor dünyasında kısmi yırtık vakaları, genellikle belirli bir dinlenme, fizik tedavi ve rehabilitasyon sürecini zorunlu kılan durumlar olarak bilinmektedir. Kulüp doktorlarının bu süreçte nasıl bir yol haritası çizeceği ve oyuncunun sahalara dönüş takviminin nasıl şekilleneceği, önümüzdeki günlerde yapılacak yeni sağlık kontrollerinin ardından netlik kazanacaktır.\n\nBeşiktaş camiası ve futbolseverler, Orkun Kökçü'nün bir an önce sağlığına kavuşarak takımla birlikte yeniden sahalara dönmesini beklerken, kulüp kanadından yapılacak olası yeni sağlık bültenleri de yakından takip edilmektedir. Profesyonel futbolun getirdiği fiziksel riskler ve bu tür sakatlıkların takımların rekabet gücüne olan etkileri, sezon boyunca spor gündeminin en önemli başlıkları arasında yer almaya devam edecektir.",
+      "highlights": [
+        "Beşiktaş, Orkun Kökçü'nün sağlık durumu hakkında resmi açıklama yaptı.",
+        "Yapılan kontrollerde futbolcunun sağ ayak tabanında kısmi yırtık belirlendi.",
+        "Oyuncunun tedavi sürecine ilişkin detayların önümüzdeki günlerde netleşmesi bekleniyor."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/sporarena/besiktas-acikladi-orkun-kokcude-yirtik-tespit-edildi-43344728",
+      "publishedAt": "2026-10-16T21:00:36.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6670,236 +6900,6 @@
       "publishedAt": "2026-10-10T23:35:21.000Z",
       "category": "Dünya",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "headline": "Blackpink'ten Lisa'nın ırk skandalı sırasında yaşadıkları belgesel yönetmeni tarafından anlatıldı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1497015289639-54688650d173?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZG9jdW1lbnRhcnklMjBmaWxtbWFrZXJ8ZW58MXwwfHx8MTc5MTY3ODA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sam McGhee",
-        "photographerUrl": "https://unsplash.com/@sammcghee",
-        "unsplashUrl": "https://unsplash.com/photos/person-sitting-in-front-bookshelf-KieCLNzKoBo"
-      },
-      "timeAgo": "50 dk önce",
-      "body": "Dünyaca ünlü K-Pop grubu Blackpink'in üyelerinden Lisa Manobal'ın kariyerinde ve özel yaşamında karşılaştığı zorlu dönemeçler, sanatçının bugüne kadar pek görülmemiş samimi anlarına tanıklık eden sinemacı Sue Kim tarafından kamuoyuyla paylaşıldı. Yönetmen Sue Kim, küresel müzik endüstrisinin en parlak isimlerinden biri olan Lisa ile yakın çalışma imkanı bulduğunu ve sanatçının hayatındaki en hassas, aynı zamanda en çok tartışma yaratan süreçlerin odağında yer aldığını belirtti. Söz konusu dönem, Lisa'nın adının bir ırk skandalına karıştığı ve kamuoyunun yoğun baskısı altında kaldığı hassas bir zaman dilimini kapsıyordu.\n\nBelgesel yapımcılığı ve yönetmenliği alanındaki çalışmalarıyla tanınan Sue Kim, Lisa Manobal ile geçirdiği süre zarfında elde ettiği benzersiz erişim imkanının, sanatçının sadece sahnedeki ışıltılı kimliğini değil, aynı zamanda bu tür büyük krizler karşısındaki insani tepkilerini de gözler önüne serdiğini ifade etti. Müzik dünyasında boy gösteren devasa kitlelerin idolü olan sanatçıların, özel hayatlarında yaşadıkları bu tür çalkantılı olaylar, genellikle basından ve hayran kitlesinden uzak tutulmaya çalışılır. Ancak Sue Kim'in projeleri kapsamında yaşanan bu süreç, K-Pop sektörünün sert ve acımasız dinamiklerinin bir sanatçının ruh sağlığı üzerindeki etkilerini, içeriden bir bakış açısıyla gözler önüne sermesi açısından dikkat çekti.\n\nOlayın patlak verdiği dönemde, Lisa Manobal'ın maruz kaldığı eleştiriler ve sosyal medyadaki tepki dalgası, küresel eğlence dünyasında geniş yankı uyandırmıştı. Sanatçının en savunmasız anlarında yanında bulunduğunu belirten Sue Kim, Lisa'nın bu krizle yüzleşirken sergilediği tutumun, onun karakterinin farklı bir boyutunu ortaya koyduğunu vurguladı. Film yapımcısının aktardığı gözlemler, müzik dünyasının en tepesindeki isimlerin dahi ne denli büyük krizlerle baş etmek zorunda kaldığını ve halkın gözü önünde yaşamanın getirdiği ağırlığı gözler önüne serdi.\n\nK-Pop endüstrisinin uluslararası alanda ulaştığı devasa boyut, bu tür krizlerin etkilerini de katbekat artırıyor. Lisa Manobal gibi dünya çapında milyonlarca hayranı bulunan bir sanatçının yaşadığı her olay, sosyal medya algoritmaları ve küresel haber ağları üzerinden saniyeler içinde milyonlarca kişiye ulaşıyor. Yönetmen Sue Kim'in sunduğu bu içeriden bakış, sadece bir pop yıldızının günlük yaşamını değil, aynı zamanda modern eğlence endüstrisinin kriz yönetimi mekanizmalarını ve bireyler üzerindeki psikolojik yüklerini de anlamak adına önemli bir çerçeve sunuyor.\n\nSanatçının en samimi hallerini kayda geçiren ve bu zorlu sürecin tanığı olan Sue Kim'in açıklamaları, hayranlar ve medya çevreleri tarafından yakından takip ediliyor. Yaşanan bu ırk skandalı ve sonrasındaki gelişmeler, K-Pop dünyasındaki şeffaflık tartışmalarını yeniden alevlendirirken, Lisa Manobal'ın bu süreçten nasıl etkilendiği ve gelecekteki kariyerine bu deneyimi nasıl yansıtacağı merak konusu olmaya devam ediyor.",
-      "highlights": [
-        "Yönetmen Sue Kim, K-Pop yıldızı Lisa Manobal ile yakın çalışma yürüttü.",
-        "Süreç, Lisa'nın ırk skandalıyla karşılaştığı hassas dönemi kapsıyor.",
-        "Açıklamalar, sanatçının kriz anındaki samimi hallerini gözler önüne serdi."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cjzxl56q30k7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-10T23:31:35.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskan-yardimcisi-seyh-halkimizi-katledenler-bize-vaiz-diliyle-sesleniyor/4084825",
-      "headline": "Filistin Devlet Başkan Yardımcısı Şeyh'ten İsrail'e sert tepki: Katledenler vaiz diliyle sesleniyor",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1698270723454-a2c84bfb61c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3OTE2NzgwNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sebastian Romero",
-        "photographerUrl": "https://unsplash.com/@sebasmeroo",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-holding-a-microphone-aVpE5dVepy8"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Filistin ile İsrail arasındaki siyasi gerilim, üst düzey yetkililerin karşılıklı açıklamalarıyla yeni bir boyut kazandı. Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh, son dönemde gündeme gelen Filistin genel seçimlerinin ertelenmesi meselesi üzerinden kendisine ve yönetimine yöneltilen eleştirilere karşı çok sert bir duruş sergiledi. Şeyh, özellikle İsrail Dışişleri Bakanı Gideon Saar'ın seçimlerin ertelenmesine yönelik eleştirilerine, sosyal medya ve basın yoluyla doğrudan yanıt vererek yaşanan krizin gerçek sorumlusunun Tel Aviv yönetimi olduğunu vurguladı.\n\nBilindiği üzere, Filistin'de yapılması planlanan genel seçimlerin ertelenmesi konusu, uluslararası kamuoyunda ve bölge siyasetinde sıkça tartışılan başlıklar arasında yer alıyor. İsrail Dışişleri Bakanı Gideon Saar, bu erteleme kararını eleştiren bir tutum takınmış ve Filistin tarafını hedef alan açıklamalarda bulunmuştu. Saar'ın bu çıkışı, iki taraf arasındaki diplomatik ve siyasi çekişmenin derinleşmesine yol açtı. Filistin yönetimi ise bu eleştirileri haksız ve ikiyüzlü olarak nitelendirerek, sahadaki fiili durumun seçimlerin yapılmasını imkansız kıldığını savunuyor.\n\nKonuya ilişkin değerlendirmelerinde son derece sert ifadeler kullanan Filistin Devlet Başkan Yardımcısı Hüseyin eş-Şeyh, halkın maruz kaldığı ağır koşullara dikkat çekti. Şeyh, Filistin halkını doğrudan hedef alan, can kayıplarına ve yıkımlara yol açan katliamların faili olan kesimlerin, bugün kalkıp kendilerine vaiz diliyle akıl vermeye çalışmasını asla kabul etmediklerini belirtti. Bu tür açıklamaların hiçbir ahlaki temeli olmadığını savunan Şeyh, yaşanan insani ve siyasi trajedilerin baş sorumlusunun İsrail'in izlediği saldırgan politikalar ve uygulamalar olduğunu dile getirdi.\n\nŞeyh'in açıklamaları, seçimlerin ertelenmesi kararının arkasındaki temel gerekçenin İsrail'in sahadaki ihlalleri ve baskı politikaları olduğunu bir kez daha gözler önüne serdi. Filistin makamları, demokratik süreçlerin sağlıklı bir şekilde işletilebilmesi için öncelikle halkın güvenliğinin ve özgürlüğünün sağlanması gerektiğine inanıyor. Ancak devam eden operasyonlar, kısıtlamalar ve çatışma ortamı, bu tür kurumsal süreçlerin normalleşmesinin önündeki en büyük engeli oluşturuyor. İsrail tarafının ise bu engellerin varlığını görmezden gelerek sadece sonuçlar üzerinden eleştiri yapması, Filistin yönetimi tarafından samimiyetsizlik olarak değerlendiriliyor.\n\nBölgedeki bu diplomatik atışma, taraflar arasındaki barış ve uzlaşı zeminini daha da zayıflatırken, uluslararası toplumun konuya yaklaşımını da yeniden tartışmaya açıyor. Filistin yönetimi, uluslararası alanda haklılığını savunmaya devam ederken, İsrail'in eleştirilerine karşı en net cevabın sahadaki acı gerçekler olduğunu hatırlatıyor. Hüseyin eş-Şeyh'in bu çıkışı, sadece anlık bir siyasi polemikten öte, uzun süredir devam eden işgal ve çatışma sarmalının yarattığı derin öfkenin ve adaletsizlik duygusunun bir yansıması olarak kayıtlara geçti.",
-      "highlights": [
-        "Filistin Devlet Başkan Yardımcısı Şeyh, İsrailli Bakan Saar'a tepki gösterdi.",
-        "Şeyh, ertelemenin nedeninin İsrail'in suçları ve uygulamaları olduğunu belirtti.",
-        "Açıklamada halkı katledenlerin vaiz diliyle seslenemeyeceği vurgulandı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/filistin-devlet-baskan-yardimcisi-seyh-halkimizi-katledenler-bize-vaiz-diliyle-sesleniyor/4084825",
-      "publishedAt": "2026-10-10T23:12:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
-      "headline": "Liverpool ile Manchester City kritik mücadelede karşı karşıya geliyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTE2NTUxNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mario Klassen",
-        "photographerUrl": "https://unsplash.com/@marioklassen",
-        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "İngiltere Premier Lig'in son dönemdeki en büyük iki hakimi konumunda bulunan Liverpool ile Manchester City, Pazar günü gerçekleşecek olan dev maçta kozlarını paylaşmaya hazırlanıyor. Futbolseverlerin büyük bir heyecanla beklediği bu karşılaşma, son yıllarda ligin zirvesinde kurulan üstünlüğün ve iki kulüp arasındaki amansız rekabetin en somut göstergelerinden biri olarak ön plana çıkıyor. Her iki ekip de hem puan tablosundaki konumlarını sağlamlaştırmak hem de ezeli rakiplerine karşı psikolojik bir üstünlük kurmak adına sahaya mutlak galibiyet parolasıyla çıkacak.\n\nSon sezonlarda Premier Lig'in zirve yarışına adeta demir atan bu iki dev kulübün randevuları, dünya genelinde milyonlarca futbol tutkunu tarafından ilgiyle takip ediliyor. Takımların sahaya yansıttığı yüksek tempolu futbol, taktiksel hamleler ve kadro kaliteleri, bu mücadeleyi adeta bir erken final havasına büründürüyor. Futbol otoriteleri de bu karşılaşmanın, sezonun geri kalanındaki şampiyonluk yarışının seyrini doğrudan etkileyebilecek kritik bir eşik olduğunda hemfikir görünmektedir.\n\nİngiltere futbolunun zirvesini yıllardır domine eden Liverpool ve Manchester City, tarihleri boyunca birçok unutulmaz maça imza attı. Pazar günü oynanacak olan bu kritik 90 dakika, iki köklü kulübün aralarındaki rekabet zincirine eklenecek yeni ve heyecan verici bir halka olacak. Takımların yakın geçmişteki performansları ve ligdeki mevcut durumları, bu mücadelenin ne denli yüksek bir rekabet ortamında geçeceğinin açık bir işareti niteliğindedir.\n\nTeknik direktörlerin sahaya süreceği ilk 11'ler ve maç boyunca uygulayacakları taktiksel planlar, mücadelenin kaderini belirleyecek en önemli etkenler arasında yer alıyor. İki takımın da kadrolarında barındırdığı dünya çapındaki yıldız oyuncular, sahanın her alanında büyük bir mücadelenin yaşanacağının sinyallerini veriyor. Taraftarlar ise statta ve ekran başından takımlarına büyük bir destek vererek bu dev randevunun atmosferini zirveye taşıyacak.\n\nÖzetle, Pazar günü oynanacak olan bu dev karşılaşma yalnızca üç puanlık bir maçtan çok daha fazlasını ifade ediyor. Premier Lig'in zirvesindeki bu muazzam çekişme, İngiliz futbolunun kalbinin attığı yer olarak, hem taraftarlara unutulmaz anlar yaşatacak hem de lig tarihindeki yerini şimdiden ayırtacaktır. Futbol dünyasının odak noktası haline gelen bu mücadele için geri sayım resmen başladı ve gözler hakemin ilk düdüğüne çevrildi.",
-      "highlights": [
-        "Liverpool ve Manchester City pazar günü kritik bir maçta karşılaşacak.",
-        "İki ekip son yıllarda Premier Lig'in zirvesini domine eden takımlar arasında yer alıyor.",
-        "Bu dev randevu sezonun şampiyonluk yarışını doğrudan etkileyecek."
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
-      "publishedAt": "2026-10-10T22:43:08.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.haberturk.com/dunya/son-dakika-riyad-da-havalimaninda-patlama-3918734",
-      "headline": "Riyad'daki havalimanı saldırısında can kaybı arttı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1527007622069-3a0241e1cd8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YWlycG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTE2NzgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Belinda Fewings",
-        "photographerUrl": "https://unsplash.com/@bel2000a",
-        "unsplashUrl": "https://unsplash.com/photos/photo-of-departure-area-DpwWav9DhKk"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Suudi Arabistan'ın başkenti Riyad'da bulunan kritik önemdeki Kral Halid Uluslararası Havalimanı'na yönelik gerçekleştirilen saldırının ardından bilanço her geçen saat daha da netleşiyor. Konuya ilişkin resmi bilgilendirme, ülkenin havacılık otoritesi olan Suudi Arabistan Sivil Havacılık Genel Kurulu (GACA) tarafından kamuoyuyla paylaşıldı. Yapılan son resmi açıklamalar doğrultusunda, stratejik tesisi hedef alan bu şiddet eylemi neticesinde hayatını kaybedenlerin sayısının 12 kişiye ulaştığı teyit edildi.\n\nUluslararası ulaşım ve lojistik açısından son derece hayati bir konumda bulunan Kral Halid Uluslararası Havalimanı'nda meydana gelen bu elim olay, bölgedeki güvenlik endişelerini üst seviyeye çıkardı. GACA tarafından paylaşılan güncel verilere göre, saldırıda yaşamını yitirenlerin yanı sıra yaralanan insan sayısı da oldukça yüksek bir seviyede bulunuyor. Yapılan son tespitlere göre, olayda yaralanan vatandaşların ve yolcuların toplam sayısı 309 olarak kayıtlara geçti.\n\nSaldırının hemen ardından havalimanı sahasına sevk edilen çok sayıda sağlık, arama-kurtarma ve itfaiye ekibi, yaralılara ilk müdahaleyi olay yerinde yaparak çevre hastanelere sevk süreçlerini gerçekleştirdi. Yetkili makamlar, yaralıların bir kısmının tedavilerinin ardından taburcu edilmeye başlandığını, durumu ağır olan bazı hastaların ise yoğun bakım ünitelerinde tedavisinin sürdüğünü ifade etti.\n\nOlayın ardından Kral Halid Uluslararası Havalimanı'ndaki operasyonlar geçici olarak güvenlik incelemelerine ve hasar tespiti çalışmalarına tabi tutuldu. Sivil havacılık otoriteleri ve ilgili güvenlik birimleri, saldırının nasıl gerçekleştirildiğine dair kapsamlı bir soruşturma yürütürken, uluslararası uçuşların güvenliğinin sağlanması adına ek tedbirler devreye sokuldu. Başkent Riyad'ın hava ulaşımını dış dünyaya bağlayan en önemli kapısı olan bu tesisteki aksamaların normale döndürülmesi için ekipler yoğun bir mesai harcıyor.\n\nSuudi Arabistan Sivil Havacılık Genel Kurulu (GACA), yaşanan bu facianın ardından mağdur olan yolculara ve hayatını kaybedenlerin ailelerine yönelik destek süreçlerinin koordine edildiğini bildirdi. Güvenlik güçleri ile istihbarat birimleri, saldırının arka planını aydınlatmak ve sorumluları adalete teslim etmek amacıyla çok yönlü operasyonlarını ve teknik incelemelerini aralıksız bir şekilde sürdürüyor.",
-      "highlights": [
-        "Riyad'daki Kral Halid Uluslararası Havalimanı hedef alındı.",
-        "Saldırıda hayatını kaybedenlerin sayısı 12'ye yükseldi.",
-        "Yaralanan 309 kişinin tedavisi hastanelerde devam ediyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/dunya/son-dakika-riyad-da-havalimaninda-patlama-3918734",
-      "publishedAt": "2026-10-10T22:39:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/dunya/riyaddaki-havalimanina-duzenlenen-saldirida-12-kisi-hayatini-kaybetti-959785.html",
-      "headline": "Riyad'daki havalimanına düzenlenen saldırıda can kaybı 12'ye yükseldi",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1561131668-f63504fc549d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YWlycG9ydCUyMHRlcm1pbmFsfGVufDF8MHx8fDE3OTE2NzgwNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Artur Tumasjan",
-        "photographerUrl": "https://unsplash.com/@arturtumasjan",
-        "unsplashUrl": "https://unsplash.com/photos/people-with-luggage-in-airport-terminal-KZSNMN4VxR8"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Suudi Arabistan'ın başkenti Riyad'da bulunan stratejik öneme sahip Kral Halid Uluslararası Havalimanı'na yönelik gerçekleştirilen saldırının ardından yaşanan gelişmeler, bölgedeki güvenlik endişelerini bir kez daha en üst seviyeye çıkardı. Konuya ilişkin olarak yetkili mercilerden yapılan son resmi açıklamalar, yaşanan trajedinin boyutlarını gözler önüne sererken, sivil kayıpların artış gösterdiğini teyit etti.\n\nSuudi Arabistan Sivil Havacılık Genel Kurulu GACA tarafından kamuoyuyla paylaşılan son bilgilere göre, uluslararası hava ulaşımının merkezlerinden biri olan Kral Halid Uluslararası Havalimanı'nı hedef alan şiddet eyleminde hayatını kaybedenlerin sayısı maalesef 12 kişiye ulaştı. Havalimanı gibi kritik bir sivil altyapı tesisine düzenlenen bu saldırı, hem yerel hem de uluslararası kamuoyunda büyük bir şok ve endişeyle karşılandı.\n\nSaldırının hemen ardından olay yerine sevk edilen çok sayıda sağlık, arama-kurtarma ve itfaiye ekibi, tesiste yaralanan vatandaşlara ilk müdahaleyi olay yerinde yaparak çevre hastanelere sevk etti. GACA tarafından yapılan güncel açıklamada, bu elim olay neticesinde yaralananların toplam sayısının ise 309'a yükseldiği bildirildi. Tedavi altına alınan yaralıların bir kısmının durumunun ciddiyetini koruduğu ve hastanelerdeki tıbbi müdahalelerin aralıksız bir şekilde sürdürüldüğü kaydedildi.\n\nUlaşım güvenliği, uluslararası havacılık standartları ve sivil yerleşkelere yönelik bu tür tehditler, havacılık otoriteleri tarafından titizlikle incelenmektedir. Kral Halid Uluslararası Havalimanı gibi yoğun bir yolcu trafiğine sahip kritik bir tesiste meydana gelen bu denli büyük çaplı bir kayıp, küresel havacılık sektörü ve seyahat güvenliği açısından da ciddi soru işaretlerini beraberinde getirdi.\n\nOlayın ardından Riyad genelinde ve havalimanı çevresinde güvenlik önlemleri en üst seviyeye çıkarılırken, ilgili tüm birimler saldırının detaylarını aydınlatmak üzere geniş çaplı soruşturma başlattı. GACA ve diğer yetkili resmi kurumların, ilerleyen saatlerde konuyla ilgili yeni ve detaylı bilgileri kamuoyuyla paylaşması beklenirken, yaşanan bu acı olay sivil havacılık tarihindeki en ciddi güvenlik ihlallerinden biri olarak kayıtlara geçti.",
-      "highlights": [
-        "Riyad'daki havalimanını hedef alan saldırıda hayatını kaybedenlerin sayısı 12 oldu.",
-        "GACA tarafından yapılan açıklamaya göre olayda 309 kişi yaralandı.",
-        "Kral Halid Uluslararası Havalimanı'ndaki güvenlik önlemleri en üst seviyeye çıkarıldı."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/dunya/riyaddaki-havalimanina-duzenlenen-saldirida-12-kisi-hayatini-kaybetti-959785.html",
-      "publishedAt": "2026-10-10T21:59:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/tarim-fabrikasinda-feci-olum-isciyi-kepceyle-ezip-kacti-4863256",
-      "headline": "Edirne'deki tarım fabrikasında kepçeli cinayet: İşçi hayatını kaybetti, operatör teslim oldu",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1652303713917-2666b8bee507?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y29uc3RydWN0aW9uJTIwZXhjYXZhdG9yfGVufDF8MHx8fDE3OTE2NzgwODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "John Kakuk",
-        "photographerUrl": "https://unsplash.com/@lensatic",
-        "unsplashUrl": "https://unsplash.com/photos/a-bulldozer-in-a-dirt-field-HvvPceHYLOg"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "Edirne sınırları içerisinde faaliyet gösteren bir tarım fabrikasında yaşanan olay, iş güvenliği ve çalışma koşulları açısından büyük bir trajediye sahne oldu. Edinilen bilgilere göre, söz konusu tesiste görev yapan 37 yaşındaki Mutlu Yaştut, henüz belirlenemeyen bir sebepten dolayı küspe taşıyan bir iş makinesinin, yani kepçenin altında kaldı. Yaşanan bu elim kaza neticesinde, ağır yaralanan işçi olay yerinde yaşamını yitirdi. Fabrika sahasında çalışan diğer mesai arkadaşları ve tesis yöneticileri için şoke edici olan bu durum, kısa sürede büyük bir infial yarattı.\n\nGerçekleşen feci olayın ardından kepçe operatörü E.A., olay yerinde beklemek yerine hızla bölgeden uzaklaşarak kaçtı. Güvenlik güçlerinin ve ilgili birimlerin hemen haberdar edilmesiyle birlikte, kaçan şüphelinin yakalanması için geniş çaplı bir çalışma başlatıldı. Fabrika içinde ve çevresinde incelemelerde bulunan adli makamlar, olayın tüm yönleriyle aydınlatılması adına titiz bir tahkikat süreci yürüttü. Yaşanan bu trajik kaybın ardından, şüpheli operatörün uzun süre kaçamadığı ve olaydan bir süre sonra emniyet birimlerine giderek kendi isteğiyle teslim olduğu bildirildi.\n\nEmniyetteki işlemleri devam eden E.A.'nın, savcılık sorgusunun ardından adliyeye sevk edilmesi bekleniyor. 37 yaşında hayatını kaybeden Mutlu Yaştut'un ani ölümü, başta ailesi olmak üzere tüm yakınlarını ve çalışma arkadaşlarını yasa boğdu. Tarım sektöründe faaliyet gösteren tesislerde sıkça kullanılan ağır iş makinelerinin ve kepçelerin güvenli kullanımı konusunu bir kez daha gündeme taşıyan bu olay, iş sağlığı tedbirlerinin önemini gözler önüne serdi.\n\nOlayın hemen ardından başlatılan adli ve idari soruşturma çok yönlü olarak sürdürülmektedir. Soruşturma kapsamında, fabrikanın iş güvenliği protokolleri, operatörün ehliyet ve çalışma yetkinliği ile olayın tam olarak hangi koşullar altında meydana geldiği detaylı bir şekilde inceleniyor. Edirne'deki bu müessif kaza, hem işçi sağlığı ve güvenliği denetimlerinin sıklığını hem de işletmelerdeki olası ihmallerin hukuki sonuçlarını bir kez daha tartışmaya açtı. Yetkililer, soruşturmanın selameti açısından incelemelerin titizlikle devam ettiğini ve elde edilen bulgular doğrultusunda yasal işlemlerin hız kesmeden süreceğini belirtti.",
-      "highlights": [
-        "Edirne'deki bir tarım fabrikasında küspe taşıyan kepçenin altında kalan 37 yaşındaki Mutlu Yaştut yaşamını yitirdi.",
-        "Olayın ardından kaçan kepçe operatörü E.A., bir süre sonra emniyete giderek teslim oldu.",
-        "Yaşanan trajik ölüm olayıyla ilgili adli ve idari soruşturma çok yönlü olarak sürdürülmektedir."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/tarim-fabrikasinda-feci-olum-isciyi-kepceyle-ezip-kacti-4863256",
-      "publishedAt": "2026-10-10T21:43:41.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/bursada-motorlu-testereli-dehset-yasli-adamin-canina-kast-ettiler-4863250",
-      "headline": "Bursa'da motorlu testereyle dehşet anları: Yaşlı adam kaçarken yere düştü",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1587834423393-4bd778710a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5MTY2NzYzNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Diogo Nunes",
-        "photographerUrl": "https://unsplash.com/@dialex",
-        "unsplashUrl": "https://unsplash.com/photos/people-in-front-of-brown-concrete-building-during-daytime-lHsRkQOp9NM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Bursa'da meydana gelen olayda, sokak ortasında yaşanan sıra dışı ve tehlikeli anlar hem çevredeki vatandaşlarda büyük bir şok yarattı hem de güvenlik kameralarına saniye saniye yansıdı. Edinilen bilgilere göre, henüz kimliği açıklanmayan bir kadın, elinde çalışır vaziyette bulunan motorlu testereyle birlikte sokakta yürümekte olan 76 yaşındaki bir adamın üzerine doğru koşmaya başladı. Karşısında çalışan bir kesici aletle kendisine doğru gelen kişiyi gören yaşlı adam, aniden başlayan bu tehdit karşısında büyük bir panik ve korku yaşadı.\n\n76 yaşındaki mağdur, canını kurtarmak ve saldırı riskinden uzaklaşmak amacıyla hızla kaçmaya çalışırken dengesini kaybederek yere düştü. Yaşanan bu düşmenin ardından şüpheli kadının ve olay yerindeki diğer kişilerin, yardıma muhtaç duruma düşen yaşlı adamın yanına gelmeyerek hiçbir yardımda bulunmadığı ifade edildi. Şüphelilerin kısa süre içinde olay yerinden hızla uzaklaşmasıyla birlikte mahallede gergin anlar sona ererken, olay sırasında yaşanan tüm bu korku dolu saniyeler çevredeki bir iş yerinin güvenlik kamerası tarafından kayıt altına alındı.\n\nYaşanan dehşet verici dakikaların ardından yaşlı adamın ailesi durumdan haberdar olarak konuyu yargıya ve kolluk kuvvetlerine taşıdı. Ailenin resmi makamlara yaptığı şikâyet ve başvuruların ardından, jandarma ekipleri olayla ilgili kapsamlı bir inceleme başlattı. Güvenlik kamerası kayıtlarını titizlikle inceleyen güvenlik güçleri, şüphelilerin kimliğini tespiti ve olayın tüm yönleriyle aydınlatılması için çalışmalarını sürdürüyor.",
-      "highlights": [
-        "Çalışan motorlu testereyle yaşlı adamın üzerine koştular.",
-        "Korkan 76 yaşındaki adam kaçarken yere düştü.",
-        "Jandarma ailenin şikayeti üzerine inceleme başlattı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/bursada-motorlu-testereli-dehset-yasli-adamin-canina-kast-ettiler-4863250",
-      "publishedAt": "2026-10-10T21:24:32.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/spor/galatasaray-yillik-olagan-genel-kurul-toplantisi-gerceklesti-borc-31-4-milyar-tl-olarak-aciklandi-3918647",
-      "headline": "Galatasaray'ın borcu açıklandı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1649137532225-0709f3441220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y29uZ3Jlc3MlMjBoYWxsfGVufDF8MHx8fDE3OTE2Njc2Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sunnyday Pictures",
-        "photographerUrl": "https://unsplash.com/@uelawfirm",
-        "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-river-with-a-city-in-the-background-Sd9vrovztfM"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Galatasaray Spor Kulübü, yıllık olağan genel kurul toplantısını tamamlayarak üyelerini ve kamuoyunu kulübün mali durumu hakkında bilgilendirdi. Gerçekleştirilen bu önemli toplantı, İstanbul'un tarihi ve merkezi noktalarından biri olan Haliç Kongre Merkezi Haliç Oditoryumu'nda organize edildi. Kongre boyunca kulübün idari ve mali faaliyetleri masaya yatırılırken, katılımcılar ve kulüp üyeleri sarı-kırmızılı camianın geleceğine yönelik değerlendirmelerde bulunma fırsatı yakaladı.\n\nToplantının en çok merak edilen ve dikkatle takip edilen gündem maddesini ise hiç şüphesiz kulübün güncel borç durumu oluşturdu. Genel kurulda söz alan Galatasaray Kulübü Başkanı Dursun Özbek, kulübün ve tüm bağlı ortaklıklarının toplam borç miktarını resmi olarak kürsüden paylaştı. Yapılan bu açıklama, kulübün mali tablolarının şeffaf bir şekilde üyelerle paylaşılması geleneğinin bir parçası olarak kayıtlara geçti.\n\nBaşkan Dursun Özbek tarafından yapılan bilgilendirmeye göre, Galatasaray Spor Kulübü ile birlikte kulübe bağlı tüm ortaklıkların toplam borcunun 31,4 milyar lira seviyesinde bulunduğu duyuruldu. Açıklanan bu rakam, kongre salonundaki katılımcılar tarafından büyük bir dikkatle dinlenirken, kulübün önümüzdeki dönemde izleyeceği mali stratejiler ve borç yapılandırma çalışmaları da genel kurul üyelerinin başlıca tartışma konuları arasında yer aldı.\n\nSöz konusu yıllık olağan genel kurul toplantısı, sadece mevcut borç miktarının açıklanmasıyla değil, aynı zamanda kulübün idari ve sportif planlamalarının da geniş bir perspektifle ele alınmasıyla da öne çıktı. Galatasaray camiasının önde gelen isimlerinin, eski yöneticilerin ve kongre üyelerinin katılım gösterdiği oturumlarda, kulübün ekonomik yükünün hafifletilmesi için atılabilecek adımlar ve projeler üzerinde duruldu.\n\nTürk spor kamuoyunda geniş yankı uyandıran bu mali veriler, kulübün içinde bulunduğu ekonomik tablonun boyutlarını bir kez daha gözler önüne serdi. Haliç Kongre Merkezi'nde gerçekleşen ve uzun saatler süren genel kurul, yapılan konuşmaların ve oylamaların ardından sona ererken, açıklanan 31,4 milyar liralık borç rakamı Galatasaray'ın önümüzdeki dönemdeki en kritik gündem maddesi olmayı sürdürüyor.",
-      "highlights": [
-        "Galatasaray'ın yıllık olağan genel kurulu Haliç Kongre Merkezi'nde yapıldı.",
-        "Başkan Dursun Özbek kulübün mali durumunu üyelerle paylaştı.",
-        "Kulüp ve bağlı ortaklıkların toplam borcu 31,4 milyar lira olarak açıklandı."
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/galatasaray-yillik-olagan-genel-kurul-toplantisi-gerceklesti-borc-31-4-milyar-tl-olarak-aciklandi-3918647",
-      "publishedAt": "2026-10-10T21:22:54.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/tokatta-icme-suyu-icin-uyari-bin-400-kisi-hastanelere-basvurdu-1745736",
-      "headline": "Tokat'ta içme suyu endişesi: Bin 400 kişi hastanelik oldu",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1538108149393-fbbd81895907?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzkxNjY3NjQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Adhy Savala",
-        "photographerUrl": "https://unsplash.com/@adhy",
-        "unsplashUrl": "https://unsplash.com/photos/empty-hospital-bed-inside-room-zbpgmGe27p8"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Tokat genelinde son günlerde yaşanan ani sağlık sorunları, kamuoyunda ve yetkili mercilerde ciddi bir hareketliliğe neden oldu. Edinilen son bilgilere göre, şehir sakinleri arasında yaygın olarak görülen şikayetler üzerine çok sayıda vatandaş sağlık kuruluşlarının kapısını çaldı. Başlıca belirtileri mide bulantısı, kusma ve şiddetli karın ağrısı olan bu rahatsızlıklar nedeniyle hastanelere başvuran toplam insan sayısının yaklaşık bin 400'e ulaştığı açıklandı. Kentteki sağlık altyapısını ve acil servisleri kısa süreliğine de olsa yoğun bir tempoya sokan bu durum, yetkilileri ve sağlık çalışanlarını alarm durumuna geçirdi.\n\nYaşanan toplu rahatsızlık dalgasının ardından hastanelere akın eden vatandaşların bir kısmı ayakta tedavi edilerek taburcu edilirken, durumu daha ağır seyreden veya gözetim altında tutulması gereken bazı hastalar için yatış kararı alındı. Son verilere göre, bu şikayetlerle hastaneye başvuranlar arasından toplam 15 kişinin hastanede yatarak tedavi gördüğü ve sağlık durumlarının yakından takip edildiği bildirildi. Uzman hekimler ve hastane idareleri, hastaların müşahede altında tutulma süreçlerinin titizlikle yürütüldüğünü, gerekli tıbbi müdahalelerin eksiksiz bir şekilde yapıldığını ifade etti.\n\nOlayın ardından gözler Tokat'ta tüketilen içme sularına ve şebeke hatlarına çevrildi. Vatandaşların büyük bir kısmında aynı anda benzer semptomların ortaya çıkması, sorunun kaynağına yönelik kuşkuları artırdı. Yetkili kurumlar, konunun açıklığa kavuşturulması ve halk sağlığının korunması amacıyla içme suyu kaynakları üzerinde geniş çaplı bir inceleme başlattı. Numunelerin alındığı ve laboratuvar ortamında detaylı analizlerin sürdürüldüğü öğrenilirken, şehir genelinde içme suyu kullanımıyla ilgili resmi makamlarca dikkatli olunması yönünde uyarılar yapıldı.\n\nGünlük yaşamı ve kentteki rutin akışı etkileyen bu ani sağlık krizi, vatandaşlar arasında tedirginliğe yol açtı. Özellikle okullar, iş yerleri ve toplu yaşam alanlarında konunun en çok konuşulan başlık haline gelmesi, halkın bilgilendirilmesi ihtiyacını da beraberinde getirdi. Sağlık ve yerel yönetim birimleri, analiz sonuçları netleşene ve durum tamamen kontrol altına alınana kadar vatandaşların resmi açıklamalara itibar etmesi gerektiğini vurguluyor. \n\nKentteki hastanelerin acil servis ünitelerinde ve ilgili kliniklerde yoğunluk kısmen devam ederken, sağlık personeli olası yeni başvurular için teyakkuz halinde bekliyor. Tokat'ta yaşanan bu durum, şehir altyapısının ve özellikle su yönetiminin ne denli kritik bir öneme sahip olduğunu bir kez daha gözler önüne sererken, gözler laboratuvarlardan gelecek kesin test sonuçlarına çevrilmiş durumda.",
-      "highlights": [
-        "Tokat'ta mide bulantısı ve kusma şikayetleriyle bin 400 kişi hastaneye başvurdu.",
-        "Hastaneye başvuran hastalardan 15'inin yatarak tedavisinin sürdüğü bildirildi.",
-        "Yaşanan vakaların ardından içme suyu konusunda yetkililer tarafından uyarı yapıldı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/tokatta-icme-suyu-icin-uyari-bin-400-kisi-hastanelere-basvurdu-1745736",
-      "publishedAt": "2026-10-10T21:18:26.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "headline": "Yemen'deki Husilerden hükümet güçlerine yönelik insansız hava aracı saldırılarına ilişkin video",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBkcm9uZXxlbnwxfDB8fHwxNzkxNjY3NjQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alessio Soggetti",
-        "photographerUrl": "https://unsplash.com/@asoggetti",
-        "unsplashUrl": "https://unsplash.com/photos/turned-on-drone-rSFxBGpnluw"
-      },
-      "timeAgo": "25 dk önce",
-      "body": "Yemen'de devam eden iç çatışmalar ve hareketlilik kapsamında, bölgedeki aktörlerden biri olan Husiler tarafından yeni bir görsel materyal kamuoyu ile paylaşıldı. Aktarılan bilgilere göre, Yemen'deki Husiler, Suudi Arabistan destekli Yemen hükümet güçlerini hedef aldıkları belirtilen insansız hava aracı saldırılarına ait bir video kaydı yayınladı.\n\nSöz konusu video, ülkede uzun süredir devam eden askeri ve siyasi gerilimin sahadaki yansımalarını bir kez daha gözler önüne serdi. Yayınlanan bu tür materyaller, tarafların yürüttüğü askeri faaliyetlerin ve stratejilerin kamuoyuna duyurulmasında sıklıkla kullanılan araçlar arasında yer alıyor. Husilerin kontrolündeki kanallar veya ilgili mecralar üzerinden servis edilen görüntüler, bölgedeki güç dengeleri ve çatışma dinamikleri açısından yakından takip ediliyor.\n\nOlayın merkezinde yer alan ve Suudi Arabistan tarafından desteklendiği bilinen Yemen hükümet güçleri, ülkenin farklı bölgelerinde Husilere karşı uzun süredir bir mücadele yürütüyor. Taraflar arasındaki bu silahlı mücadele, havadan gerçekleştirilen insansız hava aracı saldırıları ve karadan yürütülen çatışmalarla sürekli birlıkta şekilleniyor. İnsansız hava araçlarının modern çatışma ortamındaki rolü, bu tür olaylarla bir kez daha kendini gösteriyor.\n\nYayınlanan video kaydının tam olarak ne zaman ve Yemen'in hangi coğrafi noktasında çekildiğine dair detaylar haberin odağını oluştururken, bu tür hamleler genellikle tarafların propaganda savaşlarının da bir parçasını teşkil ediyor. Bölgede faaliyet gösteren uluslararası gözlemciler ve medya kuruluşları, bu tip görsel kanıtların sahadaki gerçek durumu teyit etmek amacıyla dikkatle incelendiğini belirtiyor.\n\nUluslararası toplumun ve diplomatik aktörlerin yakından izlediği Yemen'deki kriz, insani boyutunun yanı sıra bu tür askeri tırmanışlarla da derinleşmeye devam ediyor. Husilerin gerçekleştirdiği belirtilen bu son İHA saldırısı ve ardından yayınlanan video, bölgede kalıcı bir barış veya ateşkes ortamının sağlanmasının ne denli zorlu olduğunu bir kez daha kanıtlar nitelikte değerlendiriliyor.\n\nBölgedeki askeri hareketliliğin gelecekteki seyri ve tarafların atacağı olası adımlar, Yemen'in genel güvenlik durumunu doğrudan etkilemeyi sürdürecek. Kamuoyuna yansıyan bu tür görüntüler, sahadaki şiddetin boyutunu gözler önüne sermesi bakımından önem taşıyor ve taraflar arasındaki mücadelenin aralıksız devam ettiğini ortaya koyuyor.",
-      "highlights": [
-        "Husiler, Yemen hükümet güçlerine yönelik İHA saldırısı görüntülerini yayınladı.",
-        "Hedef alınan birliklerin Suudi Arabistan destekli olduğu belirtildi.",
-        "Paylaşılan video kayıtları bölgedeki çatışmaların seyrini gözler önüne serdi."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/2026/10/10/yemens-houthis-release-video-of-drone-attacks-on-govt-forces?traffic_source=rss",
-      "publishedAt": "2026-10-10T21:02:49.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
