@@ -1,6 +1,75 @@
 {
-  "generatedAt": "2026-10-20T12:52:54.949Z",
+  "generatedAt": "2026-10-20T17:47:12.465Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+      "headline": "Cumhuriyetçilerden Donald Trump'ın Ukrayna konusundaki değişken tutumuna tepki",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594581979864-36977b15d0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2FwaXRvbCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTI1MTgzODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andy Feliciotti",
+        "photographerUrl": "https://unsplash.com/@someguy",
+        "unsplashUrl": "https://unsplash.com/photos/united-states-capitol-in-washington-dc-6kA9FjqUxhM"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "Amerika Birleşik Devletleri siyasetinde son günlerde yaşanan gelişmeler, Cumhuriyetçi Parti (GOP) içerisinde dikkat çekici bir ayrışmayı ve siyasi tartışmaları beraberinde getirdi. Edinilen son bilgilere göre, bazı Cumhuriyetçi milletvekilleri, ABD Başkanı Donald Trump'ın Rusya politikasındaki yumuşak duruşuna karşı açık bir cephe oluşturmaya başladı. Bu kapsamda, özellikle Rusya ile yapılan mazot anlaşması ve Moskova yönetimine yönelik yaptırımların askıya alınması gibi hamleler, parti içinde ciddi rahatsızlık yaratmış durumda.\n\nYaşanan bu siyasi gerilimin merkezinde, Trump'ın Ukrayna'daki savaşı ele alış biçimi yer alıyor. Birçok milletvekili, bu yaklaşımı utanç verici olarak nitelendirirken, yönetimin izlediği stratejinin kabul edilemez olduğunu savunuyor. Bu hoşnutsuzluğun bir sonucu olarak, bazı Cumhuriyetçi isimlerin Başkan'ın yasama ve siyasi ajandasına verecekleri mali ve siyasi desteği geri çekmekle tehdit ettiği bildiriliyor. Söz konusu restleşme, Washington'daki mevcut siyasi dengelerin ne kadar hassas bir noktada bulunduğunu ve dış politika kararlarının iç politikadaki yansımalarının ne kadar derin olabileceğini bir kez daha gözler önüne seriyor.\n\nKonuya ilişkin en net tepkilerden biri, Nebraska eyaletinden ayrılmaya hazırlanan Kongre üyesi Don Bacon'dan geldi. Bacon, mevcut yönetimin attığı adımları, özellikle de şaşırtıcı bir hamleyle Rus mazotu satın alınması kararını ve Rusya'ya uygulanan yaptırımların durdurulmasını sert bir dille kınadı. ABD Başkanı'nın bu politikalarını kesinlikle utanç verici olarak tanımlayan Bacon, aynı zamanda yönetimi, Rusya Devlet Başkanı Vladimir Putin gibi bir savaş suçlusuna yakınlaşmakla suçladı. Bu sert eleştiriler, parti içerisindeki muhalefetin sadece sessiz bir rahatsızlıktan ibaret olmadığını, aynı zamanda açık bir siyasi retoriğe dönüştüğünü gösteriyor.\n\nABD siyasetindeki bu sıcak gelişmeler, dış politika ve uluslararası ilişkilerin Washington'daki iç çekişmelerin temel belirleyicilerinden biri olmaya devam ettiğini doğruluyor. Özellikle Rusya-Ukrayna savaşı gibi küresel çapta kritik öneme sahip bir meselede, Beyaz Saray'ın attığı adımların kendi partisinden dahi bu denli yoğun eleştiri alması, önümüzdeki dönemin siyasi atmosferi açısından da önemli ipuçları barındırıyor. Yaptırımların askıya alınması ve enerji ticaretine yönelik adımların iç siyasetteki yankılarının nasıl bir süreç doğuracağı, Kongre'deki dengeler açısından yakından takip ediliyor.\n\nCumhuriyetçi kanattaki bu çatlağın, Başkan Trump'ın önümüzdeki dönemdeki yasama hedeflerini ve genel siyasi stratejisini nasıl etkileyeceği henüz netlik kazanmış değil. Ancak milletvekillerinin dile getirdiği tehditler ve yaşanan sert tartışmalar, dış politika tercihleriyle iç politikadaki destek mekanizmalarının doğrudan birbirine bağlı olduğunu bir kez daha kanıtlıyor. Taraflar arasındaki bu gerilimin Kongre koridorlarında nasıl bir karşılık bulacağı ve atılacak olası adımların parti içi disiplini nasıl sarsacağı, önümüzdeki günlerde ABD siyasetinin ana gündem maddelerinden biri olmayı sürdürecek.",
+      "highlights": [
+        "Bazı Cumhuriyetçi milletvekilleri Trump'ın Rusya politikasına karşı çıktı.",
+        "Rus mazotu anlaşması ve yaptırımların durdurulması tepki çekti.",
+        "Don Bacon, yönetimi Putin'e yakınlaşmakla suçladı."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/oct/20/republicans-push-back-trump-ukraine-russia",
+      "publishedAt": "2026-10-20T17:32:57.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182",
+      "headline": "Libya Temsilciler Meclisi'nden Türkiye ile deniz yetki alanları mutabakatına onay",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1760872645513-63b6846ce3c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cGFybGlhbWVudCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTI1MTg0MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zoshua Colah",
+        "photographerUrl": "https://unsplash.com/@zoshuacolah",
+        "unsplashUrl": "https://unsplash.com/photos/grand-building-reflected-in-a-calm-pool-of-water-DReqTYC2PkA"
+      },
+      "timeAgo": "22 dk önce",
+      "body": "Türkiye ile Libya arasında geçmişte imzalanan stratejik öneme sahip bir anlaşma konusunda yeni bir gelişme yaşandı. Libya Temsilciler Meclisi, 2019 yılında Türkiye Cumhuriyeti ile Libya arasında gerçekleştirilen deniz yetki alanlarının sınırlandırılmasına dair mutabakat muhtırasını resmi olarak onayladı. İki ülke arasındaki ilişkilerin ve bölgesel iş birliğinin hukuki altyapısını güçlendiren bu mutabakatın onaylanması süreci, uluslararası kamuoyunda ve diplomatik çevrelerde yakından takip ediliyordu.\n\nSöz konusu mutabakat muhtırası, Doğu Akdeniz'deki dengeler ve her iki ülkenin denizlardeki hak ve menfaatlerinin korunması açısından temel teşkil eden belgeler arasında yer alıyor. 2019 yılında imzalanmasının ardından yürürlüğe girme süreçleri büyük bir önem taşıyan bu anlaşmanın Libya tarafındaki yasama organı tarafından onaylanması, bölgesel politikalar ve ikili ilişkiler bakımından kritik bir kilometre taşı olarak değerlendiriliyor. Uzmanlar, bu tür deniz yetki alanı anlaşmalarının devletlerin uluslararası hukuktan kaynaklanan egemenlik haklarının kullanımında önemli bir araç olduğunu sıkça vurguluyor.\n\nYaşanan bu gelişmenin hemen ardından Ankara'dan resmi bir değerlendirme gecikmedi. Türkiye Cumhuriyeti Dışişleri Bakanlığı, Libya Temsilciler Meclisi'nin söz konusu mutabakat muhtırasını onaylama kararını memnuniyetle karşıladıklarını duyurdu. Bakanlık tarafından yapılan resmi açıklamada, bu adımın iki ülke arasındaki dostane ilişkilerin hukuki zeminini daha da sağlamlaştıracağı ve ortak çıkarların korunmasına katkı sağlayacağı vurgulandı.\n\nDiplomatik kaynaklar, 2019 mutabakatının her iki ülkenin de uluslararası deniz hukukundan doğan haklarını güvence altına almayı amaçladığını belirtiyor. Akdeniz'deki mevcut jeopolitik durum göz önüne alındığında, deniz yetki alanlarının belirlenmesine yönelik bu tür mutabakatlar, bölgedeki istikrar ve iş birliği çabaları açısından uzun vadeli sonuçlar doğurma potansiyeline sahip. Libya Temsilciler Meclisi'nin kararı, taraflar arasındaki ahde vefa kuralının ve karşılıklı mutabakat iradesinin somut bir göstergesi olarak kayıtlara geçti.\n\nBundan sonraki süreçte, onaylanan mutabakat muhtırasının gerekçeleri, kapsamı ve iki ülke arasındaki operasyonel alanlara yansımaları diplomatik kanallar aracılığıyla ele alınmaya devam edecek. Türkiye ve Libya, karşılıklı çıkar temelli bu tür anlaşmalarla bölgesel iş birliğini derinleştirmeyi ve ortak adımlar atmayı sürdürüyor. Dışişleri Bakanlığı'nın yaptığı olumlu açıklama, Ankara'nın Trablus ile olan ilişkilerde istikrarın korunmasına verdiği önemi bir kez daha gözler önüne serdi.",
+      "highlights": [
+        "Libya Temsilciler Meclisi, 2019 tarihli deniz yetki alanları mutabakatını onayladı.",
+        "Türkiye ile Libya arasında imzalanan mutabakat muhtırası resmiyet kazandı.",
+        "Dışişleri Bakanlığı, Libya'nın kararını memnuniyetle karşıladığını açıkladı."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/dunya/libya-temsilciler-meclisi-turkiye-ile-deniz-yetki-alani-mutabakat-zabtini-onayladi-1747182",
+      "publishedAt": "2026-10-20T17:24:47.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-sakatlik-soku-galatasaray-derbisi-oncesi-kotu-haber-43348974",
+      "headline": "Fenerbahçe'de sakatlık şoku: Galatasaray derbisi öncesi kötü haber",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1645114429601-46077d470ca8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBwbGF5ZXIlMjBpbmp1cnl8ZW58MXwwfHx8MTc5MjUxODQzMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Luis Quintero",
+        "photographerUrl": "https://unsplash.com/@jibarox",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-soccer-players-standing-around-a-man-on-the-ground--MN_8APnlBU"
+      },
+      "timeAgo": "37 dk önce",
+      "body": "Türk futbolunun köklü kulüplerinden Fenerbahçe'de, kritik maçların oynandığı yoğun ve zorlu takvim sürecinde yaşanan sakatlık gelişmeleri teknik heyetin ve taraftarların endişe duymasına yol açtı. Kulüp adına büyük önem taşıyan karşılaşmaların ardı arkasının kesilmediği bu dönemde, sarı-lacivertli ekibin kadrosunda yer alan tecrübeli futbolcu Nathan Ake'nin yaşadığı talihsiz sakatlık, hem takımın oyun planını doğrudan etkiledi hem de spor camiasında geniş yankı uyandırdı. Bu tür üst düzey ve rekabetçi sezonlarda, futbolcuların maruz kaldığı fiziksel yıpranmalar ve buna bağlı sakatlık durumları, kulüplerin sezon hedeflerine ulaşma yolundaki en büyük engellerden biri olarak ön plana çıkmaktadır.\n\nYaşanan bu üzücü olay, tam da UEFA Şampiyonlar Ligi'nin büyük bir heyecana sahne olan 3. haftasındaki mücadele sırasında meydana geldi. Fenerbahçe, Avrupa'daki iddialı yolculuğunu sürdürmek ve taraftarı önünde avantaj elde etmek amacıyla Kadıköy'de Slavia Prag ile kozlarını paylaşmak üzere sahaya çıktı. Son derece yüksek bir tempoda ve büyük bir taktiksel çekişmeye sahne olan bu kritik müsabaka, her iki takım açısından da turnuvadaki konumlarını belirlemesi bakımından hayati bir önem taşıyordu. Kadıköy'deki bu zorlu sınav, Türk futbol severlerin ve spor medyasının da odak noktası haline gelmişti.\n\nKarşılaşmanın henüz büyük bir bölümü oynanırken, yaşanan ikili mücadele veya ani bir hareket neticesinde Nathan Ake, sahada bir sakatlık geçirdi. Sağlık ekiplerinin sahaya hızlı bir şekilde müdahale etmesine ve oyuncunun durumunu titizlikle değerlendirmesine rağmen, tecrübeli futbolcu yaşadığı ağrılar ve fiziksel yetersizlik nedeniyle mücadeleye devam edemedi. Maçın gidişatını ve teknik direktörün saha içi hamlelerini doğrudan kısıtlayan bu zorunlu oyuncu değişikliği, sarı-lacivertli ekibin oyun planlarında acil bir revizyona gidilmesini zorunlu kıldı.\n\nGerçekleşen bu sakatlık durumu, yalnızca Slavia Prag maçıyla sınırlı kalmayıp, Fenerbahçe'nin önümüzdeki günlerde oynayacağı maçlar açısından da büyük bir soru işareti yarattı. Özellikle Türk futbolunun en önemli rekabetlerinden biri olan ve milyonlarca futbolseverin büyük bir heyecanla beklediği Galatasaray derbisi öncesinde gelen bu kötü haber, sarı-lacivertli camiada moral bozukluğuna neden oldu. Derbi gibi hassasiyeti yüksek ve detayların maçın kaderini belirlediği karşılaşmalar öncesinde kilit oyuncuların sahadan uzak kalma ihtimali, teknik heyetin kadro mühendisliğini zorlaştıran temel unsurlar arasında yer alıyor.\n\nAvrupa kupalarındaki yoğun fikstür ile ligdeki şampiyonluk yarışının aynı anda yürütüldüğü bu kritik periyotta, takımların geniş kadro yapıları ve yedek kulüplerinin derinliği hayati bir nitelik kazanmaktadır. Nathan Ake'nin durumu hakkında kulüp sağlık heyetinden yapılacak olan detaylı tetkiklerin ve resmi açıklamaların ardından, oyuncunun sahalardan ne kadar süreyle ayrı kalacağı netlik kazanacak. Teknik yönetim ise bir yandan Slavia Prag maçının analizini yaparken, diğer yandan Galatasaray derbisi için alternatif kadro kurgularını gözden geçirmek durumunda kalıyor.\n\nFutbol dünyasında bu tarz sakatlık şokları, takımların moral değerlerini ve saha içi uyumunu geçici olarak sarsabilse de, profesyonel kulüpler bu tür kriz durumlarıyla başa çıkmak üzere yapılanmaktadır. Fenerbahçe taraftarları ve camiası, bir yandan Avrupa arenasındaki mücadeleyi takip ederken, diğer yandan da Nathan Ake'nin bir an önce sağlığına kavuşmasını ve en kısa sürede yeşil sahalara dönmesini bekliyor. Önümüzdeki günlerde yaşanacak gelişmeler ve sağlık raporları, hem oyuncunun geleceğini hem de takımın derbi hazırlıklarının seyrini belirleyecek en önemli etkenler olarak takip edilmeye devam edecektir.",
+      "highlights": [
+        "Fenerbahçe'nin Slavia Prag ile Kadıköy'de oynadığı maçta sakatlık yaşandı.",
+        "Nathan Ake yaşadığı sakatlık sebebiyle oyuna devam edemedi.",
+        "Galatasaray derbisi öncesi gelen bu kötü haber endişe yarattı."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/sporarena/fenerbahcede-sakatlik-soku-galatasaray-derbisi-oncesi-kotu-haber-43348974",
+      "publishedAt": "2026-10-20T17:10:27.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/yerel-haberler/kayseri/kanser-tedavisi-goren-kibris-gazisi-hayatini-kaybetti-3482051",
       "headline": "Kanser tedavisi gören Kıbrıs gazisi yaşamını yitirdi",
@@ -6831,75 +6900,6 @@
       "publishedAt": "2026-10-15T21:57:58.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/tbb-baskanvekilligine-eskisehir-buyuksehir-belediye-baskani-ayse-unluce-secildi-4864696",
-      "headline": "Türkiye Belediyeler Birliği Başkanvekilliğine Ayşe Ünlüce getirildi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1562850708-cfa2d4277147?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2l0eSUyMGhhbGx8ZW58MXwwfHx8MTc5MjEwMzcxMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nathan Vogele",
-        "photographerUrl": "https://unsplash.com/@droneviewkc",
-        "unsplashUrl": "https://unsplash.com/photos/brown-building-Cx_i0E2LGds"
-      },
-      "timeAgo": "41 dk önce",
-      "body": "Türkiye genelindeki yerel yönetimlerin çatı örgütü konumunda olan Türkiye Belediyeler Birliği (TBB) bünyesinde önemli bir görev değişikliği ve yeni bir seçim süreci gerçekleştirildi. Kurumun yürüttüğü idari faaliyetler ve yerel yönetimler arası iş birliği mekanizmaları kapsamında yapılan değerlendirmeler neticesinde, Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce yeni bir sorumluluk üstlendi.\n\nElde edilen resmi bilgilere göre, ülke genelindeki belediyelerin temsil edildiği ve ortak kentsel politikaların geliştirildiği Türkiye Belediyeler Birliği'nin gerçekleştirilen son toplantılarında ve idari yapılanma süreçlerinde yeni görev dağılımları netleşti. Bu kapsamda, yerel yönetim alanındaki çalışmalarıyla bilinen Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce, birliğin başkanvekilliği makamına seçildi. Bu seçim, birliğin yerel yönetimler arasındaki koordinasyonu güçlendirme hedefi doğrultusunda atılan kurumsal adımlardan biri olarak kayıtlara geçti.\n\nTürkiye Belediyeler Birliği, Türkiye'deki tüm belediye başkanlıklarını tek bir çatı altında toplayarak yerel yönetimlerin güçlendirilmesi, idari kapasitelerinin artırılması ve ortak sorunlara çözüm bulunması amacıyla faaliyet gösteren anayasal ve yasal temellere dayalı bir birliktir. Birlik bünyesinde yürütülen bu tür üst düzey görevlendirmeler, yerel yönetimlerin ulusal ve uluslararası düzeydeki temsil kabiliyetini doğrudan etkilemektedir. Ayşe Ünlüce'nin bu makama seçilmesiyle birlikte, birliğin yönetim kadrosunda Eskişehir'in yerel yönetim tecrübesi de temsil edilmeye başlanmış oldu.\n\nEskişehir Büyükşehir Belediye Başkanı olarak görevini sürdüren Ayşe Ünlüce'nin, Türkiye Belediyeler Birliği başkanvekilliği görevine getirilmesi, yerel yönetim çevrelerinde geniş bir şekilde ele alındı. Yerel yönetimlerin karşılaştığı ortak meselelerin çözüme kavuşturulması, belediyeler arası dayanışmanın artırılması ve merkezi yönetim ile yerel yönetimler arasındaki diyalog köprülerinin sağlamlaştırılması noktasında birliğin üstlendiği misyon büyük önem taşımaktadır. Bu misyonun yürütülmesinde başkanvekilliği makamı, stratejik kararların alınmasında kilit bir rol oynamaktadır.\n\nGerçekleştirilen seçimlerin ardından Türkiye Belediyeler Birliği'nin yeni dönemdeki çalışma takvimi ve öncelikli projeleri üzerinde durulması bekleniyor. Başkanvekilliği görevine seçilen Ayşe Ünlüce'nin, birliğin yürüteceği yeni dönem çalışmalarında etkin bir rol üstleneceği öngörülüyor. Yerel yönetimlerin ortak akılla hareket etmesini ve şehirlerin gelişimine yönelik ortak politikaların üretilmesini önceleyen bu yapı, Türkiye'nin dört bir yanındaki belediyelere rehberlik etmeye devam ediyor.",
-      "highlights": [
-        "Eskişehir Büyükşehir Belediye Başkanı Ayşe Ünlüce TBB Başkanvekilliğine seçildi.",
-        "Seçim, Türkiye Belediyeler Birliği bünyesindeki idari yapılanma sürecinde gerçekleşti.",
-        "Görevlendirme, yerel yönetimler arası iş birliği ve koordinasyonu güçlendirmeyi amaçlıyor."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/tbb-baskanvekilligine-eskisehir-buyuksehir-belediye-baskani-ayse-unluce-secildi-4864696",
-      "publishedAt": "2026-10-15T21:54:16.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/irak-turkmen-cephesi-baskani-muhammed-seman-agaya-devlet-bakanligi-gorevi-4864694",
-      "headline": "Irak Türkmen Cephesi Başkanı Muhammed Seman Ağa'ya devlet bakanlığı görevi verildi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1549055244-3ba3f5a6e252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saXRpY2lhbiUyMHNwZWVjaHxlbnwxfDB8fHwxNzkyMTExMzk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Reimond de Zuñiga",
-        "photographerUrl": "https://unsplash.com/@reimond_21",
-        "unsplashUrl": "https://unsplash.com/photos/man-holding-microphone-RFERNHTVYcQ"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "Irak'ta yaşanan siyasi gelişmeler kapsamında yeni bir kabine değişikliğine gidilirken, önemli bir atama gerçekleşti. AK Parti Genel Başkan Yardımcısı Kürşad Zorlu tarafından yapılan son dakika açıklamasında, Irak Türkmen Cephesi Başkanı ve aynı zamanda Kerkük Valisi olarak görev yapan Muhammed Seman Ağa’nın yeni kabine revizyonu çerçevesinde devlet bakanlığı pozisyonuna getirildiği kamuoyu ile paylaşıldı.\n\nSöz konusu üst düzey görev değişikliği, bölgedeki dengeler ve iki ülke arasındaki diplomatik bağlar açısından yakından takip ediliyor. Kabine içindeki bu yeni yapılanmayla birlikte devlet bakanlığı koltuğuna oturan Muhammed Seman Ağa’nın geçmişteki yerel yönetim ve siyasi faaliyetleri, atamanın arka planındaki başlıca unsurlar arasında yer alıyor. Siyasi gözlemciler, Irak Türkmen Cephesi'nin bölgedeki etkinliğinin bu tür görevlerle birlikte daha da belirginleştiğine dikkat çekiyorlar.\n\nAtama haberinin ardından Kerkük Valiliği görevinde yaşanacak boşluğa ilişkin de önemli detaylar paylaşıldı. Kürşad Zorlu’nun aktardığı bilgilere göre, Muhammed Seman Ağa’dan boşalacak olan mevcut Kerkük Valiliği görev süresi, yine bir başka Türkmen isim tarafından devralınarak tamamlanacak. Bu yerel yönetim devamlılığı, bölgedeki Türkmen nüfusun idari süreçlerdeki temsiliyeti bakımından önem arz ediyor.\n\nTürkiye ile komşu ülke Irak arasındaki diplomatik ve siyasi ilişkilerin geleceği açısından da bu tür gelişmelerin kayda değer bir ağırlığı bulunuyor. Kürşad Zorlu, yapılan açıklamada söz konusu atama kararının iki devlet arasındaki ilişkilerin seyri açısından taşıdığı değere vurgu yaptı. Türkiye’nin bölgedeki gelişmeleri ve Türkmenlerin idari konumlardaki varlığını yakından izlediği biliniyor.\n\nGerçekleştirilen kabine revizyonu ve buna bağlı olarak gelişen görev değişimlerinin, Irak genelindeki siyasi tabloya nasıl yansıyacağı önümüzdeki süreçte netleşecek. Muhammed Seman Ağa'nın yeni devlet bakanlığı göreviyle birlikte hem ulusal düzeydeki politikaları hem de bölgesel meseleleri yürütmesi beklenirken, Kerkük'teki vali değişiminin de yerel dinamikler üzerinde etkili olması öngörülüyor.",
-      "highlights": [
-        "Muhammed Seman Ağa, Irak'taki kabine değişikliğiyle devlet bakanı oldu.",
-        "Kürşad Zorlu atamayı duyurarak Türkiye-Irak ilişkilerine dikkat çekti.",
-        "Kerkük Valiliği görev süresi bir başka Türkmen tarafından tamamlanacak."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/irak-turkmen-cephesi-baskani-muhammed-seman-agaya-devlet-bakanligi-gorevi-4864694",
-      "publishedAt": "2026-10-15T21:39:15.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://tr.euronews.com/video/2026/10/15/arnavutluk-tiranda-siddetli-protestolar-ucuncu-gununde",
-      "headline": "Arnavutluk'ta hükümet karşıtı gösteriler üçüncü gününde sürüyor",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591588211599-04eeffe9acc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGNyb3dkfGVufDF8MHx8fDE3OTIwNDQ5Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Koshu Kunii",
-        "photographerUrl": "https://unsplash.com/@koshuuu",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-people-on-street-t86cJxwmBWc"
-      },
-      "timeAgo": "59 dk önce",
-      "body": "Arnavutluk'un başkenti Tiran'da yaşanan toplumsal olaylar ve gösteriler, tüm hızıyla ve şiddetiyle üçüncü gününe girmiş durumda. Kentin merkezinde yer alan sokaklar ve meydanlar, son günlerde adeta bir çatışma alanına dönerken, olayların büyümesi üzerine güvenlik güçleri ile kalabalık gruplar arasında gerilim tırmanıyor. Bu gelişmeler, ülke genelinde büyük bir yankı uyandırırken, yaşanan hareketlilik uluslararası kamuoyunun da dikkatini Tiran'a çevirmiş bulunuyor. Olayların bu noktaya gelmesinde, ülkedeki siyasi duruma yönelik tepkilerin etkili olduğu belirtiliyor.\n\nSon günlerde düzenlenen eylemlerde, başkent Tiran'ın merkezi adeta ateşler içinde kaldı. Sokaklarda lastiklerin ve çeşitli maddelerin yakılmasıyla birlikte yükselen dumanlar şehrin farklı noktalarından görülürken, göstericilerin öfkeli tavırları dikkat çekiyor. Kalabalık gruplar, ellerindeki taşları güvenlik güçlerine doğru fırlatarak tepkilerini gösteriyor. Bu durum, şehir merkezindeki ticari faaliyetlerin aksamasına ve günlük yaşamın büyük ölçüde durma noktasına gelmesine neden oldu. Alanda bulunan vatandaşlar ve esnaf, yaşanan kargaşadan dolayı endişeli bir bekleyiş içinde bulunuyor.\n\nGüvenlik güçleri ise taş atan ve sokaklarda ateşe veren göstericilere karşı sert müdahalelerde bulunuyor. Polis ekipleri, kalabalığı dağıtmak ve olayların daha fazla büyümesini engellemek amacıyla biber gazı ve tazyikli su kullanıyor. Şiddetini artıran müdahaleler sırasında caddeler gaz bulutlarıyla kaplanırken, taraflar arasındaki arbede uzun süre devam ediyor. Emniyet birimleri, kamu düzenini yeniden sağlamak ve olası zararların önüne geçmek için kent genelinde geniş güvenlik önlemleri almış durumda.\n\nSöz konusu protesto dalgasının merkezinde, Arnavutluk Başbakanı Edi Rama'nın istifa etmesi talebi yer alıyor. Ülkedeki mevcut yönetime ve Başbakan Rama'nın politikalarına karşı duyulan hoşnutsuzluk, eylemlerin temel gerekçesini oluşturuyor. Siyasi istikrarın ve ekonomik koşulların tartışma konusu olduğu bu süreçte, hükümetin atacağı adımlar merakla beklenirken, muhalif kesimler ve eylemciler taleplerinden vazgeçmeyeceklerini vurguluyorlar.\n\nDikkat çeken bir diğer unsur ise bu hareketliliğin öncülüğünü öğrencilerin yapıyor olması. Gençlerin ve üniversite öğrencilerinin ön planda olduğu gösteriler, toplumsal muhalefetin farklı kesimlerinden de destek görüyor. Eğitim hayatının yanı sıra ülkenin geleceğine dair kaygılar taşıdıklarını ifade eden öğrenciler, Başbakan Edi Rama'nın görevden ayrılması talebini yüksek sesle dile getiriyorlar. Gençlerin bu denli aktif bir rol üstlenmesi, eylemlerin niteliğini ve kamuoyundaki etkisini de doğrudan şekillendiriyor.\n\nArnavutluk'ta üçüncü gününü geride bırakan bu şiddetli protestoların nasıl bir seyir izleyeceği ve taraflar arasında bir uzlaşı sağlanıp sağlanamayacağı şu an için belirsizliğini koruyor. Tiran sokaklarındaki gergin hava devam ederken, hem yerel yönetimler hem de ilgili kurumlar durumun kontrol altına alınması için çaba sarf ediyor. Ülke tarihindeki bu kritik dönemeçte, gözler bir kez daha başkentten gelecek yeni haberlere ve siyasi cepheden yapılacak olası açıklamalara çevrilmiş durumda.",
-      "highlights": [
-        "Tiran'da hükümet karşıtı protestolar üçüncü gününde şiddetini artırdı.",
-        "Göstericiler taş atarken, polis biber gazı ve tazyikli suyla müdahale etti.",
-        "Eylemlere öğrenciler öncülük ederken Başbakan Edi Rama'nın istifası isteniyor."
-      ],
-      "externalUrl": "https://tr.euronews.com/video/2026/10/15/arnavutluk-tiranda-siddetli-protestolar-ucuncu-gununde",
-      "publishedAt": "2026-10-15T21:35:51.000Z",
-      "category": "Dünya",
-      "lang": "tr"
     }
   ]
 }
