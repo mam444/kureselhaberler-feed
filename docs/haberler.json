@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-10-20T23:36:52.736Z",
+  "generatedAt": "2026-10-21T01:59:47.979Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "headline": "RBA Başkan Yardımcısı Andrew Hauser'dan enflasyon uyarısı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1627931539006-d5c4677e05ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZmluYW5jaWFsJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzkyNTQ3OTU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kevin Gonzalez",
+        "photographerUrl": "https://unsplash.com/@typegon",
+        "unsplashUrl": "https://unsplash.com/photos/audience-watching-speaker-on-bright-screen--NXNaE9lu6w"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Avustralya Merkez Bankası (RBA) bünyesinde yaşanan son gelişmeler, yılın geri kalanında yeni bir faiz artırımına gidileceği yönündeki beklentileri güçlendirdi. Kurumun kritik politika kararlarında etkili olan isimlerden biri tarafından yapılan son açıklamalar, ekonomik dengelerin ne denli hassas bir noktada bulunduğunu gözler önüne serdi.\n\nOlay, RBA Başkan Yardımcısı Andrew Hauser'ın çarşamba günü sabah saatlerinde Sidney'de düzenlenen bir yatırım bankacılığı konferansında yaptığı konuşma sırasında meydana geldi. Bu kapsamlı değerlendirmelerde Hauser, merkez bankasının önünde oldukça zorlu tercihler bulunduğunun altını çizdi. Yetkili, enflasyon görünümünün belirgin bir şekilde daha kötü bir evreye girdiğine dikkat çekerek, bu durumun para politikası kurulu üyeleri açısından yeni ve sert kararları zorunlu kıldığını ifade etti.\n\nKonferanstaki sunumunda, RBA para politikası kurulunun karşı karşıya olduğu ikilemleri detaylandıran Hauser, yavaşlayan bir ekonomi ile mücadele ederken bir yandan da enflasyonun kalıcı hale gelme riskleriyle dengelenmesi gereken hassas bir süreç yürütüldüğünü belirtti. Merkez bankasının temel hedefleri arasında yer alan, enflasyon oranını yüzde 2,5 hedef seviyesine geri çekme kabiliyetine halkın ve piyasaların olan inancının zayıflamaya başladığına dair kaygılar da bu sürecin en kritik başlıklarından birini oluşturuyor.\n\nAçıklanan bu son değerlendirmelerin ardından, Melbourne Cup gününde beşinci bir faiz artırımının gerçekleştirilme olasılığının piyasalarda hızla yükseldiği görüldü. Kurum yönetimi, istihdam piyasasını koruma arzusu ile kontrolden çıkma riski taşıyan katı enflasyon baskıları arasında sıkışmış durumda. Bu ekonomik tablo, Avustralya'da genel iktisadi faaliyetlerin ve para politikasının geleceğine dair tartışmaları da beraberinde getiriyor.\n\nMerkez bankasının izleyeceği stratejik yol haritası, hem finans çevreleri hem de geniş halk kitleleri tarafından yakından takip edilmeye devam ediyor. Gelinen bu aşamada, ekonomik büyümenin ivme kaybetmesi ve enflasyon beklentilerinin bozulması, RBA'nın atacağı adımların piyasalar üzerindeki etkisini daha da kritik hale getiriyor. Kurum üyelerinin önümüzdeki dönemde atacağı adımlar, ülkenin genel ekonomik istikrarı açısından belirleyici olmayı sürdürecek.",
+      "highlights": [
+        "RBA Başkan Yardımcısı Andrew Hauser enflasyon görünümünün kötüleştiğini belirtti.",
+        "Merkez bankasının katı enflasyon ile istihdamı koruma arasında zor seçimler yaptığı vurgulandı.",
+        "Melbourne Cup gününde beşinci bir faiz artırımına gidilme olasılığı yükseldi."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/oct/21/odds-of-fifth-interest-rate-hike-this-year-likely-to-shorten-as-rba-deputy-warns-inflation-outlook-worsening",
+      "publishedAt": "2026-10-21T01:48:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
+      "headline": "Birleşmiş Milletler uzmanlarından Hindistan'a protestolarda aşırı güç kullanımı çağrısı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591588211599-04eeffe9acc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGNyb3dkfGVufDF8MHx8fDE3OTI1NDc5NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Koshu Kunii",
+        "photographerUrl": "https://unsplash.com/@koshuuu",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-people-on-street-t86cJxwmBWc"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Uluslararası toplumun yakından takip ettiği insan hakları alanındaki gelişmeler çerçevesinde, Birleşmiş Milletler bünyesinde görev yapan bağımsız uzmanlar Hindistan makamlarına yönelik kritik bir çağrıda bulundu. Yapılan resmi değerlendirmelerde, ülkedeki protesto gösterileri sırasında güvenlik güçleri tarafından başvurulan yöntemlerin kaygı verici boyutlara ulaştığı vurgulandı.\n\nBirleşmiş Milletler uzmanları, özellikle göstericilere karşı sergilenen yaklaşımın gözden geçirilmesini ve sahadaki güvenlik politikalarında köklü bir değişim yapılmasını talep etti. Metne yansıyan temel vurgulardan biri, Hindistan yetkililerinin protestoları yönetirken orantısız ve aşırı güç kullanımından kaçınması gerektiği yönündeki açık uyarı oldu.\n\nYaşanan olayların ardından, uluslararası insan hakları mekanizmaları devreye girerken, Birleşmiş Milletler cephesinden gelen en somut taleplerden biri de bağımsız bir tahkikat yürütülmesi oldu. Uzmanlar, Indian yetkililerinin tutumunun ve güvenlik güçlerinin eylemlerinin tarafsız bir şekilde soruşturulması için acilen adımlar atılması gerektiğini ifade etti.\n\nBu çağrı, düny genelinde ifade özgürlüğü, barışçıl toplanma hakkı ve kolluk kuvvetlerinin eylemleri konusundaki küresel standartların korunması amacıyla atılan diplomatik ve hukuki adımların bir parçası olarak değerlendiriliyor. Benzer olayların tekrar yaşanmaması için şeffaf bir sürecin işletilmesinin hayati önem taşıdığına dikkat çekildi.\n\nOlayların arka planındaki gelişmeler ve Hindistan otoritelerinin söz konusu uluslararası çağrılara, özellikle de bağımsız soruşturma talebine nasıl bir yanıt vereceği önümüzdeki günlerde insan hakları örgütleri tarafından yakından izlenmeye devam edecek. Uluslararası insan hakları hukuku çerçevesinde, vatandaşların temel haklarının korunması ve güvenlik tedbirlerinin hukukun üstünlüğü ilkesine uygun olarak yürütülmesi gerektiği bir kez daha hatırlatıldı.",
+      "highlights": [
+        "BM uzmanları Hindistan'a aşırı güç kullanımını durdurma çağrısı yaptı.",
+        "Yetkililerin protestolardaki tutumu için bağımsız soruşturma talep edildi.",
+        "Barışçıl toplanma hakkı ve güvenlik politikaları uluslararası gündemde."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/10/21/un-experts-call-on-india-to-stop-using-excessive-force-against-protesters?traffic_source=rss",
+      "publishedAt": "2026-10-21T01:43:38.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/21-ekim-resmi-gazete-kararlari-genclik-ve-spor-bakanligi-yurtlarinda-bulunan-yemekhane-kantin-ve-diger-isletmeler-hakkinda-3482269",
       "headline": "21 Ekim Resmi Gazete kararları yayımlandı: Gençlik ve Spor Bakanlığı yurt işletmeleri yönetmeliğinde değişiklik",
@@ -21,6 +67,121 @@
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/21-ekim-resmi-gazete-kararlari-genclik-ve-spor-bakanligi-yurtlarinda-bulunan-yemekhane-kantin-ve-diger-isletmeler-hakkinda-3482269",
       "publishedAt": "2026-10-21T01:39:57.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-ekim-2026-1747224",
+      "headline": "Son dakika deprem haberleri ve 21 Ekim 2026 tarihli son depremler listesi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1630531210843-d6f343ad1f90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c2Vpc21vZ3JhcGglMjBtYWNoaW5lfGVufDF8MHx8fDE3OTI1NDc5NjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stephen Andrews",
+        "photographerUrl": "https://unsplash.com/@porkbellysteve",
+        "unsplashUrl": "https://unsplash.com/photos/white-digital-device-at-2-00-qYqmbQwwXJo"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "Türkiye genelinde yaşanan sismik hareketlilik, vatandaşlar tarafından anlık olarak yakından takip edilmeye devam ediyor. Yaşanan son dakika deprem olaylarının ardından arama motorlarında en çok merak edilen sorular arasında deprem mi oldu, nerede deprem oldu ve sarsıntının büyüklüğü ne kadar gibi konular yer alıyor. Özellikle büyük şehirlerde yaşayan ve sarsıntıyı hisseden yurttaşlar, İstanbul, Ankara, İzmir başta olmak üzere il il AFAD son depremler listesini ve canlı deprem haritasını inceleyerek bilgi sahibi olmaya çalışıyor.\n\nGün boyunca meydana gelen sarsıntıların ardından, artçı deprem olup olmadığı da sıklıkla araştırılan başlıklar arasında bulunuyor. 21 Ekim 2026 tarihinde meydana gelen deprem son dakika haberleri, vatandaşların sarsıntının merkez üssü, zamanı ve şiddeti hakkındaki detaylara ulaşmasını sağlıyor. Ülke genelinde faaliyet gösteren resmi kurumların paylaştığı veriler doğrultusunda, yurdun farklı bölgelerinde kaydedilen sismik hareketler anlık olarak rapor ediliyor.\n\nKandilli Rasathanesi ve Deprem Araştırma Enstitüsü ile Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) gibi yetkili kurumlar, Türkiye'deki deprem aktivitesini kesintisiz bir şekilde izliyor. Bu kurumların resmi internet siteleri ve canlı deprem haritaları üzerinden, hangi illerde sarsıntı hissedildiği, depremin ne zaman gerçekleştiği ve büyüklüğü gibi kritik verilere ulaşılabiliyor. Vatandaşlar, yakınlarındaki depremleri ve sarsıntının detaylarını bu resmi kaynaklar aracılığıyla teyit ediyor.\n\nDeprem kuşağında yer alan Türkiye'de, bu tür doğal afetlerin ardından yaşanan bilgi kirliliğinin önüne geçmek adına resmi kurumların açıklamaları büyük önem taşıyor. Özellikle büyük nüfusa sahip metropollerde hissedilen sarsıntılar, kısa süreli paniğe neden olurken, yetkililer vatandaşları her zaman hazırlıklı olmaları konusunda uyarıyor. Güncel deprem haberleriyle ilgili en çok merak edilen soruların yanıtları, resmi kurumların yayımladığı son dakika bültenleriyle netlik kazanıyor.\n\n21 Ekim 2026 tarihi itibarıyla yurdun çeşitli noktalarında kaydedilen sismik hareketler, ilgili kurumların veri tabanlarında anlık olarak güncelleniyor. Deprem bilincinin artırılması ve doğru bilgilendirmeye ulaşılması amacıyla hazırlanan son depremler listeleri, gün boyunca milyonlarca vatandaş tarafından sorgulanmaya devam ediyor. Konuyla ilgili en doğru ve güvenilir bilgiler, her zaman olduğu gibi AFAD ve Kandilli Rasathanesi'nin resmi duyuruları üzerinden takip ediliyor.",
+      "highlights": [
+        "Türkiye genelindeki sismik hareketlilik anlık olarak takip ediliyor.",
+        "21 Ekim 2026 tarihli son depremler AFAD ve Kandilli tarafından raporlanıyor.",
+        "Vatandaşlar deprem büyüklüğü ve merkez üssünü resmi kaynaklardan öğreniyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-ekim-2026-1747224",
+      "publishedAt": "2026-10-21T01:30:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "headline": "Fransa'da hafta sonu yaşanan şiddetli sokak olaylarının ardından derin fikir ayrılıkları sürüyor",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cmlvdCUyMHBvbGljZSUyMGZyYW5jZXxlbnwxfDB8fHwxNzkyNTQ3OTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Gloria Villa",
+        "photographerUrl": "https://unsplash.com/@villagloria",
+        "unsplashUrl": "https://unsplash.com/photos/louvre-museum-france-GjYw5xyMI3w"
+      },
+      "timeAgo": "37 dk önce",
+      "body": "Fransa genelinde ve uluslararası kamuoyunda, son yıllarda ülkenin şehirlerinde görülen en şiddetli ve yıkıcı toplumsal olayların arkasındaki nedenler ve bu krizden çıkarılması gereken dersler konusunda derin bir uzlaşmazlık yaşanmaktadır. Hafta sonu boyunca tırmanan ve ülke genelinde büyük yankı uyandıran isyan dalgası, modern Fransa tarihinin en karanlık ve çalkantılı dönemlerinden biri olarak kayıtlara geçerken, yaşanan olayların tetikleyicileri ve sorumluluğunun kime ait olduğu hususu toplumun tüm kesimlerini karşı karşıya getirmiş durumdadır. Yaşanan bu büyük çaplı huzursuzluk, sadece Fransa sınırları içerisinde kalmamış, aynı zamanda uluslararası alanda da geniş bir yankı uyandırarak benzer kentsel sorunlarla mücadele eden diğer ülkelerin de dikkatini bu bölgeye çekmiştir.\n\nOlayların ardından siyasi çevreler, sivil toplum kuruluşları, uzmanlar ve vatandaşlar arasında başlayan tartışmalar, krizin kökenlerinin ne kadar derinlere uzandığını ve bu durumun nasıl engellenemediğini anlamaya odaklanmıştır. Bir kesim, yaşanan bu vahim olayların arkasında uzun süredir çözülemeyen ekonomik eşitsizlikler, toplumsal dışlanma ve entegrasyon problemleri olduğunu savunurken; diğer bir taraf ise güvenlik zafiyetleri, kamu düzeninin sağlanmasındaki eksiklikler ve provokasyonların olayları bu denli büyüttiğini öne sürmektedir. Bu keskin görüş ayrılıkları, Fransa'nın gelecekte benzer krizlerle karşılaşmaması için atması gereken adımlar konusunda ortak bir strateji geliştirilmesini son derece güçleştirmektedir.\n\nModern Fransa tarihinin en ciddi toplumsal patlamalarından biri olarak nitelendirilen bu süreç, ülkenin kentsel politikalarını ve toplumsal barışın sürdürülebilirliğini yeniden masaya yatırmasına neden olmuştur. Şehir merkezlerinde meydana gelen maddi hasar, güvenlik güçleri ile göstericiler arasındaki çatışmalar ve toplumsal yaşamın kesintiye uğraması, krizin sadece bir anlık öfke patlaması olmadığını, uzun süredir biriken kronik sorunların bir dışavurumu olduğunu göstermektedir. Ancak bu tespitin ötesinde, bu sorunların çözümüne yönelik reçeteler konusunda tam bir kaos hakimdir. Kimi analistler daha sert ve caydırıcı güvenlik önlemlerinin şart olduğunu vurgularken, kimi uzmanlar ise sosyal politikalara ağırlık verilmesi ve toplumsal entegrasyonun güçlendirilmesi gerektiğinin altını çizmektedir.\n\nSöz konusu tartışmalar sadece Fransa'nın iç siyasetini meşgul etmekle kalmamakta, aynı zamanda ülkenin demokratik kurumlarının kriz yönetimi kapasitesini de sınamaktadır. Hafta sonu yaşanan olayların ardından kamuoyunda oluşan infial, hükümetin ve yerel yönetimlerin izlediği politikaların sorgulanmasına yol açmıştır. Toplumun farklı kesimleri, yaşanan bu trajik olaylardan çıkarılması gereken derslerin doğru tahlil edilmemesi durumunda, benzer krizlerin gelecekte tekrar yaşanmasının kaçınılmaz olduğu konusunda hemfikirdir; ancak bu dersin içeriğinin ne olacağı konusunda ise uçurumlar devam etmektedir.\n\nSonuç olarak, Fransa'da hafta sonu patlak veren ve modern tarihin en ağır kentsel huzursuzluklarından biri olarak kayıtlara geçen bu isyanlar, ülkenin önünde uzun ve sancılı bir tartışma sürecinin durduğunu göstermektedir. Hem ülke içinde hem de uluslararası alanda gözler, bu derin bölünmenin nasıl aşılacağına ve Fransız yetkililerin toplumsal huzuru yeniden tesis etmek için hangi somut adımları atacağına çevrilmiş durumdadır. Olayların sorumluluğunun kimde olduğu ve krizin ana kaynaklarının nasıl kurutulacağı soruları, önümüzdeki dönemin en sıcak başlıkları olmaya devam edecektir.",
+      "highlights": [
+        "Fransa'daki şiddetli sokak olaylarının nedenleri konusunda derin anlaşmazlıklar var.",
+        "Hafta sonu yaşanan isyanlar modern tarihin en büyük kentsel huzursuzlukları arasında yer aldı.",
+        "Olaylardan çıkarılacak dersler ve sorumluluklar konusunda toplumun kesimleri bölünmüş durumda."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-10-21T01:22:51.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.cnnturk.com/dunya/irak-iran-sinirinda-dikkat-ceken-iddia-sinir-kapisi-kapatildi-mi-3482241",
+      "headline": "Irak-İran sınırında dikkat çeken iddia: Şeyb Sınır Kapısı kapatıldı mı?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1760001554934-51e7d61f7427?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Ym9yZGVyJTIwY3Jvc3Npbmd8ZW58MXwwfHx8MTc5MjU0Nzk2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zhe ZHANG",
+        "photographerUrl": "https://unsplash.com/@doublez0108",
+        "unsplashUrl": "https://unsplash.com/photos/modern-building-with-bridge-over-river-and-mountains-g-Y9fZCQgVU"
+      },
+      "timeAgo": "57 dk önce",
+      "body": "Uluslararası ilişkiler ve sınır güvenliği konularında hareketli gelişmelerin yaşandığı komşu coğrafyada, Irak ile İran arasındaki geçiş noktalarından biriyle ilgili olarak basına yansıyan iddialar gündemdeki yerini aldı. Ortadoğu bölgesindeki ticaret ve insan hareketliliği açısından önem taşıyan kritik güzergahlardan biri olan Şeyb Sınır Kapısı'nın faaliyetlerine ara verildiği yönündeki iddialar, yerel medya organları aracılığıyla kamuoyuna duyuruldu. Bölgeden aktarılan ilk bilgilere göre, söz konusu sınır kapısının ulaşıma ve geçişlere kapatıldığı öne sürüldü.\n\nOrtaya atılan bu iddiaların arkasında ise Irak makamlarından gelen bazı talimatlar olduğu belirtildi. Yerel basında yer alan haberlerin detaylarında, Şeyb Sınır Kapısı'nın geçici olarak kapatılması kararının Irak Başbakanı Ali ez-Zeydi'nin talimatıyla alındığı ifade edildi. İki ülke arasındaki sınır ticaretini, turistik geçişleri ve bölgesel lojistiği yakından ilgilendiren bu hamlenin gerekçesine veya kapsamına dair henüz ayrıntılı bir resmi gerekçe sunulmadı.\n\nSınır kapılarının statüsü ve geçişlerin askıya alınması gibi durumlar, her iki ülkenin de ekonomik ve sosyal dengeleri açısından büyük bir önem arz etmektedir. Söz konusu iddiaların ardından bölgedeki ticari faaliyetlerin ve seyahat planlarının nasıl etkileneceği merak konusu olurken, seyahat etmek isteyen vatandaşlar ve ticaret erbabı gelişmeleri yakından takip etmeye başladı. Öne sürülen kapatma kararının ne kadar süreceği konusunda da net bir takvim verilmediği kaydedildi.\n\nYerel kaynaklar ve haber ajansları tarafından servis edilen bilgilerde, Şeyb Sınır Kapısı'nın kapalı kalacağı sürece dair belirgin bir tarih paylaşılmadı. Aktarılan iddialara göre, bu uygulamanın ikinci bir duyuruya kadar yürürlükte kalacağı ve sınır kapısının geçişlere kapalı olmaya devam edeceği öne sürüldü. Bu durum, bölgedeki lojistik akışın ne zaman normale döneceği sorusunu da beraberinde getirdi.\n\nÖte yandan, iddiaların ardından gözler resmi makamlardan yapılacak açıklamalara çevrildi. Konunun asılsız olup olmadığını veya alınan kararın resmi boyutunu netleştirmek adına Irak makamlarından beklenen açıklama henüz yapılmadı. Yetkili mercilerin konuya ilişkin sessizliğini koruması, basında yer alan iddiaların doğruluk payı konusunda soru işaretlerinin sürmesine neden olurken, ilgili kurumların önümüzdeki saatlerde konuya dair bir bilgilendirme yapması bekleniyor.",
+      "highlights": [
+        "Irak ile İran arasındaki Şeyb Sınır Kapısı'nın kapatıldığı öne sürüldü.",
+        "Kararın Irak Başbakanı Ali ez-Zeydi'nin talimatıyla alındığı iddia edildi.",
+        "Irak makamlarından konuya ilişkin henüz resmi bir açıklama yapılmadı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/dunya/irak-iran-sinirinda-dikkat-ceken-iddia-sinir-kapisi-kapatildi-mi-3482241",
+      "publishedAt": "2026-10-21T01:02:37.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/cop31de-kararlar-sahaya-inecek-4865968",
+      "headline": "Antalya'da düzenlenecek COP31'in odak noktası uygulama ve somut adımlar olacak",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1592917907032-837646f095fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5MjU0Nzk3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-sign-on-a-building-fgFfiQrMzqU"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Gelecek dönemde küresel iklim diplomasisinin en önemli buluşmalarından biri olarak planlanan ve Antalya'da gerçekleştirilmesi öngörülen COP31 zirvesi, çevre politikalarında eylem odaklı bir dönemin kapısını aralamaya hazırlanıyor. Uluslararası kamuoyunun yakından takip ettiği bu kritik organizasyon, dünya genelinde hayati öneme sahip iklim krizine karşı atılacak adımların masaya yatırılacağı kapsamlı bir platform sunacak. Toplantının ana gündem maddeleri arasında, çevre koruma bilincini artırmayı hedefleyen sıfır atık yaklaşımı ve iklim krizinden en çok etkilenen toplulukların haklarını savunan iklim adaleti kavramı yer alacak. Bu konular, yıllardır süregelen küresel tartışmaların artık teorik düzeyden çıkarılıp pratik hayata aktarılması gerekliliğini bir kez daha gözler önüne seriyor.\n\nSıfır Atık Vakfı Başkanı Samed Ağırbaş, zirvenin taşıdığı bu tarihsel misyona ve dönüm noktası niteliğindeki hedeflere dikkat çekerek önemli değerlendirmelerde bulundu. Yapılan açıklamada, küresel ölçekteki bu çevre zirvelerinin otuz yılı aşkın bir süredir düzenli olarak gerçekleştirildiği hatırlatıldı. Bu uzun soluklu süreç zarfında yetkili organlar tarafından yetmişten fazla karar alındığına işaret eden Ağırbaş, buna karşın alınan kararların sahadaki yansımalarının oldukça sınırlı kaldığını vurguladı. Mevcut tablonun artık sürdürülemez olduğunu belirten yetkili, uygulama aşamasındaki eksikliklerin giderilmesi gerektiğinin altını çizdi.\n\nBugüne kadar uluslararası platformlarda imzalanan taahhütlerin sahadaki karşılığının yetersiz kalması, yeni nesil iklim zirvelerinin karakterini değiştirme zorunluluğunu doğuruyor. Başkan Ağırbaş, bu bağlamda Antalya'da toplanacak olan COP31'in geleneksel zirve formatından ayrışmasını arzu ettiklerini ifade etti. Zirvenin genel beklentisi, teorik müzakerelerin ötesine geçerek doğrudan sahada sonuç veren kararların hayata geçirilmesi yönünde şekilleniyor. Bu doğrultuda, Antalya'daki buluşmanın bir uygulama COP'u olarak anılması ve bugüne kadar atılamayan somut adımların hızla atılması ana hedef olarak belirlenmiş durumda.\n\nDünya genelinde iklim değişikliğinin etkileri her geçen gün daha şiddetli hissedilirken, uluslararası toplumun bu krizle mücadelede kararlılık göstermesi hayati bir zorunluluk teşkil ediyor. Sıfır atık politikalarının yaygınlaştırılması ve iklim adaleti ilkelerinin gözetilmesi, sadece çevresel bir sorumluluk değil, aynı zamanda gelecek nesillere yaşanabilir bir dünya bırakmanın temel şartı olarak değerlendiriliyor. Antalya ev sahipliğinde gerçekleşecek bu büyük buluşmanın, alınan kararların kağıt üstünde kalmayıp sahada, yani gerçek hayatta karşılık bulduğu bir dönüm noktası olması bekleniyor. Zirve süresince yürütülecek çalışmaların, küresel iklim eylem planlarının geleceğini şekillendirmede belirleyici bir rol oynaması öngörülüyor.",
+      "highlights": [
+        "Antalya'da düzenlenecek COP31'de sıfır atık ve iklim adaleti ele alınacak.",
+        "Geçmişte alınan 70'ten fazla kararın sahada karşılık bulmadığı belirtildi.",
+        "COP31'in teorik müzakereler yerine somut adımların atıldığı bir zirve olması hedefleniyor."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/cop31de-kararlar-sahaya-inecek-4865968",
+      "publishedAt": "2026-10-21T01:00:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/viransehir-de-devrilen-tanker-alev-aldi-surucu-oldu-3921274",
+      "headline": "Şanlıurfa Viranşehir'de devrilen akaryakıt tankeri alev aldı, sürücü hayatını kaybetti",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1513894697031-3e3aa4c54326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YnVybmluZyUyMHRydWNrfGVufDF8MHx8fDE3OTI1NDc5NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Flavio",
+        "photographerUrl": "https://unsplash.com/@flaviewxvx",
+        "unsplashUrl": "https://unsplash.com/photos/broken-car-covered-with-flame-YBzsJv3c1EQ"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Şanlıurfa ilinin Viranşehir ilçesinde karayolu üzerinde seyir halinde olan büyük tonajlı bir akaryakıt tankerinin devrilmesi neticesinde feci bir kaza meydana geldi. Alınan bilgilere göre, henüz belirlenemeyen bir sebepten dolayı kontrolden çıkan dev tanker, yola devrilmesinin hemen ardından büyük bir şiddetle alev alarak yanmaya başladı. Olay yerinde kısa süre içerisinde büyüyen yangın, çevrede büyük bir panik ve endişe yarattı.\n\nKaza anında tankerin içerisinde bulunan ve ismi henüz resmi makamlarca açıklanmayan sürücü, devrilen ve alevlerin arasında kalan araçtan dışarı çıkamayarak mahsur kaldı. Çevredeki vatandaşların ihbarı üzerine olay mahalline hızla çok sayıda sağlık, itfaiye ve güvenlik ekibi sevk edildi. Ekipler, bölgeye intikal ettiklerinde devrilmiş ve tamamen alevlere teslim olmuş olan tankeri söndürmek için geniş çaplı bir müdahale başlattı.\n\nİtfaiye ekiplerinin yoğun ve riskli çalışmaları sonucunda yangın kontrol altına alınarak söndürülebildi. Ancak alevlerin söndürülmesinin ardından yapılan ilk incelemelerde, talihsiz tankerin sürücüsünün olay yerinde hayatını kaybettiği tespit edildi. Yaşanan bu acı olay, karayolu ulaşımında aksamalara ve güvenlik önlemlerinin en üst seviyeye çıkarılmasına neden oldu.\n\nYetkililer, bölgede güvenlik çemberi oluşturarak olası bir ikinci tehlikenin önüne geçmek için tedbir aldı. Trafik akışı kontrollü bir şekilde sağlanırken, kazanın meydana geliş nedenine ilişkin kapsamlı bir inceleme ve soruşturma süreci başlatıldı. Uzman ekipler, tankerin devrilme sebebini ve yangının çıkış noktasını kesin olarak belirleyebilmek adına kaza mahallinde detaylı incelemelerde bulundu.\n\nBu tür ağır tonajlı araçların karıştığı kazalar, karayollarında güvenli sürüş kurallarına uymanın ve teknik kontrollerin önemini bir kez daha gözler önüne serdi. Sürücülerin bu gibi riskli durumlarda karşılaştığı tehlikeler, ilgili kurumların aldığı önlemlerle birlikte yeniden gündeme gelirken, kazayla ilgili adli ve idari tahkikat tüm boyutlarıyla titizlikle sürdürülmeye devam ediyor.",
+      "highlights": [
+        "Şanlıurfa Viranşehir'de seyir halindeki akaryakıt tankeri devrildi.",
+        "Devrilmenin ardından alev alan tankerde büyük bir yangın çıktı.",
+        "Tanker sürücüsü yanan araçtan çıkamayarak olay yerinde yaşamını yitirdi."
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/viransehir-de-devrilen-tanker-alev-aldi-surucu-oldu-3921274",
+      "publishedAt": "2026-10-21T00:45:56.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -163,6 +324,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.aa.com.tr/tr/dunya/wsj-musk-starlinkin-ukraynada-hizinin-yavaslatilmasi-emrini-verdi/4095196",
+      "headline": "Wsj: Musk, Starlink'in Ukrayna'da hızının yavaşlatılması emrini verdi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1745697213293-21d6c972ac1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c2F0ZWxsaXRlJTIwZGlzaHxlbnwxfDB8fHwxNzkyNTQ3OTgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bernd 📷 Dittrich",
+        "photographerUrl": "https://unsplash.com/@hdbernd",
+        "unsplashUrl": "https://unsplash.com/photos/large-satellite-dish-against-a-blue-sky-FIdxhTGKmps"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Dünya basınında geniş yankı uyandıran son iddialara göre, ABD'li milyarder iş insanı Elon Musk hakkında dikkat çekici bir iddia ortaya atıldı. Basına yansıyan haberlerde, Musk'ın, Starlink uydu internet sisteminin Ukrayna ordusuna sağladığı bağlantı hızının düşürülmesi yönünde talimat verdiği öne sürüldü. Uluslararası kamuoyunda ve teknoloji dünyasında tartışmalara yol açabilecek bu iddianın detayları, Wall Street Journal gazetesinde yer alan bilgilerle gündeme geldi. Günümüz dijital çağında orduların haberleşme ve veri aktarımı için kritik bir öneme sahip olan uydu tabanlı internet ağları, cephe hattındaki operasyonların koordinasyonu açısından hayati bir rol oynamaktadır.\n\nSöz konusu iddialar, küresel iletişim ağlarının jeopolitik krizler ve çatışma bölgelerindeki gücünü ve etkisini bir kez daha gözler önüne serdi. Ukrayna'da devam eden çatışmalar sürecinde ülkenin telekomünikasyon altyapısı büyük zarar görürken, uydu internet sağlayıcıları bu boşluğu dolduran en önemli unsurların başında gelmektedir. Bu bağlamda, Starlink sisteminin Ukrayna sahadaki askeri birlikler tarafından aktif olarak kullanıldığı biliniyor. İleri teknoloji ürünü bu sistemin hızına ve erişimine dair müdahale iddiaları, askeri stratejistler ve teknoloji gözlemcileri tarafından yakından takip edilmektedir.\n\nOlayın arka planına bakıldığında, özel şirketlerin sahipliğindeki küresel teknoloji altyapılarının devletler arası krizlerde nasıl birer aktör haline gelebildiği tartışması derinleşmektedir. Elon Musk'ın sahibi olduğu SpaceX şirketi tarafından işletilen Starlink ağı, dünyanın dört bir yanında internet erişimi sağlamak amacıyla uzaya fırlatılan binlerce uydudan oluşmaktadır. Ukrayna'daki askeri operasyonların başarısı için bu kadar kritik bir altyapının hızının kısıtlandığına yönelik iddialar, teknolojinin askeri alandaki rolü ve özel mülkiyetteki sistemlerin ulusal güvenlik politikalarıyla kesiştiği noktaları yeniden tartışmaya açmaktadır.\n\nBasında yer alan bu iddialar henüz resmi merciler veya şirket yönetimi tarafından detaylı bir şekilde doğrulanmamış ya da kapsamlı bir açıklamayla netleştirilmemiş olsa da, uluslararası ilişkiler ve teknoloji etiği açısından önemli soru işaretleri barındırmaktadır. Savaş ve kriz dönemlerinde sivil teknoloji girişimlerinin devletler tarafından nasıl konumlandırıldığı, gelecekteki olası senaryolar için de emsal teşkil edebilecek niteliktedir. Uzmanlar, bu tür altyapıların savaş sahasındaki dengeleri doğrudan etkileyebilecek güce sahip olduğunu ve bu nedenle alınan kararların son derece hassas sonuçlar doğurabileceğini belirtmektedir.\n\nSonuç olarak, Starlink sisteminin Ukrayna'daki performansına ve hız sınırlandırmalarına dair ortaya atılan bu iddialar, modern harp teknolojilerinin geleceği üzerine yapılan tartışmaları hızlandırmıştır. Bilgi akışının ve internet bağlantısının bir askeri güç çarpanı olduğu günümüzde, bu tür gelişmelerin hem stratejik hem de diplomatik yansımaları olmaya devam edecektir. Haberin merkezindeki iddiaların önümüzdeki günlerde nasıl bir yankı uyandıracağı ve taraflardan konuya ilişkin yeni bir açıklama gelip gelmeyeceği küresel kamuoyu tarafından merakla beklenmektedir.",
+      "highlights": [
+        "Elon Musk'ın Starlink'in Ukrayna'daki hızını düşürme emri verdiği öne sürüldü.",
+        "İddialar Wall Street Journal gazetesinde yayımlanan haberlerle gündeme geldi.",
+        "Uydu internet sisteminin Ukrayna ordusu için kritik bir öneme sahip olduğu biliniyor."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/wsj-musk-starlinkin-ukraynada-hizinin-yavaslatilmasi-emrini-verdi/4095196",
+      "publishedAt": "2026-10-20T23:18:43.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/galeri/gundem/meb-ortak-yazili-sinav-sistemi-oyss-takvimi-2026-2027-ortak-yazili-sinav-sistemi-nedir-5-6-ve-7-ve-9-10-ve-11-sinif-yazililari-ne-zaman-siniflara-gore-oyss-sinav-tarihleri-4854858",
       "headline": "Meb ortak yazılı sınav sistemi takvimi 2026-2027: Sınav tarihleri ne zaman?",
       "source": "Yeni Şafak",
@@ -252,6 +436,29 @@
       "externalUrl": "https://tr.euronews.com/2026/10/20/a-milli-takimin-yeni-teknik-direktoru-sergen-yalcin-oldu",
       "publishedAt": "2026-10-20T21:30:52.000Z",
       "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/kelebek/televizyon/haysiyette-sirlar-bir-bir-ortaya-cikti-gelini-sadiki-sikayet-etti-43349105",
+      "headline": "Haysiyet dizisinde sırlar birer birer gün yüzüne çıkıyor",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1617859822391-9c4bc92ff4f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c2FkJTIwZmFtaWx5JTIwZHJhbWF8ZW58MXwwfHx8MTc5MjU0Nzk4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rendy Novantino",
+        "photographerUrl": "https://unsplash.com/@novantino",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-woman-in-white-collared-shirt-jXs9F9N44MI"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Televizyon ekranlarının ilgiyle takip edilen yapımlarından biri olan Haysiyet dizisi, izleyicilerini ekran başına kilitlemeye devam eden son bölümüyle yine büyük yankı uyandırdı. Yapımın yayınlanan son haftasında, karakterler arasında yaşanan yüzleşmeler ve sırlar, hikayenin seyrini tamamen değiştirecek nitelikteki gelişmelerle izleyiciye aktarıldı. Özellikle aile bağlarının sarsıldığı, geçmişteki hesaplaşmaların yeniden gün yüzüne çıktığı bu son dönemecin, dizinin gelecekteki bölümleri için de önemli sinyaller verdiği görüldü.\n\nBölümün en dikkat çekici anlarından biri, Mehmet ve eşi Simay’ın eski sevgilisi Ender’in karşı karşıya gelmesiyle yaşandı. İkili arasında yaşanan bu gergin karşılaşma, geçmişin tozlu sayfalarını aralarken, evlilik içindeki dengeleri de derinden sarstı. Mehmet'in bu beklenmeyen durum karşısında nasıl bir tavır takınacağı ve Simay ile aralarındaki ilişkiyi bu gerçeğin nasıl etkileyeceği, izleyicilerin merakla takip ettiği ana unsurlar arasında yer aldı. Karakterlerin duygusal labirentlerde kaybolduğu bu sahneler, oyunculuk performanslarıyla da büyük beğeni topladı.\n\nDiğer taraftan, dizinin yan hikayelerinden biri olan Tufan ve Gülsüm cephesinde de oldukça kritik dakikalar yaşandı. Gülsüm’le birlikte bebeğini aldırmak amacıyla bir hastaneye giden Tufan, burada duyduğu bebek kalp atışları karşısında hayatının en büyük ikilemlerinden biriyle baş başa kaldı. Hastane koridorlarında yaşanan bu vicdani muhasebe ve Tufan’ın yaşadığı ani kararsızlık, izleyicilere duygusal açıdan yoğun ve düşündürücü anlar yaşattı.\n\nSöz konusu bölümün en yıkıcı ve sarsıcı gelişmelerinden biri de Sadık cephesinde meydana geldi. Kızı Sema’nın uzun yıllardır maruz kaldığı şiddeti öğrenen Sadık, duyduğu gerçekler karşısında adeta yıkıldı ve büyük bir şok yaşadı. Bir baba olarak evladının çektiği acılara tanıklık etmenin yarattığı bu derin travma, Sadık'ın bundan sonraki süreçte atacağı adımların ve vereceği tepkilerin sert olacağının da bir göstergesi niteliğindeydi.\n\nTüm bu olaylar zinciri sürerken, Karlıova ailesi de kendi içindeki çalkantılarla sarsılmaya devam etti. Aile içinde yaşanan gerilimlerin bir yansıması olarak, Suzan’ın Sadık’ı resmi mercilere şikayet etmesi, konakta yeni bir krizin fitilini ateşledi. Bu şikayet hamlesi, aile üyeleri arasındaki buzların daha da kalınlaşmasına ve halihazırda kırılgan olan ilişkilerin tamamen kopma noktasına gelmesine neden oldu. Haysiyet dizisi, her yeni bölümde derinleşen bu entrikalar ve sırlar silsilesiyle izleyicilerine soluksuz bir seyir deneyimi sunmayı sürdürüyor.",
+      "highlights": [
+        "Mehmet ile Simay'ın eski sevgilisi Ender karşı karşıya geldi.",
+        "Tufan hastanede duyduğu kalp atışlarıyla kararsızlığa sürüklendi.",
+        "Suzan'ın Sadık'ı şikayet etmesi Karlıova ailesinde yeni bir kriz yarattı."
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/kelebek/televizyon/haysiyette-sirlar-bir-bir-ortaya-cikti-gelini-sadiki-sikayet-etti-43349105",
+      "publishedAt": "2026-10-20T21:06:00.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
@@ -391,6 +598,29 @@
       "publishedAt": "2026-10-20T20:43:01.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://tr.euronews.com/2026/10/20/turkiye-libya-deniz-anlasmasina-hafterden-onay-ab-ve-yunanistan-tepkili",
+      "headline": "Türkiye ile Libya arasında 2019 yılında imzalanan deniz yetki alanları anlaşması Hafter kontrolündeki mecliste onaylandı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1761415962247-26a8d94e2898?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWVkaXRlcnJhbmVhbiUyMHNlYSUyMG1hcHxlbnwxfDB8fHwxNzkyNTQ3OTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vicky Wenk-Jacobsen",
+        "photographerUrl": "https://unsplash.com/@veebumblebee",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-rocky-coastline-and-clear-blue-ocean-75SZd7Hh_U0"
+      },
+      "timeAgo": "5 sa önce",
+      "body": "Doğu Akdeniz'deki dengeleri yakından ilgilendiren ve uluslararası diplomaside uzun süredir tartışma konusu olan önemli bir gelişme yaşandı. Libya'nın doğu kesiminde varlık gösteren ve Halife Hafter'in nüfuzu altında bulunan Temsilciler Meclisi, Türkiye Cumhuriyeti ile Libya arasında 2019 senesinde akdedilen deniz yetki alanlarının sınırlandırılmasına dair mutabakat muhtırasını resmi olarak onayladı. Bu karar, Doğu Akdeniz havzasındaki jeopolitik hareketliliği yeniden zirveye taşıdı.\n\nSöz konusu mutabakat, ilk imzalandığı dönemden bu yana bölgesel aktörler arasında geniş çaplı diplomatik ve hukuki tartışmalara zemin hazırlamıştı. Hafter kontrolündeki parlamentonun bu anlaşmaya resmi onay vermesi, sahadaki dengeler ve uluslararası ilişkiler açısından yeni bir evreye işaret ediyor. Anlaşmanın doğu yönetimi tarafından kabul edilmesi, hem bölgesel iş birliği arayışlarını hem de Akdeniz'deki kıyı daş ülkeler arasındaki diplomatik hesaplaşmaları doğrudan etkileyen bir hamle olarak değerlendiriliyor.\n\nAlınan bu karar, uluslararası alanda hızla karşılık buldu ve özellikle Avrupa Birliği (AB) ile Yunanistan cephesinden sert tepkilerle karşılandı. Atina yönetimi ve birlik yetkilileri, söz konusu adımın bölgedeki istikrarı zedeleyebileceği yönündeki endişelerini dile getirirken, Doğu Akdeniz'deki deniz yetki alanlarına ilişkin tezlerini bir kez daha hatırlattı. Yunanistan ve AB'nin bu hamleye gösterdiği reaksiyon, bölgedeki diplomatik gerilimin önümüzdeki süreçte de devam edeceğini gösteren başlıca göstergeler arasında yer alıyor.\n\nDiğer taraftan, Libya'daki bu siyasi ve hukuki gelişme Ankara'da memnuniyetle karşılandı. Türkiye Cumhuriyeti makamları, 2019'da imzalanan ve iki ülke arasındaki karşılıklı çıkarları korumayı amaçlayan deniz yetki alanları mutabakatının meşruiyetinin ve geçerliliğinin bu kararla birlikte bir kez daha tescillendiğini vurguladı. Ankara, bu tür adımların iki ülke arasındaki dostane ilişkileri ve iş birliği zeminini güçlendirdiğini savunuyor.\n\nDoğu Akdeniz'de kıyıdaş ülkeler arasındaki hukuki ve siyasi ihtilaflar sürerken, Libya Temsilciler Meclisinin bu kararı bölgedeki diplomatik trafiği daha da yoğunlaştıracak gibi görünmektedir. Anlaşmanın onaylanması süreci, taraflar arasındaki stratejik hamlelerin hız kesmeden devam edeceğini ortaya koyarken, uluslararası toplumun bu gelişmeye vereceği diğer tepkiler de yakından takip edilmektedir.",
+      "highlights": [
+        "Libya'nın doğusundaki Temsilciler Meclisi 2019 tarihli anlaşmayı onayladı.",
+        "Atina yönetimi ve Avrupa Birliği karara karşı tepki gösterdi.",
+        "Ankara, Libya'daki meclisin bu adımını memnuniyetle karşıladı."
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/10/20/turkiye-libya-deniz-anlasmasina-hafterden-onay-ab-ve-yunanistan-tepkili",
+      "publishedAt": "2026-10-20T20:42:57.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
@@ -6668,236 +6898,6 @@
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/deprem-mi-oldu-nerede-16-ekim-son-dakika-depremler-afad-ve-kandilli-son-depremler-listesi-3480205",
       "publishedAt": "2026-10-16T12:32:58.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "headline": "Kıbrıs'taki otelde düşerek ölen 2 yaşındaki oğlunun ardından babaya para cezası verildi",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1667125094717-47e0ff6d0608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aG90ZWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzkyMTQzODUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dad hotel",
-        "photographerUrl": "https://unsplash.com/@dadhotel",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-many-windows-and-a-courtyard-with-tables-and-chairs-FCSDBKliyTQ"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Yaşanan trajik bir olayın ardından yargı süreci sonuçlandı ve Paphos'taki bir mahkeme, iki yaşındaki oğlunun bir otelde düşmesi sonucu hayatını kaybetmesiyle ilgili olarak babaya para cezası uygulanmasına hükmetti. Gerçekleşen bu acı olay sonrasında hukuki merciler tarafından atılan adımlar çerçevesinde, baba Joshua Foster'ın mahkeme kararı gereğince maddi bir ceza ödemesi kararlaştırıldı.\n\nEdinilen bilgilere göre, Paphos şehrinde görülen dava sonucunda hakimin aldığı karar doğrultusunda Joshua Foster'ın 3.000 euro tutarında bir ödeme yapması zorunlu kılındı. Bu rakam, İngiltere para birimi cinsinden yaklaşık 2.500 sterline denk gelmektedir. Söz konusu ceza kararı, bölgedeki yargı organlarının yürüttüğü incelemelerin ve hukuki değerlendirmelerin ardından kamuoyuna duyuruldu.\n\nOlayın meydana geldiği otel ortamı ve küçük çocuğun düşüşüyle ilgili ayrıntılar dava dosyasında yer alırken, mahkeme heyeti yargılama sürecini tamamlayarak hükmünü açıkladı. Aileleri ve toplumu derinden sarsan bu tür kazalar, otel güvenliği ve ebeveyn sorumlulukları konusundaki tartışmaları ve hukuki süreçleri de beraberinde getirmektedir. Paphos mahkemesinin verdiği bu karar, davanın yasal boyutunun şu anki aşamasını oluşturuyor.\n\nYargı sürecinin tamamlanmasıyla birlikte, Joshua Foster hakkında hükmedilen 3.000 euroluk para cezasının tahsilatına yönelik işlemlerin başlatılması bekleniyor. Mahkemenin belirttiği bu mali yaptırım, dava dosyasının kapanmasında önemli bir adım teşkil ederken, olayın etkileri hem yerel hem de uluslararası kamuoyunda yankı bulmaya devam ediyor. Bu tür trajik olayların ardından uygulanan hukuki yaptırımlar, benzer durumların önlenmesi ve sorumlulukların belirlenmesi açısından yakından takip edilmektedir.\n\nSonuç olarak, Paphos mahkemesinin verdiği bu karar, iki yaşındaki çocuğun hayatını kaybettiği otel olayıyla ilgili adli sürecin önemli bir parçasını oluşturmaktadır. Joshua Foster'ın ödemek zorunda olduğu 3.000 euro (2.500 sterlin) tutarındaki ceza, davanın bu aşamada karara bağlanan resmi sonucu olarak kayıtlara geçmiştir.",
-      "highlights": [
-        "Paphos'taki bir mahkeme, otelde düşen 2 yaşındaki çocuğun babasını cezalandırdı.",
-        "Joshua Foster isimli babanın 3.000 euro (yaklaşık 2.500 sterlin) ödemesine karar verildi.",
-        "Yargı sürecinin tamamlanmasıyla birlikte dava dosyası bu kararla sonuçlandırıldı."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T09:41:53.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/fransa-hukumeti-sari-yeleklilerin-eylemleri-oncesinde-polislerin-sok-bombasi-kullanma-yasagini-kaldirdi/4090797",
-      "headline": "Fransa hükümetinden sarı yelekliler protestoları öncesinde şok bombası hamlesi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1764239651790-484aabb580aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cmlvdCUyMHBvbGljZXxlbnwxfDB8fHwxNzkyMTQzODU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Lai Man Nung",
-        "photographerUrl": "https://unsplash.com/@kirklai",
-        "unsplashUrl": "https://unsplash.com/photos/riot-police-watch-buildings-engulfed-in-flames-at-night-j0igZtsOfbg"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Fransa genelinde son dönemde yaşanan toplumsal hareketlilik ve sokak eylemleri tüm hızıyla devam ederken, merkezi yönetimden güvenlik güçlerinin teçhizatına yönelik kritik bir adım geldi. Ülke genelinde liseli öğrencilerin daha iyi eğitim koşulları sağlanması talebiyle başlattıkları eylemler ve gösteriler aralıksız sürerken, Fransa hükümeti tarafından son derece önemli bir karar kamuoyu ile paylaşıldı. Alınan bu yeni karar doğrultusunda, ülkenin yakın tarihine damga vuran sarı yeleklilerin yarın gerçekleştirmesi beklenen geniş çaplı ve kapsamlı protesto gösterileri öncesinde, polis teşkilatının görev sırasında şok bombası kullanma yasağı resmen kaldırıldı.\n\nYetkililer tarafından yapılan resmi açıklamada, güvenlik güçlerinin mühimmat kullanımına getirilen kısıtlamaların esnetildiği ve bu kapsamda daha önce yasaklanan şok bombalarının yeniden sahada aktif olarak görev yapacak polisler tarafından kullanılabileceği duyuruldu. Bilindiği üzere, Fransa'da son haftalarda hem öğrencilerin eğitim reformu talepli eylemleri hem de ekonomik ve sosyal politikaları protesto eden sarı yeleklilerin eylemleri ülkenin gündemini meşgul eden en önemli başlıkların başında geliyor. Hükümetin bu hamlesi, yaklaşan büyük protesto dalgası öncesinde güvenlik önlemlerinin ve tedbirlerin en üst seviyeye çıkarıldığının açık bir göstergesi olarak değerlendiriliyor.\n\nÖte yandan, liselilerin ülke genelinde sürdürdüğü protestolar da eğitim kurumları çevresinde ve sokaklarda hareketli günlerin yaşanmasına neden oluyor. Gençlerin eğitim şartlarının düzeltilmesi ve imkanların artırılması yönündeki talepleriyle başlayan gösteriler, zaman zaman güvenlik güçleri ile eylemciler arasında gergin anların yaşanmasına zemin hazırlıyor. Hükümetin karşı karşıya kaldığı bu çok katmanlı toplumsal muhalefet dalgası, kamu düzeninin sağlanması adına atılan adımların ve güvenlik politikalarının yeniden gözden geçirilmesine neden oluyor.\n\nSarı yeleklilerin yarın düzenleyeceği miting ve yürüyüşlerin ülke genelinde geniş bir katılım bulması beklenirken, başkent başta olmak üzere kritik noktalarda şimdiden olağanüstü güvenlik tedbirleri alınmaya başlandı. Emniyet güçlerinin elindeki mühimmat kapasitesinin artırılması anlamına gelen şok bombası yasağının kaldırılması kararı, olası olaylara müdahale biçimini doğrudan etkileyecek unsurlar arasında yer alıyor. Toplumun farklı kesimlerinden gelen protesto sesleri karşısında yürütmenin güvenlik odaklı bu stratejisi, ülkedeki siyasi ve sosyal tansiyonun önümüzdeki saatlerde daha da yükselebileceğine işaret ediyor.",
-      "highlights": [
-        "Fransa'da liselilerin eğitim koşulları talebiyle eylemleri devam ediyor.",
-        "Hükümet, sarı yeleklilerin yarınki protestoları öncesi yasak kaldırdı.",
-        "Polislerin yeniden şok bombası kullanabileceği resmi olarak açıklandı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/fransa-hukumeti-sari-yeleklilerin-eylemleri-oncesinde-polislerin-sok-bombasi-kullanma-yasagini-kaldirdi/4090797",
-      "publishedAt": "2026-10-16T09:38:48.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/numan-kurtulmusun-tesrifleri-ile-selcuklu-belediyesi-yazir-mahalle-kulliyesinin-acilisi-gerceklestirildi-4864826",
-      "headline": "Numan Kurtulmuş'un katılımıyla Selçuklu Belediyesi Yazır Mahalle Külliyesi açıldı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1780004033644-0a6d7798943c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bW9kZXJuJTIwY29tbXVuaXR5JTIwY2VudGVyfGVufDF8MHx8fDE3OTIxNDM4NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kacper Korgul",
-        "photographerUrl": "https://unsplash.com/@nettle161",
-        "unsplashUrl": "https://unsplash.com/photos/a-modern-building-with-large-windows-and-a-circular-lawn-aGebDlzUp4w"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Selçuklu Belediyesi, mahalle sakinlerinin günlük yaşamdaki gereksinimlerini karşılamak ve kentsel yaşam kalitesini artırmak amacıyla hayata geçirdiği yatırımlarına bir yenisini daha ekledi. Bu çerçevede, yerel yönetim ile hayırsever vatandaşların güç birliği sonucunda Yazır Mahallesi'ne kazandırılan modern donatılara sahip Yazır Mahalle Külliyesi'nin resmi açılış töreni büyük bir katılımla düzenlendi.\n\nGerçekleştirilen bu anlamlı açılış programı, Türkiye Büyük Millet Meclisi Başkanı Prof. Dr. Numan Kurtulmuş'un teşrifleriyle resmiyet kazandı. Yerel yönetimler düzeyinde yürütülen çalışmaların toplumsal dayanışma ve kamu yararı açısından taşıdığı önemi bir kez daha gözler önüne seren program, bölge halkı tarafından da yoğun bir ilgiyle karşılandı.\n\nSelçuklu Belediyesi'nin temel vizyonu doğrultusunda, sadece fiziki altyapı projeleriyle sınırlı kalmayıp aynı zamanda vatandaşların sosyal, kültürel ve eğitim alanındaki gereksinimlerini de önceleyen yatırımlara ağırlık veriliyor. Yazır Mahallesi'ne kazandırılan bu yeni külliye projesi de tam olarak bu çok yönlü hizmet anlayışının somut bir yansıması olarak öne çıkıyor.\n\nEğitim, kültür ve sosyal yaşam odaklı donatılarıyla dikkat çeken Yazır Mahalle Külliyesi, mahalle sakinlerinin bir araya gelebileceği, ortak kültürel ve sosyal faaliyetler yürütebileceği bir merkez olma niteliği taşıyor. Yapılan bu tür yatırımlar, mahalle kültürünün canlandırılması ve toplumsal bağların güçlendirilmesi açısından kritik bir rol üstleniyor.\n\nBelediye imkânları ile hayırseverlerin katkılarının ortak bir amaç doğrultusunda birleşmesiyle ortaya çıkan bu eser, yerel yönetim alanında kamu-sivil iş birliğinin başarılı örneklerinden biri olarak kaydedildi. Açılış töreninde, bu tür projelere katkı sunan hayırseverlere ve emeği geçen tüm belediye çalışanlarına duyulan memnuniyet çeşitli vesilelerle dile getirildi.\n\nTürkiye Büyük Millet Meclisi Başkanı Prof. Dr. Numan Kurtulmuş'un teşrifleriyle hizmete giren Yazır Mahalle Külliyesi, tamamlanan bu açılışın ardından mahalle halkının kullanımına resmi olarak sunuldu. Bölgedeki sosyal donatı alanlarını zenginleştiren bu önemli tesisin, önümüzdeki dönemde pek çok farklı etkinliğe ev sahipliği yapması bekleniyor.",
-      "highlights": [
-        "Yazır Mahalle Külliyesi'nin resmi açılışı TBMM Başkanı Numan Kurtulmuş'un katılımıyla yapıldı.",
-        "Belediye ve hayırseverlerin iş birliğiyle hayata geçirilen proje eğitime ve kültüre odaklanıyor.",
-        "Tesis, bölge sakinlerinin sosyal yaşam kalitesini artırmayı amaçlıyor."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/numan-kurtulmusun-tesrifleri-ile-selcuklu-belediyesi-yazir-mahalle-kulliyesinin-acilisi-gerceklestirildi-4864826",
-      "publishedAt": "2026-10-16T09:38:28.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/gundem/istanbulda-can-kaybi-4e-yukseldi-960298.html",
-      "headline": "İstanbul'da şiddetli yağışın ardından can kaybı dörde yükseldi",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1657069345471-c54f2432b79c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zmxvb2RlZCUyMHN0cmVldHxlbnwxfDB8fHwxNzkyMTQzODgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Wes Warren",
-        "photographerUrl": "https://unsplash.com/@wcwarren",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-driving-through-a-flooded-street-Mx5m1K7Sthg"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "İstanbul genelinde etkisini sürdüren olumsuz hava koşulları ve şiddetli yağışlar, hayatı olumsuz yönde etkilemeye devam ederken yaşanan afetle ilgili üzücü gelişmeler de peş peşe geliyor. Meteorolojik uyarıların ardından kent genelinde görülen yoğun yağış, kısa süre içinde hayatın normal akışını sekteye uğrattı. Şehir merkezinin yanı sıra pek çok ilçede su baskınları, taşkınlar ve ulaşımda aksamalar meydana geldi. Altyapının yetersiz kaldığı noktalarda biriken sular, vatandaşlar ve sürücüler için zor anlar yaşatırken, yetkili birimler sahada aralıksız olarak çalışmalarını sürdürüyor.\n\nYaşanan şiddetli hava olayının ve peş peşe gelen olumsuzlukların ardından, afet durumundan etkilenen bölgelere yönelik arama-kurtarma ve müdahale faaliyetleri hız kazandı. Ekipler, su baskını ihbarlarının yapıldığı adreslere yönlendirilerek mahsur kalan vatandaşların tahliyesi için yoğun bir mesai harcadı. Ancak tüm bu çabalara ve yapılan müdahalelere rağmen, felaketin yarattığı yıkıcı tablo giderek netleşti. Son gelen resmi bilgilere göre, şiddetli yağış ve sonrasındaki afet nedeniyle hayatını kaybedenlerin sayısı artış gösterdi.\n\nYetkililer tarafından yapılan son açıklamalar doğrultusunda, İstanbul'daki felakette yaşamını yitirenlerin sayısı ne yazık ki dört kişiye yükseldi. Bu durum, kentte yaşanan afetin boyutunu ve ciddiyetini bir kez daha gözler önüne sererken, kamuoyundaki endişeyi de artırdı. Kaybedilen canların ailelerine ve yakınlarına başsağlığı dilekleri iletilirken, benzer acı olayların bir daha yaşanmaması adına alınması gereken önlemler yeniden tartışılmaya başlandı.\n\nKent genelindeki kriz masaları ve ilgili kurumlar, olası yeni risklere karşı teyakkuz halini sürdürüyor. Meteoroloji yetkilileri tarafından yapılan değerlendirmelerde, yağışlı havanın etkisini ne kadar süreyle devam ettireceğine dair tahminler paylaşılırken, vatandaşlara da zorunlu olmadıkça trafiğe çıkmamaları ve tehlikeli olabilecek bölgelerden uzak durmaları yönünde uyarılarda bulunuluyor. Yerel yönetimler, tıkanan mazgalların açılması, su birikintilerinin tahliye edilmesi ve hasar gören noktaların onarılması için tüm imkanlarını seferber etmiş durumda.\n\nYaşanan bu büyük felaket, büyükşehirlerdeki altyapı sorunlarını ve ani hava değişimlerine karşı hazırlıklı olma zorunluluğunu bir kez daha gündeme taşıdı. Uzmanlar ve şehir planlamacıları, iklim değişikliğinin de etkisiyle sıklığı artan bu tür aşırı hava olaylarına karşı daha dirençli kentler yaratılması gerektiğine dikkat çekiyor. İstanbul'da hayatın normale dönmesi ve hasarların tamamen giderilmesi için çalışmalar sürerken, yetkililer halkın can ve mal güvenliğini sağlamak adına tedbirleri en üst düzeyde uygulamaya devam ediyor.",
-      "highlights": [
-        "İstanbul'da etkili olan şiddetli yağış hayatı olumsuz etkiledi.",
-        "Afet bölgesinde yürütülen çalışmalar sonucunda kayıplar arttı.",
-        "Kentte şiddetli yağışlar nedeniyle can kaybı 4'e yükseldi."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/gundem/istanbulda-can-kaybi-4e-yukseldi-960298.html",
-      "publishedAt": "2026-10-16T09:29:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/aylin-kotil-emir-sarigul-ve-omer-sarigule-gozalti-1746529",
-      "headline": "Aylin Kotil, Emir Sarıgül ve Ömer Sarıgül hakkında gözaltı kararı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1763873131265-fbe386751a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzkyMTQzODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daesun Kim",
-        "photographerUrl": "https://unsplash.com/@lifeandyouth",
-        "unsplashUrl": "https://unsplash.com/photos/small-police-station-building-with-signage-LaV-55TCEx8"
-      },
-      "timeAgo": "18 dk önce",
-      "body": "Son dönemde kamuoyunun yakından takip ettiği gelişmeler arasında yer alan yeni bir yargı ve soruşturma süreci kapsamında, siyaset ve medya dünyasından tanınmış isimler hakkında adli makamlarca harekete geçildi. Edinilen son dakika bilgilerine göre, Yeni Partili siyasetçi Mustafa Sarıgül'ün eski eşi Aylin Kotil, çiftin oğulları Emir Sarıgül ile Ömer Sarıgül ve tanınmış gazeteci Murat Ağırel hakkında gözaltı kararı alındığı bildirildi. Türkiye gündeminde geniş yankı uyandıran bu hukuki adım, kısa süre içinde sosyal medyanın yanı sıra ulusal basın organlarında da ilk sıralara yerleşti.\n\nGerçekleştirilen operasyonel ve adli süreçlerin arka planına dair henüz resmi makamlarca çok detaylı bir açıklama yapılmazken, söz konusu isimlerin haklarındaki iddialarla ilgili olarak ifade vermek üzere emniyet birimlerine sevk edilmeleri bekleniyor. Kamuoyunun yakından tanıdığı bu kişilerin bir arada hedef alındığı soruşturma, siyasi kulislerde ve medya çevrelerinde büyük bir şaşkınlıkla karşılandı. Özellikle Mustafa Sarıgül'ün ailesiyle olan bağları ve gazeteci Murat Ağırel'in yürüttüğü mesleki çalışmalar, dosyanın niteliği hakkında çeşitli spekülasyonların yapılmasına yol açsa da, yetkililer soruşturmanın gizliliğine ve hukuki prosedürlere sıkı sıkıya bağlı kalınması gerektiğinin altını çiziyor.\n\nSoruşturma dosyasında adı geçen Aylin Kotil, geçmişte yürüttüğü siyasi ve toplumsal faaliyetlerle tanınan bir isim olarak öne çıkıyor. Aynı şekilde, iş dünyası ve cemiyet hayatında sıkça adı geçen Emir Sarıgül ile Ömer Sarıgül kardeşlerin de bu kararla birlikte adli mercilerin radarında olduğu kesinleşti. Öte yandan, basın camiasının tanınan figürlerinden biri olan gazeteci Murat Ağırel hakkında da aynı soruşturma kapsamında gözaltı kararının çıkarılması, basın özgürlüğü ve yürütülen soruşturmaların kapsamı üzerine tartışmaları yeniden alevlendirdi. Gazetecilik faaliyetleri ve yazdığı eserlerle bilinen Ağırel'in durumu, meslek örgütleri ve medya mensupları tarafından yakından takip ediliyor.\n\nOlayın duyulmasının ardından hem hukukçular hem de siyasi gözlemciler, dosyanın seyrini ve ilerleyen saatlerde atılacak adımları değerlendirmeye başladı. Gözaltı kararının uygulanması ve şüphelilerin emniyetteki işlemlerinin tamamlanmasının ardından savcılığa sevk edilip edilmeyecekleri, sürecin bundan sonraki aşamalarını belirleyecek en kritik dönemeç olarak görülüyor. Emniyet birimlerinin yürüttüğü titiz çalışmalar neticesinde, soruşturmanın kapsamının genişleyip genişlemeyeceği veya yeni isimlerin dosyaya dahil olup olmayacağı önümüzdeki günlerde netleşecek.\n\nBu tür üst düzey gözaltı kararları, Türkiye'nin karmaşık siyasi ve hukuki ikliminde her zaman geniş bir etki alanına sahip oluyor. Hem muhalefet kanadından hem de iktidar çevrelerinden gelecek olası tepkiler, konunun sadece adli bir vaka olmaktan çıkarak siyasi bir boyut kazanabileceğine işaret ediyor. Ancak şu aşamada tüm taraflar, resmi makamlardan yapılacak net ve teyit edilmiş bilgilendirmeleri beklemeyi sürdürüyor. Aylin Kotil, Emir Sarıgül, Ömer Sarıgül ve gazeteci Murat Ağırel hakkında verilen bu kararın hukuki gerekçelerinin, şüphelilerin savcılığa çıkarılmasının ardından kamuoyu ile paylaşılması bekleniyor.",
-      "highlights": [
-        "Aylin Kotil, Emir Sarıgül ve Ömer Sarıgül hakkında gözaltı kararı verildi.",
-        "Karar verilen isimler arasında gazeteci Murat Ağırel de yer alıyor.",
-        "Soruşturmanın detayları ve adli sürecin seyri kamuoyu tarafından takip ediliyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/aylin-kotil-emir-sarigul-ve-omer-sarigule-gozalti-1746529",
-      "publishedAt": "2026-10-16T09:26:39.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/video/turkiye/rojin-sorusturmasinda-3-kritik-calisma-kayboldugu-aksam-6-kisinin-numarasi-tespit-edildi-3480099",
-      "headline": "Rojin soruşturmasında kritik eşik: Üç önemli çalışmada sona yaklaşıldı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606022831434-91293aebf25a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwxfDB8fHwxNzkyMTI3MjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Michael Förtsch",
-        "photographerUrl": "https://unsplash.com/@michael_f",
-        "unsplashUrl": "https://unsplash.com/photos/police-car-with-flashing-emergency-lights-y5LaV9IEC_g"
-      },
-      "timeAgo": "şimdi",
-      "body": "Van'da kaybolmasının ardından göl kenarında cansız bedeni bulunan üniversite öğrencisi Rojin Kabaiş'in ölümünün ardındaki sis perdesinin aralanması için yürütülen soruşturma titizlikle sürdürülüyor. Kamuoyunun yakından takip ettiği ve adli makamlar tarafından büyük bir hassasiyetle yürütülen bu hukuki süreçte, olayın tüm yönleriyle aydınlatılmasını sağlayacak üç kritik çalışmada artık sona yaklaşıldığı bildirildi. Soruşturmanın derinleştirilmesi ve gerçeğin ortaya çıkarılması açısından son derece büyük bir önem taşıyan bu teknik çalışmaların sonuçları, hem adli merciler hem de kamuoyu tarafından büyük bir merakla ve dikkatle bekleniyor.\n\nElde edilen son bilgilere göre, yürütülen soruşturma kapsamında üç ana odak noktası üzerinde yoğunlaşılmış durumda. Bu bağlamda, dar baz analizleri, olayla bağlantılı olabilecek araç araştırmaları ve genç kızın cep telefonuna yönelik gerçekleştirilen kapsamlı teknik incelemeler, dosyanın seyrini değiştirebilecek en önemli unsurlar arasında yer alıyor. Uzman ekipler tarafından büyük bir titizlikle yürütülen bu çalışmaların, olayın meydana geldiği akşam ve öncesindeki hareketliliği net bir şekilde ortaya koyması hedefleniyor. Özellikle teknik incelemeler ve veri analizleri, soruşturmanın bu aşamasında kilit rol oynamaktadır.\n\nYürütülen teknik çalışmaların en dikkat çekici detaylarından biri ise genç kızın kaybolduğu akşam iletişim kurduğu veya sinyal alınan kişilerin tespiti oldu. Elde edilen bulgulara göre, Rojin Kabaiş'in kaybolduğu akşam itibarıyla toplam altı kişinin telefon numarasının tespit edildiği öğrenildi. Bu numaralar ve gerçekleştirilen iletişim trafiği, olay gecesi yaşananların adli açıdan haritalandırılması için inceleniyor. Yetkili birimler, bu numaraların sahipleri ile genç kız arasındaki olası bağlantıları ve iletişim içeriklerini eksiksiz bir şekilde çözmek üzere çalışmalarını aralıksız olarak sürdürüyor.\n\nSoruşturma dosyasında yer alan dar baz analizleri de, olay gecesi bölgedeki hareketliliğin tespiti açısından kritik bir diğer aşamayı oluşturuyor. Baz istasyonlarından alınan sinyal verilerinin detaylı bir şekilde haritalandırılması ve karşılaştırılması sayesinde, o saatlerde ilgili coğrafi alanda bulunan cihazların ve kişilerin konum dökümleri çıkarılıyor. Bu teknik yöntem, özellikle kayıp vakalarının ve ani gelişen olayların aydınlatılmasında adli tıp ve kriminal incelemelerde sıklıkla kullanılan, maddi gerçeğe ulaşmayı kolaylaştıran temel unsurlar arasında bulunuyor.\n\nÖte yandan, dosya kapsamında yürütülen araç araştırmaları da soruşturmanın çok yönlü olarak ele alındığını gösteriyor. Olay yeri ve çevresindeki hareketliliğin tespiti amacıyla bölgedeki taşıt geçişleri ve şüpheli görülebilecek vasıtalar üzerine yapılan incelemeler, teknik analizlerle koordine ediliyor. Güvenlik birimleri, elde edilen tüm bu bulguları bir araya getirerek olayın bütünsel bir resmini oluşturmayı amaçlıyor. Tamamlanma aşamasına gelen bu üç kritik çalışmanın sonuçlarının, soruşturmanın geleceği açısından belirleyici olması bekleniyor.\n\nAdli makamlar ve ilgili soruşturma birimleri, elde edilecek nihai raporlar doğrultusunda gerekli adımların atılacağını, sürecin tüm şeffaflığı ve titizliğiyle yürütüldüğünü belirtiyor. Rojin Kabaiş'in ölümünün ardındaki sır perdesini aralayacak olan bu teknik verilerin tahlili bittiğinde, dosyadaki belirsizliklerin büyük ölçüde giderileceği tahmin ediliyor. Gözler şimdi bu üç kritik çalışmadan çıkacak resmi ve kesin sonuçlara çevrilmiş durumda.",
-      "highlights": [
-        "Rojin Kabaiş soruşturmasında üç kritik çalışmada sona yaklaşıldı.",
-        "Genç kızın kaybolduğu akşam altı kişinin telefon numarası tespit edildi.",
-        "Dar baz analizi, araç araştırmaları ve telefon incelemeleri sürüyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/turkiye/rojin-sorusturmasinda-3-kritik-calisma-kayboldugu-aksam-6-kisinin-numarasi-tespit-edildi-3480099",
-      "publishedAt": "2026-10-16T07:49:47.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "headline": "Hürmüz Boğazı yakınlarında gemi saldırıları rekor seviyeye ulaştı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606185540834-d6e7483ee1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2FyZ28lMjBzaGlwfGVufDF8MHx8fDE3OTIxMjcyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "william william",
-        "photographerUrl": "https://unsplash.com/@william07",
-        "unsplashUrl": "https://unsplash.com/photos/red-and-blue-cargo-ship-on-body-of-water-during-daytime-NndKt2kF1L4"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Dünya deniz ticaretinin kalbi konumundaki bölgelerden biri olan Hürmüz Boğazı çevresinde yaşanan güvenlik krizine ilişkin yeni ve endişe verici veriler kamuoyuyla paylaşıldı. Küresel enerji sevkiyatının en kritik geçiş noktalarından biri olan bu stratejik bölgede, son dönemde artış gösteren saldırı raporları endişeleri artırırken, resmi veriler durumun vahametini gözler önüne seriyor. Konuyla ilgili olarak BBC Verify tarafından gerçekleştirilen kapsamlı bir veri analizi çalışması, Birleşik Krallık denizcilik ajansından elde edilen kayıtların dikkat çekici bir tabloyu ortaya koyduğunu gösterdi.\n\nElde edilen resmi ve güncel denizcilik verilerine dayanarak hazırlanan analiz sonuçlarına göre, son derece kısa bir zaman dilimi içinde toplamda 12 farklı geminin silahlı ya da benzeri şekillerde saldırılara hedef olduğu tespit edildi. Bir haftalık gibi oldukça kısa bir periyotta bu denli yüksek sayıda geminin vurulmuş olması, bölgedeki güvenlik tehdidinin ulaştığı boyutu açıkça gözler önüne seriyor. Denizcilik sektörü ve uluslararası ticaret açısından hayati önem taşıyan bu rotada yaşanan bu yoğunlaşma, hem mürettebat güvenliğini hem de uluslararası tedarik zincirini doğrudan tehdit eden unsurlar arasında yer alıyor.\n\nYaşanan bu yoğun saldırı dalgasının bölgesel ve küresel ekonomik yansımaları da gecikmedi. Güvenlik risklerinin tavan yaptığı Hürmüz Boğazı ve çevresindeki sularda seyrüsefer yapmak zorunda kalan ticari gemilerin karşılaştığı bu tehlikeler, petrol sevkiyat süreçlerinde de doğrudan aksamalara yol açtı. Gelen son raporlar ve analizler, bölgedeki ham petrol ihracatının bu güvenlik krizine paralel olarak yavaşlama eğilimine girdiğini doğruluyor. Enerji piyasalarının en hassas damarlarından biri olan bu güzergahtaki sevkiyat yavaşlaması, küresel enerji arzı ve fiyat istikrarı açısından da yakından takip edilen gelişmeler arasında bulunuyor.\n\nUluslararası denizcilik ve güvenlik otoriteleri, bölgedeki hareketliliği ve Birleşik Krallık denizcilik ajansının raporlarını titizlikle izlemeye devam ederken, gemilere yönelik saldırıların art arda gelmesi ticari operasyonların planlanmasında yeni güvenlik protokollerinin ve alternatif rotaların tartışılmasına neden oluyor. Özellikle enerji taşımacılığı yapan tankerlerin hedef alınma sıklığındaki bu artış, küresel ölçekte tedarik güvenliği kaygılarını körüklüyor. Bölgede faaliyet gösteren armatörler ve lojistik şirketleri, artan riskler karşısında seferlerini yeniden değerlendirirken, yetkili kurumların sunduğu uyarılar ve veri analizleri durumun ciddiyetini koruduğunu net bir şekilde ortaya koyuyor.\n\nTüm bu gelişmeler, Hürmüz Boğazı'nın jeopolitik ve ekonomik açıdan ne denli kırılgan bir yapıya sahip olduğunu bir kez daha hatırlatırken, son bir hafta içinde 12 geminin vurulmuş olmasının kayıtlara bir rekor olarak geçtiğini teyit ediyor. Hem petrol ihracatındaki yavaşlama hem de artan saldırı raporları, deniz ticaretinde güvenliğin sağlanmasının gelecekteki enerji akışı için hayati bir zorunluluk olduğunu vurgulamaktadır.",
-      "highlights": [
-        "BBC Verify, Birleşik Krallık denizcilik ajansı verilerini inceledi.",
-        "Bir hafta içinde toplam 12 geminin saldırıya uğradığı belirlendi.",
-        "Saldırılar nedeniyle bölgedeki petrol ihracatında yavaşlama görüldü."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-10-16T05:00:17.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.haberturk.com/ekonomi/fed-baskani-warsh-dan-yapay-zeka-aciklamasi-3920110",
-      "headline": "Fed Başkanından yapay zeka açıklaması",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1527443195645-1133f7f28990?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y29tcHV0ZXIlMjBzY3JlZW58ZW58MXwwfHx8MTc5MjEyNzI4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quaritsch Photography",
-        "photographerUrl": "https://unsplash.com/@quaritsch",
-        "unsplashUrl": "https://unsplash.com/photos/silver-imac-with-apple-magic-keyboard-on-white-sufrace-3xQ65cknLPk"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Amerika Birleşik Devletleri Merkez Bankası (Fed) yönetimi ve ekonomi çevrelerini yakından ilgilendiren teknolojik dönüşüm süreçleri konusunda önemli değerlendirmeler kamuoyu ile paylaşıldı. Bu kapsamda, ABD Merkez Bankası (Fed) Başkanı Kevin Warsh tarafından yapılan son açıklamalar, yapay zeka teknolojilerinin küresel ve ulusal ekonomik yapılar üzerindeki potansiyel etkilerini bir kez daha gündemin merkezine taşıdı.\n\nGünümüz ekonomi politikalarının ve finansal sistemlerin en hararetli tartışma konularından biri olan yapay zeka entegrasyonu, merkez bankalarının da yakın markajında bulunuyor. Fed Başkanı Kevin Warsh, yapay zekayı etkin biçimde kullanan ekonomilerin gelecekte çok daha üretken ve refah seviyesi yüksek toplumlar haline gelebileceğini vurguladı. Söz konusu teknolojik araçların iş süreçlerine ve üretim bantlarına dahil edilmesinin, uzun vadede verimlilik artışı açısından büyük fırsatlar barındırdığına işaret edildi.\n\nBununla birlikte, bu köklü ve devasa dönüşümün yalnızca olumlu göstergelerle sınırlı kalmayacağı, aynı zamanda beraberinde çeşitli sancılar getirebileceği de açıkça ifade edildi. Başkan Warsh, teknolojik evrimin getirdiği bu yapısal değişim sürecinin hiç de kolay olmayabileceğini, toplumsal ve ekonomik açıdan bazı zorluklarla karşılaşılmasının muhtemel olduğunu kaydetti.\n\nÖzellikle iş gücü piyasası ve istihdam dengeleri açısından durumun belirsizliğini koruduğu belirtildi. Yapay zekanın kısa vadede istihdam üzerinde yaratacağı olası etkilerin tam olarak ne olacağı henüz netlik kazanmış değil. Fed Başkanı Warsh, bu konudaki belirsizliklerin sürdüğünün altını çizerek, istihdam piyasasındaki olası dalgalanmaların yakından izlenmesi gerektiği hususunda uyarılarda bulundu.",
-      "highlights": [
-        "Yapay zekayı etkin kullanan ekonomiler daha üretken ve zengin olabilir.",
-        "Bu teknolojik dönüşümün ekonomik açıdan sancılı olması bekleniyor.",
-        "Kısa vadede istihdam üzerindeki etkiler henüz bilinmiyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/ekonomi/fed-baskani-warsh-dan-yapay-zeka-aciklamasi-3920110",
-      "publishedAt": "2026-10-16T04:59:29.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
-      "headline": "İnfantino'dan özür açıklaması: İstifa çağrıları gölgesinde Zürih zirvesi",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1641230328589-9985d12094e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZmlmYSUyMGhlYWRxdWFydGVycyUyMHp1cmljaHxlbnwxfDB8fHwxNzkyMTI3MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Philippe Surber",
-        "photographerUrl": "https://unsplash.com/@surber",
-        "unsplashUrl": "https://unsplash.com/photos/a-soccer-field-in-front-of-a-city-yVlm-4UydIE"
-      },
-      "timeAgo": "23 dk önce",
-      "body": "Uluslararası Futbol Federasyonları Birliği (FIFA) başkanlığından ayrılması yönünde yoğun taleplerin ve eleştirilerin dile getirildiği bir dönemde, başkan Gianni İnfantino kamuoyunun karşısına çıkarak dikkat çekici açıklamalarda bulundu. Yaşanan gelişmelerin ardından futbol dünyasının nabzını tutan ve merakla beklenen bu süreç, İnfantino'nun İsviçre'nin Zürih kentinde gerçekleştirilen kritik FIFA yönetim kurulu toplantısında yaptığı konuşmayla yeni bir boyut kazandı.\n\nKüresel futbolun yönetim merkezinde düzenlenen bu uzun soluklu ve stratejik toplantı, son dönemde kurumun liderliğine yönelik yükselen seslerin ve tartışmaların odağında yer aldı. Spor otoriteleri ve paydaşlar tarafından yakından takip edilen Zürih'teki buluşma, FIFA'nın geleceğine dair kararların yanı sıra mevcut yönetimin izlediği politikaların masaya yatırıldığı bir platform haline geldi. Toplantının en dikkat çekici anlarından biri, başkan İnfantino'nun katılımcılara hitaben yaptığı ve özür niteliği taşıyan konuşması oldu.\n\nSpor dünyasında derin yankı uyandıran istifa çağrıları, son zamanlarda uluslararası spor kamuoyunun en önemli gündem maddelerinden birini oluşturuyordu. Birliğin yönetim mekanizmalarına ve şeffaflık ilkelerine yönelik eleştirilerin artması, FIFA yönetimini bu tür üst düzey toplantılarda daha baskı altında adımlar atmaya zorladı. Zürih'te bir araya gelen yönetim kurulu üyeleri, kurumun karşı karşıya olduğu bu zorlu dönemeçte atılacak adımları değerlendirirken, İnfantino'nun sergilediği yaklaşım toplantının ana eksenini belirledi.\n\nFutbol endüstrisinin küresel çapta dürüstlük, adalet ve yönetim ilkeleriyle bağdaşması beklenen bu tür kritik süreçler, milyonlarca taraftarı ve sporseveri doğrudan ilgilendiriyor. İsviçre'nin Zürih şehrinde gerçekleşen bu son toplantı da, kurumun iç işleyişindeki tartışmaların uluslararası boyuta taşındığı bir döneme denk gelmesi açısından ayrı bir önem taşıyor. İnfantino'nun yaptığı açıklamaların, bundan sonraki süreçte FIFA içindeki dengeleri nasıl etkileyeceği ve üye federasyonların nasıl bir tutum takineceği ise spor çevrelerinde merakla bekleniyor.\n\nKurumun en üst düzey karar alma organı olan yönetim kurulunun bu toplantısı, aynı zamanda gelecekteki organizasyonlar, reform süreçleri ve yönetim anlayışındaki olası değişiklikler için de bir zemin hazırlıyor. Tartışmaların merkezindeki isim olan FIFA başkanı, yaşanan polemiklerin ve istifa taleplerinin ardından gerçekleştirdiği bu konuşmayla, birliğin karşılaştığı sorunlara yönelik duruşunu katılımcılarla paylaştı. Zürih'teki bu kritik zirvenin sonuçları, önümüzdeki günlerde dünya futbolunun yönünü tayin edecek en önemli unsurlar arasında yer almaya devam edecek.",
-      "highlights": [
-        "Gianni İnfantino, Zürih'teki FIFA yönetim kurulu toplantısında konuştu.",
-        "Başkanın açıklamaları, son dönemdeki yoğun istifa çağrıları arasında geldi.",
-        "Kritik zirve, küresel futbol kamuoyunun yakından takip ettiği bir süreçte gerçekleşti."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
-      "publishedAt": "2026-10-16T04:45:24.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/uskudar-belediye-baskanvekili-dundar-ziya-gultekin-son-yolculuguna-ugurlanacak-43343486",
-      "headline": "Üsküdar belediye başkanvekili dündar ziya gültekin için taziye programı düzenlendi",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1708481686679-1bfebe1afefc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bW9zcXVlJTIwZnVuZXJhbHxlbnwxfDB8fHwxNzkyMTI3Mjk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Yoga Sukma 🇮🇩",
-        "photographerUrl": "https://unsplash.com/@yogasukma",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-white-building-with-two-towers-and-a-dome-h4xWsKltqJM"
-      },
-      "timeAgo": "37 dk önce",
-      "body": "Ankara'daki Türkiye Belediyeler Birliği başkan vekilliği seçimi için yola çıktığı esnada Anadolu Otoyolu üzerinde yaşanan elim bir trafik kazası sonucunda yaşamını yitiren Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin, sevenleri ve mesai arkadaşları tarafından son yolculuğuna uğurlanmaya hazırlanıyor. Yaşanan bu acı kaybın ardından, merhum Gültekin'in hatırasını yaşatmak ve kederli ailesine destek olmak amacıyla İstanbul'da resmi bir taziye programı organize edildi.\n\nDüzenlenen bu taziye programı, Marmara Üniversitesi İlahiyat Fakültesi Camii Fuaye Alanı'nda gerçekleştirildi. Yoğun bir katılımın gözlemlendiği programa, yerel yönetim temsilcileri, mesai arkadaşları, ailesi, yakınları ve çok sayıda vatandaş katılım sağladı. Gerçekleştirilen taziye buluşmasında, merhumun kederli ailesine başsağlığı dilekleri iletilirken, Gültekin'in kamu hizmetindeki çalışmaları ve geride bıraktığı anılar yâd edildi. Katılımcılar, Üsküdar'a ve yerel yönetim camiasına hizmet etmiş olan Dündar Ziya Gültekin'in vefatından duydukları derin üzüntüyü dile getirdi.\n\nEdinilen bilgilere göre, taziye kabullerinin ardından merhum Dündar Ziya Gültekin için cenaze töreni icra edilecek. Törenin detaylarına ilişkin yapılan açıklamada, Gültekin'in naaşının cuma namazına müteakip kılınacak cenaze namazının ardından Büyük Çamlıca Camii'nden kaldırılacağı bildirildi. Cuma namazı sonrasında düzenlenecek bu son veda törenine de geniş bir katılımın olması bekleniyor.\n\nOlay, Türkiye Belediyeler Birliği'ndeki başkan vekilliği seçim süreçleri kapsamında Ankara'ya doğru seyahat etmekte olan Dündar Ziya Gültekin'in, Anadolu Otoyolu'nda geçirdiği kaza ile gündeme gelmişti. Yerel yönetim camiasını derin bir yasa boğan bu beklenmedik ve ani vefat, hem Üsküdar Belediyesi'nde hem de ülke genelindeki yerel yönetim platformlarında büyük bir üzüntüyle karşılandı. Gültekin'in görev süresi boyunca yürüttüğü çalışmalar, mesai arkadaşları ve ilçe halkı tarafından minnetle hatırlanıyor.\n\nBüyük Çamlıca Camii'nde kılınacak cenaze namazının ardından merhumun defnedileceği süreçle ilgili hazırlıklar da tamamlanmak üzere. Cuma namazı vaktinde cami avlusunda toplanacak olan siyasetçiler, bürokratlar, belediye çalışanları ve vatandaşlar, Gültekin'e son görevlerini yerine getirmek üzere bir araya gelecekler. Geride bıraktığı hizmetler ve hatıralarla anılacak olan Dündar Ziya Gültekin'in cenaze töreni, merhumun anısına yaraşır bir şekilde gerçekleştirilecek.",
-      "highlights": [
-        "Dündar Ziya Gültekin için Marmara Üniversitesi İlahiyat Fakültesi'nde taziye programı düzenlendi.",
-        "Cenazenin cuma namazını müteakip Büyük Çamlıca Camii'nden kaldırılacağı açıklandı.",
-        "Gültekin, Ankara'ya seçim için gittiği sırada Anadolu Otoyolu'nda kaza geçirmіşti."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/uskudar-belediye-baskanvekili-dundar-ziya-gultekin-son-yolculuguna-ugurlanacak-43343486",
-      "publishedAt": "2026-10-16T04:31:46.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
