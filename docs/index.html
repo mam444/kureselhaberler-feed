@@ -3,6 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Google AdSense Auto ads; site approval and Auto ads activation are required. -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3678638188245344" crossorigin="anonymous"></script>
 <title>Küresel Haberler</title>
 <meta name="description" content="Yapay zeka ile özgün cümlelerle yeniden yazılmış, bağımsız stok fotoğraflarla görselleştirilmiş güncel haberler.">
 <meta property="og:type" content="website">
@@ -828,13 +830,6 @@
       <div class="live-show-badge"><span class="msr" style="font-size:14px">podcasts</span>Podcast</div>
     </div>
   </nav>
-  <div class="billboard-banner">
-    <div class="billboard-inner">
-      <span class="billboard-eyebrow">Sponsorlu</span>
-      <div class="billboard-shimmer"></div>
-      <span class="billboard-label">Reklam alanı</span>
-    </div>
-  </div>
 </header>
 
 <div id="breadcrumbWrap"></div>
@@ -943,14 +938,6 @@ function cardImage(article, cls) {
 // Bölüm arası yatay reklam bandı — akışın kesintisiz kalması için artık
 // haber kartlarının arasına DEĞİL, her AD_EVERY_N haberlik bir bloktan
 // sonra tam genişlikte, ince bir bant olarak konur (bkz. feedSectionsHtml).
-function feedBannerHtml() {
-  return `<div class="feed-banner">
-    <span class="feed-banner-eyebrow">Sponsorlu</span>
-    <div class="feed-banner-shimmer"></div>
-    <span class="feed-banner-label">Reklam alanı</span>
-  </div>`;
-}
-
 // Kategoriye göre yumuşak/pastel rozet rengi — eşlemesi olmayan kategoriler
 // (Dünya, Son Dakika vb.) nötr bir gri-mavi ile gösterilir.
 const CATEGORY_COLORS = {
@@ -973,17 +960,6 @@ function toggleBookmark(id) {
   if (idx >= 0) list.splice(idx, 1); else list.push(id);
   localStorage.setItem('kh_bookmarks', JSON.stringify(list));
   return list.includes(id);
-}
-
-function sidebarAdHtml() {
-  return `<div class="sidebar-ad">
-    <div class="ad-shimmer"></div>
-    <div class="sidebar-ad-content">
-      <span class="msr">ads_click</span>
-      <span class="ad-eyebrow">Reklam</span>
-      <span class="ad-label">300 × 600 Premium Alan</span>
-    </div>
-  </div>`;
 }
 
 function cardHtml(a) {
@@ -1017,7 +993,6 @@ function feedSectionsHtml(items) {
   for (let i = 0; i < items.length; i += AD_EVERY_N) {
     const chunk = items.slice(i, i + AD_EVERY_N);
     html += `<div class="grid">${chunk.map(cardHtml).join('')}</div>`;
-    if (i + AD_EVERY_N < items.length) html += feedBannerHtml();
   }
   return html;
 }
@@ -1111,7 +1086,6 @@ function renderSidebar(opts) {
     <div class="widget-card" id="trendingWidget">${trendingWidgetHtml()}</div>
     <div class="widget-card" id="weatherWidget">${widgetSkeletonHtml()}</div>
     ${relatedHtml}
-    ${sidebarAdHtml()}
   </aside>`;
 }
 
