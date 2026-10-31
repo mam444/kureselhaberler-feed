@@ -1,7 +1,6 @@
-// Gemini'nin OpenAI-uyumlu endpoint'i — istek/yanıt şekli Groq/OpenAI ile
-// birebir aynı olduğundan (Authorization: Bearer + messages + JSON şeması),
-// önceki groq.mjs'ten yalnızca URL/model/parametre isimleri değişti.
-const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/openai/chat/completions';
+// Use Gemini's native REST endpoint. The OpenAI-compat route expects a Bearer
+// key, but this key is an API key and the native GenerateContent endpoint
+// authenticates it with x-goog-api-key (not Authorization: Bearer).
 // "gemini-3.6-flash"in bu projedeki gerçek ücretsiz kademe kotası günde
 // sadece 20 istek çıktı (Google'ın kendi 429 yanıtında doğrulandı,
 // 2026-08-22) — yaygın "günde 1500" rakamı bu modele uymuyor. "-lite"
@@ -10,6 +9,7 @@ const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/openai/chat
 // geçildi. Kotayla ilgili şüphe varsa https://ai.dev/rate-limit üzerinden
 // (Google hesabı girişiyle) canlı kontrol edilebilir, buradan değil.
 const MODEL = 'gemini-3.5-flash-lite';
+const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
 const SYSTEM_PROMPT = `Sen deneyimli bir haber editörüsün. Sana bir olayın başlığı ve kısa bir özeti
 verilecek. Görevin, bunu gerçek bir haber sitesinde yayınlanacak kalitede, akıcı ve tam bir haber
@@ -79,18 +79,17 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
   const res = await fetch(GEMINI_URL, {
     method: 'POST',
     headers: {
-      Authorization: `Bearer ${apiKey}`,
+      'x-goog-api-key': apiKey.replace(/^Bearer\s+/i, ''),
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      model: MODEL,
-      messages: [
-        { role: 'system', content: SYSTEM_PROMPT },
-        { role: 'user', content: userContent },
-      ],
-      temperature: 0.6,
-      max_tokens: 5000,
-      response_format: { type: 'json_object' },
+      systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
+      contents: [{ role: 'user', parts: [{ text: userContent }] }],
+      generationConfig: {
+        temperature: 0.6,
+        maxOutputTokens: 5000,
+        responseMimeType: 'application/json',
+      },
     }),
     signal: AbortSignal.timeout(45_000),
   });
@@ -111,7 +110,10 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
   }
 
   const data = await res.json();
-  const raw = data?.choices?.[0]?.message?.content;
+  const raw = data?.candidates?.[0]?.content?.parts
+    ?.map((part) => part.text ?? '')
+    .join('')
+    .trim();
   if (!raw) throw new Error('Gemini yanıtı boş döndü');
 
   const parsed = JSON.parse(raw);
@@ -138,18 +140,17 @@ export async function generateHighlights(body, apiKey, retries = 3) {
   const res = await fetch(GEMINI_URL, {
     method: 'POST',
     headers: {
-      Authorization: `Bearer ${apiKey}`,
+      'x-goog-api-key': apiKey.replace(/^Bearer\s+/i, ''),
       'Content-Type': 'application/json',
     },
     body: JSON.stringify({
-      model: MODEL,
-      messages: [
-        { role: 'system', content: HIGHLIGHTS_PROMPT },
-        { role: 'user', content: body },
-      ],
-      temperature: 0.5,
-      max_tokens: 400,
-      response_format: { type: 'json_object' },
+      systemInstruction: { parts: [{ text: HIGHLIGHTS_PROMPT }] },
+      contents: [{ role: 'user', parts: [{ text: body }] }],
+      generationConfig: {
+        temperature: 0.5,
+        maxOutputTokens: 400,
+        responseMimeType: 'application/json',
+      },
     }),
     signal: AbortSignal.timeout(45_000),
   });
@@ -164,7 +165,10 @@ export async function generateHighlights(body, apiKey, retries = 3) {
   if (!res.ok) throw new Error(`Gemini API ${res.status}: ${await res.text()}`);
 
   const data = await res.json();
-  const raw = data?.choices?.[0]?.message?.content;
+  const raw = data?.candidates?.[0]?.content?.parts
+    ?.map((part) => part.text ?? '')
+    .join('')
+    .trim();
   if (!raw) throw new Error('Gemini yanıtı boş döndü');
   const parsed = JSON.parse(raw);
   return Array.isArray(parsed.highlights)
