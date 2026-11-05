@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-05T09:49:49.236Z",
+  "generatedAt": "2026-11-05T17:42:18.152Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/bilim-teknoloji/japonya-ulusal-polis-teskilati-ve-google-cinli-sirketin-arka-kapi-yazilimini-devre-disi-birakti/4113308",
+      "headline": "Japonya Ulusal Polis Teşkilatı ve Google Çin merkezli arka kapı yazılımını etkisiz hale getirdi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1614064548237-096f735f344f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y3liZXIlMjBzZWN1cml0eXxlbnwxfDB8fHwxNzkzOTAwNDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "FlyD",
+        "photographerUrl": "https://unsplash.com/@flyd2069",
+        "unsplashUrl": "https://unsplash.com/photos/padlock-on-laptop-with-light-trails-C5pXRFEjq3w"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Günümüz dünyasında dijital güvenliğin ve siber savunmanın önemi her geçen gün artmaya devam ederken, uluslararası kurumlar ve teknoloji devleri ortak operasyonlarına bir yenisini daha ekledi. Japonya Ulusal Polis Teşkilatı (NPA) ile dünya çapında faaliyet gösteren teknoloji devi Google, son derece kritik bir siber güvenlik operasyonuna imza attı. Yapılan resmi açıklamada, Çin merkezli Videostrong şirketine ait olan ve milyonlarca cihazı hedef alan zararlı yazılımın başarıyla devre dışı bırakıldığı duyuruldu.\n\nSöz konusu operasyonun odak noktasını, dünya genelinde yaygın olarak kullanılan ve internet bağlantısına sahip olan elektronik aygıtlar oluşturdu. Çin merkezli Videostrong firması tarafından geliştirilen ve sistemlere sızarak arka kapı oluşturan bu yazılımın, dünya çapında 1 milyondan fazla internet bağlantılı cihazı proxy sunucusuna dönüştürdüğü tespit edildi. Yetkililer, siber saldırganların bu yöntemle masum kullanıcıların ağ kaynaklarını ele geçirdiğini ve bu cihazları kendi kötü amaçlı trafikleri için birer aracı konumuna getirdiğini belirtti.\n\nSiber güvenlik dünyasında büyük yankı uyandıran bu gelişme, internet altyapısının ne denli büyük risklerle karşı karşıya kalabileceğini bir kez daha gözler önüne serdi. Çinli şirketin geliştirdiği yazılımın cihazlarda bir arka kapı oluşturması, kullanıcıların bilgisi ve rızası dışında sistemlerinin dışarıdan yönetilmesine olanak tanıyordu. Bu durum, hem bireysel kullanıcıların veri güvenliğini tehdit ediyor hem de geniş çaplı ağlarda güvenlik açıklarına zemin hazırlıyordu. Japonya Ulusal Polis Teşkilatı ve Google, bu tehdidi ortadan kaldırmak için uzun süredir yürütülen teknik çalışmaların sonucunda somut bir adım attı.\n\nGerçekleştirilen ortak müdahale sayesinde, Videostrong şirketinin bu zararlı altyapısı işlevsiz hale getirildi. Böylece milyonlarca cihazın proxy sunucusu olarak kullanılmasının önüne geçilerek olası yeni siber tehditlerin ve veri sızıntılarının da engellendiği ifade edildi. Uzmanlar, internete bağlı akıllı cihazların ve yönlendiricilerin güvenliğinin ne kadar kritik olduğuna dikkat çekerek, bu tür arka kapı yazılımlarının küresel ölçekte koordineli operasyonlarla durdurulabileceğini vurguluyor.\n\nJaponya Ulusal Polis Teşkilatı ve Google yetkilileri, benzer siber tehditlere karşı küresel düzeyde iş birliğinin süreceğini belirtti. İnternet kullanıcılarının ve kurumların bu tür zararlı yazılımlardan korunabilmesi için yazılım güncellemelerine ve ağ güvenliği önlemlerine azami dikkat göstermesi gerektiği bir kez daha hatırlatıldı. Yapılan bu ortak operasyon, siber uzaydaki tehditlerle mücadelede uluslararası ve sektörel ortaklıkların ne denli hayati bir rol oynadığını açıkça kanıtladı.",
+      "highlights": [
+        "Japonya Ulusal Polis Teşkilatı ve Google ortak bir siber operasyon yürüttü.",
+        "Çin merkezli Videostrong'un yazılımı 1 milyondan fazla cihazı hedef almıştı.",
+        "Arka kapı oluşturan zararlı yazılım tamamen devre dışı bırakıldı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/bilim-teknoloji/japonya-ulusal-polis-teskilati-ve-google-cinli-sirketin-arka-kapi-yazilimini-devre-disi-birakti/4113308",
+      "publishedAt": "2026-11-05T17:32:07.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "headline": "Paraguay devlet başkanı Santiago Peña banka çöküşünün ardından istifa etti",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1760872645826-ff7a32cd59bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cGFybGlhbWVudCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTM5MDA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zoshua Colah",
+        "photographerUrl": "https://unsplash.com/@zoshuacolah",
+        "unsplashUrl": "https://unsplash.com/photos/grand-building-with-dome-under-a-cloudy-sky-nrvdq0b1Trk"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Güney Amerika ülkesi Paraguay'da siyasi arenayı sarsan kritik bir gelişme yaşandı. Ülkenin devlet başkanı Santiago Peña, yaşanan bir banka çöküşünün ardından makamından ayrıldığını duyurdu. Bu hamle, ülkedeki finansal sistemde büyük yankı uyandıran çöküş olayının hemen sonrasında geldi.\n\nSöz konusu finansal krizin derinleşmesiyle birlikte, siyasi baskılar da en üst seviyeye ulaştı. Ulusal meclisin alt kanadı, devlet başkanı hakkında bir azil davası açılması yönünde oy kullandı. Meclisten çıkan bu kararın ardından, siyasi istikrar ve yönetim süreci tartışılmaya başlandı. Yaşanan gelişmeler, hem ekonomik hem de politik açıdan ülkede benzeri görülmemiş bir döneme işaret etti.\n\nSantiago Peña'nın istifasına giden süreç, son dönemde peş peşe gelen ekonomik sarsıntılarla hız kazandı. Banka çöküşü olarak kayıtlara geçen olay, kamuoyunda geniş yankı buldu ve yöneticilere yönelik eleştirileri artırdı. Alt meclisin azil sürecini başlatma kararı alması, siyasi dengeleri altüst eden son halka oldu. Bu kararın ardından gelen istifa kararı, Paraguay siyasetinde yeni bir belirsizlik dönemini başlattı.\n\nUluslararası gözlemciler ve yerel aktörler, banka çöküşünün arka planını ve bunun ekonomi üzerindeki etkilerini yakından takip ediyor. Finans kurumlarının istikrarı ve yönetim mekanizmalarının işleyişi, bu süreçte en çok tartışılan konular arasında yer aldı. Siyasi krizin ülkenin genel iktisadi yapısına ve vatandaşların günlük yaşamına nasıl yansıyacağı önümüzdeki günlerin en önemli gündem maddesini oluşturuyor.\n\nParaguay'daki bu ani yönetim değişikliği, hem iç politikada hem de dış ilişkilerde önemli yansımalara aday görünüyor. Azil sürecinin önünün açılması ve akabinde gelen istifa, ülkedeki anayasal süreçlerin hızla işletilmesine neden oldu. Kurumların bu krizden nasıl çıkacağı ve bundan sonraki siyasi adımların ne olacağı, halk ve siyaset bilimciler tarafından dikkatle izleniyor.",
+      "highlights": [
+        "Paraguay Devlet Başkanı Santiago Peña görevinden istifa etti.",
+        "İstifa kararı, ülkede yaşanan bir banka çöküşünün ardından geldi.",
+        "Alt meclis, Peña hakkında azil davası açılması yönünde oy kullanmıştı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-05T17:14:41.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
       "headline": "Dublin-Roma seferini yapan Aer Lingus uçağı bomba tehdidi nedeniyle askerî üsse yönlendirildi",
@@ -6851,52 +6897,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/manisada-aku-uretimi-yapan-fabrikada-yangin-ekipler-sevk-edildi-4866800",
       "publishedAt": "2026-10-23T18:54:42.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "headline": "Trump, Alaska Senato yarışı sonucunun tescilini engellemek amacıyla açılan davayı sahiplendi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1604065985083-86231f74c233?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dm90aW5nJTIwYmFsbG90fGVufDF8MHx8fDE3OTI3ODI2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Glen Carrie",
-        "photographerUrl": "https://unsplash.com/@glencarrie",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-black-letter-b-9xp4F57ATzs"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "ABD siyaset sahnesinde ara seçimlerin yaklaşmasıyla birlikte tartışmalar hız kesmeden devam ederken, eski ABD Başkanı Donald Trump Alaska eyaletindeki Senato yarışının tescil edilmesini durdurmaya yönelik açılan hukuki süreci bizzat kendisinin yönlendirdiğini açıkça ifade etti. Kamuoyuna yansıyan bu son gelişme, yaklaşan kritik oylama öncesinde eyaletteki siyasi atmosferin daha da gerilmesine yol açtı. Medyada geniş yankı uyandıran dava sürecinin arka planında, oy pusulalarında aynı adı taşıyan iki farklı Dan Sullivan adayının yer almasının seçmenler arasında ciddi bir kafa karışıklığı yaratma ihtimali bulunuyor.\n\nSöz konusu ön nitelikli dava dilekçesinde, pusulalardaki bu isim benzerliğinin seçmen iradesini olumsuz etkileyebileceği ve nihayetinde yarışın sonucunu Demokrat aday Mary Peltola'nın lehine değiştirebileceği yönündeki iddialara yer veriliyor. Eyaletteki dengeleri değiştirebilecek potansiyele sahip olduğu belirtilen bu durum, yarışın tarafları arasında hukuk mücadelesinin fitilini ateşledi. Donald Trump ise konuya dair yaptığı açıklamada, hukuki adımı bizzat kendisinin teşvik ettiğini belirterek \"Bunu yapmalarını söyleyen kişi benim\" ifadelerini kullandı ve sürecin arkasındaki iradeyi açıkça sahiplendi.\n\nÜlke genelinde Kongre'nin kontrolünü belirleyecek olan ara seçimlere iki haftadan kısa bir süre kala yaşanan bu gelişmeler, siyasi gözlemciler tarafından büyük bir dikkatle takip ediliyor. Donald Trump'ın başkanlık döneminin kalan son iki yılı açısından da hayati önem taşıyan bu seçimler, eyalet bazındaki çekişmeli yarışlarla şekilleniyor. Alaska'daki Senato mücadelesine etki edebilecek bu hukuki hamle, eyaletteki seçmenlerin sandık başına giderken hangi dinamiklerle karşı karşıya kalacağını bir kez daha gözler önüne seriyor.\n\nSeçim sürecinin son düzlüğüne girilirken, uzmanlar ve siyasi analistler bu tür hukuki itirazların oylama sonuçları üzerindeki potansiyel etkilerini tartışmayı sürdürüyor. Demokrat aday Mary Peltola'nın durumunu yakından ilgilendirdiği öne sürülen dava, hem eyalet yerelinde hem de ulusal düzeyde kampanya stratejilerinin yeniden gözden geçirilmesine neden oluyor. Oy pusulalarındaki benzerlik krizinin mahkeme salonlarında nasıl bir karşılık bulacağı ve Alaska'daki Senato yarışının tescil sürecini nasıl etkileyeceği önümüzdeki günlerde netleşecek.\n\nABD'nin gelecekteki yasama organı dağılımını belirleyecek olan bu kritik oylamaya günler kala, siyasi aktörlerin hamleleri hız kazandı. Trump'ın öncülük ettiğini belirttiği Alaska'daki dava girişimi de bu dönemin en çok konuşulan başlıklarından biri haline geldi. Seçmenlerin sandıkta yaşayabileceği olası belirsizliklerin önüne geçilmesi veya bu durumun seçim sonuçlarına yansıtılmaması için yürütülen hukuki ve siyasi çabalar, ara seçimlerin genel seyrini doğrudan etkileyen unsurlar arasında yer almaya devam ediyor.",
-      "highlights": [
-        "Trump, Alaska'daki Senato yarışı sonucunun tescilini durduran davayı kendisinin başlattığını belirtti.",
-        "Davada, pusuladaki iki Dan Sullivan'ın seçmende karışıklık yaratabileceği iddia ediliyor.",
-        "Bu durumun Demokrat aday Mary Peltola lehine sonuç doğurabileceği savunuluyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/live/2026/oct/23/trump-florida-midterms-ramaswamy-latest-updates",
-      "publishedAt": "2026-10-23T18:51:52.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/video-istanbulda-trafikte-ilginc-anlar-kamyonun-iki-lastigi-pes-pese-yerinden-cikti-1747689",
-      "headline": "İstanbul'da seyir halindeki kamyonun lastikleri yerinden fırladı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1745956983820-6e960f7e8472?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dHJ1Y2slMjBvbiUyMHJvYWR8ZW58MXwwfHx8MTc5Mjc4MjY2OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vitalii Onyshchuk",
-        "photographerUrl": "https://unsplash.com/@true_zuzu",
-        "unsplashUrl": "https://unsplash.com/photos/trucks-drive-on-a-highway-at-sunset-qms-kprAgJM"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Türkiye'nin en kalabalık kenti ve uluslararası ticaretin merkezlerinden biri olan İstanbul'da, trafikte şaşkınlık yaratan ve endişe uyandıran anlar yaşandı. Günlük yaşamın ve ulaşımın en yoğun olduğu anlarda kaydedilen olay, mega kentin karayollarındaki hareketliliğin zaman zaman ne kadar riskli durumlar barındırabileceğini bir kez daha gözler önüne serdi.\n\nEdinilen bilgilere göre olay, megakentin işlek arterlerinden birinde seyir halinde olan bir kamyonun karıştığı trafik anlarıyla meydana geldi. Yolda ilerleyen ağır tonajlı ticari aracın arka kısmındaki tekerleklerden biri henüz belirlenemeyen bir nedenle aniden yerinden çıktı. Sürücünün aracı kontrol etmeye çalıştığı sırada, hemen ardından ikinci bir lastiğin de peş peşe yerinden kopması şoföre ve çevredeki diğer sürücülere zor anlar yaşattı.\n\nKilometrelerce hızla akan trafikte gerçekleşen bu olay, arkadan gelen araçların sürücülerinin dikkatli manevraları sayesinde olası bir facianın eşiğinden dönülmesini sağladı. Kamyonun kopan lastiklerinin yolda kontrolsüz bir şekilde yuvarlandığı ve diğer taşıtların arasından geçtiği anlar, trafikteki tehlikenin boyutunu gözler önüne serdi.\n\nYaşanan bu olağan dışı ve tehlikeli anlar, aynı güzergahta seyreden bir başka aracın içerisindeki vatandaşlar tarafından saniye saniye kayıt altına alındı. Görgü tanığı olan vatandaşların cep telefonu kamerasıyla çektiği görüntüler, ağır vasıta bakım ve kontrollerinin trafikteki hayati önemini bir kez daha hatırlattı.\n\nSosyal medyada ve haber bültenlerinde yer bulmasının ardından geniş yankı uyandıran görüntüler, İstanbul trafiğindeki güvenlik tartışmalarını da beraberinde getirdi. Uzmanlar, özellikle ticari ve yük taşıyan araçların periyodik bakımlarının aksatılmasının toplu taşıma ve bireysel sürüş güvenliğini doğrudan tehdit ettiğine dikkat çekiyor.\n\nOlayın ardından kamyon sürücüsünün aracı güvenli bir noktaya çekerek durumu kontrol altına aldığı ve yolda oluşabilecek daha büyük kazaların önüne geçildiği öğrenildi. Trafik denetimlerinin ve araç bakım standartlarının ne denli mühim olduğunu hatırlatan bu olay, İstanbullu sürücünün hafızasında ilginç bir anı olarak kaldı.",
-      "highlights": [
-        "İstanbul'da ilerleyen bir kamyonun iki lastiği art arda yerinden çıktı.",
-        "Yaşanan tehlikeli anlar bir vatandaşın cep telefonu kamerasına yansıdı.",
-        "Olayda şans eseri olası bir kaza ve yaralanma yaşanmadı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/video-istanbulda-trafikte-ilginc-anlar-kamyonun-iki-lastigi-pes-pese-yerinden-cikti-1747689",
-      "publishedAt": "2026-10-23T18:44:10.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
