@@ -5,6 +5,7 @@ import { fetchAllSources } from './fetch-rss.mjs';
 import { rewriteArticle } from './gemini.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
+import { sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
@@ -21,6 +22,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const ONESIGNAL_APP_ID = process.env.ONESIGNAL_APP_ID;
 const ONESIGNAL_REST_API_KEY = process.env.ONESIGNAL_REST_API_KEY;
+const FIREBASE_SERVICE_ACCOUNT_JSON = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
 
 function timeAgoTrSnapshot(iso) {
   if (!iso) return 'şimdi';
@@ -158,10 +160,19 @@ async function main() {
     const mostRecent = rewritten.reduce((best, a) =>
       new Date(a.publishedAt ?? 0) > new Date(best.publishedAt ?? 0) ? a : best,
     );
-    await sendNewArticleNotification(mostRecent, {
-      appId: ONESIGNAL_APP_ID,
-      restApiKey: ONESIGNAL_REST_API_KEY,
-    });
+    const sends = await Promise.allSettled([
+      sendAndroidPush(mostRecent, FIREBASE_SERVICE_ACCOUNT_JSON),
+      sendNewArticleNotification(mostRecent, {
+        appId: ONESIGNAL_APP_ID,
+        restApiKey: ONESIGNAL_REST_API_KEY,
+        includeAndroid: !FIREBASE_SERVICE_ACCOUNT_JSON,
+      }),
+    ]);
+    for (const result of sends) {
+      if (result.status === 'rejected') {
+        console.warn('[push] bildirim sağlayıcısı hatası:', result.reason?.message ?? result.reason);
+      }
+    }
   }
 }
 

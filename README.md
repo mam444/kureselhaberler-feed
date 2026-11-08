@@ -13,7 +13,7 @@ bir çalıştırır.
    - önceki `docs/haberler.json`'da olmayan (en fazla 10) yeni haberi Gemini ile yeniden yazar,
    - her biri için Unsplash'tan konuya uygun bir fotoğraf bulur,
    - sonucu eskisiyle birleştirip `docs/haberler.json`'a yazar (en fazla 300 haber tutulur),
-   - gerçekten yeni haber varsa OneSignal ile bir push bildirimi gönderir.
+   - gerçekten yeni haber varsa Android'e FCM üzerinden, web/iOS'a OneSignal üzerinden push gönderir.
 3. Değişiklik varsa Action, `docs/haberler.json`'u commit'leyip push eder.
 4. GitHub Pages (`Settings → Pages → Deploy from branch → main /docs`), bu dosyayı şu adreste
    yayınlar: `https://<kullanıcı-adı>.github.io/kureselhaberler-feed/haberler.json`
@@ -25,7 +25,8 @@ bir çalıştırır.
 3. `Settings → Secrets and variables → Actions` içine şu secret'ları ekleyin:
    - `GEMINI_API_KEY` — https://aistudio.google.com/apikey
    - `UNSPLASH_ACCESS_KEY` — https://unsplash.com/oauth/applications ("New Application" → Access Key)
-   - `ONESIGNAL_APP_ID`, `ONESIGNAL_REST_API_KEY` — https://onesignal.com (yeni app → Settings → Keys & IDs)
+   - `ONESIGNAL_APP_ID`, `ONESIGNAL_REST_API_KEY` — https://onesignal.com (web/iOS push için; Settings → Keys & IDs)
+   - `FIREBASE_SERVICE_ACCOUNT_JSON` — Firebase Console / Google Cloud'dan `kuresel-haberler` projesi için oluşturulan hizmet hesabı JSON'u. Yalnızca Actions secret olarak saklayın; dosyaya veya repoya eklemeyin. Hizmet hesabında FCM mesaj gönderme yetkisi ve projede Firebase Cloud Messaging API etkin olmalıdır.
 4. `Actions` sekmesinden `Generate feed` workflow'unu `Run workflow` ile bir kez elle tetikleyip
    loglardan ve oluşan `docs/haberler.json`'dan kontrol edin.
 

@@ -1,7 +1,7 @@
 const NOTIFICATIONS_URL = 'https://onesignal.com/api/v1/notifications';
 
 /** Yeni yayınlanan bir haber için tüm abonelere tek bir push bildirimi gönderir. */
-export async function sendNewArticleNotification(article, { appId, restApiKey }) {
+export async function sendNewArticleNotification(article, { appId, restApiKey, includeAndroid = true }) {
   if (!appId || !restApiKey) {
     console.log('[onesignal] ONESIGNAL_APP_ID / ONESIGNAL_REST_API_KEY yok, bildirim atlanıyor');
     return;
@@ -16,6 +16,11 @@ export async function sendNewArticleNotification(article, { appId, restApiKey })
     body: JSON.stringify({
       app_id: appId,
       included_segments: ['Subscribed Users'],
+      // Preserve existing Android delivery until FCM credentials are set.
+      // After setup, Android is handled directly by Firebase Cloud Messaging.
+      isAndroid: includeAndroid,
+      isIos: true,
+      isAnyWeb: true,
       headings: { tr: article.source, en: article.source },
       contents: { tr: article.headline, en: article.headline },
       url: article.externalUrl ?? undefined,
