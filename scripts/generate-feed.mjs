@@ -22,7 +22,8 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const ONESIGNAL_APP_ID = process.env.ONESIGNAL_APP_ID;
 const ONESIGNAL_REST_API_KEY = process.env.ONESIGNAL_REST_API_KEY;
-const FIREBASE_SERVICE_ACCOUNT_JSON = process.env.FIREBASE_SERVICE_ACCOUNT_JSON;
+const FCM_ACCESS_TOKEN = process.env.FCM_ACCESS_TOKEN;
+const FCM_PROJECT_ID = process.env.FCM_PROJECT_ID;
 
 function timeAgoTrSnapshot(iso) {
   if (!iso) return 'şimdi';
@@ -161,11 +162,11 @@ async function main() {
       new Date(a.publishedAt ?? 0) > new Date(best.publishedAt ?? 0) ? a : best,
     );
     const sends = await Promise.allSettled([
-      sendAndroidPush(mostRecent, FIREBASE_SERVICE_ACCOUNT_JSON),
+      sendAndroidPush(mostRecent, FCM_ACCESS_TOKEN, FCM_PROJECT_ID),
       sendNewArticleNotification(mostRecent, {
         appId: ONESIGNAL_APP_ID,
         restApiKey: ONESIGNAL_REST_API_KEY,
-        includeAndroid: !FIREBASE_SERVICE_ACCOUNT_JSON,
+        includeAndroid: !FCM_ACCESS_TOKEN || !FCM_PROJECT_ID,
       }),
     ]);
     for (const result of sends) {

@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  id-token: write
 
 concurrency:
   group: generate-feed
@@ -22,6 +23,15 @@ jobs:
         with:
           node-version: 22
 
+      - id: auth
+        uses: google-github-actions/auth@v3
+        with:
+          project_id: kuresel-haberler
+          workload_identity_provider: projects/529641647663/locations/global/workloadIdentityPools/github-actions/providers/github-actions
+          service_account: kuresel-feed-fcm-sender@kuresel-haberler.iam.gserviceaccount.com
+          token_format: access_token
+          access_token_scopes: https://www.googleapis.com/auth/firebase.messaging
+
       - run: npm ci
 
       - run: npm run generate
@@ -30,7 +40,8 @@ jobs:
           UNSPLASH_ACCESS_KEY: ${{ secrets.UNSPLASH_ACCESS_KEY }}
           ONESIGNAL_APP_ID: ${{ secrets.ONESIGNAL_APP_ID }}
           ONESIGNAL_REST_API_KEY: ${{ secrets.ONESIGNAL_REST_API_KEY }}
-          FIREBASE_SERVICE_ACCOUNT_JSON: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_JSON }}
+          FCM_ACCESS_TOKEN: ${{ steps.auth.outputs.access_token }}
+          FCM_PROJECT_ID: kuresel-haberler
 
       - run: npm run markets
 
