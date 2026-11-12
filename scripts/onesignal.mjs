@@ -42,7 +42,15 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
 
   const body = await res.json();
   if (!res.ok || body.errors) {
-    console.warn(`[onesignal] bildirim gönderilemedi (${res.status}): ${JSON.stringify(body)}`);
+    const errors = Array.isArray(body.errors) ? body.errors : [];
+    const noSubscribers = errors.some((error) =>
+      /all included players are not subscribed/i.test(String(error)),
+    );
+    if (res.ok && noSubscribers) {
+      console.log('[onesignal] aktif abone yok; OneSignal bildirimi atlandı (Android bildirimleri FCM üzerinden gönderilir)');
+    } else {
+      console.warn(`[onesignal] bildirim gönderilemedi (${res.status}): ${JSON.stringify(body)}`);
+    }
   } else {
     console.log(`[onesignal] bildirim gönderildi: ${article.headline}`);
   }
