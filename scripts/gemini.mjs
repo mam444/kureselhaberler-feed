@@ -67,6 +67,68 @@ Sadece şu JSON şemasında cevap ver, başka hiçbir şey yazma:
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
+// Gemini occasionally returns rate limits and temporary model-capacity errors.
+// Retry those short-lived failures so a fresh story is not lost for a full feed cycle.
+const RETRYABLE_STATUS = new Set([429, 500, 502, 503, 504]);
+
+function retryDelayMs(response, errorText, attempt) {
+  const retryAfter = response.headers.get('retry-after');
+  if (retryAfter) {
+    const seconds = Number(retryAfter);
+    const dateDelay = Date.parse(retryAfter) - Date.now();
+    const parsed = Number.isFinite(seconds) ? seconds * 1000 : dateDelay;
+    if (Number.isFinite(parsed) && parsed > 0) return Math.min(parsed, 60_000);
+  }
+
+  try {
+    const payload = JSON.parse(errorText);
+    const retryInfo = payload?.error?.details?.find?.((detail) =>
+      String(detail['@type'] ?? '').endsWith('.RetryInfo'),
+    );
+    const seconds = retryInfo?.retryDelay ? Number.parseFloat(retryInfo.retryDelay) : NaN;
+    if (Number.isFinite(seconds) && seconds > 0) return Math.min(seconds * 1000, 60_000);
+  } catch {
+    // Fall back to bounded exponential backoff for plain-text API errors.
+  }
+
+  const match = /retry.{0,20}?([\d.]+)s/i.exec(errorText);
+  if (match) return Math.min(Math.ceil(Number.parseFloat(match[1]) * 1000) + 300, 60_000);
+  return Math.min(1500 * (2 ** attempt), 12_000) + Math.floor(Math.random() * 500);
+}
+
+async function generateContent(payload, apiKey, retries) {
+  for (let attempt = 0; ; attempt += 1) {
+    let response;
+    try {
+      response = await fetch(GEMINI_URL, {
+        method: 'POST',
+        headers: {
+          'x-goog-api-key': apiKey.replace(/^Bearer\s+/i, ''),
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify(payload),
+        signal: AbortSignal.timeout(45_000),
+      });
+    } catch (error) {
+      if (attempt >= retries) throw error;
+      const waitMs = Math.min(1500 * (2 ** attempt), 12_000) + Math.floor(Math.random() * 500);
+      console.warn(`[gemini] geçici bağlantı hatası; ${waitMs}ms sonra yeniden denenecek.`);
+      await sleep(waitMs);
+      continue;
+    }
+
+    if (response.ok) return response;
+    const errorText = await response.text();
+    if (!RETRYABLE_STATUS.has(response.status) || attempt >= retries) {
+      throw new Error(`Gemini API ${response.status}: ${errorText}`);
+    }
+
+    const waitMs = retryDelayMs(response, errorText, attempt);
+    console.warn(`[gemini] API ${response.status}; ${waitMs}ms sonra yeniden denenecek (${retries - attempt} deneme kaldı).`);
+    await sleep(waitMs);
+  }
+}
+
 export async function rewriteArticle({ headline, body, category }, apiKey, retries = 3) {
   const userContent = [
     `Başlık: ${headline}`,
@@ -76,38 +138,15 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
     .filter(Boolean)
     .join('\n');
 
-  const res = await fetch(GEMINI_URL, {
-    method: 'POST',
-    headers: {
-      'x-goog-api-key': apiKey.replace(/^Bearer\s+/i, ''),
-      'Content-Type': 'application/json',
+  const res = await generateContent({
+    systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
+    contents: [{ role: 'user', parts: [{ text: userContent }] }],
+    generationConfig: {
+      temperature: 0.6,
+      maxOutputTokens: 5000,
+      responseMimeType: 'application/json',
     },
-    body: JSON.stringify({
-      systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
-      contents: [{ role: 'user', parts: [{ text: userContent }] }],
-      generationConfig: {
-        temperature: 0.6,
-        maxOutputTokens: 5000,
-        responseMimeType: 'application/json',
-      },
-    }),
-    signal: AbortSignal.timeout(45_000),
-  });
-
-  // Ücretsiz kademenin dakikalık istek/token limitine takılırsa kısa bir
-  // bekleme sonrası yeniden dener.
-  if (res.status === 429 && retries > 0) {
-    const body429 = await res.text();
-    const waitMatch = /retry.{0,20}?([\d.]+)s/i.exec(body429);
-    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 5000;
-    console.warn(`[gemini] rate limit, ${waitMs}ms bekleniyor (${retries} deneme kaldı)...`);
-    await sleep(waitMs);
-    return rewriteArticle({ headline, body, category }, apiKey, retries - 1);
-  }
-
-  if (!res.ok) {
-    throw new Error(`Gemini API ${res.status}: ${await res.text()}`);
-  }
+  }, apiKey, retries);
 
   const data = await res.json();
   const raw = data?.candidates?.[0]?.content?.parts
@@ -137,32 +176,15 @@ olmayan hiçbir bilgi uydurma. Metin çok kısaysa 1-2 öğe de yeterli.
 Sadece şu JSON şemasında cevap ver: {"highlights": ["...", "...", "..."]}`;
 
 export async function generateHighlights(body, apiKey, retries = 3) {
-  const res = await fetch(GEMINI_URL, {
-    method: 'POST',
-    headers: {
-      'x-goog-api-key': apiKey.replace(/^Bearer\s+/i, ''),
-      'Content-Type': 'application/json',
+  const res = await generateContent({
+    systemInstruction: { parts: [{ text: HIGHLIGHTS_PROMPT }] },
+    contents: [{ role: 'user', parts: [{ text: body }] }],
+    generationConfig: {
+      temperature: 0.5,
+      maxOutputTokens: 400,
+      responseMimeType: 'application/json',
     },
-    body: JSON.stringify({
-      systemInstruction: { parts: [{ text: HIGHLIGHTS_PROMPT }] },
-      contents: [{ role: 'user', parts: [{ text: body }] }],
-      generationConfig: {
-        temperature: 0.5,
-        maxOutputTokens: 400,
-        responseMimeType: 'application/json',
-      },
-    }),
-    signal: AbortSignal.timeout(45_000),
-  });
-
-  if (res.status === 429 && retries > 0) {
-    const body429 = await res.text();
-    const waitMatch = /retry.{0,20}?([\d.]+)s/i.exec(body429);
-    const waitMs = waitMatch ? Math.ceil(parseFloat(waitMatch[1]) * 1000) + 300 : 5000;
-    await sleep(waitMs);
-    return generateHighlights(body, apiKey, retries - 1);
-  }
-  if (!res.ok) throw new Error(`Gemini API ${res.status}: ${await res.text()}`);
+  }, apiKey, retries);
 
   const data = await res.json();
   const raw = data?.candidates?.[0]?.content?.parts
