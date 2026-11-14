@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T16:45:35.886Z",
+  "generatedAt": "2026-11-14T18:05:09.816Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/spor/futbol/fransa-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-liginde-son-mac-milliler-a-liginde-nasil-kalir-3493146",
@@ -22,6 +22,98 @@
       "externalUrl": "https://www.cnnturk.com/spor/futbol/fransa-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-uefa-uluslar-liginde-son-mac-milliler-a-liginde-nasil-kalir-3493146",
       "publishedAt": "2026-11-14T19:21:22.000Z",
       "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "headline": "Sotheby's'in 180 Milyon Dolarlık Van Gogh Müzayedesi 'Baskı Altında Satıldı' İddialarıyla Karşı Karşıya",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1762970443904-e982a1f28fd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VmFuJTIwR29naCUyMHBhaW50aW5nfGVufDF8MHx8fDE3OTQ2Nzk1MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "National Gallery of Art",
+        "photographerUrl": "https://unsplash.com/@nationalgallery",
+        "unsplashUrl": "https://unsplash.com/photos/green-field-with-swirling-clouds-under-a-blue-sky-nyhZogmvelI"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Sotheby's, daha önce sanat eserine sahip olan bir ailenin varislerinin 'baskı altında satıldı' iddialarıyla karşılaşan 180 milyon dolarlık Van Gogh müzayedesine ilişkin açıklama yaptı. Müzayede evi, bir çözüme ulaşmaya çalışmak amacıyla ailenin varisleriyle birlikte çalışacağını belirtti.",
+      "highlights": [
+        "Sotheby's'in 180 milyon dolarlık Van Gogh müzayedesi meydan okumayla karşılaştı.",
+        "Eserin 'baskı altında satıldığı' iddia edildi.",
+        "Sotheby's, varislerle birlikte bir çözüm bulmak için çalışacağını açıkladı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T18:00:10.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
+      "headline": "Orta Afrika Cumhuriyeti'nde Artan Maliyetler ve Tutuklamalar Protestolara Yol Açtı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591259622709-bdb033b4be2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cHJvdGVzdHxlbnwxfDB8fHwxNzk0Njc5NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Teemu Paananen",
+        "photographerUrl": "https://unsplash.com/@xteemu",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-city-buildings-rd5uNIUJCF0"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Orta Afrika Cumhuriyeti'nin başkenti Bangui'de yüzlerce kişi sokaklara dökülerek artan akaryakıt fiyatlarını ve tutuklamaları protesto etti.",
+      "highlights": [
+        "Bangui'de yüzlerce kişi sokaklara döküldü",
+        "Artan akaryakıt fiyatları protesto edildi",
+        "Tutuklamalara karşı eylem düzenlendi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
+      "publishedAt": "2026-11-14T17:50:28.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "headline": "ABD'de uçuş sistemi arızasının ardından hava ulaşımı yavaşça toparlanıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1529074963764-98f45c47344b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YWlyJTIwdHJhdmVsfGVufDF8MHx8fDE3OTQ2Nzk1MDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "John McArthur",
+        "photographerUrl": "https://unsplash.com/@snowjam",
+        "unsplashUrl": "https://unsplash.com/photos/air-canada-airline-X_MOr6oa4-k"
+      },
+      "timeAgo": "54 dk önce",
+      "body": "ABD'de ülke genelindeki uçuşların durdurulmasının ardından binlerce uçuş iptal edilirken, yetkililer aksaklıktan eskimiş hava kontrol sistemini sorumlu tuttu. Trump yönetimi, Cuma günü Federal Havacılık İdaresi'nin (FAA) binlerce uçuşu geciktiren veya iptal eden dört saatlik ülke çapındaki durdurma kararının rutin bakım çalışmalarından kaynaklandığını bildirdi.\n\nCumartesi günü düzenlenen bir basın toplantısında ABD Ulaştırma Bakanı Sean Duffy, sorunların bir yüklenicinin uzak bir FAA tesisinde bakır telden fiber optik kabloya \"telekomünikasyon hatlarını değiştirmek\" üzere \"rutin bakım\" yaptığı sırada başladığını ifade etti.",
+      "highlights": [
+        "Binlerce uçuş iptal edildi",
+        "Yetkililer aksaklığın nedenini eskimiş hava kontrol sistemi olarak açıkladı",
+        "ABD Ulaştırma Bakanı Sean Duffy sorunların rutin bakım sırasında başladığını belirtti"
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+      "publishedAt": "2026-11-14T17:11:18.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/c6jeq0vy4vz0o?at_medium=RSS&at_campaign=rss",
+      "headline": "Bir Başkadır'ın ikinci sezonu bize ne anlatıyor?",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1747601531749-0b049513345d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMGRyYW1hJTIwc2VyaWVzfGVufDF8MHx8fDE3OTQ2Nzk1MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "maks_d",
+        "photographerUrl": "https://unsplash.com/@maks_d",
+        "unsplashUrl": "https://unsplash.com/photos/young-woman-smiles-on-a-rooftop-9HB7_ORlg_Q"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Bir Başkadır dizisi, altı yıl aranın ardından dört bölümlük ikinci sezonuyla izleyicilerle buluştu. Yeni sezonda da yapım, Türkiye'nin farklı sosyo-ekonomik sınıflarından gelen karakterleri günlük hayatın akışı içerisinde bir araya getirmeyi sürdürüyor.",
+      "highlights": [
+        "Dizi altı yıl sonra geri döndü",
+        "İkinci sezon dört bölümdür",
+        "Farklı sosyo-ekonomik sınıflardan karakterleri bir araya getiriyor"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/c6jeq0vy4vz0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T16:53:52.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -6806,98 +6898,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/bolu-valiliginden-kar-uyarisi-kalinligi-20-santimetreyi-bulacak-4870396",
       "publishedAt": "2026-11-06T17:40:33.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "headline": "Nijerya'da mahkeme kararı: Muhalefet adayı seçimlerde yarışamayacak",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1774898988393-5c752e4d55e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y291cnRyb29tJTIwanVkZ2V8ZW58MXwwfHx8MTc5Mzk4NjkzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sasun Bughdaryan",
-        "photographerUrl": "https://unsplash.com/@sasun1990",
-        "unsplashUrl": "https://unsplash.com/photos/statue-of-justice-gavel-and-open-book-on-table-YFz39MOmxnQ"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Nijerya yargı sisteminden, yaklaşan seçimler öncesinde siyasi dengeleri sarsacak kritik bir karar çıktı. Alınan son yargı kararı doğrultusunda, muhalefette yer alan ADC partisinin mevcut yönetim kadrosu görevden alındı. Ülke genelinde büyük bir hareketliliğe neden olan bu hukuki gelişme, yaklaşan seçim sürecine sayılı aylar kala yaşanması açısından dikkatleri üzerine çekti.\n\nSiyasi arenada tansiyonu yükselten bu karar, yüksek mahkeme tarafından verildi. Nijerya'daki yüksek mahkemenin attığı bu adım, ADC partisinin liderlik kadrosunun tasfiye edilmesiyle sonuçlandı. Seçim takviminin işlediği ve siyasi partilerin hazırlıklarını hızlandırdığı bir dönemde gelen bu karar, partinin geleceği ve seçim stratejileri üzerinde belirleyici bir etki yaratma potansiyeli taşıyor.\n\nÜlkede sandık başına gitmeye sadece aylar kalmışken ortaya çıkan bu durum, siyasi partiler arasındaki rekabetin hukuki boyutunu da gözler önüne seriyor. Muhalefet kanadında yaşanan bu yönetim krizi, adaylık süreçlerini ve partinin seçim kampanyasını doğrudan etkiliyor. ADC partisinin üst yönetiminin mahkeme kararıyla düşürülmesi, parti içi dengeleri altüst ederken, seçmenler ve siyasi gözlemciler açısından da yeni bir belirsizlik ortamı yarattı.\n\nDemokratik süreçlerin ve seçim güvenliğinin titizlikle takip edildiği Nijerya'da, mahkemelerin siyasi partiler üzerindeki bu tür denetimleri ve kararları yakından izleniyor. Yüksek mahkemenin verdiği bu son hüküm, sadece ADC partisini değil, genel olarak ülkenin seçim atmosferini ve siyasi istikrarını yakından ilgilendiren bir gelişme olarak kayıtlara geçti.\n\nSeçimlerin yaklaşmasıyla birlikte siyasi partilerin hukuki statüleri ve yönetim yapıları bir kez daha ön plana çıkmış durumda. Mahkemenin muhalefet partisinin liderliğini görevden almasının ardından, partinin ve ilgili adayların seçimlerde nasıl bir yol izleyeceği, atacakları yeni adımların ne olacağı merakla bekleniyor. Nijerya kamuoyu, hukuki süreçlerin seçim sonuçlarına ve siyasi tablolara nasıl yansıyacağını yakından takip ediyor.",
-      "highlights": [
-        "Nijerya'da yüksek mahkeme, muhalefet partisi ADC'nin yönetimini görevden uzaklaştırdı.",
-        "Kritik karar, kritik seçimlere sadece aylar kala alındı ve siyasi dengeleri etkiledi.",
-        "Yaşanan yönetim tasfiyesi, muhalefet adayının seçimlerde yarışamayacak duruma gelmesine yol açtı."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-06T17:35:55.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.haberturk.com/ekonomi/penta-nin-cirosu-yuzde-26-yukseldi-3925488",
-      "headline": "Penta Teknoloji'nin cirosu 9 aylık dönemde yüzde 26 arttı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1616386261012-8a328c89d5b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dGVjaG5vbG9neSUyMG9mZmljZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTM5ODY5NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Radowan Nakif Rehan",
-        "photographerUrl": "https://unsplash.com/@radowanrehan",
-        "unsplashUrl": "https://unsplash.com/photos/black-office-rolling-chairs-and-table-79g15d8oo4M"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Teknoloji ve bilişim sektörünün önde gelen oyuncularından biri olan Penta Teknoloji, mali verilerini kamuoyu ve yatırımcılarla paylaştı. Şirket tarafından gerçekleştirilen resmi açıklamalara göre, yılın geride kalan dokuz aylık zaman dilimindeki finansal performans yukarı yönlü bir ivme kaydetti. Günümüzün hızla dijitalleşen dünyasında faaliyet gösteren şirketler için ciro büyüklüğü, operasyonel kapasitenin ve pazardaki konumun anlaşılması açısından büyük bir önem taşımaktadır. Penta Teknoloji de bu bağlamda, geçtiğimiz yılın aynı dönemiyle kıyaslandığında dikkat çekici bir finansal büyüme elde etmeyi başardı.\n\nAçıklanan resmi verilere göre, Penta Teknoloji'nin 2026 yılının 9 aylık dönemindeki toplam cirosu geçen yılın aynı dönemine oranla yüzde 26'lık bir artış kaydetti. Ekonomik dalgalanmaların ve sektör içindeki rekabet koşullarının yoğun olarak yaşandığı bu dönemde yakalanan oran, şirketin ticari faaliyetlerinin istikrarlı bir şekilde sürdüğünü gösteriyor. Ticari hayatın dinamikleri göz önüne alındığında, cirosal artışların şirketlerin tedarik zinciri yönetimi, ürün gamı çeşitliliği ve müşteri portföyünü genişletme stratejileriyle doğrudan ilişkili olduğu bilinmektedir.\n\nGerçekleştirilen bu finansal büyüme neticesinde, Penta Teknoloji'nin 2026 yılının dokuz aylık dönemindeki toplam cirosu 28 milyar TL seviyesine ulaştı. Söz konusu rakam, şirketin mali yapısının büyüklüğünü ve pazar payının hacmini net bir şekilde ortaya koymaktadır. Teknoloji ürünleri dağıtımı ve tedariği alanında uzun süredir faaliyet gösteren şirketler, ekonomik göstergelerini düzenli olarak paylaşarak hissedarlarına ve iş ortaklarına şeffaf bir bilgi akışı sağlamaktadır. Ulaşılan bu 28 milyar TL'lik ciro büyüklüğü, şirketin bu dönemdeki ticari hacminin somut bir göstergesi olarak kayıtlara geçti.\n\nŞirketlerin finansal sonuçlarını değerlendirirken dönemsel kıyaslamalar yapmak, ekonomik sağlığın ve büyüme trendlerinin izlenmesi açısından temel bir yöntemdir. Penta Teknoloji'nin yakaladığı yüzde 26'lık bu oran, bir önceki yılın aynı dönemindeki rakamlarla kıyaslandığında portföyün ve satış hacminin genişlediğini işaret etmektedir. Teknoloji sektöründeki genel talep dengeleri ve pazar koşulları, bu tür finansal sonuçların şekillenmesinde kritik bir rol oynamaktadır. Şirketin 9 aylık bilançosu çerçevesinde netleşen bu veriler, bilişim ve teknoloji sektöründeki ekonomik hareketliliğin de bir yansıması olarak değerlendiriliyor.\n\nSonuç olarak, Penta Teknoloji tarafından duyurulan 2026 yılı 9 aylık finansal sonuçlar, şirketin ciro bazında kaydettiği önemli ilerlemeyi gözler önüne serdi. Yüzde 26 oranındaki ciro artışı ve 28 milyar TL'ye ulaşan toplam ciro, şirketin yılın geride kalan kısmındaki ticari faaliyetlerinin tablosunu oluşturdu. İlgili mali veriler, teknoloji dağıtım sektöründeki güncel ekonomik büyüklükleri takip eden paydaşlar için temel bir referans oluştururken, şirketin önümüzdeki dönemdeki stratejik hamleleri de piyasa tarafından yakından izlenmeye devam edecektir.",
-      "highlights": [
-        "Penta Teknoloji cirosunu 2026 yılının 9 aylık döneminde yüzde 26 artırdı.",
-        "Şirketin toplam cirosu geçen yılın aynı dönemine kıyasla yükseliş kaydetti.",
-        "Penta Teknoloji'nin bu dönemdeki toplam cirosu 28 milyar TL seviyesine ulaştı."
-      ],
-      "externalUrl": "https://www.haberturk.com/ekonomi/penta-nin-cirosu-yuzde-26-yukseldi-3925488",
-      "publishedAt": "2026-11-06T17:35:51.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/italya-basbakani-meloni-siber-saldirilardan-ve-ucaklara-yonelik-bomba-ihbarlarindan-endiseli/4114633",
-      "headline": "İtalya Başbakanı Meloni, siber saldırılar ve bomba ihbarlarına dikkat çekti",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1655558131462-34cf4967883c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8R2lvcmdpYSUyME1lbG9uaXxlbnwxfDB8fHwxNzkzOTg2OTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel Dan",
-        "photographerUrl": "https://unsplash.com/@outsideclick",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-yellow-onions-3r702oFR7p0"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "İtalya Başbakanı Giorgia Meloni, son dönemde Avrupa genelinde yaşanan bazı olayların yakından takip edildiğini ve bu durumun kaygı yarattığını ifade etti. Yapılan değerlendirmelerde, özellikle kritik altyapılara ve ulaşım ağlarına yönelik tehditlerin artış gösterdiği vurgulandı.\n\nSon günlerde Avrupa coğrafyasında artış gösteren gelişmeler arasında gıda soğutma sistemlerini hedef alan siber saldırıların bulunduğu kaydedildi. Bu tür dijital müdahalelerin tedarik zincirleri ve toplumsal yaşam açısından potansiyel riskler barındırdığına dikkat çekildi.\n\nSöz konusu dijital tehditlerin yanı sıra, sivil havacılık sektörünü hedef alan olaylar da gündemdeki yerini koruyor. Avrupa genelinde sivil uçuşlara yönelik gerçekleştirilen asılsız veya ciddi bomba ihbarlarının sıklaşmasının, semnatörleri ve güvenlik birimlerini alarma geçirdiği bildirildi.\n\nBaşbakan Meloni, uluslararası alanda yaşanan bu tür güvenlik açıklarının ve sabotaj girişimlerinin ciddiyetle ele alınması gerektiğini dile getirdi. Güncel olayların hem kamusal güvenlik hem de ekonomik istikrar üzerindeki olası etkileri üzerinde durulurken, ilgili kurumların koordinasyon içinde çalışmasının önemine işaret edildi.\n\nAvrupa genelindeki bu güvenlik sınamaları, ülkelerin dijital altyapı savunmalarını ve havacılık güvenliği prosedürlerini yeniden gözden geçirmesine neden oluyor. Uzmanlar, siber güvenlik ile fiziksel güvenliğin artık birbirinden ayrı düşünülemeyeceğini belirtirken, liderlerin bu konudaki açıklamaları tehdidin boyutunu gözler önüne seriyor.",
-      "highlights": [
-        "Meloni, Avrupa'da artan güvenlik tehditlerinden duyduğu endişeyi dile getirdi.",
-        "Gıda soğutma sistemlerine yönelik siber saldırıların arttığı belirtildi.",
-        "Sivil uçuşlara yönelik bomba ihbarlarının kaygı verici olduğu vurgulandı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/italya-basbakani-meloni-siber-saldirilardan-ve-ucaklara-yonelik-bomba-ihbarlarindan-endiseli/4114633",
-      "publishedAt": "2026-11-06T17:34:59.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
-      "headline": "Gaziosmanpaşa Belediyesi davasında Hakan Bahçetepe'ye ev hapsi kararı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1623008946073-ad1c850ad0dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTM5NjE5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Melody Ayres-Griffiths",
-        "photographerUrl": "https://unsplash.com/@melodyayresgriffiths",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-white-building-with-a-gate-in-front-of-it-gW4y6IPZV2A"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Türkiye genelinde ve yerel yönetimler nezdinde yakından takip edilen hukuki süreçlerde yeni bir aşamaya geçildi. Kamuoyunun ve siyasetin gündeminde geniş yer bulan Gaziosmanpaşa Belediyesi davası kapsamında yargı makamları tarafından önemli bir ara karar verildi. Yargılama sürecinde cezaevinde tutuklu bulunan ve daha önce yürütülen idari ve hukuki tedbirler çerçevesinde görevinden uzaklaştırılan Gaziosmanpaşa Belediye Başkanı Hakan Bahçetepe'nin durumu, üst mahkeme ve ilgili heyet tarafından yeniden ele alındı. Yapılan incelemeler neticesinde, adli kontrol hükümleri uygulanmak suretiyle tahliye edilmesine hükmedildi.\n\nAlınan bu hukuki karar doğrultusunda, bir süredir cezaevinde tutulan Hakan Bahçetepe hakkında tahliye işlemleri başlatıldı. Ancak serbest bırakılma süreci tamamen koşulsuz olmayıp, mahkemenin belirlediği sıkı adli kontrol şartlarını içermektedir. Bu kapsamda, Bahçetepe hakkında cezaevi dışındaki hayatını kısıtlayan ve belirli kurallara uymasını zorunlu kılan ev hapsi tedbiri hayata geçirildi. Hukuk sistemimizde sıkça başvurulan bir adli kontrol tedbiri olan ev hapsi, şüphelinin veya sanığın belirli bir ikamette kalmasını ve dışarı çıkmamasını öngören bir uygulama olarak öne çıkıyor.\n\nYaşanan bu son gelişmeler, yerel siyasette ve özellikle Gaziosmanpaşa ilçesinde büyük bir yankı uyandırdı. Görevden uzaklaştırılmış bir belediye başkanının hukuki statüsündeki bu değişiklik, hem yerel dinamikler hem de davanın tarafları açısından yeni bir dönemin başlangıcı olarak değerlendiriliyor. Yargı sürecinin henüz tamamlanmamış olması ve davanın ilerleyen aşamalarında nasıl bir seyir izleyeceği, hem hukukçular hem de siyaset gözlemcileri tarafından yakından takip edilmektedir. Bahçetepe'nin ev hapsi şartıyla da olsa cezaevinden çıkması, davanın bu aşamadaki en somut hukuki sonucu olarak kayıtlara geçti.\n\nÖnümüzdeki günlerde davanın mahkeme heyeti tarafından nasıl bir takvime bağlanacağı ve duruşmaların hangi tarihlerde görüleceği merakla bekleniyor. Hakan Bahçetepe'nin avukatlarının ve ilgili savcılık makamlarının atacağı yeni hukuki adımlar, sürecin genel seyrini belirleyecek temel unsurlar arasında yer alıyor. Yerel yönetimler alanındaki bu tür davalar, hem idari reform tartışmalarını hem de yargı bağımsızlığı ve denetimi mekanizmalarını Türkiye'nin güncel gündeminde tutmaya devam ediyor.\n\nGaziosmanpaşa Belediyesi'nde yaşanan idari süreçler ve bu süreçlerin hukuki ayakları, kamuoyunun bilgisine şeffaf bir şekilde yansıtılmaktadır. Hakan Bahçetepe hakkındaki ev hapsi kararıyla birlikte, davanın esasına ilişkin yargılamanın tutuksuz olarak devam edeceği netleşmiş oldu. Tarafların savunmaları ve sunulacak yeni deliller çerçevesinde, davanın sonraki duruşmalarında verilecek nihai kararın ne olacağı tüm ilgili çevreler tarafından sabırsızlıkla beklenmektedir.",
-      "highlights": [
-        "Gaziosmanpaşa Belediyesi davasında yargılanan Hakan Bahçetepe tahliye edildi.",
-        "Görevden uzaklaştırılan belediye başkanı için ev hapsi kararı uygulandı.",
-        "Hukuki süreçte davanın görülmesine ev hapsi şartıyla devam edilecek."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/gaziosmanpasa-belediyesi-davasi-baskan-hakan-bahcetepe-tahliye-edildi-1749718",
-      "publishedAt": "2026-11-06T17:29:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
