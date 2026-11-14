@@ -16,6 +16,7 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 // Gemini çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
 const MAX_ALLOWED_SIMILARITY = 0.5;
+const MAX_FUTURE_SKEW_MS = 5 * 60_000;
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -113,12 +114,27 @@ async function main() {
     }
   }
   deduped.sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0));
+  const now = Date.now();
+  const futureArticles = deduped.filter((article) => {
+    const publishedAt = Date.parse(article.publishedAt ?? '');
+    return Number.isFinite(publishedAt) && publishedAt > now + MAX_FUTURE_SKEW_MS;
+  });
+  if (futureArticles.length > 0) {
+    console.warn(`[guard] ${futureArticles.length} haberin yayın zamanı gelecekte; doğrulanana kadar akıştan çıkarıldı.`);
+  }
+  const publishable = deduped.filter((article) => {
+    const publishedAt = Date.parse(article.publishedAt ?? '');
+    return !Number.isFinite(publishedAt) || publishedAt <= now + MAX_FUTURE_SKEW_MS;
+  });
   console.log(`[main] ${deduped.length} benzersiz ham haber bulundu.`);
 
-  const previous = await loadPreviousFeed();
+  const previous = (await loadPreviousFeed()).filter((article) => {
+    const publishedAt = Date.parse(article.publishedAt ?? '');
+    return !Number.isFinite(publishedAt) || publishedAt <= now + MAX_FUTURE_SKEW_MS;
+  });
   const previousIds = new Set(previous.map((a) => a.id));
 
-  const unseen = deduped.filter((a) => !previousIds.has(a.id));
+  const unseen = publishable.filter((a) => !previousIds.has(a.id));
 
   // A single fast-refreshing (or always-recent-pubDate) source can otherwise
   // fill every slot on every run and starve every other outlet out

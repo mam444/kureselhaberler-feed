@@ -24,9 +24,9 @@ DOĞRULUK KURALLARI (uzunluk veya üslup hedeflerinden önce gelir):
    yalnızca mevcut bilgiyi yaz; kısa bir haber özeti uzun ama dayanaksız metinden iyidir.
 3. Başlıkta haberin temel iddiasını değiştirme veya büyütme. Kaynak tümü büyük harfliyse normal
    Türkçe yazımına çevir; yeni bir iddia ekleme.
-4. Body'yi kaynakta bulunan ayrıntı miktarına göre yaz. Kaynak yeterliyse yaklaşık 80-180 kelimelik
-   2-4 kısa paragraf hedefle; kaynak kısaysa daha kısa yaz. Hiçbir asgari kelime/paragraf sayısını
-   doldurmak için tekrar, tahmin veya genel dolgu cümlesi kullanma.
+4. Body'yi kaynakta bulunan ayrıntı miktarına göre yaz: tek paragrafta 1-3 kısa cümle, yaklaşık
+   25-70 kelime. Yalnızca kaynağı kısalt veya çevir; yeni bağlam ve arka plan ekleme. Kaynak
+   kısaysa daha kısa yaz. Uzunluk doldurmak için tekrar, tahmin veya genel dolgu cümlesi kullanma.
 5. İngilizce kaynakları Türkçeye çevirirken yeni bilgi ekleme. Kaynağın dili veya anlamı belirsizse
    belirsizliği koru; boşlukları kendi varsayımınla doldurma.
 6. 1-3 kelimelik, İngilizce, Unsplash'ta aramaya uygun ve haber konusuna gerçekten uyan somut bir
@@ -116,8 +116,8 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
     systemInstruction: { parts: [{ text: SYSTEM_PROMPT }] },
     contents: [{ role: 'user', parts: [{ text: userContent }] }],
     generationConfig: {
-      temperature: 0.6,
-      maxOutputTokens: 5000,
+      temperature: 0.2,
+      maxOutputTokens: 1200,
       responseMimeType: 'application/json',
     },
   }, apiKey, retries);
