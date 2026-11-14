@@ -22,7 +22,9 @@ export async function sendAndroidPush(article, accessToken, projectId) {
           // in the in-app notification center before showing the OS alert.
           data: {
             articleId: String(article.id),
-            source: String(article.source || 'Küresel Haberler'),
+            // The notification is branded as our app. The article ID still
+            // resolves to its original publisher and source link in the reader.
+            source: 'Küresel Haberler',
             headline: String(article.headline || ''),
             ...(article.externalUrl ? { externalUrl: String(article.externalUrl) } : {}),
             ...(imageUrl ? { imageUrl: String(imageUrl) } : {}),
