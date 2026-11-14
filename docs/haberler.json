@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-14T18:07:51.044Z",
+  "generatedAt": "2026-11-14T20:57:48.969Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "headline": "Illinois'deki etanol tesisinde bulunan bomba etkisiz hale getirildi, tahliye emri kaldırıldı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8V29ybGR8ZW58MXwwfHx8MTc5NDY4OTg2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kyle Glenn",
+        "photographerUrl": "https://unsplash.com/@kylejglenn",
+        "unsplashUrl": "https://unsplash.com/photos/desk-globe-on-table-nXt5HtLmlgE"
+      },
+      "timeAgo": "43 dk önce",
+      "body": "Illinois'deki bir etanol tesisinde bulunan bombanın etkisiz hale getirilmesinin ardından Peoria yetkilileri ve FBI inceleme başlattı. Bir mil çapındaki zorunlu tahliye bölgesi cumartesi günü kaldırıldı.",
+      "highlights": [
+        "BioUrja Renewables tesisinde bomba bulundu",
+        "FBI inceleme başlattı",
+        "Tahliye bölgesi cumartesi günü kaldırıldı"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "publishedAt": "2026-11-14T20:14:27.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-mbappe-yaniti-turkiye-macinda-oynayacak-mi-43378649",
+      "headline": "Zinedine Zidane'dan Mbappe Yanıtı: Türkiye Maçında Oynayacak mı?",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1602773230887-4537295a308e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDY4OTg2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Claudio Schwarz",
+        "photographerUrl": "https://unsplash.com/@purzlbaum",
+        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-near-store-during-daytime-iqwHGxtlB4U"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Fransa Milli Takımı Teknik Direktörü Zinedine Zidane, tüm oyuncuların hazır olduğunu belirterek, ne yapmaları gerektiğini bildiklerini ve yarınki hedeflerinin işlerini tamamlayıp üst tura çıkmak olduğunu ifade etti.",
+      "highlights": [
+        "Tüm oyuncularımız hazır",
+        "İşimizi tamamlayıp üst tura çıkmalıyız"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-mbappe-yaniti-turkiye-macinda-oynayacak-mi-43378649",
+      "publishedAt": "2026-11-14T19:07:17.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_medium=RSS&at_campaign=rss",
       "headline": "Sotheby's'in 180 Milyon Dolarlık Van Gogh Müzayedesi 'Baskı Altında Satıldı' İddialarıyla Karşı Karşıya",
@@ -6852,52 +6897,6 @@
       ],
       "externalUrl": "https://www.sabah.com.tr/gundem/2026/11/06/resmi-gazetede-yayimlandi-11-universiteye-rektor-atandi",
       "publishedAt": "2026-11-06T21:23:38.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/dunya/irandan-olasi-nukleer-saldiriya-karsi-iyot-tabletler-dagitiliyor-iddiasina-aciklama-43368981",
-      "headline": "İran'dan olası nükleer saldırıya karşı iyot tablet dağıtıldığı iddialarına resmi yanıt",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1628771065518-0d82f1938462?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWVkaWNhbCUyMHBpbGxzfGVufDF8MHx8fDE3OTQwMDM5Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Towfiqu barbhuiya",
-        "photographerUrl": "https://unsplash.com/@towfiqu999999",
-        "unsplashUrl": "https://unsplash.com/photos/colorful-pills-spilling-from-orange-bottle-w8p9cQDLX7I"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Son dönemde sosyal medyada ve çeşitli haber mecralarında yer alan, ülkenin belirli bölgelerinde olası nükleer saldırı riskine karşı halka iyot tabletleri dağıtıldığına dair iddialar kamuoyunda geniş yankı uyandırmıştı. Özellikle Kazma Dağı çevresinde ikamet eden vatandaşlara yönelik bu yönde bir koruyucu malzeme sevkiyatı yapıldığı söylentileri, bölge halkı arasında endişeye neden olurken, konuya ilişkin yetkili makamlardan net bir açıklama bekleniyordu. Beklenen resmi değerlendirme nihayet ilgili bakanlık sözcülüğü tarafından kamuoyuyla paylaşıldı ve gündemdeki iddialara açıklık getirildi.\n\nOrtaya atılan spekülasyonların ardından konuyla ilgili sürdürülen incelemeler ve değerlendirmeler neticesinde, İran Sağlık Bakanlığı Sözcüsü Hüseyin Kirmanpur tarafından konuya dair bir açıklama yapıldı. Kirmanpur, basına ve sosyal medya platformlarına yansıyan Kazma Dağı çevresinde yaşayan insanlara iyot tabletlerinin dağıtıldığı yönündeki iddiaları doğrular nitelikte herhangi resmi bir beyanatın ya da bilginin bulunmadığını açıkça dile getirdi. Sözcü, bu tür haberlerin gerçeği yansıtmadığına işaret ederek, vatandaşların resmi kanallar dışındaki iddialara itibar etmemesi gerektiğini vurguladı.\n\nNükleer tehlikelere karşı koruyucu önlemler ve halk sağlığı tedbirleri, dünya genelinde olduğu gibi hassasiyetle takip edilen konuların başında gelmektedir. Bu bağlamda, iyot tabletleri gibi stratejik medikal malzemelerin dağıtımı veya stoklanması gibi süreçler, devletlerin sağlık otoritelerinin sıkı denetimi ve şeffaf bilgilendirmesi altında yürütülür. Ancak İran Sağlık Bakanlığı Sözcüsü Hüseyin Kirmanpur'un yaptığı bu son açıklama, Kazma Dağı civarındaki bölgede iddia edilen türden resmi bir dağıtım operasyonunun veya kararının varlığını ne doğruladı ne de bu yönde resmi bir belge sundu.\n\nGünümüzde bilgi kirliliğinin ve asılsız iddiaların hızla yayılabildiği kriz dönemleri, toplumda gereksiz paniğe yol açma potansiyeli taşımaktadır. Kirmanpur'un açıklamaları, özellikle hassas güvenlik ve sağlık konularında ortaya atılan doğrulanmamış bilgilerin asılsız olduğunu gözler önüne serdi. Sağlık Bakanlığı'nın bu konudaki tutumu, spekülasyonların önüne geçilmesi ve kamuoyunun doğru bilgilendirilmesi açısından önem arz ederken, yetkililer halkın sadece resmi makamlarca yapılan duyuruları dikkate alması gerektiğini bir kez daha hatırlatmış oldu.\n\nOlayın merkezindeki Kazma Dağı ve çevresindeki yerleşim yerlerinde yaşayan vatandaşlar için şu aşamada Sağlık Bakanlığı tarafından duyurulan herhangi bir olağanüstü durum veya nükleer tedbir planı bulunmuyor. Sözcü Hüseyin Kirmanpur'un ifadeleri doğrultusunda, basında yer alan iddiaların şu an için resmi bir temele dayanmadığı netlik kazanmış durumda. Hem yerel halk hem de kamuoyu, bundan sonraki süreçte de yalnızca Sağlık Bakanlığı ve ilgili devlet kurumlarının yapacağı resmi açıklamaları takip etmeye devam edecek.",
-      "highlights": [
-        "Kazma Dağı çevresinde iyot tabletleri dağıtıldığı iddiaları gündeme gelmişti.",
-        "İran Sağlık Bakanlığı Sözcüsü Hüseyin Kirmanpur iddiaları doğrulayan açıklama olmadığını belirtti.",
-        "Bakanlık sözcüsü, iddiaları destekleyecek herhangi bir resmi bilginin bulunmadığını ifade etti."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/dunya/irandan-olasi-nukleer-saldiriya-karsi-iyot-tabletler-dagitiliyor-iddiasina-aciklama-43368981",
-      "publishedAt": "2026-11-06T20:46:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075",
-      "headline": "Gaziosmanpaşa Belediyesi davasında karar: Hakan Bahçetepe'ye ev hapsiyle tahliye",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1496361945947-d0250d31222a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTM5NjE5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quilia",
-        "photographerUrl": "https://unsplash.com/@heyquilia",
-        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-SlyYm_CJW8E"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye'nin gündeminde yer alan ve yakından takip edilen Gaziosmanpaşa Belediyesi davası kapsamında önemli bir yargı kararı açıklandı. Yargı sürecinin geldiği son aşamada mahkeme heyeti, dosyayla ilgili ara kararını vererek tutuklu bulunan Hakan Bahçetepe hakkında hüküm tesis etti.\n\nAlınan son dakika bilgilerine göre, Gaziosmanpaşa Belediyesi davası çerçevesinde yargılanmakta olan Hakan Bahçetepe'nin durumu mahkeme tarafından yeniden değerlendirildi. Yapılan incelemeler neticesinde, ilgili ismin tahliyesine karar verildiği bildirildi.\n\nAncak bu tahliye kararı, adli kontrol şartlarını da beraberinde getirdi. Yargı makamları, Hakan Bahçetepe'nin serbest bırakılmasına hükmederken, aynı zamanda hakkında ev hapsi uygulanmasını kararlaştırdı. Böylece Bahçetepe, cezaevinden tahliye edilmesinin ardından ikametinde bulunacak.\n\nKamuoyunun ve ilgili tarafların dikkatle izlediği Gaziosmanpaşa Belediyesi davası, yerel yönetimler ve siyasi çevreler nezdinde geniş yankı uyandırmayı sürdürüyor. Hukuki sürecin ilerleyen aşamalarında davanın seyrine ilişkin yeni gelişmelerin yaşanması beklenirken, tarafların ve avukatların yapacağı hukuki değerlendirmeler de merakla takip ediliyor.\n\nGerçekleşen bu son duruşma ve ardından çıkan ev hapsiyle tahliye kararı, davanın genel takvimi içerisinde kritik bir eşik olarak kaydedildi. Yargı mercilerinin önümüzdeki günlerde dosyaya dair diğer delil ve iddiaları incelemeye devam edeceği, hukuki sürecin usulüne uygun şekilde süreceği öngörülüyor.",
-      "highlights": [
-        "Gaziosmanpaşa Belediyesi davasında mahkeme kararını açıkladı.",
-        "Hakan Bahçetepe hakkında tahliye kararı verildi.",
-        "Bahçetepe'nin ev hapsi şartıyla serbest bırakılması kararlaştırıldı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-gaziosmanpasa-belediyesi-davasinda-karar-hakan-bahcetepeye-ev-hapsiyle-tahliye-karari-3490075",
-      "publishedAt": "2026-11-06T20:14:45.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
