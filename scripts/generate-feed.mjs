@@ -9,11 +9,10 @@ import { sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-// Gemini'nin ücretsiz kademesinde Groq'un aksine sabit bir günlük token
-// duvarı yok (günde 1500 istek + dakikada 1M token) — NTV tarzı uzun
-// makaleler için bu sınırı tekrar rahatça yükseltebiliyoruz.
 const MAX_NEW_PER_RUN = 10;
 const MAX_TOTAL_ARTICLES = 300;
+// Headlines alone do not contain enough evidence for a reliable article.
+const MIN_SOURCE_SUMMARY_CHARS = 100;
 // Gemini çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
 const MAX_ALLOWED_SIMILARITY = 0.5;
@@ -47,8 +46,16 @@ async function loadPreviousFeed() {
 
 async function rewriteAndIllustrate(raw) {
   try {
+    const sourceSummary = String(raw.body ?? '').trim();
+    if (sourceSummary.length < MIN_SOURCE_SUMMARY_CHARS) {
+      console.warn(
+        `[guard] "${raw.headline}" kaynak özeti yetersiz (${sourceSummary.length} karakter); haber uydurmamak için atlandı.`,
+      );
+      return null;
+    }
+
     const rewritten = await rewriteArticle(
-      { headline: raw.headline, body: raw.body, category: raw.category },
+      { headline: raw.headline, body: sourceSummary, category: raw.category },
       GEMINI_API_KEY,
     );
     const sourceText = `${raw.headline} ${raw.body ?? ''}`;
@@ -61,10 +68,12 @@ async function rewriteAndIllustrate(raw) {
       return null;
     }
 
-    const photo = await findPhoto(
-      [rewritten.imageKeyword, raw.category, 'news', 'newspaper'],
-      UNSPLASH_ACCESS_KEY,
-    );
+    const photo = rewritten.imageKeyword
+      ? await findPhoto(
+          [rewritten.imageKeyword, raw.category, 'news'],
+          UNSPLASH_ACCESS_KEY,
+        )
+      : null;
 
     return {
       id: raw.id,

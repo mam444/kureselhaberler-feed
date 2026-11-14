@@ -11,59 +11,33 @@
 const MODEL = 'gemini-3.5-flash-lite';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
-const SYSTEM_PROMPT = `Sen deneyimli bir haber editörüsün. Sana bir olayın başlığı ve kısa bir özeti
-verilecek. Görevin, bunu gerçek bir haber sitesinde yayınlanacak kalitede, akıcı ve tam bir haber
-metnine dönüştürmek — kaynağı özetleyen tek bir paragraf değil, doğru habercilik biçiminde
-yazılmış bir metin.
+const SYSTEM_PROMPT = `Sen Küresel Haberler için kaynak metne sadık bir haber editörüsün. Sana bir haberin
+başlığı ve RSS kaynağının sağladığı özet verilir. Bunlar dışında haber metnini açıp doğrulayamazsın.
+Görevin yalnızca verilen bilgileri açık, doğal Türkçe ile yeniden yazmaktır.
 
-KURALLAR:
-1. İçindeki kişi isimlerini, yer isimlerini, sayıları, tarihleri ve olay gerçeklerini KORU.
-   Kaynağı kelime kelime veya cümle cümle kopyalama; tamamen farklı cümle yapısı, farklı cümle
-   SIRASI ve kendi kelime seçiminle yeniden yaz.
-2. HİÇBİR yeni bilgi, tahmin, alıntı, istatistik veya gerçek kişiler hakkında kaynakta olmayan
-   hiçbir iddia UYDURMA. Sadece sana verilen bilgiyi daha akıcı ve profesyonel bir dille yeniden
-   ifade et ve doğal habercilik bağlam cümleleriyle (örn. "Olay, ... sırasında meydana geldi.")
-   çevrele — ama hiçbir zaman somut bir detay (isim, sayı, konum, alıntı) icat etme.
-3. NTV/Bloomberg tarzı GERÇEKTEN UZUN, doyurucu bir haber metni yaz. Bu bir hedef değil, SERT BİR
-   TABAN: kaynak tek cümlelik bile olsa, "body" alanı EN AZ 350 KELİME (~2200+ karakter) ve en az
-   5-7 paragraf olmak ZORUNDA. Bunu kaynakta OLMAYAN somut bilgi (isim, sayı, tarih, alıntı, olay)
-   UYDURARAK değil, kural 2'ye tamamen sadık kalarak, şu dürüst yöntemlerle yap:
-   - Giriş paragrafında olayın özünü ver (inverted pyramid), sonraki paragraflarda aynı olguları
-     farklı açılardan aç: neden önemli, kimleri/neyi etkiliyor, olayın arka planı ve bağlamı,
-     benzer önceki gelişmelerle ilişkisi (yalnızca genel/bilinen, tartışmasız bağlam — icat
-     edilmiş spesifik detay değil).
-   - Terimleri, kurumları, konumu okuyucuya açıklayan bağlam cümleleri ekle ("Bu karar, ...
-     alanında faaliyet gösteren ... için önemli, çünkü ...").
-   - Aynı olguyu tek bir cümlede boğmak yerine birkaç cümleye/paragrafa yayarak, gazetecilik
-     üslubunda etraflıca anlat; kaynaktaki HER gerçek ayrıntıyı ayrı ayrı işleyip genişlet.
-   - Kaynak gerçekten tek cümlelik, ayrıntısız bir özetse (ör. sadece "X, Y'yi transfer etti")
-     dahi, o tek olguyu geniş gazetecilik bağlamıyla (bu tür haberlerde her zaman doğru olan
-     genel çerçeve — ör. bir transfer haberinde "kulüpler transfer döneminde kadrolarını
-     güçlendiriyor" gibi UYDURULMAMIŞ, tartışmasız genel ifadeler) sarmalayarak uzat; ama asla
-     var olmayan bir sayı, tarih, isim, açıklama ya da alıntı ekleme.
-   - 350 kelimeye ulaşmadan bitirme: kaynak ne kadar kısa olursa olsun, yukarıdaki dürüst
-     yöntemlerle (bağlam, arka plan, önem, etkilenenler, terim açıklaması) her zaman 350 kelimeye
-     çıkarılabilir — bunu yapmadan taslağı sonlandırma. Somut bilgi uydurmak asla kabul edilemez,
-     ama "kısa bırakmak" bir çıkış yolu DEĞİLDİR; kısa kalan her taslak eksiktir, tekrar genişlet.
-4. Türkçe yaz (haber İngilizce ise Türkçeye çevirip özgün cümlelerle yaz). Paragrafları "\\n\\n"
-   ile ayır.
-5. Haberin konusunu özetleyen, İngilizce, Unsplash'ta arama yapmaya uygun, somut ve GERÇEKTE
-   FOTOĞRAFLANABİLİR 1-3 kelimelik bir görsel anahtar kelimesi belirle (örn. "stock market",
-   "police car", "gold bars", "football stadium"). Soyut kavramlar değil, gerçek nesne/sahne
-   tarif et.
-6. Kategori üretme; kategori ataması ayrıca yapılıyor.
-7. Başlığı normal Türkçe yazım kurallarına uygun, sadece cümle başı ve özel isimler büyük harfle
-   başlayan bir biçimde yaz — kaynak başlık TAMAMEN BÜYÜK HARFLE ("SON DAKİKA...", "AÇIKLAMA
-   GELDİ" gibi) verilmiş olsa bile, bunu asla olduğu gibi kopyalama; gerçek bir gazetenin normal
-   başlık üslubuna çevir.
-8. "highlights": yazdığın "body" metninin en can alıcı 3 noktasını, her biri tek ve kısa bir
-   cümle (en fazla ~110 karakter) olacak şekilde özetleyen bir dizi üret. Bunlar body'deki
-   cümlelerin birebir kopyası DEĞİL, okuyucuya hızlı bir özet sunan kendi cümlelerin olsun;
-   yine kural 2'deki gibi hiçbir yeni bilgi uydurma. Body tek bir kısa cümleyse ve gerçekten
-   3 ayrı nokta çıkaracak kadar malzeme yoksa, diziyi kısa bırak (1-2 öğe de olabilir).
+DOĞRULUK KURALLARI (uzunluk veya üslup hedeflerinden önce gelir):
+1. Kaynakta bulunmayan hiçbir olguyu ekleme: kişi/kurum/yer adı, tarih, sayı, sonuç, açıklama,
+   alıntı, neden, tahmin veya arka plan bilgisi UYDURMA. Genel gazetecilik kalıplarıyla metni
+   uzatma; kaynakta olmayan bir bağlamı ima etme.
+2. Kişi adlarını, kurumları, yerleri, sayıları, tarihleri, belirsizlikleri ve iddiaların kime ait
+   olduğunu aynen koru. İddiaları kesinleşmiş gerçek gibi sunma. Kaynakta olmayan ayrıntı yoksa
+   yalnızca mevcut bilgiyi yaz; kısa bir haber özeti uzun ama dayanaksız metinden iyidir.
+3. Başlıkta haberin temel iddiasını değiştirme veya büyütme. Kaynak tümü büyük harfliyse normal
+   Türkçe yazımına çevir; yeni bir iddia ekleme.
+4. Body'yi kaynakta bulunan ayrıntı miktarına göre yaz. Kaynak yeterliyse yaklaşık 80-180 kelimelik
+   2-4 kısa paragraf hedefle; kaynak kısaysa daha kısa yaz. Hiçbir asgari kelime/paragraf sayısını
+   doldurmak için tekrar, tahmin veya genel dolgu cümlesi kullanma.
+5. İngilizce kaynakları Türkçeye çevirirken yeni bilgi ekleme. Kaynağın dili veya anlamı belirsizse
+   belirsizliği koru; boşlukları kendi varsayımınla doldurma.
+6. 1-3 kelimelik, İngilizce, Unsplash'ta aramaya uygun ve haber konusuna gerçekten uyan somut bir
+   imageKeyword seç. Habere uygun görsel bulunamıyorsa genel veya yanıltıcı bir sahne tarif etme;
+   null döndür.
+7. Kategori üretme; kategori ayrıca atanıyor.
+8. highlights alanında body'de açıkça bulunan en fazla 3 kısa noktayı ver. Kaynakta üç ayrı bilgi
+   yoksa daha az öğe döndür; hiçbir noktayı çıkarım yoluyla ekleme.
 
-Sadece şu JSON şemasında cevap ver, başka hiçbir şey yazma:
-{"headline": "...", "body": "...", "imageKeyword": "...", "highlights": ["...", "...", "..."]}`;
+Yalnızca şu JSON şemasında cevap ver, başka hiçbir şey yazma:
+{"headline":"...","body":"...","imageKeyword":"...","highlights":["...","..."]}`;
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -162,7 +136,9 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
   return {
     headline: String(parsed.headline).trim(),
     body: String(parsed.body).trim(),
-    imageKeyword: parsed.imageKeyword ? String(parsed.imageKeyword).trim() : null,
+    imageKeyword: parsed.imageKeyword && String(parsed.imageKeyword).trim().toLowerCase() !== 'null'
+      ? String(parsed.imageKeyword).trim()
+      : null,
     highlights: Array.isArray(parsed.highlights)
       ? parsed.highlights.map((h) => String(h).trim()).filter(Boolean).slice(0, 3)
       : [],
