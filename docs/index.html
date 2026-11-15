@@ -356,8 +356,6 @@
   .market-name { font-weight: 700; color: var(--text); }
   .market-name small { display: block; font-weight: 500; font-size: 10.5px; color: var(--text-secondary); margin-top: 1px; }
   .market-name { min-width: 0; }
-  .market-spark { flex-shrink: 0; }
-  .sparkline { width: 44px; height: 20px; display: block; }
   .market-right { text-align: right; flex-shrink: 0; }
   .market-value { font-weight: 800; font-variant-numeric: tabular-nums; }
   .market-change { font-size: 11px; font-weight: 700; display: flex; align-items: center; justify-content: flex-end; gap: 1px; }
@@ -711,7 +709,6 @@
   .reaction-btn.active { border-color: var(--gold); background: rgba(var(--gold-rgb),0.1); }
   .reaction-emoji { font-size: 22px; }
   .reaction-label { font-size: 10px; color: var(--text-secondary); font-weight: 600; }
-  .reaction-count { font-size: 11px; font-weight: 800; color: var(--text); }
 
   .action-row { margin-top: 18px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
   .action-btn {
@@ -1161,41 +1158,24 @@ function paintTickerStats() {
 }
 
 function marketsWidgetTitle() {
-  return `<div class="widget-title"><span class="msr">trending_up</span>Canlı Piyasalar<span class="live-dot"></span></div>`;
+  return `<div class="widget-title"><span class="msr">trending_up</span>Piyasa Fiyatları</div>`;
 }
 
 function fmtNum(n, digits) {
   return n.toLocaleString('tr-TR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
 }
 
-// Basit tohumlu "random walk" ile küçük bir sparkline çizgisi üretir —
-// gerçek geçmiş fiyat verisi çekmediğimiz için (bu, sadece küçük bir
-// trend ikonu amaçlı) kullanıcıya açıkça "simülasyon" olarak sunulur;
-// son nokta gerçek değişim yönüyle (up/down) tutarlı olacak şekilde
-// yönlendirilir, böylece en azından bugünkü gerçek artış/azalışla çelişmez.
-function sparklineSvg(seed, up) {
-  const n = 7;
-  const pts = [12];
-  for (let i = 1; i < n - 1; i++) {
-    const next = pts[i - 1] + (seededInt(seed + i, -4, 4));
-    pts.push(Math.max(3, Math.min(21, next)));
-  }
-  const bias = seededInt(seed + 'e', 4, 9);
-  pts.push(up ? Math.min(22, pts[pts.length - 1] + bias) : Math.max(2, pts[pts.length - 1] - bias));
-  const stepX = 56 / (pts.length - 1);
-  const path = pts.map((p, i) => `${(2 + i * stepX).toFixed(1)},${(24 - p).toFixed(1)}`).join(' ');
-  const stroke = up ? 'var(--up)' : 'var(--down)';
-  return `<svg class="sparkline" viewBox="0 0 60 24" preserveAspectRatio="none"><polyline points="${path}" fill="none" stroke="${stroke}" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
-}
-
-function marketRowHtml(seedKey, name, sub, entry, digits, suffix) {
+function marketRowHtml(name, sub, entry, digits, suffix) {
   if (!entry || typeof entry.price !== 'number') {
     return `<div class="market-row"><div class="market-name">${name}<small>${sub}</small></div><div class="widget-empty">veri yok</div></div>`;
   }
   const up = entry.changePct >= 0;
+  const quoteTime = entry.quoteAt
+    ? new Date(entry.quoteAt).toLocaleString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })
+    : 'zaman bilgisi yok';
+  const freshness = entry.stale ? ' · gecikmeli' : '';
   return `<div class="market-row">
-    <div class="market-name">${name}<small>${sub}</small></div>
-    <div class="market-spark">${sparklineSvg(seedKey, up)}</div>
+    <div class="market-name">${name}<small>${sub} · Son fiyat ${quoteTime}${freshness}</small></div>
     <div class="market-right">
       <div class="market-value">${fmtNum(entry.price, digits)}${suffix}</div>
       <div class="market-change ${up ? 'up' : 'down'}"><span class="msr">${up ? 'arrow_drop_up' : 'arrow_drop_down'}</span>%${fmtNum(Math.abs(entry.changePct), 2)}</div>
@@ -1205,29 +1185,22 @@ function marketRowHtml(seedKey, name, sub, entry, digits, suffix) {
 
 function marketsWidgetHtml(data) {
   return marketsWidgetTitle()
-    + marketRowHtml('usd', 'Dolar', 'USD/TRY', data.usdTry, 2, ' ₺')
-    + marketRowHtml('eur', 'Euro', 'EUR/TRY', data.eurTry, 2, ' ₺')
-    + marketRowHtml('gold', 'Altın', 'gram, TRY', data.goldGramTry, 0, ' ₺')
-    + marketRowHtml('bist', 'BIST 100', 'endeks', data.bist100, 0, '');
+    + marketRowHtml('Dolar', 'USD/TRY', data.usdTry, 2, ' ₺')
+    + marketRowHtml('Euro', 'EUR/TRY', data.eurTry, 2, ' ₺')
+    + marketRowHtml('Altın', 'gram, TRY', data.goldGramTry, 0, ' ₺')
+    + marketRowHtml('BIST 100', 'endeks', data.bist100, 0, '');
 }
 
-// "En çok okunan" — gerçek bir analitik altyapısı olmadığından, sayfanın
-// geri kalanındaki beğeni/tepki sayaçlarıyla aynı yöntemle (id'den türeyen
-// sabit sözde-rastgele sayı) tutarlı bir sıralama üretir; yorum/isim gibi
-// uydurma İÇERİK değil, sadece bir görüntülenme SAYISI temsil eder.
+// No audience analytics are installed, so this panel shows actual recent
+// stories instead of inventing readership counts.
 function trendingWidgetHtml() {
-  const title = `<div class="widget-title"><span class="msr">local_fire_department</span>Günün Trendleri</div>`;
+  const title = `<div class="widget-title"><span class="msr">schedule</span>Son Haberler</div>`;
   if (allArticles.length === 0) return title + '<div class="widget-empty">Henüz veri yok.</div>';
-  const ranked = allArticles.slice(0, 20)
-    .map(a => ({ a, views: seededInt('views_' + a.id, 900, 18000) }))
-    .sort((x, y) => y.views - x.views)
-    .slice(0, 5);
-  return title + ranked.map((r, i) => `
-    <div class="trend-item" data-id="${r.a.id}">
-      <div class="trend-num ${i < 3 ? 'top' : ''}">${i + 1}</div>
+  return title + allArticles.slice(0, 5).map(a => `
+    <div class="trend-item" data-id="${escapeHtml(a.id)}">
       <div class="trend-info">
-        <h4>${escapeHtml(r.a.headline)}</h4>
-        <div class="trend-meta"><span class="msr">visibility</span>${r.views.toLocaleString('tr-TR')} okuma</div>
+        <h4>${escapeHtml(a.headline)}</h4>
+        <div class="trend-meta"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</div>
       </div>
     </div>`).join('');
 }
@@ -1464,14 +1437,11 @@ function pickRelatedArticles(currentArticle, skip, limit) {
   return sliced.length > 0 ? sliced : pool.slice(0, limit);
 }
 
-// Sıradaki haber: "Çok Okunanlar" ile aynı sözde-rastgele görüntülenme
-// sıralamasından, mevcut haber hariç en popüler olanı seçer.
+// The next-story card uses the newest available story; the site has no
+// readership analytics to support a "most read" ranking.
 function pickNextArticle(currentArticle) {
   const candidates = allArticles.filter(a => a.id !== currentArticle.id);
-  if (candidates.length === 0) return null;
-  return candidates
-    .map(a => ({ a, views: seededInt('views_' + a.id, 900, 18000) }))
-    .sort((x, y) => y.views - x.views)[0].a;
+  return candidates[0] || null;
 }
 
 function articleFontSize() {
@@ -1551,10 +1521,7 @@ function openArticle(id) {
   if (nextUpObserver) { nextUpObserver.disconnect(); nextUpObserver = null; }
   if (nextUpTimer) clearTimeout(nextUpTimer);
 
-  const baseLikes = seededInt(a.id, 40, 320);
   const liked = localStorage.getItem(likeStorageKey(a.id)) === '1';
-  const likeCount = baseLikes + (liked ? 1 : 0);
-  const comments = loadComments(a.id);
   const myReaction = localStorage.getItem(reactionStorageKey(a.id));
   const related = pickRelatedArticles(a, 0, 4);
   const nextArticle = pickNextArticle(a);
@@ -1608,16 +1575,16 @@ function openArticle(id) {
     </div>
 
     ${related.length > 0 ? `
-      <div class="related-heading">Bunu Okuyanlar Bunları da Okudu</div>
+      <div class="related-heading">Benzer Haberler</div>
       <div class="related-grid">${related.map(r => cardHtml(r)).join('')}</div>
     ` : ''}
 
     <div class="action-row">
       <button class="action-btn ${liked ? 'liked' : ''}" id="likeBtn">
-        <span class="msr">${liked ? 'favorite' : 'favorite_border'}</span> <span id="likeCount">${likeCount}</span>
+        <span class="msr">${liked ? 'favorite' : 'favorite_border'}</span> <span>${liked ? 'Beğendin' : 'Beğen'}</span>
       </button>
       <button class="action-btn" id="jumpToComments">
-        <span class="msr">chat_bubble</span> <span>${comments.length}</span>
+        <span class="msr">chat_bubble</span> Yorumlar
       </button>
     </div>
 
@@ -1635,7 +1602,8 @@ function openArticle(id) {
       </div>` : ''}
 
     <div class="comments-section" id="commentsSection">
-      <div class="comments-heading"><span class="msr">chat_bubble_outline</span> Yorumlar (<span id="commentsCount">${comments.length}</span>)</div>
+      <div class="comments-heading"><span class="msr">chat_bubble_outline</span> Yorumlar</div>
+      <div class="comments-empty">Yorumlar bu tarayıcıda saklanır; diğer ziyaretçilerle paylaşılmaz.</div>
       <div class="comment-form">
         <div class="source-avatar" id="commentAvatar">?</div>
         <div class="comment-form-fields">
@@ -1659,12 +1627,9 @@ function openArticle(id) {
   // Reactions
   const reactionsRow = document.getElementById('reactionsRow');
   reactionsRow.innerHTML = REACTIONS.map(r => {
-    const base = seededInt(a.id + r.key, 2, 60);
-    const count = base + (myReaction === r.key ? 1 : 0);
     return `<div class="reaction-btn ${myReaction === r.key ? 'active' : ''}" data-reaction="${r.key}">
       <span class="reaction-emoji">${r.emoji}</span>
       <span class="reaction-label">${r.label}</span>
-      <span class="reaction-count">${count}</span>
     </div>`;
   }).join('');
   reactionsRow.querySelectorAll('[data-reaction]').forEach(btn => {
@@ -1712,18 +1677,16 @@ function toggleLike(id) {
   const key = likeStorageKey(id);
   const liked = localStorage.getItem(key) === '1';
   const btn = document.getElementById('likeBtn');
-  const countEl = document.getElementById('likeCount');
-  const base = seededInt(id, 40, 320);
   if (liked) {
     localStorage.removeItem(key);
     btn.classList.remove('liked');
     btn.querySelector('.msr').textContent = 'favorite_border';
-    countEl.textContent = base;
+    btn.querySelector('span:last-child').textContent = 'Beğen';
   } else {
     localStorage.setItem(key, '1');
     btn.classList.add('liked');
     btn.querySelector('.msr').textContent = 'favorite';
-    countEl.textContent = base + 1;
+    btn.querySelector('span:last-child').textContent = 'Beğendin';
   }
 }
 
@@ -1792,9 +1755,6 @@ function submitComment(id) {
   saveComments(id, comments);
   textEl.value = '';
   renderComments(id);
-  document.getElementById('commentsCount').textContent = comments.length;
-  const jumpBtn = document.getElementById('jumpToComments');
-  if (jumpBtn) jumpBtn.querySelector('span:last-child').textContent = comments.length;
 }
 
 /* ---------- Command-K search modal ---------- */

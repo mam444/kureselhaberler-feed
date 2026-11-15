@@ -24,7 +24,11 @@ async function fetchQuote(symbol) {
   const price = meta.regularMarketPrice;
   const prevClose = meta.previousClose ?? meta.chartPreviousClose ?? price;
   const changePct = prevClose ? ((price - prevClose) / prevClose) * 100 : 0;
-  return { price, changePct };
+  const quoteAt = Number.isFinite(meta.regularMarketTime)
+    ? new Date(meta.regularMarketTime * 1000).toISOString()
+    : null;
+  const stale = !quoteAt || Date.now() - Date.parse(quoteAt) > 24 * 60 * 60 * 1000;
+  return { price, changePct, quoteAt, stale };
 }
 
 async function loadPrevious() {
@@ -63,7 +67,13 @@ async function main() {
   // bloğunu da bir önceki dosyadaki hazır TRY değeriyle bırakıyoruz.
   let goldGramTry = previous?.goldGramTry ?? null;
   if (gold && usdTry) {
-    goldGramTry = { price: (gold.price / GRAMS_PER_TROY_OUNCE) * usdTry.price, changePct: gold.changePct, stale: gold.stale || usdTry.stale };
+    const quoteTimes = [gold.quoteAt, usdTry.quoteAt].filter(Boolean).map(Date.parse);
+    goldGramTry = {
+      price: (gold.price / GRAMS_PER_TROY_OUNCE) * usdTry.price,
+      changePct: gold.changePct,
+      quoteAt: quoteTimes.length ? new Date(Math.min(...quoteTimes)).toISOString() : null,
+      stale: gold.stale || usdTry.stale,
+    };
   }
 
   const result = {
