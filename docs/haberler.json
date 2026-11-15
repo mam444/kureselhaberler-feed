@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-15T12:15:49.245Z",
+  "generatedAt": "2026-11-15T12:24:06.401Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+      "headline": "Trident nükleer denizaltısı rekor süreyle su altında kaldı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1632703880077-938acd1d1f91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bnVjbGVhciUyMHN1Ym1hcmluZXxlbnwxfDB8fHwxNzk0NzQ1NDQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jonathan Cooper",
+        "photographerUrl": "https://unsplash.com/@theshuttervision",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-boat-sitting-in-a-parking-lot-next-to-a-body-of-water-gUAT0aO0gWI"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "HMS Vengeance adlı Trident nükleer denizaltısı, 217 gün süren rekor su altı seyrinin ardından İskoçya'daki Faslane deniz üssüne döndü. 12 Nisan'da devriyeye başlayan denizaltının bu uzun seferi, yaşlanan filonun bakım hızı ve mürettebat üzerindeki etkileri konusunda soru işaretleri yarattı.",
+      "highlights": [
+        "HMS Vengeance 217 gün su altında kaldı",
+        "Denizaltı İskoçya'daki Faslane üssüne döndü",
+        "Sefer, bakım hızı ve mürettebat üzerinde soru işaretleri doğurdu"
+      ],
+      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
+      "publishedAt": "2026-11-15T12:09:32.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
       "headline": "Trump yönetimi aşı yan etkilerini tedavi eden doktorlara ödeme yapmayı planlıyor",
@@ -6868,29 +6891,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/gundem/zeytinburnunda-trafikte-yol-verme-kavgasi-otomobilden-inen-surucu-diger-aracin-camini-yumrukladi-43369234",
       "publishedAt": "2026-11-07T08:09:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/canakkalede-feci-kaza-tir-ile-carpisip-alev-alan-otomobildeki-2-kisi-oldu-3490117",
-      "headline": "Çanakkale'de TIR ile otomobil çarpıştı: İki kişi hayatını kaybetti",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1513894697031-3e3aa4c54326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YnVybmluZyUyMGNhcnxlbnwxfDB8fHwxNzk0MDE3Mzc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Flavio",
-        "photographerUrl": "https://unsplash.com/@flaviewxvx",
-        "unsplashUrl": "https://unsplash.com/photos/broken-car-covered-with-flame-YBzsJv3c1EQ"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Türkiye'nin farklı bölgelerinde art arda yaşanan trafik kazalarına bir yenisi daha eklendi ve bu kez acı haber Çanakkale'den geldi. Kentin sınırları içerisinde yer alan Çan ilçesi bölgesinde, ulaşım güvenliğini bir kez daha gündeme taşıyan feci bir trafik kazası meydana geldi. Edinilen bilgilere göre, henüz sürücülerinin kimlikleri ve plakaları haber metninde yer almayan devasa bir TIR ile aynı güzergahta seyir halinde olan bir otomobil kafa kafaya çarpıştı.\n\nÇarpışmanın şiddetiyle birlikte ortalık adeta savaş alanına dönerken, kazaya karışan binek otomobil kısa süre içinde alevlere teslim oldu. Hızla büyüyen yangın, olay yerinde bulunan vatandaşlar ve ihbar üzerine sevk edilen ekipler tarafından endişeyle takip edildi. Otomobili saran alevlerin kontrol altına alınması için yoğun çaba harcandı; ancak bu süreçte araç içerisinde bulunan iki kişi acı bir şekilde hayatını kaybetti.\n\nYaşanan bu ağır kaza, bölgedeki güvenlik ve acil durum ekiplerini derhal harekete geçirdi. Olay yerine çok sayıda sağlık, itfaiye ve güvenlik ekibi sevk edildi. İtfaiye ekipleri yanan araca müdahale ederek yangını söndürürken, sağlık görevlileri de kazada yaralanan TIR sürücüsüne ilk müdahaleyi olay yerinde gerçekleştirdi.\n\nİlk müdahalenin ardından yaralı TIR sürücüsü, ambulansla hastaneye kaldırılarak tedavi altına alındı. Sürücünün sağlık durumu ve kazanın kesin çıkış nedenine ilişkin detaylı inceleme başlatıldığı bildirildi. Yetkililer, olay yerinde gerekli güvenlik önlemlerini alarak trafik akışını kontrollü bir şekilde sağladı ve kazayla ilgili geniş çaplı tahkikat başlattı.\n\nBu tür acı olaylar, karayollarında dikkatli sürüşün ve trafik kurallarına uymanın hayati önemini bir kez daha gözler önüne seriyor. Özellikle ağır tonajlı araçlar ile binek otomobillerin karıştığı bu tip kaza vakaları, hem sürücülerin hem de yetkililerin yol güvenliği konusundaki hassasiyetini artırması gerekliliğini hatırlatıyor. Çanakkale'deki bu üzücü olayla ilgili soruşturma çok yönlü olarak sürdürülüyor.",
-      "highlights": [
-        "Çanakkale'nin Çan ilçesinde TIR ile otomobil kafa kafaya çarpıştı.",
-        "Çarpışma sonrasında alev alan otomobildeki iki kişi hayatını kaybetti.",
-        "Kazada yaralanan TIR sürücüsü hastaneye kaldırılarak tedavi altına alındı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/canakkalede-feci-kaza-tir-ile-carpisip-alev-alan-otomobildeki-2-kisi-oldu-3490117",
-      "publishedAt": "2026-11-07T02:00:33.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
