@@ -1138,7 +1138,11 @@ function ensureMarketsLoaded() {
 function tickerStatChip(label, entry, digits, suffix) {
   if (!entry || typeof entry.price !== 'number') return '';
   const up = entry.changePct >= 0;
-  return `<span class="ticker-stat"><span class="ts-label">${label}</span><span class="ts-value">${fmtNum(entry.price, digits)}${suffix}</span><span class="ts-change ${up ? 'up' : 'down'}">${up ? '▲' : '▼'}${fmtNum(Math.abs(entry.changePct), 2)}%</span></span>`;
+  const quoteTime = entry.quoteAt
+    ? new Date(entry.quoteAt).toLocaleString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })
+    : 'zaman bilgisi yok';
+  const freshness = marketEntryIsStale(entry) ? ' · gecikmeli' : '';
+  return `<span class="ticker-stat" title="Son fiyat ${quoteTime}${freshness}"><span class="ts-label">${label}</span><span class="ts-value">${fmtNum(entry.price, digits)}${suffix}</span><span class="ts-change ${up ? 'up' : 'down'}">${up ? '▲' : '▼'}${fmtNum(Math.abs(entry.changePct), 2)}%</span></span>`;
 }
 
 function paintTickerStats() {
@@ -1161,6 +1165,14 @@ function marketsWidgetTitle() {
   return `<div class="widget-title"><span class="msr">trending_up</span>Piyasa Fiyatları</div>`;
 }
 
+function marketEntryIsStale(entry) {
+  if (entry?.stale === true) return true;
+  const time = Date.parse(entry?.quoteAt || '');
+  if (!Number.isFinite(time)) return true;
+  const age = Date.now() - time;
+  return age > 24 * 60 * 60 * 1000 || age < -5 * 60 * 1000;
+}
+
 function fmtNum(n, digits) {
   return n.toLocaleString('tr-TR', { minimumFractionDigits: digits, maximumFractionDigits: digits });
 }
@@ -1173,7 +1185,7 @@ function marketRowHtml(name, sub, entry, digits, suffix) {
   const quoteTime = entry.quoteAt
     ? new Date(entry.quoteAt).toLocaleString('tr-TR', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' })
     : 'zaman bilgisi yok';
-  const freshness = entry.stale ? ' · gecikmeli' : '';
+  const freshness = marketEntryIsStale(entry) ? ' · gecikmeli' : '';
   return `<div class="market-row">
     <div class="market-name">${name}<small>${sub} · Son fiyat ${quoteTime}${freshness}</small></div>
     <div class="market-right">
