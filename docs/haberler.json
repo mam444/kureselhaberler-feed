@@ -1,6 +1,75 @@
 {
-  "generatedAt": "2026-11-15T13:14:08.354Z",
+  "generatedAt": "2026-11-15T18:05:01.137Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "headline": "Zelensky'den ABD ve Musk'a Starlink çağrısı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1756573346001-6c3ab30e837b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U3RhcmxpbmslMjBzYXRlbGxpdGV8ZW58MXwwfHx8MTc5NDc2NTg4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bernd 📷 Dittrich",
+        "photographerUrl": "https://unsplash.com/@hdbernd",
+        "unsplashUrl": "https://unsplash.com/photos/white-satellite-dish-on-a-stand-on-rocks-MTVNraFCRrc"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Ukrayna Devlet Başkanı, Starlink kısıtlamalarının devam ettiğini ve bunun Rus füzelerini durdurmayı zorlaştırdığını belirterek ABD ve Elon Musk'tan kısıtlamaları kaldırmalarını ve tarihin doğru tarafında yer almalarını istedi.",
+      "highlights": [
+        "Zelensky ABD ve Musk'a çağrıda bulundu",
+        "Kısıtlamalar Rus füzelerini durdurmayı zorlaştırıyor",
+        "Kısıtlamalar hâlâ yürürlükte"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T17:57:09.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "headline": "İran, Bahreyn'deki ABD Askeri Üssüne İHA Saldırısı Düzenledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1514598800938-f7125ea1aa1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZHJvbmUlMjBhdHRhY2t8ZW58MXwwfHx8MTc5NDc2NTg5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fikri Rasyid",
+        "photographerUrl": "https://unsplash.com/@fikrirasyid",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-gray-quadcopter-drone-PqqkWmCKobE"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "İran, Bahreyn'deki bir ABD askeri üssüne insansız hava aracı saldırıları düzenledi. Pazar günü Körfez ülkesinde patlama sesleri duyulurken, bu saldırı üç gün içindeki ikinci İran İHA saldırısı oldu ve Tahran ile Washington arasındaki barış görüşmelerini şüpheye düşürerek tırmanış riskini artırdı.",
+      "highlights": [
+        "İran, Bahreyn'deki ABD askeri üssüne İHA saldırısı düzenledi.",
+        "Pazar günü Körfez ülkesinde patlama sesleri duyuldu.",
+        "Bu saldırı üç gün içindeki ikinci İran İHA saldırısı oldu."
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "publishedAt": "2026-11-15T17:36:09.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+      "headline": "Fas, FIFA erkekler dünya sıralamasında ilk beşe giren ilk Arap ülkesi oldu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1714229519472-553789afbde5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8TW9yb2NjbyUyMGZvb3RiYWxsJTIwdGVhbXxlbnwxfDB8fHwxNzk0NzY1ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Abdou Faiz",
+        "photographerUrl": "https://unsplash.com/@abdoufaiz",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-building-kUHIrkXeRk4"
+      },
+      "timeAgo": "32 dk önce",
+      "body": "Fas, eski Avrupa şampiyonu Portekiz'i ve rekor Dünya Kupası sahibi Brezilya'yı geride bırakarak tarihinin en iyi FIFA sıralamasına ulaştı.",
+      "highlights": [
+        "Fas FIFA sıralamasında ilk beşe girdi",
+        "İlk beşe giren ilk Arap ülkesi oldu",
+        "Portekiz ve Brezilya'yı geride bıraktı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
+      "publishedAt": "2026-11-15T17:33:03.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.haberturk.com/dunya/biden-dan-netanyahu-itirafi-aramizda-pek-guven-yoktu-3927507",
       "headline": "Biden'dan Netanyahu itirafı: Aramızda pek güven yoktu",
@@ -6824,75 +6893,6 @@
       "publishedAt": "2026-11-07T08:36:16.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://tr.euronews.com/2026/11/07/hackerlar-avrupada-supermarket-siber-saldirilarindan-once-buzdolabi-sistemlerini-yokladi",
-      "headline": "Avrupa'da süpermarketleri hedef alan siber saldırıların arkasındaki tehlike ortaya çıktı",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1583922146273-68f11083858e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c3VwZXJtYXJrZXQlMjByZWZyaWdlcmF0b3JzfGVufDF8MHx8fDE3OTQwNDEwOTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "卓倩 李",
-        "photographerUrl": "https://unsplash.com/@unrivaledmarijuana",
-        "unsplashUrl": "https://unsplash.com/photos/brown-and-white-plastic-crates-on-white-metal-rack-__bJag69atg"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Avrupa genelinde gerçekleştirilen siber saldırı dalgasına ilişkin endişe verici detaylar gün yüzüne çıkmaya devam ediyor. Siber güvenlik alanındaki son bulgular, saldırganların büyük market zincirlerinin bilgi işlem ağlarına sızmadan hemen önce, tesislere ait soğutma ve buz dolabı sistemlerini hedef alarak bir ön tarama gerçekleştirdiğini ortaya koydu. Yaşanan bu olay, modern perakende sektörünün dijital altyapısında barındırdığı gizli riskleri ve potansiyel zafiyetleri bir kez daha gözler önüne serdi.\n\nSöz konusu siber olay, özellikle birbirine bağlı çalışan soğutma ve iklimlendirme sistemlerinin tasarımındaki temel güvenlik açıklarının ne denli büyük bir tehlike yaratabileceğini net bir şekilde gösterdi. Günümüzde enerji verimliliği ve uzaktan yönetim kolaylığı sağlamak amacıyla internete bağlanan bu endüstriyel cihazlar, gerekli siber savunma katmanlarından yoksun olmaları durumunda dışarıdan gelebilecek kötü niyetli müdahalelere karşı son derece savunmasız kalabiliyor.\n\nKonuya ilişkin değerlendirmelerde bulunan uzmanlar, benzer teknolojik açıkların ve mimari zafiyetlerin sadece süpermarket zincirleriyle sınırlı kalmadığına dikkat çekiyor. Yapılan uyarılar, perakende sektöründe kullanılan soğutma ekipmanlarından, insan hayatı açısından kritik öneme sahip hastane altyapılarına ve hatta devasa veri merkezlerine kadar son derece geniş bir yelpazedeki sistemlerin potansiyel risk altında olduğunu vurguluyor.\n\nUzmanlar tarafından yapılan analizlerde, bu tür siber saldırıların hedefi olan altyapıların ortak noktasının ağ bağlantılı endüstriyel kontrol sistemleri olduğu belirtiliyor. İnternet tabanlı yönetim araçlarının yetersiz güvenlik önlemleriyle donatılması, siber suçluların bu sistemleri kolayca manipüle etmesine zemin hazırlıyor. Uzmanlar, kurumların dijital dönüşüm süreçlerinde hızla hareket ederken güvenlik unsurlarını ikinci plana atmamaları gerektiğinin altını çiziyor.\n\nAvrupa'daki bu olay, kritik altyapıların korunması konusunda uluslararası düzeyde yeni tartışmaları da beraberinde getirdi. Özellikle gıda güvenliği, sağlık hizmetleri ve veri depolama gibi toplumsal yaşamın vazgeçilmez alanlarında hizmet veren kurumların, ağ güvenliği standartlarını acilen gözden geçirmesi bekleniyor. Aksi takdirde, benzer siber tehditlerin ekonomik ve operasyonel anlamda çok daha büyük krizlere yol açabileceği ifade ediliyor.\n\nSiber güvenlik otoriteleri, şirketlerin yalnızca ana bilgisayar ağlarını değil, aynı zamanda bu ağlara entegre edilmiş olan tüm akıllı cihazları ve çevresel sistemleri de sıkı bir denetim altında tutması gerektiğini savunuyor. Soğutma ve ısıtma gibi fiziksel dünyayı doğrudan etkileyen altyapıların siber saldırılara karşı korunması, gelecekteki olası felaketlerin önlenmesi açısından hayati bir sorumluluk olarak öne çıkıyor.",
-      "highlights": [
-        "Hackerlar süpermarket saldırıları öncesi soğutma sistemlerini taradı.",
-        "Olay, bağlantılı soğutma sistemlerindeki temel güvenlik zafiyetlerini gösterdi.",
-        "Uzmanlar benzer açıkların hastane ve veri merkezlerini riske attığını uyardı."
-      ],
-      "externalUrl": "https://tr.euronews.com/2026/11/07/hackerlar-avrupada-supermarket-siber-saldirilarindan-once-buzdolabi-sistemlerini-yokladi",
-      "publishedAt": "2026-11-07T08:33:08.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/fidandan-karadeniz-ve-korfez-uyarisi-kuresel-gida-ve-enerji-guvenligi-tehlikede-4870504",
-      "headline": "Fidan’dan Karadeniz ve Körfez uyarısı: Küresel gıda ve enerji güvenliği tehlikede",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1585713181935-d5f622cc2415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2FyZ28lMjBzaGlwJTIwb2NlYW58ZW58MXwwfHx8MTc5NDA0MTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Venti Views",
-        "photographerUrl": "https://unsplash.com/@ventiviews",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-blue-and-white-boat-on-body-of-water-during-daytime-FPKnAO-CF6M"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Dışişleri Bakanı Hakan Fidan, son dönemde yaşanan bölgesel ve küresel krizlerin dünya genelindeki istikrarı doğrudan tehdit ettiğine dikkat çekerek önemli değerlendirmelerde bulundu. Bakan Fidan yaptığı son açıklamalarda, özellikle stratejik öneme sahip bölgelerdeki gelişmelerin uluslararası güvenlik mimarisini sarstığını ifade etti. Karadeniz hattında ticari gemileri hedef alan saldırıların, dünya genelindeki gıda arzını ve güvenliğini tehlikeye attığını belirten Fidan, bu durumun küresel çapta milyonlarca insanı etkileyebilecek ekonomik ve insani sonuçlar doğurabileceğine işaret etti.\n\nUluslararası ticaretin en kritik arterlerinden biri olan Karadeniz’deki hareketliliğin yakından takip edildiğini vurgulayan yetkililer, deniz yoluyla yapılan gıda sevkiyatının kesintisiz sürmesinin hayati önem taşıdığını sık sık dile getiriyor. Dışişleri Bakanı Hakan Fidan’ın gündeme getirdiği bu kritik husus, sadece kıyıdaş ülkeleri değil, gıda ithalatında bu koridorlara bağımlı olan uzak coğrafyaları da yakından ilgilendiriyor. Tedarik zincirlerinde yaşanabilecek olası aksamaların, küresel gıda fiyatlarında dalgalanmalara yol açabileceği ve halihazırda hassas olan ekonomik dengeleri daha da zorlaştırabileceği biliniyor.\n\nKaradeniz’deki gıda güvenliği endişelerinin yanı sıra Körfez bölgesinde yaşanan gelişmeler de küresel enerji piyasaları açısından alarm verici bir boyuta ulaştı. Bakan Fidan, Körfez’deki son durumun dünya enerji akışını ciddi şekilde tehdit ettiğini belirterek, bu coğrafyadaki istikrarsızlığın tüm dünya ekonomisini sarsabilecek potansiyele sahip olduğunu kaydetti. Enerji arz güvenliğinin küresel sanayi ve günlük yaşam üzerindeki belirleyici rolü göz önüne alındığında, bu bölgedeki her türlü gerilimin uluslararası toplum tarafından endişeyle izlendiği biliniyor.\n\nAçıklamasının bir diğer önemli bölümünü Orta Doğu’daki devam eden çatışmalara ayıran Dışişleri Bakanı Fidan, İsrail’in komşu ülkelere yönelik gerçekleştirdiği saldırıların bölgesel barışın önündeki en büyük engellerden birini oluşturduğunu vurguladı. Bu tür askeri müdahalelerin ve yayılmacı politikaların, kalıcı bir barış ortamının tesis edilmesini imkansız hale getirdiğini ifade eden Fidan, krizin diplomatik yollarla çözülmesi gerektiğinin altını çizdi. Bölgedeki komşu ülkelerin egemenliğini ve toprak bütünlüğünü hedef alan eylemlerin, sadece yerel düzeyde kalmayıp daha geniş çaplı çatışma risklerini beraberinde getirdiği sıkça dile getiriliyor.\n\nTürkiye’nin dış politikadaki öncelikli hedeflerinden birinin komşu coğrafyalarda barış ve istikrarın yeniden tesis edilmesi olduğunu belirten diplomatik kaynaklar, Ankara’nın hem Karadeniz’de hem de Körfez ve Orta Doğu’da itidal çağrılarını sürdürdüğünü ifade ediyor. Bakan Hakan Fidan’ın dile getirdiği bu uyarılar, küresel aktörlerin sorumluluk alması ve krizlerin derinleşmeden önlenmesi adına atılacak adımların aciliyetini bir kez daha gözler önüne seriyor. Uluslararası toplumun, gıda ve enerji güvenliği gibi temel insanî ihtiyaçları korumak adına ortak bir duruş sergilemesi gerektiği gerçeği, bu tür üst düzey değerlendirmelerle yeniden gündemin merkezine oturuyor.",
-      "highlights": [
-        "Karadeniz'deki ticari gemilere yönelik saldırılar küresel gıda güvenliğini tehlikeye atıyor.",
-        "Körfez'deki gelişmeler dünya genelindeki enerji akışını ve arz güvenliğini tehdit ediyor.",
-        "İsrail'in komşu ülkelere saldırıları bölgesel barışın önündeki en büyük engel olarak vurgulandı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/fidandan-karadeniz-ve-korfez-uyarisi-kuresel-gida-ve-enerji-guvenligi-tehlikede-4870504",
-      "publishedAt": "2026-11-07T08:32:38.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-      "headline": "Yeni Zelanda'da seçim yarışı kızıştı: Oylar sayılırken taraflar başa baş",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1782998307726-f93ec14eda24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZWxlY3Rpb24lMjB2b3RpbmclMjBiYWxsb3QlMjBib3h8ZW58MXwwfHx8MTc5NDA0MTExOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jesse Paul",
-        "photographerUrl": "https://unsplash.com/@jesseapaul",
-        "unsplashUrl": "https://unsplash.com/photos/two-voting-booths-with-QpdNe6njPlw"
-      },
-      "timeAgo": "17 dk önce",
-      "body": "Yeni Zelanda genel seçimlerinde oy sayım işlemleri devam ederken, yakın tarihin en çekişmeli siyasi mücadelelerinden birine sahne olan ülkede sandıktan çıkacak sonuçlar büyük bir merakla bekleniyor. Siyasi analistler ve uzmanlar, yakın geçen bu süreçte hiçbir koalisyon bloğunun tek başına iktidarı garantileyecek koltuk çoğunluğuna ulaşmasının beklenmediğini belirtiyor. Bu tablo, ülkenin küçük partilerin kritik rol üstleneceği bir döneme girdiğini ve siyasi dengelerin bu partilerin tutumuna bağlı olacağını gösteriyor.\n\nSeçim gecesi boyunca gelen son veriler, yarışın ne denli başa baş gittiğini gözler önüne seriyor. Oyların yüzde 8'lik kısmının sayıldığı anlarda açıklanan güncel oranlar, taraflar arasındaki mücadelenin kesintisiz sürdüğünü kanıtlar nitelikte. Bu ilk sonuçlara göre National Partisi yüzde 31.2 oy oranıyla önde yer alırken, ana muhalefet konumundaki Labour Partisi ise yüzde 28.4 oranıyla rakibini yakalamış durumda. İki büyük siyasi hareket arasındaki bu dar marj, seçimin ilerleyen saatlerinde tablonun her an değişebileceği ihtimalini güçlü kılıyor.\n\nDiğer taraftan, mecliste temsil hakkı kazanması beklenen diğer siyasi oluşumların oy oranları da tablonun şekillenmesinde belirleyici bir rol oynuyor. Yeşil Parti yüzde 12.9 oranında oy alırken, Act Partisi yüzde 11.2, Yeni Zelanda Birinci (NZ First) Partisi ise yüzde 9.6 oy oranına ulaştı. Bunun yanı sıra Opportunity Partisi yüzde 5.7 ve Te Pāti Māori ise yüzde 0.4 oranında oy payı elde etti. Bu oy dağılımının mevcut haliyle devam etmesi durumunda, sağ blok koalisyonunun yeniden iktidara gelebileceği hesaplanıyor.\n\nAncak yetkililer ve gözlemciler, henüz yolun çok başında olunduğunu ve sayım sürecinin uzun bir süre daha devam edeceğini vurguluyor. Ülke genelindeki seçmenler ve yerel halk, kritik öneme sahip bölgelerde sonuçların netleşmesini beklerken, siyasi belirsizlik piyasalarda ve kamuoyunda tartışılmaya devam ediyor. Özellikle Yeni Zelanda siyasetinde gösterge niteliği taşıyan kritik seçim bölgelerindeki eğilimler, genel tablonun yönünü tayin etmede anahtar rol oynuyor.\n\nSeçim sonuçlarının bu denli başa baş gitmesi ve hiçbir grubun net bir üstünlük kuramaması, küçük partileri meclisteki en önemli aktörler haline getiriyor. Kilit parti konumundaki bu siyasi yapılar, kurulacak olası koalisyon hükümetlerinde pazarlık gücünü elinde tutacak. Sandıktan nihai sonuçların ne zaman çıkacağı ve oyların kırsal ile büyükşehirlerde nasıl dağılacağı merakla beklenirken, tüm gözler seçim komisyonunun yapacağı yeni açıklamalara çevrilmiş durumda.",
-      "highlights": [
-        "Yeni Zelanda seçimlerinde oylar sayılırken Labour ile National Partisi başa baş gitti.",
-        "İlk verilere göre hiçbir koalisyonun tek başına çoğunluk sağlaması beklenmiyor.",
-        "Oyların yüzde 8'i sayılırken sağ bloğun iktidara gelebileceği hesaplanıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
-      "publishedAt": "2026-11-07T08:28:15.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
