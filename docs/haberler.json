@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-15T18:26:12.089Z",
+  "generatedAt": "2026-11-15T18:34:34.057Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
+      "headline": "Bursa'da ev yangını: 5 ev yandı, 10 kişi dumandan etkilendi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1639369488374-561b5486177d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aG91c2UlMjBmaXJlfGVufDF8MHx8fDE3OTQ3Njc2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Karl Callwood",
+        "photographerUrl": "https://unsplash.com/@climatechangevi",
+        "unsplashUrl": "https://unsplash.com/photos/a-fire-blazing-in-a-building-at-night-5Wo-2JNnBaQ"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Bursa'nın İnegöl ilçesinde bir evde çıkan yangın 4 eve daha sıçradı. Olayda alevlere teslim olan 5 evde maddi hasar meydana gelirken, 10 kişi dumandan etkilendi.",
+      "highlights": [
+        "Bursa İnegöl'de evde yangın çıktı",
+        "Yangın 4 eve daha sıçradı",
+        "10 kişi dumandan etkilendi"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
+      "publishedAt": "2026-11-15T18:29:32.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
       "headline": "Trump, Putin ve Şi'den Üçlü Zirve Hazırlığı",
@@ -23,6 +46,28 @@
       "publishedAt": "2026-11-15T18:23:01.000Z",
       "category": "Dünya",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
+      "headline": "Hristiyan rahip ABD'nin kendisine Filistinli olduğu için vize vermediğini söyledi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1619119514477-7889dd0ba269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Q2hyaXN0aWFuJTIwcHJpZXN0fGVufDF8MHx8fDE3OTQ3Njc2Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "M G",
+        "photographerUrl": "https://unsplash.com/@garnet_photographer",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-white-thobe-standing-in-front-of-man-in-white-thobe-osUR4i8CbRI"
+      },
+      "timeAgo": "27 dk önce",
+      "body": "İsa'nın doğduğu yer olan Beytüllahim'den bir Hristiyan rahip, ABD'nin kendisine Filistinli olduğu gerekçesiyle vize vermediğini belirtti.",
+      "highlights": [
+        "Beytüllahimli bir Hristiyan rahip vize alamadı",
+        "ABD'nin vizeyi vermeme nedeni olarak Filistinli olmasını gösterdiğini söyledi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
+      "publishedAt": "2026-11-15T18:07:32.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
@@ -180,6 +225,52 @@
       ],
       "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
       "publishedAt": "2026-11-15T16:47:39.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+      "headline": "Çekya'da Medya Özgürlüğü İçin Yüz Binlerce Kişi Protesto Düzenledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1611919965459-7d39899147a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8UHJhZ3VlJTIwcHJvdGVzdHxlbnwxfDB8fHwxNzk0NzY3NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ignat Arapov",
+        "photographerUrl": "https://unsplash.com/@ignatarapov",
+        "unsplashUrl": "https://unsplash.com/photos/people-holding-white-and-red-happy-birthday-signage-gX_4gd6V0Tw"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Çekya'nın başkenti Prag'da, kamu yayıncılarını finanse eden zorunlu lisans ücretlerinin kaldırılması planına karşı yüz binlerce kişi protesto düzenledi. Organizatörlere göre pazar günkü eyleme tahmini 350.000 kişi katıldı ve bu gösteri ülkenin tarihinin en büyüklerinden biri oldu.",
+      "highlights": [
+        "Prag'da yüz binlerce kişi medya özgürlüğü için toplandı",
+        "Organizatörlere göre gösteriye yaklaşık 350.000 kişi katıldı",
+        "Protesto, kamu yayıncılarını finanse eden zorunlu lisans ücretlerinin kaldırılması planına karşı düzenlendi"
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+      "publishedAt": "2026-11-15T16:40:04.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "headline": "Yargıç, Trump'ın Washington DC'deki golf sahasını kapatmasını engelledi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Z29sZiUyMGNvdXJzZXxlbnwxfDB8fHwxNzk0NzY3Njc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Allan Nygren",
+        "photographerUrl": "https://unsplash.com/@coloradohiker",
+        "unsplashUrl": "https://unsplash.com/photos/birds-eye-photo-of-grass-field--xvKQuNtOhI"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Bir yargıç, ABD başkanının Doğu Potomac Golf Sahası'nı şampiyona sahasına dönüştürme planlarına karşı yürütülen aylarca süren hukuki mücadelenin parçası olarak geçici bir karar çıkardı.",
+      "highlights": [
+        "Yargıç geçici bir karar çıkardı",
+        "Süreç aylardır devam ediyor",
+        "Plan Doğu Potomac Golf Links'i kapsıyor"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T15:57:03.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6799,98 +6890,6 @@
       "publishedAt": "2026-11-07T15:06:49.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "headline": "Yeni Zelanda'da genel seçimlerin ardından parlamentoda tablo belirsiz",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1760872645826-ff7a32cd59bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cGFybGlhbWVudCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTM5MDA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zoshua Colah",
-        "photographerUrl": "https://unsplash.com/@zoshuacolah",
-        "unsplashUrl": "https://unsplash.com/photos/grand-building-with-dome-under-a-cloudy-sky-nrvdq0b1Trk"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Yeni Zelanda genel seçimlerinde resmi olmayan ilk sonuçların açıklanmasının ardından, ulusal parlamentoda keskin bir bölünme olduğu görüldü ve ülkede net bir kazanan çıkmadı. Sandıkların kapanmasıyla birlikte ortaya çıkan bu tablo, siyasi arenada uzun soluklu ve zorlu bir koalisyon müzakereleri sürecinin kapısını aralayabilir. Seçim sonuçlarının ülkenin gelecekteki yönetim şekli üzerinde belirleyici olması ve siyasi partiler arasında yoğun bir diplomasi trafiğini tetiklemesi bekleniyor.\n\nDemokratik süreçlerin bir parçası olarak gerçekleştirilen bu kritik oylama, seçmenlerin tercihlerinin mecliste dengeli ancak parçalı bir yapı oluşturduğunu ortaya koydu. Hiçbir siyasi hareketin tek başına iktidarı kurmak için gereken çoğunluğu elde edememesi, parlamentoda uzlaşı kültürünün önemini bir kez daha ön plana çıkardı. Mevcut durum, ülkenin yönetiminde ortaklıkların ve siyasi tavizlerin kaçınılmaz olacağı bir dönemin işaretlerini veriyor.\n\nÖnümüzdeki günlerde tarafların kendi aralarında yapacağı değerlendirmeler ve ikili görüşmeler, hükümetin kimler tarafından ve nasıl kurulacağını belirleyecek. Siyasi analistler ve gözlemciler, koalisyon pazarlıklarının haftalar sürebileceğine dikkat çekiyor. Bu süreç, tarafların uzlaşma yollarını araması ve programlarını uyumlaştırmaya çalışması açısından büyük bir önem taşıyor.\n\nÜlke genelindeki bu siyasi belirsizlik ortamı, ekonomik ve sosyal politikaların geleceği açısından da yakından takip ediliyor. Yeni Zelanda vatandaşları, seçim sandığından çıkan iradenin ülkeye istikrar getirmesini umut ederken, siyasi liderlerin atacağı adımlar kamuoyunun merkezinde yer alıyor. Parlamentodaki bu dağınık tablo, karar alma süreçlerinde daha fazla müzakereye ve ortak akla ihtiyaç duyulacağını gösteriyor.\n\nSeçim sonuçlarının tamamen netleşmesi ve resmi süreçlerin tamamlanmasıyla birlikte koalisyon senaryoları daha somut bir hal alacak. Siyasi partilerin genel merkezlerinde hareketli saatler yaşanırken, önümüzdeki haftalarda ülkenin siyasi rotasının nasıl çizileceği tüm yönleriyle netleşmiş olacak. Yeni Zelanda demokrasisi, bu zorlu koalisyon denklemini çözmek için yeni bir siyasi sınavdan geçiyor.",
-      "highlights": [
-        "Yeni Zelanda genel seçimlerinde kesin bir kazanan çıkmadı.",
-        "Parlamentodaki bölünmüş tablo haftalar sürebilecek koalisyon görüşmelerine işaret ediyor.",
-        "Siyasi partiler arasında uzlaşı ve ortaklık arayışının başlaması bekleniyor."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T15:00:10.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/ici-bos-deyip-tetige-basti-erzurumda-aci-olay-1749857",
-      "headline": "Erzurum'da şakalaşma iddiasıyla cinayet: Esnaf komşusunu pompalı tüfekle vurdu",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1713950658643-b6882cc08e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwY3JpbWUlMjBzY2VuZXxlbnwxfDB8fHwxNzk0MDY0Mzg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel von Appen",
-        "photographerUrl": "https://unsplash.com/@daniel_von_appen",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-yellow-police-line-behind-bars-WW-4bspunFY"
-      },
-      "timeAgo": "32 dk önce",
-      "body": "Türkiye'nin doğu illerinden biri olan Erzurum'da, esnaf komşular arasında yaşanan tartışmanın ardından korkunç bir olay meydana geldi. Elde edilen bilgilere göre, aralarında komşuluk ilişkisi bulunan iki esnaftan biri, diğerini pompalı tüfekle hedef alarak ağır şekilde yaraladı. Gerçekleşen bu silahlı saldırının ardından çevredekilerin ihbarı üzerine olay yerine sağlık ve güvenlik ekipleri sevk edildi. Ancak yapılan tüm müdahalelere rağmen, tüfekle vurulan şahıs kurtarılamayarak hayatını kaybetti.\n\nYaşanan trajik olayın ardından güvenlik güçleri tarafından gözaltına alınan şüpheli esnaf, emniyetteki ilk ifadesinde dikkat çekici iddialarda bulundu. Şüphelinin, cinayeti kasti olarak işlemediğini, olay anında silahın içi boş olduğunu zannederek şakalaşmak amacıyla tetiğe bastığını öne sürdüğü öğrenildi. Bu savunma, soruşturmanın seyrini belirleyecek önemli unsurlar arasında yer alırken, adli makamların incelemeleri çok yönlü olarak devam ediyor.\n\nToplumsal yaşamda ve ticaret erbabı arasında sıklıkla karşılaşılan komşuluk ilişkilerinin bu şekilde trajik bir sonla birmesi, bölgede ve esnaf camiasında büyük bir şok ve üzüntü yarattı. Günlük hayatın akışı içerisinde rutin esnaf faaliyetlerinin sürdürüldüğü bir ortamda aniden patlak veren bu olay, bireysel silahlanmanın ve silahla yapılan şakaların ne denli ölümcül sonuçlar doğurabileceğini bir kez daha gözler önüne serdi.\n\nOlay yerinde ve çevresinde polis ekipleri tarafından geniş çaplı incelemeler yürütülürken, hayatını kaybeden esnafın cenazesi otopsi işlemleri için ilgili sağlık kurumuna kaldırıldı. Adli tıp raporunun ve taraflar arasındaki geçmişe dönük olası anlaşmazlıkların detaylı tespiti, savcılığın yürüttüğü soruşturmanın temelini oluşturacak.\n\nKamuoyunda geniş yankı uyandıran bu acı hadise, hem Erzurum yerelinde hem de ülke genelinde güvenlik, silah denetimleri ve bireysel tedbirler konusundaki tartışmaları yeniden alevlendirdi. Yetkililer, benzer üzücü olayların yaşanmaması adına vatandaşları ve esnafı daha duyarlı ve dikkatli olmaya davet ederken, adli süreç titizlikle sürdürülüyor.",
-      "highlights": [
-        "Erzurum'da iki esnaf arasında yaşanan olayda bir kişi pompalı tüfekle vuruldu.",
-        "Ağır yaralanan şahıs hastanedeki tüm müdahalelere rağmen hayatını kaybetti.",
-        "Şüpheli, silahın boş olduğunu sanarak şaka amacıyla vurduğunu öne sürdü."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/ici-bos-deyip-tetige-basti-erzurumda-aci-olay-1749857",
-      "publishedAt": "2026-11-07T14:40:56.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.dw.com/tr/erdoğan-bakü-yolunda-aliyev-ile-buzlar-eriyecek-mi/a-79877647?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Erdoğan Bakü yolunda: Aliyev ile buzlar eriyecek mi?",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1568825514087-26d10f16ad9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YWlycGlsYW4lMjBwcmVzaWRlbnRpYWwlMjBqZXR8ZW58MXwwfHx8MTc5NDA2NDM4OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "David Lusvardi",
-        "photographerUrl": "https://unsplash.com/@lusvardi",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-blue-airliner-N8asWJll7oY"
-      },
-      "timeAgo": "33 dk önce",
-      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'a resmi bir ziyaret gerçekleştirmek üzere yola çıkıyor. Gerçekleştirilecek olan bu kritik seyahat, diplomatik kulislerde büyük bir merakla beklenirken, iki ülke ilişkilerinin geleceği açısından da önemli bir dönüm noktası olarak değerlendiriliyor. Uzmanlar ve dış politika gözlemcileri, bu buluşmanın zamanlamasının son derece manidar olduğuna dikkat çekiyor.\n\nSöz konusu ziyaretin en önemli gündem maddelerinden birini, Azerbaycan Cumhurbaşkanı İlham Aliyev'in daha önce Ankara'da düzenlenen üst düzey bir zirveye katılım göstermemiş olması oluşturuyor. Aliyev'in Ankara'daki bu önemli bulvarda yer almamasının ardından başkentlerde çeşitli spekülasyonlar üretilmiş ve iki müttefik ülke arasında diplomatik bir gerilim yaşandığına dair iddialar dile getirilmişti. Bu bağlamda, Bakü'de gerçekleşecek yüz yüze görüşmelerin, söz konusu iddiaların ve olası soğuk rüzgarların bertaraf edilip edilemeyeceğini net bir şekilde ortaya koyması bekleniyor.\n\nTürkiye ve Azerbaycan arasındaki ilişkiler tarihin her döneminde stratejik bir derinliğe sahip olmuştur. İki devlet, pek çok uluslararası platformda birbirlerini destekleyen ve ortak projelere imza atan iki kardeş ülke konumundadır. Bu nedenle, liderler arasında zaman zaman gündeme gelen bu tarz diplomatik pürüzler veya katılım tartışmaları, bölgesel ve küresel aktörler tarafından da yakından takip edilmektedir. Bakü'deki temasların, iki başkent arasındaki güçlü müttefiklik bağlarını yeniden en üst düzeyde teyit etmesi öngörülüyor.\n\nZiyaretin içeriğine dair resmi makamlar tarafından yapılan değerlendirmelerde, ikili ilişkilerin yanı sıra bölgesel güvenlik meseleleri ve ekonomik iş birliği imkanlarının da masaya yatırılacağı ifade ediliyor. Özellikle Kafkasya'daki son gelişmeler, enerji koridorlarının güvenliği ve ticaret hacminin artırılması gibi başlıklar, Erdoğan ve Aliyev'in baş başa gerçekleştireceği görüşmelerde ele alınacak ana konular arasında yer alıyor.\n\nAliyev'in Ankara zirvesine katılmamasının ardından doğan soru işaretlerinin bu seyahat vesilesiyle tamamen ortadan kalkması bekleniyor. Diplomatik çevreler, iki liderin vereceği ortak mesajların, iki ülke arasındaki ilişkilerde yeni bir sayfa açabileceğine veya mevcut bağların ne kadar sağlam olduğunu bir kez daha kanıtlayacağına işaret ediyor. Erdoğan'ın Bakü teması, sadece iki liderin bir araya gelmesi olarak değil, aynı zamanda ikili ilişkilerde son dönemde merak edilen soruların yanıt bulacağı kritik bir eşik olarak öne çıkıyor.",
-      "highlights": [
-        "Cumhurbaşkanı Erdoğan, kritik temaslarda bulunmak üzere Azerbaycan'a hareket ediyor.",
-        "Ziyaret, İlham Aliyev'in Ankara'daki zirveye katılmamasının ardından gerçekleşiyor.",
-        "Görüşmelerin iki ülke arasındaki ilişkilerin seyrini belirlemesi bekleniyor."
-      ],
-      "externalUrl": "https://www.dw.com/tr/erdoğan-bakü-yolunda-aliyev-ile-buzlar-eriyecek-mi/a-79877647?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-11-07T14:40:00.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-      "headline": "Dicle kıyısındaki aslanlar: Musul'un tarihi eserlerinin ihyası",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1717518215340-0d1184c493fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YW5jaWVudCUyMHJ1aW5zfGVufDF8MHx8fDE3OTQwNjQzOTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alexis Presa",
-        "photographerUrl": "https://unsplash.com/@alexispresa",
-        "unsplashUrl": "https://unsplash.com/photos/the-ruins-of-the-ancient-city-of-delphinia-846ee5_JHbQ"
-      },
-      "timeAgo": "43 dk önce",
-      "body": "Tarih boyunca pek çok medeniyete ev sahipliği yapmış olan antik Irak kenti Musul, IŞİD işgalinden kurtarılmasının ardından büyük bir yıkımla karşı karşıya kaldı. Bölgenin kültürel mirası ve kadim geçmişi, yaşanan çatışma süreçlerinde ağır hasar alırken, bu durum dünya çapında endişe yarattı. Kentin hafızasını ve tarihi dokusunu yeniden ayağa kaldırmak amacıyla harekete geçen üç fedakâr isim, Musul'un kaybolmaya yüz tutan güzelliğini ve zengin geçmişini canlandırmak için yoğun bir çaba sarf ediyor.\n\nIrak'ın kuzeyinde yer alan ve Dicle nehrinin kızağında konumlanan Musul, insanlık tarihi açısından eşsiz öneme sahip arkeolojik kalıntılara ve eserlere ev sahipliği yapıyor. IŞİD'in bölgeden çıkarılması sonrasında geride kalan enkaz, şehrin sadece fiziksel altyapısını değil, aynı zamanda binlerce yıllık kültürel kimliğini de tehdit eder boyutlardaydı. Kentin kurtuluşunun hemen ardından başlayan yeniden inşa ve koruma çalışmaları, yerel halkın ve uzmanların ortak gayretiyle sürdürülüyor. Bu süreçte tarihi ve kültürel değerlerin korunması, kentin geleceği açısından hayati bir basamak olarak değerlendiriliyor.\n\nSöz konusu üç kişi, Musul'un görkemli geçmişini onarmak ve gelecek nesillere aktarmak adına kritik bir rol üstleniyor. Yaptıkları çalışmalarla kentin tahrip edilen sanat eserlerini, yapılarını ve estetik değerlerini iade etmeye çalışan bu kahramanlar, büyük zorluklar altında görev yapıyor. Uzmanlıklarını ve zamanlarını bu kutsal göreve adayan bu kişiler, kentin sokaklarında ve müze kalıntılarında iz bırakarak eski ihtişamın geri dönmesi için çalışıyorlar. Bu çaba, yalnızca kırık taşların bir araya getirilmesi değil, aynı zamanda bir medeniyetin hafızasının yeniden inşası anlamına geliyor.\n\nTarihi eserlerin restorasyonu ve kentin estetik dokusunun canlandırılması, yerel halkın moral değerlerini yükseltirken, uluslararası toplumun da dikkatini çekiyor. Mezopotamya'nın bu kadim incisinin eski günlerine dönebilmesi için atılan adımlar, bölgenin kültürel çeşitliliğinin ve tolerans kültürünün de yeniden tesis edilmesine katkı sunuyor. Yıkımın izlerini silmekte kararlı olan bu üç adamın mücadelesi, zorluklar karşısında insan iradesinin ve kültürel mirasa bağlılığın en somut örneklerinden biri olarak kayıtlara geçiyor.\n\nMusul'un kurtuluşunun ardından beliren bu umut ışığı, kentin bütününde ve Dicle kıyılarında yankı buluyor. Uzun vadeli ve meşakkatli bir süreci barındıran bu restorasyon ve canlandırma hamlesi, sadece Irak için değil, tüm insanlık mirası açısından büyük bir sorumluluk olarak görülüyor. Tarihi eserleri koruma ve kenti yeniden güzelleştirme gayretindeki bu üç ismin öncülük ettiği çalışmalar, Musul'un yaralarını sarma yolunda atılan en anlamlı adımlar arasında yer almayı sürdürüyor.",
-      "highlights": [
-        "Irak'ın antik kenti Musul, IŞİD işgalinden kurtarıldıktan sonra büyük bir yıkıma uğradı.",
-        "Kentin tahrip edilen tarihi eserlerini ve güzelliğini canlandırmak için üç adam mücadele ediyor.",
-        "Yürütülen bu çaba, kentin kültürel mirasını yeniden ayağa kaldırmayı amaçlıyor."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/witness/2026/11/7/the-lions-by-the-river-tigris-restoring-mosuls-artefacts?traffic_source=rss",
-      "publishedAt": "2026-11-07T14:30:00.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
