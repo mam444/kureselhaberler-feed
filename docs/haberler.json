@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-15T12:14:46.537Z",
+  "generatedAt": "2026-11-15T12:15:49.245Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
+      "headline": "Trump yönetimi aşı yan etkilerini tedavi eden doktorlara ödeme yapmayı planlıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1631941618536-2979d565b726?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dmFjY2luZSUyMHJlc2VhcmNofGVufDF8MHx8fDE3OTQ3NDQ5NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ed Us",
+        "photographerUrl": "https://unsplash.com/@edussaurus",
+        "unsplashUrl": "https://unsplash.com/photos/a-person-in-a-red-shirt-and-white-gloves-K0DMl4NmOPo"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Trump yönetimi, aşı yan etkilerini teşhis eden, tedavi eden ve danışmanlık veren doktorlara geri ödeme yapmaya yönelik bir kuralı sonuçlandırıyor. ABD Sağlık ve İnsan Hizmetleri Bakanı Robert F. Kennedy Jr., Ulusal Sağlık Enstitüleri'nde bir aşı araştırma merkezi kurulacağını duyurdu. Uzmanlar bu adımların aşılara olan güveni sarsmayı amaçladığını belirtiyor.",
+      "highlights": [
+        "Trump yönetimi aşı yan etkilerini tedavi eden doktorlara geri ödeme planlıyor",
+        "RFK Jr. aşı araştırma merkezi kurulacağını duyurdu",
+        "Uzmanlar bunun aşı güvenini sarsmayı amaçladığını uyarıyor"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/15/vaccine-policy-rfk-jr-trump-administration",
+      "publishedAt": "2026-11-15T12:00:15.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/15/georgia-midterm-elections-black-voters",
       "headline": "Georgia'daki Siyah seçmenler Demokratların kazanmasına yardım etti ve şimdi seslerinin duyulmasını bekliyor",
@@ -134,6 +157,29 @@
       "publishedAt": "2026-11-15T11:04:08.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
+      "headline": "Yeni Parti ilk kurultayını gerçekleştirdi: PM listesi açıklandı",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1668706971199-37e30a4e6298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2FsJTIwY29uZ3Jlc3N8ZW58MXwwfHx8MTc5NDc0NDk0OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jon Tyson",
+        "photographerUrl": "https://unsplash.com/@jontyson",
+        "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-wall-A8BWoNvljVA"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Yeni Parti, \"Türkiye yenileniyor\" sloganıyla düzenlenen ilk kurultayının ikinci gününde 160 kişilik Parti Meclisi ve 15 kişilik Yüksek Disiplin Kurulu aday listelerini açıkladı.",
+      "highlights": [
+        "Yeni Parti ilk kurultayını yaptı",
+        "160 kişilik Parti Meclisi aday listesi açıklandı",
+        "15 kişilik Yüksek Disiplin Kurulu aday listesi açıklandı"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T10:55:46.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.sabah.com.tr/yasam/15-ilde-dev-operasyon-evlilik-vaadiyle-tuzaga-dusurduler-724-milyonluk-para-trafigi-tespit-edildi-7702159",
@@ -6847,52 +6893,6 @@
       "publishedAt": "2026-11-07T02:00:33.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-kasim-2026-1749731",
-      "headline": "7 Kasım 2026 son depremler: Türkiye genelinde anlık deprem sorgulama ekranı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1624004015322-a94d3a4eff39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c2Vpc21vZ3JhcGglMjBtYWNoaW5lfGVufDF8MHx8fDE3OTQwMTczODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Maxim Tolchinskiy",
-        "photographerUrl": "https://unsplash.com/@shaikhulud",
-        "unsplashUrl": "https://unsplash.com/photos/text-HoneMAhhCXI"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "Türkiye, coğrafi konumu ve aktif fay hatları üzerinde yer alması sebebiyle sarsıntılarla sıkça karşılaşan bir ülkedir. Bu durum, özellikle büyük şehirlerde yaşayan vatandaşların anlık deprem verilerini yakından takip etmesini zorunlu kılmaktadır. 7 Kasım 2026 tarihinde de yurdun farklı bölgelerinde meydana gelen sarsıntılara dair son dakika gelişmeleri merak konusu olurken, vatandaşlar arama motorlarında \"Az önce deprem nerede oldu?\" ve \"Son deprem büyüklüğü ne kadar?\" gibi sorulara yanıt aramaktadır. Günün ilk saatlerinden itibaren yaşanan sarsıntılara ilişkin tüm detaylar, ilgili kurumlar tarafından anlık olarak kamuoyuyla paylaşılmaktadır.\n\nÜlke genelinde yaşanan sarsıntıların merkez üssü, büyüklüğü ve derinliği gibi kritik teknik bilgiler, Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) ile Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü tarafından 7 Kasım 2026 tarihinde kesintisiz olarak yayınlanmaktadır. Vatandaşlar, hazırlanan canlı deprem haritaları ve son depremler listesi sayesinde bulundukları bölgeye yakın yerlerde meydana gelen hareketlilikleri anbean takip edebilmektedir. Özellikle İstanbul, Ankara ve İzmir gibi metropollerde yaşayan milyonlarca insan, en ufak bir sarsıntı hissedildiğinde dahi \"Hangi illerde deprem oldu ve hissedildi?\" sorusunun cevabını öğrenmek için resmi verilere yönelmektedir.\n\nDeprem kuşağında yer alan Türkiye'de, sarsıntıların ardından yaşanan artçı sarsıntılar da halkın en büyük endişe kaynaklarından biridir. 7 Kasım 2026 tarihli son dakika haberleri kapsamında, olası artçı hareketliliklerin büyüklüğü ve sıklığı uzman kurumlar tarafından sürekli olarak analiz edilmektedir. Vatandaşların doğru ve güvenilir bilgilere ulaşması, bilgi kirliliğinin önlenmesi açısından büyük önem taşımaktadır. AFAD ve Kandilli Rasathanesi'nin paylaştığı güncel listeler, gün boyunca meydana gelen tüm mikro ve orta ölçekli sarsıntıları coğrafi koordinatlarıyla birlikte gözler önüne sermektedir.\n\nYaşanan her yeni sarsıntı sonrasında, depremin ne zaman ve saat kaçta gerçekleştiği, ayrıca yerin kaç kilometre derinliğinde meydana geldiği gibi veriler sistemlere düşmektedir. 7 Kasım 2026 tarihinde de ilgili kurumların internet siteleri ve mobil uygulamaları üzerinden anlık sorgulamalar yapılabilmektedir. Uzmanlar, bu tür durumlarda panik yapılmamasının ve sadece resmi kurumlar tarafından yapılan açıklamaların dikkate alınmasının hayati önem taşıdığını hatırlatmaktadır. Güncel deprem haritası ve il il son deprem listesi, vatandaşların güvenliği için sürekli güncellenmektedir.",
-      "highlights": [
-        "7 Kasım 2026 tarihinde Türkiye genelindeki son depremler yakından takip ediliyor.",
-        "AFAD ve Kandilli Rasathanesi verileri anlık olarak paylaşılıyor.",
-        "İstanbul, Ankara ve İzmir'deki vatandaşlar anlık deprem haritasını sorguluyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-07-kasim-2026-1749731",
-      "publishedAt": "2026-11-07T02:00:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
-      "headline": "Cdc verilerine göre kızamık vakaları son 35 yılın en yüksek seviyesine ulaştı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1614308456595-a59d48697ea8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWVkaWNhbCUyMGxhYm9yYXRvcnl8ZW58MXwwfHx8MTc5NDAxNzM4NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Logan Gutierrez",
-        "photographerUrl": "https://unsplash.com/@photosoflogan",
-        "unsplashUrl": "https://unsplash.com/photos/black-and-silver-espresso-machine-BQ95Oc7Nvvc"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Küresel ve ulusal halk sağlığı gündemini yakından takip eden uzmanlar, son dönemde ortaya çıkan bulaşıcı hastalık istatistiklerinin, sağlık otoritelerini alarm durumuna geçirdiğini belirtiyor. Amerika Birleşik Devletleri Hastalık Kontrol ve Önleme Merkezleri (CDC) tarafından kamuoyuyla paylaşılan güncel veriler, ülkede son otuz beş yılın en yüksek kızamık vakası sayısının kaydedildiğini ortaya koydu. Bildirilen toplam vaka sayısının beş bin rakamını aştığı bu dönemin, sağlık sistemleri üzerinde oluşturduğu baskı giderek artıyor. Uzmanlar, kızamık gibi önlenebilir ancak son derece bulaşıcı olan hastalıkların yeniden ivme kazanmasının, toplum sağlığı politikaları açısından kritik bir eşik teşkil ettiğine dikkat çekiyor.\n\nElde edilen resmi verilerin demografik dağılımı incelendiğinde, özellikle çocuk ve genç nüfusun bu salgından en çok etkilenen kesim olduğu açıkça görülüyor. Rapora göre, doğrulanmış toplam vakaların yüzde altmışa yakın bir oranını çocuklar ve gençler oluşturuyor. Bu durum, okul çağındaki bireylerin ve henüz bağışıklık döngüsünü tamamlamamış küçük yaş gruplarının karşı karşıya olduğu riski gözler önüne seriyor. Halk sağlığı analistleri, genç demografinin bu denli yüksek oranda etkilenmesinin, toplumun genel bağışıklık seviyesi ve aşılamanın sürekliliği konularında önemli ipuçları barındırdığını ifade ediyor.\n\nKızamık virüsünün havayoluyla ve son derece kolay bir şekilde bulaşabilme özelliği, bu tür salgınların kontrol altına alınmasını zorlaştıran temel faktörler arasında yer alıyor. Sağlık otoriteleri, virüsün yayılım hızını kesmek ve özellikle risk altındaki grupları korumak adına çeşitli bilgilendirme ve önleme stratejileri yürütüyor. Tarihsel verilere bakıldığında, son otuz beş yılın zirvesine ulaşılan bu rakamlar, geçmişteki salgın yönetim tecrübelerinin yeniden gözden geçirilmesini zorunlu kılıyor. Uzmanlar, halk sağlığı altyapısının bu tür kriz dönemlerinde nasıl bir refleks gösterdiğinin, gelecekteki olası dalgalanmaların önlenmesi açısından hayati önem taşıdığını vurguluyor.\n\nBulaşıcı hastalıkların yayılımını engellemede erken teşhis ve koruyucu sağlık önlemlerinin rolü tartışılmaz bir gerçek olarak karşımıza çıkıyor. CDC yetkililerinin paylaştığı bu son istatistikler, sağlık çalışanlarının sahadaki yükünü artırırken, aynı zamanda toplumsal farkındalığın artırılmasına yönelik çağrıların da yinelenmesine neden oluyor. Vakaların büyük bir kısmını oluşturan çocuk ve gençlerin korunması, ailelerin ve eğitim kurumlarının ortak sorumluluk alanına giriyor. Mevcut durumun ulusal ve uluslararası platformlarda detaylı bir şekilde analiz edildiği ve salgının seyrinin yakından izlenmeye devam ettiği bildiriliyor.",
-      "highlights": [
-        "Cdc verilerine göre bildirilen kızamık vakaları 5 bin sınırını aştı.",
-        "Kaydedilen bu rakam son 35 yılın en yüksek seviyesi olarak açıklandı.",
-        "Çocuklar ve gençler doğrulanmış vakaların yaklaşık yüzde 60'ını oluşturuyor."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
-      "publishedAt": "2026-11-07T01:55:03.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
