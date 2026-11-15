@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:05:01.137Z",
+  "generatedAt": "2026-11-15T18:14:37.235Z",
   "articles": [
     {
       "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
@@ -67,6 +67,73 @@
       ],
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
       "publishedAt": "2026-11-15T17:33:03.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/cje3915lly2wo?at_medium=RSS&at_campaign=rss",
+      "headline": "Grand Theft Auto oyunları yol güvenliği araştırmalarında kullanılıyor",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dmlkZW8lMjBnYW1lfGVufDF8MHx8fDE3OTQ3NjY0NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carl Raw",
+        "photographerUrl": "https://unsplash.com/@carltraw",
+        "unsplashUrl": "https://unsplash.com/photos/gaming-room-with-arcade-machines-m3hn2Kn5Bns"
+      },
+      "timeAgo": "47 dk önce",
+      "body": "Grand Theft Auto'nun kurgusal şehirlerinde etrafı kırıp dökerek ilerlemek oyuncular için eğlenceyi temsil ederken, araştırmacıların bu popüler oyun serisi için farklı fikirleri bulunuyor.",
+      "highlights": [
+        "GTA'da etrafı kırıp dökerek ilerlemek eğlencenin bir parçasıdır",
+        "Araştırmacıların oyun için başka fikirleri vardır"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cje3915lly2wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T17:27:47.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "headline": "Çekya'da kamu medyasının finansman planına karşı protesto",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591588211599-04eeffe9acc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cHJvdGVzdG9ycyUyMHJhbGx5fGVufDF8MHx8fDE3OTQ3NjY0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Koshu",
+        "photographerUrl": "https://unsplash.com/@koshuuu",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-people-on-street-t86cJxwmBWc"
+      },
+      "timeAgo": "51 dk önce",
+      "body": "Çekya'da protestocular, kamu medyasının finansman değiştirme planının medya özgürlüğünü kısıtlayacağını savunuyor. Hükümet ise yayıncı kuruluşların maliyetleri kısması gerektiğini belirtiyor.",
+      "highlights": [
+        "Protestocular hamlenin medya özgürlüğünü kısıtlayacağını söylüyor",
+        "Hükümet yayıncıların maliyetleri kısması gerektiğini savunuyor"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T17:23:40.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "headline": "Burnham'dan gençlerin işsizlik krizine karşı erken müdahale ve sosyal yardım taahhüdü",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1768839724944-6f7101c5a4da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8eW91dGglMjBlbXBsb3ltZW50fGVufDF8MHx8fDE3OTQ3NjY0Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sasun Bughdaryan",
+        "photographerUrl": "https://unsplash.com/@sasun1990",
+        "unsplashUrl": "https://unsplash.com/photos/the-word-jobs-in-colorful-block-letters-Dy2Q0kR07dA"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Başbakan, gençlere yönelik desteklerde kapsamlı bir yeniden yapılandırma sözü verdi. Andy Burnham, gençlerin işsiz kalmasını ve devlet yardımına bağımlı hale gelmesini önlemek için çocukluk döneminden itibaren erken müdahalede bulunacaklarını ve okullarda daha fazla mesleki eğitim fırsatı sunacaklarını açıkladı.",
+      "highlights": [
+        "Başbakan desteklerde kapsamlı bir yeniden yapılandırma vadetti",
+        "Erken müdahale ile gençlerin işsiz kalmasının önlenmesi amaçlanıyor",
+        "Okullarda daha fazla mesleki eğitim fırsatı sağlanacak"
+      ],
+      "externalUrl": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
+      "publishedAt": "2026-11-15T17:04:55.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6822,75 +6889,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/dunya/ermenistandan-turkiye-itirafi-70-yildir-yanilgi-icinde-yasamisiz-43369725",
       "publishedAt": "2026-11-07T14:13:07.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/7-kasim-2026-bugunku-maclar-super-lig-ve-avrupada-bugun-hangi-maclar-var-hangi-kanalda-gunun-mac-saatleri-ve-yayin-kanallari-3490167",
-      "headline": "7 Kasım 2026 maç takvimi: Süper Lig ve Avrupa'da bugün hangi maçlar var?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTM5MTkzMTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Abigail  Keenan",
-        "photographerUrl": "https://unsplash.com/@akeenster",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM"
-      },
-      "timeAgo": "şimdi",
-      "body": "Hafta sonunu futbol karşılaşmalarıyla değerlendirmek isteyen sporseverler, 7 Kasım 2026 Cumartesi günü oynanacak müsabakaların programını ve yayın kanallarını yakından takip ediyor. Futbol gündemini meşgul eden günün maç takvimi, hem yerli liglerde hem de Avrupa'nın önde gelen organizasyonlarında sahne alacak heyecan dolu mücadelelerle dikkat çekiyor. Futbolseverler ekran başına geçerek favori takımlarının karşılaşmalarını canlı olarak izlemek için araştırmalarını sürdürüyor.\n\nTürkiye'nin en üst düzey futbol ligi olan Trendyol Süper Lig ve Trendyol 1. Lig'de bugün toplam sekiz karşılaşma futbolseverlerle buluşacak. Her iki ligde de dörder mücadele oynanırken, bu karşılaşmalar şampiyonluk yarışını ve alt sıralardaki sıralamayı doğrudan etkileyecek kritik bir öneme sahip. Günün en çok merak edilen ve öne çıkan karşılaşmalarından biri ise Süper Lig kapsamında oynanacak olan Galatasaray-Amedspor maçı olarak göze çarpıyor.\n\nSadece yurt içi liglerle sınırlı kalmayan futbol heyecanı, Avrupa'nın beş büyük ligi olarak kabul edilen prestijli organizasyonlarla devam ediyor. İngiltere Premier Lig, İspanya La Liga, Almanya Bundesliga, İtalya Serie A ve Fransa Ligue 1'de boy gösteren dev kulüpler, lig maratonundaki kritik virajları dönmek için sahaya çıkacak. Uluslararası arenadaki bu mücadeleler, dünya genelindeki milyonlarca futbol tutkunu gibi Türkiye'deki sporseverler tarafından da büyük bir ilgiyle takip ediliyor.\n\nKarşılaşmaların başlama saatleri ve hangi kanallardan canlı olarak yayınlanacağı, sporseverlerin en çok aradığı detaylar arasında yer alıyor. Yayıncı kuruluşlar ve kanal bilgileri, futbol severlerin maç kaçırmamak adına kontrol ettiği temel unsurlar arasında bulunuyor. Özellikle akşam saatlerinde yoğunlaşacak olan yayın akışı, futbol izleyicilerine zengin bir alternatif sunuyor.\n\nHer hafta sonu olduğu gibi bu cumartesi de futbol sahalarında yaşanacak taktik savaşları, bireysel performanslar ve hakem kararları spor kamuoyunun gün boyunca ana gündem maddesini oluşturacak. Liglerdeki puan durumu dengelerini değiştirebilecek bu kritik 7 Kasım 2026 maç takvimi, futbolseverlere unutulmaz anlar yaşatmaya hazırlanıyor.",
-      "highlights": [
-        "7 Kasım 2026 Cumartesi günü futbol maç programı merakla takip ediliyor.",
-        "Trendyol Süper Lig ve Trendyol 1. Lig'de toplam sekiz karşılaşma oynanacak.",
-        "Avrupa'nın önde gelen liglerinde de kritik mücadeleler futbolseverleri bekliyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/7-kasim-2026-bugunku-maclar-super-lig-ve-avrupada-bugun-hangi-maclar-var-hangi-kanalda-gunun-mac-saatleri-ve-yayin-kanallari-3490167",
-      "publishedAt": "2026-11-07T11:32:33.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/baskan-tugay-expo-icin-her-sey-hazir-3925585",
-      "headline": "Başkan Tugay: EXPO için her şey hazır",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1565980099993-cd136214dac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zmxvd2VyJTIwZ3JlZW5ob3VzZXxlbnwxfDB8fHwxNzk0MDQxMDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Christin Noelle",
-        "photographerUrl": "https://unsplash.com/@christinnoelle",
-        "unsplashUrl": "https://unsplash.com/photos/a-woman-standing-in-a-greenhouse-looking-at-flowers-n0GUQZDkKB8"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "İzmir Büyükşehir Belediye Başkanı Dr. Cemil Tugay, tarım ve üretici buluşmaları kapsamında gerçekleştirdiği temaslarına devam ediyor. Son olarak 21. Ödemiş Süs Bitkileri ve Fidancılık Sergisi'ni ziyaret eden Başkan Tugay, burada Küçük Menderes havzasından gelen çok sayıda üreticiyle bir araya geldi. Gerçekleştirilen bu buluşma, bölgedeki tarımsal üretimin ve özellikle süs bitkiciliği ile fidancılık sektörünün güncel sorunlarının ele alınması açısından önem taşıyor.\n\nZiyaret sırasında üreticilerin taleplerini ve beklentilerini dinleyen İzmir Büyükşehir Belediye Başkanı Dr. Cemil Tugay, bölgenin ekonomik kalkınmasında bu sektörlerin kritik bir rol oynadığını vurguladı. Özellikle Ödemiş ilçesinin, Türkiye genelinde çiçekçilik ve fidancılığın en önemli merkezlerinden biri olduğuna dikkati çeken Tugay, yerel yönetim olarak üreticilere sağlanan desteklerin artırılarak kararlılıkla sürdürüleceğini ifade etti. Bu açıklamalar, bölgede faaliyet gösteren üreticiler ve tarım kooperatifleri tarafından yakından takip ediliyor.\n\nÖdemiş'teki temaslarının yanı sıra kentin uluslararası vizyonuna da değinen Başkan Tugay, önümüzdeki dönemin en önemli projeleri arasında yer alan EXPO hazırlıklarına değindi. İnciraltı bölgesinde düzenlenmesi planlanan EXPO İzmir 2027 organizasyonu için yürütülen çalışmalar hakkında konuşan Tugay, hazırlık süreçlerinin tamamlandığını vurguladı. Organizasyon için gerekli olan altyapı ve planlama aşamalarının bittiğini belirten Başkan Tugay, \"Her şey hazırlandı, zamanını bekliyoruz\" diyerek sürecin geldiği aşamayı özetledi.\n\nİzmir'in uluslararası alanda tanıtımına ve ekonomik hareketliliğine büyük katkı sağlaması beklenen EXPO İzmir 2027, kentin turizm ve ticaret potansiyelini artırmayı hedefliyor. Yerel yönetimlerin yanı sıra ilgili tüm paydaşların koordinasyonuyla yürütülen bu süreçte, İnciraltı'ndaki çalışmaların tamamlanmış olması hazırlıkların planlanan takvime uygun olarak ilerlediğini gösteriyor. İzmir Büyükşehir Belediyesi'nin öncülüğünde yürütülen bu projeler, kentin gelecekteki ekonomik ve kültürel yapısını şekillendiren temel unsurlar arasında yer alıyor.\n\nKüçük Menderes havzasındaki üreticilere verilen desteklerin süreceğine dair yapılan açıklamalar ile EXPO hazırlıklarının tamamlandığına yönelik vurgular, İzmir'in hem yerel tarım ekonomisini güçlendirme hem de küresel ölçekte bir merkez olma hedefinin kararlılıkla sürdürüldüğünü ortaya koyuyor. Başkan Cemil Tugay'ın sergi alanındaki temasları, üretici ile yerel yönetim arasındaki iş birliğinin gelecekteki adımları için de bir zemin oluştururken, kent genelindeki projelerin takvimi titizlikle izlenmeye devam ediyor.",
-      "highlights": [
-        "Başkan Tugay, 21. Ödemiş Süs Bitkileri Sergisi'nde üreticilerle buluştu.",
-        "Ödemiş'teki üreticilere yönelik desteklerin artarak süreceği belirtildi.",
-        "İnciraltı'ndaki EXPO İzmir 2027 için hazırlıkların tamamlandığı açıklandı."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/baskan-tugay-expo-icin-her-sey-hazir-3925585",
-      "publishedAt": "2026-11-07T08:40:17.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/bilim-teknoloji/nevsehirde-guvenlik-guclerine-destek-olacak-robot-kopek-gelistirildi/4114994",
-      "headline": "Nevşehir'de güvenlik güçlerinin kullanımı için robot köpek geliştirildi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1778689015315-46cd9cde1419?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cm9ib3QlMjBkb2d8ZW58MXwwfHx8MTc5NDA0MTA5NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Navy Medicine",
-        "photographerUrl": "https://unsplash.com/@navymedicine",
-        "unsplashUrl": "https://unsplash.com/photos/robot-dog-and-man-in-uniform-in-hallway-197yn5Jb234"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Türkiye'nin önemli teknoloji ve inovasyon hamleleri kapsamında, güvenlik güçlerinin sahada karşılaştığı zorlukları en aza indirmek ve operasyonel kapasitelerini artırmak amacıyla yeni bir adım atıldı. Bu çerçevede, Nevşehir ilinde emniyet ve güvenlik birimlerinin çalışmalarına destek vermesi planlanan teknolojik bir cihaz üretildi. Ülke genelinde güvenlik teknolojilerinde dışa bağımlılığı azaltmak ve yerli imkanları geliştirmek adına atılan bu adım, savunma ve güvenlik alanındaki yenilikçi çözümlere bir yenisini daha ekledi. Uzman ekiplerin uzun süren çalışmaları sonucunda ortaya çıkan bu sistem, modern güvenlik standartlarını bir üst seviyeye taşımayı hedefliyor.\n\nGeliştirilen bu özel cihaz, özellikle zorlu arazi koşullarında ve riskli operasyonel sahalarda görev yapan güvenlik güçlerinin en büyük yardımcısı olmak üzere tasarlandı. Cihazın teknik donanımı incelendiğinde, en dikkat çeken özelliklerin başında çevresel algılama sistemleri geliyor. Yerli imkanlarla üretilen bu robotik sistem, üzerinde barındırdığı gelişmiş lidar ve radar sensörleri sayesinde etrafını kesintisiz bir şekilde 360 derece tarayabiliyor. Bu sayede, operasyon gerçekleştirilen alanın haritası anlık olarak çıkarılırken, olası tehditler de en kısa sürede tespit edilebiliyor.\n\nSistemin sahip olduğu bir diğer kritik kabiliyet ise tehlikeli gazların tespitine yönelik geliştirilen hassas sensör teknolojisi. Güvenlik güçlerinin sızma, sabotaj veya endüstriyel kazalar gibi riskli durumlarla karşılaştığı anlarda hayat kurtarıcı rol oynaması beklenen cihaz, tam 15 farklı gaz çeşidini algılama yeteneğine sahip bulunuyor. Bu özellik, özellikle kapalı alanlarda, tünellerde veya kimyasal risk barındıran şüpheli bölgelerde personelin doğrudan tehlikeye atılmasının önüne geçilmesini sağlıyor. Cihaz, havadaki zararlı gazları anında raporlayarak birimlerin stratejik kararlar almasına zemin hazırlıyor.\n\nGerçekleştirilen bu teknolojik geliştirme, Nevşehir'deki yerel imkanların ve Ar-Ge çalışmalarının savunma sanayii ve güvenlik alanındaki somut bir yansıması olarak değerlendiriliyor. Benzer robotik uygulamaların dünya genelinde artış gösterdiği bir dönemde, yerli mühendislik ürünü bu sistemin güvenlik güçlerinin operasyonel güvenliğini artırması bekleniyor. Özellikle insan gücünün yetersiz kaldığı veya hayati riskin çok yüksek olduğu noktalarda öncü kuvvet olarak görev yapacak olan robot köpek, güvenlik stratejilerinde yeni bir dönemin kapısını aralıyor.\n\nYetkililer ve uzmanlar, bu tür teknolojik donanımların güvenlik güçlerinin sahadaki elini oldukça güçlendireceğini vurguluyor. Geliştirme sürecinin tamamlanmasının ardından test aşamalarından geçen cihazın, güvenlik birimlerinin envanterine katılarak aktif olarak görev yapması öngörülüyor. Nevşehir'de imal edilen robot köpeğin, hem arama-kurtarma faaliyetlerinde hem de genel asayiş ve güvenlik operasyonlarında kritik görevler üstlenerek Türkiye'nin yerli teknoloji vizyonuna önemli katkılar sunması bekleniyor.",
-      "highlights": [
-        "Nevşehir'de güvenlik güçlerine destek amacıyla yeni bir robot köpek geliştirildi.",
-        "Cihaz lidar ve radar sensörleri ile çevresini 360 derece algılayabiliyor.",
-        "Sistem, operasyon sahalarında 15 farklı gaz çeşidini tespit etme özelliğine sahip."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/bilim-teknoloji/nevsehirde-guvenlik-guclerine-destek-olacak-robot-kopek-gelistirildi/4114994",
-      "publishedAt": "2026-11-07T08:36:16.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
