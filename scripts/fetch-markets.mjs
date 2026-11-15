@@ -45,7 +45,9 @@ async function loadPrevious() {
 // haberleri koru" mantığıyla aynı dayanıklılık prensibi.
 async function safeFetch(symbol, previousEntry) {
   try {
-    return { ...(await fetchQuote(symbol)), stale: false };
+    // Preserve the quote's age-based stale flag. Overwriting it here made
+    // old but successfully fetched Yahoo quotes look current indefinitely.
+    return await fetchQuote(symbol);
   } catch (err) {
     console.warn(`[markets] ${symbol} çekilemedi: ${err.message}`);
     return previousEntry ? { ...previousEntry, stale: true } : null;
