@@ -2,7 +2,8 @@ name: Generate feed
 
 on:
   schedule:
-    - cron: '*/10 * * * *'
+    # Keep the ten-minute cadence but offset from the busiest minute marks.
+    - cron: '7,17,27,37,47,57 * * * *'
   workflow_dispatch: {}
 
 permissions:

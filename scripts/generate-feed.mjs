@@ -194,10 +194,16 @@ async function main() {
         includeAndroid: !FCM_ACCESS_TOKEN || !FCM_PROJECT_ID,
       }),
     ]);
-    for (const result of sends) {
-      if (result.status === 'rejected') {
-        console.warn('[push] bildirim sağlayıcısı hatası:', result.reason?.message ?? result.reason);
-      }
+    const androidPush = sends[0];
+    if (androidPush.status === 'rejected') {
+      // Don't let the workflow commit this story as processed when Android
+      // push failed. The next scheduled run can retry it instead of silently
+      // losing the alert after the feed has advanced.
+      throw new Error(`Android bildirimi gönderilemedi: ${androidPush.reason?.message ?? androidPush.reason}`);
+    }
+    const oneSignalPush = sends[1];
+    if (oneSignalPush.status === 'rejected') {
+      console.warn('[onesignal] bildirim sağlayıcısı hatası:', oneSignalPush.reason?.message ?? oneSignalPush.reason);
     }
   }
 }
