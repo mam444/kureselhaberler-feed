@@ -1,6 +1,98 @@
 {
-  "generatedAt": "2026-11-15T12:24:06.401Z",
+  "generatedAt": "2026-11-15T13:14:08.354Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/dunya/biden-dan-netanyahu-itirafi-aramizda-pek-guven-yoktu-3927507",
+      "headline": "Biden'dan Netanyahu itirafı: Aramızda pek güven yoktu",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604874314660-cab807de4d86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Sm9lJTIwQmlkZW58ZW58MXwwfHx8MTc5NDc0ODQzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Claudio Schwarz",
+        "photographerUrl": "https://unsplash.com/@purzlbaum",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-white-square-box-TLe_uoMau20"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Eski ABD Başkanı Joe Biden, anı kitabında Binyamin Netanyahu'ya duyduğu güvenin sınırlı olduğunu ifade etti. Biden, Netanyahu'nun demokratik kurumları kişisel çıkarları için esnetebileceğinden ve Trump benzeri eğilimlerinden endişe duyduğunu belirtti.",
+      "highlights": [
+        "Eski ABD Başkanı Biden, Netanyahu'ya duyduğu güvenin sınırlı olduğunu açıkladı",
+        "Netanyahu'nun demokratik kurumları kişisel çıkarları için eğip bükebileceğinden endişe duyduğunu belirtti",
+        "Netanyahu'nun Trump'takine benzer eğilimleri olduğunu kaydetti"
+      ],
+      "externalUrl": "https://www.haberturk.com/dunya/biden-dan-netanyahu-itirafi-aramizda-pek-guven-yoktu-3927507",
+      "publishedAt": "2026-11-15T13:04:42.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
+      "headline": "Davalar Trump'ın zenginleşme planlarını engelledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1730992508883-aa8c0714100b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RG9uYWxkJTIwVHJ1bXAlMjBsYXdzdWl0c3xlbnwxfDB8fHwxNzk0NzQ4NDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "The Now Time",
+        "photographerUrl": "https://unsplash.com/@thenowtime",
+        "unsplashUrl": "https://unsplash.com/photos/a-newspaper-sitting-in-a-red-shopping-cart-30oZkAz4u1Y"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Demokrasi yanlısı grupların açtığı davalar, federal yargıçların Trump'ın finansal hamlelerini reddetmesine yol açtı. 2026 yılında açılan davalar; vergi yükümlülüklerini azaltma, Truth Social platformunu destekleme ve federal fonları partizan reklamlar için kullanma gibi planları hedef aldı.",
+      "highlights": [
+        "Mahkemeler başkanın finansal planlarına sert tepkiler gösterdi",
+        "2026 yılında Trump'ın planlarına karşı çeşitli davalar açıldı",
+        "Davalar vergi, Truth Social ve federal fon kullanımı gibi konuları kapsadı"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/15/trump-self-enrichment-lawsuits",
+      "publishedAt": "2026-11-15T13:00:15.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
+      "headline": "Kayla Harrison, Amanda Nunes'i yenerek UFC horoz sıklet kemerini korudu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1647482273568-d3f0f74dbffa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VUZDJTIwY2hhbXBpb25zaGlwJTIwYmVsdHxlbnwxfDB8fHwxNzk0NzQ4NDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Frankie Cordoba",
+        "photographerUrl": "https://unsplash.com/@noorvoux",
+        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-Sde5IAXNSMM"
+      },
+      "timeAgo": "23 dk önce",
+      "body": "Kayla Harrison, üç yıllık arasının ardından geri dönüş yapan MMA efsanesi Amanda Nunes'i dördüncü rauntta pes ettirerek mağlup etti ve UFC horoz sıklet kemerini korudu.",
+      "highlights": [
+        "Kayla Harrison rakibini dördüncü rauntta pes ettirdi",
+        "Amanda Nunes üç yıllık aranın ardından geri döndü",
+        "Harrison UFC horoz sıklet kemerini korudu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/15/kayla-%e2%81%a0%e2%81%a0harrison-defeats-amanda-nunes-to-retain-ufc-bantamweight-belt?traffic_source=rss",
+      "publishedAt": "2026-11-15T12:50:50.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://tr.euronews.com/2026/11/15/cinin-elektrikli-yolcu-ucagi-ce-25a-ilk-insanli-ucusunu-tamamladi",
+      "headline": "Çin'in elektrikli yolcu uçağı CE-25A ilk insanlı uçuşunu tamamladı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1778621689738-6fdc9407bf35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWMlMjBhaXJwbGFuZXxlbnwxfDB8fHwxNzk0NzQ4NDQzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alan",
+        "photographerUrl": "https://unsplash.com/@alanhu4883",
+        "unsplashUrl": "https://unsplash.com/photos/airplane-contrail-across-a-colorful-twilight-sky-DMp0ynhQ0BE"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "Çin'in geliştirdiği CE-25A elektrikli yolcu uçağı ilk insanlı uçuşunu başarıyla tamamladı. Shandong eyaletinin Binzhou kentinden havalanan uçak, inişini yine aynı yere yaptı ve bildirildiğine göre yaklaşık 60 kilometre mesafe kat etti.",
+      "highlights": [
+        "CE-25A ilk insanlı uçuşunu tamamladı",
+        "Shandong'un Binzhou şehrinden havalanıp oraya indi",
+        "Yaklaşık 60 kilometre uçtu"
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/15/cinin-elektrikli-yolcu-ucagi-ce-25a-ilk-insanli-ucusunu-tamamladi",
+      "publishedAt": "2026-11-15T12:45:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
       "headline": "Trident nükleer denizaltısı rekor süreyle su altında kaldı",
@@ -6801,98 +6893,6 @@
       "publishedAt": "2026-11-07T08:28:15.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-eski-spk-yoneticileri-tutuklandi-1749779",
-      "headline": "Fon soruşturmasında eski SPK yöneticileri tutuklandı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1496361945947-d0250d31222a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQwNDExMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quilia",
-        "photographerUrl": "https://unsplash.com/@heyquilia",
-        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-SlyYm_CJW8E"
-      },
-      "timeAgo": "35 dk önce",
-      "body": "Türkiye gündeminde geniş yankı uyandıran fon soruşturması kapsamında adli makamlarca yürütülen işlemler kararlılıkla sürdürülüyor. Yargı organlarının titizlikle takip ettiği dosya çerçevesinde, son olarak dört şüphelinin daha tutuklandığı bildirildi. Gelişmeler, kamuoyunun dikkatini bir kez daha ekonomik ve finansal düzenleyici kurumlar etrafında şekillenen bu adli sürece çekti.\n\nElde edilen resmi bilgilere göre, son dalgada tutuklanan isimler arasında üst düzey eski kamu görevlileri de yer alıyor. Bu kapsamda, geçmişte Sermaye Piyasası Kurulu (SPK) Başkanvekili olarak görev yapmış olan Enver Usca'nın da tutuklananlar arasında bulunduğu kaydedildi. Usca'nın konumu, soruşturmanın ulaştığı boyut ve muhatap olduğu iddialar açısından dosyanın en çok dikkat çeken unsurlarından biri olarak öne çıkıyor.\n\nSoruşturma dosyasında adı geçen ve özgürlüğünü yitiren diğer kritik isim ise eski SPK Piyasa Gözetim ve Denetim Daire Başkanı Ercan Urkan oldu. Urkan'ın da tıpkı Usca gibi kurulun denetim ve gözetim mekanizmalarında uzun yıllar kritik görevler üstlenmiş olması, sürecin hassasiyetini ve kapsamını gözler önüne seriyor. Sermaye piyasalarının düzenlenmesi ve denetlenmesinde en yetkili mercilerden olan bu iki eski yöneticinin soruşturmaya dahil edilmesi, olayın ciddiyetini artıran temel etkenler arasında değerlendiriliyor.\n\nTürkiye'nin finansal piyasalarının güvenilirliği, şeffaflığı ve hukuki denetimi açısından hayati önem taşıyan Sermaye Piyasası Kurulu, tasarruf sahiplerinin haklarını korumak ve piyasa bütünlüğünü sağlamakla yükümlü bir kurum olarak biliniyor. Dolayısıyla, kurumun geçmişteki en üst düzey isimlerinin böylesi kapsamlı bir fon soruşturmasında hedef olması, ekonomi ve finans çevrelerinde de yakından takip ediliyor. Yargı mercileri, dosyadaki delil durumunu ve şüphelilerin konumunu göz önünde bulundurarak soruşturmayı derinleştiriyor.\n\nAdli süreç boyunca elde edilen yeni bulgular ve ifadeler doğrultusunda gözaltı ve tutuklama kararlarının artabileceği ifade ediliyor. Savcılık makamının koordinesinde yürütülen operasyonlar ve hukuki incelemeler, fon adı altında gerçekleştirildiği öne sürülen usulsüzlüklerin tüm yönleriyle gün ışığına çıkarılmasını amaçlıyor. İlerleyen günlerde soruşturma dosyasına yeni bilgilerin eklenmesi ve adli sürecin seyrine ilişkin resmi makamlarca bilgilendirme yapılması bekleniyor.",
-      "highlights": [
-        "Fon soruşturmasında adli makamlar dört kişiyi daha tutukladı.",
-        "Eski SPK Başkanvekili Enver Usca tutuklanan isimler arasında yer aldı.",
-        "Eski SPK Daire Başkanı Ercan Urkan da soruşturma kapsamında tutuklandı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-eski-spk-yoneticileri-tutuklandi-1749779",
-      "publishedAt": "2026-11-07T08:10:52.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/cm62yy51ekgyo?at_medium=RSS&at_campaign=rss",
-      "headline": "Yatmadan önce tatlı krizi yaşamanın biyolojik nedenleri ve bu alışkanlığı değiştirmenin yolları",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1494390248081-4e521a5940db?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aGVhbHRoeSUyMHNuYWNrc3xlbnwxfDB8fHwxNzk0MDQxMTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Brooke Lark",
-        "photographerUrl": "https://unsplash.com/@brookelark",
-        "unsplashUrl": "https://unsplash.com/photos/breakfast-bowl-with-fruit-and-coffee-nTZOILVZuOg"
-      },
-      "timeAgo": "35 dk önce",
-      "body": "Gün boyunca yaşanan yoğun temposunun ardından, akşam saatlerinde veya uyku vakti yaklaşırken birdenbire bastıran tatlı yeme isteği, birçok kişinin karşı karşıya kaldığı yaygın durumlar arasında yer almaktadır. Uzmanlar ve sağlık profesyonelleri, gece saatlerinde ortaya çıkan bu yoğun atıştırma arzusunun arkasında yatan sebeplerin sadece irade zayıflığı ile açıklanamayacağını, işin içinde son derece güçlü biyolojik mekanizmaların bulunduğunu ifade etmektedir. Günlük yaşamın getirdiği stres, hormonal dalgalanmalar ve vücudun enerji dengesini sağlama çabası, akşamın ilerleyen saatlerinde bireyleri karbonhidrat ve şeker ağırlıklı besinlere yöneltebilmektedir.\n\nBiyolojik açıdan incelendiğinde, vücudun günün sonunda tükenen enerji depolarını hızla yenileme arayışı bu tür istekleri tetikleyebilir. Özellikle düzensiz beslenen veya gün içinde yeterli kalori almayan bireylerde, akşam vakitlerinde beyin hızlı bir enerji kaynağı olarak şekeri ve tatlıları işaret eder. Bu durum, vücudun hayatta kalma ve enerji dengesini koruma reflekslerinin bir parçası olarak ortaya çıkar. Ancak gece tüketilen bu tür gıdalar, hem sindirim sistemi üzerinde olumsuz bir baskı oluşturabilir hem de uyku kalitesini doğrudan etkileyerek ertesi güne yorgun başlamaya neden olabilir.\n\nYatmadan hemen önce yaşanan bu tatlı krizlerinin kökeninde yatan biyolojik süreçleri anlamak, bu alışkanlıkla başa çıkabilmek adına atılacak ilk ve en önemli adımı oluşturur. Vücudun verdiği bu sinyalleri doğru okumak, kişinin akşam saatlerindeki beslenme düzenini yeniden gözden geçirmesine olanak tanır. Gün içerisindeki öğünlerin dengeli planlanması, protein ve lif ağırlıklı besinlerin tercih edilmesi, kan şekerinin ani dalgalanmalar yaşamasını engellemekte ve dolayısıyla gece saatlerinde gelebilecek ani tatlı krizlerinin önüne geçilmesinde kritik bir rol oynamaktadır.\n\nBu alışkanlığı değiştirmek ve gece atıştırmalıklarından kurtulmak isteyenler için günlük rutinde yapılabilecek çeşitli düzenlemeler bulunmaktadır. Akşam yemeklerinde yeterli miktarda besin tüketilmesi, vücudun gece boyunca ihtiyaç duyacağı dengenin kurulmasına yardımcı olur. Bununla bitmeyip, akşam saatlerinde ortaya çıkan hafif açlık hislerinin su tüketimi veya bitki çayları ile yatıştırılması da sıklıkla önerilen yöntemler arasındadır. Alışkanlıkları bir anda değiştirmek zor olabileceğinden, bu süreci kademeli olarak yönetmek ve bedenin sinyallerine kulak vermek uzun vadede başarı şansını artırmaktadır.\n\nSonuç olarak, yatmadan önce tatlılara yönelmenin arkasındaki nedenler kişiden kişiye değişebilmekle birlikte, çoğunlukla biyolojik temellere dayanmaktadır. Bu durumun farkında olmak, suçluluk duyulmasını engellemekte ve soruna daha bilinçli yaklaşılmasını sağlamaktadır. Gerekli önlemler alındığında ve beslenme düzeninde ufak ancak etkili değişiklikler yapıldığında, bu gece alışkanlığını geride bırakmak ve daha sağlıklı bir uyku düzenine kavuşmak, atılacak adımlarla mümkündür.",
-      "highlights": [
-        "Gece tatlı krizlerinin arkasında biyolojik nedenler yer alabilir.",
-        "Günlük beslenme düzenini değiştirmek bu alışkanlığı kırmaya yardımcı olur.",
-        "Bedenin sinyallerini doğru okumak uyku kalitesini de olumlu etkiler."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/cm62yy51ekgyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-07T08:10:12.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
-      "headline": "Doncic'in 53 sayısı Lakers'a galibiyeti getirirken, LeBron James'in dönüşünde Cavaliers Sixers'ı mağlup etti",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmFza2V0YmFsbCUyMHBsYXllciUyMHNjb3Jpbmd8ZW58MXwwfHx8MTc5NDA0MTEzMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/ball-under-basketball-ring-BfphcCvhl6E"
-      },
-      "timeAgo": "36 dk önce",
-      "body": "Basketbol dünyasında heyecan fırtınası estiren son karşılaşmalar, parkede unutulmaz anlara sahne olurken, yıldız oyuncuların performansları spor gündeminin zirvesine yerleşti. Gerçekleşen mücadeleler kapsamında, LA Lakers takımının yıldız ismi Doncic, kaydettiği toplam 53 sayıyla takımını sırtlayarak galibiyete taşıyan başrol oldu. Karşılaşmanın gidişatını değiştiren en çarpıcı anlardan biri, birinci devrenin kapanış saniyelerinde yaşandı. Doncic, sahanın kendi yarı alanından oldukça uzak bir noktadan, orta saha çizgisinin de hayli gerisinden çıkardığı inanılmaz şutu sayıya çevirerek tribünleri ve ekran başındaki izleyicileri büyüledi. Bu olağanüstü isabet, sadece ilk yarının skorunu belirlemekle kalmadı, aynı zamanda karşılaşmanın enerjisini ve kırılma anını da tamamen Lakers lehine çevirdi.\n\nÖte yandan, ligdeki bir diğer dikkat çekici mücadele LeBron James'in sahalara dönüşüyle basketbolseverlerin odak noktası haline geldi. Uzun süredir beklenen dönüşüyle parkelere ayak basan LeBron James, takımı Cavaliers'ın Sixers karşısında galibiyet mücadelesi verdiği karşılaşmada önemli bir rol oynadı. Cavaliers, rakibi Sixers karşısında üstün bir oyun sergileyerek sahadan galibiyetle ayrılmayı başardı. James'in parkelere bu güçlü dönüşü, takımının motivasyonunu üst seviyeye taşıdı ve sezonun ilerleyen haftaları adına rekabetin ne denli kızışacağının sinyallerini verdi.\n\nProfesyonel basketbol liglerinde sezonun bu dönemi, takımların play-off yarışındaki konumlarını sağlamlaştırmak adına büyük önem arz ediyor. Doncic gibi bireysel yeteneklerin zirve yaptığı performanslar, takımların kaderini doğrudan etkiliyor. Lakers formasıyla gösterdiği bu tarihi 53 sayılık üstün performans, oyuncunun ligin en skorer ve durdurulamaz figürlerinden biri olduğunu bir kez daha kanıtladı. Orta sahanın gerisinden atılan o muazzam basket ise modern basketbol tarihinde uzun süre hafızalardan silinmeyecek estetik anlar arasına adını yazdırdı.\n\nBununla birlikte, LeBron James'in formasına kavuşması ve Cavaliers'ın Sixers engellerini aşarak yoluna devam etmesi, ligdeki güç dengelerinin ne kadar dinamik olduğunu gösteriyor. Tecrübeli yıldızın sahalara dönüşü, sadece kendi ekibi için değil, tüm lig organizasyonu için büyük bir moral kaynağı oluşturdu. Sixers karşısında elde edilen bu galibiyet, takımın kolektif uyumunu ve zorluklar karşısındaki direncini gözler önüne serdi.\n\nHer iki karşılaşma da basketbolseverlere sporun barındırdığı rekabet gücünü, bireysel dehanın sınırlarını zorlayan anları ve takım sporlarının ruhunu en üst düzeyde yaşattı. Doncic'in uzak mesafeli mucizevi şutu ve 53 sayılık ihtişamlı gece kayıtlara geçerken, LeBron James'in sahalara galibiyetle dönmesi sezonun en çok konuşulan hikayeleri arasına katıldı. Bu tür performanslar, ligin kalitesini ve izlenebilirliğini artırırken, taraftarların gelecek maçlara olan heyecanını da doruk noktaya ulaştırıyor.",
-      "highlights": [
-        "Doncic kaydettiği 53 sayıyla Lakers'ı galibiyete taşıdı.",
-        "Yıldız oyuncu, ilk yarının sonunda orta saha çizgisinin gerisinden inanılmaz bir şut çıkardı.",
-        "LeBron James'in sahalara döndüğü maçta Cavaliers Sixers'ı mağlup etti."
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/11/7/doncic-lakers-lebron-cavaliers-sixers-nba-cup-basketball?traffic_source=rss",
-      "publishedAt": "2026-11-07T08:10:01.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/zeytinburnunda-trafikte-yol-verme-kavgasi-otomobilden-inen-surucu-diger-aracin-camini-yumrukladi-43369234",
-      "headline": "Zeytinburnu'nda trafikte yol verme kavgası: Sürücü aracın camını yumrukladı",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1669820509947-ecaf3cf52a59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhZmZpYyUyMGphbSUyMGNhcnxlbnwxfDB8fHwxNzk0MDQxMTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Samuel Girven",
-        "photographerUrl": "https://unsplash.com/@sgir_v",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-cars-on-a-street-qa1S3phlObs"
-      },
-      "timeAgo": "37 dk önce",
-      "body": "İstanbul'un Zeytinburnu ilçesinde, trafikte seyir halinde olan sürücüler arasında henüz belirlenemeyen bir sebepten dolayı yol verme tartışması yaşandı. Günlük yaşamın getirdiği yoğunluk ve trafikteki stresin zaman zaman gerilimlere yol açtığı bilinen bir gerçekken, bu olayda da iki sürücü arasında anlaşmazlık baş gösterdi. Kısa sürede büyüyen tartışma, tarafların birbirine yönelik tepkileriyle sokak ortasında adeta bir gerginlik anına dönüştü.\n\nTrafik akışının seyri sırasında yaşanan bu tür anlaşmazlıklar, genellikle sürücülerin anlık öfke kontrol sorunlarıyla birleştiğinde istenmeyen görüntülere sahne olabiliyor. Zeytinburnu'ndaki olayda da benzer bir tablo ortaya çıktı ve taraflar arasındaki sözlü atışma kısa süre içinde fiziksel bir tepkiye evrildi. Sürücülerden biri, içinde bulunduğu otomobili durdurarak araçtan dışarı çıktı ve diğer sürücüye doğru yöneldi.\n\nAraçtan inen öfkeli sürücü, tartıştığı diğer aracın yanına giderek tepkisini sert bir şekilde gösterdi. Çevredeki diğer yol kullanıcılarının şaşkın bakışları arasında gerçekleşen olayda, sinirlerine hakim olamayan sürücü, muhatabının aracının camını yumruklamaya başladı. Bu ani ve agresif hareket, trafikte güvenlik ve tahammül sınırlarının ne kadar çabuk aşlabileceğini bir kez daha gözler önüne serdi.\n\nTrafikte yaşanan bu tür münakaşalar ve sonrasındaki fevri hareketler, yalnızca ilgili kişilerin güvenliğini tehlikeye atmakla kalmıyor, aynı zamanda genel trafik düzenini ve huzurunu da olumsuz etkiliyor. Zeytinburnu'nda kaydedilen bu olay, sürücülerin trafikte karşılaştıkları anlaşmazlıkları sakin bir şekilde çözmeleri ve öfke kontrolünün önemini hatırlatması bakımından dikkat çekti.\n\nOlayın ardından tarafların yollarına nasıl devam ettiği veya çevredeki diğer vatandaşların duruma müdahale edip etmediği konusunda başka bir detay bulunmazken, yaşanan bu kısa süreli gerginlik trafikteki hoşgörüsüzlüğün somut bir örneği olarak kayıtlara geçti. Uzmanlar, trafikte bu tarz tartışmaların büyümesini engellemek adına sürücülerin daha sabırlı olmaları gerektiğinin altını sürekli olarak çiziyor.",
-      "highlights": [
-        "Zeytinburnu'nda iki sürücü arasında yol verme tartışması çıktı.",
-        "Otomobilinden inen sürücü diğer aracın camını yumrukladı.",
-        "Yaşanan gergin anlar trafikte öfke kontrolünün önemini hatırlattı."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/zeytinburnunda-trafikte-yol-verme-kavgasi-otomobilden-inen-surucu-diger-aracin-camini-yumrukladi-43369234",
-      "publishedAt": "2026-11-07T08:09:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ]
 }
