@@ -886,6 +886,11 @@
 const FEED_URL = './haberler.json';
 const SITE_NAME = 'Küresel Haberler';
 const AD_EVERY_N = 6;
+function freshJsonUrl(path) {
+  const url = new URL(path, document.baseURI);
+  url.searchParams.set('v', Date.now().toString());
+  return url;
+}
 const PINNED_CATEGORIES = ['Gündem', 'Ekonomi', 'Spor', 'Teknoloji', 'Dünya'];
 const REACTIONS = [
   { key: 'surprised', emoji: '😲', label: 'Şaşırtıcı' },
@@ -1120,7 +1125,9 @@ let weatherData = null;
 let marketsPromise = null;
 function ensureMarketsLoaded() {
   if (!marketsPromise) {
-    marketsPromise = fetch('./markets.json').then(r => r.json()).catch(() => null);
+    marketsPromise = fetch(freshJsonUrl('./markets.json'), { cache: 'no-store' })
+      .then(r => r.ok ? r.json() : null)
+      .catch(() => null);
   }
   marketsPromise.then(data => {
     marketsData = data;
@@ -1959,8 +1966,8 @@ initKbdHint();
 ensureMarketsLoaded();
 ensureWeatherLoaded();
 
-fetch(FEED_URL)
-  .then(r => r.json())
+fetch(freshJsonUrl(FEED_URL), { cache: 'no-store' })
+  .then(r => r.ok ? r.json() : Promise.reject(new Error('Haber akışı alınamadı')))
   .then(data => {
     allArticles = (data.articles || []).slice().sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0));
     if (data.generatedAt) {
