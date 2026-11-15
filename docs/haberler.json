@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-15T18:14:37.235Z",
+  "generatedAt": "2026-11-15T18:26:12.089Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
+      "headline": "Trump, Putin ve Şi'den Üçlü Zirve Hazırlığı",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1718390996817-f522efe4b0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RCVDMyVCQ255YXxlbnwxfDB8fHwxNzk0NzY3MTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Furkan Elveren",
+        "photographerUrl": "https://unsplash.com/@furkanelveren",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-standing-in-front-of-an-old-theater-GmcUsuukZbw"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Çin, Rusya ve ABD liderlerinin ilk kez gerçekleştireceği üçlü toplantı hazırlıkları Avrupa'da yankı uyandırdı. Bazı çevreler bu gelişmeyi, İkinci Dünya Savaşı sonrasında dünyanın nüfuz alanlarına bölünmesiyle kıyaslıyor.",
+      "highlights": [
+        "Çin, Rusya ve ABD liderleri ilk kez üçlü toplantı düzenlemeye hazırlanıyor",
+        "Hazırlıklar Avrupa'nın dikkatini çekiyor",
+        "Bazı çevreler durumu İkinci Dünya Savaşı sonrası nüfuz alanlarına benzetiyor"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T18:23:01.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
       "headline": "Zelensky'den ABD ve Musk'a Starlink çağrısı",
@@ -134,6 +157,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
       "publishedAt": "2026-11-15T17:04:55.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+      "headline": "Oxfordshire'daki sığınmacı merkezi planına kanalizasyon tesisi uyarısı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1622322977767-2c71d1787205?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c2V3YWdlJTIwd29ya3N8ZW58MXwwfHx8MTc5NDc2NzE3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Patrick Federi",
+        "photographerUrl": "https://unsplash.com/@federi",
+        "unsplashUrl": "https://unsplash.com/photos/round-gray-and-white-round-structure-3zARwJlUjts"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Oxfordshire'daki Campsfield House göçmen tutma merkezinin yanına yapılması planlanan sığınmacı tesisleri eleştirilerle karşılaşıyor. Thames Water şirketi, sığınmacıların böcek sürüleri ve yoğun koku ile karşılaşabileceği uyarısında bulundu.",
+      "highlights": [
+        "Planlanan tesis kanalizasyon pompasının 20 metre yakınında olacak",
+        "Thames Water böcek sürüleri ve güçlü kokular konusunda uyardı",
+        "Thames Water yazılı sunumunda itirazlarını bildirdi"
+      ],
+      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
+      "publishedAt": "2026-11-15T16:47:39.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6845,52 +6891,6 @@
       "publishedAt": "2026-11-07T14:30:00.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://www.sabah.com.tr/yasam/yabanci-uyruklu-kadinlara-fuhus-yaptiran-sebeke-cokertildi-musteriler-icin-kadinlarin-fotograflarinin-oldugu-katalog-olusturmuslar-16-kadin-sinir-disi-edildi-7-supheli-tutuklandi-7697026",
-      "headline": "Konya merkezli iki ilde fuhuş operasyonu: Yedi gözaltı",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1538115081112-32c7d8401807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTM5MzQzNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AJ Colores",
-        "photographerUrl": "https://unsplash.com/@ajcolores",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-police-in-the-middle-of-the-road-aZ-TRPezwt0"
-      },
-      "timeAgo": "51 dk önce",
-      "body": "Türkiye genelinde emniyet güçlerinin suç ve suçlularla mücadelesi kararlılıkla devam ederken, bu kapsamda yürütülen çalışmalar sonucunda dikkat çeken bir operasyona imza atıldı. Konya merkezli olarak toplam iki ilde gerçekleştirilen eş zamanlı baskınlarda, yabancı uyruklu kadınlara zorla fuhuş yaptırdığı tespit edilen suç şebekesi hedef alındı.\n\nElde edilen resmi bilgilere göre, güvenlik birimlerinin uzun süredir yürüttüğü titiz takip ve istihbarat çalışmaları neticesinde, şüphelilerin faaliyet gösterdiği adresler belirlendi. Yapılan planlı operasyonlar sonucunda şebeke üyesi olduğu değerlendirilen toplam 7 şüpheli yakalanarak gözaltına alındı. Operasyonun, kamu düzenini ve huzurunu korumak amacıyla yürütülen güvenlik stratejilerinin bir parçası olduğu ifade edildi.\n\nSoruşturma sürecinde güvenlik güçlerinin elde ettiği detaylar, şebekenin işleyiş mekanizmasını da gözler önüne serdi. Buna göre, şüphelilerin yabancı uyruklu kadınları fuhşa zorlamak amacıyla organize bir sistem kurdukları tespit edildi. Suç şebekesinin, mağdur kadınların fotoğraflarından oluşan özel bir katalog hazırladığı ve bu katalog aracılığıyla müşterilerle bağlantı kurduğu belirlendi.\n\nEmniyet birimleri tarafından yakalanan 7 şüpheli, ifadeleri alınmak ve yasal işlemlerinin tamamlanması amacıyla emniyet müdürlüğüne götürüldü. Şüphelilerin buradaki işlemlerinin ardından adliyeye sevk edilmesi beklenirken, olayla ilgili soruşturmanın çok yönlü olarak sürdürüldüğü bildirildi.\n\nBu tür suç örgütleriyle mücadelenin aralıksız süreceği vurgulanırken, benzer yasa dışı faaliyetlerin önlenmesi adına vatandaşların duyarlılığının ve güvenlik güçleriyle iş birliğinin önemine dikkat çekildi. Konya merkezli bu operasyon, organize suç yapılarına karşı yürütülen mücadelenin kararlılığını bir kez daha ortaya koydu.",
-      "highlights": [
-        "Konya merkezli iki ilde yabancı uyruklu kadınlara fuhuş yaptıran şebekeye operasyon düzenlendi.",
-        "Düzenlenen eş zamanlı baskınlarda toplam 7 şüpheli gözaltına alındı.",
-        "Şüphelilerin müşteriler için kadınların fotoğraflarının yer aldığı bir katalog oluşturduğu belirlendi."
-      ],
-      "externalUrl": "https://www.sabah.com.tr/yasam/yabanci-uyruklu-kadinlara-fuhus-yaptiran-sebeke-cokertildi-musteriler-icin-kadinlarin-fotograflarinin-oldugu-katalog-olusturmuslar-16-kadin-sinir-disi-edildi-7-supheli-tutuklandi-7697026",
-      "publishedAt": "2026-11-07T14:22:14.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/dunya/ermenistandan-turkiye-itirafi-70-yildir-yanilgi-icinde-yasamisiz-43369725",
-      "headline": "Ermenistan'dan Türkiye itirafı: 70 yıldır yanılgı içinde yaşamışız",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1660795307991-8a7ebbef311c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZGlwbG9tYXRpYyUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDA2NDM5OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Herlambang Tinasih Gusti",
-        "photographerUrl": "https://unsplash.com/@tinasihgusti",
-        "unsplashUrl": "https://unsplash.com/photos/a-person-standing-in-front-of-a-group-of-people-in-white-robes-0TEluSjcztk"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Ermenistan siyasetinde ve dış ilişkilerinde son dönemin en dikkat çekici değerlendirmelerinden biri geldi. Ermenistan Güvenlik Konseyi Sekreteri Alen Simonyan, ülkesinin geçmiş dış politika ve güvenlik paradigmalarına dair ezber bozan açıklamalarda bulundu. Yapılan bu açıklamalar, bölgedeki diplomatik dengelerin ve algıların nasıl bir dönüşüm sürecinden geçebileceğine dair yeni tartışmaların kapısını araladı. Konunun muhatapları ve bölgesel gözlemciler, bu değerlendirmelerin gelecekteki olası adımlar açısından ne anlama geldiğini yakından takip ediyor.\n\nAlen Simonyan, kamuoyuna yansıyan değerlendirmelerinde, ülkesinin uzun yıllar boyunca dış politikada belirli bir korku ve tehdit algısı üzerine kurulmuş bir hat izlediğini ifade etti. Bu bağlamda, Türkiye'den yönelen bir tehlike söyleminin arkasına sığınılarak, Moskova yönetimine yani Rusya'ya entegre ve bağımlı bir savunma mimarisinin tercih edildiğini kaydetti. Simonyan, geçmiş on yılları kapsayan bu zaman zarfında aslında büyük bir yanılgı içinde olunduğunu açık bir dille dile getirdi. Bu itiraf, ülkenin yakın tarihli stratejik tercihlerinin üst düzey bir yetkili tarafından sorgulanması bakımından önemli bir kırılma noktası olarak değerlendiriliyor.\n\nGeçmişteki hatalı yaklaşımların geride bırakılması gerektiğinin altını çizen Güvenlik Konseyi Sekreteri, komşu ülke Türkiye ile diplomatik ve siyasi bağların normalleşmesi zaruretine vurgu yaptı. Sınırların ve ilişkilerin kapalı kalmasının veya gerilimli bir eksende sürdürülmesinin artık sürdürülebilir olmadığını ima eden bu duruş, iki ülke arasındaki buzların eritilmesi yönündeki çağrılara yeni bir boyut kazandırdı. Normalleşme sürecinin hayata geçirilmesinin, sadece bugünün siyasi aktörleri için değil, aynı zamanda bölgenin geleceği açısından da elzem olduğu ifade edildi.\n\nAçıklamalarının devamında gelecek nesillere odaklanan Alen Simonyan, yeni kuşaklara çatışmalarla dolu bir miras yerine kalıcı bir barış ortamı bırakılması gerektiğinin altını çizdi. Siyasi liderlerin sorumluluğunun çocuklara ve torunlara güvenli bir coğrafya sunmak olduğunu belirten Simonyan, bu hedefe ulaşmak için diyalog yollarının açık tutulmasının kaçınılmaz olduğunu dile getirdi. Barış mirası vurgusu, bölgede uzun süredir devam eden kısır döngünün kırılmasına yönelik temennilerin en somut yansımalarından biri olarak kayıtlara geçti.\n\nBölgesel barış ve istikrarın tesisi adına yapılan bu tür açıklamaların pratikte nasıl bir karşılık bulacağı, önümüzdeki dönemde atılacak somut adımlarla netleşecek. Gerek Erivan'daki iç siyasi dinamikler gerekse uluslararası aktörlerin tutumu, bu söylem değişikliğinin kalıcı bir politika haline gelip gelmeyeceğini belirleyecek temel etkenler arasında yer alıyor. Türkiye ile ilişkilerin normalleşmesi ve 70 yıllık ezberlerin bozulması yönündeki bu irade beyanı, Kafkasya'daki diplomatik trafiğin önümüzdeki süreçte de sıklıkla bu eksende şekilleneceğini gösteriyor.",
-      "highlights": [
-        "Ermenistan Güvenlik Konseyi Sekreteri Simonyan'dan dikkat çeken itiraf",
-        "70 yıldır Türkiye tehdit söylemiyle Rusya'ya bağımlı olunduğu belirtildi",
-        "Gelecek nesillere barış mirası bırakılması için normalleşme çağrısı yapıldı"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/dunya/ermenistandan-turkiye-itirafi-70-yildir-yanilgi-icinde-yasamisiz-43369725",
-      "publishedAt": "2026-11-07T14:13:07.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ]
 }
