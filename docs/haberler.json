@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-15T18:34:34.057Z",
+  "generatedAt": "2026-11-15T18:40:45.627Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-a-milli-takim-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3927446",
+      "headline": "A Milli Takım Fransa deplasmanında",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1535506197904-e5c09c0e5619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmF0aW9uYWwlMjBmb290YmFsbCUyMHRlYW18ZW58MXwwfHx8MTc5NDc2ODAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jeffrey F Lin",
+        "photographerUrl": "https://unsplash.com/@jeffreyflin",
+        "unsplashUrl": "https://unsplash.com/photos/girl-soccer-group-on-soccer-field-oc8m9Cj8dsc"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup son maçında deplasmanda Fransa ile karşı karşıya geliyor. Grupta puanı bulunmayan Ay-yıldızlılar, Bordeaux'da oynanacak zorlu mücadelede puan veya puanlar hedefliyor.",
+      "highlights": [
+        "Maç Bordeaux'da oynanıyor",
+        "Millilerin grupta henüz puanı bulunmuyor"
+      ],
+      "externalUrl": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-a-milli-takim-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3927446",
+      "publishedAt": "2026-11-15T18:32:55.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
       "headline": "Bursa'da ev yangını: 5 ev yandı, 10 kişi dumandan etkilendi",
@@ -23,6 +45,29 @@
       "publishedAt": "2026-11-15T18:29:32.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+      "headline": "Estonya, Rusya ile tüm sınır kapılarını kapatma kararı aldı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1720173432891-94045001a169?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Ym9yZGVyJTIwY3Jvc3NpbmclMjBFc3RvbmlhfGVufDF8MHx8fDE3OTQ3NjgwMzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Marek Lumi",
+        "photographerUrl": "https://unsplash.com/@mareklumi",
+        "unsplashUrl": "https://unsplash.com/photos/a-street-view-of-a-town-with-a-few-buildings-mfH35Ir_5LE"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "Estonya, bir insansız hava aracı üreticisine düzenlenen şüpheli sabotaj girişiminin ardından Rusya ile tüm sınır kapılarını 1 Aralık'tan itibaren kapatacak. Yetkililer, saldırının Rusya'nın askerî istihbarat teşkilatı GRU tarafından emredildiğini belirtti. Savunma şirketi Threod Systems'e yönelik cumartesi sabahı düzenlenen saldırı girişiminde 8 kişi gözaltına alındı.",
+      "highlights": [
+        "Estonya Rusya sınır kapılarını kapatıyor",
+        "Saldırı girişiminde 8 kişi gözaltına alındı",
+        "Yetkililer saldırının Rus istihbaratınca emredildiğini açıkladı"
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+      "publishedAt": "2026-11-15T18:23:12.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/cjdx1y7p47ydo?at_medium=RSS&at_campaign=rss",
@@ -66,6 +111,29 @@
       ],
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
       "publishedAt": "2026-11-15T18:07:32.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+      "headline": "Estonya, Rusya sınır kapılarını drone üreticisine düzenlenen saldırı sonrası kapatacak",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1626449569473-462035785765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Ym9yZGVyJTIwY3Jvc3Npbmd8ZW58MXwwfHx8MTc5NDc2ODA0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hermes Rivera",
+        "photographerUrl": "https://unsplash.com/@hermez777",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-metal-fence-aJ8F0SmOBpY"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "Estonya, Tallinn'in Rus istihbaratı tarafından emredildiğini açıkladığı kundaklama girişimiyle bağlantılı olarak sekiz kişinin gözaltına alındığını duyurdu.",
+      "highlights": [
+        "Rusya sınır kapıları kapatılacak",
+        "Kundaklama girişimiyle ilgili sekiz kişi gözaltına alındı",
+        "Saldırının Rus istihbaratı tarafından emredildiği belirtildi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
+      "publishedAt": "2026-11-15T18:07:02.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6819,75 +6887,6 @@
       ],
       "externalUrl": "https://www.sabah.com.tr/dunya/fransada-polis-gostericilere-biber-gaziyla-mudahale-etti-sefilleri-okumak-istiyoruz-yasamak-degil-7697130",
       "publishedAt": "2026-11-07T18:23:09.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/selcuk-inan-oyuncularim-maci-cok-istedi-3490261",
-      "headline": "Selçuk İnan: Oyuncularım maçı çok istedi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1585757318177-0570a997dc3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBjb2FjaHxlbnwxfDB8fHwxNzk0MDY0MzcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nguyen Thu Hoai",
-        "photographerUrl": "https://unsplash.com/@thwhoai",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-blue-crew-neck-t-shirt-standing-on-track-field-during-daytime-v0H-vn0BixI"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türk futbolunun önemli isimlerinden biri olan ve teknik direktörlük kariyerinde dikkat çeken adımlar atan Selçuk İnan, takımı Kocaelispor'un başında çıktığı zorlu karşılaşmanın ardından değerlendirmelerde bulundu. Geride kalan mücadelenin ardından spor kamuoyunun ve futbolseverlerin merakla beklediği açıklamaları yapan İnan, takımının sahada gösterdiği mücadele ruhuna ve kazanma arzusuna özellikle vurgu yaptı.\n\nFutbol dünyasında rekabetin her geçen hafta arttığı ve takımların hedefledikleri noktalara ulaşabilmek için büyük bir çaba sarf ettiği bu dönemde, alınan her galibiyetin ayrı bir önemi bulunuyor. Kocaelispor teknik direktörü Selçuk İnan da Eyüpspor karşısında elde edilen sonuç sonrasında bu durumun altını çizerek, oyuncularının sahaya yansıttığı iradeden duyduğu memnuniyeti dile getirdi. Müsabakanın başından sonuna kadar taktik disipline sadık kalan ve galibiyet için gerekli olan mücadeleyi sahaya koyan futbolcular, teknik heyetin de takdirini kazandı.\n\nKarşılaşmanın ardından düzenlenen basın toplantısında ya da maç sonu yayınlarında sıkça sorulan sorulara yanıt veren teknik adamlar, takım içi motivasyonu ve oyuncuların performansını değerlendirir. Selçuk İnan da bu kapsamda yaptığı değerlendirmede, Eyüpspor mücadelesinde sahada yer alan isimlerin maçı ne kadar çok istediğini açıkça gösterdiğini belirtti. Bu tür kritik maçların kazanılmasında teknik ve taktik hazırlığın yanı sıra mental hazırlığın da büyük rol oynadığı bilinirken, İnan'ın oyuncularının bu konudaki istekliliğine dikkat çekmesi dikkat çekti.\n\nSezon boyunca oynanan her maçın takımın genel hedefi doğrultusunda birer basamak niteliği taşıdığı biliniyor. Kocaelispor cephesinde de Eyüpspor karşısında alınan bu sonucun, hem puan tablosundaki konum hem de gelecek haftalar adına moral ve motivasyon kaynağı olması bekleniyor. Selçuk İnan'ın maç sonundaki sözleri, takımın birlik beraberlik içinde olduğunu ve sahada ortak bir amaç doğrultusunda ter döktüğünü bir kez daha gözler önüne serdi.\n\nTürk futbolunda kulüplerin ve teknik direktörlerin sezon hedeflerine ulaşabilmesi için bu tür galibiyetlerin seri haline gelmesi büyük önem taşıyor. Selçuk İnan ve öğrencileri, Eyüpspor karşısında elde edilen bu başarının ardından çalışmalarına aynı kararlılıkla devam etmeyi hedeflerken, teknik direktörün oyuncularına duyduğu güven de yapılan bu açıklamalarla net bir şekilde ifade edilmiş oldu. Futbolseverler ve kulüp camiası, önümüzdeki haftalarda sergilenecek performansı şimdiden merakla beklemeye başladı.",
-      "highlights": [
-        "Kocaelispor teknik direktörü Selçuk İnan, Eyüpspor galibiyeti sonrası konuştu.",
-        "İnan, oyuncularının sahada maçı fazlasıyla istediğini belirtti.",
-        "Açıklamalar takımın sahadaki mücadelesine ve arzusuna odaklandı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/selcuk-inan-oyuncularim-maci-cok-istedi-3490261",
-      "publishedAt": "2026-11-07T17:40:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/spor/turk-telekom-biotekno-korfez-basketi-94-82-yendi/4115301",
-      "headline": "Türk Telekom, Biotekno Körfez Basket'i 94-82 yendi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1504450758481-7338eba7524a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YmFza2V0YmFsbCUyMGdhbWV8ZW58MXwwfHx8MTc5NDA2NDM3NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "JC Gellidon",
-        "photographerUrl": "https://unsplash.com/@jcgellidon",
-        "unsplashUrl": "https://unsplash.com/photos/people-inside-the-basketball-court-XmYSlYrupL8"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Türkiye Sigorta Basketbol Süper Ligi'nin heyecan dolu 7. hafta karşılaşmaları kapsamında basketbolseverler kritik mücadelelere tanıklık etmeye devam ediyor. Bu kapsamda parkeye çıkan Türk Telekom, kendi seyircisi önünde ağırladığı rakibi Biotekno Körfez Basket karşısında üstün bir oyun ortaya koydu. Mücadelenin ilk düdüğünden itibaren iki ekip de parkede galibiyet için büyük bir mücadele sergilerken, Türk Telekom taraftarının da desteğini arkasına alarak maç boyunca skoru kontrol altında tutmayı başardı. Karşılaşmanın ilerleyen bölümlerinde her iki takım da taktiksel hamleler yaparak farkı kapatma veya açma mücadelesi verirken, savunma ve hücum organizasyonlarında yaşanan rekabet tribünleri dolduran sporseverlere heyecanlı anlar yaşattı.\n\nMaçın genelinde sergilenen takım oyunu ve kritik atışlar, skor tablosunun şekillenmesinde belirleyici oldu. Özellikle parkenin belirli bölümlerinde üstünlüğü eline alan ev sahibi ekip Türk Telekom, rakibinin potasına gönderdiği sayılarla aradaki skor avantajını korumayı bildi. Konuk ekip Biotekno Körfez Basket ise zorlu deplasmanda maçtan kopmamak için büyük bir direnç gösterdi ve sahadan ayrılana kadar mücadelesini sürdürdü. Ancak maçın kritik kırılma anlarında daha az hata yapan ve hücumdaki yüzdesini koruyan Türk Telekom, karşılaşmanın son düdüğüne kadar bu avantajını sürdürmeyi başardı.\n\nKarşılaşmanın sonunda skor tabelası Türk Telekom lehine 94-82'lik bir sonuçla tescillendi. Alınan bu sonuçla birlikte ev sahibi ekip, ligdeki puan durumunu ve genel sıralamadaki konumunu yakından ilgilendiren kritik bir galibiyete imza attı. Türkiye Sigorta Basketbol Süper Ligi'nin rekabetçi atmosferinde her maçın önemi büyük olurken, bu mücadele de ligin gidişatı açısından takımların form durumunu gözler önüne serdi.\n\nSpor liglerinde sezonun bu aşamasında alınan her galibiyet, takımların ilerleyen haftalardaki hedefleri doğrultusunda büyük bir önem taşımaktadır. Türk Telekom'un kendi sahasında elde ettiği bu başarılı skor, hem takımın moral ve motivasyonunu artırmakta hem de teknik heyetin ilerleyen maçlar için yapacağı planlamalara katkı sağlamaktadır. Öte yandan mağlubiyetle ayrılan Biotekno Körfez Basket ise bu karşılaşmadan çıkardığı derslerle önündeki maçlara odaklanacak ve ligdeki mücadelesini sürdürecektir.\n\nBasketbolseverlerin yakından takip ettiği Türkiye Sigorta Basketbol Süper Ligi, her hafta birbirinden çekişmeli müsabakalara sahne olmaya devam ediyor. Türk Telekom ile Biotekno Körfez Basket arasında oynanan bu 7. hafta karşılaşması da ligin rekabet seviyesini ve takımların parkedeki mücadelesini gösteren önemli maçlardan biri olarak kayıtlara geçti. Karşılaşmanın ardından her iki takım da gelecek hafta oynayacakları yeni maçların hazırlıklarına başlamak üzere salonlardan ayrıldı.",
-      "highlights": [
-        "Türk Telekom, Biotekno Körfez Basket'i konuk etti.",
-        "Karşılaşma Türkiye Sigorta Basketbol Süper Ligi 7. hafta maçıdır.",
-        "Türk Telekom mücadeleyi 94-82'lik skorla kazandı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/spor/turk-telekom-biotekno-korfez-basketi-94-82-yendi/4115301",
-      "publishedAt": "2026-11-07T15:08:12.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/dunya/son-dakika-cumhurbaskani-erdogan-dan-ilham-aliyev-e-zafer-gunu-tebrik-mektubu-3925628",
-      "headline": "Cumhurbaşkanı Erdoğan'dan Aliyev'e Zafer Günü tebrik mektubu",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1634562876572-5abe57afcceb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZGlwbG9tYXRpYyUyMGxldHRlcnN8ZW58MXwwfHx8MTc5NDA2NDM3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Towfiqu barbhuiya",
-        "photographerUrl": "https://unsplash.com/@towfiqu999999",
-        "unsplashUrl": "https://unsplash.com/photos/a-pen-sitting-on-top-of-a-piece-of-paper-6FpGIdn45_A"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Türkiye Cumhuriyeti Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'e anlamlı bir gün dolayısıyla özel bir mektup iletti. Gönderilen bu tebrik mektubunun ana gündem maddesini, 8 Kasım Zafer Günü oluşturdu. İki ülke arasındaki yakın ve stratejik ilişkilerin bir göstergesi olan bu diplomatik adım, bölgesel gelişmelerin ve tarihi dönüm noktalarının önemini bir kez daha gözler önüne serdi.\n\nCumhurbaşkanı Erdoğan, kaleme aldığı mektup metninde Azerbaycan'ın verdiği haklı mücadelenin önemine vurgu yaptı. Bu büyük zaferin taçlandırılmasının sadece Azerbaycan açısından değil, aynı zamanda tüm Türk dünyası için de büyük bir gurur kaynağı haline geldiğini belirtti. Tarihi süreç içerisinde yaşanan gelişmelerin ve elde edilen başarıların ortak bir sevinç ve onur vesilesi olduğu mesajı verildi.\n\nMektupta ayrıca, çatışmaların ve işgalin sona ermesinin ardından atılan somut adımlara da değinildi. İşgalden kurtarılan coğrafyalarda başlatılan yeniden inşa ve ihya çalışmalarının büyük bir hızla ilerlediğine dikkat çeken Erdoğan, bu sürecin kendilerinde de derin bir gurur duygusu uyandırdığını ifade etti. Bölgenin eski ihtişamına kavuşturulması ve kalkındırılması için yürütülen faaliyetlerin yakından takip edildiği ve takdirle karşılandığı belirtildi.\n\nUluslararası ilişkilerde ve diplomasi trafiğinde bu tür tebrik mesajları, dost ve müttefik ülkeler arasındaki dayanışmayı pekiştiren önemli unsurlar arasında yer alıyor. 8 Kasım Zafer Günü vesilesiyle gönderilen bu mektup da iki kardeş ülke arasındaki bağların gücünü ve ortak vizyonu bir kez daha teyit etmiş oldu. Türkiye ve Azerbaycan arasındaki bu sarsılmaz dayanışmanın, gelecekte de her alanda süreceğine dair inançlar yinelendi.\n\nBölgesel barış ve istikrarın tesisi açısından büyük bir anlam taşıyan bu tür dönüm noktaları, iki ülkenin liderleri arasındaki diyalogun ve iş birliğinin en somut göstergelerinden biri olarak kayda geçiyor. Cumhurbaşkanı Erdoğan'ın mesajı, hem halklar arasındaki kardeşlik bağlarını simgelemesi hem de yürütülen imar çalışmalarına verilen desteği göstermesi bakımından geniş bir yankı uyandırdı.",
-      "highlights": [
-        "Cumhurbaşkanı Erdoğan, Aliyev'e Zafer Günü dolayısıyla tebrik mektubu gönderdi.",
-        "Mektupta Azerbaycan'ın haklı mücadelesinin tüm Türk dünyası için gurur kaynağı olduğu belirtildi.",
-        "İşgalden kurtarılan bölgelerdeki hızlı yeniden inşa ve ihya sürecine övgü yapıldı."
-      ],
-      "externalUrl": "https://www.haberturk.com/dunya/son-dakika-cumhurbaskani-erdogan-dan-ilham-aliyev-e-zafer-gunu-tebrik-mektubu-3925628",
-      "publishedAt": "2026-11-07T15:06:49.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
