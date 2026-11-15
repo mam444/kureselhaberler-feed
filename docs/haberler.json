@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:05:27.541Z",
+  "generatedAt": "2026-11-15T19:24:31.769Z",
   "articles": [
     {
       "id": "https://www.haberturk.com/bilgi/foto/mi-lli-pi-yango-yilbasi-bi-let-fi-yatlari-2027-buyuk-ikramiye-1-milyar-tl-milli-piyango-yilbasi-cekilisi-ceyrek-bilet-yarim-bilet-tam-bilet-fiyatlari-ne-kadar-kac-tl-3927353",
@@ -67,6 +67,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
       "publishedAt": "2026-11-15T18:48:10.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "headline": "Chris Van Hollen, Chuck Schumer'a Karşı Senato Liderliğini Kazanmak İçin Bir Yolu Olduğunu Söyledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1520525003249-2b9cdda513bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VVMlMjBDYXBpdG9sfGVufDF8MHx8fDE3OTQ3NzA2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Louis Velazquez",
+        "photographerUrl": "https://unsplash.com/@angelvela",
+        "unsplashUrl": "https://unsplash.com/photos/united-states-capitol-building-in-washington-XWW746i6WoM"
+      },
+      "timeAgo": "38 dk önce",
+      "body": "İlerici ABD Senatörü Chris Van Hollen, Demokrat Parti'nin Senato çoğunluğunun liderliği için Chuck Schumer'a karşı yürüttüğü yarışta zafer giden bir yolu olduğunu belirtti. Pazar günü CNN, ABC ve Fox News'a katılan Van Hollen, meslektaşlarının değişime açık olduğunu vurgulayarak partide daha fazla kapsayıcılık çağrısında bulundu.",
+      "highlights": [
+        "Chris Van Hollen, Chuck Schumer'a karşı Senato liderliği için yarışıyor",
+        "Senatör, zafer için bir yolu olduğunu ve meslektaşlarının değişime açık olduğunu belirtti",
+        "Van Hollen pazar günü CNN, ABC ve Fox News'a çıktı"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "publishedAt": "2026-11-15T18:46:49.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -322,6 +345,28 @@
       "lang": "en"
     },
     {
+      "id": "https://news.sky.com/story/company-caught-up-in-nvidia-controversy-launches-internal-investigation-13612539",
+      "headline": "Nvidia tartışmalarının odağındaki şirket iç soruşturma başlattı",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1667984390553-7f439e6ae401?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2xvdWQlMjBjb21wdXRpbmd8ZW58MXwwfHx8MTc5NDc3MDY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Growtika",
+        "photographerUrl": "https://unsplash.com/@growtika",
+        "unsplashUrl": "https://unsplash.com/photos/a-computer-generated-image-of-a-computer-WELyMatW3mw"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "Teknoloji devi Nvidia ile ilgili iddialar nedeniyle inceleme altında olan bir bulut bilişim şirketi, dış avukatlar tarafından yürütülen bir iç soruşturma başlattı.",
+      "highlights": [
+        "Şirket hakkında inceleme başlatıldı",
+        "Dış avukatlar görevlendirildi"
+      ],
+      "externalUrl": "https://news.sky.com/story/company-caught-up-in-nvidia-controversy-launches-internal-investigation-13612539",
+      "publishedAt": "2026-11-15T17:30:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.bbc.com/turkce/articles/cje3915lly2wo?at_medium=RSS&at_campaign=rss",
       "headline": "Grand Theft Auto oyunları yol güvenliği araştırmalarında kullanılıyor",
       "source": "BBC Türkçe",
@@ -433,6 +478,28 @@
       "publishedAt": "2026-11-15T16:47:39.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/sporarena/tolu-arokodareden-trabzonspor-itirafi-teklifi-reddetme-nedenini-acikladi-43379413",
+      "headline": "Tolu Arokodare'den Trabzonspor İtirafı: Teklifi Reddetme Nedenini Açıkladı!",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1550413231-202a9d53a331?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBwbGF5ZXJ8ZW58MXwwfHx8MTc5NDc3MDY3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Waldemar Brandt",
+        "photographerUrl": "https://unsplash.com/@waldemarbrandt67w",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-game-iiwYpGkbDgM"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "Bir dönem Trabzonspor'un ilgilendiği ancak transferi gerçekleşmeyen Nijeryalı futbolcu Tolu Arokodare, bordo-mavili kulüp hakkında dikkat çeken açıklamalarda bulundu ve transfer teklifini neden reddettiğini açıkladı.",
+      "highlights": [
+        "Tolu Arokodare'den Trabzonspor itirafı",
+        "Futbolcu teklifi reddetme nedenini açıkladı"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/sporarena/tolu-arokodareden-trabzonspor-itirafi-teklifi-reddetme-nedenini-acikladi-43379413",
+      "publishedAt": "2026-11-15T16:44:56.000Z",
+      "category": "Gündem",
+      "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
@@ -6820,75 +6887,6 @@
       "publishedAt": "2026-11-07T20:10:00.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/dunya/israilde-yeni-hukumeti-kurma-gorevi-eisenkota-verildi-43369957",
-      "headline": "İsrail'de yeni hükümeti kurma görevi Gadi Eisenkot'a verildi",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1770392169990-cbae93530842?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDA5MjE2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "JEaLiFe Pictures",
-        "photographerUrl": "https://unsplash.com/@jealife_pictures",
-        "unsplashUrl": "https://unsplash.com/photos/engen-gas-station-with-blue-canopy-and-tall-sign-wM9t5Rttv-k"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "İsrail siyasetinde hareketli günler yaşanırken, yeni kabinenin oluşturulması için kritik bir adım atıldı. Konuya ilişkin resmi açıklama, İsrail Cumhurbaşkanı İzak Herzog tarafından kamuoyu ile paylaşıldı. Cumhurbaşkanı Herzog, ülkenin yeni hükümetini kurma görevini Gadi Eisenkot'a tevdi edeceğini duyurdu.\n\nSöz konusu siyasi gelişme kapsamında, Yashar Partisi lideri konumunda bulunan Gadi Eisenkot'a resmi yetki belgesinin pazar günü teslim edileceği bildirildi. Teslim töreninin ardından Eisenkot için yasal süreç resmen başlamış olacak.\n\nİsrail yasalarına ve siyasi teamüllerine göre, hükümeti kurmakla görevlendirilen liderlerin belirli bir takvime uyması gerekiyor. Bu çerçevede, Gadi Eisenkot'un yeni hükümeti başarıyla oluşturabilmesi ve koalisyon ortaklarıyla anlaşmaya varabilmesi için toplam 28 günlük bir süresi bulunuyor.\n\nVerilen bu süre zarfında Eisenkot'un meclisteki partilerle temaslarda bulunarak güvenoyu alabilecek bir kabine listesi hazırlaması bekleniyor. 28 günlük periyot, İsrail siyasi tarihindeki benzer hükümet kurma süreçlerinde de standart bir zaman dilimi olarak dikkat çekiyor.\n\nKamuoyunun yakından takip ettiği bu sürecin, ülkenin iç siyaseti ve genel dengeleri açısından nasıl bir sonuç doğuracağı ise pazar günü yapılacak devir teslim töreninden sonra netlik kazanacak. Eisenkot'un bu süre içerisinde uzlaşı sağlayıp sağlayamayacağı önümüzdeki günlerin en önemli siyasi gündem maddesini oluşturuyor.",
-      "highlights": [
-        "İsrail Cumhurbaşkanı Herzog, hükümeti kurma görevini Eisenkot'a vereceğini açıkladı.",
-        "Yashar Partisi liderine yetki belgesi pazar günü teslim edilecek.",
-        "Eisenkot'un yeni kabineyi oluşturmak için 28 günlük yasal süresi olacak."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/dunya/israilde-yeni-hukumeti-kurma-gorevi-eisenkota-verildi-43369957",
-      "publishedAt": "2026-11-07T19:49:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisinin-oldugu-katliamdan-boyle-kurtulmus-ogretmen-dehset-anlarini-anlatti-1749862",
-      "headline": "Afyonkarahisar'daki 8 kişinin öldüğü katliamdan kurtulan öğretmenin dehşet anları",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1573751959295-71a5c1b7b817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQwNzk3MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Michael Hart",
-        "photographerUrl": "https://unsplash.com/@pianodr023",
-        "unsplashUrl": "https://unsplash.com/photos/cars-near-building-t6Hd6ONYGrk"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Türkiye'nin gündemini sarsan, Afyonkarahisar'da toplam 8 kişinin hayatını kaybettiği kan dondurucu olayla ilgili soruşturma ve detaylar kamuoyu ile paylaşılmaya devam ediyor. Yaşanan bu büyük facianın ardından, olay yerinden sağ kurtulmayı başaran isimlerden biri olan öğretmen Sultan Sema Gökçe'nin verdiği ifadeler ortaya çıktı. Soruşturma dosyasına giren bu ifadeler, o gün yaşanan dehşet dolu anların boyutunu gözler önüne serdi.\n\nBilindiği üzere Afyonkarahisar genelinde büyük bir infial yaratan ve toplamda 8 vatandaşın yaşamını yitirmesiyle sonuçlanan bu şiddet olayı, kısa süre içerisinde ülkenin en çok konuşulan başlıklarından biri haline gelmişti. Toplumun her kesiminde derin bir üzüntü ve şok yaratan olayın ardından adli makamlar tarafından başlatılan titiz çalışmalar sürerken, katliamın merkezinden canlı çıkabilen ender şahitlerden biri olan Sultan Sema Gökçe'nin polise ve savcılığa verdiği beyanlar olayın aydınlatılmasında kritik bir rol oynadı.\n\nOlay anında yaşananları adım adım dile getiren öğretmen Sultan Sema Gökçe, ifadesinde dehşet dakikalarının nasıl geliştiğini anlattı. Yaşanan kargaşa ve şiddet dalgası sırasında hayatta kalma mücadelesi veren Gökçe'nin anlattıkları, olayın vahametini bir kez daha gözler önüne serdi. Görev yaptığı bölgede ve çevresinde yaşanan bu trajik olay, eğitim camiasını da derinden sarsarken, hayatta kalan tek tanık konumundaki Gökçe'nin sözleri dava dosyasındaki en önemli deliller ve anlatımlar arasında yerini aldı.\n\nAfyonkarahisar'da meydana gelen ve tam 8 kişinin canına mal olan bu acı olay, toplumsal güvenlik, bireysel silahlanma ve benzeri hususları bir kez daha tartışmaya açarken, adli makamların yürüttüğü süreç çok yönlü olarak devam ediyor. Hayatını kaybedenlerin yakınlarının ve tüm Türkiye'nin adaletin yerini bulmasını beklediği bu süreçte, Sultan Sema Gökçe gibi sağ kurtulan kişilerin ifadeleri, olayın tam olarak nasıl işlendiğini anlamak adına hayati bir önem taşıyor. Emniyet ve yargı birimlerinin olayla ilgili derinlemesine incelemeleri ve soruşturma dosyası üzerindeki çalışmaları kararlılıkla sürdürülüyor.",
-      "highlights": [
-        "Afyonkarahisar'da 8 kişinin öldüğü olaydan kurtulan öğretmen Sultan Sema Gökçe'nin ifadesi ortaya çıktı.",
-        "Öğretmen Gökçe, soruşturma dosyasına giren ifadesinde katliam anındaki dehşet dakikalarını anlattı.",
-        "Olayla ilgili adli süreç ve soruşturma çok yönlü olarak devam ediyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-afyonkarahisarda-8-kisinin-oldugu-katliamdan-boyle-kurtulmus-ogretmen-dehset-anlarini-anlatti-1749862",
-      "publishedAt": "2026-11-07T19:24:47.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/300-kiloluk-dev-gorenler-gozlerine-inanamadi-4870606",
-      "headline": "Amasya'da avcıların yakaladığı dev yaban domuzu şaşkınlık yarattı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1721509615486-d0e496d50e9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d2lsZCUyMGJvYXJ8ZW58MXwwfHx8MTc5NDA3OTcyMnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kemal Berkay Dogan",
-        "photographerUrl": "https://unsplash.com/@kemalberkaydogan",
-        "unsplashUrl": "https://unsplash.com/photos/a-wild-boar-is-walking-through-the-woods-apZKFLYj5YY"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Türkiye'nin farklı bölgelerinde zaman zaman yaşanan yaban hayatı ve avcılık faaliyetleri, bu kez Amasya'dan gelen sıra dışı bir haberle gündeme geldi. Ülkenin önemli doğa ve tarım alanlarından biri olan Amasya coğrafyasında gerçekleştirilen sürek avı sırasında, bölgedeki avcılar son derece nadir rastlanabilecek bir büyüklüğe sahip olan yaban domuzu ile karşılaştı. Doğa ile iç içe geçen bu faaliyet sırasında ortaya çıkan tablo, deneyimli avcıları dahi hayrete düşürecek boyutlardaydı.\n\nGerçekleştirilen sürek avı faaliyetleri, kırsal ve ormanlık alanlardaki yaban hayvanı popülasyonunun kontrolü ve avcılık geleneklerinin sürdürülmesi amacıyla düzenleniyor. Amasya'daki bu son avlanma faaliyetinde hedefe ulaşıldığı sırada, vurulan hayvanın ebatları herkesi şaşırttı. Yapılan ilk incelemeler ve tahminler doğrultusunda, söz konusu yaban domuzunun ağırlığının yaklaşık 300 kilogramı bulduğu anlaşıldı. Bu devasa rakam, normal şartlarda doğada görülen yaban domuzu ağırlık ortalamalarının oldukça üzerinde bir değeri temsil ediyor.\n\nSöz konusu devasa hayvanın büyüklüğü, sadece avcı grubunu değil, aynı zamanda bölgede uzun yıllardır avcılık sporu ve faaliyetiyle uğraşan kişileri de şoke etti. Yıllardır bu coğrafyada avcılık yapan ve benzeri birçok doğa olayıyla karşılaşan tecrübeli isimler, hayatlarında ilk defa bu denli büyük bir yaban domuzuna şahit olduklarını belirttiler. Hayvanın sahip olduğu bu sıra dışı fiziksel özellikler, bölgedeki yaban hayatının ne denli zengin ve zaman zaman ne kadar farklı boyutlara ulaşabileceğini bir kez daha gözler önüne serdi.\n\nAvcılık faaliyetleri, yasal düzenlemeler ve belirli dönemlerde uygulanan sürek avı kuralları çerçevesinde yürütülüyor. Amasya genelinde gerçekleştirilen bu tür organizasyonlar, hem tarım alanlarını korumak hem de ekosistemdeki dengeleri gözetmek amacıyla planlanıyor. Ancak bu kez planlanan avın sonucunda karşılaşılan dev boyutlu yaban domuzu, olağan av günlerinden çok daha farklı bir gündemin oluşmasına yol açtı. Avcılar, karşılaştıkları manzaranın büyüklüğü karşısında şaşkınlıklarını gizleyemezken, bu olağanüstü av anı da bölgenin avcılık tarihinde unutulmaz bir yer edindi.\n\nDoğal yaşam alanlarında serbestçe dolaşan ve zaman zaman tarım arazilerine de yaklaşabilen yaban domuzları, ekosistemin doğal bir parçası olarak biliniyor. Bununla birlikte, 300 kilogram gibi devasa bir ağırlığa ulaşan bireylerin varlığı, biyolojik çeşitlilik ve hayvanların beslenme koşulları açısından da dikkat çekici bir inceleme alanı oluşturuyor. Amasya'daki avlaklarda yaşanan bu olay, hem yerel halkın hem de avcılıkla ilgilenen çevrelerin uzun süre konuşacağı konuların başında gelmeye devam ediyor.",
-      "highlights": [
-        "Amasya'daki sürek avında yaklaşık 300 kilogramlık yaban domuzu avlandı.",
-        "Devasa boyutlardaki hayvan, bölgedeki tecrübeli avcıları bile hayrete düşürdü.",
-        "Yıllardır avcılık yapanlar böyle bir büyüklüğe ilk kez şahit olduklarını belirtti."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/300-kiloluk-dev-gorenler-gozlerine-inanamadi-4870606",
-      "publishedAt": "2026-11-07T19:20:35.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ]
 }
