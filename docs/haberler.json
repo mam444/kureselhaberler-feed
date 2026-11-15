@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:40:45.627Z",
+  "generatedAt": "2026-11-15T18:44:51.056Z",
   "articles": [
     {
       "id": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-a-milli-takim-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3927446",
@@ -22,6 +22,29 @@
       "publishedAt": "2026-11-15T18:32:55.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+      "headline": "Prens Harry Ukrayna'da Invictus 2027 Adaylarıyla Buluştu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDc2ODI4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andrew Stutesman",
+        "photographerUrl": "https://unsplash.com/@drwmrk",
+        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "İngiliz kraliyet ailesi üyesi Prens Harry, 2022'den bu yana dördüncü sürpriz Ukrayna ziyaretini gerçekleştirdi. Yaralı gazilerle bir araya gelen prens, bu ziyarette \"risk aldığını\" ifade etti.",
+      "highlights": [
+        "Prens Harry Ukrayna'ya sürpriz bir ziyaret gerçekleştirdi",
+        "Ziyaret 2022'den bu yana yapılan dördüncü ziyaret oldu",
+        "Prens, yaralı gazilerle bir araya gelerek risk aldığını söyledi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
+      "publishedAt": "2026-11-15T18:31:52.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
@@ -184,6 +207,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1751029",
+      "headline": "Şans Topu Sonuçları Açıklandı: 26 Ağustos Sorgulama Ekranı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1629723515744-9ece210b6ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bG90dGVyeSUyMHRpY2tldHxlbnwxfDB8fHwxNzk0NzY4Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alejandro Garay",
+        "photographerUrl": "https://unsplash.com/@chinitogaray",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-blue-round-ornament-1RxbuMvugxk"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "26 Ağustos tarihli Şans Topu (5+1) çekiliş sonuçları açıklandı. Kazanan şanslı numaraları öğrenmek ve Milli Piyango İdaresi (MPI) bilet sorgulama ekranı üzerinden ikramiye kontrolü yapmak mümkündür.",
+      "highlights": [
+        "26 Ağustos Şans Topu sonuçları açıklandı",
+        "Çekiliş formatı 5+1 olarak duyuruldu",
+        "MPİ bilet sorgulama modülü üzerinden ikramiye kontrolü yapılabilir"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-sans-topu-sonuclari-sorgulama-ekrani-2026-51-kazandiran-numaralar-ve-mpi-bilet-sorgulama-sayfasi-1751029",
+      "publishedAt": "2026-11-15T17:35:22.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aljazeera.com/sports/2026/11/15/morocco-becomes-first-arab-nation-in-fifas-top-five-mens-rankings?traffic_source=rss",
       "headline": "Fas, FIFA erkekler dünya sıralamasında ilk beşe giren ilk Arap ülkesi oldu",
       "source": "Al Jazeera",
@@ -316,6 +362,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
       "publishedAt": "2026-11-15T16:40:04.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+      "headline": "Ulaştırma Bakanı Sean Duffy, uçuş durdurulmasından önceki başkanları ve Kongre'yi sorumlu tuttu",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1529074963764-98f45c47344b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YWlycGxhbmUlMjBmbGlnaHR8ZW58MXwwfHx8MTc5NDc2ODI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "John McArthur",
+        "photographerUrl": "https://unsplash.com/@snowjam",
+        "unsplashUrl": "https://unsplash.com/photos/air-canada-airline-X_MOr6oa4-k"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "ABD Ulaştırma Bakanı Sean Duffy, ülke genelindeki uçuşların durdurulmasından önceki başkanları ve yetersiz Kongre finansmanını sorumlu tuttu. Demokrat Senatör Chris Van Hollen ise Trump yönetiminin mevcut fonları düzgün yatırıma yönlendirmediğini savundu. Olayın, bir yüklenici tarafından yapılan rutinin dışındaki bakım çalışmalarından kaynaklandığı belirtildi.",
+      "highlights": [
+        "Sean Duffy, Cuma günkü uçuş durdurulmasından önceki yönetimleri ve Kongre'yi suçladı.",
+        "Bakan Duffy, bakımdaki hatanın bir yükleniciden kaynaklandığını belirtti.",
+        "Senatör Chris Van Hollen, Trump yönetiminin mevcut fonları uygun şekilde yatırıma dönüştürmediğini söyledi."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/15/transportation-secretary-sean-duffy-faa-flight-stoppag",
+      "publishedAt": "2026-11-15T16:18:49.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6818,75 +6887,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/spor/yunus-akgun-milli-araya-lider-girmek-onemliydi-3925699",
       "publishedAt": "2026-11-07T19:06:33.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "headline": "Polonya'nın Kraków kentindeki silahlı saldırıda 6 kişi hayatını kaybetti",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1617906855223-a69f14c9841d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwY2FyfGVufDF8MHx8fDE3OTQwNzk3Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quilia",
-        "photographerUrl": "https://unsplash.com/@heyquilia",
-        "unsplashUrl": "https://unsplash.com/photos/black-car-on-road-during-night-time-JXg7Yq5b1wE"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Polonya'nın tarihi kenti Kraków'da meydana gelen ve büyük bir şok yaratan silahlı saldırıda hayatını kaybedenlerin sayısı ve olayla ilgili detaylar netleşmeye başladı. Emniyet güçlerinden yapılan son açıklamalara göre, kent merkezinde yaşanan bu şiddet olayında dört kadın ve iki erkek yaşamını yitirdi. Saldırının ardından başlatılan acil müdahaleler ve arama kurtarma çalışmaları kapsamında, ondan fazla kişinin de yaralandığı ve hastanelerde tedavi altına alındığı bildirildi.\n\nYaşanan acı olayın ardından Polonya Başbakanı Donald Tusk, gelişmeleri yerinde takip etmek ve yetkililerden bilgi almak üzere hızla Kraków'a doğru hareket etti. Ülkenin en önemli turistik ve kültürel merkezlerinden biri olan Kraków'un Main Market Square yani Ana Pazar Meydanı'nda gerçekleşen bu trajik olay, tüm ülkede derin bir yas ve şok dalgasına neden oldu. Saldırının duyulmasının ardından ulusal ve uluslararası düzeyde peş peşe taziye mesajları yayımlandı.\n\nOlayın hemen ardından ABD'nin Polonya Büyükelçisi Tom Rose da sosyal medya platformu X üzerinden bir açıklama yaparak üzüntüsünü dile getirdi. Büyükelçi Rose, mesajında Kraków'daki korkunç toplu silahlı saldırının detaylarını yeni öğrendiklerini belirterek, bu vahşi ve katilce saldırının Polonya'nın huzurunu paramparça ettiğini ifade etti. Amerika'nın bu karanlık saatte Polonya'nın yanında durduğunu vurgulayan Büyükelçi, Kraków'un sevimli vatandaşlarının da bu zor günde yalnız olmadığını kaydetti.\n\nMain Market Square gibi kalabalık ve sembolik bir noktada meydana gelen bu felaketin ardından, kurbanların aileleri ve yakınlarıyla derin bir acı paylaşıldı. Bu hayal edilemez trajedinin yaralarını sarmak için yerel yönetimler ve güvenlik birimleri geniş çaplı soruşturma yürütürken, saldırganın durumu hakkında da resmi bilgiler paylaşıldı. Yetkililer, olayda yaralanan saldırganın güvenlik güçleri tarafından etkisiz hale getirilerek gözaltına alındığını doğruladı.\n\nSaldırının ardındaki motivasyon ve olayın tüm yönleriyle aydınlatılması için başlatılan soruşturma titizlikle sürdürülüyor. Kraków'daki bu vahim gelişme, toplumsal güvenlik ve huzurun korunması konusundaki hassasiyetleri bir kez daha ön plana çıkarırken, hayatını kaybedenlerin yakınlarına yönelik başsağlığı dilekleri uluslararası kamuoyunda yankı bulmaya devam ediyor.",
-      "highlights": [
-        "Kraków'daki silahlı saldırıda dört kadın ve iki erkek hayatını kaybetti.",
-        "Olayda ondan fazla kişi yaralanırken, saldırgan yaralı olarak gözaltına alındı.",
-        "Başbakan Donald Tusk olay yerine giderken, ABD'den taziye mesajı geldi."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/live/2026/nov/07/krakow-shooting-poland-latest-news-updates",
-      "publishedAt": "2026-11-07T19:02:28.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/okan-buruk-rekorlari-kirmaya-calisiyoruz-ana-hedef-sampiyonluk-43369914",
-      "headline": "Okan Buruk'tan maç sonu açıklaması: Rekorları kırmaya çalışıyoruz, ana hedef şampiyonluk",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTQwNzk3NDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Fancy Crave",
-        "photographerUrl": "https://unsplash.com/@fancycrave",
-        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
-      },
-      "timeAgo": "50 dk önce",
-      "body": "Galatasaray Teknik Direktörü Okan Buruk, takımının mücadelesinin ardından basın mensuplarının karşısına geçerek hem karşılaşmayı hem de sezonun genel gidişatını değerlendirdi. Amed Sportif Faaliyetler ile oynanan ve toplam yedi gole sahne olan çekişmeli mücadelenin ardından konuşan deneyimli teknik adam, sarı-kırmızılı ekibin sahadan 4-3'lük galibiyetle ayrılmasını yorumladı. Futbol dünyasında rekabetin her geçen gün arttığı bir dönemde, teknik ekiplerin ve oyuncu gruplarının sezon boyunca karşılaştığı fiziksel ve zihinsel zorluklar bu tür maçlarda daha net bir şekilde görülüyor. Okan Buruk, takımının sergilediği performansın hem taraftarlar hem de kulüp tarihi açısından taşıdığı değere dikkat çekerek önemli mesajlar verdi.\n\nFutbol sahalarında elde edilen her bir galibiyetin arkasında uzun ve meşakkatli bir hazırlık sürecinin yattığı biliniyor. Galatasaray gibi büyük camialarda beklentilerin daima en üst seviyede tutulduğunu vurgulayan teknik direktör, kulübün genlerinde her zaman zirvede yer almak olduğunu hatırlattı. Amed Sportif Faaliyetler karşısında alınan 4-3'lük skor, her ne kadar savunma güvenliği açısından tartışmaları beraberinde getirse de, hücum hattının üretkenliğini ve takımın maçı bırakmayan karakterini gözler önüne serdi. Spor kamuoyunda geniş yankı uyandıran bu karşılaşma, hem ligdeki rekabet ortamını hem de takımların form durumlarını tartmak adına önemli bir veri sundu.\n\nSezonun bu kritik virajında istikrarın ve maç kazanma alışkanlığının sürdürülmesinin hayati önem taşıdığına işaret eden Okan Buruk, açıklamasında rekor kırarak ilerleme arzusunun altını çizdi. Türkiye futbol liglerinde her geçen yıl kırılan rekorlar ve sergilenen üstün performanslar, şampiyonluk yarışının ne denli çetin geçeceğini gösteriyor. Sarı-kırmızılı ekip de bu zorlu maratonda hem puan tablosunda zirveyi korumak hem de kırılması güç istatistiklere imza atmak için ter döküyor. Ancak teknik direktör Buruk, tüm bu bireysel ve takım istatistiklerinin, sezon sonunda havaya kaldırılacak olan şampiyonluk kupasının yanında ikincil bir planda kaldığını açıkça ifade etti.\n\nHer teknik direktörün kariyerinde ve her kulübün müzesinde en değerli yerin şampiyonluklara ait olduğu gerçeği, Galatasaray cephesinde de geçerliliğini koruyor. Okan Buruk'un yaptığı bu değerlendirmeler, takımın hedefe kilitlendiğini ve saha içindeki tüm enerjinin bu doğrultuda harcandığını net bir şekilde ortaya koydu. Amed Sportif Faaliyetler maçının ardından yapılan bu konuşma, futbolcuların motivasyonunu artırırken, aynı zamanda camianın da kenetlenmesine katkı sağladı. Ligin geri kalan haftalarında oynanacak her maçın ayrı bir final niteliği taşıdığı bilinciyle hareket eden sarı-kırmızılılar, hazırlıklarını bu doğrultuda sürdürmeye devam ediyor.\n\nSonuç olarak Galatasaray Teknik Direktörü Okan Buruk'un ifadeleri, kulübün vizyonunu ve sezon sonu hedeflerini şüpheye yer bırakmayacak şekilde özetlemiş oldu. Rekor kırma hevesinin takımın enerjisini yüksek tuttuğunu ancak ana hedefin her zaman şampiyonluk olduğunu belirten bu açıklamalar, futbol kamuoyunda geniş bir yankı buldu. Amed Sportif Faaliyetler mücadelesi gibi bol golcü ve heyecan fırtınası şeklinde geçen karşılaşmaların ardından gelen bu değerlendirmeler, sezonun kalan bölümünün ne denli çekişmeli ve iddialı geçeceğinin de açık bir habercisi niteliğini taşıyor.",
-      "highlights": [
-        "Galatasaray, Amed Sportif Faaliyetler'i 4-3 mağlup etti.",
-        "Okan Buruk rekorları kırmaya çalıştıklarını belirtti.",
-        "Deneyimli teknik adam ana hedefin şampiyonluk olduğunu vurguladı."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/okan-buruk-rekorlari-kirmaya-calisiyoruz-ana-hedef-sampiyonluk-43369914",
-      "publishedAt": "2026-11-07T18:39:11.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.sabah.com.tr/dunya/fransada-polis-gostericilere-biber-gaziyla-mudahale-etti-sefilleri-okumak-istiyoruz-yasamak-degil-7697130",
-      "headline": "Fransa'daki hayat pahalılığı protestolarında polisten biber gazlı müdahale",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1591588211599-04eeffe9acc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGNyb3dkfGVufDF8MHx8fDE3OTQwNzk3NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Koshu",
-        "photographerUrl": "https://unsplash.com/@koshuuu",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-people-on-street-t86cJxwmBWc"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Fransa genelinde uzun süredir etkisini sürdüren hayat pahalılığı krizine ve ekonomik zorluklara karşı düzenlenen protesto gösterileri, son günlerde yeniden hareketli saatlerin yaşanmasına neden oluyor. Ülke genelinde hissedilen ekonomik sıkıntılar ve artan geçim derdi, vatandaşları sokaklara dökmeye devam ederken, başkent Paris'te de tansiyon yüksek seviyelerde seyrediyor. Son olarak, \"Sarı Yelekliler\" hareketinin yanı sıra çeşitli işçi sendikalarının ortak çağrısıyla bugün bir araya gelen kalabalık bir grup gösterici, başkent sokaklarında yürüyüş düzenleyerek mevcut ekonomik politikaları ve yaşam koşullarını protesto etti.\n\nGün boyunca Paris caddelerinde devam eden eylemler sırasında göstericilerin taşıdığı pankartlar ve attıkları sloganlar dikkat çekti. Özellikle son dönemde temel tüketim maddelerine gelen zamlar, enflasyon ve alım gücünün düşmesi gibi konuların merkezinde yer aldığı gösterilerde, kalabalık arasından yükselen \"Sefiller'i okumak istiyoruz, yaşamak değil\" şeklindeki çarpıcı ifade, yaşanan çaresizliğin boyutlarını gözler önüne serdi. Bununla birlikte eylemciler tarafından açılan \"Çöplerimiz çocuklarımızdan daha iyi\" yazılı pankartlar da sosyal ve ekonomik şartlara yönelik duyulan derin hoşnutsuzluğun ve tepkinin altını çizen unsurlar arasında yer aldı.\n\nProtestoların belirli noktalarda kalabalığın artmasıyla birlikte gerilimli bir atmosfere büründüğü gözlemlendi. Güvenlik güçlerinin aldığı yoğun önlemlere rağmen, göstericilerin bazı kesimlerde yürüttüğü hareketlilik ve yetkililere yönelik protesto tavrı, polisin müdahale etmesine yol açtı. Kalabalığın ilerleyişini durdurmak ve olayların kontrolden çıkmasını önlemek amacıyla görev yapan Fransız polisi, eylemcilere karşı biber gazı kullanarak müdahalede bulundu. Güvenlik güçlerinin bu müdahalesi, sokaklardaki hareketliliğin daha da artmasına ve taraflar arasında gergin anların yaşanmasına neden oldu.\n\nFransa'da uzun bir süredir farklı kesimler tarafından dile getirilen geçim sıkıntıları, bu tür sokak eylemleriyle toplumsal bir boyut kazanmaya devam ediyor. Hükümetin izlediği ekonomik yol haritasına ve enflasyon karşısında eriyen maaşlara karşı seslerini duyurmaya çalışan sendikalar ve eylemciler, hak arama mücadelesini sürdüreceklerinin sinyallerini veriyor. Başkent Paris'teki bugünkü olayların ardından güvenlik birimlerinin şehir genelindeki teyakkuz halini sürdürdüğü, benzer gösteri ve toplanma çağrılarının ilerleyen günlerde de gündemde kalabileceği tahmin ediliyor.",
-      "highlights": [
-        "Fransa'da hayat pahalılığına karşı düzenlenen gösteriler başkent Paris'te sürdü.",
-        "Eylemciler \"Sefiller'i okumak istiyoruz, yaşamak değil\" sloganları attı.",
-        "Güvenlik güçleri protestoculara biber gazıyla müdahale etti."
-      ],
-      "externalUrl": "https://www.sabah.com.tr/dunya/fransada-polis-gostericilere-biber-gaziyla-mudahale-etti-sefilleri-okumak-istiyoruz-yasamak-degil-7697130",
-      "publishedAt": "2026-11-07T18:23:09.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
