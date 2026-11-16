@@ -9,7 +9,9 @@ import { sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-const MAX_NEW_PER_RUN = 15;
+// Gemini rewrites are intentionally sequential to respect API quotas. Keep a
+// small batch so a 10-minute schedule doesn't queue behind long generations.
+const MAX_NEW_PER_RUN = 4;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
 // stale RSS backlog (or a publisher's ancient archive item) masquerade as
