@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:45:51.814Z",
+  "generatedAt": "2026-11-16T11:54:54.775Z",
   "articles": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
@@ -88,6 +88,29 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
       "publishedAt": "2026-11-16T11:05:47.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
+      "headline": "Kalorifer yakıtı kullanan Amerikalılar sert kışa hazırlanıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1709293078197-370c804d610c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aGVhdGluZyUyMG9pbHxlbnwxfDB8fHwxNzk0ODMwMDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fulvio Ciccolo",
+        "photographerUrl": "https://unsplash.com/@scentspiracy",
+        "unsplashUrl": "https://unsplash.com/photos/a-metal-bowl-filled-with-yellow-liquid-cy9eWccEuJA"
+      },
+      "timeAgo": "54 dk önce",
+      "body": "ABD'de artan enerji fiyatları kalorifer yakıtı maliyetlerini yükseltirken, milyonlarca hane bu kış ısınmak için yüzlerce dolar daha fazla ödeyecek. Enerji Enformasyon İdaresi, maliyetlerin yüzde 21 artmasını bekliyor.",
+      "highlights": [
+        "Milyonlarca hane yüzlerce dolar daha fazla ödeyecek",
+        "Maliyetlerin yüzde 21 artması öngörülüyor",
+        "Artan fiyatlar harcamaların kısılmasına yol açıyor"
+      ],
+      "externalUrl": "https://www.theguardian.com/business/2026/nov/16/heating-oil-price-increase-winter",
+      "publishedAt": "2026-11-16T11:00:58.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6850,29 +6873,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/hic-kimsenin-aramiza-girmesine-izin-vermeyecegiz-4870867",
       "publishedAt": "2026-11-09T01:01:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973",
-      "headline": "Fon soruşturmasında kritik gelişme: BDDK 3. Daire Başkanı Bilal Soysal tutuklandı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1643149007777-5d3c2126d62a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnQlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzk0MTkzMDUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Colin Lloyd",
-        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-sitting-on-a-bench-in-front-of-a-building-52LVSjj7voc"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türkiye gündemini meşgul eden ve yakından takip edilen fon soruşturması dosyası kapsamında, adli makamlarca yürütülen operasyonlar ve hukuki süreçler hız kesmeden devam ediyor. Son olarak soruşturmanın seyrini değiştirebilecek önemli bir adım atıldı ve Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) bünyesinde kritik bir görevde bulunan 3. Daire Başkanı Bilal Soysal, çıkarıldığı mahkemece tutuklanarak cezaevine gönderildi. Kamuoyunun dikkatle izlediği bu süreç, finans ve bankacılık alanındaki denetim mekanizmaları ile idari yapılar üzerindeki tartışmaları da yeniden alevlendirdi.\n\nBankacılık sektörünün düzenlenmesi, denetlenmesi ve finansal istikrarın korunması gibi hayati sorumlulukları üstlenen Bankacılık Düzenleme ve Denetleme Kurumu, Türkiye ekonomisinin en temel ve hassas kurumları arasında yer alıyor. Kurumun bünyesinde yürütülen üst düzey görevler, hem idari hem de hukuki açıdan büyük bir sorumluluğu beraberinde getiriyor. Bu bağlamda, BDDK 3. Daire Başkanı gibi kritik bir konumda bulunan Bilal Soysal'ın soruşturma kapsamında tutuklanması, kurumun operasyonel yapısı ve idari kadroları açısından dikkat çekici bir gelişme olarak kayıtlara geçti.\n\nSoruşturmanın detaylarına ve Bilal Soysal'ın bu sürece dahil olma gerekçelerine ilişkin henüz resmi merciler tarafından çok kapsamlı yeni bir ayrıntı paylaşılmamış olsa da, adli makamların yürüttüğü tahkikatın derinleştiği anlaşılıyor. Fon soruşturması olarak adlandırılan ve geniş bir alanı kapsayan bu hukuki süreç, uzun süredir kamuoyunun ve medya kuruluşlarının ilk sıralarında yer almayı sürdürüyor. Yargı organlarının titizlikle yürüttüğü incelemeler, iddiaların her yönüyle aydınlatılması ve sorumluların tespiti açısından büyük bir önem taşıyor.\n\nYetkili mercilerden edinilen bilgilere göre, adliyeye sevk edilen Bilal Soysal, savcılık sorgusunun ardından tutuklama talebiyle mahkemeye çıkarıldı. Hakimlikçe yapılan değerlendirmeler neticesinde, soruşturmanın selameti ve mevcut delil durumu göz önünde bulundurularak tutuklama kararı verildiği öğrenildi. Bu karar, dosyanın idari ve bürokratik uzantıları açısından ne denli ciddi bir boyuta ulaştığını da gözler önüne seriyor. Türkiye'deki finansal denetim otoritelerinin isimlerinin bu tür soruşturmalarda geçmesi, sektör genelinde de yakından takip edilen hassas bir gündem maddesi oluşturuyor.\n\nFon soruşturmasının bundan sonraki aşamalarında hangi isimlerin ifadeye çağrileceği veya yeni gözaltıların olup olmayacağı merakla bekleniyor. Hukukçular ve ekonomi uzmanları, sürecin şeffaf bir şekilde yürütülmesinin hem adalet duygusunun tatmini hem de piyasa güvenliği açısından elzem olduğunu belirtiyorlar. Bilal Soysal'ın tutuklanmasıyla birlikte, soruşturmanın odak noktasının BDDK içindeki olası diğer ilişkilere ve karar süreçlerine kayıp kaymayacağı önümüzdeki günlerde netleşecek.\n\nKamuoyunu uzun süre meşgul etmeye aday görünen bu davanın gelişmeleri, basın mensupları ve ilgili kurumlar tarafından anbean takip ediliyor. Yargı sürecinin tamamlanmasıyla birlikte, fon soruşturmasının tüm yönleriyle aydınlığa kavuşması ve maddi gerçeğin ortaya çıkması bekleniyor. Bilal Soysal hakkında verilen tutuklama kararı, bu kapsamda atılan en somut ve idari açıdan en sarsıcı adımlardan biri olarak şimdiden tarihe geçti.",
-      "highlights": [
-        "Fon soruşturması kapsamında BDDK 3. Daire Başkanı Bilal Soysal tutuklandı.",
-        "Soruşturmanın seyrini değiştiren gelişme adli makamlarca yürütülen süreçte gerçekleşti.",
-        "Bilal Soysal'ın tutuklanması finans ve bankacılık çevrelerinde geniş yankı uyandırdı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973",
-      "publishedAt": "2026-11-09T00:53:46.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
