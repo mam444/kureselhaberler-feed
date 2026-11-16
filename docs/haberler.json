@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-16T19:54:30.661Z",
+  "generatedAt": "2026-11-16T20:04:18.917Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "headline": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T20:03:30.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
+      "headline": "Cezaevinden çıktı annesini darbederek öldürdü",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "6 dk önce",
+      "body": "Samsun'da kan donduran bir olay yaşandı. Cezaevinden iki ay önce çıktığı ve çok sayıda suç kaydı bulunduğu öğrenilen 38 yaşındaki N.G., birlikte yaşadığı annesi İftadiye Gürgün'ü darbederek öldürdü. Olayın ardından gözaltına alınan şüpheliyle ilgili soruşturma başlatıldı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
+      "publishedAt": "2026-11-16T19:58:07.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/mersinde-firari-hukumlu-arkadasinin-evinde-yakalandi-4873199",
       "headline": "Yüzünü estetik operasyonla değiştiren firari yakalandı",
