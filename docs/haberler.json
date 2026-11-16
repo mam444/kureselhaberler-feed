@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:49:39.066Z",
+  "generatedAt": "2026-11-16T16:21:55.632Z",
   "articles": [
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-bakirkoy-belediyesi-sorusturmasinda-iddianame-hazirlandi-3927765",
@@ -317,6 +317,29 @@
       "publishedAt": "2026-11-16T14:35:00.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/sanal-devriyeye-takildilar-409-internet-sitesi-icin-flas-karar-7701926",
+      "headline": "409 internet sitesine erişim engeli getirildi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1614064548237-096f735f344f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y3liZXIlMjBzZWN1cml0eXxlbnwxfDB8fHwxNzk0ODQ1OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "FlyD",
+        "photographerUrl": "https://unsplash.com/@flyd2069",
+        "unsplashUrl": "https://unsplash.com/photos/padlock-on-laptop-with-light-trails-C5pXRFEjq3w"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "9-15 Kasım tarihlerindeki siber devriye faaliyetlerinde 791 URL incelendi. İncelemelerde yasa dışı bahis, oltalama ve müstehcen içerik tespit edilen 409 internet sitesine erişim engeli getirildi. Ayrıca nitelikli dolandırıcılık olaylarına karıştığı belirlenen 4 şüpheli hakkında adli işlem başlatıldı.",
+      "highlights": [
+        "791 sosyal medya ve URL adresi incelendi",
+        "409 internet sitesine erişim engeli getirildi",
+        "4 şüpheli hakkında adli işlem başlatıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/sanal-devriyeye-takildilar-409-internet-sitesi-icin-flas-karar-7701926",
+      "publishedAt": "2026-11-16T14:34:51.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
@@ -8883,6 +8906,13 @@
     "https://www.ntv.com.tr/turkiye/video-iklim-degisikligi-insan-sagligini-tehdit-ediyor-1751098",
     "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
     "https://www.dw.com/tr/yeni-yalta-konferansı-mı-şi-putin-ve-trump-tan-ilk-3-lü-zirve/a-79952211?maca=tur-rss-tur-all-1495-xml-mrss",
-    "https://www.yenisafak.com/video/gundem/ayvalikta-yolcu-minibusu-denize-dustu-vatandaslar-cekiclerle-camlari-kirip-yolculara-ulasmaya-calisti-4873144"
+    "https://www.yenisafak.com/video/gundem/ayvalikta-yolcu-minibusu-denize-dustu-vatandaslar-cekiclerle-camlari-kirip-yolculara-ulasmaya-calisti-4873144",
+    "https://www.aa.com.tr/tr/bilim-teknoloji/abd-gelismis-yapay-zeka-ciplerine-uzaktan-erisimi-engellemeye-yonelik-duzenleme-yayimladi-/4126935",
+    "https://www.haberturk.com/ekonomi/borsa-gunu-yatay-seyirle-tamamladi-3927767",
+    "https://www.hurriyet.com.tr/sporarena/galatasarayin-stadyumu-rams-parkin-zemininin-son-durumu-goruntulendi-43380481",
+    "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-adi-geciyordu-ali-emre-ballinin-olumu-sorusturmasinda-yetkisizlik-karari-1751086",
+    "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_medium=RSS&at_campaign=rss",
+    "https://www.bbc.com/turkce/articles/cvlyj8yl7d49o?at_medium=RSS&at_campaign=rss",
+    "https://www.aa.com.tr/tr/dunya/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933"
   ]
 }
