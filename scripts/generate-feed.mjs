@@ -11,6 +11,7 @@ import { jaccardSimilarity } from './similarity.mjs';
 const FEED_PATH = path.resolve('docs/haberler.json');
 const MAX_NEW_PER_RUN = 15;
 const MAX_TOTAL_ARTICLES = 600;
+const MAX_REJECTED_IDS = 2_000;
 const MAX_SOURCE_SUMMARY_CHARS = 1600;
 // Headlines alone do not contain enough evidence for a reliable article.
 const MIN_SOURCE_SUMMARY_CHARS = 100;
@@ -40,9 +41,12 @@ async function loadPreviousFeed() {
   try {
     const raw = await readFile(FEED_PATH, 'utf8');
     const parsed = JSON.parse(raw);
-    return Array.isArray(parsed.articles) ? parsed.articles : [];
+    return {
+      articles: Array.isArray(parsed.articles) ? parsed.articles : [],
+      rejectedIds: Array.isArray(parsed.rejectedIds) ? parsed.rejectedIds : [],
+    };
   } catch {
-    return [];
+    return { articles: [], rejectedIds: [] };
   }
 }
 
@@ -56,7 +60,7 @@ async function rewriteAndIllustrate(raw) {
       console.warn(
         `[guard] "${raw.headline}" kaynak özeti yetersiz (${sourceSummary.length} karakter); haber uydurmamak için atlandı.`,
       );
-      return null;
+      return { article: null, permanentlyRejected: true };
     }
 
     const rewritten = await rewriteArticle(
@@ -70,7 +74,7 @@ async function rewriteAndIllustrate(raw) {
       console.warn(
         `[guard] "${raw.headline}" kaynağa çok benziyor (${similarity.toFixed(2)}), bu turda yayınlanmıyor.`,
       );
-      return null;
+      return { article: null, permanentlyRejected: true };
     }
 
     const photo = rewritten.imageKeyword
@@ -81,23 +85,26 @@ async function rewriteAndIllustrate(raw) {
       : null;
 
     return {
-      id: raw.id,
-      headline: rewritten.headline,
-      source: raw.source,
-      sourceIconUrl: raw.sourceIconUrl,
-      imageUrl: photo?.imageUrl ?? null,
-      imageCredit: photo?.imageCredit ?? null,
-      timeAgo: timeAgoTrSnapshot(raw.publishedAt),
-      body: rewritten.body,
-      highlights: rewritten.highlights ?? [],
-      externalUrl: raw.externalUrl,
-      publishedAt: raw.publishedAt,
-      category: raw.category,
-      lang: raw.lang,
+      article: {
+        id: raw.id,
+        headline: rewritten.headline,
+        source: raw.source,
+        sourceIconUrl: raw.sourceIconUrl,
+        imageUrl: photo?.imageUrl ?? null,
+        imageCredit: photo?.imageCredit ?? null,
+        timeAgo: timeAgoTrSnapshot(raw.publishedAt),
+        body: rewritten.body,
+        highlights: rewritten.highlights ?? [],
+        externalUrl: raw.externalUrl,
+        publishedAt: raw.publishedAt,
+        category: raw.category,
+        lang: raw.lang,
+      },
+      permanentlyRejected: false,
     };
   } catch (err) {
     console.warn(`[gemini] "${raw.headline}" yeniden yazılamadı: ${err.message}`);
-    return null;
+    return { article: null, permanentlyRejected: false };
   }
 }
 
@@ -132,13 +139,17 @@ async function main() {
   });
   console.log(`[main] ${deduped.length} benzersiz ham haber bulundu.`);
 
-  const previous = (await loadPreviousFeed()).filter((article) => {
+  const previousFeed = await loadPreviousFeed();
+  const previous = previousFeed.articles.filter((article) => {
     const publishedAt = Date.parse(article.publishedAt ?? '');
     return !Number.isFinite(publishedAt) || publishedAt <= now + MAX_FUTURE_SKEW_MS;
   });
   const previousIds = new Set(previous.map((a) => a.id));
+  const rejectedIds = new Set(previousFeed.rejectedIds);
 
-  const unseen = publishable.filter((a) => !previousIds.has(a.id));
+  const unseen = publishable.filter(
+    (a) => !previousIds.has(a.id) && !rejectedIds.has(a.id),
+  );
 
   // A single fast-refreshing (or always-recent-pubDate) source can otherwise
   // fill every slot on every run and starve every other outlet out
@@ -166,10 +177,12 @@ async function main() {
   // Sıralı işlenir (paralel değil): dakikalık istek/token limitine paralel
   // isteklerle takılmamak için.
   const rewritten = [];
+  const permanentlyRejected = [];
   if (GEMINI_API_KEY) {
     for (const raw of brandNewRaw) {
-      const article = await rewriteAndIllustrate(raw);
-      if (article) rewritten.push(article);
+      const result = await rewriteAndIllustrate(raw);
+      if (result.article) rewritten.push(result.article);
+      else if (result.permanentlyRejected) permanentlyRejected.push(raw.id);
     }
   }
 
@@ -181,10 +194,17 @@ async function main() {
   await mkdir(path.dirname(FEED_PATH), { recursive: true });
   await writeFile(
     FEED_PATH,
-    JSON.stringify({ generatedAt: new Date().toISOString(), articles: merged }, null, 2),
+    JSON.stringify({
+      generatedAt: new Date().toISOString(),
+      articles: merged,
+      // Remember only permanent quality rejections. Transient Gemini/photo
+      // errors stay eligible for a later retry. This keeps the same short or
+      // duplicate RSS items from starving newer articles on every 10-minute run.
+      rejectedIds: [...rejectedIds, ...permanentlyRejected].slice(-MAX_REJECTED_IDS),
+    }, null, 2),
     'utf8',
   );
-  console.log(`[main] docs/haberler.json yazıldı — toplam ${merged.length} haber (${rewritten.length} yeni).`);
+  console.log(`[main] docs/haberler.json yazıldı — toplam ${merged.length} haber (${rewritten.length} yeni, ${permanentlyRejected.length} kalite filtresi).`);
 
   if (rewritten.length > 0) {
     const mostRecent = rewritten.reduce((best, a) =>
