@@ -51,24 +51,28 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/haberler.json docs/markets.json
-          git diff --cached --quiet && echo "Değişiklik yok, commit atlanıyor" && exit 0
-          git commit -m "chore: haberler.json ve markets.json güncelle"
-
-          # Back-to-back scheduled runs (every 10 min) can queue up and race
-          # on push — the previous run's commit lands first and this run's
-          # push is rejected as non-fast-forward. Rebase onto the latest
-          # remote commit and retry a few times before giving up, instead of
-          # failing outright (which previously happened on a large fraction
-          # of runs even though generation itself had already succeeded).
+          # Preserve this run's generated output while refreshing the branch.
+          # Rebasing two generated JSON snapshots conflicts whenever another
+          # scheduled run commits first, so retry from the newest main instead.
+          generated_dir="$(mktemp -d)"
+          cp docs/haberler.json docs/markets.json "$generated_dir/"
           for i in 1 2 3 4 5; do
-            if git push; then
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$generated_dir/haberler.json" "$generated_dir/markets.json" docs/
+            git add docs/haberler.json docs/markets.json
+            if git diff --cached --quiet; then
+              echo "Değişiklik yok, commit atlanıyor"
               exit 0
             fi
-            echo "Push reddedildi (deneme $i/5), rebase edip tekrar deneniyor..."
-            git fetch origin main
-            git rebase origin/main
+            git commit -m "chore: haberler.json ve markets.json güncelle"
+            if git push; then
+              rm -rf "$generated_dir"
+              exit 0
+            fi
+            echo "Push reddedildi (deneme $i/5), güncel main üzerinden yeniden deneniyor..."
             sleep $((RANDOM % 5 + 1))
           done
+          rm -rf "$generated_dir"
           echo "5 denemeden sonra push başarısız oldu." >&2
           exit 1
