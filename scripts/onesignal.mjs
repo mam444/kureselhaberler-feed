@@ -21,7 +21,7 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
       isAndroid: includeAndroid,
       isIos: true,
       isAnyWeb: true,
-      headings: { tr: article.source, en: article.source },
+      headings: { tr: 'Küresel Haberler', en: 'Küresel Haberler' },
       contents: { tr: article.headline, en: article.headline },
       url: article.externalUrl ?? undefined,
       // article.imageUrl is our own Unsplash-sourced stock photo (see
