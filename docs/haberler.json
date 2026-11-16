@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T12:54:43.607Z",
+  "generatedAt": "2026-11-16T13:05:13.359Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-bu-hafta-icerisinde-izleme-komisyonunun-calismalarini-baslatacagiz-7701858",
+      "headline": "TBMM Başkanı Kurtulmuş'tan COP31 ve İzleme Komisyonu Açıklaması",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1635017010130-8b12cbae591d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cGFybGlhbWVudCUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDgzNDI3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kunal Saha",
+        "photographerUrl": "https://unsplash.com/@kunalsahaaa",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-clock-tower-on-top-of-it-XzSAkekOIUg"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "TBMM Başkanı Numan Kurtulmuş, COP31 kapsamında düzenlenen Parlamenter Toplantısı'nın ardından TRT Haber'de açıklamalarda bulundu. Kurtulmuş, bu hafta içerisinde izleme komisyonunun çalışmalarının başlatılacağını belirtti ve organizasyonun başarıyla gerçekleştiğini vurguladı.",
+      "highlights": [
+        "TBMM Başkanı Kurtulmuş izleme komisyonunun bu hafta çalışmalara başlayacağını açıkladı",
+        "COP31 kapsamında Parlamenter Toplantısı düzenlendi",
+        "Toplantıya çok sayıda parlamento başkanı ve milletvekili katıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-bu-hafta-icerisinde-izleme-komisyonunun-calismalarini-baslatacagiz-7701858",
+      "publishedAt": "2026-11-16T13:00:13.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/adiyamanda-kaza-sonrasi-meydan-dayagi-hem-surucuyu-darp-ettiler-hem-aracina-saldirdilar-4873092",
       "headline": "Adıyaman'da kaza sonrası sürücüye ve araca saldırı",
@@ -152,6 +175,28 @@
       "publishedAt": "2026-11-16T12:36:55.000Z",
       "category": "Son Dakika",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss",
+      "headline": "Yapay zeka öğrenme aracı Malawi'deki görme engelli öğrencilere destek oluyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1770233621425-5d9ee7a0a700?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QUklMjBsZWFybmluZyUyMHRvb2x8ZW58MXwwfHx8MTc5NDgzNDI4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zach M",
+        "photographerUrl": "https://unsplash.com/@zachmmalin",
+        "unsplashUrl": "https://unsplash.com/photos/artificial-intelligence-concept-within-a-human-head-7F9PhBM1gFM"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "25 yaşında bir Malawian yenilikçi tarafından geliştirilen bir yapay zeka aracı, görme engelli öğrencilerin başarılı olmasına yardımcı olmak için kullanılıyor.",
+      "highlights": [
+        "Yapay zeka aracı 25 yaşında bir Malawian yenilikçi tarafından geliştirildi",
+        "Araç görme engelli öğrencilerin başarısına yardımcı olmak için kullanılıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss",
+      "publishedAt": "2026-11-16T12:35:44.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-goktas-singapur-aile-gelisim-bakani-zulkifli-ile-2-yillik-faaliyet-plani-imzaladi-7701831",
@@ -785,6 +830,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "headline": "İsrail, Filistinlileri takip etmek için Amazon'un yüz tanıma platformuna milyonlarca fotoğraf yükledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1559137771-536eecb999ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZmFjaWFsJTIwcmVjb2duaXRpb258ZW58MXwwfHx8MTc5NDgzNDI4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Proxyclick Visitor Management System",
+        "photographerUrl": "https://unsplash.com/@proxyclick",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-long-sleeved-shirt-in-front-of-turned-on-monitor--5XPUpAdcdw"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "The Guardian'ın ortaya çıkardığı sızdırılmış belgelere göre İsrail ordusu, Filistinlilerin fotoğraflarını analiz etmek amacıyla Amazon'un bulut platformuna 3,5 milyon fotoğraf yükledi. Bu hamle, İsrail ordusunun Gazze'deki operasyonlarının teknolojik ihtiyaçlarını karşılamak için Amazon'un bulut platformuna olan bağımlılığını artırdığı bir dönemde gerçekleşti.",
+      "highlights": [
+        "İsrail ordusu Amazon'un platformuna 3,5 milyon fotoğraf yükledi",
+        "Amaç ABD şirketinin yüz tanıma teknolojisiyle Filistinlileri analiz etmekti",
+        "Gelişme Gazze'deki saldırıların ilk aylarında sızdırılan belgelerle ortaya çıktı"
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/16/israel-amazon-facial-recognition-palestinians",
+      "publishedAt": "2026-11-16T11:00:56.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.yenisafak.com/video/gundem/onlarca-liseli-genc-umraniyedeki-avmde-bulusup-birbirlerine-acimasizca-vurdular-o-anlar-kamerada-4873027",
       "headline": "Ümraniye'deki AVM'de liseli gençlerin kavgası kameraya yansıdı",
       "source": "Yeni Şafak",
@@ -850,6 +918,29 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/gundem/sofor-kalp-krizi-gecirdi-minibus-denize-uctu-can-pazarinin-yasandigi-anlar-kamerada-43380114",
       "publishedAt": "2026-11-16T10:52:44.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.sabah.com.tr/yasam/kurucesme-cinayetinden-haliya-sarili-cesede-uzanan-cete-is-adamini-tehdit-ettiler-evleri-kursunladilar-26-supheli-adliyeye-sevk-edildi-7702796",
+      "headline": "Kuruçeşme cinayetinde yeni görüntüler ortaya çıktı",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1639343668600-7cd838db8dad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y3JpbWUlMjBzY2VuZSUyMHBvbGljZXxlbnwxfDB8fHwxNzk0ODM0MjkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Richard Bell",
+        "photographerUrl": "https://unsplash.com/@maplerockdesign",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-blue-and-white-police-tape-on-a-tree-KHOvyi9k-AM"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "İstanbul Kuruçeşme'deki bir eğlence mekanında 24 yaşındaki gencin ölümüyle sonuçlanan silahlı saldırının ardından polisin şüphelilerin telefonlarında yaptığı incelemede yeni görüntülere ulaşıldı.",
+      "highlights": [
+        "Kuruçeşme'deki eğlence mekanında 24 yaşındaki genç silahlı saldırıda hayatını kaybetti",
+        "Polis şüphelilerin telefonlarını inceledi",
+        "İnceleme sonucunda yeni görüntüler ortaya çıktı"
+      ],
+      "externalUrl": "https://www.sabah.com.tr/yasam/kurucesme-cinayetinden-haliya-sarili-cesede-uzanan-cete-is-adamini-tehdit-ettiler-evleri-kursunladilar-26-supheli-adliyeye-sevk-edildi-7702796",
+      "publishedAt": "2026-11-16T10:47:58.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -3862,6 +3953,29 @@
       ],
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
       "publishedAt": "2026-11-14T10:03:12.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
+      "headline": "Beyaz Saray: Trump, Xi ve Putin benzeri görülmemiş bir toplantı düzenleyecek",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1695388474402-ed805a890d8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c3VtbWl0JTIwbWVldGluZ3xlbnwxfDB8fHwxNzk0ODM0MzEzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anastassia Anufrieva",
+        "photographerUrl": "https://unsplash.com/@antoie",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-sitting-at-a-table-reading-a-paper-ecHGTPfjNfA"
+      },
+      "timeAgo": "2 gün önce",
+      "body": "Beyaz Saray tarafından yapılan açıklamaya göre ABD, Çin ve Rusya liderleri, büyük bir ekonomik zirvenin kulisinde benzeri görülmemiş bir toplantı gerçekleştirecek.",
+      "highlights": [
+        "ABD, Çin ve Rusya liderleri bir araya gelecek",
+        "Toplantı büyük bir ekonomik zirvenin kulisinde yapılacak",
+        "Beyaz Saray toplantıyı benzeri görülmemiş olarak nitelendirdi"
+      ],
+      "externalUrl": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
+      "publishedAt": "2026-11-14T08:19:00.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -7628,6 +7742,16 @@
     "https://www.hurriyet.com.tr/sporarena/selcuk-inandan-emre-belozoglu-sozleri-saha-disinda-abim-gibi-ama-25-yildir-rakibiz-43380222",
     "https://www.sabah.com.tr/yasam/balikesirde-feci-olay-yolcu-minibusu-denize-uctu-7702797",
     "https://www.bbc.com/turkce/articles/cm4gnznnnxvxo?at_medium=RSS&at_campaign=rss",
-    "https://www.ntv.com.tr/turkiye/bakan-kurum-gercek-sinav-cop31den-sonra-1751113"
+    "https://www.ntv.com.tr/turkiye/bakan-kurum-gercek-sinav-cop31den-sonra-1751113",
+    "https://tr.euronews.com/2026/11/16/sudanda-ortaya-cikarilan-kilise-beyaz-saraydan-bile-buyuk-olabilir",
+    "https://www.yenisafak.com/gundem/meteoroloji-13-il-icin-sari-kodlu-uyari-verdi-balikesir-canakkale-hatay-izmir-kocaeli-tekirdag-osmaniye-bursa-edirne-istanbul-kirklareli-kahramanmaras-yalova-hava-durumu-4873101",
+    "https://www.trthaber.com/haber/turkiye/meteoroloji-13-ili-sari-kodla-uyardi-963433.html",
+    "https://www.haberturk.com/spor/petrol-ofisi-maxima-turkiye-ralli-sampiyonasi-nda-kerem-kazaz-ust-uste-3-kez-zirveye-cikti-3927719",
+    "https://www.hurriyet.com.tr/sporarena/galatasaray-resmen-acikladi-samsunspor-maci-basaksehirde-oynanacak-43380229",
+    "https://www.aa.com.tr/tr/dunya/ab-rusya-ukrayna-baris-muzakerelerine-ev-sahipligi-yapmaya-haziriz/4126642",
+    "https://www.bbc.co.uk/news/articles/c8y5x3n4kywpo?at_medium=RSS&at_campaign=rss",
+    "https://www.ntv.com.tr/turkiye/kyk-burs-odeme-takvimi-kyk-bursu-yatti-mi-ne-zaman-yatacak-2-aylik-toplu-odeme-mi-yapilacak-1751120",
+    "https://www.bbc.com/turkce/articles/c6wyvv1vvjv5o?at_medium=RSS&at_campaign=rss",
+    "https://www.dw.com/tr/türkiye-fransa-ya-2-1-mağlup-oldu/a-79954390?maca=tur-rss-tur-all-1495-xml-mrss"
   ]
 }
