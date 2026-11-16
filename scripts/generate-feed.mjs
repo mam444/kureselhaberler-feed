@@ -9,8 +9,9 @@ import { sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-const MAX_NEW_PER_RUN = 10;
-const MAX_TOTAL_ARTICLES = 300;
+const MAX_NEW_PER_RUN = 15;
+const MAX_TOTAL_ARTICLES = 600;
+const MAX_SOURCE_SUMMARY_CHARS = 1600;
 // Headlines alone do not contain enough evidence for a reliable article.
 const MIN_SOURCE_SUMMARY_CHARS = 100;
 // Gemini çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
@@ -47,7 +48,10 @@ async function loadPreviousFeed() {
 
 async function rewriteAndIllustrate(raw) {
   try {
-    const sourceSummary = String(raw.body ?? '').trim();
+    const completeSummary = String(raw.body ?? '').trim();
+    const sourceSummary = completeSummary.length <= MAX_SOURCE_SUMMARY_CHARS
+      ? completeSummary
+      : completeSummary.slice(0, MAX_SOURCE_SUMMARY_CHARS).replace(/\s+\S*$/, '').trim();
     if (sourceSummary.length < MIN_SOURCE_SUMMARY_CHARS) {
       console.warn(
         `[guard] "${raw.headline}" kaynak özeti yetersiz (${sourceSummary.length} karakter); haber uydurmamak için atlandı.`,

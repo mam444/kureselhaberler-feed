@@ -59,7 +59,19 @@ function textOf(node) {
 
 function parseRssItem(item, source) {
   const title = textOf(item.title).trim();
-  const link = textOf(item.link).trim();
+  const directLink = Array.isArray(item.link)
+    ? item.link.find((candidate) => candidate?.['@_rel'] === 'alternate') ?? item.link[0]
+    : item.link;
+  const atomLinks = asArray(item['atom:link']);
+  const atomAlternate = atomLinks.find((candidate) =>
+    !candidate?.['@_rel'] || candidate['@_rel'] === 'alternate',
+  );
+  const link = String(
+    directLink?.['@_href'] ??
+      atomAlternate?.['@_href'] ??
+      textOf(directLink) ??
+      '',
+  ).trim();
   if (!title || !link) return null;
 
   const descriptionRaw = textOf(item.description).trim();

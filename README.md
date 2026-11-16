@@ -10,9 +10,9 @@ bir çalıştırır.
 1. `.github/workflows/generate-feed.yml` her 10 dakikada bir (ve manuel olarak da) tetiklenir.
 2. `scripts/generate-feed.mjs`:
    - `scripts/sources.mjs`'teki RSS kaynaklarını çeker,
-   - önceki `docs/haberler.json`'da olmayan (en fazla 10) yeni haberi Gemini ile yeniden yazar,
+   - önceki `docs/haberler.json`'da olmayan (en fazla 15) yeni haberi, RSS açıklamasını en fazla 1.600 karakter kullanarak Gemini ile yeniden yazar,
    - her biri için Unsplash'tan konuya uygun bir fotoğraf bulur,
-   - sonucu eskisiyle birleştirip `docs/haberler.json`'a yazar (en fazla 300 haber tutulur),
+   - sonucu eskisiyle birleştirip `docs/haberler.json`'a yazar (en fazla 600 haber tutulur),
    - gerçekten yeni haber varsa Android'e FCM üzerinden, web/iOS'a OneSignal üzerinden push gönderir.
 3. Değişiklik varsa Action, `docs/haberler.json`'u commit'leyip push eder.
 4. GitHub Pages (`Settings → Pages → Deploy from branch → main /docs`), bu dosyayı şu adreste
