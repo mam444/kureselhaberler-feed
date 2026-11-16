@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T11:36:45.833Z",
+  "generatedAt": "2026-11-16T11:45:51.814Z",
   "articles": [
     {
       "id": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
@@ -88,6 +88,29 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
       "publishedAt": "2026-11-16T11:05:47.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "headline": "Trump, Görev Süresinin Sonunda Dış Politikaya Odaklanarak Asya Turuna Çıkıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1765378153955-0887500b1eea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RG9uYWxkJTIwVHJ1bXAlMjBBc2lhJTIwdHJpcHxlbnwxfDB8fHwxNzk0ODI5NTUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "SERGEI BEZZUBOV",
+        "photographerUrl": "https://unsplash.com/@sergskur",
+        "unsplashUrl": "https://unsplash.com/photos/woman-standing-between-two-ornate-stupas-BvYBABf9eoU"
+      },
+      "timeAgo": "45 dk önce",
+      "body": "ABD Başkanı Donald Trump, Cumhuriyetçi Parti'nin ara seçimlerdeki yenilgisinin ardından ilk yurt dışı gezisine çıkıyor. Uzmanlar, bu seyahatin başkanlığın kalan kısmında dış politikaya yeniden odaklanmanın habercisi olabileceğini belirtiyor. Trump, Salı günü Filipinler'in Manila kentine vararak Asean zirvesine katılacak ve ardından Apec forumunda Çinli mevkidaşı Xi Jinping ile Rusya Devlet Başkanı Vladimir Putin ile ilk üçlü zirvede bir araya gelecek.",
+      "highlights": [
+        "Trump, ara seçimlerin ardından ilk yurt dışı gezisine çıkıyor",
+        "Salı günü Filipinler'in Manila kentindeki Asean zirvesine katılacak",
+        "Xi Jinping ve Vladimir Putin ile ilk üçlü zirvede görüşecek"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy",
+      "publishedAt": "2026-11-16T11:00:58.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6851,29 +6874,6 @@
       "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-fon-sorusturmasinda-yeni-gelisme-bddk-3-daire-baskani-bilal-soysal-tutuklandi-1749973",
       "publishedAt": "2026-11-09T00:53:46.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o?at_medium=RSS&at_campaign=rss",
-      "headline": "Otizmli bireylerin beslenme süreci ve yemekle karmaşık ilişkisi",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1552255349-450c59a5ec8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YXBwbGUlMjBzbGljZXN8ZW58MXwwfHx8MTc5NDE5MzA1NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nikolai Chernichenko",
-        "photographerUrl": "https://unsplash.com/@perfectcoding",
-        "unsplashUrl": "https://unsplash.com/photos/red-apple-sliced-hFBsF-CX5eQ"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Günlük yaşamın en sıradan aktivitelerinden biri olan beslenme ve yemek yeme süreci, otizmli bireyler için kimi zaman oldukça zorlu ve karmaşık bir deneyime dönüşebilmektedir. Konuyla ilgili yaşanan deneyimler, bu durumun bireylerin hayatını ve sosyal alışkanlıklarını nasıl etkilediğini gözler önüne sermektedir. Yaşanan bu hassasiyetler, erken çocukluk döneminden itibaren kendini gösterebilmekte ve ilerleyen yaşlarda da çeşitli biçimlerde kendini hissettirmeye devam etmektedir.\n\nBu bağlamda dikkat çeken örneklerden biri, şu anda 23 yaşında olan Spencer Ali'nin geçmişte yaşadığı tecrübelerdir. Spencer Ali, çocukluk ve okul yıllarında gıdalarla kurduğu mesafeli ve zorlu ilişkiyi aktarırken, bebeklik döneminden itibaren bu süreçte zorlandığını ifade etmektedir. Okul dönemindeki bir anısını paylaşan Ali, bir poşet dilimlenmiş elmayı tüketmektense üst üste üç öğle arasından tamamen vazgeçmeyi tercih ettiğini belirtmektedir. Bu durum, otizmli bireylerin belirli yiyeceklere karşı geliştirdiği duyusal hassasiyetlerin ve kaçınma davranışlarının ne denli güçlü olabileceğini ortaya koyan somut bir örnek olarak öne çıkmaktadır.\n\nBeslenme alışkanlıklarındaki bu tür farklılıklar, otizm spektrum bozukluğuna sahip bireylerin ailelerini ve eğitim süreçlerini de yakından ilgilendiren bir konudur. Uzmanlar, otizmli bireylerin yiyeceklerle kurduğu bu hassas ilişkiye yaklaşırken belirli stratejilerin izlenmesi gerektiğine dikkat çekmektedir. Konunun uzmanları, bu alanda karşılaşılan zorlukların aşılmasında doğru ve bilinçli yaklaşımların benimsenmesinin önemini vurgulayarak çeşitli tavsiyelerde bulunmaktadırlar. Bu tavsiyeler, hem bireylerin beslenme çeşitliliğini artırmayı hem de yemek saatlerini daha az stresli hale getirmeyi amaçlamaktadır.\n\nOtizmli bireylerin yaşadığı duyusal farklılıklar, tat, koku, doku ve görünüm gibi gıda özelliklerine karşı aşırı hassasiyet veya seçicilik olarak kendini gösterebilmektedir. Spencer Ali'nin deneyimi, bu hassasiyetlerin sadece birer kapris olmadığını, aksine bireyin duyusal dünyasının doğal bir yansıması olduğunu göstermektedir. Uzmanlar, ailelerin ve bakım verenlerin bu süreçte sabırlı bir tutum sergilemesinin, baskı yapmaktan kaçınmasının ve bireylerin kendi hızlarında adım atmalarına olanak tanınmasının kritik bir rol oynadığını belirtmektedir.\n\nBeslenme alışkanlıklarının düzenlenmesi ve gıdayla kurulan bağın iyileştirilmesi, uzun vadede bireylerin genel sağlık durumunu ve sosyal yaşam kalitesini doğrudan etkileyen unsurlar arasında yer almaktadır. Okul çağındaki çocuklardan yetişkinlik dönemindeki bireylere kadar geniş bir yelpazede ele alınan bu durum, toplumsal farkındalığın artırılmasını da zorunlu kılmaktadır. Uzmanların önerileri doğrultusunda atılacak adımlar, otizmli bireylerin ve ailelerinin bu süreçle daha rahat başa çıkabilmesine zemin hazırlarken, yemek saatlerinin birer kriz anı olmaktan çıkıp daha yönetilebilir anlara dönüşmesine katkı sağlamaktadır.",
-      "highlights": [
-        "Spencer Ali, bebeklikten beri yemek konusunda zorlandığını ifade ediyor.",
-        "Ali, okulda elma yememek için üç öğle arasından vazgeçtiğini belirtti.",
-        "Uzmanlar, otizmli bireylerin yemek ilişkisine yönelik tavsiyelerde bulunuyor."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-09T00:33:31.000Z",
-      "category": "Dünya",
       "lang": "tr"
     }
   ]
