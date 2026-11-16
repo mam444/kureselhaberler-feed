@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-16T09:45:03.983Z",
+  "generatedAt": "2026-11-16T09:55:41.665Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "headline": "Albanese, Trump Görüşmesinde Zor Bir Denge Gözetiyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QW50aG9ueSUyMEFsYmFuZXNlJTIwRG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NDgyMjkzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/donald-trump-beside-man-in-black-suit-cTz5-T7voqQ"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Anthony Albanese, salı günü Donald Trump ile yapacağı görüşmede zor bir denge kurmaya çalışacak. İran ve Ukrayna'daki savaşların hızla sona ermesini savunacak olan Albanese, ABD'yi Hint-Pasifik'te yer almaya çağıracak. Filipinler'in başkenti Manila'daki Quad liderler zirvesi, Trump'ın başkanlıklarındaki ilk zirve olacak.",
+      "highlights": [
+        "Albanese ve Trump salı günü görüşecek",
+        "Görüşmede İran ve Ukrayna savaşları ele alınacak",
+        "Quad zirvesi Manila'da gerçekleştirilecek"
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+      "publishedAt": "2026-11-16T09:40:29.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+      "headline": "Üçüncü ABD uçak gemisi Orta Doğu'ya ulaştı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1519073147904-23e655032ea3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YWlyY3JhZnQlMjBjYXJyaWVyfGVufDF8MHx8fDE3OTQ4MjI5Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "DON JACKSON-WYATT",
+        "photographerUrl": "https://unsplash.com/@the_don_photography",
+        "unsplashUrl": "https://unsplash.com/photos/flying-black-f14-tomcat-in-sky-b9cU8k3VZNM"
+      },
+      "timeAgo": "24 dk önce",
+      "body": "İran ile yaşanan gerilimlerin ortasında USS Theodore Roosevelt Orta Doğu'ya vardı. Trump, geminin varışı üzerine \"Tanrı askerlerimizi korusun\" mesajını paylaştı.",
+      "highlights": [
+        "Üçüncü ABD uçak gemisi Orta Doğu'ya geldi",
+        "USS Theodore Roosevelt bölgeye ulaştı",
+        "Trump \"Tanrı askerlerimizi korusun\" mesajı paylaştı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+      "publishedAt": "2026-11-16T09:31:36.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado",
       "headline": "Delaware'de Nadir Görülen Kasım Ayı Hortumu Meydana Geldi",
@@ -251,6 +297,29 @@
       "publishedAt": "2026-11-16T08:55:53.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711",
+      "headline": "Güney Afrika'da iki ayrı silahlı saldırıda en az 17 kişi hayatını kaybetti",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1701445919909-b2b1e4b7a6dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U291dGglMjBBZnJpY2ElMjBwb2xpY2V8ZW58MXwwfHx8MTc5NDgyMjk0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "polina miloserdova",
+        "photographerUrl": "https://unsplash.com/@puella",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-motorcycles-parked-in-front-of-a-building-riA2aBZaZKE"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Güney Afrika'da meydana gelen iki ayrı silahlı saldırıda en az 17 kişi yaşamını yitirdi. Polis yetkilileri, olayların pazartesi günü gerçekleştiğini bildirdi.",
+      "highlights": [
+        "İki ayrı silahlı saldırı düzenlendi",
+        "En az 17 kişi hayatını kaybetti",
+        "Açıklama polisten geldi"
+      ],
+      "externalUrl": "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711",
+      "publishedAt": "2026-11-16T08:55:00.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
@@ -6806,75 +6875,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/icisleri-bakani-ciftci-corum-belediye-baskani-asginin-oglunun-nikah-sahidi-oldu-4870821",
       "publishedAt": "2026-11-08T19:44:11.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-      "headline": "Florida'da yoğun otoyola acil iniş yapan küçük uçak kamyonete çarptı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1717844519403-042dfe9c6c48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c21hbGwlMjBhaXJwbGFuZSUyMGhpZ2h3YXl8ZW58MXwwfHx8MTc5NDE2Nzk4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Leo Bayard",
-        "photographerUrl": "https://unsplash.com/@leob_photography",
-        "unsplashUrl": "https://unsplash.com/photos/a-plane-is-flying-over-a-highway-with-traffic-signs-3rLgnyjc0cY"
-      },
-      "timeAgo": "31 dk önce",
-      "body": "Amerikan havacılık ve karayolu güvenliği açısından şaşırtıcı kabul edilen olay, Florida eyaletinde hareketli bir otoyolda meydana geldi. Edinilen bilgilere göre, kalkışından yaklaşık elli dakika sonra henüz belirlenemeyen bir teknik ya da operasyonel gerekçeyle havada acil durum prosedürü uygulamak zorunda kalan küçük tip bir uçak, Fort Myers bölgesindeki işlek bir yola iniş yapmayı denedi. İniş manevrası sırasında karayolunda seyir halinde olan bir kamyonetin arkasına çarpan hava taşıtı, çevrede büyük bir paniğe ve şaşkınlığa neden oldu.\n\nYetkililer ve şerif ofisi tarafından kamuoyuyla paylaşılan güvenlik ve olay yeri video kayıtlarında, Cessna 172 model küçük uçağın, Fort Myers şehrindeki karayoluna teker koyma anına yaklaşırken yoldaki kamyonete temas ettiği net bir şekilde görülüyor. Görsellerde uçağın taşıtın arka kısmına sürtünerek indiği ve o anlardaki dramatik atmosfer açıkça gözler önüne seriliyor. Yoğun trafik akışının olduğu bir saatte gerçekleşen bu kaza, karayolunu kullanan diğer sürücüler ve çevredekiler açısından son derece tehlikeli anların yaşanmasına yol açtı.\n\nOlayın en sevindirici yönü ise, hem uçakta bulunan kişilerin hem de kamyonetin sürücüsünün bu korkunç kazayı tamamen yara almadan atlatmış olmasıdır. İçerisinde toplam iki kişinin bulunduğu belirtilen küçük uçağın gerçekleştirdiği bu zorunlu ve riskli acil iniş sonrasında, şans eserim hiç kimsenin yaralanmadığı resmen doğrulandı. Kazanın ardından olay yerine intikal eden ilgili birimler ve güvenlik güçleri, hem otoyoldaki ulaşımı güvenli hale getirmek hem de olayın tam olarak hangi sebepten kaynaklandığını tespit etmek üzere inceleme başlattı.\n\nCumartesi günü yerel saatle yaklaşık 11.45 sularında meydana gelen bu olağandışı kaza, havacılık dünyasında ve yerel basında geniş yankı uyandırdı. Rutin bir uçuş sırasında yaşanan bu beklenmedik gelişme, pilotların acil durumlarda karayollarını alternatif iniş alanı olarak seçmek zorunda kalabildiğini bir kez daha gösterirken, ölü ya da yaralı olmaması büyük bir teselli kaynağı oldu. Şerif ofisi ve ilgili soruşturma mercileri, kazanın tüm ayrıntılarını aydınlatmak için çalışmalarını sürdürüyor.",
-      "highlights": [
-        "Fort Myers'da küçük bir uçak yoğun otoyola acil iniş yaptı.",
-        "Cessna 172 model uçak, iniş sırasında bir kamyonetin arkasına çarptı.",
-        "İçinde iki kişi bulunan uçaktaki kazada şans eseri yaralanan olmadı."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/08/florida-plane-crash-truck-highway",
-      "publishedAt": "2026-11-08T19:29:05.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
-      "headline": "Al Jazeera ekibi Gençlik Olimpiyatları'nda Baseball5 branşını denedi",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1620740528428-59fb523a484a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmFzZWJhbGwlMjBnbG92ZXxlbnwxfDB8fHwxNzk0MTY3OTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Diana Polekhina",
-        "photographerUrl": "https://unsplash.com/@diana_pole",
-        "unsplashUrl": "https://unsplash.com/photos/brown-leather-baseball-mitt-with-white-baseball-w1sYdquxs-I"
-      },
-      "timeAgo": "33 dk önce",
-      "body": "Uluslararası medya kuruluşu Al Jazeera, dünyanın dört bir yanında büyük bir ilgiyle takip edilen Gençlik Olimpiyatları organizasyonu kapsamında, son dönemde popülaritesi artan ve geleneksel beyzbol sporunun sokak versiyonu olarak bilinen Baseball5 branşını deneyimledi. Genç sporcuların ve katılımcıların büyük bir heyecanla takip ettiği bu özel etkinlik, spor dünyasında farklı disiplinlerin geniş kitlelere tanıtılması açısından önemli bir adım olarak değerlendiriliyor.\n\nGençlik Olimpiyatları'nın dinamik yapısına son derece uygun olan Baseball5, herhangi bir özel ekipman veya geniş geleneksel beyzbol sahası gerektirmemesi sayesinde her ortamda kolaylıkla oynanabilen yenilikçi bir takım sporu olarak öne çıkıyor. Al Jazeera temsilcilerinin de bizzat sahaya inerek deneyimlediği bu branş, sadece profesyonel sporcular için değil, aynı zamanda sporla yeni tanışan gençler için de erişilebilir ve kapsayıcı bir karakter taşıyor. Organizasyon alanında kurulan özel sahalarda gerçekleştirilen bu deneyim, hem medya mensupları hem de izleyiciler tarafından yakından ilgiyle takip edildi.\n\nSpor organizasyonlarının çağın gereklerine ayak uydurması ve genç kuşakları aktif fiziksel aktivitelere teşvik etmesi amacıyla uluslararası federasyonlar tarafından desteklenen Baseball5, bu tür küresel platformlarda yer alarak uluslararası görünürlüğünü artırmaya devam ediyor. Gençlik Olimpiyatları gibi devasa bir organizasyonda bu tür alternatif ve modern branşların yer alması, sporun gelecekteki yönelimi hakkında da önemli ipuçları veriyor. Al Jazeera'nin gerçekleştirdiği bu deneyim haberi, söz konusu branşın uluslararası arenada ne denli geniş bir merak uyandırdığını ve farklı mecralar aracılığıyla nasıl geniş kitlelere ulaştığını bir kez daha gözler önüne serdi.\n\nEtkinlik boyunca katılımcıların ve medya ekiplerinin gösterdiği ilgi, sporun birleştirici gücünün ve yenilikçi formatların ne kadar hızlı kabul gördüğünün somut bir kanıtı oldu. Geleneksel spor dallarının yanı sıra bu tarz pratik ve hızlı akışa sahip oyunların Gençlik Olimpiyatları gibi prestijli organizasyonlara entegre edilmesi, gençlerin spor festivallerine olan bağlılığını artıran temel unsurlar arasında yer alıyor. Al Jazeera'nin yerinde takip ettiği ve deneyimlediği bu eğlenceli anlar, olimpiyat ruhunun modern sokak sporlarıyla nasıl harmanlandığını gösteren başarılı bir örnek olarak kayıtlara geçti.",
-      "highlights": [
-        "Al Jazeera ekibi Gençlik Olimpiyatları'nda Baseball5 branşını deneyimledi.",
-        "Baseball5, sokak versiyonu olması ve ekipman gerektirmemesiyle dikkat çekiyor.",
-        "Yenilikçi spor branşı olimpiyatlarda geniş kitlelerin ilgi odağı oldu."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/al-jazeera-tries-baseball5-at-youth-olympics?traffic_source=rss",
-      "publishedAt": "2026-11-08T19:26:38.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.sabah.com.tr/dunya/trump-irana-yeniden-saldiri-ihtimalini-degerlendirdi-bir-saat-icinde-yikabilecegimiz-38-kopru-var-7697702",
-      "headline": "Trump'tan İran açıklaması: Bir saat içinde yıkabileceğimiz 38 köprü var",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1569285645462-a3f9c6332d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NDE2Nzk5MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Darren Halstead",
-        "photographerUrl": "https://unsplash.com/@darren1303",
-        "unsplashUrl": "https://unsplash.com/photos/man-wearing-donald-trump-mask-standing-in-front-of-white-house-B_vXFdzvw3g"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Amerika Birleşik Devletleri Başkanı Donald Trump, İran ile ilişkiler ve yeniden bir saldırı düzenleme ihtimaline dair dikkat çeken değerlendirmelerde bulundu. Son dönemde Tahran yönetimiyle yaşanan gelişmelerin ardından yapılan bu açıklamalar, uluslararası kamuoyunda geniş yankı uyandırdı ve iki ülke arasındaki gerilimin seyrine yönelik yeni tartışmaları beraberinde getirdi. Gelişmeler, hem bölgedeki diplomatik kanalların işleyişini hem de iki ülke arasındaki hassas dengeleri yakından etkileyen bir süreçte ortaya çıktı.\n\nİran ile yürütülen diplomatik temaslar ve stratejik meseleler, uzun süredir küresel politikanın en önemli gündem maddeleri arasında yer alıyor. Bu kapsamda taraflar arasında nükleer program ve stratejik su yollarından biri olan Hürmüz Boğazı'nın seyrüsefere açılması konularında çeşitli müzakereler yürütülüyor. Başkan Donald Trump'ın bu müzakere süreci ve olası askeri senaryolar hakkında dile getirdiği ifadeler, Washington'ın Tahran'a yönelik politikasının sert ve kararlı yönünü bir kez daha gözler önüne serdi.\n\nSöz konusu açıklamalarında askeri kapasiteye ve olası bir çatışma senaryosuna dikkat çeken Trump, İran'ın altyapısına yönelik çok net ifadeler kullandı. Yapılan değerlendirmelerde, ülkenin stratejik noktalarına atıfta bulunularak, \"Bir saat içinde yıkabileceğimiz 38 köprü var\" şeklindeki iddialı söylem kamuoyuyla paylaşıldı. Bu tür açıklamalar, Washington ve Tahran hatlarında askeri caydırıcılığın ne kadar ön planda tutulduğunu ve diplomasiye tanınan alanın zaman zaman nasıl daralabildiğini gösteren somut örnekler olarak değerlendiriliyor.\n\nUluslararası ilişkiler uzmanları, bu tür sert söylemlerin hem iç politikadaki yansımalarını hem de dış politikadaki müzakere masasını doğrudan etkilediğine işaret ediyor. Hürmüz Boğazı gibi küresel ticaret ve enerji nakil hatları açısından hayati öneme sahip bölgelerin güvenliği, dünya ekonomisinin istikrarı açısından büyük bir hassasiyet taşımaktadır. Nükleer program konusundaki anlaşmazlıklar ise taraflar arasındaki diplomatik çözümsüzlüğü derinleştiren temel unsurlar arasında bulunuyor.\n\nABD Başkanı Donald Trump'ın İran'a yönelik yeniden saldırı ihtimalini değerlendirdiği bu son çıkışı, diplomatik müzakerelerin sıkıştığı anlarda askeri tehditlerin bir baskı unsuru olarak nasıl devreye sokulduğunu bir kez daha gösterdi. Sürecin ilerleyen günlerde nasıl şekilleneceği, hem nükleer müzakerelerin geleceği hem de iki ülkenin sahadaki hamleleri tarafından belirlenecek. Bölgedeki tüm bu gelişmeler, uluslararası aktörler tarafından yakından takip edilmeye devam ediyor.",
-      "highlights": [
-        "ABD Başkanı Trump, İran'a yönelik olası saldırı ihtimalini değerlendirdi.",
-        "Açıklamalarda nükleer program ve Hürmüz Boğazı müzakereleri ele alındı.",
-        "Trump, İran'da bir saat içinde yıkılabilecek 38 köprü olduğunu belirtti."
-      ],
-      "externalUrl": "https://www.sabah.com.tr/dunya/trump-irana-yeniden-saldiri-ihtimalini-degerlendirdi-bir-saat-icinde-yikabilecegimiz-38-kopru-var-7697702",
-      "publishedAt": "2026-11-08T18:57:28.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
