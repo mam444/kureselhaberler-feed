@@ -18,10 +18,15 @@ export async function sendAndroidPush(article, accessToken, projectId) {
         // resolves to its original publisher and source link in the reader.
         source: 'Küresel Haberler',
         headline: String(article.headline || ''),
+        body: String(article.body || ''),
+        originalSource: String(article.source || ''),
+        publishedAt: String(article.publishedAt || ''),
         ...(article.externalUrl ? { externalUrl: String(article.externalUrl) } : {}),
         ...(imageUrl ? { imageUrl: String(imageUrl) } : {}),
       },
-      android: { priority: 'HIGH' },
+      // Wake a backgrounded Android app promptly, but don't show yesterday's
+      // headline if a device reconnects after being offline for a long time.
+      android: { priority: 'HIGH', ttl: '86400s' },
     },
   });
 

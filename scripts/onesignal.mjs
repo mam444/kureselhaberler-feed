@@ -29,7 +29,13 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
       // safe to redistribute in the push.
       big_picture: article.imageUrl ?? undefined,
       chrome_web_image: article.imageUrl ?? undefined,
-      data: { articleId: article.id },
+      data: {
+        articleId: article.id,
+        body: article.body ?? '',
+        externalUrl: article.externalUrl ?? '',
+        originalSource: article.source ?? '',
+        publishedAt: article.publishedAt ?? '',
+      },
       // Routes into the Flutter app's own "breaking_news" Android channel
       // (created client-side in notification_service.dart) so a real push
       // uses the same custom sound + vibration pattern as an in-app local
