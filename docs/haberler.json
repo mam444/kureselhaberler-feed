@@ -1,6 +1,73 @@
 {
-  "generatedAt": "2026-11-16T07:54:45.377Z",
+  "generatedAt": "2026-11-16T08:24:48.786Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "headline": "Elon Musk ve 165 bin kişi Nvidia'da Jensen Huang'ın göreve iadesini istedi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1690233659993-52f33bd938d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RWxvbiUyME11c2slMjBOdmlkaWF8ZW58MXwwfHx8MTc5NDgxNzQ4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/a-computer-keyboard-with-the-letter-x-on-it-5jcUy1sfErg"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Elon Musk ve çok sayıda teknoloji yöneticisi, ilişkisi olduğu iddia edilen Çinli casus meselesinin ardından istifa eden Jensen Huang'ın Nvidia'ya geri dönmesini talep etti. 165 binden fazla imzacı, bağımsız soruşturma yürütülene kadar Huang'ın kurula geri çağrılmasını istiyor.",
+      "highlights": [
+        "Elon Musk dahil 165 binden fazla kişi imza attı",
+        "Jensen Huang'ın göreve iadesi talep ediliyor",
+        "Bağımsız soruşturma yapılana kadar çağrı yapıldı"
+      ],
+      "externalUrl": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "publishedAt": "2026-11-16T08:03:29.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+      "headline": "Çin, ABD ve Rusya ile nükleer anlaşmaya neden karşı çıkıyor?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1720348463647-2b0e943dad2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bnVjbGVhciUyMHdlYXBvbnN8ZW58MXwwfHx8MTc5NDgxNzQ4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stephen Cobb",
+        "photographerUrl": "https://unsplash.com/@chuffed",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-large-metal-object-ls82dpWdpk4"
+      },
+      "timeAgo": "31 dk önce",
+      "body": "Pekin'in Washington ve Moskova'dan daha küçük bir cephaneliğe sahip olması, bir anlaşmanın nükleer kapasitesini sınırlayabileceğinden endişe etmesine yol açıyor.",
+      "highlights": [
+        "Pekin'in cephaneliği Washington ve Moskova'dan daha küçük",
+        "Çin, bir anlaşmanın nükleer kapasitesini sınırlamasından endişe ediyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+      "publishedAt": "2026-11-16T07:54:09.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/gundem/ali-emre-ballinin-aracta-olu-bulunmasina-iliskin-sorusturmada-yetkisizlik-karari-43379819",
+      "headline": "Ali Emre Ballı'nın araçta ölü bulunması soruşturmasında yetkisizlik kararı",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1606022831434-91293aebf25a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwY2FyfGVufDF8MHx8fDE3OTQ4MTc0ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michael Förtsch",
+        "photographerUrl": "https://unsplash.com/@michael_f",
+        "unsplashUrl": "https://unsplash.com/photos/police-car-with-flashing-emergency-lights-y5LaV9IEC_g"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "İstanbul Çekmeköy'de Ali Emre Ballı'nın araç içinde ölü bulunmasıyla ilgili soruşturmayı yürüten Anadolu Cumhuriyet Başsavcılığı yetkisizlik kararı verdi. Dosya, İstanbul Cumhuriyet Başsavcılığına gönderildi.",
+      "highlights": [
+        "Anadolu Cumhuriyet Başsavcılığı yetkisizlik kararı verdi",
+        "Dosya İstanbul Cumhuriyet Başsavcılığına gönderildi"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/ali-emre-ballinin-aracta-olu-bulunmasina-iliskin-sorusturmada-yetkisizlik-karari-43379819",
+      "publishedAt": "2026-11-16T07:50:59.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
       "headline": "Tayland'ın Phuket adasındaki yangında en az 11 kişi hayatını kaybetti",
@@ -6813,75 +6880,6 @@
       ],
       "externalUrl": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
       "publishedAt": "2026-11-08T08:00:36.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/son-dakika-vanda-feci-kaza-tir-ile-minibus-carpisti-7-olu-7-yarali-3490325",
-      "headline": "Van'da tır ile minibüs çarpıştı: 9 kişi hayatını kaybetti, 5 yaralı var",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1734777357603-6b5cc74b50c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDEwMzMwOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sergio Zhukov",
-        "photographerUrl": "https://unsplash.com/@opohmelka",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-sign-on-a-building-00uhiL091vo"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Van ile Özalp ilçesini birbirine bağlayan karayolunda, ulaşım güvenliğini sarsan ve derin üzüntü yaratan feci bir trafik kazası meydana geldi. Edinilen ilk bilgilere göre, karayolu üzerinde seyir halinde olan bir tır ile aynı güzergahtaki minibüs henüz belirlenemeyen bir sebepten ötürü çarpıştı. Çarpışmanın şiddetiyle her iki araçta da büyük maddi hasar oluşurken, olay yerinde adeta can pazarı yaşandı. Karayolundaki diğer sürücülerin ihbarı üzerine, kaza mahalline çok sayıda sağlık, itfaiye ve güvenlik ekibi yönlendirildi.\n\nOlay yerine intikal eden sağlık ekiplerinin yaptığı ilk kontrollerde, kazanın etkisiyle minibüste bulunan çok sayıda kişinin ağır yaralandığı ve bazı yolcuların ise olay yerinde yaşamını yitirdiği tespit edildi. Güvenlik güçleri ve kurtarma ekipleri, sıkışan yaralıları çıkarmak ve trafiğin kontrollü bir şekilde akışını sağlamak için geniş çaplı güvenlik önlemleri aldı. Kazanın yaşandığı bölgede ulaşım bir süre kontrollü olarak sağlanırken, ekiplerin titiz çalışmaları karayolunda güvenli geçişin yeniden tesisi için sürdürüldü.\n\nGerçekleşen bu acı kazanın bilançosu ise resmi mercilerce açıklandı. Yapılan son tespitlere göre, ne yazık ki 9 vatandaşımız olay yerinde hayatını kaybetti. Kazada yaralanan 5 kişi ise, olay yerinde yapılan ilk müdahalelerin ardından ambulanslarla çevredeki hastanelere kaldırılarak tedavi altına alındı. Hastanelerde tedavi gören yaralıların sağlık durumlarına ilişkin bilgilendirme yapılması beklenirken, acı haber bölgede ve tüm ülkede büyük bir yas havası yarattı.\n\nYetkililer, kazanın meydana geliş nedenini ve sorumlularını belirlemek amacıyla kapsamlı bir soruşturma başlattı. Karayolundaki fren izleri, hava ve yol koşulları ile araçların teknik durumları uzman ekipler tarafından inceleniyor. Benzer kazaların tekrar yaşanmaması adına sürücülerin trafik kurallarına uyması ve özellikle şehirlerarası yollarda azami dikkat göstermesi gerektiği bir kez daha hatırlatıldı.\n\nKaza haberini alır almaz bölgeye ulaşan hayatını kaybedenlerin yakınları ve yetkililer, hastaneler ve olay yerinde bilgi almaya çalıştı. Arama kurtarma ve enkaz kaldırma çalışmalarının tamamlanmasıyla birlikte Van-Özalp karayolu yeniden trafiğe tamamen açıldı. Yaşanan bu büyük facia, karayolu güvenliği konusundaki hassasiyetleri bir kez daha ön plana çıkardı.",
-      "highlights": [
-        "Van-Özalp karayolunda tır ile minibüsün çarpışması sonucu feci kaza yaşandı.",
-        "Meydana gelen kazada 9 kişi hayatını kaybederken 5 kişi de yaralandı.",
-        "İhbar üzerine bölgeye çok sayıda sağlık ve güvenlik ekibi sevk edildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-vanda-feci-kaza-tir-ile-minibus-carpisti-7-olu-7-yarali-3490325",
-      "publishedAt": "2026-11-08T01:52:24.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "headline": "Krakow'daki silahlı saldırının ardından bilinenler ve yaşanan gelişmeler",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1687696162729-a75f9ddc004d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aGlzdG9yaWMlMjBjaXR5JTIwc3F1YXJlfGVufDF8MHx8fDE3OTQxMDMzMTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Bogdan Vlad",
-        "photographerUrl": "https://unsplash.com/@bogdanvlad",
-        "unsplashUrl": "https://unsplash.com/photos/a-cobblestone-street-in-a-european-city-4cajbfV-QqM"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Polonya'nın tarihi kenti Krakow'da meydana gelen ve büyük bir şok yaratan silahlı saldırının arkasındaki olay örgüsü ve elde edilen son bulgular netleşmeye başlıyor. Kentin en merkezi noktalarından biri olan ana meydanda gerçekleştirilen rastgele saldırı, bölgedeki sakinleri ve ziyaretçileri derinden sarsarken, olay yerinde ve sonrasında yapılan incelemelerde toplam dokuz kişinin hayatını kaybettiği tespit edildi.\n\nElde edilen resmi bilgilere göre, saldırganın hedef gözetmeksizin ateş açması sonucu ana meydanda altı kişi yaşamını yitirdi. Kalabalık bir alanda gerçekleşen bu trajik olay, kısa sürede büyük bir panik dalgasına yol açtı ve acil durum ekiplerinin bölgeye hızla intikal etmesini tetikledi. Güvenlik güçleri ve sağlık personeli, olay yerindeki yaralılara müdahale ederken, saldırının şokunu yaşayan vatandaşlar güvenli bölgelere tahliye edildi.\n\nSaldırının hemen ardından başlatılan geniş çaplı soruşturma kapsamında, polisin olayla bağlantılı adreslere yönelik operasyonları hız kazandırdı. Bu çerçevede, saldırganın ikametgahına düzenlenen baskında, evde üç cansız bedenin daha bulunduğu rapor edildi. Yetkililer, hem ana meydandaki hem de evdeki ölümlerin birbiriyle doğrudan bağlantılı olduğunu değerlendirirken, olay mahallindeki incelemelerini titizlikle sürdürüyor.\n\nBu tür toplu şiddet olayları, kamusal alan güvenliği ve bireysel silahlanma tartışmalarını ulusal ve uluslararası düzeyde yeniden gündeme getirirken, Krakow'daki bu felaket de şehir sakinlerinde derin bir infial yarattı. Yetkili makamlar, olayla ilgili tüm detayların aydınlatılması için adli tıp ve kriminal incelemelerin devam ettiğini, kamuoyunun resmi açıklamalar dışında yapılan spekülasyonlara itibar etmemesi gerektiğini vurguluyor.\n\nSoruşturmanın ilerleyen aşamalarında, saldırganın kimliği, olayın olası motivasyonu ve geçmişine dair daha fazla detayın paylaşılması bekleniyor. Krakow'un kalbinde yaşanan bu acı olay, hem Polonya kamuoyunda hem de dünya basınında geniş yankı uyandırmaya devam ederken, hayatını kaybedenlerin yakınlarına yönelik başsağlığı mesajları iletilmektedir.",
-      "highlights": [
-        "Krakow'un ana meydanında rastgele açılan ateş sonucu altı kişi yaşamını yitirdi.",
-        "Saldırganın evinde yapılan aramalarda üç cansız bedene daha ulaşıldı.",
-        "Olayla ilgili geniş çaplı soruşturma ve adli incelemeler devam ediyor."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T01:47:41.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
-      "headline": "Kanarya Adaları'nın El Hierro bölgesinde göçmen ve mülteci dalgası nedeniyle acil durum ilan edildi",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1542809665-21a8657b97f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aW1taWdyYW50JTIwYm9hdHxlbnwxfDB8fHwxNzk0MTAzMzE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Guilherme Stecanella",
-        "photographerUrl": "https://unsplash.com/@guilhermestecanella",
-        "unsplashUrl": "https://unsplash.com/photos/white-boat-sailing-on-ocean-Qyf06F2Paog"
-      },
-      "timeAgo": "24 dk önce",
-      "body": "İspanya'nın Atlantik Okyanusu'ndaki ada bölgesi olan Kanarya Adaları'na bağlı El Hierro adasında, son haftalarda yaşanan yoğun düzensiz göçmen ve mülteci akını nedeniyle resmi olarak acil durum ilan edildiği bildirildi. Kasım ayının başından bu yana adaya teknelerle ulaşan göçmen ve mülteci sayısının 3 bin 300'ü aştığı belirtilirken, bu gelişme bölgedeki yerel idareyi ve yetkilileri harekete geçirdi. Yaşanan bu olağanüstü nüfus hareketliliği ve barınma, sağlık ile temel insani ihtiyaçların karşılanmasında ortaya çıkan kapasite sorunları, adanın yönetimini başkent Madrid'deki merkezi hükümetten resmi yardım istemek zorunda bıraktı.\n\nYetkililer tarafından aktarılan bilgilere göre, kasım ayının başlangıcından bu yana Atlas Okyanusu üzerinden tehlikeli ve zorlu bir yolculuğu göze alarak El Hierro kıyılarına varan teknelerdeki insanların sayısı kısa süre içinde 3 bin 300 eşiğini geride bıraktı. Söz konusu bu yoğun ve durmaksızın devam eden insan akını, coğrafi olarak sınırlı imkanlara sahip olan küçük ada ekonomisi ve altyapısı üzerinde ciddi bir baskı oluşturdu. Yerel makamlar, artan bu hareketliliğin ardından mevcut imkanların yetersiz kalma riskine karşı acil durum önlemlerini devreye sokarak durumu ulusal düzeyde resmiyet kazandırdı.\n\nAcil durum kararının alınmasının ardından El Hierro yerel yönetimi, İspanyol merkezi hükümetine resmi bir çağrıda bulunarak adaya acilen dışarıdan destek ve yardım sağlanmasını talep etti. Yapılan bu yardım çağrısının, adalara ulaşan binlerce insanın barınma, gıda, tıbbi bakım ve lojistik ihtiyaçlarının ivedilikle karşılanabilmesi amacıyla atıldığı ifade edildi. İspanya'nın anakarasından ve ilgili devlet kurumlarından bölgeye takviye kaynakların sevk edilmesi beklenirken, adadaki yetkililer mevcut krizin aşılması için koordineli bir çaba yürütüyor.\n\nAtlas Okyanusu'ndaki göç güzergahları üzerinde yer alan Kanarya Adaları, uzun süredir Afrika kıyılarından gelen düzensiz göç dalgalarının ana varış noktalarından biri olma özelliğini taşıyor. Son dönemde El Hierro adasını hedef alan teknelerin sayısındaki belirgin artış, adanın bu krizden en çok etkilenen bölgelerden biri haline gelmesine yol açtı. Mevcut durum, Akdeniz'deki güzergahların yanı sıra Atlantik rotasının da ne denli aktif ve riskli olduğunu bir kez daha gözler önüne sererken, yerel ve ulusal düzeydeki yetkililer bu insani hareketliliğe kalıcı çözümler bulmak için çalışmalarını sürdürüyor.",
-      "highlights": [
-        "El Hierro adasında artan göçmen dalgası sebebiyle acil durum ilan edildi.",
-        "Kasım başından bu yana adalara teknelerle 3 bin 300'den fazla kişi geldi.",
-        "Yerel yönetim, merkezi İspanyol hükümetinden acil yardım talep etti."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
-      "publishedAt": "2026-11-08T01:37:55.000Z",
       "category": "World",
       "lang": "en"
     }
