@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T12:16:23.653Z",
+  "generatedAt": "2026-11-16T12:27:20.550Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/3-yil-sonra-gelen-karar-ayni-aileden-3-kisinin-oldugu-olayda-ceza-yagdi-7701823",
+      "headline": "Aynı aileden 3 kişinin öldüğü olayda ceza yağdı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1507823690283-48b0929e727b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bmF0dXJhbCUyMGdhcyUyMHBpcGV8ZW58MXwwfHx8MTc5NDgzMTkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Quinten de Graaf",
+        "photographerUrl": "https://unsplash.com/@quinten149",
+        "unsplashUrl": "https://unsplash.com/photos/metal-pipe-between-trees-at-daytime-L4gN0aeaPY4"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Akyazı'da 18 Şubat 2023'te karbonmonoksit gazından zehirlenen Zengin ailesinden 3 kişi hayatını kaybetti, oğulları yaralı kurtuldu. Bilirkişi raporunda asli kusurlu bulunan doğal gaz firması yetkilileri F.B. ve K.Y., taksirle ölüme neden olma suçundan ayrı ayrı 5 yıl 5 ay hapis cezasına çarptırıldı.",
+      "highlights": [
+        "Zengin ailesinden 3 kişi karbonmonoksit gazından zehirlenerek öldü",
+        "Doğal gaz firması yetkilileri F.B. ve K.Y. asli kusurlu bulundu",
+        "Sanıklara ayrı ayrı 5 yıl 5 ay hapis cezası verildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/3-yil-sonra-gelen-karar-ayni-aileden-3-kisinin-oldugu-olayda-ceza-yagdi-7701823",
+      "publishedAt": "2026-11-16T12:21:47.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/ilica-selalesinde-yagislarla-guzel-goruntuler-olustu-4873075",
       "headline": "Kastamonu'da Ilıca Şelalesi'nin su seviyesi yükseldi",
@@ -45,6 +68,29 @@
       "publishedAt": "2026-11-16T12:14:08.000Z",
       "category": "Son Dakika",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+      "headline": "Gérard Depardieu cinsel saldırı mahkumiyetine itirazını geri çekti",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8V29ybGR8ZW58MXwwfHx8MTc5NDgzMTk4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Greg Rosenke",
+        "photographerUrl": "https://unsplash.com/@greg_rosenke",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-brown-globe-on-persons-hand-1TjORT2dLOw"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Fransız oyuncu Gérard Depardieu, 2021 yılında bir film setinde iki kadına cinsel saldırıda bulunduğu mahkumiyete yönelik itirazını geri çekti. 77 yaşındaki oyuncu, kurbanlardan ilk kez özür dileyerek mahkumiyeti kabul ettiğini belirtti.",
+      "highlights": [
+        "Gérard Depardieu cinsel saldırı mahkumiyetine itirazını geri çekti",
+        "Mağdurlardan ilk kez özür diledi",
+        "Mahkumiyeti kabul ettiğini açıkladı"
+      ],
+      "externalUrl": "https://www.theguardian.com/film/2026/nov/16/gerard-depardieu-drops-appeal-against-sexual-assault-conviction",
+      "publishedAt": "2026-11-16T12:10:22.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.haberturk.com/gundem/foto/ilk-defa-sifir-atik-uygulamasi-bir-cop-alaninda-3927702",
@@ -1342,6 +1388,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
       "publishedAt": "2026-11-16T07:00:38.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
+      "headline": "Bacaklarını kaybeden Avustralyalı milletvekili hastaneden ayrıldı",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1758654859923-339c0f2f925e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QXVzdHJhbGlhbiUyMHBvbGl0aWNpYW4lMjBob3NwaXRhbHxlbnwxfDB8fHwxNzk0ODMyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Navy Medicine",
+        "photographerUrl": "https://unsplash.com/@navymedicine",
+        "unsplashUrl": "https://unsplash.com/photos/nurses-attend-to-patients-in-a-hospital-ward-s_FCfUvLaDI"
+      },
+      "timeAgo": "6 sa önce",
+      "body": "Saldırı iddiası sonucu her iki bacağını da kaybeden Avustralyalı siyasetçi Helen Haines, hastaneden ayrılırken minnettarlık dolu olduğunu belirtti.",
+      "highlights": [
+        "Helen Haines hastaneden ayrıldı",
+        "Saldırı iddiası sonucu iki bacağını kaybetmişti",
+        "Hastaneden ayrılırken minnettarlık duyduğunu ifade etti"
+      ],
+      "externalUrl": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
+      "publishedAt": "2026-11-16T06:49:00.000Z",
       "category": "World",
       "lang": "en"
     },
