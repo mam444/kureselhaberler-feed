@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T08:35:24.823Z",
+  "generatedAt": "2026-11-16T08:44:32.210Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/tbmmde-bu-hafta-yogun-mesai-milyonlari-ilgilendiren-borc-duzenlemesi-gundemde-4872953",
+      "headline": "TBMM'de yoğun mesai: Borç düzenlemesi ve yeni teklifler gündemde",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1778013142895-b8af9932d717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDgxODY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Reanimated Man X",
+        "photographerUrl": "https://unsplash.com/@reanimatedmanx",
+        "unsplashUrl": "https://unsplash.com/photos/modern-building-with-glowing-logos-against-twilight-sky-vo7tEX_yvtk"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Türkiye Büyük Millet Meclisi bu hafta Genel Kurul ve komisyonlarda kritik düzenlemeleri ele alacak. Genel Kurul'da Türk Kızılay Kanunu Teklifi ile yabancı dijital konaklama platformlarına yönelik düzenlemeler görüşülürken; komisyonlarda bakanlık bütçeleri ve milyonlarca yurttaşı ilgilendiren GSS prim borçlarının silinmesine ilişkin kanun teklifi ele alınacak.",
+      "highlights": [
+        "Genel Kurul'da Türk Kızılay Kanunu ve dijital konaklama platformları teklifi görüşülüyor.",
+        "Plan ve Bütçe Komisyonu'nda bakanlıkların 2027 yılı bütçeleri ele alınacak.",
+        "GSS prim borçlarının silinmesine ilişkin kanun teklifi görüşülecek."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/tbmmde-bu-hafta-yogun-mesai-milyonlari-ilgilendiren-borc-duzenlemesi-gundemde-4872953",
+      "publishedAt": "2026-11-16T08:39:42.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/boluda-baba-yadigari-traktor-35-yil-sonra-yenilendi-4872945",
       "headline": "10 yaşındaki anılarının peşini bırakmadı: 35 yıl önce satılan baba yadigarını geri aldı",
@@ -21,6 +44,28 @@
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/boluda-baba-yadigari-traktor-35-yil-sonra-yenilendi-4872945",
       "publishedAt": "2026-11-16T08:29:29.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/gundem/cop31-rekora-gidiyor-963404.html",
+      "headline": "COP31 rekora gidiyor",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1718042800464-9e5a2d38d3df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QW50YWx5YSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0ODE4NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sam",
+        "photographerUrl": "https://unsplash.com/@cosmvs",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-mountains-in-the-background-_EREl5j8amE"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "COP31 Zirvesi'ne ev sahipliği yapan Antalya'daki Mavi Bölge'ye kayıt olanların sayısı 102 bin 610 kişiye yükseldi. Yeşil Bölge ise 6 gün içinde 221 bin 326 kişi tarafından ziyaret edildi.",
+      "highlights": [
+        "Mavi Bölge kayıt sayısı 102 bin 610'a ulaştı",
+        "Yeşil Bölge'yi 6 günde 221 bin 326 kişi ziyaret etti"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/gundem/cop31-rekora-gidiyor-963404.html",
+      "publishedAt": "2026-11-16T08:15:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6835,52 +6880,6 @@
       "externalUrl": "https://www.bbc.com/turkce/articles/cw073jxd20jro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T08:27:16.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-      "headline": "Amerika Birleşik Devletleri ordusu Umman Körfezi'nde bir kargo gemisini vurdu",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606185540834-d6e7483ee1a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2FyZ28lMjBzaGlwfGVufDF8MHx8fDE3OTQxMjgwODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "william william",
-        "photographerUrl": "https://unsplash.com/@william07",
-        "unsplashUrl": "https://unsplash.com/photos/red-and-blue-cargo-ship-on-body-of-water-during-daytime-NndKt2kF1L4"
-      },
-      "timeAgo": "30 dk önce",
-      "body": "Uluslararası deniz ticaretinin en kritik geçiş noktalarından biri olan Umman Körfezi'nde son dakika olarak kayıtlara geçen sıcak bir askeri hareketlilik yaşandı. Bölgeden gelen ilk resmi bilgilere göre, Amerika Birleşik Devletleri askeri güçleri, stratejik sularda seyir halinde bulunan ticari bir deniz taşıtına yönelik fiili bir müdahalede bulundu. Yaşanan bu olay, bölgedeki tansiyonun uluslararası sulara nasıl yansıdığını gözler önüne sererken, küresel tedarik zinciri ve deniz güvenliği açısından da endişe verici bir tablo ortaya koydu.\n\nYetkililer tarafından paylaşılan detaylara göre, Amerikan ordusuna bağlı unsurlar doğrudan hedef aldıkları gemiye ateş açtı. Yapılan bu silahlı müdahalenin ardından, Saint Kitts ve Nevis bayrağını taşıyan kargo gemisinin hareket kabiliyetini tamamen yitirdiği ve etkisiz hale getirildiği bildirildi. Söz konusu deniz aracının hangi gerekçeyle hedef alındığı ve saldırı anındaki seyir rotası gibi hususlar, olayın ardından uluslararası kamuoyunun en çok merak ettiği başlıklar arasında yer aldı.\n\nTicari denizcilik sektöründe bayrak devletleri, gemilerin uluslararası sulardaki yasal statüsünü belirlemesi bakımından büyük önem taşır. Saint Kitts ve Nevis bandırasını taşıyan bu kargo gemisinin vuku bulduğu Umman Körfezi, dünya petrol taşımacılığı ve yük sevkiyatı açısından hayati bir koridor konumundadır. Dolayısıyla bu denizde yaşanan her türlü askeri müdahale veya silahlı çatışma, küresel ticaret yollarının güvenliği konusunda derhal alarm zillerinin çalmasına neden olmaktadır.\n\nOlayın ardından Amerika Birleşik Devletleri askeri makamlarından yapılan resmi açıklamalar, operasyonun gerçekleştiğini ve hedeflenen kargo gemisinin başarıyla etkisiz hale getirildiğini doğruladı. Ancak söz konusu askeri hamlenin arka planında yatan somut gerekçeler, tarafların stratejik hesapları ve bölgede devam eden güvenlik operasyonlarının kapsamı hakkındaki belirsizlikler henüz tam olarak aydınlatılmış değil. Uzmanlar, bu tür operasyonların Umman Körfezi ve çevre denizlerdeki seyrüsefer emniyetini riske atabileceğine dikkat çekiyor.\n\nBölgede faaliyet gösteren diğer ticari gemiler ve uluslararası gözlemciler için de kaygı verici olan bu durum, askeri güçlerin açık denizlerdeki yetki ve müdahale sınırlarını bir kez daha tartışmaya açtı. Amerika Birleşik Devletleri ordusunun bir kargo gemisini ateşe tutarak devre dışı bırakması, diplomatik ve askeri kulislerde geniş yankı uyandırırken, ilerleyen saatlerde konuya ilişkin daha kapsamlı açıklamaların yapılması bekleniyor. Bölgedeki hareketlilik yakından takip ediliyor.",
-      "highlights": [
-        "Amerika Birleşik Devletleri ordusu Umman Körfezi'nde operasyon düzenledi.",
-        "Saint Kitts ve Nevis bayraklı kargo gemisine ateş açıldığı açıklandı.",
-        "Vurulan ticari geminin tamamen etkisiz hale getirildiği bildirildi."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/8/us-military-attacks-cargo-ship-in-the-gulf-of-oman?traffic_source=rss",
-      "publishedAt": "2026-11-08T08:24:37.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/antalyada-tehlikeli-anlar-hayali-dusmanlara-tahra-sallarken-kanlar-icinde-kaldi-43370251",
-      "headline": "Antalya'da tehlikeli anlar: Hayali düşmanlara tahra sallarken kanlar içinde kaldı",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1608095476825-d4e0f916372f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwY2FyfGVufDF8MHx8fDE3OTQxMjgwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Scott Rodgerson",
-        "photographerUrl": "https://unsplash.com/@scottrodgerson",
-        "unsplashUrl": "https://unsplash.com/photos/police-light-bar-flashing-red-blue-ffH_GkINfyY"
-      },
-      "timeAgo": "38 dk önce",
-      "body": "Türkiye'nin turizm merkezlerinden biri olan Antalya'nın Manavgat ilçesinde, sokak ortasında yaşanan sıra dışı ve korku dolu olay, bölgede büyük bir paniğe neden oldu. Edinilen bilgilere göre, madde etkisinde olduğu değerlendirilen bir şahıs, caddede hareket halindeki araçların önüne atlayarak trafiği tehlikeye düşürdü ve çevredeki vatandaşlar arasında kısa süreli bir şok yaşanmasına yol açtı. Elinde bulunan tarım aleti tahrayı çevresine ve havaya karşı gelişigüzel bir şekilde savuran şahsın bu agresif tavırları, hem sürücülerin hem de yayaların güvenliğini ciddi şekilde tehdit etti.\n\nGörgü tanıklarının ifadelerine ve yaşananların aktarıldığı detaylara göre, olay yerindeki bazı duyarlı vatandaşlar şahsı sakinleştirmek ve ellerindeki tehlikeli aleti bırakmasını sağlamak amacıyla çaba sarf etti. Ancak çevreden yapılan tüm uyarı ve yatıştırma girişimlerine rağmen şahıs sakinleşmedi ve kontrolsüz hareketlerini sürdürmeye devam etti. Bu esnada kendi elindeki kesici aletle vücudunun çeşitli yerlerinden yaralanan şahıs, caddenin ortasında kanlar içinde kaldı. Yaşanan bu gerilim dolu dakikalar, çevredeki vatandaşlar tarafından endişeyle takip edildi.\n\nKısa süre içinde olay yerine intikal eden emniyet güçleri, caddede panik yaratan durumu kontrol altına almak için hızlı bir müdahalede bulundu. Polis ekiplerinin titiz ve dikkatli çalışması sonucunda, elindeki tahrayla etrafa tehdit saçan şahıs etkisiz hale getirilerek teslim alındı. Güvenlik güçleri tarafından olay yerinde kelepçelenerek etkisiz kalkan Ahmet C. A., olası bir daha büyük felaketin önüne geçilmesini sağlayan bu operasyonun ardından, gerekli sağlık kontrollerinin yapılması ve yaralarının tedavi edilmesi amacıyla sağlık kuruluşuna sevk edildi.\n\nYetkililer ve uzmanlar, bu tür olayların toplumsal huzur ile kamu güvenliği açısından taşıdığı risklere dikkat çekerken, madde bağımlılığının ve kontrolsüz davranışların yaratabileceği tehlikelere bir kez daha vurgu yaptı. Manavgat'taki caddede trafiğin ve günlük yaşamın akışını altüst eden olay, emniyet birimlerinin zamanında ve profesyonel müdahalesi sayesinde daha büyük bir yaralanma veya can kaybı yaşanmadan sonlandırıldı. Olayla ilgili olarak başlatılan idari ve adli süreçlerin sürdüğü, şahsın sağlık durumuna ilişkin gelişmelerin takip edildiği bildirildi.",
-      "highlights": [
-        "Manavgat caddesinde madde etkisindeki şahıs trafiği tehlikeye attı.",
-        "Elindeki tahrayla çevreye savuran Ahmet C. A. kendini de yaraladı.",
-        "Polis ekiplerinin müdahalesiyle kelepçelenen şahıs tedaviye götürüldü."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/antalyada-tehlikeli-anlar-hayali-dusmanlara-tahra-sallarken-kanlar-icinde-kaldi-43370251",
-      "publishedAt": "2026-11-08T08:17:00.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ]
