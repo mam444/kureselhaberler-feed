@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T15:25:01.869Z",
+  "generatedAt": "2026-11-16T15:36:14.166Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/gundem/samsunda-bolluk-tezgahlara-yansidi-palamut-fiyatlari-ne-kadar-oldu-palamut-baligi-kac-para-4873152",
@@ -71,6 +71,28 @@
       "lang": "en"
     },
     {
+      "id": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
+      "headline": "Starshield Sınırları Ukrayna'nın Jet Motorlu İnsansız Hava Araçlarına Karşı Mücadelesini Zorlaştırıyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1528499908559-b8e4e8b89bda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c2F0ZWxsaXRlJTIwZGlzaHxlbnwxfDB8fHwxNzk0ODQzMjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Donald Giannatti",
+        "photographerUrl": "https://unsplash.com/@wizwow",
+        "unsplashUrl": "https://unsplash.com/photos/white-radar-telescope-on-grass-field-4qk3nQI3WHY"
+      },
+      "timeAgo": "36 dk önce",
+      "body": "Ukrayna ordusu, Rus drone'larını engellemek amacıyla Aralık 2024'ten bu yana internet hizmetine güveniyor. Ancak Starshield sınırlamalarının jet motorlu drone'lara karşı ülkeyi olumsuz etkilediği belirtiliyor.",
+      "highlights": [
+        "Ukrayna ordusu Aralık 2024'ten beri internet hizmetini kullanıyor",
+        "Hizmet Rus drone'larını engellemek için değerlendiriliyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/why-starshield-limits-are-hurting-ukraine-against-jet-powered-drones?traffic_source=rss",
+      "publishedAt": "2026-11-16T14:58:30.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
       "headline": "Rusya'dan Savaşın En Büyük Ukrayna İnsansız Hava Aracı Saldırısı Raporu",
       "source": "BBC News",
@@ -112,6 +134,74 @@
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/uclu-zirve-oncesi-trumptan-surpriz-gorusme-duyurusu-7701950",
       "publishedAt": "2026-11-16T14:57:57.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
+      "headline": "Mamdani, aşırı güç kullanmakla suçlanan tartışmalı NYPD birimini feshetti",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591073214708-44d56a561981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TllQRCUyMHBvbGljZSUyMHByb3Rlc3R8ZW58MXwwfHx8MTc5NDg0MzI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ryan Kosmides",
+        "photographerUrl": "https://unsplash.com/@ryankosmides",
+        "unsplashUrl": "https://unsplash.com/photos/people-in-black-police-uniform-riding-on-elephant-during-daytime-Jei5ZNmjdPo"
+      },
+      "timeAgo": "37 dk önce",
+      "body": "New York City Belediye Başkanı Zohran Mamdani, Pazartesi günü yayınladığı videoda, protestoculara karşı aşırı güç ve agresif taktikler kullandığı gerekçesiyle sivil hak gruplarının eleştirdiği stratejik müdahale grubunu (SRG) feshettiğini açıkladı. Mamdani, bu hamlenin seçim kampanyası vaadi olduğunu belirtti ve yeni bir toplum güvenliği birimi duyurdu.",
+      "highlights": [
+        "Mamdani, SRG birimini feshettiğini açıkladı",
+        "Birim protestoculara karşı aşırı güç kullanmakla suçlanıyordu",
+        "Yeni bir toplum güvenliği departmanı duyuruldu"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
+      "publishedAt": "2026-11-16T14:57:26.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+      "headline": "Raye, Rosalia ve Dolly Parton Grammy Ödülleri'ne aday gösterildi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1713552566291-e8cd89354643?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8R3JhbW15JTIwYXdhcmRzfGVufDF8MHx8fDE3OTQ4NDMyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ruddy Corporan",
+        "photographerUrl": "https://unsplash.com/@ruddycorporanx",
+        "unsplashUrl": "https://unsplash.com/photos/two-women-standing-on-a-stage-talking-to-each-other-1BcXAPdmCjk"
+      },
+      "timeAgo": "46 dk önce",
+      "body": "İngiliz şarkıcı Raye 11 adaylık elde ederken, Dolly Parton ölümünden iki ay sonra adaylığa layık görüldü.",
+      "highlights": [
+        "İngiliz şarkıcı Raye 11 dalda adaylık aldı",
+        "Dolly Parton ölümünden iki ay sonra aday gösterildi"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T14:48:55.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-ak-parti-sozcusu-celikten-fon-sorusturmasi-aciklamasi-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-verecek-7701891",
+      "headline": "AK Parti Sözcüsü Çelik'ten fon soruşturması açıklaması",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1579619674614-5de0e3953f01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saXRpY2lhbiUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk0ODQzMjcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NOAA",
+        "photographerUrl": "https://unsplash.com/@noaa",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-standing-on-red-and-white-flag-3vZl7C2JT5Y"
+      },
+      "timeAgo": "46 dk önce",
+      "body": "AK Parti Sözcüsü Çelik, fon soruşturmasına ilişkin ihmali, kusuru ve kastı olanların muhakkak surette hesap vereceğini açıkladı. Çelik ayrıca Bekir Bozdağ'ın Genel Başkan Danışmanı olarak MYK toplantısına katıldığını belirtti, Sezai Karakoç'u andı ve KKTC'nin kuruluş yıl dönümünü kutladı.",
+      "highlights": [
+        "İhmali, kusuru ve kastı olanlar hesap verecek",
+        "Bekir Bozdağ MYK toplantısına katıldı",
+        "KKTC'nin kuruluş yıl dönümü kutlandı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-ak-parti-sozcusu-celikten-fon-sorusturmasi-aciklamasi-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-verecek-7701891",
+      "publishedAt": "2026-11-16T14:48:36.000Z",
       "category": "Son Dakika",
       "lang": "tr"
     },
@@ -2304,6 +2394,29 @@
       ],
       "externalUrl": "https://www.sabah.com.tr/yasam/son-dakikagulistan-doku-sorusturmasinda-yeni-gelisme-kritik-ismin-ifadesi-ortaya-cikti-7702724",
       "publishedAt": "2026-11-16T08:07:32.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/kuzey-marmara-tunellerinde-ceza-yaziliyor-1751066",
+      "headline": "Kuzey Marmara tünellerindeki hız efsanesi sona erdi: Cezalar gönderiliyor",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1534590158618-73acb7d3641d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aGlnaHdheSUyMHR1bm5lbHxlbnwxfDB8fHwxNzk0ODQzMjc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "KS KYUNG",
+        "photographerUrl": "https://unsplash.com/@mygallery",
+        "unsplashUrl": "https://unsplash.com/photos/time-lapse-photography-of-vehicle-under-tunnel-7pqS06wgvEw"
+      },
+      "timeAgo": "7 sa önce",
+      "body": "Kuzey Marmara Otoyolu'ndaki tünellerde hız limitlerinin geçersiz olduğu ve ceza kesilmediği yönündeki şehir efsanesinin doğru olmadığı ortaya çıktı. Radarların aktif olduğu ve uzun zamandır uygulanan trafik cezalarının sürücülere gönderilmeye başlandığı bildirildi.",
+      "highlights": [
+        "Tünellerde hız limitlerinin geçersiz olduğu inancı doğru değil",
+        "Radarların aktif olduğu açıklandı",
+        "Trafik cezaları uzun zamandır uygulanıyor ve gönderiliyor"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/kuzey-marmara-tunellerinde-ceza-yaziliyor-1751066",
+      "publishedAt": "2026-11-16T08:05:45.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -4677,6 +4790,29 @@
       "publishedAt": "2026-11-14T10:03:12.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/cmy8604pv718o?at_medium=RSS&at_campaign=rss",
+      "headline": "Boris Johnson'dan Osmanlı'daki kölelik açıklaması",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1662633272262-7615f6aa4081?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8R3JhbmQlMjBCYXphYXIlMjBJc3RhbmJ1bHxlbnwxfDB8fHwxNzk0ODQzMjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Igor Sporynin",
+        "photographerUrl": "https://unsplash.com/@igorharrier",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-walking-through-a-busy-street-0ZFCg7qV418"
+      },
+      "timeAgo": "2 gün önce",
+      "body": "Eski İngiltere başbakanı Boris Johnson, 19. yüzyılda büyük büyük büyükannesinin çocuk yaşta İstanbul'daki Kapalıçarşı'da köle olarak satıldığını ve kendilerinin kölelikten gelen bir aile olduğunu belirtti. Bu açıklama, 19. yüzyılda Osmanlı'da köleliğin var olup olmadığı sorusunu gündeme getirdi.",
+      "highlights": [
+        "Boris Johnson büyük büyük büyükannesinin çocuk yaşta İstanbul'da köle olarak satıldığını söyledi",
+        "Johnsonlar'ın kölelikten gelen bir aile olduğunu belirtti",
+        "19. yüzyılda Osmanlı'da kölelik var mıydı sorusu gündeme geldi"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cmy8604pv718o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-14T08:39:25.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://news.sky.com/story/trump-xi-and-putin-to-hold-unprecedented-meeting-white-house-says-13612124",
@@ -8594,6 +8730,13 @@
     "https://www.trthaber.com/haber/turkiye/409-internet-sitesine-erisim-engeli-963444.html",
     "https://www.sabah.com.tr/yasam/yavas-ucretsiz-ulasim-vaadini-unuttu-7-yilda-bin-500-zam-7702911",
     "https://www.hurriyet.com.tr/dunya/finlandiya-cumhurbaskani-stubb-turkiye-avrupa-guvenliginin-onemli-bir-aktoru-43380442",
-    "https://www.cnn.com/travel/article/hippo-attack-avoid-survive-paul-templer/index.html"
+    "https://www.cnn.com/travel/article/hippo-attack-avoid-survive-paul-templer/index.html",
+    "https://www.haberturk.com/magazin/alina-boz-ben-kilo-aldim-o-zayifladi-3927759",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4126916",
+    "https://www.yenisafak.com/gundem/sarigul-sorusturmasinda-yeni-gelisme-9-supheliye-tutuklama-talebi-4873146",
+    "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti-963443.html",
+    "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi-43380425",
+    "https://www.dw.com/tr/çekya-da-babis-in-medya-planını-on-binler-protesto-etti/a-79952445?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.aa.com.tr/tr/ekonomi/cop31de-turkiyenin-deniz-ustu-ruzgar-enerjisinde-bolgesel-merkez-olma-potansiyeli-degerlendirildi/4126909"
   ]
 }
