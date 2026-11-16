@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-16T11:14:56.898Z",
+  "generatedAt": "2026-11-16T11:25:38.073Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+      "headline": "Eurovision organizatörlerinden Malezya'da LGBT+ görüntülerinin kaldırılmasına eleştiri",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1522776302589-df9907421c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RXVyb3Zpc2lvbiUyMHN0YWdlfGVufDF8MHx8fDE3OTQ4MjgzMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/united-kingdom-flag-2rfmp5ymooY"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Eurovision organizatörleri, ilk Eurovision Asia yarışmasının Malezya'daki yayınında LGBTQ+ görüntüleri ile kişilerin çıkarılmasından dolayı şaşkın ve hayal kırıklığına uğramış olduklarını açıkladı. Yayıncı TV3'ün Taylandlı drag performanslarını ve gay Filipinli jüri sözcüsünü kesmiş gibi göründüğü belirtilirken, Avrupa Yayın Birliği (EBU) konuyu yapımcı firmaya soracağını bildirdi.",
+      "highlights": [
+        "Eurovision organizatörleri Malezya'daki yayından LGBT+ görüntülerin çıkarılmasını eleştirdi",
+        "Yayıncı TV3'ün Thai drag performansları ile Filipinli jüri sözcüsünü kestiği ifade edildi",
+        "EBU, yapımcı Voxovation ve yayıncı TV3'ten açıklama isteyeceğini belirtti"
+      ],
+      "externalUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
+      "publishedAt": "2026-11-16T11:12:44.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+      "headline": "Silikon Vadisi Nvidia'nın Eski CEO'su Jensen Huang'a Neden Destek Veriyor?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDgyODMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andrew Stutesman",
+        "photographerUrl": "https://unsplash.com/@drwmrk",
+        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Elon Musk dahil olmak üzere Huang'ın meslektaşları, onun iş zekasını ve ABD'nin yapay zeka hedeflerine yönelik potansiyel riskleri övdü.",
+      "highlights": [
+        "Elon Musk ve diğer meslektaşları Huang'ı övdü",
+        "İş zekası ve ABD'nin yapay zeka hedeflerine yönelik riskler vurgulandı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
+      "publishedAt": "2026-11-16T11:05:47.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/onlarca-liseli-genc-umraniyedeki-avmde-bulusup-birbirlerine-acimasizca-vurdular-o-anlar-kamerada-4873027",
       "headline": "Ümraniye'deki AVM'de liseli gençlerin kavgası kameraya yansıdı",
@@ -6831,52 +6876,6 @@
       "publishedAt": "2026-11-08T23:30:00.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/manisa-da-yanan-tir-da-mahsur-kalan-surucu-oldu-3925874",
-      "headline": "Manisa'da bariyerlere çarpan TIR alev aldı, sürücü mahsur kalarak yaşamını yitirdi",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1684684022347-fd18c8716d1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YnVybmluZyUyMHRydWNrfGVufDF8MHx8fDE3OTQxODA5NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Albert Stoynov",
-        "photographerUrl": "https://unsplash.com/@albertstoynov",
-        "unsplashUrl": "https://unsplash.com/photos/a-fire-truck-parked-on-the-side-of-a-road-2ogKFZTW7M4"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Manisa'nın Salihli ilçesinde, karayolunda seyir halindeyken henüz belirlenemeyen bir sebepten dolayı kontrolden çıkan bir TIR'ın bariyerlere çarptığı ve ardından alevlerin içerisinde kaldığı bildirildi. Meydana gelen bu feci kaza, bölgede büyük üzüntü ve endişe yaratırken, olayla ilgili edinilen ilk bilgilere göre, çarpışmanın şiddetiyle birlikte kısa sürede büyüyen yangında aracın kabin kısmında mahsur kalan şoförün olay yerinde hayatını kaybettiği tespit edildi.\n\nGerçekleşen bu acı olay, ulaşımın ve ticaretin yoğun olarak aktığı güzergahlarda güvenlik önlemlerinin, hız sınırlarının ve gece-gündüz demeden direksiyon sallayan ağır vasıta şoförlerinin karşılaştığı risklerin önemini bir kez daha gözler önüne serdi. Salihli ilçesindeki bu tür kritik noktalarda, ağır tonajlı araçların olası kontrol kayıplarını en aza indirmek ve sürücülerin güvenliğini artırmak adına ilgili birimlerin denetimleri ve yol altyapısı çalışmaları büyük bir dikkatle takip ediliyor.\n\nKazanın hemen ardından bölgeye sevk edilen itfaiye, sağlık ve güvenlik ekipleri, alev topuna dönen ağır tonajlı araca müdahale etmek için seferber oldu. İtfaiye ekiplerinin yoğun ve riskli çalışmaları sonucunda yangın kontrol altına alınarak söndürülebildi; ancak yapılan tüm müdahalelere rağmen, kabin içerisinde sıkışıp kalan sürücünün kurtarılamadığı ve olay anında yaşamını yitirdiği belirlendi.\n\nYetkililer, yanan TIR'ın enkazında ve kaza mahallinde detaylı incelemeler yürütürken, olayın tam olarak hangi sebepten kaynaklandığını ve sürücünün direksiyon hakimiyetini neden kaybettiğini netleştirmek üzere soruşturma başlatıldığını ifade etti. Karayolu trafiğinde bu tarz kazaların önlenmesi, hem sürücülerin hem de diğer yol kullanıcılarının can güvenliğinin sağlanması adına benzer olayların ardındaki etkenler titizlikle incelenmeye devam ediyor.",
-      "highlights": [
-        "Manisa'nın Salihli ilçesinde seyir halindeki TIR bariyerlere çarptı.",
-        "Çarpışmanın etkisiyle alev alan araçta mahsur kalan sürücü hayatını kaybetti.",
-        "Olay yerine sevk edilen ekipler yangını söndürürken soruşturma başlatıldı."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/manisa-da-yanan-tir-da-mahsur-kalan-surucu-oldu-3925874",
-      "publishedAt": "2026-11-08T23:19:55.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-      "headline": "Lopez'in iki golü Barcelona'yı Atletico Madrid deplasmanında galibiyete taşıdı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1629217855633-79a6925d6c47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTQwNDEwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Krzysztof Dubiel",
-        "photographerUrl": "https://unsplash.com/@kris1902",
-        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-game-in-stadium-hQBIJsBtyBw"
-      },
-      "timeAgo": "54 dk önce",
-      "body": "İspanya La Liga'da şampiyonluk mücadelesi veren Barcelona, deplasmanda Atletico Madrid ile karşı karşıya geldi. Zorlu mücadele, futbolseverlerin nefesini kesen anlara sahne olurken, Katalan ekibi sahadan galibiyetle ayrılan taraf olmayı başardı. Maçın genelinde sergilenen performans, ligdeki puan tablosunu doğrudan etkileyen kritik bir eşik olarak kayıtlara geçti. Bu kritik karşılaşma, iki dev kulübün tarihindeki rekabete yeni bir sayfa eklerken, sezonun ilerleyen haftaları adına büyük bir önem taşıyor.\n\nEv sahibi Atletico Madrid, mücadelenin başlarında skorda üstünlüğü ele geçiren taraf oldu. Karşılaşmanın ilk bölümünde bulduğu fırsatı değerlendiren başkent ekibi, taraftarının da desteğiyle oyunun kontrolünü eline almaya çalıştı. Ancak sahadan galibiyetle ayrılmak için skoru koruması gereken ev sahibi ekip, ilerleyen dakikalarda rakibinin baskısına karşı koymakta zorlandı. Futbol dünyasında bu tür geri dönüşler, takımların mental dayanıklılığını ve şampiyonluk yarışındaki inancını test eden en önemli göstergeler arasında yer almaktadır.\n\nKatalan devi Barcelona adına maçın kahramanı hiç şüphesiz Fermin Lopez oldu. Takımının geriye düştüğü anlarda sahneye çıkan genç oyuncu, kaydettiği gollerle gidişatın seyrini tamamen değiştirdi. Maç boyunca gösterdiği etkili performans ve attığı kritik gollerle takımını sırtlayan Lopez, Barcelona'nın zorlu deplasmandan 3 puanla dönmesinde başrol oynadı. Bu performans, oyuncunun kariyerindeki önemli dönüm noktalarından biri olarak değerlendirilirken, teknik heyetin de yüzünü güldürdü.\n\nFermin Lopez'in kaydettiği bu çok değerli iki gol, aynı zamanda maçın skorunu da tayin etti. Karşılaşmanın son düdüğü çalındığında tabelada 2-1'lik Barcelona üstünlüğü yazıyordu. Maçın geri kalan bölümlerinde her iki takım da skoru değiştirmek adına hamleler yapsa da, savunmalar hata yapmadı ve mücadele bu sonuçla tamamlandı. Bu skor, Atletico Madrid adına sahadan puansız ayrılmanın üzüntüsünü beraberinde getirirken, Barcelona cephesinde büyük bir sevinç yarattı.\n\nBu galibiyetle birlikte La Liga'daki puan cetvelinde son derece kritik bir avantaj elde edilmiş oldu. Barcelona, Atletico Madrid deplasmanından aldığı bu 3 puan sayesinde en yakın rakibiyle arasındaki puan farkını 3'e çıkardı. Sezonun bu aşamasında elde edilen her puanın şampiyonluk yarışında hayati bir rol oynadığı düşünüldüğünde, bu galibiyetin önemi daha net anlaşılmaktadır. Katalan ekibi, bu sonuçla zirvedeki yerini sağlamlaştırırken, gelecek hafta oynayacağı maçlar için de moral depoladı.\n\nİspanya futbolunun iki köklü temsilcisinin karşı karşıya geldiği bu 90 dakika, La Liga'daki rekabetin ne denli yüksek seviyede seyrettiğini bir kez daha gözler önüne serdi. Her iki takımın da sahaya koyduğu mücadele, futbol otoritelerinden tam not alırken, sonuç odaklı oynayan Barcelona tablonun zirvesinde rahat bir nefes aldı. Sezon boyunca benzer zorlu deplasmanlarla karşılaşacak olan ekipler için bu tür maçların hikayesi, şampiyonluk yolundaki ana hatları belirlemeye devam edecek.",
-      "highlights": [
-        "Barcelona, Atletico Madrid deplasmanında geriden gelerek kazandı.",
-        "Fermin Lopez attığı iki golle takımını galibiyete taşıdı.",
-        "Bu sonuçla Barcelona, La Liga'da puan farkını üçe çıkardı."
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
-      "publishedAt": "2026-11-08T22:42:12.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
