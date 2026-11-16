@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T07:44:38.342Z",
+  "generatedAt": "2026-11-16T07:54:45.377Z",
   "articles": [
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+      "headline": "Tayland'ın Phuket adasındaki yangında en az 11 kişi hayatını kaybetti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1634009653379-a97409ee15de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZmlyZSUyMGRpc2FzdGVyfGVufDF8MHx8fDE3OTQ4MTU2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mike Newbry",
+        "photographerUrl": "https://unsplash.com/@mikenewbry",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-fire-is-burning-in-the-mountains-DwtX9mMHBJ0"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Tayland'ın Phuket adasında meydana gelen yangında en az 11 kişi yaşamını yitirdi, 16 kişi ise yaralandı. Yetkililer yangının çıkış nedenini araştırırken, olayda kasıt olmadığını belirtti.",
+      "highlights": [
+        "Phuket adasındaki yangında en az 11 kişi hayatını kaybetti",
+        "Olayda 16 kişi yaralandı",
+        "Yetkililer yangının çıkış nedenini araştırıyor ve kasıt ihtimalini dışladı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
+      "publishedAt": "2026-11-16T07:42:48.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
       "headline": "Yemen güçlerinin geri çekilmesi Husiere Kızıldeniz'de kontrolü bıraktı",
@@ -23,6 +46,28 @@
       "publishedAt": "2026-11-16T07:23:23.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/kelebek/magazin/eski-kocasi-tecavuzden-hapse-girdi-o-yeni-askiyla-mutlu-mesut-yasiyor-kendimi-bos-yere-suclamisim-43379732",
+      "headline": "Eski kocası tecavüzden hapse giren şarkıcı yeni aşkıyla mutlu",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1541089404510-5c9a779841fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aGFwcHklMjBjb3VwbGV8ZW58MXwwfHx8MTc5NDgxNTY4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Candice Picard",
+        "photographerUrl": "https://unsplash.com/@candice_picard",
+        "unsplashUrl": "https://unsplash.com/photos/man-and-woman-hugging-each-other-vLENm-coX5Y"
+      },
+      "timeAgo": "35 dk önce",
+      "body": "Hüsranla biten bir evlilik ve nişanlılık dönemi geçiren ünlü şarkıcı, aradığı mutluluğu ve aşkı sonunda buldu. Şarkıcı, bir yılı devirdiği yeni ilişkisini dünya siyasetinin eski başbakanlarından biriyle sürdürüyor.",
+      "highlights": [
+        "Ünlü şarkıcı yeni ilişkisinde bir yılı geride bıraktı",
+        "Yeni sevgilisi dünya siyasetinde görev yapmış eski bir başbakan"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/kelebek/magazin/eski-kocasi-tecavuzden-hapse-girdi-o-yeni-askiyla-mutlu-mesut-yasiyor-kendimi-bos-yere-suclamisim-43379732",
+      "publishedAt": "2026-11-16T07:19:13.000Z",
+      "category": "Gündem",
+      "lang": "tr"
     },
     {
       "id": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
@@ -69,6 +114,29 @@
       "publishedAt": "2026-11-16T07:06:00.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+      "headline": "‘16. yüzyılın kıyamet kaydırma versiyonu’ Mucizeler Kitabı açık artırmada 1 milyon sterline alıcı bulabilir",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1702753390015-d4abffb87306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YW5jaWVudCUyMG1hbnVzY3JpcHR8ZW58MXwwfHx8MTc5NDgxNTY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Afonso Azevedo Neves",
+        "photographerUrl": "https://unsplash.com/@ofotografoportugues",
+        "unsplashUrl": "https://unsplash.com/photos/an-old-book-with-writing-on-it-rNxfMnfnenE"
+      },
+      "timeAgo": "54 dk önce",
+      "body": "Apokaliptik vizyonlar ve aşırı hava olaylarını içeren nadir Mucizeler Kitabı, açık artırmada 1 milyon sterline kadar alıcı bulabilir. Kamu kurumlarının ilk teklif hakkına sahip olduğu 16. ortalarından kalma eser, ilahi uyarılar olarak yorumlanan 167 resim barındırıyor.",
+      "highlights": [
+        "Mucizeler Kitabı açık artırmada 1 milyon sterline kadar alıcı bulabilir",
+        "Kamu kurumları 'mucize kitabına' ilk teklif hakkına sahip",
+        "Eserde apokaliptik vizyonları ve doğa olaylarını betimleyen 167 resim yer alıyor"
+      ],
+      "externalUrl": "https://www.theguardian.com/books/2026/nov/16/book-of-miracles-apocalyptic-weather-visions-auction",
+      "publishedAt": "2026-11-16T07:00:38.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
@@ -6816,75 +6884,6 @@
       "publishedAt": "2026-11-08T01:37:55.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-7-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazligi-hangi-takim-kazandi-3490316",
-      "headline": "MasterChef'te eleme adayı kim oldu? 7 Kasım 2026 dokunulmazlık oyununu kazanan takım",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1785088561835-593d6f01a298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y29va2luZyUyMGNvbXBldGl0aW9ufGVufDF8MHx8fDE3OTQwOTIxMzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Cord Allman",
-        "photographerUrl": "https://unsplash.com/@cordallman",
-        "unsplashUrl": "https://unsplash.com/photos/two-smiling-women-in-black-aprons-at-an-event-PMn36LcsbFI"
-      },
-      "timeAgo": "şimdi",
-      "body": "Televizyon ekranlarının uzun soluklu ve en çok izlenen yemek yarışması programlarından biri olan MasterChef Türkiye, 7 Kasım 2026 Cumartesi akşamı izleyicileri yine ekran başına kilitledi. Gastronomi dünyasının merakla takip ettiği ve rekabetin bir an olsun düşmediği yarışmada, her hafta olduğu gibi bu hafta da kıyasıya bir dokunulmazlık mücadelesi yaşandı. Ekran başındaki takipçiler ve yayınlanan son bölümü kaçıran vatandaşlar, akşamın kazanan tarafını ve potaya giden yarışmacıları öğrenmek için arama motorlarında yoğun bir sorgulama süreci başlattı.\n\nTürk mutfağının ve dünya lezzetlerinin en iyi şekilde hazırlandığı stüdyoda, şefler koltuğunda yine Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu yer aldı. Jüri üyelerinin katı değerlendirmeleri ve yönlendirmeleri eşliğinde tezgah başındaki yerlerini alan yarışmacılar, tabaklarını en kusursuz şekilde hazırlamak için ter döktü. Haftanın bu kritik gününde, takımların birbirine karşı üstünlük kurma çabası izleyenlere heyecan dolu anlar yaşatırken, her bir tabak şeflerin beğenisine sunuldu.\n\nDokunulmazlık oyununun tamamlanmasının ardından geçilen oylama ve değerlendirme aşaması, yarışmanın tansiyonunu daha da yükseltti. Dokunulmazlığı kaybeden takımın kendi içinden belirlemek zorunda olduğu eleme adayı süreci, stratejik hamlelerin ve zorlu tartışmaların odağı haline geldi. Yarışmanın sıkı takipçileri, hangi ismin potaya gittiğini ve eleme potasındaki son durumu netleştirmek adına araştırmalarını sürdürüyor.\n\nHer sezonunda olduğu gibi bu dönemde de sosyal medyanın ve arama motorlarının en çok konuşulan konuları arasında yer alan MasterChef Türkiye'de, haftanın tüm gelişmelerini kaçıranlar için detaylar büyük önem taşıyor. 7 Kasım 2026 Cumartesi günü yaşanan bu heyecan dolu rekabetin ardından, yarışmanın geleceği ve eleme gecesinde yaşanacaklar şimdiden merak konusu olmaya devam ediyor.",
-      "highlights": [
-        "MasterChef'in 7 Kasım 2026 tarihli son bölümü izleyiciler tarafından yoğun şekilde araştırılıyor.",
-        "Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu jüri koltuğunda yer aldı.",
-        "Dokunulmazlık oyunu ve eleme adayı gelişmeleri yarışmacılar arasında büyük rekabete sahne oldu."
-      ],
-      "externalUrl": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-7-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazligi-hangi-takim-kazandi-3490316",
-      "publishedAt": "2026-11-08T01:27:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/taner-yildiz-dan-fon-iddialarina-yalanlama-3925719",
-      "headline": "Taner Yıldız'dan yatırım fonu iddialarına net yalanlama",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1722392493604-7382c3d0f646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3OTQxMDMzMTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Cristina  Cerda",
-        "photographerUrl": "https://unsplash.com/@cristinacerda",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-at-a-podium-giving-a-speech-4v6L6Ryc4HI"
-      },
-      "timeAgo": "45 dk önce",
-      "body": "Türk siyasetinin tanınmış isimlerinden eski Enerji ve Tabii Kaynaklar Bakanı Taner Yıldız, kamuoyunda ve bazı basın yayın organlarında kendisiyle ilgili gündeme getirilen yatırım fonlarında işlem yaptığı yönündeki iddialara karşı sessizliğini bozdu. Son günlerde ortaya atılan ve çeşitli mecralarda tartışma konusu olan bu iddiaların ardından bir açıklama yapma gereği duyan Yıldız, hakkındaki spekülasyonların tamamen asılsız olduğunu vurguladı.\n\nSöz konusu iddiaların gerçeği yansıtmadığını belirten eski bakan, kamuoyunu meşgul eden bu söylentilerin hiçbir dayanağının bulunmadığını ifade etti. Medyada yer alan ve şahsını hedef alan haberlerin doğruluk payından uzak olduğunu dile getiren Taner Yıldız, yürütülen bu tarz tartışmaların gerçeği örtbas etmeyi amaçlayan tutumlardan ibaret olduğunun altını çizdi.\n\nAçıklamasında çok sert ifadeler kullanan Taner Yıldız, kendisine yönelik ortaya atılan yatırım fonu iddialarının bütünüyle gerçek dışı olduğunu vurguladı. Bu tür iddiaların sadece asılsız birer spekülasyon olmadığını belirten Yıldız, bunları açık birer yalan ve iftira olarak nitelendirdiğini kamuoyu ile paylaştı.\n\nSiyaset kurumu içerisinde görev yaptığı dönemlerden bu yana duruşunun net olduğunu hatırlatan çevreler, bu tür asılsız iddiaların siyasi figürlerin itibarını zedelemeye yönelik sıradan girişimler olabileceğine dikkat çekiyor. Konunun muhatabı olan Taner Yıldız'ın yapmış olduğu bu net ve tavizsiz yalanlama, tartışmaların odak noktasındaki iddiaların hukuki ve ahlaki boyutuyla da ilgili yeni bir aşamaya işaret ediyor.\n\nKamuoyunda yankı uyandıran bu gelişmelerin ardından, söz konusu iddiaları ortaya atan kaynaklar ve bunların yayılma süreçleri üzerine de çeşitli değerlendirmeler yapılıyor. Taner Yıldız'ın yaptığı bu keskin tekzip sonrasında, iddiaların sahiplerinin nasıl bir tutum takineceği ve konunun siyasette nasıl bir yansıma bulacağı önümüzdeki günlerde yakından takip edilmeye devam edecek.",
-      "highlights": [
-        "Eski Bakan Taner Yıldız yatırım fonu iddialarını yalanladı.",
-        "Hakkındaki iddiaların gerçeğe dayanmadığını vurguladı.",
-        "Söylentileri bütçe dışı, gerçek dışı ve yalan olarak nitelendirdi."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/taner-yildiz-dan-fon-iddialarina-yalanlama-3925719",
-      "publishedAt": "2026-11-08T01:16:39.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
-      "headline": "Van'da tır ile minibüs çarpıştı: 9 ölü, 5 yaralı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTQxMDMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anthony Maw",
-        "photographerUrl": "https://unsplash.com/@anthonymaw",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-that-has-crashed-into-another-car-XcjVef6uvYA"
-      },
-      "timeAgo": "59 dk önce",
-      "body": "Türkiye'nin doğu bölgesinde yer alan Van kentinde, karayolu trafiğinde büyük bir faciaya sahne olan ağır bir trafik kazası meydana geldi. Edinilen bilgilere göre, bir tır ile yolcu minibüsünün henüz belirlenemeyen bir nedenle çarpışması sonucunda ortalık savaş alanına döndü. Çarpışmanın şiddetiyle her iki araçta da büyük hasar oluşurken, olay yerine çok sayıda arama-kurtarma ve sağlık ekibi sevk edildi.\n\nKazanın ardından çevredeki vatandaşların ihbarı üzerine bölgeye hızla intikal eden sağlık ekipleri, yaptıkları ilk kontrollerde maalesef 9 kişinin olay yerinde hayatını kaybettiğini belirledi. Feci kazada yaşamını yitirenlerin cansız bedenleri, gerekli incelemelerin ardından morga kaldırılırken, kazada yaralanan 5 kişi ise olay yerindeki ilk müdahalelerinin ardından ambulanslarla çevredeki hastanelere nakledilerek tedavi altına alındı.\n\nUlaşım güvenliği ve karayolu kazalarının önlenmesi konusundaki endişeleri bir kez daha gözler önüne seren bu trajik olay, kentte derin bir üzüntüye neden oldu. Yetkililer, ağır tonajlı araçlar ile yolcu taşımacılığı yapan araçların karıştığı bu tür kazaların ardından bölgede güvenlik önlemlerini artırırken, trafiğin normale dönmesi için çalışmalar yürüttü.\n\nKazanın meydana geldiği güzergahta ulaşım bir süre kontrollü olarak sağlanırken, güvenlik güçleri ve ilgili birimler olayla ilgili kapsamlı bir soruşturma başlatıldığını duyurdu. Soruşturmanın, çarpışmanın tam olarak hangi sebepten kaynaklandığını ve kusur durumunu netleştirmek amacıyla titizlikle sürdürüldüğü bildirildi.\n\nHayatını kaybedenlerin yakınlarına başsağlığı dilekleri iletilirken, hastanelerde tedavileri devam eden 5 yaralının sağlık durumlarına ilişkin gelişmelerin takip edildiği kaydedildi. Bu tür acı olayların tekrar yaşanmaması adına sürücülerin trafik kurallarına uyması ve dikkatli olması gerektiği bir kez daha hatırlatıldı.",
-      "highlights": [
-        "Van'da tır ile minibüsün çarpışması sonucu 9 kişi hayatını kaybetti.",
-        "Kazada yaralanan 5 kişi hastanelere kaldırılarak tedavi altına alındı.",
-        "Yetkililer trajik olayla ilgili kapsamlı bir soruşturma başlattı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
-      "publishedAt": "2026-11-08T01:02:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ]
 }
