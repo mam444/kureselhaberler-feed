@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-16T09:16:39.308Z",
+  "generatedAt": "2026-11-16T09:24:57.697Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/oto-tamircisi-kazim-karagoz-7-diplomasi-icin-gun-sayiyor-4872977",
+      "headline": "Kayseri'de oto tamircisi Kazım Karagöz 7. üniversite diploması için gün sayıyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWVjaGFuaWMlMjBzdHVkeWluZ3xlbnwxfDB8fHwxNzk0ODIxMDYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ThisisEngineering",
+        "photographerUrl": "https://unsplash.com/@thisisengineering",
+        "unsplashUrl": "https://unsplash.com/photos/engineer-measuring-technical-drawings-on-desk-WDCE0T4khsE"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Kayseri'de müşterilerine daha iyi hizmet vermek isteyen 47 yaşındaki oto tamircisi Kazım Karagöz, bugüne kadar 6 üniversite bölümü bitirdi. 20 yıl usta öğretici olarak görev yapan ve şu an 4. sınıfta okuyan Karagöz, 2026'da yüksek lisansını tamamlayarak 7. diplomasını almayı bekliyor.",
+      "highlights": [
+        "47 yaşındaki oto tamircisi Kazım Karagöz 6 bölüm bitirdi",
+        "2026'da yüksek lisansını tamamlayarak 7. diplomasını alacak",
+        "20 yıl usta öğretici olarak görev yaptı"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/oto-tamircisi-kazim-karagoz-7-diplomasi-icin-gun-sayiyor-4872977",
+      "publishedAt": "2026-11-16T09:22:12.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+      "headline": "Ed Miliband, Russell Brand ile 2015'teki röportajını savundu",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589621049630-da215721785b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RWQlMjBNaWxpYmFuZHxlbnwxfDB8fHwxNzk0ODIxMDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Masoud Nikookalam",
+        "photographerUrl": "https://unsplash.com/@msdnikoo",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-crew-neck-shirt-wearing-black-sunglasses-lWjreYrfSew"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Ed Miliband, 2015 seçimlerinde Russell Brand ile yaptığı röportajı savundu ve onu onaylamadığını, sadece karşısına çıktığını söyledi. Dönemin gölge maliye bakanı Ed Balls ise İşçi Partisi liderini bu röportajı yapmaması konusunda uyardığını belirtmişti.",
+      "highlights": [
+        "Ed Miliband röportajı savundu",
+        "Ed Balls lideri uyardı"
+      ],
+      "externalUrl": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+      "publishedAt": "2026-11-16T09:15:50.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.yenisafak.com/video/dunya/erdoganin-susa-ziyareti-sonrasi-soylem-degisti-turkiyenin-karabag-zaferindeki-rolu-tartisilamaz-4872970",
       "headline": "Erdoğan'ın Şuşa ziyareti sonrası söylem değişti: Türkiye'nin Karabağ zaferindeki rolü tartışılamaz",
@@ -21,6 +66,29 @@
       ],
       "externalUrl": "https://www.yenisafak.com/video/dunya/erdoganin-susa-ziyareti-sonrasi-soylem-degisti-turkiyenin-karabag-zaferindeki-rolu-tartisilamaz-4872970",
       "publishedAt": "2026-11-16T09:12:04.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.sabah.com.tr/yasam/turkiye-kultur-yolu-festivali-rekor-kirdi-26-sehirde-34-milyon-kisiye-ulasti-7702754",
+      "headline": "Türkiye Kültür Yolu Festivali rekor kırdı",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1472653816316-3ad6f10a6592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y3VsdHVyYWwlMjBmZXN0aXZhbCUyMGNyb3dkfGVufDF8MHx8fDE3OTQ4MjEwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Aranxa Esteve",
+        "photographerUrl": "https://unsplash.com/@aranxa_esteve",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-people-on-grass-field-under-sunny-day-pOXHU0UEDcg"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye Kültür Yolu Festivali’nin sonuçlarını değerlendirdi. Açıklamaya göre festival, 26 şehirde 34 milyon kişiye ulaştı.",
+      "highlights": [
+        "26 şehirde gerçekleştirildi",
+        "34 milyon kişiye ulaştı",
+        "Sonuçları Bakan Mehmet Nuri Ersoy değerlendirdi"
+      ],
+      "externalUrl": "https://www.sabah.com.tr/yasam/turkiye-kultur-yolu-festivali-rekor-kirdi-26-sehirde-34-milyon-kisiye-ulasti-7702754",
+      "publishedAt": "2026-11-16T09:11:41.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6807,75 +6875,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/dunya/misirda-tren-kazasi-7-olu-112-yarali-43370817",
       "publishedAt": "2026-11-08T18:52:10.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/cxnv04p1dvgpo?at_medium=RSS&at_campaign=rss",
-      "headline": "Türkiye ve Irak'tan ortak açıklama: TSK'nın Başika üssünden çekilme süreci başlayacak",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1729816082006-9b01d6fb500e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWlsaXRhcnklMjBiYXNlfGVufDF8MHx8fDE3OTQxNTI2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ivan Cheremisin",
-        "photographerUrl": "https://unsplash.com/@vanya_nichego",
-        "unsplashUrl": "https://unsplash.com/photos/a-dirt-road-next-to-a-building-and-a-red-fire-hydrant-GaVhJ8EHwj4"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Türkiye Cumhuriyeti ile Irak Cumhuriyeti makamları, diplomatik ve askeri temasların ardından önemli bir gelişmeyi kamuoyu ile paylaştı. Yapılan resmi ortak açıklamada, daha önce eylül ayının son döneminde varılan mutabakat çerçevesinde, Başika üssünün Irak ulusal güvenlik güçlerine devredilmesi için gerekli adımların atılacağı ve sürecin resmi olarak başlatılacağı ilan edildi.\n\nBölgesel istikrar ve iki ülke arasındaki iş birliği mekanizmaları açısından kritik bir aşama olarak değerlendirilen bu karar, iki devletin yetkili makamlarının karşılıklı müzakereleri neticesinde şekillendi. Eylülas sonuna doğru varılan mutabakatın ardından gelen bu yeni ortak duyuru, sürecin operasyonel boyuta taşınacağını ve üssün devrine yönelik çalışmaların hız kazanacağını net bir şekilde ortaya koydu.\n\nUluslararası ilişkiler ve savunma politikaları uzmanları tarafından yakından takip edilen Başika üssü meselesi, her iki ülkenin de güvenlik öncelikleri doğrultusunda ele alınmaktaydı. Yapılan son değerlendirmeler sonucunda, üssün kontrolünün kademeli olarak Irak güçlerine devredilmesi yönünde somut adımların atılması konusunda mutabık kalındığı bir kez daha teyit edilmiş oldu.\n\nSürecin başlatılmasıyla birlikte, iki ülke güvenlik bürokrasileri arasında teknik detayların ve takvimin netleştirilmesi bekleniyor. Resmi kanallardan yapılan ortak açıklamada vurgulanan hususlar, sürecin karşılıklı diyalog ve iş birliği ruhu içerisinde yürütüleceğinin altını çizerken, her iki tarafın da mutabakata sadık kaldığını gösterdi.\n\nBu gelişme, Türkiye ile Irak arasındaki ikili ilişkilerin geleceği ve bölgesel güvenlik dinamikleri bakımından da yakından izlenen bir adım olma özelliği taşıyor. Başika üssünün devir sürecinin resmen başlamasıyla birlikte, sahadaki askeri ve idari koordinasyonun nasıl yapılandırılacağına dair önümüzdeki günlerde yeni bilgilendirmelerin yapılması öngörülüyor.",
-      "highlights": [
-        "Türkiye ve Irak ortak bir açıklama yaparak Başika üssünün devrini duyurdu.",
-        "Eylül sonunda varılan karar doğrultusunda devir süreci başlatılacak.",
-        "Üs, Irak güçlerine devredilmek üzere hazırlık aşamasına geçiyor."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/cxnv04p1dvgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T15:42:33.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996",
-      "headline": "Türkiye ve Irak'tan ortak açıklama: Başika-Zilikan üssü için devir süreci başlıyor",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1620057285999-c0fb5f8161ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlsaXRhcnklMjBiYXNlfGVufDF8MHx8fDE3OTQxNTI2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Joel Rivera-Camacho",
-        "photographerUrl": "https://unsplash.com/@actuallyjoel",
-        "unsplashUrl": "https://unsplash.com/photos/men-in-black-and-brown-camouflage-uniform-standing-on-brown-floor-pcUSid_NEpQ"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Uluslararası ilişkiler ve diplomasi gündeminin en önemli başlıklarından biri olan bölgesel güvenlik ve askeri iş birliği konularında Türkiye ile Irak arasında somut bir adım atıldı. İki ülke tarafından yapılan ortak açıklamada, Türkiye'nin sorumluluğunda bulunan Başika-Zilikan askeri yerleşkesinin geleceğine dair kritik bir uzlaşıya varıldığı duyuruldu. Yapılan resmi değerlendirmeler sonucunda, söz konusu askeri üssün Irak hükümetine kademeli bir şekilde devredilmesi yönünde çalışmaların başlatılacağı net bir şekilde ifade edildi.\n\nGerçekleştirilen bu ortak mutabakat, Türkiye ve Irak arasındaki diplomatik ve askeri diyaloğun mevcut seyrini yansıtması açısından büyük bir önem taşıyor. Bölgesel istikrarın sağlanması ve iki komşu ülkenin karşılıklı iş birliği mekanizmalarının işletilmesi sürecinde atılan adımlar, diplomatik çevrelerde yakından takip ediliyor. Başika-Zilikan yerleşkesinin devrine ilişkin planlamanın aşamalı olarak hayata geçirileceği, tarafların resmi duyurusunda açıkça belirtilen temel unsurlar arasında yer aldı.\n\nOrta Doğu coğrafyasında askeri ve stratejik denge unsurları arasında bulunan bu tür tesislerin durumu, her iki ülkenin güvenlik bürokrasisi tarafından titizlikle ele alınıyor. İki devletin ortak iradesiyle şekillenen bu süreç, karşılıklı güven esasına dayalı olarak yürütülecek teknik ve idari görüşmelerle olgunlaştırılacak. Yapılan açıklamada vurgulanan kademeli devir süreci, sahadaki pratik uygulamaların belirli bir takvim ve plan dahilinde hayata geçirileceğini gösteriyor.\n\nDiplomasi trafiğinin yoğun olduğu bu dönemde, Türkiye ve Irak arasındaki ilişkilerin çok boyutlu bir nitelik taşıdığı biliniyor. Askeri yerleşkelerin statüsüne dair varılan bu son mutabakat, iki komşu ülkenin ortak güvenlik ve egemenlik hassasiyetlerini gözeten bir yaklaşımla hareket ettiğini ortaya koyuyor. Başika-Zilikan askeri yerleşkesinin Irak makamlarına devredilmesi hususunda atılacak adımların detayları, ilgili komiteler ve yetkili merciler tarafından koordine edilecek.\n\nBölgesel gelişmelerin hız kesmeden devam ettiği bu süreçte, iki başkentten gelen ortak açıklamalar kamuoyu ile şeffaf bir şekilde paylaşılıyor. Türkiye ile Irak arasında tesis edilen bu yeni iş birliği safhası, gelecekte atılabilecek benzer diplomatik adımlar için de bir zemin oluşturma potansiyeline sahip. Tarafların karşılıklı mutabakatla vardığı Başika-Zilikan kararı, önümüzdeki dönemde iki ülke arasındaki diplomatik gündemin ana eksenlerinden birini oluşturmaya devam edecek.",
-      "highlights": [
-        "Türkiye ve Irak ortak bir açıklama yaparak askeri üs konusunda uzlaştı.",
-        "Başika-Zilikan askeri yerleşkesi Irak hükümetine kademeli olarak devredilecek.",
-        "Devir sürecinin başlatılması için taraflar resmi adımları atma kararı aldı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/turkiye-ve-iraktan-ortak-aciklama-basika-zilikanin-devri-icin-adim-atilacak-1749996",
-      "publishedAt": "2026-11-08T15:41:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/son-dakika-turkiye-ve-irak-tan-ortak-aciklama-3925820",
-      "headline": "Türkiye ve Irak'tan ortak açıklama: Terörle mücadelede kararlılık mesajı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1598599074657-131d2adb648c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dHVya2lzaCUyMGZsYWclMjBhbmQlMjBpcmFxJTIwZmxhZ3xlbnwxfDB8fHwxNzk0MTUyNzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "أخٌ‌في‌الله",
-        "photographerUrl": "https://unsplash.com/@mhrezaa",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-beach-during-daytime-EqBcDjGvntk"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "Türkiye Cumhuriyeti ile Irak Cumhuriyeti arasında gerçekleştirilen temasların ardından, iki ülke ilişkilerini ve bölgesel güvenliği yakından ilgilendiren önemli bir ortak açıklama kamuoyu ile paylaşıldı. Söz konusu gelişme, iki ülke arasındaki diplomatik ve stratejik iş birliğinin derinleştirilmesi sürecinde atılan yeni adımlardan biri olarak dikkat çekerken, özellikle güvenlik ve sınır ötesi tehditler başlığında varılan mutabakatların altı çizildi. Açıklamanın detayları, Türkiye'nin iletişim alanındaki en üst düzey kurumu olan makamlarca resmi olarak duyuruldu.\n\nSürecin arka planına ve yapılan paylaşımlara bakıldığında, iki komşu ülkenin bölgede istikrarın tesisi ve kalıcı barışın sağlanması adına ortak bir vizyon benimsediği görülüyor. Uluslararası ilişkiler uzmanları ve diplomatik gözlemciler, Türkiye ve Irak arasındaki bu tür üst düzey koordinasyon mekanizmalarının, her iki ülkenin de menfaatlerini korumak ve ortak tehditlerle mücadele etmek açısından kritik bir öneme sahip olduğunu vurguluyorlar. Güvenlik politikaları, sınır güvenliğinin artırılması ve terörizmle mücadele başlıkları, bu iş birliğinin temel sütunlarını oluşturmaya devam ediyor.\n\nİletişim Başkanlığı tarafından yapılan bilgilendirmede, sürecin somut yansımalarına ve tarafların niyet beyanlarına yer verildi. Resmi paylaşımda, PKK terör örgütü unsurlarının varlığına son verilmesi yönünde bugüne kadar atılan takdire şayan adımların sürdürülmesi hususunda ortak iradelerin teyit edildiği açıkça ifade edildi. Bu vurgu, Türkiye'nin uzun süredir sınır hattında ve komşu ülkeler topraklarında sürdüğü terörle mücadele stratejisinin diplomatik boyutu açısından önemli bir kilometre taşı olarak değerlendiriliyor.\n\nİki ülke arasındaki bu ortak irade beyanı, aynı zamanda bölgesel iş birliğinin sadece güvenlik alanıyla sınırlı kalmayıp, karşılıklı güven ve istikrar temelinde genişletilmesi arzusunu da gözler önüne seriyor. Güvenlik güçlerinin ve ilgili diplomatik mekanizmaların koordineli bir şekilde yürüttüğü çalışmalar, önümüzdeki dönemde atılacak somut adımların da zeminini hazırlıyor. Bölge halklarının huzur ve refahını doğrudan etkileyen bu tür stratejik kararlar, iki devletin ortak çıkarları doğrultusunda şekilleniyor.\n\nSonuç olarak, Türkiye ve Irak makamlarının üzerinde mutabakata vardığı bu ortak duruş, terör unsurlarının faaliyetlerine karşı ortaklaşa sürdürülen kararlı mücadelenin devam edeceğini bir kez daha teyit etmiş oldu. İletişim Başkanlığı'nın aktardığı bilgiler çerçevesinde, iki ülkenin terörle mücadeledeki iş birliğini artırarak sürdürmesi ve bölgedeki güvenlik mimarisini güçlendirmesi bekleniyor.",
-      "highlights": [
-        "Türkiye ve Irak arasında güvenlik odaklı ortak bir açıklama yayımlandı.",
-        "İletişim Başkanlığı ortak iradenin teyit edildiğini duyurdu.",
-        "PKK unsurlarının varlığına son verilmesi adımları sürdürülecek."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-turkiye-ve-irak-tan-ortak-aciklama-3925820",
-      "publishedAt": "2026-11-08T15:35:15.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
