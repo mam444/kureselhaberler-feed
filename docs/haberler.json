@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-16T13:14:55.866Z",
+  "generatedAt": "2026-11-16T13:44:50.157Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/16/us-international-student-enrollment-trump",
+      "headline": "ABD üniversitelerinde uluslararası öğrenci kayıtlarında bu sonbaharda sert düşüş",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1606761568499-6d2451b23c66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dW5pdmVyc2l0eSUyMHN0dWRlbnRzfGVufDF8MHx8fDE3OTQ4MzY2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dom Fou",
+        "photographerUrl": "https://unsplash.com/@domlafou",
+        "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-chair-in-front-of-computer-YRMWVcdyhmI"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Pazartesi günü açıklanan verilere göre, ABD üniversitelerinde bu sonbaharda uluslararası öğrenci kayıtlarında geçen yıla kıyasla yüzde 9 düşüş yaşandı. Institute of International Education anketine göre ülkeye ilk kez gelen yeni öğrencilerin sayısı ise yüzde 15 oranında azaldı.",
+      "highlights": [
+        "Uluslararası öğrenci kayıtlarında yüzde 9 düşüş görüldü",
+        "ABD'ye ilk kez gelen yeni öğrenci sayısı yüzde 15 azaldı"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/16/us-international-student-enrollment-trump",
+      "publishedAt": "2026-11-16T13:32:52.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.haberturk.com/bilgi/foto/emekli-promosyonlarinda-son-durum-2026-kasim-ayinda-en-yuksek-emekli-promosyonu-veren-banka-hangisi-ve-ne-kadar-veriyor-denizbank-ziraat-garanti-bbva-i-s-bankasi-3926893",
+      "headline": "Emekli promosyon kampanyası 2026",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1593672755342-741a7f868732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YmFuayUyMG1vbmV5fGVufDF8MHx8fDE3OTQ4MzY2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Giorgio Trovato",
+        "photographerUrl": "https://unsplash.com/@giorgiotrovato",
+        "unsplashUrl": "https://unsplash.com/photos/100-us-dollar-bill-BRl69uNXr7g"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Kasım ayında güncellenen emekli promosyon kampanyaları kapsamında, maaşını taşımak isteyenler bankaların tutar ve şartlarını araştırıyor. Ek koşullarla birlikte toplam promosyon bazı bankalarda 35 bin TL'ye kadar çıkarken, Ziraat Bankası, TEB, ING, DenizBank, Garanti BBVA ve İş Bankası gibi bankaların teklifleri emeklilerin gündeminde yer alıyor.",
+      "highlights": [
+        "Kasım ayında emekli promosyon kampanyası güncellendi",
+        "Bazı bankalarda toplam promosyon tutarı 35 bin TL seviyesine ulaşıyor",
+        "Ziraat Bankası, TEB, ING, DenizBank, Garanti BBVA ve İş Bankası teklifleri araştırılıyor"
+      ],
+      "externalUrl": "https://www.haberturk.com/bilgi/foto/emekli-promosyonlarinda-son-durum-2026-kasim-ayinda-en-yuksek-emekli-promosyonu-veren-banka-hangisi-ve-ne-kadar-veriyor-denizbank-ziraat-garanti-bbva-i-s-bankasi-3926893",
+      "publishedAt": "2026-11-16T13:30:54.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/magazin/johnny-depp-hollywood-dan-kendi-adasina-kacti-kimsenin-bana-kamera-dogrultmadigi-bir-hayat-yasiyorum-3927712",
       "headline": "Hollywood'dan Kendi Adasına Kaçtı",
@@ -88,6 +133,28 @@
       ],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
       "publishedAt": "2026-11-16T13:00:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china?traffic_source=rss",
+      "headline": "Çin'de yoldaki aracın üzerine kayalık düştü",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1766025066564-23bc2a6a80f3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Ym91bGRlciUyMGNhciUyMENoaW5hfGVufDF8MHx8fDE3OTQ4MzY2ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Declan Sun",
+        "photographerUrl": "https://unsplash.com/@declansun",
+        "unsplashUrl": "https://unsplash.com/photos/a-rocky-path-winds-through-a-forest-with-large-boulders-nOey901P-MA"
+      },
+      "timeAgo": "50 dk önce",
+      "body": "Çin'in Sichuan eyaletine bağlı Li County'de, dağ yamacından kopan devasa bir kaya parçası trafikte duran bir otomobilin üzerine çarptı.",
+      "highlights": [
+        "Devasa bir kaya dağ yamacından aşağı düştü",
+        "Kaya, Çin'in Sichuan eyaletindeki Li County'de duran bir araca çarptı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china?traffic_source=rss",
+      "publishedAt": "2026-11-16T12:55:16.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -2035,6 +2102,28 @@
       ],
       "externalUrl": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
       "publishedAt": "2026-11-16T06:49:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "headline": "New York'ta yıkılan binada kaybolan kedi sahibiyle yeniden buluştu",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1631307495039-3f9e947c2070?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2F0JTIwcmVzY3VlfGVufDF8MHx8fDE3OTQ4MzY2OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "AcidFern",
+        "photographerUrl": "https://unsplash.com/@acidfern",
+        "unsplashUrl": "https://unsplash.com/photos/a-grey-and-white-cat-sitting-on-top-of-a-wooden-floor-45LAFKDye-0"
+      },
+      "timeAgo": "9 sa önce",
+      "body": "Kurtarma ekipleri, Zariah'ın binasının enkazında kaybolan evcil kediyi, halka yaptığı duygusal çağrıdan dört gün sonra buldu.",
+      "highlights": [
+        "Kedi, yıkılan binanın enkazında bulundu",
+        "Kavuşma, halka yapılan çağrıdan dört gün sonra gerçekleşti"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/videos/cm3wgeqnppljo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T04:36:45.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -7896,6 +7985,17 @@
     "https://www.sabah.com.tr/yasam/izbb-baskani-cemil-tugay-izmirlilere-verdigi-sozu-tuttu-izmirde-icme-suyuna-yuzde-70e-yakin-indirim-geliyor-7702758",
     "https://www.bbc.com/turkce/articles/ckr5gmy19j61o?at_medium=RSS&at_campaign=rss",
     "https://www.dw.com/tr/yeni-parti-yönetimi-belli-oldu-pm-de-kimler-var/a-79954360?maca=tur-rss-tur-all-1495-xml-mrss",
-    "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html"
+    "https://www.cnn.com/2023/04/13/success/tax-filing-tips/index.html",
+    "https://tr.euronews.com/2026/11/16/intel-hissedarlari-dava-acti-hisseler-yuzde-29a-yakin-dustu",
+    "https://www.milliyet.com.tr/gundem/ak-parti-myk-toplandi-7701888",
+    "https://www.ntv.com.tr/turkiye/besiktastaki-gece-kulubu-saldirisinin-ardindan-cetenin-baska-bir-cinayeti-daha-ortaya-cikti-1751140",
+    "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-mekke-ve-riyad-bolgelerine-iha-saldirisi-engellendi/4126782",
+    "https://www.bbc.com/turkce/articles/cve87n0233k4o?at_medium=RSS&at_campaign=rss",
+    "https://www.trthaber.com/haber/dunya/brukselde-farelerle-mucadele-icin-gelincik-ve-kopek-kullaniliyor-963437.html",
+    "https://www.yenisafak.com/gundem/bursada-fabrikada-dogalgaz-panigi-calisanlar-fark-etti-fabrika-bosaltildi-4873119",
+    "https://www.dw.com/tr/nyt-i̇srail-i̇ranlı-generali-i̇stanbul-da-kaçırıp-karadeniz-e-attı/a-79960367?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.sabah.com.tr/yasam/bursada-bir-garip-olay-dukkanini-kapatti-500-kisilik-lokma-dagitti-7702865",
+    "https://www.hurriyet.com.tr/gundem/gece-kulubu-cinayeti-sorusturmasinda-ikinci-cinayet-ortaya-cikti-kayip-1-milyon-dolardan-sorumlu-tutuldu-olduruldu-43380318",
+    "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html"
   ]
 }
