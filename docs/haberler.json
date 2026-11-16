@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T14:27:21.834Z",
+  "generatedAt": "2026-11-16T14:36:02.305Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/hava-bir-anda-degisiyor-meteoroloji-akom-ve-valilikten-pes-pese-uyari-yarina-dikkat-7701795",
+      "headline": "Meteoroloji ve AKOM'dan İstanbul ve bölge iller için uyarı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmFpbiUyMHdlYXRoZXJ8ZW58MXwwfHx8MTc5NDgzOTY4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Osman Rana",
+        "photographerUrl": "https://unsplash.com/@osmanrana",
+        "unsplashUrl": "https://unsplash.com/photos/person-walking-on-street-and-holding-umbrella-while-raining-with-vehicle-nearby-GXEZuWo5m4I"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Meteoroloji Genel Müdürlüğü ve İstanbul Valiliği, yurdun genelinde yağmur ve sağanak beklenirken Marmara ve Doğu Akdeniz için kuvvetli yağış uyarısında bulundu. İç ve doğu kesimlerde sis ve pus beklenirken, sıcaklıkların kuzeyde artacağı tahmin ediliyor.",
+      "highlights": [
+        "Ülke genelinde parçalı ve çok bulutlu hava ile çeşitli bölgelerde yağmur bekleniyor",
+        "Marmara ve Doğu Akdeniz için kuvvetli yağış ve olumsuzluklara karşı dikkatli olunması uyarısı yapıldı",
+        "İstanbul Valiliği kentte sağanağın etkili olacağını bildirdi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/hava-bir-anda-degisiyor-meteoroloji-akom-ve-valilikten-pes-pese-uyari-yarina-dikkat-7701795",
+      "publishedAt": "2026-11-16T14:24:40.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-almanya-disisleri-bakani-wadephul-ile-gorustu-7701919",
       "headline": "Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Wadephul ile görüştü",
@@ -45,6 +68,28 @@
       "publishedAt": "2026-11-16T14:21:16.000Z",
       "category": "Son Dakika",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-album-of-the-year",
+      "headline": "2027 Grammy Ödülleri ana kategorilerindeki adaylar açıklandı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1663657876166-03b3aabb5483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8R3JhbW15JTIwQXdhcmRzfGVufDF8MHx8fDE3OTQ4Mzk2ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Laurenz Krabisch",
+        "photographerUrl": "https://unsplash.com/@lkra",
+        "unsplashUrl": "https://unsplash.com/photos/a-trophy-on-a-stand-sXqwzxuiIlI"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "2027 Grammy Ödülleri'nde yılın albümü ve diğer ana kategoriler için aday gösterilen sanatçılar duyuruldu. Raye, Rosalía, Olivia Rodrigo, Olivia Dean ve diğer pek çok isim çeşitli kategorilerde adaylık elde etti.",
+      "highlights": [
+        "2027 Grammy Ödülleri adayları açıklandı",
+        "Raye, Rosalía, Olivia Rodrigo ve Olivia Dean adaylık alan isimler arasında yer alıyor"
+      ],
+      "externalUrl": "https://www.theguardian.com/music/2026/nov/16/grammy-nominations-2027-album-of-the-year",
+      "publishedAt": "2026-11-16T14:18:36.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
@@ -271,6 +316,28 @@
       "publishedAt": "2026-11-16T13:30:54.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
+      "headline": "Kenya'nın Nadir Siyah Leoparı Aranıyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1724099319618-41b00217b540?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YmxhY2slMjBsZW9wYXJkfGVufDF8MHx8fDE3OTQ4Mzk2OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "JD-Photos",
+        "photographerUrl": "https://unsplash.com/@jd_photo",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-and-a-brown-leopard-laying-on-top-of-a-rock-LcOnL24dfAo"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Maasai fotoğrafçı Latei Moses, kendi hikayesini objektifi aracılığıyla anlatarak nadir görülen vahşi kediyi bulmak için Kenya'yı arıyor.",
+      "highlights": [
+        "Maasai fotoğrafçı Latei Moses Kenya'da arama yapıyor",
+        "Hedefte nadir görülen siyah leopard var"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
+      "publishedAt": "2026-11-16T13:30:00.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.haberturk.com/magazin/johnny-depp-hollywood-dan-kendi-adasina-kacti-kimsenin-bana-kamera-dogrultmadigi-bir-hayat-yasiyorum-3927712",
@@ -2082,6 +2149,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.sabah.com.tr/yasam/son-dakikagulistan-doku-sorusturmasinda-yeni-gelisme-kritik-ismin-ifadesi-ortaya-cikti-7702724",
+      "headline": "Gülistan Doku soruşturmasında yeni gelişme: Tutuklu polisin ifadesi ortaya çıktı",
+      "source": "Sabah",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1600081191763-05da665acf1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzk0ODM5NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ethan Wilkinson",
+        "photographerUrl": "https://unsplash.com/@ethanrwilkinson",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-green-and-black-stripe-shirt-wearing-black-hat-gAKslVe547M"
+      },
+      "timeAgo": "6 sa önce",
+      "body": "Gülistan Doku soruşturmasında tutuklu polis memuru İsmail Erzan'ın ifadesine ulaşıldı. Erzan, ifadesinde aileye bilgi vermeme yönünde talimat aldığını belirtti.",
+      "highlights": [
+        "Gülistan Doku soruşturmasında yeni gelişme",
+        "Tutuklu polis memuru İsmail Erzan'ın ifadesi ortaya çıktı",
+        "Erzan aileye bilgi vermeyin talimatı aldığını söyledi"
+      ],
+      "externalUrl": "https://www.sabah.com.tr/yasam/son-dakikagulistan-doku-sorusturmasinda-yeni-gelisme-kritik-ismin-ifadesi-ortaya-cikti-7702724",
+      "publishedAt": "2026-11-16T08:07:32.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
       "headline": "Elon Musk ve 165 bin kişi Nvidia'da Jensen Huang'ın göreve iadesini istedi",
       "source": "The Guardian",
@@ -3195,6 +3285,29 @@
       "publishedAt": "2026-11-15T15:57:03.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.dw.com/tr/dizi-sektöründe-reklam-ve-ücret-krizi-bölüm-süreleri-kısalıyor-mu/a-79944499?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "Dizi sektöründe reklam ve ücret krizi",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589261820052-f9b9075c186c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dGVsZXZpc2lvbiUyMHNldHxlbnwxfDB8fHwxNzk0ODM5NzAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stephen Monterroso",
+        "photographerUrl": "https://unsplash.com/@stephenmont",
+        "unsplashUrl": "https://unsplash.com/photos/black-crt-tv-on-black-wooden-table-cwcPV_VKfy4"
+      },
+      "timeAgo": "1 gün önce",
+      "body": "Türkiye'de televizyon kanallarının reklam gelirlerinde yaşanan düşüş, dizi sektöründe krize neden oldu. Sektörde oyuncu ücretlerinde indirime gidilmesi ve 140 dakikaya varan bölüm sürelerinin kısalması bekleniyor.",
+      "highlights": [
+        "TV kanallarının reklam gelirlerinde düşüş yaşandı",
+        "Oyuncu ücretlerinde indirim bekleniyor",
+        "Bölüm sürelerinin kısalması kaçınılmaz görünüyor"
+      ],
+      "externalUrl": "https://www.dw.com/tr/dizi-sektöründe-reklam-ve-ücret-krizi-bölüm-süreleri-kısalıyor-mu/a-79944499?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-11-15T14:54:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/cmdx1ydrdyppo?at_medium=RSS&at_campaign=rss",
@@ -8221,6 +8334,28 @@
       "publishedAt": "2023-04-14T14:29:52.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
+      "headline": "Silicon Valley Bank'ın Çöküşü Renkli Girişimciler İçin Eşitsizliklerin Giderilmesi Çağrısını Yeniledi",
+      "source": "CNN International",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnn.com",
+      "imageUrl": "https://images.unsplash.com/photo-1683283106454-8b1b22ebf9e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YmFuayUyMGNvbGxhcHNlfGVufDF8MHx8fDE3OTQ4Mzk3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nikola  Tomašić",
+        "photographerUrl": "https://unsplash.com/@3kolone",
+        "unsplashUrl": "https://unsplash.com/photos/a-bank-sign-on-the-side-of-a-wooden-building-ugb7Q1bmnZg"
+      },
+      "timeAgo": "1313 gün önce",
+      "body": "Geçtiğimiz ay Silicon Valley Bank'taki müşteriler milyarlarca doları çekmek için acele ederken, risk sermayesi yatırımcısı Arlan Hamilton, maaş fonlarına erişimi kaybetmekten korkan renkli kuruculardan bazılarına yardım etmek için devreye girdi.",
+      "highlights": [
+        "Silicon Valley Bank müşterileri geçen ay milyarlarca doları çekti",
+        "Risk sermayesi yatırımcısı Arlan Hamilton bazı kuruculara yardım etti"
+      ],
+      "externalUrl": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
+      "publishedAt": "2023-04-13T21:13:04.000Z",
+      "category": "World",
+      "lang": "en"
     }
   ],
   "rejectedIds": [
@@ -8305,6 +8440,15 @@
     "https://www.dw.com/tr/kuzu-postlu-kurt-ilanı-bremen-eyaletini-karıştırdı-müslümanlar-tepki-gösterdi-alman-istihbaratı-geri-adım-attı/a-79960305?maca=tur-rss-tur-all-1495-xml-mrss",
     "https://www.hurriyet.com.tr/kelebek/televizyon/bebek-beklenenden-cok-erken-geliyor-hollandaya-ucuyorum-43380270",
     "https://www.ntv.com.tr/turkiye/bakan-uraloglu-acikladi-karla-mucadele-icin-yeni-577-makine-ve-ekipman-1751111",
-    "https://www.cnn.com/2023/04/14/media/fox-news-dominion-hnk-intl/index.html"
+    "https://www.cnn.com/2023/04/14/media/fox-news-dominion-hnk-intl/index.html",
+    "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-sorusturmasinda-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-vereceklerdir/4126861",
+    "https://www.haberturk.com/magazin/foto/prens-harry-ukraynali-savas-gazilerini-ziyaret-etti-3927738",
+    "https://www.yenisafak.com/video/gundem/balikesirde-soforu-kalp-krizi-geciren-yolcu-minibusu-denize-dustu-vatandaslar-merdiven-uzatarak-kurtarmaya-calisti-4873144",
+    "https://www.trthaber.com/haber/turkiye/beyoglu-belediyesi-baskanvekili-chpden-istifa-etti-963442.html",
+    "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/aselsanin-ejderhasi-tek-mudahaleyle-51-dronu-etkisiz-hale-getirdi-43380075",
+    "https://www.ntv.com.tr/turkiye/yeni-partide-kurultay-sonrasi-myk-uyeleri-21-kasimda-belirlenecek-1751106",
+    "https://www.bbc.com/turkce/articles/cq36gnknx14lo?at_medium=RSS&at_campaign=rss",
+    "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi/4126829"
   ]
 }
