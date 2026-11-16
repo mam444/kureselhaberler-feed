@@ -11,7 +11,9 @@ import { jaccardSimilarity } from './similarity.mjs';
 const FEED_PATH = path.resolve('docs/haberler.json');
 // Gemini rewrites are intentionally sequential to respect API quotas. Keep a
 // small batch so a 10-minute schedule doesn't queue behind long generations.
-const MAX_NEW_PER_RUN = 4;
+// The current free Gemini tier allows up to 500 requests per day. Two per
+// ten-minute run keeps normal use below that ceiling with room for retries.
+const MAX_NEW_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
 // stale RSS backlog (or a publisher's ancient archive item) masquerade as
@@ -25,6 +27,7 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
 const MAX_ALLOWED_SIMILARITY = 0.5;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
+const RSS_FALLBACK_MAX_CHARS = 420;
 
 function isWithinNewsWindow(article, now = Date.now()) {
   const publishedAt = Date.parse(article.publishedAt ?? '');
@@ -117,13 +120,43 @@ async function rewriteAndIllustrate(raw) {
     };
   } catch (err) {
     console.warn(`[gemini] "${raw.headline}" yeniden yazılamadı: ${err.message}`);
-    return { article: null, permanentlyRejected: false };
+    return {
+      article: null,
+      permanentlyRejected: false,
+      dailyQuotaExceeded: err.code === 'GEMINI_DAILY_QUOTA_EXCEEDED',
+    };
   }
+}
+
+function createRssFallback(raw) {
+  const summary = String(raw.body ?? '').trim();
+  if (summary.length < MIN_SOURCE_SUMMARY_CHARS) {
+    console.warn(`[fallback] "${raw.headline}" RSS özeti yetersiz; içerik uydurmamak için atlandı.`);
+    return null;
+  }
+  const excerpt = summary.length <= RSS_FALLBACK_MAX_CHARS
+    ? summary
+    : `${summary.slice(0, RSS_FALLBACK_MAX_CHARS).replace(/\s+\S*$/, '').trim()}…`;
+  return {
+    id: raw.id,
+    headline: raw.headline,
+    source: raw.source,
+    sourceIconUrl: raw.sourceIconUrl,
+    imageUrl: null,
+    imageCredit: null,
+    timeAgo: timeAgoTrSnapshot(raw.publishedAt),
+    body: excerpt,
+    highlights: [],
+    externalUrl: raw.externalUrl,
+    publishedAt: raw.publishedAt,
+    category: raw.category,
+    lang: raw.lang,
+  };
 }
 
 async function main() {
   if (!GEMINI_API_KEY) {
-    console.log('[main] GEMINI_API_KEY tanımlı değil — RSS çekilecek ama hiçbir haber yeniden yazılmayacak.');
+    console.log('[main] GEMINI_API_KEY tanımlı değil — uygun RSS haberleri kısa kaynak özetiyle yayınlanacak.');
   }
 
   console.log(`[main] ${ALL_SOURCES.length} kaynak taranıyor...`);
@@ -189,11 +222,22 @@ async function main() {
   // isteklerle takılmamak için.
   const rewritten = [];
   const permanentlyRejected = [];
-  if (GEMINI_API_KEY) {
-    for (const raw of brandNewRaw) {
-      const result = await rewriteAndIllustrate(raw);
-      if (result.article) rewritten.push(result.article);
-      else if (result.permanentlyRejected) permanentlyRejected.push(raw.id);
+  let dailyGeminiQuotaExceeded = !GEMINI_API_KEY;
+  for (const raw of brandNewRaw) {
+    if (dailyGeminiQuotaExceeded) {
+      const fallback = createRssFallback(raw);
+      if (fallback) rewritten.push(fallback);
+      continue;
+    }
+    const result = await rewriteAndIllustrate(raw);
+    if (result.article) rewritten.push(result.article);
+    else if (result.dailyQuotaExceeded) {
+      dailyGeminiQuotaExceeded = true;
+      const fallback = createRssFallback(raw);
+      if (fallback) rewritten.push(fallback);
+      console.warn('[fallback] Gemini günlük kotası dolu; kalan haberlerde yalnızca doğrulanmış RSS başlığı ve kısa özeti kullanılacak.');
+    } else if (result.permanentlyRejected) {
+      permanentlyRejected.push(raw.id);
     }
   }
 

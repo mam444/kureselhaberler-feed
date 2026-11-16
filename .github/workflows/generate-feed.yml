@@ -63,6 +63,7 @@ jobs:
             git add docs/haberler.json docs/markets.json
             if git diff --cached --quiet; then
               echo "Değişiklik yok, commit atlanıyor"
+              rm -rf "$generated_dir"
               exit 0
             fi
             git commit -m "chore: haberler.json ve markets.json güncelle"

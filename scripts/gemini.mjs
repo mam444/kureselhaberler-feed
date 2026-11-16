@@ -45,6 +45,10 @@ const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 // Retry those short-lived failures so a fresh story is not lost for a full feed cycle.
 const RETRYABLE_STATUS = new Set([429, 500, 502, 503, 504]);
 
+function isDailyQuotaExhausted(errorText) {
+  return /per day limit exceeded|retry in \d+h\d*m/i.test(errorText);
+}
+
 function retryDelayMs(response, errorText, attempt) {
   const retryAfter = response.headers.get('retry-after');
   if (retryAfter) {
@@ -93,8 +97,12 @@ async function generateContent(payload, apiKey, retries) {
 
     if (response.ok) return response;
     const errorText = await response.text();
-    if (!RETRYABLE_STATUS.has(response.status) || attempt >= retries) {
-      throw new Error(`Gemini API ${response.status}: ${errorText}`);
+    if (!RETRYABLE_STATUS.has(response.status) || attempt >= retries || isDailyQuotaExhausted(errorText)) {
+      const error = new Error(`Gemini API ${response.status}: ${errorText}`);
+      if (response.status === 429 && isDailyQuotaExhausted(errorText)) {
+        error.code = 'GEMINI_DAILY_QUOTA_EXCEEDED';
+      }
+      throw error;
     }
 
     const waitMs = retryDelayMs(response, errorText, attempt);
