@@ -1,6 +1,74 @@
 {
-  "generatedAt": "2026-11-16T13:57:00.912Z",
+  "generatedAt": "2026-11-16T14:27:21.834Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-almanya-disisleri-bakani-wadephul-ile-gorustu-7701919",
+      "headline": "Dışişleri Bakanı Hakan Fidan, Almanya Dışişleri Bakanı Wadephul ile görüştü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1647551638486-34d535922e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SGFrYW4lMjBGaWRhbnxlbnwxfDB8fHwxNzk0ODM5MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "farin sadiq",
+        "photographerUrl": "https://unsplash.com/@farinsadiq",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-buildings-with-a-mountain-in-the-background-5tyEO5M8lyI"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Dışişleri Bakanı Hakan Fidan, Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısı için gittiği Belçika'nın başkenti Brüksel'de temaslarını sürdürüyor. Bakan Fidan, bu kapsamda Almanya Dışişleri Bakanı Johann Wadephul ile bir araya geldi.",
+      "highlights": [
+        "Hakan Fidan Belçika'nın başkenti Brüksel'de temaslarda bulunuyor",
+        "Almanya Dışişleri Bakanı Johann Wadephul ile görüştü"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-almanya-disisleri-bakani-wadephul-ile-gorustu-7701919",
+      "publishedAt": "2026-11-16T14:22:59.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-ak-parti-sozcusu-celikten-onemli-aciklamalar-7701891",
+      "headline": "AK Parti Sözcüsü Çelik'ten önemli açıklamalar",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1679831996068-b32d2c5b4249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saXRpY2lhbiUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDgzOTI0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Llyfrgell Genedlaethol Cymru / The National Library of Wales",
+        "photographerUrl": "https://unsplash.com/@gofyn",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-men-sitting-around-each-other-btU1-RMSB8Q"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "AK Parti Sözcüsü Çelik, Meclis Başkan Vekili Bekir Bozdağ'ın Cumhurbaşkanının takdirleriyle Genel Başkan Danışmanı olarak atandığını ve bugün MYK toplantısına katıldığını açıkladı. Çelik ayrıca Sezai Karakoç'u vefat yıl dönümünde yad ederek, KKTC'nin kuruluşunun yıl dönümünü kutladı ve Kıbrıs Türk davasına bağlılıklarını vurguladı.",
+      "highlights": [
+        "Bekir Bozdağ, Genel Başkan Danışmanı olarak MYK toplantısına katıldı.",
+        "Şair ve mütefekkir Sezai Karakoç vefat yıl dönümünde anıldı.",
+        "KKTC'nin kuruluş yıl dönümü kutlanarak Kıbrıs Türk davasına bağlılık iletildi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-ak-parti-sozcusu-celikten-onemli-aciklamalar-7701891",
+      "publishedAt": "2026-11-16T14:21:16.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
+      "headline": "Yeni Güney Galler'in kömür madeni üretimini artırma tasarısı 'ciddi yolsuzluk riski' taşıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1680463990599-9d318aaecf71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y29hbCUyMG1pbmV8ZW58MXwwfHx8MTc5NDgzOTE2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Abdul Basit",
+        "photographerUrl": "https://unsplash.com/@basitxd",
+        "unsplashUrl": "https://unsplash.com/photos/a-yellow-excavator-in-a-large-open-pit-1O_HNWeY0O4"
+      },
+      "timeAgo": "26 dk önce",
+      "body": "Yeni Güney Galler hükümetinin, Mount Pleasant kömür madeninde üretimi artırmayı öngören yasa tasarısı ciddi bir yolsuzluk riski oluşturuyor. Uzmanlar, tasarıdaki bir maddenin kaynaklar bakanına aşırı yetkiler verdiğini belirtirken, tasarı bu hafta eyalet parlamentosunda tartışılacak.",
+      "highlights": [
+        "Tasarısı bu hafta eyalet parlamentosunda tartışılacak",
+        "MACH Energy'nin üretimini %32 artırması hedefleniyor",
+        "Madenciye ek yetkiler verilmesi yolsuzluk riski olarak değerlendiriliyor"
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/17/proposed-nsw-laws-to-allow-coalmine-to-increase-production-pose-serious-corruption-risk",
+      "publishedAt": "2026-11-16T14:00:21.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.dw.com/tr/yeni-parti-kurultayı-hangi-riskler-öne-çıkıyor/a-79960415?maca=tur-rss-tur-all-1495-xml-mrss",
       "headline": "Yeni Parti kurultayında öne çıkan riskler ve tartışmalar",
@@ -70,6 +138,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
+      "headline": "Hapisteki Pakistanlı Eski Başbakan İmran Han'dan Yargıçlara Mektup: Tıbbi Bakım Talebi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NASA",
+        "photographerUrl": "https://unsplash.com/@nasa",
+        "unsplashUrl": "https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs"
+      },
+      "timeAgo": "41 dk önce",
+      "body": "Pakistan Tehreek-e-Insaf partisinin kurucusu İmran Han, yargıçlara mektup yazarak hayati tıbbi bakım talebinde bulundu. Sağlığıyla ilgili mahkeme kararlarının göz ardı edildiğini belirten Han, 'canlı dönmeyebileceğini' ifade etti.",
+      "highlights": [
+        "İmran Han yargıçlara mektup yazdı",
+        "Tıbbi bakım talebinde bulundu",
+        "Mahkeme kararlarının göz ardı edildiğini söyledi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/jailed-pakistan-ex-pm-imran-khan-writes-to-judges-seeks-vital-medical-care?traffic_source=rss",
+      "publishedAt": "2026-11-16T13:45:50.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.haberturk.com/bilgi/corapla-uyuyanlar-mi-hakli-cikarip-atanlar-mi-bilim-insanlari-son-noktayi-koydu-3927159",
       "headline": "Yatarken Çorap Giymenin Uyku Üzerindeki Etkileri",
       "source": "Habertürk",
@@ -90,6 +181,29 @@
       "publishedAt": "2026-11-16T13:44:48.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "headline": "Gérard Depardieu, cinsel saldırı mahkumiyetine karşı yaptığı itirazı geri çekti",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andrew Stutesman",
+        "photographerUrl": "https://unsplash.com/@drwmrk",
+        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
+      },
+      "timeAgo": "46 dk önce",
+      "body": "Fransız sinema yıldızı, Paris'teki bir film setinde iki kadına cinsel saldırıda bulunmaktan suçlu bulunmasının ardından temyiz duruşmasına başlamaya hazırlanıyordu.",
+      "highlights": [
+        "Fransız film yıldızı cinsel saldırıdan suçlu bulunmuştu",
+        "İki kadına saldırdığı belirtiliyordu",
+        "Temyiz davasından vazgeçti"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cm20vexye1d0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T13:40:56.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.theguardian.com/lifeandstyle/2026/nov/16/lidos-lifeline-andy-burnham-fund-rebuild-outdoor-pools",
@@ -3081,6 +3195,28 @@
       "publishedAt": "2026-11-15T15:57:03.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/cmdx1ydrdyppo?at_medium=RSS&at_campaign=rss",
+      "headline": "SpaceX Starship Roketini İlk Kez Fırlatma Rampasında Tuttu",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1541185933-ef5d8ed016c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8U3BhY2VYJTIwU3RhcnNoaXAlMjByb2NrZXR8ZW58MXwwfHx8MTc5NDgzOTIzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "SpaceX",
+        "photographerUrl": "https://unsplash.com/@spacex",
+        "unsplashUrl": "https://unsplash.com/photos/rocket-ship-launching-during-daytime-Ptd-iTdrCJM"
+      },
+      "timeAgo": "1 gün önce",
+      "body": "SpaceX, 22 buçuk saat süren bir uçuşun ardından dev Starship roketinin üst bölümünü ilk kez başarıyla yakaladı. Testin ardından roketin bu fonksiyonunun geliştirilme amaçları merak konusu oldu.",
+      "highlights": [
+        "Starship roketi 22 buçuk saat uçtu",
+        "Roketin üst bölümü fırlatma rampasında ilk kez yakalandı"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cmdx1ydrdyppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-15T14:31:58.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.haberturk.com/dunya/biden-dan-netanyahu-itirafi-aramizda-pek-guven-yoktu-3927507",
@@ -8161,6 +8297,14 @@
     "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-963439.html",
     "https://www.hurriyet.com.tr/gundem/ak-parti-myk-erdogan-baskanliginda-toplandi-43380346",
     "https://www.sabah.com.tr/gundem/2026/11/16/ak-parti-myk-toplandi",
-    "https://www.ntv.com.tr/turkiye/kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-1751116"
+    "https://www.ntv.com.tr/turkiye/kurtulmus-hicbir-ulkenin-uluslararasi-yukumlulukten-kacinmasi-kabul-edilemez-1751116",
+    "https://www.aa.com.tr/tr/dunya/abdnin-bm-daimi-temsilcisi-waltz-lubnanda-hizbullahin-silah-birakmasi-gerektigini-belirtti/4126840",
+    "https://www.haberturk.com/gundem/son-dakika-haberler-antalya-da-sicaklar-suruyor-kasim-ayinda-denize-girdiler-3927737",
+    "https://www.sabah.com.tr/gundem/2026/11/16/son-dakika-omer-celikten-ak-parti-myk-sonrasi-onemli-aciklamalar",
+    "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-sezai-karakocu-andi-963440.html",
+    "https://www.dw.com/tr/kuzu-postlu-kurt-ilanı-bremen-eyaletini-karıştırdı-müslümanlar-tepki-gösterdi-alman-istihbaratı-geri-adım-attı/a-79960305?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.hurriyet.com.tr/kelebek/televizyon/bebek-beklenenden-cok-erken-geliyor-hollandaya-ucuyorum-43380270",
+    "https://www.ntv.com.tr/turkiye/bakan-uraloglu-acikladi-karla-mucadele-icin-yeni-577-makine-ve-ekipman-1751111",
+    "https://www.cnn.com/2023/04/14/media/fox-news-dominion-hnk-intl/index.html"
   ]
 }
