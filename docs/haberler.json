@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T08:24:48.786Z",
+  "generatedAt": "2026-11-16T08:35:24.823Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/boluda-baba-yadigari-traktor-35-yil-sonra-yenilendi-4872945",
+      "headline": "10 yaşındaki anılarının peşini bırakmadı: 35 yıl önce satılan baba yadigarını geri aldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1631670886947-154d406493a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dmludGFnZSUyMHRyYWN0b3J8ZW58MXwwfHx8MTc5NDgxODExOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Priscilla Gyamfi",
+        "photographerUrl": "https://unsplash.com/@priscillag",
+        "unsplashUrl": "https://unsplash.com/photos/a-red-tractor-parked-in-a-field-of-sunflowers-jjYTZkKeiAY"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Bolu'da sanayi esnafı Hüseyin Yıldırım, ailesinin 35 yıl önce sattığı 1977 model baba yadigarı traktörü geri alarak yeniledi. 49 yıl önce babası tarafından alınan ve 14 yıl kullanılan araç, babasının rahatsızlanması nedeniyle 1991'de satılmıştı. Yıldırım, esnaf arkadaşlarının desteğiyle traktörü bakımdan geçirdi.",
+      "highlights": [
+        "Hüseyin Yıldırım 35 yıl önce satılan 1977 model traktörü geri aldı",
+        "Traktör 49 yıl önce babası tarafından alınmıştı",
+        "Araç esnaf arkadaşlarının desteğiyle yenilendi"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/boluda-baba-yadigari-traktor-35-yil-sonra-yenilendi-4872945",
+      "publishedAt": "2026-11-16T08:29:29.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
       "headline": "Elon Musk ve 165 bin kişi Nvidia'da Jensen Huang'ın göreve iadesini istedi",
@@ -88,6 +111,29 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/16/shophouse-fire-on-thai-resort-island-kills-11?traffic_source=rss",
       "publishedAt": "2026-11-16T07:42:48.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+      "headline": "Nijerya'da bir ABD'li basketbolcu 34 kilo esrarla havalimanında yakalandı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDc2ODI4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andrew Stutesman",
+        "photographerUrl": "https://unsplash.com/@drwmrk",
+        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Uyuşturucuyla mücadele ajansı, Amerikalı basketbolcunun uyuşturucunun bulunduğu bagajını terk ederek havalimanından ayrılmaya çalıştığını açıkladı.",
+      "highlights": [
+        "ABD'li basketbolcu Nijerya'da havalimanında yakalandı",
+        "34 kilogram esrar ele geçirildi",
+        "Şüpheli bagajını terk ederek kaçmaya çalıştı"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:24:45.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -6836,52 +6882,6 @@
       "publishedAt": "2026-11-08T08:17:00.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.dw.com/tr/fon-soruşturmasında-dört-gözaltı-daha/a-79889218?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Fon soruşturmasında dört kişi daha gözaltına alındı",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1729048228129-64569b44caa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzk0MTI4MDkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Abai K",
-        "photographerUrl": "https://unsplash.com/@singmeinlied",
-        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-police-sign-on-the-front-of-it-V9jb3ucK7HE"
-      },
-      "timeAgo": "51 dk önce",
-      "body": "Türkiye gündemini meşgul eden fon soruşturması kapsamında emniyet güçleri yeni bir operasyon gerçekleştirdi ve dört kişi daha gözaltına alındı. Yürütülen soruşturmanın kapsamı genişletilirken, son gelişmeler kamuoyunun dikkatini çekti ve adli makamların yürüttüğü süreç titizlikle takip edilmeye devam ediyor.\n\nSoruşturma çerçevesinde gözaltına alınan isimler arasında Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkan Yardımcısı Muhammet Erişen'in de bulunduğu öğrenildi. Bürokraside ve finans dünyasında geniş yankı uyandıran bu gelişme, kurumun üst düzey yönetiminde yaşanan hareketliliği gözler önüne serdi.\n\nÖte yandan, dosyada adı geçen ve aralarında Muhammet Erişen'in de yer aldığı bazı isimlerin hukuki durumu hakkında dikkat çekici detaylar ortaya çıktı. Edinilen bilgilere göre, soruşturma kapsamında daha önce gözaltına alınan şüphelilerden ikisinin geçmişteki süreçte serbest bırakıldığı bilgisine ulaşıldı.\n\nAdli merciler tarafından yürütülen tahkikat çok yönlü olarak sürdürülürken, soruşturmanın seyrine ilişkin yeni detayların ilerleyen günlerde netleşmesi bekleniyor. Fon soruşturması, hem içerdiği isimler hem de etki alanı nedeniyle son dönemin en çok konuşulan adli vakaları arasında yer almayı sürdürüyor.\n\nKamuoyunun yakından takip ettiği bu süreç, ilgili kurumların ve yargı organlarının koordineli çalışmalarıyla derinleştiriliyor. Gözaltına alınan kişilerin emniyetteki işlemlerinin tamamlanmasının ardından adliyeye sevk edilmesi beklenirken, soruşturmanın gizliliği ve güvenliği çerçevesinde resmi makamların yapacağı yeni açıklamalar da ayrıca beklenmektedir.",
-      "highlights": [
-        "Fon soruşturmasında dört kişi daha gözaltına alındı.",
-        "Gözaltına alınanlar arasında BDDK Başkan Yardımcısı Muhammet Erişen de bulunuyor.",
-        "Şüphelilerden ikisinin daha önce serbest bırakıldığı açıklandı."
-      ],
-      "externalUrl": "https://www.dw.com/tr/fon-soruşturmasında-dört-gözaltı-daha/a-79889218?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-11-08T08:04:00.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-      "headline": "Yapay zeka kaynaklı şikayet dalgası İngiltere'deki kamu kurumlarını zorluyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8b2ZmaWNlJTIwZGVza3xlbnwxfDB8fHwxNzk0MTI4MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Luca Bravo",
-        "photographerUrl": "https://unsplash.com/@lucabravo",
-        "unsplashUrl": "https://unsplash.com/photos/apple-macbook-beside-computer-mouse-on-table-9l_326FISzk"
-      },
-      "timeAgo": "54 dk önce",
-      "body": "Günümüzde yapay zeka teknolojilerinin hızla yaygınlaşması, dünya genelinde pek çok farklı sektörü ve çalışma alanını dönüştürmeye devam ederken, bu durumun getirdiği bazı yeni zorluklar da gün yüzüne çıkıyor. Özellikle İngiltere sınırları içerisinde faaliyet gösteren milletvekilleri, yerel yönetimler, hukukçular ve eğitim kurumları gibi çeşitli kamusal yapılar, son dönemde yapay zeka destekli sohbet botları vasıtasıyla üretilen muazzam bir şikayet, talep ve yasal itiraz dalgasıyla karşı karşıya kalmış durumda. Yetkililer, bu durumun günlük operasyonel süreçleri ciddi şekilde etkilediğini ve kurumların iş yükünü katbekat artırdığını belirtiyor.\n\nYaşanan bu yoğunluk, ilk olarak geçtiğimiz yıl içerisinde ufak çaplı bir artış olarak kendini gösterse de, zamanla endişe verici bir boyuta ulaştı ve adeta bir taarruza dönüştü. Konuyla ilgili olarak sahada yaşananları aktaran isimlerden biri olan ve bir İşçi Partisi milletvekilinin ofisinde kıdemli dosya sorumlusu olarak görev yapan Hollie Wickens, yapay zeka tarafından üretilen yazışmaların günlük mesailerini ne denli meşgul ettiğini gözler önüne seriyor. On yıllık mesleki tecrübesine rağmen bu yeni dalgayla baş etmekte zorlandığını ifade eden Wickens, gelen elektronik postaların yaklaşık yarısının bir tür yapay zeka aracı kullanılarak hazırlandığını vurguluyor.\n\nSöz konusu yapay zeka ürünü mesajların en belirgin özelliklerinden biri, geleneksel vatandaş başvurularına kıyasla çok daha karmaşık bir yapıya sahip olmaları ve incelenmesinin uzun vakit almasıdır. Bu durum, kamu kurumlarında çalışan uzman personelin her bir talebi ayrı ayrı ele almasını, anlamasını ve bunlara uygun yanıtlar üretmesini oldukça güç bir hale getiriyor. Kurumlar, sınırlı insan kaynakları ile bu devasa bilgi akışı karşısında ayakta kalmaya çalışırken, gelen iletilerin niteliğindeki bu değişim mesai saatlerinin çok daha yorucu ve yıpratıcı geçmesine yol açıyor.\n\nKamu hizmetlerinin aksamadan yürütülmesi gereken bu kritik süreçte, yapay zeka ile üretilen şikayetlerin ve hukuki meydan okumaların doğurduğu bu tıkanıklık, yalnızca milletvekili ofislerini değil, ülkedeki pek çok yerel otoriteyi ve okulu da benzer şekilde esir almış durumda. Karşı tarafın hak arama özgürlüğünü yapay zeka destekli araçlarla bu derece yoğun ve karmaşık bir biçimde kullanması, kamusal denetim mekanizmaları ile temsilcilerin vatandaşlarla olan iletişim kanallarını tıkayabilecek bir eşiğe yaklaşılmasına neden oluyor.\n\nUzmanlar ve kurum çalışanları, bu akının yakın zamanda yavaşlamasını beklemezken, yapay zeka teknolojilerinin günlük hayatımıza ve bürokratik ilişkilere olan etkisinin ne yönde evrileceği merak konusu olmaya devam ediyor. İngiltere'deki kamu kurumlarının bu yeni nesil yazışma yüküyle baş edebilmek adına ilerleyen dönemde nasıl stratejiler geliştireceği ve bu yoğunlukla mücadele etmek için hangi idari adımları atacağı, ülkenin idari gündemindeki yerini koruyor.",
-      "highlights": [
-        "İngiltere'deki kamu kurumları yapay zeka şikayetleriyle mücadele ediyor.",
-        "Gelen iletilerin yarısı sohbet botları tarafından üretiliyor.",
-        "Yoğunluk ve karmaşıklık kurumların iş yükünü büyük ölçüde artırdı."
-      ],
-      "externalUrl": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
-      "publishedAt": "2026-11-08T08:00:36.000Z",
-      "category": "World",
-      "lang": "en"
     }
   ]
 }
