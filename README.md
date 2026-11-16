@@ -26,17 +26,19 @@ bir çalıştırır.
    - `GEMINI_API_KEY` — https://aistudio.google.com/apikey
    - `UNSPLASH_ACCESS_KEY` — https://unsplash.com/oauth/applications ("New Application" → Access Key)
    - `ONESIGNAL_APP_ID`, `ONESIGNAL_REST_API_KEY` — https://onesignal.com (web/iOS push için; Settings → Keys & IDs)
-   - `FIREBASE_SERVICE_ACCOUNT_JSON` — Firebase Console / Google Cloud'dan `kuresel-haberler` projesi için oluşturulan hizmet hesabı JSON'u. Yalnızca Actions secret olarak saklayın; dosyaya veya repoya eklemeyin. Hizmet hesabında FCM mesaj gönderme yetkisi ve projede Firebase Cloud Messaging API etkin olmalıdır.
-4. `Actions` sekmesinden `Generate feed` workflow'unu `Run workflow` ile bir kez elle tetikleyip
-   loglardan ve oluşan `docs/haberler.json`'dan kontrol edin.
+4. Android push için kalıcı Firebase hizmet hesabı JSON anahtarı kullanmayın. Workflow, Google Cloud Workload Identity Federation ile kısa ömürlü erişim belirteci alır ve yalnızca `firebase.messaging` kapsamını ister. Google Cloud tarafındaki OIDC sağlayıcısı ve `kuresel-feed-fcm-sender@kuresel-haberler.iam.gserviceaccount.com` hizmet hesabı yetkisi önceden ayarlanmış olmalıdır; GitHub workflow'u `mam444/kureselhaberler-feed` deposunun `main` dalında çalışır.
+5. `Actions` sekmesinden `Generate feed` workflow'unu `Run workflow` ile elle tetikleyebilir, loglardan ve oluşan `docs/haberler.json` / `docs/markets.json` dosyalarından sonucu kontrol edebilirsiniz. Bu işlem gerçek feed'i ve abone kullanıcılara push bildirimini günceller.
 
-## Yerel test
+## Yerel geliştirme
 
 ```bash
 npm install
 node --env-file=.env scripts/generate-feed.mjs
 ```
 
-`.env.example` dosyasını `.env` olarak kopyalayıp key'lerinizi doldurun. Key'ler boşsa betik
+`.env.example` dosyasını `.env` olarak kopyalayıp API anahtarlarını doldurun. Key'ler boşsa betik
 RSS'i çeker ama hiçbir haberi yeniden yazmaz (Gemini olmadan içerik yayınlanmaz — telif riskini
-azaltan asıl adım budur).
+azaltan asıl adım budur). Yerel `generate` çalıştırması Google Cloud OIDC workflow'unun yerine
+geçmez; gerçek yeni makaleler işlendiğinde yapılandırılmış bildirim sağlayıcılarına push gönderebilir.
+Üretim hesabı kimlik bilgileriyle yerelde çalıştırmayın. GitHub'daki `Run workflow` da canlı feed'i
+ve abonelere bildirimleri günceller; yalnızca gerçek güncelleme yapmak istediğinizde kullanın.
