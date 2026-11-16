@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-16T18:58:02.675Z",
+  "generatedAt": "2026-11-16T19:34:35.597Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/chp-ve-yeni-parti-arasinda-aidat-krizi-3494066",
+      "headline": "CHP ve Yeni Parti arasında aidat krizi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "şimdi",
+      "body": "CHP yeni partiye giden aidatların peşini bırakmıyor. Şimdi o aidatların iadesi için tebligat süreci işletilecek. CHP, Yeni Parti’ye aidatları iade et tebligatı gönderecek. Peki iade olmazsa ne olacak?",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/chp-ve-yeni-parti-arasinda-aidat-krizi-3494066",
+      "publishedAt": "2026-11-16T19:34:43.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/disisleri-bakanligi-itu-konsey-uyeligi-turkiyeye-bilim-ve-teknolojide-duyulan-guvenin-teyididir-7702036",
+      "headline": "Dışişleri Bakanlığı: ITU Konsey üyeliği, Türkiye'ye bilim ve teknolojide duyulan güvenin teyididir",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "4 dk önce",
+      "body": "Bakanlıktan yapılan açıklamada, Birleşmiş Milletler'in (BM) bilgi ve iletişim teknolojileri ile telekomünikasyon alanındaki uzman kuruluşu ITU'nun Katar'da gerçekleştirilen konsey seçimlerinde, Türkiye'nin üst üste 7. kez ITU konsey üyeliğine hak kazandığı hatırlatıldı. \"Söz konusu gelişme, bilim ve teknoloji alanında ülkemize uluslararası düzeyde duyulan güvenin güçlü bir teyididir.\" ifadesine yer verilen…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/disisleri-bakanligi-itu-konsey-uyeligi-turkiyeye-bilim-ve-teknolojide-duyulan-guvenin-teyididir-7702036",
+      "publishedAt": "2026-11-16T19:30:59.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/feyyaz-serifoglu-allahin-selamini-vermek-gundem-oluyorsa-vay-halimize-4873176",
       "headline": "Feyyaz Şerifoğlu: Allah'ın selamını vermek gündem oluyorsa vay halimize",
