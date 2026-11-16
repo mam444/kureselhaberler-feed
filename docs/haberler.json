@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-16T12:35:15.643Z",
+  "generatedAt": "2026-11-16T12:45:47.664Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/gundem/son-dakika-haberler-sanliurfa-ve-hakkaride-566-kilo-uyusturucu-madde-ele-gecirildi-3927714",
+      "headline": "Şanlıurfa ve Hakkari'de 566 kilo uyuşturucu ele geçirildi",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1645820297532-90f61fbe0789?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDc2OTUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alexander Van Steenberge",
+        "photographerUrl": "https://unsplash.com/@lexerium",
+        "unsplashUrl": "https://unsplash.com/photos/a-yellow-glowing-sign-with-the-number-ten-wWjV03RNbrE"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "İçişleri Bakanlığı tarafından yapılan duyuruya göre, Şanlıurfa ve Hakkari'de jandarma ekipleri tarafından operasyonlar düzenlendi. Gerçekleştirilen bu operasyonlarda toplam 566 kilogram uyuşturucu madde ele geçirildi.",
+      "highlights": [
+        "Şanlıurfa ve Hakkari'de operasyon düzenlendi",
+        "Jandarma ekipleri görev aldı",
+        "566 kilogram uyuşturucu ele geçirildi"
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-haberler-sanliurfa-ve-hakkaride-566-kilo-uyusturucu-madde-ele-gecirildi-3927714",
+      "publishedAt": "2026-11-16T12:40:04.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/sakaryada-lahana-yuklu-uyusturucu-kovalamacasi-suphelinin-pesine-biri-kosarak-digeri-traktorle-dustu-7701834",
+      "headline": "Sakarya'da lahana yüklü traktörle uyuşturucu kovalamacası",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "Sakarya'nın Adapazarı ilçesinde \"dur\" ihtarına uymayarak kaçan uyuşturucu şüphelisi İ.A., polisin yaya ve lahana yüklü traktörle yaptığı kovalamaca sonucu yakalandı. Şüphelinin üzerinden bir miktar uyuşturucu madde ele geçirilirken, olayla ilgili adli işlem başlatıldı.",
+      "highlights": [
+        "Adapazarı Karaköy Mahallesi'nde yaşandı",
+        "Şüpheli İ.A. yakalandı ve üzerinde uyuşturucu bulundu",
+        "Bir polis koşarak diğer polis traktörle takip etti"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/sakaryada-lahana-yuklu-uyusturucu-kovalamacasi-suphelinin-pesine-biri-kosarak-digeri-traktorle-dustu-7701834",
+      "publishedAt": "2026-11-16T12:36:55.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-goktas-singapur-aile-gelisim-bakani-zulkifli-ile-2-yillik-faaliyet-plani-imzaladi-7701831",
       "headline": "Bakan Göktaş, Singapur Aile Gelişim Bakanı Zulkifli ile 2 yıllık faaliyet planı imzaladı",
@@ -321,6 +363,29 @@
       "lang": "en"
     },
     {
+      "id": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
+      "headline": "EPA'nın kimyasal tespit uçağının düşüşü içeriden bakış",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589519160732-57fc498494f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Greg Rosenke",
+        "photographerUrl": "https://unsplash.com/@greg_rosenke",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-brown-globe-on-persons-hand-1TjORT2dLOw"
+      },
+      "timeAgo": "45 dk önce",
+      "body": "Federal hükümetin kimyasal tespit uçağı Aspect, felaketler sırasında zehirli kimyasalları takip etmede önemli bir rol oynarken artık sık sık yerde kalıyor. Oklahoma, Teksas ve Ohio'daki bazı ciddi olaylarda uçağın kullanılmadığı belirtildi. Programı 18 yıl yöneten eski EPA yetkilisi Mark Thomas, on yıl önce uçağın bu olayların hepsine gönderileceğini ifade etti.",
+      "highlights": [
+        "Federal hükümetin kimyasal tespit uçağı Aspect sık sık yerde kalıyor",
+        "Oklahoma, Teksas ve Ohio'daki bazı olaylarda uçak kullanılmadı",
+        "Eski EPA yetkilisi Mark Thomas uçağın geçmişte tüm bu olaylara gönderileceğini belirtti"
+      ],
+      "externalUrl": "https://www.theguardian.com/environment/2026/nov/16/epa-chemical-detection-plane",
+      "publishedAt": "2026-11-16T12:00:58.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-serianin-el-halil-kentinde-biri-gazeteci-11-filistinliyi-gozaltina-aldi/4126569",
       "headline": "İsrail ordusu Batı Şeria'da biri gazeteci 11 Filistinliyi gözaltına aldı",
       "source": "Anadolu Ajansı",
@@ -409,6 +474,24 @@
       "publishedAt": "2026-11-16T11:46:33.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-gecici-ateskes-yerine-yillarca-surecek-baris-istiyoruz-963427.html",
+      "headline": "Rusya: Ukrayna'da geçici ateşkes yerine yıllarca sürecek barış istiyoruz",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 sa önce",
+      "body": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'da geçici ateşkes istemediklerini, yıllarca sürecek bir barış hedeflediklerini açıkladı. Peskov, müzakere sürecinin kendilerini bu kalıcı barışa ulaştırması gerektiğini belirtti.",
+      "highlights": [
+        "Geçici ateşkes yerine yıllarca sürecek barış istiyoruz",
+        "Müzakere süreci bizi bu barışa götürmelidir"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-gecici-ateskes-yerine-yillarca-surecek-baris-istiyoruz-963427.html",
+      "publishedAt": "2026-11-16T11:43:00.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
@@ -3396,6 +3479,29 @@
       "publishedAt": "2026-11-14T15:12:00.000Z",
       "category": "Dünya",
       "lang": "tr"
+    },
+    {
+      "id": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+      "headline": "Microsoft, küresel kesintinin ardından tüm servislerin yeniden çalışır duruma geldiğini doğruladı",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NASA",
+        "photographerUrl": "https://unsplash.com/@nasa",
+        "unsplashUrl": "https://unsplash.com/photos/earth-with-clouds-above-the-african-continent-vhSz50AaFAs"
+      },
+      "timeAgo": "2 gün önce",
+      "body": "Microsoft, Birleşik Krallık'ta NHS, polis, okullar ve diğer hizmetleri etkileyen küresel bir kesintinin ardından tüm servislerin tamamen eski haline getirildiğini açıkladı.",
+      "highlights": [
+        "Tüm servisler tamamen geri getirildi",
+        "Kesinti küresel çapta yaşandı",
+        "Birleşik Krallık'ta NHS, polis ve okulları etkiledi"
+      ],
+      "externalUrl": "https://news.sky.com/story/microsoft-confirms-all-services-are-restored-after-global-outage-13612219",
+      "publishedAt": "2026-11-14T14:56:00.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/bogazici-elektrik-dagitim-bedas-kesinti-listesi-14-kasim-istanbulda-elektrikler-ne-zaman-gelecek-3493157",
@@ -7329,6 +7435,29 @@
       "publishedAt": "2026-11-09T02:11:25.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
+      "headline": "Blackpink, Coachella'da Kore hanbokları giyerek tarih yazdı",
+      "source": "CNN International",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnn.com",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NASA",
+        "photographerUrl": "https://unsplash.com/@nasa",
+        "unsplashUrl": "https://unsplash.com/photos/photo-of-outer-space-Q1p7bh3SHj8"
+      },
+      "timeAgo": "1308 gün önce",
+      "body": "K-Pop kız grubu Blackpink, Coachella festivalinde sahne alarak bir festivalin ana sanatçısı olan ilk Asya kökenli grup oldu. Jennie, Jisoo, Lisa ve Rosé, cumartesi gecesi yaklaşık 125.000 kişilik kalabalığın önünde sahneye geleneksel Kore kıyafetleri olan hanboklarla çıkarak kültürel mirasa saygı duruşunda bulundu.",
+      "highlights": [
+        "Blackpink, Coachella'da ana sanatçı olarak sahne alan ilk Asya kökenli grup oldu",
+        "Grup üyeleri sahneye geleneksel Kore kıyafetleri hanboklarla çıktı",
+        "Konseri yaklaşık 125.000 kişi izledi"
+      ],
+      "externalUrl": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
+      "publishedAt": "2023-04-18T15:39:40.000Z",
+      "category": "World",
+      "lang": "en"
     }
   ],
   "rejectedIds": [
@@ -7349,6 +7478,15 @@
     "https://www.bbc.com/turkce/articles/ckr5g6207ezro?at_medium=RSS&at_campaign=rss",
     "https://www.hurriyet.com.tr/gundem/omer-sarigul-ek-ifade-vermek-icin-adliyeye-geldi-43380149",
     "https://www.dw.com/tr/i̇ran-hürmüz-boğazı-nda-iki-günde-6-tanker-yandı/a-79955026?maca=tur-rss-tur-all-1495-xml-mrss",
-    "https://www.cnn.com/travel/article/china-beautiful-great-wall-sections-cmd/index.html"
+    "https://www.cnn.com/travel/article/china-beautiful-great-wall-sections-cmd/index.html",
+    "https://www.yenisafak.com/gundem/meteorolojiden-trakyaya-kuvvetli-yagis-uyarisi-tekirdag-edirne-kirklareli-istanbul-kocaeli-yalova-hava-durumu-4873087",
+    "https://www.aa.com.tr/tr/dunya/italyada-bazi-okullara-yeniden-bomba-ve-zehirleme-tehdidi-iceren-e-postalar-gonderildi/4126680",
+    "https://www.dw.com/tr/cem-yiğit-üzümoğlu-önce-sansürü-rtük-cezalarını-konuşmalıyız/a-79959695?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.bbc.co.uk/news/articles/cr0qj0nzwj34o?at_medium=RSS&at_campaign=rss",
+    "https://www.sabah.com.tr/gundem/2026/11/16/karadenizde-somali-bayrakli-yuk-gemisi-batti-12-murettebat-kurtarildi",
+    "https://www.hurriyet.com.tr/dunya/karadenizde-yuk-gemisinde-patlama-turk-murettebat-kurtarildi-43380188",
+    "https://www.ntv.com.tr/turkiye/galeri-sarigul-ailesine-kara-para-sorusturmasi-15-supheli-adliyede-1751090",
+    "https://www.bbc.com/turkce/articles/cqj9m00mz8vvo?at_medium=RSS&at_campaign=rss",
+    "https://www.aljazeera.com/news/2026/11/16/uss-roosevelt-arrives-in-middle-east-is-the-us-iran-war-about-to-resume?traffic_source=rss"
   ]
 }
