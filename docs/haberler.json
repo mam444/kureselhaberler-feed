@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-16T11:25:38.073Z",
+  "generatedAt": "2026-11-16T11:36:45.833Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "headline": "Beş AB ülkesinin Ruanda'da göçmen sınır dışı merkezi duyurması bekleniyor",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1485745492261-a3819c494d11?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlncmFudCUyMGRlcG9ydGF0aW9ufGVufDF8MHx8fDE3OTQ4Mjg5OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nitish Meena",
+        "photographerUrl": "https://unsplash.com/@nitishm",
+        "unsplashUrl": "https://unsplash.com/photos/signage-on-night-IFh4o-U-BGg"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Almanya, Danimarka, Avusturya, Yunanistan ve Hollanda'nın, başvurusu reddedilen sığınmacılar için bir 'geri dönüş merkezi' duyurması bekleniyor.",
+      "highlights": [
+        "Almanya, Danimarka, Avusturya, Yunanistan ve Hollanda merkez duyuracak",
+        "Merkez başvuru sahiplerini kapsayacak"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T11:17:34.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
       "headline": "Eurovision organizatörlerinden Malezya'da LGBT+ görüntülerinin kaldırılmasına eleştiri",
@@ -21,6 +43,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/16/eurovision-organisers-malaysia-removal-lgbt-footage-first-asian-contest",
       "publishedAt": "2026-11-16T11:12:44.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "headline": "Adalet Bakanlığı'ndan Elizabeth Warren'a Trump soruşturmaları uyarısı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1610312278520-bcc893a3ff1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VVMlMjBwb2xpdGljc3xlbnwxfDB8fHwxNzk0ODI5MDAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Varun Yadav",
+        "photographerUrl": "https://unsplash.com/@vay2250",
+        "unsplashUrl": "https://unsplash.com/photos/golden-gate-bridge-san-francisco-california-QhYTCG3CTeI"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "ABD Adalet Bakanlığı, Senato Bankacılık Komitesi'nin muhtemel başkanı Senatör Elizabeth Warren'ı, Başkan Donald Trump hakkındaki soruşturmalarla ilgili kayıtları korumadığı takdirde önemli yasal sonuçlarla karşılaşabileceği konusunda uyardı. Bu uyarı, Demokratların ara seçim başarısının ardından olası planlarına yönelik en son ikaz oldu.",
+      "highlights": [
+        "Adalet Bakanlığı Elizabeth Warren'ı uyardı",
+        "Soruşturma kayıtlarının korunması istendi",
+        "Önemli yasal sonuçlar doğabileceği belirtildi"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "publishedAt": "2026-11-16T11:11:16.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -89,6 +134,29 @@
       ],
       "externalUrl": "https://www.aa.com.tr/tr/gundem/hakkari-hudut-hattinda-28-kilo-750-gram-uyusturucu-ele-gecirildi/4126491",
       "publishedAt": "2026-11-16T10:54:45.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/gundem/sofor-kalp-krizi-gecirdi-minibus-denize-uctu-can-pazarinin-yasandigi-anlar-kamerada-43380114",
+      "headline": "Şoför kalp krizi geçirdi, minibüs denize uçtu: Can pazarı kamerada",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1778013142895-b8af9932d717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDc2OTUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Reanimated Man X",
+        "photographerUrl": "https://unsplash.com/@reanimatedmanx",
+        "unsplashUrl": "https://unsplash.com/photos/modern-building-with-glowing-logos-against-twilight-sky-vo7tEX_yvtk"
+      },
+      "timeAgo": "44 dk önce",
+      "body": "Balıkesir'in Ayvalık ilçesinde, sürücüsünün kalp krizi geçirdiği şehir içi yolcu minibüsü denize uçtu. Çok sayıda yolcunun bulunduğu araçtakileri kurtarmak için çevredeki vatandaşlar merdiven uzattı. Yaşananlar kameraya yansıdı.",
+      "highlights": [
+        "Şoförün kalp krizi geçirmesi sonucu minibüs denize uçtu",
+        "Araçta çok sayıda yolcu bulunuyordu",
+        "Çevredeki vatandaşlar merdiven uzatarak yolcuları kurtarmaya çalıştı"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/sofor-kalp-krizi-gecirdi-minibus-denize-uctu-can-pazarinin-yasandigi-anlar-kamerada-43380114",
+      "publishedAt": "2026-11-16T10:52:44.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -6806,75 +6874,6 @@
       "externalUrl": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-09T00:33:31.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389",
-      "headline": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda ölü sayısı 44’e yükseldi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1550514920-7bd08149411d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2l0eSUyMHJ1aW5zfGVufDF8MHx8fDE3OTQxOTMwNTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Andrew Ridley",
-        "photographerUrl": "https://unsplash.com/@aridley88",
-        "unsplashUrl": "https://unsplash.com/photos/abandoned-concrete-house-4dPHQviRbWo"
-      },
-      "timeAgo": "3 sa önce",
-      "body": "Yemen'de uzun süredir devam eden istikrarsızlık ve çatışma ortamı, sivil yerleşimleri ve başkent Sana'yı hedef alan askeri operasyonlarla derinleşmeye devam ediyor. Yaşanan bu son gelişmelerin ardından bölgeden gelen resmi açıklamalar, can kaybı ve yaralanma vakalarının artış eğiliminde olduğunu ortaya koydu.\n\nÜlkedeki siyasi ve askeri dengeleri elinde bulunduran İran destekli Husiler, başkent Sana'da gerçekleşen hava operasyonlarına dair güncel bilanço bilgilerini kamuoyuyla paylaştı. Yapılan son bilgilendirmelere göre, Suudi Arabistan güçleri tarafından Sana'ya yönelik icra edilen saldırı dalgalarında hayatını kaybedenlerin sayısı ne yazık ki 44 rakamına ulaştı.\n\nSöz konusu askeri hareketliliğin sivil altyapı ve yerleşim alanları üzerindeki yıkıcı etkisi, bölgedeki insani durumu daha da endişe verici boyuta taşıyor. Husiler tarafından yapılan resmi duyuruda, yalnızca can kaybındaki artışa dikkat çekilmekle kalmadı; aynı zamanda olaylar neticesinde yaralanan vatandaşların sayısının da 40 kişiye yükseldiği resmen ilan edildi.\n\nOrtadoğu genelinde diplomatik çözüm arayışları sürerken, sahadaki askeri operasyonların hızı kesilmiyor. Sana'da meydana gelen bu son can kayıpları ve yaralanmalar, çatışmaların sivil halk üzerindeki doğrudan etkisini bir kez daha gözler önüne seriyor. Bölgedeki sağlık altyapısının ve hastanelerin kapasitesi, artan yaralı sayısı karşısında zorlanırken, taraflar arasındaki gerilimin boyutu her geçen gün daha da tırmanıyor.\n\nUluslararası toplumun ve insan hakları örgütlerinin yakından takip ettiği Yemen'deki bu gelişmeler, tarafların askeri stratejilerinden vazgeçmediğini ve başkent merkezli saldırıların şiddetini artırarak sürdürdüğünü gösteriyor. Sana'da yaşanan can kayıplarının ardından bilanço netleşmeye devam ederken, bölge halkı güvenlik endişeleriyle yaşamını sürdürmeye çalışıyor.",
-      "highlights": [
-        "Sana'ya düzenlenen saldırılarda ölü sayısı 44'e ulaştı.",
-        "Yaralı sayısının ise 40 kişiye yükseldiği duyuruldu.",
-        "Açıklama İran destekli Husiler tarafından yapıldı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389",
-      "publishedAt": "2026-11-09T00:01:12.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "headline": "Krakow yakınlarındaki silahlı saldırıda polisin hayatı öğle yemeğindeki cerrah sayesinde kurtuldu",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1557081999-0ea3e23579d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwb2ZmaWNlcnxlbnwxfDB8fHwxNzk0MTgwOTY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ev",
-        "photographerUrl": "https://unsplash.com/@ev",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-police-standing-and-leaning-on-wall-pqkGQboKSeM"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Polonya'nın Krakow kenti civarında yaşanan silahlı saldırı olayında, tesadüfen çevrede bulunan bir cerrahın meslektaşının hayatını kurtardığına dair yeni ayrıntılar gün yüzüne çıktı. Söz konusu olayda, silahlı bir saldırganın daha fazla can kaybına yol açmasını engelleyen iki polis memuru kahramanlıklarıyla övülmüştü. Konuyla ilgili açıklamalarda bulunan bir meslektaş, öğle yemeği molası sırasında olay yerinin yakınlarında bulunan cerrahın müdahalesinin, yaralanan polisin hayatta kalmasında belirleyici olduğunu belirtti.\n\nBilindiği üzere, bu tür ani ve tehlikeli olaylar, kamu güvenliğini sağlayan kolluk kuvvetleri ile saldırganlar arasında doğrudan bir çatışmaya dönüşebilmektedir. Krakow yakınlarında patlak veren bu son hadise de polisin hızlı müdahalesinin ne denli hayati önem taşıdığını bir kez daha gözler önüne serdi. Yetkililerin aktardığı bilgilere göre, silahlı şahsın eylemlerini sürdürmesi engellenerek çok daha büyük bir faciaya veya daha fazla ölümcül olaya imza atmasının önüne geçildi.\n\nOlay anında tesadüfen yakınlarda yemek yiyen cerrahın varlığı, kriz anında profesyonel tıbbi desteğe anında erişim sağlanması açısından büyük bir şans olarak değerlendirildi. Sağlık personelinin kriz bölgelerine yakınlığı, özellikle ateşli silah yaralanmalarında hayatta kalma oranını doğrudan etkileyen faktörler arasında yer alıyor. Bu bağlamda, cerrahın hızlı refleksleri ve tıbbi müdahalesi, vurulan polisin hayata tutunmasında kritik bir eşik oluşturdu.\n\nPolonya genelinde ve özellikle büyük şehirlerin çevrelerinde güvenlik güçleri sıklıkla benzer riskli durumlarla karşı karşıya kalabilmektedir. Bu olay, güvenlik görevlilerinin görevleri başında maruz kaldığı tehlikeleri ve sivil-kolluk kuvvetleri ile sağlık çalışanları arasındaki dayanışmanın önemini bir kez daha hatırlattı. Saldırganın etkisiz hale getirilmesi süreci ve sonrasındaki gelişmeler, yetkili makamlar tarafından titizlikle incelenmeye devam ediyor.\n\nElde edilen son detaylar, iki polisin gösterdiği cesaretin yanı sıra, olay yerindeki şanslı tesadüflerin ve anında sağlanan tıbbi yardımın trajedinin boyutunu nasıl sınırladığını net bir şekilde ortaya koydu. Uzmanlar, bu tür olayların ardından hem güvenlik protokollerinin gözden geçirilmesinin hem de acil sağlık hizmetlerine hızlı erişimin hayati rolünü vurguluyor. Olayla ilgili soruşturma ve incelemeler ilgili birimler tarafından sürdürülmektedir.",
-      "highlights": [
-        "Krakow yakınlarındaki silahlı saldırıda polisin hayatı kurtuldu.",
-        "Bir cerrahın öğle yemeği sırasında olay yerinde olması hayat kurtardı.",
-        "İki polis memuru saldırganın daha fazla insanı öldürmesini engelledi."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T23:34:18.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-kasim-2026-1750025",
-      "headline": "09 Kasım 2026 son deprem haberleri: AFAD ve Kandilli son depremler listesi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1624004015322-a94d3a4eff39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c2Vpc21vZ3JhcGglMjBtYWNoaW5lfGVufDF8MHx8fDE3OTQxODA5Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Maxim Tolchinskiy",
-        "photographerUrl": "https://unsplash.com/@shaikhulud",
-        "unsplashUrl": "https://unsplash.com/photos/text-HoneMAhhCXI"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Türkiye genelinde yaşanan sarsıntıların ardından vatandaşlar arama motorlarında yoğun bir şekilde son deprem haberlerini araştırmaya başladı. 09 Kasım 2026 tarihinde meydana gelen sarsıntılarla ilgili detaylar, anlık olarak ilgili kurumlar tarafından kamuoyu ile paylaşılırken, günün ilk saatlerinden itibaren yaşanan gelişmeler yakından takip ediliyor. Özellikle büyük şehirlerde yaşayan vatandaşlar başta olmak üzere, ülkenin dört bir yanındaki bireyler bulundukları bölgelerde herhangi bir sarsıntı hissedip hissetmediklerini öğrenmek için resmi verilere odaklanmış durumda.\n\nAfet ve Acil Durum Yönetimi Başkanlığı (AFAD) ile Boğaziçi Üniversitesi Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü, ülke genelindeki sarsıntıları 7 gün 24 saat kesintisiz olarak izliyor. Bu kapsamda, güncel deprem verileri anlık olarak Türkiye deprem haritası üzerinden vatandaşların erişimine sunuluyor. 09 Kasım 2026 tarihinde yaşanan son depremlerin büyüklükleri, merkez üssü ve derinliği gibi teknik detaylar da bu kurumların resmi internet siteleri ve sosyal medya hesapları aracılığıyla duyuruluyor.\n\nÖzellikle mega kent İstanbul başta olmak üzere Ankara, İzmir ve diğer büyük illerde yaşayan vatandaşlar, en son hangi bölgede deprem olduğunu öğrenmek adına arama motorlarında anlık sorgulamalar yapıyor. 'İstanbul'da deprem mi oldu?', 'Ankara'da deprem mi oldu?' ve 'İzmir'de deprem mi oldu?' gibi sorular, milyonlarca vatandaşın gündeminde ilk sırada yer alıyor. Depremin ne zaman gerçekleştiği, şiddetinin ne kadar olduğu ve herhangi bir olumsuzluğa yol açıp açmadığı konuları yakından inceleniyor.\n\nYaşanan sarsıntıların ardından olası artçı deprem ihtimaline karşı da uzmanlar uyarılarda bulunuyor. Vatandaşlar, yakınlarındaki depremleri anlık olarak takip edebilmek için canlı deprem haritalarını ve resmi kurumların son depremler listesini sıklıkla yeniliyor. Bu süreçte doğru ve güvenilir bilgiye ulaşmak, bilgi kirliliğinin önüne geçilmesi açısından büyük önem taşıyor. AFAD ve Kandilli Rasathanesi, sarsıntılara dair tüm resmi verileri şeffaf bir şekilde paylaşarak vatandaşları bilgilendirmeye devam ediyor.\n\nDeprem kuşağında yer alan Türkiye'de, bu tür doğa olayları sıkça yaşanmakta ve toplumsal bilincin artırılması amacıyla sürekli bilgilendirme çalışmaları yapılmaktadır. 09 Kasım 2026 tarihli son deprem haberleri de bu kapsamda, vatandaşların anlık bilgi ihtiyacını karşılamak üzere güncellenmektedir. Konuyla ilgili en son gelişmeler, resmi kurumların yapacağı yeni açıklamalar ve anlık deprem haritası verileri doğrultusunda takip edilmeyi sürdürüyor.",
-      "highlights": [
-        "09 Kasım 2026 tarihinde yaşanan depremler yakından takip ediliyor.",
-        "AFAD ve Kandilli Rasathanesi son deprem verilerini anlık paylaşıyor.",
-        "İstanbul, Ankara ve İzmir'deki vatandaşlar sarsıntıları araştırıyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-09-kasim-2026-1750025",
-      "publishedAt": "2026-11-08T23:30:00.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ]
