@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-16T10:15:34.753Z",
+  "generatedAt": "2026-11-16T10:34:45.182Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/16/zelenskiyden-abd-ve-muska-cagri-ukraynanin-starlink-erisimindeki-kisitlamalari-kaldirin",
+      "headline": "Zelenskiy'den ABD ve Musk'a çağrı: Starlink kısıtlamalarını kaldırın",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1554977642-e557d4ca82d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c2F0ZWxsaXRlJTIwaW50ZXJuZXR8ZW58MXwwfHx8MTc5NDgyNTI3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Gilles Rolland-Monnet",
+        "photographerUrl": "https://unsplash.com/@gillesrollandmonnet",
+        "unsplashUrl": "https://unsplash.com/photos/black-satellite-under-blue-sky-xpb438CRUnU"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Ukrayna Devlet Başkanı Zelenskiy, cuma günü yaptığı açıklamada, Starlink erişimindeki kısıtlamaların cephe hattı ve Rus işgali altındaki bölgelerde hâlâ sürdüğünü doğruladı. Zelenskiy, konuya ilişkin henüz net bir açıklama almadıklarını belirtti.",
+      "highlights": [
+        "Zelenskiy ABD ve Musk'a çağrıda bulundu",
+        "Kısıtlamalar cephe hattı ve işgal altındaki bölgelerde sürüyor",
+        "Konuyla ilgili henüz net bir açıklama alınamadı"
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/16/zelenskiyden-abd-ve-muska-cagri-ukraynanin-starlink-erisimindeki-kisitlamalari-kaldirin",
+      "publishedAt": "2026-11-16T10:31:42.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/law/2026/nov/16/barristers-barred-practice-rape-myths-russell-brand-trial",
+      "headline": "Adalet Bakanından Tecavüz Mitleri Uyarısı: Avukatlar Meslekten Men Edilebilir",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1767972463877-b64ba4283cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnQlMjBnYXZlbHxlbnwxfDB8fHwxNzk0ODI1MjgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sasun Bughdaryan",
+        "photographerUrl": "https://unsplash.com/@sasun1990",
+        "unsplashUrl": "https://unsplash.com/photos/wooden-gavel-resting-on-a-dark-surface-next-to-book-FaTLrG5-ViE"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Adalet Bakanı Alex Norris, Russell Brand'in davasının ardından avukatların mahkemede tecavüz mitlerini sürdürmesi halinde meslekten men edilebileceğini belirtti. Norris, Bar Standards Board'a mektup yazarak bu taktiklerin kabul edilemez olduğunu vurguladı ve kurallara uymayanların disiplin cezasıyla karşılaşabileceği uyarısında bulundu.",
+      "highlights": [
+        "Adalet Bakanı Alex Norris avukatları uyardı",
+        "Bar Standards Board'a mektup yazıldı",
+        "Kurallara uymayanlar disiplin cezası alabilir"
+      ],
+      "externalUrl": "https://www.theguardian.com/law/2026/nov/16/barristers-barred-practice-rape-myths-russell-brand-trial",
+      "publishedAt": "2026-11-16T10:16:54.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
       "headline": "Albanese, Trump Görüşmesinde Zor Bir Denge Gözetiyor",
@@ -6831,52 +6877,6 @@
       "publishedAt": "2026-11-08T19:58:02.000Z",
       "category": "World",
       "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-dort-patlama-sesi-duyuldu/4116313",
-      "headline": "İran'ın Keşm Adası'nda dört patlama sesi duyuldu",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1660279582815-8d9a2b0d7e27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aXNsYW5kJTIwY29hc3R8ZW58MXwwfHx8MTc5NDE2Nzk3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mitch Hodiono",
-        "photographerUrl": "https://unsplash.com/@m_photo",
-        "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-surrounded-by-mountains-WdlW6RA0XSI"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Uluslararası basına ve bölgeden aktarılan bilgilere göre, İran'ın güney kesiminde yer alan ve stratejik öneme sahip Hürmüz Boğazı'na yakınlığıyla bilinen Keşm Adası bölgesinde dikkat çekici bir olay yaşandı. Yerel kaynakların ve İran basınının aktardığına göre, söz konusu adada ardı ardına dört patlama sesi duyulduğu rapor edildi. Bölge halkında tedirginliğe yol açan bu seslerin ardından olayla ilgili resmi makamlarca henüz net bir açıklama yapılmazken, patlamaların arkasındaki kaynağın veya sebebin ne olduğu da gizemini korumaya devam ediyor.\n\nStratejik konumu itibarıyla jeopolitik gelişmelerin odağında yer alan Hürmüz Boğazı bölgesinde meydana gelen bu tür olaylar, uluslararası kamuoyu tarafından yakından takip edilmektedir. Keşm Adası, Basra Körfezi'nin girişinde bulunması ve deniz ticareti ile enerji nakil hatları açısından kritik bir coğrafyada yer alması nedeniyle her türlü olağandışı gelişmenin anında dikkat çektiği bir bölgedir. Duyulan dört patlama sesinin ardından bölgede herhangi bir hasar veya can kaybı olup olmadığına dair henüz doğrulanmış bir bilgi paylaşılmadı.\n\nİran basınında yer alan ilk haberlerin ardından, patlama seslerinin mahiyetini anlamak üzere ilgili güvenlik ve yerel yönetim birimlerinin araştırma başlattığı tahmin ediliyor. Ancak şu ana kadar yetkili mercilerden seslerin kaynağına dair resmi bir teyit veya ayrıntılı bir izahat gelmiş değil. Gelişmelerin takip edildiği süreçte, patlamaların askeri bir tatbikattan, rutin güvenlik faaliyetlerinden ya da başka bir unsurdan kaynaklanıp kaynaklanmadığına dair spekülasyonlar yerel kaynaklar tarafından henüz netlik kazanmış değil.\n\nBölgesel güvenliğin ve tansiyonun yüksek olduğu Basra Körfezi hattında bu tarz seslerin duyulması, ister istemez gözlerin Hürmüz Boğazı çevresindeki hareketliliğe çevrilmesine neden olmaktadır. Keşm Adası'nda duyulan seslerin ardından bölgedeki hava ve deniz sahasında olağanüstü bir durumun yaşanıp yaşanmadığı da uluslararası gözlemciler tarafından inceleniyor. Haberin duyulmasının ardından dünya genelindeki haber ajansları da gelişmeyi son dakika koduyla abonelerine servis ederken, Tahran yönetiminden veya ilgili askeri yetkililerden konuya ilişkin yapılacak yeni açıklamalar bekleniyor.\n\nSonuç olarak, İran'ın güneyindeki Keşm Adası'nda işitilen dört patlama sesinin ne anlama geldiği ve hangi sebepten kaynaklandığı konusu, resmi açıklamalar yapılana kadar belirsizliğini sürdürmektedir. Bölgedeki mevcut durumun sükûnetini koruyup korumadığı ve yetkililerin konuya dair yapacağı olası bilgilendirmeler, önümüzdeki saatlerde yaşanacak gelişmelere bağlı olarak netlik kazanacaktır.",
-      "highlights": [
-        "İran'ın güneyindeki Keşm Adası'nda dört patlama sesi işitildi.",
-        "Seslerin nedeni henüz resmi makamlarca açıklanmadı ve bilinmiyor.",
-        "Hürmüz Boğazı'na yakın bölgede yaşanan olay yakından takip ediliyor."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasinda-dort-patlama-sesi-duyuldu/4116313",
-      "publishedAt": "2026-11-08T19:56:11.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/spor/besiktas-genclerbirligi-maci-canli-anlatim-bjk-genclerbirligi-super-lig-maci-kac-kac-mac-skoru-ve-3925734",
-      "headline": "Beşiktaş ile Gençlerbirliği Trendyol Süper Lig'de karşı karşıya geliyor",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTQxNjc5NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Abigail  Keenan",
-        "photographerUrl": "https://unsplash.com/@akeenster",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Trendyol Süper Lig'in heyecanla takip edilen 11. hafta mücadeleleri kapsamında futbolseverlerin odak noktası Beşiktaş ile Gençlerbirliği arasındaki kritik karşılaşma oldu. Sezonun bu bölümünde sahasında oynadığı tüm maçlardan galibiyetle ayrılmayı başaran siyah-beyazlı ekip, taraftarı önünde bir kez daha kazanarak çıkışını sürdürmeyi hedefliyor. Futbol gündeminin en önemli maddelerinden biri haline gelen bu müsabaka, aynı zamanda takımların ligdeki genel hedefleri açısından da büyük bir önem taşıyor.\n\nSiyah-beyazlı takım, daha önce Kasımpaşa mücadelesinde yaşanan puan kaybını bu karşılaşma vasıtasıyla telafi etmenin hesaplarını yapıyor. Teknik heyet ve oyuncular, kendi sahalarındaki galibiyet serisini koruyarak lig yarışında kayıp yaşamak istemezken, taraftarlar da bu önemli 90 dakikada takımlarına büyük bir destek veriyor. Ligin boyu uzadıkça her puanın ve her maçın değeri daha da artarken, Beşiktaş bu zorlu sınavı kayıpsız geçerek üst sıralardaki iddiasını perçinleme amacını taşıyor.\n\nKarşılaşma öncesinde futbolseverler ve spor kamuoyu maçın detaylarına odaklanmış durumda. Karşılaşmayı canlı anlatım formatıyla takip etmek isteyenler için mücadele HT SPOR ekranlarından naklen aktarılıyor. Yayıncı kuruluşun ve spor medyasının geniş yer ayırdığı bu heyecan dolu randevu, ligdeki rekabet ortamını ve form durumlarını gözler önüne seren önemli bir 90 dakikaya sahne oluyor.\n\nMaçın başlamasına kısa bir süre kala her iki takımın sahaya çıkacağı ilk 11 kadroları da netleşti ve spor severlerle paylaşıldı. Teknik direktörlerin sahaya sürdüğü bu ilk 11 tercihleri, maçın taktiksel hamlelerini ve saha içindeki mücadelenin seyrini belirleyecek en temel unsur olarak dikkat çekiyor. Siyah-beyazlıların iç sahadaki başarılı istatistiğini sürdürüp sürdüremeyeceği ve Gençlerbirliği'nin deplasmanda sergileyeceği performans, futbolseverlerin yakından takip ettiği detaylar arasında yer alıyor.\n\nTrendyol Süper Lig'in bu kritik haftasında oynanan mücadele, sezonun genel gidişatı açısından da kulüpler için ayrı bir önem arz ediyor. Futbol dünyasında büyük bir merakla beklenen bu karşılaşmanın ardından her iki takımın da ligdeki konumu ve puan tablosundaki yerleri yeniden şekillenecek. Taraftarların ve spor yazarlarının uzun süredir gündeminde yer alan Beşiktaş-Gençlerbirliği randevusu, sahadaki mücadelenin yanı sıra takımların sezon hedefleri doğrultusunda atacakları sonraki adımlar için de bir gösterge niteliği taşıyor.",
-      "highlights": [
-        "Beşiktaş, Trendyol Süper Lig'in 11. haftasında Gençlerbirliği'ni sahasında konuk ediyor.",
-        "Siyah-beyazlılar, Kasımpaşa maçındaki puan kaybını bu galibiyetle telafi etmeyi hedefliyor.",
-        "Karşılaşmanın canlı anlatımı ve ilk 11 detayları futbolseverlerle paylaşıldı."
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/besiktas-genclerbirligi-maci-canli-anlatim-bjk-genclerbirligi-super-lig-maci-kac-kac-mac-skoru-ve-3925734",
-      "publishedAt": "2026-11-08T19:48:56.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ]
 }
