@@ -11,6 +11,10 @@ import { jaccardSimilarity } from './similarity.mjs';
 const FEED_PATH = path.resolve('docs/haberler.json');
 const MAX_NEW_PER_RUN = 15;
 const MAX_TOTAL_ARTICLES = 600;
+// Keep a useful recent archive for browsing older stories, but never let a
+// stale RSS backlog (or a publisher's ancient archive item) masquerade as
+// current news in the app or on the website.
+const MAX_ARTICLE_AGE_MS = 7 * 24 * 60 * 60 * 1000;
 const MAX_REJECTED_IDS = 2_000;
 const MAX_SOURCE_SUMMARY_CHARS = 1600;
 // Headlines alone do not contain enough evidence for a reliable article.
@@ -19,6 +23,13 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
 const MAX_ALLOWED_SIMILARITY = 0.5;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
+
+function isWithinNewsWindow(article, now = Date.now()) {
+  const publishedAt = Date.parse(article.publishedAt ?? '');
+  return Number.isFinite(publishedAt)
+    && publishedAt >= now - MAX_ARTICLE_AGE_MS
+    && publishedAt <= now + MAX_FUTURE_SKEW_MS;
+}
 
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
@@ -133,17 +144,15 @@ async function main() {
   if (futureArticles.length > 0) {
     console.warn(`[guard] ${futureArticles.length} haberin yayın zamanı gelecekte; doğrulanana kadar akıştan çıkarıldı.`);
   }
-  const publishable = deduped.filter((article) => {
-    const publishedAt = Date.parse(article.publishedAt ?? '');
-    return !Number.isFinite(publishedAt) || publishedAt <= now + MAX_FUTURE_SKEW_MS;
-  });
+  const publishable = deduped.filter((article) => isWithinNewsWindow(article, now));
+  const expiredCount = deduped.length - publishable.length;
+  if (expiredCount > 0) {
+    console.log(`[guard] ${expiredCount} haber tarih bilgisi eksik, 7 günden eski veya gelecekte olduğu için akışa alınmadı.`);
+  }
   console.log(`[main] ${deduped.length} benzersiz ham haber bulundu.`);
 
   const previousFeed = await loadPreviousFeed();
-  const previous = previousFeed.articles.filter((article) => {
-    const publishedAt = Date.parse(article.publishedAt ?? '');
-    return !Number.isFinite(publishedAt) || publishedAt <= now + MAX_FUTURE_SKEW_MS;
-  });
+  const previous = previousFeed.articles.filter((article) => isWithinNewsWindow(article, now));
   const previousIds = new Set(previous.map((a) => a.id));
   const rejectedIds = new Set(previousFeed.rejectedIds);
 
@@ -187,6 +196,7 @@ async function main() {
   }
 
   const merged = [...rewritten, ...previous]
+    .filter((article) => isWithinNewsWindow(article, now))
     .filter((a, i, arr) => arr.findIndex((b) => b.id === a.id) === i)
     .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0))
     .slice(0, MAX_TOTAL_ARTICLES);
