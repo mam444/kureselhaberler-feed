@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-16T18:34:27.349Z",
+  "generatedAt": "2026-11-16T18:44:32.140Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-yatay-seyirle-tamamladi-3494061",
+      "headline": "SON DAKİKA HABERİ: Borsa günü yatay seyirle tamamladı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "şimdi",
+      "body": "Son dakika haberine göre; Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.841,81 puandan tamamladı.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-yatay-seyirle-tamamladi-3494061",
+      "publishedAt": "2026-11-16T18:48:38.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/cop31-baskani-bakan-kurum-adil-gecisin-tek-bir-recetesi-olamaz-7702020",
+      "headline": "COP31 Başkanı Bakan Kurum: Adil geçişin tek bir reçetesi olamaz",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Adil Geçişe İlişkin Dördüncü Yıllık Üst Düzey Bakanlar Yuvarlak Masa Toplantısı\"nda yaptığı konuşmada, iklim dönüşümünde çalışanların mesleklerinin geleceğini, ailelerin enerji faturalarını, küçük işletmelerin yatırım maliyetlerini, gençlerin ise yeni ekonomideki yerlerini düşündüğünü belirtti. Adil geçişin, tüm bu sorulara güven veren…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/cop31-baskani-bakan-kurum-adil-gecisin-tek-bir-recetesi-olamaz-7702020",
+      "publishedAt": "2026-11-16T18:41:28.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/son-dakika-cindeki-kritik-zirve-oncesi-trumptan-yeni-aciklamalar-kim-jong-un-ile-de-gorusebilirim-3494051",
       "headline": "SON DAKİKA... Çin'deki kritik zirve öncesi Trump'tan yeni açıklamalar: \"Kim Jong Un ile de görüşebilirim\"",
