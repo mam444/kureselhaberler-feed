@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:04:06.295Z",
+  "generatedAt": "2026-11-16T10:15:34.753Z",
   "articles": [
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
@@ -23,6 +23,29 @@
       "publishedAt": "2026-11-16T09:40:29.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786",
+      "headline": "Meteoroloji ve AKOM'dan sağanak ve fırtına uyarısı",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aGVhdnklMjByYWlufGVufDF8MHx8fDE3OTQ4MjQxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Osman Rana",
+        "photographerUrl": "https://unsplash.com/@osmanrana",
+        "unsplashUrl": "https://unsplash.com/photos/person-walking-on-street-and-holding-umbrella-while-raining-with-vehicle-nearby-GXEZuWo5m4I"
+      },
+      "timeAgo": "36 dk önce",
+      "body": "Meteoroloji ve AKOM uyarılarının ardından Türkiye genelinde sağanak alarmı verildi. Salı gününden hafta sonuna kadar sürecek yağışlar Marmara, Ege, Akdeniz ve İç Anadolu'yu etkileyecek. İstanbul'da şiddetli Lodos fırtınasıyla sıcaklığın 22 dereceye çıkacağı tahmin ediliyor.",
+      "highlights": [
+        "Türkiye genelinde sağanak alarmı verildi",
+        "Yağışlar salı gününden hafta sonuna kadar sürecek",
+        "İstanbul'da şiddetli Lodos fırtınası ve 22 derece sıcaklık bekleniyor"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786",
+      "publishedAt": "2026-11-16T09:39:22.000Z",
+      "category": "Gündem",
+      "lang": "tr"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
@@ -6852,29 +6875,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/spor/besiktas-genclerbirligi-maci-canli-anlatim-bjk-genclerbirligi-super-lig-maci-kac-kac-mac-skoru-ve-3925734",
       "publishedAt": "2026-11-08T19:48:56.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/icisleri-bakani-ciftci-corum-belediye-baskani-asginin-oglunun-nikah-sahidi-oldu-4870821",
-      "headline": "İçişleri Bakanı Çiftçi, Çorum Belediye Başkanı'nın oğlunun nikah şahitliğini yaptı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1469371670807-013ccf25f16a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8d2VkZGluZyUyMGNlcmVtb255fGVufDF8MHx8fDE3OTQxNjc5ODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Shardayyy Photography",
-        "photographerUrl": "https://unsplash.com/@shardayyy",
-        "unsplashUrl": "https://unsplash.com/photos/selective-focus-photography-white-and-pink-isle-flower-arrangement-fJzmPe-a0eU"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Toplumsal ve kamusal yaşamda sıkça karşılaşılan, protokolün ve yerel yöneticilerin bir araya geldiği özel buluşmalardan biri Çorum'da gerçekleştirildi. Ülke genelindeki yoğun mesai temposunun yanı sıra zaman zaman bu tür sosyal ve ailevi etkinliklere de iştirak eden siyasiler, bu kez genç bir çiftin hayatını birleştirdiği düğün töreninde buluştu. Çorum Belediye Başkanı Halil İbrahim Aşgın'ın oğlu Muhammed Emin Aşgın ile Rümeysa Kocur'un dünyaevine girdiği bu özel merasim, kentin tanınan simalarını ve devlet protokolünün önemli isimlerini bir araya getirdi. Nikah merasimi için kentin bilinen etkinlik mekanlarından biri olan Çorum Altınkaya Arena seçildi ve hazırlıklar bu doğrultuda tamamlandı.\n\nGerçekleştirilen düğün merasiminin en dikkat çekici yönlerinden biri, nikahı bizzat damadın babası ve aynı zamanda kentin yerel yöneticisi olan Çorum Belediye Başkanı Halil İbrahim Aşgın'ın kıymış olmasıydı. Aile bağlarının ve yerel yönetim sorumluluklarının iç içe geçtiği bu anlarda, katılımcılar davetlilere hitaben duygularını paylaştı. Düğün törenine sadece yerel düzeyde değil, aynı zamanda merkezi hükümet ve parti teşkilatlarından da üst düzey katılım sağlandı. İçişleri Bakanı Mustafa Çiftçi de töne iştirak eden isimler arasında yer aldı ve genç çiftin nikah şahitliğini üstlendi.\n\nBakan Mustafa Çiftçi'nin yanı sıra törende çok sayıda devlet yetkilisi ve siyasi isim şahit masasında yerini aldı. Cumhurbaşkanı Başdanışmanı Turgut Aslan, TBMM Sanayi, Ticaret, Enerji, Tabii Kaynaklar, Bilgi ve Teknoloji Komisyonu Başkanı Mustafa Varank, AK Parti Genel Başkan Yardımcısı Hülya Terzioğlu ile birlikte bölge milletvekilleri de nikah şahidi olarak hazır bulundu. Protokolün geniş katılım gösterdiği bu tören, siyaset ve bürokrasi dünyasının temsilcilerini mutlu bir günde buluşturmuş oldu. Şahitlerin ve davetlilerin katılımıyla gerçekleşen imza merasiminin ardından tören geleneksel akışıyla devam etti.\n\nNikah akdinin tamamlanmasının ve şahitlerin imzalarını atmasının ardından, merasimin en önemli protokol anlarından birine geçildi. İçişleri Bakanı Mustafa Çiftçi, nikah masasında genç çifte ömür boyu mutluluklar temenni ederken, aynı zamanda evlilik müessesesine dair nasihatlerde bulundu. Aile birliğinin önemine vurgu yapan bu konuşmanın akabinde evlilik cüzdanının teslim töreni gerçekleştirildi. Bakan Çiftçi, bu tür merasimlerde sıkça rastlanan protokol usullerinden farklı olarak, evlilik cüzdanını gelin ve damada aynı anda ortak bir şekilde takdim etti.\n\nKentte geniş yankı uyandıran ve çok sayıda davetlinin katıldığı bu nikah merasimi, yerel ve ulusal düzeydeki isimleri bir araya getiren sosyal bir buluşma olarak kayıtlara geçti. Çorum Altınkaya Arena'da düzenlenen organizasyon, tebriklerin kabulü ve hatıra fotoğraflarının çekilmesiyle ilerleyen saatlerde sona erdi. Başkan Aşgın'ın ev sahipliğinde gerçekleşen düğün, ailelerin ve konukların memnuniyetiyle tamamlanırken, siyaset dünyası da bir süreliğine günlük işlerin dışındaki bu mutlu vesileyle bir araya gelme fırsatı bulmuş oldu.",
-      "highlights": [
-        "İçişleri Bakanı Mustafa Çiftçi, Çorum'da bir nikah törenine katıldı.",
-        "Çiftin nikahını damadın babası ve Çorum Belediye Başkanı Halil İbrahim Aşgın kıydı.",
-        "Bakan Çiftçi evlilik cüzdanını gelin ve damada aynı anda teslim etti."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/icisleri-bakani-ciftci-corum-belediye-baskani-asginin-oglunun-nikah-sahidi-oldu-4870821",
-      "publishedAt": "2026-11-08T19:44:11.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
