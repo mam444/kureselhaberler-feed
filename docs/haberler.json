@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T12:29:28.555Z",
+  "generatedAt": "2026-11-16T12:35:15.643Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/ekonomi/bakan-goktas-singapur-aile-gelisim-bakani-zulkifli-ile-2-yillik-faaliyet-plani-imzaladi-7701831",
+      "headline": "Bakan Göktaş, Singapur Aile Gelişim Bakanı Zulkifli ile 2 yıllık faaliyet planı imzaladı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1624003974266-7cdbf877ec00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8U2luZ2Fwb3JlJTIwbWVldGluZ3xlbnwxfDB8fHwxNzk0ODMyNDg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Arul Kumaran",
+        "photographerUrl": "https://unsplash.com/@arul00",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-QMWOP3xl7ho"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, Singapur ziyareti kapsamında Toplumsal ve Aile Gelişim Bakanı Zulkifli ile görüştü. Görüşmenin ardından 2027-2029 yıllarını kapsayan işbirliği faaliyet planı imzalandı.",
+      "highlights": [
+        "Bakan Göktaş Singapur'da Bakan Zulkifli ile görüştü",
+        "2027-2029 yıllarını kapsayan faaliyet planı imzalandı",
+        "Aile yapısının güçlendirilmesi ve deneyim paylaşımı hedefleniyor"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/ekonomi/bakan-goktas-singapur-aile-gelisim-bakani-zulkifli-ile-2-yillik-faaliyet-plani-imzaladi-7701831",
+      "publishedAt": "2026-11-16T12:28:07.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/babanin-uyusturucu-feryadi-yurekleri-dagladi-insan-evladinin-cezaevinde-kalmasina-sevinebilir-mi-4873080",
       "headline": "Bursa'da uyuşturucu bağımlılığına karşı bir araya gelen aileler çaresizliklerini dile getirdi",
@@ -21,6 +44,28 @@
       ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/babanin-uyusturucu-feryadi-yurekleri-dagladi-insan-evladinin-cezaevinde-kalmasina-sevinebilir-mi-4873080",
       "publishedAt": "2026-11-16T12:26:46.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/spor/son-dakika-galatasaray-samsunspor-maci-rams-park-in-bozuk-zemini-yuzunden-basaksehir-de-oynanacak-3927709",
+      "headline": "Galatasaray-Samsunspor Maçı Başakşehir'de Oynanacak",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c3RhZGl1bSUyMHNvY2NlcnxlbnwxfDB8fHwxNzk0ODMyNDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mario Klassen",
+        "photographerUrl": "https://unsplash.com/@marioklassen",
+        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Galatasaray ile Samsunspor arasında oynanacak müsabaka, RAMS Park Stadyumu'nun zemininin elverişsiz olması nedeniyle Başakşehir Fatih Terim Stadyumu'na alındı. Karşılaşma bu statta oynanacak.",
+      "highlights": [
+        "Galatasaray-Samsunspor maçı Başakşehir Fatih Terim Stadyumu'nda oynanacak",
+        "RAMS Park'ın zemini elverişsiz olduğu için yer değiştirildi"
+      ],
+      "externalUrl": "https://www.haberturk.com/spor/son-dakika-galatasaray-samsunspor-maci-rams-park-in-bozuk-zemini-yuzunden-basaksehir-de-oynanacak-3927709",
+      "publishedAt": "2026-11-16T12:25:52.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -116,6 +161,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.aljazeera.com/sports/2026/11/16/which-cricket-teams-can-qualify-for-the-la-2028-olympics-and-how?traffic_source=rss",
+      "headline": "Kriket 2028 Los Angeles Olimpiyatları'nda Nasıl Yer Alacak?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1659563194316-d44ee1cf23f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y3JpY2tldCUyMG9seW1waWNzfGVufDF8MHx8fDE3OTQ4MzI0ODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Josh Withers",
+        "photographerUrl": "https://unsplash.com/@joshwithers",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-with-tall-buildings-rxbc1I9nzmg"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Kriketin 2028 Olimpiyatları'na dönüşüyle birlikte altı erkek ve altı kadın takım T20 formatında madalya için mücadele edecek. Hangi takımların nasıl katılacağı konusundaki detaylar henüz açıklanmadı.",
+      "highlights": [
+        "Kriket 2028 Olimpiyatları'na geri dönüyor",
+        "Mücadeleler T20 formatında yapılacak",
+        "Altı erkek ve altı kadın takım yarışacak"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/which-cricket-teams-can-qualify-for-the-la-2028-olympics-and-how?traffic_source=rss",
+      "publishedAt": "2026-11-16T12:15:59.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.yenisafak.com/gundem/ilica-selalesinde-yagislarla-guzel-goruntuler-olustu-4873075",
       "headline": "Kastamonu'da Ilıca Şelalesi'nin su seviyesi yükseldi",
       "source": "Yeni Şafak",
@@ -205,6 +273,29 @@
       "publishedAt": "2026-11-16T12:02:03.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
+      "headline": "Louisiana'da Sunak Hizmetlisine Cinsel İstismardan Hüküm Giyen Katolik Rahip Tahliye Edildi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1543536833-6d65fcc64f66?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cHJpc29uJTIwcmVsZWFzZXxlbnwxfDB8fHwxNzk0ODMyNDkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Matthew Ansley",
+        "photographerUrl": "https://unsplash.com/@bymatthewansley",
+        "unsplashUrl": "https://unsplash.com/photos/prison-corridor-with-metal-doors-ihl2Q5F-VYA"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "Güneybatı Louisiana'da bir sunak hizmetlisine cinsel istismarda bulunmaktan suçunu kabul eden Katolik rahip Michael Guidry, yedi yıllık cezasını tamamlayarak hafta sonu eyalet hapishanesinden tahliye edildi. Kurban Oliver Peyton'ın babası ise istismarın ortaya çıkmasının ardından Anglikan kilisesine katıldığı için aforoz edilmiş durumda kaldı.",
+      "highlights": [
+        "Michael Guidry yedi yıllık cezasını tamamlayarak hapishaneden çıktı",
+        "Guidry güneybatı Louisiana'da cinsel istismardan suçunu kabul etmişti",
+        "Kurbanın babası Anglikan kilisesine katıldığı için aforoz edilmişti"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/16/louisiana-catholic-priest-prison-sexual-abuse",
+      "publishedAt": "2026-11-16T12:00:59.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
@@ -339,6 +430,28 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
       "publishedAt": "2026-11-16T11:40:25.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "headline": "Klopp, Infantino'nun Blatter'den daha kötü olduğunu söyledi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1770631069583-3e18028e01bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SnVyZ2VuJTIwS2xvcHB8ZW58MXwwfHx8MTc5NDgzMjQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Balázs Gábor",
+        "photographerUrl": "https://unsplash.com/@balazsgabor17",
+        "unsplashUrl": "https://unsplash.com/photos/large-mural-of-a-man-on-a-building-wall-lBqpOnUVhas"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Almanya teknik direktörü Jürgen Klopp, Sepp Blatter'den sonra işlerin daha kötüye gidemeyeceğini düşündüğünü ancak birinin bunu başardığını belirterek FIFA Başkanı Gianni Infantino'nun değiştirilmesi çağrısında bulundu.",
+      "highlights": [
+        "Klopp, Infantino'nun değiştirilmesini istedi",
+        "Blatter'den sonra durumun daha kötü olamayacağını düşündüğünü belirtti"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/sport/football/articles/cjr4gr2k41dxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T11:27:08.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -2777,6 +2890,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
       "publishedAt": "2026-11-15T06:22:32.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+      "headline": "Hamas, kıdemli komutanının İsrail hava saldırısında öldürüldüğünü açıkladı",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1551645644-2104d49f7bc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SGFtYXMlMjBjb21tYW5kZXIlMjBhaXJzdHJpa2V8ZW58MXwwfHx8MTc5NDgzMjUxNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vishu Joo",
+        "photographerUrl": "https://unsplash.com/@vishujoo",
+        "unsplashUrl": "https://unsplash.com/photos/gray-and-brown-plane-flying-on-sky-xjR_nXvG6TI"
+      },
+      "timeAgo": "1 gün önce",
+      "body": "Filistinli militan grup Hamas, 7 Ekim 2023 saldırısının planlanması ve denetlenmesine yardım eden kıdemli bir komutanının İsrail hava saldırısında öldürüldüğünü bildirdi.",
+      "highlights": [
+        "Hamas kıdemli bir komutanının öldürüldüğünü açıkladı",
+        "Komutan 7 Ekim 2023 saldırısının planlanmasında görev almıştı",
+        "Ölümün İsrail hava saldırısı sonucu gerçekleştiği belirtildi"
+      ],
+      "externalUrl": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
+      "publishedAt": "2026-11-15T05:16:00.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -7204,6 +7340,15 @@
     "https://www.hurriyet.com.tr/gundem/genclik-bulusmasi-cumhurbaskani-erdogandan-onemli-aciklamalar-43379708",
     "https://www.sabah.com.tr/gundem/2026/11/16/son-dakika-baskan-erdogandan-onemli-aciklamalar",
     "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
-    "https://www.dw.com/tr/amazon-40-uydu-kaybetti-starlink-e-karşı-yarışı-sekteye-uğradı/a-79957086?maca=tur-rss-tur-all-1495-xml-mrss"
+    "https://www.dw.com/tr/amazon-40-uydu-kaybetti-starlink-e-karşı-yarışı-sekteye-uğradı/a-79957086?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.aa.com.tr/tr/dunya/urdunden-sonra-irak-da-telegrami-yasakladi/4126665",
+    "https://www.yenisafak.com/gundem/yunusemre-belediyesi-kutuphaneleri-ara-tatilde-acik-manisa-haberleri-4873083",
+    "https://www.sabah.com.tr/spor/futbol/2026/11/16/galatasaray-samsunspor-macinin-stadi-degisti",
+    "https://www.ntv.com.tr/turkiye/video-kadem-gazzedeki-cevresel-yikimin-etkisini-cop31e-tasidi-filistinde-ekosistem-de-yok-oluyor-1751145",
+    "https://www.trthaber.com/haber/ekonomi/rekabet-kurulundan-siemense-sorusturma-963428.html",
+    "https://www.bbc.com/turkce/articles/ckr5g6207ezro?at_medium=RSS&at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/omer-sarigul-ek-ifade-vermek-icin-adliyeye-geldi-43380149",
+    "https://www.dw.com/tr/i̇ran-hürmüz-boğazı-nda-iki-günde-6-tanker-yandı/a-79955026?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.cnn.com/travel/article/china-beautiful-great-wall-sections-cmd/index.html"
   ]
 }
