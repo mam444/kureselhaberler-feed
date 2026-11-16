@@ -7,6 +7,8 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3678638188245344" crossorigin="anonymous"></script>
 <title>Küresel Haberler</title>
 <meta name="description" content="Yapay zeka ile özgün cümlelerle yeniden yazılmış, bağımsız stok fotoğraflarla görselleştirilmiş güncel haberler.">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://mam444.github.io/">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="Küresel Haberler">
 <meta property="og:title" content="Küresel Haberler">
@@ -851,14 +853,16 @@
 <footer>
   <div class="inner">
     <img src="assets/brand/logo-horizontal-white@2x.png" alt="Küresel Haberler" style="height:34px;width:auto;display:block;margin-bottom:16px">
-    <strong>Küresel Haberler</strong> bağımsız bir haber uygulamasıdır. Buradaki haber metinleri, çeşitli haber
-    kaynaklarının kamuya açık başlık/özetleri temel alınarak yapay zeka ile özgün cümlelerle yeniden yazılmıştır;
-    ilgili yayıncının kendi metninin birebir kopyası değildir. Kapak görselleri, konuya uygun bağımsız stok
-    fotoğraflardır (<a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a>) — yayıncıya değil,
-    ilgili fotoğrafçıya aittir. Bu site, herhangi bir haber kuruluşuyla resmi bağlantılı değildir.
+    <strong>Küresel Haberler</strong> bağımsız bir haber platformudur. Akış, yayıncıların kamuya açık RSS
+    başlık ve özetlerinden otomatik hazırlanır; her içerikte asıl kaynağa bağlantı verilir. Otomatik üretim
+    nedeniyle hata veya eksiklik olabilir. Kapak görselleri bağımsız stok fotoğraflardır
+    (<a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a>). Bu site herhangi bir haber
+    kuruluşuyla resmi bağlantılı değildir. Düzeltme ve iletişim: <a href="mailto:akh104853@gmail.com">akh104853@gmail.com</a>.
     <div class="foot-links">
-      <a id="aboutLink">Hakkımızda</a>
+      <a id="aboutLink" href="hakkimizda.html">Hakkımızda</a>
+      <a href="yayin-ilkeleri.html">Yayın İlkeleri</a>
       <a href="https://mam444.github.io/kureselhaberler-legal/privacy-policy.html" target="_blank" rel="noopener">Gizlilik Politikası</a>
+      <a href="mailto:akh104853@gmail.com">İletişim</a>
       <a href="#kategori/G%C3%BCndem">Gündem</a>
       <a href="#kategori/Ekonomi">Ekonomi</a>
       <a href="#kategori/Spor">Spor</a>
@@ -1373,12 +1377,14 @@ function renderAboutPage() {
     <img src="assets/brand/logo-vertical-white@2x.png" alt="Küresel Haberler" style="height:150px;width:auto;display:block;margin:0 auto 24px;background:var(--navy);border-radius:16px;padding:20px">
     <div class="page-heading"><span class="msr" style="color:var(--gold)">info</span>Hakkımızda</div>
     <div class="article-body" style="margin-top:18px">
-      <p><strong>${SITE_NAME}</strong>, çeşitli haber kaynaklarının kamuya açık başlık ve özetlerini temel alarak,
-      bu içeriği yapay zeka (Groq) ile tamamen özgün cümlelerle yeniden yazan bağımsız bir haber sitesidir.</p>
-      <p>Kapak görselleri, ilgili haberin konusuyla eşleşen bağımsız stok fotoğraflardır (Unsplash) — hiçbir
-      yayıncının kendi fotoğrafı kullanılmaz. Yayınlanan metinler ${SITE_NAME} editörlüğüne aittir ve herhangi
-      bir haber kuruluşunun resmi ifadesi değildir.</p>
-      <p>Site tamamen otomatik bir hat tarafından üretilir ve her 10 dakikada bir güncellenir.</p>
+      <p><strong>${SITE_NAME}</strong>, farklı yayıncıların kamuya açık RSS başlık ve özetlerini derleyen,
+      içerikleri yapay zeka yardımıyla yeniden yazan bağımsız bir haber platformudur. Haber kartlarında ve
+      ayrıntı sayfalarında özgün yayıncıya giden kaynak bağlantısı bulunur.</p>
+      <p>Kapak görselleri Unsplash üzerinden seçilen bağımsız stok fotoğraflardır; yayıncıların orijinal haber
+      fotoğrafları kopyalanmaz. ${SITE_NAME} herhangi bir haber kuruluşuyla resmi bağlantılı değildir.</p>
+      <p>Akış otomatik bir süreçle güncellenir ve içerikler yayımlanmadan önce insan editör tarafından tek tek
+      doğrulanmaz. Bu nedenle metinlerde hata veya eksiklik olabilir. Düzeltme ve geri bildirim için
+      <a href="mailto:akh104853@gmail.com">akh104853@gmail.com</a> adresine yazabilirsiniz.</p>
     </div>
   </div>`;
 }
@@ -1432,7 +1438,7 @@ function publisherCardHtml() {
     <img src="assets/brand/icon-transparent@2x.png" alt="${SITE_NAME}">
     <div class="pc-info">
       <div class="pc-name">${SITE_NAME}</div>
-      <div class="pc-desc">Yapay zekayla özgün cümlelerle yeniden yazılmış, editöryel kontrolden geçen bağımsız haber içeriği.</div>
+      <div class="pc-desc">Kamuya açık kaynak özetlerinden yapay zeka yardımıyla hazırlanan bağımsız haber akışı.</div>
     </div>
     <div class="pc-link" id="publisherAboutLink">Hakkımızda</div>
   </div>`;
