@@ -1,6 +1,74 @@
 {
-  "generatedAt": "2026-11-16T15:36:14.166Z",
+  "generatedAt": "2026-11-16T15:49:39.066Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/gundem/son-dakika-bakirkoy-belediyesi-sorusturmasinda-iddianame-hazirlandi-3927765",
+      "headline": "Bakırköy Belediyesi soruşturmasında iddianame hazırlandı",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1496361945947-d0250d31222a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQ4NDM5MzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Quilia",
+        "photographerUrl": "https://unsplash.com/@heyquilia",
+        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-SlyYm_CJW8E"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Bakırköy Belediyesi'ne yönelik ihale usulsüzlükleri ve kamu zararı iddialarıyla yürütülen soruşturma tamamlandı. Dokuz şüpheli hakkında hazırlanan iddianame Bakırköy 24. Ağır Ceza Mahkemesi'ne gönderildi.",
+      "highlights": [
+        "Bakırköy Belediyesi soruşturması tamamlandı",
+        "Dokuz şüpheli hakkında iddianame hazırlandı",
+        "İddianame Bakırköy 24. Ağır Ceza Mahkemesi'ne gönderildi"
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-bakirkoy-belediyesi-sorusturmasinda-iddianame-hazirlandi-3927765",
+      "publishedAt": "2026-11-16T15:38:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/sahte-belgelerle-miras-avina-cikan-ceteye-operasyonda-5-tutuklama-7701970",
+      "headline": "Sahte belgelerle miras avına çıkan çeteye operasyonda 5 tutuklama",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1600081232007-19c495bef255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTQ4NDQwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ethan Wilkinson",
+        "photographerUrl": "https://unsplash.com/@ethanrwilkinson",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-green-adidas-jersey-shirt-and-black-hat-UJdx3XM3xao"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "İstanbul merkezli üç ilde düzenlenen operasyonda, sahte belgelerle yurt dışında yaşayan ve hayatını kaybeden kişilerin miraslarını hedef alan şüphelilerden 5'i tutuklandı. Soruşturma kapsamında çetenin banka hesaplarındaki paraları çekmek için 'joker' kullandığı belirlendi.",
+      "highlights": [
+        "İstanbul, Bilecik ve Kırklareli'de eş zamanlı operasyon düzenlendi",
+        "Şüphelilerden 5 kişi tutuklandı, 5 kişi adli kontrolle serbest bırakıldı",
+        "Eski bir avukat da yakalandı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/sahte-belgelerle-miras-avina-cikan-ceteye-operasyonda-5-tutuklama-7701970",
+      "publishedAt": "2026-11-16T15:38:50.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
+      "headline": "Fransa futbolunun başkanı FIFA başkanlık seçiminde Infantino'ya karşı aday olacak",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c29jY2VyJTIwZWxlY3Rpb258ZW58MXwwfHx8MTc5NDg0NDAxMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emilio Garcia",
+        "photographerUrl": "https://unsplash.com/@piensaenpixel",
+        "unsplashUrl": "https://unsplash.com/photos/man-playing-soccer-game-on-field-AWdCgDDedH0"
+      },
+      "timeAgo": "22 dk önce",
+      "body": "Fransa Futbol Federasyonu başkanı, FIFA başkanlık seçimlerinde Gianni Infantino'ya karşı aday olacağını açıkladı.",
+      "highlights": [
+        "Fransa Futbol Federasyonu başkanı adaylığını açıkladı",
+        "Gianni Infantino'ya karşı yarışacak"
+      ],
+      "externalUrl": "https://news.sky.com/story/head-of-french-football-to-stand-against-infantino-in-fifa-presidential-election-13612894",
+      "publishedAt": "2026-11-16T15:25:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/samsunda-bolluk-tezgahlara-yansidi-palamut-fiyatlari-ne-kadar-oldu-palamut-baligi-kac-para-4873152",
       "headline": "Samsun'da Palamut Fiyatı Yarı Yarıya Düştü",
@@ -224,6 +292,52 @@
       ],
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
       "publishedAt": "2026-11-16T14:36:23.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+      "headline": "Belçikalı futbolcu Romelu Lukaku milli takımdan emekli oldu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1672675224932-00552a3ed77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Um9tZWx1JTIwTHVrYWt1fGVufDF8MHx8fDE3OTQ4NDQwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Micheal Ogungbe",
+        "photographerUrl": "https://unsplash.com/@micheal632",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-red-shirt-holding-two-fingers-up-JdyLvgFXo9I"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Belçika'nın tüm zamanların en golcü oyuncusu Romelu Lukaku, milli futbol kariyerini sonlandırdı. Lukaku, 135 maçta kaydettiği 94 golle ülke tarihinin zirvesinde yer alıyor ve erkekler arası tüm zamanlar gol krallığı listesinde beşinci sırada bulunuyor.",
+      "highlights": [
+        "Romelu Lukaku milli futbol kariyerini sonlandırdı",
+        "135 maçta 94 gol kaydetti",
+        "Tüm zamanların en golcü oyuncusu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
+      "publishedAt": "2026-11-16T14:35:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
+      "headline": "Al Gore: Gaz projeleri ve veri merkezlerini hızlandıran tasarıyı geçirmek 'ciddi hata' olur",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1502772066658-3006ff41449b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QWwlMjBHb3JlfGVufDF8MHx8fDE3OTQ4NDQwOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Priscilla Du Preez 🇨🇦",
+        "photographerUrl": "https://unsplash.com/@priscilladupreez",
+        "unsplashUrl": "https://unsplash.com/photos/selective-focus-photography-of-person-holding-newspaper-I79wWVFyhEQ"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Eski ABD Başkan Yardımcısı Al Gore, Cop31'de milletvekillerine ABD Senatosu'nda ilerletilen tartışmalı iki partili Baaja tasarısını yeniden düşünme çağrısında bulundu. Gore, enerji projeleri ile veri merkezlerini hızlandırmayı amaçlayan yasa tasarısının geçirilmesinin 'ciddi bir hata' olacağını belirtti.",
+      "highlights": [
+        "Al Gore, Baaja tasarısını geçirmenin ciddi bir hata olacağını söyledi",
+        "Tasarı, petrol, gaz boru hatları ve veri merkezleri gibi büyük altyapı projelerinin inşasını kolaylaştırmayı amaçlıyor",
+        "Mevzuat, çevresel korumaları ve yasal itirazları azaltmayı öngörüyor"
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
+      "publishedAt": "2026-11-16T14:34:17.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -8628,6 +8742,29 @@
       "publishedAt": "2023-04-13T21:13:04.000Z",
       "category": "World",
       "lang": "en"
+    },
+    {
+      "id": "https://www.cnn.com/style/article/michael-jordan-sneakers-1998-finals-sothebys-auction-record/index.html",
+      "headline": "Michael Jordan'ın 1998 NBA Finalleri'nde giydiği spor ayakkabılar rekor kırılarak 2,2 milyon dolara satıldı",
+      "source": "CNN International",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnn.com",
+      "imageUrl": "https://images.unsplash.com/photo-1495555961986-6d4c1ecb7be3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YmFza2V0YmFsbCUyMHNuZWFrZXJzfGVufDF8MHx8fDE3OTQ4NDQxNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hermes Rivera",
+        "photographerUrl": "https://unsplash.com/@hermez777",
+        "unsplashUrl": "https://unsplash.com/photos/sneakers-lot-OX_en7CXMj4"
+      },
+      "timeAgo": "1315 gün önce",
+      "body": "Michael Jordan'ın 1998 NBA Finalleri'nde giydiği Air Jordan 13 model ayakkabılar, Sotheby's'in New York'taki müzayedesinde 2,2 milyon dolara satılarak müzayedede satılan en pahalı spor ayakkabı rekorunu kırdı.",
+      "highlights": [
+        "Ayakkabılar 2,2 milyon dolara satıldı",
+        "Satış Sotheby's müzayede evinde gerçekleştirildi",
+        "Önceki rekor 1,47 milyon dolardı"
+      ],
+      "externalUrl": "https://www.cnn.com/style/article/michael-jordan-sneakers-1998-finals-sothebys-auction-record/index.html",
+      "publishedAt": "2023-04-12T03:17:57.000Z",
+      "category": "World",
+      "lang": "en"
     }
   ],
   "rejectedIds": [
@@ -8737,6 +8874,15 @@
     "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti-963443.html",
     "https://www.hurriyet.com.tr/gundem/cumhurbaskani-erdogan-vefatinin-5-yilinda-sezai-karakocu-andi-43380425",
     "https://www.dw.com/tr/çekya-da-babis-in-medya-planını-on-binler-protesto-etti/a-79952445?maca=tur-rss-tur-all-1495-xml-mrss",
-    "https://www.aa.com.tr/tr/ekonomi/cop31de-turkiyenin-deniz-ustu-ruzgar-enerjisinde-bolgesel-merkez-olma-potansiyeli-degerlendirildi/4126909"
+    "https://www.aa.com.tr/tr/ekonomi/cop31de-turkiyenin-deniz-ustu-ruzgar-enerjisinde-bolgesel-merkez-olma-potansiyeli-degerlendirildi/4126909",
+    "https://www.yenisafak.com/galeri/gundem/miras-vurgununda-joker-yontemi-olulerin-servetine-goz-diken-bes-zanli-tutuklandi-4873159",
+    "https://www.bbc.com/turkce/articles/cwlyljmgq2m6o?at_medium=RSS&at_campaign=rss",
+    "https://www.hurriyet.com.tr/gundem/bakirkoy-belediyesi-sorusturmasinda-dosyalar-ayrildi-2-isyerinden-para-talep-edildigi-iddiasiyla-kamu-davasi-acildi-43380482",
+    "https://www.aa.com.tr/tr/dunya/dsoden-cop31de-baslatilan-antalya-dayanikli-saglik-sistemleri-girisimi-icin-destek-cagrisi/4126889",
+    "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-israilin-yalan-makinesine-karsi-amansiz-bir-mucadele-verdik-963438.html",
+    "https://www.ntv.com.tr/turkiye/video-iklim-degisikligi-insan-sagligini-tehdit-ediyor-1751098",
+    "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+    "https://www.dw.com/tr/yeni-yalta-konferansı-mı-şi-putin-ve-trump-tan-ilk-3-lü-zirve/a-79952211?maca=tur-rss-tur-all-1495-xml-mrss",
+    "https://www.yenisafak.com/video/gundem/ayvalikta-yolcu-minibusu-denize-dustu-vatandaslar-cekiclerle-camlari-kirip-yolculara-ulasmaya-calisti-4873144"
   ]
 }
