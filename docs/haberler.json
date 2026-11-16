@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-16T10:34:45.182Z",
+  "generatedAt": "2026-11-16T10:54:43.510Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+      "headline": "Leeds'teki polis takip kazasında iki kişinin ölümünün ardından bir kişi suçlandı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1645403352658-b8e42d3ad4ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwY2FyJTIwY3Jhc2h8ZW58MXwwfHx8MTc5NDgyNjQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Krzysztof Hepner",
+        "photographerUrl": "https://unsplash.com/@nsx_2000",
+        "unsplashUrl": "https://unsplash.com/photos/a-police-car-parked-on-the-side-of-the-road-NH9koOtBqPY"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Leeds'te polisin takip ettiği bir BMW'nin diğer araçla çarpışması sonucu iki kişinin hayatını kaybettiği kazayla ilgili olarak 39 yaşındaki Leigh Ross, tehlikeli araç kullanarak ölüme sebebiyet vermek suçundan yargılanıyor. Pazar gününün ilk saatlerinde meydana gelen kazada York'tan 22 yaşındaki bir erkek ile 23 yaşındaki bir kadın yaşamını yitirdi.",
+      "highlights": [
+        "39 yaşındaki Leigh Ross tehlikeli araç kullanarak ölüme sebebiyet vermekten suçlandı",
+        "Polisin takip ettiği BMW'nin çarptığı araçtaki 22 yaşındaki erkek ve 23 yaşındaki kadın öldü",
+        "Olay Leeds'te pazar gününün ilk saatlerinde gerçekleşti"
+      ],
+      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/16/man-charged-after-two-people-die-in-leeds-police-pursuit-crash",
+      "publishedAt": "2026-11-16T10:43:11.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/16/zelenskiyden-abd-ve-muska-cagri-ukraynanin-starlink-erisimindeki-kisitlamalari-kaldirin",
       "headline": "Zelenskiy'den ABD ve Musk'a çağrı: Starlink kısıtlamalarını kaldırın",
@@ -22,6 +45,75 @@
       "externalUrl": "https://tr.euronews.com/2026/11/16/zelenskiyden-abd-ve-muska-cagri-ukraynanin-starlink-erisimindeki-kisitlamalari-kaldirin",
       "publishedAt": "2026-11-16T10:31:42.000Z",
       "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.dw.com/tr/made-in-europe-çıkarması-türk-otomotivciler-berlin-e-gidiyor/a-79957078?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "Türk otomotivciler Berlin'e gidiyor",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1653246019380-69b94e95373d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2FycyUyMGJlcmxpbnxlbnwxfDB8fHwxNzk0ODI2NDc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Louis Le Pessot",
+        "photographerUrl": "https://unsplash.com/@louisllp",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-mercedes-benz-benz-benz-benz-benz-benz-benz-benz-benz-benz-benz-benz-benz-jIoZHT8VuUE"
+      },
+      "timeAgo": "24 dk önce",
+      "body": "Türkiye ile AB arasındaki 50 milyar euroyu aşan otomotiv ticaretinde 'Made in EU' belirsizliği henüz aşırılamadı. Sektör temsilcileri, kapsam dışında kalmamak amacıyla Berlin'e çıkarma yapma kararı aldı.",
+      "highlights": [
+        "Türkiye-AB otomotiv ticareti 50 milyar euroyu aşıyor",
+        "Made in EU belirsizliği aşılamadı",
+        "Otomotiv şirketleri Berlin'e gidecek"
+      ],
+      "externalUrl": "https://www.dw.com/tr/made-in-europe-çıkarması-türk-otomotivciler-berlin-e-gidiyor/a-79957078?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-11-16T10:31:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+      "headline": "Lübnan'ın ikinci havalimanı ekonomik ve siyasi faydalar sağlayabilir",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kyle Glenn",
+        "photographerUrl": "https://unsplash.com/@kylejglenn",
+        "unsplashUrl": "https://unsplash.com/photos/desk-globe-on-table-nXt5HtLmlgE"
+      },
+      "timeAgo": "26 dk önce",
+      "body": "Lübnan'da ikinci bir havalimanının kurulması, savaşın yıkıma uğrattığı ülkeye hava seyahati için daha fazla seçenek sunuyor. Bu gelişme ülkeye ekonomik ve siyasi avantajlar sağlayabilir.",
+      "highlights": [
+        "Lübnan'da ikinci bir havalimanı kurulması planlanıyor",
+        "Savaş mağduru ülkeye hava seyahatinde seçenekler sunacak",
+        "Ekonomik ve siyasi faydalar sağlayabileceği belirtiliyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
+      "publishedAt": "2026-11-16T10:28:22.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/kelebek/magazin/artik-buyuk-sohretinden-kaciyor-okyanusun-ortasinda-ada-satin-aldi-burada-kimse-burnuma-mikrofon-dayamiyor-43380051",
+      "headline": "Ünlü oyuncu okyanus ortasında ada satın aldı",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aXNsYW5kJTIwb2NlYW58ZW58MXwwfHx8MTc5NDgyNjQ4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tom Winckels",
+        "photographerUrl": "https://unsplash.com/@twinckels",
+        "unsplashUrl": "https://unsplash.com/photos/green-trees-on-cliff-I7oLRdM9YIw"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "90'lı ve 2000'li yılların popüler sinema oyuncularından biri, kariyerindeki büyük şöhretten kaçarak okyanusun ortasında ada satın aldı. Ünlü oyuncu, burada kimsenin kendisine mikrofon uzatmadığını belirtti.",
+      "highlights": [
+        "90'lar ve 2000'lerin popüler sinema oyuncusuydu",
+        "Şöhretten kaçarak okyanusun ortasında ada satın aldı",
+        "Kimsenin kendisine mikrofon uzatmadığını ifade etti"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/kelebek/magazin/artik-buyuk-sohretinden-kaciyor-okyanusun-ortasinda-ada-satin-aldi-burada-kimse-burnuma-mikrofon-dayamiyor-43380051",
+      "publishedAt": "2026-11-16T10:20:21.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
@@ -6783,98 +6875,6 @@
       ],
       "externalUrl": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-08T22:05:12.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
-      "headline": "Nvidia, CEO'su Jensen Huang hakkında Çinli şüpheli şahıs iddialarıyla ilgili bağımsız soruşturma başlattı",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y29tcHV0ZXIlMjBjaGlwfGVufDF8MHx8fDE3OTQxODA5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Igor Omilaev",
-        "photographerUrl": "https://unsplash.com/@omilaev",
-        "unsplashUrl": "https://unsplash.com/photos/a-computer-chip-with-the-letter-a-on-top-of-it-eGGFZ5X2LnA"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Dünya çapında teknoloji ve yarı iletken endüstrisinin en önemli aktörleri arasında yer alan Amerika Birleşik Devletleri merkezli teknoloji devi Nvidia, şirket yönetimini derinden sarsabilecek kritik bir adım attı. Küresel çapta geniş yankı uyandıran gelişmelerin ardından kurum, CEO Jensen Huang'ın casusluk faaliyetleriyle suçlanan veya bu yönde şüpheler barındıran Çinli bir kişiyle yakın ilişkisi olduğuna yönelik iddiaları, mercek altına almak üzere bağımsız bir soruşturma süreci başlattığını duyurdu. İş dünyasında ve uluslararası teknoloji piyasalarında büyük bir şaşkınlıkla karşılanan bu karar, şirketin en üst düzey yöneticisini hedef alan hassas suçlamaların ardından geldi.\n\nSon dönemde basın organlarında ve çeşitli haber kaynaklarında geniş yer bulduğu üzere, Nvidia CEO'su Jensen Huang'ın geçmişte Çinli ve hakkında casusluk şüpheleri bulunan bir şahısla ilişki kurduğuna dair iddialar kamuoyuna yansımıştı. Bu iddiaların ardından şirket bünyesinde harekete geçildiği ve konunun tüm yönleriyle aydınlatılması adına resmi bir soruşturma mekanizmasının işletilmesine karar verildiği bildirildi. Kurumsal yönetim ilkeleri ve uluslararası güvenlik standartları çerçevesinde yürütülen bu sürecin, şirketin geleceği ve küresel çaptaki operasyonları açısından taşıdığı önem dikkat çekiyor.\n\nBilindiği üzere Nvidia, başta yapay zeka çipleri ve grafik işlemci birimleri olmak üzere geliştirdiği yüksek teknolojili ürünlerle dünya genelinde stratejik bir konuma sahip bulunuyor. Böylesine kritik bir sektörde faaliyet yürüten ve milyarlarca dolarlık piyasa değerini yöneten bir teknoloji devinin CEO'sunun isminin güvenlik tartışmaları ve casusluk şüpheleriyle anılması, kurumun itibarını ve paydaş ilişkilerini doğrudan etkileyebilecek potansiyel taşıyor. Uzmanlar, bu tür iddiaların teknoloji şirketleri ile ulus devletlerin ulusal güvenlik politikaları arasındaki hassas dengeleri bir kez daha gözler önüne serdiğine işaret ediyor.\n\nBaşlatılan bağımsız soruşturmanın kapsamına dair henüz detaylı bir açıklama yapılmazken, sürecin titizlikle yürütüldüğü ifade ediliyor. Nvidia yönetim kurulu ve ilgili denetim organlarının, iddiaların gerçeğe dayanıp dayanmadığını objektif bir şekilde ortaya koymak amacıyla hukuki ve idari incelemelere ağırlık verdiği kaydedildi. Jensen Huang hakkında ortaya atılan bu iddiaların şirket içi dengeleri ve gelecekteki stratejik kararları nasıl etkileyeceği ise teknoloji çevreleri tarafından yakından takip ediliyor.\n\nTeknoloji sektörünün önde gelen isimlerinden biri olan Jensen Huang'ın liderliğindeki Nvidia, bugüne kadar çip piyasasındaki yenilikçi ürünleriyle adından sıkça söz ettirmişti. Ancak son yaşanan bu hukuki ve kurumsal kriz, şirketin sadece ticari başarılarıyla değil, aynı zamanda üst düzey yöneticilerinin uluslararası ilişkileri ve güvenlik incelemeleriyle de gündeme gelmesine yol açtı. Bağımsız soruşturmanın sonuçlarının ne zaman kamuoyuyla paylaşılacağı belirsizliğini korurken, atılacak her adımın küresel teknoloji pazarında yankı uyandırması bekleniyor.",
-      "highlights": [
-        "Nvidia, CEO Jensen Huang hakkında bağımsız bir soruşturma başlattı.",
-        "Soruşturma, Huang'ın casuslukla suçlanan Çinli biriyle ilişkisi iddialarını inceliyor.",
-        "Gelişme, küresel teknoloji ve iş dünyasında geniş yankı uyandırdı."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/cm93z0e73435o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T21:53:45.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/erdogan-demiroren-golf-cup-2026da-anlamli-bulusma-43370900",
-      "headline": "Erdoğan Demirören Golf Cup 2026, anlamlı katılımla gerçekleştirildi",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1500932334442-8761ee4810a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Z29sZiUyMGNvdXJzZXxlbnwxfDB8fHwxNzk0MTgwOTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Allan Nygren",
-        "photographerUrl": "https://unsplash.com/@coloradohiker",
-        "unsplashUrl": "https://unsplash.com/photos/birds-eye-photo-of-grass-field--xvKQuNtOhI"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türk iş dünyasının önde gelen isimlerinden biri olan ve attığı adımlarla pek çok alanda kalıcı izler bırakan Demirören Holding’in Kurucusu ve aynı zamanda Kemer Country Club Başkanı merhum Erdoğan Demirören’in hatırasını yaşatmak üzere gelenekselleşen organizasyonlar arasında yer alan Erdoğan Demirören Golf Cup 2026, bu yıl da büyük bir ilgiyle tamamlandı. İş, cemiyet ve spor dünyasının tanınmış simalarını bir araya getiren bu özel turnuva, merhum iş insanının spora ve özellikle golf branşına olan tutkusunu gelecek nesillere aktarmak ve onun adını yaşatmak amacıyla hayata geçirildi.\n\nSon derece çekişmeli ve bir o kadar da anlamlı anlara sahne olan organizasyon, 6-8 Kasım tarihleri arasında sporseverlerin ve golf tutkunlarının buluşma noktası oldu. Belirtilen tarihler arasında Kemer Country Club’ın yeşil sahalarında, profesyonel bir atmosferde gerçekleşen etkinlik, sporun birleştirici gücünü bir kez daha gözler önüne serdi. Organizasyon boyunca katılımcılar hem sportif rekabetin heyecanını yaşadı hem de Erdoğan Demirören’in iş ve sosyal hayattaki mirasını yad etme fırsatı buldu.\n\nTurnuvanın bu yılki tablosu, katılımın genişliği ve çeşitliliği açısından da dikkat çekiciydi. Farklı kulüplerden ve yaş gruplarından gelen toplam 216 golfçü, üç gün boyunca süren müsabakalarda derece elde etmek ve bu anlamlı kupanın sahibi olmak için kıyasıya bir mücadele sergiledi. Rekabetin yanı sıra dostluk ve hatıra odaklı anların da ön planda olduğu etkinlik, katılımcılar arasında güçlü bağların kurulmasına ve merhum Erdoğan Demirören’in anısının en güzel şekilde onurlandırılmasına zemin hazırladı.\n\nErdoğan Demirören Golf Cup 2026, sadece sportif bir turnuva olmanın ötesinde, onun vizyonunu, değerlerini ve spora olan inancını paylaşan dostlarının ve sevenlerinin buluşma vesilesi olarak da kayıtlara geçti. Kemer Country Club tesislerinin ev sahipliğinde başarıyla tamamlanan bu büyük buluşma, önümüzdeki yıllarda da aynı coşku ve anlamla devam edeceğinin sinyallerini verdi. Üç gün süren heyecan dolu anlar, turnuva sonunda düzenlenen kapanış töreni ve kazanan sporculara ödüllerinin takdim edilmesiyle sona erdi.",
-      "highlights": [
-        "Erdoğan Demirören Golf Cup 2026, 6-8 Kasım tarihlerinde düzenlendi.",
-        "Turnuvaya toplamda 216 golfçü katılım gösterdi.",
-        "Organizasyon Kemer Country Club sahalarında gerçekleştirildi."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/erdogan-demiroren-golf-cup-2026da-anlamli-bulusma-43370900",
-      "publishedAt": "2026-11-08T21:53:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipligindeki-cop31-bugun-basliyor-962621.html",
-      "headline": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1561489404-42f13a2f09a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2xpbWF0ZSUyMHN1bW1pdCUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc5NDE5MzA2NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Evangeline Shaw",
-        "photographerUrl": "https://unsplash.com/@evangelineshaw",
-        "unsplashUrl": "https://unsplash.com/photos/woman-making-speech-in-front-of-people-sitting-on-individual-chairs-CiO3eBBxqJA"
-      },
-      "timeAgo": "6 sa önce",
-      "body": "Dünyanın en kritik çevre ve iklim platformları arasında yer alan ve küresel düzeyde büyük bir önem taşıyan Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı, kısa adıyla COP31, tüm dünya kamuoyunun yakından takip ettiği bir gündemle bugün kapılarını açıyor.\n\nİklim değişikliği ile mücadele politikalarının masaya yatırıldığı, küresel ısınma, karbon salımı ve çevresel sürdürülebilirlik gibi hayati başlıkların ele alındığı bu devasa organizasyon, ülkemiz açısından da tarihi bir ilke sahne oluyor. Türkiye, söz konusu uluslararası zirveye ilk kez ev sahipliği yapmanın gururunu ve sorumluluğunu üstleniyor.\n\nZirvenin adresi ise Akdeniz'in göz bebeği ve uluslararası etkinliklerin vazgeçilmez merkezlerinden biri olan Antalya oldu. Konferans için özel olarak hazırlanan Antalya COP31 Alanı, dünyanın dört bir yanından gelen resmi delegasyonları, devlet temsilcilerini, çevre örgütlerini ve uzmanları ağırlamak üzere kapılarını bugün itibarıyla açmış bulunuyor.\n\nKüresel iklim krizinin etkilerinin her geçen yıl daha da belirginleştiği bir dönemde gerçekleşen bu buluşma, ülkelerin atacağı somut adımlar ve iklim finansmanı gibi tartışmalı konular açısından kritik bir eşik olarak değerlendiriliyor. Konferans boyunca, tarafların iklim hedeflerini güncellemeleri, sera gazı emisyonlarının azaltılmasına yönelik taahhütlerde bulunmaları ve gelişmekte olan ülkelere sağlanacak desteklerin çerçevesini çizmeleri bekleniyor.\n\nAntalya COP31 Alanı'nda gün boyunca sürecek olan açılış oturumları ve üst düzey liderler zirvesi ile başlayacak olan maraton, önümüzdeki günlerde gerçekleştirilecek çeşitli panel, çalıştay ve ikili görüşmelerle devam edecek. Dünyanın geleceğini doğrudan ilgilendiren bu tarihi zirvede alınacak kararların, küresel iklim diplomasisinin yönünü belirlemesi öngörülüyor.",
-      "highlights": [
-        "Türkiye, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'na ilk kez ev sahipliği yapıyor.",
-        "COP31 zirvesi, Antalya COP31 Alanı'nda bugün resmi olarak kapılarını açtı.",
-        "Organizasyon, iklim değişikliğiyle mücadele ve küresel çevre politikaları açısından dünyanın en önemli platformları arasında yer alıyor."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipligindeki-cop31-bugun-basliyor-962621.html",
-      "publishedAt": "2026-11-08T21:04:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "headline": "Mısır'da trenlerin çarpışması sonucu yedi kişi hayatını kaybetti, yüzden fazla yaralı var",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1649003365433-63732a1ae456?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhaW4lMjB3cmVja3xlbnwxfDB8fHwxNzk0MTY3OTY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vasilis Caravitis",
-        "photographerUrl": "https://unsplash.com/@epicuros",
-        "unsplashUrl": "https://unsplash.com/photos/an-old-abandoned-train-car-with-graffiti-on-it-L9K50aPC2Nk"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Mısır'da yaşanan trajik bir tren kazası, ülke genelinde büyük bir üzüntüye yol açarken resmi makamların aktardığı ilk bilgilere göre olayda en az yedi vatandaş hayatını kaybetti ve yüze yakın kişi de yaralandı. Yaşanan bu büyük demiryolu kazasının, aynı istikamette ilerlemekte olan iki yolcu treninin Giza şehrinin hemen dışındaki bir bölgede çarpışması neticesinde meydana geldiği bildirildi. Çarpışmanın şiddetiyle birlikte trenlerin bazı vagonlarının raydan çıkarak devrildiği ve bölgede büyük bir enkaz oluşturduğu aktarıldı.\n\nKaza haberinin alınmasının hemen ardından olay mahalline çok sayıda acil durum ekibi, ambulans ve arama kurtarma personeli sevk edildi. Yetkililer, demiryolu hattındaki bu ciddi çarpışmanın ardından yaralıların hızla çevredeki hastanelere taşındığını ve sağlık kuruluşlarında tedavi altına alındığını kaydetti. Bölgeye intikal eden sağlık ekiplerinin yanı sıra güvenlik güçleri de çevrede geniş güvenlik önlemleri alarak arama kurtarma çalışmalarının aksamadan yürütülmesini sağladı.\n\nMısır demiryolu ağında geçmişte de benzer güvenlik sorunları ve kazalar yaşanmış olması, bu tür olayların ardından altyapı ve denetim önlemlerinin önemini bir kez daha gündeme getiriyor. Aynı yönde seyreden trenlerin hangi sebeple çarpıştığına ve bu feci kazanın arka planındaki teknik veya insan kaynaklı etkenlerin neler olduğuna dair resmi soruşturma süreçlerinin başlatıldığı ifade edildi. Ulaştırma alanındaki bu tür felaketler, hem yerel kamuoyunda hem de uluslararası medyada demiryolu güvenliği konusundaki tartışmaları yeniden alevlendiriyor.\n\nYetkililer, kazada hayatını kaybedenlerin ailelerine başsağlığı dileklerini iletirken, yaralıların durumunun yakından takip edildiğini ve tedavi süreçlerinin titizlikle sürdürüldüğünü belirtti. Giza dışındaki kaza alanında vagonların raydan çıkmasıyla kapanan hattın yeniden ulaşıma açılması ve enkazın kaldırılması için teknik ekiplerin çalışmalarına aralıksız devam ettiği kaydedildi. Kazaya ilişkin detaylı incelemelerin tamamlanmasının ardından resmi kurumlarca daha kapsamlı açıklamaların yapılması bekleniyor.",
-      "highlights": [
-        "Mısır'ın Giza kenti dışında iki trenin çarpışması sonucu yedi kişi yaşamını yitirdi.",
-        "Olayda yüze yakın yolcu yaralanırken, çarpışmanın etkisiyle bazı vagonlar raydan çıktı.",
-        "Kaza sonrasında bölgeye çok sayıda sağlık ve kurtarma ekibi sevk edilerek inceleme başlatıldı."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-08T19:58:02.000Z",
       "category": "World",
       "lang": "en"
     }
