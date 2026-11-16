@@ -1,6 +1,75 @@
 {
-  "generatedAt": "2026-11-16T02:25:54.426Z",
+  "generatedAt": "2026-11-16T07:44:38.342Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "headline": "Yemen güçlerinin geri çekilmesi Husiere Kızıldeniz'de kontrolü bıraktı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1780565856129-42a3cb0eb6f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8UmVkJTIwU2VhJTIwd2F0ZXJ3YXl8ZW58MXwwfHx8MTc5NDgxNTA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Julia Taubitz",
+        "photographerUrl": "https://unsplash.com/@justmejuliee",
+        "unsplashUrl": "https://unsplash.com/photos/a-red-buoy-in-dark-choppy-water-with-a-wave-y9d9KnioQBw"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Suudi Arabistan destekli güçler, geçici başkent Aden'i savunmak amacıyla Bab el-Mendeb Boğazı'ndaki birliklerini taşıdıklarını açıkladı. Bu geri çekilme, Husilerin kilit önem taşıyan Kızıldeniz su yolunda kontrolü ele geçirmesine yol açtı.",
+      "highlights": [
+        "Yemen güçleri Bab el-Mendeb Boğazı'ndan birliklerini çekiyor",
+        "Askeri hareketin amacı geçici başkent Aden'i savunmak",
+        "Husiler stratejik su yolunda kontrolü ele geçirdi"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-16T07:23:23.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
+      "headline": "Rus Andreeva, Ukraynalı Svitolina'yı yenerek WTA Finalleri'ni kazandı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1548920168-70d61248a912?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dGVubmlzJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDgxNTA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Prashant Gurung",
+        "photographerUrl": "https://unsplash.com/@prashant_gurung_",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-black-top-holding-tennis-racket-5lA7dgpdHIg"
+      },
+      "timeAgo": "32 dk önce",
+      "body": "Mirra Andreeva, Ukraynalı Svitolina'yı 7-5 ve 6-3'lük setlerle mağlup ederek finali kazandı. Bu galibiyetle Andreeva, ilk Grand Slam kazandığı yılını dünya iki numarası olarak tamamladı.",
+      "highlights": [
+        "Mirra Andreeva, Svitolina'yı 7-5 ve 6-3 yendi.",
+        "Andreeva maçı kazanarak WTA Finalleri'nin sahibi oldu.",
+        "Sporcu, yılı dünya iki numarası olarak tamamladı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
+      "publishedAt": "2026-11-16T07:13:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.hurriyet.com.tr/gundem/istanbulda-korkunc-olum-otomobil-carpti-servis-araci-uzerinden-gecti-43379652",
+      "headline": "İstanbul'da feci kaza: Otomobilin çarptığı yaya hayatını kaybetti",
+      "source": "Hürriyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTQ4MTUwNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anthony Maw",
+        "photographerUrl": "https://unsplash.com/@anthonymaw",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-that-has-crashed-into-another-car-XcjVef6uvYA"
+      },
+      "timeAgo": "39 dk önce",
+      "body": "İstanbul Arnavutköy'de yolun karşısına geçmeye çalışan 61 yaşındaki Mehmet Önalan, otomobilin çarpmasıyla yola savrulduktan sonra bir servis aracının altında kaldı. Olay sonucunda yaşamını yitiren Önalan'ın kazasına karışan iki aracın sürücüsü de gözaltına alındı.",
+      "highlights": [
+        "İstanbul Arnavutköy'de meydana geldi",
+        "61 yaşındaki Mehmet Önalan hayatını kaybetti",
+        "İki aracın sürücüsü gözaltına alındı"
+      ],
+      "externalUrl": "https://www.hurriyet.com.tr/gundem/istanbulda-korkunc-olum-otomobil-carpti-servis-araci-uzerinden-gecti-43379652",
+      "publishedAt": "2026-11-16T07:06:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
       "headline": "Papa'dan Peru'daki yerli liderlerin cinayetlerine ve Amazon'un tahribatına kınama",
@@ -6814,75 +6883,6 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/vanda-feci-kaza-7-kisi-hayatini-kaybetti-1749867",
       "publishedAt": "2026-11-08T01:02:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-      "headline": "Yeni Zelanda 2026 seçimlerinde sonuçlar kesinleşmedi, ülkede uzun sürecek bir belirsizlik dönemi bekleniyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1657673601193-b5da1c47bdc8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmV3JTIwemVhbGFuZCUyMHBhcmxpYW1lbnR8ZW58MXwwfHx8MTc5NDEwMzMyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Koon Chakhatrakan",
-        "photographerUrl": "https://unsplash.com/@koonspace",
-        "unsplashUrl": "https://unsplash.com/photos/a-stone-building-with-palm-trees-I3Ndp_xMSBE"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Yeni Zelanda'da gerçekleştirilen kritik genel seçimlerin ardından, ülkenin yeni yönetim yapısının netleşmesinin haftalar sürebileceği bildiriliyor. Sandık başında yaşanan büyük çekişme, ne mevcut sağ eğilimli koalisyona ne de muhalefetteki sol bloğa kesin ve net bir zafer kazandırdı. Bu durum, seçim sonuçlarının ardından ülkeyi uzun sürecek bir siyasi belirsizlik ve müzakere sürecinin bekleyebileceğine işaret ediyor.\n\nAçıklanan ilk ve geçici verilere göre, Başbakan Christopher Luxon liderliğindeki merkez sağ Ulusal Parti (National Party), parlamentodaki en büyük siyasi güç konumunu korumayı başardı. Partinin, ülkeyi geleneksel koalisyon ortakları olan merkeziyetçi çizgideki Act partisi ve popülist Yeni Zelanda Birinci (New Zealand First) partisi ile birlikte yönetebilecek yeterli sandalye sayısına ulaştığı ifade ediliyor.\n\nBununla birlikte, yarışın son derece başa baş geçmesi ve oyların kıl payı dengelenmesi, kesin sonuçların alınmasını zorlaştıran temel etkenler arasında yer alıyor. Seçim kurulu yetkilileri ve siyasi gözlemciler, oyların tamamen sayılması ve olası resmileşme süreçlerinin ardından dahi hükümetin nihai şeklinin ve koalisyon ortaklıklarının netleşmesinin hatırı sayılır bir zaman alabileceğini vurguluyorlar.\n\nSiyasi analistler, Yeni Zelanda gibi parlamenter sistemle yönetilen ülkelerde bu tür başa baş sonuçların ortaya çıkmasının, koalisyon müzakerelerini kaçınılmaz kıldığını belirtiyor. Mevcut Başbakan Christopher Luxon'un liderliğindeki Ulusal Parti'nin parlamentonun en büyük partisi konumunda olması bir avantaj sağlasa da, iktidarın tam olarak nasıl şekilleneceği, ortaklarla yürütülecek çetin görüşmelerin ardından belli olacak.\n\nÖnümüzdeki günlerde tarafların bir araya gelerek olası hükümet modelleri üzerinde masaya oturması beklenirken, kamuoyu ve uluslararası gözlemciler süreci yakından takip ediyor. Ülke genelindeki seçmenler ve siyasi çevreler, hem meclisteki sandalye dağılımının kesinleşmesini hem de yeni dönemin siyasi dengelerini belirleyecek kritik açıklamaları sabırsızlıkla bekliyor.",
-      "highlights": [
-        "Yeni Zelanda seçimlerinde sonuçlar kesinleşmedi ve hükümetin şekillenmesi haftalar sürebilir.",
-        "Başbakan Christopher Luxon liderliğindeki Ulusal Parti parlamentodaki en büyük parti oldu.",
-        "Ulusal Parti'nin Act ve New Zealand First ile koalisyon kurma potansiyeli bulunuyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
-      "publishedAt": "2026-11-08T01:00:48.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/vanda-katliam-gibi-kaza-4870631",
-      "headline": "Van'da tır ile minibüs çarpıştı: 9 ölü, 5 yaralı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1745845979138-be64a85272a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTQxMDMzMjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Scott Greer",
-        "photographerUrl": "https://unsplash.com/@sgreer",
-        "unsplashUrl": "https://unsplash.com/photos/cars-are-involved-in-a-frontal-collision-RzVENp1UbRc"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Van'ın Özalp ilçesi sınırları içerisinde meydana gelen trafik kazasında, bir tır ile İran plakalı bir yolcu minibüsünün kafa kafaya çarpışması neticesinde büyük bir facia yaşandı. Alınan bilgilere göre, iki büyük tonajlı aracın henüz belirlenemeyen bir sebepten dolayı çarpışmasıyla ortalık savaş alanına döndü. Olayın hemen ardından çevredekilerin ihbarı üzerine bölgeye çok sayıda sağlık, itfaiye ve güvenlik ekibi sevk edildi.\n\nMeydana gelen korkunç kazada, ilk belirlemelere göre aralarında minibüsteki yolcuların da bulunduğu 9 vatandaş olay yerinde hayatını kaybetti. Çarpışmanın şiddetiyle araçlarda sıkışan ve ağır yaralanan 5 kişi ise sağlık ekiplerinin ilk müdahalesinin ardından çevredeki hastanelere kaldırılarak tedavi altına alındı. Yaralıların sağlık durumlarının ciddiyetini koruduğu ve hastanelerde doktorların müdahalesini sürdürdüğü bildirildi.\n\nUlaşım güvenliği açısından kritik önem taşıyan güzergahlardan biri olan Özalp bölgesindeki bu kaza, karayollarındaki trafik güvenliği ve denetimlerin ne kadar hayati olduğunu bir kez daha gözler önüne serdi. Kazanın ardından güvenlik güçleri olay yerinde geniş çaplı inceleme başlatırken, tır ve İran plakalı minibüsün karıştığı kazanın kesin nedeninin tespiti için çalışmalar sürdürülüyor.\n\nBölgede etkisini gösteren trafik yoğunluğu ve kaza nedeniyle bir süre kontrollü sağlanan ulaşım, araçların yoldan kaldırılması ve temizlik çalışmalarının tamamlanmasının ardından normale döndü. Kazayla ilgili olarak adli ve idari soruşturmanın derinleştirilerek devam ettiği, ilgili makamların konuyla ilgili kapsamlı rapor hazırlayacağı öğrenildi.",
-      "highlights": [
-        "Van'ın Özalp ilçesinde tır ile İran plakalı minibüs çarpıştı.",
-        "Kazada 9 vatandaş hayatını kaybetti, 5 kişi yaralandı.",
-        "Yaralılar hastaneye kaldırılırken olayla ilgili soruşturma başlatıldı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/vanda-katliam-gibi-kaza-4870631",
-      "publishedAt": "2026-11-08T01:00:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/paraguayda-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-karari/4115613",
-      "headline": "Paraguay'da azledilen eski Devlet Başkanı Santiago Pena hakkında tutuklama kararı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1496361945947-d0250d31222a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRob3VzZSUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQwNDExMjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quilia",
-        "photographerUrl": "https://unsplash.com/@heyquilia",
-        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-SlyYm_CJW8E"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Latin Amerika ülkesi Paraguay'da siyaset ve yargı gündemini sarsan gelişmeler yaşanmaya devam ederken, eski Devlet Başkanı Santiago Pena hakkında resmi mercilerce tutuklama kararı çıkarıldığı bildirildi. Ülke genelinde büyük yankı uyandıran bu yargı hamlesi, son dönemde kamuoyunun da yakından takip ettiği birtakım mali ve idari skandal iddialarının doğrudan bir sonucu olarak devreye sokuldu. Yetkililer tarafından atılan bu adım, ülkenin siyasi tarihinde son zamanlarda görülen en dikkat çekici gelişmelerden biri olarak kayıtlara geçerken, karar mekanizmasının işleyişi ve olası yansımaları yerel ve uluslararası basın tarafından da yakın takibe alındı.\n\nOlayların arka planını oluşturan süreç, Santiago Pena'nın devlet başkanlığı makamından azledilmesiyle tetiklenmişti. Görevden uzaklaştırılma sürecinde, yönetim mekanizmalarında usulsüzlük yapıldığına ve çeşitli finansal skandallara karışı yaptığına dair ciddi iddialar ortaya atılmıştı. Bu iddiaların ardından yargı organları konuyu derinlemesine inceleme altına almış ve yürütülen soruşturmalar sonucunda nihai aşamaya gelinmişti. Hukuki süreçlerin titizlikle yürütüldüğü ifade edilirken, savcılık makamlarının ve ilgili mahkemelerin yürüttüğü tahkikat neticesinde eski lider hakkında özgürlüğü bağlayıcı en üst düzey tedbirlerden biri olan tutuklama kararının resmen alındığı kesinleşti.\n\nParaguay halkı ve siyasi çevreler, söz konusu tutuklama kararının ardından büyük bir şaşkınlık ve hareketlilik yaşarken, gelişmenin ülkedeki genel siyasi istikrara ve kurumların işleyişine nasıl bir etkisi olacağı merak konusu olmaya devam ediyor. Benzer vakalarda olduğu gibi, bu tür üst düzey siyasi figürlerin yargı önünde hesap vermesi, ülkenin demokratik kurumlarının işlerliği açısından hem destekçiler hem de muhalifler tarafından farklı açılardan değerlendiriliyor. Hukukun üstünlüğü ve adalet mekanizmalarının bağımsızlığı tartışmaları da bu süreçle birlikte yeniden alevlenirken, eski başkan Pena'nın avukatlarının veya yakın çevresinin karara karşı nasıl bir hukuki hamle yapacağı önümüzdeki günlerin en önemli gündem maddesini oluşturuyor.\n\nUluslararası kamuoyunun da dikkatle izlediği Paraguay'daki bu gelişmeler, Latin Amerika'daki yolsuzlukla mücadele ve siyasi hesap verebilirlik süreçlerinin ne denli sert ve kırılgan olabildiğini bir kez daha gözler önüne serdi. Finansal skandalların ardından hız kazanan soruşturmaların sadece eski devlet başkanı ile sınırlı kalıp kalmayacağı, ilerleyen günlerde dosyaya dahil olabilecek yeni isimlerin bulunup bulunmadığı da adli makamların atacağı adımlarla netleşecek. Siyasi analistler ve hukukçular, davanın Paraguay'ın gelecekteki siyasi iklimi üzerinde kalıcı etkiler bırakabileceğine dikkat çekerken, sürecin her aşamasının şeffaf bir şekilde yürütülmesinin önemine vurgu yapıyorlar.\n\nŞu aşamada, hakkında tutuklama kararı çıkarılan Santiago Pena'nın nerede gözaltına alınacağı, güvenlik prosedürlerinin nasıl işletileceği ve adli makamlar karşısına ne zaman çıkarılacağı gibi operasyonel detaylar da merakla bekleniyor. Ülke genelinde güvenlik önlemleri artırılırken, başkentteki resmi kurumların çevresinde de olası protesto veya destek gösterilerine karşı tedbirler alındığı gözlemleniyor. Paraguay yargısının verdiği bu karar, ülkenin yakın siyasi tarihine damga vuracak nitelikte bir dönüm noktası olarak değerlendirilirken, davanın tüm yönleriyle aydınlatılması için yürütülen soruşturma dosyası titizlikle işlemeye devam ediyor.",
-      "highlights": [
-        "Paraguay'da eski Devlet Başkanı Santiago Pena hakkında tutuklama kararı alındı.",
-        "Karar, yönetimde ortaya çıkan finansal skandal iddialarının ardından verildi.",
-        "Gelişme, ülkenin siyasi ve hukuki gündeminde büyük yankı uyandırdı."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/paraguayda-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-karari/4115613",
-      "publishedAt": "2026-11-08T00:41:39.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
