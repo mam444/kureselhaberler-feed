@@ -121,9 +121,10 @@ function collectArticleBodies(value, results) {
   }
 }
 
-/** Read only publisher pages that allow our crawler, and return schema.org's
- * articleBody as source material for an original short summary. The page text
- * itself is never added to the public feed. */
+/** Read only publisher pages that allow our crawler. Prefer schema.org's
+ * articleBody, then visible text inside the page's article/main element. The
+ * extracted copy is source material for an original summary and is never
+ * added to the public feed. */
 export async function fetchPublisherArticleBody(articleUrl) {
   if (!articleUrl || !(await publisherAllowsArticleRead(articleUrl))) return null;
   try {
@@ -142,6 +143,17 @@ export async function fetchPublisherArticleBody(articleUrl) {
         collectArticleBodies(JSON.parse(script[1]), bodies);
       } catch {
         // A malformed unrelated JSON-LD script should not block RSS fallback.
+      }
+    }
+    const visibleText = (fragment) => stripHtml(String(fragment)
+      .replace(/<(script|style|noscript|svg|nav|footer|header|aside)\b[^>]*>[\s\S]*?<\/\1>/gi, ' ')
+      .replace(/<br\b[^>]*>|<\/(p|div|li|h[1-6]|section)\s*>/gi, '\n'));
+    for (const match of html.matchAll(/<article\b[^>]*>([\s\S]*?)<\/article\s*>/gi)) {
+      bodies.push(visibleText(match[1]));
+    }
+    if (bodies.every((body) => String(body).length < 700)) {
+      for (const match of html.matchAll(/<main\b[^>]*>([\s\S]*?)<\/main\s*>/gi)) {
+        bodies.push(visibleText(match[1]));
       }
     }
     const cleaned = bodies

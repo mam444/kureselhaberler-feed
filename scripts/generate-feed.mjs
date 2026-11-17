@@ -13,7 +13,7 @@ const FEED_PATH = path.resolve('docs/haberler.json');
 // The feed runs every ten minutes. Keep a per-run and rolling-hour cap based
 // on the measured number of distinct NTV RSS stories.
 const MAX_NEW_PER_RUN = 2;
-const MAX_NEW_PER_HOUR = 9;
+const MAX_NEW_PER_HOUR = 12;
 const MAX_GEMINI_REWRITES_PER_RUN = 2;
 const MAX_OLD_STORY_REWRITES_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
@@ -22,12 +22,12 @@ const MAX_TOTAL_ARTICLES = 600;
 // current news in the app or on the website.
 const MAX_ARTICLE_AGE_MS = 7 * 24 * 60 * 60 * 1000;
 const MAX_REJECTED_IDS = 2_000;
-const MAX_SOURCE_SUMMARY_CHARS = 6000;
+const MAX_SOURCE_SUMMARY_CHARS = 8000;
 // Headlines alone do not contain enough evidence for a reliable article.
 const MIN_SOURCE_SUMMARY_CHARS = 100;
 // Gemini çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
-const MAX_ALLOWED_SIMILARITY = 0.5;
+const MAX_ALLOWED_SIMILARITY = 0.56;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
 const RSS_FALLBACK_MAX_CHARS = 420;
 const MAX_IMAGE_BACKFILLS_PER_RUN = 1;
@@ -68,7 +68,7 @@ function timeAgoTrSnapshot(iso) {
 
 async function enrichWithPublisherBody(raw) {
   const rssBody = String(raw.body ?? '').trim();
-  if (rssBody.length >= 1_400) return raw;
+  if (rssBody.length >= 2_200) return raw;
   const publisherBody = await fetchPublisherArticleBody(raw.externalUrl);
   if (!publisherBody || publisherBody.length <= rssBody.length + 300) return raw;
   console.log(`[article] "${raw.headline.slice(0, 60)}" için izin verilen, daha ayrıntılı yayıncı metni bulundu.`);
@@ -330,7 +330,7 @@ async function main() {
       .map((article) => ({ article, rss: rssById.get(article.id) }))
       .map(({ article, rss }) => {
         const lastTextSearch = Date.parse(article.sourceTextAttemptedAt ?? '');
-        const needsLongerCopy = wordCount(article.body) < 150
+        const needsLongerCopy = wordCount(article.body) < 180
           && (!Number.isFinite(lastTextSearch) || now - lastTextSearch >= ENRICHMENT_RETRY_MS);
         const lastImageSearch = Date.parse(article.imageSearchAttemptedAt ?? '');
         const needsImageKeyword = Boolean(UNSPLASH_ACCESS_KEY)
@@ -367,7 +367,7 @@ async function main() {
         const sourceText = `${rss?.headline ?? article.headline} ${sourceBody}`;
         const rewrittenText = `${upgraded.headline} ${upgraded.body}`;
         const canExpandBody = hasMoreSourceText
-          && wordCount(upgraded.body) >= 90
+          && wordCount(upgraded.body) >= 150
           && wordCount(upgraded.body) > wordCount(article.body)
           && jaccardSimilarity(sourceText, rewrittenText) <= MAX_ALLOWED_SIMILARITY;
         const photo = needsImageKeyword && upgraded.imageKeyword

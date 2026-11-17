@@ -9,7 +9,8 @@ const MODEL = 'gemini-3.5-flash-lite';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
 const SYSTEM_PROMPT = `Sen Küresel Haberler için kaynak metne sadık bir haber editörüsün. Sana bir haberin
-başlığı ve RSS kaynağının sağladığı özet verilir. Bunlar dışında haber metnini açıp doğrulayamazsın.
+başlığı ve RSS kaynağının sağladığı metin veya tarama kuralları izin verdiğinde yayıncının yapılandırılmış
+haber metni verilir. Bunlar dışında haber metnini açıp doğrulayamazsın.
 Görevin yalnızca verilen bilgileri açık, doğal Türkçe ile yeniden yazmaktır.
 
 DOĞRULUK KURALLARI (uzunluk veya üslup hedeflerinden önce gelir):
@@ -21,8 +22,8 @@ DOĞRULUK KURALLARI (uzunluk veya üslup hedeflerinden önce gelir):
    yalnızca mevcut bilgiyi yaz; kısa bir haber özeti uzun ama dayanaksız metinden iyidir.
 3. Başlıkta haberin temel iddiasını değiştirme veya büyütme. Kaynak tümü büyük harfliyse normal
    Türkçe yazımına çevir; yeni bir iddia ekleme.
-4. Body'yi kaynakta bulunan ayrıntı miktarına göre, doğal haber diliyle 3-5 paragrafta yaklaşık
-   150-240 kelime olarak yaz. RSS veya izin verilen yapılandırılmış haber metni bu kadar ayrıntı
+4. Body'yi kaynakta bulunan ayrıntı miktarına göre, doğal haber diliyle 4-6 paragrafta yaklaşık
+   180-280 kelime olarak yaz. RSS veya izin verilen yapılandırılmış haber metni bu kadar ayrıntı
    içermiyorsa yalnızca mevcut bilgiyi
    kullanıp daha kısa yaz; uzunluk uğruna tekrar, tahmin, geçmiş bilgi veya genel dolgu ekleme.
    Kaynak cümlelerini kopyalamadan özgün ifadelerle özetle ve iddiaları kime ait olduğunu koru.
@@ -113,7 +114,7 @@ async function generateContent(payload, apiKey, retries) {
 export async function rewriteArticle({ headline, body, category }, apiKey, retries = 3) {
   const userContent = [
     `Başlık: ${headline}`,
-    body ? `Özet: ${body}` : null,
+    body ? `Kaynakta doğrulanabilen haber metni: ${body}` : null,
     category ? `Kategori (referans amaçlı, değiştirme): ${category}` : null,
   ]
     .filter(Boolean)
@@ -124,7 +125,7 @@ export async function rewriteArticle({ headline, body, category }, apiKey, retri
     contents: [{ role: 'user', parts: [{ text: userContent }] }],
     generationConfig: {
       temperature: 0.2,
-      maxOutputTokens: 1200,
+      maxOutputTokens: 1800,
       responseMimeType: 'application/json',
     },
   }, apiKey, retries);

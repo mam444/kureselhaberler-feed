@@ -7,11 +7,11 @@ bir çalıştırır.
 
 ## Nasıl çalışır
 
-1. `.github/workflows/generate-feed.yml` her 10 dakikada bir (ve manuel olarak da) tetiklenir.
+1. `.github/workflows/generate-feed.yml` her 10 dakikada bir (ve manuel olarak da) tetiklenir. Mobil uygulama açıkken akışı 5 dakikada bir koşullu istekle kontrol eder; veri değişmediyse tam JSON'u yeniden indirmez.
 2. `scripts/generate-feed.mjs`:
    - `scripts/sources.mjs`'teki RSS kaynaklarını çeker,
-   - önceki `docs/haberler.json`'da olmayan en fazla 2 yeni haberi, RSS açıklamasını en fazla 1.600 karakter kullanarak Gemini ile yeniden yazar,
-   - Gemini günlük kotası dolduğunda kaynağın doğrulanmış başlığı ve en fazla 420 karakterlik RSS özetini yayınlar; haber akışı tamamen durmaz,
+   - önceki `docs/haberler.json`'da olmayan en fazla 2 yeni haberi, RSS veya tarama kuralları izin verdiğinde yapılandırılmış yayıncı metnini kullanarak Gemini ile yeniden yazar; zengin kaynak uygunsa 180–280 kelimelik çok paragraflı özet hedefler,
+   - saatte en fazla 12 yeni haber yayınlar; Gemini günlük kotası dolduğunda kaynağın doğrulanmış başlığı ve en fazla 420 karakterlik RSS özetini yayınlar; haber akışı tamamen durmaz,
    - Gemini ile hazırlanan her haber için Unsplash'tan konuya uygun bir fotoğraf bulur; RSS yedeğinde yayıncı görselini yeniden dağıtmaz,
    - sonucu eskisiyle birleştirip `docs/haberler.json`'a yazar (en fazla 600 haber tutulur),
    - gerçekten yeni haber varsa Android'e FCM üzerinden, web/iOS'a OneSignal üzerinden push gönderir.
