@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-17T08:05:04.944Z",
+  "generatedAt": "2026-11-17T08:14:50.591Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-sosyal-medya-cagrisi-gerekli-adimlari-atmanin-zamani-geldi-7702248",
+      "headline": "MHP lideri Bahçeli'den sosyal medya ve şehit açıklaması",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1594321120022-7649850959bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U29uJTIwRGFraWthfGVufDF8MHx8fDE3OTQ5MDMyODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "visuals",
+        "photographerUrl": "https://unsplash.com/@visuals",
+        "unsplashUrl": "https://unsplash.com/photos/a-drawing-of-a-face-i7xNLAWRl2I"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "MHP lideri Devlet Bahçeli, televizyon, sosyal medya ve radyo aracılığıyla takip edenlere ve Türk-İslam âlemine selamlarını iletti. Bahçeli, Malatya Yeşilyurt'ta S-70 tipi helikopterin kırıma uğraması sonucu ve Kıbrıs'ta görev başında rahatsızlanarak şehit olan askerler için başsağlığı diledi.",
+      "highlights": [
+        "Malatya'nın Yeşilyurt ilçesinde S-70 tipi helikopter kaza kırıma uğradı",
+        "Kaza ve görev sırasında toplam beş askeri personel şehit oldu",
+        "Bahçeli şehit ailelerine ve Türk Silahlı Kuvvetleri'ne başsağlığı diledi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-sosyal-medya-cagrisi-gerekli-adimlari-atmanin-zamani-geldi-7702248",
+      "publishedAt": "2026-11-17T08:12:17.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/video/gundem/sinan-burhandan-ankara-kulislerini-hareketlendirecek-iddia-iki-isim-ak-partiye-katilacak-4873371",
+      "headline": "Sinan Burhan'dan Ankara kulislerini hareketlendirecek iddia: İki isim AK Parti'ye katılacak",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591453214154-c95db71dbd83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2lhbiUyMGhhbmRzaGFrZXxlbnwxfDB8fHwxNzk0OTAzMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Constantin Wenning",
+        "photographerUrl": "https://unsplash.com/@conniwenningsimages",
+        "unsplashUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-idDvA4jPBO8"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Gazeteci Sinan Burhan, Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer'in bu perşembe günü AK Parti'ye katılacağını ve rozetini Cumhurbaşkanı Recep Tayyip Erdoğan'ın takacağını öne sürdü. Bur ayrıca Beyoğlu Belediye Başkan Vekili Sefer Karaahmetoğlu'nun da 19 Kasım Perşembe günü AK Parti'ye geçeceğini iddia etti.",
+      "highlights": [
+        "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer AK Parti'ye katılacak",
+        "Rozeti Cumhurbaşkanı Recep Tayyip Erdoğan takacak",
+        "Beyoğlu Belediye Başkan Vekili Sefer Karaahmetoğlu AK Parti'ye geçiyor"
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/sinan-burhandan-ankara-kulislerini-hareketlendirecek-iddia-iki-isim-ak-partiye-katilacak-4873371",
+      "publishedAt": "2026-11-17T08:08:44.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "headline": "Kırım köprüsü Ukrayna saldırısının ardından kapatıldı, Rusya Kiev geçişlerini vurdu",
