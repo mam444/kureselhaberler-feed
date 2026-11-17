@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T13:24:51.899Z",
+  "generatedAt": "2026-11-17T13:34:32.071Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-7702544",
+      "headline": "Gökçeada ve Bozcaada hatlarındaki bazı feribot seferleri yarın iptal edildi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1660591204522-ceccd0bc9a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZmVycnklMjBzZWF8ZW58MXwwfHx8MTc5NDkyMjQ3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ty Fiero",
+        "photographerUrl": "https://unsplash.com/@tyfiero",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-ship-on-the-water-b2dfdcViq_E"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "GESTAŞ AŞ tarafından yapılan açıklamaya göre, Çanakkale Boğazı ve adalar hattında olumsuz hava şartları nedeniyle Gökçeada ve Bozcaada hatlarındaki tarifeli bazı seferler yarın iptal edildi. Bazı karşılıklı seferlerin ise yapılacağı duyuruldu.",
+      "highlights": [
+        "Kabatepe-Gökçeada ve Geyikli-Bozcaada hatlarında bazı seferler yapılacak",
+        "Olumsuz hava şartları nedeniyle planlı diğer tüm seferler iptal edildi",
+        "Açıklama GESTAŞ AŞ tarafından yapıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-7702544",
+      "publishedAt": "2026-11-17T13:33:26.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-kurumdan-demiroren-medya-lisesinin-cop31-standina-ziyaret-7702534",
       "headline": "Bakan Kurum'dan Demirören Medya Lisesi'nin COP31 standına ziyaret",
@@ -9225,6 +9248,7 @@
     "https://www.yenisafak.com/galeri/gundem/balikesiri-saganak-vurdu-ev-ve-is-yerlerini-su-basti-4873534",
     "https://www.ntv.com.tr/teknoloji/galeri-gta-6-cikmadan-dunyayi-ayaga-kaldirdi-oyuna-saatler-once-girmek-icin-yeni-zelanda-hilesi-patladi-1751319",
     "https://www.haberturk.com/ekonomi/koc-holding-onculugunde-fireaid-ile-orman-yanginlarina-karsi-veriye-dayali-mucadele-3927995",
-    "https://www.ntv.com.tr/turkiye/bakan-uraloglundan-hgs-aciklamasi-yarin-toplanti-yapilacak-1751314"
+    "https://www.ntv.com.tr/turkiye/bakan-uraloglundan-hgs-aciklamasi-yarin-toplanti-yapilacak-1751314",
+    "https://www.trthaber.com/haber/turkiye/kuzey-egede-bazi-feribot-seferleri-iptal-edildi-963577.html"
   ]
 }
