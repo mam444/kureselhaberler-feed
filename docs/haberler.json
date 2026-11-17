@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-17T10:44:37.091Z",
+  "generatedAt": "2026-11-17T10:54:39.673Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cwm2mlg3y0rvo?at_medium=RSS&at_campaign=rss",
+      "headline": "Sözcü TV ve internet sitesine kayyum atanmasına tepkiler: 'Halkın haber alma hakkına ağır müdahale'",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1554446422-d05db23719d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmV3cyUyMG1pY3JvcGhvbmV8ZW58MXwwfHx8MTc5NDkwNDQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michal Czyz",
+        "photographerUrl": "https://unsplash.com/@digitalmike",
+        "unsplashUrl": "https://unsplash.com/photos/gray-microphone-in-room-ALM7RNZuDH8"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Dokuz meslek örgütü, Sözcü TV ve internet sitesine kayyum atanmasının ardından ortak açıklama yaparak durumu halkın haber alma hakkına müdahale olarak nitelendirdi. Yeni Parti Genel Başkanı Özgür Özel de tepki göstererek eleştirilere tahammül kalmadığını belirtti.",
+      "highlights": [
+        "Dokuz meslek örgütü ortak açıklama yaptı",
+        "Özgür Özel eleştirilere tahammül kalmadığını söyledi"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cwm2mlg3y0rvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T10:52:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/17/nvidianin-huang-sonrasi-ilk-bilancosu-yapay-zeka-patlamasi-surer-mi",
       "headline": "Nvidia'nın Huang Sonrası İlk Bilançosu Açıklanıyor",
@@ -9116,6 +9138,7 @@
     "https://tr.euronews.com/2026/11/17/fransa-ve-malezyadan-nadir-toprak-elementleri-anlasmasi-macron-cine-alternatif-ariyor",
     "https://www.yenisafak.com/galeri/gundem/muglada-safran-hasadi-yapildi-uretim-35-dekara-ulasti-4873451",
     "https://tr.euronews.com/2026/11/17/van-goghun-basyapiti-acik-artirmaya-cikiyor-mirascilari-satisa-karsi-cikiyor",
-    "https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283"
+    "https://www.ntv.com.tr/turkiye/bakan-gurlek-devlet-bahceli-ile-gorusuyor-1751283",
+    "https://www.aa.com.tr/tr/gundem/aa-29-zoom-uluslararasi-haber-goruntuleri-yarismasinda-5-kategoride-birinci-oldu/4127664"
   ]
 }
