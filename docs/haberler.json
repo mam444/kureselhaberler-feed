@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T12:04:42.775Z",
+  "generatedAt": "2026-11-17T12:14:21.625Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-saldiri-neye-ugradigini-sasirdi-7702471",
+      "headline": "Sırbistan'da milletvekiline yoğurtlu saldırı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1555517705-a7232558b8be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8eW9ndXJ0JTIwc3BpbGx8ZW58MXwwfHx8MTc5NDkxNzY2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Pascal Meier",
+        "photographerUrl": "https://unsplash.com/@zhpix",
+        "unsplashUrl": "https://unsplash.com/photos/strawberry-fruit-with-milk-on-spoon-u9LD7HIftLk"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Sırbistan'da yeni meclis oturumu öncesinde protestolar düzenlendi. Eski iktidar partisi SNS'den milletvekili seçilen ve sinema oyuncusu olan Lidija Vukicevic, meclis önünde toplanan kalabalıktan bir kişinin yoğurtlu saldırısına uğradı. Vukicevic, olayın ardından kendisini çok kötü hissettiğini belirterek tepki gösterdi.",
+      "highlights": [
+        "Yeni meclis oturumu öncesinde Ulusal Meclis önünde protestolar düzenlendi",
+        "SNS milletvekili ve oyuncu Lidija Vukicevic yoğurtlu saldırıya uğradı",
+        "Vukicevic olayın ardından basına açıklama yaptı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-saldiri-neye-ugradigini-sasirdi-7702471",
+      "publishedAt": "2026-11-17T12:12:20.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-protesto-neye-ugradigini-sasirdi-7702471",
       "headline": "Sırbistan'da milletvekiline meclis önünde yoğurtlu protesto",
@@ -9078,6 +9101,7 @@
     "https://www.yenisafak.com/gundem/siparisinizi-teslim-almadiniz-ceza-odeyeceksiniz-tehdidiyle-dolandiricilik-28-gozalti-4873481",
     "https://tr.euronews.com/2026/11/17/iran-bahreyndeki-seyh-isa-ussunde-abd-radarini-ihalarla-hedef-aldik",
     "https://www.haberturk.com/ekonomi/askon-dan-takviye-gidada-yaniltici-beyana-sert-oneri-3927967",
-    "https://www.aa.com.tr/tr/dunya/trump-quad-ulkelerinin-bolgesel-guvenlik-ve-yapay-zeka-alaninda-isbirligini-artiracagini-belirtti/4127745"
+    "https://www.aa.com.tr/tr/dunya/trump-quad-ulkelerinin-bolgesel-guvenlik-ve-yapay-zeka-alaninda-isbirligini-artiracagini-belirtti/4127745",
+    "https://www.yenisafak.com/gundem/icisleri-bakani-ciftciden-mhp-lideri-bahceliye-mecliste-ziyaret-4873500"
   ]
 }
