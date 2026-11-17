@@ -39,6 +39,15 @@ function isWithinNewsWindow(article, now = Date.now()) {
     && publishedAt <= now + MAX_FUTURE_SKEW_MS;
 }
 
+function normalizeHeadline(headline) {
+  return String(headline ?? '')
+    .normalize('NFKD')
+    .replace(/\p{M}/gu, '')
+    .toLocaleLowerCase('tr-TR')
+    .replace(/[^\p{L}\p{N}]+/gu, ' ')
+    .trim();
+}
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const UNSPLASH_ACCESS_KEY = process.env.UNSPLASH_ACCESS_KEY;
 const ONESIGNAL_APP_ID = process.env.ONESIGNAL_APP_ID;
@@ -198,9 +207,22 @@ async function main() {
   const previousIds = new Set(previous.map((a) => a.id));
   const rejectedIds = new Set(previousFeed.rejectedIds);
 
-  const unseen = publishable.filter(
-    (a) => !previousIds.has(a.id) && !rejectedIds.has(a.id),
-  );
+  const priorHeadlineKeys = new Set(previous.map((article) => normalizeHeadline(article.headline)));
+  const unseenHeadlineKeys = new Set();
+  let duplicateHeadlineCount = 0;
+  const unseen = publishable.filter((article) => {
+    if (previousIds.has(article.id) || rejectedIds.has(article.id)) return false;
+    const key = normalizeHeadline(article.headline);
+    if (key && (priorHeadlineKeys.has(key) || unseenHeadlineKeys.has(key))) {
+      duplicateHeadlineCount += 1;
+      return false;
+    }
+    if (key) unseenHeadlineKeys.add(key);
+    return true;
+  });
+  if (duplicateHeadlineCount > 0) {
+    console.log(`[guard] ${duplicateHeadlineCount} aynı başlık başka bir kaynakta zaten bulunduğu için yinelenmedi.`);
+  }
 
   // A single fast-refreshing (or always-recent-pubDate) source can otherwise
   // fill every slot on every run and starve every other outlet out
@@ -283,6 +305,15 @@ async function main() {
     .filter((article) => isWithinNewsWindow(article, now))
     .filter((a, i, arr) => arr.findIndex((b) => b.id === a.id) === i)
     .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0))
+    .filter((() => {
+      const headlineKeys = new Set();
+      return (article) => {
+        const key = normalizeHeadline(article.headline);
+        if (!key || headlineKeys.has(key)) return false;
+        headlineKeys.add(key);
+        return true;
+      };
+    })())
     .slice(0, MAX_TOTAL_ARTICLES);
 
   await mkdir(path.dirname(FEED_PATH), { recursive: true });
