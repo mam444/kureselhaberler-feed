@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-17T09:44:31.537Z",
+  "generatedAt": "2026-11-17T09:54:55.745Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/2-bin-yildir-uyuyan-fay-hatti-icin-bolgeye-inildi-6-subat-sonrasi-sinirimizdaki-asil-tehlike-icin-kritik-hamle-4873433",
+      "headline": "2 bin yıldır uyuyan fay hattı için kritik saha çalışması başlatıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1788213153360-d88f662d4696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmF1bHQlMjBsaW5lfGVufDF8MHx8fDE3OTQ5MDkyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Matthew Mentley",
+        "photographerUrl": "https://unsplash.com/@matthewmentley",
+        "unsplashUrl": "https://unsplash.com/photos/stone-path-between-volcanic-rock-walls-xVVnxPuL4HA"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "6 Şubat depremlerinin ardından uzmanlar, Suriye'deki kırılmayan fay hatlarına odaklandı. AFAD koordinasyonundaki Türk ve Suriyeli 20 kişilik heyet, Ölü Deniz Fayı bağlantılı hatlarda inceleme yapmak üzere ilk kez kapsamlı bir saha çalışması başlattı. 500 ila 2000 yıldır sessiz kalan faylarda hendekler açılarak deprem riski araştırılıyor.",
+      "highlights": [
+        "20 kişilik Türk ve Suriyeli heyet saha çalışması başlattı",
+        "Ölü Deniz Fayı bağlantılı hatlar inceleniyor",
+        "Faylar üzerinde hendekler açılacak"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/2-bin-yildir-uyuyan-fay-hatti-icin-bolgeye-inildi-6-subat-sonrasi-sinirimizdaki-asil-tehlike-icin-kritik-hamle-4873433",
+      "publishedAt": "2026-11-17T09:52:06.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-cekyada-iki-yolcu-treni-kafa-kafaya-carpisti-46-yarali-bolgeden-sicak-goruntu-7702378",
+      "headline": "Çekya'da iki yolcu treni çarpıştı: 46 yaralı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1749464341901-8994f86f09c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dHJhaW4lMjBjcmFzaHxlbnwxfDB8fHwxNzk0OTA5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Gowtham AGM",
+        "photographerUrl": "https://unsplash.com/@gowthamagm",
+        "unsplashUrl": "https://unsplash.com/photos/a-derailed-train-lies-on-its-side-arAJV7EtaRs"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Çekya'nın başkenti Prag'da ana tren istasyonu yakınlarında iki yolcu treni kafa kafaya çarpıştı. Kazada 46 kişi yaralanırken, yaralılardan dördünün hayati tehlikesi bulunuyor. Yetkililer, trenlerin düşük hızda seyretmesi sayesinde büyük bir yıkım yaşanmadığını bildirdi.",
+      "highlights": [
+        "Prag'da iki yolcu treni çarpıştı",
+        "Kazada 46 kişi yaralandı",
+        "Yaralılardan dördünün hayati tehlikesi var"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-cekyada-iki-yolcu-treni-kafa-kafaya-carpisti-46-yarali-bolgeden-sicak-goruntu-7702378",
+      "publishedAt": "2026-11-17T09:51:56.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/tiktokta-sanal-ibadet-skandali-kabe-gorseli-uzerinden-jetonla-para-topladilar-7702365",
       "headline": "TikTok'ta Kabe görseli ve jetonlarla 'sanal ibadet' yayını tepki çekti",
