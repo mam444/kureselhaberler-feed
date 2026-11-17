@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T09:34:41.634Z",
+  "generatedAt": "2026-11-17T09:44:31.537Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/tiktokta-sanal-ibadet-skandali-kabe-gorseli-uzerinden-jetonla-para-topladilar-7702365",
+      "headline": "TikTok'ta Kabe görseli ve jetonlarla 'sanal ibadet' yayını tepki çekti",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1594319622332-8507b850f10a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VGlrVG9rJTIwS2FiZXxlbnwxfDB8fHwxNzk0OTA4NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Solen Feyissa",
+        "photographerUrl": "https://unsplash.com/@solenfeyissa",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-red-lenovo-laptop-3aLMXGvH4GA"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "TikTok'ta açılan canlı yayınlarda Kabe görseli kullanılarak jetonla para toplandığı görüldü. Gönderilen jeton miktarına göre sanal zemzem ikramı ve şeytan taşlama gibi animasyonlar sunulan yayınlar tepki toplarken, uzmanlar kara para aklama ihtimaline de dikkat çekti.",
+      "highlights": [
+        "TikTok canlı yayınlarında Kabe görseli üzerinden jeton toplandı",
+        "Jeton miktarına göre zemzem ve şeytan taşlama animasyonları yapıldı",
+        "Kara para aklama ihtimali bulunduğu belirtildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/tiktokta-sanal-ibadet-skandali-kabe-gorseli-uzerinden-jetonla-para-topladilar-7702365",
+      "publishedAt": "2026-11-17T09:41:58.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/10-milyonluk-anlasma-sonrasi-buyuk-sok-basina-silah-dayadi-esi-bile-ikna-edemedi-7702372",
       "headline": "10 milyonluk anlaşma sonrası büyük şok: Eşi bile ikna edemedi",
@@ -8972,6 +8995,7 @@
     "https://www.ntv.com.tr/turkiye/gullu-dosyasinda-yeni-deliller-tubitaka-gonderildi-evde-bir-kisi-daha-mi-vardi-1751251",
     "https://www.yenisafak.com/galeri/hayat/dogu-ekspresinin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-4873400",
     "https://www.yenisafak.com/galeri/gundem/karamanda-sir-olay-18-yasindaki-coban-olu-bulundu-4873405",
-    "https://www.ntv.com.tr/turkiye/video-gemi-kaderine-terk-edildi-10-hint-denizci-8-aydir-tuzla-aciklarinda-mahsur-1751266"
+    "https://www.ntv.com.tr/turkiye/video-gemi-kaderine-terk-edildi-10-hint-denizci-8-aydir-tuzla-aciklarinda-mahsur-1751266",
+    "https://www.haberturk.com/gundem/kahramanmaras-taki-kizilay-dan-ges-li-asevi-3927930"
   ]
 }
