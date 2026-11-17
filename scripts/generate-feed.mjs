@@ -116,7 +116,9 @@ async function rewriteAndIllustrate(raw) {
         highlights: rewritten.highlights ?? [],
         externalUrl: raw.externalUrl,
         publishedAt: raw.publishedAt,
-        category: raw.category,
+        category: raw.lang === 'en' && raw.category === 'World'
+          ? 'Dünya'
+          : raw.category,
         // Gemini's editorial prompt always produces Turkish, even when its
         // source item comes from an English-language international feed.
         lang: 'tr',
@@ -261,18 +263,23 @@ async function main() {
   }
 
   const merged = [...rewritten, ...previous]
-    .map((article) => ({
-      ...article,
-      headline: decodeHtmlEntities(article.headline),
-      body: article.body ? decodeHtmlEntities(article.body) : article.body,
+    .map((article) => {
       // Historical Gemini translations were incorrectly tagged with their
-      // publisher's source language. The app filters by display language, so
-      // expose translated English-source stories in the Turkish feed again.
-      lang: article.lang === 'en'
-        && (Boolean(article.imageUrl) || (Array.isArray(article.highlights) && article.highlights.length > 0))
-        ? 'tr'
-        : article.lang,
-    }))
+      // publisher's source language and English world category. The app
+      // filters by display language/category, so expose them as Turkish news.
+      const wasTranslatedToTurkish = article.lang === 'en'
+        && (Boolean(article.imageUrl)
+          || (Array.isArray(article.highlights) && article.highlights.length > 0));
+      return {
+        ...article,
+        headline: decodeHtmlEntities(article.headline),
+        body: article.body ? decodeHtmlEntities(article.body) : article.body,
+        lang: wasTranslatedToTurkish ? 'tr' : article.lang,
+        category: wasTranslatedToTurkish && article.category === 'World'
+          ? 'Dünya'
+          : article.category,
+      };
+    })
     .filter((article) => isWithinNewsWindow(article, now))
     .filter((a, i, arr) => arr.findIndex((b) => b.id === a.id) === i)
     .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0))
