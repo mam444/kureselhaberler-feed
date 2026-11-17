@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-17T15:45:22.663Z",
+  "generatedAt": "2026-11-17T15:55:36.135Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
+      "headline": "CHP'de Kongre Takvimi Değişti: Yeni Tarihler Belli Oldu",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1668706971199-37e30a4e6298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2FsJTIwbWVldGluZ3xlbnwxfDB8fHwxNzk0ODM3MzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jon Tyson",
+        "photographerUrl": "https://unsplash.com/@jontyson",
+        "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-wall-A8BWoNvljVA"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "CHP, il ve ilçe kongreleri takviminde değişikliğe gitti. Parti yönetiminin kararıyla üye çizelgelerinin askı süresi uzatılırken, ilçe kongrelerinin 27 Şubat ve il kongrelerinin 3 Nisan 2027 tarihlerinde başlaması kararlaştırıldı.",
+      "highlights": [
+        "İl ve ilçe kongre takvimi değiştirildi",
+        "Üye çizelgelerinin askı süresi uzatıldı",
+        "İlçe kongreleri 27 Şubat, il kongreleri 3 Nisan 2027'de başlayacak"
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
+      "publishedAt": "2026-11-17T15:46:40.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz-963591.html",
+      "headline": "İranlı milletvekili: ABD nükleer silah kullanırsa aynı düzeyde karşılık veririz",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "11 dk önce",
+      "body": "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, ABD'nin İran'a karşı nükleer silah kullanması durumunda Tahran yönetiminin aynı düzeyde karşılık vereceğini söyledi.",
+      "highlights": [],
+      "externalUrl": "https://www.trthaber.com/haber/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz-963591.html",
+      "publishedAt": "2026-11-17T15:45:00.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
       "headline": "Rus askeri nakliye uçağı Sibirya'da düştü: 17 kişi hayatını kaybetti",
@@ -22,6 +60,21 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
       "publishedAt": "2026-11-17T15:43:44.000Z",
       "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
+      "headline": "Avustralya'daki Christmas Adası'nda milyonlarca kırmızı yengeç yıllık göçüne başladı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "13 dk önce",
+      "body": "Avustralya'nın Christmas Adası'nda yaşayan milyonlarca kırmızı yengeç, yıllık göçleri için harekete geçti.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
+      "publishedAt": "2026-11-17T15:42:46.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
