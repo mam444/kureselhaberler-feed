@@ -1,7 +1,23 @@
 const TOPIC = 'kuresel_haberler';
+const CATEGORY_TOPICS = new Map([
+  ['Gündem', 'gundem'],
+  ['Son Dakika', 'son_dakika'],
+  ['Dünya', 'dunya'],
+  ['Ekonomi', 'ekonomi'],
+  ['Spor', 'spor'],
+  ['Teknoloji', 'teknoloji'],
+  ['Bilim ve Teknoloji', 'bilim_teknoloji'],
+  ['Sağlık', 'saglik'],
+  ['World', 'world'],
+]);
+
+export function fcmTopicForCategory(category) {
+  const slug = CATEGORY_TOPICS.get(category);
+  return slug ? `${TOPIC}_${slug}` : null;
+}
 
 /** Sends one Android push to the app's FCM topic. */
-export async function sendAndroidPush(article, accessToken, projectId) {
+export async function sendAndroidPush(article, accessToken, projectId, topic = TOPIC) {
   if (!accessToken || !projectId) {
     throw new Error('[fcm] GitHub OIDC FCM erişim belirteci yok; Android bildirimi gönderilemedi.');
   }
@@ -9,7 +25,7 @@ export async function sendAndroidPush(article, accessToken, projectId) {
   const url = `https://fcm.googleapis.com/v1/projects/${encodeURIComponent(projectId)}/messages:send`;
   const payload = JSON.stringify({
     message: {
-      topic: TOPIC,
+      topic,
       // Send data-only so Flutter's background handler can save the item
       // in the in-app notification center before showing the OS alert.
       data: {
@@ -20,6 +36,7 @@ export async function sendAndroidPush(article, accessToken, projectId) {
         headline: String(article.headline || ''),
         body: String(article.body || ''),
         originalSource: String(article.source || ''),
+        category: String(article.category || ''),
         publishedAt: String(article.publishedAt || ''),
         ...(article.externalUrl ? { externalUrl: String(article.externalUrl) } : {}),
         ...(imageUrl ? { imageUrl: String(imageUrl) } : {}),

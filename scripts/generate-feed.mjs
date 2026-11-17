@@ -5,7 +5,7 @@ import { fetchAllSources } from './fetch-rss.mjs';
 import { rewriteArticle } from './gemini.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
-import { sendAndroidPush } from './fcm.mjs';
+import { fcmTopicForCategory, sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
@@ -266,22 +266,36 @@ async function main() {
     const mostRecent = rewritten.reduce((best, a) =>
       new Date(a.publishedAt ?? 0) > new Date(best.publishedAt ?? 0) ? a : best,
     );
-    const sends = await Promise.allSettled([
+    const androidPushes = [
+      // Keep one general alert for readers who have not selected topics.
       sendAndroidPush(mostRecent, FCM_ACCESS_TOKEN, FCM_PROJECT_ID),
+      // Topic-followers receive each new story in their chosen category.
+      ...rewritten.flatMap((article) => {
+        const topic = fcmTopicForCategory(article.category);
+        return topic
+          ? [sendAndroidPush(article, FCM_ACCESS_TOKEN, FCM_PROJECT_ID, topic)]
+          : [];
+      }),
+    ];
+    const sends = await Promise.allSettled([
+      ...androidPushes,
       sendNewArticleNotification(mostRecent, {
         appId: ONESIGNAL_APP_ID,
         restApiKey: ONESIGNAL_REST_API_KEY,
         includeAndroid: !FCM_ACCESS_TOKEN || !FCM_PROJECT_ID,
       }),
     ]);
-    const androidPush = sends[0];
-    if (androidPush.status === 'rejected') {
+    const androidFailures = sends.slice(0, androidPushes.length)
+      .filter((result) => result.status === 'rejected');
+    if (androidFailures.length > 0) {
       // Don't let the workflow commit this story as processed when Android
       // push failed. The next scheduled run can retry it instead of silently
       // losing the alert after the feed has advanced.
-      throw new Error(`Android bildirimi gönderilemedi: ${androidPush.reason?.message ?? androidPush.reason}`);
+      throw new Error(
+        `Android bildirimi gönderilemedi: ${androidFailures.map((failure) => failure.reason?.message ?? failure.reason).join('; ')}`,
+      );
     }
-    const oneSignalPush = sends[1];
+    const oneSignalPush = sends[androidPushes.length];
     if (oneSignalPush.status === 'rejected') {
       console.warn('[onesignal] bildirim sağlayıcısı hatası:', oneSignalPush.reason?.message ?? oneSignalPush.reason);
     }

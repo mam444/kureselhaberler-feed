@@ -7,6 +7,19 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
     return;
   }
 
+  const categoryEmoji = {
+    'Spor': '⚽',
+    'Bilim ve Teknoloji': '🔬',
+    'Teknoloji': '🔬',
+    'Ekonomi': '📈',
+    'Sağlık': '🩺',
+    'Dünya': '🌍',
+    'Son Dakika': '⚡',
+    'Gündem': '📰',
+    'World': '🌍',
+  }[article.category] ?? '📰';
+  const heading = `${categoryEmoji} ${article.category || 'Son Haberler'} · Küresel Haberler`;
+
   const res = await fetch(NOTIFICATIONS_URL, {
     method: 'POST',
     headers: {
@@ -21,7 +34,7 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
       isAndroid: includeAndroid,
       isIos: true,
       isAnyWeb: true,
-      headings: { tr: 'Küresel Haberler', en: 'Küresel Haberler' },
+      headings: { tr: heading, en: heading },
       contents: { tr: article.headline, en: article.headline },
       url: article.externalUrl ?? undefined,
       // article.imageUrl is our own Unsplash-sourced stock photo (see
@@ -34,6 +47,7 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
         body: article.body ?? '',
         externalUrl: article.externalUrl ?? '',
         originalSource: article.source ?? '',
+        category: article.category ?? '',
         publishedAt: article.publishedAt ?? '',
       },
       // Routes into the Flutter app's own "breaking_news" Android channel
