@@ -1,6 +1,82 @@
 {
-  "generatedAt": "2026-11-17T15:36:59.019Z",
+  "generatedAt": "2026-11-17T15:45:22.663Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
+      "headline": "Rus askeri nakliye uçağı Sibirya'da düştü: 17 kişi hayatını kaybetti",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1580532224583-df27f865580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWlsaXRhcnklMjB0cmFuc3BvcnQlMjBhaXJwbGFuZXxlbnwxfDB8fHwxNzk0OTMwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nick Morales",
+        "photographerUrl": "https://unsplash.com/@sixty7pixels",
+        "unsplashUrl": "https://unsplash.com/photos/gray-and-black-jet-plane-in-mid-air-during-daytime-gR9sjk4Cpm0"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Rusya'nın Kemerovo bölgesindeki Yahunovo köyü yakınlarında bir uçak kazası meydana geldi. Kemerovo Bölge Valisi İlya Seredyuk olay yerinde acil servis ekiplerinin çalıştığını bildirdi. Rus basınında yer alan haberlere göre düşen An-12 tipi uçakta 17 kişi bulunuyordu.",
+      "highlights": [
+        "Kemerovo'da Yahunovo köyü yakınlarında uçak kazası meydana geldi",
+        "Olay yerinde acil servis ekipleri çalışıyor",
+        "Rus basınına göre An-12 tipi uçakta 17 kişi bulunuyordu"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
+      "publishedAt": "2026-11-17T15:43:44.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "headline": "Burnham, gençlere yönelik yeni iş ve refah yaklaşımı için Milburn'ü birimin başına getirdi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saXRpY2lhbiUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDkxMTA2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/barack-obama-v_e3Hha4EBA"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Alan Milburn raporu resmen yayımlandı. Burnham, gençlere yönelik yeni iş ve refah yaklaşımını uygulamak üzere Milburn'ü birimin başına getirdi. Milburn, hazırladığı raporun yılda yalnızca 200 milyon sterlin tasarruf sağlayacağını belirtti.",
+      "highlights": [
+        "Alan Milburn raporu resmen yayımlandı",
+        "Milburn yeni birimin başına getirildi",
+        "Planın yılda 200 milyon sterlin tasarruf sağlayacağı belirtildi"
+      ],
+      "externalUrl": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "publishedAt": "2026-11-17T15:38:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:36:11.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/canakkale-de-olumsuz-hava-sartlari-nedeniyle-18-kasim-da-8-sefer-iptal-edildi-3928035",
+      "headline": "Çanakkale'de feribot seferleri iptal edildi",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "Çanakkale'nin Bozcaada ve Gökçeada ilçelerine 18 Kasım Çarşamba günü yapılması planlanan bazı feribot seferleri, Kuzey Ege Denizi'ndeki olumsuz hava şartları nedeniyle iptal edildi. Gestaş, iki ada hattında toplam 8 seferin gerçekleştirilemeyeceğini duyurdu",
+      "highlights": [],
+      "externalUrl": "https://www.haberturk.com/gundem/canakkale-de-olumsuz-hava-sartlari-nedeniyle-18-kasim-da-8-sefer-iptal-edildi-3928035",
+      "publishedAt": "2026-11-17T15:36:01.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
       "headline": "Bakan Kacır: Yeşil ve dijital dönüşümle geleceğin sanayisini inşa ediyoruz",
@@ -25,13 +101,13 @@
     },
     {
       "id": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Alman Dışişleri Bakanı Wadephul Azerbaycan&#039;da Putin&#039;i eleştirdi: Egemen devletler istemiyor",
+      "headline": "Alman Dışişleri Bakanı Wadephul Azerbaycan'da Putin'i eleştirdi: Egemen devletler istemiyor",
       "source": "DW Türkçe",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "10 dk önce",
-      "body": "Rusya&#039;nın baskısı altındaki Azerbaycan ve Ermenistan&#039;a destek ziyareti gerçekleştiren Alman Dışişleri Bakanı Johann Wadephul, Bakü&#039;de Putin&#039;i \"egemen devletlerden oluşan bir Avrupa düzeni istememekle\" suçladı.",
+      "body": "Rusya'nın baskısı altındaki Azerbaycan ve Ermenistan'a destek ziyareti gerçekleştiren Alman Dışişleri Bakanı Johann Wadephul, Bakü'de Putin'i \"egemen devletlerden oluşan bir Avrupa düzeni istememekle\" suçladı.",
       "highlights": [],
       "externalUrl": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-17T15:27:00.000Z",
