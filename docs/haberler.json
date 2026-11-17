@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-17T17:41:25.787Z",
+  "generatedAt": "2026-11-17T17:44:43.082Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/aksarayda-cop-yuklu-kamyon-devrildi-4873597",
+      "headline": "Aksaray’da çöp yüklü kamyon devrildi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Aksaray’da kontrolden çıkan çöp yüklü kamyon karayoluna devrildi. Sürücü hafif yaralanırken, çöpler yola dökülerek yolun tek şeridini kapattı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/aksarayda-cop-yuklu-kamyon-devrildi-4873597",
+      "publishedAt": "2026-11-17T17:42:48.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "headline": "Trump: ABD, Washington'a yönelik İran planlarını 'çok ciddiye alıyor'",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1581097543550-b3cbe2e6ea6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V2FzaGluZ3RvbiUyMERDfGVufDF8MHx8fDE3OTQ5Mzc0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Harold Mendoza",
+        "photographerUrl": "https://unsplash.com/@haroldrmendoza",
+        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-under-cloudy-sky-during-daytime-6xafY_AE1LM"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "ABD Başkanı Trump, Washington'a yönelik olası herhangi bir İran komplosunu çok ciddiye aldıklarını belirtti. Tahran yönetimi ise ABD başkentinde 'kirli bomba' saldırısı planladığına yönelik iddiaları kesin bir dille reddetti. İran tarafı, bu yönteki iddiaların tamamen temelsiz olduğunu ifade etti.",
+      "highlights": [
+        "ABD, İran'ın Washington'a yönelik olası planlarını çok ciddiye alıyor.",
+        "Tahran, ABD başkentinde kirli bomba saldırısı planladığı iddialarını reddetti.",
+        "İran yönetimi iddiaları 'temelsiz' olarak nitelendirdi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T17:37:04.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
       "headline": "2026 KPSS Merkezi Atama Tercih Takvimi Belli Oldu",
@@ -55,12 +93,17 @@
       "imageCredit": null,
       "timeAgo": "şimdi",
       "body": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan 17 şüpheliden 8'i tutuklama talebiyle, 9'u ise adli kontrol istemiyle sulh ceza hakimliğine sevk edildi.",
-      "highlights": [],
+      "highlights": [
+        "Fon soruşturmasında 17 şüpheli daha gözaltına alındı",
+        "8 şüpheli tutuklama talebiyle hakimliğe sevk edildi",
+        "9 şüpheli için adli kontrol istendi"
+      ],
       "externalUrl": "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-8-supheli-tutuklama-talebiyle-hakimlige-sevk-edildi-3494455",
       "publishedAt": "2026-11-17T16:53:39.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:25:27.611Z"
+      "imageSearchAttemptedAt": "2026-11-17T17:25:27.611Z",
+      "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/bakan-gurlek-fon-sorusturmasinda-129-tutuklu-var-1751341",
@@ -99,17 +142,18 @@
         "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
       },
       "timeAgo": "3 dk önce",
-      "body": "Adalet Bakanı Akın Gürlek, fon soruşturmalarının yeni deliller doğrultusunda derinleştirildiğini ve iyi niyetli yatırımcıların haklarının yakından takip edildiğini bildirdi. İstanbul Cumhuriyet Başsavcılığı koordinesinde yürütülen soruşturmalarda para hareketleri, malvarlığı devirleri ve bağlantılı hesaplar inceleniyor. Bakan Gürlek, makam ve unvanlara değil somut delillere ve hukuki sorumluluğa odaklanıldığını belirtti.\n\nSoruşturmalar kapsamında toplam 498 şüpheli bulunurken, 129 şüphelinin tutuklu olduğu, 289 kişi hakkında adli kontrol tedbiri uygulandığı, 54 şüpheli için yakalama çalışmalarının sürdüğü ve 22 şüphelinin gözlem işlemlerinin devam ettiği açıklandı. Suç gelirlerinin önlenmesi amacıyla 417 gerçek ve 149 tüzel kişinin malvarlığına el konuldu veya donduruldu. Gönüllü iade ve geri kazanım kapsamında ise 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi; ancak Bakan Gürlek gönüllü iadenin tek başına hukuki sorumluluğu ortadan kaldırmadığını vurguladı. Sürece ilişkin değerlendirmelerin Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında yapılan 10’uncu Fon Koordinasyon Kurulu Toplantısı'nda ele alındığı ifade edildi.",
+      "body": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında toplam 498 şüphelinin bulunduğunu, bunlardan 129'unun tutuklu olduğunu ve 289'u hakkında adli kontrol kararı verildiğini açıkladı. Gürlek, sosyal medya hesabından yaptığı açıklamada, soruşturmaların yeni deliller doğrultusunda derinleştirildiğini ve iyi niyetli yatırımcıların haklarının yakından takip edildiğini belirtti. İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmalarda para hareketleri, mal varlığı devirleri ve bağlantılı hesapların ayrıntılı incelendiğini vurgulayan Bakan Gürlek, somut deliller ile hukuki sorumluluğun esas alındığını ifade etti.\n\nSoruşturma kapsamında, hakkında yakalama kararı bulunan 54 şüpheliye yönelik çalışmalar sürerken gözaltındaki 22 şüphelinin adli işlemlerinin devam ettiği bildirildi. Suçtan elde edildiği değerlendirilen gelirlerin kaçırılmasını önlemek amacıyla 417 gerçek kişi ve 149 tüzel kişinin mal varlıklarına el koyma ve dondurma kararı uygulandı. Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildiğini belirten Gürlek, gönüllü iadenin tek başına hukuki sorumluluğu ortadan kaldırmadığını kaydetti.\n\nCumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında 10'uncu Fon Koordinasyon Kurulu Toplantısı'nın gerçekleştirildiğini aktaran Gürlek, soruşturmaların seyri ve mali incelemelerin değerlendirildiğini ifade etti. Bakan Gürlek, maddi gerçeğin ortaya çıkarılması ve vatandaşların haklarının korunması için çalışmaların kararlılıkla sürdürüleceğini kaydetti.",
       "highlights": [
-        "Soruşturmalar kapsamında 129 şüpheli tutuklu bulunuyor.",
-        "417 gerçek ve 149 tüzel kişinin malvarlığı hakkında el koyma ve dondurma kararı uygulandı.",
-        "Gönüllü iade kapsamında 75 kişiden yaklaşık 40,4 milyar TL tahsil edildi."
+        "Soruşturmalarda toplam 498 şüpheli bulunurken 129 şüpheli tutuklandı, 289 şüpheli hakkında adli kontrol kararı verildi.",
+        "Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi.",
+        "417 gerçek kişi ve 149 tüzel kişinin mal varlıkları hakkında el koyma ve dondurma kararı uygulandı."
       ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-gurlekten-fon-sorusturmasi-aciklamasi-129-supheli-tutuklu-7702635",
       "publishedAt": "2026-11-17T16:47:05.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:28:56.932Z"
+      "imageSearchAttemptedAt": "2026-11-17T17:28:56.932Z",
+      "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/kirpi-ahmet-cinayeti-davasinda-kan-donduran-ifade-adam-yaktim-kullerini-bulamadilar-diyordu-7702633",
@@ -210,8 +254,8 @@
       "highlights": [],
       "externalUrl": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
       "publishedAt": "2026-11-17T16:39:01.000Z",
-      "category": "World",
-      "lang": "en",
+      "category": "Dünya",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-17T17:41:00.908Z"
     },
     {
@@ -219,15 +263,20 @@
       "headline": "Jensen Huang'dan Nvidia'ya dönüş sinyali: “Geri dönmekten onur duyarım”",
       "source": "Euronews",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1662947683395-1ce33bdcd094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SmVuc2VuJTIwSHVhbmclMjdkYW4lMjBOdmlkaWElMjd5YSUyMGQlQzMlQjZuJUMzJUJDJUM1JTlGJTIwc2lueWFsaSUzQSUyMCVFMiU4MCU5Q0dlcmklMjBkJUMzJUI2bm1la3RlbiUyMG9udXIlMjBkdXlhciVDNCVCMW0lRTIlODAlOUR8ZW58MXwwfHx8MTc5NDkzNzQ4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo--ZS3S9a3jEQ"
+      },
       "timeAgo": "18 dk önce",
       "body": "Jensen Huang, istifasından bu yana yaptığı ilk açıklamada, şirkete CEO olarak geri dönmeye hazır olduğunu belirtti.",
       "highlights": [],
       "externalUrl": "https://tr.euronews.com/2026/11/17/jensen-huang-nvidiada-ceoluk-gorevine-donmeye-hazir-oldugunu-soyledi",
       "publishedAt": "2026-11-17T16:37:11.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-17T17:44:30.765Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/hgsde-habersiz-ceza-cikmazi-165-liralik-gecis-icra-dosyasiyla-20-katina-cikiyor-4873590",
