@@ -1,6 +1,59 @@
 {
-  "generatedAt": "2026-11-17T16:24:42.850Z",
+  "generatedAt": "2026-11-17T16:35:01.857Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/polis-sandiginin-parasi-fonlarda-batti-mi-icisleri-bakani-sandigin-zarari-olmadigini-acikladi-1751335",
+      "headline": "İçişleri Bakanı Mustafa Çiftçi'den POLSAN Açıklaması",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1759663176274-6d3fa700b87a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwYmFkZ2V8ZW58MXwwfHx8MTc5NDkzMzMwMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Addy Spartacus",
+        "photographerUrl": "https://unsplash.com/@addyspartacus",
+        "unsplashUrl": "https://unsplash.com/photos/lego-police-officer-holding-a-baton-against-dark-background-H-zeX-m8saA"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "İçişleri Bakanı Mustafa Çiftçi, Polis Bakım ve Yardım Sandığı'nın (POLSAN) varlığının fonda battığına yönelik iddialar hakkında açıklama yaptı. Bakan Çiftçi, sandığın herhangi bir zararı olmadığını, bir ihtimal bulunması durumunda ise gerekli işlemlerin yapılacağını belirtti.",
+      "highlights": [
+        "POLSAN'ın varlığının fonda battığı iddiaları yalanlandı",
+        "Bakan Çiftçi sandığın zararı olmadığını açıkladı",
+        "İhtimal olması durumunda gerekli işlemlerin yapılacağı belirtildi"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/polis-sandiginin-parasi-fonlarda-batti-mi-icisleri-bakani-sandigin-zarari-olmadigini-acikladi-1751335",
+      "publishedAt": "2026-11-17T16:28:34.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/bakan-kurum-ust-duzey-bakanlar-toplantisinda-konustu-ikinci-taslak-metni-yarin-paylasacagiz-7702628",
+      "headline": "Bakan Kurum Üst Düzey Bakanlar Toplantısı'nda konuştu: İkinci taslak metni yarın paylaşacağız",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "10 dk önce",
+      "body": "Bakan Kurum, \"2030 Öncesi Hedeflerin Yükseltilmesine İlişkin Üst Düzey Bakanlar Yuvarlak Masa Toplantısı\"nda yaptığı konuşmada, 2030 yaklaşırken iklim hedeflerini sahada görülen sonuçlara dönüştürmenin önemine değindi. Emisyon azaltımını hızlandırırken kalkınma önceliklerini, enerji güvenliğini, istihdamı ve adil geçiş ihtiyacını aynı çerçevede ele almak gerektiğine dikkati çeken Kurum, Paris Anlaşması'nın ortaya…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-kurum-ust-duzey-bakanlar-toplantisinda-konustu-ikinci-taslak-metni-yarin-paylasacagiz-7702628",
+      "publishedAt": "2026-11-17T16:24:49.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki-963594.html",
+      "headline": "İran Meclis Başkanı Kalibaf'tan ABD basınındaki kirli bomba haberine tepki",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "11 dk önce",
+      "body": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD merkezli CNN televizyonunun, İran'ın Washington'da \"kirli bomba\" veya kimyasal silah kullanarak ABD Başkanı Donald Trump yönetiminin üst düzey yetkililerini hedef almaya yönelik planlar geliştirdiği iddiasına sert tepki göstererek, ABD medyasını İsrail yanlısı propaganda yapmakla suçladı.",
+      "highlights": [],
+      "externalUrl": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki-963594.html",
+      "publishedAt": "2026-11-17T16:24:00.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cmp3vz0z4zrno?at_medium=RSS&at_campaign=rss",
       "headline": "Sözcü TV'nin Yayınları Durduruldu ve Kayyum Atandı",
@@ -48,6 +101,21 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Back to 1997: Russia wants NATO to roll back its eastern expansion",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "15 dk önce",
+      "body": "The Kremlin is reportedly calling on NATO to withdraw from large parts of Eastern Europe. What this would mean for the security of millions of Europeans — and what lies behind Russia's plan.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-17T16:20:00.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
       "headline": "US loses measles elimination status after 26 years amid record case numbers",
       "source": "BBC News",
@@ -91,6 +159,21 @@
       "publishedAt": "2026-11-17T16:17:23.000Z",
       "category": "Gündem",
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+      "headline": "US loses measles elimination status amid worst outbreak since 1991",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "19 dk önce",
+      "body": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+      "publishedAt": "2026-11-17T16:16:24.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.haberturk.com/gundem/ak-parti-den-81-ilde-saha-calismasi-3928043",
@@ -10116,6 +10199,7 @@
     "https://www.aa.com.tr/tr/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz/4128127",
     "https://www.haberturk.com/dunya/son-dakika-rusya-da-askeri-ucak-dustu-17-olu-3928037",
     "https://www.yenisafak.com/gundem/son-dakika-vanda-deprem-mi-oldu-afad-son-depremler-listesi-2026-4873585",
-    "https://www.ntv.com.tr/turkiye/vanda-43-buyuklugunde-deprem-1751338"
+    "https://www.ntv.com.tr/turkiye/vanda-43-buyuklugunde-deprem-1751338",
+    "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss"
   ]
 }
