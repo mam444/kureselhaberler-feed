@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T16:50:16.410Z",
+  "generatedAt": "2026-11-17T16:54:51.501Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
+      "headline": "2026 KPSS Merkezi Atama Tercih Takvimi ve Kılavuzu Bekleniyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1624969862293-b749659ccc4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZXhhbSUyMGNhbGVuZGFyfGVufDF8MHx8fDE3OTQ5MzQ0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Towfiqu barbhuiya",
+        "photographerUrl": "https://unsplash.com/@towfiqu999999",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-pink-analog-alarm-clock-jOeh3Lv88xA"
+      },
+      "timeAgo": "şimdi",
+      "body": "Kamu kurumlarında memur olmak isteyen lisans, ön lisans ve ortaöğretim mezunu adaylar, 2026 KPSS merkezi atama tercih takvimi ve kılavuzunun ne zaman yayımlanacağını merak ediyor. Kadro ve kontenjanların belirlenmesinin ardından ÖSYM tarafından yapılacak duyuru bekleniyor.",
+      "highlights": [
+        "2026 KPSS merkezi atama tercih takvimi ve tarihleri bekleniyor",
+        "Lisans, ön lisans ve ortaöğretim adayları süreci takip ediyor",
+        "Kadro ve kontenjanların ardından tercih kılavuzu yayımlanacak"
+      ],
+      "externalUrl": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
+      "publishedAt": "2026-11-17T16:58:28.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-8-supheli-tutuklama-talebiyle-hakimlige-sevk-edildi-3494455",
       "headline": "Fon soruşturmasında 8 şüpheli tutuklama talebiyle hakimliğe sevk edildi",
@@ -47,6 +70,29 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.milliyet.com.tr/gundem/kirpi-ahmet-cinayeti-davasinda-kan-donduran-ifade-adam-yaktim-kullerini-bulamadilar-diyordu-7702633",
+      "headline": "'Kirpi Ahmet' cinayeti davasında kan donduran ifade",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1711003596872-aa68f08a4b8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc5NDkzNDQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dragon White Munthe",
+        "photographerUrl": "https://unsplash.com/@fotomagi",
+        "unsplashUrl": "https://unsplash.com/photos/an-empty-courtroom-with-wooden-paneling-and-columns-Bh6u25Qv9qA"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Zonguldak'ta 2008'de kaybolan Ahmet Yılmaz'ın kemikleri 2010'da barajda bulundu. Yıllar sonra açılan davada sanıklar, Yılmaz'ı öldürmekle suçladıkları Baycan İleri'nin 2017'de lösemiden öldüğünü belirtti. Duruşmada sanık Köksal Aktaş, cinayeti İleri'nin işlediğini söyledi.",
+      "highlights": [
+        "Ahmet Yılmaz'ın kemikleri 2010'da Ulutan Barajı'nda bulundu",
+        "Sanıklar cinayetle suçladıkları Baycan İleri'nin 2017'de lösemiden öldüğünü belirtti",
+        "Sanık Köksal Aktaş, Yılmaz'ı İleri'nin öldürdüğünü söyledi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/kirpi-ahmet-cinayeti-davasinda-kan-donduran-ifade-adam-yaktim-kullerini-bulamadilar-diyordu-7702633",
+      "publishedAt": "2026-11-17T16:44:51.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/gundem/fon-sorusturmalarinda-404-milyar-liralik-geri-kazanim-4873591",
       "headline": "Fon soruşturmalarında 40,4 milyar liralık geri kazanım",
       "source": "Yeni Şafak",
@@ -88,6 +134,51 @@
       "highlights": [],
       "externalUrl": "https://www.haberturk.com/gundem/son-dakika-akin-gurlek-fon-sorusturmasi-derinlesiyor-3928047",
       "publishedAt": "2026-11-17T16:41:46.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+      "headline": "Photos: Tens of thousands rally in France over living standards and wages",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "16 dk önce",
+      "body": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+      "publishedAt": "2026-11-17T16:39:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://tr.euronews.com/2026/11/17/jensen-huang-nvidiada-ceoluk-gorevine-donmeye-hazir-oldugunu-soyledi",
+      "headline": "Jensen Huang'dan Nvidia'ya dönüş sinyali: “Geri dönmekten onur duyarım”",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "18 dk önce",
+      "body": "Jensen Huang, istifasından bu yana yaptığı ilk açıklamada, şirkete CEO olarak geri dönmeye hazır olduğunu belirtti.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/17/jensen-huang-nvidiada-ceoluk-gorevine-donmeye-hazir-oldugunu-soyledi",
+      "publishedAt": "2026-11-17T16:37:11.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/video/gundem/hgsde-habersiz-ceza-cikmazi-165-liralik-gecis-icra-dosyasiyla-20-katina-cikiyor-4873590",
+      "headline": "HGS’de ‘habersiz ceza’ çıkmazı: 165 liralık geçiş icra dosyasıyla 20 katına çıkıyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "18 dk önce",
+      "body": "Otomatik ödeme talimatı ve yeterli bakiyesi olmasına rağmen teknik aksaklıklar nedeniyle HGS geçişi okunmayan milyonlarca sürücü, kendilerine hiçbir uyarı yapılmadan gönderilen icra tebligatlarıyla karşı karşıya kalıyor. Ekim ayında değişen ödeme sistemiyle birlikte Karayolları’na yönelik şikayetler yüzde 311 artarken, sürücüler tüm borçların tek bir e-Devlet ekranında toplanmasını talep ediyor.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/hgsde-habersiz-ceza-cikmazi-165-liralik-gecis-icra-dosyasiyla-20-katina-cikiyor-4873590",
+      "publishedAt": "2026-11-17T16:36:25.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
