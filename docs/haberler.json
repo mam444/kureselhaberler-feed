@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T12:44:26.328Z",
+  "generatedAt": "2026-11-17T12:54:36.627Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-dervisoglunu-ziyaret-etti-7702502",
+      "headline": "TBMM Başkanı Kurtulmuş'tan Dervişoğlu'na 'Terörsüz Türkiye' ziyareti",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1760872645513-63b6846ce3c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cGFybGlhbWVudCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQ5MjAwNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zoshua Colah",
+        "photographerUrl": "https://unsplash.com/@zoshuacolah",
+        "unsplashUrl": "https://unsplash.com/photos/grand-building-reflected-in-a-calm-pool-of-water-DReqTYC2PkA"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "TBMM Başkanı Numan Kurtulmuş, 'Terörsüz Türkiye' süreci kapsamında kurulacak İzleme Komisyonu'yla ilgili İYİ Parti Genel Başkanı Müsavat Dervişoğlu'nu Meclis'teki makamında ziyaret etti. Basına kapalı gerçekleşen yaklaşık 45 dakikalık görüşmenin ardından Dervişoğlu, İYİ Parti olarak İzleme Komisyonu'na katılmayacaklarını ancak çalışmaları izleyeceklerini bildirdi.",
+      "highlights": [
+        "TBMM Başkanı Kurtulmuş, İYİ Parti lideri Dervişoğlu'nu ziyaret etti.",
+        "Görüşme basına kapalı olarak yaklaşık 45 dakika sürdü.",
+        "İYİ Parti, kurulacak İzleme Komisyonu'na katılmayacağını açıkladı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-dervisoglunu-ziyaret-etti-7702502",
+      "publishedAt": "2026-11-17T12:51:49.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/spor/galatasaray-da-zemin-seferberligi-aston-villa-ya-ozel-talep-3927989",
       "headline": "Galatasaray'da zemin seferberliği",
@@ -9151,6 +9174,7 @@
     "https://www.yenisafak.com/galeri/gundem/yozgatta-yetismez-denilen-meyveleri-bahcesinde-yetistirdi-4873505",
     "https://www.aa.com.tr/tr/ekonomi/sizdirilan-15-milyondan-fazla-belge-deutsche-banktaki-usulsuzlukleri-ve-riskli-iliskileri-ortaya-cikardi/4127778",
     "https://www.yenisafak.com/gundem/osmaniyede-hareket-eden-minibusu-esnaf-durdurdu-4873510",
-    "https://www.yenisafak.com/galeri/gundem/amasyada-altin-kaplama-lokuma-gumus-alternatif-uretildi-4873517"
+    "https://www.yenisafak.com/galeri/gundem/amasyada-altin-kaplama-lokuma-gumus-alternatif-uretildi-4873517",
+    "https://www.yenisafak.com/gundem/kirikkalede-kamyon-devrildi-surucu-yaralandi-4873526"
   ]
 }
