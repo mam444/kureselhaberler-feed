@@ -1,22 +1,37 @@
 {
-  "generatedAt": "2026-11-17T16:05:10.514Z",
+  "generatedAt": "2026-11-17T16:05:52.364Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/17/applea-pariste-dava-iphonelarda-planli-eskitme-iddiasi",
+      "headline": "Apple'a Paris'te dava: iPhone'larda planlı eskitme iddiası",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Suçlu bulunması halinde, ABD teknoloji şirketi, yıllık gelirinin %5’ine kadar, yaklaşık 21,7 milyar € tutarında para cezası ile karşı karşıya kalabilir.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/17/applea-pariste-dava-iphonelarda-planli-eskitme-iddiasi",
+      "publishedAt": "2026-11-17T16:03:10.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-suriyede-entegrasyonu-destekliyoruz-7702586",
       "headline": "Dışişleri Bakanı Hakan Fidan: Mekke İttifakı'na yeni katılımlar isteriz",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1629160474797-b5218fc7a8d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SGFrYW4lMjBGaWRhbnxlbnwxfDB8fHwxNzk0ODM5MTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1647551638486-34d535922e9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SGFrYW4lMjBGaWRhbnxlbnwxfDB8fHwxNzk0OTMxNTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageCredit": {
-        "photographer": "光曦 刘",
-        "photographerUrl": "https://unsplash.com/@liuguangxi",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-in-black-and-red-shirts-Ki8yGqh5BtU"
+        "photographer": "farin sadiq",
+        "photographerUrl": "https://unsplash.com/@farinsadiq",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-buildings-with-a-mountain-in-the-background-5tyEO5M8lyI"
       },
-      "timeAgo": "2 dk önce",
-      "body": "Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile ortak basın toplantısında konuştu. Fidan, Mekke Savunma İttifakı'nı bölge ülkeleri arasında kalıcı işbirliği zaruretiyle hayata geçirdiklerini belirterek, ittifaka gösterilen yakın ilginin barış odaklı çalışmaların olumlu etkisini gösterdiğini söyledi.",
+      "timeAgo": "3 dk önce",
+      "body": "Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile düzenlenen ortak basın toplantısında konuştu. Fidan, Mekke İttifakı'na gösterilen yakın ilginin barış odaklı çalışmaların olumlu etkisini gösterdiğini belirterek ittifaka yeni katılımlar istediklerini ifade etti.",
       "highlights": [
-        "Dışişleri Bakanı Hakan Fidan basın toplantısında konuştu",
-        "Mekke Savunma İttifakı hayata geçirildi"
+        "Dışişleri Bakanı Hakan Fidan, Suriye Dışişleri Bakanı Esad Hasan Şeybani ile ortak basın toplantısı düzenledi.",
+        "Fidan, Mekke İttifakı'na yeni katılımlar istediklerini belirtti."
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-suriyede-entegrasyonu-destekliyoruz-7702586",
       "publishedAt": "2026-11-17T16:02:34.000Z",
@@ -150,11 +165,41 @@
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
       "imageUrl": null,
       "imageCredit": null,
-      "timeAgo": "16 dk önce",
+      "timeAgo": "17 dk önce",
       "body": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
       "highlights": [],
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
       "publishedAt": "2026-11-17T15:49:11.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win",
+      "headline": "Serbia's student-backed MPs take seats in parliament after election win",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "17 dk önce",
+      "body": "Serbia's Student ⁠List lawmakers entered parliament ​on Tuesday, cheered on by hundreds of supporters, after their October ​election victory ended 14 years of rule by the Serbian Progressive Party (SNS). The Student List, a group that includes academics, professionals, farmers, actors and activists ​chosen ‌by student assemblies, secured 140 seats in the ⁠250-member parliament in October 25 polls, while the SNS…",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win",
+      "publishedAt": "2026-11-17T15:48:34.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Rights court rules Turkey must release jailed lawmaker Atalay",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "19 dk önce",
+      "body": "The European Court of Human Rights has called for the release of imprisoned elected lawmaker Can Atalay. Atalay has been in prison for almost five years despite rulings from the Turkish Constitutional Court.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-17T15:47:00.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -348,21 +393,6 @@
       "lang": "en"
     },
     {
-      "id": "https://www.haberturk.com/gundem/sahinbey-belediyesi-nden-zeytinyagi-satisi-3928036",
-      "headline": "Şahinbey Belediyesi'nden zeytinyağı satışı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "33 dk önce",
-      "body": "Gaziantep'in Şahinbey Belediyesi, çiftçilerden doğrudan temin ettiği zeytinyağının 17,5 litresini 4 bin 250 liradan satışa sundu. Başkan Mehmet Tahmazoğlu, belediye olarak yaklaşık 10 yıldır çiftçilere yönelik tarımsal destek çalışmalarını sürdürdüklerini belirterek, \"Amacımız hem çiftçimizin ürününü değerlendirmek hem de vatandaşlarımızın kaliteli ve doğal zeytinyağına daha uygun fiyatlarla ulaşmasını sağlamak\" dedi",
-      "highlights": [],
-      "externalUrl": "https://www.haberturk.com/gundem/sahinbey-belediyesi-nden-zeytinyagi-satisi-3928036",
-      "publishedAt": "2026-11-17T15:32:22.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
       "id": "https://www.sabah.com.tr/dunya/son-dakika-i-rusyada-askeri-nakliye-ucagi-dustu-17-kisi-hayatini-kaybetti-7703795",
       "headline": "SON DAKİKA I Rusya'da askeri nakliye uçağı düştü: 17 kişi hayatını kaybetti!",
       "source": "Sabah",
@@ -376,21 +406,6 @@
       "publishedAt": "2026-11-17T15:29:59.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-      "headline": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "35 dk önce",
-      "body": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth €900bn ($990.54bn)…",
-      "highlights": [],
-      "externalUrl": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-      "publishedAt": "2026-11-17T15:29:41.000Z",
-      "category": "World",
-      "lang": "en"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
@@ -457,21 +472,6 @@
       "externalUrl": "https://www.bbc.com/turkce/articles/crq5vlxqp96wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T15:25:29.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/kesanda-iki-otomobil-carpisti-3-kisi-yaralandi-4873578",
-      "headline": "Keşan girişinde iki otomobil çarpıştı: Üç yaralı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "40 dk önce",
-      "body": "Edirne'nin Keşan ilçesinde ilçe girişindeki kavşakta 2 otomobilin çarpışması sonucu 3 kişi yaralandı. Yaralılar, ambulanslarla Keşan Devlet Hastanesi'ne kaldırılarak tedavi altına alındı.",
-      "highlights": [],
-      "externalUrl": "https://www.yenisafak.com/gundem/kesanda-iki-otomobil-carpisti-3-kisi-yaralandi-4873578",
-      "publishedAt": "2026-11-17T15:25:11.000Z",
-      "category": "Gündem",
       "lang": "tr"
     },
     {
