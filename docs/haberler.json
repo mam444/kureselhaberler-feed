@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-17T11:45:06.800Z",
+  "generatedAt": "2026-11-17T11:54:35.406Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/kan-donduran-cinayet-suc-makinesi-annesini-doverek-oldurdu-7702464",
+      "headline": "Nurettin Gürgün, Annesini Döverek Öldürdü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1638415383201-90701d9d9b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzk0OTE2NDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "WrS.tm.pl",
+        "photographerUrl": "https://unsplash.com/@wrstmpl",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-driving-down-a-street-next-to-a-tall-building-WCddNxEdlwY"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Çarşamba ilçesinde cezaevinden 2 ay önce çıkan Nurettin Gürgün, birlikte yaşadığı 71 yaşındaki annesi İftadiye Gürgün'ü evde darp ederek öldürdü. Hastaneye kaldırılan yaşlı kadın kurtarılamazken, 23 suç kaydı bulunan zanlı gözaltına alınarak adliyeye sevk edildi.",
+      "highlights": [
+        "Nurettin Gürgün annesini darp ederek öldürdü",
+        "İftadiye Gürgün hastanede hayatını kaybetti",
+        "Zanlı gözaltına alınarak adliyeye sevk edildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/kan-donduran-cinayet-suc-makinesi-annesini-doverek-oldurdu-7702464",
+      "publishedAt": "2026-11-17T11:53:19.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "headline": "GTA 6 Hayranlarının Uzun Uzadıya Yaptıkları ve Ön Sipariş Gelirleri",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1748615514751-6a2c3ad81a72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8R1RBJTIwNnxlbnwxfDB8fHwxNzk0OTE2NDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zoshua Colah",
+        "photographerUrl": "https://unsplash.com/@zoshuacolah",
+        "unsplashUrl": "https://unsplash.com/photos/a-colorful-building-shines-at-night-7zTPONhVVZ8"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Hayranlar GTA 6 için Yeni Zelanda'da gibi davranma, izin alma ve konsol satın alma gibi yollara başvuruyor. Sensor Tower, oyunun PlayStation ve Xbox'taki ön siparişlerden şimdiden 1,18 milyar dolar kazandığını tahmin ediyor.",
+      "highlights": [
+        "Hayranlar Yeni Zelanda'da gibi davranıyor, izin alıyor ve konsol satın alıyor",
+        "Sensor Tower oyunun ön siparişlerden 1,18 milyar dolar kazandığını tahmin ediyor"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T11:49:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanin-karadeniz-bolgesinde-gaz-tankeri-batti-3-bin-400-ton-lpg-tasiyordu-7702461",
       "headline": "Bulgaristan'ın Karadeniz bölgesinde gaz tankeri battı",
