@@ -10,23 +10,19 @@ import { jaccardSimilarity } from './similarity.mjs';
 import { decodeHtmlEntities } from './html-text.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-// The feed runs every ten minutes. Publish up to six fresh items per run while
-// keeping Gemini usage at two rewrites; the remaining slots use a short,
-// verified publisher RSS summary. This broadens coverage without increasing
-// Gemini calls. Gemini's active limits vary by project/model and are checked
-// in AI Studio; the verified-RSS fallback keeps articles flowing on errors.
-// The feed runs every ten minutes. Cap each run and the rolling-hour total
-// to the measured number of distinct NTV RSS stories.
+// The feed runs every ten minutes. Keep a per-run and rolling-hour cap based
+// on the measured number of distinct NTV RSS stories.
 const MAX_NEW_PER_RUN = 2;
 const MAX_NEW_PER_HOUR = 9;
 const MAX_GEMINI_REWRITES_PER_RUN = 2;
+const MAX_OLD_STORY_REWRITES_PER_RUN = 1;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
 // stale RSS backlog (or a publisher's ancient archive item) masquerade as
 // current news in the app or on the website.
 const MAX_ARTICLE_AGE_MS = 7 * 24 * 60 * 60 * 1000;
 const MAX_REJECTED_IDS = 2_000;
-const MAX_SOURCE_SUMMARY_CHARS = 1600;
+const MAX_SOURCE_SUMMARY_CHARS = 6000;
 // Headlines alone do not contain enough evidence for a reliable article.
 const MIN_SOURCE_SUMMARY_CHARS = 100;
 // Gemini çıktısı kaynağa bu eşiğin üzerinde benzerse "yeterince yeniden
@@ -34,6 +30,8 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 const MAX_ALLOWED_SIMILARITY = 0.5;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
 const RSS_FALLBACK_MAX_CHARS = 420;
+const MAX_IMAGE_BACKFILLS_PER_RUN = 2;
+const IMAGE_SEARCH_RETRY_MS = 24 * 60 * 60 * 1000;
 
 function isWithinNewsWindow(article, now = Date.now()) {
   const publishedAt = Date.parse(article.publishedAt ?? '');
@@ -108,12 +106,10 @@ async function rewriteAndIllustrate(raw) {
       return { article: null, permanentlyRejected: true };
     }
 
-    const photo = rewritten.imageKeyword
-      ? await findPhoto(
-          [rewritten.imageKeyword, raw.category, 'news'],
-          UNSPLASH_ACCESS_KEY,
-        )
-      : null;
+    const photo = await findPhoto(
+      [rewritten.imageKeyword, raw.headline].filter(Boolean),
+      UNSPLASH_ACCESS_KEY,
+    );
 
     return {
       article: {
@@ -147,7 +143,7 @@ async function rewriteAndIllustrate(raw) {
   }
 }
 
-function createRssFallback(raw) {
+async function createRssFallback(raw) {
   const summary = String(raw.body ?? '').trim();
   if (summary.length < MIN_SOURCE_SUMMARY_CHARS) {
     console.warn(`[fallback] "${raw.headline}" RSS özeti yetersiz; içerik uydurmamak için atlandı.`);
@@ -156,14 +152,17 @@ function createRssFallback(raw) {
   const excerpt = summary.length <= RSS_FALLBACK_MAX_CHARS
     ? summary
     : `${summary.slice(0, RSS_FALLBACK_MAX_CHARS).replace(/\s+\S*$/, '').trim()}…`;
+  const photo = await findPhoto([raw.headline], UNSPLASH_ACCESS_KEY);
   return {
     id: raw.id,
     headline: raw.headline,
     source: raw.source,
     sourceIconUrl: raw.sourceIconUrl,
-    // Use the publisher-provided image when Gemini's illustration step fails.
-    imageUrl: raw.imageUrl ?? null,
-    imageCredit: null,
+    // If the rewrite or its specific image search fails, use a licensed stock
+    // photo matched to the actual headline. Never substitute an unrelated
+    // generic image or scrape a Google Images result.
+    imageUrl: photo?.imageUrl ?? null,
+    imageCredit: photo?.imageCredit ?? null,
     timeAgo: timeAgoTrSnapshot(raw.publishedAt),
     body: excerpt,
     highlights: [],
@@ -181,14 +180,6 @@ async function main() {
 
   console.log(`[main] ${ALL_SOURCES.length} kaynak taranıyor...`);
   const fetched = await fetchAllSources(ALL_SOURCES);
-  // Recover real publisher thumbnails for existing stories too. Some feeds
-  // refresh their item metadata, so old JSON entries may lack an image even
-  // though the source still provides one.
-  const sourceImagesById = new Map(
-    fetched
-      .filter((article) => article.id && article.imageUrl)
-      .map((article) => [article.id, article.imageUrl]),
-  );
 
   const seenIds = new Set();
   const deduped = [];
@@ -252,16 +243,32 @@ async function main() {
     if (!bySource.has(a.source)) bySource.set(a.source, []);
     bySource.get(a.source).push(a); // already newest-first, from `deduped`'s sort
   }
-  const brandNewRaw = [];
-  for (let addedInRound = true; brandNewRaw.length < runSlotsRemaining && addedInRound; ) {
-    addedInRound = false;
-    for (const list of bySource.values()) {
-      if (brandNewRaw.length >= runSlotsRemaining) break;
-      if (list.length > 0) {
-        brandNewRaw.push(list.shift());
-        addedInRound = true;
+  const languagePools = { tr: [], en: [] };
+  for (const list of bySource.values()) {
+    const language = list[0]?.lang === 'en' ? 'en' : 'tr';
+    languagePools[language].push(list);
+  }
+  const languagePoolCursors = { tr: 0, en: 0 };
+  const takeFromLanguage = (language) => {
+    const pool = languagePools[language];
+    if (!pool.length) return null;
+    for (let checked = 0; checked < pool.length; checked += 1) {
+      const index = (languagePoolCursors[language] + checked) % pool.length;
+      if (pool[index].length) {
+        languagePoolCursors[language] = (index + 1) % pool.length;
+        return pool[index].shift();
       }
     }
+    return null;
+  };
+  const brandNewRaw = [];
+  while (brandNewRaw.length < runSlotsRemaining) {
+    // Keep English-origin global feeds visible alongside Turkish coverage.
+    const preferredLanguage = brandNewRaw.length % 2 === 0 ? 'en' : 'tr';
+    const article = takeFromLanguage(preferredLanguage)
+      ?? takeFromLanguage(preferredLanguage === 'en' ? 'tr' : 'en');
+    if (!article) break;
+    brandNewRaw.push(article);
   }
   console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (${alreadyPublishedThisHour}/${MAX_NEW_PER_HOUR} son saat kotası kullanılmış, çalıştırma sınırı ${MAX_NEW_PER_RUN}, ${bySource.size} kaynaktan).`);
 
@@ -276,7 +283,7 @@ async function main() {
       dailyGeminiQuotaExceeded ||
       geminiRewriteCount >= MAX_GEMINI_REWRITES_PER_RUN
     ) {
-      const fallback = createRssFallback(raw);
+      const fallback = await createRssFallback(raw);
       if (fallback) rewritten.push(fallback);
       continue;
     }
@@ -285,24 +292,65 @@ async function main() {
     if (result.article) rewritten.push(result.article);
     else if (result.dailyQuotaExceeded) {
       dailyGeminiQuotaExceeded = true;
-      const fallback = createRssFallback(raw);
+      const fallback = await createRssFallback(raw);
       if (fallback) rewritten.push(fallback);
       console.warn('[fallback] Gemini günlük kotası dolu; kalan haberlerde yalnızca doğrulanmış RSS başlığı ve kısa özeti kullanılacak.');
     } else if (result.permanentlyRejected) {
       // If Gemini's rewrite is too close to its source, retain the verified
       // publisher summary instead of discarding a valid fresh report.
-      const fallback = createRssFallback(raw);
+      const fallback = await createRssFallback(raw);
       if (fallback) rewritten.push(fallback);
       else permanentlyRejected.push(raw.id);
     } else {
       // A transient Gemini/photo error should not make a fresh story wait for
       // another ten-minute cycle when the publisher already supplied a summary.
-      const fallback = createRssFallback(raw);
+      const fallback = await createRssFallback(raw);
       if (fallback) rewritten.push(fallback);
     }
   }
 
-  const merged = [...rewritten, ...previous]
+  // Enrich older short stories only when a publisher's current RSS item has
+  // materially more source text. This runs slowly to stay inside Gemini
+  // limits, does not send notifications, and never pads a short source.
+  const oldStoryUpgrades = [];
+  if (GEMINI_API_KEY) {
+    const rssById = new Map(fetched.filter((article) => article.id && article.body).map((article) => [article.id, article]));
+    const wordCount = (value) => String(value ?? '').trim().split(/\s+/).filter(Boolean).length;
+    const oldCandidates = previous
+      .map((article) => ({ article, rss: rssById.get(article.id) }))
+      .filter(({ article, rss }) => rss
+        && wordCount(article.body) < 90
+        && String(rss.body).length > String(article.body ?? '').length + 450)
+      .slice(0, MAX_OLD_STORY_REWRITES_PER_RUN);
+
+    for (const { article, rss } of oldCandidates) {
+      try {
+        const sourceBody = String(rss.body).slice(0, MAX_SOURCE_SUMMARY_CHARS);
+        const upgraded = await rewriteArticle(
+          { headline: rss.headline, body: sourceBody, category: article.category ?? rss.category },
+          GEMINI_API_KEY,
+        );
+        const sourceText = `${rss.headline} ${sourceBody}`;
+        const rewrittenText = `${upgraded.headline} ${upgraded.body}`;
+        if (
+          wordCount(upgraded.body) >= 90
+          && jaccardSimilarity(sourceText, rewrittenText) <= MAX_ALLOWED_SIMILARITY
+        ) {
+          oldStoryUpgrades.push({
+            ...article,
+            headline: upgraded.headline,
+            body: upgraded.body,
+            highlights: upgraded.highlights?.length ? upgraded.highlights : article.highlights,
+          });
+          console.log(`[backfill] "${article.headline.slice(0, 60)}" ayrıntılı RSS metninden genişletildi.`);
+        }
+      } catch (err) {
+        console.warn(`[backfill] "${article.headline.slice(0, 60)}" genişletilemedi: ${err.message}`);
+      }
+    }
+  }
+
+  const merged = [...rewritten, ...oldStoryUpgrades, ...previous]
     .map((article) => {
       // Historical Gemini translations were incorrectly tagged with their
       // publisher's source language and English world category. The app
@@ -312,7 +360,10 @@ async function main() {
           || (Array.isArray(article.highlights) && article.highlights.length > 0));
       return {
         ...article,
-        imageUrl: article.imageUrl ?? sourceImagesById.get(article.id) ?? null,
+        // Keep licensed Unsplash imagery and replace old publisher thumbnails
+        // gradually with a relevant stock photo where a match is available.
+        imageUrl: article.imageCredit?.unsplashUrl ? article.imageUrl : null,
+        imageCredit: article.imageCredit?.unsplashUrl ? article.imageCredit : null,
         headline: decodeHtmlEntities(article.headline),
         body: article.body ? decodeHtmlEntities(article.body) : article.body,
         lang: wasTranslatedToTurkish ? 'tr' : article.lang,
@@ -334,6 +385,25 @@ async function main() {
       };
     })())
     .slice(0, MAX_TOTAL_ARTICLES);
+
+  // Gradually give image-less stories a topic-matched, credited Unsplash photo.
+  // One search per candidate keeps the API comfortably below its hourly limit.
+  if (UNSPLASH_ACCESS_KEY) {
+    const imageBackfillCandidates = merged
+      .filter((article) => !article.imageUrl && article.headline
+        && (!Number.isFinite(Date.parse(article.imageSearchAttemptedAt ?? ''))
+          || now - Date.parse(article.imageSearchAttemptedAt) >= IMAGE_SEARCH_RETRY_MS)
+        && !brandNewRaw.some((fresh) => fresh.id === article.id))
+      .slice(0, MAX_IMAGE_BACKFILLS_PER_RUN);
+    for (const article of imageBackfillCandidates) {
+      article.imageSearchAttemptedAt = new Date(now).toISOString();
+      const photo = await findPhoto([article.headline], UNSPLASH_ACCESS_KEY);
+      if (photo?.imageUrl) {
+        article.imageUrl = photo.imageUrl;
+        article.imageCredit = photo.imageCredit;
+      }
+    }
+  }
 
   await mkdir(path.dirname(FEED_PATH), { recursive: true });
   await writeFile(

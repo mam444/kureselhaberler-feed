@@ -67,10 +67,16 @@ function parseRssItem(item, source) {
   ).trim();
   if (!title || !link) return null;
 
+  // Some publishers put richer copy in content:encoded than in description.
+  // Keep the longer RSS field for our original summary, without scraping or
+  // republishing the publisher's full webpage.
   const descriptionRaw = textOf(item.description).trim();
-  const description = stripHtml(descriptionRaw);
+  const encodedRaw = textOf(item['content:encoded']).trim();
+  const description = stripHtml(descriptionRaw).length >= stripHtml(encodedRaw).length
+    ? stripHtml(descriptionRaw)
+    : stripHtml(encodedRaw);
   const publishedAt = item.pubDate ? new Date(textOf(item.pubDate)) : null;
-  const image = extractImageFromItem(item, descriptionRaw);
+  const image = extractImageFromItem(item, encodedRaw || descriptionRaw);
   // Always our own curated Turkish category, never the feed's own <category>
   // tag — those are inconsistent per source (some English, some missing),
   // and a real news site's category nav needs to be clean and predictable.
@@ -99,8 +105,9 @@ function parseAtomEntry(entry, source) {
 
   const summaryRaw = textOf(entry.summary).trim();
   const contentRaw = textOf(entry.content).trim();
-  const descriptionRaw = summaryRaw || contentRaw;
-  const description = stripHtml(descriptionRaw);
+  const description = stripHtml(summaryRaw).length >= stripHtml(contentRaw).length
+    ? stripHtml(summaryRaw)
+    : stripHtml(contentRaw);
   const publishedRaw = entry.published || entry.updated;
   const publishedAt = publishedRaw ? new Date(textOf(publishedRaw)) : null;
   const image = extractImageFromItem(entry, contentRaw || summaryRaw);

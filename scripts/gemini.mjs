@@ -21,9 +21,10 @@ DOĞRULUK KURALLARI (uzunluk veya üslup hedeflerinden önce gelir):
    yalnızca mevcut bilgiyi yaz; kısa bir haber özeti uzun ama dayanaksız metinden iyidir.
 3. Başlıkta haberin temel iddiasını değiştirme veya büyütme. Kaynak tümü büyük harfliyse normal
    Türkçe yazımına çevir; yeni bir iddia ekleme.
-4. Body'yi kaynakta bulunan ayrıntı miktarına göre yaz: tek paragrafta 1-3 kısa cümle, yaklaşık
-   25-70 kelime. Yalnızca kaynağı kısalt veya çevir; yeni bağlam ve arka plan ekleme. Kaynak
-   kısaysa daha kısa yaz. Uzunluk doldurmak için tekrar, tahmin veya genel dolgu cümlesi kullanma.
+4. Body'yi kaynakta bulunan ayrıntı miktarına göre, doğal haber diliyle 2-4 paragrafta yaklaşık
+   100-180 kelime olarak yaz. RSS metni bu kadar ayrıntı içermiyorsa yalnızca mevcut bilgiyi
+   kullanıp daha kısa yaz; uzunluk uğruna tekrar, tahmin, geçmiş bilgi veya genel dolgu ekleme.
+   Kaynak cümlelerini kopyalamadan özgün ifadelerle özetle ve iddiaları kime ait olduğunu koru.
 5. İngilizce kaynakları Türkçeye çevirirken yeni bilgi ekleme. Kaynağın dili veya anlamı belirsizse
    belirsizliği koru; boşlukları kendi varsayımınla doldurma.
 6. 1-3 kelimelik, İngilizce, Unsplash'ta aramaya uygun ve haber konusuna gerçekten uyan somut bir
