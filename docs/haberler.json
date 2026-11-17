@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-17T16:05:52.364Z",
+  "generatedAt": "2026-11-17T16:07:30.339Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/anadolu-mirasi-operasyonlari-eskisehirde-3-zanli-yakalandi-7702621",
+      "headline": "Eskişehir'de Anadolu Mirası Operasyonu: 3 şüpheli yakalandı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1650297878609-dbc7285b40a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aGlzdG9yaWNhbCUyMGFydGlmYWN0cyUyMHBvbGljZXxlbnwxfDB8fHwxNzk0OTMxNjUwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zachary Kadolph",
+        "photographerUrl": "https://unsplash.com/@zacharykadolph",
+        "unsplashUrl": "https://unsplash.com/photos/a-table-topped-with-lots-of-assorted-items-1LrYgrDZKFA"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Eskişehir'de düzenlenen Anadolu Mirası Operasyonları kapsamında 3 şüpheli yakalandı. Şüphelilerin aracında yapılan aramada 238 parça tarihi eser ele geçirilirken, gözaltına alınan zanlılar hakkında soruşturma başlatıldı.",
+      "highlights": [
+        "Eskişehir'de 3 şüpheli yakalandı",
+        "238 parça tarihi eser ele geçirildi",
+        "Şüpheliler hakkında soruşturma başlatıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/anadolu-mirasi-operasyonlari-eskisehirde-3-zanli-yakalandi-7702621",
+      "publishedAt": "2026-11-17T16:05:35.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gerceklestirdigi-saha-calismalarini-raporlastiracak/4128148",
+      "headline": "AK Parti \"Türkiye Yüzyılı Buluşmaları\" kapsamında ülke genelinde gerçekleştirdiği saha çalışmalarını raporlaştıracak",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "AK Parti, \"Türkiye Yüzyılı Buluşmaları\" kapsamında 81 ilde gerçekleştirdiği çalışmalar doğrultusunda hazırlayacağı raporu, Cumhurbaşkanı Recep Tayyip Erdoğan'a sunacak.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gerceklestirdigi-saha-calismalarini-raporlastiracak/4128148",
+      "publishedAt": "2026-11-17T16:05:17.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/17/applea-pariste-dava-iphonelarda-planli-eskitme-iddiasi",
       "headline": "Apple'a Paris'te dava: iPhone'larda planlı eskitme iddiası",
@@ -73,21 +111,6 @@
       "highlights": [],
       "externalUrl": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128144",
       "publishedAt": "2026-11-17T15:59:46.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128143",
-      "headline": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "6 dk önce",
-      "body": "Dünya Bankası, COP31 kapsamında, kalkınma önceliklerini desteklemenin ve dayanıklılığı artırmanın yanı sıra, istihdamı güçlendirmeyi amaçlayan 6,9 milyar dolarlık yatırımı tanıttı.",
-      "highlights": [],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128143",
-      "publishedAt": "2026-11-17T15:59:33.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -189,6 +212,21 @@
       "lang": "en"
     },
     {
+      "id": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
+      "headline": "Bakan Kurum: Antalya'da geleceğimiz adına önemli kararlar alalım istiyoruz",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "21 dk önce",
+      "body": "Bakan Kurum, \"Eylem Gündemini ilerletebilmek, bugün geldiğimiz noktayı daha yukarıya taşıyabilmek amacıyla bir Örtü Karar alacağımızı ifade etmiştik. Buna ilişkin ilk taslak metni yayınladık, geri dönüşleri aldık. İkinci taslak metni de yarın paylaşacağız. Hep birlikte istişare edeceğiz ve istiyoruz ki Antalya'da bir şeyler değişsin\" dedi.",
+      "highlights": [],
+      "externalUrl": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
+      "publishedAt": "2026-11-17T15:47:00.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
       "headline": "Rights court rules Turkey must release jailed lawmaker Atalay",
       "source": "DW English",
@@ -242,6 +280,21 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
+      "headline": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "23 dk önce",
+      "body": "President Donald Trump said Tuesday that US authorities take any possible threats to Washington ‘very seriously’, following reports that Iran was planning to target senior Trump administration officials, possibly with a radioactive bomb. Tehran dismissed the reports as ‘fabricated’.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
+      "publishedAt": "2026-11-17T15:44:54.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
       "id": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
       "headline": "Rus askeri nakliye uçağı Sibirya'da düştü: 17 kişi hayatını kaybetti",
       "source": "Milliyet",
@@ -276,6 +329,21 @@
       "highlights": [],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
       "publishedAt": "2026-11-17T15:43:12.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Ethiopia-Eritrea border clashes raise fears of regional war",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "25 dk önce",
+      "body": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Addis Ababa, Asmara and Khartoum, the Horn of Africa faces uncertain times ahead.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-17T15:43:00.000Z",
       "category": "World",
       "lang": "en"
     },
@@ -1163,29 +1231,6 @@
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/erzurumda-yaban-ve-cengel-boynuzlu-dag-kecisi-3-bini-asti-4873417",
       "publishedAt": "2026-11-17T09:13:58.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702350",
-      "headline": "Bakan Kacır: Yeşil ve dijital dönüşümle geleceğin sanayisini inşa ediyoruz",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1473341304170-971dccb5ac1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmVuZXdhYmxlJTIwZW5lcmd5fGVufDF8MHx8fDE3OTQ5MDY4Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Matthew Henry",
-        "photographerUrl": "https://unsplash.com/@matthewhenry",
-        "unsplashUrl": "https://unsplash.com/photos/photo-of-truss-towers-yETqkLnhsUI"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'daki COP31'de iklim değişikliğiyle mücadelede teknolojinin önemine dikkat çekti. Kacır, yapay zeka gibi teknolojilerin iklim dostu ve insanlığın yararına sunulmasının önemini vurgulayarak, enerji ihtiyacının yenilenebilir kaynaklarla karşılanması gerektiğini belirtti. Türkiye'nin enerji kurulu gücünün yüzde 62'sinin yenilenebilir kaynaklardan oluştuğunu ifade eden Kacır, 2040 hedeflerini paylaştı.",
-      "highlights": [
-        "Bakan Kacır Antalya'daki COP31'de açıklamalarda bulundu.",
-        "Türkiye'nin toplam enerji kurulu gücünün yüzde 62'si yenilenebilir kaynaklardan müteşekkil.",
-        "2040'a kadar yenilenebilir enerji kapasitesinin 175 gigavata çıkarılması amaçlanıyor."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702350",
-      "publishedAt": "2026-11-17T09:09:23.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     },
     {
@@ -9880,6 +9925,7 @@
     "https://www.yenisafak.com/gundem/bakan-kurum-filistin-pavilyonunu-ziyaret-etti-turkiye-gazzeyi-yeniden-ayaga-kaldiracak-4873581",
     "https://tr.euronews.com/2026/11/17/jensen-huang-nvidianin-cine-satislari-icin-1-aralikta-temsilciler-meclisinde-sorgulanacak",
     "https://www.aa.com.tr/tr/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz/4128127",
-    "https://www.haberturk.com/dunya/son-dakika-rusya-da-askeri-ucak-dustu-17-olu-3928037"
+    "https://www.haberturk.com/dunya/son-dakika-rusya-da-askeri-ucak-dustu-17-olu-3928037",
+    "https://www.yenisafak.com/gundem/son-dakika-vanda-deprem-mi-oldu-afad-son-depremler-listesi-2026-4873585"
   ]
 }
