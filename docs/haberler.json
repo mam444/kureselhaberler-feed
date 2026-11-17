@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-17T17:34:48.653Z",
+  "generatedAt": "2026-11-17T17:38:29.838Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
-      "headline": "2026 KPSS Merkezi Atama Tercih Takvimi ve Kılavuzu Bekleniyor",
+      "headline": "2026 KPSS Merkezi Atama Tercih Takvimi Belli Oldu",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
       "imageUrl": "https://images.unsplash.com/photo-1624969862293-b749659ccc4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZXhhbSUyMGNhbGVuZGFyfGVufDF8MHx8fDE3OTQ5MzQ0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -13,16 +13,17 @@
         "unsplashUrl": "https://unsplash.com/photos/white-and-pink-analog-alarm-clock-jOeh3Lv88xA"
       },
       "timeAgo": "şimdi",
-      "body": "Kamu kurumlarında memur olmak isteyen lisans, ön lisans ve ortaöğretim mezunu adaylar, 2026 KPSS merkezi atama tercih takvimi ve kılavuzunun ne zaman yayımlanacağını merak ediyor. Kadro ve kontenjanların belirlenmesinin ardından ÖSYM tarafından yapılacak duyuru bekleniyor.",
+      "body": "ÖSYM tarafından yayımlanan sınav ve yerleştirme takvimine göre, KPSS 2026/2 merkezi yerleştirme tercih süreci 17 Aralık 2026 Perşembe günü başlayacak ve 24 Aralık 2026 Perşembe günü sona erecek. Memur adayları tercih işlemleri için toplam 8 günlük süreye sahip olacak. Tercihler mülakatsız, KPSS puan üstünlüğüne göre yapılacak.\n\nTakvimin duyurulmasının ardından adaylar kadro ve kontenjanlar ile tercih kılavuzunun yayımlanmasını bekliyor. Kılavuzun yayımlanmasıyla lisans, ön lisans ve ortaöğretim mezunlarının başvurabileceği pozisyonlar ile kurum bilgileri, unvanlar, görev yerleri, kontenjanlar ve nitelik kodları ilan edilecek. Adaylar bu süreçte taban puanları ve kadro dağılımlarını inceleyerek planlama yapıyor.",
       "highlights": [
-        "2026 KPSS merkezi atama tercih takvimi ve tarihleri bekleniyor",
-        "Lisans, ön lisans ve ortaöğretim adayları süreci takip ediyor",
-        "Kadro ve kontenjanların ardından tercih kılavuzu yayımlanacak"
+        "KPSS 2026/2 tercihleri 17-24 Aralık 2026 tarihleri arasında yapılacak.",
+        "Yerleştirme işlemleri mülakatsız, KPSS puan üstünlüğüne göre gerçekleştirilecek.",
+        "Tercih kılavuzu ve kadro dağılımları kılavuzun yayımlanmasıyla ilan edilecek."
       ],
       "externalUrl": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
       "publishedAt": "2026-11-17T16:58:28.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-17T17:38:27.702Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/disisleri-bakani-hakan-fidan-suriyeli-mevkidasi-ile-gorustu-3494459",
@@ -42,7 +43,8 @@
       "publishedAt": "2026-11-17T16:58:22.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:25:27.611Z"
+      "imageSearchAttemptedAt": "2026-11-17T17:25:27.611Z",
+      "sourceTextAttemptedAt": "2026-11-17T17:38:27.702Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/fon-sorusturmasinda-8-supheli-tutuklama-talebiyle-hakimlige-sevk-edildi-3494455",
@@ -176,15 +178,20 @@
       "headline": "Akın Gürlek: Fon soruşturması derinleşiyor",
       "source": "Habertürk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1743000332522-c0cd8b66b8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QWslQzQlQjFuJTIwRyVDMyVCQ3JsZWslM0ElMjBGb24lMjBzb3J1JUM1JTlGdHVybWFzJUM0JUIxJTIwZGVyaW5sZSVDNSU5Rml5b3J8ZW58MXwwfHx8MTc5NDkzNzEwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mahmut Yıldız",
+        "photographerUrl": "https://unsplash.com/@iammahmutyildiz",
+        "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
+      },
       "timeAgo": "9 dk önce",
       "body": "Adalet Bakanı Gürlek: Fon soruşturmaları, elde edilen yeni deliller doğrultusunda derinleştirilmektedir. İyi niyetli yatırımcılarımızın haklarını ilgilendiren bu süreci yakından takip ediyoruz",
       "highlights": [],
       "externalUrl": "https://www.haberturk.com/gundem/son-dakika-akin-gurlek-fon-sorusturmasi-derinlesiyor-3928047",
       "publishedAt": "2026-11-17T16:41:46.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-17T17:38:27.702Z"
     },
     {
       "id": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
