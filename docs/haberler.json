@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-17T14:54:59.220Z",
+  "generatedAt": "2026-11-17T15:04:45.796Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-iste-iptal-edilen-seferler-7702600",
+      "headline": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1524679166686-04237b4667b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmVycnklMjBzdG9ybXxlbnwxfDB8fHwxNzk0OTI3ODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Torsten Dederichs",
+        "photographerUrl": "https://unsplash.com/@tdederichs",
+        "unsplashUrl": "https://unsplash.com/photos/huge-wave-at-daytime-KrQJzrZiCak"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Çanakkale Boğazı ve Adalar hattında taşımacılık yapan GESTAŞ, Ege Denizi'ndeki olumsuz hava şartları nedeniyle yarın bazı feribot seferlerinin iptal edildiğini duyurdu. Kabatepe-Gökçeada ve Geyikli-Bozcaada hatlarında karşılıklı planlanan bazı seferler gerçekleştirilemeyecek.",
+      "highlights": [
+        "GESTAŞ olumsuz hava şartları nedeniyle bazı seferlerin iptal edildiğini duyurdu",
+        "Kabatepe-Gökçeada hattında bazı seferler yapılamayacak",
+        "Geyikli-Bozcaada hattında bazı seferler iptal edildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-iste-iptal-edilen-seferler-7702600",
+      "publishedAt": "2026-11-17T15:01:49.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/17/protest-greg-bovino-rutgers-university",
+      "headline": "Rutgers Üniversitesinde Eski Sınır Devriye Şefi Greg Bovino'nun Konuşması Protesto Edildi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1622852060528-b94f83cfc6a7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGF0JTIwdW5pdmVyc2l0eXxlbnwxfDB8fHwxNzk0OTI3ODg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andy Wang",
+        "photographerUrl": "https://unsplash.com/@space_launch_system",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-a-walkway-in-front-of-a-building-T124eH3DQB0"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "New Jersey'deki Rutgers Üniversitesinde, Trump dönemindeki ICE operasyonlarını yöneten eski sınır devriye komutanı Greg Bovino'nun konuşması yüzlerce kişi tarafından protesto edildi. Üniversitenin Cumhuriyetçi kulübünün davet ettiği Bovino, yaklaşık 25 kişiye hitap ederken, binanın dışında protestolar düzenlendi.",
+      "highlights": [
+        "Yüzlerce kişi Rutgers Üniversitesi kampüs binası dışında protesto düzenledi.",
+        "Eski sınır devriye komutanı Greg Bovino üniversitenin Cumhuriyetçi kulübü tarafından davet edildi.",
+        "Bovino yaklaşık 25 kişiden oluşan bir kalabalığa konuşma yaptı."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/17/protest-greg-bovino-rutgers-university",
+      "publishedAt": "2026-11-17T14:49:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko?at_medium=RSS&at_campaign=rss",
       "headline": "AİHM'den Can Atalay için hak ihlâli kararı",
