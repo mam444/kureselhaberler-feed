@@ -15,9 +15,10 @@ const FEED_PATH = path.resolve('docs/haberler.json');
 // verified publisher RSS summary. This broadens coverage without increasing
 // Gemini calls. Gemini's active limits vary by project/model and are checked
 // in AI Studio; the verified-RSS fallback keeps articles flowing on errors.
-// The feed runs every ten minutes. Keep a modest per-run cap so the hourly
-// output stays close to the observed volume of distinct NTV RSS stories.
+// The feed runs every ten minutes. Cap each run and the rolling-hour total
+// to the measured number of distinct NTV RSS stories.
 const MAX_NEW_PER_RUN = 2;
+const MAX_NEW_PER_HOUR = 9;
 const MAX_GEMINI_REWRITES_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
@@ -215,6 +216,12 @@ async function main() {
 
   const previousFeed = await loadPreviousFeed();
   const previous = previousFeed.articles.filter((article) => isWithinNewsWindow(article, now));
+  const alreadyPublishedThisHour = previous.filter((article) => {
+    const publishedAt = Date.parse(article.publishedAt ?? '');
+    return Number.isFinite(publishedAt) && publishedAt > now - 60 * 60 * 1000;
+  }).length;
+  const hourlySlotsRemaining = Math.max(0, MAX_NEW_PER_HOUR - alreadyPublishedThisHour);
+  const runSlotsRemaining = Math.min(MAX_NEW_PER_RUN, hourlySlotsRemaining);
   const previousIds = new Set(previous.map((a) => a.id));
   const rejectedIds = new Set(previousFeed.rejectedIds);
 
@@ -246,17 +253,17 @@ async function main() {
     bySource.get(a.source).push(a); // already newest-first, from `deduped`'s sort
   }
   const brandNewRaw = [];
-  for (let addedInRound = true; brandNewRaw.length < MAX_NEW_PER_RUN && addedInRound; ) {
+  for (let addedInRound = true; brandNewRaw.length < runSlotsRemaining && addedInRound; ) {
     addedInRound = false;
     for (const list of bySource.values()) {
-      if (brandNewRaw.length >= MAX_NEW_PER_RUN) break;
+      if (brandNewRaw.length >= runSlotsRemaining) break;
       if (list.length > 0) {
         brandNewRaw.push(list.shift());
         addedInRound = true;
       }
     }
   }
-  console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (bu çalıştırmada, üst sınır ${MAX_NEW_PER_RUN}, ${bySource.size} kaynaktan).`);
+  console.log(`[main] ${brandNewRaw.length} yeni haber işlenecek (${alreadyPublishedThisHour}/${MAX_NEW_PER_HOUR} son saat kotası kullanılmış, çalıştırma sınırı ${MAX_NEW_PER_RUN}, ${bySource.size} kaynaktan).`);
 
   // Sıralı işlenir (paralel değil): dakikalık istek/token limitine paralel
   // isteklerle takılmamak için.
