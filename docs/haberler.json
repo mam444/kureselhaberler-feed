@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T13:15:29.321Z",
+  "generatedAt": "2026-11-17T13:24:51.899Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/ekonomi/bakan-kurumdan-demiroren-medya-lisesinin-cop31-standina-ziyaret-7702534",
+      "headline": "Bakan Kurum'dan Demirören Medya Lisesi'nin COP31 standına ziyaret",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1571845599234-790a035f6109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2xpbWF0ZSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0OTIxODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-a-sign-that-says-the-climate-is-changing-why-aren-1AaRGN_vyq0"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, Antalya'da düzenlenen Birleşmiş Milletler İklim Zirvesi'ndeki Startup Zone'da yer alan Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi'nin standını ziyaret etti. Öğrencilerin projelerini dinleyen Bakan Kurum, projelerin hayata geçirilmesi için ilgili genel müdürlüklere talimat verdi.",
+      "highlights": [
+        "Bakan Murat Kurum Demirören Medya Lisesi standını ziyaret etti",
+        "Öğrencilerin projeleri için ilgili genel müdürlüklere talimat verildi",
+        "Stant, Startup Zone'da ilk ve tek okul olma özelliğini taşıyor"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/ekonomi/bakan-kurumdan-demiroren-medya-lisesinin-cop31-standina-ziyaret-7702534",
+      "publishedAt": "2026-11-17T13:21:16.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/teknoloji/applea-fransada-planli-eskitme-davasi-iste-listedeki-iphone-modelleri-7702498",
       "headline": "Apple'a Fransa'da 'planlı eskitme' davası",
@@ -9201,6 +9224,7 @@
     "https://www.yenisafak.com/gundem/kirikkalede-kamyon-devrildi-surucu-yaralandi-4873526",
     "https://www.yenisafak.com/galeri/gundem/balikesiri-saganak-vurdu-ev-ve-is-yerlerini-su-basti-4873534",
     "https://www.ntv.com.tr/teknoloji/galeri-gta-6-cikmadan-dunyayi-ayaga-kaldirdi-oyuna-saatler-once-girmek-icin-yeni-zelanda-hilesi-patladi-1751319",
-    "https://www.haberturk.com/ekonomi/koc-holding-onculugunde-fireaid-ile-orman-yanginlarina-karsi-veriye-dayali-mucadele-3927995"
+    "https://www.haberturk.com/ekonomi/koc-holding-onculugunde-fireaid-ile-orman-yanginlarina-karsi-veriye-dayali-mucadele-3927995",
+    "https://www.ntv.com.tr/turkiye/bakan-uraloglundan-hgs-aciklamasi-yarin-toplanti-yapilacak-1751314"
   ]
 }
