@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-17T07:14:21.137Z",
+  "generatedAt": "2026-11-17T07:24:19.869Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o?at_medium=RSS&at_campaign=rss",
+      "headline": "Sözcü TV ve internet sitesine kayyum atandı",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "4 dk önce",
+      "body": "Sözcü TV ve internet sitesine düzenlenen operasyonda bazı yöneticiler gözaltına alındı ve Sözcü TV ile internet sitesine kayyum atandı.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T07:19:53.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/cop31de-9uncu-gun-denizler-doga-ve-iklim-hedefleri-konusulacak-1751226",
       "headline": "COP31'de 9'uncu gün. Denizler, doğa ve iklim hedefleri konuşulacak",
@@ -8569,6 +8584,7 @@
     "https://tr.euronews.com/2026/11/17/sicak-hava-dalgalari-saglik-ve-ekonomide-agir-bedeli-ispanya-oduyor",
     "https://www.yenisafak.com/gundem/iki-belediye-baskani-daha-ak-partiye-geciyor-cumhurbaskani-erdogan-rozetlerini-takacak-4873289",
     "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-baskisi-surerken-gozler-nvidianin-bilancosunda/4127244",
-    "https://www.haberturk.com/ekonomi/gram-altin-gune-yukselisle-basladi-3927860"
+    "https://www.haberturk.com/ekonomi/gram-altin-gune-yukselisle-basladi-3927860",
+    "https://www.yenisafak.com/galeri/gundem/cicek-degil-adeta-altin-topluyorlar-aydin-haberleri-4873342"
   ]
 }
