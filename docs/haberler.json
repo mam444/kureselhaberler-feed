@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T19:14:39.626Z",
+  "generatedAt": "2026-11-17T19:24:41.095Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/vanda-deprem-son-dakika-vanda-kac-buyuklugunde-deprem-oldu-3494513",
+      "headline": "Van'da Deprem: Afad'dan Açıklama",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1677233861254-3e5338c1d9ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VmFuJTIwZWFydGhxdWFrZXxlbnwxfDB8fHwxNzk0OTQzNDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Çağlar Oskay",
+        "photographerUrl": "https://unsplash.com/@oskaycaglar",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-that-is-sitting-in-the-street-paHTI-WDJgI"
+      },
+      "timeAgo": "şimdi",
+      "body": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, Van'da bir deprem meydana geldi. Yaşanan sarsıntının ardından vatandaşlar depremin büyüklüğünü ve merkez üssünü araştırmaya başladı.\n\nAFAD tarafından paylaşılan resmi verilere göre deprem Van Gölü merkezli olarak gerçekleşti. Depremin büyüklüğü 4.3 (Mw) olarak ölçüldü.\n\nSarsıntının detaylarına göre deprem, Van'ın Gevaş ilçesine 0.74 kilometre mesafede kaydedildi. 17.11.2026 tarihinde saat 18:57:45 TSİ'de meydana gelen depremin derinliği ise 13.61 kilometre olarak açıklandı.",
+      "highlights": [
+        "Van Gölü'nde 4.3 büyüklüğünde deprem meydana geldi.",
+        "Depremin merkez üssü Van'ın Gevaş ilçesi olarak açıklandı.",
+        "Sarsıntının derinliği 13.61 kilometre ölçüldü."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/vanda-deprem-son-dakika-vanda-kac-buyuklugunde-deprem-oldu-3494513",
+      "publishedAt": "2026-11-17T19:24:41.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/son-dakika-deprem-17-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-17-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3494212",
       "headline": "17 Kasım 2026 AFAD ve Kandilli Rasathanesi son depremler listesi",
@@ -15,18 +38,41 @@
       "timeAgo": "şimdi",
       "body": "17 Kasım Salı günü son dakika deprem haberleri ve yaşanan sarsıntılar vatandaşlar tarafından araştırılmaya devam ediyor. Bulundukları bölgelerde sarsıntı hisseden çok sayıda kişi internet üzerinden arama yaparak son depremler listesini sorguluyor.\n\nAfet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, 17 Kasım Salı günü Adıyaman'da bir deprem kaydedildi. Saat 09:59'da merkez üssü Aksu-Sincik (Adıyaman) olan depremin büyüklüğü 2.2 ve derinliği 5.2 kilometre olarak ölçüldü. Ayrıca AFAD, Van Gölü'nde de 4.3 büyüklüğünde bir deprem meydana geldiğini açıkladı.\n\nYaşanan sarsıntıların ardından vatandaşlar Kandilli Rasathanesi ve AFAD'ın son depremler listesini yakından takip ediyor. Boğaziçi Üniversitesi Kandilli Rasathanesi ve AFAD internet siteleri üzerinden depremlerin büyüklüğü, şiddeti, merkezi ve derinliği gibi bilgilere ulaşılabiliyor.",
       "highlights": [
-        "17 Kasım Salı günü Adıyaman'ın Sincik ilçesine bağlı Aksu bölgesinde 2.2 büyüklüğünde deprem meydana geldi.",
-        "AFAD, Van Gölü'nde 4.3 büyüklüğünde bir deprem kaydedildiğini açıkladı.",
-        "Vatandaşlar Kandilli Rasathanesi ve AFAD son depremler listesini sorguluyor."
+        "17 Kasım 2026 tarihinde AFAD ve Kandilli Rasathanesi son depremler listesi araştırılıyor.",
+        "AFAD, Adıyaman'ın Sincik ilçesine bağlı Aksu'da saat 09:59'da 2.2 büyüklüğünde deprem meydana geldiğini bildirdi.",
+        "AFAD, Van Gölü'nde büyüklüğü 4.3 olan bir deprem gerçekleştiğini açıkladı."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-deprem-17-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-17-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3494212",
       "publishedAt": "2026-11-17T19:15:56.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-17T19:24:20.890Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+      "headline": "Fransa'daki Ücret Protestolarına 100 Binin Üzerinde Kişi Katıldı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1686817514886-7857fe665057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RnJhbmNlJTIwcHJvdGVzdHN8ZW58MXwwfHx8MTc5NDk0MzQ2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Project:KENO",
+        "photographerUrl": "https://unsplash.com/@projectkeno",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-walking-down-a-street-next-to-tall-buildings-AXNnXQR2_K8"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Fransa genelinde düzenlenen ücret protestolarına 100 binden fazla kişinin katıldığı bildirildi. Ülke genelindeki eylemlere katılım sayılarına ilişkin resmi makamlar ile sendikalar arasında farklı rakamlar paylaşıldı.\n\nHükümet tarafından yapılan açıklamada, ülke genelindeki mitinglere 146 bin kişinin katılım gösterdiği belirtildi. \n\nÖte yandan CGT sendikası ise protestolara katılanların ülke genelindeki toplam sayısının 500 binin üzerinde olduğunu duyurdu.",
+      "highlights": [
+        "Hükümet yetkilileri eylemlere 146 bin kişinin katıldığını açıkladı",
+        "CGT sendikası ülke genelindeki toplam sayının 500 bini aştığını bildirdi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
+      "publishedAt": "2026-11-17T19:09:49.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
       "id": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-      "headline": "Papa Leo'nun Elçisi Kutsal Topraklar'daki Hristiyanlara Birlik Mesajı Getirdi",
+      "headline": "Papa Leo'nun Elçisi Kutsal Topraklardaki Hristiyanlara Birlik Mesajı Getirdi",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
       "imageUrl": "https://images.unsplash.com/photo-1632487112387-01dcd23010e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SmVydXNhbGVtJTIwY2h1cmNofGVufDF8MHx8fDE3OTQ5NDI4NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -36,16 +82,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-clock-tower-on-top-of-it-YWPa8Ur-rig"
       },
       "timeAgo": "9 dk önce",
-      "body": "Katolik Kilisesi'nin Doğu Kiliseleri Dicastery'sinin prefect'i Kardinal Claudio Gugerotti, Hristiyanlar için sıkıntılı bir dönemde Papa Leo XIV'ün varlığını hissettirmek amacıyla Salı günü Kudüs'ü ziyaret etti. Kardinal Gugerotti, İsa'nın gömüldüğüne ve dirildiğine inanılan Kutsal Kabir Kilisesi içerisindeki Kutsal Edikül önünde dua etti. Kudüs'teki diğer Hristiyan mezheplerinin liderleri de töreni takip etti.\n\nBölgedeki din adamlarına ve inananlara yönelik tacizlerin arttığı belirtilirken, tören bir birlik gösterisi oluşturdu. Gugerotti ve diğer Hristiyan liderler, Kudüs'ün Eski Şehri'nin sokaklarından kiliseye doğru yürüyüş gerçekleştirdi. Katolik rahibe Marie Reine, her zaman hoş karşılanmadıklarını bildiklerini ancak varlıklarının barış getirebileceğini ifade etti.\n\nİsrail'deki Hristiyanların çoğunluğunu Filistinliler oluşturuyor. Kudüs'teki Latin Patriği Kardinal Pierbattista Pizzaballa, rahibelerin, ailelerin ve gençlerin desteklenmesi için dua ettiklerini belirtti. Törene katılan Andre Haddad adındaki bir Katolik baba ise çocuklarının Kudüs'ten ayrılmak istediğini, ancak burada bulunmanın bir çağrı olduğunu ifade etti.\n\nGugerotti'nin altı günlük ziyareti kapsamında, İsa'nın doğduğuna inanılan Doğuş Kilisesi'ni ve bir camiyi ziyaret etmek üzere Beytüllahim'e gitmesi planlanıyor. Ziyaret programında ayrıca Yunan Ortodoks ve Ermeni kiliselerinin liderleriyle görüşmeler de yer alıyor.",
+      "body": "Katolik Kilisesi'nin Doğu Kiliseleri Departmanı Başkanı Kardinal Claudio Gugerotti, bölgedeki Hristiyanlar için zorlu geçen bu dönemde Papa Leo XIV'ün desteğini ve varlığını iletmek amacıyla salı günü Kudüs'ü ziyaret etti. Gugerotti, İsa'nın gömüldüğüne ve yeniden dirildiğine inanılan Kutsal Kabir Kilisesi içerisindeki Kutsal Edikül önünde dua etti. Düzenlenen törene Kudüs'teki diğer Hristiyan mezheplerinin liderleri de katıldı.\n\nKardinal Gugerotti ve diğer Hristiyan liderler, Kudüs'ün Eski Şehri'nin dar sokaklarında, gayda çalanlar, Fransiskan keşişleri ve büyük bir haç eşliğinde tarihi kiliseye doğru bir yürüyüş gerçekleştirdi. Bölgede din adamlarına ve inananlara yönelik tacizlerin arttığı, nisan ayında ise İsrail'de bir rahibeye yönelik nadir görülen şiddetli bir saldırının endişe yarattığı belirtildi.\n\nİsrail'deki Hristiyanların çoğunluğunu oluşturan Filistinliler, geçen ayki ulusal seçimlerde Arap liderliğindeki partilerin tarihi kazanımlar elde etmesinin ardından hedef haline geldi. Kudüs'teki Latin Patriği Kardinal Pierbattista Pizzaballa, ziyaret öncesinde yaptığı açıklamada, zorlu koşullarda hizmet eden din adamlarının, ailelerin ve gençlerin inanç ve umutla desteklenmesi için dua ettiklerini ifade etti.\n\nKardinal Gugerotti'nin altı günlük ziyareti kapsamında, İsa'nın doğduğuna inanılan Nativity Bazilikası'nı ve bir camiyi ziyaret etmek üzere Beytüllahim'e gitmesi planlanıyor. Ziyaret programında İsrail liderleriyle görüşmeler yer almazken, Gugerotti'nin Kudüs'teki Yunan Ortodoks ve Ermeni kiliselerinin liderleriyle bir araya gelmesi planlanıyor.",
       "highlights": [
-        "Kardinal Claudio Gugerotti, Papa Leo XIV'ün mesajını iletmek üzere Kudüs'ü ziyaret etti.",
-        "Ziyaret, bölgedeki Hristiyanlar için artan taciz ve sıkıntılı döneme denk geldi.",
-        "Gugerotti'nin altı günlük ziyareti kapsamında Beytüllahim'i de ziyaret etmesi planlanıyor."
+        "Kardinal Claudio Gugerotti, Kudüs'ü ziyaret ederek Papa Leo XIV'ün mesajını iletti.",
+        "Kutsal Kabir Kilisesi'nde farklı mezheplerin liderlerinin katılımıyla tören düzenlendi.",
+        "Gugerotti'nin programında Beytüllahim ziyareti de yer alıyor."
       ],
       "externalUrl": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
       "publishedAt": "2026-11-17T19:05:12.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-17T19:24:20.890Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/irandan-abdye-nukleer-resti-3494510",
@@ -847,15 +894,20 @@
       "headline": "US loses measles elimination status amid worst outbreak since 1991",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1587401048156-69f5f72c6246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VVMlMjBsb3NlcyUyMG1lYXNsZXMlMjBlbGltaW5hdGlvbiUyMHN0YXR1cyUyMGFtaWQlMjB3b3JzdCUyMG91dGJyZWFrJTIwc2luY2UlMjAxOTkxfGVufDF8MHx8fDE3OTQ5NDM0ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "KOBU Agency",
+        "photographerUrl": "https://unsplash.com/@kobuagency",
+        "unsplashUrl": "https://unsplash.com/photos/smartphone-screen-showing-11-00--9we2OG_enU"
+      },
       "timeAgo": "19 dk önce",
       "body": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and…",
       "highlights": [],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
       "publishedAt": "2026-11-17T16:16:24.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-17T19:24:20.890Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/ak-parti-den-81-ilde-saha-calismasi-3928043",
