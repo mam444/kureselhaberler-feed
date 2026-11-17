@@ -36,6 +36,11 @@ export const TURKISH_SOURCES = [
 ].map((s) => ({ ...s, lang: 'tr' }));
 
 export const INTERNATIONAL_SOURCES = [
+  { url: 'https://feeds.abcnews.com/abcnews/internationalheadlines', name: 'ABC News', domain: 'abcnews.go.com', defaultCategory: 'World' },
+  // VOA publishes these regional RSS feeds directly from its official feed page.
+  { url: 'https://www.voanews.com/api/z-botl-vomx-tpertmq', name: 'VOA Africa', domain: 'voanews.com', defaultCategory: 'World' },
+  { url: 'https://www.voanews.com/api/zjbovl-vomx-tpebvmr', name: 'VOA Europe', domain: 'voanews.com', defaultCategory: 'World' },
+  { url: 'https://www.voanews.com/api/zoripl-vomx-tpeptmm', name: 'VOA Americas', domain: 'voanews.com', defaultCategory: 'World' },
   { url: 'http://feeds.bbci.co.uk/news/world/rss.xml', name: 'BBC News', domain: 'bbc.com', defaultCategory: 'World' },
   { url: 'https://www.aljazeera.com/xml/rss/all.xml', name: 'Al Jazeera', domain: 'aljazeera.com', defaultCategory: 'World' },
   { url: 'https://www.theguardian.com/world/rss', name: 'The Guardian', domain: 'theguardian.com', defaultCategory: 'World' },

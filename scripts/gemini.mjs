@@ -111,7 +111,7 @@ async function generateContent(payload, apiKey, retries) {
   }
 }
 
-export async function rewriteArticle({ headline, body, category }, apiKey, retries = 3) {
+export async function rewriteArticle({ headline, body, category }, apiKey, retries = 5) {
   const userContent = [
     `Başlık: ${headline}`,
     body ? `Kaynakta doğrulanabilen haber metni: ${body}` : null,
