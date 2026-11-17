@@ -33,18 +33,6 @@ export const TURKISH_SOURCES = [
   { url: 'https://feeds.bbci.co.uk/turkce/rss.xml', name: 'BBC Türkçe', domain: 'bbc.com', defaultCategory: 'Dünya' },
   { url: 'https://rss.dw.com/xml/rss-tur-all', name: 'DW Türkçe', domain: 'dw.com', defaultCategory: 'Dünya' },
   { url: 'https://tr.euronews.com/rss', name: 'Euronews', domain: 'euronews.com', defaultCategory: 'Dünya' },
-  // VOA Türkçe exposes separate official RSS feeds for international and
-  // regional coverage. Keep one publisher name so round-robin selection
-  // cannot let its several feeds dominate a single publishing run.
-  { url: 'https://www.voaturkce.com/api/zb-vtl-vomx-tpeqvkr', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
-  { url: 'https://www.voaturkce.com/api/ztbvrl-vomx-tpekvkq', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
-  { url: 'https://www.voaturkce.com/api/zrbvrl-vomx-tpeovkq', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
-  { url: 'https://www.voaturkce.com/api/zpbvml-vomx-tpe_vk_', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
-  { url: 'https://www.voaturkce.com/api/zqkkqpl-vomx-tpeip-qm', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
-  { url: 'https://www.voaturkce.com/api/zk-vml-vomx-tpejyk_', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Ekonomi' },
-  { url: 'https://www.voaturkce.com/api/zybvvl-vomx-tpetvkt', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Bilim ve Teknoloji' },
-  { url: 'https://www.voaturkce.com/api/zqbvql-vomx-tpeivko', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Sağlık' },
-  { url: 'https://www.voaturkce.com/api/zbq_qrl-vomx-tpeqkvqo', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Son Dakika' },
 ].map((s) => ({ ...s, lang: 'tr' }));
 
 export const INTERNATIONAL_SOURCES = [
@@ -53,6 +41,10 @@ export const INTERNATIONAL_SOURCES = [
   { url: 'https://www.theguardian.com/world/rss', name: 'The Guardian', domain: 'theguardian.com', defaultCategory: 'World' },
   { url: 'http://rss.cnn.com/rss/edition_world.rss', name: 'CNN International', domain: 'cnn.com', defaultCategory: 'World' },
   { url: 'https://feeds.skynews.com/feeds/rss/world.xml', name: 'Sky News', domain: 'skynews.com', defaultCategory: 'World' },
+  { url: 'https://www.france24.com/en/rss', name: 'France 24', domain: 'france24.com', defaultCategory: 'World' },
+  { url: 'https://feeds.npr.org/1004/rss.xml', name: 'NPR', domain: 'npr.org', defaultCategory: 'World' },
+  { url: 'https://rss.dw.com/xml/rss-en-world', name: 'DW English', domain: 'dw.com', defaultCategory: 'World' },
+  { url: 'https://www.rfi.fr/en/rss', name: 'RFI English', domain: 'rfi.fr', defaultCategory: 'World' },
 ].map((s) => ({ ...s, lang: 'en' }));
 
 export const ALL_SOURCES = [...TURKISH_SOURCES, ...INTERNATIONAL_SOURCES];
