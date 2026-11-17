@@ -30,7 +30,7 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 const MAX_ALLOWED_SIMILARITY = 0.5;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
 const RSS_FALLBACK_MAX_CHARS = 420;
-const MAX_IMAGE_BACKFILLS_PER_RUN = 2;
+const MAX_IMAGE_BACKFILLS_PER_RUN = 1;
 const IMAGE_SEARCH_RETRY_MS = 24 * 60 * 60 * 1000;
 
 function isWithinNewsWindow(article, now = Date.now()) {
@@ -318,31 +318,51 @@ async function main() {
     const wordCount = (value) => String(value ?? '').trim().split(/\s+/).filter(Boolean).length;
     const oldCandidates = previous
       .map((article) => ({ article, rss: rssById.get(article.id) }))
-      .filter(({ article, rss }) => rss
-        && wordCount(article.body) < 90
-        && String(rss.body).length > String(article.body ?? '').length + 450)
+      .filter(({ article, rss }) => {
+        const needsLongerCopy = rss
+          && wordCount(article.body) < 90
+          && String(rss.body).length > String(article.body ?? '').length + 450;
+        const lastImageSearch = Date.parse(article.imageSearchAttemptedAt ?? '');
+        const needsImageKeyword = Boolean(UNSPLASH_ACCESS_KEY)
+          && !article.imageUrl
+          && (!Number.isFinite(lastImageSearch) || now - lastImageSearch >= IMAGE_SEARCH_RETRY_MS)
+          && wordCount(article.body) >= 60;
+        return needsLongerCopy || needsImageKeyword;
+      })
       .slice(0, MAX_OLD_STORY_REWRITES_PER_RUN);
 
     for (const { article, rss } of oldCandidates) {
       try {
-        const sourceBody = String(rss.body).slice(0, MAX_SOURCE_SUMMARY_CHARS);
+        const sourceBody = String(
+          rss && String(rss.body).length > String(article.body ?? '').length + 450
+            ? rss.body
+            : article.body,
+        ).slice(0, MAX_SOURCE_SUMMARY_CHARS);
         const upgraded = await rewriteArticle(
-          { headline: rss.headline, body: sourceBody, category: article.category ?? rss.category },
+          { headline: rss?.headline ?? article.headline, body: sourceBody, category: article.category ?? rss?.category },
           GEMINI_API_KEY,
         );
-        const sourceText = `${rss.headline} ${sourceBody}`;
+        const sourceText = `${rss?.headline ?? article.headline} ${sourceBody}`;
         const rewrittenText = `${upgraded.headline} ${upgraded.body}`;
-        if (
-          wordCount(upgraded.body) >= 90
-          && jaccardSimilarity(sourceText, rewrittenText) <= MAX_ALLOWED_SIMILARITY
-        ) {
+        const canExpandBody = Boolean(rss)
+          && wordCount(upgraded.body) >= 90
+          && wordCount(upgraded.body) > wordCount(article.body)
+          && jaccardSimilarity(sourceText, rewrittenText) <= MAX_ALLOWED_SIMILARITY;
+        const photo = !article.imageUrl && upgraded.imageKeyword
+          ? await findPhoto([upgraded.imageKeyword], UNSPLASH_ACCESS_KEY)
+          : null;
+        if (canExpandBody || photo?.imageUrl || !article.imageUrl) {
           oldStoryUpgrades.push({
             ...article,
-            headline: upgraded.headline,
-            body: upgraded.body,
+            ...(canExpandBody ? { headline: upgraded.headline, body: upgraded.body } : {}),
             highlights: upgraded.highlights?.length ? upgraded.highlights : article.highlights,
+            ...(photo?.imageUrl ? { imageUrl: photo.imageUrl, imageCredit: photo.imageCredit } : {}),
+            ...(!article.imageUrl ? { imageSearchAttemptedAt: new Date(now).toISOString() } : {}),
           });
-          console.log(`[backfill] "${article.headline.slice(0, 60)}" ayrıntılı RSS metninden genişletildi.`);
+          if (canExpandBody) {
+            console.log(`[backfill] "${article.headline.slice(0, 60)}" ayrıntılı RSS metninden genişletildi.`);
+          }
+          if (photo?.imageUrl) console.log(`[backfill] "${article.headline.slice(0, 60)}" için Unsplash görseli bulundu.`);
         }
       } catch (err) {
         console.warn(`[backfill] "${article.headline.slice(0, 60)}" genişletilemedi: ${err.message}`);
