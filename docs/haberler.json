@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T11:54:35.406Z",
+  "generatedAt": "2026-11-17T12:04:42.775Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-protesto-neye-ugradigini-sasirdi-7702471",
+      "headline": "Sırbistan'da milletvekiline meclis önünde yoğurtlu protesto",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1718390996817-f522efe4b0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RCVDMyVCQ255YXxlbnwxfDB8fHwxNzk0OTE3MDgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Furkan Elveren",
+        "photographerUrl": "https://unsplash.com/@furkanelveren",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-standing-in-front-of-an-old-theater-GmcUsuukZbw"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Sırbistan'da yeni meclis oturumu öncesinde düzenlenen protestolarda, Sırp İlerleme Partisi milletvekili Lidija Vukicevic saçına yoğurt dökülerek protesto edildi. Olayın ardından açıklama yapan Vukicevic, kendini çok kötü hissettiğini ve meclis önünde güvende hissedemediklerini belirtti.",
+      "highlights": [
+        "Milletvekili Lidija Vukicevic'e yoğurtlu saldırı düzenlendi",
+        "Vukicevic kendisini güvende hissetmediğini ifade etti",
+        "Protestolar meclis oturumu öncesinde gerçekleştirildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-protesto-neye-ugradigini-sasirdi-7702471",
+      "publishedAt": "2026-11-17T12:03:17.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/kan-donduran-cinayet-suc-makinesi-annesini-doverek-oldurdu-7702464",
       "headline": "Nurettin Gürgün, Annesini Döverek Öldürdü",
@@ -9054,6 +9077,7 @@
     "https://www.dw.com/tr/beraat-kararından-kayyuma-sözcü-operasyonunun-geçmişi-nereye-uzanıyor/a-79967903?maca=tur-rss-tur-all-1495-xml-mrss",
     "https://www.yenisafak.com/gundem/siparisinizi-teslim-almadiniz-ceza-odeyeceksiniz-tehdidiyle-dolandiricilik-28-gozalti-4873481",
     "https://tr.euronews.com/2026/11/17/iran-bahreyndeki-seyh-isa-ussunde-abd-radarini-ihalarla-hedef-aldik",
-    "https://www.haberturk.com/ekonomi/askon-dan-takviye-gidada-yaniltici-beyana-sert-oneri-3927967"
+    "https://www.haberturk.com/ekonomi/askon-dan-takviye-gidada-yaniltici-beyana-sert-oneri-3927967",
+    "https://www.aa.com.tr/tr/dunya/trump-quad-ulkelerinin-bolgesel-guvenlik-ve-yapay-zeka-alaninda-isbirligini-artiracagini-belirtti/4127745"
   ]
 }
