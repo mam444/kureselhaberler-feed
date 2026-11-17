@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-11-17T15:25:03.601Z",
+  "generatedAt": "2026-11-17T15:36:59.019Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
+      "headline": "Bakan Kacır: Yeşil ve dijital dönüşümle geleceğin sanayisini inşa ediyoruz",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Z3JlZW4lMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3OTQ5Mjk4MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zbynek Burival",
+        "photographerUrl": "https://unsplash.com/@zburival",
+        "unsplashUrl": "https://unsplash.com/photos/blue-solar-panel-boards-V4ZYJZJ3W4M"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'da düzenlenen COP31 kapsamında Bilim, Sanayi ve Teknoloji Günü'nde temaslarda bulundu. Yuvarlak masa toplantılarına katılan Kacır, yeni yeşil finansman desteklerini duyurdu, mutabakat zaptı imza töreninde yer aldı ve Yapay Zekâ Destekli Temiz Teknolojiler Girişimi'nin lansmanını gerçekleştirdi.",
+      "highlights": [
+        "Bakan Kacır, Antalya'daki COP31 kapsamında temaslarda bulundu.",
+        "Yeşil finansman destekleri duyuruldu ve yeni girişimlerin lansmanı yapıldı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
+      "publishedAt": "2026-11-17T15:29:38.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "Alman Dışişleri Bakanı Wadephul Azerbaycan&#039;da Putin&#039;i eleştirdi: Egemen devletler istemiyor",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "10 dk önce",
+      "body": "Rusya&#039;nın baskısı altındaki Azerbaycan ve Ermenistan&#039;a destek ziyareti gerçekleştiren Alman Dışişleri Bakanı Johann Wadephul, Bakü&#039;de Putin&#039;i \"egemen devletlerden oluşan bir Avrupa düzeni istememekle\" suçladı.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-11-17T15:27:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/crq5vlxqp96wo?at_medium=RSS&at_campaign=rss",
+      "headline": "Yeni Parti'den ikinci fon dosyası: Özlale'nin iddiaları ve POLSAN hakkında bilinenler",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "12 dk önce",
+      "body": "Yeni Parti İzmir Milletvekili Ümit Özlale, partisinin hazırladığı sekiz dosyalık fon soruşturması çalışmasının ikincisini bugün TBMM'de düzenlediği basın toplantısıyla açıkladı. Özlale, Polis Bakım ve Yardım Sandığı (POLSAN) varlıklarının yüksek riskli işlemlerde kullanıldığını ve Tera Grubu'na işlem yetkisi verildiğini iddia etti.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.com/turkce/articles/crq5vlxqp96wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T15:25:29.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
       "headline": "Trump'tan İran'a Washington tehdidi uyarısı",
@@ -9403,6 +9455,7 @@
     "https://www.ntv.com.tr/turkiye/melis-sandala-ait-43-milyar-tl-geri-kazanim-hesaplarina-aktarildi-1751329",
     "https://www.aa.com.tr/tr/dunya/dsoden-gazzede-hipotermi-riskine-karsi-insani-yardim-girisinin-hizlandirilmasi-cagrisi/4128046",
     "https://www.ntv.com.tr/turkiye/bakan-fidan-mekke-ittifakina-yeni-ulkelerin-katilimini-isteriz-1751331",
-    "https://www.yenisafak.com/galeri/gundem/270-yillik-mirasa-japon-imzasi-tarihi-degirmen-yeniden-ayaga-kalkti-4873577"
+    "https://www.yenisafak.com/galeri/gundem/270-yillik-mirasa-japon-imzasi-tarihi-degirmen-yeniden-ayaga-kalkti-4873577",
+    "https://www.yenisafak.com/gundem/bakan-kurum-filistin-pavilyonunu-ziyaret-etti-turkiye-gazzeyi-yeniden-ayaga-kaldiracak-4873581"
   ]
 }
