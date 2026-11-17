@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T15:04:45.796Z",
+  "generatedAt": "2026-11-17T15:16:59.148Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+      "headline": "Ikea, yüksek işletme vergileri nedeniyle İngiltere'deki yeni mağaza planlarından vazgeçti",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1754475302215-72a60e4f6ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SWtlYSUyMHN0b3JlfGVufDF8MHx8fDE3OTQ5Mjg2MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "viktor rejent",
+        "photographerUrl": "https://unsplash.com/@viktor_rejent",
+        "unsplashUrl": "https://unsplash.com/photos/the-exterior-of-an-ikea-store-is-pictured-buhDEn2NFdw"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Ikea, Avrupa'nın en yüksek seviyesindeki işletme vergisi maliyetleri nedeniyle İngiltere'de planlanan bazı yeni mağaza açılışlarından vazgeçti. İngiltere yöneticisi David McCabe, maliyetler ve pazar karmaşıklığı nedeniyle bazı yeni birim açma planlarının terk edildiğini belirtti.",
+      "highlights": [
+        "Ikea İngiltere'de yeni mağaza planlarından vazgeçti",
+        "Gerekçe olarak yüksek işletme vergileri gösterildi",
+        "İngiltere yöneticisi David McCabe planların iptal edildiğini açıkladı"
+      ],
+      "externalUrl": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
+      "publishedAt": "2026-11-17T15:09:32.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-iste-iptal-edilen-seferler-7702600",
       "headline": "Gökçeada ve Bozcaada feribot seferlerine fırtına engeli",
@@ -9326,6 +9349,7 @@
     "https://www.bbc.com/turkce/articles/c32l5d4nyrr2o?at_medium=RSS&at_campaign=rss",
     "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-yolcu-sayisinda-sabiha-gokcen-havalimani-buyumede-avrupanin-zirvesinde/4127946",
     "https://www.ntv.com.tr/turkiye/melis-sandala-ait-43-milyar-tl-geri-kazanim-hesaplarina-aktarildi-1751329",
-    "https://www.aa.com.tr/tr/dunya/dsoden-gazzede-hipotermi-riskine-karsi-insani-yardim-girisinin-hizlandirilmasi-cagrisi/4128046"
+    "https://www.aa.com.tr/tr/dunya/dsoden-gazzede-hipotermi-riskine-karsi-insani-yardim-girisinin-hizlandirilmasi-cagrisi/4128046",
+    "https://www.ntv.com.tr/turkiye/bakan-fidan-mekke-ittifakina-yeni-ulkelerin-katilimini-isteriz-1751331"
   ]
 }
