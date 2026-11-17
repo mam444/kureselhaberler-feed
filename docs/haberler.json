@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T17:44:43.082Z",
+  "generatedAt": "2026-11-17T17:54:47.379Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/kirmizi-isikta-kanli-pusu-otomobile-silahli-saldiri-1-olu-3494498",
+      "headline": "Kırmızı ışıkta kanlı pusu: Otomobile silahlı saldırıya uğrayan Ferhat Yamen hayatını kaybetti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1638759811641-1f9296d8f606?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cmVkJTIwdHJhZmZpYyUyMGxpZ2h0fGVufDF8MHx8fDE3OTQ5MzgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "CARTER SAUNDERS",
+        "photographerUrl": "https://unsplash.com/@cdsaunders04",
+        "unsplashUrl": "https://unsplash.com/photos/a-traffic-light-hanging-from-a-metal-pole-LYG3fjpKTI4"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Alibeyköy Atatürk Caddesi'nde saat 15.30 sıralarında meydana gelen olayda, sahibi olduğu iş merkezinin önünde aracıyla kırmızı ışıkta bekleyen Ferhat Yamen, alacak meselesi nedeniyle husumetlisi olduğu belirtilen bir kişinin silahlı saldırısına uğradı. Saldırının ardından şüpheli olay yerinden kaçtı.\n\nÇevredekilerin ihbarı üzerine olay yerine sevk edilen sağlık ekipleri, ağır yaralanan Ferhat Yamen'i ambulansla hastaneye kaldırdı. Hastanede tedavi altına alınan Yamen, yapılan tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti.\n\nSaldırı anı çevredeki bir kişinin cep telefonu kamerasıyla kaydedilirken, görüntülerde şüphelinin olay sonrasında yürüyerek uzaklaştığı görüldü. Polis ekipleri kaçan şüpheliyi yakalamak için çalışma başlattı. Olayın tanıklarından Vahit Arslan ise yemek yemek için geldiği sırada büyük bir ses duyduğunu, döndüğünde olayın gerçekleştiğini ancak hayatını kaybeden kişiyi tanımadığını ifade etti.",
+      "highlights": [
+        "Ferhat Yamen kırmızı ışıkta beklediği sırada silahlı saldırıya uğradı",
+        "Ağır yaralanan Yamen hastanede hayatını kaybetti",
+        "Şüpheli olay yerinden yürüyerek kaçtı, polis çalışma başlattı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/kirmizi-isikta-kanli-pusu-otomobile-silahli-saldiri-1-olu-3494498",
+      "publishedAt": "2026-11-17T17:53:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/aksarayda-cop-yuklu-kamyon-devrildi-4873597",
       "headline": "Aksaray’da çöp yüklü kamyon devrildi",
@@ -10,11 +33,17 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Aksaray’da kontrolden çıkan çöp yüklü kamyon karayoluna devrildi. Sürücü hafif yaralanırken, çöpler yola dökülerek yolun tek şeridini kapattı.",
-      "highlights": [],
+      "highlights": [
+        "Aksaray-Adana karayolunda çöp kamyonu devrildi.",
+        "Sürücü kazayı hafif yaralı atlattı.",
+        "Çöplerin yola dökülmesiyle ulaşım tek şeritten verildi."
+      ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/aksarayda-cop-yuklu-kamyon-devrildi-4873597",
       "publishedAt": "2026-11-17T17:42:48.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-17T17:54:28.537Z",
+      "imageSearchAttemptedAt": "2026-11-17T17:54:28.537Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
@@ -37,7 +66,8 @@
       "externalUrl": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T17:37:04.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-17T17:54:28.537Z"
     },
     {
       "id": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
@@ -10479,6 +10509,7 @@
     "https://www.yenisafak.com/gundem/son-dakika-vanda-deprem-mi-oldu-afad-son-depremler-listesi-2026-4873585",
     "https://www.ntv.com.tr/turkiye/vanda-43-buyuklugunde-deprem-1751338",
     "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-    "https://www.haberturk.com/gundem/son-dakika-vanda-43-buyuklugunde-deprem-3928042"
+    "https://www.haberturk.com/gundem/son-dakika-vanda-43-buyuklugunde-deprem-3928042",
+    "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss"
   ]
 }
