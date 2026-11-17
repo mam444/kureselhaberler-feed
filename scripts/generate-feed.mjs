@@ -10,13 +10,12 @@ import { jaccardSimilarity } from './similarity.mjs';
 import { decodeHtmlEntities } from './html-text.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-// The feed runs every ten minutes. Publish four fresh items per run so the
-// large RSS backlog is not drained at only two stories per cycle. Keep Gemini
-// usage at its previous maximum: two stories per run are rewritten by Gemini;
-// the next two use a short, verified publisher RSS summary without extra API
-// calls. Gemini's active limits vary by project/model and are checked in AI
-// Studio; if a quota is reached, the existing verified-RSS fallback applies.
-const MAX_NEW_PER_RUN = 4;
+// The feed runs every ten minutes. Publish up to six fresh items per run while
+// keeping Gemini usage at two rewrites; the remaining slots use a short,
+// verified publisher RSS summary. This broadens coverage without increasing
+// Gemini calls. Gemini's active limits vary by project/model and are checked
+// in AI Studio; the verified-RSS fallback keeps articles flowing on errors.
+const MAX_NEW_PER_RUN = 6;
 const MAX_GEMINI_REWRITES_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
@@ -248,7 +247,16 @@ async function main() {
       if (fallback) rewritten.push(fallback);
       console.warn('[fallback] Gemini günlük kotası dolu; kalan haberlerde yalnızca doğrulanmış RSS başlığı ve kısa özeti kullanılacak.');
     } else if (result.permanentlyRejected) {
-      permanentlyRejected.push(raw.id);
+      // If Gemini's rewrite is too close to its source, retain the verified
+      // publisher summary instead of discarding a valid fresh report.
+      const fallback = createRssFallback(raw);
+      if (fallback) rewritten.push(fallback);
+      else permanentlyRejected.push(raw.id);
+    } else {
+      // A transient Gemini/photo error should not make a fresh story wait for
+      // another ten-minute cycle when the publisher already supplied a summary.
+      const fallback = createRssFallback(raw);
+      if (fallback) rewritten.push(fallback);
     }
   }
 
@@ -286,14 +294,18 @@ async function main() {
   console.log(`[main] docs/haberler.json yazıldı — toplam ${merged.length} haber (${rewritten.length} yeni, ${permanentlyRejected.length} kalite filtresi).`);
 
   if (rewritten.length > 0) {
+    // The mobile push topics are shared across locale settings. Send only
+    // Turkish output there, so an untranslated English RSS fallback never
+    // appears as a Turkish notification on the default app audience.
+    const notificationArticles = rewritten.filter((article) => article.lang === 'tr');
     const androidPushes = [
       // One global-topic alert per story. Readers who follow categories are
       // unsubscribed from the global topic by the app and receive only the
       // relevant category alerts below.
-      ...rewritten.map((article) =>
+      ...notificationArticles.map((article) =>
         sendAndroidPush(article, FCM_ACCESS_TOKEN, FCM_PROJECT_ID),
       ),
-      ...rewritten.flatMap((article) => {
+      ...notificationArticles.flatMap((article) => {
         const topic = fcmTopicForCategory(article.category);
         return topic
           ? [sendAndroidPush(article, FCM_ACCESS_TOKEN, FCM_PROJECT_ID, topic)]
@@ -302,7 +314,7 @@ async function main() {
     ];
     const sends = await Promise.allSettled([
       ...androidPushes,
-      ...rewritten.map((article) =>
+      ...notificationArticles.map((article) =>
         sendNewArticleNotification(article, {
           appId: ONESIGNAL_APP_ID,
           restApiKey: ONESIGNAL_REST_API_KEY,
