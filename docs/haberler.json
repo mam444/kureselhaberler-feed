@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T08:44:29.931Z",
+  "generatedAt": "2026-11-17T08:54:35.532Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-israil-tvsinde-canli-yayinda-skandal-an-evlerinden-ettikleri-gazzeli-cocuklarla-boyle-alay-ettiler-7702228",
+      "headline": "İsrail TV'sinde Gazzeli çocuklarla ve sel felaketiyle alay edildi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1727762331626-0d86c2054f74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8R2F6YSUyMGZsb29kJTIwdGVudHxlbnwxfDB8fHwxNzk0OTA1Njc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "khalid kwaik",
+        "photographerUrl": "https://unsplash.com/@khalidkwaik",
+        "unsplashUrl": "https://unsplash.com/photos/a-boat-is-parked-in-front-of-a-building-Lz7k16kXgV8"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "İsrail'de bir canlı yayında, Gazze'de çadırları sular altında kalan ve bardaklarla suyu boşaltmaya çalışan Filistinlilerin yaşadığı dram alay konusu yapıldı. İsrailli yayıncılar yağmuru küçümseyerek Gazze halkını suçladı.",
+      "highlights": [
+        "Gazze'deki sel felaketi canlı yayında alay konusu yapıldı",
+        "Yayıncılar çadırlarındaki suyu bardaklarla boşaltmaya çalışan Filistinlileri hedef aldı",
+        "Yıkımın sorumluluğunun Gazzelilerde olduğu öne sürüldü"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-israil-tvsinde-canli-yayinda-skandal-an-evlerinden-ettikleri-gazzeli-cocuklarla-boyle-alay-ettiler-7702228",
+      "publishedAt": "2026-11-17T08:49:10.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
       "headline": "İrlandalı boksör Lee Reeves 31 yaşında hayatını kaybetti",
@@ -8808,6 +8831,7 @@
     "https://www.yenisafak.com/gundem/izmir-merkezli-feto-operasyonunda-yakalanan-11-supheli-tutuklandi-4873368",
     "https://www.yenisafak.com/gundem/afyonkarahisar-haberleri-afyonkarahisarin-3-ilcesinde-gida-denetimi-yapildi-4873376",
     "https://tr.euronews.com/video/2026/11/17/italyada-53-parmakli-robot-piyanist-ve-roberto-prosseda-chopini-birlikte-caldi",
-    "https://www.ntv.com.tr/turkiye/gullu-dosyasinda-yeni-deliller-tubitaka-gonderildi-evde-bir-kisi-daha-mi-vardi-1751251"
+    "https://www.ntv.com.tr/turkiye/gullu-dosyasinda-yeni-deliller-tubitaka-gonderildi-evde-bir-kisi-daha-mi-vardi-1751251",
+    "https://www.yenisafak.com/galeri/hayat/dogu-ekspresinin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-4873400"
   ]
 }
