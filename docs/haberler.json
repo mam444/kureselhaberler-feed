@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T09:54:55.745Z",
+  "generatedAt": "2026-11-17T10:04:59.376Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/teknoloji/nvidia-eski-ceosu-huangi-geri-getirme-kulislerine-sirtini-dondu-7702382",
+      "headline": "Nvidia, eski CEO'su Huang'ı geri getirme kulislerine sırtını döndü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1662947683280-3be5bfc47075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8TnZpZGlhJTIwY2hpcHxlbnwxfDB8fHwxNzk0OTA5ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo-1GOYDLM_jcg"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "ABD'li çip üreticisi Nvidia, casusluk iddialarıyla istifa eden eski CEO Jensen Huang'ın görevine iade edilmesine yönelik kampanyayı göz ardı etti. BBC kaynaklarına dayandırılan iddiaya göre yönetim kurulu bu kampanya ile ilgilenmiyor. Öte yandan Huang, Donald Trump'ın desteğini almış; Elon Musk ve bazı teknoloji yöneticileri iadesi için dilekçe imzalamıştı.",
+      "highlights": [
+        "Nvidia yönetimi, eski CEO Jensen Huang'ı geri getirme kampanyasını göz ardı etti.",
+        "Huang'ın iadesi için Donald Trump destek vermiş, Elon Musk ve teknoloji yöneticileri dilekçe imzalamıştı.",
+        "Huang'ın yönetimi yeniden üstlenme ihtimalini yakın çevresiyle değerlendirdiği öne sürüldü."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/teknoloji/nvidia-eski-ceosu-huangi-geri-getirme-kulislerine-sirtini-dondu-7702382",
+      "publishedAt": "2026-11-17T09:59:23.000Z",
+      "category": "Teknoloji",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/2-bin-yildir-uyuyan-fay-hatti-icin-bolgeye-inildi-6-subat-sonrasi-sinirimizdaki-asil-tehlike-icin-kritik-hamle-4873433",
       "headline": "2 bin yıldır uyuyan fay hattı için kritik saha çalışması başlatıldı",
@@ -9042,6 +9065,7 @@
     "https://www.yenisafak.com/galeri/hayat/dogu-ekspresinin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-4873400",
     "https://www.yenisafak.com/galeri/gundem/karamanda-sir-olay-18-yasindaki-coban-olu-bulundu-4873405",
     "https://www.ntv.com.tr/turkiye/video-gemi-kaderine-terk-edildi-10-hint-denizci-8-aydir-tuzla-aciklarinda-mahsur-1751266",
-    "https://www.haberturk.com/gundem/kahramanmaras-taki-kizilay-dan-ges-li-asevi-3927930"
+    "https://www.haberturk.com/gundem/kahramanmaras-taki-kizilay-dan-ges-li-asevi-3927930",
+    "https://www.haberturk.com/spor/kulupler-birligi-vakfi-futbol-zirvesi-basladi-3927939"
   ]
 }
