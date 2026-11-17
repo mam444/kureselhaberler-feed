@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T08:54:35.532Z",
+  "generatedAt": "2026-11-17T09:04:20.528Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-israilin-gizli-amazon-plani-fotograf-arsivi-desifre-oldu-milyonlarca-filistinliyi-tek-tek-kayda-aldilar-7702337",
+      "headline": "İsrail'in Gizli Amazon Planı: Milyonlarca Filistinlinin Fotoğrafı Kayda Alındı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1589935447067-5531094415d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c3VydmVpbGxhbmNlJTIwdGVjaG5vbG9neXxlbnwxfDB8fHwxNzk0OTA2MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michał Jakubowski",
+        "photographerUrl": "https://unsplash.com/@jaqbovsky",
+        "unsplashUrl": "https://unsplash.com/photos/security-cameras-on-pole-against-sky-oQD9uq4Rd4I"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "İsrail ordusunun, Gazze'deki saldırıların ilk aylarında Filistinlilere ait 3,5 milyon fotoğrafı Amazon'un bulut sistemine aktardığı ortaya çıktı. Askeri birim, yüz tanıma amacıyla Amazon'un platformunu kullanmak istedi. Kontrol noktalarında toplanan görüntüler için Amazon'un altyapısından yararlanılırken, İsrail askerlerinin Tel Aviv'deki AWS ofislerinde çalıştığı bildirildi.",
+      "highlights": [
+        "İsrail ordusu 3,5 milyon Filistinliye ait fotoğrafı Amazon'un bulut sistemine aktardı.",
+        "Fotoğraflar yüz tanıma amacıyla kullanılmak istendi.",
+        "İsrail askerlerinin Tel Aviv'deki AWS ofislerinde çalıştığı belirtildi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-israilin-gizli-amazon-plani-fotograf-arsivi-desifre-oldu-milyonlarca-filistinliyi-tek-tek-kayda-aldilar-7702337",
+      "publishedAt": "2026-11-17T09:01:37.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-israil-tvsinde-canli-yayinda-skandal-an-evlerinden-ettikleri-gazzeli-cocuklarla-boyle-alay-ettiler-7702228",
       "headline": "İsrail TV'sinde Gazzeli çocuklarla ve sel felaketiyle alay edildi",
@@ -8832,6 +8855,7 @@
     "https://www.yenisafak.com/gundem/afyonkarahisar-haberleri-afyonkarahisarin-3-ilcesinde-gida-denetimi-yapildi-4873376",
     "https://tr.euronews.com/video/2026/11/17/italyada-53-parmakli-robot-piyanist-ve-roberto-prosseda-chopini-birlikte-caldi",
     "https://www.ntv.com.tr/turkiye/gullu-dosyasinda-yeni-deliller-tubitaka-gonderildi-evde-bir-kisi-daha-mi-vardi-1751251",
-    "https://www.yenisafak.com/galeri/hayat/dogu-ekspresinin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-4873400"
+    "https://www.yenisafak.com/galeri/hayat/dogu-ekspresinin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-4873400",
+    "https://www.yenisafak.com/galeri/gundem/karamanda-sir-olay-18-yasindaki-coban-olu-bulundu-4873405"
   ]
 }
