@@ -9,11 +9,14 @@ import { fcmTopicForCategory, sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
-// Gemini rewrites are intentionally sequential to respect API quotas. Keep a
-// small batch so a 10-minute schedule doesn't queue behind long generations.
-// The current free Gemini tier allows up to 500 requests per day. Two per
-// ten-minute run keeps normal use below that ceiling with room for retries.
-const MAX_NEW_PER_RUN = 2;
+// The feed runs every ten minutes. Publish four fresh items per run so the
+// large RSS backlog is not drained at only two stories per cycle. Keep Gemini
+// usage at its previous maximum: two stories per run are rewritten by Gemini;
+// the next two use a short, verified publisher RSS summary without extra API
+// calls. Gemini's active limits vary by project/model and are checked in AI
+// Studio; if a quota is reached, the existing verified-RSS fallback applies.
+const MAX_NEW_PER_RUN = 4;
+const MAX_GEMINI_REWRITES_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
 // stale RSS backlog (or a publisher's ancient archive item) masquerade as
@@ -223,12 +226,17 @@ async function main() {
   const rewritten = [];
   const permanentlyRejected = [];
   let dailyGeminiQuotaExceeded = !GEMINI_API_KEY;
+  let geminiRewriteCount = 0;
   for (const raw of brandNewRaw) {
-    if (dailyGeminiQuotaExceeded) {
+    if (
+      dailyGeminiQuotaExceeded ||
+      geminiRewriteCount >= MAX_GEMINI_REWRITES_PER_RUN
+    ) {
       const fallback = createRssFallback(raw);
       if (fallback) rewritten.push(fallback);
       continue;
     }
+    geminiRewriteCount++;
     const result = await rewriteAndIllustrate(raw);
     if (result.article) rewritten.push(result.article);
     else if (result.dailyQuotaExceeded) {
@@ -263,13 +271,13 @@ async function main() {
   console.log(`[main] docs/haberler.json yazıldı — toplam ${merged.length} haber (${rewritten.length} yeni, ${permanentlyRejected.length} kalite filtresi).`);
 
   if (rewritten.length > 0) {
-    const mostRecent = rewritten.reduce((best, a) =>
-      new Date(a.publishedAt ?? 0) > new Date(best.publishedAt ?? 0) ? a : best,
-    );
     const androidPushes = [
-      // Keep one general alert for readers who have not selected topics.
-      sendAndroidPush(mostRecent, FCM_ACCESS_TOKEN, FCM_PROJECT_ID),
-      // Topic-followers receive each new story in their chosen category.
+      // One global-topic alert per story. Readers who follow categories are
+      // unsubscribed from the global topic by the app and receive only the
+      // relevant category alerts below.
+      ...rewritten.map((article) =>
+        sendAndroidPush(article, FCM_ACCESS_TOKEN, FCM_PROJECT_ID),
+      ),
       ...rewritten.flatMap((article) => {
         const topic = fcmTopicForCategory(article.category);
         return topic
@@ -279,11 +287,13 @@ async function main() {
     ];
     const sends = await Promise.allSettled([
       ...androidPushes,
-      sendNewArticleNotification(mostRecent, {
-        appId: ONESIGNAL_APP_ID,
-        restApiKey: ONESIGNAL_REST_API_KEY,
-        includeAndroid: !FCM_ACCESS_TOKEN || !FCM_PROJECT_ID,
-      }),
+      ...rewritten.map((article) =>
+        sendNewArticleNotification(article, {
+          appId: ONESIGNAL_APP_ID,
+          restApiKey: ONESIGNAL_REST_API_KEY,
+          includeAndroid: !FCM_ACCESS_TOKEN || !FCM_PROJECT_ID,
+        }),
+      ),
     ]);
     const androidFailures = sends.slice(0, androidPushes.length)
       .filter((result) => result.status === 'rejected');
@@ -295,9 +305,13 @@ async function main() {
         `Android bildirimi gönderilemedi: ${androidFailures.map((failure) => failure.reason?.message ?? failure.reason).join('; ')}`,
       );
     }
-    const oneSignalPush = sends[androidPushes.length];
-    if (oneSignalPush.status === 'rejected') {
-      console.warn('[onesignal] bildirim sağlayıcısı hatası:', oneSignalPush.reason?.message ?? oneSignalPush.reason);
+    const oneSignalFailures = sends.slice(androidPushes.length)
+      .filter((result) => result.status === 'rejected');
+    if (oneSignalFailures.length > 0) {
+      console.warn(
+        `[onesignal] ${oneSignalFailures.length} bildirim sağlayıcısı hatası:`,
+        oneSignalFailures.map((failure) => failure.reason?.message ?? failure.reason).join('; '),
+      );
     }
   }
 }

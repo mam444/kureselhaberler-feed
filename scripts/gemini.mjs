@@ -1,13 +1,10 @@
 // Use Gemini's native REST endpoint. The OpenAI-compat route expects a Bearer
 // key, but this key is an API key and the native GenerateContent endpoint
 // authenticates it with x-goog-api-key (not Authorization: Bearer).
-// "gemini-3.6-flash"in bu projedeki gerçek ücretsiz kademe kotası günde
-// sadece 20 istek çıktı (Google'ın kendi 429 yanıtında doğrulandı,
-// 2026-08-22) — yaygın "günde 1500" rakamı bu modele uymuyor. "-lite"
-// ailesi ayrı ve çok daha geniş bir kotaya sahip (aynı hesapla canlı test
-// edildi, kaliteli/uzun makale üretimi doğrulandı) — o yüzden buraya
-// geçildi. Kotayla ilgili şüphe varsa https://ai.dev/rate-limit üzerinden
-// (Google hesabı girişiyle) canlı kontrol edilebilir, buradan değil.
+// Active Gemini limits vary by project, model, and usage tier. The feed
+// generator caps Gemini article rewrites per run and falls back to a verified
+// publisher RSS summary when the API reports a daily quota limit. Check the
+// project's active values in Google AI Studio: https://ai.dev/rate-limit.
 const MODEL = 'gemini-3.5-flash-lite';
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${MODEL}:generateContent`;
 
