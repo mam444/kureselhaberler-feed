@@ -1,6 +1,58 @@
 {
-  "generatedAt": "2026-11-17T15:16:59.148Z",
+  "generatedAt": "2026-11-17T15:25:03.601Z",
   "articles": [
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+      "headline": "Trump'tan İran'a Washington tehdidi uyarısı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1612278920639-cfbae3835fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NDkyOTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/2-men-in-black-suit-sitting-on-red-chair-05QvOWAzN3I"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Başkan Donald Trump, İran'ın Washington'a saldırı planları üzerinde çalıştığı yönündeki CNN haberine yanıt verdi.",
+      "highlights": [
+        "Trump, İran'ın Washington'a yönelik planlarına tepki gösterdi",
+        "Açıklama bir CNN haberinin ardından geldi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+      "publishedAt": "2026-11-17T15:13:57.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.haberturk.com/spor/kulupler-birligi-baskani-ertugrul-dogan-yayin-ihalesinde-beklentimiz-500-milyon-dolar-3928032",
+      "headline": "\"İhaleden beklentimiz 500 milyon dolar\"",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "12 dk önce",
+      "body": "Kulüpler Birliği Vakfı Başkanı Ertuğrul Doğan, Süper Lig yayın ihalesiyle ilgili yaptığı açıklamada, \"Kulüplerimizin beklentisi; Sayın Göksel Bey zamanında gelen 500 milyon dolar seviyesine yeniden gelmek, bunun altını çiziyoruz. Kulüplerin mali sıkıntıları çok büyük ve bu rakamları görmemiz gerektiğini düşünüyoruz\" dedi.",
+      "highlights": [],
+      "externalUrl": "https://www.haberturk.com/spor/kulupler-birligi-baskani-ertugrul-dogan-yayin-ihalesinde-beklentimiz-500-milyon-dolar-3928032",
+      "publishedAt": "2026-11-17T15:12:56.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-yogun-trafik-yuzde-76ya-ulasti-7702605",
+      "headline": "İstanbul'da akşam saatlerinde yoğun trafik! Yüzde 76'ya ulaştı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "12 dk önce",
+      "body": "D-100 kara yolunun Avcılar, Küçükçekmece, Bahçelievler, Bakırköy ve Zeytinburnu kesimlerinde, ayrıca Beyoğlu ve Beşiktaş'taki caddelerde​​​​​​​ trafik yoğunluğu meydana geldi. TEM Otoyolu'nda, Esenler ve Bağcılar ile bağlantı yollarında ulaşımda aksamalar yaşanıyor. Anadolu Yakası'nda ise D-100 kara yolunda, Üsküdar, Kadıköy, Ataşehir, Maltepe, Kartal ve Pendik'te araçlar güçlükle seyrediyor. TEM Otoyolu'nda…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-yogun-trafik-yuzde-76ya-ulasti-7702605",
+      "publishedAt": "2026-11-17T15:12:37.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.theguardian.com/business/2026/nov/17/ikea-new-uk-stores-business-taxes-john-healey-budget",
       "headline": "Ikea, yüksek işletme vergileri nedeniyle İngiltere'deki yeni mağaza planlarından vazgeçti",
@@ -9350,6 +9402,7 @@
     "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimani-yolcu-sayisinda-sabiha-gokcen-havalimani-buyumede-avrupanin-zirvesinde/4127946",
     "https://www.ntv.com.tr/turkiye/melis-sandala-ait-43-milyar-tl-geri-kazanim-hesaplarina-aktarildi-1751329",
     "https://www.aa.com.tr/tr/dunya/dsoden-gazzede-hipotermi-riskine-karsi-insani-yardim-girisinin-hizlandirilmasi-cagrisi/4128046",
-    "https://www.ntv.com.tr/turkiye/bakan-fidan-mekke-ittifakina-yeni-ulkelerin-katilimini-isteriz-1751331"
+    "https://www.ntv.com.tr/turkiye/bakan-fidan-mekke-ittifakina-yeni-ulkelerin-katilimini-isteriz-1751331",
+    "https://www.yenisafak.com/galeri/gundem/270-yillik-mirasa-japon-imzasi-tarihi-degirmen-yeniden-ayaga-kalkti-4873577"
   ]
 }
