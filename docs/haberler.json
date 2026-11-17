@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T11:34:29.477Z",
+  "generatedAt": "2026-11-17T11:44:29.986Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanin-karadeniz-bolgesinde-gaz-tankeri-batti-3-bin-400-ton-lpg-tasiyordu-7702461",
+      "headline": "Bulgaristan'ın Karadeniz bölgesinde gaz tankeri battı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1582517378602-f109b395ce40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Z2FzJTIwdGFua2VyJTIwc2hpcHxlbnwxfDB8fHwxNzk0OTE1ODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Venti Views",
+        "photographerUrl": "https://unsplash.com/@ventiviews",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-beside-body-of-water-during-daytime-ASmaVyS4AZM"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Bulgaristan'ın Karadeniz bölgesinde 3 bin 400 ton LPG taşıyan Liberya bayraklı Gas Husky tankeri battı. Byala kentinin açıklarında batan tanker için arama kurtarma çalışmaları başlatılırken, aramalarda üzerinde insanların olduğu bir can kurtaran salı tespit edildi.",
+      "highlights": [
+        "Gas Husky tankeri Byala açıklarında battı",
+        "3 bin 400 ton LPG taşıyordu",
+        "Mürettebat için arama kurtarma çalışmaları başlatıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanin-karadeniz-bolgesinde-gaz-tankeri-batti-3-bin-400-ton-lpg-tasiyordu-7702461",
+      "publishedAt": "2026-11-17T11:41:15.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/bilgi/foto/vgm-burs-sonuc-sorgulama-ekrani-2026-2027-vgm-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3927953",
       "headline": "VGM burs sonuçları bekleniyor!",
@@ -8821,52 +8844,6 @@
       "publishedAt": "2026-11-10T14:36:40.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "headline": "Nvidia ve Jensen Huang hakkında Çinli casus iddiaları nedeniyle ABD'de dava açıldı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1767972159674-460283907c21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnRyb29tJTIwanVkZ2UlMjBnYXZlbHxlbnwxfDB8fHwxNzk0MzExNDE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sasun Bughdaryan",
-        "photographerUrl": "https://unsplash.com/@sasun1990",
-        "unsplashUrl": "https://unsplash.com/photos/a-gavel-rests-on-a-dark-background-qVOJqYI37qE"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Dünyanın en büyük teknoloji şirketlerinden biri olan Nvidia ve şirketin icra kurulu başkanı Jensen Huang, yatırımcıları ve ortakları yanlış yönlendirdikleri gerekçesiyle Amerika Birleşik Devletleri'nde resmi bir dava ile karşı karşıya kaldı. Değeri trilyonlarca dolarla ifade edilen dev şirketin hisse sahipleri tarafından başlatılan bu hukuki süreç, son dönemde küresel teknoloji piyasalarını sarsan gelişmelerin ardından geldi. Hissedarlar, şirketin yönetim kurulunun halihazırda yaşanan bu tür krizler karşısında daha hızlı ve etkin bir halefiyet planlaması yapması gerektiğini vurgularken, şirketin üst yönetiminin şeffaflık eksikliği nedeniyle yatırımcı güvenini sarstığını savundu.\n\nBu hukuki hamle, ABD siyasetinin ve güvenlik bürokrasisinin dikkat çeken açıklamalarıyla aynı döneme denk geldi. Amerika Birleşik Devletleri'nin önemli siyasi figürlerinden Donald Trump, Federal Soruşturma Bürosu'nun (FBI) Nvidia CEO'su Jensen Huang'ın Çinli olduğu iddia edilen bir casus ile olan ilişkilerini ve bağlantılarını çok yönlü olarak soruşturduğunu kamuoyuna duyurdu. Söz konusu iddialar ve devam eden federal soruşturma, piyasa değeri 4,3 trilyon doları bulan ve sterlin bazında yaklaşık 3,2 trilyon seviyelerinde değerlendirilen devasa teknoloji şirketinin geleceğine dair soru işaretlerini artırdı.\n\nTeknoloji sektörünün küresel ölçekteki en kritik aktörlerinden biri konumunda bulunan Nvidia, yapay zeka çipleri ve yarı iletken pazarındaki hakimiyetiyle biliniyor. Şirket hisselerinin son yıllarda kaydettiği rekor yükselişler, onu Wall Street'in en değerli şirketlerinden biri haline getirirken, yaşanan bu tür jeopolitik ve adli krizler yatırımcılar açısından büyük risk unsurları oluşturuyor. Hissedarlar tarafından açılan davanın detayları, şirketin üst düzey yönetiminin bu tür hassas ilişkiler konusunda kamuoyunu ve yatırımcıları zamanında ve doğru bir şekilde bilgilendirip bilgilendirmediği sorusuna odaklanıyor.\n\nFederal soruşturmanın derinleşmesi ve mahkemeye taşınan davanın etki alanı genişledikçe, Nvidia'nın yönetim kurulu üzerindeki baskı da katlanarak artıyor. Küresel teknoloji pazarında tedarik zincirlerinden ulusal güvenliğe kadar uzanan geniş bir yelpazede tartışmalara yol açan bu olay, şirket tarihindeki en büyük yönetim testlerinden biri olarak değerlendiriliyor. Uzmanlar, hem federal makamların yürüttüğü incelemelerin hem de hissedar davalarının sonuçlarının, sadece Nvidia'nın yönetim yapısını değil, aynı zamanda uluslararası teknoloji şirketlerinin Çin ile olan ticari ve beşeri ilişkilerini de kökten etkileyebileceğine dikkat çekiyor.\n\nŞirket cephesinde ve piyasalarda yaşanan bu hareketlilik canlı bir şekilde takip edilirken, iş dünyası ve yatırım çevreleri olası gelişmelere odaklanmış durumda. Jensen Huang'ın liderliğindeki Nvidia'nın, hem borsa değerini korumak hem de artan yasal baskılar ve FBI soruşturması karşısında nasıl bir savunma stratejisi izleyeceği önümüzdeki dönemin en çok merak edilen konuları arasında yer alıyor. Hissedarların açtığı davanın mahkeme tarafından kabul edilmesi ve sürecin ilerlemesi, şirketin kurumsal yönetim ilkeleri açısından da kritik bir dönüm noktası oluşturacak.",
-      "highlights": [
-        "Nvidia ve CEO Jensen Huang'a yatırımcıları yanlış yönlendirdikleri iddiasıyla ABD'de dava açıldı.",
-        "Donald Trump, FBI'ın Jensen Huang'ın Çinli bir casusla ilişkisini soruşturduğunu açıkladı.",
-        "Hissedarlar, piyasa değeri trilyonlarca dolar olan şirketin yönetim kurulunu eleştirdi."
-      ],
-      "externalUrl": "https://www.theguardian.com/technology/2026/nov/10/nvidia-jensen-huang-sued-donald-trump-fbi",
-      "publishedAt": "2026-11-10T11:44:15.000Z",
-      "category": "World",
-      "lang": "en"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/bilim-teknoloji/palantir-ceosu-karpa-gore-verileri-kontrol-eden-sirketler-insanlarin-dusuncelerini-de-kontrol-edebilir/4118779",
-      "headline": "Palantir CEO'su Karp: Verileri kontrol edenler düşünceleri de yönlendirebilir",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1682559736721-c2e77ff4c650?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZGF0YSUyMGNlbnRlciUyMHNlcnZlcnN8ZW58MXwwfHx8MTc5NDMxMTQxOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Lightsaber Collection",
-        "photographerUrl": "https://unsplash.com/@lightsabercollection",
-        "unsplashUrl": "https://unsplash.com/photos/a-bunch-of-wires-that-are-connected-to-a-server-T-IN5o3kxyA"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Günümüz teknoloji dünyasında verinin önemi her geçen gün artmaya devam ederken, ABD merkezli veri analizi ve yazılım alanında faaliyet gösteren Palantir şirketinden dikkat çekici açıklamalar geldi. Şirketin Üst Yöneticisi (CEO) Alexander Karp, konuya ilişkin yaptığı değerlendirmelerde teknoloji şirketlerinin elindeki gücün boyutlarına dikkat çekti. Karp, modern dünyada dijital bilgileri ve verileri elinde bulunduran, kontrol eden kurum ile kuruluşların, aynı zamanda insanların düşünce yapılarını da kontrol edebilme ya da bu düşünceler üzerinde büyük ölçüde etkide bulunabilme potansiyeline sahip olduğunu vurguladı.\n\nGünümüzde dijitalleşmenin hız kazanmasıyla birlikte, veri analitiği ve büyük veri yönetimi küresel ekonominin ve toplumsal yaşamın merkezinde yer alıyor. ABD merkezli Palantir gibi şirketler, devletlere ve büyük kurumlara yazılım ile veri işleme çözümleri sunarak bu ekosistemin en kritik aktörleri arasında bulunuyor. CEO Alexander Karp'ın dile getirdiği bu görüşler, veri güvenliği, mahremiyet ve teknoloji моноpollerinin toplumsal algı üzerindeki gücü tartışmalarını da yeniden alevlendirdi. Uzmanlar, bilgi teknolojilerinin yaygınlaşmasıyla birlikte bireylerin veri akışına bağımlı hale geldiğini ve bu durumun bilişsel süreçleri doğrudan etkileyebileceğini uzun süredir dile getiriyordu.\n\nTeknoloji sektöründeki rekabetin ve veri toplama kapasitesinin doruğa ulaştığı bu dönemde, liderlerin yaptığı bu tarz açıklamalar endüstri içindeki etik sorumlulukları bir kez daha gündeme taşıyor. Palantir Üst Yöneticisi Karp'ın işaret ettiği husus, verinin sadece ticari veya stratejik bir varlık olmadığını, aynı zamanda insan zihni ve kararları üzerinde dolaylı ya da doğrudan bir tahakküm aracı olarak da işlev görebileceğini gözler önüne seriyor. Bu bağlamda, bilgi akışını elinde bulunduran aktörlerin toplumsal eğilimleri şekillendirmedeki rolü, uluslararası düzeyde tartışılan ana konular arasında yer almaya devam ediyor.\n\nÖzellikle yazılım ve veri analizi sektöründe faaliyet gösteren küresel ölçekteki şirketlerin etki alanı, coğrafi sınırları aşarak milyarlarca insanın günlük yaşamına kadar uzanıyor. Alexander Karp'ın vurguladığı kontrol mekanizması, bilgiye erişim yollarının ve veri işleme algoritmalarının ne denli büyük bir güce dönüştüğünü açıkça ortaya koyuyor. Sektör temsilcileri ve teknoloji gözlemcileri, bu tür açıklamaların önümüzdeki dönemde veri etiği, yasal düzenlemeler ve teknoloji denetimi gibi konularda yeni adımların atılmasına zemin hazırlayabileceğini belirtiyor.\n\nSonuç olarak, Palantir CEO'su Karp'ın dile getirdiği bu değerlendirmeler, veri hakimiyeti ile zihinsel etki arasındaki doğrudan ilişkiyi gözler önüne sererek teknoloji dünyasındaki güç dengelerine ışık tutuyor. Dijital dünyanın getirdiği imkanlar ile yarattığı riskler arasındaki ince çizgi, gelecekte toplumların ve bireylerin bilgiye dayalı karar alma süreçlerini nasıl etkileyeceği sorusunu canlı tutmaktadır.",
-      "highlights": [
-        "Palantir CEO'su Alexander Karp verilerin kontrolüne dikkat çekti.",
-        "Veriyi elinde bulunduranların insan düşüncesini etkileyebileceği belirtildi.",
-        "Açıklama, teknoloji dünyasında veri etiği tartışmalarını yeniden alevlendirdi."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/bilim-teknoloji/palantir-ceosu-karpa-gore-verileri-kontrol-eden-sirketler-insanlarin-dusuncelerini-de-kontrol-edebilir/4118779",
-      "publishedAt": "2026-11-10T11:42:17.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
@@ -9031,6 +9008,7 @@
     "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-deniz-mayinlarina-carpan-2-gemide-patlama-meydana-geldigini-duyurdu/4127689",
     "https://www.dw.com/tr/beraat-kararından-kayyuma-sözcü-operasyonunun-geçmişi-nereye-uzanıyor/a-79967903?maca=tur-rss-tur-all-1495-xml-mrss",
     "https://www.yenisafak.com/gundem/siparisinizi-teslim-almadiniz-ceza-odeyeceksiniz-tehdidiyle-dolandiricilik-28-gozalti-4873481",
-    "https://tr.euronews.com/2026/11/17/iran-bahreyndeki-seyh-isa-ussunde-abd-radarini-ihalarla-hedef-aldik"
+    "https://tr.euronews.com/2026/11/17/iran-bahreyndeki-seyh-isa-ussunde-abd-radarini-ihalarla-hedef-aldik",
+    "https://www.haberturk.com/ekonomi/askon-dan-takviye-gidada-yaniltici-beyana-sert-oneri-3927967"
   ]
 }
