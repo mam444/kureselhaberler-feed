@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-17T10:24:26.376Z",
+  "generatedAt": "2026-11-17T10:34:44.334Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/17/nvidianin-huang-sonrasi-ilk-bilancosu-yapay-zeka-patlamasi-surer-mi",
+      "headline": "Nvidia'nın Huang Sonrası İlk Bilançosu Açıklanıyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1662947683270-136b00fbf3c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8TnZpZGlhJTIwY2hpcHxlbnwxfDB8fHwxNzk0OTA5ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo-eyWlM1f0Vu0"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Yapay zekâ çip devi Nvidia, kurucu ortağı Jensen Huang'ın istifasından sonraki ilk bilançosunu Salı günü açıklayacak. Yatırımcıların odağında şirketin geleceği ve müşterilerin yapay zekâ veri merkezlerine harcamaya devam edip etmeyeceği yer alıyor.",
+      "highlights": [
+        "Nvidia ilk bilançosunu Salı günü açıklayacak",
+        "Yatırımcılar AI veri merkezi harcamalarına odaklandı"
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/17/nvidianin-huang-sonrasi-ilk-bilancosu-yapay-zeka-patlamasi-surer-mi",
+      "publishedAt": "2026-11-17T10:30:56.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-bakan-gurlek-ile-bir-araya-geldi-7702395",
       "headline": "MHP lideri Bahçeli, Bakan Gürlek ile bir araya geldi",
@@ -9091,6 +9113,7 @@
     "https://www.haberturk.com/spor/kulupler-birligi-vakfi-futbol-zirvesi-basladi-3927939",
     "https://www.trthaber.com/haber/dunya/ispanyada-makinistlerin-grevi-tren-ulasiminda-kaos-yaratti-963548.html",
     "https://www.yenisafak.com/gundem/balikesirde-gocmen-kacakciligi-operasyonu-6-tutuklama-4873442",
-    "https://tr.euronews.com/2026/11/17/fransa-ve-malezyadan-nadir-toprak-elementleri-anlasmasi-macron-cine-alternatif-ariyor"
+    "https://tr.euronews.com/2026/11/17/fransa-ve-malezyadan-nadir-toprak-elementleri-anlasmasi-macron-cine-alternatif-ariyor",
+    "https://www.yenisafak.com/galeri/gundem/muglada-safran-hasadi-yapildi-uretim-35-dekara-ulasti-4873451"
   ]
 }
