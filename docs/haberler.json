@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-17T07:54:32.884Z",
+  "generatedAt": "2026-11-17T08:05:04.944Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "headline": "Kırım köprüsü Ukrayna saldırısının ardından kapatıldı, Rusya Kiev geçişlerini vurdu",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1649523217385-f27a01e148dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Q3JpbWVhJTIwYnJpZGdlfGVufDF8MHx8fDE3OTQ5MDI2OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Konstantin Dyadyun",
+        "photographerUrl": "https://unsplash.com/@kostyadyadyun",
+        "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-river-in-front-of-a-building-URJMEgCVu2s"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Kırım ile Rusya'yı bağlayan köprünün bildirildiğine göre büyük hasar gördüğü belirtilirken, Kiev'deki iki güzergah kapatıldı.",
+      "highlights": [
+        "Kırım ve Rusya'yı bağlayan köprü büyük hasar gördü",
+        "Kiev'deki iki güzergah kapatıldı"
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T08:02:27.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.trthaber.com/haber/turk-dunyasi/bilge-kaganin-saray-sehrinin-yeri-tespit-edildi-ayrintilar-ilk-kez-trt-haberde-963467.html",
       "headline": "Bilge Kağanın Saray Şehrinin yeri tespit edildi: Ayrıntılar ilk kez TRT Haberde",
@@ -8668,6 +8690,7 @@
     "https://www.yenisafak.com/gundem/iki-belediye-baskani-daha-ak-partiye-geciyor-cumhurbaskani-erdogan-rozetlerini-takacak-4873289",
     "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-baskisi-surerken-gozler-nvidianin-bilancosunda/4127244",
     "https://www.haberturk.com/ekonomi/gram-altin-gune-yukselisle-basladi-3927860",
-    "https://www.yenisafak.com/galeri/gundem/cicek-degil-adeta-altin-topluyorlar-aydin-haberleri-4873342"
+    "https://www.yenisafak.com/galeri/gundem/cicek-degil-adeta-altin-topluyorlar-aydin-haberleri-4873342",
+    "https://www.yenisafak.com/gundem/izmir-merkezli-feto-operasyonunda-yakalanan-11-supheli-tutuklandi-4873368"
   ]
 }
