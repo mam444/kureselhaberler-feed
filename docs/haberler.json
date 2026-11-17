@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-17T08:34:32.323Z",
+  "generatedAt": "2026-11-17T08:44:29.931Z",
   "articles": [
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+      "headline": "İrlandalı boksör Lee Reeves 31 yaşında hayatını kaybetti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1575747515871-2e323827539e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Ym94aW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDkwNTA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Guliciuc",
+        "photographerUrl": "https://unsplash.com/@hypefilms",
+        "unsplashUrl": "https://unsplash.com/photos/brown-and-gray-boxing-stage-o2zrjlM5s5o"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "İrlandalı boksör Lee Reeves, Dublin'de Gary Cully ile yaptığı maçta ağır yaralanmasından üç ay sonra Limerick'te yaşamını yitirdi.",
+      "highlights": [
+        "Lee Reeves 31 yaşında hayatını kaybetti",
+        "Ölüm nedeni üç ay önce aldığı yaralar",
+        "Olay Limerick'te gerçekleşti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+      "publishedAt": "2026-11-17T08:41:21.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/dunya/5-ab-ulkesinden-gocmenlerle-mucadele-adimi-sinir-disi-etme-merkezi-kurulacak-7702316",
+      "headline": "5 AB ülkesinden göçmenlerle mücadele adımı: Sınır dışı etme merkezi kurulacak",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1646579220694-19b415b52869?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8U29uJTIwRGFraWthfGVufDF8MHx8fDE3OTQ5MDMyODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Herlambang Tinasih Gusti",
+        "photographerUrl": "https://unsplash.com/@tinasihgusti",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-next-to-each-other-BgQQLPJIqkI"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Almanya, Danimarka, Avusturya, Yunanistan ve Hollanda, düzensiz göçmenleri Ruanda'ya göndermek üzere anlaştı. Gelecek yıl Ruanda'da açılması beklenen geri dönüş merkezine, ilk aşamada pilot uygulama kapsamında yaklaşık 100 kişinin gönderilmesi planlanıyor. İngiltere'nin iptal edilen planından farklı olarak bu anlaşma, kalma hakkı için tüm yasal yolları tüketmiş ve kendi ülkelerine iade edilemeyen göçmenleri kapsıyor.",
+      "highlights": [
+        "Beş AB ülkesi düzensiz göçmenleri Ruanda'ya göndermek için anlaştı.",
+        "Gelecek yıl açılacak merkeze ilk aşamada yaklaşık 100 kişi gönderilecek.",
+        "Anlaşma, sınır dışı kararı kesinleşmiş ancak iade edilemeyen göçmenleri kapsıyor."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/5-ab-ulkesinden-gocmenlerle-mucadele-adimi-sinir-disi-etme-merkezi-kurulacak-7702316",
+      "publishedAt": "2026-11-17T08:40:40.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/bahceli-sozcu-tvye-kayyum-atanmasi-hakkinda-konustu-yonetimi-ve-yorumculari-isaret-etti-4873383",
       "headline": "Bahçeli'den Sözcü TV'ye kayyum atanması açıklaması",
