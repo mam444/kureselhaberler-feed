@@ -330,7 +330,7 @@ async function main() {
       .map((article) => ({ article, rss: rssById.get(article.id) }))
       .map(({ article, rss }) => {
         const lastTextSearch = Date.parse(article.sourceTextAttemptedAt ?? '');
-        const needsLongerCopy = wordCount(article.body) < 90
+        const needsLongerCopy = wordCount(article.body) < 150
           && (!Number.isFinite(lastTextSearch) || now - lastTextSearch >= ENRICHMENT_RETRY_MS);
         const lastImageSearch = Date.parse(article.imageSearchAttemptedAt ?? '');
         const needsImageKeyword = Boolean(UNSPLASH_ACCESS_KEY)
@@ -345,10 +345,14 @@ async function main() {
     for (const { article, rss, needsLongerCopy, needsImageKeyword } of oldCandidates) {
       try {
         let sourceBody = String(rss?.body ?? article.body ?? '').trim();
+        let usedPublisherPage = false;
         const rssHasMore = sourceBody.length > String(article.body ?? '').length + 450;
         if (needsLongerCopy && !rssHasMore && article.externalUrl) {
           const publisherBody = await fetchPublisherArticleBody(article.externalUrl);
-          if (publisherBody && publisherBody.length > sourceBody.length + 450) sourceBody = publisherBody;
+          if (publisherBody && publisherBody.length > sourceBody.length + 450) {
+            sourceBody = publisherBody;
+            usedPublisherPage = true;
+          }
         }
         sourceBody = sourceBody.slice(0, MAX_SOURCE_SUMMARY_CHARS);
         const hasMoreSourceText = sourceBody.length > String(article.body ?? '').length + 450;
@@ -379,7 +383,8 @@ async function main() {
             ...(needsLongerCopy ? { sourceTextAttemptedAt: new Date(now).toISOString() } : {}),
           });
           if (canExpandBody) {
-            console.log(`[backfill] "${article.headline.slice(0, 60)}" ayrıntılı RSS metninden genişletildi.`);
+            const origin = usedPublisherPage ? 'izin verilen yayıncı metninden' : 'ayrıntılı RSS metninden';
+            console.log(`[backfill] "${article.headline.slice(0, 60)}" ${origin} genişletildi.`);
           }
           if (photo?.imageUrl) console.log(`[backfill] "${article.headline.slice(0, 60)}" için Unsplash görseli bulundu.`);
         }
