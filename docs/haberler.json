@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-17T10:15:58.547Z",
+  "generatedAt": "2026-11-17T10:24:26.376Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-bakan-gurlek-ile-bir-araya-geldi-7702395",
+      "headline": "MHP lideri Bahçeli, Bakan Gürlek ile bir araya geldi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saXRpY2lhbiUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDkxMTA2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/barack-obama-v_e3Hha4EBA"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "MHP Genel Başkanı Devlet Bahçeli, Adalet Bakanı Akın Gürlek'i Türkiye Büyük Millet Meclisi'ndeki makamında kabul etti. Görüşmeye ilişkin ayrıntıların daha sonra geleceği bildirildi.",
+      "highlights": [
+        "MHP Genel Başkanı Bahçeli, Bakan Gürlek'i kabul etti",
+        "Görüşme Meclis'teki makamda gerçekleşti"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-bakan-gurlek-ile-bir-araya-geldi-7702395",
+      "publishedAt": "2026-11-17T10:23:13.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/teknoloji/nvidia-eski-ceosu-huangi-geri-getirme-kulislerine-sirtini-dondu-7702382",
       "headline": "Nvidia, eski CEO'su Huang'ı geri getirme kulislerine sırtını döndü",
@@ -9068,6 +9090,7 @@
     "https://www.haberturk.com/gundem/kahramanmaras-taki-kizilay-dan-ges-li-asevi-3927930",
     "https://www.haberturk.com/spor/kulupler-birligi-vakfi-futbol-zirvesi-basladi-3927939",
     "https://www.trthaber.com/haber/dunya/ispanyada-makinistlerin-grevi-tren-ulasiminda-kaos-yaratti-963548.html",
-    "https://www.yenisafak.com/gundem/balikesirde-gocmen-kacakciligi-operasyonu-6-tutuklama-4873442"
+    "https://www.yenisafak.com/gundem/balikesirde-gocmen-kacakciligi-operasyonu-6-tutuklama-4873442",
+    "https://tr.euronews.com/2026/11/17/fransa-ve-malezyadan-nadir-toprak-elementleri-anlasmasi-macron-cine-alternatif-ariyor"
   ]
 }
