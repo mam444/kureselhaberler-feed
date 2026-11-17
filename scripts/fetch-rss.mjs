@@ -1,5 +1,6 @@
 import { XMLParser } from 'fast-xml-parser';
 import { iconUrlFor } from './sources.mjs';
+import { decodeHtmlEntities } from './html-text.mjs';
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -17,15 +18,7 @@ function asArray(value) {
 
 function stripHtml(raw) {
   if (!raw) return '';
-  return String(raw)
-    .replace(/<[^>]*>/g, ' ')
-    .replace(/&amp;/g, '&')
-    .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'")
-    .replace(/&apos;/g, "'")
-    .replace(/&lt;/g, '<')
-    .replace(/&gt;/g, '>')
-    .replace(/&nbsp;/g, ' ')
+  return decodeHtmlEntities(String(raw).replace(/<[^>]*>/g, ' '))
     .replace(/\s+/g, ' ')
     .trim();
 }

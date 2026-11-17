@@ -7,6 +7,7 @@ import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
 import { fcmTopicForCategory, sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
+import { decodeHtmlEntities } from './html-text.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
 // The feed runs every ten minutes. Publish four fresh items per run so the
@@ -250,6 +251,11 @@ async function main() {
   }
 
   const merged = [...rewritten, ...previous]
+    .map((article) => ({
+      ...article,
+      headline: decodeHtmlEntities(article.headline),
+      body: article.body ? decodeHtmlEntities(article.body) : article.body,
+    }))
     .filter((article) => isWithinNewsWindow(article, now))
     .filter((a, i, arr) => arr.findIndex((b) => b.id === a.id) === i)
     .sort((a, b) => new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0))
