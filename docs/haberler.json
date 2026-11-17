@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T09:24:58.266Z",
+  "generatedAt": "2026-11-17T09:34:41.634Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/10-milyonluk-anlasma-sonrasi-buyuk-sok-basina-silah-dayadi-esi-bile-ikna-edemedi-7702372",
+      "headline": "10 milyonluk anlaşma sonrası büyük şok: Eşi bile ikna edemedi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1557081999-0ea3e23579d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTQ5MDgwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ev",
+        "photographerUrl": "https://unsplash.com/@ev",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-police-standing-and-leaning-on-wall-pqkGQboKSeM"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Antalya Muratpaşa'da yaşadığı maddi sorunlar ve borçları nedeniyle 10 milyon TL'ye bina satan T.T., kalan tutarı tahsil edemeyince iş yerinde başına silah dayadı. Eşinin ihbarıyla olay yerine gelen polis ekiplerinin ve müzakerecilerin yaklaşık 6 saat süren ikna çabaları sonucunda şahıs ikna edilerek polis merkezine götürüldü.",
+      "highlights": [
+        "Maddi sorunlar yaşayan T.T., 10 milyonluk satış bedelinin kalan kısmını alamadı.",
+        "İş yerinde başına silah dayayan şahıs, eşinin ihbarıyla polis ekiplerini harekete geçirdi.",
+        "Özel Harekat Polislerinin de katıldığı yaklaşık 6 saatlik görüşmenin ardından ikna edildi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/10-milyonluk-anlasma-sonrasi-buyuk-sok-basina-silah-dayadi-esi-bile-ikna-edemedi-7702372",
+      "publishedAt": "2026-11-17T09:30:57.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/afad-20-kisilik-ekiple-sahaya-indi-gozler-kirilmamis-bu-faylarda-ne-kadar-vaktimiz-var-7702312",
       "headline": "AFAD ve uzmanlar Suriye'deki kırılmamış faylarda incelemelere başladı",
@@ -8948,6 +8971,7 @@
     "https://tr.euronews.com/video/2026/11/17/italyada-53-parmakli-robot-piyanist-ve-roberto-prosseda-chopini-birlikte-caldi",
     "https://www.ntv.com.tr/turkiye/gullu-dosyasinda-yeni-deliller-tubitaka-gonderildi-evde-bir-kisi-daha-mi-vardi-1751251",
     "https://www.yenisafak.com/galeri/hayat/dogu-ekspresinin-erzincan-guzergahi-kanyonlar-ve-nehir-manzarasiyla-yolculuga-renk-katiyor-4873400",
-    "https://www.yenisafak.com/galeri/gundem/karamanda-sir-olay-18-yasindaki-coban-olu-bulundu-4873405"
+    "https://www.yenisafak.com/galeri/gundem/karamanda-sir-olay-18-yasindaki-coban-olu-bulundu-4873405",
+    "https://www.ntv.com.tr/turkiye/video-gemi-kaderine-terk-edildi-10-hint-denizci-8-aydir-tuzla-aciklarinda-mahsur-1751266"
   ]
 }
