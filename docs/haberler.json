@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-17T14:18:21.440Z",
+  "generatedAt": "2026-11-17T14:45:27.139Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko?at_medium=RSS&at_campaign=rss",
+      "headline": "AİHM'den Can Atalay için hak ihlâli kararı",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1609922565691-c950ebae9665?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Q2FuJTIwQXRhbGF5fGVufDF8MHx8fDE3OTQ5MjY3MTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Federico Scarionati",
+        "photographerUrl": "https://unsplash.com/@federicoscarionati",
+        "unsplashUrl": "https://unsplash.com/photos/palm-tree-near-white-and-blue-concrete-building-VtJp34Rt-1E"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Avrupa İnsan Hakları Mahkemesi, Gezi davasında 18 yıl hapis cezası alan Can Atalay hakkında hak ihlâli kararı açıkladı. AİHM, Atalay'ın derhal serbest bırakılmasını ve milletvekilliği görevine dönmesini istedi.",
+      "highlights": [
+        "AİHM Can Atalay için hak ihlâli kararı verdi",
+        "Atalay'ın derhal serbest bırakılması istendi",
+        "Milletvekilliği görevine dönmesi talep edildi"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T14:43:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://tr.euronews.com/2026/11/17/charlotte-de-wittenin-yapay-zeka-sarkicisi-nava-techno-hayranlari-ikiye-bolundu",
+      "headline": "Charlotte de Witte'nin yapay zekâ şarkıcısı NAVA: Techno hayranları ikiye bölündü",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594623930572-300a3011d9ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dGVjaG5vJTIwZGp8ZW58MXwwfHx8MTc5NDkyNjcyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Aleksandr Popov",
+        "photographerUrl": "https://unsplash.com/@5tep5",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-blue-audio-mixer-JhYnL-BiP18"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Uluslararası DJ Charlotte de Witte, sahnede yer alması yasaklanan İranlı kadınları temsil etmek amacıyla yapay zekâ destekli sanal şarkıcı NAVA ile 'Azadi EP' albümünü çıkardı. Ancak bu sanal şarkıcı tercihi, techno müzik hayranları arasında fikir ayrılıklarına yol açtı.",
+      "highlights": [
+        "Charlotte de Witte yapay zekâ şarkıcısı NAVA ile Azadi EP'sini yayımladı",
+        "Proje İranlı kadınların sahnede yer alamamasını temsil ediyor",
+        "Bu tercih techno hayranlarını ikiye böldü"
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/17/charlotte-de-wittenin-yapay-zeka-sarkicisi-nava-techno-hayranlari-ikiye-bolundu",
+      "publishedAt": "2026-11-17T14:41:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-hatlarindaki-bazi-feribot-seferleri-yarin-iptal-edildi-7702544",
       "headline": "Gökçeada ve Bozcaada hatlarındaki bazı feribot seferleri yarın iptal edildi",
@@ -9048,29 +9094,6 @@
       "externalUrl": "https://www.dw.com/tr/yeni-yan-etki-keşfedildi-zayıflama-ilacı-körlük-yapabilir/a-79912512?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-10T17:24:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/basaksehirde-yusuf-sari-ameliyat-oldu-3491538",
-      "headline": "Başakşehirli futbolcu Yusuf Sarı sol dizinden operasyon geçirdi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1624280157150-4d1ed8632989?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBwbGF5ZXIlMjBrbmVlJTIwc3VyZ2VyeXxlbnwxfDB8fHwxNzk0MzExNDA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tobias Flyckt",
-        "photographerUrl": "https://unsplash.com/@flyckt",
-        "unsplashUrl": "https://unsplash.com/photos/woman-in-black-and-white-soccer-jersey-kicking-soccer-ball-on-green-field-during-daytime-5yNJx9NO3Yc"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türk futbolunun önemli kulüplerinden biri olan İstanbul Başakşehir'de forma giyen milli sporcu Yusuf Sarı, sağlığına kavuşmak adına önemli bir tıbbi müdahale yaşadı. Yapılan resmi açıklamalar doğrultusunda, başarılı futbolcunun sol diz bölgesinde bir operasyon gerçekleştirildiği kamuoyu ile paylaşıldı. Profesyonel futbol kariyerini sürdüren ve hem kulüp düzeyinde hem de milli takım forması altında ter döken Yusuf Sarı'nın geçirdiği bu cerrahi müdahale, spor camiasında ve taraftarlar arasında yakından takip ediliyor.\n\nGerçekleştirilen operasyonun detaylarına ilişkin olarak, kulüp sağlık heyeti tarafından sürecin başarılı bir şekilde tamamlandığı ifade edildi. Futbolcuların kariyerleri boyunca karşılaşabildikleri sakatlık problemleri, spor dünyasının en kritik unsurları arasında yer alıyor. Yusuf Sarı'nın da sol dizinde nükseden veya yaşanan bir rahatsızlık neticesinde bu tıbbi adımı atması, onun sahalara daha güçlü bir şekilde dönebilmesi amacıyla planlandı. Spor medyasında geniş yankı uyandıran bu gelişme, özellikle Başakşehir camiası ve futbolcunun yakın takipçileri tarafından endişe ve umut karışımı bir dikkatle izleniyor.\n\nModern futbolun en büyük zorluklarından biri olan fiziksel yıpranmalar ve sakatlık riskleri, profesyonel sporcuların kariyerlerinde dönüm noktası olabiliyor. Yusuf Sarı gibi üst düzey müsabakalarda boy gösteren oyuncuların geçirdiği operasyonlar, hem kendi takımlarının kadro planlamasını hem de milli takımın gelecek dönemdeki hazırlıklarını doğrudan etkiliyor. Sol dizinden başarılı bir cerrahi operasyon geçiren milli futbolcunun, doktorların belirleyeceği rehabilitasyon ve dinlenme sürecinin ardından yeniden yeşil sahalara dönmesi bekleniyor.\n\nOperasyon sonrasında sporcunun moralinin yerinde olduğu ve hastane sürecinin planlandığı gibi ilerlediği bildirildi. Kulüp yetkilileri ve sağlık ekibi, Yusuf Sarı'nın iyileşme sürecini yakından takip ederek gerekli tüm tıbbi desteği sağlamaya devam ediyor. Futbolseverler ve kulüp taraftarları, milli futbolcunun bir an önce sağlığına kavuşmasını ve en kısa sürede formasını giymesini dileyen mesajlar paylaşıyor. Bu süreç, sporcuların sahalara dönüş yolundaki azmini ve profesyonel disiplinini bir kez daha gözler önüne seriyor.",
-      "highlights": [
-        "Milli futbolcu Yusuf Sarı sol dizinden ameliyat edildi.",
-        "Operasyonun İstanbul Başakşehir kulübünde gerçekleştiği bildirildi.",
-        "Sporcunun sağlık durumunun iyi olduğu ve iyileşme sürecine girdiği belirtildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/basaksehirde-yusuf-sari-ameliyat-oldu-3491538",
-      "publishedAt": "2026-11-10T14:36:40.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
