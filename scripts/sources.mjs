@@ -33,6 +33,18 @@ export const TURKISH_SOURCES = [
   { url: 'https://feeds.bbci.co.uk/turkce/rss.xml', name: 'BBC Türkçe', domain: 'bbc.com', defaultCategory: 'Dünya' },
   { url: 'https://rss.dw.com/xml/rss-tur-all', name: 'DW Türkçe', domain: 'dw.com', defaultCategory: 'Dünya' },
   { url: 'https://tr.euronews.com/rss', name: 'Euronews', domain: 'euronews.com', defaultCategory: 'Dünya' },
+  // VOA Türkçe exposes separate official RSS feeds for international and
+  // regional coverage. Keep one publisher name so round-robin selection
+  // cannot let its several feeds dominate a single publishing run.
+  { url: 'https://www.voaturkce.com/api/zb-vtl-vomx-tpeqvkr', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
+  { url: 'https://www.voaturkce.com/api/ztbvrl-vomx-tpekvkq', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
+  { url: 'https://www.voaturkce.com/api/zrbvrl-vomx-tpeovkq', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
+  { url: 'https://www.voaturkce.com/api/zpbvml-vomx-tpe_vk_', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
+  { url: 'https://www.voaturkce.com/api/zqkkqpl-vomx-tpeip-qm', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Dünya' },
+  { url: 'https://www.voaturkce.com/api/zk-vml-vomx-tpejyk_', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Ekonomi' },
+  { url: 'https://www.voaturkce.com/api/zybvvl-vomx-tpetvkt', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Bilim ve Teknoloji' },
+  { url: 'https://www.voaturkce.com/api/zqbvql-vomx-tpeivko', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Sağlık' },
+  { url: 'https://www.voaturkce.com/api/zbq_qrl-vomx-tpeqkvqo', name: 'VOA Türkçe', domain: 'voaturkce.com', defaultCategory: 'Son Dakika' },
 ].map((s) => ({ ...s, lang: 'tr' }));
 
 export const INTERNATIONAL_SOURCES = [

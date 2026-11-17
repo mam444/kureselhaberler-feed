@@ -118,7 +118,9 @@ async function rewriteAndIllustrate(raw) {
         externalUrl: raw.externalUrl,
         publishedAt: raw.publishedAt,
         category: raw.category,
-        lang: raw.lang,
+        // Gemini's editorial prompt always produces Turkish, even when its
+        // source item comes from an English-language international feed.
+        lang: 'tr',
       },
       permanentlyRejected: false,
     };
@@ -255,6 +257,13 @@ async function main() {
       ...article,
       headline: decodeHtmlEntities(article.headline),
       body: article.body ? decodeHtmlEntities(article.body) : article.body,
+      // Historical Gemini translations were incorrectly tagged with their
+      // publisher's source language. The app filters by display language, so
+      // expose translated English-source stories in the Turkish feed again.
+      lang: article.lang === 'en'
+        && (Boolean(article.imageUrl) || (Array.isArray(article.highlights) && article.highlights.length > 0))
+        ? 'tr'
+        : article.lang,
     }))
     .filter((article) => isWithinNewsWindow(article, now))
     .filter((a, i, arr) => arr.findIndex((b) => b.id === a.id) === i)
