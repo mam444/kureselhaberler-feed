@@ -15,7 +15,7 @@ const FEED_PATH = path.resolve('docs/haberler.json');
 const MAX_NEW_PER_RUN = 2;
 const MAX_NEW_PER_HOUR = 9;
 const MAX_GEMINI_REWRITES_PER_RUN = 2;
-const MAX_OLD_STORY_REWRITES_PER_RUN = 1;
+const MAX_OLD_STORY_REWRITES_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
 // stale RSS backlog (or a publisher's ancient archive item) masquerade as
