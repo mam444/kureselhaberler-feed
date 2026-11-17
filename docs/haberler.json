@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-17T06:14:17.073Z",
+  "generatedAt": "2026-11-17T06:24:35.215Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-japonyada-havada-rusya-alarmi-supheli-ucaklar-ihlal-etti-7702149",
+      "headline": "Japonya'da havada Rusya alarmı: Şüpheli uçaklar hava sahasını ihlal etti",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1614121174144-bd53a169780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZmlnaHRlciUyMGpldHxlbnwxfDB8fHwxNzk0ODk2Njc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NASA",
+        "photographerUrl": "https://unsplash.com/@nasa",
+        "unsplashUrl": "https://unsplash.com/photos/sr71-jet-above-mountains-Tquhp9Kqkzk"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Japonya Savunma Bakanlığı, Rusya'ya ait olduğundan şüphelenilen iki uçağın Fukuoka eyaleti açıklarında hava sahasına girdiğini açıkladı. Yaklaşık üçer dakika süren ihlallerin ardından Japon savaş uçakları havalandırıldı ve uyarıda bulunuldu. Tokyo yönetimi Moskova'ya protesto notası verirken, Güney Kore de Rus uçaklarının KADIZ'a girdiğini bildirdi.",
+      "highlights": [
+        "Rusya'ya ait olduğundan şüphelenilen iki uçak Japon hava sahasına girdi",
+        "Tokyo yönetimi Moskova'ya protesto notası verdi",
+        "Güney Kore, Rus uçaklarının KADIZ'a girdiğini açıkladı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-japonyada-havada-rusya-alarmi-supheli-ucaklar-ihlal-etti-7702149",
+      "publishedAt": "2026-11-17T06:22:27.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/altinozunde-minibus-yan-yatti-3-kisi-yaralandi-4873296",
+      "headline": "Hatay'ın Altınözü ilçesinde minibüs yan yattı: 3 kişi yaralandı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Altınözü ilçesindeki Yolağzı Mahallesi'nde sürücüsünün kontrolünü kaybettiği minibüs yan yattı, kazada 3 kişi yaralandı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/altinozunde-minibus-yan-yatti-3-kisi-yaralandi-4873296",
+      "publishedAt": "2026-11-17T06:19:16.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
       "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
