@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-17T08:24:36.907Z",
+  "generatedAt": "2026-11-17T08:34:32.323Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/bahceli-sozcu-tvye-kayyum-atanmasi-hakkinda-konustu-yonetimi-ve-yorumculari-isaret-etti-4873383",
+      "headline": "Bahçeli'den Sözcü TV'ye kayyum atanması açıklaması",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1655720352145-cd7bbf26698a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bmV3cyUyMG1pY3JvcGhvbmV8ZW58MXwwfHx8MTc5NDkwNDQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Iwaria Inc.",
+        "photographerUrl": "https://unsplash.com/@iwaria",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-holding-a-microphone-1jsk7RhVg-U"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "MHP Genel Başkanı Devlet Bahçeli, Sözcü Medya Grubu'na kayyum atanması kararına ilişkin konuştu. Bahçeli, kararın gerekçeleri konusunda Sözcü yönetimini ve ekrandaki yorumcuları işaret ederek, sorunun sebep ve sonuçlarının onlara sorulması gerektiğini belirtti.",
+      "highlights": [
+        "Bahçeli, Sözcü Medya Grubu'na kayyum atanması hakkında konuştu",
+        "Kararın gerekçeleri için Sözcü yönetimini ve yorumcuları işaret etti"
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/bahceli-sozcu-tvye-kayyum-atanmasi-hakkinda-konustu-yonetimi-ve-yorumculari-isaret-etti-4873383",
+      "publishedAt": "2026-11-17T08:32:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-sosyal-medya-cagrisi-gerekli-adimlari-atmanin-zamani-geldi-7702248",
       "headline": "MHP lideri Bahçeli'den sosyal medya ve şehit açıklaması",
@@ -8739,6 +8761,7 @@
     "https://www.yenisafak.com/galeri/gundem/cicek-degil-adeta-altin-topluyorlar-aydin-haberleri-4873342",
     "https://www.yenisafak.com/gundem/izmir-merkezli-feto-operasyonunda-yakalanan-11-supheli-tutuklandi-4873368",
     "https://www.yenisafak.com/gundem/afyonkarahisar-haberleri-afyonkarahisarin-3-ilcesinde-gida-denetimi-yapildi-4873376",
-    "https://tr.euronews.com/video/2026/11/17/italyada-53-parmakli-robot-piyanist-ve-roberto-prosseda-chopini-birlikte-caldi"
+    "https://tr.euronews.com/video/2026/11/17/italyada-53-parmakli-robot-piyanist-ve-roberto-prosseda-chopini-birlikte-caldi",
+    "https://www.ntv.com.tr/turkiye/gullu-dosyasinda-yeni-deliller-tubitaka-gonderildi-evde-bir-kisi-daha-mi-vardi-1751251"
   ]
 }
