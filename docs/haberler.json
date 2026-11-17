@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-17T05:54:25.896Z",
+  "generatedAt": "2026-11-17T06:04:29.536Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "headline": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-17T05:59:01.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.haberturk.com/magazin/selahattin-pasali-evliligimizin-en-guzel-donemindeyiz-3927749",
       "headline": "\"Evliliğimizin en güzel dönemindeyiz\"",
@@ -8377,6 +8392,7 @@
     "https://www.ntv.com.tr/turkiye/fon-sorusturmasinda-7-kisiye-daha-tutuklama-talebi-1751184",
     "https://www.yenisafak.com/gundem/erzincanda-soguk-hava-arac-camlarini-buzla-kapladi-4873274",
     "https://www.ntv.com.tr/turkiye/sozcu-tvye-operasyon-kayyum-atandi-polis-binada-arama-yapiyor-1751200",
-    "https://www.trthaber.com/haber/dunya/abd-baskani-donald-trump-si-ve-putin-ile-gorusmesi-oncesinde-asyaya-gidiyor-963500.html"
+    "https://www.trthaber.com/haber/dunya/abd-baskani-donald-trump-si-ve-putin-ile-gorusmesi-oncesinde-asyaya-gidiyor-963500.html",
+    "https://tr.euronews.com/2026/11/17/sicak-hava-dalgalari-saglik-ve-ekonomide-agir-bedeli-ispanya-oduyor"
   ]
 }
