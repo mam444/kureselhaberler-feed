@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-17T12:54:36.627Z",
+  "generatedAt": "2026-11-17T13:04:37.135Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/teknoloji/applea-fransada-planli-eskitme-davasi-iste-listedeki-iphone-modelleri-7702498",
+      "headline": "Apple'a Fransa'da 'planlı eskitme' davası",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1609692814858-f7cd2f0afa4f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QXBwbGUlMjBpUGhvbmV8ZW58MXwwfHx8MTc5NDkyMDY3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dennis Brendel",
+        "photographerUrl": "https://unsplash.com/@dnnsbrndl",
+        "unsplashUrl": "https://unsplash.com/photos/smartphone-smartwatch-and-wireless-earbuds-YLNMXzXk8zs"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Fransa'da Apple hakkında bazı iPhone modellerinde yetkili servisler dışındaki onarımları önleyerek planlı eskitme uyguladığı gerekçesiyle dava açıldı. Paris'te 17 Haziran'da görülecek davada suçlu bulunması halinde şirkete 300 bin avroya kadar para cezası verilebilecek. Davaya konu modeller arasında iPhone XS, 12, 13, 14, 15 serileri ve 2022 yapımı iPhone SE bulunuyor.",
+      "highlights": [
+        "Apple'a Fransa'da planlı eskitme davası açıldı",
+        "Duruşma 17 Haziran'da Paris'te görülecek",
+        "Suçlu bulunursa 300 bin avroya kadar ceza kesilebilir"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/teknoloji/applea-fransada-planli-eskitme-davasi-iste-listedeki-iphone-modelleri-7702498",
+      "publishedAt": "2026-11-17T13:00:26.000Z",
+      "category": "Teknoloji",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-dervisoglunu-ziyaret-etti-7702502",
       "headline": "TBMM Başkanı Kurtulmuş'tan Dervişoğlu'na 'Terörsüz Türkiye' ziyareti",
@@ -9175,6 +9198,7 @@
     "https://www.aa.com.tr/tr/ekonomi/sizdirilan-15-milyondan-fazla-belge-deutsche-banktaki-usulsuzlukleri-ve-riskli-iliskileri-ortaya-cikardi/4127778",
     "https://www.yenisafak.com/gundem/osmaniyede-hareket-eden-minibusu-esnaf-durdurdu-4873510",
     "https://www.yenisafak.com/galeri/gundem/amasyada-altin-kaplama-lokuma-gumus-alternatif-uretildi-4873517",
-    "https://www.yenisafak.com/gundem/kirikkalede-kamyon-devrildi-surucu-yaralandi-4873526"
+    "https://www.yenisafak.com/gundem/kirikkalede-kamyon-devrildi-surucu-yaralandi-4873526",
+    "https://www.yenisafak.com/galeri/gundem/balikesiri-saganak-vurdu-ev-ve-is-yerlerini-su-basti-4873534"
   ]
 }
