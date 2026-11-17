@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-17T07:34:36.336Z",
+  "generatedAt": "2026-11-17T07:44:17.861Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/2-haftada-yuzde-7-yukseldi-barajlar-costu-istanbul-barajlarinda-son-durum-ne-1751237",
+      "headline": "İstanbul barajlarında son durum: 2 haftada yüzde 7 yükseldi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1734761653525-9eca2e496faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SXN0YW5idWwlMjBkYW0lMjB3YXRlcnxlbnwxfDB8fHwxNzk0OTAxNDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anil Baki Durmus",
+        "photographerUrl": "https://unsplash.com/@anldrms",
+        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-bridge-over-a-body-of-water-ArpZ-mhirQw"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "İstanbul Su ve Kanalizasyon İdaresi verilerine göre, İstanbul'daki barajların doluluk oranında son iki hafta içerisinde yüzde 7'lik bir artış kaydedildi.",
+      "highlights": [
+        "İstanbul barajlarında doluluk oranı arttı",
+        "Son 2 haftada yüzde 7'lik yükseliş yaşandı",
+        "Veriler İSKİ tarafından açıklandı"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/2-haftada-yuzde-7-yukseldi-barajlar-costu-istanbul-barajlarinda-son-durum-ne-1751237",
+      "publishedAt": "2026-11-17T07:42:56.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-aciklamalar-7702248",
+      "headline": "Son dakika... MHP lideri Bahçeli'den açıklamalar",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "İşte Bahçeli'nin açıklamalarından öne çıkan satır başları:Yurt içinden ve yurt dışından olmak üzere televizyon ekranları, sosyal medya platformları ve radyo kanalları aracılığıyla bizleri takip eden aziz vatandaşlarımızı, gönül ve kültür coğrafyalarımızda varoluş mücadelesi verip kalbi bizimle çarpan, aynı düşünce dünyasından beslenip eylemlerine yön tayin eden Türk-İslam âlemine en halisane duygularımı, sevgi ve…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-aciklamalar-7702248",
+      "publishedAt": "2026-11-17T07:42:30.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/rapor-trumpin-2024teki-secmenlerinin-yuzde-35i-ara-secimlerde-oy-kullanmadi/4127333",
       "headline": "Rapor: Trump'ın 2024'teki seçmenlerinin yüzde 35'i ara seçimlerde oy kullanmadı",
