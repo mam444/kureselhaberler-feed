@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-11-17T06:44:22.614Z",
+  "generatedAt": "2026-11-17T06:54:15.376Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/adanada-soba-satislari-artti-modeller-degisti-4873319",
+      "headline": "Adana'da soba satışları arttı, modern modeller 120 bin TL'ye kadar çıkıyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Adana'da kış mevsiminin etkisini göstermesiyle soba satışlarında hareketlilik yaşanırken, vatandaşlar klasik modeller yerine fiyatı 120 bin TL’ye kadar çıkan modern tasarımlı sobalara yöneldi. Soba satıcısı Fuat Okutucu, \"Eski tip sobaların devri bitti\" dedi.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/adanada-soba-satislari-artti-modeller-degisti-4873319",
+      "publishedAt": "2026-11-17T06:52:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://tr.euronews.com/2026/11/17/italyanin-kemer-sikma-sicili-hsbcye-gore-g7-ayni-yolu-izlemek-zorunda",
+      "headline": "İtalya'nın kemer sıkma sicili: HSBC'ye göre G7 aynı yolu izlemek zorunda",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "HSBC, borcun istikrara kavuşması için her G7 üyesinin İtalya tarzı birincil fazla vermesi gerekeceğini, seçim yılı bütçesi öncesi Roma'nın Paris'ten daha ucuza borçlandığını söylüyor.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/17/italyanin-kemer-sikma-sicili-hsbcye-gore-g7-ayni-yolu-izlemek-zorunda",
+      "publishedAt": "2026-11-17T06:50:46.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/17/xylella-salentoda-zeytinlikler-avokadoya-donuyor-avrupa-tarimi-icin-tehdit",
       "headline": "Xylella: Salento'da zeytinlikler avokadoya dönüyor, Avrupa tarımı için tehdit",
