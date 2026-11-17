@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { ALL_SOURCES } from './sources.mjs';
-import { fetchAllSources } from './fetch-rss.mjs';
+import { fetchAllSources, fetchPublisherArticleBody } from './fetch-rss.mjs';
 import { rewriteArticle } from './gemini.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
@@ -31,7 +31,7 @@ const MAX_ALLOWED_SIMILARITY = 0.5;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
 const RSS_FALLBACK_MAX_CHARS = 420;
 const MAX_IMAGE_BACKFILLS_PER_RUN = 1;
-const IMAGE_SEARCH_RETRY_MS = 24 * 60 * 60 * 1000;
+const ENRICHMENT_RETRY_MS = 24 * 60 * 60 * 1000;
 
 function isWithinNewsWindow(article, now = Date.now()) {
   const publishedAt = Date.parse(article.publishedAt ?? '');
@@ -64,6 +64,15 @@ function timeAgoTrSnapshot(iso) {
   const diffHour = Math.round(diffMin / 60);
   if (diffHour < 24) return `${diffHour} sa önce`;
   return `${Math.round(diffHour / 24)} gün önce`;
+}
+
+async function enrichWithPublisherBody(raw) {
+  const rssBody = String(raw.body ?? '').trim();
+  if (rssBody.length >= 1_400) return raw;
+  const publisherBody = await fetchPublisherArticleBody(raw.externalUrl);
+  if (!publisherBody || publisherBody.length <= rssBody.length + 300) return raw;
+  console.log(`[article] "${raw.headline.slice(0, 60)}" için izin verilen, daha ayrıntılı yayıncı metni bulundu.`);
+  return { ...raw, body: publisherBody };
 }
 
 async function loadPreviousFeed() {
@@ -288,7 +297,8 @@ async function main() {
       continue;
     }
     geminiRewriteCount++;
-    const result = await rewriteAndIllustrate(raw);
+    const articleSource = await enrichWithPublisherBody(raw);
+    const result = await rewriteAndIllustrate(articleSource);
     if (result.article) rewritten.push(result.article);
     else if (result.dailyQuotaExceeded) {
       dailyGeminiQuotaExceeded = true;
@@ -318,46 +328,55 @@ async function main() {
     const wordCount = (value) => String(value ?? '').trim().split(/\s+/).filter(Boolean).length;
     const oldCandidates = previous
       .map((article) => ({ article, rss: rssById.get(article.id) }))
-      .filter(({ article, rss }) => {
-        const needsLongerCopy = rss
-          && wordCount(article.body) < 90
-          && String(rss.body).length > String(article.body ?? '').length + 450;
+      .map(({ article, rss }) => {
+        const lastTextSearch = Date.parse(article.sourceTextAttemptedAt ?? '');
+        const needsLongerCopy = wordCount(article.body) < 90
+          && (!Number.isFinite(lastTextSearch) || now - lastTextSearch >= ENRICHMENT_RETRY_MS);
         const lastImageSearch = Date.parse(article.imageSearchAttemptedAt ?? '');
         const needsImageKeyword = Boolean(UNSPLASH_ACCESS_KEY)
           && !article.imageUrl
-          && (!Number.isFinite(lastImageSearch) || now - lastImageSearch >= IMAGE_SEARCH_RETRY_MS)
+          && (!Number.isFinite(lastImageSearch) || now - lastImageSearch >= ENRICHMENT_RETRY_MS)
           && wordCount(article.body) >= 60;
-        return needsLongerCopy || needsImageKeyword;
+        return { article, rss, needsLongerCopy, needsImageKeyword };
       })
+      .filter(({ needsLongerCopy, needsImageKeyword }) => needsLongerCopy || needsImageKeyword)
       .slice(0, MAX_OLD_STORY_REWRITES_PER_RUN);
 
-    for (const { article, rss } of oldCandidates) {
+    for (const { article, rss, needsLongerCopy, needsImageKeyword } of oldCandidates) {
       try {
-        const sourceBody = String(
-          rss && String(rss.body).length > String(article.body ?? '').length + 450
-            ? rss.body
-            : article.body,
-        ).slice(0, MAX_SOURCE_SUMMARY_CHARS);
+        let sourceBody = String(rss?.body ?? article.body ?? '').trim();
+        const rssHasMore = sourceBody.length > String(article.body ?? '').length + 450;
+        if (needsLongerCopy && !rssHasMore && article.externalUrl) {
+          const publisherBody = await fetchPublisherArticleBody(article.externalUrl);
+          if (publisherBody && publisherBody.length > sourceBody.length + 450) sourceBody = publisherBody;
+        }
+        sourceBody = sourceBody.slice(0, MAX_SOURCE_SUMMARY_CHARS);
+        const hasMoreSourceText = sourceBody.length > String(article.body ?? '').length + 450;
+        if (!hasMoreSourceText && !needsImageKeyword) {
+          oldStoryUpgrades.push({ ...article, sourceTextAttemptedAt: new Date(now).toISOString() });
+          continue;
+        }
         const upgraded = await rewriteArticle(
           { headline: rss?.headline ?? article.headline, body: sourceBody, category: article.category ?? rss?.category },
           GEMINI_API_KEY,
         );
         const sourceText = `${rss?.headline ?? article.headline} ${sourceBody}`;
         const rewrittenText = `${upgraded.headline} ${upgraded.body}`;
-        const canExpandBody = Boolean(rss)
+        const canExpandBody = hasMoreSourceText
           && wordCount(upgraded.body) >= 90
           && wordCount(upgraded.body) > wordCount(article.body)
           && jaccardSimilarity(sourceText, rewrittenText) <= MAX_ALLOWED_SIMILARITY;
-        const photo = !article.imageUrl && upgraded.imageKeyword
+        const photo = needsImageKeyword && upgraded.imageKeyword
           ? await findPhoto([upgraded.imageKeyword], UNSPLASH_ACCESS_KEY)
           : null;
-        if (canExpandBody || photo?.imageUrl || !article.imageUrl) {
+        if (canExpandBody || photo?.imageUrl || needsLongerCopy || needsImageKeyword) {
           oldStoryUpgrades.push({
             ...article,
             ...(canExpandBody ? { headline: upgraded.headline, body: upgraded.body } : {}),
             highlights: upgraded.highlights?.length ? upgraded.highlights : article.highlights,
             ...(photo?.imageUrl ? { imageUrl: photo.imageUrl, imageCredit: photo.imageCredit } : {}),
-            ...(!article.imageUrl ? { imageSearchAttemptedAt: new Date(now).toISOString() } : {}),
+            ...(needsImageKeyword ? { imageSearchAttemptedAt: new Date(now).toISOString() } : {}),
+            ...(needsLongerCopy ? { sourceTextAttemptedAt: new Date(now).toISOString() } : {}),
           });
           if (canExpandBody) {
             console.log(`[backfill] "${article.headline.slice(0, 60)}" ayrıntılı RSS metninden genişletildi.`);
@@ -412,7 +431,7 @@ async function main() {
     const imageBackfillCandidates = merged
       .filter((article) => !article.imageUrl && article.headline
         && (!Number.isFinite(Date.parse(article.imageSearchAttemptedAt ?? ''))
-          || now - Date.parse(article.imageSearchAttemptedAt) >= IMAGE_SEARCH_RETRY_MS)
+          || now - Date.parse(article.imageSearchAttemptedAt) >= ENRICHMENT_RETRY_MS)
         && !brandNewRaw.some((fresh) => fresh.id === article.id))
       .slice(0, MAX_IMAGE_BACKFILLS_PER_RUN);
     for (const article of imageBackfillCandidates) {
