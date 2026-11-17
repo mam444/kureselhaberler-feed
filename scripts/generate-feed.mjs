@@ -15,7 +15,9 @@ const FEED_PATH = path.resolve('docs/haberler.json');
 // verified publisher RSS summary. This broadens coverage without increasing
 // Gemini calls. Gemini's active limits vary by project/model and are checked
 // in AI Studio; the verified-RSS fallback keeps articles flowing on errors.
-const MAX_NEW_PER_RUN = 6;
+// The feed runs every ten minutes. Keep a modest per-run cap so the hourly
+// output stays close to the observed volume of distinct NTV RSS stories.
+const MAX_NEW_PER_RUN = 2;
 const MAX_GEMINI_REWRITES_PER_RUN = 2;
 const MAX_TOTAL_ARTICLES = 600;
 // Keep a useful recent archive for browsing older stories, but never let a
@@ -158,7 +160,8 @@ function createRssFallback(raw) {
     headline: raw.headline,
     source: raw.source,
     sourceIconUrl: raw.sourceIconUrl,
-    imageUrl: null,
+    // Use the publisher-provided image when Gemini's illustration step fails.
+    imageUrl: raw.imageUrl ?? null,
     imageCredit: null,
     timeAgo: timeAgoTrSnapshot(raw.publishedAt),
     body: excerpt,
@@ -177,6 +180,14 @@ async function main() {
 
   console.log(`[main] ${ALL_SOURCES.length} kaynak taranıyor...`);
   const fetched = await fetchAllSources(ALL_SOURCES);
+  // Recover real publisher thumbnails for existing stories too. Some feeds
+  // refresh their item metadata, so old JSON entries may lack an image even
+  // though the source still provides one.
+  const sourceImagesById = new Map(
+    fetched
+      .filter((article) => article.id && article.imageUrl)
+      .map((article) => [article.id, article.imageUrl]),
+  );
 
   const seenIds = new Set();
   const deduped = [];
@@ -294,6 +305,7 @@ async function main() {
           || (Array.isArray(article.highlights) && article.highlights.length > 0));
       return {
         ...article,
+        imageUrl: article.imageUrl ?? sourceImagesById.get(article.id) ?? null,
         headline: decodeHtmlEntities(article.headline),
         body: article.body ? decodeHtmlEntities(article.body) : article.body,
         lang: wasTranslatedToTurkish ? 'tr' : article.lang,
