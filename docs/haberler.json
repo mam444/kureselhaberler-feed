@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-17T18:44:37.632Z",
+  "generatedAt": "2026-11-17T18:55:03.209Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/dunya/irandan-abdye-nukleer-resti-3494510",
+      "headline": "İran'dan ABD'ye 'nükleer' resti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614035435969-bc2bad339b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bnVjbGVhciUyMHdlYXBvbnxlbnwxfDB8fHwxNzk0OTQxNjk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Oo Jiflip",
+        "photographerUrl": "https://unsplash.com/@oojiflip",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-red-space-ship-scale-model-QSvjKqDiDPY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, ABD'nin İran'a karşı nükleer silah kullanması durumunda Tahran yönetiminin aynı düzeyde karşılık vereceğini açıkladı.\n\nİran merkezli Khabarfoori haber sitesine konuşan Muhsini Sani, ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu'nun tutumları göz önüne alındığında her türlü gelişmenin yaşanabileceğini belirterek gerekli önlemlerin alındığını kaydetti. ABD ile olası bir anlaşmaya dair son derece kötümser olduklarını ve bu konuda olumlu bir beklenti taşımadıklarını dile getirdi.\n\nABD yönetiminin seçim yenilgisinin ardından savaşın artık bir fayda sağlamadığı sonucuna varması ve geçmiş politikalarından vazgeçmesi durumunda diplomatik bir sürecin mümkün olabileceğini ifade eden Muhsini Sani, askeri saldırı ihtimaline karşı tüm hazırlıkların yapıldığını savundu.\n\nMuhsini Sani, \"ABD nükleer silah kullanmaya kalkışırsa İran'ın vereceği karşılık da aynı düzeyde olacaktır.\" şeklinde konuştu ancak verilecek olası karşılığın detaylarına ilişkin herhangi bir bilgi paylaşmadı.",
+      "highlights": [
+        "ABD'nin nükleer silah kullanması halinde İran'ın aynı düzeyde karşılık vereceği belirtildi.",
+        "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, ABD ile olası bir anlaşmaya karşı kötümser olduklarını ifade etti.",
+        "Askeri saldırı ihtimaline karşı gerekli hazırlıkların yapıldığı savunuldu."
+      ],
+      "externalUrl": "https://www.cnnturk.com/dunya/irandan-abdye-nukleer-resti-3494510",
+      "publishedAt": "2026-11-17T18:52:40.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+      "headline": "Mozambikli muhalefet lideri Venancio Mondlane terör suçlamalarıyla hakim karşısına çıktı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1568092806323-8ec13dfa9b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnQlMjB0cmlhbHxlbnwxfDB8fHwxNzk0OTQxNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Veksler",
+        "photographerUrl": "https://unsplash.com/@davidveksler",
+        "unsplashUrl": "https://unsplash.com/photos/architectural-photography-of-trial-court-interior-view-HpmDAS1Dozs"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Mozambik'in muhalefet lideri Venancio Mondlane, terörizm ve sivil itaatsizlik suçlamalarıyla yargılanmaya başladı.\n\nMondlane, hakkındaki bu ciddi iddialarla ilgili olarak mahkeme huzuruna çıktı.\n\nYargılama sürecinde sanık konumunda bulunan muhalefet lideri, kendisine yöneltilen suçlamalarla ilgili savunma yapacak.\n\nSüreç, Mozambik'teki siyasi gelişmeler açısından yakından takip ediliyor.",
+      "highlights": [
+        "Mozambik muhalefet lideri Venancio Mondlane yargılanıyor",
+        "Mondlane terörizm ve sivil itaatsizlik suçlamalarıyla karşı karşıya"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
+      "publishedAt": "2026-11-17T18:48:15.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/ozlalenin-iddiasina-bankadan-yanit-yurt-disina-transfer-sistemimiz-yok-3494509",
       "headline": "Özlale'nin iddiasına bankadan yanıt: \"Yurt dışına transfer sistemimiz yok\"",
@@ -14,7 +59,8 @@
       "externalUrl": "https://www.cnnturk.com/video/turkiye/ozlalenin-iddiasina-bankadan-yanit-yurt-disina-transfer-sistemimiz-yok-3494509",
       "publishedAt": "2026-11-17T18:42:26.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-17T18:54:19.494Z"
     },
     {
       "id": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-world-4025-xml-mrss",
@@ -524,7 +570,8 @@
       "publishedAt": "2026-11-17T16:39:01.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:41:00.908Z"
+      "imageSearchAttemptedAt": "2026-11-17T17:41:00.908Z",
+      "sourceTextAttemptedAt": "2026-11-17T18:54:19.494Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/17/jensen-huang-nvidiada-ceoluk-gorevine-donmeye-hazir-oldugunu-soyledi",
@@ -10452,29 +10499,6 @@
       ],
       "externalUrl": "https://www.cnnturk.com/magazin/yasemin-sakallioglu-yine-yapti-yapacagini-sibil-cetinkayayi-tiye-aldi-3491687",
       "publishedAt": "2026-11-10T21:26:39.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1750326",
-      "headline": "Süper Loto çekiliş sonuçları belli oldu: 10 Kasım 2026 kazandıran numaralar sorgulama ekranı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1629723515744-9ece210b6ddd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bG90dGVyeSUyMHRpY2tldHxlbnwxfDB8fHwxNzk0MzM2ODk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alejandro Garay",
-        "photographerUrl": "https://unsplash.com/@chinitogaray",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-blue-round-ornament-1RxbuMvugxk"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Şans oyunu tutkunlarının büyük bir heyecanla takip ettiği Süper Loto çekilişinde beklenen an nihayet geldi ve 10 Kasım 2026 tarihli çekilişin sonuçları kamuoyu ile paylaşıldı. Haftanın belirli günlerinde gerçekleştirilen ve milyonlarca vatandaşın hayallerini süsleyen bu popüler şans oyununda, bu hafta da büyük ikramiyenin kilitli olduğu rakamlar şanslı kuponlara isabet edip etmediği merak konusu oldu. Milli Piyango İdaresi'nin (MPİ) denetiminde ve noter huzurunda yapılan çekilişin ardından, katılımcılar biletlerini kontrol etmek üzere ekran başına geçti.\n\nMilyonlarca liralık devasa büyük ikramiyenin bu hafta herhangi bir talihliye çıkıp çıkmadığı, şans oyunları severlerin en çok araştırdığı konuların başında geliyor. Oyunun kurallarına göre, çekilişte belirlenen şanslı 6 numaranın tamamını doğru tahmin eden talihliler, büyük ikramiyenin sahibi olmaya hak kazanıyor. Bununla birlikte, şansını tamamen kaybetmeyen ve altı rakamı tutturamayan katılımcılar için de çeşitli kademelerde kazanç kapıları aralanıyor.\n\nSüper Loto mekanizmasında sadece 6 bilenler değil, aynı zamanda 5, 4, 3 ve 2 bilen vatandaşlar da farklı oranlarda ikramiye kazanma şansı elde ediyor. Bu kademeli ödül sistemi, her çekilişte binlerce kişinin biletlerine ikramiye çıkmasını sağlayarak heyecanı canlı tutuyor. Özellikle 5 ve 4 bilenlerin kazandığı tutarlar, oyuncuların sonraki çekilişler için yeniden umutlanmasına zemin hazırlıyor.\n\nÇekiliş sonuçlarının açıklanmasıyla birlikte, Milli Piyango İdaresi'nin resmi bilet sorgulama ekranı da yoğun bir ziyaretçi akınına uğradı. Vatandaşlar, ellerindeki kuponlarda yer alan numaraları şanslı 6 numara ile tek tek karşılaştırarak ikramiye kazanıp kazanmadıklarını büyük bir dikkatle inceliyor. İnternet üzerinden yapılan sorgulamalar, hataların önüne geçmek ve kazananların ikramiyelerini kolayca öğrenebilmesi açısından büyük önem taşıyor.\n\nŞans oyunları, toplumsal hayatta heyecan ve umut unsurlarını barındırırken, katılımcıların sorumlu oyun bilinciyle hareket etmesi de her zaman vurgulanan bir husus olarak öne çıkıyor. 10 Kasım 2026 tarihli bu çekilişle birlikte binlerce kişi küçük veya büyük oranlarda ikramiye sevinci yaşarken, büyük ikramiyenin devredip devretmediği veya hangi ile isabet ettiği gibi detaylar da şans oyunları gündemindeki yerini aldı.\n\nÖnümüzdeki günlerde yapılacak yeni çekilişler öncesinde, bu haftanın kazandıran numaralarını öğrenmek isteyenler MPİ'nin resmi web sitesi ve sorgulama ekranları üzerinden işlemlerini sürdürüyor. Süper Loto heyecanı, her hafta olduğu gibi bu hafta da milyonlarca insanı ortak bir heyecanda buluşturmaya devam ediyor.",
-      "highlights": [
-        "10 Kasım 2026 tarihli Süper Loto çekiliş sonuçları açıklandı.",
-        "Büyük ikramiye için şanslı 6 numara heyecanla sorgulanıyor.",
-        "6 bilenlerin yanı sıra 5, 4, 3 ve 2 bilenler de ikramiye kazanıyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-super-loto-cekilis-sonuclari-belli-oldu-mpi-super-loto-kazandiran-numaralari-sorgulama-ekrani-1750326",
-      "publishedAt": "2026-11-10T18:47:29.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
