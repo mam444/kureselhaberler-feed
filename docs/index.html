@@ -603,9 +603,6 @@
     display: flex; align-items: center; gap: 10px; margin-bottom: 20px;
     color: var(--text-secondary); font-size: 13.5px; flex-wrap: wrap;
   }
-  .source-reference { display: inline-flex; align-items: center; gap: 7px; margin: -8px 0 16px; padding: 8px 11px; border: 1px solid var(--divider); border-radius: 9px; color: var(--navy); font-size: 12.5px; font-weight: 700; text-decoration: none; }
-  .source-reference:hover { border-color: var(--gold); background: rgba(var(--gold-rgb),0.08); }
-  .source-attribution-note { margin: -5px 0 16px; color: var(--text-secondary); font-size: 11.5px; line-height: 1.45; }
   .source-avatar {
     width: 30px; height: 30px; border-radius: 50%; background: var(--navy); color: #fff;
     display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 13px; flex-shrink: 0;
@@ -857,10 +854,9 @@
 <footer>
   <div class="inner">
     <img src="assets/brand/logo-horizontal-white@2x.png" alt="Küresel Haberler" style="height:34px;width:auto;display:block;margin-bottom:16px">
-    <strong>Küresel Haberler</strong> bağımsız bir haber platformudur. Kaynakların RSS veya sayfa içeriği yalnızca
-    ilgili yayıncının kullanım koşulları ve lisansı izin verdiği ölçüde kullanılır; herkese açık RSS tek başına
-    ticari yeniden kullanım izni değildir. Tam yayıncı yazıları kopyalanmaz; haber ayrıntısında asıl kaynağa bağlantı verilir.
-    Otomatik üretim
+    <strong>Küresel Haberler</strong> bağımsız bir haber platformudur. Akış, yayıncıların kamuya açık RSS
+    içeriklerinden ve tarama kuralları izin verirse yapılandırılmış haber metinlerinden özgün özetlerle hazırlanır;
+    tam yayıncı yazıları kopyalanmaz ve her içerikte asıl kaynağa bağlantı verilir. Otomatik üretim
     nedeniyle hata veya eksiklik olabilir. Kapak görselleri bağımsız stok fotoğraflardır
     (<a href="https://unsplash.com" target="_blank" rel="noopener">Unsplash</a>). Bu site herhangi bir haber
     kuruluşuyla resmi bağlantılı değildir. Düzeltme ve iletişim: <a href="mailto:akh104853@gmail.com">akh104853@gmail.com</a>.
@@ -1383,9 +1379,9 @@ function renderAboutPage() {
     <img src="assets/brand/logo-vertical-white@2x.png" alt="Küresel Haberler" style="height:150px;width:auto;display:block;margin:0 auto 24px;background:var(--navy);border-radius:16px;padding:20px">
     <div class="page-heading"><span class="msr" style="color:var(--gold)">info</span>Hakkımızda</div>
     <div class="article-body" style="margin-top:18px">
-      <p><strong>${SITE_NAME}</strong>, farklı yayıncıların resmî akışlarından, ilgili lisans ve kullanım koşulları izin verdiği
-      ölçüde yapay zeka destekli özgün özetler hazırlayan bağımsız bir haber platformudur. RSS'nin açık olması tek başına
-      ticari yeniden kullanım izni değildir. Tam yayıncı yazıları kopyalanmaz; her haber ayrıntısında özgün kaynağa bağlantı bulunur.</p>
+      <p><strong>${SITE_NAME}</strong>, farklı yayıncıların kamuya açık RSS içeriklerinden ve tarama kuralları izin verdiğinde
+      yapılandırılmış haber metinlerinden özgün, yapay zeka destekli özetler hazırlayan bağımsız bir haber platformudur.
+      Tam yayıncı yazıları kopyalanmaz; haber kartlarında ve ayrıntı sayfalarında özgün yayıncıya giden bağlantı bulunur.</p>
       <p>Kapak görselleri Unsplash üzerinden seçilen bağımsız stok fotoğraflardır; yayıncıların orijinal haber
       fotoğrafları kopyalanmaz. ${SITE_NAME} herhangi bir haber kuruluşuyla resmi bağlantılı değildir.</p>
       <p>Akış otomatik bir süreçle güncellenir ve içerikler yayımlanmadan önce insan editör tarafından tek tek
@@ -1448,19 +1444,6 @@ function publisherCardHtml() {
     </div>
     <div class="pc-link" id="publisherAboutLink">Hakkımızda</div>
   </div>`;
-}
-
-function sourceReferenceHtml(article) {
-  let href = '';
-  try {
-    const parsed = new URL(article.externalUrl || '');
-    if (parsed.protocol === 'https:' || parsed.protocol === 'http:') href = parsed.href;
-  } catch { /* no source link when the feed URL is invalid */ }
-  if (!href) return '';
-  const publisher = article.originalSource || article.source || 'özgün yayıncı';
-  return `<a class="source-reference" href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">
-    <span class="msr">open_in_new</span> Kaynakta oku · ${escapeHtml(publisher)}
-  </a>${article.attributionNote ? `<p class="source-attribution-note">${escapeHtml(article.attributionNote)}</p>` : ''}`;
 }
 
 // "Bunu okuyanlar bunları da okudu" — aynı kategoriden, kendisi hariç,
@@ -1574,7 +1557,6 @@ function openArticle(id) {
       <div class="source-avatar"><span class="msr" style="font-size:16px">newspaper</span></div>
       <span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span> · <span class="time-tag"><span class="msr">menu_book</span>${readingTime(a.body)} dk okuma</span>
     </div>
-    ${sourceReferenceHtml(a)}
 
     ${a.highlights && a.highlights.length > 0 ? `
       <div class="ai-summary">
