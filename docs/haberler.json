@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-18T17:07:01.191Z",
+  "generatedAt": "2026-11-18T17:16:21.138Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/antalya-buyuksehir-belediye-baskanvekili-busra-ozdemir-chpden-istifa-etti-1751505",
+      "headline": "Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir, CHP’den istifa etti.",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1612880982970-75cce3c96587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QW50YWx5YSUyMEIlQzMlQkN5JUMzJUJDayVDNSU5RmVoaXIlMjBCZWxlZGl5ZSUyMEJhJUM1JTlGa2FudmVraWxpJTIwQiVDMyVCQyVDNSU5RnJhJTIwJUMzJTk2emRlbWlyJTJDJTIwQ0hQJUUyJTgwJTk5ZGVuJTIwaXN0aWZhJTIwZXR0aS58ZW58MXwwfHx8MTc5NTAyMjE0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Süheyl Burak",
+        "photographerUrl": "https://unsplash.com/@suheylburak",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-white-car-on-road-during-daytime-0t5CY6jcsu0"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir, CHP’den istifa etti. Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir, Cumhuriyet Halk Partisi'nden (CHP) istifa etti. Antalya Büyükşehir Belediye Başkanı Muhittin Böcek, 5 Temmuz 2025'te yürütülen rüşvet soruşturması kapsamında tutuklanmış, ardından İçişleri Bakanlığı tarafından görevden uzaklaştırılmıştı. Böcek'in yerine başkan vekilini belirlemek üzere…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/antalya-buyuksehir-belediye-baskanvekili-busra-ozdemir-chpden-istifa-etti-1751505",
+      "publishedAt": "2026-11-18T17:10:56.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/chpde-kongre-takvimi-yine-degisti-3494769",
       "headline": "CHP'de kongre takvimi yine değişti",
@@ -14,11 +33,16 @@
       },
       "timeAgo": "5 dk önce",
       "body": "CHP Genel Merkezi, il ve ilçe örgütlerinden gelen talepler doğrultusunda kongre takvimini yeniden güncelledi. İlçe kongreleri 27 Şubat 2027'de, il kongreleri ise 3 Nisan 2027'de başlayacak. Erteleme kararının ardından Yüksek Disiplin Kurulu Üyesi Gülşah Deniz Atalar istifa etti. Gözler şimdi kurultay tarihine çevrildi.",
-      "highlights": [],
+      "highlights": [
+        "İlçe kongreleri 27 Şubat 2027'de, il kongreleri ise 3 Nisan 2027'de başlayacak.",
+        "Üye listelerinin askıda kalma süresi 16 Ocak 2027'ye kadar uzatıldı.",
+        "Erteleme kararının ardından Yüksek Disiplin Kurulu Üyesi Gülşah Deniz Atalar istifa etti."
+      ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/chpde-kongre-takvimi-yine-degisti-3494769",
       "publishedAt": "2026-11-18T17:01:02.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T17:14:49.323Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
@@ -33,9 +57,37 @@
       },
       "timeAgo": "5 dk önce",
       "body": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
-      "highlights": [],
+      "highlights": [
+        "Ukrayna güçleri Kharkiv'deki eski bir Sovyet gaz boru hattında yedi aydır Rus birlikleriyle savaşıyor",
+        "Boru hattının çapı bir metreden biraz fazla olup sadece emeklemeye izin veriyor",
+        "Alan, cephe hattındaki dronlardan nispeten güvenli bir ortam sunuyor"
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T17:00:40.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T17:14:49.323Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "headline": "'Drone'lar burada uçmuyor': BBC Ukrayna'nın yeni yeraltı cephesini rapor ediyor",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1593583810872-ddee4d6bd55a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dW5kZXJncm91bmQlMjBwaXBlbGluZSUyMHdhcnxlbnwxfDB8fHwxNzk1MDIyMTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "SELİM ARDA ERYILMAZ",
+        "photographerUrl": "https://unsplash.com/@selimarda6006",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-blue-denim-jeans-and-brown-jacket-climbing-on-brown-wooden-ladder-during-daytime-Grg6bwZuBMs"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Ukrayna'daki savaşta yeni bir cephe açıldığı ve bu cephenin yeraltında bulunduğu bildirildi. Kharkiv bölgesindeki eski bir Sovyet doğalgaz boru hattında, Ukrayna güçlerinin son yedi aydır Rus birlikleriyle yaşadığı ve savaştığı belirtildi. Çapı bir metreden biraz fazla olan boru hattında yalnızca emekleyerek ilerlemeye yetecek kadar alan olduğu aktarıldı.\n\nBoru hattının, cephe üzerindeki gökyüzünü dolduran ve her iki tarafın ilerlemesini neredeyse imkansız hale getiren dronelardan nispeten korunaklı olduğu ifade edildi. Tünel operasyonunu planlamaya yardımcı olan ve burayı yeni bir savaş dünyası olarak tanımlayan Zanuda, yeraltına inmenin artık \"tek seçenek\" olduğunu belirtti. Ancak Zanuda, yüzeyde manevra alanı bulunduğunu fakat burada düşmanla yalnızca doğrudan çatışabildiklerini kaydetti.\n\nBoru hattındaki operasyonlar kapsamında askerlerin ve ikmal malzemelerinin özel tasarımlı elektrikli bir vagonla taşındığı, askerlerin bu araca \"Kupyansk metrosu\" adını verdiği bilgisi verildi. Ukrayna güçlerinin Nisan ayında başlattığı ve mitolojik yer altı tanrısı Veles'in adı verilen Operasyon Veles ile boru hattı boyunca 15 kilometre ilerlediği bildirildi. Ukrayna tarafı, operasyon boyunca 100'den fazla Rus askerinin öldürüldüğünü ve 30 askerin esir alındığını açıkladı.\n\nUkrayna Ulusal Muhafızları 13. Khartiia Tugayı'ndan askerler, boru hattının içindeki kalıntıları, suyu ve Rus barikatlarını temizlediklerini belirtti. Operasyona yüzlerce Kolombiyalı gönüllünün de dahil olduğu aktarıldı. Komutanları Biashym'in eski bir madenci olmasının, askerlerin yeraltındaki fiziksel ve psikolojik zorluklara hazırlanmasına yardımcı olduğu ifade edildi.\n\nUkrayna Devlet Başkanı Volodimir Zelenskiy'nin bu operasyonu bir başarı olarak nitelendirdiği, kaybedilen toprakların geri alınmasına yardımcı olduğu ve moral yükselttiği kaydedildi. Ancak bu durumun tek başına savaşın seyrini değiştirmediği, Ukrayna için tünelin ucunda hala bir ışık görünmediği vurgulandı.",
+      "highlights": [
+        "Ukrayna güçleri, Kharkiv bölgesindeki eski bir Sovyet doğalgaz boru hattında yedi aydır Rus birlikleriyle savaşıyor.",
+        "Operasyon Veles kapsamında Ukrayna boru hattı boyunca 15 kilometre ilerledi ve 100'den fazla Rus askerinin öldürüldüğünü açıkladı.",
+        "Devlet Başkanı Volodimir Zelenskiy operasyonu bir başarı olarak nitelendirdi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T17:00:04.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
