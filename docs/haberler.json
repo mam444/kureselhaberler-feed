@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T05:42:27.136Z",
+  "generatedAt": "2026-11-18T05:44:43.729Z",
   "articles": [
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
@@ -22,6 +22,29 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
       "publishedAt": "2026-11-18T05:38:42.000Z",
       "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/bilgi/foto/gta-6-turkiye-saati-2026-gta-6-turkiye-de-cikti-mi-ne-zaman-cikacak-gta-6-turkiye-saatiyle-saat-kacta-oynanacak-3928115",
+      "headline": "GTA 6 Türkiye'de çıktı mı ve ne zaman oynanabilecek? Çıkış tarihi ve saatleri",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dmlkZW8lMjBnYW1lJTIwY29uc29sZXxlbnwxfDB8fHwxNzk0OTgwNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Florian Olivo",
+        "photographerUrl": "https://unsplash.com/@florianolv",
+        "unsplashUrl": "https://unsplash.com/photos/person-sitting-on-gaming-chair-while-playing-video-game-Mf23RF8xArY"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Rockstar Games tarafından geliştirilen ve oyun dünyasında büyük bir merakla beklenen Grand Theft Auto VI (GTA 6) oyununun çıkış takvimi netleşti. Jason ve Lucia karakterlerinin hikayesini anlatan yapım, Florida'dan ilham alınarak hazırlanan Leonida eyaletinde ve Vice City'de geçiyor. Türkiye'deki oyun severler de oyunun ilk kez hangi gün ve saatte erişime açılacağını araştırmaya devam ediyor.\n\nAçıklanan takvime göre GTA 6'nın resmi çıkış tarihi 19 Kasım 2026 Perşembe olarak belirlendi. Türkiye'deki oyuncular, 18 Kasım Çarşamba gününü 19 Kasım Perşembe gününe bağlayan gece oyuna erişim sağlayabilecek. Yerel saat dilimine göre oyunun Türkiye'de saat 00.00'da erişime açılması bekleniyor. Konsol kullanıcıları gece yarısından itibaren Vice City'nin açık dünyasına adım atabilecek.\n\nGTA 6 ilk etapta PlayStation 5, PlayStation 5 Pro, Xbox Series X ve Xbox Series S konsolları için piyasaya sürülecek. Oyunun PlayStation 4 ve Xbox One sürümü bulunmuyor; bu nedenle eski nesil konsol kullanıcıları yapımı kendi cihazlarında oynayamayacak. Öte yandan GTA 6, 19 Kasım 2026'daki ilk çıkışında PC platformunda yer almayacak ve bilgisayar sürümü için henüz resmi bir çıkış tarihi açıklanmadı.\n\nPlayStation 5 ve Xbox Series X|S konsollarında yaklaşık 212 GB depolama alanına ihtiyaç duyacağı belirtilen oyun için ön yükleme işleminin 10 Kasım 2026'da başladığı bilgisi paylaşıldı. Oyuncular, çıkış saatinden önce indirme işlemini tamamlayarak vakit kaybetmeden oyuna giriş yapabilecek.",
+      "highlights": [
+        "GTA 6, 19 Kasım 2026 Perşembe günü Türkiye saatiyle 00.00'da erişime açılacak.",
+        "Oyun ilk etapta PlayStation 5 ve Xbox Series X|S için çıkacak, PS4, Xbox One ve PC sürümleri ilk aşamada yer almayacak.",
+        "Konsollarda yaklaşık 212 GB depolama alanına ihtiyaç duyan oyun için ön yüklemeler 10 Kasım 2026'da başladı."
+      ],
+      "externalUrl": "https://www.haberturk.com/bilgi/foto/gta-6-turkiye-saati-2026-gta-6-turkiye-de-cikti-mi-ne-zaman-cikacak-gta-6-turkiye-saatiyle-saat-kacta-oynanacak-3928115",
+      "publishedAt": "2026-11-18T05:38:04.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
@@ -67,7 +90,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
       "publishedAt": "2026-11-18T05:24:02.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T05:44:26.456Z"
     },
     {
       "id": "https://www.haberturk.com/dunya/anket-almanya-da-hukumetin-calismalarindan-memnun-olmayanlarin-orani-yuzde-86-ya-yukseldi-3928111",
@@ -115,6 +139,28 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T05:24:25.509Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+      "headline": "FIFA Başkanlık Seçimi: Infantino'nun Rakipleri Kimler ve Yeniden Seçilecek mi?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1785376028693-60132edc33e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RklGQSUyMGVsZWN0aW9ufGVufDF8MHx8fDE3OTQ5ODA2NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Faz Islam",
+        "photographerUrl": "https://unsplash.com/@faz_islam",
+        "unsplashUrl": "https://unsplash.com/photos/a-colorful-soccer-ball-rests-on-green-grass-xHP0Av3RbSo"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "FIFA başkanı Gianni Infantino'nun dördüncü bir dönem için aday olduğu süreçte, başkanlık seçim prosedürü, olası rakipler ve kritik tarihler ele alınıyor.\n\nMevcut süreç kapsamında, FIFA'nın başkanlık seçimlerinin nasıl işlediği, adaylık için yarışan isimlerin kimler olduğu ve takvimdeki önemli tarihler merak konusu olmaya devam ediyor.\n\nGianni Infantino'nun dördüncü dönemi hedeflediği bu seçim ortamında, karşısına çıkabilecek olası rakiplerin kimler olduğu da dikkat çeken başlıklar arasında yer alıyor.\n\nSeçim sürecine dair detaylar ve kritik tarihlerle ilgili bilgiler, adaylık yarışının geleceğine ve Infantino'nun yeniden seçilme ihtimaline ışık tutuyor.",
+      "highlights": [
+        "Gianni Infantino dördüncü dönem için aday",
+        "Seçim süreci, rakipler ve kritik tarihler ele alınıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/18/fifa-president-election-nomination-infantino-diallo-tashima-vega?traffic_source=rss",
+      "publishedAt": "2026-11-18T05:16:25.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
@@ -1154,14 +1200,15 @@
       "timeAgo": "5 dk önce",
       "body": "17 Kasım 2026 tarihinde Van'da meydana gelen depremlere ilişkin son dakika haberleri, Kandilli Rasathanesi ve AFAD son depremler listesi üzerinden takip ediliyor. Vatandaşlar Van'daki depremin büyüklüğünü, merkez üssünü ve hangi ilçelerde hissedildiğini araştırıyor.",
       "highlights": [
-        "17 Kasım 2026 tarihinde Van'da deprem olup olmadığı araştırılıyor",
-        "Kandilli Rasathanesi ve AFAD son depremler listesi takip ediliyor",
-        "Depremin büyüklüğü ve nerede olduğu merak ediliyor"
+        "17 Kasım 2026 tarihinde saat 18:57'de deprem oldu.",
+        "Depremin merkez üssü Van'ın Gevaş ilçesidir.",
+        "Depremin büyüklüğü 4.3 olarak ölçüldü."
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-17-kasim-2026-1751340",
       "publishedAt": "2026-11-17T16:20:01.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T05:44:26.456Z"
     },
     {
       "id": "https://www.dw.com/en/back-to-1997-russia-wants-nato-to-roll-back-its-eastern-expansion/a-79970289?maca=en-rss-en-world-4025-xml-mrss",
@@ -1495,7 +1542,8 @@
       "externalUrl": "https://www.haberturk.com/spor/foto/besiktas-savunmadaki-problemini-pochettino-nun-dusunmedigi-matthijs-de-ligt-ile-cozmek-istiyor-3928040",
       "publishedAt": "2026-11-17T15:57:29.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T05:44:26.456Z"
     },
     {
       "id": "https://www.sabah.com.tr/gundem/2026/11/17/polsan-iddialarini-gundeme-getiren-ozlale-aciklamalarin-ardindan-geri-adim-atti",
