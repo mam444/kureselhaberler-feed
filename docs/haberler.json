@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T07:24:31.635Z",
+  "generatedAt": "2026-11-18T07:34:20.368Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/arzunun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-1751411",
+      "headline": "Arzu'nun Katledildiği Makaslı Vahşet İçin İstenen Ceza Belli Oldu",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1607778914885-787b06728b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc5NDkzNDQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hansjörg Keller",
+        "photographerUrl": "https://unsplash.com/@kel_foto",
+        "unsplashUrl": "https://unsplash.com/photos/brown-wooden-chairs-inside-building-m_-8_AhhJjE"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Bursa'da dini nikahla birlikte yaşadığı Arzu Khalılova'yı 146 makas darbesiyle katleden sanık Salican Mehmet hakkında ağırlaştırılmış müebbet hapis cezası talep edildi. Olay, 3 Kasım 2025'te saat 15.00 sıralarında Yıldırım ilçesinde meydana geldi. Çift arasında çıkan tartışmanın kavgaya dönüşmesi üzerine Mehmet, dört ve bir yaşlarındaki iki çocuğunun annesi Khalılova'ya makasla saldırdı. Sesleri duyarak üst kata çıkan sanığın annesi F.M., durumu eşi İ.M.'ye bildirdi ve yapılan ihbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Elinde makasla yakalanan sanık tutuklanırken, hastaneye kaldırılan Khalılova hayatını kaybetti. Yapılan otopsi sonucunda, Khalılova'nın vücudunda 72'si tek başına ölümcül nitelikte olmak üzere toplam 146 makas yarası tespit edildi.\n\nSanık Salican Mehmet'in kasten yaralama, uyuşturucu bulundurma ve ateşli silahlar kanununa muhalefet suçlarından sekiz kaydı bulunduğu, ayrıca Arzu Khalılova'ya yönelik reşit olmayanla cinsel ilişki suçundan da işlem gördüğü belirlendi. Bursa 19'uncu Ağır Ceza Mahkemesi'nde görülen duruşmaya tutuklu sanık, taraf avukatları ve maktulün annesi Zülfiye Halil ile sanığın babası İ.M. katıldı. Duruşmada, sanığın akli melekelerinin yerinde olduğunu belirten İstanbul Adli Tıp Kurumu Gözlem İhtisas Dairesi raporu okundu. Sanık Salican Mehmet, pişman olduğunu öne sürerek tahliyesini istedi.\n\nCumhuriyet savcısı duruşmada mütalaasını açıkladı. Savcı, 72'si iç organlara gelecek ve tek başına ölümcül olacak şekilde toplam 146 makas darbesiyle gerçekleştirilen eylem nedeniyle sanığın canavarca hisle kadına karşı kasten öldürmek suçundan ağırlaştırılmış müebbet hapis cezasına çarptırılmasını talep etti. Sanık avukatı, İstanbul Adli Tıp Kurumu raporuna itiraz ederek yeniden rapor hazırlanmasını istedi ve mütalaaya karşı ek süre talep etti. Mahkeme heyeti, sanık avukatının ek süre talebini kabul ederek duruşmayı erteledi.",
+      "highlights": [
+        "Bursa'da dini nikahla yaşadığı Arzu Khalılova'yı 146 makas darbesiyle katleden sanık için ağırlaştırılmış müebbet hapis cezası istendi.",
+        "Otuopside Khalılova'nın vücudunda 72'si tek başına ölümcül olan 146 makas darbesi bulunduğu belirlendi.",
+        "İstanbul Adli Tıp Kurumu raporunda sanığın akli melekelerinin yerinde olduğu belirtilirken, duruşma ertelendi."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/arzunun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-1751411",
+      "publishedAt": "2026-11-18T07:32:51.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/istanbulda-lodos-uyarisi-ruzgar-85-km-hiza-cikabilir-4873780",
       "headline": "İstanbul'da lodos uyarısı: Hızı 85 kilometreye ulaşabilir",
@@ -21,7 +44,8 @@
       "externalUrl": "https://www.yenisafak.com/gundem/istanbulda-lodos-uyarisi-ruzgar-85-km-hiza-cikabilir-4873780",
       "publishedAt": "2026-11-18T07:22:13.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T07:34:14.812Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/2-cocugunun-annesi-rus-kadini-146-makas-darbesiyle-oldurmustu-bursadaki-vahsette-savci-mutalaasini-acikladi-7702812",
@@ -89,7 +113,8 @@
       "externalUrl": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
       "publishedAt": "2026-11-18T07:09:22.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T07:34:14.812Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/aihmden-can-atalay-karari-1751399",
@@ -114,6 +139,29 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T07:14:21.082Z"
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+      "headline": "İngiltere'de enflasyon enerji fiyatlarındaki artışla %3,6'ya yükseldi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1590084068846-5cd9faa51a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VUslMjBpbmZsYXRpb24lMjBlY29ub215fGVufDF8MHx8fDE3OTQ5ODcyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Grooveland Designs",
+        "photographerUrl": "https://unsplash.com/@groovelanddesigns",
+        "unsplashUrl": "https://unsplash.com/photos/a-british-flag-hanging-from-the-side-of-a-building-qD-bzwlHyvc"
+      },
+      "timeAgo": "33 dk önce",
+      "body": "İngiltere'de ekim ayında enflasyon, Orta Doğu'daki savaşın tetiklediği enerji fiyatlarındaki artışla birlikte yüzde 3,6 seviyesine çıktı. Ulusal İstatistik Ofisi tarafından açıklanan verilere göre, tüketici fiyat endeksi ile ölçülen manşet enflasyon oranı eylül ayındaki yüzde 3,5'ten yükseldi. Şehir ekonomistleri de enflasyonun yüzde 3,6'ya çıkacağını öngörmüştü.\n\nHanehalkları soğuk kış aylarına hazırlanırken, son rakamlar ekim ayının başından itibaren Ofgem enerji fiyat tavanında gerçekleşen yüzde 4'lük artışı da dikkate aldı. Artan toptan gaz fiyatlarının etkisiyle tahmin yürüten uzmanlar, ocak ayından itibaren dört gü annesine varan oranlarda yeni bir artış olabileceği konusunda uyarıda bulunuyor.\n\nOrta Doğu'daki çatışmanın küresel ekonomiyi sarsması ve dünya genelinde enflasyonu tetiklemesiyle birlikte yeni bir geçim sıkıntısıyla boğuşan hanehalklarına destek taahhüdünde bulunuldu. Geçtiğimiz ayki bütçede şansölye John Healey, küresel ekonomik fırtınanın etkisini hafifletmek amacıyla 20 milyon hanehalkına 100 sterlinlik kış yardımı planlandığını açıklamıştı.\n\nBununla birlikte uzmanlar enflasyonda yeni bir yükseliş öngörürken, İngiltere Merkez Bankası gelecek yıl enflasyonun yüzde 5'e yakın bir zirve yapmasını bekliyor. Ay başında Threadneedle Street faiz oranlarını yüzde 3,75'ten yüzde 4'e yükseltmiş ve savaşın serbest bıraktığı enflasyonist baskılarla mücadele etmek için borçlanma maliyetlerinde ilave artışlar gerekebileceği konusunda uyarıda bulunmuştu. Finans piyasaları gelecek yılın sonuna kadar en az iki çeyrek puanlık artış beklentisinde.",
+      "highlights": [
+        "Ekim ayında yıllık enflasyon oranı enerji fiyatlarındaki artışla %3,6'ya yükseldi.",
+        "Ulusal İstatistik Ofisi verilerine göre enflasyon eylül ayındaki %3,5 seviyesinden arttı.",
+        "Ofgem enerji fiyat tavanında ekim başından itibaren %4 artış gerçekleşti."
+      ],
+      "externalUrl": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
+      "publishedAt": "2026-11-18T07:01:09.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/milyonluk-luks-araclarina-ve-eglence-merkezlerine-el-konulmustu-cobanlarin-lideri-yakalandi-1751404",
@@ -2210,15 +2258,20 @@
       "headline": "Urban Zulu and '100 Reasons to Stay Single in Lagos': Telling African stories on their own terms",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1787779350658-ee53ac6e5b4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VXJiYW4lMjBadWx1JTIwYW5kJTIwJTI3MTAwJTIwUmVhc29ucyUyMHRvJTIwU3RheSUyMFNpbmdsZSUyMGluJTIwTGFnb3MlMjclM0ElMjBUZWxsaW5nJTIwQWZyaWNhbiUyMHN0b3JpZXMlMjBvbiUyMHRoZWlyJTIwb3duJTIwdGVybXN8ZW58MXwwfHx8MTc5NDk4NzI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ben Iwara",
+        "photographerUrl": "https://unsplash.com/@1hundredimages",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-jacket-in-lagos-CTj5W3zAU78"
+      },
       "timeAgo": "30 dk önce",
       "body": "Africa's creative industries are attracting growing international attention, from fashion and film to television and music. But as African stories reach audiences around the world, a bigger question is emerging: who gets to tell those stories, and who gets to shape how the continent is seen? At FAME Week Africa in Cape Town, arts24 met some of the creatives driving that conversation.",
       "highlights": [],
       "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms",
       "publishedAt": "2026-11-17T15:44:37.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T07:34:14.812Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
