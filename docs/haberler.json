@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-18T14:55:02.326Z",
+  "generatedAt": "2026-11-18T15:07:17.106Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulunda-cocuk-iklim-zirvesi-ve-yasanabilir-cevre-bilgi-yarismasi-yapildi/4129530",
+      "headline": "Türkiye İklim Okulunda Çocuk İklim Zirvesi ve Bilgi Yarışması Düzenlendi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1727473704274-3fbad0dbbd60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2xpbWF0ZSUyMHNjaG9vbCUyMGNoaWxkcmVufGVufDF8MHx8fDE3OTUwMTQzOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "‪Salah Darwish",
+        "photographerUrl": "https://unsplash.com/@salahdarwish",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-young-children-sitting-at-a-desk-6hl__HAWP4w"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Milli Eğitim Bakanlığı tarafından Birleşmiş Milletler İklim Değişikliği Konferansı çerçevesinde kurulan Türkiye İklim Okulu, önemli etkinliklere ev sahipliği yaptı.\n\nBu kapsamda okul bünyesinde \"Çocuk İklim Zirvesi\" gerçekleştirildi.\n\nAyrıca öğrenciler için \"Tabiat ve Yaşanabilir Çevre Bilgi Yarışması\" düzenlendi.",
+      "highlights": [
+        "Türkiye İklim Okulu'nda Çocuk İklim Zirvesi yapıldı",
+        "Tabiat ve Yaşanabilir Çevre Bilgi Yarışması düzenlendi"
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulunda-cocuk-iklim-zirvesi-ve-yasanabilir-cevre-bilgi-yarismasi-yapildi/4129530",
+      "publishedAt": "2026-11-18T15:01:26.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss",
       "headline": "CHP kurultay davasında karar: Ekrem İmamoğlu dahil 9 kişiye hapis cezası ve siyaset yasağı",
@@ -13,12 +35,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-up-their-cell-phones-hE-d4XDdKec"
       },
       "timeAgo": "1 dk önce",
-      "body": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan ceza davasında mahkeme kararını açıkladı. Ankara 26. Asliye Ceza Mahkemesi'nde görülen davada Ekrem İmamoğlu dahil dokuz sanığa 2 yıl 1'er ay hapis ve siyasi yasak cezası verildi.",
-      "highlights": [],
+      "body": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan ceza davasında Ankara 26. Asliye Ceza Mahkemesi kararını açıkladı. Mahkeme, oylamaya hile karıştırma suçundan aralarında Ekrem İmamoğlu ve Özgür Çelik'in de bulunduğu 9 sanığa Seçim Kanunu'na muhalefet gerekçesiyle ayrı ayrı 2 yıl 1'er ay hapis cezası verdi. Sanıklar hakkında ayrıca Türk Ceza Kanunu'nun 53. maddesi uyarınca siyasi yasak uygulanmasına hükmedildi. Davada yargılanan Cemil Tugay, Hüseyin Yaşar ve Özgen Nama ise beraat etti.\n\nAnkara Cumhuriyet Başsavcılığı'nın hazırladığı iddianamede, 4-5 Kasım 2023 tarihlerinde gerçekleştirilen kurultayda delegelere maddi menfaat sağlandığı ve oylamaya hile karıştırıldığı öne sürülmüştü. Dosyada eski CHP Genel Başkanı Kemal Kılıçdaroğlu mağdur, eski Hatay Büyükşehir Belediye Başkanı Lütfü Savaş ise müşteki sıfatıyla yer almıştı. Soruşturma süreci, Bursa Cumhuriyet Başsavcılığı'na yapılan bir şikayet üzerine yetkisizlik kararıyla dosyanın Ankara'ya gönderilmesiyle başlamıştı.\n\nSöz konusu kurultay daha önce Ankara 36. Bölge Adliye Mahkemesi'nin 21 Mayıs tarihli mutlak butlan kararıyla yok hükmünde sayılmıştı. Bugünkü celsede karara bağlanan ceza davası ise bu hukuki süreçten ayrı olarak Asliye Ceza Mahkemesi'nde yürütüldü. Kurultaydaki genel başkanlık yarışında Kemal Kılıçdaroğlu ile Özgür Özel yarışmış, ikinci turda 812 oy alan Özgür Özel partinin 8. genel başkanı seçilmişti.",
+      "highlights": [
+        "Ekrem İmamoğlu dahil 9 kişiye hapis cezası ve siyasi yasak verildi.",
+        "Cemil Tugay, Hüseyin Yaşar ve Özgen Nama beraat etti.",
+        "Kurultay daha önce mutlak butlan kararıyla yok hükmünde sayılmıştı."
+      ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T14:53:56.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T15:04:51.395Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
@@ -34,12 +61,32 @@
       "timeAgo": "2 dk önce",
       "body": "Çin Devlet Başkanı Xi Jinping, Çarşamba günü Çin'deki bir havalimanında ABD'li mevkidaşı Donald Trump'ı pistte şahsen karşıladı. İki lider, Rusya Devlet Başkanı Vladimir Putin ile gerçekleştirecekleri merakla beklenen görüşme öncesinde kısa bir süre sarıldı.\n\nPekin yönetimi, üçlü zirve sırasında Ukrayna'daki savaşın ele alınmayacağını belirtti. Ancak Donald Trump, bu çatışmanın gündemde yer bulacağını ifade etmişti. Uzmanlar, bu durumun Putin'i memnun etmesinin muhtemel olduğunu değerlendiriyor. Liderlerin bir araya geldiği temaslar, uluslararası kamuoyunun yakın takibinde sürerken, zirvenin ana gündem maddelerine dair farklı açıklamalar dikkat çekiyor.",
       "highlights": [
-        "Xi Jinping, Donald Trump'ı Çin'de havalimanında karşıladı",
-        "İki lider Putin ile üçlü görüşme öncesi sarıldı",
-        "Pekin Ukrayna savaşının görüşülmeyeceğini belirtti"
+        "Xi Jinping, ABD'li mevkidaşı Donald Trump'ı Çin'de havalimanında karşıladı",
+        "Liderler, Vladimir Putin ile yapılacak görüşme öncesinde kısa bir süre sarıldı",
+        "Pekin savaştan kaçınılacağını belirtirken Trump konunun gündeme geleceğini söyledi"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
       "publishedAt": "2026-11-18T14:52:39.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T15:04:51.395Z"
+    },
+    {
+      "id": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
+      "headline": "Three leaders, three agendas: Who wants what from Xi-Trump-Putin summit?",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1774094453087-0207a0cd2309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VGhyZWUlMjBsZWFkZXJzJTJDJTIwdGhyZWUlMjBhZ2VuZGFzJTNBJTIwV2hvJTIwd2FudHMlMjB3aGF0JTIwZnJvbSUyMFhpLVRydW1wLVB1dGluJTIwc3VtbWl0JTNGfGVufDF8MHx8fDE3OTUwMTQzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Marwen Larafa",
+        "photographerUrl": "https://unsplash.com/@marwen_larafa",
+        "unsplashUrl": "https://unsplash.com/photos/four-people-sit-on-a-stage-at-a-panel-discussion-lhZIyJ-uhGE"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Be it curbing arms sales to Taiwan, bouncing back after a midterms shellacking, or the optics of a place at the table with the world's two superpowers, Xi Jinping, Donald Trump and Vladimir Putin are approaching their trilateral meeting in Shenzhen with starkly different aims and agendas. Here's a look at what the Chinese, US and Russian leaders are hoping for.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
+      "publishedAt": "2026-11-18T14:52:08.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
