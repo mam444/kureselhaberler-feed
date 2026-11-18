@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T08:44:41.222Z",
+  "generatedAt": "2026-11-18T08:54:34.405Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/bakan-gulerden-mekke-ittifaki-aciklamasi-4873867",
+      "headline": "Bakan Güler'den Mekke İttifakı açıklaması",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1714888517905-97afe5b70091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TWVjY2ElMjBhZ3JlZW1lbnR8ZW58MXwwfHx8MTc5NDk5MjA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Romeo Leaupepe Su’a",
+        "photographerUrl": "https://unsplash.com/@amromzes",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-street-with-traffic-cones-and-people-walking-24qkRgi7NqI"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakı hakkında değerlendirmelerde bulundu.\n\nBakan Güler, konuya ilişkin yaptığı açıklamada, Mekke İttifakı'nın bölgedeki barışın güçlendirilmesine yönelik önemli ve tarihi bir adım olduğunu ifade etti.\n\nYetkililer tarafından başka bir detay paylaşılmazken, açıklama kamuoyuna bu ifadelerle duyuruldu.",
+      "highlights": [
+        "Milli Savunma Bakanı Yaşar Güler açıklama yaptı",
+        "Mekke İttifakı bölgede barışın güçlendirilmesine yönelik önemli ve tarihi bir adım olarak nitelendirildi"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/bakan-gulerden-mekke-ittifaki-aciklamasi-4873867",
+      "publishedAt": "2026-11-18T08:52:25.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/spor/kocaelisporda-selcuk-inan-ile-17-aydir-suren-istikrar-4873853",
       "headline": "Kocaelispor'da Selçuk İnan İle 17 Aylık İstikrar",
@@ -23,7 +46,8 @@
       "externalUrl": "https://www.yenisafak.com/spor/kocaelisporda-selcuk-inan-ile-17-aydir-suren-istikrar-4873853",
       "publishedAt": "2026-11-18T08:43:26.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:54:32.635Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
@@ -47,7 +71,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
       "publishedAt": "2026-11-18T08:35:19.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:54:32.635Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-almanyanin-dev-bankasi-deutsche-bankin-gizli-arsivi-sizdi-sok-detaylar-supheli-para-trafiginde-gkry-izi-7702858",
@@ -2153,15 +2178,20 @@
       "headline": "Kulüpler Birliği Vakfı toplantısı yapıldı",
       "source": "Anadolu Ajansı",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1571249854210-6efcb5638508?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8S3VsJUMzJUJDcGxlciUyMEJpcmxpJUM0JTlGaSUyMFZha2YlQzQlQjElMjB0b3BsYW50JUM0JUIxcyVDNCVCMSUyMHlhcCVDNCVCMWxkJUM0JUIxfGVufDF8MHx8fDE3OTQ5OTIwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Eren Namlı",
+        "photographerUrl": "https://unsplash.com/@namlieren",
+        "unsplashUrl": "https://unsplash.com/photos/people-near-buildings-with-turkey-flag-qHwkrzgq2Fk"
+      },
       "timeAgo": "32 dk önce",
       "body": "Vakıf başkanı Ertuğrul Doğan, \"Kulüplerimizin beklentisi, daha önce Sayın Göksel Gümüşdağ zamanında gelen 500 milyon dolar seviyesine yeniden gelmek.\" dedi.",
       "highlights": [],
       "externalUrl": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-toplantisi-yapildi/4128094",
       "publishedAt": "2026-11-17T15:28:03.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T08:54:32.635Z"
     },
     {
       "id": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
@@ -8086,6 +8116,7 @@
     "https://www.ntv.com.tr/turkiye/vanda-43-buyuklugunde-deprem-1751338",
     "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
     "https://www.haberturk.com/gundem/son-dakika-vanda-43-buyuklugunde-deprem-3928042",
-    "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss"
+    "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
+    "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit"
   ]
 }
