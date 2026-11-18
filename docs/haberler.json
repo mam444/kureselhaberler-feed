@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T11:45:03.122Z",
+  "generatedAt": "2026-11-18T11:54:47.788Z",
   "articles": [
+    {
+      "id": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
+      "headline": "İngiltere'de Enflasyon Yıllık Zirveye Ulaştı ve Faiz Artışı İhtimalini Canlı Tuttu",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1590084068846-5cd9faa51a36?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VUslMjBpbmZsYXRpb24lMjBlY29ub215fGVufDF8MHx8fDE3OTUwMDI4ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Grooveland Designs",
+        "photographerUrl": "https://unsplash.com/@groovelanddesigns",
+        "unsplashUrl": "https://unsplash.com/photos/a-british-flag-hanging-from-the-side-of-a-building-qD-bzwlHyvc"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "İngiltere'de enflasyon, resmi verilerin Çarşamba günü gösterdiği üzere son bir yılın en yüksek seviyesine çıktı. Bu artış, İngiltere Merkez Bankası'nın önümüzdeki ay arka arkaya ikinci bir faiz artırımına gitme olasılığını canlı tutuyor.\n\nUlusal İstatistik Ofisi, Ekim ayında yıllık enflasyon oranının bir önceki ayki yüzde 3,5'ten yüzde 3,6'ya yükseldiğini bildirdi. Bu artışın, İran savaşının etkileriyle akaryakıt fiyatlarının tırmanmaya devam etmesi ve pompa fiyatlarının yükselmesinden kaynaklandığı belirtildi.\n\nEkim ayındaki artış, enflasyonu İngiltere Merkez Bankası'nın yüzde 2'lik hedefinin daha da üzerine taşıdı. Petrol ve gaz fiyatlarındaki son düşüşe rağmen enflasyonun önümüzdeki aylarda daha da artması beklenirken, birçok ekonomist politika yapıcıların Aralık ayında faiz oranlarını yeniden artıracağını düşünüyor.\n\nICAEW Baş Ekonomisti Suren Thiru, bu rakamların Aralık ayındaki bir faiz artışının kaçınılmaz görünmesine yol açtığını ifade etti. Ayın başlarında İngiltere Merkez Bankası, temel faiz oranını üç yıldan fazla bir süredir ilk kez yüzde 3,75'ten yüzde 4'e yükseltmişti.\n\nEnflasyondaki bu yıl görülen sıçramanın temel nedeni, İran savaşı ve Hürmüz Boğazı'ndaki darboğazlar sonucunda küresel petrol ve gaz arzının sıkışmasıyla akaryakıt ve hanehalkı enerji faturalarının artması oldu. Banka, gelecek yaz enflasyonun yüzde 5'e ulaşmasını bekliyor.",
+      "highlights": [
+        "İngiltere'de enflasyon Ekim ayında yıllık yüzde 3,6'ya yükseldi.",
+        "Artışın temel nedeni İran savaşının akaryakıt fiyatlarını artırması oldu.",
+        "Ekonomistler, Merkez Bankası'nın Aralık ayında faiz artırabileceğini düşünüyor."
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/uk-inflation-rises-year-high-possibility-straight-rate-138242229",
+      "publishedAt": "2026-11-18T11:50:15.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/18/javada-kritik-guvenlik-acigi-abdli-calif-yapay-zeka-ile-kesfetti",
       "headline": "Java'da kritik güvenlik açığı: ABD'li Calif yapay zeka ile keşfetti",
@@ -2648,7 +2671,8 @@
       "publishedAt": "2026-11-17T15:45:00.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:14:21.082Z"
+      "imageSearchAttemptedAt": "2026-11-18T07:14:21.082Z",
+      "sourceTextAttemptedAt": "2026-11-18T11:54:40.640Z"
     },
     {
       "id": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
@@ -2659,12 +2683,17 @@
       "imageCredit": null,
       "timeAgo": "23 dk önce",
       "body": "President Donald Trump said Tuesday that US authorities take any possible threats to Washington ‘very seriously’, following reports that Iran was planning to target senior Trump administration officials, possibly with a radioactive bomb. Tehran dismissed the reports as ‘fabricated’.",
-      "highlights": [],
+      "highlights": [
+        "Trump, Washington'a yönelik olası İran tehdidini çok ciddiye aldıklarını söyledi.",
+        "CNN'in haberine göre ABD istihbaratı İran'ın kirli bomba planladığına işaret etti.",
+        "Tahran yönetimi iddiaları 'uydurma' olarak nitelendirdi."
+      ],
       "externalUrl": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
       "publishedAt": "2026-11-17T15:44:54.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:24:24.992Z"
+      "imageSearchAttemptedAt": "2026-11-18T07:24:24.992Z",
+      "sourceTextAttemptedAt": "2026-11-18T11:54:40.640Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms",
@@ -3743,15 +3772,20 @@
       "headline": "Terminalde sıkı denetim: Kemer ve kış lastiği kontrol edildi",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1584951937643-c7cd937bac99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VGVybWluYWxkZSUyMHMlQzQlQjFrJUM0JUIxJTIwZGVuZXRpbSUzQSUyMEtlbWVyJTIwdmUlMjBrJUM0JUIxJUM1JTlGJTIwbGFzdGklQzQlOUZpJTIwa29udHJvbCUyMGVkaWxkaXxlbnwxfDB8fHwxNzk1MDAyODg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Meraj Khani",
+        "photographerUrl": "https://unsplash.com/@merajkhani",
+        "unsplashUrl": "https://unsplash.com/photos/red-bus-on-road-between-trees-covered-with-snow-during-daytime-B3iUoB7mUQg"
+      },
       "timeAgo": "3 dk önce",
       "body": "Erzurum İl Emniyet Müdürlüğü Trafik Denetleme Şube Müdürlüğü ekipleri, birinci. dönem ara tatili dolayısıyla şehirler arası otobüs terminalinde emniyet kemeri denetimi gerçekleştirirken, 15 Kasım itibarıyla başlayan zorunlu kış lastiği uygulamasını da aralıksız sürdürüyor.",
       "highlights": [],
       "externalUrl": "https://www.yenisafak.com/video/gundem/terminalde-siki-denetim-kemer-ve-kis-lastigi-kontrol-edildi-4873306",
       "publishedAt": "2026-11-17T06:31:14.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T11:54:40.640Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-japonyada-havada-rusya-alarmi-supheli-ucaklar-ihlal-etti-7702149",
@@ -8561,29 +8595,6 @@
       "publishedAt": "2026-11-11T11:56:21.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/emine-erdogandan-11-kasimda-anlamli-paylasim-yillar-sonra-da-varligini-surdurecek-4871527",
-      "headline": "Emine Erdoğan'dan Milli Ağaçlandırma Günü mesajı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1462143338528-eca9936a4d09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cGxhbnRpbmclMjB0cmVlc3xlbnwxfDB8fHwxNzk0Mzk4ODMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Arnaud Mesureur",
-        "photographerUrl": "https://unsplash.com/@tbzr",
-        "unsplashUrl": "https://unsplash.com/photos/low-angle-photography-of-green-trees-7EqQ1s3wIAI"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Türkiye genelinde çevre bilincini artırmak ve yeşil alanları genişletmek amacıyla kutlanan 11 Kasım Milli Ağaçlandırma Günü vesilesiyle resmi sosyal medya hesapları üzerinden önemli bir mesaj paylaşıldı. Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, bu anlamlı gün dolayısıyla yaptığı paylaşımda, toprakla buluşturulan her bir fidanın geleceğe bırakılacak en kalıcı ve sürdürülebilir iyiliklerden biri olduğuna dikkat çekti.\n\nGerçekleştirilen ağaçlandırma faaliyetlerinin sadece bugünü değil, aynı zamanda yarının ekosistemini de güvence altına aldığını belirten Emine Erdoğan, fidanların yıllar sonra da varlığını sürdürerek gelecek nesillere daha yaşanabilir, nefes alabilen bir dünya bırakacağını vurguladı. Bu tür çevre hareketlerinin toplumsal farkındalığı artırmadaki rolüne işaret edilen mesajda, doğayı koruma bilincinin yaygınlaşmasının hayati önem taşıdığı ifade edildi.\n\nPaylaşımın devamında, ülkenin dört bir yanında orman varlığını korumak için büyük bir özveriyle çalışan, ağaçlandırma projelerine omuz veren ve bu topraklara yeşil bir gelecek inşa etmek amacıyla emek sarf eden tüm vatandaşlara ve kurumlara şükranları sunuldu. Türkiye'nin ekolojik zenginliğinin korunması adına yürütülen her çalışmanın takdire şayan olduğu dile getirildi.\n\nÜlke genelinde orman alanlarının artırılmasına yönelik atılan adımların sürdürülebilir kalkınma hedefleriyle de doğrudan örtüştüğü bilinirken, bu tür günlerin toplumsal sahiplenmeyi pekiştirdiği ifade ediliyor. Emine Erdoğan'ın yaptığı bu anlamlı paylaşım, kısa süre içinde çok sayıda sosyal medya kullanıcısı tarafından etkileşim alarak gündemde geniş yer buldu ve yeşilin korunması adına birlik çağrısı olarak değerlendirildi.",
-      "highlights": [
-        "Emine Erdoğan 11 Kasım Milli Ağaçlandırma Günü'nde mesaj yayımladı.",
-        "Fidan dikiminin geleceğe dönük sürdürülebilir bir iyilik olduğu vurgulandı.",
-        "Orman varlığını koruyan ve destek veren herkese teşekkür edildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/emine-erdogandan-11-kasimda-anlamli-paylasim-yillar-sonra-da-varligini-surdurecek-4871527",
-      "publishedAt": "2026-11-11T11:51:21.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
@@ -8781,6 +8792,7 @@
     "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
     "https://www.haberturk.com/gundem/son-dakika-vanda-43-buyuklugunde-deprem-3928042",
     "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
-    "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit"
+    "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
+    "https://www.milliyet.com.tr/gundem/beyoglunda-binada-yangin-olay-yerine-cok-sayida-ekip-sevk-edildi-7703096"
   ]
 }
