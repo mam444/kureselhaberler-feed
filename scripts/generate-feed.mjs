@@ -40,6 +40,23 @@ function isWithinNewsWindow(article, now = Date.now()) {
     && publishedAt <= now + MAX_FUTURE_SKEW_MS;
 }
 
+const BLOCKED_PUBLISHER_HOSTS = [
+  'bbc.com',
+  'bbc.co.uk',
+  'theguardian.com',
+  'cnn.com',
+  'euronews.com',
+];
+
+function hasCommercialReusePermission(article) {
+  try {
+    const host = new URL(article.externalUrl ?? '').hostname.toLowerCase();
+    return !BLOCKED_PUBLISHER_HOSTS.some((blocked) => host === blocked || host.endsWith(`.${blocked}`));
+  } catch {
+    return true;
+  }
+}
+
 function normalizeHeadline(headline) {
   return String(headline ?? '')
     .normalize('NFKD')
@@ -68,7 +85,7 @@ function timeAgoTrSnapshot(iso) {
 
 async function enrichWithPublisherBody(raw) {
   const rssBody = String(raw.body ?? '').trim();
-  if (rssBody.length >= 2_200) return raw;
+  if (rssBody.length >= 2_200 || raw.allowArticlePageRead !== true) return raw;
   const publisherBody = await fetchPublisherArticleBody(raw.externalUrl);
   if (!publisherBody || publisherBody.length <= rssBody.length + 300) return raw;
   console.log(`[article] "${raw.headline.slice(0, 60)}" için izin verilen, daha ayrıntılı yayıncı metni bulundu.`);
@@ -126,6 +143,7 @@ async function rewriteAndIllustrate(raw) {
         headline: rewritten.headline,
         source: raw.source,
         sourceIconUrl: raw.sourceIconUrl,
+        attributionNote: raw.attributionNote ?? null,
         imageUrl: photo?.imageUrl ?? null,
         imageCredit: photo?.imageCredit ?? null,
         timeAgo: timeAgoTrSnapshot(raw.publishedAt),
@@ -167,6 +185,7 @@ async function createRssFallback(raw) {
     headline: raw.headline,
     source: raw.source,
     sourceIconUrl: raw.sourceIconUrl,
+    attributionNote: raw.attributionNote ?? null,
     // If the rewrite or its specific image search fails, use a licensed stock
     // photo matched to the actual headline. Never substitute an unrelated
     // generic image or scrape a Google Images result.
@@ -215,7 +234,8 @@ async function main() {
   console.log(`[main] ${deduped.length} benzersiz ham haber bulundu.`);
 
   const previousFeed = await loadPreviousFeed();
-  const previous = previousFeed.articles.filter((article) => isWithinNewsWindow(article, now));
+  const previous = previousFeed.articles.filter((article) =>
+    isWithinNewsWindow(article, now) && hasCommercialReusePermission(article));
   const alreadyPublishedThisHour = previous.filter((article) => {
     const publishedAt = Date.parse(article.publishedAt ?? '');
     return Number.isFinite(publishedAt) && publishedAt > now - 60 * 60 * 1000;
@@ -347,7 +367,7 @@ async function main() {
         let sourceBody = String(rss?.body ?? article.body ?? '').trim();
         let usedPublisherPage = false;
         const rssHasMore = sourceBody.length > String(article.body ?? '').length + 450;
-        if (needsLongerCopy && !rssHasMore && article.externalUrl) {
+        if (needsLongerCopy && !rssHasMore && article.externalUrl && rss?.allowArticlePageRead === true) {
           const publisherBody = await fetchPublisherArticleBody(article.externalUrl);
           if (publisherBody && publisherBody.length > sourceBody.length + 450) {
             sourceBody = publisherBody;

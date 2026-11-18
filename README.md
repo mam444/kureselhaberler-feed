@@ -10,7 +10,7 @@ bir çalıştırır.
 1. `.github/workflows/generate-feed.yml` her 10 dakikada bir (ve manuel olarak da) tetiklenir. Mobil uygulama açıkken akışı 5 dakikada bir koşullu istekle kontrol eder; veri değişmediyse tam JSON'u yeniden indirmez.
 2. `scripts/generate-feed.mjs`:
    - `scripts/sources.mjs`'teki RSS kaynaklarını çeker,
-   - önceki `docs/haberler.json`'da olmayan en fazla 2 yeni haberi, RSS veya tarama kuralları izin verdiğinde yapılandırılmış yayıncı metnini kullanarak Gemini ile yeniden yazar; zengin kaynak uygunsa 180–280 kelimelik çok paragraflı özet hedefler,
+   - önceki `docs/haberler.json`'da olmayan en fazla 2 yeni haberi, RSS veya hem yayıncının açık yeniden kullanım koşulları hem tarama kuralları izin verdiğinde sayfa metnini kullanarak Gemini ile yeniden yazar; zengin kaynak uygunsa 180–280 kelimelik çok paragraflı özet hedefler,
    - saatte en fazla 12 yeni haber yayınlar; Gemini günlük kotası dolduğunda kaynağın doğrulanmış başlığı ve en fazla 420 karakterlik RSS özetini yayınlar; haber akışı tamamen durmaz,
    - Gemini ile hazırlanan her haber için Unsplash'tan konuya uygun bir fotoğraf bulur; RSS yedeğinde yayıncı görselini yeniden dağıtmaz,
    - sonucu eskisiyle birleştirip `docs/haberler.json`'a yazar (en fazla 600 haber tutulur),
@@ -20,6 +20,15 @@ bir çalıştırır.
    yayınlar: `https://<kullanıcı-adı>.github.io/kureselhaberler-feed/haberler.json`
 
 ## Kurulum
+
+## Kaynak ve yeniden kullanım koşulları
+
+- Kamuya açık RSS uç noktası tek başına ticari yeniden kullanım izni sayılmaz. Yeni bir kaynağı eklemeden önce yayıncının lisans/iş koşulları incelenmelidir.
+- Lisansı açık kaynaklar: NASA'nın olguya dayalı kamu bilgileri (üçüncü taraf istisnaları ve NASA onayı izlenimi yasağıyla); Avrupa Komisyonu ve Eurostat'ın aksi belirtilmeyen AB mülkiyetindeki içerikleri (CC BY 4.0); EEA'nın EEA'ya ait ve aksi belirtilmeyen içerikleri (CC BY); Council of the EU içeriği (kaynak belirtme, değişikliği açıklama ve anlamı bozmama şartıyla).
+- Kaynak atfı, orijinal haber bağlantısı ve varsa uyarlama notu `docs/index.html` ile Flutter haber detayında gösterilir. Kaynak görselleri yeniden dağıtılmaz; kapak için Unsplash kullanılır.
+- Ticari RSS kullanımı için lisans istediğini veya yalnızca ticari olmayan kullanıma izin verdiğini açıkça belirten BBC, The Guardian, CNN International ve Euronews akışları, yazılı ticari izin alınana kadar `ALL_SOURCES` listesinin dışında tutulur. `CNN Türk` ayrı bir yayıncı akışıdır.
+- Bir kaynağın lisans şartı veya haber öğesindeki hak bildirimi değişirse, o öğe kaynak bazında tekrar kontrol edilmelidir. Otomasyon üçüncü taraf istisnalarını kendiliğinden tespit edemez.
+- Bu liste yalnızca burada adı geçen yeni kaynakların koşullarını belgelemektedir; mevcut Türkçe ve uluslararası yayıncı akışlarının ticari yeniden kullanım şartları ayrıca kaynak bazında doğrulanmalıdır.
 
 1. Bu repoyu GitHub'da oluşturup push edin.
 2. `Settings → Pages` içinde kaynak olarak `main` dalı / `/docs` klasörünü seçin.

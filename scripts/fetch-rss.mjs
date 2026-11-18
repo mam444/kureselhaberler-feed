@@ -213,6 +213,8 @@ function parseRssItem(item, source) {
     publishedAt: publishedAt && !Number.isNaN(publishedAt.getTime()) ? publishedAt.toISOString() : null,
     category: category || null,
     lang: source.lang,
+    allowArticlePageRead: source.allowArticlePageRead === true,
+    attributionNote: source.attributionNote ?? null,
   };
 }
 
@@ -244,6 +246,8 @@ function parseAtomEntry(entry, source) {
     publishedAt: publishedAt && !Number.isNaN(publishedAt.getTime()) ? publishedAt.toISOString() : null,
     category: category || null,
     lang: source.lang,
+    allowArticlePageRead: source.allowArticlePageRead === true,
+    attributionNote: source.attributionNote ?? null,
   };
 }
 

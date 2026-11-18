@@ -36,6 +36,19 @@ export const TURKISH_SOURCES = [
 ].map((s) => ({ ...s, lang: 'tr' }));
 
 export const INTERNATIONAL_SOURCES = [
+  // NASA material is generally public information in a factual editorial
+  // context; item-level third-party notices still take precedence. Keep the
+  // NASA source credit visible and never imply NASA endorsement.
+  { url: 'https://www.nasa.gov/feed/', name: 'NASA', domain: 'nasa.gov', defaultCategory: 'Bilim ve Teknoloji', allowArticlePageRead: true, attributionNote: 'NASA kaynaklarından yararlanılarak hazırlanmıştır; NASA ile resmî bağlantı veya onay anlamına gelmez.' },
+  // EU-owned editorial content is generally CC BY 4.0 unless the item says
+  // otherwise. Adaptations must credit the source and state that they changed.
+  { url: 'https://ec.europa.eu/commission/presscorner/api/rss?language=en', name: 'European Commission', domain: 'europa.eu', defaultCategory: 'World', allowArticlePageRead: true, attributionNote: 'Özet, European Commission içeriğinden uyarlanmıştır (CC BY 4.0). Kaynak bağlantısı haberde yer alır.' },
+  { url: 'https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ECOFIN&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized', name: 'Eurostat', domain: 'europa.eu', defaultCategory: 'Ekonomi', allowArticlePageRead: true, attributionNote: 'Özet, Eurostat içeriğinden uyarlanmıştır (CC BY 4.0). Kaynak bağlantısı haberde yer alır.' },
+  { url: 'https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_POPSOC&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized', name: 'Eurostat', domain: 'europa.eu', defaultCategory: 'Dünya', allowArticlePageRead: true, attributionNote: 'Özet, Eurostat içeriğinden uyarlanmıştır (CC BY 4.0). Kaynak bağlantısı haberde yer alır.' },
+  { url: 'https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_ENVENE&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized', name: 'Eurostat', domain: 'europa.eu', defaultCategory: 'Çevre', allowArticlePageRead: true, attributionNote: 'Özet, Eurostat içeriğinden uyarlanmıştır (CC BY 4.0). Kaynak bağlantısı haberde yer alır.' },
+  { url: 'https://ec.europa.eu/eurostat/en/search?_estatsearchportlet_WAR_estatsearchportlet_collection=CAT_PREREL&_estatsearchportlet_WAR_estatsearchportlet_theme=PER_RESDEV&p_p_id=estatsearchportlet_WAR_estatsearchportlet&p_p_lifecycle=2&p_p_mode=view&p_p_resource_id=atom&p_p_state=maximized', name: 'Eurostat', domain: 'europa.eu', defaultCategory: 'Bilim ve Teknoloji', allowArticlePageRead: true, attributionNote: 'Özet, Eurostat içeriğinden uyarlanmıştır (CC BY 4.0). Kaynak bağlantısı haberde yer alır.' },
+  { url: 'https://www.eea.europa.eu/en/newsroom/newsletter/eea-press-releases-rss-feed/rss.xml', name: 'European Environment Agency', domain: 'eea.europa.eu', defaultCategory: 'Çevre', allowArticlePageRead: true, attributionNote: 'Özet, European Environment Agency (EEA) içeriğinden uyarlanmıştır (CC BY). Kaynak bağlantısı haberde yer alır; üçüncü taraf içerikler lisans dışı olabilir.' },
+  { url: 'https://www.consilium.europa.eu/en/rss/pressreleases.ashx', name: 'Council of the EU', domain: 'consilium.europa.eu', defaultCategory: 'Dünya', allowArticlePageRead: true, attributionNote: 'Özet, Council of the EU içeriğinden uyarlanmıştır. Kaynak bağlantısı haberde yer alır; anlamı değiştirecek şekilde yorumlanmamalıdır.' },
   { url: 'https://feeds.abcnews.com/abcnews/internationalheadlines', name: 'ABC News', domain: 'abcnews.go.com', defaultCategory: 'World' },
   // VOA publishes these regional RSS feeds directly from its official feed page.
   { url: 'https://www.voanews.com/api/z-botl-vomx-tpertmq', name: 'VOA Africa', domain: 'voanews.com', defaultCategory: 'World' },
@@ -52,7 +65,21 @@ export const INTERNATIONAL_SOURCES = [
   { url: 'https://www.rfi.fr/en/rss', name: 'RFI English', domain: 'rfi.fr', defaultCategory: 'World' },
 ].map((s) => ({ ...s, lang: 'en' }));
 
-export const ALL_SOURCES = [...TURKISH_SOURCES, ...INTERNATIONAL_SOURCES];
+// Publishers below explicitly restrict RSS/metadata reuse to non-commercial
+// use or require a business licence. This ad-supported service excludes them
+// until written commercial syndication permission is obtained. CNN Türk is a
+// separate source/domain and is not the CNN International feed listed here.
+export const LICENSE_REQUIRED_PUBLISHERS = [
+  'BBC Türkçe',
+  'BBC News',
+  'The Guardian',
+  'CNN International',
+  'Euronews',
+];
+
+const licenseRequired = new Set(LICENSE_REQUIRED_PUBLISHERS);
+export const ALL_SOURCES = [...TURKISH_SOURCES, ...INTERNATIONAL_SOURCES]
+  .filter((source) => !licenseRequired.has(source.name));
 
 export function iconUrlFor(domain) {
   return `https://www.google.com/s2/favicons?sz=64&domain=${domain}`;
