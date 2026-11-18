@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-18T14:47:08.786Z",
+  "generatedAt": "2026-11-18T14:55:02.326Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss",
+      "headline": "CHP kurultay davasında karar: Ekrem İmamoğlu dahil 9 kişiye hapis cezası ve siyaset yasağı",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1699380309667-a202c5f4a8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Q0hQJTIwa3VydWx0YXklMjBkYXZhcyVDNCVCMW5kYSUyMGthcmFyJTNBJTIwRWtyZW0lMjAlQzQlQjBtYW1vJUM0JTlGbHUlMjBkYWhpbCUyMDklMjBraSVDNSU5Rml5ZSUyMGhhcGlzJTIwY2V6YXMlQzQlQjElMjB2ZSUyMHNpeWFzZXQlMjB5YXNhJUM0JTlGJUM0JUIxfGVufDF8MHx8fDE3OTUwMTM3MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Austin Crick",
+        "photographerUrl": "https://unsplash.com/@austin_nft",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-up-their-cell-phones-hE-d4XDdKec"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan ceza davasında mahkeme kararını açıkladı. Ankara 26. Asliye Ceza Mahkemesi'nde görülen davada Ekrem İmamoğlu dahil dokuz sanığa 2 yıl 1'er ay hapis ve siyasi yasak cezası verildi.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T14:53:56.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
+      "headline": "Xi, Kritik Putin Görüşmesi Öncesinde Trump'ı Çin'de Karşıladı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1782547820891-f639031b4e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8WGklMjBKaW5waW5nJTIwRG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NTAxMzY5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Brecht Corbeel",
+        "photographerUrl": "https://unsplash.com/@brechtcorbeel",
+        "unsplashUrl": "https://unsplash.com/photos/roman-style-bust-of-trump-with-green-abstract-elements-and-text-z8ccgN5ZTWA"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Çin Devlet Başkanı Xi Jinping, Çarşamba günü Çin'deki bir havalimanında ABD'li mevkidaşı Donald Trump'ı pistte şahsen karşıladı. İki lider, Rusya Devlet Başkanı Vladimir Putin ile gerçekleştirecekleri merakla beklenen görüşme öncesinde kısa bir süre sarıldı.\n\nPekin yönetimi, üçlü zirve sırasında Ukrayna'daki savaşın ele alınmayacağını belirtti. Ancak Donald Trump, bu çatışmanın gündemde yer bulacağını ifade etmişti. Uzmanlar, bu durumun Putin'i memnun etmesinin muhtemel olduğunu değerlendiriyor. Liderlerin bir araya geldiği temaslar, uluslararası kamuoyunun yakın takibinde sürerken, zirvenin ana gündem maddelerine dair farklı açıklamalar dikkat çekiyor.",
+      "highlights": [
+        "Xi Jinping, Donald Trump'ı Çin'de havalimanında karşıladı",
+        "İki lider Putin ile üçlü görüşme öncesi sarıldı",
+        "Pekin Ukrayna savaşının görüşülmeyeceğini belirtti"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
+      "publishedAt": "2026-11-18T14:52:39.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/gokyuzunde-ufoyu-andiran-goruntu-bursa-semalarinda-ilginc-goruntu-7703266",
       "headline": "Bursa semalarında UFO'yu andıran merceksi bulut görüntülendi",
@@ -21,7 +63,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/gokyuzunde-ufoyu-andiran-goruntu-bursa-semalarinda-ilginc-goruntu-7703266",
       "publishedAt": "2026-11-18T14:44:20.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T14:54:43.585Z"
     },
     {
       "id": "https://www.rfi.fr/en/africa/20261118-strain-specific-ebola-vaccines-to-be-trialled-in-drc-who-announces",
@@ -3634,7 +3677,8 @@
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
       "publishedAt": "2026-11-17T15:13:57.000Z",
       "category": "World",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T14:54:43.585Z"
     },
     {
       "id": "https://www.haberturk.com/spor/kulupler-birligi-baskani-ertugrul-dogan-yayin-ihalesinde-beklentimiz-500-milyon-dolar-3928032",
@@ -9296,29 +9340,6 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1750476",
       "publishedAt": "2026-11-11T18:55:06.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/italyada-bomba-panigi-100den-fazla-okulda-alarm-verildi-3491948",
-      "headline": "İtalya'da bomba paniği: En az 300 okulda alarm verildi ve tahliyeler gerçekleştirildi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1745503668648-b97de0c3aae2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwc2Nob29sfGVufDF8MHx8fDE3OTQzOTg4MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Raymond Yeung",
-        "photographerUrl": "https://unsplash.com/@optiny",
-        "unsplashUrl": "https://unsplash.com/photos/a-police-car-parks-on-a-dark-lit-street-mnNz0VJ2Zcw"
-      },
-      "timeAgo": "şimdi",
-      "body": "Son dönemde Avrupa genelinde farklı sektörleri ve kamusal alanları hedef alan şüpheli tehdit zinciri, bu kez eğitim kurumlarını vurdu. İtalya'da yaşanan olaylar kapsamında, ülke genelinde sayıları en az 300'ü bulan eğitim ve öğretim kurumu, eş zamanlı olarak alınan asılsız veya şüpheli bomba ihbarları nedeniyle büyük bir güvenlik alarmının merkezinde yer aldı. Sınıfların ve idari binaların hızla boşaltılmasıyla sonuçlanan bu durum, öğrencileri, öğretmenleri ve velileri derin bir endişeye sevk ederken, güvenlik güçlerini de alarma geçirdi.\n\nYetkililerden edinilen ilk bilgilere göre, ülkenin dört bir yanındaki çok sayıda okula elektronik posta yoluyla tehdit içerikli mesajlar gönderildi. Bu dijital iletilerde, binalarda patlayıcı bulunduğu yönünde iddialara yer verildiği aktarıldı. İtalya genelinde yayılan bu ihbar dalgası, eğitim kurumlarının yanı sıra daha geniş bir perspektifte değerlendiriliyor. Benzer tehdit mekanizmalarının son zamanlarda Avrupa'nın çeşitli bölgelerinde farklı kritik altyapıları da hedef aldığı biliniyor.\n\nGeride bıraktığımız süreçte Avrupa kıtasında süpermarket zincirleri, kan bankaları, hava trafiğini yöneten kritik birimler ve ulusal ile yerel düzeyde yayın yapan televizyon kuruluşları da benzer e-posta tehditlerinin hedefi olmuştu. Güvenlik birimleri, bu geniş çaplı ve sistematik görünen tehditlerin arkasındaki odakları belirlemek için kapsamlı soruşturmalar yürütüyor. Eğitim kurumlarının bu zincirin son halkası olması, toplumsal duyarlılığı ve güvenlik tedbirlerinin en üst seviyeye çıkarılması gerekliliğini bir kez daha gözler önüne serdi.\n\nİhbarların eş zamanlı olarak pek çok farklı şehirdeki okullara ulaşması, alarm durumunun ulusal düzeyde koordine edilmesini zorunlu kıldı. Polis ve ilgili güvenlik birimleri, tahliye edilen eğitim kurumlarında detaylı arama ve tarama faaliyetleri başlattı. Uzman ekipler, öğrencilerin ve okul personelinin güvenli alanlara nakledilmesinin ardından binalarda titizlikle inceleme gerçekleştirdi.\n\nYaşanan bu olağanüstü durum, İtalya'daki günlük hayatı ve eğitim akışını sekteye uğrattı. Veliler tahliye edilen çocuklarına ulaşmak için okul çevrelerinde akın ederken, yetkililer halkı sakin olmaya ve resmi makamlar tarafından yapılacak bilgilendirmeleri takip etmeye çağırdı. Benzer kriz durumlarında uygulanan acil eylem planları devreye sokulurken, ülkenin kamusal güvenliğini tehdit eden bu tür eylemlerin asılsız çıkma ihtimali üzerinde de duruluyor.\n\nAvrupa genelindeki bu tür siber ve fiziksel tehdit dalgalarının arka planı henüz netlik kazanmazken, istihbarat ve güvenlik birimleri dijital izleri sürmeye devam ediyor. E-posta yoluyla gönderilen tehditlerin kaynağının tespiti için uluslararası iş birliği olanakları da masaya yatırılıyor. İtalya'daki 300'den fazla okulu etkileyen bu son kriz, kamusal alanların güvenliği konusundaki hassasiyeti ve dijital çağda karşılaşılan güvenlik açıklarını bir kez daha tartışmaya açtı.",
-      "highlights": [
-        "İtalya genelinde en az 300 okul e-posta yoluyla gelen bomba ihbarları nedeniyle tahliye edildi.",
-        "Avrupa'da daha önce süpermarketler, kan bankaları ve hava trafiği de benzer tehditler almıştı.",
-        "Güvenlik güçleri tahliye edilen binalarda detaylı arama ve inceleme başlattı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/italyada-bomba-panigi-100den-fazla-okulda-alarm-verildi-3491948",
-      "publishedAt": "2026-11-11T14:49:27.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
