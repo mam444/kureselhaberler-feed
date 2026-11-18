@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-18T12:44:59.880Z",
+  "generatedAt": "2026-11-18T12:54:53.190Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/sinopta-tarihi-jandarma-binasi-halk-kutuphanesi-oluyor-4873992",
+      "headline": "Sinop'ta 106 yıllık tarihi jandarma binası halk kütüphanesi olacak",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591469894936-1bffa82d4c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2lub3AlMjd0YSUyMDEwNiUyMHklQzQlQjFsbCVDNCVCMWslMjB0YXJpaGklMjBqYW5kYXJtYSUyMGJpbmFzJUM0JUIxJTIwaGFsayUyMGslQzMlQkN0JUMzJUJDcGhhbmVzaSUyMG9sYWNha3xlbnwxfDB8fHwxNzk1MDA2NDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "umut gultekin",
+        "photographerUrl": "https://unsplash.com/@gltknumut",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-UdM4hDuutPI"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Sinop'ta 1920'de jandarma binası olarak inşa edilen 106 yıllık tarihi yapı, halk kütüphanesi olarak hizmet verecek. Vali Mustafa Özarslan, dönüşümü Valiliğin sosyal medya hesaplarından duyurdu.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/sinopta-tarihi-jandarma-binasi-halk-kutuphanesi-oluyor-4873992",
+      "publishedAt": "2026-11-18T12:53:12.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/adalet-bakani-gurlek-duyurdu-kirmizi-bultenle-aranan-isimler-turkiyede-7703115",
       "headline": "Adalet Bakanı Gürlek duyurdu: Kırmızı bültenle aranan isimler Türkiye'de",
@@ -14,10 +33,38 @@
       },
       "timeAgo": "2 dk önce",
       "body": "Bakan Gürlek paylaşımında, \"Gürcistan makamlarıyla yürüttüğümüz uluslararası adli iş birliği sonucunda, aralarında kırmızı bültenle aranan suç örgütü elebaşı Ahmet Dinç ile Yusuf Namlı'nın da bulunduğu toplam 6 firarinin ülkemize iadesini sağladık. İstanbul'da 48 ayrı eylemden sorumlu olduğu tespit edilen suç örgütünün elebaşı Ahmet Dinç, suç işlemek amacıyla örgüt kurma, resmî belgede sahtecilik ve nitelikli…",
-      "highlights": [],
+      "highlights": [
+        "Gürcistan ile yürütülen iş birliğiyle 6 firari Türkiye'ye iade edildi.",
+        "Kırmızı bültenle aranan Ahmet Dinç ve Yusuf Namlı Türkiye'ye getirilenler arasında yer aldı.",
+        "Fon soruşturmasında Mustafa Yazıcı ifadeye çağrıldı."
+      ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/adalet-bakani-gurlek-duyurdu-kirmizi-bultenle-aranan-isimler-turkiyede-7703115",
       "publishedAt": "2026-11-18T12:42:58.000Z",
       "category": "Son Dakika",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T12:54:27.569Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "headline": "Trump, Çin'deki tarihi görüşmeler öncesinde Putin ve Şi ile bir araya geldi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1677050699618-9ccbe6f76b04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VHJ1bXAlMjBQdXRpbiUyMFhpfGVufDF8MHx8fDE3OTUwMDY0NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rafiee Artist",
+        "photographerUrl": "https://unsplash.com/@rafieeartist",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-and-tie-looking-at-a-cell-phone-R6AN9h2kC0I"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Amerika Birleşik Devletleri Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping ile Çin'de gerçekleştireceği zirve öncesinde temaslarda bulundu. Çarşamba günü Şenzen'de gerçekleşen Asya-Pasifik liderler zirvesinde Trump, uçağından inişinde Çin lideri Şi tarafından karşılandı. İkili, havalimanında kırmızı halı, tören kıtası ve askeri uçuş gösterisinin yer aldığı görkemli bir törenle bir araya geldi.\n\nÇinli lider Şi, Trump'a Washington ziyareti sırasındakine benzer bir karşılama yaparak bunu \"özel\" bir jest olarak nitelendirdi. Xinhua ajansının aktardığına göre Şi, saygı, adalet ve eşitliğe dayalı yapıcı ve istikrarlı bir ilişki kurmak istediğini belirtti. Havalimanındaki karşılamanın ardından Trump, Putin ile de bir resepsiyon öncesinde selamlaşarak sohbet etti.\n\nZirve kapsamında Perşembe günü ABD, Çin ve Rusya liderlerinin üçlü olarak ilk kez yüz yüze görüşmesi bekleniyor. Resmi ajandası henüz kamuoyuyla paylaşılmayan görüşmelerde Ukrayna ve İran'daki çatışmalar, nükleer silahların yayılması, ticaret gerilimleri ve yapay zeka alanındaki gelişmelerin ele alınabileceğine dair ipuçları bulunuyor. Ayrıca Trump ile Putin'in zirve marjında ikili görüşmeler gerçekleştirmesi öngörülüyor.\n\nKremlin sözcüsü geniş heyetlerin katılmayacağı kısa ve gayriresmi görüşmelerin olabileceğini belirtti. Ukrayna Devlet Başkanı Volodimir Zelenski, Kiev veya Avrupa'dan temsilcilerin yer almadığı bir savaşın sonlandırılması planının tartışılmasından duyduğu endişeyi dile getirdi. Trump ve Putin arasındaki bu yüz yüze buluşma, Rus liderin Ukrayna savaşı görüşmeleri için Alaska'yı ziyaret ettiği Ağustos 2025'ten bu yana bir ilk olma özelliği taşıyor.\n\nZirvenin düzenlendiği Şenzen'e Putin de Trump'tan birkaç saat önce vararak Şi ile yaklaşık iki saatlik bir görüşme gerçekleştirdi. Çin ve Rusya ilişkilerinin istikrarlı olduğunu belirten Şi, iki ülkenin ekonomik ve savunma ilişkilerini artırma yönündeki kararlılığını vurguladı. Asya-Pasifik Ekonomik İşbirliği forumu (Apec) kapsamında yapılacak görüşmelerin iki ülke arasındaki diplomatik ve stratejik dengelere yön vermesi bekleniyor.",
+      "highlights": [
+        "Trump, Putin ve Şi Cinping Çin'deki tarihi zirve öncesinde bir araya geldi.",
+        "Liderlerin Perşembe günü yapılacak üçlü görüşmesinde Ukrayna, ticaret ve diğer küresel konuların ele alınması bekleniyor.",
+        "Putin ve Şi, Trump'ın varışından önce Şenzen'de ikili görüşmeler gerçekleştirdi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-18T12:39:24.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -2883,13 +2930,18 @@
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "25 dk önce",
-      "body": "As Ethiopian troops push Tigrayan forces toward the Eritrean border, fears of a new regional war are growing. With tensions rising between Addis Ababa, Asmara and Khartoum, the Horn of Africa faces uncertain times ahead.",
-      "highlights": [],
+      "body": "Doğu Afrika'daki gerilimlerin en üst seviyeye ulaştığı bildirilirken, tartışmalı Etiyopya-Eritre sınır bölgesinde yaşanan yeni çatışmalar tam kapsamlı bir savaş korkularını artırdı. Bununla birlikte, Etiyopya ile Sudan arasındaki diplomatik ilişkilerin de yeni bir düşüş yaşadığı belirtiliyor.\n\nTigray Halk Kurtuluş Cephesi'ne (TPLF) bağlı savaşçıların 23 Eylül'de bir taarruz başlattığı ifade edildi. Etiyopya Ulusal Savunma Kuvvetleri (ENDF) ise TPLF'yi kuzeydeki Tigray bölgesinden dışarıya doğru itti. İzleme organizasyonu ACLED'in verilerine göre, ENDF güçlerinin Tigray'ın içerilerine ilerleyerek Tigray Savunma Kuvvetleri'ni Eritrea sınırına doğru sürdüğü aktarıldı.\n\nSınır hattındaki Badme kasabası yakınlarında ağır topların ateşlendiği bildirilirken, bölge 1998-2000 yıllarındaki Eritre-Etiyopya Savaşı'nın başlangıç noktası olması nedeniyle tarihsel bir öneme sahip bulunuyor. Uzmanlar, Etiyopya ordusunun kuzey sınırını güvence altına almayı ve Eritre ile Tigray güçleri arasındaki ikmal hatlarını kesmeyi amaçlıyor olabileceğini ifade ediyor.\n\nAynı dönemde, Etiyopya ile Sudan arasındaki diplomatik ilişkilerin daha da kötüleştiği kaydedildi. Mavi Nil üzerinde inşa edilen Büyük Rönesans Barajı (GERD) nedeniyle Sudan ve Mısır'ın endişe duyduğu, Sudan'da ise 2023 yılından bu yana ordu ile Hızlı Destek Kuvvetleri (RSF) arasında iç savaş sürdüğü bilgisi paylaşıldı. Analistler, iki ülke arasında doğrudan bir çatışmadan ziyade muhalif gruplar üzerinden vekâlet savaşlarının sürmesinin muhtemel olduğunu belirtiyor.",
+      "highlights": [
+        "Etiyopya-Eritre sınırındaki çatışmalar tam kapsamlı savaş korkularını artırdı.",
+        "ENDF güçleri Tigray güçlerini Eritre sınırına doğru sürdü.",
+        "Etiyopya ile Sudan arasındaki diplomatik ilişkiler zayıfladı."
+      ],
       "externalUrl": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-world-4025-xml-mrss",
       "publishedAt": "2026-11-17T15:43:00.000Z",
-      "category": "World",
-      "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-18T07:54:28.059Z"
+      "category": "Dünya",
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T07:54:28.059Z",
+      "sourceTextAttemptedAt": "2026-11-18T12:54:27.569Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
@@ -4042,15 +4094,20 @@
       "headline": "Cezaevinden çıktı annesini darbederek öldürdü",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677233860259-ce1a8e0f8498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2V6YWV2aW5kZW4lMjAlQzMlQTclQzQlQjFrdCVDNCVCMSUyMGFubmVzaW5pJTIwZGFyYmVkZXJlayUyMCVDMyVCNmxkJUMzJUJDcmQlQzMlQkN8ZW58MXwwfHx8MTc5NTAwNjQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Çağlar Oskay",
+        "photographerUrl": "https://unsplash.com/@oskaycaglar",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-destroyed-building-mmLtohu4qmE"
+      },
       "timeAgo": "6 dk önce",
       "body": "Samsun'da kan donduran bir olay yaşandı. Cezaevinden iki ay önce çıktığı ve çok sayıda suç kaydı bulunduğu öğrenilen 38 yaşındaki N.G., birlikte yaşadığı annesi İftadiye Gürgün'ü darbederek öldürdü. Olayın ardından gözaltına alınan şüpheliyle ilgili soruşturma başlatıldı.",
       "highlights": [],
       "externalUrl": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
       "publishedAt": "2026-11-16T19:58:07.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T12:54:27.569Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/mersinde-firari-hukumlu-arkadasinin-evinde-yakalandi-4873199",
