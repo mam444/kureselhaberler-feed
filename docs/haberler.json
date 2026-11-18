@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-18T06:34:37.607Z",
+  "generatedAt": "2026-11-18T06:44:37.156Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/chp-kurultay-davasinda-karar-bekleniyor-1751391",
+      "headline": "CHP kurultay davasında bugün karar beklenmesi öngörülüyor",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1636652968964-22026624a69a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnRob3VzZSUyMHRyaWFsfGVufDF8MHx8fDE3OTQ5ODQyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Colin Lloyd",
+        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
+        "unsplashUrl": "https://unsplash.com/photos/a-building-with-columns-and-steps-in-front-of-it-SQZtpwXnY1Q"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Cumhuriyet Halk Partisi'nin (CHP) 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla açılan ceza davasına bugün devam edilecek. Aralarında tutuklu İstanbul Büyükşehir Belediye Başkanı (İBB) Ekrem İmamoğlu'nun da bulunduğu 12 sanığın yargılandığı dava, Ankara 26. Asliye Ceza Mahkemesi'nde görülecek ve saat 10.00'da başlaması beklenen duruşmadan karar çıkması öngörülüyor.\n\nAnkara Cumhuriyet Başsavcılığı tarafından 3 Haziran'da hazırlanan iddianamede, 4-5 Kasım 2023 tarihlerinde Ankara Spor Salonu'nda yapılan kurultayda delegelere maddi menfaat sağlandığı ve iradelerinin fesada uğratıldığı iddia ediliyor. Eski CHP Genel Başkanı Kemal Kılıçdaroğlu'nun mağdur, eski Hatay Büyükşehir Belediye Başkanı Lütfü Savaş'ın ise müşteki sıfatıyla yer aldığı davada, sanıkların Siyasi Partiler Kanunu'na muhalefet suçundan cezalandırılması talep ediliyor.\n\nBir önceki duruşmada hakim, yargılamanın sürüncemede kalmaması amacıyla mazeretlerin kabul edilmeyeceğini bildirerek duruşmayı 18 Kasım'a ertelemişti. 21 Ekim'deki duruşmada savcı; Ekrem İmamoğlu, Rıza Akpolat, Özgür Çelik, Baki Aydöner, Erkan Aydın, Mehmet Kılınçarslan, Metin Gülerkaya, Nihat Yeşiltaş ve Serhat Can Eş için Siyasi Partiler Kanunu'na muhalefet suçundan 3'er yıla kadar hapis cezası istemişti. Cemil Tugay, Hüseyin Yaşar ve Özgen Nama'nın ise beraati talep edilmişti.\n\nİddianamede, delegelere genel başkan adayı Özgür Özel lehine oy vermeleri için para teklif edildiği, belediye başkanlığı ve meclis üyeliği taahhüt edildiği, işe yerleştirme yapıldığı ve market alışveriş kartları dağıtıldığı öne sürülüyor. Ayrıca delegelerden oy pusulalarının fotoğraflarının istenildiği ve Kemal Kılıçdaroğlu'nun adaylıktan çekildiğine yönelik gerçeğe aykırı açıklamalar yapıldığı iddiaları da dosyada yer alıyor.",
+      "highlights": [
+        "CHP'nin 38. Olağan Kurultayı'nda usulsüzlük yapıldığı iddiasıyla 12 sanığın yargılandığı davadan karar çıkması bekleniyor.",
+        "Savcı, Ekrem İmamoğlu dahil dokuz kişi için hapis cezası talep ederken, Cemil Tugay'ın beraatini istemişti.",
+        "Eski CHP Genel Başkanı Kemal Kılıçdaroğlu davada mağdur sıfatıyla yer alıyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/chp-kurultay-davasinda-karar-bekleniyor-1751391",
+      "publishedAt": "2026-11-18T06:43:08.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
+      "headline": "Iran war dents Middle East sports as events are canceled. F1 bucks the trend",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "The season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
+      "publishedAt": "2026-11-18T06:41:32.000Z",
+      "category": "World",
+      "lang": "en"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/milleyha-kus-cennetine-yine-moloz-ve-cop-dokuldu-hatay-samandag-haberleri-4873741",
       "headline": "Hatay'daki Milleyha Kuş Cenneti'ne yine moloz ve çöp döküldü",
@@ -16,13 +54,14 @@
       "body": "Hatay'ın Samandağ ilçesinde bulunan Milleyha Kuş Cenneti'ne kimliği belirsiz kişiler tarafından yeniden moloz ve çöp döküldü. Türkiye'nin önemli kuş göç ve gözlem noktaları arasında yer alan alan, biyolojik çeşitliliği ve doğal yaşam özellikleriyle dikkat çekiyor.\n\nAfrika ile Asya arasındaki göç yolları üzerinde yer alan ve yüzlerce kuş türüne barınma, beslenme ile dinlenme imkânı sunan sulak alan, Asi Nehri'nin Akdeniz'e döküldüğü noktada bulunuyor. Bölge, 2025 yılında doğal sit alanı olarak tescil edilmişti.\n\nDoğal zenginliğiyle bilinen kuş cennetine bırakılan atık yığınları ekosistemi tehdit ederken kötü bir görüntü oluşturdu. Yol kenarında birikmiş halde görülen moloz ve çöpler, bölgede dronla görüntülendi.",
       "highlights": [
         "Milleyha Kuş Cenneti'ne kimliği belirsiz kişilerce moloz ve çöp döküldü.",
-        "Atık yığınları bölgede dronla görüntülendi.",
-        "Bölge 2025 yılında doğal sit alanı olarak tescil edilmişti."
+        "Ekosistemi tehdit eden atık yığınları dronla görüntülendi.",
+        "Bölge 2025 yılında doğal sit alanı olarak tescillenmişti."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/milleyha-kus-cennetine-yine-moloz-ve-cop-dokuldu-hatay-samandag-haberleri-4873741",
       "publishedAt": "2026-11-18T06:33:46.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T06:44:26.194Z"
     },
     {
       "id": "https://www.yenisafak.com/video/hayat/spil-daginda-buyuleyen-manzara-bulut-denizi-havadan-goruntulendi-4873730",
@@ -68,7 +107,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/18/how-the-houthis-fund-war-effort-and-tighten-grip-on-yemen?traffic_source=rss",
       "publishedAt": "2026-11-18T06:19:17.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T06:44:26.194Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/resmi-gazetede-5-anlasmanin-yururluk-tarihi-yayimlandi-4873725",
@@ -1864,15 +1904,20 @@
       "headline": "Bakan Kurum: Antalya'da geleceğimiz adına önemli kararlar alalım istiyoruz",
       "source": "TRT Haber",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1612880982970-75cce3c96587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QmFrYW4lMjBLdXJ1bSUzQSUyMEFudGFseWElMjdkYSUyMGdlbGVjZSVDNCU5RmltaXolMjBhZCVDNCVCMW5hJTIwJUMzJUI2bmVtbGklMjBrYXJhcmxhciUyMGFsYWwlQzQlQjFtJTIwaXN0aXlvcnV6fGVufDF8MHx8fDE3OTQ5ODQyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Süheyl Burak",
+        "photographerUrl": "https://unsplash.com/@suheylburak",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-white-car-on-road-during-daytime-0t5CY6jcsu0"
+      },
       "timeAgo": "21 dk önce",
       "body": "Bakan Kurum, \"Eylem Gündemini ilerletebilmek, bugün geldiğimiz noktayı daha yukarıya taşıyabilmek amacıyla bir Örtü Karar alacağımızı ifade etmiştik. Buna ilişkin ilk taslak metni yayınladık, geri dönüşleri aldık. İkinci taslak metni de yarın paylaşacağız. Hep birlikte istişare edeceğiz ve istiyoruz ki Antalya'da bir şeyler değişsin\" dedi.",
       "highlights": [],
       "externalUrl": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
       "publishedAt": "2026-11-17T15:47:00.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T06:44:26.194Z"
     },
     {
       "id": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
