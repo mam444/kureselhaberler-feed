@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T05:24:37.403Z",
+  "generatedAt": "2026-11-18T05:34:31.185Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/18/nvidia-geliri-iki-kattan-fazla-artti-beklentileri-asti-yonetim-huangi-ceoluga-dondurmeyece",
+      "headline": "Nvidia geliri iki kattan fazla arttı, beklentileri aştı: yönetim Huang'ı CEO'luğa döndürmeyecek",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1716967318503-05b7064afa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TnZpZGlhJTIwY2hpcCUyMEFJfGVufDF8MHx8fDE3OTQ5ODAwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mariia Berezovsky",
+        "photographerUrl": "https://unsplash.com/@mariiaberezovsky",
+        "unsplashUrl": "https://unsplash.com/photos/the-nvidia-logo-is-displayed-on-a-table-0SqsTxWhgNU"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Nvidia, beklentilerin üzerinde sonuçlar açıkladı, gelecek mali yıl tahminini yükseltti ve kurucu ortak Jensen Huang’ı CEO’luğa geri getirmeyi planlamadığını bildirdi. Yapay zeka çiplerine yönelik güçlü talep, şirketin mali yılının üçüncü çeyreğinde gelirini ve net kârını iki kattan fazla artırmasını sağladı.\n\nŞirket, 25 Ekim'de sona eren çeyrek için 115,8 milyar dolar gelir açıkladı. Bu rakam, geçen yılın aynı dönemine göre yüzde 103 artış anlamına gelirken, net kâr 65,3 milyar dolara yükseldi. Düzeltilmiş hisse başına kazanç, FactSet konsensüs tahminini aştı. Kazanç telekonferansının başında Yönetim Kurulu Başkanı Harvey Jones, kurulun istifayı oybirliğiyle kabul ettiğini ve Jensen'i CEO olarak yeniden göreve getirmeyi düşünmediğini söyledi. Finans direktörü Colette Kress, kalıcı halef aranırken geçici CEO olarak görev yapıyor.\n\nÖte yandan Elon Musk ve ABD Başkanı Donald Trump gibi isimler Huang'ın geri dönmesine destek verirken, Reuters'a göre istifa evlilik dışı ilişkilerin ortaya çıkmasının ardından geldi. Jones, kalıcı bir CEO'yu hızlıca atamak istediklerini belirtti. Veri merkezi geliri 107,6 milyar dolara çıkarak iki kattan fazla artarken, Nvidia dördüncü çeyrek gelirinin yaklaşık 130 milyar dolar olacağını öngörüyor.\n\nNvidia, ulusal güvenlik, ihracat kontrolleri ve küresel ticaret risklerini denetlemek üzere kalıcı bir komite kurdu. Ayrıca ABD Temsilciler Meclisi'ndeki üç komite, Jensen Huang ile genel hukuk müşaviri Tim Teter'in kapalı kapılar ardında yapılacak görüşmeleri kabul ettiğini bildirdi. Huang'ın 1 Aralık'ta, Teter'in ise 2 Aralık'ta ifade vermesi bekleniyor. AP ise Huang'ın Senato Bankacılık Komitesi'nin karşısına çıkmasının da beklediğini bildirdi.",
+      "highlights": [
+        "Nvidia üçüncü çeyrekte gelirini ve net kârını iki kattan fazla artırdı.",
+        "Yönetim Kurulu Başkanı Harvey Jones, Jensen Huang'ı CEO olarak yeniden göreve getirmeyi düşünmediklerini açıkladı.",
+        "Huang'ın 1 Aralık'ta, genel hukuk müşaviri Tim Teter'in ise 2 Aralık'ta ifade vermesi bekleniyor."
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/18/nvidia-geliri-iki-kattan-fazla-artti-beklentileri-asti-yonetim-huangi-ceoluga-dondurmeyece",
+      "publishedAt": "2026-11-18T05:32:22.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/dunya/anket-almanya-da-hukumetin-calismalarindan-memnun-olmayanlarin-orani-yuzde-86-ya-yukseldi-3928111",
       "headline": "Almanya'da hükümetten memnuniyetsizlik yükseldi",
@@ -47,6 +70,29 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T05:24:25.509Z"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+      "headline": "Pauline Hanson'ın Avustralya'nın mülteci programını azaltma planına tepki yağdı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1549055244-3ba3f5a6e252?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3OTQ5ODAwNjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Reimond de Zuñiga",
+        "photographerUrl": "https://unsplash.com/@reimond_21",
+        "unsplashUrl": "https://unsplash.com/photos/man-holding-microphone-RFERNHTVYcQ"
+      },
+      "timeAgo": "23 dk önce",
+      "body": "One Nation partisi lideri Pauline Hanson, göçü azaltmaya yönelik yeni sert politikası kapsamında Avustralya'nın mülteci kabul oranını yüzde 90 oranında düşürmeyi ve daimi ebeveyn vizesi programını kaldırmayı taahhüt etti. Salı günü duyurulan bu politika, siyasi rakipler ve savunuculuk grupları tarafından mültecilere yönelik “öngörülebilir ve ucuz” bir saldırı olarak nitelendirilerek eleştirildi. \n\nHanson, iktidara gelmeleri halinde mülteci programını yılda 20.000 kontenjandan 2.000'e indireceklerini ve ülkenin kişi başına düşen mülteci sayısında hâlâ OECD ortalamasının üzerinde kalacağını öne sürdü. Vergi mükelleflerine maliyetin kişi başı yaşam boyu yaklaşık 500.000 dolar olduğunu savunan Hanson, bu planın 10 yıl içinde bütçeye 140 milyar dolardan fazla tasarruf sağlayacağını iddia etti. Ayrıca İran, Lübnan, Suriye ve Somali gibi ülkelere yönelik seyahat yasaklarının süreceğini belirtti. \n\nSöz konusu plana siyasi kesimden ve sığınmacı hakları savunucularından sert tepkiler geldi. Dışişleri Bakanı Penny Wong, One Nation'ın ülkeyi böldüğünü ve Hanson'ın rakamlarının doğru olmadığını savunarak hükümetin yıllık 20.000'lik mülteci politikasının doğru dengeyi kurduğunu ifade etti. İçişleri Bakanı Tony Burke de planın Avustralyalıların güvendiği hizmetlere yönelik bir saldırı olacağını söyledi.\n\nMuhalefet kanadından Angus Taylor, mülteci kabulünü yılda 10.000'e düşürme yönündeki Koalisyon politikasının daha fazla aşağı çekilmeyeceğini belirtirken, gölge sayman Tim Wilson ise One Nation'ın politikalarını ciddiye almadığını dile getirdi. Yeşiller lideri David Shoebridge ve Sığınmacı Kaynak Merkezi (ASRC) gibi gruplar ise planı kınayarak, mültecileri hedef almanın yaşam pahalılığı krizine çözüm olmayacağını ve bu kesimlerin günah keçisi ilan edildiğini kaydetti. Avustralya Mülteci Konseyi de insani yardım programının göçün küçük bir kısmını oluşturduğunu ve kesintinin savaş ve şiddetten kaçanlar için yıkıcı sonuçları olacağını vurguladı.",
+      "highlights": [
+        "One Nation partisi Avustralya'nın mülteci kabul oranını yüzde 90 oranında düşürmeyi planlıyor.",
+        "Politika muhalefet partileri ve sığınmacı hakları savunucuları tarafından sert bir şekilde eleştirildi.",
+        "Planın bütçeye 140 milyar dolardan fazla tasarruf sağlayacağı öne sürülürken, eleştirmenler bunun yıkıcı sonuçları olacağını belirtti."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+      "publishedAt": "2026-11-18T05:11:31.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
@@ -973,14 +1019,15 @@
       "timeAgo": "6 dk önce",
       "body": "Yeni Parti İzmir Milletvekili Ümit Özlale, Polis Bakım ve Yardım Sandığı (POLSAN) birikimlerinin, fon soruşturması kapsamında tasfiyesine karar verilen bazı yatırım fonlarında kullanıldığını ileri sürerek sandığın paralarının battığına yönelik iddiaları gündeme getirdi. Özlale, TERA'ya yetki verildiğini ve POLSAN'ın 20 Ekim'de ELZ fonuna 14,5 milyon lira yatırdığını belirterek polisin birikimlerinin durumunu sordu.\n\nİçişleri Bakanı Mustafa Çiftçi, TBMM Plan ve Bütçe Komisyonu'ndaki bütçe görüşmelerinde bu iddialara yanıt verdi. Çiftçi, Özlale'nin verdiği bilgilerin gerçeği yansıtmadığını belirterek, sandıktaki paraların emanet olduğunu vurguladı. POLSAN'ın toplam aktif varlık büyüklüğünün yaklaşık 80 milyar lira olduğunu, bu tutarın yaklaşık 1 milyar liralık kısmının fonlarda değerlendirildiğini açıklayan Çiftçi, sandığın herhangi bir zarara uğramadığını ifade etti. Bakan Çiftçi, zarar olma ihtimali veya kanıtlanan bir durum bulunması halinde gerekli işlemlerin yapılacağını kaydetti.",
       "highlights": [
-        "YENİ Parti İzmir Milletvekili Ümit Özlale, POLSAN birikimlerinin tasfiye kararı alınan bazı fonlarda kullanıldığını ileri sürdü.",
         "İçişleri Bakanı Mustafa Çiftçi, POLSAN'ın herhangi bir zarara uğramadığını açıkladı.",
-        "Çiftçi, sandığın toplam aktif varlığının yaklaşık 80 milyar lira olduğunu ve bunun 1 milyar lirasının fonlarda değerlendirildiğini belirtti."
+        "Ümit Özlale, paranın fonlarda kullanıldığını ve POLSAN için TERA'ya yetki verildiğini ileri sürmüştü.",
+        "Çiftçi, sandığın toplam aktif varlığının yaklaşık 80 milyar lira olduğunu ve 1 milyar liranın fonlarda değerlendirildiğini belirtti."
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/polis-sandiginin-parasi-fonlarda-batti-mi-icisleri-bakani-sandigin-zarari-olmadigini-acikladi-1751335",
       "publishedAt": "2026-11-17T16:28:34.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T05:34:20.841Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/bakan-kurum-ust-duzey-bakanlar-toplantisinda-konustu-ikinci-taslak-metni-yarin-paylasacagiz-7702628",
@@ -994,17 +1041,18 @@
         "unsplashUrl": "https://unsplash.com/photos/person-holding-the-climate-is-changing-signage-RN14PbITnnM"
       },
       "timeAgo": "10 dk önce",
-      "body": "Bakan Murat Kurum, 2030 Öncesi Hedeflerin Yükseltilmesine İlişkin Üst Düzey Bakanlar Yuvarlak Masa Toplantısı'nda bir konuşma yaptı. Kurum, 2030 yaklaşırken iklim hedeflerini sahada görülen sonuçlara dönüştürmenin önemini vurgulayarak, emisyon azaltımını hızlandırırken kalkınma önceliklerini, enerji güvenliğini, istihdamı ve adil geçiş ihtiyacını aynı çerçevede ele almak gerektiğini belirtti.\n\nİlk taslak metnin yayınlandığını ve geri dönüşlerin alındığını bildiren Kurum, ikinci taslak metnin yarın paylaşılacağını açıkladı. Akşam bakan istişaresi yapılacağını ve bakan divanında konunun görüşüleceğini ifade eden Kurum, Antalya'da geleceğin adımlarını atma iradesini vurguladı. Ayrıca gelişmekte olan ülkeler için finansmana ve teknolojiye erişimin kolaylaştırılmasının önemine dikkat çekti.",
+      "body": "Bakan Kurum, 2030 Öncesi Hedeflerin Yükseltilmesine İlişkin Üst Düzey Bakanlar Yuvarlak Masa Toplantısı'nda bir konuşma yaptı. Konuşmasında, 2030 yaklaşırken iklim hedeflerini sahada görülen sonuçlara dönüştürmenin önemine dikkat çekti.\n\nEmisyon azaltımını hızlandırırken kalkınma önceliklerini, enerji güvenliğini, istihdamı ve adil geçiş ihtiyacını aynı çerçevede ele almanın gerekliliğini vurgulayan Kurum, Paris Anlaşması'nın hedeflerine ve 1,5 derece eşiğine değindi. Dönüşümün yeni yatırımlar, iş alanları ve daha yüksek yaşam kalitesi gibi fırsatlar ürettiğini belirtti.\n\nCOP31 Başkanı Murat Kurum, Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen ile birlikte uzlaşı alanlarını büyütmeye çalışan bir anlayışla hareket ettiklerini ifade etti. İlk taslak metnin yayınlandığını ve geri dönüşlerin alındığını belirten Kurum, ikinci taslak metni yarın paylaşacaklarını bildirdi.\n\nGelişmekte olan ülkelerin finansmana ve teknolojiye erişiminin kolaylaştırılmasının önemini vurgulayan Kurum, Azaltım Çalışma Programı'nın ülkelerin tecrübelerini paylaştığı önemli bir platform oluşturduğunu kaydetti. Kurum, Antalya'dan 2030 öncesi eylemi hızlandıran ve uygulamayı güçlendiren bir anlayışla ayrılmayı temenni ettiğini sözlerine ekledi.",
       "highlights": [
-        "İkinci taslak metin yarın paylaşılacak.",
-        "Antalya'da geleceğimiz adına önemli kararlar almayı amaçlıyoruz.",
-        "Finansmana ve teknolojiye erişim büyük önem taşıyor."
+        "İkinci taslak metnin yarın paylaşılacağı duyuruldu.",
+        "Gelişmekte olan ülkeler için finansman ve teknolojiye erişimin önemi vurgulandı.",
+        "Antalya'da alınacak kararların önemi ifade edildi."
       ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-kurum-ust-duzey-bakanlar-toplantisinda-konustu-ikinci-taslak-metni-yarin-paylasacagiz-7702628",
       "publishedAt": "2026-11-17T16:24:49.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:34:23.063Z"
+      "imageSearchAttemptedAt": "2026-11-17T17:34:23.063Z",
+      "sourceTextAttemptedAt": "2026-11-18T05:34:20.841Z"
     },
     {
       "id": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki-963594.html",
@@ -1352,15 +1400,20 @@
       "headline": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
       "source": "Anadolu Ajansı",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1637497601387-0cc99a234251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RCVDMyVCQ255YSUyMEJhbmthcyVDNCVCMSUyQyUyMENPUDMxJTI3ZGUlMjBpa2xpbSUyMHlhdCVDNCVCMXIlQzQlQjFtbGFyJUM0JUIxbiVDNCVCMW4lMjBtZXJrZXppbmUlMjBpc3RpaGRhbSVDNCVCMSUyMGtveWR1fGVufDF8MHx8fDE3OTQ5ODAwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nedret Binici",
+        "photographerUrl": "https://unsplash.com/@nedret00",
+        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-different-currency-sitting-on-top-of-each-other-TD9ZL6i81R4"
+      },
       "timeAgo": "3 dk önce",
       "body": "Dünya Bankası, COP31 kapsamında, kalkınma önceliklerini desteklemenin ve dayanıklılığı artırmanın yanı sıra, istihdamı güçlendirmeyi amaçlayan 6,9 milyar dolarlık yatırımı tanıttı.",
       "highlights": [],
       "externalUrl": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128144",
       "publishedAt": "2026-11-17T15:59:46.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T05:34:20.841Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/felc-kalan-kanserli-anneye-akilalmaz-tuzak-uvey-oglu-tum-birikimini-alip-kacti-1751332",
