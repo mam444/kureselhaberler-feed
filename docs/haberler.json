@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-17T20:05:13.819Z",
+  "generatedAt": "2026-11-18T02:24:57.046Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/bulgaristan-filibede-3-9-buyuklugunde-deprem-7702755",
+      "headline": "Bulgaristan Filibe'de 3.9 büyüklüğünde deprem",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1793473473033-2a6c30427de4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZWFydGhxdWFrZSUyMHNlaXNtb2dyYXBofGVufDF8MHx8fDE3OTQ5Njg2ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Logan Voss",
+        "photographerUrl": "https://unsplash.com/@loganvoss",
+        "unsplashUrl": "https://unsplash.com/photos/dark-purple-jagged-wave-pattern-QQS-EZBuQpc"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), Bulgaristan'ın Filibe kentinde 3.9 büyüklüğünde bir deprem meydana geldiğini duyurdu. Yapılan açıklamaya göre, sarsıntının merkez üssü olan Filibe, Edirne'ye 125 kilometre mesafede bulunuyor. Ölçümlere göre depremin derinliği 20 kilometre olarak kayıtlara geçti.",
+      "highlights": [
+        "AFAD Bulgaristan'ın Filibe kentinde deprem olduğunu bildirdi",
+        "Depremin büyüklüğü 3.9 olarak ölçüldü",
+        "Sarsıntının derinliği 20 kilometre ve Edirne'ye 125 kilometre mesafede"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/bulgaristan-filibede-3-9-buyuklugunde-deprem-7702755",
+      "publishedAt": "2026-11-18T02:15:29.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "headline": "Kolluk kontrolleri ve akıllı gözlük yasakları: Güney Kore yapay zekaya karşı kritik üniversite sınavlarını korumaya çalışıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1678649653438-3b0d6f793f23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U291dGglMjBLb3JlYSUyMGV4YW18ZW58MXwwfHx8MTc5NDk2ODY4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Ford",
+        "photographerUrl": "https://unsplash.com/@david_ford",
+        "unsplashUrl": "https://unsplash.com/photos/a-tall-building-with-a-sky-background-46GL3NtN76o"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Güney Kore'de geleceği belirleyen ve suneung olarak bilinen üniversite giriş sınavı öncesinde yapay zeka destekli kopya iddiaları gündeme geldi. Perşembe günü ülke genelindeki 1.312 merkezde yarım milyondan fazla öğrenci sekiz saat süren sınava girecek. Kısa süre önce bir vergi muhasebiliği sınavında birincilik elde eden adayın gizli kamera ve yapay zeka kullanarak kopya çektiğini itiraf etmesi endişeleri artırdı.\n\nBaşbakan Han Seong-sook, salı günü Seul'deki kabine toplantısında yapay zeka destekli kopya çekmenin ortadan kaldırılacak bir toplumsal kötülük olduğunu belirtti. Sınav sırasında akıllı cihazların taşınmasının tamamen engelleneceğini vurgulayan Han, cihazların kapatılıp teslim edilmesi gerektiğini ifade etti. Koridorlardaki çantaların ve adayların gözlük, saat, yaka, kol ve düğmelerinin gizli kameralara karşı inceleneceği bildirildi.\n\nAlınan önlemler kapsamında sınav görevlileri artırıldı, okul Wi-Fi ağları ve yakınlardaki kamusal Wi-Fi ağlarının kapatılmasına hazırlanıldı, ayrıca bağlantı kayıtları üzerinden kişisel hotspotların takip edileceği açıklandı. Vergi sınavındaki kopya skandalını itiraf eden kişi, soruları gizli mikro kamera ile fotoğraflayıp yapay zeka sistemine gönderdiğini ve yanıtları akıllı telefondan okuduğunu avukatının YouTube kanalındaki videoda açıkladı.\n\nEğitim Bakanı Choi Kyo-jin, pazartesi günü parlamentoda yaptığı açıklamada, perşembe günkü sınavda halihazırda satışta olan akıllı gözlüklerin taranabileceğini ancak daha yeni varyantlarla mükemmel şekilde başa çıkılamayacağını belirtti. Akıllı gözlükler haziran sonundan bu yana sınavda yasaklanırken, bazı adayların incelemeden kaçınmak için kontakt lenslere yöneldiği bildirildi. Başbakan Han, iyi niyetli adayların gereksiz kaygı veya rahatsızlık yaşamaması için kontrollerin dikkatle yürütüleceğini belirtti.",
+      "highlights": [
+        "Güney Kore'de bir vergi muhasebiliği sınavında birinci olan adayın gizli kamera ve yapay zeka ile kopya çektiğini itiraf etmesi suneung sınavı öncesinde endişe yarattı.",
+        "Perşembe günü düzenlenecek üniversite giriş sınavı öncesinde akıllı cihazlar yasaklandı, kolluk kontrolleri sıkılaştırıldı ve giysiler ile gözlükler incelemeye alındı.",
+        "Eğitim yetkilileri yeni nesil akıllı gözlüklerle tam olarak başa çıkılamayacağını belirtirken, bazı adayların incelemeden kaçınmak için kontakt lenslere yöneldiği ifade edildi."
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/18/south-korea-university-entrace-exams-ai-cheating-measures",
+      "publishedAt": "2026-11-18T02:03:27.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/msb-f-16-pilotlari-55-saatte-11-bin-38-kilometre-yol-katetti-7702662",
       "headline": "MSB: F-16 pilotları 55 saatte 11 bin 38 kilometre yol katetti",
@@ -14,11 +60,16 @@
       },
       "timeAgo": "3 dk önce",
       "body": "Mogadişu ile Bandırma arasında ara bacak olmadan gerçekleştirilen intikalde, 55 saat içinde 2 sortide toplam 11 bin 38 kilometre mesafe kat edildi. MSB'nin sanal medya hesabından yapılan açıklamada şu ifadelere yer verildi: \"Somali Türk Görev Kuvveti Hava Unsur Komutanlığı bünyesinde görev yapan 6'ncı Ana Jet Üs 161'inci Jet Filo Komutanlığımıza bağlı F-16 pilotlarımız, bakım zamanı gelen uçaklarımızın rotasyon…",
-      "highlights": [],
+      "highlights": [
+        "Mogadişu ile Bandırma arasında ara bacak olmadan intikal gerçekleştirildi",
+        "55 saat içinde 2 sortide 11 bin 38 kilometre mesafe kat edildi",
+        "Bakım zamanı gelen uçakların rotasyon faaliyeti başarıyla tamamlandı"
+      ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/msb-f-16-pilotlari-55-saatte-11-bin-38-kilometre-yol-katetti-7702662",
       "publishedAt": "2026-11-17T20:02:01.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T02:24:43.237Z"
     },
     {
       "id": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-neet-report-absurdly-ambitious-analysis",
@@ -241,12 +292,17 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Yeni Parti Milletvekili Ümit Özlale fon soruşturmasında yurt dışına para göndermek için yeni kurulan bir bankanın kullanıldığını iddia etmişti. O bankadan açıklama geldi. Banka \"Bizim yurt dışına para gönderme sistemi alt yapısı, swift entegrasyonu yok\" dedi. İddiaların gerçek dışı olduğunu belirtti.",
-      "highlights": [],
+      "highlights": [
+        "Yeni Parti Milletvekili Ümit Özlale, fon soruşturmasında yurt dışına para göndermek için yeni kurulan bir bankanın kullanıldığını iddia etmişti.",
+        "Banka, yurt dışına para gönderme sistemi altyapısı ve swift entegrasyonunun bulunmadığını açıkladı.",
+        "Açıklamada, adı geçen kişinin banka müşterisi olmadığı ve banka aracılığıyla transfer yapılmadığı belirtildi."
+      ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/ozlalenin-iddiasina-bankadan-yanit-yurt-disina-transfer-sistemimiz-yok-3494509",
       "publishedAt": "2026-11-17T18:42:26.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T18:54:19.494Z"
+      "imageSearchAttemptedAt": "2026-11-17T18:54:19.494Z",
+      "sourceTextAttemptedAt": "2026-11-18T02:24:43.237Z"
     },
     {
       "id": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-world-4025-xml-mrss",
@@ -1076,7 +1132,8 @@
       "externalUrl": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
       "publishedAt": "2026-11-17T16:07:06.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T02:24:43.237Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/anadolu-mirasi-operasyonlari-eskisehirde-3-zanli-yakalandi-7702621",
@@ -10564,144 +10621,6 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/11/kennedy-family-joins-us-lawsuits-to-block-trumps-unlawful-arch-plan?traffic_source=rss",
       "publishedAt": "2026-11-11T03:21:40.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-      "headline": "Pentagon'dan tam zafer açıklaması: Temsilciler Meclisi'ndeki Pete Hegseth oylaması engellendi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1747320108113-94390018fcb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cGVudGFnb24lMjBidWlsZGluZ3xlbnwxfDB8fHwxNzk0MzU0ODI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Raymond Yeung",
-        "photographerUrl": "https://unsplash.com/@optiny",
-        "unsplashUrl": "https://unsplash.com/photos/a-modern-building-with-glass-walls-VPEcXP9OaLw"
-      },
-      "timeAgo": "25 dk önce",
-      "body": "Amerika Birleşik Devletleri siyasetinin merkezindeki gelişmeler, Pentagon yönetiminin konumuyla ilgili yeni bir aşamaya sahne oldu. Temsilciler Meclisi'ndeki Cumhuriyetçi üyeler, Savunma Bakanı Pete Hegseth hakkında hazırlanan azil istemini durdurmak üzere stratejik bir hamle gerçekleştirdi. Kongre kulislerinde hareketli saatlerin yaşandığı süreçte, Cumhuriyetçi kanat üyeleri oylamada çoğunluğu sağlayarak kritik bir sonuca imza attı.\n\nAlınan karar doğrultusunda, Temsilcisi Thomas Massie tarafından Meclis gündemine getirilen azil maddeleri doğrudan ilgili komiteye havale edildi. Bu parlamenter hamle, konunun Temsilciler Meclisi Genel Kurulu'nda tam bir oylamaya sunulmasının önüne geçti. Yasama sürecinin bu şekilde yönlendirilmesi, Pentagon yönetimi açısından azil tehlikesinin acil aşamada bertaraf edilmesi anlamına geldi.\n\nSöz konusu gelişmelerin ardından Pentagon cephesinden ve bizzat Savunma Bakanı Pete Hegseth'ten net bir açıklama geldi. Düzenlediği basın toplantısında oldukça kararlı bir duruş sergileyen Hegseth, hazırlanan azil maddelerinin hiçbir hukuki dayanağının bulunmadığını vurguladı. Bakan, kendisine yöneltilen tüm eleştirilerin ve gerçekleştirilen operasyonların tamamen yasal çerçevede yürütüldüğünü savundu.\n\nBasın mensuplarının karşısında operasyonel detaylara da değinen Hegseth, atılan adımların meşruiyetine dikkat çekti. Hegseth açıklamasında, \"Azil maddelerine gelecek olursak; İran, karteller, Maduro, Yemen, herkes başkomutanın emriyle, ardından benim emrimle yapılan, Kongre'ye bildirilen ve işlerini yapan Amerikan askerleri tarafından icra edilen yasal birer operasyonuydu\" ifadelerini kullandı.\n\nSavunma Bakanı, yürütülen askeri faaliyetlerin bölgedeki terör tehditlerini azalttığını savundu. Hegseth, \"Terör rejimlerinin kabiliyetlerini yok ettik. Toplumumuza zehir taşıyan tekneleri batırdık. Bir narko-diktatörü kelepçeledik. Bunlar ağır suçlar değildir. Bu bizim işimizdir ve bu iş başarıyla yapılmıştır\" diyerek savunmasını tamamladı.\n\nWashington'daki siyasi dengeleri etkileyen bu gelişmeler, Kongre ile savunma bürokrasisi arasındaki ilişkilerin seyrini bir kez daha gözler önüne serdi. Temsilciler Meclisi'nde azil girişiminin komiteye gönderilmesiyle birlikte, Pentagon yönetimi ve destekçileri süreci bir zafer olarak değerlendirirken, ülkedeki siyasi tartışmaların önümüzdeki günlerde de devam etmesi bekleniyor.",
-      "highlights": [
-        "Cumhuriyetçiler çoğunluğu sağlayarak azil maddelerini komiteye gönderdi.",
-        "Meclis genel kurulunda tam oylama yapılmasının önüne geçildi.",
-        "Hegseth tüm operasyonların yasal ve başkomutan emriyle yapıldığını söyledi."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-      "publishedAt": "2026-11-10T23:28:44.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-      "headline": "Fransız aşırı sağcı yazar Zemmour ikinci kez cumhurbaşkanlığı adaylığını açıkladı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1687554865585-97407bdf0f31?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZnJlbmNoJTIwcG9saXRpY2lhbnxlbnwxfDB8fHwxNzk0MzU0ODMwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mikołaj",
-        "photographerUrl": "https://unsplash.com/@qmikola",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-dome-on-top-MDKIfDZwdf8"
-      },
-      "timeAgo": "31 dk önce",
-      "body": "Fransa siyasetinde tartışmalı çıkışlarıyla bilinen aşırı sağcı yazar ve politikacı Eric Zemmour, ülkenin geleceğine yönelik yeni bir siyasi hamle yaparak ikinci kez cumhurbaşkanlığı yarışına girdiğini duyurdu. Geçtiğimiz ay Fransa genelinde yaşanan şiddet olaylarının hemen ardından gelen bu adaylık açıklaması, kamuoyunda geniş yankı uyandırdı ve ülkenin göçmen politikaları etrafındaki mevcut tartışmaları yeniden alevlendirdi. Siyasi kulislerde ve medya organlarında geniş yer bulan bu gelişme, Zemmour'un daha önceki kampanyalarında izlediği sert çizgiyi bu dönemde de sürdüreceğini açıkça ortaya koyuyor.\n\nZemmour'un yeni seçim kampanyasının merkezinde, ülkedeki işsiz yabancı uyruklu kişilerin Fransa dışına çıkarılması hedefi yer alıyor. Geçtiğimiz ay kaydedilen şiddetli protestoların ardından bu konuyu en üst sıraya taşıyan aday, özellikle toplumsal güvenliğin ve ekonomik dengenin korunması adına bu adımın kaçınılmaz olduğunu savunuyor. Adaylığın duyurulduğu ilk andan itibaren dile getirilen bu sert önlemler, Fransa'nın göç, istihdam ve sosyal uyum politikaları konusunda halihazırda derinleşen kutuplaşmayı daha da görünür kılıyor.\n\nFransa'da cumhurbaşkanlığı seçimleri süreci, ülkenin iç siyasi dinamiklerini ve Avrupa Birliği içerisindeki konumunu doğrudan etkileyen kritik bir dönemeç olarak değerlendiriliyor. Aşırı sağ akımların ve milliyetçi söylemlerin siyasi yelpazedeki ağırlığını artırdığı bir dönemde gelen bu adaylık, ülkenin ana akım siyasi partilerini de yeni stratejiler geliştirmeye zorluyor. Zemmour'un kitlesiyle kurduğu bağ ve toplumsal tepkileri kendi lehine yönlendirme çabası, seçim kampanyasının ilerleyen aşamalarında izlenecek stratejinin temel hatlarını oluşturuyor.\n\nGeçtiğimiz ay yaşanan olayların toplumsal bellekte henüz tazeliğini koruduğu bu süreçte, güvenlik ve kamu düzeni konuları seçmenlerin öncelikli gündem maddeleri arasında yer alıyor. Yazar ve politikacı Zemmour, tam da bu hassas döneme denk getirdiği ikinci cumhurbaşkanlığı hamlesiyle, mevcut sosyolojik kaygıları kendi siyasi programının temel taşı haline getiriyor. İşsiz yabancıların ülkeden gönderilmesi yönündeki vaat, seçmen tabanında karşılık bulurken, aynı zamanda muhalefet kanadından ve insan hakları savunucularından da yoğun eleştiriler alıyor.\n\nFransız medyasında ve uluslararası kamuoyunda yakından takip edilen bu süreç, ülkenin gelecekteki demografik ve ekonomik yönelimi açısından da büyük bir önem taşıyor. Siyasi analistler, Zemmour'un bu hamlesinin seçmen tabanını konsolide etmeyi amaçladığını ancak aynı zamanda toplumsal barışı zedeleyebilecek riskler barındırdığını belirtiyor. Fransa'nın önümüzdeki dönemde sahne alacak seçim maratonu, aşırı sağın ülkedeki sınırlarını ve potansiyelini test edeceği en önemli platformlardan biri olmaya aday görünüyor.",
-      "highlights": [
-        "Eric Zemmour ikinci kez cumhurbaşkanlığı yarışına katıldığını duyurdu.",
-        "Açıklama, ülkede geçen ay yaşanan şiddetli protestoların hemen ardından geldi.",
-        "Zemmour'un programında işsiz yabancıların sınır dışı edilmesi hedefi yer alıyor."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
-      "publishedAt": "2026-11-10T23:23:12.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/tarsus-ta-otomobil-aydinlatma-diregine-carpti-3-yarali-3926404",
-      "headline": "Mersin'de aydınlatma direğine çarpan otomobildeki 3 kişi yaralandı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1673187139211-1e7ec3dd60ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2FyJTIwY3Jhc2h8ZW58MXwwfHx8MTc5NDM1NDgzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Usman Malik",
-        "photographerUrl": "https://unsplash.com/@usmanbim94",
-        "unsplashUrl": "https://unsplash.com/photos/a-red-car-is-on-a-flatbed-tow-truck-kE__1vnDxg4"
-      },
-      "timeAgo": "52 dk önce",
-      "body": "Mersin'in Tarsus ilçesinde yaşanan trafik kazasında, kontrolden çıkan bir otomobilin aydınlatma direğine çarpması neticesinde toplam 3 kişi yaralandı. Şehir içi ulaşımın ve trafiğin yoğun olduğu noktalardan birinde meydana gelen bu kaza, bölgede kısa süreli bir hareketliliğe ve endişeye neden oldu. Sürücüsünün direksiyon hakimiyetini henüz belirlenemeyen bir sebepten dolayı kaybetmesiyle savrulan araç, yol kenarındaki aydınlatma direğine çarparak durabildi. Çarpmanın şiddetiyle birlikte otomobilde maddi hasar meydana gelirken, araç içerisinde bulunan yolcular ve sürücü kazadan etkilendi.\n\nOlayı gören çevredeki vatandaşların ihbarı üzerine, kısa sürede kaza mahalline çok sayıda sağlık ve güvenlik ekibi sevk edildi. Trafik güvenliğini sağlamak amacıyla polis ekipleri çevrede güvenlik önlemleri alırken, sağlık ekipleri ise yaralılara ilk müdahaleyi olay yerinde gerçekleştirdi. Kazada yaralanan 3 kişi, yapılan ilk kontrol ve müdahalelerin ardından ambulanslarla hızla çevre hastanelere kaldırılarak tedavi altına alındı. Hastaneye sevk edilen yaralıların sağlık durumlarıyla ilgili detaylı incelemelerin sürdüğü öğrenildi.\n\nMersin ve çevresinde son dönemde sıkça karşılaşılan trafik kazaları, sürücülerin hız, dikkat ve yol şartları konusunda uyarılması gerekliliğini bir kez daha gündeme getirdi. Tarsus ilçesindeki bu kaza, özellikle aydınlatma direkleri ve benzeri yol kenarı engellerinin trafikteki risk unsurlarından biri olabileceğini gösteren olaylar arasında yerini aldı. Kazanın ardından yetkililer olay yerinde incelemelerde bulunurken, kazaya karışan aracın çekici yardımıyla yoldan kaldırılmasıyla birlikte trafik akışı normale döndü.\n\nGünlük yaşamın akışı içerisinde sıkça yaşanan benzer trafik olayları, sürücülerin seyir halindeyken dikkatli olmalarının ve hız kurallarına uymalarının hayati önem taşıdığını bir kez daha gözler önüne serdi. Mersin İl Emniyet Müdürlüğü ve ilgili birimler, kazanın kesin nedenini tespit etmek üzere soruşturma başlattı. Tarsus'taki kazanın ardından, özellikle şehir içi yollarda ve kavşaklarda alınabilecek ilave tedbirler ile sürücü farkındalığının artırılmasına yönelik çalışmaların önemi bir kez daha vurgulanmış oldu.",
-      "highlights": [
-        "Mersin'in Tarsus ilçesinde meydana gelen kazada otomobil aydınlatma direğine çarptı.",
-        "Çarpışmanın etkisiyle araçta bulunan 3 kişi yaralanarak hastaneye kaldırıldı.",
-        "Olay yerine gelen sağlık ekiplerinin müdahalesiyle yaralılar tedavi altına alındı."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/tarsus-ta-otomobil-aydinlatma-diregine-carpti-3-yarali-3926404",
-      "publishedAt": "2026-11-10T23:02:04.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/turkiye-maci-oncesi-fransada-soke-eden-sakatlik-haberleri-3-eksik-43373614",
-      "headline": "Türkiye maçı öncesi Fransa'da şoke eden sakatlık haberleri: Kadroda üç eksik",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTQzNTQ4Mzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mario Klassen",
-        "photographerUrl": "https://unsplash.com/@marioklassen",
-        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
-      },
-      "timeAgo": "59 dk önce",
-      "body": "Uluslararası futbol gündeminde geniş yankı uyandıran gelişmeler yaşanmaya devam ederken, UEFA Uluslar Ligi'nde Türkiye A Milli Futbol Takımı'nın rakipleri arasında yer alan Fransa cephesinden gelen son haberler spor kamuoyunu sarstı. Fransa A Milli Futbol Takımı'nın kadrosunda yaşanan üst üste sakatlık şanssızlıkları, teknik heyetin planlarını altüst ederken, taraftarlar ve spor otoriteleri arasında da endişe yarattı. Uzun süredir devam eden ulusal ve uluslararası maç takviminin yarattığı yoğun fiziksel ve zihinsel yorgunluk, futbol dünyasında sakatlık vakalarının artmasına zemin hazırlarken, bu durumdan en çok etkilenen ekiplerden biri de son dönemdeki istikrarlı grafiğiyle dikkat çeken Fransa oldu.\n\nAlınan son bilgilere göre, yaklaşan kritik Türkiye maçı öncesinde Fransa kadrosundan gelen kötü haberlerin sayısı üçe ulaştı. Uluslararası futbol arenasında rekabetin en üst düzeyde seyrettiği UEFA Uluslar Ligi maratonunda takımların en hazır kadrolarıyla sahaya çıkması hedeflenirken, yaşanan bu tür eksikler teknik direktörlerin taktiksel kurgularını tamamen değiştirmesine neden olmaktadır. Fransa Milli Takımı'nın antrenmanlarında ve kulüp takımlarındaki maçlarında meydana gelen bu sakatlıklar, takımın iskelet kadrosunu doğrudan etkileyen önemli unsurlar arasında gösteriliyor.\n\nTürkiye A Milli Futbol Takımı ile yapılacak olan zorlu müsabaka öncesinde yaşanan bu gelişmeler, gruptaki dengeleri ve maçın olası senaryolarını da yakından ilgilendiriyor. Futbol otoriteleri, böylesine üst düzey karşılaşmalarda kadro derinliğinin ve alternatif oyuncuların performansının kilit rol oynadığını belirtirken, Fransa gibi geniş bir oyuncu havuzuna sahip bir ülkenin bile üç önemli isminden yoksun kalacak olmasının maçın gidişatını nasıl etkileyeceği merakla bekleniyor. Spor basını da konuyu manşetlerine taşıyarak sakatlıkların detaylarını ve Fransa'nın bu eksikleri nasıl telafi edeceğini tartışmaya açtı.\n\nFransa Futbol Federasyonu ve teknik ekip tarafından konuya ilişkin yapılacak olası bilgilendirmeler beklenirken, sakatlanan oyuncuların tedavi süreçlerinin ve yeşil sahalara ne zaman döneceklerinin kulüp takımları için de büyük önem taşıdığı ifade ediliyor. Uluslararası müsabakaların, kulüp sezonlarının en yoğun dönemleriyle çakışması, oyuncu sağlığı üzerindeki baskıyı artırırken, milli takım kamplarındaki bu tür talihsizlikler her dönem spor dünyasının en çok tartışılan konularından biri olmaya devam ediyor.\n\nSonuç olarak, Türkiye A Milli Futbol Takımı'nın rakiplerinden biri olan Fransa'da yaşanan bu üç sakatlık vakası, önümüzdeki maç döneminin en sıcak gündem maddelerinden biri haline gelmiş durumda. Hem millilerimizin bu durumdan nasıl faydalanacağı hem de Fransa'nın bu eksiklerle sahada nasıl bir performans sergileyeceği, futbolseverlerin odak noktası olmayı sürdürüyor. Maç saati yaklaştıkça iki takımın kamplarından gelecek haberler ve teknik direktörlerin sahaya süreceği ilk 11 tercihleri, spor severler tarafından büyük bir dikkatle takip ediliyor.",
-      "highlights": [
-        "Fransa Milli Takımı'nda Türkiye maçı öncesi 3 sakatlık yaşandı.",
-        "Peş peşe gelen sakatlık haberleri futbol kamuoyunda şok etkisi yarattı.",
-        "Yaşanan eksikler Fransa'nın kampındaki planları değiştirdi."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/turkiye-maci-oncesi-fransada-soke-eden-sakatlik-haberleri-3-eksik-43373614",
-      "publishedAt": "2026-11-10T22:54:31.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/c3j4rxxn0yy2o?at_medium=RSS&at_campaign=rss",
-      "headline": "İsrail'de yeni parlamentosu yemin ederek göreve başladı, hükümet kurma yarışları hız kazandı",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1760872645513-63b6846ce3c9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cGFybGlhbWVudCUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTQyODIxNTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zoshua Colah",
-        "photographerUrl": "https://unsplash.com/@zoshuacolah",
-        "unsplashUrl": "https://unsplash.com/photos/grand-building-reflected-in-a-calm-pool-of-water-DReqTYC2PkA"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Orta Doğu siyasetinde hareketli günlerin yaşandığı bu dönemde, İsrail parlamentosunun yeni üyeleri resmi olarak yemin ederek görevlerine resmen başladılar. Ülkenin gelecekteki siyasi yönünü belirleyecek olan bu kritik adım, başkentteki meclis binasında geniş bir katılımla ve yoğun bir diplomatik gündemle gerçekleştirildi. Seçimlerin ardından oluşan yeni parlamento yapısı, ülkenin iç ve dış politikadaki önceliklerini şekillendirecek olan yasama faaliyetlerine resmen ilk adımı atmış oldu.\n\nParlamentonun göreve başlamasıyla birlikte, Ankara ve Tel Aviv dahil olmak üzere bölgesel ve küresel başkentlerin yakından takip ettiği hükümet kurma süreci de resmen hız kazandı. Siyasi analistler, meclisteki sandalye dağılımının koalisyon ortaklıklarını zorunlu kıldığını ve liderlerin bu doğrultuda yoğun bir diplomasi trafiği yürüttüğünü belirtiyor. İstikrarlı bir kabine oluşturulması, ülkenin ekonomik ve güvenlik politikalarının sürdürülebilirliği açısından hayati bir önem taşıyor.\n\nBu kapsamda, muhalefet kanadında yer alan önemli isimlerden biri olan muhalefet lideri Gadi Eisenkot, yeni kabineyi oluşturmak ve koalisyon seçeneklerini değerlendirmek üzere kapsamlı girişimlerde bulunuyor. Eisenkot'un yürüttüğü bu temaslar, meclisteki farklı siyasi partiler arasında uzlaşı sağlanıp sağlanamayacağını gösterecek olan en temel süreç olarak öne çıkıyor. Siyasi kulislerde, hükümet kurma yetkisinin hangi liderde kalacağı ve koalisyon pazarlıklarının nasıl sonuçlanacağı büyük bir merakla bekleniyor.\n\nİsrail siyasi tarihinde sıkça görülen koalisyon hükümeti arayışları, bu dönemde de ülkenin iç dinamiklerini doğrudan etkileyen birincil unsur olmaya devam ediyor. Yeni parlamentonun yemin töreniyle başlayan süreç, sadece yasama çalışmalarını değil, aynı zamanda ülkenin önümüzdeki yıllarda izleyeceği idari stratejileri de tayin edecek. Meclisteki milletvekillerinin tamamının katılımıyla gerçekleşen yemin merasimi, demokrasinin işleyişi açısından simgesel bir önem arz ederken, asıl çetin mücadelenin kabine koltuklarının paylaşımı noktasında yaşandığı ifade ediliyor.\n\nÖnümüzdeki günlerde taraflar arasındaki görüşmelerin daha da yoğunlaşması ve hükümet kurma görevine ilişkin resmi gelişmelerin netleşmesi bekleniyor. Gadi Eisenkot ve diğer siyasi aktörlerin atacağı adımlar, İsrail'in yakın siyasi tarihinin en kritik eşiklerinden biri olarak kayda geçiyor. Ülke genelindeki vatandaşlar ve uluslararası gözlemciler, meclisten çıkacak uzlaşma sinyallerini ve kurulacak olası yeni hükümetin yapısını dikkatle izlemeyi sürdürüyor.",
-      "highlights": [
-        "İsrail'in yeni parlamentosu üyeleri resmi olarak yemin etti.",
-        "Hükümet kurma yarışları meclisin açılışıyla hız kazandı.",
-        "Muhalefet lideri Gadi Eisenkot yeni kabine için girişimde bulunuyor."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/c3j4rxxn0yy2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-10T21:48:18.000Z",
-      "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/magazin/yasemin-sakallioglu-yine-yapti-yapacagini-sibil-cetinkayayi-tiye-aldi-3491687",
-      "headline": "Yasemin Sakallıoğlu'ndan Sibil Çetinkaya'nın Londra'daki çorba macerasına mizahi gönderme",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1659909803506-49b5b4d0d81a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bG9uZG9uJTIwa2l0Y2hlbiUyMHNvdXB8ZW58MXwwfHx8MTc5NDMzNjg5Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Simona Marinkova",
-        "photographerUrl": "https://unsplash.com/@zhenomad",
-        "unsplashUrl": "https://unsplash.com/photos/a-chalkboard-with-writing-on-it-Z3620UVZL0U"
-      },
-      "timeAgo": "şimdi",
-      "body": "Magazin dünyası ve sosyal medyanın yakından tanıdığı isimler arasında yaşanan eğlenceli paylaşımlara bir yenisi daha eklendi. Son dönemde attığı adımlar ve yaptığı paylaşımlarla sıklıkla adından söz ettiren Sibil Çetinkaya, eğitim amacıyla İngiltere'nin başkenti Londra'ya yerleşmesinin ardından gündeme geldi. Londra'daki yeni yaşamına uyum sağlamaya çalışan Çetinkaya, mutfaktaki marifetlerini sergilemek isterken yaşadığı renkli anlarla dikkatleri üzerine çekti. \n\nEğitimini sürdürmek üzere Londra'ya taşınan ünlü sosyal medya fenomeni Sibil Çetinkaya, konakladığı yerde mutfağa girerek geleneksel bir lezzet olan tavuk suyu çorbası pişirmek istedi. Ancak yemek yapma sürecinde beklenmedik durumlarla karşılaşan Çetinkaya, çorbanın tarifini ve inceliklerini öğrenmek için anında telefonuna sarıldı. Annesini arayarak telefonda adım adım yardım alan Çetinkaya'nın bu mutfak macerası, kısa süre içinde dijital mecralarda en çok konuşulan konular arasına girdi. \n\nSöz konusu görüntüler ve sosyal medyada paylaşılan detaylar, geniş bir kitle tarafından hızla benimsendi ve binlerce etkileşim aldı. Kullanıcıların büyük bir ilgiyle takip ettiği bu olay, kısa süre içinde internet ortamında viral bir nitelik kazandı. Günlük yaşamından kesitleri takipçileriyle paylaşmayı ihmal etmeyen Çetinkaya'nın bu çorba yapma girişimi, sosyal medya platformlarında günün en çok paylaşılan içeriklerinden biri olmayı başardı.\n\nYaşanan bu eğlenceli olay, ünlü komedyen Yasemin Sakallıoğlu'nun da dikkatinden kaçmadı. Mizahi yaklaşımı ve günlük olayları sahneye ya da sosyal medyaya taşıma biçimiyle tanınan Sakallıoğlu, Sibil Çetinkaya'nın Londra'daki tavuk suyu çorbası yapma serüvenini tiye aldı. Komedyenin kendine has üslubuyla gerçekleştirdiği bu gönderme, kısa sürede takipçilerinden büyük bir gülümseme ve yoğun ilgi gördü.\n\nİki ünlü ismin sosyal medya üzerinden gayriresmi olarak etkileşime girmesi, magazin gündeminde geniş yankı uyandırdı. Takipçiler ve hayran kitleleri, yaşanan bu eğlenceli durumu yorum yağmuruna tutarak paylaşımlara destek verdi. Sosyal medya dinamiklerinin eğlenceli bir örneğini teşkil eden bu olay, gün boyunca platformların trend listelerinde üst sıralardaki yerini korudu.",
-      "highlights": [
-        "Sibil Çetinkaya eğitim için Londra'ya yerleşti.",
-        "Çorbayı yapmak için annesini arayıp yardım istedi.",
-        "Komedyen Yasemin Sakallıoğlu durumu mizahi bir dille tiye aldı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/magazin/yasemin-sakallioglu-yine-yapti-yapacagini-sibil-cetinkayayi-tiye-aldi-3491687",
-      "publishedAt": "2026-11-10T21:26:39.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
