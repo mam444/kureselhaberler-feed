@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T07:34:20.368Z",
+  "generatedAt": "2026-11-18T07:44:46.690Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/ekonomi/cop31de-depozito-yonetim-sistemi-dunyaya-tanitiliyor-7702841",
+      "headline": "COP31’de Depozito Yönetim Sistemi dünyaya tanıtılıyor",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1717667745830-de42bb75a4fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cmVjeWNsaW5nJTIwbWFjaGluZXxlbnwxfDB8fHwxNzk0OTg3ODgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nathan Cima",
+        "photographerUrl": "https://unsplash.com/@nathan_cima",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-truck-with-a-load-of-trash-in-a-warehouse-70_n8a-nE7s"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Türkiye’nin ev sahipliğinde Antalya’da düzenlenen COP31’de, Sıfır Atık Projesi’nin önemli adımlarından biri olan Depozito Yönetim Sistemi uluslararası katılımcılara tanıtılıyor. Ulusal ölçekte hayata geçirilen sistem, zirvenin Mavi ve Yeşil bölgelerinde kurulan depozito iade makineleriyle ziyaretçilerin ve yabancı delegasyonların kullanımına sunuluyor. Alanda kurulan makineler sayesinde COP31’in ilk haftasında 10 bin 100 içecek ambalajı toplandı.\n\nÇevre, Şehircilik ve İklim Değişikliği Bakanlığı DOA Çevre Yönetim Hizmetleri AŞ Genel Müdürü Ayşe Banu Özgökçen Çim, sistemin yasal altyapısının 2018 yılında Çevre Kanunu’nda yapılan değişiklikle oluşturulduğunu belirtti. Çim, 2020’de Türkiye Çevre Ajansı’nın kurulmasının ardından altyapı çalışmalarının hız kazandığını ve yaklaşık üç-dört yıllık hazırlık sürecinin ardından 1 Temmuz 2026 itibarıyla ulusal entegrasyon sürecinin başlatıldığını ifade etti.\n\nSistemin Türkiye genelindeki yayılımına ilişkin bilgi veren Çim, ülke genelinde 4 bin 300’den fazla manuel iade noktası ile 160 sayma-doğrulama merkezinin bulunduğunu kaydetti. Otel, kafe, restoran ve manuel iade noktalarından toplanan ambalajların bu merkezlerde doğrulandıktan sonra geri kazanım tesislerine gönderildiğini aktaran Çim, 1 Temmuz 2026'dan bugüne kadar yaklaşık 775 milyon ambalaj toplandığını bildirdi.\n\nTürkiye’de yılda yaklaşık 25 milyar içecek ambalajının piyasaya sürüldüğünü belirten Çim, hedeflerinin şişelerin tamamını toplamak olduğunu vurguladı. COP31 alanındaki makinelerle projeyi dünyaya örnek uygulama olarak göstermek istediklerini anlatan Çim, özellikle Avrupa ülkelerinden gelen ziyaretçilerin sistem hakkında bilgi aldığını ve uluslararası tecrübe paylaşımında bulunulduğunu dile getirdi. Ziyaretçiler Necati Arda Peker ve Aslı Şevval Artan da uygulamanın doğanın korunmasına sağlayacağı katkıdan duydukları memnuniyeti paylaştı.",
+      "highlights": [
+        "COP31’de kurulan depozito iade makineleriyle ilk haftada 10 bin 100 içecek ambalajı toplandı.",
+        "Türkiye genelinde 4 bin 300’den fazla manuel iade noktası ve 160 sayma-doğrulama merkezi bulunuyor.",
+        "1 Temmuz 2026'dan bu yana yaklaşık 775 milyon ambalaj toplandı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/ekonomi/cop31de-depozito-yonetim-sistemi-dunyaya-tanitiliyor-7702841",
+      "publishedAt": "2026-11-18T07:41:05.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/arzunun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-1751411",
       "headline": "Arzu'nun Katledildiği Makaslı Vahşet İçin İstenen Ceza Belli Oldu",
@@ -160,6 +183,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
       "publishedAt": "2026-11-18T07:01:09.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+      "headline": "İngiltere'deki 16 Yaş Altı Sosyal Medya Yasağının Etkilerini Araştırmak İçin 10 Milyon Sterlinlik Kapsamlı Çalışma Başlatılıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1676738386065-233f1d585023?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2hpbGRyZW4lMjBzbWFydHBob25lJTIwYmFufGVufDF8MHx8fDE3OTQ5ODc4Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sanket Mishra",
+        "photographerUrl": "https://unsplash.com/@sanketgraphy",
+        "unsplashUrl": "https://unsplash.com/photos/a-person-laying-in-bed-holding-a-cell-phone-R7aBdi5OHtA"
+      },
+      "timeAgo": "44 dk önce",
+      "body": "Birleşik Krallık'ta 16 yaşından küçükler için uygulanması beklenen sosyal medya yasağının etkilerini incelemek amacıyla 10 milyon sterlinlik büyük bir bilimsel araştırma yürütülecek. Wellcome'ın liderlik ettiği bu çalışma, çocukların zihinsel sağlığı, uykusu ve fiziksel aktivitesi gibi konuları yasağın öncesi ve sonrasında karşılaştırarak incelemeyi hedefliyor. Wellcome'dan araştırmanın lideri Dr. Camilla Iannone, bu kısıtlamaların gençlerin zihinsel sağlığının nasıl etkilendiğini incelemek için nesilde bir kez karşımıza çıkacak bir fırsat sunduğunu belirtti.\n\nAraştırma, Wellcome'dan sağlanan 9,3 milyon sterlinlik finansman desteğiyle Britanya genelinde 300 binden fazla gençle birlikte yürütülecek. Çalışma kapsamında on farklı araştırma projesi hayata geçirilecek. Bu projeler arasında, Birmingham Üniversitesi'nden Profesör Victoria Goodyear'ın eş liderliğinde yürütülen ve 16 okul ile 800 öğrenciyi kapsayan Smart Schools Plus projesi de yer alıyor. Bu ekip; anketler, uygulamalar, mülakatlar ve aktivite takip cihazları kullanarak zihinsel sağlığın yanı sıra fiziksel aktivite, uyku, sosyal ağlar ve okul devamlılığı gibi faktörleri inceleyecek.\n\nKing's College London'dan Dr. Gemma Knowles'ın eş liderliğindeki bir diğer proje ise yasağın etkilerinin cinsiyet, sosyal sınıf ve cinsel yönelimlere göre farklılık gösterip göstermediğini araştıracak. Edinburgh Üniversitesi'nden Dr. Alex Kwong ise ekiplerinin İngiltere, Galler ve İskoçya genelinde ailelerle birlikte çalışarak kısıtlamaların aile içi olası çatışmalara yol açıp açmayacağını ve çocukların yasakları delip delmediğini inceleyeceğini kaydetti.\n\nDünya genelinde Avustralya, Kanada, Yunanistan ve Danimarka gibi ülkeler de çocuklar için sosyal medya kısıtlamalarını değerlendiriyor veya hayata geçiriyor. Birleşik Krallık'ta ilkbaharda yürürlüğe girmesi beklenen yasak; Instagram, YouTube, TikTok, Snapchat, Facebook ve X gibi platformları kapsayacak ve canlı yayın ile oyun platformlarındaki yabancı iletişimine de sınırlamalar getirecek. Uzmanlar, yasağın pratikte nasıl sonuçlar doğuracağını ve teorideki politikanın gerçek hayatta nasıl uygulanacağını anlamak için bu araştırmanın kritik önem taşıdığını vurguluyor.",
+      "highlights": [
+        "İngiltere'de 16 yaş altı çocuklara yönelik sosyal medya yasağının etkilerini incelemek için 10 milyon sterlinlik büyük bir bilimsel çalışma başlatılıyor.",
+        "Wellcome destekli araştırma, 300 binden fazla gençle çalışarak zihinsel sağlık, uyku, fiziksel aktivite ve eğitim sonuçlarını yasağın öncesi ve sonrasında karşılaştıracak.",
+        "Birleşik Krallık'ta ilkbaharda başlaması beklenen yasak; Instagram, YouTube, TikTok, Snapchat, Facebook ve X gibi platformları kapsayacak."
+      ],
+      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/18/social-media-ban-once-in-a-generation-study",
+      "publishedAt": "2026-11-18T07:00:36.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -1917,7 +1963,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/anadolu-mirasi-operasyonlari-eskisehirde-3-zanli-yakalandi-7702621",
       "publishedAt": "2026-11-17T16:05:35.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T07:44:33.751Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/gundem/ak-parti-turkiye-yuzyili-bulusmalari-kapsaminda-ulke-genelinde-gerceklestirdigi-saha-calismalarini-raporlastiracak/4128148",
@@ -1937,7 +1984,8 @@
       "publishedAt": "2026-11-17T16:05:17.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T05:19:49.896Z"
+      "imageSearchAttemptedAt": "2026-11-18T05:19:49.896Z",
+      "sourceTextAttemptedAt": "2026-11-18T07:44:33.751Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/17/applea-pariste-dava-iphonelarda-planli-eskitme-iddiasi",
@@ -2301,15 +2349,20 @@
       "headline": "US Pentagon fails ninth straight audit despite progress in organizing finances",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1776888732941-6de4402bd128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VVMlMjBQZW50YWdvbiUyMGZhaWxzJTIwbmludGglMjBzdHJhaWdodCUyMGF1ZGl0JTIwZGVzcGl0ZSUyMHByb2dyZXNzJTIwaW4lMjBvcmdhbml6aW5nJTIwZmluYW5jZXN8ZW58MXwwfHx8MTc5NDk4Nzg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kevin “KevDoy” Doyle",
+        "photographerUrl": "https://unsplash.com/@kevdoy",
+        "unsplashUrl": "https://unsplash.com/photos/the-pentagon-building-with-surrounding-parking-lot-and-trees-MYnz09IPZFY"
+      },
       "timeAgo": "14 dk önce",
       "body": "The audits check whether financial statements ​are fairly presented and financial systems ‌and processes are sound The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general ⁠report released on Monday – but an official said a majority of its units passed for the first time. The US defense department chief financial officer, Jules Hurst, told ⁠Reuters an independent…",
       "highlights": [],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/17/pentagon-fails-audit",
       "publishedAt": "2026-11-17T15:43:12.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T07:44:33.751Z"
     },
     {
       "id": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-world-4025-xml-mrss",
