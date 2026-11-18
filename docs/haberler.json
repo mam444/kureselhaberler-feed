@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-18T08:14:36.930Z",
+  "generatedAt": "2026-11-18T08:25:03.446Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-almanyanin-dev-bankasi-deutsche-bankin-gizli-arsivi-sizdi-sok-detaylar-supheli-para-trafiginde-gkry-izi-7702858",
+      "headline": "Almanya'nın dev bankası Deutsche Bank'ın gizli arşivi sızdı! Şok detaylar: Şüpheli para trafiğinde GKRY izi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1614449224974-c98c0b0b0d22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RGV1dHNjaGUlMjBCYW5rJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NDk5MDMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Paul Fiedler",
+        "photographerUrl": "https://unsplash.com/@paulfiedler",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-1bPtwZoPync"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Almanya'nın en büyük bankası Deutsche Bank'a ait milyonlarca gizli belgenin sızdırılmasıyla ortaya çıkan Rus oligark bağlantılı şüpheli para transferlerinde, Güney Kıbrıs Rum Yönetimi'nin (GKRY) Avrupa Birliği finans sistemine giriş kapısı olarak kullanıldığı belirlendi. Alman kamu yayıncısı ZDF, Der Spiegel, Financial Times ve uluslararası kuruluşların ortak yürüttüğü \"Inside Deutsche Bank\" araştırması kapsamında 15 milyondan fazla belge incelendi.\n\nSızdırılan dosyalarda, 2017-2020 yılları arasında paravan şirketler ağı üzerinden 1.7 milyar euroyu aşan şüpheli işlem yapıldığı saptandı. \"Project Wingman\" adı verilen ağın merkezinde 15 şirketin yer aldığı, bazı şirketlerin ABD tarafından 2018'de yaptırım listesine alınan Oleg Deripaska ile bağlantılı olduğu bildirildi. Bankanın bu ağı yaklaşık üç yıl boyunca tespit edemediği kaydedildi.\n\nAraştırmada ayrıca GKRY merkezli RCB Bank ve FBME Bank'ın geçmişteki işlemleri de gündeme getirildi. Deutsche Bank'ın FBME ile bağlantılı 826 şüpheli işlem tespit ettiği, FBME'nin GKRY şubesinin banka ile ilişkileri bulunduğu aktarıldı. Öte yandan Roman Abramovich'in varlıklarının GKRY merkezli şirketlerle yönetilmesine ilişkin incelemelerin de Rum Meclisi'nde ele alındığı belirtildi.\n\nDeutsche Bank, olayların geçmiş yıllara dayandığını, gerekli durumlarda yetkili kurumlarla incelendiğini ve 2019-2025 döneminde iç kontrol sistemleri için 7 milyar euro yatırım yapıldığını açıkladı. Banka mevcut ve geçmiş müşteri ilişkileri hakkında yorum yapmaktan kaçındı. Rum basınında ise sızdırılan belgelerin Rus sermayeli işlemlerde GKRY'nin rolüne dair yeni sorular ortaya çıkardığı vurgulandı.",
+      "highlights": [
+        "Deutsche Bank'a ait gizli belgelerin sızdırılmasıyla şüpheli para trafiğinde GKRY izi bulundu.",
+        "2017-2020 yılları arasında paravan şirketler üzerinden 1.7 milyar euroyu aşan şüpheli işlem gerçekleştirildi.",
+        "Deutsche Bank, olayların geçmiş yıllara dayandığını ve risk yönetimini güçlendirmek için yatırım yaptıklarını açıkladı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-almanyanin-dev-bankasi-deutsche-bankin-gizli-arsivi-sizdi-sok-detaylar-supheli-para-trafiginde-gkry-izi-7702858",
+      "publishedAt": "2026-11-18T08:23:03.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/tiktokta-dini-istismar-skandali-kabeyi-jeton-karsiligi-kazanc-kapisina-cevirdiler-4873830",
       "headline": "TikTok'ta Dini Değerlerin İstismarına Tepki",
@@ -23,7 +47,8 @@
       "externalUrl": "https://www.yenisafak.com/video/gundem/tiktokta-dini-istismar-skandali-kabeyi-jeton-karsiligi-kazanc-kapisina-cevirdiler-4873830",
       "publishedAt": "2026-11-18T08:11:55.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:24:59.486Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/dev-surpriz-antalya-kiyilarina-geldi-denizalti-sandik-7702850",
@@ -71,7 +96,8 @@
       "externalUrl": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
       "publishedAt": "2026-11-18T07:54:15.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:24:59.486Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-2026-yilinin-kelimesi-belli-oldu-tartismalarin-merkezine-yerlesti-7702846",
@@ -96,6 +122,30 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T08:14:30.426Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+      "headline": "Rusya ve Çin çok kutuplu dünya için öncülük etmeli, Xi APEC zirvesinde söyledi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1794796693699-acc80dbb0385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QVBFQyUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0OTkwMzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "leoon liang",
+        "photographerUrl": "https://unsplash.com/@leoonliang",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-waiting-near-apec-china-flags-1BLqTQdJjPc"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "Çin lideri Xi, APEC zirvesinde yaptığı açıklamada Rusya ve Çin'in çok kutuplu bir dünyaya doğru atılacak adıma öncülük etmesi gerektiğini belirtti. \n\nZirve kapsamında Rusya lideri Putin ise Batılı güçlerin 'eski hegemonlar' olduğunu ifade etti. \n\nPutin, değerlendirmesinde ayrıca Avrupa'nın 'utanç verici bir düşüş' sürecinin ortasında bulunduğunu öne sürdü.",
+      "highlights": [
+        "Xi, Rusya ve Çin'in çok kutuplu dünyaya öncülük etmesi gerektiğini söyledi",
+        "Putin Batılı güçleri 'eski hegemonlar' olarak nitelendirdi",
+        "Putin Avrupa'nın 'utanç verici bir düşüş' yaşadığını ifade etti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
+      "publishedAt": "2026-11-18T07:50:47.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/cop31de-depozito-yonetim-sistemi-dunyaya-tanitiliyor-7702841",
@@ -2007,7 +2057,8 @@
       "externalUrl": "https://www.dw.com/tr/berlin-onur-yürüyüşü-ne-saldırının-faili-hapisteyken-almanya-dan-devlet-yardımı-aldı/a-79972270?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-17T15:36:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T08:24:59.486Z"
     },
     {
       "id": "https://www.sabah.com.tr/dunya/son-dakika-i-rusyada-askeri-nakliye-ucagi-dustu-17-kisi-hayatini-kaybetti-7703795",
