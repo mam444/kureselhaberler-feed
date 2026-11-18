@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-18T10:35:02.030Z",
+  "generatedAt": "2026-11-18T10:54:52.817Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/israil-parlamentosunda-denge-degisti-netanyahu-donemi-yasalarina-ilk-hamle-7703048",
+      "headline": "İsrail parlamentosunda denge değişti: Netanyahu dönemi yasalarına ilk hamle!",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1628495041345-192d4fbabe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8JUM0JUIwc3JhaWwlMjBwYXJsYW1lbnRvc3VuZGElMjBkZW5nZSUyMGRlJUM0JTlGaSVDNSU5RnRpJTNBJTIwTmV0YW55YWh1JTIwZCVDMyVCNm5lbWklMjB5YXNhbGFyJUM0JUIxbmElMjBpbGslMjBoYW1sZSUyMXxlbnwxfDB8fHwxNzk0OTk5Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Christelle Hayek",
+        "photographerUrl": "https://unsplash.com/@christellehayek",
+        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-PDEbVSRG-Cg"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "İsrail devlet televizyonu KAN'ın haberine göre, Yashar Partisi lideri Gadi Eisenkot öncülüğündeki \"değişim bloğu\", Genel Kurul oturumunun gündemini belirleyerek yeni yasa tasarılarını gündeme getirdi. İsrail Meclisi'ndeki komisyonları ele geçirmesinin ardından Yashar Partisi'nden Matan Kahana'nın Meclis Başkanı seçilmesiyle parlamentoda hakimiyeti ele geçiren değişim bloğu, ilk olarak Netanyahu'nun tartışmalı yargı…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/israil-parlamentosunda-denge-degisti-netanyahu-donemi-yasalarina-ilk-hamle-7703048",
+      "publishedAt": "2026-11-18T10:51:13.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
+      "headline": "ABD, vakaların artmasıyla kızamıktan arındırılmış statüsünü kaybetti",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWVhc2xlcyUyMHZpcnVzfGVufDF8MHx8fDE3OTQ5OTkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fusion Medical Animation",
+        "photographerUrl": "https://unsplash.com/@fusion_medical_animation",
+        "unsplashUrl": "https://unsplash.com/photos/visualization-of-the-coronavirus-causing-covid-19-rnr8D3FNUNY"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Pan American Health Organization Salı günü yaptığı açıklamada, ABD'nin 26 yılın ardından kızamıktan arındırılmış zor kazandığı statüsünü kaybettiğini duyurdu. Açıklamaya göre bu gelişmenin nedeni, ülkenin son bir yılı aşkın süredir son derece bulaşıcı olan virüsün sürekli yayılmasını durdurmada başarısız olması gösterildi.\n\nDünya Sağlık Örgütü'nün Amerika kolu, ABD'nin yanı sıra Bolivya ve Meksika'nın da kızamıktan arındırılmış statülerini kaybettiğini bildirdi.",
+      "highlights": [
+        "ABD, 26 yılın ardından kızamıktan arındırılmış statüsünü kaybetti.",
+        "Pan American Health Organization, ülkenin virüsün yayılmasını durdurmada başarısız olduğunu belirtti.",
+        "Bolivya ve Meksika da kızamıktan arındırılmış statülerini kaybetti."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
+      "publishedAt": "2026-11-18T10:50:41.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/konyada-otomobil-menfez-duvarina-carpti-3-olu-4873927",
       "headline": "Konya'da menfez duvarına çarpan otomobilde 3 kişi hayatını kaybetti",
@@ -132,14 +174,15 @@
       "timeAgo": "21 dk önce",
       "body": "ABD Başkanı Donald Trump, salı günü yaptığı açıklamada, İran'ın Washington'da kirli bomba saldırısı planlıyor olabileceği yönündeki iddiaları ciddiye aldıklarını belirtti. Bu açıklama, Trump'ın ABD istihbarat değerlendirmelerine dayandırılan bir CNN haberine ilişkin sorulan soruları yanıtlamasının ardından geldi.\n\nSöz konusu iddialar, salı günü X platformu üzerinden açıklama yapan İran Dışişleri Bakanlığı sözcüsü tarafından reddedildi. Bakanlık sözcüsü, iddiaların \"temelsiz\" olduğunu ifade etti.",
       "highlights": [
-        "Trump, İran'ın Washington'da kirli bomba saldırısı planlayabileceği iddialarını ciddiye aldıklarını söyledi.",
-        "Açıklama, ABD istihbarat değerlendirmelerine dayanan bir CNN haberinin ardından geldi.",
-        "İran Dışişleri Bakanlığı sözcüsü iddiaları X üzerinden yalanlayarak temelsiz olarak nitelendirdi."
+        "Trump, İran'ın Washington'da kirli bomba planladığı iddialarını ciddiye aldıklarını söyledi.",
+        "Açıklama, bir CNN haberinin sorulması üzerine yapıldı.",
+        "İran Dışişleri Bakanlığı sözcüsü iddiaları temelsiz bularak reddetti."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
       "publishedAt": "2026-11-18T10:13:52.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T10:54:42.397Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/usak-valiliginden-cocuklara-hz-muhammedin-hayatini-anlatan-kitap-armagani-4873908",
@@ -2475,16 +2518,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-wall-A8BWoNvljVA"
       },
       "timeAgo": "9 dk önce",
-      "body": "CHP, il ve ilçe kongreleri takviminde değişikliğe gitti. Parti yönetiminin kararıyla üye çizelgelerinin askı süresi uzatılırken, ilçe kongrelerinin 27 Şubat ve il kongrelerinin 3 Nisan 2027 tarihlerinde başlaması kararlaştırıldı.",
+      "body": "Cumhuriyet Halk Partisi (CHP) Genel Merkezi, il ve ilçe kongrelerine ilişkin takvimde değişikliğe gitti. 11 Kasım'da gerçekleştirilen Merkez Yönetim Kurulu (MYK) toplantısında alınan kararlar doğrultusunda revize edilen takvim, 17 Kasım 2026 tarihinde il ve ilçe başkanlıklarına gönderilen yazıyla bildirildi. Düzenlemenin, örgütlerden gelen yoğun talepler üzerine yapıldığı belirtildi.\n\nAlınan kararla birlikte üye çizelgelerinin askıya çıkarılma süresi uzatıldı. Yeni takvime göre üye çizelgeleri, 12 Kasım 2026 ile 16 Ocak 2027 tarihleri arasında yedi gün süreyle askıya çıkarılacak. Askı sürecinde yapılacak itirazlar ilçe yönetim kurullarınca değerlendirilirken, bu kararlara yönelik itirazlar il yönetim kurullarında sonuçlandırılacak. Kesin üye çizelgelerinin gönderilmesine 25 Kasım'da başlanacak.\n\nGüncellenen takvime göre ilçe kongresi delege seçimleri 28 Kasım 2026 tarihinde başlayacak ve 21 Şubat 2027'de tamamlanacak. Kesin üye çizelgelerinin ilçe başkanlıklarına gönderilmesi için son tarih ise 24 Ocak 2027 olarak belirlendi.\n\nİlçe kongrelerinin 27 Şubat 2027 tarihinde başlaması ve 28 Mart 2027'de sona ermesi kararlaştırıldı. İlçe kongrelerinin tamamlanmasının ardından ise il kongreleri süreci devreye girecek.\n\nCHP'nin yayımladığı güncel takvime göre il kongreleri 3 Nisan 2027'de başlayacak ve 2 Mayıs 2027'de tamamlanacak. Kongre süreçlerinin ardından yapılacak olan kurultayın tarihi ise Parti Meclisi tarafından belirlenecek.",
       "highlights": [
-        "İl ve ilçe kongre takvimi değiştirildi",
-        "Üye çizelgelerinin askı süresi uzatıldı",
-        "İlçe kongreleri 27 Şubat, il kongreleri 3 Nisan 2027'de başlayacak"
+        "CHP il ve ilçe kongre takvimini güncelledi.",
+        "Üye çizelgelerinin askı süreci 16 Ocak 2027'ye kadar uzatıldı.",
+        "İlçe kongreleri 27 Şubat'ta, il kongreleri ise 3 Nisan 2027'de başlayacak."
       ],
       "externalUrl": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
       "publishedAt": "2026-11-17T15:46:40.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T10:54:42.397Z"
     },
     {
       "id": "https://www.trthaber.com/haber/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz-963591.html",
@@ -3543,15 +3587,20 @@
       "headline": "8.kattan düşüp mucize şekilde hayatta kalmıştı: Üniversite öğrencisinin ilk sözleri ortaya çıktı!",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1652020089052-e16f4b760d33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8OC5rYXR0YW4lMjBkJUMzJUJDJUM1JTlGJUMzJUJDcCUyMG11Y2l6ZSUyMCVDNSU5RmVraWxkZSUyMGhheWF0dGElMjBrYWxtJUM0JUIxJUM1JTlGdCVDNCVCMSUzQSUyMCVDMyU5Q25pdmVyc2l0ZSUyMCVDMyVCNiVDNCU5RnJlbmNpc2luaW4lMjBpbGslMjBzJUMzJUI2emxlcmklMjBvcnRheWElMjAlQzMlQTclQzQlQjFrdCVDNCVCMSUyMXxlbnwxfDB8fHwxNzk0OTk5MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rafli Firmansyah",
+        "photographerUrl": "https://unsplash.com/@flxraf",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-9Ng-h9DU7TI"
+      },
       "timeAgo": "4 dk önce",
       "body": "HABER MERKEZİ/ Olay, Georgia Üniversitesi öğrencisi Kristin Sargent’ın arkadaşlarıyla birlikte bir futbol maçını izledikten sonra eve dönüp eğlenmeye devam ettiği 26 Eylül akşamı meydana geldi. Athens-Clarke County Polisi tarafından aylar sonra paylaşılan görüntüler ve tanık ifadeleri, korkunç kazanın nasıl gerçekleştiğini gözler önüne serdi. DİNLEDİĞİ ŞARKI MANİDARDI Ev arkadaşlarının polise verdiği ifadeye göre,…",
       "highlights": [],
       "externalUrl": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
       "publishedAt": "2026-11-17T07:00:58.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T10:54:42.397Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/adanada-soba-satislari-artti-modeller-degisti-4873319",
