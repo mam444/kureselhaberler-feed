@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-18T06:54:28.306Z",
+  "generatedAt": "2026-11-18T07:04:37.978Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/aihmden-can-atalay-karari-1751399",
+      "headline": "AİHM'den Can Atalay kararı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1743576625929-c6c087195dd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QSVDNCVCMEhNJTI3ZGVuJTIwQ2FuJTIwQXRhbGF5JTIwa2FyYXIlQzQlQjF8ZW58MXwwfHx8MTc5NDk4NTQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Otabek Ismoilov",
+        "photographerUrl": "https://unsplash.com/@mountops",
+        "unsplashUrl": "https://unsplash.com/photos/rolling-hills-and-a-small-village-are-visible-BQ4m_wSV8Ww"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Avrupa İnsan Hakları Mahkemesi (AİHM), Can Atalay için hak ihlali kararı verdi. Kararda, Atalay'ın serbest bırakılması ve milletvekilliği görevine döndürülmesi gerektiği belirtildi. AİHM; Gezi Parkı davası kapsamında tutuklu bulunan Can Atalay'ın serbest bırakılmasına, milletvekilliği görevine döndürülmesine ve Türkiye'nin Atalay'a manevi tazminat ödemesine hükmetti. Avukat Can Atalay, Gezi Parkı eylemleriyle ilgili…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/aihmden-can-atalay-karari-1751399",
+      "publishedAt": "2026-11-18T07:02:26.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/milyonluk-luks-araclarina-ve-eglence-merkezlerine-el-konulmustu-cobanlarin-lideri-yakalandi-1751404",
       "headline": "Milyonluk lüks araçlarına ve eğlence merkezlerine el konulmuştu: Çobanlar'ın lideri yakalandı",
@@ -14,10 +33,38 @@
       },
       "timeAgo": "1 dk önce",
       "body": "Ankara'da uyuşturucu ticaretinden elde edilen suç gelirini akladıkları belirlenen Çobanlar Grubu olarak bilinen çetenin firari lideri yakalandı. Ankara'da uyuşturucu ticaretinden elde edilen suç gelirini akladığı belirlenen Çobanlar Grubu'nun firari lideri gözaltına alındı. Ankara Cumhuriyet Başsavcılığı koordinesinde Narkotik Suçlarla Mücadele Şube Müdürlüğü tarafından uyuşturucu ticaretinden elde edilen suç…",
-      "highlights": [],
+      "highlights": [
+        "Çobanlar Grubu'nun firari lideri B.Ç. yakalandı",
+        "18 araç, 12 gayrimenkul ve çeşitli eğlence merkezlerine el konulmuştu",
+        "Şirketlerin toplam işlem hacminin 10 milyar 308 milyon 821 bin 634 lira olduğu belirlendi"
+      ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/milyonluk-luks-araclarina-ve-eglence-merkezlerine-el-konulmustu-cobanlarin-lideri-yakalandi-1751404",
       "publishedAt": "2026-11-18T06:53:20.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T07:04:26.681Z"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+      "headline": "Büyük İnşaat Projesindeki Yolsuzluk Soruşturmasında Sahte Fatura İddiası",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1599707254554-027aeb4deacd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y29uc3RydWN0aW9uJTIwc2l0ZSUyMGlucXVpcnl8ZW58MXwwfHx8MTc5NDk4NTQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Frames For Your Heart",
+        "photographerUrl": "https://unsplash.com/@framesforyourheart",
+        "unsplashUrl": "https://unsplash.com/photos/yellow-crane-near-building-during-daytime-VoI2jd75M6Q"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Victoria eyaletindeki inşaat sektöründe yolsuzluk iddialarını araştıran kraliyet komisyonunda, eski CFMEU sağlık ve güvenlik temsilcisi ve Bandidos çetesi üyesi Joel Leavitt ikinci gün ifadesini verdi. Komisyonda, Leavitt'in bir Big Build şantiyesinde çalışırken sahte 20.000 dolarlık souvlaki faturası kullanarak binlerce doları cebe indirdiği iddiası ele alındı.\n\nSoruşturma sırasında, Leavitt ve Charles Farrugia adlı diğer bir kişinin 2023 yılında şantiyede çalıştıkları dönemde değiştirdikleri mesajlar gösterildi. Mesajlarda Leavitt'in \"20K'ye ulaşan sahte bir teklif uydurun\" ifadelerini kullandığı görüldü. Komisyon, yaklaşık 9.000 dolarlık gerçek bir yemek faturası ile Acciona firmasından şantiye müdürü Tim Alford'a gönderilen 20.000 dolarlık sahte faturayı inceledi. Komiser Chris Kourakis, bu kanıtların iki temsilcinin çalışanlar için yemek organize edip kişi başı 5.000 dolar cebe indirdiğini gösterdiğini belirtti. Leavitt ise bu iddiaya şaşırmayacağını ifade etti.\n\nKomisyon ayrıca, Leavitt'in şirketine ödenen 165.000 dolarlık bir faturayı da inceledi. Leavitt, Temmuz 2025'te sendika bağlantılı taşeron firma BK Labour Hire tarafından şirketi JVL Consulting'e yapılan ödemeyi hatırlamadığını söyledi. BK Labour Hire yöneticisi Bernard Kearney, Leavitt'in herhangi bir çalışma yapmamasına rağmen faturayı ödediğini kabul etti. Komisyon avukatı Chris Carr, ödemenin şiddet korkusuyla veya bilgi saklamak amacıyla yapılmış olabileceğini öne sürdü, ancak Kearney bu iddiaları reddetti.\n\nİfade sırasında hafıza sorunları yaşadığını belirten Leavitt, ADHD'sinin yanı sıra May 2023'te vurulmasından kaynaklı TSSB yaşadığını ve hakkında ölüm emri verildiğini söyledi. Komisyonun uyarısı ve avukatlarıyla görüşmesinin ardından Leavitt, JVL Consulting'in güvenlik danışmanlığı sağladığını ifade etti. Komiser Kourakis, Leavitt'in para için şirkete baskı yapmış olabileceğini belirtirken, Leavitt avukatıyla görüşmeden bu soruya yanıt vermemeyi tercih etti. Soruşturma devam ediyor.",
+      "highlights": [
+        "Joel Leavitt, sahte 20.000 dolarlık yemek faturası kullanarak para cebe indirdiğini kabul etti.",
+        "Eski şirketine ödenen 165.000 dolarlık fatura karşılığında herhangi bir hizmet verilmediği belirtildi.",
+        "Komisyon, Leavitt'in şirkete yönelik baskı uygulayıp uygulamadığını soruşturuyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
+      "publishedAt": "2026-11-18T06:48:28.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -109,7 +156,8 @@
       "externalUrl": "https://www.france24.com/en/tv-shows/sports/20261118-2027-afcon-qualifiers-senegal-and-5-other-nations-secure-spot",
       "publishedAt": "2026-11-18T06:30:56.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T07:04:26.681Z"
     },
     {
       "id": "https://www.yenisafak.com/video/hayat/spil-daginda-buyuleyen-manzara-bulut-denizi-havadan-goruntulendi-4873730",
@@ -1977,15 +2025,20 @@
       "headline": "Rights court rules Turkey must release jailed lawmaker Atalay",
       "source": "DW English",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1716560899460-1986f6e221f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8UmlnaHRzJTIwY291cnQlMjBydWxlcyUyMFR1cmtleSUyMG11c3QlMjByZWxlYXNlJTIwamFpbGVkJTIwbGF3bWFrZXIlMjBBdGFsYXl8ZW58MXwwfHx8MTc5NDk4NTQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Grace Mooney",
+        "photographerUrl": "https://unsplash.com/@mooney222",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-turkey-with-a-blue-and-red-head-ISwDkTCqVvo"
+      },
       "timeAgo": "19 dk önce",
       "body": "The European Court of Human Rights has called for the release of imprisoned elected lawmaker Can Atalay. Atalay has been in prison for almost five years despite rulings from the Turkish Constitutional Court.",
       "highlights": [],
       "externalUrl": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
       "publishedAt": "2026-11-17T15:47:00.000Z",
       "category": "World",
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-18T07:04:26.681Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
@@ -11011,29 +11064,6 @@
       "externalUrl": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-11T11:40:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-11-11-2026-3491430",
-      "headline": "Marmara bölgesinde hava durumu: Edirne'de sağanak etkili oluyor",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1610901342861-e472a8c248b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cmFpbnklMjBzdHJlZXR8ZW58MXwwfHx8MTc5NDM3MTQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dana Marin (Amsterdamian)",
-        "photographerUrl": "https://unsplash.com/@amsterdamian",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-with-bicycle-parked-on-sidewalk-during-daytime-O-wN5LK8Q3k"
-      },
-      "timeAgo": "şimdi",
-      "body": "Yurt genelinde mevsim normallerinde seyreden hava koşulları, özellikle batı bölgelerinde günlük yaşamı ve dış mekan faaliyetlerini yakından ilgilendirmeye devam ediyor. Meteorolojik verilere göre, Türkiye'nin en stratejik ve nüfus yoğunluğu yüksek bölgelerinden biri olan Marmara Bölgesi genelinde hava durumu son değerlendirmelere göre şekilleniyor. Bölge genelinde hakim olan atmosferik koşullar, gökyüzünün genellikle parçalı bulutlu bir görünüm sergilemesine zemin hazırlıyor.\n\nBölgenin tamamında benzer bir meteorolojik görünüm hakim olmakla birlikte, yerel bazda bazı farklılıklar da göze çarpıyor. Özellikle Trakya kesiminde yer alan Edirne ve çevresinde, gökyüzündeki bulutlanmanın yoğunlaşmasıyla birlikte sağanak yağış geçişleri de etkisini gösteriyor. Kent merkezinde ve civar ilçelerde yaşayan vatandaşlar, ani bastıran bu yağışlara karşı tedbirli olmaya özen gösteriyor.\n\nSıcaklık değerleri açısından bakıldığında, Marmara Bölgesi genelinde gündüz saatlerinde ölçülen termometre seviyeleri bahar aylarını andıran bir tablo sunuyor. Yapılan ölçümlere göre, günün en sıcak saatlerinde hava sıcaklıkları 15 ile 20 derece arasında değişen değerlerde seyrediyor. Bu ılıman hava, bölge halkının günlük planlarını yapmasında belirleyici bir unsur olarak öne çıkıyor.\n\nBölge genelindeki parçalı bulutlu hava örtüsü, güneşin kendini zaman zaman göstermesine olanak tanırken, Edirne dolaylarındaki yağışlı sistem yerel hayatı ve tarımsal faaliyetleri de yakından etkiliyor. Yetkililer, ani hava değişimlerine ve yerel sağanak geçişlerine karşı bölge sakinlerinin dikkatli olması yönündeki bilgilendirmelerini sürdürüyor.",
-      "highlights": [
-        "Marmara Bölgesi genelinde parçalı bulutlu bir hava hakim.",
-        "Edirne ve çevresinde yerel sağanak yağışlar etkisini sürdürüyor.",
-        "Gündüz saatlerinde sıcaklıklar 15 ile 20 derece arasında ölçülüyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-11-11-2026-3491430",
-      "publishedAt": "2026-11-11T07:04:00.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
