@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T05:34:31.185Z",
+  "generatedAt": "2026-11-18T05:42:27.136Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
+      "headline": "İsrail basınından '54 kübitlik Türk canavarı' analizi: Sırrımız tehlikede",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cXVhbnR1bSUyMGNvbXB1dGVyfGVufDF8MHx8fDE3OTQ5ODA1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ilya Pavlov",
+        "photographerUrl": "https://unsplash.com/@ilyapavlov",
+        "unsplashUrl": "https://unsplash.com/photos/monitor-showing-java-programming-OqtafYT5kTw"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "İsrail'in Tel Aviv merkezli Maariv gazetesinde yayımlanan bir analizde, Türkiye'nin teknoloji alanındaki yeni adımları ele alındı. Haberde, Türkiye'nin kuantum bilgisayar yatırımının bölgedeki istihbarat dengelerini değiştirebileceği öne sürüldü. Maariv, bu gelişmeyi \"İsrail'in saklı tuttuğu sır tehlikede\" ifadeleriyle duyurdu.\n\nSanayi ve Teknoloji Bakanı Mehmet Fatih Kacır'ın duyurduğu proje çerçevesinde, Türkiye'nin en büyük kuantum bilgisayarının TÜBİTAK bünyesinde kurulması hedefleniyor. Türkiye'nin 2027 yılında faaliyete geçirmeyi planladığı 54 kübit kapasiteli IQM Radiance R3 sistemi, İsrail basınında \"54 kübitlik Türk canavarı\" başlığıyla yer buldu. Analizde, bu yatırımın bölgesel rekabet, siber güvenlik ve istihbarat dengeleri açısından değerlendirildiği aktarıldı.\n\nİsrail gazetesi, kurulacak altyapının yalnızca bir bilgisayar yatırımından ibaret olmadığını belirtti. Bu sistemle Türkiye'nin araştırma kapasitesini geliştirmesi, bilgi birikimini artırması ve fikri mülkiyet hakları üzerinde kontrol sahibi olmasının amaçlandığı ifade edildi. Ayrıca yapay zeka, siber güvenlik, ileri malzeme teknolojileri ve karmaşık hesaplama problemlerinin çözümü için yeni algoritmalar ile yazılımlar geliştirilmesinin planlandığı kaydedildi.\n\nJeopolitik yorumcu Peter Germanus, kuantum hesaplama alanına yapılan bu yatırımın gelecekte İsrail ile Türkiye arasındaki teknolojik ve istihbarat rekabetini etkileyebileceğini savundu. Türkiye'nin İsrail'den önce şifreleme sistemlerini kırabilecek kapasiteye ulaşması durumunda bunun Orta Doğu'daki güç ve istihbarat dengelerini değiştirebileceği uyarısında bulunuldu. Maariv, İsrail'in Aralık 2024'te tanıtılan ve 20 kübit kapasiteye sahip olduğu belirtilen ilk yerli kuantum bilgisayarına da haberinde yer verdi.",
+      "highlights": [
+        "Türkiye'nin 2027'de 54 kübit kapasiteli IQM Radiance R3 sistemini faaliyete geçirmesi planlanıyor.",
+        "Maariv gazetesindeki analizde, yatırımın İsrail ile istihbarat ve teknoloji rekabetini etkileyebileceği öne sürüldü.",
+        "İsrail'in ilk yerli kuantum bilgisayarının 20 kübit kapasiteye sahip olduğu aktarıldı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
+      "publishedAt": "2026-11-18T05:38:42.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/18/nvidia-geliri-iki-kattan-fazla-artti-beklentileri-asti-yonetim-huangi-ceoluga-dondurmeyece",
       "headline": "Nvidia geliri iki kattan fazla arttı, beklentileri aştı: yönetim Huang'ı CEO'luğa döndürmeyecek",
@@ -21,6 +44,28 @@
       ],
       "externalUrl": "https://tr.euronews.com/2026/11/18/nvidia-geliri-iki-kattan-fazla-artti-beklentileri-asti-yonetim-huangi-ceoluga-dondurmeyece",
       "publishedAt": "2026-11-18T05:32:22.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+      "headline": "Rafael Grossi'nin BM Genel Sekreterliği Adaylığı ve Trump Desteği Tartışması",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1716543999896-e9c62aff2f29?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8UmFmYWVsJTIwR3Jvc3NpfGVufDF8MHx8fDE3OTQ5ODA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kelly Chiang",
+        "photographerUrl": "https://unsplash.com/@duoning",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-white-building-with-a-fence-around-it-gbNjSBTP2N4"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Uluslararası nükleer denetim kurumu başkanı Rafael Grossi'nin Birleşmiş Milletler (BM) liderliği için aday olmak istediği belirtiliyor. Nükleer gözlemcinin başındaki isim, teknik olarak yetkin bir figür olarak görülüyor. Bununla birlikte, BM'nin reform süreçlerine dair planlarının ne olacağı konusunda bazı soru işaretleri varlığını koruyor.\n\nÖte yandan, Amerika Birleşik Devletleri Başkanı Donald Trump'ın olası desteğinin Grossi'nin bu konumu elde etme şansını nasıl etkileyeceği merak konusu olmaya devam ediyor. Kaynaklarda yer alan bilgilere göre, Trump'tan gelecek olası bir desteğin Grossi'nin şansını olumlu mu yoksa olumsuz mu etkileyeceği henüz netlik kazanmış değil.\n\nGrossi'nin teknik yetkinliği uluslararası alanda kabul görse de, küresel teşkilatın yapısında yapmayı düşündüğü olası değişiklikler ve reformlar eleştirmenlerin ve gözlemcilerin dikkatle incelediği konular arasında yer alıyor.",
+      "highlights": [
+        "Nükleer gözlemci başkanı Rafael Grossi BM genel sekreteri olmak istiyor.",
+        "Grossi teknik olarak yetkin görülüyor ancak BM reform planları soru işareti yaratıyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+      "publishedAt": "2026-11-18T05:24:02.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -1068,11 +1113,12 @@
       "publishedAt": "2026-11-17T16:24:00.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T18:14:25.354Z"
+      "imageSearchAttemptedAt": "2026-11-17T18:14:25.354Z",
+      "sourceTextAttemptedAt": "2026-11-18T05:42:11.024Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/cmp3vz0z4zrno?at_medium=RSS&at_campaign=rss",
-      "headline": "Sözcü TV'nin Yayınları Durduruldu ve Kayyum Atandı",
+      "headline": "Sözcü TV ve sozcu.com.tr'ye kayyum atandı, yayınlar geçici olarak durduruldu",
       "source": "BBC Türkçe",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": "https://images.unsplash.com/photo-1651465531201-7e430660fd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dGVsZXZpc2lvbiUyMHN0dWRpb3xlbnwxfDB8fHwxNzk0OTMyNjc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -1082,16 +1128,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-room-with-a-camera-and-equipment-qhamVJdrkRs"
       },
       "timeAgo": "4 dk önce",
-      "body": "Sözcü TV ve sozcu.com.tr'nin yayınları düzenlenen operasyon sonrasında durduruldu. İki yayın organının bağlı olduğu Mega Ajans ve Reklamcılık Ticaret AŞ'ye Tasarruf Mevduatı Sigorta Fonu kayyum olarak atandı. 2023 yılında kurulan kanal, muhalif çizgisiyle Türkiye'nin en çok izlenen kanalları arasında yer alıyordu.",
+      "body": "Sözcü TV ve sozcu.com.tr yayınları, günün ilk saatlerinde düzenlenen operasyonun ardından durduruldu. Tasarruf Mevduatı Sigorta Fonu (TMSF), bu iki yayın organının bağlı bulunduğu Mega Ajans ve Reklamcılık Ticaret AŞ'ye kayyum olarak atandı. İstanbul Cumhuriyet Başsavcılığı, kararın gerekçesini yurt dışında yaşayan Burak Akbay hakkında yürütülen terör soruşturması olarak açıkladı. Savcılık, Akbay'ın Sözcü yayınlarının sahibi olan şirketleri finanse ederek Gülen yapılanmasının medya ayağını yönettiğini öne sürdü. Soruşturma kapsamında Sözcü grubunun yöneticilerinin de aralarında bulunduğu dört kişi gözaltına alındı. Sözcü TV, saat 12.00'den itibaren kayyum yönetiminde tekrar yayına geçti.\n\nSözcü'nün avukatı Ersan Barkın, suçlamaların Yargıtay tarafından bozulmuş ve hukuka aykırılık tespit edilmemiş bir dosya üzerinden yapıldığını belirterek kayyum kararına tepki gösterdi. Avukat Barkın, Yargıtay'ın daha önce bozduğu ve suç olmadığını onadığı bir dosyaya istinaden Sözcü Grubu'nda arama yapıldığını ifade etti. Reuters Enstitüsü'nün 2026 yılı dijital habercilik raporuna göre Sözcü gazetesi Türkiye'nin en yüksek haftalık erişime sahip altıncı yayını konumunda bulunurken, sozcu.com.tr ise haftalık en çok ziyaretçi alan üçüncü yayın olarak yer alıyor. Son operasyonda gazeteye kayyum atanmazken, kardeş yayınlar Tavır ve Korkusuz gazetelerine de kayyum atanmadı.\n\nSözcü gazetesi 27 Haziran 2007'de iş insanı Burak Akbay tarafından kuruldu. Kısa sürede Türkiye'nin en yüksek tirajlı gazetelerinden biri haline gelen kurum, zamanla bünyesine internet sitesi ve televizyon kanalını da katarak faaliyetlerini sürdürdü. Burak Akbay hakkında 2017 yılında terör örgütü propagandası yapma suçlamasıyla yakalama kararı çıkarılmış, 2019'daki davada bazı yazar ve yöneticiler hapis cezası almıştı. Bu mahkumiyet kararları Yargıtay'da bozulmuş ve 5 Mart 2025'te yedi sanığın tamamı beraat etmişti.\n\nÖte yandan Sözcü TV, son dönemde çeşitli yasal ve idari süreçlerle de gündeme geldi. Radyo ve Televizyon Üst Kurulu (RTÜK), protestolarla ilgili yayınlar, canlı yayındaki açıklamalar ve fon soruşturmaları ile gazeteci Murat Ağırel'in tutuklanmasına ilişkin haberler nedeniyle kanala ekran karartma ve idari para cezaları vermişti. Ankara 25. İdare Mahkemesi, RTÜK'ün ekran karartma cezasıyla ilgili yürütmeyi durdurma kararı almıştı.",
       "highlights": [
-        "Sözcü TV ve sozcu.com.tr'nin yayınları durduruldu",
-        "Mega Ajans ve Reklamcılık Ticaret AŞ'ye TMSF kayyum atandı",
-        "Kanal 2023 yılında kurulmuştu"
+        "Sözcü TV ve sozcu.com.tr'ye TMSF kayyum olarak atandı",
+        "Soruşturmanın gerekçesi Burak Akbay hakkında yürütülen terör soruşturması olarak açıklandı",
+        "Sözcü'nün avukatı Ersan Barkın karara tepki gösterdi"
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cmp3vz0z4zrno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-17T16:20:46.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T05:42:11.024Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-vanda-deprem-mi-oldu-az-once-deprem-vanda-nerede-oldu-van-deprem-kandilli-ve-afad-son-depremler-listesi-17-kasim-2026-1751340",
@@ -1420,15 +1467,20 @@
       "headline": "Felç kalan kanserli anneye akılalmaz tuzak. Üvey oğlu tüm birikimini alıp kaçtı",
       "source": "NTV",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1665514894845-b33b5e239d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RmVsJUMzJUE3JTIwa2FsYW4lMjBrYW5zZXJsaSUyMGFubmV5ZSUyMGFrJUM0JUIxbGFsbWF6JTIwdHV6YWsuJTIwJUMzJTlDdmV5JTIwbyVDNCU5Rmx1JTIwdCVDMyVCQ20lMjBiaXJpa2ltaW5pJTIwYWwlQzQlQjFwJTIwa2ElQzMlQTd0JUM0JUIxfGVufDF8MHx8fDE3OTQ5ODA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "K D",
+        "photographerUrl": "https://unsplash.com/@aboutkimba",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-on-a-bench-wearing-masks-cZOZ_OYMjkQ"
+      },
       "timeAgo": "3 dk önce",
       "body": "İstanbul'da akciğer kanseri olan ve beyin ameliyatı sonrası felç kalan yaşlı kadın, üvey oğlunun kendisini dolandırdırdığını öne sürerek şikayetçi oldu.",
       "highlights": [],
       "externalUrl": "https://www.ntv.com.tr/turkiye/felc-kalan-kanserli-anneye-akilalmaz-tuzak-uvey-oglu-tum-birikimini-alip-kacti-1751332",
       "publishedAt": "2026-11-17T15:59:28.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T05:42:11.024Z"
     },
     {
       "id": "https://www.haberturk.com/spor/foto/besiktas-savunmadaki-problemini-pochettino-nun-dusunmedigi-matthijs-de-ligt-ile-cozmek-istiyor-3928040",
