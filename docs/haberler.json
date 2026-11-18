@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T09:14:30.637Z",
+  "generatedAt": "2026-11-18T09:24:43.277Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/azerbaycan-disisleri-bakani-bayramovdan-turkiye-aciklamasi-iliskiler-her-zamanki-gibi-saglam-7702902",
+      "headline": "Azerbaycan Dışişleri Bakanı Bayramov'dan Türkiye açıklaması: İlişkiler her zamanki gibi sağlam",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1758138118569-c23a62506a22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QXplcmJhaWphbiUyMFR1cmtleSUyMGZsYWdzfGVufDF8MHx8fDE3OTQ5OTM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zulfugar Karimov",
+        "photographerUrl": "https://unsplash.com/@zulfugarkarimov",
+        "unsplashUrl": "https://unsplash.com/photos/azerbaijan-and-turkey-flags-on-a-table-Es0SCe1Zc1Q"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Azerbaycan Dışişleri Bakanı Ceyhun Bayramov, Azerbaycan'da temaslarda bulunan Almanya Dışişleri Bakanı Johann Wadephul ile ortak basın toplantısı düzenledi. Basın toplantısında bir gazetecinin sorusunu yanıtlayan Bayramov, Azerbaycan ile Türkiye arasındaki bağları değerlendirdi. İki ülkenin kelimenin hakiki anlamında dost ve kardeş halklar arasında ilişkiler yürüttüğünü belirten Bayramov, en yüksek ve benzersiz yakınlık ilişkilerine sahip olduklarını ifade etti.\n\nBayramov, Şuşa Beyannamesi ile iki devletin ilişkilerinin müttefiklik düzeyine yükseltildiğini hatırlattı. Her toplumun kendi çizdiği yol olduğunu ve farklı görüşler seslendirilebileceğini kaydeden Bayramov, Azerbaycan'ın yaklaşımının net olduğunu vurguladı. Ülkesinin kendi kalkınma modeliyle ilerlediğini aktaran Bakan, Azerbaycan ile Türkiye arasındaki dostluk ve kardeşlik bağlarının şimdi de her zamanki gibi sağlam olduğunu ve gelecekte daha da sağlamlaşacağını dile getirdi.\n\nBakan Bayramov, Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan'ın 8 Kasım'da Azerbaycan'daki Zafer Günü etkinliklerine katıldığını belirtti. Erdoğan'ın bu ziyarette Cumhurbaşkanı İlham Aliyev ile birlikte hem iki ülkeye hem de dünyaya verdiği mesajların, ilişkilerin sağlamlığının en net kanıtı olduğunu sözlerine ekledi.",
+      "highlights": [
+        "Azerbaycan Dışişleri Bakanı Ceyhun Bayramov Türkiye ilişkilerini değerlendirdi",
+        "İki ülkenin Şuşa Beyannamesi ile ilişkilerini müttefiklik düzeyine yükselttiği hatırlatıldı",
+        "Erdoğan'ın Zafer Günü etkinliklerine katıldığı ifade edildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/azerbaycan-disisleri-bakani-bayramovdan-turkiye-aciklamasi-iliskiler-her-zamanki-gibi-saglam-7702902",
+      "publishedAt": "2026-11-18T09:23:00.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/tiktokta-sanal-askerlik-yapilmaya-baslandi-en-cok-hediyeyi-atan-komutan-oluyor-4873881",
       "headline": "Tiktok'ta 'sanal askerlik' yapılmaya başlandı : En çok hediyeyi atan komutan oluyor",
@@ -14,11 +37,16 @@
       },
       "timeAgo": "3 dk önce",
       "body": "TikTok’ta gelir elde etmek amacıyla düzenlenen canlı yayınlara eklenen sıra dışı konseptlere bir yenisi daha eklendi. Daha önce sanal halay, düğün konvoyu ve tavaf animasyonlarıyla gündeme gelen yayınlarda bu kez \"sanal askerlik\" formatı başlatıldı. Kullanıcıların yorum yazarak sanal orduya dahil olduğu akımda, gerçek parayla satın alınan sanal hediyelerden en fazlasını gönderen izleyici \"komutan\" unvanını kazanıyor.",
-      "highlights": [],
+      "highlights": [
+        "TikTok'ta 'sanal askerlik' adı verilen yeni bir canlı yayın konsepti başlatıldı.",
+        "Yayıncının ekranda kullandığı askerlik temalı animasyonlarla izleyiciler sanal bir ordunun parçası haline getiriliyor.",
+        "Yayıncıya en fazla sanal hediye gönderen izleyici yayında 'komutan' olarak ilan ediliyor."
+      ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/tiktokta-sanal-askerlik-yapilmaya-baslandi-en-cok-hediyeyi-atan-komutan-oluyor-4873881",
       "publishedAt": "2026-11-18T09:11:30.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T09:24:31.048Z"
     },
     {
       "id": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
@@ -34,12 +62,31 @@
       "timeAgo": "10 dk önce",
       "body": "İçişleri Bakanı Shabana Mahmood, Ulusal Polis Şefleri Konseyi'ne yapacağı konuşmada, polis memurlarının farklı gruplara farklı muamele yaptığı yönündeki endişeleri ele alacak. Mahmood, ülkedeki aşındırıcı ve büyüyen \"iki telli polislik\" algısıyla doğrudan mücadele edilmesi gerektiğini belirtti.\n\nMemurların çoğunluğunun tarafsız polislik yaptığına inandığını ifade eden Mahmood, polisin korkusuz ve kayırmasız hareket etmesinin temel inançları olduğunu kaydetti. Konuşmasında, polis kuvvetlerindeki siyah memur oranının düşüklüğünden duyduğu üzüntüyü dile getirecek olan bakan, aynı zamanda \"farklı muameleye\" yol açabilecek yanıltıcı düzeltme girişimlerine karşı da uyarıda bulunacak.\n\nMahmood, polis memurlarını \"aktivist gruplarla\" ilişki kurmaktan kaçınmaya çağırarak siyaseti siyasetçilere bırakmalarını isteyecek. Eşitlik arayışının bunun yerine farklı muameleye yol açtığı yanlış düzeltme çabalarına karşı dikkatli olunması gerektiğini vurgulayan Mahmood, adil polisliğin herkese aynı şekilde davranmak anlamına gelmediğini söylemenin halk için son derece saçma olduğunu ifade etti.",
       "highlights": [
-        "İçişleri Bakanı Shabana Mahmood iki telli polislik algısıyla mücadele edeceğini belirtti.",
-        "Polis memurlarını aktivist gruplarla ilişki kurmamaları konusunda uyardı.",
-        "Adil polisliğin herkese aynı şekilde davranmak anlamına gelmediğini söylemenin halk için saçma olduğunu ifade etti."
+        "Shabana Mahmood, çift kademeli polislik algısıyla mücadele etme sözü verdi.",
+        "Bakan, memurları aktivist gruplarla ilişki kurmamaları konusunda uyardı.",
+        "Eşitlik arayışının farklı muameleye yol açan girişimlerine karşı uyarıda bulunuldu."
       ],
       "externalUrl": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
       "publishedAt": "2026-11-18T09:04:03.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T09:24:31.048Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
+      "headline": "Paris Hilton ve AOC, Yapay Zeka Üretimi Deepfake'lere Karşı Açıklama Yaptı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "21 dk önce",
+      "body": "ABD Kongre Üyesi AOC ve televizyon kişiliği Paris Hilton, kadınları ve kız çocuklarını hedef alan yapay zeka ürünü deepfake'lere karşı ses yükseltti. İkili, bu tür içeriklerin yarattığı tehditlere dikkat çekerek konuyla ilgili ortak bir duruş sergiledi. Yapay zeka teknolojisinin kötüye kullanımının özellikle kadınlar ve kız çocukları üzerinde olumsuz etkiler oluşturduğu vurgulandı. Gerçekleştirilen bu açıklamalarla birlikte, deepfake teknolojisinin mağdurları üzerindeki etkilerine dair endişeler dile getirildi.",
+      "highlights": [
+        "ABD Kongre Üyesi AOC ve Paris Hilton deepfake'lere karşı konuştu",
+        "Hedefte kadınlar ve kız çocuklarını hedef alan yapay zeka ürünleri var"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
+      "publishedAt": "2026-11-18T09:03:05.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -2354,15 +2401,20 @@
       "headline": "İstanbul'da akşam saatlerinde yoğun trafik! Yüzde 76'ya ulaştı",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1734761654305-ad52f1608ce0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8JUM0JUIwc3RhbmJ1bCUyN2RhJTIwYWslQzUlOUZhbSUyMHNhYXRsZXJpbmRlJTIweW8lQzQlOUZ1biUyMHRyYWZpayUyMSUyMFklQzMlQkN6ZGUlMjA3NiUyN3lhJTIwdWxhJUM1JTlGdCVDNCVCMXxlbnwxfDB8fHwxNzk0OTkzODgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anil Baki Durmus",
+        "photographerUrl": "https://unsplash.com/@anldrms",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-a-tall-building-G6o_frpXC0o"
+      },
       "timeAgo": "12 dk önce",
       "body": "D-100 kara yolunun Avcılar, Küçükçekmece, Bahçelievler, Bakırköy ve Zeytinburnu kesimlerinde, ayrıca Beyoğlu ve Beşiktaş'taki caddelerde​​​​​​​ trafik yoğunluğu meydana geldi. TEM Otoyolu'nda, Esenler ve Bağcılar ile bağlantı yollarında ulaşımda aksamalar yaşanıyor. Anadolu Yakası'nda ise D-100 kara yolunda, Üsküdar, Kadıköy, Ataşehir, Maltepe, Kartal ve Pendik'te araçlar güçlükle seyrediyor. TEM Otoyolu'nda…",
       "highlights": [],
       "externalUrl": "https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-yogun-trafik-yuzde-76ya-ulasti-7702605",
       "publishedAt": "2026-11-17T15:12:37.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T09:24:31.048Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli-iste-iptal-edilen-seferler-7702600",
