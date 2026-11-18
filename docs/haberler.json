@@ -1,24 +1,75 @@
 {
-  "generatedAt": "2026-11-18T13:24:30.224Z",
+  "generatedAt": "2026-11-18T13:34:57.369Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/spor/milli-sporcular-ebru-acer-ve-abdullah-ozturk-tekler-kategorisinde-finale-cikti/4129402",
+      "headline": "Milli sporcular Ebru Acer ve Abdullah Öztürk, tekler kategorisinde finale çıktı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1611251135345-18c56206b863?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cGFyYSUyMHRhYmxlJTIwdGVubmlzfGVufDF8MHx8fDE3OTUwMDg4ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Lisa Keffer",
+        "photographerUrl": "https://unsplash.com/@likeffer",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-ball-and-white-golf-club-3B8nIiT-Pmc"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Dünya Para Masa Tenisi Şampiyonası'nda heyecan devam ediyor. Bu kapsamda organizasyonda mücadele eden milli sporculardan Ebru Acer ve Abdullah Öztürk, başarılı bir performans ortaya koydu. Karşılaşmalar sonucunda her iki milli sporcu da tekler kategorisinde adlarını finale yazdırmayı başardı. Sporcuların şampiyonadaki bu önemli başarısı dikkat çekerken, finallerde madalya için masaya çıkacakları belirtildi.",
+      "highlights": [
+        "Ebru Acer tekler kategorisinde finale çıktı.",
+        "Abdullah Öztürk tekler kategorisinde finale çıktı.",
+        "Milli sporcular Dünya Para Masa Tenisi Şampiyonası'nda mücadele ediyor."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/spor/milli-sporcular-ebru-acer-ve-abdullah-ozturk-tekler-kategorisinde-finale-cikti/4129402",
+      "publishedAt": "2026-11-18T13:30:37.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "headline": "Schumer, Peltola'nın Alaska zaferini 'tüm Amerika için bir hediye' olarak nitelendirdi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1499188073299-5bd9060e044b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VVMlMjBQb2xpdGljc3xlbnwxfDB8fHwxNzk1MDA4ODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Luke Michael",
+        "photographerUrl": "https://unsplash.com/@lukemichael",
+        "unsplashUrl": "https://unsplash.com/photos/blue-white-and-red-flag-Tdwu35bCUj0"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Alaska'da gerçekleştirilen seçimde Mary Peltola, Cumhuriyetçi rakibi Dan Sullivan'ı geride bırakarak Senato'daki sandalyeyi kazandı ve Demokratların Senato'da 56-44'lük çoğunluğa ulaşmasını sağladı. Ara seçimlerin üzerinden iki hafta geçtikten sonra gelen bu sonuç, Demokrat parti lideri tarafından sevinçle karşılandı.\n\nSenato'daki Demokrat lider Chuck Schumer, sosyal medyada yaptığı paylaşımda Peltola'nın zaferini Alaska, Senato ve tüm Amerika için bir hediye olarak nitelendirdi. Schumer, Peltola'nın Alaska'ya olan sevgisi ve bilgisinin eşsiz olduğunu belirterek, kampanyasını balık, aile ve özgürlük gibi konular üzerine kurduğunu ifade etti.\n\nPeltola, 2008 yılından bu yana eyalette Senato'ya seçilen ilk Demokrat isim oldu. Yapılan açıklamada, Washington'daki mevcut sistemin Alaska için çalışmadığını belirten Peltola, eyalet halkının desteğiyle yolsuzluklarla mücadele edeceğini ve çalışan aileler için sonuç üreteceğini kaydetti.\n\nAncak bu başarı bazı tartışmaları da beraberinde getirdi. Geçtiğimiz ay New York Times, Peltola'nın kampanya ekibinin oy pusulasına ikinci bir Cumhuriyetçi rakip sokmak için bir plan içinde olduğunu öne sürdü. Kampanya ekibi bu iddiaları reddederken, Donald Trump konunun soruşturulmasını talep etti ve Alaska'nın federal savcısı ile eyalet valiliği tarafından soruşturmalar başlatıldığı açıklandı.",
+      "highlights": [
+        "Mary Peltola, Alaska'da Cumhuriyetçi Dan Sullivan'ı yenerek Senato'yu kazandı.",
+        "Demokratların Senato'daki sandalye sayısı 56-44'lük çoğunluğa ulaştı.",
+        "Chuck Schumer, zaferi 'tüm Amerika için bir hediye' olarak tanımladı."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "publishedAt": "2026-11-18T13:23:23.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/18/trump-xi-ve-putin-ile-tarihi-uclu-zirve-icin-cinde",
       "headline": "Trump, Xi ve Putin ile tarihi üçlü zirve için Çin'de",
       "source": "Euronews",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1506158669146-619067262a00?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QVBFQyUyMHN1bW1pdCUyMENoaW5hfGVufDF8MHx8fDE3OTUwMDg4OTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hanny Naibaho",
+        "photographerUrl": "https://unsplash.com/@hannynaibaho",
+        "unsplashUrl": "https://unsplash.com/photos/oriental-pearl-tower-in-shanghai-during-daytime-mnyJEvSLtvk"
+      },
       "timeAgo": "2 dk önce",
       "body": "Çin Devlet Başkanı Xi Jinping, Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında ABD Başkanı Donald Trump'ı Shenzhen'de karşıladı. Zirvenin en önemli gündem maddelerinden biri, perşembe günü Trump, Rusya Devlet Başkanı Vladimir Putin ve Xi Jinping arasında gerçekleştirilecek üçlü görüşme olacak. Üç küresel gücün liderlerini bir araya getirecek bu toplantı, türünün ilk örneği olma özelliği taşıyor.\n\nXi Jinping, havalimanında Trump'ı sarılarak karşıladı. Bu jest, Trump'ın Xi'nin eylül ayında Washington'a gerçekleştirdiği devlet ziyareti sırasında Çin liderine gösterdiği karşılamaya bir karşılık olarak değerlendirildi. Putin'in çarşamba günü daha erken saatlerde Çin'e gelmesine rağmen Xi Jinping, uzun süredir olumlu ilişkiler yürüttüğü Rus lideri havalimanında karşılamadı. Trump, perşembe günü yapılacak üçlü görüşmede Xi ve Putin ile Rusya'nın Ukrayna'da sürdürdüğü savaşı sona erdirme konusunu ele almayı planladığını söyledi.\n\nPekin yönetimi APEC zirvesi kapsamındaki üçlü görüşmeyi \"dünya barışının korunması ve büyük güçler arasındaki ilişkilerde stratejik istikrarın geliştirilmesi konusunda derinlemesine görüş alışverişi\" olarak tanımladı. Putin ise zirvenin \"oldukça faydalı\" olmasını beklediğini belirtti. Putin, 2017'den bu yana ilk kez yüz yüze katıldığı APEC liderler toplantısı kapsamında çarşamba günü Çinli mevkidaşı Xi Jinping ile de bir araya geldi.\n\nÇin Devlet Başkanı Xi Jinping, çarşamba günü iş dünyası temsilcilerine hitaben yaptığı konuşmada, Asya-Pasifik bölgesinin istikrarlı ve dinamik yapısını koruyabilmesi için daha açık ticaret politikaları izlemesi gerektiğini ifade etti. Xi, Çin'in gümrük vergilerini düşürmekle kalmayıp kurallar ve standartlar gibi zorlu alanlarda da reform gerçekleştireceğini kaydetti. APEC bünyesindeki 21 ekonomi, küresel ekonomik faaliyetlerin yüzde 60'ını ve dünya ticaretinin yarısını oluşturuyor.",
       "highlights": [
-        "Trump, Xi ve Putin perşembe günü ilk kez üçlü bir görüşme gerçekleştirecek.",
-        "Zirvenin en önemli gündem maddeleri arasında Ukrayna'daki savaş ve küresel ticaret yer alıyor.",
-        "APEC ekonomileri küresel ekonomik faaliyetlerin yüzde 60'ını temsil ediyor."
+        "Çin Devlet Başkanı Xi Jinping, APEC zirvesi için Shenzhen'e gelen ABD Başkanı Donald Trump'ı havalimanında karşıladı.",
+        "Perşembe günü Trump, Rusya Devlet Başkanı Vladimir Putin ve Xi Jinping arasında türünün ilk örneği olan üçlü bir zirve gerçekleştirilecek.",
+        "Trump, üçlü görüşmede Rusya'nın Ukrayna'daki savaşını sona erdirme konusunu ele almayı planladığını belirtti."
       ],
       "externalUrl": "https://tr.euronews.com/2026/11/18/trump-xi-ve-putin-ile-tarihi-uclu-zirve-icin-cinde",
       "publishedAt": "2026-11-18T13:22:51.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T13:34:34.209Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/yeni-parti-izleme-komisyonuna-uye-vermeyecek-1751489",
@@ -111,7 +162,8 @@
       "externalUrl": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
       "publishedAt": "2026-11-18T13:02:33.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T13:34:34.209Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sinopta-tarihi-jandarma-binasi-halk-kutuphanesi-oluyor-4873992",
@@ -4321,15 +4373,20 @@
       "headline": "Dışişleri Bakanlığı: ITU Konsey üyeliği, Türkiye'ye bilim ve teknolojide duyulan güvenin teyididir",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677353682016-e89bc37442eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RCVDNCVCMSVDNSU5RmklQzUlOUZsZXJpJTIwQmFrYW5sJUM0JUIxJUM0JTlGJUM0JUIxJTNBJTIwSVRVJTIwS29uc2V5JTIwJUMzJUJDeWVsaSVDNCU5RmklMkMlMjBUJUMzJUJDcmtpeWUlMjd5ZSUyMGJpbGltJTIwdmUlMjB0ZWtub2xvamlkZSUyMGR1eXVsYW4lMjBnJUMzJUJDdmVuaW4lMjB0ZXlpZGlkaXJ8ZW58MXwwfHx8MTc5NTAwODg5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nk Ni",
+        "photographerUrl": "https://unsplash.com/@nkhasebe",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-large-turkey-flag-74WUjVENVmk"
+      },
       "timeAgo": "4 dk önce",
       "body": "Bakanlıktan yapılan açıklamada, Birleşmiş Milletler'in (BM) bilgi ve iletişim teknolojileri ile telekomünikasyon alanındaki uzman kuruluşu ITU'nun Katar'da gerçekleştirilen konsey seçimlerinde, Türkiye'nin üst üste 7. kez ITU konsey üyeliğine hak kazandığı hatırlatıldı. \"Söz konusu gelişme, bilim ve teknoloji alanında ülkemize uluslararası düzeyde duyulan güvenin güçlü bir teyididir.\" ifadesine yer verilen…",
       "highlights": [],
       "externalUrl": "https://www.milliyet.com.tr/gundem/disisleri-bakanligi-itu-konsey-uyeligi-turkiyeye-bilim-ve-teknolojide-duyulan-guvenin-teyididir-7702036",
       "publishedAt": "2026-11-16T19:30:59.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T13:34:34.209Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/feyyaz-serifoglu-allahin-selamini-vermek-gundem-oluyorsa-vay-halimize-4873176",
