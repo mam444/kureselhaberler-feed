@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-18T11:05:11.761Z",
+  "generatedAt": "2026-11-18T11:45:03.122Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/18/javada-kritik-guvenlik-acigi-abdli-calif-yapay-zeka-ile-kesfetti",
+      "headline": "Java'da kritik güvenlik açığı: ABD'li Calif yapay zeka ile keşfetti",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SmF2YSUyMHByb2dyYW1taW5nJTIwc2VjdXJpdHl8ZW58MXwwfHx8MTc5NTAwMjI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Florian Olivo",
+        "photographerUrl": "https://unsplash.com/@florianolv",
+        "unsplashUrl": "https://unsplash.com/photos/lines-of-html-codes-4hbJ-eymZ1o"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Ekim ayında PHP açıklarının bulunmasına katkı sağlayan ABD merkezli güvenlik şirketi Calif, bu kez yapay zeka kullanarak popüler Java çalışma zamanı OpenJDK'de kritik bir güvenlik açığı tespit etti. Calif'in açıklamasına göre, salı günü Java'nın bellek işlevlerinde keşfedilen bu hata, saldırganların internet üzerinden parola veya oturum açma gerektirmeden savunmasız bilgisayar sunucularını tamamen ele geçirmesine yol açabiliyor.\n\nDünyanın en popüler üçüncü programlama dili olan Java, Fortune 500 şirketlerinin yüzde 90'ı tarafından kullanılıyor. Finans, bulut altyapıları, havacılık, telekomünikasyon, sağlık ve akıllı cihazlar dahil pek çok kritik sektörde Java tercih ediliyor. Calif, Java4Shell olarak tanımlanan bu açığı OpenJDK'nin Base64 çözücüsündeki bir bellek bozulması hatası olarak açıkladı. Hatanın, Base64 çözücüyü hızlandırmak amacıyla x86064 CPU talimatlarının kullanıldığı süreçte ortaya çıktığı belirtildi.\n\nSaldırganlar bu açık sayesinde belleğin üzerine yazan karışık kodlar göndererek Java'yı yetkili olduğuna inandırabiliyor. Bu durum korsanların zararlı yazılımlar çalıştırmasına ve bilgi teknolojileri mühendisleriyle aynı yetkilere sahip olarak hassas verileri tehlikeye atmasına zemin hazırlıyor.\n\nCalif, duyuruyu yapmadan önce yamaların hazırlanabilmesi amacıyla Five Eyes istihbarat ortakları (ABD, Kanada, İngiltere, Avustralya ve Yeni Zelanda) ile büyük bulut sağlayıcılarıyla koordinasyon kurdu. Avrupa'daki ulusal siber güvenlik otoriteleri de Oracle ve diğer açık kaynak geliştiricilerinden gelecek yamaların dağıtımını izlemek için acil müdahale ekiplerini koordine ediyor.",
+      "highlights": [
+        "ABD merkezli Calif şirketi, yapay zeka kullanarak OpenJDK'de kritik bir güvenlik açığı tespit etti.",
+        "Java4Shell adı verilen hata, saldırganların parola gerektirmeden sunucuları ele geçirmesine imkan tanıyor.",
+        "Yamaların hazırlanması için Five Eyes istihbarat ortakları ve bulut sağlayıcılarıyla koordinasyon sağlandı."
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/18/javada-kritik-guvenlik-acigi-abdli-calif-yapay-zeka-ile-kesfetti",
+      "publishedAt": "2026-11-18T11:42:54.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+      "headline": "Son Teknoloji Kesintilerinin Bağlantılı Olduğuna Dair Kanıt Yok, Dedi Rubio",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1752742111841-f490c48aa668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dGVjaG5vbG9neSUyMG91dGFnZXxlbnwxfDB8fHwxNzk1MDAyMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Stickling",
+        "photographerUrl": "https://unsplash.com/@stikkx",
+        "unsplashUrl": "https://unsplash.com/photos/servers-illuminate-a-futuristic-cityscape-with-a-data-center-ISP9CdRYS28"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "ABD Dışişleri Bakanı Marco Rubio, son dönemde yaşanan ve uçuşların durmasına, bankacılık ile iş erişiminin kısıtlanmasına yol açan bilişim teknolojileri kesintilerinin birbiriyle bağlantılı olduğuna veya kötü niyetli aktörlerin işi olduğuna dair \"sıfır kanıt\" bulunduğunu açıkladı. Filipinler'deki Solaire Resort'ta basın mensuplarına konuşan Rubio, ABD'nin \"sistematik bir saldırı altında olmadığını\" belirtti.\n\nSon günlerde Microsoft, büyük ABD bankaları, Apple, Amerikan hava trafik kontrol sistemleri ve Ulusal Güvenlik Ajansı (NSA) teknik arızalardan ve kesintilerden etkilendi. Rubio, olayların siber korsanlar, suçlular ya da başka bir ulus devletle bağlantılı olduğuna dair hiçbir neden bulunmadığını vurguladı.\n\nABD Ulusal İstihbarat Direktörü Jay Clayton, bu olayların planlanandan uzun süren veya beklenmeyen aksaklıklarla karşılaşan güvenlik güncellemelerinden kaynaklandığını bildirdi. Siber güvenlik uzmanı Tal Be'ery ise olayların doğrudan bağlantılı olmadığını ancak ortak bir temanın yapay zeka olduğunu ifade etti.\n\nPerşembe günü Microsoft'un araçlarının çökmesiyle başlayan kesintiler zinciri, ertesi gün uçuşların durdurulmasına, ardından bankacılık işlemlerinde aksamalara, NSA'nın gizli haberleşme ağının çevrimdışı kalmasına ve Apple uygulamalarında sorun yaşanmasına neden oldu. Demokrat Senatör Mark Warner da kesintilerin koordineli bir çabadan ziyade sistemleri güvence altına alma girişimlerinden kaynaklandığı değerlendirmesini destekledi. Filipinler'de Donald Trump ile seyahat eden Rubio, açıklamalarını bu ziyaret sırasında yaptı. Trump ise kesintilerle ilgili endişeli olup olmadığına dair soruyu \"Hayatın olağan akışı\" şeklinde yanıtladı.",
+      "highlights": [
+        "ABD Dışişleri Bakanı Marco Rubio, teknoloji kesintilerinin bağlantılı olduğuna dair \"sıfır kanıt\" bulunduğunu söyledi.",
+        "Yetkililer, kesintilerin kötü niyetli saldırılardan değil, güvenlik güncellemelerinden kaynaklandığını belirtti.",
+        "Microsoft, ABD bankaları, Apple ve uçuş sistemleri son günlerde teknik arızalardan etkilendi."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
+      "publishedAt": "2026-11-18T11:35:36.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/spor/samsunspor-galatasaray-maci-hazirliklarini-surdurdu-4873950",
       "headline": "Samsunspor Galatasaray maçı hazırlıklarını sürdürdü",
@@ -15,14 +61,15 @@
       "timeAgo": "1 dk önce",
       "body": "Samsunspor, Süper Lig'in 12'nci haftasında deplasmanda Galatasaray ile oynayacağı karşılaşmanın hazırlıklarına devam etti. Kırmızı-beyazlı ekip, Nuri Asan Tesisleri'nde teknik direktör Nenad Bjelica yönetiminde çalıştı.\n\nAntrenman ısınma hareketleriyle başladı. Isınmanın ardından futbolcular tarafından dar alanda pas organizasyonları gerçekleştirildi. Çalışma, son bölümde yapılan şut çalışmasıyla sona erdi.\n\nSamsunspor, Galatasaray maçı hazırlıklarına yarın yapacağı antrenmanlarla devam edecek.",
       "highlights": [
-        "Samsunspor, Süper Lig'in 12'nci haftasında Galatasaray ile karşılaşacak.",
-        "Antrenman teknik direktör Nenad Bjelica yönetiminde Nuri Asan Tesisleri'nde yapıldı.",
-        "Çalışma ısınma hareketleri, pas organizasyonları ve şut çalışmasıyla tamamlandı."
+        "Samsunspor, Galatasaray maçı hazırlıklarını sürdürdü",
+        "Çalışmalar teknik direktör Nenad Bjelica yönetiminde Nuri Asan Tesisleri'nde yapıldı",
+        "Antrenman şut çalışmasıyla sona erdi"
       ],
       "externalUrl": "https://www.yenisafak.com/spor/samsunspor-galatasaray-maci-hazirliklarini-surdurdu-4873950",
       "publishedAt": "2026-11-18T11:03:47.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T11:44:42.673Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261118-turkish-pro-opposition-broadcaster-taken-off-air-after-police-raid",
@@ -38,14 +85,15 @@
       "timeAgo": "13 dk önce",
       "body": "Türk yetkililer, salı günü şafak vakti düzenlenen polis baskınıyla muhalefet yanlısı Sözcü TV'yi yayından kaldırdı. Savcılar, kanalın ve internet sitesinin yönetimi için bir kayyum atandığını belirtti.\n\nBu hamle, muhalefete yönelik baskıların genişletilmesi olarak değerlendirilirken, medya özgürlüğü konusundaki endişeleri de yeniden alevlendirdi. Söz konusu gelişme, uluslararası alanda ve medya çevrelerinde dikkat çekti. Olayla ilgili resmi makamlar tarafından yapılan açıklamalar ve gelişmeler takip edilmeye devam ediyor.",
       "highlights": [
-        "Türk yetkililer muhalefet yanlısı Sözcü TV'yi şafak baskınıyla yayından kaldırdı",
-        "Kanalı ve web sitesini yönetmek üzere kayyum atandı",
-        "Bu gelişme medya özgürlüğü hakkındaki endişeleri yeniden tırmandırdı"
+        "Türk makamları muhalefet yanlısı Sözcü TV'yi salı günü şafak vakti düzenlenen polis baskınıyla yayından kaldırdı.",
+        "Kanalı ve internet sitesini yönetmek üzere bir kayyım atandı.",
+        "Bu adım muhalefete yönelik baskıları artırırken medya özgürlüğü endişelerini yeniledi."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261118-turkish-pro-opposition-broadcaster-taken-off-air-after-police-raid",
       "publishedAt": "2026-11-18T10:51:55.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T11:44:42.673Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/israil-parlamentosunda-denge-degisti-netanyahu-donemi-yasalarina-ilk-hamle-7703048",
@@ -3675,15 +3723,20 @@
       "headline": "Modifiye tutkusu yüzünden ceza yedi! Sürücü tutanakla fotoğraf çektirdi",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1665032271037-ebf9521b7b37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TW9kaWZpeWUlMjB0dXRrdXN1JTIweSVDMyVCQ3olQzMlQkNuZGVuJTIwY2V6YSUyMHllZGklMjElMjBTJUMzJUJDciVDMyVCQ2MlQzMlQkMlMjB0dXRhbmFrbGElMjBmb3RvJUM0JTlGcmFmJTIwJUMzJUE3ZWt0aXJkaXxlbnwxfDB8fHwxNzk1MDAyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Silverius Trandafir",
+        "photographerUrl": "https://unsplash.com/@silverius89",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-and-woman-sitting-on-steps-eM6huNdbsT8"
+      },
       "timeAgo": "2 dk önce",
       "body": "Bursa’da uygulama sırasında durdurulan, alçak süspansiyon ve uygunsuz egzoz donanımına sahip 2 otomobilin sürücüsüne toplam 20 bin lira ceza kesildi. İşlem sırasında fotoğraf çektiren sürücülerden biri, “Bir fotoğraf 10 bin TL’ye geldi. İndirimle 7 bin 500 TL’ye düşer” dedi. Merkez Yıldırım ilçesi Millet Mahallesi Sağlıklı Yaşam Parkı çevresinde dün akşam saatlerinde trafik denetimi yapıldı. Polis ekipleri uygulama…",
       "highlights": [],
       "externalUrl": "https://www.milliyet.com.tr/gundem/modifiye-tutkusu-yuzunden-ceza-yedi-surucu-tutanakla-fotograf-cektirdi-7702185",
       "publishedAt": "2026-11-17T06:32:42.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T11:44:42.673Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/terminalde-siki-denetim-kemer-ve-kis-lastigi-kontrol-edildi-4873306",
@@ -8530,29 +8583,6 @@
       "externalUrl": "https://www.yenisafak.com/gundem/emine-erdogandan-11-kasimda-anlamli-paylasim-yillar-sonra-da-varligini-surdurecek-4871527",
       "publishedAt": "2026-11-11T11:51:21.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/11/passenger-train-derails-in-india-leaving-several-injured?traffic_source=rss",
-      "headline": "Hindistan'da yolcu treni raydan çıktı, çok sayıda kişi yaralandı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1749464341901-8994f86f09c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhaW4lMjBkZXJhaWxlZHxlbnwxfDB8fHwxNzk0Mzk4ODQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Gowtham AGM",
-        "photographerUrl": "https://unsplash.com/@gowthamagm",
-        "unsplashUrl": "https://unsplash.com/photos/a-derailed-train-lies-on-its-side-arAJV7EtaRs"
-      },
-      "timeAgo": "25 dk önce",
-      "body": "Dünyanın en yoğun demiryolu ağlarından birine sahip olan Hindistan'da, ülkenin kuzeydoğusundaki Assam eyaletinde yaşanan bir kaza endişe yarattı. Edinilen bilgilere göre, bir yolcu treninin raydan çıkması sonucunda çok sayıda kişi yaralandı. Ulaşım güvenliği ve demiryolu altyapısının önemini bir kez daha gündeme getiren bu olay, bölgede kısa süreli bir hareketliliğe neden oldu. Eyalet genelindeki ulaşım hatlarında yaşanan aksamalar, yerel yetkililerin ve acil durum ekiplerinin olay yerine sevk edilmesiyle müdahale sürecini başlattı.\n\nKazanın meydana geldiği andaki dehşet verici saniyeler, trenin makinist kabininin içerisinden çekilen görüntülerle kayıtlara geçti. Söz konusu video kaydı, kazanın nasıl geliştiğine dair somut bir belge niteliği taşırken, olay anındaki koşulların ne denli zorlu olduğunu da gözler önüne serdi. Görüntülerde yer alan detaylar, demiryolu güvenliği üzerine yürütülen tartışmalara yeni bir boyut kazandırdı. Uzmanlar ve yetkililer, bu tür raydan çıkma vakalarının önlenmesi amacıyla altyapı denetimlerinin ve teknolojik takip sistemlerinin kritik önem taşıdığına dikkat çekmektedir.\n\nAssam eyaletinde gerçekleşen bu kaza sonrasında, yaralanan yolcuların tedavilerine başlanması için bölgeye çok sayıda sağlık ekibi sevk edildi. Sağlık personeli, raydan çıkan vagonların çevresinde güvenlik önlemleri alarak yaralılara ilk müdahaleyi gerçekleştirdi ve ardından civardaki hastanelere nakillerini sağladı. Yetkililer, yaralıların sağlık durumlarıyla ilgili bilgilendirme yaparken, kazanın kesin nedeninin belirlenmesi için kapsamlı bir inceleme başlatıldığını duyurdu.\n\nDemiryolu taşımacılığı, milyonlarca insanı taşıyan Hindistan gibi geniş coğrafyalarda hayati bir rol oynamaktadır. Ancak bu büyüklükteki sistemlerin bakımı ve işletilmesi de aynı oranda büyük zorlukları beraberinde getirmektedir. Assam'daki bu kaza, güvenli seyahat standartlarının denetlenmesi gerekliliğini bir kez daha gözler önüne sererken, yolcuların ve demiryolu çalışanlarının güvenliğinin sağlanması için atılacak adımların önemini artırdı.\n\nOlayın ardından demiryolu işletmesinden ve ilgili bakanlık yetkililerinden konuya dair ilk açıklamalar gelmeye başladı. Kazaya karışan trenin sefer detayları ve raydan çıkma anındaki hızı gibi teknik veriler, soruşturmayı yürüten ekipler tarafından titizlikle inceleniyor. Makinist kabinindeki kameradan elde edilen video kaydı da bu teknik incelemenin en önemli delillerinden biri olarak dosyaya eklendi. Soruşturma ilerledikçe kazanın arka planındaki tüm faktörlerin netleşmesi ve kamuoyuyla paylaşılması bekleniyor.",
-      "highlights": [
-        "Hindistan'ın Assam eyaletinde bir yolcu treni raydan çıktı.",
-        "Kazada çok sayıda kişi yaralanırken bölgeye sağlık ekipleri sevk edildi.",
-        "Olay anı, makinist kabininin içindeki bir kamera tarafından kaydedildi."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/11/passenger-train-derails-in-india-leaving-several-injured?traffic_source=rss",
-      "publishedAt": "2026-11-11T11:42:20.000Z",
-      "category": "World",
       "lang": "tr"
     }
   ],
