@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-18T14:25:34.337Z",
+  "generatedAt": "2026-11-18T14:35:58.008Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
+      "headline": "Robert Pattinson, yeni James Bond oldu: Sürpriz oyuncu seçimi açıklandı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1542979915-a9c2df9a2e74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SmFtZXMlMjBCb25kfGVufDF8MHx8fDE3OTUwMTI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Patrick Robert Doyle",
+        "photographerUrl": "https://unsplash.com/@teapowered",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-black-mountain-EkBCBo7vmM4"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Robert Pattinson, sinemanın en ikonik rollerinden birinde Daniel Craig'in yerini alarak yeni James Bond olacak. Bu sürpriz oyuncu seçimi, sinema eleştirmeni Emma Jones ile Eve Jackson'ın sunduğu arts24 haftalık film programında ele alındı.\n\nProgramda, Pattinson'ın yıldız gücü ve sinema efsanesi 007 karakterine neler katabileceği tartışıldı. Sürpriz seçimin arka planındaki detaylar ve oyuncunun bu büyük role getirebilecekleri masaya yatırıldı.\n\nYayında ayrıca güncel yapımlar da değerlendirildi. Eleştirmenler, son \"Hunger Games\" ön filmi \"Sunrise on the Reaping\"i, Lukas Dhont'un Cannes ödüllü filmi \"Coward\"ı ve Almanya'nın Oscar adayı \"Everytime\"ı inceledi.\n\nSöz konusu yapım ve oyuncu tercihleri, FRANCE 24'ün kültür ve sinema programı kapsamında izleyicilere aktarıldı. Programda yer alan isimler arasında Emma Jones, Laura Di Biasio, Eve Jackson, Louise Dupont, Marion Chaval ve Solène Clausse bulunuyor.",
+      "highlights": [
+        "Robert Pattinson, Daniel Craig'in ardından yeni James Bond oldu.",
+        "Emma Jones ve Eve Jackson, arts24 programında sürpriz seçimi tartıştı.",
+        "Programda ayrıca Hunger Games ön filmi ve Coward ile Everytime filmleri incelendi."
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
+      "publishedAt": "2026-11-18T14:32:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/fon-sorusturmasinda-yeni-isim-mustafa-yazici-ifade-veriyor-7703255",
+      "headline": "Fon soruşturmasında Mustafa Yazıcı ifade veriyor",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1743708826277-dda59ddac473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Rm9uJTIwc29ydSVDNSU5RnR1cm1hcyVDNCVCMW5kYSUyME11c3RhZmElMjBZYXolQzQlQjFjJUM0JUIxJTIwaWZhZGV5ZSUyMHZlcml5b3J8ZW58MXwwfHx8MTc5NTAxMjU0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sinem Tunalı",
+        "photographerUrl": "https://unsplash.com/@sinem_",
+        "unsplashUrl": "https://unsplash.com/photos/statue-of-a-historical-figure-and-children-outdoors-KKntHie_rRw"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen fon soruşturması devam ediyor. Soruşturma çerçevesinde ifadeye çağrılan Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı, İstanbul Adliyesi'ne intikal etti. Yazıcı'nın adliyedeki ifade verme süreci başlatıldı.",
+      "highlights": [
+        "İstanbul Cumhuriyet Başsavcılığınca fon soruşturması sürdürülüyor.",
+        "Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı adliyeye geldi.",
+        "Yazıcı'nın adliyedeki ifade işlemi başladı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/fon-sorusturmasinda-yeni-isim-mustafa-yazici-ifade-veriyor-7703255",
+      "publishedAt": "2026-11-18T14:31:08.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/spor/kayserisporda-gerinden-sariyer-maci-oncesi-aciklama-4874039",
       "headline": "Kayserispor'da Gerin: Hedefimize emin adımlarla ilerlemeye devam edeceğiz",
@@ -68,7 +114,8 @@
       "externalUrl": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
       "publishedAt": "2026-11-18T14:08:08.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T14:34:27.988Z"
     },
     {
       "id": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
@@ -3507,13 +3554,18 @@
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "10 dk önce",
-      "body": "Rusya'nın baskısı altındaki Azerbaycan ve Ermenistan'a destek ziyareti gerçekleştiren Alman Dışişleri Bakanı Johann Wadephul, Bakü'de Putin'i \"egemen devletlerden oluşan bir Avrupa düzeni istememekle\" suçladı.",
-      "highlights": [],
+      "body": "Almanya Dışişleri Bakanı Johann Wadephul, Rusya'nın baskısı altındaki Azerbaycan ve Ermenistan'ı ziyaret ederek temaslarda bulunuyor. Bakü'de Azerbaycan Cumhurbaşkanı İlham Aliyev tarafından kabul edilen ve Azeri mevkidaşı Ceyhun Bayramov ile bir araya gelen Wadephul, temaslarının ardından Erivan'da Ermenistan Başbakanı Nikol Paşinyan ve Dışişleri Bakanı Ararat Mizoryan ile görüşecek.\n\nAzerbaycan Cumhurbaşkanlığı tarafından yapılan açıklamada, Aliyev ile Alman heyeti arasındaki görüşmede iki ülke ilişkilerinin başarıyla geliştiği belirtildi. Görüşmede, temmuz ayında imzalanan stratejik belgelerin yanı sıra yatırımlar, ulaştırma, lojistik ve turizm alanındaki iş birliği ele alındı. Ayrıca bu yıl Azerbaycan gazının Almanya'ya ihracatının başladığı hatırlatılarak, ülkenin Avrupa'nın enerji güvenliğine ve Orta Koridor'daki rolüne vurgu yapıldı.\n\nBakü'deki temasları öncesinde Rusya'yı eleştiren Alman Bakan Wadephul, Moskova'yı bölge halklarının geleceği pahasına Güney Kafkasya'daki nüfuzunu korumaya çalışmakla suçladı. Wadephul, Rusya Devlet Başkanı Vladimir Putin'in egemen devletlerden oluşan bir Avrupa düzeni istemediğini ifade etti.\n\nWadephul'un gündeminde doğal gaz ve petrol tedarikinin yanı sıra Güney Kafkasya'nın ticaret ve enerji potansiyeli de yer aldı. Bakan, yarınki Erivan ziyaretinde Ermenistan'ın Avrupa Birliği'ne yakınlaşması ile Azerbaycan ve Türkiye ile ilişkilerinin normalleşmesini ele alacak. Ermenistan ve Azerbaycan, Ağustos 2025'te ABD Başkanı Donald Trump'ın arabuluculuğunda barış anlaşması metni üzerinde uzlaşmış ancak anlaşma henüz imzalanmamıştı.",
+      "highlights": [
+        "Almanya Dışişleri Bakanı Johann Wadephul, Bakü'de Cumhurbaşkanı İlham Aliyev ve mevkidaşı Ceyhun Bayramov ile görüştü.",
+        "Wadephul, Rusya Devlet Başkanı Putin'i egemen devletlerden oluşan bir Avrupa düzeni istememekle eleştirdi.",
+        "Görüşmelerde enerji tedariki, yatırımlar ve Güney Kafkasya'daki iş birliği imkanları ele alındı."
+      ],
       "externalUrl": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-17T15:27:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T09:04:34.355Z"
+      "imageSearchAttemptedAt": "2026-11-18T09:04:34.355Z",
+      "sourceTextAttemptedAt": "2026-11-18T14:34:27.988Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
