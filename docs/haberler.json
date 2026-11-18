@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-18T08:25:03.446Z",
+  "generatedAt": "2026-11-18T08:44:41.222Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/spor/kocaelisporda-selcuk-inan-ile-17-aydir-suren-istikrar-4873853",
+      "headline": "Kocaelispor'da Selçuk İnan İle 17 Aylık İstikrar",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBjb2FjaHxlbnwxfDB8fHwxNzk0OTkxNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Adrià Crehuet Cano",
+        "photographerUrl": "https://unsplash.com/@acrehuet98",
+        "unsplashUrl": "https://unsplash.com/photos/children-playing-soccer-LIhB1_mAGhY"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Trendyol Süper Lig ekiplerinden Kocaelispor'da teknik direktör Selçuk İnan ile sürdürülen birliktelik dikkat çekiyor. Kulüpte yaklaşık 17 aydır devam eden bu istikrarlı süreç, Körfez ekibinin sahadaki performansında önemli bir unsur olarak ön plana çıkıyor.\n\nSöz konusu süre ve istikrar sayesinde teknik direktör Selçuk İnan, görev süresi açısından ligin en istikrarlı üçüncü ismi konumuna yükseldi. Kocaelispor yönetiminin ve takımın İnan ile yakaladığı bu uyum, ligdeki diğer ekiplerle olan rekabet süreçlerinde de adından söz ettiriyor.",
+      "highlights": [
+        "Kocaelispor'da teknik direktör Selçuk İnan ile 17 aydır birliktelik sürdürülüyor.",
+        "İstikrarlı süreç Körfez ekibinin performansında ön plana çıkıyor.",
+        "Selçuk İnan bu görev süresiyle ligin en istikrarlı üçüncü ismi oldu."
+      ],
+      "externalUrl": "https://www.yenisafak.com/spor/kocaelisporda-selcuk-inan-ile-17-aydir-suren-istikrar-4873853",
+      "publishedAt": "2026-11-18T08:43:26.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
+      "headline": "Epstein'ın Ölümü İntihar Değil Cinayet Olabilir",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1613932179258-f75a8de3058f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9yZW5zaWMlMjBleHBlcnR8ZW58MXwwfHx8MTc5NDk5MTQ3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Yousaf",
+        "photographerUrl": "https://unsplash.com/@usmanyousaf",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-blue-dress-shirt-wearing-black-framed-eyeglasses-IMJpkwLJ0KA"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Yapılan bir otopsi kayıtları ve fotoğraf incelemesine göre, ABD'li cinsel suçlunun 2019 yılında öldürülmüş olabileceği ihtimali üzerinde duruluyor. Bir adli tıp uzmanı tarafından paylaşılan bu değerlendirme, olayın intiharasıl cinayet olma ihtimalinin daha yüksek olduğuna işaret ediyor. Konuya ilişkin elde edilen bulguların analizi, soruşturmanın seyrine dair yeni bir bakış açısı sunarken, yetkililerin veya uzmanların resmi raporlar üzerindeki incelemeleri devam ediyor. Olayın mahiyeti hakkındaki iddialar, uzman görüşleri doğrultusunda tartışılmaya sürdürülüyor.",
+      "highlights": [
+        "Otopsi kayıtları ve fotoğraflar incelendi",
+        "ABD'li cinsel suçlunun öldürülmüş olabileceği belirtildi",
+        "Uzman, olayın cinayet olma ihtimalinin daha yüksek olduğunu söyledi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
+      "publishedAt": "2026-11-18T08:35:19.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-almanyanin-dev-bankasi-deutsche-bankin-gizli-arsivi-sizdi-sok-detaylar-supheli-para-trafiginde-gkry-izi-7702858",
       "headline": "Almanya'nın dev bankası Deutsche Bank'ın gizli arşivi sızdı! Şok detaylar: Şüpheli para trafiğinde GKRY izi",
@@ -145,7 +193,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/18/president-xi-says-russia-and-china-should-lead-push-to-multipolar-world?traffic_source=rss",
       "publishedAt": "2026-11-18T07:50:47.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:44:36.949Z"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/cop31de-depozito-yonetim-sistemi-dunyaya-tanitiliyor-7702841",
@@ -192,7 +241,8 @@
       "externalUrl": "https://www.france24.com/en/europe/20261118-italy-approves-anti-semitism-law-despite-concerns-over-freedom-of-expression",
       "publishedAt": "2026-11-18T07:37:42.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:44:36.949Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/arzunun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-1751411",
@@ -2073,7 +2123,8 @@
       "externalUrl": "https://www.sabah.com.tr/dunya/son-dakika-i-rusyada-askeri-nakliye-ucagi-dustu-17-kisi-hayatini-kaybetti-7703795",
       "publishedAt": "2026-11-17T15:29:59.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T08:44:36.949Z"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
