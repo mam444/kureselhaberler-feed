@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-18T06:04:41.534Z",
+  "generatedAt": "2026-11-18T06:14:29.990Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/resmi-gazetede-5-anlasmanin-yururluk-tarihi-yayimlandi-4873725",
+      "headline": "Türkiye'nin 5 uluslararası anlaşmasının yürürlük tarihleri Resmi Gazete'de",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Türkiye'nin Ukrayna, Avrupa Komisyonu, Birleşmiş Milletler ve Katar ile imzaladığı 5 uluslararası anlaşmanın yürürlüğe girdiği tarihler, Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasını taşıyan kararla Resmi Gazete'de yayımlandı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/resmi-gazetede-5-anlasmanin-yururluk-tarihi-yayimlandi-4873725",
+      "publishedAt": "2026-11-18T06:13:35.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+      "headline": "İngiltere'de NHS personeli hastaların tıbbi kayıtlarını izinsiz inceledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1764885449345-d0d6629bf7bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aG9zcGl0YWwlMjByZWNvcmR8ZW58MXwwfHx8MTc5NDk4MjQ2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "LEDC",
+        "photographerUrl": "https://unsplash.com/@ledc",
+        "unsplashUrl": "https://unsplash.com/photos/victoria-hospital-emergency-entrance-sign-with-building-nAnEMa-tnus"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "İngiltere'deki Ulusal Sağlık Sistemi (NHS) bünyesinde, son beş yılda personelin hastaların tıbbi kayıtlarına uygunsuz şekilde eriştiği 3.029 olay kaydedildi. Kampanya grupları ve düzenleyici kurumlar bu durumu hastalar ile aileleri için üzücü olarak nitelendirirken, sağlık hizmetine duyulan güveni zedelediğini belirtti. Veri ihlallerinin ardından NHS kuruluşlarının şeffaflık göstermemesinin acıyı daha da artırdığı ifade edildi.\n\nBasın Birliği'nin bilgi edinme yasaları kapsamında elde ettiği rakamlar, 2021-22 ile 2025-26 yılları arasındaki dönemi kapsıyor. Ancak sorunun gerçek boyutunun bu rakamların çok üzerinde olabileceği belirtiliyor. İngiltere'deki 143 akut hastane ve ambulans vakfından yalnızca 79'u kesin rakamlar sunarken, vakıfların neredeyse yarısının net veri sağlamadığı kaydedildi.\n\nAçıklama, son dönemde yaşanan bazı dikkat çeken vakaların ardından geldi. Geçtiğimiz ay, 2023 Nottingham saldırısındaki kurbanların kayıtlarına bakan 15 NHS personelinin işten çıkarıldığı ortaya çıkmıştı. Mayıs ayında ise 2024 Southport saldırısının kurbanlarının kayıtlarına University Hospitals of Liverpool Group'taki onlarca personelin baktığı anlaşılmıştı. Ayrıca haziran ayında Cambridgeshire'da timsah çukuruna düşerek yaralanan üç yaşındaki bir çocuğun kayıtlarının da yaklaşık 40 hastane personeli tarafından incelendiği bildirildi.\n\nBilgi Komiserliği Ofisi (ICO) İcra Kurulu Başkanı Paul Arnold, sağlık liderlerine snoopera karşı sert önlemler alınması çağrısında bulundu. Hastalar Association'dan Rachel Power ise hastaların güçlü güvencelere ve uygunsuz erişimlerin gecikmeden tespit edileceğine dair güvene ihtiyaç duyduğunu vurguladı. Eylül ayında NHS England başkanı Jim Mackey, hasta kayıtlarını gözetlediğinden şüphelenilen personelin derhal açığa alınması gerektiğini belirtmişti. Health Service Journal ise 2020'den bu yana kayıtları gözetlediği için 214 NHS personelinin işten çıkarıldığını, üçünün açığa alındığını ve 540'ına son yazılı uyarı verildiğini bildirmişti.",
+      "highlights": [
+        "NHS bünyesinde personelin hasta kayıtlarına uygunsuz şekilde eriştiği 3.029 olay kaydedildi.",
+        "Gerçek sorunun boyutunun daha yüksek olduğu, vakıfların yaklaşık yarısının kesin veri sağlamadığı belirtildi.",
+        "Nottingham ve Southport saldırıları ile diğer olaylarda çok sayıda personelin izinsiz kayıt incelediği ortaya çıktı."
+      ],
+      "externalUrl": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+      "publishedAt": "2026-11-18T06:00:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-putinden-abd-rusya-cin-zirvesi-oncesi-kritik-mesaj-onemli-faydalar-saglayacak-7702765",
       "headline": "Putin'den ABD-Rusya-Çin zirvesi öncesi kritik mesaj: Önemli faydalar sağlayacak",
@@ -226,7 +264,8 @@
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rare-video-of-brazilian-amazon-tribe?traffic_source=rss",
       "publishedAt": "2026-11-18T05:14:07.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T06:14:22.092Z"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
@@ -1340,7 +1379,8 @@
       "publishedAt": "2026-11-17T16:18:44.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T18:44:22.286Z"
+      "imageSearchAttemptedAt": "2026-11-17T18:44:22.286Z",
+      "sourceTextAttemptedAt": "2026-11-18T06:14:22.092Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-umman-da-katar-heyeti-ile-bolgesel-konular-hakkinda-gorustu/4128161",
@@ -1680,15 +1720,20 @@
       "headline": "Jerusalem Daily: Deadly settler pogroms persist",
       "source": "Al Jazeera",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1539978411915-9f883018db6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SmVydXNhbGVtJTIwRGFpbHklM0ElMjBEZWFkbHklMjBzZXR0bGVyJTIwcG9ncm9tcyUyMHBlcnNpc3R8ZW58MXwwfHx8MTc5NDk4MjQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bruno Aguirre",
+        "photographerUrl": "https://unsplash.com/@elcuervo",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-standing-in-front-of-a-stone-wall-TgUs0JOtXZA"
+      },
       "timeAgo": "17 dk önce",
       "body": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
       "highlights": [],
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
       "publishedAt": "2026-11-17T15:49:11.000Z",
       "category": "World",
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-18T06:14:22.092Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win",
