@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T10:33:06.429Z",
+  "generatedAt": "2026-11-18T10:35:02.030Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/gundem/konyada-otomobil-menfez-duvarina-carpti-3-olu-4873927",
@@ -21,6 +21,30 @@
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/konyada-otomobil-menfez-duvarina-carpti-3-olu-4873927",
       "publishedAt": "2026-11-18T10:32:27.000Z",
+      "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T10:34:52.308Z"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/gulistan-doku-cinayetinde-kritik-ifade-tutuklu-polisten-tuzak-savunmasi-4873926",
+      "headline": "Gülistan Doku cinayetinde kritik ifade: Tutuklu polisten 'tuzak' savunması",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1690400524283-4e410dce7318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwxfDB8fHwxNzk0OTk4MDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "JOSHUA COLEMAN",
+        "photographerUrl": "https://unsplash.com/@joshstyle",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-next-to-a-yellow-police-line-g86cBfIbd6E"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Tunceli’de 5 Ocak 2020 tarihinde kaybolan üniversite öğrencisi Gülistan Doku’ya yönelik cinayet soruşturmasında, 18 Ocak 2020 tarihli açık kaynak araştırma raporu mercek altına alındı. Teknik incelemelerde, Doku’nun kaybolmasından 3 gün sonra, 8 Ocak’ta sanal medya hesabında hareketlilik tespit edildiği belirlendi. Soruşturma kapsamında tutuklanan polis memuru Abdulvahit Pusat, savcılık sorgusunda, sanal medya hesabında veri manipülasyonu yapıldığı şüphesiyle ilgili savunma verdi.\n\nPusat, 29 Temmuz 2026 tarihli ifadesinde, raporu hazırladığını kabul ederken düzenleme talimatını kimden aldığını net hatırlamadığını öne sürdü. Doku’nun bulunması amacıyla açık kaynak araştırması yaptığını anlatan Pusat, komiseri O.M.Ö.’nün talimatıyla Asayiş Şube Müdürlüğü’ne gönderildiğini ve kendisine bazı görüntülerin teslim edildiğini kaydetti. Pusat, bu görüntüleri henüz tamamlanmamış raporuna eklediğini ve giriş bölümünü komiseriyle birlikte alelacele düzenlediklerini savundu.\n\nRapordaki ekran görüntülerinin tamamını kendisinin hazırlamadığını belirten Pusat, arkadaş listeleri ve beğenileri gösteren diğer görsellerin hazır halde kendisine teslim edildiğini ifade etti. Bu görsellerin Doku’nun arkadaşı E.D. aracılığıyla alınmış olabileceğini değerlendiren Pusat, hazır görüntüleri rapora eklerken tedirgin olduğunu öne sürdü. Komiseri O.M.Ö.’nün kendisine teslim tutanağı bulunduğunu ve işlemlerin yasal olduğunu söylediğini iddia eden Pusat, “Şimdi anlıyorum ki Gülistan’ın E.D. isimli arkadaşını çağırıp... bana raporu tanzim ettirmişler. Bana resmen tuzak kurmuşlar” dedi.\n\nSavcılığın, Doku’nun sanal medya hesabındaki veri silme ve arkadaş engelleme işlemleri ile resmi kolluk raporu arasındaki bağlantıyı ve Pusat’ın iddialarını çok yönlü olarak araştırdığı öğrenildi.",
+      "highlights": [
+        "Gülistan Doku'nun kaybolmasından 3 gün sonra sanal medya hesabında hareketlilik tespit edildi.",
+        "Tutuklu polis memuru Abdulvahit Pusat, raporu hazırladığını kabul etti ancak kendisine tuzak kur adecuIdunu öne sürdü.",
+        "Pusat, bazı görsellerin hazır halde kendisine teslim edildiğini ve komiserinin talimatıyla rapora eklendiğini savundu."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/gulistan-doku-cinayetinde-kritik-ifade-tutuklu-polisten-tuzak-savunmasi-4873926",
+      "publishedAt": "2026-11-18T10:30:55.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -91,6 +115,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/business/2026/nov/18/uk-inflation-rises-energy-prices-iran-war-oil",
       "publishedAt": "2026-11-18T10:14:26.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
+      "headline": "Trump, İran'ın Washington'a yönelik 'kirli bomba' planladığı iddialarını ciddiye aldıklarını söyledi",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1569285645462-a3f9c6332d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NDk5ODA5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Darren Halstead",
+        "photographerUrl": "https://unsplash.com/@darren1303",
+        "unsplashUrl": "https://unsplash.com/photos/man-wearing-donald-trump-mask-standing-in-front-of-white-house-B_vXFdzvw3g"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "ABD Başkanı Donald Trump, salı günü yaptığı açıklamada, İran'ın Washington'da kirli bomba saldırısı planlıyor olabileceği yönündeki iddiaları ciddiye aldıklarını belirtti. Bu açıklama, Trump'ın ABD istihbarat değerlendirmelerine dayandırılan bir CNN haberine ilişkin sorulan soruları yanıtlamasının ardından geldi.\n\nSöz konusu iddialar, salı günü X platformu üzerinden açıklama yapan İran Dışişleri Bakanlığı sözcüsü tarafından reddedildi. Bakanlık sözcüsü, iddiaların \"temelsiz\" olduğunu ifade etti.",
+      "highlights": [
+        "Trump, İran'ın Washington'da kirli bomba saldırısı planlayabileceği iddialarını ciddiye aldıklarını söyledi.",
+        "Açıklama, ABD istihbarat değerlendirmelerine dayanan bir CNN haberinin ardından geldi.",
+        "İran Dışişleri Bakanlığı sözcüsü iddiaları X üzerinden yalanlayarak temelsiz olarak nitelendirdi."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
+      "publishedAt": "2026-11-18T10:13:52.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -2371,6 +2418,31 @@
       "sourceTextAttemptedAt": "2026-11-18T10:14:21.868Z"
     },
     {
+      "id": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "AİHM'den Türkiye'ye Can Atalay Kararı",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1716560899460-1986f6e221f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8UmlnaHRzJTIwY291cnQlMjBydWxlcyUyMFR1cmtleSUyMG11c3QlMjByZWxlYXNlJTIwamFpbGVkJTIwbGF3bWFrZXIlMjBBdGFsYXl8ZW58MXwwfHx8MTc5NDk4NTQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Grace Mooney",
+        "photographerUrl": "https://unsplash.com/@mooney222",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-turkey-with-a-blue-and-red-head-ISwDkTCqVvo"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Avrupa İnsan Hakları Mahkemesi (AİHM), insan hakları avukatı ve seçilmiş milletvekili Can Atalay'ın tutukluluğu konusunda Türkiye aleyhine karar verdi. Salı günü yayımlanan kararda, Türkiye'nin Atalay'ı serbest bırakması ve meclisteki koltuğuna oturmasına izin vermesi gerektiği belirtildi. Mahkeme, Atalay'ın tutukluluk halinin onu susturmayı ve siyasi çoğulculuğu zedelemeyi amaçladığını ifade etti. Türkiye'ye ayrıca 32.500 euro tazminat ödenmesi hükmedildi. Hakimler, bu davanın Türkiye'deki diğer siyasi muhaliflerin, hak aktivistlerinin ve gazetecilerin tutukluluğu bağlamında değerlendirilmesi gerektiğini vurguladı.\n\nAvrupa İnsan Hakları Sözleşmesi'nin kurucu imzacılarından olan Türkiye, daha önce Osman Kavala ve Selahattin Demirtaş davalarında da mahkeme kararlarına uymamıştı. Bir avukat olarak Atalay, geçmişte çok sayıda toplumsal ve siyasi davada mağdurları temsil etmiş ve 2013 Gezi protestolarının önde gelen isimlerinden biri olmuştu. Nisan 2022'de darbe teşebbüsüne yardım suçlamasıyla 18 yıl hapis cezasına çarptırılan Atalay, Silivri Cezaevi'nden Türkiye İşçi Partisi (TİP) adayı olarak 2023 milletvekili seçimlerine katıldı.\n\nHatay'dan milletvekili seçilmesine rağmen Anayasa Mahkemesi'nin kararlarına rağmen tahliye edilmeyen Atalay'ın parlamento statüsü 2024 yılında düşürülmüş, Anayasa Mahkemesi bu kararı daha sonra iptal etmişti. Cumhurbaşkanı Recep Tayyip Erdoğan'ın partisi kararın mecliste okunmasını engellemiş, ancak bir yıl sonra muhalif bir milletvekili kararı okumasına rağmen Atalay hapiste kalmaya devam etmiştir. AİHM kararının ardından TİP lideri Erkan Baş sosyal medyadan çağrıda bulunarak Atalay'ın serbest bırakılmasını ve meclis yetkisinin iade edilmesini istedi. TİP, uzun süredir Atalay'ın tahliyesini talep ediyordu.",
+      "highlights": [
+        "AİHM, Türkiye'nin Can Atalay'ı serbest bırakması ve meclisteki koltuğuna oturmasına izin vermesi gerektiğine karar verdi.",
+        "Mahkeme, Türkiye'nin Atalay'a 32.500 euro tazminat ödemesini hükmetti.",
+        "TİP lideri Erkan Baş, AİHM kararının ardından Atalay'ın serbest bırakılması ve milletvekilliği yetkisinin iadesi çağrısında bulundu."
+      ],
+      "externalUrl": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-17T15:47:00.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T07:04:26.681Z",
+      "sourceTextAttemptedAt": "2026-11-18T10:34:52.308Z"
+    },
+    {
       "id": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
       "headline": "Bakan Kurum: Antalya'da geleceğimiz adına önemli kararlar alalım istiyoruz",
       "source": "TRT Haber",
@@ -2390,26 +2462,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T06:44:26.194Z",
       "sourceTextAttemptedAt": "2026-11-18T10:32:58.658Z"
-    },
-    {
-      "id": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "Rights court rules Turkey must release jailed lawmaker Atalay",
-      "source": "DW English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1716560899460-1986f6e221f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8UmlnaHRzJTIwY291cnQlMjBydWxlcyUyMFR1cmtleSUyMG11c3QlMjByZWxlYXNlJTIwamFpbGVkJTIwbGF3bWFrZXIlMjBBdGFsYXl8ZW58MXwwfHx8MTc5NDk4NTQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Grace Mooney",
-        "photographerUrl": "https://unsplash.com/@mooney222",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-turkey-with-a-blue-and-red-head-ISwDkTCqVvo"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "The European Court of Human Rights has called for the release of imprisoned elected lawmaker Can Atalay. Atalay has been in prison for almost five years despite rulings from the Turkish Constitutional Court.",
-      "highlights": [],
-      "externalUrl": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
-      "publishedAt": "2026-11-17T15:47:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:04:26.681Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
@@ -3483,7 +3535,8 @@
       "externalUrl": "https://www.yenisafak.com/gundem/cankurtaran-tuneli-hopa-yonu-17-18-kasimda-kapali-4873325",
       "publishedAt": "2026-11-17T07:03:29.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T10:34:52.308Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
