@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-18T07:14:33.300Z",
+  "generatedAt": "2026-11-18T07:24:31.635Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/istanbulda-lodos-uyarisi-ruzgar-85-km-hiza-cikabilir-4873780",
+      "headline": "İstanbul'da lodos uyarısı: Hızı 85 kilometreye ulaşabilir",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1541501338479-c86b9769e7fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8JUM0JUIwc3RhbmJ1bCUyN2RhJTIwbG9kb3MlMjB1eWFyJUM0JUIxcyVDNCVCMSUzQSUyMEglQzQlQjF6JUM0JUIxJTIwODUlMjBraWxvbWV0cmV5ZSUyMHVsYSVDNSU5RmFiaWxpcnxlbnwxfDB8fHwxNzk0OTg2NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Öznur Doğan",
+        "photographerUrl": "https://unsplash.com/@seyrifani",
+        "unsplashUrl": "https://unsplash.com/photos/stormy-clouds-above-city-buildings-near-body-of-water-jidE2MFB6Qc"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "İstanbul'da beklenen lodos nedeniyle rüzgarın hızının 85 kilometreye ulaşabileceği bildirildi.\n\nHaber başlığında yer alan bu uyarı, bölgedeki hava koşullarına yönelik dikkatli olunması gerektiğini ortaya koyuyor.\n\nYetkililerin veya kaynakların belirttiği bu durum, ulaşım ve günlük yaşam üzerinde olumsuz etkilere yol açabilir.\n\nVatandaşların şiddetli lodosun olası risklerine karşı hazırlıklı ve tedbirli olmaları önem taşımaktadır.",
+      "highlights": [
+        "İstanbul'da lodos uyarısı yapıldı",
+        "Rüzgarın hızı 85 kilometreye ulaşabilir"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/istanbulda-lodos-uyarisi-ruzgar-85-km-hiza-cikabilir-4873780",
+      "publishedAt": "2026-11-18T07:22:13.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/2-cocugunun-annesi-rus-kadini-146-makas-darbesiyle-oldurmustu-bursadaki-vahsette-savci-mutalaasini-acikladi-7702812",
       "headline": "Bursa'daki cinayette savcı mütalaasını açıkladı: 146 makas darbesiyle öldüren sanığa ağırlaştırılmış müebbet talebi",
@@ -44,6 +66,28 @@
       ],
       "externalUrl": "https://www.rfi.fr/en/international/20261118-france-and-malaysia-reach-milestone-agreement-on-defence-and-minerals",
       "publishedAt": "2026-11-18T07:12:29.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
+      "headline": "Aç, maaşsız ve korku içinde: Afrika'nın gazetecileri eşiğe sürüklendi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1596801129861-8592c97db6ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8am91cm5hbGlzdCUyMHdvcmtpbmd8ZW58MXwwfHx8MTc5NDk4NjY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jana Shnipelson",
+        "photographerUrl": "https://unsplash.com/@shnipelson",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-jacket-holding-black-dslr-camera-SRReffF4vFA"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Gazetecilerin sömürülmesi, bağımsız haberciliği ve halkın bilme hakkını zayıflatıyor. Medya çalışanlarının karşı karşıya olduğu bu durum, bölgedeki basın özgürlüğü ve doğru bilgiye erişim açısından riskler barındırıyor. Kaynaklarda yer alan bilgilere göre, yaşanan bu sömürü ortamı gazetecilik faaliyetlerini doğrudan tehdit ediyor.",
+      "highlights": [
+        "Gazetecilerin sömürülmesi bağımsız haberciliği zayıflatıyor",
+        "Durum halkın bilme hakkını olumsuz etkiliyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/opinions/2026/11/18/hungry-unpaid-and-afraid-africas-journalists-pushed-to-the-brink?traffic_source=rss",
+      "publishedAt": "2026-11-18T07:09:22.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -1771,12 +1815,17 @@
       },
       "timeAgo": "5 dk önce",
       "body": "Ünlü şarkıcı Mustafa Sandal'ın eşi Melisa Sandal, fon soruşturması kapsamında 1 milyar 570 milyon 504 bin 365 TL'yi iade ettiğini açıkladı",
-      "highlights": [],
+      "highlights": [
+        "Melis Sandal, 1 milyar 570 milyon 504 bin 365 TL'yi iade ettiğini açıkladı.",
+        "İadenin 27 Ekim 2026 tarihinde TMSF'ye gerçekleştirildiği belirtildi.",
+        "İade kararının suçlama kabulü nedeniyle değil, kazancı üzerinde tutmama isteğiyle alındığı ifade edildi."
+      ],
       "externalUrl": "https://www.haberturk.com/magazin/mustafa-sandal-in-esi-melis-sandal-parayi-iade-ettim-3928041",
       "publishedAt": "2026-11-17T16:10:02.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T20:04:58.153Z"
+      "imageSearchAttemptedAt": "2026-11-17T20:04:58.153Z",
+      "sourceTextAttemptedAt": "2026-11-18T07:24:24.992Z"
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
@@ -1787,12 +1836,17 @@
       "imageCredit": null,
       "timeAgo": "8 dk önce",
       "body": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth €900bn ($990.54bn)…",
-      "highlights": [],
+      "highlights": [
+        "ABD Savunma Müsteşar Yardımcısı Elbridge Colby Avrupa'nın Ukrayna savunmasındaki rolünü övdü.",
+        "Colby, Ekim ayında Ukrayna'nın Rusya'dan daha fazla toprak kazandığını belirtti.",
+        "ABD'li yetkili, derin saldırıların savaşı bitirmede etkili olmadığını savundu."
+      ],
       "externalUrl": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
       "publishedAt": "2026-11-17T16:07:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T02:24:43.237Z"
+      "imageSearchAttemptedAt": "2026-11-18T02:24:43.237Z",
+      "sourceTextAttemptedAt": "2026-11-18T07:24:24.992Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/anadolu-mirasi-operasyonlari-eskisehirde-3-zanli-yakalandi-7702621",
@@ -2148,7 +2202,8 @@
       "externalUrl": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
       "publishedAt": "2026-11-17T15:44:54.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T07:24:24.992Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms",
