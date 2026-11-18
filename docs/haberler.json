@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T05:19:58.100Z",
+  "generatedAt": "2026-11-18T05:24:37.403Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/dunya/anket-almanya-da-hukumetin-calismalarindan-memnun-olmayanlarin-orani-yuzde-86-ya-yukseldi-3928111",
+      "headline": "Almanya'da hükümetten memnuniyetsizlik yükseldi",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1641531339739-1d4f309980e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8R2VybWFuJTIwZmxhZyUyMHBhcmxpYW1lbnR8ZW58MXwwfHx8MTc5NDk3OTQ3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Norbert Braun",
+        "photographerUrl": "https://unsplash.com/@medion4you",
+        "unsplashUrl": "https://unsplash.com/photos/a-german-flag-flying-in-front-of-a-building-oMpz5DU19DU"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Forsa araştırma şirketinin RTL/NTV televizyon kanalı için 10-16 Kasım tarihlerinde 2 bin 501 katılımcıyla gerçekleştirdiği ankete göre, Almanya'da koalisyon hükümetinin çalışmalarından memnun olmayanların oranı temmuz ayına kıyasla 4 puan artarak yüzde 86'ya ulaştı. Hükümetin çalışmalarından memnuniyet duyanların oranı ise 6 puanlık düşüşle yüzde 12 seviyesinde kaldı. Araştırma, Hristiyan Birlik partileri taraftarlarının yüzde 72'sinin ve Sosyal Demokrat Parti taraftarlarının yüzde 77'sinin hükümetten memnun olmadığını ortaya koydu.\n\nAnket sonuçlarına göre katılımcıların yüzde 86'sı Başbakan Friedrich Merz'in çalışmalarından memnun olmadığını ifade ederken, çoğunluk liderlik konusunda zayıf olduğunu düşünüyor. Katılımcıların yüzde 62'si Merz'in koalisyonda sözünü geçiremediği görüşünü paylaşırken, aksi kanaatte olanların oranı yüzde 31 oldu. Ayrıca katılımcıların yüzde 50'si hükümetin ülkeyi yönetme kapasitesine sahip olmadığını belirtti, bu oranı yeterli bulanlar ise yüzde 47 olarak ölçüldü.\n\nAraştırmaya katılanların yüzde 57'si hiçbir partinin Almanya'nın sorunlarını çözemeyeceğine inanırken, sorunları çözebileceğine inananların oranı partilere göre değişiklik gösterdi. Parti desteklerine ilişkin sonuçlarda ise Almanya için Alternatif Partisi yüzde 26 oy oranıyla ilk sırada yer aldı. 23 Şubat 2025'teki erken genel seçimde birinci çıkan Hristiyan Birlik partilerinin oy desteği yüzde 21 olarak ölçülürken, Yeşiller Partisi yüzde 16, Sosyal Demokrat Parti yüzde 13, Sol Parti yüzde 11 ve Hür Demokrat Parti yüzde 4 oy desteğine sahip oldu.",
+      "highlights": [
+        "Almanya'da hükümetin çalışmalarından memnun olmayanların oranı yüzde 86'ya yükseldi.",
+        "Katılımcıların yüzde 86'sı Başbakan Merz'in çalışmalarından memnun olmadığını belirtti.",
+        "Parti desteklerinde AfD yüzde 26 ile ilk sırada yer aldı."
+      ],
+      "externalUrl": "https://www.haberturk.com/dunya/anket-almanya-da-hukumetin-calismalarindan-memnun-olmayanlarin-orani-yuzde-86-ya-yukseldi-3928111",
+      "publishedAt": "2026-11-18T05:22:24.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/nigdede-is-yerinin-mutfaginda-yangin-cikti-nigde-asagikayabasi-mahallesi-haberleri-4873701",
       "headline": "Niğde'de iş yerinin mutfak kısmında yangın: Ekipler kısa sürede söndürdü",
@@ -15,14 +38,15 @@
       "timeAgo": "1 dk önce",
       "body": "Niğde'de Aşağıkayabaşı Mahallesi'nde bulunan bir iş yerinin mutfak kısmında henüz belirlenemeyen bir nedenle yangın çıktı. Olayın bildirilmesi üzerine bölgeye itfaiye, sağlık ve polis ekipleri sevk edildi. İtfaiye ekiplerinin müdahalesiyle kısa sürede kontrol altına alınarak söndürülen yangın, iş yerinde maddi hasara yol açtı. Yangının ardından yapılan incelemelerde iş yerinin mutfak ve çevresinde duman izleri ile hasar gören eşyalar görüldü.",
       "highlights": [
-        "Aşağıkayabaşı Mahallesi'ndeki bir iş yerinin mutfak kısmında henüz belirlenemeyen nedenle yangın çıktı.",
-        "İhbar üzerine olay yerine itfaiye, sağlık ve polis ekipleri sevk edildi.",
-        "Yangın itfaiye ekiplerince kısa sürede söndürülürken iş yerinde maddi hasar oluştu."
+        "Niğde Aşağıkayabaşı Mahallesi'ndeki bir iş yerinin mutfak kısmında henüz belirlenemeyen nedenle yangın çıktı.",
+        "İhbar üzerine bölgeye itfaiye, sağlık ve polis ekipleri sevk edildi.",
+        "Yangın, itfaiye ekiplerinin müdahalesiyle kısa sürede söndürüldü ve iş yerinde maddi hasar oluştu."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/nigdede-is-yerinin-mutfaginda-yangin-cikti-nigde-asagikayabasi-mahallesi-haberleri-4873701",
       "publishedAt": "2026-11-18T05:18:59.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T05:24:25.509Z"
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
@@ -44,6 +68,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "publishedAt": "2026-11-18T05:05:21.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+      "headline": "Cambridge Sözlüğü'nün Yılın Kelimesi 'Human' Oldu",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1636892909247-8357a029ce91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGljdGlvbmFyeSUyMGJvb2t8ZW58MXwwfHx8MTc5NDk3OTQ2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rob Hobson",
+        "photographerUrl": "https://unsplash.com/@rob_hobson",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-book-with-words-on-it-0apZjDdRS5o"
+      },
+      "timeAgo": "24 dk önce",
+      "body": "Cambridge Sözlüğü, yapay zeka çağında insan ile makine arasındaki çizginin bulanıklaştığı bir dönemde yılın kelimesini 'human' (insan) olarak belirledi. Sözlük, bu seçimin arkasında insan çalışmalarını gelişmiş bilgisayar sistemlerinden ayırt etme ihtiyacının bulunduğunu bildirdi. Yapay zeka alanındaki gelişmeler ve özellikle ChatGPT'nin çıkışı, insan olmanın ne anlama geldiği konusunu yeniden gündeme taşırken, sözlük 'human' kelimesini tanrıların, hayvanların veya makinelerin aksine insanların sahip olduğu niteliklere, kusurlara ve duygulara sahip olmak şeklinde tanımladı.\n\nSözlük editörü Colin McIntosh, yapay zeka teknolojilerinin insan olmaktan nasıl bahsettiğimizi değiştirdiğini belirtti. Düşünme eyleminin dış kaynaklara devredilmesine dair korkuların, matematiğimizden öğretmenlerimize kadar yapay zekaya ne ölçüde güvendiğimizi yeniden gözden geçirmemize yol açtığını ifade eden McIntosh, 'human-made' gibi bileşik kelimelerdeki artışın, insan çalışmalarını yapay zekadan ayırmaya başladığını vurguladı. Evrim biyoloğu Richard Dawkins bilgisayarların insani hissettirdiği yönünde görüş bildirirken, şüpheciler insan beyni ile yapay zeka sistemlerinin yapısı arasında büyük bir fark olduğunu savunuyor.\n\nCambridge Üniversitesi'nden yapay zeka yönetişimi ve insan hakları uzmanı Profesör Rachel Adams, yapay zekanın insanları bin yıldır sorulan kim olduğumuz ve insan olmanın ne anlama geldiği sorularına geri getirdiğini belirtti. Kısa listede yer alan diğer teknoloji odaklı kelimeler arasında insan kontrolü olmadan çalışabilen yapay zeka sistemi 'agent' ve dijital olmayan aktiviteleri ifade eden 'analogues' yer aldı. Teknoloji dışı adaylar arasında ise 'wholesome' kelimesi bulunuyordu. Öte yandan, Collins İngilizce Sözlüğü yılın kelimesi olarak 'mogging' ifadesini seçmişti. Cambridge Sözlüğü'ne eklenen diğer yeni ifadeler arasında ise 'looksmaxxing' ve 'aura farming' gibi sosyal medya kaynaklı terimler dikkat çekti.",
+      "highlights": [
+        "Cambridge Sözlüğü yılın kelimesi olarak 'human' kelimesini seçti.",
+        "Sözlük, kelimenin insan çalışmalarını gelişmiş bilgisayar sistemlerinden ayırmak için kullanıldığını belirtti.",
+        "Kısa listede 'agent' ve 'analogues' gibi teknoloji odaklı kelimeler de yer aldı."
+      ],
+      "externalUrl": "https://www.theguardian.com/science/2026/nov/18/cambridge-word-of-the-year-human",
+      "publishedAt": "2026-11-18T05:00:34.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -899,13 +946,18 @@
         "unsplashUrl": "https://unsplash.com/photos/a-man-walking-down-a-street-next-to-a-store-guucxp-ck7Y"
       },
       "timeAgo": "18 dk önce",
-      "body": "Otomatik ödeme talimatı ve yeterli bakiyesi olmasına rağmen teknik aksaklıklar nedeniyle HGS geçişi okunmayan milyonlarca sürücü, kendilerine hiçbir uyarı yapılmadan gönderilen icra tebligatlarıyla karşı karşıya kalıyor. Ekim ayında değişen ödeme sistemiyle birlikte Karayolları’na yönelik şikayetler yüzde 311 artarken, sürücüler tüm borçların tek bir e-Devlet ekranında toplanmasını talep ediyor.",
-      "highlights": [],
+      "body": "Hızlı Geçiş Sistemi (HGS) kullanan araç sahipleri, okuma hataları ve bildirim eksiklikleri nedeniyle katlanan borçlar ve icra takipleriyle karşı karşıya kalıyor. Banka hesaplarında yeterli bakiye olmasına veya otomatik ödeme talimatı bulunmasına rağmen, etiket okuma hataları ya da plaka algılayamaması yüzünden ücretler tahsil edilemiyor.\n\nSürücülere herhangi bir SMS veya dijital bildirim ulaşmazken, durumdan aylar sonra hukuk bürolarından gelen icra ödeme emirleriyle haberdar olunuyor. Vatandaşlar, 165 liralık geçiş ücretinin ceza, faiz ve vekalet masraflarıyla 20 katına çıkarak 3 bin 326 liraya, 1.045 liralık geçişin ise 12 bin liraya ulaştığını aktarıyor.\n\nMevzuata göre ilk 15 gün içinde ödeme yapılmazsa ceza uygulanıyor; bu süre geçtikten sonra ceza katlanıyor. Sürece vekalet ücreti, yasal faiz, KDV ve dosya masrafları ekleniyor. Kanun, dört kat ceza uygulanmadan en az 15 gün önce bildirim yapılmasını şart koysa da, sürücüler bu sürede bilgilendirilmediklerini ifade ediyor.\n\nEkim ayında devreye alınan yeni ödeme altyapısı süreçleri karmaşıklaştırdı ve Karayolları Genel Müdürlüğü’ne yönelik şikayetler yüzde 311 arttı. Plaka numarasıyla doğrudan borç ödeme dönemi biterken, ödemeler ruhsat sahibinin e-Devlet hesabı üzerinden zorunlu kılındı. Sürücüler, SMS veya bildirim yapılmasını ve tüm HGS borçlarının tek ekranda birleştirilmesini talep ediyor.",
+      "highlights": [
+        "Okuma hataları ve bildirim eksikliği nedeniyle 165 liralık geçiş ücreti icra masraflarıyla 3 bin 326 liraya kadar çıkabiliyor.",
+        "Ekim ayında devreye alınan yeni ödeme altyapısı sonrasında Karayolları Genel Müdürlüğü’ne yönelik şikayetler yüzde 311 arttı.",
+        "Sürücüler, ihlalli geçişlerde kendilerine önceden bildirim yapılmadığını ve ödemelerin e-Devlet üzerinden yapılmasında zorluklar yaşandığını belirtiyor."
+      ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/hgsde-habersiz-ceza-cikmazi-165-liralik-gecis-icra-dosyasiyla-20-katina-cikiyor-4873590",
       "publishedAt": "2026-11-17T16:36:25.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T18:12:54.744Z"
+      "imageSearchAttemptedAt": "2026-11-17T18:12:54.744Z",
+      "sourceTextAttemptedAt": "2026-11-18T05:24:25.509Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/polis-sandiginin-parasi-fonlarda-batti-mi-icisleri-bakani-sandigin-zarari-olmadigini-acikladi-1751335",
@@ -1235,15 +1287,20 @@
       "headline": "Apple'a Paris'te dava: iPhone'larda planlı eskitme iddiası",
       "source": "Euronews",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1605457211992-916aeb947d18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QXBwbGUlMjdhJTIwUGFyaXMlMjd0ZSUyMGRhdmElM0ElMjBpUGhvbmUlMjdsYXJkYSUyMHBsYW5sJUM0JUIxJTIwZXNraXRtZSUyMGlkZGlhcyVDNCVCMXxlbnwxfDB8fHwxNzk0OTc5NDc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Théo Sautif",
+        "photographerUrl": "https://unsplash.com/@theosautif",
+        "unsplashUrl": "https://unsplash.com/photos/blue-iphone-5-c-beside-white-apple-airpods-charging-case-aioruFj-dfU"
+      },
       "timeAgo": "3 dk önce",
       "body": "Suçlu bulunması halinde, ABD teknoloji şirketi, yıllık gelirinin %5’ine kadar, yaklaşık 21,7 milyar € tutarında para cezası ile karşı karşıya kalabilir.",
       "highlights": [],
       "externalUrl": "https://tr.euronews.com/2026/11/17/applea-pariste-dava-iphonelarda-planli-eskitme-iddiasi",
       "publishedAt": "2026-11-17T16:03:10.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T05:24:25.509Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/disisleri-bakani-hakan-fidan-suriyede-entegrasyonu-destekliyoruz-7702586",
