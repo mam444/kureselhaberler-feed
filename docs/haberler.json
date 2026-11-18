@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-18T12:04:52.342Z",
+  "generatedAt": "2026-11-18T12:15:13.846Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/giresunda-feci-kaza-100-metrelik-ucuruma-yuvarlanan-otomobildeki-bir-kisi-oldu-giresun-haberleri-4873978",
+      "headline": "Giresun'da 100 metrelik uçuruma yuvarlanan otomobilde bir kişi hayatını kaybetti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1647278007074-99f738ebe913?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2FyJTIwYWNjaWRlbnQlMjBjbGlmZnxlbnwxfDB8fHwxNzk1MDA0MTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sergey Zigle",
+        "photographerUrl": "https://unsplash.com/@sergeyzigle",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-sitting-on-the-edge-of-a-cliff-next-to-a-red-car-WEd4M0yuM9k"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Giresun'da sabah saatlerinde meydana gelen trafik kazasında bir otomobil kontrolden çıkarak yaklaşık 100 metrelik uçuruma yuvarlandı. Merkez Teyyaredüzü Mahallesi'nde yaşanan olayda, Emine Topşir yönetimindeki 28 AV 422 plakalı araç, sürücünün direksiyon hakimiyetini kaybetmesi sonucunda yoldan çıktı.\n\nKazanın ardından çevredeki vatandaşların ihbarı üzerine olay yerine sağlık ve itfaiye ekipleri sevk edildi. Araçta sıkışan iki kişi, itfaiye ekiplerinin gerçekleştirdiği çalışma neticesinde bulundukları yerden kurtarıldı.\n\nSağlık görevlilerinin yaptığı kontrollerde, otomobilde yolcu olarak bulunan Abdullah Topşir'in olay yerinde yaşamını yitirdiği tespit edildi. Kazada yaralanan sürücü Emine Topşir ise olay yerinde yapılan ilk müdahalenin ardından ambulansla hastaneye ulaştırılarak tedavi altına alındı. Yaşanan feci kazayla ilgili inceleme başlatıldığı bildirildi.",
+      "highlights": [
+        "Giresun Merkez Teyyaredüzü Mahallesi'nde 100 metrelik uçuruma yuvarlanan otomobilde 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+        "Kazada hayatını kaybeden Abdullah Topşir (57) olay yerinde yaşamını yitirdi, yaralı sürücü Emine Topşir (61) hastaneye kaldırıldı.",
+        "Olayla ilgili inceleme başlatıldı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/giresunda-feci-kaza-100-metrelik-ucuruma-yuvarlanan-otomobildeki-bir-kisi-oldu-giresun-haberleri-4873978",
+      "publishedAt": "2026-11-18T12:14:10.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/istanbulda-lodos-etkisini-marmara-denizinde-surduruyor-4873974",
       "headline": "İstanbul'da sabahtan beri etkili olan lodos Marmara Denizi'nde sürüyor",
@@ -15,14 +38,15 @@
       "timeAgo": "2 dk önce",
       "body": "İstanbul'da sabah saatlerinden itibaren başlayan lodos, Marmara Denizi'nde etkisini sürdürmeye devam ediyor. Kentte gün boyu etkili olan rüzgar nedeniyle Salacak sahilinde yüksek dalgalar oluştu.\n\nMeteoroloji Genel Müdürlüğü ve İstanbul Valiliği'nin uyarılarının ardından etkili olan lodos ve fırtına, Üsküdar Sahili'nde de dalgalara yol açtı. Kıyıya vuran dev dalgalar bazı vatandaşları ıslattı.\n\nÖte yandan İBB Afet Koordinasyon Merkezi (AKOM), İstanbul'da rüzgarın etkisini artırarak cuma günü saatte 85 kilometre hıza ulaşabileceğini bildirdi. Yetkililer vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
       "highlights": [
-        "İstanbul'da sabah saatlerinde başlayan lodos Marmara Denizi'nde etkisini sürdürüyor.",
-        "Üsküdar Sahili'nde kıyıya vuran dalgalar vatandaşları ıslattı.",
-        "AKOM, cuma günü rüzgarın hızının 85 kilometreye ulaşabileceği konusunda uyardı."
+        "İstanbul'da sabah saatlerinde başlayan lodos Marmara Denizi'nde etkisini sürdürüyor",
+        "Salacak sahilinde rüzgarın şiddetiyle yüksek dalgalar oluştu",
+        "Rüzgarın etkisi sabah saatlerinden bu yana devam ediyor"
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/istanbulda-lodos-etkisini-marmara-denizinde-surduruyor-4873974",
       "publishedAt": "2026-11-18T12:02:58.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T12:14:55.737Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261118-we-weren-t-afraid-of-the-future-france-s-student-protests-today-and-in-may-68",
@@ -2760,7 +2784,8 @@
       "publishedAt": "2026-11-17T15:44:37.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:34:14.812Z"
+      "imageSearchAttemptedAt": "2026-11-18T07:34:14.812Z",
+      "sourceTextAttemptedAt": "2026-11-18T12:14:55.737Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
@@ -3878,15 +3903,20 @@
       "headline": "\"Evliliğimizin en güzel dönemindeyiz\"",
       "source": "Habertürk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1783690902545-2cf6c3e8a337?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8JTIyRXZsaWxpJUM0JTlGaW1pemluJTIwZW4lMjBnJUMzJUJDemVsJTIwZCVDMyVCNm5lbWluZGV5aXolMjJ8ZW58MXwwfHx8MTc5NTAwNDExM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zulfugar Karimov",
+        "photographerUrl": "https://unsplash.com/@zulfugarkarimov",
+        "unsplashUrl": "https://unsplash.com/photos/young-woman-posing-with-hat-against-a-city-skyline-Kl_P9_SHLcQ"
+      },
       "timeAgo": "5 dk önce",
       "body": "Selahattin Paşalı ve eşi Lara Paşalı, Kadıköy'de görüntülendi. Haklarında çıkan boşanma iddialarına açıklık getiren oyuncu, \"Şu anda evliliğimizin en iyi dönemindeyiz\" dedi",
       "highlights": [],
       "externalUrl": "https://www.haberturk.com/magazin/selahattin-pasali-evliligimizin-en-guzel-donemindeyiz-3927749",
       "publishedAt": "2026-11-17T05:39:07.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T12:14:55.737Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-sozcu-tvye-kayyum-atandi-7702127",
