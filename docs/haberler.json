@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-18T18:56:51.336Z",
+  "generatedAt": "2026-11-18T19:00:46.572Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/video/emlak/konutta-eski-kiraci-donemi-3494976",
-      "headline": "Konutta eski kiracı dönemi: Sahipleri mevcut kiracısını tutmaya çalışıyor",
+      "headline": "Konutta eski kiracı dönemi: Ev sahipleri mevcut kiracılarını tutmaya çalışıyor",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
       "imageUrl": "https://images.unsplash.com/photo-1624204386084-dd8c05e32226?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmVudCUyMGFwYXJ0bWVudHxlbnwxfDB8fHwxNzk1MDI4MjA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -13,14 +13,30 @@
         "unsplashUrl": "https://unsplash.com/photos/apartment-building-reflecting-pink-sky-4453DIQWtsQ"
       },
       "timeAgo": "şimdi",
-      "body": "Konut ve kira piyasasındaki dengeler değişmeye başladı. Sektör temsilcilerinin aktardığına göre, daha önce kiracısını çıkarıp mülkünü daha yüksek bir bedelle kiraya verme eğilimi gösteren ev sahipleri, artık mevcut kiracılarını korumaya yöneldi.\n\nTÜFE artışlarıyla birlikte, iki yıl önce 30 bin lira olan bir dairenin kirası 52 bin liraya ulaşırken, aynı binadaki boş bir daire 45 bin liraya dahi yeni kiracı bulamamakta. Bu durum karşısında mülk sahipleri, kiracılarının çıkmaması için zam yapmadan, kira artışı almadan yola devam etmeyi tercih ediyor.\n\nGayrimenkul Uzmanı Şenay Araç, eski kiracılarının daha yüksek kirada oturduğuna dikkat çekerek, dairenin boşalması ve yeniden kiraya verilmesi durumunda hem ay kaybı yaşandığını hem de tanınmayan yeni bir kiracıyla sözleşme yapıldığını belirtti.\n\nSektör temsilcilerine göre eski ve yeni kiracı arasındaki makas kapandı. Geçmiş yıllarda enflasyon oranında yapılan zamlar, şu anki enflasyon oranıyla karşılaştırıldığında eski kira rakamlarının daha yüksek seviyede kalmasına neden oldu.",
+      "body": "Konut ve kira piyasasındaki dengeler değişmeye başladı. Sektör temsilcilerinin aktardığı bilgilere göre, daha önce kiracılarını çıkararak mülklerini yüksek fiyatlara kiraya verme eğiliminde olan ev sahipleri, artık mevcut kiracılarını ellerinde tutmaya çalışıyor.\n\nEski dönemde ev sahipleri kiracılarını çıkarıp evlerini daha pahalıya vermeyi hedefliyordu. Ancak TÜFE artışlarıyla birlikte, iki yıl önce 30 bin lira olan bir dairenin kirası günümüzde 52 bin liraya yükselirken, aynı binadaki boş bir daire 45 bin liraya dahi yeni kiracı bulamayabiliyor. Bu durum karşısında mülk sahipleri, kiracılarının çıkmaması ve yerlerinde kalması için bazen zam yapmadan, kira artışı almadan yola devam etmeyi tercih ediyor.\n\nGayrimenkul Uzmanı Şenay Araç, eski kiracılı dairelerin daha yüksek kirada oturduğunu belirtti. Araç, daire boşalıp yeniden kiraya verildiğinde hem aylık kira kaybı yaşandığını hem de tanınmayan yeni bir kiracıyla kontrat yapıldığını ifade etti.\n\nSektör temsilcilerine göre eski kiracı ile yeni kiracı arasındaki makas kapanmış durumda. Geçmiş yıllarda enflasyon oranında yapılan zamlar, şu anki enflasyon oranıyla kıyaslandığında eski kira rakamlarının daha yüksekte kalmasına yol açtı.",
       "highlights": [
-        "Eski kiracısını çıkarıp yüksek ücrete kiralamak isteyenler mevcut kiracıyı tutmaya çalışıyor",
-        "Boş daireler yüksek fiyatlara kiracı bulamazken, eski kiracılar daha yüksek kirada oturuyor",
-        "Eski ve yeni kiracı arasındaki makas kapandı"
+        "Ev sahipleri artık mevcut kiracılarını tutmaya çalışıyor",
+        "Aynı binadaki boş daireler daha düşük fiyatlara bile kiracı bulamıyor",
+        "Eski kiracı ile yeni kiracı arasındaki makas kapandı"
       ],
       "externalUrl": "https://www.cnnturk.com/video/emlak/konutta-eski-kiraci-donemi-3494976",
       "publishedAt": "2026-11-18T19:00:04.000Z",
+      "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T19:00:38.899Z"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/taha-cakmaktan-istanbul-adliyesinde-ek-ifade-4874087",
+      "headline": "Taha Çakmak'tan İstanbul Adliyesi'nde ek ifade",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Fon soruşturması kapsamında tutuklanan Taha Çakmak, İstanbul Adliyesi’nde ek ifade verdi. Çakmak, ifadesinin ardından yeniden cezaevine götürüldü.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/taha-cakmaktan-istanbul-adliyesinde-ek-ifade-4874087",
+      "publishedAt": "2026-11-18T18:55:42.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -158,6 +174,28 @@
       ],
       "externalUrl": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
       "publishedAt": "2026-11-18T18:23:25.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+      "headline": "İsrail Mahkemesi Gazze'li Doktor Ebu Safiye'nin Gözaltı Süresini Uzattı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1636652966850-5ac4d02370e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnQlMjByb29tfGVufDF8MHx8fDE3OTUwMjg0NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Colin Lloyd",
+        "photographerUrl": "https://unsplash.com/@onthesearchforpineapples",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-clock-on-the-front-of-it-_JEiyOfC2y8"
+      },
+      "timeAgo": "38 dk önce",
+      "body": "Bir İsrail mahkemesi, Gazze'li doktor Ebu Safiye'nin gözaltı süresini uzatma kararı aldı.\n\nSöz konusu karar, İsrail ordusunun Ebu Safiye'yi gözaltına almasından bu yana yaklaşık iki yıllık bir sürenin geçmesinin ardından geldi.\n\nMahkemenin aldığı bu kararla birlikte doktorun tutukluluk hali devam ederken, hakkında herhangi bir resmi suçlama yöneltilmediği belirtildi.",
+      "highlights": [
+        "İsrail mahkemesi doktor Ebu Safiye'nin gözaltı süresini uzattı",
+        "Gözaltı kararı ordunun alıkoymasından yaklaşık iki yıl sonra geldi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
+      "publishedAt": "2026-11-18T18:22:26.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -3394,7 +3432,7 @@
       "publishedAt": "2026-11-17T18:14:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-17T18:44:22.286Z"
+      "sourceTextAttemptedAt": "2026-11-18T19:00:38.899Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/bakan-kurum-alman-mevkidasi-schneider-ile-gorustu-3494503",
