@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-18T08:04:48.818Z",
+  "generatedAt": "2026-11-18T08:14:36.930Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/tiktokta-dini-istismar-skandali-kabeyi-jeton-karsiligi-kazanc-kapisina-cevirdiler-4873830",
+      "headline": "TikTok'ta Dini Değerlerin İstismarına Tepki",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1611605698323-b1e99cfd37ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VGlrVG9rJTIwbGl2ZXxlbnwxfDB8fHwxNzk0OTg5Njc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alexander Shatov",
+        "photographerUrl": "https://unsplash.com/@alexbemore",
+        "unsplashUrl": "https://unsplash.com/photos/tiktok-logo-with-chromatic-aberration-I4p0FcjDBJI"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Sosyal medya platformu TikTok üzerinden gerçekleştirilen bazı canlı yayınlar, dini değerlerin para kazanma amacıyla kullanılması nedeniyle büyük tepki topladı. Kullanıcıların Kabe görseli etrafında sanal tavaf animasyonları oluşturduğu görüldü.\n\nSöz konusu yayınlarda, izleyiciler tarafından gönderilen jeton ve hediyelerin miktarına bağlı olarak çeşitli uygulamaların devreye sokulduğu belirlendi. Daha fazla hediye gönderen kullanıcılara yönelik ‘zemzem ikramı’ ve ‘şeytan taşlama’ gibi dijital efektlerin sunulması dikkat çekti.\n\nYaşanan bu durum, sosyal medya kullanıcıları arasında dini değerlerin açık bir şekilde istismar edildiği yönünde eleştirilere neden oldu. Platformdaki benzer içerikler kamuoyunda tartışma yaratmaya devam ediyor.",
+      "highlights": [
+        "TikTok'ta Kabe görseliyle sanal tavaf animasyonları yapıldı",
+        "Jeton ve hediyelere göre zemzem ikramı ve şeytan taşlama efektleri sunuldu",
+        "Yayınlar dini değerlerin istismar edildiği eleştirilerine neden oldu"
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/tiktokta-dini-istismar-skandali-kabeyi-jeton-karsiligi-kazanc-kapisina-cevirdiler-4873830",
+      "publishedAt": "2026-11-18T08:11:55.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/dev-surpriz-antalya-kiyilarina-geldi-denizalti-sandik-7702850",
       "headline": "Antalya kıyılarında sürpriz balina heyecanı",
@@ -23,6 +47,30 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/dev-surpriz-antalya-kiyilarina-geldi-denizalti-sandik-7702850",
       "publishedAt": "2026-11-18T08:02:32.000Z",
       "category": "Son Dakika",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:14:30.426Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
+      "headline": "Hindistan, Bangladeş'teki SAFF Şampiyonası'nda Pakistan'ı yenerek şampiyon oldu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "attributionNote": null,
+      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk0OTg5NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mario Klassen",
+        "photographerUrl": "https://unsplash.com/@marioklassen",
+        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
+      },
+      "timeAgo": "20 dk önce",
+      "body": "Binlerce Bangladeşli taraftar, Hindistan'ın Dakka'da düzenlenen SAFF Şampiyonası'nda üst üste üçüncü kez bu unvanı kazandığı karşılaşmayı tribünden takip etti. Dakka kentinde gerçekleştirilen müsabakada Hindistan, rakibi Pakistan'ı mağlup etmeyi başardı.\n\nKarşılaşmayı izlemek üzere stadyuma akın eden binlerce yerel futbolsever, turnuvanın final heyecanına ortak oldu. Alınan bu sonuçla birlikte Hindistan, SAFF organizasyonundaki üstünlük serisini sürdürerek şampiyonluk kupasını müzesine götürdü.",
+      "highlights": [
+        "Binlerce Bangladeşli taraftar maçı izlemek için stadyuma geldi.",
+        "Hindistan, Dakka'da üst üste üçüncü SAFF şampiyonluğunu elde etti."
+      ],
+      "externalUrl": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
+      "publishedAt": "2026-11-18T07:54:15.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -38,11 +86,16 @@
       },
       "timeAgo": "2 dk önce",
       "body": "Sözlük tarafından yapılan açıklamada, yılın kelimesinin insanların, hayvanlardan veya makinelerden farklı olarak sahip olduğu nitelikleri, kusurları ve duyguları ifade ettiği belirtildi. Cambridge Sözlüğü Baş Editörü Colin McIntosh, yapay zekanın insanların insan olma biçimine ilişkin konuşmalarını değiştirdiğini belirtti. İnsanların düşünme süreçlerini yapay zekaya devretmeleri halinde neleri kaybedebileceklerine…",
-      "highlights": [],
+      "highlights": [
+        "Cambridge Sözlüğü 2026 yılının kelimesini açıkladı.",
+        "\"İnsan\" kelimesi tartışmaların merkezine yerleşti.",
+        "2025 yılının kelimesi \"parasosyal\" olmuştu."
+      ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-2026-yilinin-kelimesi-belli-oldu-tartismalarin-merkezine-yerlesti-7702846",
       "publishedAt": "2026-11-18T07:52:28.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T08:14:30.426Z"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/cop31de-depozito-yonetim-sistemi-dunyaya-tanitiliyor-7702841",
@@ -1926,15 +1979,20 @@
       "headline": "Çanakkale'de feribot seferleri iptal edildi",
       "source": "Habertürk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1655918986943-add6734678bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8JUMzJTg3YW5ha2thbGUlMjdkZSUyMGZlcmlib3QlMjBzZWZlcmxlcmklMjBpcHRhbCUyMGVkaWxkaXxlbnwxfDB8fHwxNzk0OTg5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Özer Öztürk",
+        "photographerUrl": "https://unsplash.com/@ozerozturk",
+        "unsplashUrl": "https://unsplash.com/photos/a-boat-in-the-water-_iF4Ij6EAp4"
+      },
       "timeAgo": "9 dk önce",
       "body": "Çanakkale'nin Bozcaada ve Gökçeada ilçelerine 18 Kasım Çarşamba günü yapılması planlanan bazı feribot seferleri, Kuzey Ege Denizi'ndeki olumsuz hava şartları nedeniyle iptal edildi. Gestaş, iki ada hattında toplam 8 seferin gerçekleştirilemeyeceğini duyurdu",
       "highlights": [],
       "externalUrl": "https://www.haberturk.com/gundem/canakkale-de-olumsuz-hava-sartlari-nedeniyle-18-kasim-da-8-sefer-iptal-edildi-3928035",
       "publishedAt": "2026-11-17T15:36:01.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T08:14:30.426Z"
     },
     {
       "id": "https://www.dw.com/tr/berlin-onur-yürüyüşü-ne-saldırının-faili-hapisteyken-almanya-dan-devlet-yardımı-aldı/a-79972270?maca=tur-rss-tur-all-1495-xml-mrss",
