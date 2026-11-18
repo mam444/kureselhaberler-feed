@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-18T12:25:43.241Z",
+  "generatedAt": "2026-11-18T12:44:59.880Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/adalet-bakani-gurlek-duyurdu-kirmizi-bultenle-aranan-isimler-turkiyede-7703115",
+      "headline": "Adalet Bakanı Gürlek duyurdu: Kırmızı bültenle aranan isimler Türkiye'de",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1566762773464-e11000956ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QWRhbGV0JTIwQmFrYW4lQzQlQjElMjBHJUMzJUJDcmxlayUyMGR1eXVyZHUlM0ElMjBLJUM0JUIxcm0lQzQlQjF6JUM0JUIxJTIwYiVDMyVCQ2x0ZW5sZSUyMGFyYW5hbiUyMGlzaW1sZXIlMjBUJUMzJUJDcmtpeWUlMjdkZXxlbnwxfDB8fHwxNzk1MDA1ODk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Eren Namlı",
+        "photographerUrl": "https://unsplash.com/@namlieren",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-of-people-near-building-showing-turkey-flag-during-daytime-mdjqOYwuG6g"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Bakan Gürlek paylaşımında, \"Gürcistan makamlarıyla yürüttüğümüz uluslararası adli iş birliği sonucunda, aralarında kırmızı bültenle aranan suç örgütü elebaşı Ahmet Dinç ile Yusuf Namlı'nın da bulunduğu toplam 6 firarinin ülkemize iadesini sağladık. İstanbul'da 48 ayrı eylemden sorumlu olduğu tespit edilen suç örgütünün elebaşı Ahmet Dinç, suç işlemek amacıyla örgüt kurma, resmî belgede sahtecilik ve nitelikli…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/adalet-bakani-gurlek-duyurdu-kirmizi-bultenle-aranan-isimler-turkiyede-7703115",
+      "publishedAt": "2026-11-18T12:42:58.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cq4gnzmn5vl3o?at_medium=RSS&at_campaign=rss",
       "headline": "Erdoğan, fon krizinden zarar görenlere 161 milyar TL ödendiğini açıkladı: 'Kamu kaynakları kullanılmadı'",
@@ -13,16 +32,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-woman-walking-down-a-street-with-a-bag-MTebJe3M-BU"
       },
       "timeAgo": "2 dk önce",
-      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan, AKP Meclis Grup Toplantısı'nda yaptığı konuşmada, fon krizinden zarar gören 317 bin kişiye net yatırım tutarları olan 161 milyar liranın geri ödendiğini açıkladı. Erdoğan, bu ödemelerde kamu kaynaklarının kullanılmadığını belirtti. Sermaye piyasalarına kötülük yapanlardan hesap sorulduğunu ifade eden Erdoğan, piyasa dolandırıcıları ile meşru borsa yatırımcılarının birbirinden ayrı tutulduğunu söyledi. Söylentilere ve trol hesaplara kulak asmadıklarını belirten Erdoğan, benzer sorunların tekrarlanmaması için yasal düzenlemeler yapılacağını aktardı.\n\nÖte yandan Adalet Bakanı Akın Gürlek, fon soruşturmasında sürecin sürdüğünü ve Tasarruf Mevduatı Sigorta Fonu'nun gönüllü iade hesabına cezaevinden de başvurular olduğunu bildirdi. Gürlek, daha önce 75 kişiden yaklaşık 40,4 milyar lira tahsil edildiğini açıklamıştı. Gönüllü iadenin hukuki sorumluluğu ortadan kaldırmadığına dikkat çeken Gürlek, SPK yatırım fonlarında tasfiye kararından önce yüksek kazanç elde edenlerin bu kazançları iade edebilmesi için isteğe bağlı iade hesapları açıldığını kaydetti.\n\nİstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasının derinleştirildiği belirtildi. Adalet Bakanı Gürlek, soruşturma kapsamında 17 Kasım itibarıyla 498 şüpheli bulunduğunu, bunlardan 129'unun tutuklu olduğunu ve 289 kişi hakkında adli kontrol uygulandığını açıkladı.",
+      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan, fon krizinden zarar gören 317 bin kişiye net yatırım tutarları olan 161 milyar liranın geri ödendiğini açıkladı. Erdoğan, bu ödemelerde kamu kaynaklarının kullanılmadığını belirtti.\n\nAKP Meclis Grup Toplantısı'nda konuşan Erdoğan, Türkiye ekonomisine ve sermaye piyasalarına zarar verenlerden hesap sorulduğunu ifade etti. Piyasayı dolandıranlar ile meşru borsa yatırımcılarını ayırarak konuya yaklaştıklarını söyleyen Erdoğan, muhalefete de tepki göstererek söylentilere ve trol hesaplara itibar etmediklerini dile getirdi. Benzer sorunların tekrar yaşanmaması için şeffaflığı artıracak, denetimi güçlendirecek ve cezaları caydırıcı hale getirecek yasa çalışması yürüttüklerini kaydetti.\n\nAdalet Bakanı Akın Gürlek ise fon soruşturmasında sürecin devam ettiğini, Tasarruf Mevduatı Sigorta Fonu'nun (TMSF) açıkladığı gönüllü iade hesabına cezaevinden de başvurular olduğunu bildirdi. Gürlek, daha önce 75 kişiden yaklaşık 40,4 milyar lira tahsil edildiğini duyurmuştu. Gönüllü iadenin hukuki sorumluluğu ortadan kaldırmadığını vurgulayan Gürlek, SPK yatırım fonlarında tasfiye kararından önce yüksek kazanç elde edenlerin bu kazançları iade edebilmesi için iade hesapları açıldığını belirtti.\n\nİstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmasında 17 Kasım itibarıyla 489 şüpheli bulunduğu, bunlardan 129'unun tutuklu olduğu, 289 kişi hakkında ise adli kontrol uygulandığı açıklandı. Soruşturmanın para hareketleri ve mal varlığı devirleri incelenerek derinleştirildiği ifade edildi.",
       "highlights": [
-        "Fon krizinden zarar gören 317 bin kişiye 161 milyar lira ödendi.",
-        "Adalet Bakanı Gürlek, gönüllü iade hesabına cezaevinden de başvuru olduğunu belirtti.",
-        "Soruşturmada 17 Kasım itibarıyla 129'u tutuklu 498 şüpheli bulunuyor."
+        "Fon krizinden zarar gören 317 bin kişiye 161 milyar lira geri ödendi.",
+        "Ödemelerde kamu kaynaklarının kullanılmadığı açıklandı.",
+        "Soruşturma kapsamında 129'u tutuklu 489 şüpheli bulunuyor."
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cq4gnzmn5vl3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-18T12:22:59.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T12:44:48.013Z"
     },
     {
       "id": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
@@ -35,12 +55,14 @@
       "body": "Eski Demokrat Temsilci Mary Peltola, ABD'nin en çok takip edilen Senato seçimlerinden birini kazandı. Bu gelişmeyle birlikte Alaska'nın Senato koltuğunun sahibi değişti.\n\nÖte yandan teknoloji devi Nvidia cephesinde de önemli bir yönetim kurulu kararı alındı. Şirketin yönetim kurulu, eski CEO Jensen Huang'ın müttefiklerinden gelen baskılara rağmen onu yeniden göreve getirmeyi planlamadığını açıkladı. Huang'ın geri döndürülmesi yönündeki baskılara rağmen kurul bu konudaki duruşunu sürdürüyor.",
       "highlights": [
         "Eski Demokrat Temsilci Mary Peltola Senato yarışını kazandı.",
-        "Nvidia yönetim kurulu, Jensen Huang'ı yeniden göreve getirmeyi planlamıyor."
+        "Nvidia yönetim kurulu eski CEO Jensen Huang'ı yeniden göreve getirmeyi planlamıyor."
       ],
       "externalUrl": "https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai",
       "publishedAt": "2026-11-18T12:14:28.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T12:44:48.013Z",
+      "sourceTextAttemptedAt": "2026-11-18T12:44:48.013Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/giresunda-feci-kaza-100-metrelik-ucuruma-yuvarlanan-otomobildeki-bir-kisi-oldu-giresun-haberleri-4873978",
@@ -4012,7 +4034,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/bingolde-mantar-zehirlenmesi-alarmi-5-kisi-hastaneye-kaldirildi-7702047",
       "publishedAt": "2026-11-16T20:22:46.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-18T12:44:48.013Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
@@ -8869,6 +8892,7 @@
     "https://www.haberturk.com/gundem/son-dakika-vanda-43-buyuklugunde-deprem-3928042",
     "https://www.aljazeera.com/video/doha-debates/2026/11/17/has-empire-shaped-todays-world?traffic_source=rss",
     "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
-    "https://www.milliyet.com.tr/gundem/beyoglunda-binada-yangin-olay-yerine-cok-sayida-ekip-sevk-edildi-7703096"
+    "https://www.milliyet.com.tr/gundem/beyoglunda-binada-yangin-olay-yerine-cok-sayida-ekip-sevk-edildi-7703096",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss"
   ]
 }
