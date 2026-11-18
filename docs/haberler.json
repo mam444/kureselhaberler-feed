@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:06:13.579Z",
+  "generatedAt": "2026-11-18T19:14:18.327Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/video/emlak/konutta-eski-kiraci-donemi-3494976",
@@ -62,7 +62,8 @@
       "externalUrl": "https://www.aa.com.tr/tr/dunya/d-8-genel-sekreterinden-iklim-degisikligine-karsi-uygulamaya-gecilmesi-cagrisi/4129752",
       "publishedAt": "2026-11-18T18:55:28.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T19:14:17.603Z"
     },
     {
       "id": "https://www.theguardian.com/society/2026/nov/18/burnham-cuts-national-insurance-youth-jobs-milburn-report",
@@ -268,7 +269,8 @@
       "externalUrl": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
       "publishedAt": "2026-11-18T18:15:59.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T19:14:17.603Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/yagistan-etkilenenlere-su-faturasinda-4-ay-erteleme-4874079",
@@ -10288,29 +10290,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/dunya/disisleri-bakanligindan-israil-e-tepki-3926649",
       "publishedAt": "2026-11-11T19:23:21.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.sabah.com.tr/yasam/turk-pilot-nepalde-kahraman-oldu-dehset-anlarinin-boyle-anlatti-7699852",
-      "headline": "Türk pilot Mehmet Nuri Şen Nepal'deki tehlikeli olayda facianın eşiğinden döndü",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1633118325558-c817f0259943?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aG90JTIwYWlyJTIwYmFsbG9vbnxlbnwxfDB8fHwxNzk0NDI1NTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AARON JONES",
-        "photographerUrl": "https://unsplash.com/@ajpix",
-        "unsplashUrl": "https://unsplash.com/photos/a-colorful-hot-air-balloon-flying-in-the-sky-z0uSs-Q1EkI"
-      },
-      "timeAgo": "24 dk önce",
-      "body": "Dünyanın en popüler turizm ve doğa sporları merkezlerinden biri olan Nepal'de, Türk pilot Mehmet Nuri Şen'in yönetimindeki sıcak hava balonu son derece tehlikeli ve korku dolu anlara sahne oldu. Edinilen bilgilere göre gökyüzündeki rutin turistik uçuşunu gerçekleştiren hava aracı, bölgede birdenbire şiddetini artıran elverişsiz rüzgarların kurbanı oldu. Aniden bastıran kuvvetli hava akımı nedeniyle balonun dengesini sağlayan temel unsurlardan biri olan bir ipin koptuğu öğrenildi.\n\nBağlantı ipinin kopmasıyla birlikte pilotun kontrolü sağlamakta zorlandığı sıcak hava balonu, havada savrularak hızla yerleşim yerlerindeki yüksek gerilim elektrik hatlarına doğru sürüklenmeye başladı. Yaşanan bu ani ve tehlikü rotanın ardından hava aracının sepetinde bulunan yolcular arasında büyük bir panik dalgası yayıldı. Ölümcül bir kazaya davetiye çıkaran bu tehlikeli yakınlaşma, havada asılı kalan yüzlerce voltluk kablolar nedeniyle her an büyük bir felakete dönüşebilecek bir potansiyel taşıyordu.\n\nOlay anında yaşanan dehşet verici saniyeleri ve yolcuların yaşadığı büyük paniği daha sonra anlatan deneyimli Türk pilot Mehmet Nuri Şen, kritik dakikalarda soğukkanlılığını koruyarak büyük bir faciayı önlemeyi başardı. Sürüklenen balonun elektrik tellerine temas etmesini engellemek için havada hayati manevralar yapan Şen, profesyonel becerilerini konuşturarak aracı güvenli bir şekilde kontrol altına almayı başardı.\n\nUçuş esnasında yaşanan bu nefes kesen dakikalar, turizm amaçlı sıcak hava balonu faaliyetlerinin doğa koşullarına karşı ne kadar hassas olduğunu bir kez daha gözler önüne serdi. Pilotun hızlı refleksleri sayesinde herhangi bir can kaybı ya da yaralanma yaşanmazken, olay gökyüzü maceraları tarihindeki en korkutucu ama aynı zamanda ucuz atlatılmış kazalardan biri olarak kayıtlara geçti.\n\nSöz konusu olay, havacılık sektöründe güvenlik protokollerinin ve pilot tecrübesinin hayati önemini bir kez daha hatırlatırken, Nepal'de görev yapan Türk pilotun gösterdiği kahramanlık uluslararası kamuoyunda da geniş yankı uyandırdı. Yetkililer, benzer hava muhalefetlerinin turizm uçuşları üzerindeki risklerine dikkat çekerek incelemelerin sürdüğünü belirtti.",
-      "highlights": [
-        "Nepal'de Türk pilot Mehmet Nuri Şen'in kullandığı sıcak hava balonu kontrolden çıktı.",
-        "Şiddetli rüzgar nedeniyle ipi kopan balon, elektrik hatlarına doğru sürüklendi.",
-        "Deneyimli pilotun soğukkanlı müdahalesi sayesinde facia önlendi ve yolcular kurtuldu."
-      ],
-      "externalUrl": "https://www.sabah.com.tr/yasam/turk-pilot-nepalde-kahraman-oldu-dehset-anlarinin-boyle-anlatti-7699852",
-      "publishedAt": "2026-11-11T19:08:21.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
