@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T19:00:46.572Z",
+  "generatedAt": "2026-11-18T19:06:13.579Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/video/emlak/konutta-eski-kiraci-donemi-3494976",
@@ -34,9 +34,33 @@
       "imageCredit": null,
       "timeAgo": "5 dk önce",
       "body": "Fon soruşturması kapsamında tutuklanan Taha Çakmak, İstanbul Adliyesi’nde ek ifade verdi. Çakmak, ifadesinin ardından yeniden cezaevine götürüldü.",
-      "highlights": [],
+      "highlights": [
+        "Haluk Levent hakkında yürütülen soruşturmaya ilişkin yeni iddialar gündeme geldi.",
+        "Soruşturma dosyasında milyonluk para trafiği ve Kıbrıs kumarhaneleri ayrıntıları yer aldı."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/taha-cakmaktan-istanbul-adliyesinde-ek-ifade-4874087",
       "publishedAt": "2026-11-18T18:55:42.000Z",
+      "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T19:05:48.836Z",
+      "imageSearchAttemptedAt": "2026-11-18T19:05:48.836Z"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/d-8-genel-sekreterinden-iklim-degisikligine-karsi-uygulamaya-gecilmesi-cagrisi/4129752",
+      "headline": "D-8 Genel Sekreterinden iklim değişikliğine karşı uygulamaya geçilmesi çağrısı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1652883083229-2b288968f3d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RC04JTIwR2VuZWwlMjBTZWtyZXRlcmluZGVuJTIwaWtsaW0lMjBkZSVDNCU5RmklQzUlOUZpa2xpJUM0JTlGaW5lJTIwa2FyJUM1JTlGJUM0JUIxJTIwdXlndWxhbWF5YSUyMGdlJUMzJUE3aWxtZXNpJTIwJUMzJUE3YSVDNCU5RnIlQzQlQjFzJUM0JUIxfGVufDF8MHx8fDE3OTUwMjg3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emir Eğricesu",
+        "photographerUrl": "https://unsplash.com/@emiregricesu",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-a-protest-sign-PjzMXGNMoh4"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "D-8 Genel Sekreteri Büyükelçi Sohail Mahmood, emisyon azaltımının hızlandırılması, dayanıklılığın güçlendirilmesi ve uluslararası taahhütler ile uygulama arasındaki açığın kapatılmasının aciliyetini vurguladı.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/d-8-genel-sekreterinden-iklim-degisikligine-karsi-uygulamaya-gecilmesi-cagrisi/4129752",
+      "publishedAt": "2026-11-18T18:55:28.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -197,7 +221,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
       "publishedAt": "2026-11-18T18:22:26.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-18T19:05:48.836Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
@@ -219,6 +244,29 @@
       ],
       "externalUrl": "https://www.france24.com/en/europe/20261118-why-ukraine-keeps-trying-to-bring-down-russia-s-bridge-to-crimea",
       "publishedAt": "2026-11-18T18:17:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "headline": "Karl Kani Kendi Hikayesini Anlatıyor",
+      "source": "NPR",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
+      "imageUrl": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmFzaGlvbiUyMGRlc2lnbmVyfGVufDF8MHx8fDE3OTUwMjg3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alyssa Strohmann",
+        "photographerUrl": "https://unsplash.com/@anotherlovely",
+        "unsplashUrl": "https://unsplash.com/photos/hanged-top-on-brown-and-white-clothes-horse-TS--uNw-JqE"
+      },
+      "timeAgo": "50 dk önce",
+      "body": "Moda tasarımcısı Karl Kani, NPR'ın Morning Edition programına konuk olarak yeni anı kitabından bahsetti. Programda, hip-hop dünyasının en büyük yıldızlarından bazılarını nasıl giydirdiğini anlatan Kani, aynı zamanda dar paça kot pantolonların herkes için uygun olmadığını dile getirdi.\n\nOn yıllar boyunca hip-hop müziğin önde gelen isimlerine kıyafetler tasarlayan Kani, bu süreçte edindiği deneyimleri kaleme aldığı yeni kitabıyla kendi hikayesini okuyucularla buluşturuyor.",
+      "highlights": [
+        "Karl Kani yeni anı kitabından bahsetti",
+        "Hip-hop'ın en büyük yıldızlarını giydirdi",
+        "Dar paça kotların herkes için olmadığını söyledi"
+      ],
+      "externalUrl": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
+      "publishedAt": "2026-11-18T18:15:59.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
