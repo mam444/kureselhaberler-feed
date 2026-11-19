@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T12:44:40.962Z",
+  "generatedAt": "2026-11-19T12:54:49.112Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/tekirdag-ve-antalya-dahil-9-belediye-ak-partide-candan-yuceer-ve-busra-ozdemir-rozetlerini-takti-1751605",
+      "headline": "Tekirdağ ve Antalya dahil 9 belediye başkanı AK Parti'ye katıldı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1691034545710-036170315565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QUslMjBQYXJ0aSUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NTA4Njg3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hasdi Putra",
+        "photographerUrl": "https://unsplash.com/@hasdiputra",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-holding-a-microphone-standing-in-front-of-a-group-of-people-NWiS2A8-npM"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Antalya Büyükşehir Belediyesi Başkanvekili Büşra Özdemir ve İstanbul Beyoğlu Belediye Başkanvekili Sefer Karaahmetoğlu'nun da aralarında bulunduğu 9 belediye başkanı AK Parti'ye geçti. AK Parti'de düzenlenen Genişletilmiş İl Başkanları Toplantısı öncesinde, saat 14.00'te Genel Merkez'e gelen isimler Cumhurbaşkanı Recep Tayyip Erdoğan tarafından karşılandı. Erdoğan, sahneye çıkan belediye başkanlarına rozetlerini taktı.\n\nKatılan isimler arasında Candan Yüceer, Büşra Özdemir ve Sefer Karaahmetoğlu dikkat çekti. Yüceer 12 gün önce Yeni Parti'den istifa ederken, Özdemir ve Karaahmetoğlu bu hafta içinde CHP'den ayrılmıştı. NTV Ankara Muhabiri Ahmet Örsoğlu, 31 Mart 2024 yerel seçimlerinden bu yana AK Parti'ye katılan belediye başkanı sayısının 117'ye ulaştığını belirtti.\n\nAK Parti'ye katılan 9 isim şu şekilde sıralandı: Candan Yüceer (Tekirdağ Büyükşehir Belediye Başkanı), Büşra Özdemir (Antalya Büyükşehir Belediyesi Başkanvekili), Saniye Caran (Antalya Korkuteli Belediye Başkanı), Fahri Duran (Antalya Demre Belediye Başkanı), Sefer Karaahmetoğlu (İstanbul Beyoğlu Belediyesi Başkanvekili), Bülent Kara (Giresun Tirebolu Belediye Başkanı), Erdinç Altıok (Adana Yumurtalık Belediye Başkanı), Özkan Günenç (Edirne Enez Belediye Başkanı) ve Ramazan Karakaya (Uşak Karahallı Belediye Başkanı).\n\nAntalya Demre Belediye Başkanı Fahri Duran, CHP'deki görevini sonlandırdığını ve AK Parti çatısı altında siyaset yapacağını açıklamıştı. Candan Yüceer ise 7 Kasım 2026'da sosyal medya hesabından yaptığı paylaşımla Yeni Parti'den istifa ettiğini duyurmuş, kurultay sürecindeki tartışmalara tepki göstererek yol arkadaşlığı hukukunun çiğnendiğini ifade etmişti. Öte yandan İstanbul Beyoğlu Belediyesi Başkanvekili Sefer Karaahmetoğlu da yazılı bir açıklama yaparak CHP üyeliğinden istifa ettiğini bildirmişti.",
+      "highlights": [
+        "Tekirdağ ve Antalya dahil 9 belediye başkanı AK Parti'ye katıldı.",
+        "Cumhurbaşkanı Recep Tayyip Erdoğan, Genel Merkez'deki toplantı öncesinde belediye başkanlarına rozetlerini taktı.",
+        "31 Mart 2024'ten bu yana AK Parti'ye katılan belediye başkanlarının sayısı 117'ye yükseldi."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/tekirdag-ve-antalya-dahil-9-belediye-ak-partide-candan-yuceer-ve-busra-ozdemir-rozetlerini-takti-1751605",
+      "publishedAt": "2026-11-19T12:51:55.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/adiyamanda-salep-bitkisi-icin-deneme-dikimi-yapildi-4874446",
       "headline": "Adıyaman'da salep bitkisi için deneme dikimi yapıldı: 40 metrekarelik alan",
@@ -10,15 +33,21 @@
       "imageCredit": null,
       "timeAgo": "1 dk önce",
       "body": "Adıyaman İl Tarım ve Orman Müdürlüğünün yürüttüğü çalışma kapsamında salep bitkisi, merkeze bağlı Bozhöyük köyünde 40 metrekarelik alanda toprakla buluşturuldu. Amaç, bitkinin bölge şartlarına uygunluğunu araştırmak.",
-      "highlights": [],
+      "highlights": [
+        "Adıyaman'da salep bitkisi için deneme dikimi yapıldı",
+        "Çalışma Bozhöyük köyünde 40 metrekarelik alanda gerçekleştirildi",
+        "İl Tarım ve Orman Müdürü Abdulkadir Akkan açıklamalarda bulundu"
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/adiyamanda-salep-bitkisi-icin-deneme-dikimi-yapildi-4874446",
       "publishedAt": "2026-11-19T12:43:07.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T12:54:29.354Z",
+      "imageSearchAttemptedAt": "2026-11-19T12:54:29.354Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
-      "headline": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+      "headline": "Trump'ın müttefiki Todd Blanche'ın eşi, kanıtlanmamış tıbbi iddialarla tedaviler tanıttı",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1612278920639-cfbae3835fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8V2lmZSUyMG9mJTIwVHJ1bXAlMjBhbGx5JTIwVG9kZCUyMEJsYW5jaGUlMjBwcm9tb3RlZCUyMHRyZWF0bWVudHMlMjB3aXRoJTIwdW5wcm92ZW4lMjBtZWRpY2FsJTIwY2xhaW1zfGVufDF8MHx8fDE3OTUwOTIyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -28,10 +57,38 @@
         "unsplashUrl": "https://unsplash.com/photos/2-men-in-black-suit-sitting-on-red-chair-05QvOWAzN3I"
       },
       "timeAgo": "5 dk önce",
-      "body": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative medicine, has a website on which she marketed dietary supplements and treatments with unproven medical and health claims. Blanche is a licensed physician assistant…",
-      "highlights": [],
+      "body": "Trump'ın müttefiki ve başsavcı Todd Blanche'ın eşi Kristine Blanche, alternatif tıp alanındaki bir ABD hükümet danışma kuruluna atandı. Lisanslı bir doktor asistanı ve bütünsel sağlık savunucusu olan Blanche'ın, diyet takviyeleri ile kanıtlanmamış iddialar içeren tedaviler pazarladığı bir web sitesine sahip olduğu belirtildi. \n\nSitede yer alan \"Dr Blanche’s Dispensary\" sayfasında hastaların tavsiye edilen takviye haplarını satın alabileceği görülüyor. Kristine Blanche, bir sıvı bitkisel bileşiğin Epstein-Barr virüsünü tedavi etmek için kullanılabileceğini öne sürdü. Ancak FDA'nın bu virüsü tedavi etmek için onayladığı herhangi bir ilaç bulunmuyor. Ayrıca Blanche'ın insan papillomavirüsünün (HPV) tedavisinde yardımcı olabileceğini belirttiği beş takviyeyi mağazasında listelediği ifade edildi.\n\nE-posta sorularının ardından Epstein-Barr ve HPV tedavileriyle ilgili ürünlerin web sitesinden kaldırıldığı kaydedildi. Sitedeki çevrimiçi mağazada, ürünlerin gıda ve ilaç iddialarını değerlendiren kurum tarafından onaylanmadığına dair bir feragatname yer alıyor. Peter Lurie, bu durumun sağlayıcıların iddialarındaki düzenleme boşluklarını gözler önüne serdiğini söyledi.\n\nNisan ayında federal Ulusal Tamamlayıcı ve Bütünleştirici Sağlık Merkezi'nin danışma kuruluna atanan Blanche, Montserrat'taki University of Science, Arts and Technology'den meme termografisi alanında doktora derecesine sahip olduğunu belirtiyor. Bir NIH sözcüsü, atamanın entegre sağlık alanındaki çalışmaları ve geçmişi temel alınarak gerçekleştirildiğini ifade etti.\n\nBlanche ayrıca bu yıl Iris International tarafından baş tıp görevlisi olarak işe alındı. 2025 ve 2026 mali açıklamalarında, eşinin \"Integrative Healing Center\"dan elde ettiği gelir düşük aralıkta gösterildi. Sitede erkeklerin testosteron seviyelerini artırmasına ve kilo vermesine yardımcı olduğu iddia edilen programlar da bulunuyor. Blanche, termografi kullanımını övdüğünü ve podcast yayınlarında bunun potansiyel riskleri öngörebileceğini söylediğini aktardı.",
+      "highlights": [
+        "Todd Blanche'ın eşi Kristine Blanche, alternatif tıp alanındaki bir ABD hükümet danışma kuruluna atandı.",
+        "Blanche'ın web sitesinde Epstein-Barr ve HPV için kanıtlanmamış tedaviler ve takviyeler pazarladığı belirtildi.",
+        "Soruların ardından Epstein-Barr ve HPV iddialı ürünlerin siteden kaldırıldığı ifade edildi."
+      ],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
       "publishedAt": "2026-11-19T12:39:20.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T12:54:29.354Z"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/bus-crashes-fuel-truck-southwestern-pakistan-10-people-138282967",
+      "headline": "Pakistan'da otobüsün yakıt kamyonuna çarpması sonucu en az 10 kişi hayatını kaybetti",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1747139556682-b3d876da3085?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YnVzJTIwY3Jhc2glMjBwYWtpc3RhbnxlbnwxfDB8fHwxNzk1MDkyODcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tahamie Farooqui",
+        "photographerUrl": "https://unsplash.com/@tami171091",
+        "unsplashUrl": "https://unsplash.com/photos/children-run-in-a-dusty-street-near-vehicles-jWRQUtk5wz8"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Pakistan'ın güneybatısında sıvılaştırılmış petrol gazı taşıyan bir yakıt kamyonuna çarpan otobüsün alev almasıyla en az 10 kişi yaşamını yitirdi, çok sayıda kişi de yaralandı.\n\nKıdemli polis memuru Muhammed Aslam Bangulzai'nin aktardığına göre kaza, Belucistan eyaletindeki Makran sahil otoyolunda meydana geldi.\n\nKazanın ardından yaralılar ve hayatını kaybedenler yakınlardaki bir hastaneye kaldırıldı. Polis yetkilisi, hastaneye sevk edilen bazı yaralıların durumunun kritik olduğunu belirtti.\n\nOlayla ilgili soruşturmanın devam ettiği bildirilirken, polisin konuya ilişkin başka bir ayrıntı paylaşmadığı ifade edildi.",
+      "highlights": [
+        "Pakistan'ın güneybatısında otobüs ile yakıt kamyonu çarpıştı",
+        "Kazada çıkan yangın sonucunda en az 10 kişi hayatını kaybetti",
+        "Yaralılar hastaneye kaldırılırken bazılarının durumu kritik"
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/bus-crashes-fuel-truck-southwestern-pakistan-10-people-138282967",
+      "publishedAt": "2026-11-19T12:39:10.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
