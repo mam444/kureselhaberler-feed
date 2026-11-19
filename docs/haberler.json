@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-19T08:24:38.695Z",
+  "generatedAt": "2026-11-19T08:34:52.437Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/son-dakika-bddk-eski-baskani-sahap-kavciogluna-yurt-disi-cikis-yasagi-1751584",
+      "headline": "Son dakika... BDDK eski Başkanı Şahap Kavcıoğlu'na yurt dışı çıkış yasağı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Savcılığın soruşturma izni istediği eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildi. Eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında yeni bir karar verildi. İstanbul Cumhuriyet Başsavcılığı'nın fon kriziyle ilgili dosya kapsamında soruşturma izni istediği Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildi. Savcılığın Kavcıoğlu ve dört kişi hakkındaki…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-bddk-eski-baskani-sahap-kavciogluna-yurt-disi-cikis-yasagi-1751584",
+      "publishedAt": "2026-11-19T08:32:18.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+      "headline": "Trump, Xi ve Putin Çin'in Shenzhen kentinde tarihi üçlü zirve için bir araya geldi",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "4 dk önce",
+      "body": "Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Xi Jinping ve ABD Başkanı Donald Trump, Çin'in Shenzhen kentinde düzenlenen APEC zirvesi marjında tarihi üçlü görüşmelere başladı. Pekin yönetimi toplantının \"dünya barışını korumayı\" amaçlayacağını belirtirken, bu durum kürenin \"etki alanlarına\" bölünmesi yönündeki endişeleri artırdı. Liderlerin görüşmesi, 1945 yılındaki Yalta Zirvesi'ne benzetiliyor.\n\nÜç lider de zirveye tamamen farklı ajandalarla yaklaşıyor. ABD Başkanı Donald Trump, zirve öncesinde yaptığı açıklamada Ukrayna'daki savaşı sona erdirme konusunu tartışmayı planladığını ifade etti. Ayrıca Trump, Pekin'de mayıs ayında oluşturulan Ticaret Kurulu'nun ABD-Çin ilişkilerinde denge sağladığını belirtti. Diğer taraftan Trump, yapay zekanın hiçbir biçimde \"güçlü bir şekilde düzenlenmesine\" karşı olduklarını da vurguladı.\n\nÇin Devlet Başkanı Xi Jinping, Shenzhen'deki APEC zirvesinde Asya-Pasifik topluluğu oluşturulmasının açıklığa ve entegrasyona bağlı olduğunu belirterek açık iş birliği çağrısı yaptı. Rusya Devlet Başkanı Vladimir Putin ise Rusya'nın Asya-Pasifik bölgesinin ayrılmaz bir parçası olduğunu ve bölgenin ekonomik refahına önemli katkı sağladığını dile getirdi. \n\nUzmanlar, Kylin Villa'da gerçekleştirilen bu sıkı bir şekilde planlanmış üçlü zirvenin somut sonuçlardan ziyade sembolik ağırlıklı olmasını bekliyor. Öte yandan bu benzeri görülmemiş diplomatik buluşma, çıkarlarının göz ardı edilmesinden korkan daha küçük ülkeleri huzursuz ediyor. Zirve öncesinde Trump ve Putin ayrıca ikili bir görüşme gerçekleştirdi.",
+      "highlights": [
+        "Trump, Xi ve Putin Çin'in Shenzhen kentinde tarihi üçlü zirve için bir araya geldi.",
+        "Trump, Ukrayna'daki savaşı sona erdirme konusunu tartışmayı planladığını söyledi.",
+        "Uzmanlar zirvenin somut sonuçlardan ziyade sembolik ağırlıklı olmasını bekliyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
+      "publishedAt": "2026-11-19T08:30:40.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/kyk-burs-odemesi-sorgulama-ekrani-2026-kyk-burs-odemeleri-basladi-ne-kadar-yatacak-1751579",
       "headline": "KYK burs ödemesi sorgulama ekranı 2026. KYK burs ödemeleri başladı, ne kadar yatacak?",
@@ -140,7 +174,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
       "publishedAt": "2026-11-19T07:52:30.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T08:34:33.110Z"
     },
     {
       "id": "https://www.rfi.fr/en/international/20261119-europe-left-out-in-the-cold-as-trump-xi-and-putin-meet-in-china",
@@ -3596,15 +3631,15 @@
       "timeAgo": "3 dk önce",
       "body": "Sosyal medya platformu TikTok üzerinden gerçekleştirilen bazı canlı yayınlar, dini değerlerin para kazanma amacıyla kullanılması nedeniyle büyük tepki topladı. Kullanıcıların Kabe görseli etrafında sanal tavaf animasyonları oluşturduğu görüldü.\n\nSöz konusu yayınlarda, izleyiciler tarafından gönderilen jeton ve hediyelerin miktarına bağlı olarak çeşitli uygulamaların devreye sokulduğu belirlendi. Daha fazla hediye gönderen kullanıcılara yönelik ‘zemzem ikramı’ ve ‘şeytan taşlama’ gibi dijital efektlerin sunulması dikkat çekti.\n\nYaşanan bu durum, sosyal medya kullanıcıları arasında dini değerlerin açık bir şekilde istismar edildiği yönünde eleştirilere neden oldu. Platformdaki benzer içerikler kamuoyunda tartışma yaratmaya devam ediyor.",
       "highlights": [
-        "TikTok'ta Kabe görseliyle sanal tavaf animasyonları yapıldı",
-        "Jeton ve hediyelere göre zemzem ikramı ve şeytan taşlama efektleri sunuldu",
-        "Yayınlar dini değerlerin istismar edildiği eleştirilerine neden oldu"
+        "Kabe ve kutsal değerler TikTok canlı yayınlarında dijital hediye sistemine dönüştürüldü",
+        "Jeton miktarına göre Hacerü'l-Esved'e selam verme gibi animasyonlar gösteriliyor",
+        "Simülasyon yazılımlarının 750 liradan başlayan fiyatlarla internet forumlarında satıldığı belirtildi"
       ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/tiktokta-dini-istismar-skandali-kabeyi-jeton-karsiligi-kazanc-kapisina-cevirdiler-4873830",
       "publishedAt": "2026-11-18T08:11:55.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T08:24:59.486Z"
+      "sourceTextAttemptedAt": "2026-11-19T08:34:33.110Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/dev-surpriz-antalya-kiyilarina-geldi-denizalti-sandik-7702850",
@@ -5669,7 +5704,7 @@
       "publishedAt": "2026-11-17T15:36:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T08:24:59.486Z",
+      "imageSearchAttemptedAt": "2026-11-19T08:34:33.110Z",
       "sourceTextAttemptedAt": "2026-11-18T13:24:19.238Z"
     },
     {
