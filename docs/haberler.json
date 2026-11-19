@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T15:15:17.689Z",
+  "generatedAt": "2026-11-19T15:25:33.988Z",
   "articles": [
     {
       "id": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-sahte-yardim-mesajlarina-karsi-uyari/4131192",
@@ -14,7 +14,9 @@
       "externalUrl": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-sahte-yardim-mesajlarina-karsi-uyari/4131192",
       "publishedAt": "2026-11-19T15:09:52.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T15:24:25.133Z",
+      "imageSearchAttemptedAt": "2026-11-19T15:24:25.133Z"
     },
     {
       "id": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
@@ -30,12 +32,31 @@
       "timeAgo": "7 dk önce",
       "body": "Birleşik Krallık göçmenlik sistemini yönetmek için yapay zekaya daha fazla yöneliyor. Bu kapsamda göçmenlerin telefonlarının analiz edilmesi ve iltica başvurularının işleme konulması gibi alanlarda yapay zekadan yararlanılıyor.\n\nInfoMigrants gazetecisi Stella Elgersma, Birleşik Krallık İç İşleri Bakanlığı'nın iltica başvurularını işlemek için yapay zeka araçlarını test ettiğini aktarıyor. Bu süreçte mülakat özetleri oluşturan bir sistem de kullanılıyor.\n\nYapılandırılmış bilgilere göre sistemde hatalar bulunuyor, insan denetimi sınırlı düzeyde kalıyor ve şeffaflık konusunda endişeler dile getiriliyor. Bu durumun iltica eden kişilerin hayatını risk altına atıp atamayacağı ise tartışma konusu olmaya devam ediyor.",
       "highlights": [
-        "Birleşik Krallık iltica başvurularında yapay zeka araçlarını test ediyor",
-        "Sistem mülakat özetleri çıkarıyor ve insan denetimi sınırlı kalıyor",
-        "Hatalar ve şeffaflık endişeleri hayatları riske atabileceği endişesini doğuruyor"
+        "İngiltere göç sisteminde yapay zeka kullanımını artırıyor",
+        "İçişleri Bakanlığı mülakat özetleri çıkaran yapay zeka araçlarını test ediyor",
+        "Sistemde hatalar, sınırlı insan denetimi ve şeffaflık kaygıları bulunuyor"
       ],
       "externalUrl": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
       "publishedAt": "2026-11-19T15:07:23.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T15:24:25.133Z"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
+      "headline": "Haiti: Salvador'un lideri Bukele çete liderinin evine düzenlenen saldırının videosunu paylaştı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "19 dk önce",
+      "body": "El Salvador Devlet Başkanı Nayib Bukele, Çarşamba günü yaptığı açıklamada, askerlerinin Haiti'de Jeff Gwo Lwa olarak bilinen tanınmış bir çete liderinin lüks evini yıktığını belirtti.\n\nBukele, X hesabından yaptığı paylaşımda \"Haiti halkına Vertières Muharebesi'nin yıl dönümünde hediyem\" ifadelerini kullandı.\n\nBu açıklama, Haiti'nin Fransa'dan bağımsızlığını güvence altına almasında kritik öneme sahip olan 1803 yılındaki bir muharebeye atıfta bulundu.\n\nSöz konusu olayla ilgili olarak Bukele'nin saldırı görüntülerinikamuoyuna duyurduğu bildirildi.",
+      "highlights": [
+        "Salvador Devlet Başkanı Nayib Bukele askerlerinin Haiti'deki bir çete liderinin evini yıktığını açıkladı",
+        "Yıkımın Vertières Muharebesi'nin yıl dönümünde gerçekleştirildiği belirtildi"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
+      "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -7341,7 +7362,7 @@
       "publishedAt": "2026-11-17T15:36:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T08:34:33.110Z",
+      "imageSearchAttemptedAt": "2026-11-19T15:24:25.133Z",
       "sourceTextAttemptedAt": "2026-11-18T13:24:19.238Z"
     },
     {
@@ -13038,6 +13059,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4131208"
   ]
 }
