@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T06:44:54.003Z",
+  "generatedAt": "2026-11-19T06:54:53.738Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
+      "headline": "Bilecik'te feci kaza: Traktörün çamurluk kısmına sıkışan adam hayatını kaybetti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1758030320380-d1e0926bbd4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhY3RvciUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTUwNzEyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nick Russill",
+        "photographerUrl": "https://unsplash.com/@nickruss",
+        "unsplashUrl": "https://unsplash.com/photos/old-rusty-tractor-in-a-grassy-field-M3Mq-VFZDAM"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Bilecik'in merkeze bağlı Koyunköy köyünde üzücü bir kaza meydana geldi. Alınan bilgiye göre, Yaşar Öztürk isimli şahıs, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkıştı.\n\nMeydana gelen olay sonucunda Yaşar Öztürk, olay yerinde hayatını kaybetti. Kazanın ardından olay yerine jandarma ve sağlık ekipleri sevk edildi. Ekipler tarafından olay yerinde gerekli incelemeler gerçekleştirildi.\n\nYaşamını yitiren Öztürk'ün cenazesi, yapılacak işlemler için Bilecik Eğitim ve Araştırma Hastanesi morguna kaldırıldı. Cumhuriyet Savcısının talimatıyla olayla ilgili adli soruşturma başlatıldı.",
+      "highlights": [
+        "Bilecik'in Koyunköy köyünde Yaşar Öztürk, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkışarak hayatını kaybetti.",
+        "Cenaze, işlemler için Bilecik Eğitim ve Araştırma Hastanesi morguna kaldırıldı.",
+        "Cumhuriyet Savcısının talimatıyla olayla ilgili adli soruşturma başlatıldı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
+      "publishedAt": "2026-11-19T06:51:31.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/hayat/koah-nedeniyle-dunyada-37-milyon-kisi-yasamini-kaybetti-4874236",
       "headline": "KOAH nedeniyle dünyada yaklaşık 3,7 milyon kişi yaşamını kaybetti",
@@ -115,6 +138,25 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/bir-sabah-uyandilar-mahalle-ikiyi-bolundu-bizim-isimiz-cok-zor-7703535",
       "publishedAt": "2026-11-19T06:18:58.000Z",
       "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+      "headline": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1754623034716-fccc01930d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TW90aGVyJTIwd2hvc2UlMjB0d2luJTIwYmFieSUyMGRpZWQlMjB3YXMlMjBkZXRlcm1pbmVkJTIwdG8lMjBoYXZlJTIwaG9tZSUyMGJpcnRoJTIwZGVzcGl0ZSUyMGFkdmljZSUyMG9mJTIwZXhwZXJ0cyUyQyUyME5TVyUyMGlucXVlc3QlMjBoZWFyc3xlbnwxfDB8fHwxNzk1MDcxMjc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "asif sharif",
+        "photographerUrl": "https://unsplash.com/@asifsharif",
+        "unsplashUrl": "https://unsplash.com/photos/two-babies-sitting-on-a-green-park-bench-aY65yWO5Xbw"
+      },
+      "timeAgo": "37 dk önce",
+      "body": "Inquest into deaths of four babies in northern NSW between 2022 and 2024 told mother refused to give birth in hospital after hearing others’ traumatic stories Get our breaking news email , free app or daily news podcast Baby B’s mother was so determined to have a home birth she ignored the advice of experts – including her own midwife, an inquest has heard. The inquest heard she was pregnant with twins, which she…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
+      "publishedAt": "2026-11-19T06:17:12.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -3497,21 +3539,24 @@
       "headline": "İran savaşının gölgesinde Orta Doğu'da spor etkinlikleri iptal edilirken Formula 1 yarışları devam ediyor",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1712218952141-6e00f179fe84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Rm9ybXVsYSUyMDF8ZW58MXwwfHx8MTc5NTA3MTI5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mathias Dargnat",
+        "photographerUrl": "https://unsplash.com/@mathiasdargnat",
+        "unsplashUrl": "https://unsplash.com/photos/a-person-wearing-a-helmet-and-listening-to-music-ZD2JUga2rAg"
+      },
       "timeAgo": "3 dk önce",
       "body": "İran'daki savaş ve bölgedeki misilleme saldırıları nedeniyle birçok büyük spor etkinliği iptal edilir veya ertelenirken, sezonu kapatacak olan Formula 1 yarışlarının planlandığı gibi yapılacağı bildirildi. Bölgede yaşanan çatışmalar, devletlerin ve sponsorların milyarlarca dolar akıtarak devasa spor organizasyonlarını çektiği güvenli liman imajını sarstı. Bu durum, Avrupa ve Kuzey Amerika'nın bu tür harcamalara temkinli yaklaştığı bir döneme denk geldi.\n\nAlman araştırma enstitüsü CARPO'dan Sebastian Sons, durumun değişebileceğini ancak coğrafyanın değişmeyeceğini belirterek, Körfez bölgesinin daima kırılgan olduğunu ifade etti. Otomobil yarışlarının dünyadaki yönetim organı FIA'nın başkanı Muhammed Ben Sulayem, 29 Kasım'daki Katar ve 6 Aralık'taki Abu Dabi yarışlarını gerçekleştirmek için tamamen hazır olduklarını açıkladı. Rice Üniversitesi'nden siyaset bilimci Kristian Ulrichsen, Katar ve Abu Dabi'deki yarışların düzenlenmesinin bu yerlerin istikrarlı ve ticarete açık olduğunu gösterdiğini söyledi.\n\nBölgedeki savaş ve saldırılar, Suudi Arabistan ve diğer Körfez ülkelerinin spor yatırımlarını etkiledi. Yemen'deki İran destekli Husilerin Suudi Arabistan'ın Riyad'daki ana uluslararası havalimanını ve iş dünyasının merkezini hedef alması dikkat çekti. Savaş, büyük Körfez hava yollarını ve seyahat alışkanlıklarını da etkilerken, uzmanlar İran'ın limanlar, havalimanları, oteller ve veri merkezleri gibi bağlantı noktalarını hedef aldığını belirtti.\n\nSuudi Arabistan ve komşuları daha önce büyük spor organizasyonları için milyarlarca dolar harcamıştı. Ancak savaş başlamadan dokuz ay önce bile mega spor fonlarında kesintiye gidiliyordu. Suudi Arabistan'da yapılması planlanan WTA sezon sonu tenis finalleri, bir aylık Asya Kupası ve 2027 Dakar Rallisi gibi major etkinlikler iptal edilmiş, ertelenmiş veya başka yerlere taşınmıştı. Araştırmacılar, savaşın Suudi Arabistan'ın ekonomik dengeleri yeniden değerlendirme sürecini hızlandırdığını kaydetti.",
       "highlights": [
-        "İran'daki savaş ve saldırılar nedeniyle Orta Doğu'daki birçok büyük spor etkinliği iptal edildi veya ertelendi.",
-        "Sezonu kapatacak olan Katar ve Abu Dabi'deki Formula 1 yarışlarının planlandığı gibi yapılacağı açıklandı.",
-        "Suudi Arabistan'da yapılması planlanan bazı büyük turnuvalar ve etkinlikler iptal edildi ya da başka ülkelere taşındı."
+        "İran'daki savaş ve saldırılar birçok spor etkinliğini iptal ettirdi",
+        "Orta Doğu'daki sezon sonu Formula 1 yarışları planlandığı gibi devam ediyor"
       ],
       "externalUrl": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
       "publishedAt": "2026-11-18T06:41:32.000Z",
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T06:54:14.605Z",
-      "imageSearchAttemptedAt": "2026-11-18T06:54:14.605Z"
+      "imageSearchAttemptedAt": "2026-11-19T06:54:33.709Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/milleyha-kus-cennetine-yine-moloz-ve-cop-dokuldu-hatay-samandag-haberleri-4873741",
@@ -3605,7 +3650,7 @@
       "publishedAt": "2026-11-18T06:19:17.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T06:44:26.194Z"
+      "sourceTextAttemptedAt": "2026-11-19T06:54:33.709Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/resmi-gazetede-5-anlasmanin-yururluk-tarihi-yayimlandi-4873725",
