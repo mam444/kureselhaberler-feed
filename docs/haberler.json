@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:14:40.518Z",
+  "generatedAt": "2026-11-19T08:24:38.695Z",
   "articles": [
     {
       "id": "https://www.ntv.com.tr/turkiye/kyk-burs-odemesi-sorgulama-ekrani-2026-kyk-burs-odemeleri-basladi-ne-kadar-yatacak-1751579",
@@ -14,11 +14,16 @@
       },
       "timeAgo": "1 dk önce",
       "body": "Kredi ve Yurtlar Kurumu (KYK) tarafından 2026-2027 eğitim-öğretim yılında ilk kez yükseköğretim bursu almaya hak kazanan yüz binlerce üniversite için beklenen haber geldi ve burs ödemeleri başladı. 2026-2027 KYK burs ödemeleri hesaplara yatırılmaya başladı. Taahhütname onay işlemlerinin tamamlanmasının ardından ilk burs ve kredi ödemeleri T.C. kimlik numarasının son hanesine göre öğrencilerin Ziraat Bankası…",
-      "highlights": [],
+      "highlights": [
+        "2026-2027 KYK burs ve kredi ödemeleri hesaplara yatırılmaya başladı.",
+        "Ödemeler T.C. kimlik numarasının son hanesine göre her ayın 6 ve 10'uncu günleri arasında yatırılıyor.",
+        "Ön lisans ve lisans 4.000 TL, yüksek lisans 8.000 TL, doktora 12.000 TL olarak belirlendi."
+      ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/kyk-burs-odemesi-sorgulama-ekrani-2026-kyk-burs-odemeleri-basladi-ne-kadar-yatacak-1751579",
       "publishedAt": "2026-11-19T08:13:49.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T08:24:24.108Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/ayni-hemsire-iddiasi-sapasaglamdi-1-5-saat-sonra-olusunu-verdiler-7703626",
@@ -113,6 +118,29 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T08:04:17.135Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+      "headline": "Pete Hegseth'in Venezuela ile Askeri Anlaşması Soru İşaretleri Yaratıyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1608396941316-ea89219bd56e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBkZWFsfGVufDF8MHx8fDE3OTUwNzY2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Filip Andrejevic",
+        "photographerUrl": "https://unsplash.com/@fandrejevic",
+        "unsplashUrl": "https://unsplash.com/photos/men-in-green-and-brown-camouflage-uniform-1LTunOck3es"
+      },
+      "timeAgo": "32 dk önce",
+      "body": "Pete Hegseth tarafından Venezuela ile yapılan yeni askeri anlaşma, ABD'nin bölgedeki nüfusu, bölgesel güvenlik durumu ve Nicolas Maduro'nun görevden uzaklaştırılması gibi önemli konular etrafında çeşitli soruların doğmasına yol açtı.\n\nSöz konusu askeri mutabakat, Washington'un stratejik hamleleri ve Latin Amerika'daki dengeler açısından yakından takip edilirken, anlaşmanın olası sonuçları ve bölgesel güvenliğe etkileri de tartışılmaya başlandı.\n\nUzmanlar ve gözlemciler, bu yeni anlaşmanın Maduro yönetimi üzerindeki baskıyı ve ABD'nin bölgedeki genel politikasını nasıl etkileyeceğini değerlendiriyor.",
+      "highlights": [
+        "Hegseth'in Venezuela ile yeni bir askeri anlaşma yaptığı bildirildi.",
+        "Anlaşma ABD'nin bölgesel güvenliği ve nüfusu hakkında sorular uyandırdı.",
+        "Gelişme Maduro'nun görevden uzaklaştırılması meselesiyle ilişkilendiriliyor."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
+      "publishedAt": "2026-11-19T07:52:30.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.rfi.fr/en/international/20261119-europe-left-out-in-the-cold-as-trump-xi-and-putin-meet-in-china",
@@ -3601,7 +3629,7 @@
       "publishedAt": "2026-11-18T08:02:32.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T08:14:30.426Z"
+      "sourceTextAttemptedAt": "2026-11-19T08:24:24.108Z"
     },
     {
       "id": "https://www.aljazeera.com/gallery/2026/11/18/photos-india-defeat-pakistan-to-win-saff-championship-in-bangladesh?traffic_source=rss",
@@ -11180,29 +11208,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/bayrampasada-yikim-sirasinda-hasar-goren-4-katli-bina-tahliye-edildi-4871751",
       "publishedAt": "2026-11-12T08:47:20.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.sabah.com.tr/dunya/baskan-erdogan-pezeskiyan-ile-gorustu-7700178",
-      "headline": "Antalya'da kritik zirve: Başkan Erdoğan Pezeşkiyan ile görüştü",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1660795307991-8a7ebbef311c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGlwbG9tYXRpYyUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDQ3MzQ3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Herlambang Tinasih Gusti",
-        "photographerUrl": "https://unsplash.com/@tinasihgusti",
-        "unsplashUrl": "https://unsplash.com/photos/a-person-standing-in-front-of-a-group-of-people-in-white-robes-0TEluSjcztk"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "Türkiye'nin ev sahipliğinde gerçekleştirilen uluslararası diplomasi trafiği kapsamında önemli bir görüşme daha hayata geçirildi. Olay, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Türkiye'de bulunan İran Cumhurbaşkanı Mesud Pezeşkiyan'ın temasları çerçevesinde yaşandı. Gerçekleştirilen bu kritik zirvede, Türkiye Cumhuriyetibaşkanı Recep Tayyip Erdoğan ile konuk lider Mesud Pezeşkiyan bir araya gelerek çeşitli konuları ele aldı.\n\nSöz konusu görüşme, uluslararası alanda büyük önem taşıyan ve iklim krizine yönelik küresel kararların alındığı Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) programı doğrultusunda organize edildi. Türkiye'nin ev sahipliği yaptığı bu büyük çaplı organizasyon, dünyanın dört bir yanından üst düzey devlet yetkililerinin, liderlerin ve delegasyonların katılımına sahne oluyor. Bu tür uluslararası zirveler, yalnızca ana gündem maddeleriyle değil, aynı zamanda devlet başkanları arasında gerçekleştirilen ikili görüşmelerle de diplomatik açıdan büyük bir hareketlilik yaratıyor.\n\nAntalya'da gerçekleştiği bildirilen bu özel buluşmada, Türkiye ve İran arasındaki ilişkilerin yanı sıra, COP31 zirvesinin ana teması olan çevresel gelişmeler ve küresel meselelerin masaya yatırıldığı tahmin ediliyor. İki ülke liderinin bir araya gelmesi, bölgesel ve uluslararası diplomasi izleyicileri tarafından yakından takip edilen gelişmeler arasında yer aldı. Diplomatik teamüller gereği bu tür yüz yüze görüşmeler, komşu ve bölge ülkeleri arasındaki diyaloğun sürdürülmesi açısından kritik bir zemin oluşturuyor.\n\nBirleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi Taraflar Konferansı, dünya genelinde iklim değişikliği ile mücadele politikalarının şekillendirildiği en yetkili platformlardan biri olma özelliği taşıyor. Türkiye'nin COP31'e ev sahipliği yapması, ülkenin uluslararası alandaki diplomatik rolünü pekiştirirken, zirve vesilesiyle ağırlanan yabancı devlet başkanları da yoğun bir ikili görüşme trafiğini beraberinde getiriyor. Başkan Erdoğan'ın konuk Cumhurbaşkanı Pezeşkiyan ile gerçekleştirdiği bu temas, bu yoğun trafiğin en dikkat çekici halkalarından birini oluşturdu.\n\nToplantının ardından liderlerin yapacağı olası açıklamalar ve zirvenin ilerleyen günlerdeki oturumları, hem yerel hem de uluslararası kamuoyu tarafından yakından izlenmeye devam ediyor. Antalya'da bir araya gelen iki liderin gerçekleştirdiği bu müzakereler, COP31 kapsamında yürütülen diplomatik faaliyetlerin en önemli duraklarından biri olarak kayıtlara geçti. Türkiye'nin diplomatik arenadaki aktif rolü, bu tür üst düzey buluşmalarla bir kez daha ön plana çıkmış oldu.",
-      "highlights": [
-        "Başkan Erdoğan, COP31 dolayısıyla Türkiye'de bulunan İran Cumhurbaşkanı Pezeşkiyan ile görüştü.",
-        "Kritik zirve, Türkiye'nin ev sahipliğinde Antalya'da gerçekleştirilen temaslar kapsamında yapıldı.",
-        "Görüşmede Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı ele alındı."
-      ],
-      "externalUrl": "https://www.sabah.com.tr/dunya/baskan-erdogan-pezeskiyan-ile-gorustu-7700178",
-      "publishedAt": "2026-11-12T08:17:01.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
