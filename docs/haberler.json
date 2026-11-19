@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-19T16:35:27.765Z",
+  "generatedAt": "2026-11-19T16:48:21.398Z",
   "articles": [
+    {
+      "id": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
+      "headline": "Newborn dies after suspected female genital mutilation in Senegal; relatives arrested",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1544374895-c98e79ac19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TmV3Ym9ybiUyMGRpZXMlMjBhZnRlciUyMHN1c3BlY3RlZCUyMGZlbWFsZSUyMGdlbml0YWwlMjBtdXRpbGF0aW9uJTIwaW4lMjBTZW5lZ2FsJTNCJTIwcmVsYXRpdmVzJTIwYXJyZXN0ZWR8ZW58MXwwfHx8MTc5NTEwNjczOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Francesca Noemi Marconi",
+        "photographerUrl": "https://unsplash.com/@ffrauss",
+        "unsplashUrl": "https://unsplash.com/photos/women-standing-beside-white-concrete-wall-NJE5Muz1gSo"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Three people have been arrested in eastern Senegal after a newborn baby girl died following alleged female genital mutilation",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
+      "publishedAt": "2026-11-19T16:40:45.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/muslum-sari-chp-ile-yeniden-temas-kurmak-isteyenlere-kapilarinin-acik-oldugunu-soyledi-3928613",
+      "headline": "Müslüm Sarı: CHP ile yeniden temas kurmak isteyenlere kapımız açık",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1698270723454-a2c84bfb61c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saXRpY2lhbiUyMHNwZWFraW5nJTIwbWljcm9waG9uZXxlbnwxfDB8fHwxNzk1MTA2ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sebastian Romero",
+        "photographerUrl": "https://unsplash.com/@sebasmeroo",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-holding-a-microphone-aVpE5dVepy8"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "CHP Sözcüsü Müslüm Sarı, Habertürk'te parti içindeki ayrışmalar, başka partilere geçen belediye başkanları ve gündeme ilişkin diğer konular hakkında açıklamalarda bulundu. Sarı, CHP ile yeniden temas kurmak ve ortak siyasi değerler etrafında bir araya gelmek isteyenlere kapılarının açık olduğunu belirtti. \n\nPartiden seçildikten sonra AK Parti'ye katılan belediye başkanlarını eleştiren Sarı, seçmenlerin yalnızca adaylara değil, partilerin siyasi kimliğine de oy verdiğini ifade ederek bu geçişleri doğru bulmadığını söyledi. Parti içindeki ayrışmalara yönelik tepkilerin azaldığını belirten Sarı, vatandaşların öncelikli gündeminin ekonomik sorunlar olduğunu kaydetti.\n\nKurultay sürecine de değinen Sarı, olağan kurultay takviminin Şubat ayında tamamlanmasının planlandığını ve partinin kongreye hazır olduğunu bildirdi. Kemal Kılıçdaroğlu'nun yeniden genel başkanlık adaylığının kurultay delegelerinin değerlendirmesine bağlı olduğunu aktaran Sarı, İstanbul Büyükşehir Belediyesi'nin kırmızı çizgileri olduğunu ve olası bir başkanlık seçiminde belediyenin AK Parti'ye geçmemesi için her türlü iş birliğine hazır olduklarını dile getirdi.",
+      "highlights": [
+        "Müslüm Sarı, CHP ile yeniden temas kurmak isteyenlere kapılarının açık olduğunu söyledi.",
+        "Sarı, başka partilere geçen belediye başkanlarını eleştirerek seçmen iradesine vurgu yaptı.",
+        "İstanbul Büyükşehir Belediyesi'nin kırmızı çizgileri olduğunu ifade etti."
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/muslum-sari-chp-ile-yeniden-temas-kurmak-isteyenlere-kapilarinin-acik-oldugunu-soyledi-3928613",
+      "publishedAt": "2026-11-19T16:38:18.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/dunya-havacilik-tarihinde-bir-ilk-kizilelma-envantere-girdi-7704000",
       "headline": "Dünya havacılık tarihinde bir ilk: Kızılelma envantere girdi",
@@ -3859,7 +3901,7 @@
       "publishedAt": "2026-11-18T16:04:00.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T16:34:20.855Z"
+      "sourceTextAttemptedAt": "2026-11-19T16:44:18.145Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/ticaret-bakani-omer-bolattan-gurbetcilere-mujde-7703288",
@@ -3968,15 +4010,15 @@
       "timeAgo": "3 dk önce",
       "body": "Yeni Şafak Yazarı Prof. Dr. Süleyman Seyfi Öğün, TVNET ekranlarında yayınlanan Akıl Odası programında Trump-Putin-Jinping görüşmesini ve ABD'deki güncel gelişmeleri ele aldı.\n\nPara ile teknolojinin bütünleşmesiyle ortaya çıkan yeni oligarşik yapının, ABD'yi dahi gözden çıkaracak bir noktaya ulaştığını dile getiren Öğün, bu durumun farkında olan Amerikan yönetiminin süreci durdurmak istediğini aktardı.\n\nProf. Dr. Öğün, Donald Trump ile Amerikan devletinin doları yeniden kurtarmak, Amerikan teminatlarını dünyada dolaşıma sokmak ve sermayeyi ülke içinde tutmak amacıyla güven tazeleme çabasında olduğunu ifade etti.\n\nKüresel sermayenin ulus veya devlet aidiyetiyle hareket etmediğini vurgulayan Öğün, sermayenin kârın en yüksek olduğu yere yöneldiğini belirterek Nvidia CEO'su Jensen Huang'ın Çin pazarına açılma arzusunu bu ekonomik rasyonelliğe örnek gösterdi.",
       "highlights": [
-        "Yeni Şafak Yazarı Prof. Dr. Süleyman Seyfi Öğün, TVNET'te Trump-Putin-Jinping görüşmesini ve ABD'deki gelişmeleri değerlendirdi.",
-        "Para ve teknolojinin iç içe geçmesiyle oluşan yeni oligarşik gücün ABD'yi bile gözden çıkarabilecek noktaya geldiğini belirtti.",
-        "Sermayenin ulus aidiyetiyle hareket etmediğini vurgulayan Öğün, Nvidia CEO'su Jensen Huang'ın Çin pazarına açılma isteğini örnek gösterdi."
+        "Bursa'da saatteki hızı 64 kilometreye ulaşan lodos çatıda çalışan işçilere zor anlar yaşattı.",
+        "İşçilerden birinin savrulmamak için çatının üzerine oturarak beklediği görüldü.",
+        "Meteoroloji verilerine göre lodosun 20 Kasım akşamına kadar sürmesi bekleniyor."
       ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/bursada-lodos-catida-calisan-iscilere-zor-anlar-yasatti-o-anlar-kamerada-4874052",
       "publishedAt": "2026-11-18T15:23:17.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:34:26.781Z"
+      "sourceTextAttemptedAt": "2026-11-19T16:44:18.145Z"
     },
     {
       "id": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-xml-mrss",
