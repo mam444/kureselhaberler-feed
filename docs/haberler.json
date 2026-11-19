@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T14:46:04.767Z",
+  "generatedAt": "2026-11-19T14:54:40.153Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/tv-shows/entre-nous/20261119-beaujolais-nouveau-a-french-tradition-uncorked",
+      "headline": "Beaujolais Nouveau: Fransız geleneği kadehlere dökülüyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1744711372041-ee06f3aa7448?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QmVhdWpvbGFpcyUyMHdpbmV8ZW58MXwwfHx8MTc5NTEwMDA3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carnet de Voyage d'Alex",
+        "photographerUrl": "https://unsplash.com/@alexisribeyrecarnetdevoyage",
+        "unsplashUrl": "https://unsplash.com/photos/vast-vineyard-in-a-beautiful-hilly-landscape-xPWTj-lCzGQ"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Fransa, her yıl kasım ayının üçüncü perşembe gününde en neşeli geleneklerinden biri olan Le Beaujolais Nouveau'yu kutluyor. Bu kapsamda bu perşembe günü Lyon'dan New York'a kadar dünyanın dört bir yanında 2026 yılına ait genç kırmızı şaraptan milyonlarca şişe açılacak.\n\nFransız ticaret kuruluşu Inter Beaujolais'nin direktörü ve şarap uzmanı Olivier Badoureaux, bu yılki rekolteden ne beklememiz gerektiği konusunda açıklamalarda bulundu.\n\nFransa 24 kanalındaki Entre Nous programında yer alan bu özel içerik, Amanda Alexander, Georgina Robertson ve Marina Pajovic tarafından hazırlandı.\n\nSöz konusu program ve yayın, 19 Kasım 2026 tarihinde saat 15:44'te yayımlandı. Genç kırmızı şarapların küresel çapta açılışıyla birlikte Fransa'nın bu köklü kültürel geleneği dünya genelinde kutlanmaya devam ediyor.",
+      "highlights": [
+        "Her kasım ayının üçüncü perşembesinde Beaujolais Nouveau geleneği kutlanıyor",
+        "2026 rekoltesine ait milyonlarca şişe şarap dünya genelinde açılıyor",
+        "Şarap uzmanı Olivier Badoureaux yeni rekolte hakkında değerlendirmelerde bulunuyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/entre-nous/20261119-beaujolais-nouveau-a-french-tradition-uncorked",
+      "publishedAt": "2026-11-19T14:44:33.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/suudi-arabistan-veliaht-prensi-ve-centcom-komutanindan-askeri-isbirligi-gorusmesi-7703990",
       "headline": "Suudi Arabistan Veliaht Prensi ve CENTCOM Komutanı askeri işbirliğini görüştü",
@@ -22,7 +45,8 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/suudi-arabistan-veliaht-prensi-ve-centcom-komutanindan-askeri-isbirligi-gorusmesi-7703990",
       "publishedAt": "2026-11-19T14:41:01.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T14:54:17.127Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506",
@@ -63,13 +87,14 @@
       "body": "Fransa'nın başkenti Paris'te Perşembe günü binden fazla kişi, 2027 bütçesinde emeklileri hedef alan sosyal ve vergi önlemlerine karşı yürüyüş düzenledi. Eylem, öğrenci ve lise gruplarının da katıldığı bir sendika ittifakının çağrısıyla gerçekleştirildi.\n\nHükümet, 1.260 euro üzerindeki emekli maaşlarının endekslemesini dondurmayı ve yüzde 10'luk gelir vergisi istisnasını reforme etmeyi planlıyor. Bu adımlarla emeklilerin yaklaşık 5,4 milyar euro katkı sağlaması hedefleniyor.\n\nSendika liderleri ise bu kaynağın emeklilerin cebinden çıkmaması gerektiği görüşünü savunuyor. Gelişmeler ve protestolarla ilgili detaylar basın yansımalarında yer buldu.",
       "highlights": [
         "Paris'te binden fazla kişi 2027 bütçe kesintilerine karşı yürüdü",
-        "Hükümet emeklilerden yaklaşık 5,4 milyar euro katkı sağlamayı amaçlıyor",
-        "Sendikalar paranın emeklilerin cebinden çıkmaması gerektiğini belirtiyor"
+        "Hükümet emeklilerden yaklaşık 5,4 milyar euro katkı sağlamayı hedefliyor",
+        "Sendikalar paranın emeklilerin cebinden çıkmaması gerektiğini söylüyor"
       ],
       "externalUrl": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
       "publishedAt": "2026-11-19T14:32:57.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T14:54:17.127Z"
     },
     {
       "id": "https://www.haberturk.com/ekonomi/tmsf-guvencesiyle-insa-edilen-bayrampasa-modern-bolgenin-yeni-yasam-merkezi-olmayi-hedefliyor-3928444",
@@ -6689,7 +6714,7 @@
       "publishedAt": "2026-11-17T16:17:23.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T19:24:21.469Z",
+      "imageSearchAttemptedAt": "2026-11-19T14:54:17.127Z",
       "sourceTextAttemptedAt": "2026-11-18T06:24:29.731Z"
     },
     {
@@ -6899,7 +6924,7 @@
       "publishedAt": "2026-11-17T15:57:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T05:44:29.766Z",
+      "imageSearchAttemptedAt": "2026-11-19T14:54:17.127Z",
       "sourceTextAttemptedAt": "2026-11-18T09:14:20.983Z"
     },
     {
