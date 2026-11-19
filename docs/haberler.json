@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T17:48:11.213Z",
+  "generatedAt": "2026-11-19T17:55:32.882Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/park-halindeki-3-arac-alev-alev-yandi-3495504",
@@ -15,18 +15,42 @@
       "timeAgo": "1 dk önce",
       "body": "İstanbul Bağcılar'da park halindeki araçlarda çıkan yangın paniğe neden oldu. Olay, saat 14.00 sıralarında Göztepe Mahallesi'nde meydana geldi. Park halindeki hafif ticari araçta henüz bilinmeyen bir nedenle başlayan alevler, kısa sürede büyüyerek yanındaki bir başka hafif ticari araç ile otomobile de sıçradı.\n\nÇevredeki vatandaşların ihbarı üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi. Polis ekipleri olay yerinde güvenlik önlemleri alırken, itfaiye ekipleri alevlere müdahale ederek yangını söndürdü.\n\nSağlık ekiplerinin yaptığı kontrollerde yangında ölen ya da yaralanan kimsenin bulunmadığı tespit edildi. Çıkan yangın sonucunda alev alev yanan araçlar kullanılamaz hale geldi. Ekipler yangının çıkış nedeninin belirlenmesi için inceleme başlattı.",
       "highlights": [
-        "İstanbul Bağcılar'da park halindeki hafif ticari araçta henüz bilinmeyen bir nedenle yangın çıktı.",
-        "Alevler kısa sürede büyüyerek yanındaki hafif ticari araç ile otomobile sıçradı.",
-        "Yangında ölen ya da yaralanan kimse olmazken araçlar kullanılamaz hale geldi."
+        "İstanbul Bağcılar'da park halindeki 3 araç alev alev yandı",
+        "İtfaiye ekiplerinin müdahalesiyle söndürülen yangında ölen ya da yaralanan olmadı",
+        "Araçlar kullanılamaz hale gelirken yangının çıkış nedeni araştırılıyor"
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/park-halindeki-3-arac-alev-alev-yandi-3495504",
       "publishedAt": "2026-11-19T17:46:55.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T17:54:28.434Z"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/bakan-ciftci-cember-daraliyor-diyerek-duyurdu-emre-yalvan-ve-murat-saydam-turkiyeye-iade-edildi-7704008",
+      "headline": "Bakan Çiftçi duyurdu: Emre Yalvan ve Murat Saydam Türkiye'ye iade edildi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1558456891-5d18cfe1d149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwaGFuZGN1ZmZzfGVufDF8MHx8fDE3OTUxMTA4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Peppe Occhipinti",
+        "photographerUrl": "https://unsplash.com/@mrpeppeocchipinti",
+        "unsplashUrl": "https://unsplash.com/photos/man-holding-on-metal-round-bar-near-another-person-sitting-inside-vehicle-p4i5WlNOUCQ"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "İçişleri Bakanı Mustafa Çiftçi, sosyal medya hesabından yaptığı açıklamada, firariler için çemberin daraldığını belirterek kırmızı bültenle aranan Emre Yalvan ve Murat Saydam'ın Bulgaristan'dan Türkiye'ye getirildiğini duyurdu. Bakan Çiftçi, Biri 60 ayrı suç eylemiyle bağlantılı organize suç çetesi elebaşı, diğeri kesinleşmiş hapis cezası bulunan bir zehir taciri olan iki kişinin Türk adaletine teslim edildiğini ifade etti.\n\nİçişleri Bakanlığı tarafından yapılan açıklamada da iade sürecinin detaylarına yer verildi. Emniyet Genel Müdürlüğü birimleri, İstanbul Emniyet Müdürlüğü ve Adalet Bakanlığı koordinasyonunda çalışmalar yürütüldüğü aktarıldı.\n\nAçıklamada, Emre Yalvan'ın birden fazla kişi tarafından gece vakti silahla yağma suçundan kırmızı bültenle uluslararası, 11 ayrı suçtan ulusal seviyede arandığı ve 60 farklı suça karıştığı bilgisi verildi. Murat Saydam'ın ise uyuşturucu ticareti, kişiyi hürriyetinden yoksun kılma, ruhsatsız silah bulundurma, silahla tehdit ve hakaret suçlarından kırmızı bültenle uluslararası seviyede arandığı kaydedildi.\n\nBakan Çiftçi, Bulgaristan makamlarına ve sürece katkı sunan Türk emniyet mensupları ile Adalet Bakanlığı yetkililerine teşekkürlerini iletti.",
+      "highlights": [
+        "Emre Yalvan ve Murat Saydam Bulgaristan'dan Türkiye'ye iade edildi.",
+        "Emre Yalvan 60 ayrı suç eylemiyle bağlantılı bir organize suç çetesi elebaşı olarak belirtildi.",
+        "Murat Saydam'ın kesinleşmiş hapis cezası bulunan bir zehir taciri olduğu kaydedildi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-ciftci-cember-daraliyor-diyerek-duyurdu-emre-yalvan-ve-murat-saydam-turkiyeye-iade-edildi-7704008",
+      "publishedAt": "2026-11-19T17:46:37.000Z",
+      "category": "Son Dakika",
       "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
-      "headline": "James Cleverly, Londra Belediye Başkanlığı için Tory adayı seçildi",
+      "headline": "Muhafazakâr Parti, Londra Belediye Başkanlığı Adaylığı İçin James Cleverly'yi Seçti",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1680215589605-c79387e55c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SmFtZXMlMjBDbGV2ZXJseSUyMExvbmRvbnxlbnwxfDB8fHwxNzk1MTEwNDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -36,14 +60,38 @@
         "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-a-bridge-looking-at-the-water-IjPgids9W6o"
       },
       "timeAgo": "9 dk önce",
-      "body": "Muhafazakar Parti (Tories), Londra belediye başkanlığı için James Cleverly'yi aday olarak belirledi. Central London'daki bir ofiste yapılan açıklamada, Cleverly'nin oyların yüzde 86'sını alarak seçildiği duyuruldu. Seçimde diğer Tory adayları Festus Akinbusoye ve Sara Gezdari de yer aldı.\n\nCleverly, seçilmesinin ardından yaptığı konuşmada Londra'ya olan sevgisini dile getirdi ve kenti yeniden eğlenceli bir yer yapma arzusunu paylaştı. Konuşmasında mevcut belediye başkanı Sadiq Khan'ı eleştiren Cleverly, Londra'da yaşanan sorunların sorumlusu olarak Khan'ı gösterdi ve kentin yönetiminde değişiklikler vadetti.\n\nToplantı sırasında Brexit ve Liz Truss'ın mini bütçesine verdiği eski destekle ilgili sorularla karşılaşan Cleverly, bu konulardan kaçınmayı tercih etti. Net sıfır hedefleri ve Avrupa İnsan Hakları Sözleşmesi (AİHS) üyeliğinden vazgeçilmesine ilişkin sorulara ise kısa ve kaçamak yanıtlar verdi.\n\nSüreç boyunca yaşananlar, yazar tarafından John Crace'in köşe yazısında ele alındı. Yazıda, geçmişteki Tory adaylarının seçim kampanyalarına değinilerek Cleverly'nin adaylığı ve açıklamaları değerlendirildi.",
+      "body": "Muhafazakâr Parti, Londra belediye başkanlığı seçimi için aday olarak James Cleverly'yi seçti. Merkez Londra'daki bir ofis süitinde toplanan adaylar arasında yapılan ilk tur oylamanın ardından Cleverly'nin yüzde 86 oy alarak seçildiği açıklandı. Oylamaya katılan toplam kişi sayısı ise belirtilmedi.\n\nCleverly, sonuçların açıklanmasının ardından diğer adaylar Festus Akinbusoye ve Sara Gezdari'ye kampanyalarından dolayı teşekkür etti. Londra'yı çok sevdiğini belirten Cleverly, bir daha milletvekili olarak aday olmayı planlamadığını ifade etti. Konuşmasında Londra'nın dünyanın en iyi şehri olduğunu savunan Cleverly, aynı zamanda şehirdeki sorunların ve suçların sorumlusu olarak mevcut Belediye Başkanı Sadiq Khan'ı suçladı ve Khan'ın Londra'dan nefret ettiğini öne sürdü.\n\nSoru-cevap kısmında Brexit ve Liz Truss'ın mini bütçesine verdiği eski destekler gündeme geldiğinde, Cleverly bu konulardan kaçınarak geçmişten ziyade geleceğe odaklandığını belirtti. Net sıfır hedeflerinden ve Avrupa İnsan Hakları Sözleşmesi'nden (AİHS) vazgeçme konusundaki sorulara ise isteksiz bir şekilde onay yanıtı verdi.\n\nGeçmişteki bazı siyasi çıkışlarıyla tanınan Cleverly'nin Londra belediye başkanlığı adaylığı, muhafazakârların bu yarışa daha ciddi yaklaşma çabası olarak değerlendiriliyor. Seçim sürecinin ve önümüzdeki dönemin siyaset yazarları için oldukça hareketli geçmesi bekleniyor.",
       "highlights": [
-        "James Cleverly, oyların yüzde 86'sını alarak Tory'nin Londra belediye başkan adayı oldu.",
-        "Cleverly, konuşmasında mevcut belediye başkanı Sadiq Khan'ı eleştirdi.",
-        "Aday, Brexit ve net sıfır gibi konulardaki sorulara kaçamak yanıtlar verdi."
+        "Muhafazakâr Parti, Londra belediye başkanlığı adayı olarak James Cleverly'yi seçti.",
+        "Cleverly, oyların yüzde 86'sını alarak seçildiğini duyurdu.",
+        "Konuşmasında mevcut belediye başkanını eleştiren Cleverly, geçmişteki bazı politikaları hakkında sorulan sorulara mesafeli yaklaştı."
       ],
       "externalUrl": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
       "publishedAt": "2026-11-19T17:38:48.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T17:54:28.434Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "headline": "Trump, Putin ve Xi Tarihi Zirvenin Ardından 'Barış Deklarasyonu' Yayımladı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1790426319874-66f45aebd6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VHJ1bXAlMjBQdXRpbiUyMFhpJTIwc3VtbWl0fGVufDF8MHx8fDE3OTUxMTA4Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Olek Buzunov",
+        "photographerUrl": "https://unsplash.com/@olek_bznv_photo",
+        "unsplashUrl": "https://unsplash.com/photos/people-holding-protest-signs-7l4I7FvFG3k"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping, Çin'in Shenzhen kentinde gerçekleştirilen tarihi üçlü görüşmenin ardından ortak bir barış deklarasyonu yayımladı. Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi marjında basına kapalı olarak 90 dakika süren görüşmede liderler, daha önce ikili temaslarda bulunmalarına rağmen ilk kez üçlü bir zirvede bir araya geldi.\n\nYayımlanan deklarasyonda nükleer savaşın kazanrilemeyeceği ve asla yapılmaması gerektiği vurgulanırken, ülkelerin petrol üretim ve tedarikini artırmayı planladığı ifade edildi. Liderler ayrıca küresel zorluklara daha etkili yanıt verebilmek amacıyla Birleşmiş Milletler'in reform edilmesine bağlı olduklarını belirtti. Ortak açıklamada, Uluslararası Ceza Mahkemesi ve benzeri kurumların yetki alanlarını kötüye kullanmaması gerektiği konusunda anlaşıldığı da kaydedildi.\n\nWashington'a dönerken sosyal medyada zirveyi değerlendiren ABD Başkanı Trump, görüşmeyi \"harika ve son derece önemli bir seyahat\" olarak nitelendirdi ve cuma günü Beyaz Saray'da bir basın toplantısı düzenleyeceğini duyurdu. Çin'deki temasları kapsamında Putin ile ayrı bir görüşme yapan Trump, Rus lideri \"arkadaşı\" olarak selamladı; Xi Jinping ile yaptığı ayrı görüşmede ise ikili ilişkileri \"çok özel\" olarak tanımladı.\n\nZirvenin ardından açıklamalarda bulunan Vladimir Putin, toplantıyı diploması tarihinin önemli bir bölümü olarak nitelendirirken, Ukrayna ve Avrupa'nın henüz bir uzlaşıya hazır olmadığını savundu. Putin ayrıca Rusya'nın Ukrayna'daki çatışmanın son bulmasını umduğunu ifade etti. Çin devlet yayıncılığına göre Xi Jinping ise üç liderin görüşmesini olumlu, yapıcı ve son derece verimli olarak değerlendirdi.\n\nABD'li bazı milletvekilleri ise Trump'ın Rus ve Çinli liderlere yönelik yaklaşımına tepki gösterdi. Cumhuriyetçi Senatör John Curtis nükleer savaşın önlenmesi taahhüdünü memnuniyetle karşılasa da, liderlerin dost olmadığını ve bu durumun ulusal güvenliği riske atabileceğini belirtti. Demokrat Senatör Jeanne Shaheen de Trump'ın tutumunu sert sözlerle eleştirdi.",
+      "highlights": [
+        "Trump, Putin ve Xi Jinping Çin'in Shenzhen kentinde tarihi bir üçlü görüşme gerçekleştirdi.",
+        "Liderler nükleer savaşın asla yapılmaması gerektiğini belirten ortak bir barış deklarasyonu yayımladı.",
+        "Zirve, Rusya'nın Ukrayna'yı işgalinden bu yana Putin'in Batılı liderlerin de yer aldığı uluslararası bir buluşmaya katıldığı ilk zirve oldu."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T17:38:22.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
