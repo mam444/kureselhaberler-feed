@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-19T13:05:18.996Z",
+  "generatedAt": "2026-11-19T13:15:01.657Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/19/cop31-taslak-metninden-fosil-yakit-ifadeleri-cikarildi-cikis-planina-destek-buyuyor",
+      "headline": "COP31 taslak metninden fosil yakıt ifadeleri çıkarıldı: çıkış planına destek büyüyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1642247911587-f9bd4954f4eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Q09QMzElMjB0YXNsYWslMjBtZXRuaW5kZW4lMjBmb3NpbCUyMHlhayVDNCVCMXQlMjBpZmFkZWxlcmklMjAlQzMlQTclQzQlQjFrYXIlQzQlQjFsZCVDNCVCMSUzQSUyMCVDMyVBNyVDNCVCMWslQzQlQjElQzUlOUYlMjBwbGFuJUM0JUIxbmElMjBkZXN0ZWslMjBiJUMzJUJDeSVDMyVCQ3lvcnxlbnwxfDB8fHwxNzk1MDk0MDg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Renaldo Kodra",
+        "photographerUrl": "https://unsplash.com/@renaldo97",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-men-standing-around-a-table-with-guns-uIkhF3VJKC0"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Fosil yakıtlardan uzaklaşma süreci (TAFF), yıllık BM iklim zirvesinde tartışmaların odak noktasına dönüştü.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/19/cop31-taslak-metninden-fosil-yakit-ifadeleri-cikarildi-cikis-planina-destek-buyuyor",
+      "publishedAt": "2026-11-19T13:12:12.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
+      "headline": "Xi, Putin ve Trump Çin'de Tarihi Zirvede Bir Araya Geldi",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1794304931114-9ac314aa32a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aGlzdG9yaWMlMjBzdW1taXR8ZW58MXwwfHx8MTc5NTA5NDA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Yulya Powell",
+        "photographerUrl": "https://unsplash.com/@matsurimon",
+        "unsplashUrl": "https://unsplash.com/photos/rocky-mountain-above-golden-field-TaK9hEaZEr4"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Çin Devlet Başkanı Xi Jinping, Rusya Devlet Başkanı Vladimir Putin ve Amerika Birleşik Devletleri Başkanı Donald Trump, Perşembe günü Çin'in Shenzhen kentinde tarihi bir zirvede bir araya geldi. Üç lider, gerçekleştirilen bu buluşmada bir \"barış bildirgesi\" üzerinde mutabakata vardı.\n\nZirve kapsamında yapılan görüşmeler sonucunda, üç lider Birleşmiş Milletler'in reforme edilmesi konusunda taahhütte bulundu. Ayrıca taraflar, rafine petrol ürünleri sevkiyatının artırılması yönünde adım atma kararı aldı.\n\nLiderlerin üzerinde anlaşmaya vardığı bir diğer konu ise uluslararası mahkemelerde görev yapan yetkililerin sahip olduğu dokunulmazlığın korunması oldu. Üç lider bu hususun muhafaza edilmesi konusunda uzlaşma sağladı.",
+      "highlights": [
+        "Xi, Putin ve Trump Çin'in Shenzhen kentinde bir araya geldi",
+        "Liderler bir barış bildirgesi üzerinde uzlaştı",
+        "BM'nin reformu ve petrol sevkiyatı konusunda taahhütte bulunuldu"
+      ],
+      "externalUrl": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
+      "publishedAt": "2026-11-19T13:11:27.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/hayat/buyukcekmecede-tahliye-edilen-evde-ask-siirleri-bulundu-4874467",
       "headline": "Büyükçekmece'de tahliye edilen evin her yerinde aşk şiirleri: Ev sahibi şikayetçi",
@@ -13,16 +55,17 @@
         "unsplashUrl": "https://unsplash.com/photos/white-wooden-framed-glass-door-nQlVMCHPysY"
       },
       "timeAgo": "4 dk önce",
-      "body": "Büyükçekmece Fatih Mahallesi'nde bulunan 4 katlı binanın 2'nci katındaki dairede 2 yıl yaşayan kiracı taşındı. Ev sahibinin avukatı, daireyi kontrole gittiğinde duvarların, tavanın, kapı ve pencerelerin, mutfak dolaplarının, kombinin ve peteklerin üzerine aşk şiirleri ile ayrılık sözleri yazıldığını gördü. Yaklaşık 8-9 aydır kira ödemesi alamayan ve tahliye davası açan ev sahibi, görüntüleri gördüğünde şok yaşadı. Ev sahibinin avukatı Ali Selman Altınbilek, kiracının psikolojik durumunun yerinde olmadığını söylediğini belirtti. Hukuki sürecin devam ettiğini belirten Altınbilek, tahsil edemedikleri kiraların yanı sıra 'eve zarar verme' ve 'güveni kötüye kullanma' suçlarından takip ve dava sürecinin sürdüğünü, zararların tazmin edileceğini ifade etti.",
+      "body": "Büyükçekmece Fatih Mahallesi'nde bulunan 4 katlı binanın 2'nci katındaki dairede 2 yıl yaşayan kiracı, evin tahliye edilmesinin ardından dairenin duvarlarına, tavanına, kapı ve pencerelerine, mutfak dolaplarına, peteklere ve kombiye aşk şiirleri ile ayrılık sözleri yazdı. Yaklaşık 8-9 aydır kira ödemesi alamayan ev sahibi, tahliye davası açarak yasal süreç başlatmıştı. Yasal sürecin tamamlanmasıyla kiracı evi boşalttı.\n\nDaireyi kontrole giden ev sahibinin avukatı, evin demirbaşlarının ve yüzeylerinin yazılarla dolu olduğunu fark etti. Avukatın çektiği görüntüleri inceleyen ev sahibi büyük şaşkınlık yaşadı. Ev sahibi ve avukatı, daha önce benzeri görülmeyen bu durum karşısında şok olduklarını belirtti.\n\nEv sahibinin avukatı Ali Selman Altınbilek, tahsil edilemeyen kiralar için icra takibi ve tahliye süreçlerinin işletildiğini, ayrıca evdeki yazılar ve tahribat nedeniyle 'eve zarar verme' ile 'güveni kötüye kullanma' suçlarından yasal süreç başlatıldığını açıkladı. Avukat Altınbilek, zararların tazmin edileceğini belirtti.\n\nEski kiracının durumla ilgili olarak psikolojik durumunun iyi olmadığını ifade ettiği aktarıldı. Ayrıca dairede daha önce tahliye edilen bir tekel bayine ait eşyaların bulunduğu ve bu eşyaların taşınmasının da zorluk çıkardığı bilgisi paylaşıldı. Hukuki sürecin devam ettiği bildirildi.",
       "highlights": [
-        "Büyükçekmece'de 2 yıl oturan kiracı tahliye edildiği dairenin her yerine aşk şiirleri ve ayrılık sözleri yazdı.",
-        "Ev sahibi, 8-9 aydır kira alamadığı ve evde zarar oluştuğu gerekçesiyle şikayetçi oldu.",
+        "Büyükçekmece'de 2 yıl oturduğu evi tahliye eden kiracının dairenin her yerine aşk şiirleri ve ayrılık sözleri yazdığı ortaya çıktı.",
+        "Ev sahibi, 8-9 aydır alamadığı kira ödemeleri ve evde oluşan zararlar nedeniyle avukatı aracılığıyla şikayetçi oldu.",
         "Avukat Selman Altınbilek, 'eve zarar verme' ve 'güveni kötüye kullanma' suçlarından hukuki sürecin sürdüğünü belirtti."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/hayat/buyukcekmecede-tahliye-edilen-evde-ask-siirleri-bulundu-4874467",
       "publishedAt": "2026-11-19T13:00:46.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T13:14:23.606Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/tekirdag-ve-antalya-dahil-9-belediye-ak-partide-candan-yuceer-ve-busra-ozdemir-rozetlerini-takti-1751605",
@@ -3751,7 +3794,7 @@
       "publishedAt": "2026-11-18T13:03:46.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T13:14:20.667Z"
+      "sourceTextAttemptedAt": "2026-11-19T13:14:23.606Z"
     },
     {
       "id": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
@@ -7935,7 +7978,7 @@
       "publishedAt": "2026-11-16T20:22:46.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T12:44:48.013Z"
+      "imageSearchAttemptedAt": "2026-11-19T13:14:23.606Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
