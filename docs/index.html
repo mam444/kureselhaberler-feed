@@ -403,6 +403,15 @@
   .grid {
     display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px;
   }
+  .feed-load-more {
+    display: flex; align-items: center; justify-content: center; gap: 8px;
+    width: min(100%, 320px); margin: 22px auto 8px; padding: 12px 18px;
+    border: 1px solid var(--card-border); border-radius: 999px;
+    background: var(--card); color: var(--text); font-size: 13px; font-weight: 750;
+    cursor: pointer; transition: border-color .18s ease, color .18s ease, transform .18s ease;
+  }
+  .feed-load-more:hover { border-color: var(--accent-red); color: var(--accent-red); transform: translateY(-1px); }
+  .feed-load-more .msr { font-size: 19px; }
   .card {
     position: relative; border-radius: 14px; overflow: hidden;
     border: 1px solid var(--card-border); cursor: pointer; background: var(--card);
@@ -1090,6 +1099,34 @@ function cardHtml(a) {
     </div>`;
 }
 
+const FEED_PAGE_SIZE = 24;
+const feedPages = new Map();
+
+function pagedFeedHtml(items, feedKey) {
+  if (items.length <= FEED_PAGE_SIZE) return feedSectionsHtml(items);
+  feedPages.set(feedKey, { items, offset: FEED_PAGE_SIZE });
+  return `<div class="paged-feed" data-feed-id="${escapeHtml(feedKey)}">
+    ${feedSectionsHtml(items.slice(0, FEED_PAGE_SIZE))}
+    <button class="feed-load-more" type="button" data-feed-more="${escapeHtml(feedKey)}">Daha fazla haber yükle <span class="msr">expand_more</span></button>
+  </div>`;
+}
+
+function loadMoreFeed(button) {
+  const feedKey = button.dataset.feedMore;
+  const state = feedPages.get(feedKey);
+  const container = button.closest('.paged-feed');
+  if (!state || !container) return;
+  const end = Math.min(state.offset + FEED_PAGE_SIZE, state.items.length);
+  const previousGridCount = container.querySelectorAll('.grid').length;
+  button.insertAdjacentHTML('beforebegin', feedSectionsHtml(state.items.slice(state.offset, end)));
+  Array.from(container.querySelectorAll('.grid')).slice(previousGridCount).forEach(bindCardClicks);
+  state.offset = end;
+  if (end >= state.items.length) {
+    button.remove();
+    feedPages.delete(feedKey);
+  }
+}
+
 function feedSectionsHtml(items) {
   let html = '';
   for (let i = 0; i < items.length; i += AD_EVERY_N) {
@@ -1100,6 +1137,9 @@ function feedSectionsHtml(items) {
 }
 
 function bindCardClicks(root) {
+  root.querySelectorAll('[data-feed-more]').forEach(button => {
+    button.addEventListener('click', () => loadMoreFeed(button));
+  });
   root.querySelectorAll('[data-id]').forEach(el => {
     el.addEventListener('click', () => { location.hash = encodeURIComponent(el.getAttribute('data-id')); });
   });
@@ -1427,7 +1467,7 @@ function renderHome() {
   </div>`;
 
   let main = `<div class="section-title">Son Dakika</div>`;
-  if (gridItems.length > 0) main += feedSectionsHtml(gridItems);
+  if (gridItems.length > 0) main += pagedFeedHtml(gridItems, 'home');
 
   const html = `${feature}<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
 
@@ -1448,7 +1488,7 @@ function renderCategoryPage(name) {
   if (items.length === 0) {
     main += '<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.4">inbox</span><br>Bu kategoride henüz haber yok.</div>';
   } else {
-    main += `<div style="margin-top:2px">${feedSectionsHtml(items)}</div>`;
+    main += `<div style="margin-top:2px">${pagedFeedHtml(items, 'category:' + name)}</div>`;
   }
   const heading = `<div class="page-heading" style="max-width:none;margin:0;padding:0"><span class="msr" style="color:var(--gold)">grid_view</span>${escapeHtml(name)}</div>`;
   const html = `${heading}<div class="home-layout" style="margin-top:18px"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
