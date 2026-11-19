@@ -1,6 +1,44 @@
 {
-  "generatedAt": "2026-11-19T15:05:24.451Z",
+  "generatedAt": "2026-11-19T15:15:17.689Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-sahte-yardim-mesajlarina-karsi-uyari/4131192",
+      "headline": "Aile ve Sosyal Hizmetler Bakanlığından sahte \"yardım\" mesajlarına karşı uyarı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Aile ve Sosyal Hizmetler Bakanlığı, Bakanlığın ve sosyal yardımlaşma ve dayanışma vakıflarının adı kullanılarak sosyal yardım vaadiyle gerçekleştirilen dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-sahte-yardim-mesajlarina-karsi-uyari/4131192",
+      "publishedAt": "2026-11-19T15:09:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
+      "headline": "Birleşik Krallık'ın iltica başvurularında yapay zeka kullanımı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwxfDB8fHwxNzk1MTAxMjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Igor Omilaev",
+        "photographerUrl": "https://unsplash.com/@omilaev",
+        "unsplashUrl": "https://unsplash.com/photos/robot-and-human-hands-reaching-toward-ai-text-FHgWFzDDAOs"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Birleşik Krallık göçmenlik sistemini yönetmek için yapay zekaya daha fazla yöneliyor. Bu kapsamda göçmenlerin telefonlarının analiz edilmesi ve iltica başvurularının işleme konulması gibi alanlarda yapay zekadan yararlanılıyor.\n\nInfoMigrants gazetecisi Stella Elgersma, Birleşik Krallık İç İşleri Bakanlığı'nın iltica başvurularını işlemek için yapay zeka araçlarını test ettiğini aktarıyor. Bu süreçte mülakat özetleri oluşturan bir sistem de kullanılıyor.\n\nYapılandırılmış bilgilere göre sistemde hatalar bulunuyor, insan denetimi sınırlı düzeyde kalıyor ve şeffaflık konusunda endişeler dile getiriliyor. Bu durumun iltica eden kişilerin hayatını risk altına atıp atamayacağı ise tartışma konusu olmaya devam ediyor.",
+      "highlights": [
+        "Birleşik Krallık iltica başvurularında yapay zeka araçlarını test ediyor",
+        "Sistem mülakat özetleri çıkarıyor ve insan denetimi sınırlı kalıyor",
+        "Hatalar ve şeffaflık endişeleri hayatları riske atabileceği endişesini doğuruyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
+      "publishedAt": "2026-11-19T15:07:23.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/mhp-lideri-devlet-bahceli-turkiye-yeni-bir-kutup-basidir-7703996",
       "headline": "MHP lideri Devlet Bahçeli: Türkiye yeni bir kutup başıdır",
@@ -22,7 +60,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/mhp-lideri-devlet-bahceli-turkiye-yeni-bir-kutup-basidir-7703996",
       "publishedAt": "2026-11-19T15:00:34.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T15:14:21.664Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
@@ -3747,15 +3786,15 @@
       "timeAgo": "2 dk önce",
       "body": "Çin Devlet Başkanı Xi Jinping, Çarşamba günü Çin'deki bir havalimanında ABD'li mevkidaşı Donald Trump'ı pistte şahsen karşıladı. İki lider, Rusya Devlet Başkanı Vladimir Putin ile gerçekleştirecekleri merakla beklenen görüşme öncesinde kısa bir süre sarıldı.\n\nPekin yönetimi, üçlü zirve sırasında Ukrayna'daki savaşın ele alınmayacağını belirtti. Ancak Donald Trump, bu çatışmanın gündemde yer bulacağını ifade etmişti. Uzmanlar, bu durumun Putin'i memnun etmesinin muhtemel olduğunu değerlendiriyor. Liderlerin bir araya geldiği temaslar, uluslararası kamuoyunun yakın takibinde sürerken, zirvenin ana gündem maddelerine dair farklı açıklamalar dikkat çekiyor.",
       "highlights": [
-        "Xi Jinping, ABD'li mevkidaşı Donald Trump'ı Çin'de havalimanında karşıladı",
-        "Liderler, Vladimir Putin ile yapılacak görüşme öncesinde kısa bir süre sarıldı",
-        "Pekin savaştan kaçınılacağını belirtirken Trump konunun gündeme geleceğini söyledi"
+        "Şi Cinping, Çin'deki havalimanında Donald Trump'ı karşıladı.",
+        "İki lider, Vladimir Putin ile yapılacak kritik üçlü görüşme öncesinde bir araya geldi.",
+        "Pekin Ukrayna savaşının görüşülmeyeceğini belirtirken, Trump çatışmanın gündeme geleceğini ifade etti."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261118-xi-welcomes-trump-to-china-ahead-of-high-stakes-putin-meeting",
       "publishedAt": "2026-11-18T14:52:39.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:04:51.395Z"
+      "sourceTextAttemptedAt": "2026-11-19T15:14:21.664Z"
     },
     {
       "id": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
@@ -7239,7 +7278,7 @@
       "publishedAt": "2026-11-17T15:43:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T08:04:17.135Z",
+      "imageSearchAttemptedAt": "2026-11-19T15:14:21.664Z",
       "sourceTextAttemptedAt": "2026-11-18T12:54:27.569Z"
     },
     {
@@ -7256,7 +7295,7 @@
       "publishedAt": "2026-11-17T15:42:46.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T08:14:19.068Z",
+      "imageSearchAttemptedAt": "2026-11-19T15:14:21.664Z",
       "sourceTextAttemptedAt": "2026-11-18T13:04:31.016Z"
     },
     {
