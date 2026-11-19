@@ -1,6 +1,21 @@
 {
-  "generatedAt": "2026-11-19T15:59:16.179Z",
+  "generatedAt": "2026-11-19T16:09:06.978Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/spor/foto/mauricio-pochettino-istedi-manchester-united-victor-osimhen-icin-devreye-girdi-3928603",
+      "headline": "M. United, Osimhen için devreye girdi!",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "14 dk önce",
+      "body": "Mauricio Pochettino'nun takımın başına geçmesiyle birlikte Manchester United yönetimi hücum hattına takviye yapma kararı aldı. Ses getirecek bir golcü isteyen Arjantinli teknik adam için İngiliz ekibi, Galatasaray'da başarılı bir performans gösteren Victor Osimhen'i listesine ekledi.",
+      "highlights": [],
+      "externalUrl": "https://www.haberturk.com/spor/foto/mauricio-pochettino-istedi-manchester-united-victor-osimhen-icin-devreye-girdi-3928603",
+      "publishedAt": "2026-11-19T15:54:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664",
       "headline": "Kırmızı bültenle aranan 2 kişi Bulgaristan'dan Türkiye'ye iade edildi",
@@ -26,7 +41,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
-      "headline": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "headline": "Senegal Açıklarında Göçmen Teknesi Battı: Onlarca Kayıp",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": "https://images.unsplash.com/photo-1713289590453-774a2fb3191b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RG96ZW5zJTIwbWlzc2luZyUyMGFmdGVyJTIwYm9hdCUyMGNhcnJ5aW5nJTIwbWlncmFudHMlMjBzaW5rcyUyMG9mZiUyMFNlbmVnYWwlMjdzJTIwY29hc3R8ZW58MXwwfHx8MTc5NTEwMzg1OHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -36,12 +51,32 @@
         "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-riding-on-the-back-of-a-horse-drawn-carriage-lC_BHsAZfZE"
       },
       "timeAgo": "5 dk önce",
-      "body": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
-      "highlights": [],
+      "body": "Senegal açıklarında, Atlas Okyanusu'nda 50 ila 100 arasında göçmen taşıdığı belirtilen bir teknenin alabora olması sonucu arama kurtarma çalışmaları devam ediyor. Yetkililer şimdiye kadar dört cesede ulaşıldığını ve onlarca kişinin hâlâ kayıp olduğunu bildirdi. Ağır hasar gören tekne, Dakar'ın güneyindeki Yenne köyü yakınlarında karaya vurdu.\n\nKöy muhtarı temsilcisi Oumar Sow, facianın yerel saatle 02:00 civarında gerçekleştiğini belirterek tekneden gelen çığlıkların kumsaldan bile duyulduğunu ifade etti. Polis tarafından sorgulanan bir kurtulan, teknede beş kadın dahil yaklaşık 100 kişi bulunduğunu aktarırken; bir yerel yetkili ise teknenin 50 kişi taşıdığını ve göçmenlerin küçük balıkçı teknelerinden daha büyük bir tekneye geçerken kayaya çarptığını kaydetti. Enkazda kimlik belgeleri, cep telefonları ve kişisel eşyalar bulundu.\n\nÇarşamba günü yapılan kabine toplantısında konuşan Devlet Başkanı Diomaye Faye, Avrupa'ya ulaşmak isteyen göçmenlerin düzensiz ayrılışlarındaki artıştan duyduğu endişeyi dile getirdi. Faye, içişleri bakanlığına tehlikeli yolculukların arkasındaki faktörleri inceleyen bir rapor hazırlama talimatı verdi. Öte yandan Senegal Donanması, bu hafta pazartesi ve salı günleri 1.400'den fazla kişinin kurtarıldığını açıkladı.\n\nKuzey Afrika üzerinden Avrupa'ya ulaşmanın zorlaşması nedeniyle göçmenler İspanya'nın Kanarya Adaları'nı hedefliyor ve genellikle okyanus yolculuğuna uygun olmayan ahşap teknelerle seyahat ediyor. Birleşmiş Milletler göç ajansı IOM, bu yıl sadece Batı Afrika kıyılarında en az 454 ölüm ve kayıp vakası kaydedildiğini, birçok teknenin iz bırakmadan kaybolması nedeniyle bu rakamların muhtemelen gerçeğin altında olduğunu belirtti.",
+      "highlights": [
+        "Senegal açıklarında göçmen teknesinin batması sonucu onlarca kişi kayboldu, dört ceset bulundu.",
+        "Devlet Başkanı Diomaye Faye, düzensiz göç artışı nedeniyle içişleri bakanlığına rapor hazırlama talimatı verdi.",
+        "BM göç ajansı IOM, bu yıl Batı Afrika kıyılarında en az 454 ölüm ve kayıp kaydedildiğini bildirdi."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T15:52:26.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T16:04:25.007Z"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "headline": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "17 dk önce",
+      "body": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ Apec summit – latest updates China, Russia and the US have said they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran triggered by two of the participants. The declaration on Thursday also outlined a set…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "publishedAt": "2026-11-19T15:50:03.000Z",
+      "category": "World",
+      "lang": "en"
     },
     {
       "id": "https://www.haberturk.com/dunya/turkiye-ve-ab-arasinda-kritik-schengen-zirvesi-sureclerde-sadelestirilme-talebi-iletildi-3928566",
@@ -3719,7 +3754,7 @@
       "publishedAt": "2026-11-18T15:42:49.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:55:14.560Z"
+      "sourceTextAttemptedAt": "2026-11-19T16:04:25.007Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
@@ -9371,7 +9406,7 @@
       "publishedAt": "2026-11-16T12:48:35.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T14:04:21.431Z"
+      "imageSearchAttemptedAt": "2026-11-19T16:04:25.007Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-haberler-sanliurfa-ve-hakkaride-566-kilo-uyusturucu-madde-ele-gecirildi-3927714",
@@ -9459,7 +9494,7 @@
       "publishedAt": "2026-11-16T12:36:55.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T14:14:38.757Z"
+      "imageSearchAttemptedAt": "2026-11-19T16:04:25.007Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/16/ai-learning-tool-helps-blind-students-excel-in-malawi?traffic_source=rss",
