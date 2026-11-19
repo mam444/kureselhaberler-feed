@@ -30,8 +30,11 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 const MAX_ALLOWED_SIMILARITY = 0.56;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
 const RSS_FALLBACK_MAX_CHARS = 420;
-const MAX_IMAGE_BACKFILLS_PER_RUN = 1;
+// The workflow runs every ten minutes. Two backfills per run give missing
+// stories another safe chance every six hours without broad stock-photo matches.
+const MAX_IMAGE_BACKFILLS_PER_RUN = 2;
 const ENRICHMENT_RETRY_MS = 24 * 60 * 60 * 1000;
+const IMAGE_RETRY_MS = 6 * 60 * 60 * 1000;
 
 function isWithinNewsWindow(article, now = Date.now()) {
   const publishedAt = Date.parse(article.publishedAt ?? '');
@@ -335,7 +338,7 @@ async function main() {
         const lastImageSearch = Date.parse(article.imageSearchAttemptedAt ?? '');
         const needsImageKeyword = Boolean(UNSPLASH_ACCESS_KEY)
           && !article.imageUrl
-          && (!Number.isFinite(lastImageSearch) || now - lastImageSearch >= ENRICHMENT_RETRY_MS)
+          && (!Number.isFinite(lastImageSearch) || now - lastImageSearch >= IMAGE_RETRY_MS)
           && wordCount(article.body) >= 60;
         return { article, rss, needsLongerCopy, needsImageKeyword };
       })
@@ -436,7 +439,7 @@ async function main() {
     const imageBackfillCandidates = merged
       .filter((article) => !article.imageUrl && article.headline
         && (!Number.isFinite(Date.parse(article.imageSearchAttemptedAt ?? ''))
-          || now - Date.parse(article.imageSearchAttemptedAt) >= ENRICHMENT_RETRY_MS)
+          || now - Date.parse(article.imageSearchAttemptedAt) >= IMAGE_RETRY_MS)
         && !brandNewRaw.some((fresh) => fresh.id === article.id))
       .slice(0, MAX_IMAGE_BACKFILLS_PER_RUN);
     for (const article of imageBackfillCandidates) {
