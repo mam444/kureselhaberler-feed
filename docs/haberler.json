@@ -1,20 +1,64 @@
 {
-  "generatedAt": "2026-11-19T17:08:03.129Z",
+  "generatedAt": "2026-11-19T17:15:52.032Z",
   "articles": [
     {
+      "id": "https://www.yenisafak.com/galeri/gundem/luks-otomobil-kule-dondu-afad-mudahale-etti-otomobil-alevlere-teslim-olmaktan-kurtulamadi-4874538",
+      "headline": "Lüks otomobil küle döndü: AFAD müdahale etti, otomobil alevlere teslim olmaktan kurtulamadı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Şanlıurfa'da seyir halindeki lüks otomobilin motor bölümünde çıkan yangın, kısa sürede büyüyerek aracı alev topuna çevirdi. Yangına ilk müdahaleyi AFAD ekipleri yaparken, olay yerine gelen itfaiye ekiplerinin müdahalesiyle söndürülen otomobil kullanılamaz hale geldi. Yangına müdahalenin geciktiğini öne süren vatandaşlar, itfaiye ekiplerine tepki gösterdi.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/luks-otomobil-kule-dondu-afad-mudahale-etti-otomobil-alevlere-teslim-olmaktan-kurtulamadi-4874538",
+      "publishedAt": "2026-11-19T17:13:24.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks",
+      "headline": "AB, gelecekteki müzakereler öncesinde İngiltere'yi Brexit konusunda karar vermeye çağırdı",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1566518447958-da38001b61ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RVUlMjBmbGFnJTIwVUt8ZW58MXwwfHx8MTc5NTEwODQ4OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Paul Fiedler",
+        "photographerUrl": "https://unsplash.com/@paulfiedler",
+        "unsplashUrl": "https://unsplash.com/photos/flag-of-great-britain-MKaQ4KOEssk"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Avrupalı diplomatlar, İngiltere Başbakanı Andy Burnham'ı, Avrupa Birliği ile uzun vadeli ilişkiler üzerine daha fazla müzakereye başlamadan önce Brexit'i tersine çevirip çevirmek istemediklerine karar vermeleri konusunda uyardı. Bu uyarı, Cuma günü Brüksel'de gerçekleştirilecek ve her iki tarafın da ticareti kolaylaştırma ile işbirliğini güçlendirme öncelerini ele almasının beklendiği zirve öncesinde geldi.\n\nAvrupalı diplomatlar, Burnham'ın hükümetinin Brexit'i tersine çevirme niyetinde olup olmadığını netleştirmemesi durumunda, blok ile uzun vadeli ilişkilere dair gelecekteki görüşmelerin askıya alınabileceğini belirtti. İngiliz Guardian gazetesinin aktardığına göre, Avrupalı başkentler İngiltere'nin ilişkileri yeniden kurmaya yönelik parça parça yaklaşımından duydukları memnuniyetsizliği dile getirerek, yeni bir müzakere turuna başlamadan önce net bir siyasi yönelim talep ediyor.\n\nCuma günkü zirvenin, İngiltere'nin 2020'de AB'den resmi olarak ayrılmasından bu yana ikincisi olduğu bildirildi. Zirvede gıda ve tarım ticareti, emisyon ticareti ve gençlerin iş ve eğitim fırsatlarına yönelik anlaşmaların çıkması beklenirken, Başbakan Burnham bu önlemlerin ülkenin gayri safi yurtiçi hasılatını yüzde 0,4'e kadar artırabileceğini tahmin ediyor. Öte yandan, perşembe günü devam eden müzakerelerde, İngiltere'nin Avrupalı üreticileri kayıran AB kurallarına katılımı konusunda anlaşmazlıklar sürdü.\n\nBaşbakan Andy Burnham, 2016 referandumunda \"Ayrıl\" kampanyasının vadettiği faydaları Brexit'in sağlayamadığını kabul ederek, \"Bize verilen Brexit işe yaramadı. Kazandığımızdan fazlasını kaybettik\" ifadelerini kullandı. AB'ye yeniden katılmak dahil tüm seçeneklerin masada kalması gerektiğini belirten Burnham, böyle bir karar için acil bir takvim olmadığını vurguladı. Hükümetinin gümrük birliğine veya tek pazara dönmemeye yönelik İşçi Partisi manifesto taahhütlerine bağlı kaldığını kaydetti.\n\nAvrupalı yetkililer, on yıllık zorlu Brexit müzakerelerinin ve değişen İngiliz hükümetlerinin ardından temkinli yaklaşımını sürdürüyor. İrlanda'nın Londra Büyükelçisi Sonja Hyland da netliğin önemine dikkat çekerek, Londra yeniden müzakere açmak istiyorsa öncelikle ne istediğine dair net bir karar vermesi gerektiğini ifade etti.",
+      "highlights": [
+        "Avrupalı diplomatlar, İngiltere Başbakanı Andy Burnham'ı Brexit konusunda karar vermeye çağırdı.",
+        "Cuma günü Brüksel'de ticaret ve işbirliği önlemlerinin ele alınacağı bir zirve düzenlenecek.",
+        "Başbakan Andy Burnham, Brexit'in vaat edilen faydaları sağlayamadığını kabul etti."
+      ],
+      "externalUrl": "https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks",
+      "publishedAt": "2026-11-19T17:07:21.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
-      "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "headline": "İsrail ordusu Gazze'de Sarı Çizgi'nin ötesindeki kara operasyonunu tamamladı",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "1 dk önce",
-      "body": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "highlights": [],
+      "body": "İsrail ordusu, tahliye emirlerinin verilmesinden bir gün sonra, Gazze'nin orta kesiminde kontrolü dışındaki bir bölgede nadir görülen bir kara operasyonunu tamamladığını açıkladı. Çarşamba günü tankların Nusayrat mülteci kampının doğusundaki bir bölgeye ve ana kuzey-güney yoluna doğru ilerlemesiyle aileler evlerinden ve çadırlarından kaçtı. \n\nİsrail ordusu, operasyonun hedefinin, İsrail işgali altındaki bölgeyi gösteren Sarı Çizgi'nin batısında yer alan bir \"terör tünelini\" ortadan kaldırmak olduğunu bildirdi. Bölgeyi kontrol eden Hamas ise bu adımı Ekim 2025 ateşkes anlaşmasının açık bir ihlali olarak nitelendirdi. \n\nOperasyon öncesinde Cogat'ın Arapça sözcüsü, Nusayrat ve Bureij mülteci kampının kuzeyindeki bölgede yaşayan Filistinlilere güvenli olmaları için uzak durma çağrısında bulunmuş ve Salah al-Din yolunun bir kısmının trafiğe kapatılacağını duyurmuştu. Perşembe sabahı ise faaliyetin sona erdiği ve yolun yeniden açıldığı açıklandı. \n\nHamas ve Gazze'deki hükümet medya ofisi, operasyon nedeniyle yaklaşık 6.000 kişinin evlerinden ve çadırlarından kaçmak zorunda kaldığını, bunun zorla yerinden etme suçu teşkil ettiğini belirtti. Yerinden edilen bazı sakinler, İsrail güçlerinin ayrılmasının ardından evlerini kontrol etmek için geri dönerken bölgede büyük yıkım olduğunu ifade etti. \n\nÖte yandan Gazze'deki sivil savunma ajansı ve sağlık yetkilileri, Çarşamba ve Perşembe günleri düzenlenen çeşitli saldırılarda ölenler ve yaralananlar olduğunu bildirdi. BM verilerine göre ateşkesin başlamasından bu yana Gazze'deki can kayıpları artmaya devam ediyor.",
+      "highlights": [
+        "İsrail ordusu Gazze'de Sarı Çizgi'nin ötesindeki kara operasyonunu tamamladı.",
+        "Hamas operasyonu ateşkes anlaşmasının ihlali olarak nitelendirdi.",
+        "Operasyon nedeniyle yaklaşık 6.000 kişi yerinden edildi."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-19T17:03:23.000Z",
-      "category": "World",
-      "lang": "en"
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T17:14:23.255Z",
+      "imageSearchAttemptedAt": "2026-11-19T17:14:23.255Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/bagcilar-tem-otoyolunda-zincirleme-kaza-yaralilar-var-7704034",
@@ -36,7 +80,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/bagcilar-tem-otoyolunda-zincirleme-kaza-yaralilar-var-7704034",
       "publishedAt": "2026-11-19T17:02:37.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T17:14:23.255Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
