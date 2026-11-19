@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T14:36:05.804Z",
+  "generatedAt": "2026-11-19T14:46:04.767Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/suudi-arabistan-veliaht-prensi-ve-centcom-komutanindan-askeri-isbirligi-gorusmesi-7703990",
+      "headline": "Suudi Arabistan Veliaht Prensi ve CENTCOM Komutanı askeri işbirliğini görüştü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1588450248442-1c8357368dba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlsaXRhcnklMjBtZWV0aW5nfGVufDF8MHx8fDE3OTUwOTk1NDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Simon Infanger",
+        "photographerUrl": "https://unsplash.com/@photosimon",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-green-and-brown-camouflage-uniform-holding-black-rifle--_02VOYclsY"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Suudi Arabistan Veliaht Prensi Bin Selman, CENTCOM Komutanı Cooper ve beraberindeki heyeti başkent Riyad'da kabul etti. Suudi Arabistan resmi ajansı SPA'nın aktardığına göre, kabulde iki ülke arasındaki askeri işbirliği ele alındı ve bölgedeki son gelişmeler değerlendirildi.\n\nGerçekleşen görüşmede Suudi Arabistan Savunma Bakanı Halid bin Selman da hazır bulundu.\n\nABD'nin Riyad Büyükelçiliği, sosyal medya hesabı üzerinden görüşmeyle ilgili bir paylaşım yaptı. Paylaşımda, \"Amerika, güç yoluyla barışı koruyor. Körfez bölgesindeki ortaklarımızla omuz omuza durmaya devam ediyoruz\" ifadelerine yer verildi.",
+      "highlights": [
+        "Veliaht Prens Bin Selman, CENTCOM Komutanı Cooper'ı Riyad'da kabul etti",
+        "Görüşmede askeri işbirliği ve bölgedeki son gelişmeler ele alındı",
+        "ABD'nin Riyad Büyükelçiliği sosyal medyadankonuya ilişkin paylaşım yaptı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/suudi-arabistan-veliaht-prensi-ve-centcom-komutanindan-askeri-isbirligi-gorusmesi-7703990",
+      "publishedAt": "2026-11-19T14:41:01.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506",
       "headline": "Şanlıurfa'da yolcu minibüsü şarampole devrildi: 24 yaralı",
@@ -16,12 +39,36 @@
       "body": "Şanlıurfa'nın Siverek ilçesinde meydana gelen trafik kazasında aralarında çocukların da bulunduğu 24 kişi yaralandı.\n\nŞ.C. yönetimindeki 60 EA 425 plakalı yolcu minibüsü, kırsal Dilekli Mahallesi yakınlarında sürücüsünün direksiyon hakimiyetini kaybetmesi neticesinde şarampole devrildi.\n\nKazanın ardından çevredeki kişilerin ihbarı üzerine olay yerine sağlık, itfaiye ve jandarma ekipleri sevk edildi.\n\nBölgeye ulaşan sağlık ekiplerinin ilk müdahalesinin ardından yaralılar ambulanslarla Siverek Devlet Hastanesine kaldırıldı. Hastanede tedavi altına alınan yaralılardan 2'sinin sağlık durumunun ciddiyetini koruduğu öğrenildi.",
       "highlights": [
         "Şanlıurfa'nın Siverek ilçesinde yolcu minibüsü şarampole devrildi.",
-        "Kazada aralarında çocukların da bulunduğu 24 kişi yaralandı.",
-        "Yaralılardan 2'sinin durumunun ağır olduğu bildirildi."
+        "Kazada aralarında çocukların da yer aldığı 24 kişi yaralandı.",
+        "Hastaneye kaldırılan yaralılardan 2'sinin durumunun ağır olduğu öğrenildi."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506",
       "publishedAt": "2026-11-19T14:33:38.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T14:44:25.632Z"
+    },
+    {
+      "id": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
+      "headline": "Fransa'da Emekliler 2027 Bütçe Kesintilerine Karşı Yürüdü",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1681899125880-bc57e8d4a585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGluJTIwUGFyaXN8ZW58MXwwfHx8MTc5NTA5OTUzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sébastien Ramage",
+        "photographerUrl": "https://unsplash.com/@ramagesebastien",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-up-signs-on-a-city-street-7nqFPJrEye4"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "Fransa'nın başkenti Paris'te Perşembe günü binden fazla kişi, 2027 bütçesinde emeklileri hedef alan sosyal ve vergi önlemlerine karşı yürüyüş düzenledi. Eylem, öğrenci ve lise gruplarının da katıldığı bir sendika ittifakının çağrısıyla gerçekleştirildi.\n\nHükümet, 1.260 euro üzerindeki emekli maaşlarının endekslemesini dondurmayı ve yüzde 10'luk gelir vergisi istisnasını reforme etmeyi planlıyor. Bu adımlarla emeklilerin yaklaşık 5,4 milyar euro katkı sağlaması hedefleniyor.\n\nSendika liderleri ise bu kaynağın emeklilerin cebinden çıkmaması gerektiği görüşünü savunuyor. Gelişmeler ve protestolarla ilgili detaylar basın yansımalarında yer buldu.",
+      "highlights": [
+        "Paris'te binden fazla kişi 2027 bütçe kesintilerine karşı yürüdü",
+        "Hükümet emeklilerden yaklaşık 5,4 milyar euro katkı sağlamayı amaçlıyor",
+        "Sendikalar paranın emeklilerin cebinden çıkmaması gerektiğini belirtiyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
+      "publishedAt": "2026-11-19T14:32:57.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -110,13 +157,14 @@
       "body": "Çin, ABD ve Rusya liderleri Shenzhen kentinde tarihte ilk kez bir araya geldi. Ancak söz konusu zirve, barış konusunda bağlayıcılığı olmayan açıklamalar dışında yeni bir gelişme sağlamazken, düzenli olarak görüşme planı da ortaya çıkmadı.\n\nFRANCE 24 muhabiri Kethevane Gorjestani'nin aktardığı bilgilere göre, Avrupa'nın masada yer almadığı bu zirvenin ardından Avrupalı liderler Ukrayna'ya destek göstermek üzere Berlin'de bir araya geldi.\n\nBerlin'deki bu buluşma, Çin'deki zirveye karşılık, Avrupa'nın Ukrayna'ya olan desteğini açıkça göstermesi amacıyla gerçekleştirilen net bir yanıt olarak değerlendirildi.",
       "highlights": [
         "Çin, ABD ve Rusya liderleri Shenzhen'de bir araya geldi",
-        "Zirveden yeni bir karar çıkmazken barış üzerine bağlayıcı olmayan açıklamalar yapıldı",
-        "Avrupalı liderler Ukrayna'ya destek vermek için Berlin'de toplandı"
+        "Zirve, barış konusunda bağlayıcılığı olmayan açıklamalarla sona erdi",
+        "Avrupalı liderler Ukrayna'ya destek göstermek üzere Berlin'de toplandı"
       ],
       "externalUrl": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
       "publishedAt": "2026-11-19T14:04:03.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T14:44:25.632Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
@@ -1459,7 +1507,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T08:43:40.229Z",
-      "imageSearchAttemptedAt": "2026-11-19T08:43:40.229Z"
+      "imageSearchAttemptedAt": "2026-11-19T14:44:25.632Z"
     },
     {
       "id": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
@@ -6603,7 +6651,7 @@
       "publishedAt": "2026-11-17T16:20:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T18:34:20.549Z",
+      "imageSearchAttemptedAt": "2026-11-19T14:44:25.632Z",
       "sourceTextAttemptedAt": "2026-11-18T05:54:21.956Z"
     },
     {
