@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-19T19:04:31.213Z",
+  "generatedAt": "2026-11-19T19:14:36.203Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-turk-tir-soforlerinin-vize-sorunu-icin-ab-ile-kalici-cozum-icin-calisiyoruz-7704119",
+      "headline": "Dışişleri Bakanı Hakan Fidan: Türk TIR şoförlerinin vize sorunu için AB ile kalıcı çözüm için çalışıyoruz",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1695222833131-54ee679ae8e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJ1Y2slMjBkcml2ZXIlMjB2aXNhfGVufDF8MHx8fDE3OTUxMTU2NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Artem Balashevsky",
+        "photographerUrl": "https://unsplash.com/@abalashevsky",
+        "unsplashUrl": "https://unsplash.com/photos/a-white-semi-truck-driving-down-a-rural-road-ZhNYKwjRMh4"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "TBMM Plan ve Bütçe Komisyonu, Dışişleri Bakanlığı ile ona bağlı kuruluşların 2027 yılı bütçesini görüşmek üzere toplandı. Toplantıda söz alan YENİ Parti Antalya Milletvekili Cavit Arı, TIR şoförlerinin yaşadığı vize sorununu Dışişleri Bakanı Hakan Fidan'a aktararak, bu durumun ülkenin genel ihracatını ve üreticileri olumsuz etkilediğini belirtti.\n\nKonuya ilişkin açıklamalarda bulunan Bakan Hakan Fidan, şoförlerin kurallara uyup uymadığına dair denetimlerin sıkılaşmasıyla birlikte süre aşımından kaynaklı otomatik retler yaşandığını ifade etti. Bulgaristan'ın Schengen'e yeni girmesi nedeniyle yaşanan ani tıkanıklık üzerine Bulgaristan Başbakanı ve Dışişleri Bakanı ile görüştüklerini belirten Fidan, sürenin önce 7-10 günlük, ardından ay sonuna kadar uzatıldığını kaydetti.\n\nAvrupa Birliği ile kalıcı bir çözüm için iki alternatif üzerinde çalıştıklarını aktaran Fidan, bunların şoförlere 'D tipi vize' verilmesi ve vize ihlali yapmayan şoförlerin sisteme dahil edilmesi olduğunu söyledi. Fidan, bu sorunun sadece Türkiye için değil, tedarik zinciri kaybeden AB için de bir bağlantısallık meselesi olduğunu vurguladı.\n\nToplantıda milletvekillerinin sorularını da yanıtlayan Fidan, Dışişleri Güçlendirme Vakfı gelirlerinin kamu bankalarındaki döviz ve yerli para hesaplarında bulunduğunu, herhangi bir fon yatırımı yapılmadığını belirtti. Kadın diplomatların kritik görevlere atanmasıyla ilgili olarak ise liyakati esas aldıklarını, Avrupa Birliği, Roma, Cenevre, Kiev, Avrupa Konseyi ve Madrid gibi noktalara kadın büyükelçiler atadıklarını dile getirdi.\n\nTürkiye'nin dış politikasına dair eleştirilere yanıt veren Bakan Fidan, Kafkasya, Karadeniz, Orta Doğu, Irak ve Suriye'de barış ve istikrar için çaba gösteren tek ülke olduklarını ifade etti. Fidan ayrıca, 2023, 2024 ve 2025 yıllarında toplam Schengen vizesi kabul oranının yüzde 85,4 olduğunu bildirdi.",
+      "highlights": [
+        "TIR şoförlerinin vize sorunu için Avrupa Birliği ile kalıcı çözüm çalışmaları yürütülüyor.",
+        "Dışişleri Güçlendirme Vakfı'nın gelirleri kamu bankalarındaki hesaplarda tutuluyor.",
+        "2023, 2024 ve 2025 yıllarında toplam Schengen vizesi kabul oranı yüzde 85,4 oldu."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-turk-tir-soforlerinin-vize-sorunu-icin-ab-ile-kalici-cozum-icin-calisiyoruz-7704119",
+      "publishedAt": "2026-11-19T19:11:54.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+      "headline": "Birleşik Krallık ve AB, reddedilen sığınmacıları üçüncü ülkelere gönderme konusunda ilk görüşmeleri planlıyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1559733711-1b689ab44236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXN5bHVtJTIwc2Vla2VycyUyMG1pZ3JhdGlvbnxlbnwxfDB8fHwxNzk1MTE1NjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "mostafa meraji",
+        "photographerUrl": "https://unsplash.com/@mostafa_meraji",
+        "unsplashUrl": "https://unsplash.com/photos/people-walking-at-rural-area-enIbuT4DayY"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Sızdırılan bir belgeye göre Birleşik Krallık ve Avrupa Birliği, reddedilen sığınmacıların üçüncü ülke merkezlerine gönderilmesi konusunda ilk kez resmi görüşmeler gerçekleştirmeyi planlıyor. Cuma sabahı bir zirvede imzalanması beklenen ortak bildirinin taslağında, her iki tarafın da \"üçüncü ülkelere geri göndermeleri\" ele almak üzere \"yapılandırılmış bir diyalog\" kuracağı ifade ediliyor.\n\nİçişleri Bakanlığı bugüne kadar göçmenlerin sınır dışı edilmesine olanak tanıyan ikili anlaşmalar aramıştı ancak bu konuda belirgin bir başarı elde edilememişti. Geçtiğimiz hafta Avusturya, Danimarka, Almanya, Yunanistan ve Hollanda'dan oluşan beş AB ülkesi, 2027 yılında Rwanda'da bir göçmen \"geri dönüş merkezi\" kurulması konusunda prensip anlaşmasına varıldığını duyurmuştu. Whitehall kaynakları, Birleşik Krallık'ın artık reddedilen başvuru sahiplerini Rwanda'ya gönderme ihtimaline açık olduğunu belirtiyor.\n\nOrtak anlaşma taslağına göre, üçüncü ülke merkezlerine ilişkin müzakereler, düzensiz göçle mücadeleye yönelik iş birliğinin artırılmasının bir parçası olacak. Belgede tarafların Manş eylem planı, düzensiz göç ve insan kaçakçılığı şebekeleriyle mücadele, sınır yönetimi ve üçüncü ülkelere geri göndermeler gibi konularda yapılandırılmış bir diyalog kuracağı belirtiliyor.\n\nÖte yandan Arnavutluk, Birleşik Krallık ile ikili bir geri dönüş merkezi anlaşmasını reddetti. Daha önce Ermenistan, Mısır, Etiyopya, Gana, Libya, Moritanya, Rwanda, Senegal, Tunus, Uganda ve Özbekistan olmak üzere 11 ülkenin görüşmelerin merkezinde yer aldığı bildirilmişti. Karadağ ise reddedilen sığınmacıları barındırmayı değerlendirdiği yönündeki haberleri yalanladı.\n\nGöçmen merkezleri konusunda planlanan iş birliğine tepki gösteren Oxford Üniversitesi Göçleme Gözlemevi Başkanı Madeleine Sumption, bu ifadenin yer almasının üçüncü ülke seçeneklerine yönelik yaygın ilgiyi teyit edeceğini belirtti. Mülteci Konseyi Dış İlişkiler Direktörü Imran Hussain ise geri dönüş merkezlerinin işletilmesinin zor ve masraflı olacağını ifade etti. Bir İçişleri Bakanlığı sözcüsü ise yasadışı göç küresel sorunuyla başa çıkmak için pratik ve uygulanabilir çözümlere ihtiyaç duyulduğunu belirtti.",
+      "highlights": [
+        "Birleşik Krallık ve AB, reddedilen sığınmacıların üçüncü ülke merkezlerine gönderilmesi konusunda ilk kez resmi görüşmeler planlıyor.",
+        "Beş AB ülkesi, 2027'de Rwanda'da bir göçmen geri dönüş merkezi kurulması için anlaşma duyurmuştu.",
+        "Arnavutluk, Birleşik Krallık ile ikili bir geri dönüş merkezi anlaşmasını reddetti."
+      ],
+      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+      "publishedAt": "2026-11-19T19:02:45.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
       "headline": "AB, müzakere masasına oturana kadar Rusya'ya baskıyı sürdürecek",
@@ -21,11 +67,12 @@
       "externalUrl": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
       "publishedAt": "2026-11-19T18:57:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T19:14:26.895Z"
     },
     {
       "id": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
-      "headline": "Woman raped by strangers after being drugged by husband calls for consent law changes",
+      "headline": "Eşinin uyuşturduğu kadın yabancılar tarafından tecavüze uğradı, rıza yasalarının değiştirilmesini istedi",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1497460932449-b9099695e195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29tYW4lMjByYXBlZCUyMGJ5JTIwc3RyYW5nZXJzJTIwYWZ0ZXIlMjBiZWluZyUyMGRydWdnZWQlMjBieSUyMGh1c2JhbmQlMjBjYWxscyUyMGZvciUyMGNvbnNlbnQlMjBsYXclMjBjaGFuZ2VzfGVufDF8MHx8fDE3OTUxMTUwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -35,12 +82,17 @@
         "unsplashUrl": "https://unsplash.com/photos/woman-silhouette-ujIs-dBALtI"
       },
       "timeAgo": "10 dk önce",
-      "body": "Four men convicted of sexual assault and rape of Joanne Young, whose husband advertised her on swinging websites • Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years A woman who was raped by strangers after being drugged by her husband has warned of “serious questions about how the law deals with consent”, as four men who abused her were convicted on Thursday.…",
-      "highlights": [],
+      "body": "Eşi tarafından uyuşturularak yabancılar tarafından tecavüze uğrayan Joanne Young, mahkeme kararının ardından rıza yasalarının ele alınması çağrısında bulundu. Winchester Ceza Mahkemesi'nde görülen davada, eski eşi Philip Young tarafından İngiltere'deki partner değişimi web sitelerinde ilan verilerek hedef alınan kadına saldıran dört erkek suçlu bulundu.\n\nMahkemede, Philip Young'ın eşini uyuşturarak hareketsiz bir duruma getirdiği ve internet ilanlarına yanıt veren yabancıların kadına cinsel saldırıda bulunmasını sağladığı ifade edildi. Daha önce suçlu olduğunu kabul eden eski muhafazakar meclis üyesi Philip Young'ın yanı sıra, üç haftalık duruşma sonucunda Connor Sanderson-Doyle, Richard Wilkins, Norman Macksoni ve Mohammed Hassan da Joanne Young'a yönelik çeşitli suçlardan mahkûm edildi. Bir diğer sanık Dean Hamilton ise daha önce suçlamaları kabul etmişti.\n\nOlayın ardından basına açıklama yapan Joanne Young, rızanın yalnızca kişinin kendisinden gelmesi gerektiğini belirterek hiç kimsenin bir başkası adına rıza veremeyeceğini vurguladı. Kadınların gelecekte korunması için hükümetin bu konuyu öncelikli olarak ele almasını isteyen Young, yaşadığı acının tarif edilemez olduğunu ifade etti.\n\nCrown Prosecution Service, davanın İngiltere'de organize bir şekilde uyuşturucu kullanılarak gerçekleştirilen cinsel saldırılarla ilgili olarak birden fazla sanığın jüri tarafından suçlu bulunduğu ilk vaka olduğunu açıkladı. Wiltshire polisi, bu tür suçların olduğundan daha az bildiriliyor olabileceğine dikkat çekti. Suçlu bulunan sanıklar kefalet taleplerinin reddedilmesiyle birlikte tutuklu yargılanırken, mahkûmiyet kararının ardından Aralık ayında hakim karşısına çıkacaklar.",
+      "highlights": [
+        "Joanne Young, eşi tarafından uyuşturularak yabancılar tarafından tecavüze uğramasının ardından rıza yasalarında değişiklik yapılmasını istedi.",
+        "Dört erkek, Joanne Young'a yönelik cinsel saldırı ve tecavüz suçlarından Winchester Ceza Mahkemesi'nde suçlu bulundu.",
+        "Eşi Philip Young daha önce onlarca suçlamayı kabul ederken, sanıklar Aralık ayında hakim karşısına çıkacak."
+      ],
       "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
       "publishedAt": "2026-11-19T18:54:01.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T19:14:26.895Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/gercegi-itiraf-etti-gocmen-kadinin-yalan-ihbari-ekipleri-seferber-etmisti-7704118",
@@ -5488,7 +5540,7 @@
       "publishedAt": "2026-11-18T12:14:28.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T13:04:22.531Z",
+      "imageSearchAttemptedAt": "2026-11-19T19:14:26.895Z",
       "sourceTextAttemptedAt": "2026-11-18T12:44:48.013Z"
     },
     {
@@ -9512,7 +9564,7 @@
       "publishedAt": "2026-11-16T20:22:46.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T13:14:23.606Z"
+      "imageSearchAttemptedAt": "2026-11-19T19:14:26.895Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
@@ -13693,52 +13745,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/gundem/son-dakika-haberi-is-insani-bekir-kayabasi-villasinda-olduruldu-bekir-kayabasi-neden-olduruldu-3926817",
       "publishedAt": "2026-11-13T02:29:20.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/turkiyeden-israile-nasir-hastanesi-tepkisi-disisleri-bakanligi-kinadi-3492605",
-      "headline": "Türkiye'den İsrail'e Nasır Hastanesi tepkisi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzk0NTIzNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Martha Dominguez de Gouveia",
-        "photographerUrl": "https://unsplash.com/@m_dominguez_marketing",
-        "unsplashUrl": "https://unsplash.com/photos/hospital-lobby-reception-with-signage-nMyM7fxpokE"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Türkiye Cumhuriyeti Dışişleri Bakanlığı, İsrail ordusunun Gazze Şeridi içerisinde yer alan Han Yunus kentindeki Nasır Hastanesi'ne yönelik gerçekleştirdiği saldırıyı çok sert bir dille kınadı. Gerçekleştirilen bu askeri operasyon ve saldırıların ardından sağlık personelinin de aralarında bulunduğu çok sayıda sivil Filistinlinin yaşamını yitirdiği bildirildi. Yaşanan bu acı olay, bölgedeki insani krizin boyutlarını bir kez daha gözler önüne sererken, uluslararası kamuoyunda da geniş yankı uyandırdı.\n\nDışişleri Bakanlığı tarafından yapılan resmi değerlendirmelerde, söz konusu saldırının sadece insani değerleri hiçe saymakla kalmadığı, aynı zamanda uluslararası hukukun da son derece ağır ve açık bir ihlali niteliği taşıdığı vurgulandı. Savaş zamanlarında dahi dokunulmaz olması gereken sağlık kuruluşlarının ve bu tesislerde görev yapan sağlık çalışanlarının hedef alınmasının kabul edilemez olduğu belirtildi. Türkiye, sivil altyapının ve özellikle hastanelerin vurulmasının savaş suçu teşkil edebileceğine dikkati çekerek, bu tür eylemlerin derhal durdurulması çağrısında bulundu.\n\nGazze Şeridi'nde aylardır devam eden çatışmalar ve insani felaket, bölgedeki sağlık altyapısını tamamen çöküşün eşiğine getirmiş durumda. Han Yunus'ta bulunan Nasır Hastanesi gibi kritik sağlık merkezlerinin hedef alınması, yaralılara ve hastalara sağlık hizmeti verilmesini neredeyse imkansız hale getiriyor. Uluslararası insan hakları kuruluşları ve sivil toplum örgütleri de benzer saldırılara karşı defalarca uyarıda bulunmuş, hastanelerin korunması gerektiğinin altını çizmişti.\n\nAnkara yönetimi, yaşanan bu son trajik gelişmenin ardından diplomatik düzeydeki tepkilerini ve girişimlerini sürdürürken, uluslararası toplumu da sessiz kalmamaya davet etti. Bölgede kalıcı bir ateşkesin sağlanması ve insani yardımların kesintisiz bir şekilde ulaştırılması için yürütülen çabaların önemi bir kez daha ortaya çıktı. Türkiye'nin, Filistin halkının haklı davasına ve yaşadığı zulme karşı uluslararası platformlardaki duruşunu kararlılıkla devam ettireceği ifade edildi.\n\nİsrail güçlerinin Gazze'deki sivil yerleşim yerlerine ve hastanelere yönelik saldırılarının bölgedeki huzursuzluğu ve can kayıplarını artırdığı, bu durumun hem bölgesel hem de küresel barışı tehdit ettiği kaydedildi. Dışişleri Bakanlığı'nın yayımladığı kınama mesajı, Türkiye'nin Gazze'deki insan hakları ihlallerine karşı gösterdiği hassasiyetin ve tepkinin en somut göstergelerinden biri olarak kayıtlara geçti.",
-      "highlights": [
-        "Dışişleri Bakanlığı, İsrail'in Nasır Hastanesi'ne düzenlediği saldırıyı kınadı.",
-        "Saldırıda sağlık personelinin de aralarında bulunduğu Filistinliler hayatını kaybetti.",
-        "Açıklamada saldırının uluslararası hukukun ağır bir ihlali olduğu vurgulandı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/turkiyeden-israile-nasir-hastanesi-tepkisi-disisleri-bakanligi-kinadi-3492605",
-      "publishedAt": "2026-11-13T01:51:37.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-israilin-filistinde-bir-hastaneye-duzenledigi-saldiriya-kinama-43376450",
-      "headline": "Dışişleri Bakanlığı'ndan İsrail'in Nasser Hastanesi saldırısına kınama",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1517120026326-d87759a7b63b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzk0NTIzNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hush Naidoo Jade Photography",
-        "photographerUrl": "https://unsplash.com/@hush52",
-        "unsplashUrl": "https://unsplash.com/photos/person-walking-on-hallway-in-blue-scrub-suit-near-incubator-ZCO_5Y29s8k"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türkiye Cumhuriyeti Dışişleri Bakanlığı, İsrail güçleri tarafından Filistin topraklarında gerçekleştirilen yeni ve sarsıcı bir askeri hamle sonrasında resmi bir kınama mesajı yayımladı. Yaşanan bu son gelişme, bölgedeki insani durumun ve sağlık altyapısının karşı karşıya olduğu büyük tehlikeyi bir kez daha gözler önüne serdi. Uluslararası kamuoyunun yakından takip ettiği süreçte, Türkiye'nin resmi diplomatik organları yaşanan can kayıplarına karşı net bir duruş sergiledi.\n\nBakanlık tarafından kamuoyuyla paylaşılan resmi yazılı açıklamada, saldırının hedefi olan sağlık kuruluşunun adı özellikle vurgulandı. Yapılan bilgilendirmeye göre, hedef alınan yerleşke Nasser Hastanesi oldu. Söz konusu tıbbi tesise yönelik gerçekleştirilen eylemin, bölgedeki sivil halkın hayatta kalma mücadelesini daha da zorlaştırdığına dikkat çekildi. Hastanelerin ve sağlık çalışanlarının uluslararası hukuk çerçevesinde koruma altında olması gerektiği gerçeği, bu tür olaylarla bir kez daha hiçe sayıldı.\n\nGerçekleştirilen askeri müdahalenin ardından bölgeden gelen ilk bilanço ise oldukça ağır oldu. Dışişleri Bakanlığı'nın yaptığı açıklamada, saldırı neticesinde çok sayıda Filistinli kardeşimizin hayatını kaybettiği ve şehit olduğu bilgisi teyit edildi. Yaşanan bu can kayıpları, bölgedeki acı tablonun her geçen gün derinleştiğini ve sivil kayıpların artarak devam ettiğini gösterdi. Sağlık hizmeti alması gereken insanların ve hastaların bulunduğu bir merkezin vuku bulan bu olaylardan doğrudan etkilenmesi, vicdanları yaralayan bir tablo ortaya çıkardı.\n\nTürkiye'nin dış politikadaki kararlı ve insani odaklı duruşunun bir yansıması olarak, yapılan bu saldırı en sert şekilde eleştirildi. Açıklamanın merkezinde yer alan kınama ifadesi, Türkiye'nin sivil yerleşim yerlerine ve özellikle sağlık tesislerine yönelik her türlü eyleme karşı olan ilkesel tavrını bir kez daha yineledi. Bakanlık, mazlum Filistin halkının yanında olduklarını ve yaşanan bu trajedinin uluslararası platformlarda takipçisi olunacağını bu vesileyle bir kez daha hatırlattı.\n\nBölgede devam eden çatışmaların ve sivillere yönelik saldırıların durdurulması çağrıları bu tür olaylarla birlikte daha da aciliyet kazandı. Dışişleri Bakanlığı'nın yayımladığı kınama metni, diplomatik kanalların işletilmesi ve tarafların uluslararası hukuka uyması yönündeki beklentilerin de altını çizdi. Nasser Hastanesi'ne düzenlenen bu saldırı, tarih sayfalarına bölgedeki insani krizin en karanlık anlarından biri olarak geçerken, Türkiye'nin tepkisi de resmi kayıtlardaki yerini aldı.",
-      "highlights": [
-        "Dışişleri Bakanlığı, Nasser Hastanesi'ne yönelik saldırıyı resmi olarak kınadı.",
-        "Açıklamada çok sayıda Filistinlinin şehit olduğu vurgulandı.",
-        "Sağlık tesislerinin hedef alınması sert bir dille eleştirildi."
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-israilin-filistinde-bir-hastaneye-duzenledigi-saldiriya-kinama-43376450",
-      "publishedAt": "2026-11-13T01:28:07.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
