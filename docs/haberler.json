@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-19T10:24:52.583Z",
+  "generatedAt": "2026-11-19T10:54:43.545Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/oruc-reis-pakistan-kara-sularinda-petrol-ve-dogal-gaz-arayacak/4130525",
+      "headline": "Oruç Reis, Pakistan kara sularında petrol ve doğal gaz arayacak",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1592701649316-3d3afe31a6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cmVzZWFyY2glMjBzaGlwfGVufDF8MHx8fDE3OTUwODU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Erik Mclean",
+        "photographerUrl": "https://unsplash.com/@introspectivedsgn",
+        "unsplashUrl": "https://unsplash.com/photos/red-and-white-ship-on-sea-during-daytime-hnrdJ3ICJb0"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Yerli ve milli imkanlarla geliştirilen Oruç Reis Sismik Araştırma Gemisi, Somali'de gerçekleştirdiği ilk kıtalar arası görevinin ardından yeni görevi için Pakistan'a ulaştı. Oruç Reis'in bu yeni görev kapsamında Pakistan kara sularında petrol ve doğal gaz arama faaliyetleri yürüteceği belirtildi. Somali'deki ilk kıtalar arası görevini tamamlayan gemi, uluslararası sulardaki seyir sürecinin ardından rotasını Pakistan'a çevirmişti. Ulaştığı bölgede sismik araştırma çalışmalarına başlaması beklenen geminin faaliyetleriyle ilgili süreç, yetkililer tarafından takip ediliyor. Gerçekleştirilen bu intikal ile birlikte Oruç Reis, Türkiye'nin enerji arama kapasitesini uluslararası alanda farklı coğrafyalara taşımaya devam ediyor. Geminin Pakistan'daki arama çalışmaları sürecine ilişkin detaylar ilerleyen günlerde netlik kazanacak.",
+      "highlights": [
+        "Oruç Reis Sismik Araştırma Gemisi yeni görevi için Pakistan'a ulaştı.",
+        "Gemi daha önce Somali'de ilk kıtalar arası görevini gerçekleştirmişti.",
+        "Oruç Reis Pakistan kara sularında petrol ve doğal gaz arayacak."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/oruc-reis-pakistan-kara-sularinda-petrol-ve-dogal-gaz-arayacak/4130525",
+      "publishedAt": "2026-11-19T10:49:36.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
+      "headline": "APEC Zirvesi: Çok fazla ihtişam, az somut ilerleme mi?",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1794796693699-acc80dbb0385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QVBFQyUyMHN1bW1pdHxlbnwxfDB8fHwxNzk1MDY4MzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "leoon liang",
+        "photographerUrl": "https://unsplash.com/@leoonliang",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-waiting-near-apec-china-flags-1BLqTQdJjPc"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Shenzhen'de düzenlenen APEC forumunun kulislerinde Xi Jinping, Donald Trump ve Vladimir Putin, ilk kez üçlü bir zirve gerçekleştirdi. Dünyanın en güçlü üç ülkesinin liderlerini aynı masada buluşturan bu buluşma, tarihi bir an olarak nitelendirildi.\n\nZirvede Ukrayna, İran'daki savaş, nükleer silahsızlanma ve yapay zeka gibi kritik konuların ele alınması bekleniyordu. Bu durum, dünyanın etki alanlarına bölünmesi yönündeki endişeleri de beraberinde getirdi.\n\nAncak yaşanan bu hareketliliğe ve yoğun ilgiye rağmen analistler, zirvenin içerikten ziyade sembolik özellik taşıdığını ifade ediyor. Görüşmeler sonucunda çok az somut atılım yapılması bekleniyor.\n\nBölgedeki muhabirler, tarihi zirvenin sona erdiğini ancak net sonucunun henüz belirsizliğini koruduğunu bildiriyor.",
+      "highlights": [
+        "Xi Jinping, Donald Trump ve Vladimir Putin Shenzhen'de üçlü toplantı gerçekleştirdi.",
+        "Toplantıda Ukrayna, İran'daki savaş, nükleer silahsızlanma ve yapay zeka gibi başlıkların ele alınması bekleniyordu.",
+        "Analistler zirveden somut atılımlar yerine sembolik sonuçlar bekliyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
+      "publishedAt": "2026-11-19T10:47:03.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/corumda-kan-donduran-cinayette-iddianame-hazirlandi-esini-bocek-ilaciyla-olduren-kadina-agirlastirilmis-muebbet-istemi-4874384",
       "headline": "Çorum'da eşini böcek ilacıyla öldüren kadın hakkında ağırlaştırılmış müebbet istemiyle iddianame hazırlandı",
@@ -92,7 +138,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
       "publishedAt": "2026-11-19T10:05:33.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T10:54:30.513Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kahramanmarasta-cople-dolan-iki-katli-evden-kamyonlarca-cop-tahliye-ediliyor-kahramanmaras-haberleri-4874365",
@@ -3519,7 +3566,7 @@
       "publishedAt": "2026-11-18T10:32:27.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T10:34:52.308Z"
+      "sourceTextAttemptedAt": "2026-11-19T10:54:30.513Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/gulistan-doku-cinayetinde-kritik-ifade-tutuklu-polisten-tuzak-savunmasi-4873926",
@@ -7092,7 +7139,7 @@
       "publishedAt": "2026-11-17T07:03:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T10:34:52.308Z"
+      "imageSearchAttemptedAt": "2026-11-19T10:54:30.513Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
