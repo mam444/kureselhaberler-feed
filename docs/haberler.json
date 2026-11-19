@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-19T12:35:02.764Z",
+  "generatedAt": "2026-11-19T12:44:40.962Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/adiyamanda-salep-bitkisi-icin-deneme-dikimi-yapildi-4874446",
+      "headline": "Adıyaman'da salep bitkisi için deneme dikimi yapıldı: 40 metrekarelik alan",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Adıyaman İl Tarım ve Orman Müdürlüğünün yürüttüğü çalışma kapsamında salep bitkisi, merkeze bağlı Bozhöyük köyünde 40 metrekarelik alanda toprakla buluşturuldu. Amaç, bitkinin bölge şartlarına uygunluğunu araştırmak.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/adiyamanda-salep-bitkisi-icin-deneme-dikimi-yapildi-4874446",
+      "publishedAt": "2026-11-19T12:43:07.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+      "headline": "Wife of Trump ally Todd Blanche promoted treatments with unproven medical claims",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1612278920639-cfbae3835fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8V2lmZSUyMG9mJTIwVHJ1bXAlMjBhbGx5JTIwVG9kZCUyMEJsYW5jaGUlMjBwcm9tb3RlZCUyMHRyZWF0bWVudHMlMjB3aXRoJTIwdW5wcm92ZW4lMjBtZWRpY2FsJTIwY2xhaW1zfGVufDF8MHx8fDE3OTUwOTIyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/2-men-in-black-suit-sitting-on-red-chair-05QvOWAzN3I"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Kristine Blanche, named to US health advisory role, offered purported treatments for Epstein-Barr virus and HPV Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative medicine, has a website on which she marketed dietary supplements and treatments with unproven medical and health claims. Blanche is a licensed physician assistant…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
+      "publishedAt": "2026-11-19T12:39:20.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/antalya-buyuksehir-belediye-baskan-vekili-busra-ozdemir-ak-partiye-katildi-busra-ozdemir-kimdir-4874438",
       "headline": "Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir AK Parti'ye katıldı",
@@ -14,11 +48,16 @@
       },
       "timeAgo": "1 dk önce",
       "body": "Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir, Korkuteli Belediye Başkanı Saniye Caran ve Demre Belediye Başkanı Fahri Duran AK Parti'ye geçti. Cumhurbaşkanı Erdoğan, 3 başkana \"Aramıza hoş geldiniz\" dedi.",
-      "highlights": [],
+      "highlights": [
+        "Antalya Büyükşehir Belediye Başkan Vekili Büşra Özdemir, Korkuteli Belediye Başkanı Saniye Caran ve Demre Belediye Başkanı Fahri Duran AK Parti'ye katıldı.",
+        "Cumhurbaşkanı Recep Tayyip Erdoğan, rozetleri takılan 3 başkana \"Aramıza hoş geldiniz\" dedi.",
+        "Büşra Özdemir, 11 Temmuz 2025'te yapılan oylamada Antalya Büyükşehir Belediye Meclisi tarafından başkanvekili seçilmişti."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/antalya-buyuksehir-belediye-baskan-vekili-busra-ozdemir-ak-partiye-katildi-busra-ozdemir-kimdir-4874438",
       "publishedAt": "2026-11-19T12:33:28.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T12:44:24.317Z"
     },
     {
       "id": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
@@ -34,14 +73,15 @@
       "timeAgo": "5 dk önce",
       "body": "Birleşmiş Milletler'in en yüksek mahkemesi olan Uluslararası Adalet Divanı (ICJ), Myanmar'ı 2017 yılında kuzey Rakhine Eyaleti'nde gerçekleştirilen askeri operasyonlar sırasında Rohingya'ya karşı soykırım işlemekten sorumlu buldu.\n\nKararı açıklayan Yargıç Yuji Iwasawa, ordunun eylemlerinin ölçeği ve niteliğinin \"nüfusu cezalandırmak için gerekenden çok öteye gittiğini\" ve bunun yerine \"grubun önemli bir kısmını yok etme niyetinin karakteristiği olduğunu\" belirtti.\n\nMahkeme hakimleri, operasyonlar öncesinde kuzey Rakhine Eyaleti'nde yaklaşık 815 bin Rohingya'nın yaşadığını tahmin etti ve 2017 yılındaki temizlik kampanyası sırasında yaklaşık 10 bin kişinin şiddet yoluyla öldürüldüğü sonucuna vardı.\n\nMahkeme, Myanmar güvenlik güçlerinin \"soykırım niyetiyle hareket ettiğini\" tespit etti. Yargıç Iwasawa, operasyonlardan önce Rohingya karşıtı nefret söylemlerinin hakim olduğu bir atmosferin bulunduğunu, topluluğun \"insan dışı\" ve \"şiddet içeren bir tehdit\" olarak yansıtıldığını ifade etti. Gambiya tarafından açılan ve 11 devletin müdahil olduğu dava Lahey'de görüldü. Bangladeş'in Cox's Bazar kampındaki mülteciler kararı ekranlardan takip etti.",
       "highlights": [
-        "Uluslararası Adalet Divanı, Myanmar'ın Rohingya'ya karşı soykırım işlediğine hükmetti.",
-        "2017 yılındaki askeri operasyonlarda yaklaşık 10 bin Rohingya'nın şiddet yoluyla öldürüldüğü sonucuna varıldı.",
-        "Mahkeme, güvenlik güçlerinin soykırım niyetiyle hareket ettiğini belirtti."
+        "Uluslararası Adalet Divanı, Myanmar'ı Rohingya'ya karşı soykırımdan sorumlu buldu",
+        "2017'deki operasyonlarda yaklaşık 10.000 kişinin şiddet yoluyla öldürüldüğü sonucuna varıldı",
+        "Mahkeme, Myanmar güvenlik güçlerinin soykırım niyetiyle hareket ettiğini belirtti"
       ],
       "externalUrl": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
       "publishedAt": "2026-11-19T12:29:41.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T12:44:24.317Z"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/bakan-bolat-abnin-korumaci-adimlarina-karsi-yogun-diplomasi-yuruttuklerini-belirtti-7703872",
