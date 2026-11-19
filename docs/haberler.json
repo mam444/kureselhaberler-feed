@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-19T11:14:34.217Z",
+  "generatedAt": "2026-11-19T11:24:39.422Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/19/avrupa-komisyonu-siber-saldiriya-ugradi-veri-sizintisinin-boyutu-bilinmiyor",
+      "headline": "Avrupa Komisyonu siber saldırıya uğradı: Veri sızıntısının boyutu bilinmiyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1759169306825-d1d4b832ae3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y3liZXIlMjBhdHRhY2slMjBldXJvcGVhbiUyMGNvbW1pc3Npb258ZW58MXwwfHx8MTc5NTA4NzQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "𝕡𝕒𝕨𝕤 𝕒𝕟𝕕 𝕡𝕣𝕚𝕟𝕥𝕤",
+        "photographerUrl": "https://unsplash.com/@paws_and_prints",
+        "unsplashUrl": "https://unsplash.com/photos/modern-glass-building-with-european-union-flags-lURELJ9C_xA"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Avrupa Komisyonu'nun personel ve insan kaynakları sistemleri büyük çaplı bir siber saldırıyla hedef alındı. Saldırının arkasındaki fail ve çalışanlara ait hassas kişisel verilerin ele geçirilip geçirilmediği henüz bilinmiyor. Kurumun insan kaynakları işlemlerinde kullanılan Sysper platformuna birkaç gün erişilemezken, sistem perşembe günü yeniden hizmete girdi. Sağlık sigortası sistemi olan Ortak Hastalık Sigortası Programı ise erişime kapalı kalmaya devam etti. Komisyon yetkilisi, bilgileri isminin açıklanmaması koşuluyla paylaştı. Saldırının etkisi, sistem kesintileri dışında kamu görevlilerinin çoğu tarafından fark edilmedi.\n\nAB kurumlarının siber güvenlik birimi CERT-EU, saldırının boyutunu ve olası sonuçlarını değerlendiriyor. Soruşturma, saldırganın Sysper, JSIS ve diğer insan kaynakları sistemlerindeki verilere erişip erişmediğine odaklanıyor. Söz konusu sistemlere erişim, normalde Komisyonun kurum içi belgelerine ulaşılmasını sağlamıyor çünkü bu belgeler ayrı bir altyapıda barındırılıyor. Ancak hedef alınan platformlarda yetkililerin isimleri, maaş dereceleri, ev adresleri ve iletişim bilgileri gibi hassas kişisel veriler yer alıyor. Bu bilgilerin ele geçirilmesinin, çalışanları tek tek hedef alan daha kapsamlı saldırıların önünü açabileceği belirtiliyor. Hasarın boyutu henüz belirlenemediği için AB yetkililerine kurum içi resmî bir bilgilendirme yapılmadı.\n\nAvrupa Komisyonu geçmişte de benzer siber saldırıların hedefi olmuştu. Mart ayında kurumun bulut altyapısı ele geçirilmiş ve kişisel bilgiler ile e-posta içeriklerinin bulunduğu yaklaşık 91,7 gigabayt veri çalınmıştı. Ocak ayında ise mobil cihaz altyapısına yönelik saldırıda çalışanların isimleri ve telefon numaralarının açığa çıkmış olabileceği ifade edilmişti. Avrupa Komisyonu, konuyla ilgili yorum talebine henüz yanıt vermedi.",
+      "highlights": [
+        "Avrupa Komisyonu'nun personel ve insan kaynakları sistemleri büyük çaplı bir siber saldırıya uğradı.",
+        "Çalışanlara ait hassas kişisel verilerin ele geçirilip geçirilmediği henüz bilinmiyor.",
+        "AB siber güvenlik birimi CERT-EU, saldırının boyutunu ve olası sonuçlarını değerlendiriyor."
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/19/avrupa-komisyonu-siber-saldiriya-ugradi-veri-sizintisinin-boyutu-bilinmiyor",
+      "publishedAt": "2026-11-19T11:23:43.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide",
+      "headline": "Myanmar'ın Rohingya Davası: UAD Soykırımı Nasıl Tanımlıyor?",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1625677857256-53bdf47f0fd7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TXlhbm1hciUyN3MlMjBSb2hpbmd5YSUyMGNhc2UlM0ElMjBob3clMjBkb2VzJTIwdGhlJTIwSUNKJTIwZGVmaW5lJTIwZ2Vub2NpZGUlM0Z8ZW58MXwwfHx8MTc5NTA4NzQ3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Saw Wunna",
+        "photographerUrl": "https://unsplash.com/@tsawwunna24",
+        "unsplashUrl": "https://unsplash.com/photos/people-holding-red-and-white-banner-ZIxGS0Bak_Q"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Uluslararası Adalet Divanı (UAD), Gambiya tarafından 2017 yılındaki operasyonun ardından açılan davada, Myanmar'ın Rohingya halkına karşı soykırım işleyip işlemediğine ilişkin kararını vermeye hazırlanıyor.\n\nHukuki açıdaki en temel testin, bir grubu yok etme niyetini kanıtlamak olduğu belirtiliyor. Bu durumun ise oldukça zor olduğu ifade ediliyor.\n\nMahkemenin bu konudaki yorumunun, Güney Afrika'nın İsrail'e karşı açtığı dava üzerinde de etkili olabileceği kaydediliyor.\n\n19.11.2026 tarihinde yayımlanan konuyla ilgili hukuki sürecin detayları ve mahkemenin yaklaşımı bekleniyor.",
+      "highlights": [
+        "UAD, Myanmar'ın Rohingya'ya karşı soykırım yapıp yapmadığına karar verecek",
+        "Davayı Gambiya 2017'deki operasyonun ardından açtı",
+        "Temel hukuki zorluk bir grubu yok etme niyetini kanıtlamak"
+      ],
+      "externalUrl": "https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide",
+      "publishedAt": "2026-11-19T11:22:31.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ak-parti-milletin-partisidir-1751630",
       "headline": "Cumhurbaşkanı Erdoğan: AK Parti milletin partisidir",
@@ -22,7 +68,8 @@
       "externalUrl": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ak-parti-milletin-partisidir-1751630",
       "publishedAt": "2026-11-19T11:13:26.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T11:24:31.667Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261119-france-raises-bird-flu-alert-to-highest-level-as-infections-spread-across-europe",
@@ -3629,15 +3676,15 @@
       "timeAgo": "4 dk önce",
       "body": "Pan American Health Organization Salı günü yaptığı açıklamada, ABD'nin 26 yılın ardından kızamıktan arındırılmış zor kazandığı statüsünü kaybettiğini duyurdu. Açıklamaya göre bu gelişmenin nedeni, ülkenin son bir yılı aşkın süredir son derece bulaşıcı olan virüsün sürekli yayılmasını durdurmada başarısız olması gösterildi.\n\nDünya Sağlık Örgütü'nün Amerika kolu, ABD'nin yanı sıra Bolivya ve Meksika'nın da kızamıktan arındırılmış statülerini kaybettiğini bildirdi.",
       "highlights": [
-        "ABD kızamıktan arındırılmış statüsünü kaybetti",
-        "Karar Pan American Health Organization tarafından duyuruldu",
-        "Bolivya ve Meksika da aynı statüyü kaybetti"
+        "ABD, kızamıktan arındırılmış statüsünü 26 yılın ardından kaybetti.",
+        "Karar Pan American Health Organization tarafından Salı günü açıklandı.",
+        "Bolivya ve Meksika da aynı statüyü kaybetti."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
       "publishedAt": "2026-11-18T10:50:41.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T11:04:53.753Z"
+      "sourceTextAttemptedAt": "2026-11-19T11:24:31.667Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/konyada-otomobil-menfez-duvarina-carpti-3-olu-4873927",
