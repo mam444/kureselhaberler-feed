@@ -1,6 +1,47 @@
 {
-  "generatedAt": "2026-11-19T18:54:28.343Z",
+  "generatedAt": "2026-11-19T19:04:31.213Z",
   "articles": [
+    {
+      "id": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
+      "headline": "AB, müzakere masasına oturana kadar Rusya'ya baskıyı sürdürecek",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RXVyb3BlYW4lMjBVbmlvbiUyMGZsYWd8ZW58MXwwfHx8MTc5NTExNTA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Christian Lue",
+        "photographerUrl": "https://unsplash.com/@christianlue",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-yellow-star-flag-8Yw6tsB8tnc"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, Moskova yönetimine yönelik baskı politikasına ilişkin açıklamalarda bulundu. Yapılan açıklamada, Rusya'nın müzakere masasına oturmayı kabul edene kadar bu baskının artırılarak sürdürüleceği vurgulandı.\n\nAlınan karar doğrultusunda AB'nin tutumunda herhangi bir değişiklik olmayacağı belirtildi. Rusya tarafı resmi bir müzakere sürecine dahil olana kadar ekonomik ve siyasi tedbirlerin devam edeceği ifade edildi.\n\nSöz konusu gelişmeler, uluslararası kamuoyunda geniş yankı uyandırırken, Avrupalı liderlerin diplomatik çözüm çağrılarını yinelediği kaydedildi. Rusya'nın bu çağrılara nasıl bir yanıt vereceği ise önümüzdeki günlerde netleşecek.",
+      "highlights": [
+        "AB Komisyonu Başkanı Ursula von der Leyen açıklama yaptı.",
+        "Rusya müzakere masasına oturana kadar baskı artırılacak."
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
+      "publishedAt": "2026-11-19T18:57:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+      "headline": "Woman raped by strangers after being drugged by husband calls for consent law changes",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1497460932449-b9099695e195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29tYW4lMjByYXBlZCUyMGJ5JTIwc3RyYW5nZXJzJTIwYWZ0ZXIlMjBiZWluZyUyMGRydWdnZWQlMjBieSUyMGh1c2JhbmQlMjBjYWxscyUyMGZvciUyMGNvbnNlbnQlMjBsYXclMjBjaGFuZ2VzfGVufDF8MHx8fDE3OTUxMTUwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Chris Barbalis",
+        "photographerUrl": "https://unsplash.com/@cbarbalis",
+        "unsplashUrl": "https://unsplash.com/photos/woman-silhouette-ujIs-dBALtI"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Four men convicted of sexual assault and rape of Joanne Young, whose husband advertised her on swinging websites • Spiked nightcaps and invitations to strangers: how Philip Young sexually abused his wife for 15 years A woman who was raped by strangers after being drugged by her husband has warned of “serious questions about how the law deals with consent”, as four men who abused her were convicted on Thursday.…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
+      "publishedAt": "2026-11-19T18:54:01.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/gercegi-itiraf-etti-gocmen-kadinin-yalan-ihbari-ekipleri-seferber-etmisti-7704118",
       "headline": "Göçmen kadının kayıp ihbarı asılsız çıktı: Ekiplerin seferber olduğu olayda gerçeği itiraf etti",
@@ -22,7 +63,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/gercegi-itiraf-etti-gocmen-kadinin-yalan-ihbari-ekipleri-seferber-etmisti-7704118",
       "publishedAt": "2026-11-19T18:50:06.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T19:04:17.407Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
@@ -160,7 +202,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
       "publishedAt": "2026-11-19T18:16:09.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T19:04:17.407Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/ciftci-cember-daraliyor-3928596",
@@ -1615,7 +1658,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T12:54:29.354Z",
-      "imageSearchAttemptedAt": "2026-11-19T12:54:29.354Z"
+      "imageSearchAttemptedAt": "2026-11-19T19:04:17.407Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
@@ -13696,52 +13739,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/gundem/disisleri-bakanligindan-israilin-filistinde-bir-hastaneye-duzenledigi-saldiriya-kinama-43376450",
       "publishedAt": "2026-11-13T01:28:07.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/trumptan-israil-cikisi-basbakan-olabilirim-3492603",
-      "headline": "Trump'tan İsrail açıklaması: Başbakan olabilirim",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1612278920639-cfbae3835fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZG9uYWxkJTIwdHJ1bXB8ZW58MXwwfHx8MTc5NDUyMzU3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "History in HD",
-        "photographerUrl": "https://unsplash.com/@historyhd",
-        "unsplashUrl": "https://unsplash.com/photos/2-men-in-black-suit-sitting-on-red-chair-05QvOWAzN3I"
-      },
-      "timeAgo": "şimdi",
-      "body": "Amerika Birleşik Devletleri siyasetinin önde gelen isimlerinden Donald Trump, İsrail'e yönelik gerçekleştirdiği açıklamalarla gündem yarattı. Yapmış olduğu değerlendirmelerde, ülkesinin İsrail devletine gösterdiği desteğin yüzde 99 oranında bulunduğunu iddia eden siyasetçi, bu konudaki tutumunun altını önemle çizdi. Güncel gelişmeler ve uluslararası ilişkiler bağlamında yapılan bu tür açıklamalar, dünya kamuoyunda geniş bir yankı uyandırırken, taraflar arasındaki ilişkilerin doğasına dair tartışmaları da beraberinde getirdi.\n\nSöz konusu değerlendirmelerinde kendi popülaritesine de değinen Trump, İsrail halkı nezdinde en popüler figürlerden biri olduğunu öne sürdü. Bu iddiasını pekiştirecek nitelikte sıra dışı bir ifadeye de yer veren ABD'li siyasetçi, teorik olarak İsrail'de başbakanlık makamına gelebileceğini dahi öne sürdü. Bu söylem, hem yerel hem de uluslararası medya kuruluşlarında ve diplomatik çevrelerde dikkate değer bir söylem olarak değerlendirildi.\n\nÖte yandan açıklamalarında sadece mevcut durumu ve kendi popülaritesini ele almakla kalmayan Trump, bölgesel güvenlik ve dış politika meselelerine de değindi. Özellikle Ortadoğu'nun kritik aktörlerinden biri olan İran'a yönelik olası yeni askeri operasyonlar ihtimali hakkında sorulan sorular karşısında net bir kapanış yapmaktan kaçındı. Bu tür askeri hamleler konusunda kapıyı açık bırakmayı tercih eden siyasetçi, gelecekteki olası senaryolara dair belirsiz ama stratejik bir tutum sergilemiş oldu.\n\nUluslararası ilişkiler uzmanları ve siyaset gözlemcileri, bu tür açıklamaların diplomatik dengeler üzerindeki potansiyel etkilerini analiz etmeye devam ediyor. ABD ile İsrail arasındaki stratejik ortaklık ve bağlar tarihin her döneminde önemini korurken, liderlerin bu ilişkileri kamuoyu önünde ifade ediş biçimleri de büyük bir titizlikle takip ediliyor. Donald Trump'ın dile getirdiği bu iddialı sözler, iki ülke arasındaki ilişkilerin yanı sıra daha geniş bir coğrafyayı ilgilendiren güvenlik politikaları açısından da tartışılmayı sürdürüyor.\n\nSon dönemin en çok konuşulan dış politika başlıklarından biri haline gelen bu gelişmeler, siyasi kulislerde ve medya platformlarında geniş bir tartışma alanı yarattı. Gerek İsrail'e verilen desteğin boyutu gerekse İran'a yönelik olası operasyon senaryoları, önümüzdeki günlerde de küresel diplomasinin merkezinde yer almaya devam edecek gibi görünmektedir. Donald Trump'ın kamuoyuna yansıyan bu son çıkışları, siyasi kariyeri boyunca izlediği kendine has iletişim ve liderlik tarzının bir uzantısı olarak değerlendiriliyor.",
-      "highlights": [
-        "Trump, İsrail'e verdiği desteğin yüzde 99 seviyesinde olduğunu savundu.",
-        "Kendisini İsrail'de en popüler kişi olarak nitelendirip başbakan olabileceğini öne sürdü.",
-        "İran'a yönelik olası yeni askeri operasyonlar konusunda kapıyı açık bıraktı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/trumptan-israil-cikisi-basbakan-olabilirim-3492603",
-      "publishedAt": "2026-11-13T01:12:08.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/ara-tatil-bugun-basliyor-4871935",
-      "headline": "Ara tatil bugün başlıyor",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1509062522246-3755977927d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c2Nob29sJTIwc3R1ZGVudHN8ZW58MXwwfHx8MTc5NDUzODY5OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quilia",
-        "photographerUrl": "https://unsplash.com/@heyquilia",
-        "unsplashUrl": "https://unsplash.com/photos/students-in-classroom-with-teacher-presenting-zFSo6bnZJTw"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Milli Eğitim Bakanlığına (MEB) bağlı ilk ve ortaöğretim kurumlarında eğitim gören milyonlarca öğrenci için beklenen gün geldi. Ülke genelinde okullarda son ders zilinin çalmasıyla birlikte, yaklaşık 17 milyon öğrenci ilk ara tatiline resmi olarak adım atıyor. Eğitim ve öğretim yılının bu ilk molası, öğrencilerin ve eğitim çalışanlarının yoğun geçen ders temposunun ardından kısa bir nefes almasını sağlayacak.\n\nEğitim öğretim takvimi içerisinde planlanan bu dönemsel dinlenme süreci, öğrencilerin okul dışındaki sosyal aktivitelerine vakit ayırmasına, dinlenmesine ve zihinsel olarak tazelenmesine olanak tanıyor. Yaklaşık 17 milyon ilk ve ortaöğretim öğrencisini kapsayan bu uygulama, aynı zamanda velilerin ve öğretmenlerin de bu dönemi planlamasında önemli bir yer tutuyor. Milyonlarca çocuğun aynı anda tatile girmesi, ülke genelinde günlük sosyal ve kültürel hareketliliği de doğrudan etkileyen unsurlar arasında bulunuyor.\n\nEğitim takvimine göre, bugün çalacak son ders zilinin ardından okullarda bayrak törenleri yapılacak ve öğrenciler sınıflarından ayrılarak tatil heyecanını yaşayacak. Milli Eğitim Bakanlığı tarafından belirlenen çalışma takvimi doğrultusunda uygulanan bu ara tatil dönemi, öğrencilerin ders başarılarını ve motivasyonlarını artırmak amacıyla akademik yıl içine yerleştirilmiş bir dinlenme fırsatı olarak değerlendiriliyor.\n\nÖğrenciler ve aileleri, tatil süresince dinlenmenin yanı sıra çeşitli kültürel ve sportif etkinliklerle vakit geçirme imkanı bulacak. Eğitim camiası açısından da bir değerlendirme ve hazırlık dönemi niteliği taşıyan bu süreç, hem öğrencilerin hem de öğretmenlerin yeni döneme daha zinde başlamasına zemin hazırlayacak. Yaklaşık 17 milyon öğrencinin katılımıyla gerçekleşen bu hareketlilik, okul koridorlarındaki sessizliğin yerini tatil coşkusuna bırakmasıyla ülke genelinde hissedilmeye başlandı.\n\nİlk ara tatilin sona ermesinin ardından, öğrenciler yeniden okullarına dönecek ve eğitim yılının kalan bölümleri için ders başı yapacak. Milli Eğitim Bakanlığına bağlı kurumlarda okuyan milyonlarca çocuk, bu kısa molanın ardından ikinci dönemeç için hazırlıklarını sürdürecek. Bugün çalacak son ders zili ile başlayacak olan bu süreç, tüm eğitim paydaşları için hayırlı bir dinlenme dönemi olması temennisiyle hayata geçiriliyor.",
-      "highlights": [
-        "Milli Eğitim Bakanlığına bağlı ilk ve ortaöğretim kurumlarında eğitim alan yaklaşık 17 milyon öğrenci ara tatile giriyor.",
-        "Bugün çalacak son ders zilinin ardından öğrenciler ve öğretmenler için ilk ara tatil dönemi resmen başlamış olacak.",
-        "Yoğun ders temposuna verilecek bu kısa mola, milyonlarca öğrencinin dinlenmesine ve zihinsel olarak tazelenmesine imkan tanıyacak."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/ara-tatil-bugun-basliyor-4871935",
-      "publishedAt": "2026-11-13T01:00:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
