@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T07:14:34.388Z",
+  "generatedAt": "2026-11-19T07:24:32.587Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/dunya/trumptan-irana-gozdagi-kirli-bombaya-karsilik-irani-yok-ederiz-3495133",
+      "headline": "Trump'tan İran'a gözdağı: \"Kirli bombaya karşılık İran'ı yok ederiz\"",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1612278920597-4d397a111e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NTA3MzA2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-standing-beside-woman-in-black-coat-gtOXLwM248A"
+      },
+      "timeAgo": "şimdi",
+      "body": "Amerika Birleşik Devletleri Başkanı Donald Trump, tarihi üçlü zirve öncesinde Fox News kanalına konuk olarak çeşitli önemli başlıkları değerlendirdi. İran, Rusya-Ukrayna savaşı, nükleer silahlar, Çin Devlet Başkanı Şi Cinping ile olan teması ve yapay zeka gibi konuları ele alan ABD Başkanı, İran için Çin ile Rusya'dan destek isteme ihtimalini reddederek \"Hiçbir yardıma ihtiyacımız yok\" şeklinde konuştu. Tahran yönetiminin anlaşma talep ettiğini ifade eden Trump, gelecekteki liderleri de kapsayacak kalıcı bir uzlaşı arayışında olduklarını belirtti. İran'ın kirli bomba kullanarak Washington'ı hedef alacağına yönelik iddialar hakkında ise böyle bir ihtimal öngörmediğini, ancak gerçekleşmesi durumunda İran'ı yok edeceklerini söyleyerek gözdağı verdi.\n\nRusya-Ukrayna savaşına da değinen Trump, Vladimir Putin ile Volodimir Zelenski arasındaki husumet neticesinde yaşanan problemleri çözme niyetinde olduğunu dile getirdi. Çin Devlet Başkanı Şi Cinping ile yaptığı görüşmeye de değinen Amerikan lideri, Şi'nin kendisini havalimanında karşılamasını büyük bir zafer olarak tanımladı. Şi ile yapay zeka konusunu ele aldıklarını bildiren Trump, NVIDIA CEO'su Jensen Huang hakkında derinlemesine ayrıntılara girmediklerini, konuya yalnızca kısmen değinmiş olabileceğini aktardı.",
+      "highlights": [
+        "ABD Başkanı Donald Trump, İran'ın kirli bomba saldırısı ihtimaline karşı \"İran'ı yok ederiz\" uyarısında bulundu.",
+        "Trump, İran için Çin ve Rusya'dan yardım istemeyeceklerini ve kalıcı bir anlaşma istediklerini belirtti.",
+        "Çin Devlet Başkanı Şi Cinping ile yapay zeka üzerine konuştuklarını aktardı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/dunya/trumptan-irana-gozdagi-kirli-bombaya-karsilik-irani-yok-ederiz-3495133",
+      "publishedAt": "2026-11-19T07:28:47.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/istanbullular-icin-kritik-saat-daha-da-siddetlenecek-85-kilometre-hiza-ulasacak-4874252",
       "headline": "İstanbullular için kritik saat: Daha da şiddetlenecek! 85 kilometre hıza ulaşacak",
@@ -14,10 +37,38 @@
       },
       "timeAgo": "1 dk önce",
       "body": "Meteoroloji Genel Müdürlüğü (MGM), İstanbul'un da aralarında bulunduğu 32 il için sarı kodlu fırtına ve kuvvetli yağış uyarısı yayımladı. AKOM, lodosun cuma günü saat 03.00'ten itibaren şiddetini artırarak 85 kilometre hıza ulaşacağını bildirirken; elverişsiz hava koşulları nedeniyle BUDO ve Şehir Hatları'nda çok sayıda sefer iptal edildi.",
-      "highlights": [],
+      "highlights": [
+        "Lodosun hızı kısa süreli hamlelerle 60-85 km/saate ulaşacak.",
+        "32 il için sarı kodlu uyarı verildi.",
+        "Olumsuz hava koşulları nedeniyle çok sayıda BUDO ve Şehir Hatları seferi iptal edildi."
+      ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/istanbullular-icin-kritik-saat-daha-da-siddetlenecek-85-kilometre-hiza-ulasacak-4874252",
       "publishedAt": "2026-11-19T07:13:05.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T07:24:20.797Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+      "headline": "ABD'nin İran limanları ablukasının etkisi için erken",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXJhbiUyMGJsb2NrYWRlfGVufDF8MHx8fDE3OTUwNzMwNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Akbar Nemati",
+        "photographerUrl": "https://unsplash.com/@akbarnemati",
+        "unsplashUrl": "https://unsplash.com/photos/flag-of-iran-waving-WKIkjULHGm0"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "ABD'nin İran limanlarına uyguladığı ablukanın ülke ekonomisi üzerinde sarsıcı bir etkisi olduğu bildiriliyor. Ancak Tahran yönetimi, ekonomisinin bu ablukaya karşı ayakta kalabileceği konusunda ısrarcı bir tutum sergiliyor.\n\nWashington'un hamlesinin ekonomide yarattığı baskı dikkat çekerken, Tahran'dan gelen açıklamalarda ülkenin bu sürece dayanabileceği savunuluyor. Bununla birlikte, ablukanın nihai etkilerini net olarak belirlemek için henüz erken olduğu ifade ediliyor.\n\nİran'ın kararlı duruşu sürerken, taraflar arasındaki ekonomik baskı ve dayanıklılık tartışmaları devam ediyor. Mevcut durumda, yaptırımların ve ablukanın uzun vadeli sonuçlarına dair kesin bir değerlendirme yapmak için erken olduğu kaydediliyor.",
+      "highlights": [
+        "US blockade of Iranian ports has a crippling effect on economy",
+        "Tehran insists its economy can survive",
+        "Too early to determine impact"
+      ],
+      "externalUrl": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
+      "publishedAt": "2026-11-19T07:08:57.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -64,7 +115,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
       "publishedAt": "2026-11-19T06:58:44.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T07:24:20.797Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
