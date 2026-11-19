@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-19T18:35:57.250Z",
+  "generatedAt": "2026-11-19T18:44:47.013Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/israil-savas-ucaklari-lubnanin-dogusuna-hava-saldirilari-duzenledi/4131451",
+      "headline": "İsrail savaş uçakları Lübnan'ın doğusuna hava saldırıları düzenledi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1612642132744-cc0e7c59cbae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YWlyJTIwc3RyaWtlJTIwTGViYW5vbnxlbnwxfDB8fHwxNzk1MTEzODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Charbel Karam",
+        "photographerUrl": "https://unsplash.com/@charbelkaram",
+        "unsplashUrl": "https://unsplash.com/photos/people-raising-flags-during-night-time-C7sGa-Em5so"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "İsrail ordusu, Lübnan'ın doğusunda yer alan Baalbek kentine yönelik hava saldırıları gerçekleştirdi. Söz konusu saldırıların, yürürlükte bulunan ateşkes ile çerçeve anlaşmasına rağmen düzenlendiği bildirildi. Bölgede yaşanan bu askeri hareketlilik, taraflar arasındaki mevcut durum ve gelişmelerle ilgili endişeleri gündeme getirdi. Yetkililer ve ilgili taraflardan konuya ilişkin gelecek olası açıklamalar ve sahadaki gelişmeler yakından takip ediliyor.",
+      "highlights": [
+        "İsrail ordusu Lübnan'ın doğusundaki Baalbek kentine hava saldırıları düzenledi",
+        "Saldırıların yürürlükteki ateşkes ve çerçeve anlaşmasına rağmen gerçekleştirildiği bildirildi"
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/israil-savas-ucaklari-lubnanin-dogusuna-hava-saldirilari-duzenledi/4131451",
+      "publishedAt": "2026-11-19T18:42:04.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
       "headline": "Almanya Başbakanı Merz'ten ABD-Rusya-Çin üçlüsüne Yalta uyarısı: Avrupa'nın bölünmesine izin vermeyiz",
@@ -14,11 +36,12 @@
       "externalUrl": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-19T18:28:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-19T18:44:31.677Z"
     },
     {
       "id": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-      "headline": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+      "headline": "İskoç hastanesindeki cerrahi kaynaklı 19 ölümün ardından polis soruşturması çağrısı",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1603488704611-c24b71567172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2FsbCUyMGZvciUyMHBvbGljZSUyMHRvJTIwaW52ZXN0aWdhdGUlMjBTY290dGlzaCUyMGhvc3BpdGFsJTIwYWZ0ZXIlMjAxOSUyMGRlYXRocyUyMGR1ZSUyMHRvJTIwc3VyZ2VyeXxlbnwxfDB8fHwxNzk1MTEzMzI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -28,12 +51,17 @@
         "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-green-mountain-during-daytime-ih8KTb3iLJc"
       },
       "timeAgo": "13 dk önce",
-      "body": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications due to surgery. Dr Mohammed Habib, a consultant at Aberdeen Royal Infirmary, said he had repeatedly reported concerns about the hospital’s…",
-      "highlights": [],
+      "body": "Aberdeen Kraliyet Hastanesi'nde görev yapan Dr. Mohammed Habib, 2021 yılından bu yana hastanenin karaciğer ve pankreas cerrahisine ilişkin endişelerini defalarca rapor ettiğini belirtti. Hastanede cerrahi operasyonlara bağlı önlenebilir komplikasyonlar nedeniyle en az 19 hastanın hayatını kaybettiğinin ortaya çıkmasının ardından kıdemli bir cerrah, İskoç hastanesinde cezai soruşturma açılması çağrısında bulundu. Dr. Habib, hastaneyi yöneten NHS Grampian sağlık kurulunun üst düzey yetkililerinin doğru adımları yeterince hızlı atmadığını iddia ederek olayla ilgili polisin soruşturma yürütmesini istedi.\n\nHurshid ve ikinci bir ihbarcının iddialarını araştırmak üzere NHS Grampian tarafından görevlendirilen uzman raporu, 2015 ile 2021 yılları arasında cerrahi kaynaklı ciddi olumsuz olaylar nedeniyle 19 hastanın yaşamını yitirdiğini doğruladı. Rapor, Dr. Habib’in avukatı Aamer Anwar tarafından Perşembe günü yayımlandı. Bu bulgular Holyrood'da da ele alındı. İskoçya Birinci Bakanı John Swinney, açıklamaların son derece kaygı verici olduğunu belirtirken, İskoç İşçi Partisi lideri Michael Marra'nın sistemli başarısızlıklar için cezai soruşturma açılması yönündeki taleplerini geri çevirdi. Swinney, hükümetin şikayetleri görmezden geldiği iddialarını reddetti.\n\nNHS Grampian Yöneticisi Laura Skaife-Knight, konuya ilişkin ciddi iddialardan haberdar olduklarını, daha önce kapsamlı bir soruşturma yürütüldüğünü ve gerekli klinik ile yasal süreçlerin takip edildiğini ifade etti. 2022 yılında incelemeyi yürüten dış uzmanlar, 2017-2020 yılları arasında Aberdeen'deki ölüm oranının %18'e kadar çıktığını, ulusal ortalamanın ise %2-3 arasında olduğunu tespit etti. Uzman raporunun tamamlanmasının ardından dört hastanın daha ameliyat sırasında veya sonrasında hayatını kaybettiğini belirten Dr. Habib, Mart 2026'da başka bir dış uzmanın da karmaşık cerrahideki kalıcı yüksek ölüm oranının sistemli bir başarısızlık göstergesi olduğunu belirtmesi üzerine karaciğer ve pankreas cerrahisi departmanının kapatıldığını ifade etti.\n\nDr. Habib, onlarca hastanın gereksiz yere hayatını kaybetmiş olabileceğini ve polise, bakanlara ile ihbarcılık yetkililerine başvurduğunu ancak sonuç alamadığını belirtti. Geçtiğimiz hafta bir sağlık denetçisi olan Healthcare Improvement Scotland tarafından yayımlanan raporda, NHS Grampian'ın liderliğinde çok ciddi eksiklikler ve şeffaflık sorunları olduğu tespit edildi. Avukat Anwar, Lord Advocate'in Polis Scotland'a cezai soruşturma talimatı vermesini ve bakanların NHS Grampian'ı acilen özel önlemler kapsamına almasını talep etti. İskoç hükümeti sözcüsü ise ihbarcının gösterdiği cesareti takdir ettiklerini ve herhangi bir cezai soruşturmanın Polis Scotland'ın yetkisinde olduğunu açıkladı.",
+      "highlights": [
+        "Aberdeen Kraliyet Hastanesi'nde cerrahi kaynaklı en az 19 hastanın hayatını kaybettiği ortaya çıktı.",
+        "Dr. Mohammed Habib, hastanenin karaciğer ve pankreas cerrahisi operasyonlarına ilişkin endişelerini defalarca rapor ettiğini belirtti.",
+        "Avukat Aamer Anwar, olayla ilgili cezai soruşturma açılması ve hastanenin özel önlemler altına alınması çağrısında bulundu."
+      ],
       "externalUrl": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
       "publishedAt": "2026-11-19T18:21:59.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T18:44:31.677Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/diyarbakirda-korkutan-goruntu-siddetli-saganakta-beton-kopru-coktu-7704100",
@@ -58,6 +86,29 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T18:34:20.319Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+      "headline": "Irak, Silahlı Grup Kalesi Konusunda Ketaib Hizbullah ile Uzlaşıya Vardı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1786528896942-dc4d415d6eca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXJhcSUyMG1pbGl0YXJ5fGVufDF8MHx8fDE3OTUxMTM4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "AmirHadi Manavi Moghadam",
+        "photographerUrl": "https://unsplash.com/@amirhadimanavimoghadam",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-uniform-raising-fist-8PtT0oLklYk"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Irak hükümeti ile Ketaib Hizbullah arasında silahlı grubun kalesi konusunda bir uzlaşma sağlandığı bildirildi. Varılan bu uzlaşma kapsamında, bölgeye güçlerin konumlandırılacağı aktarıldı. Aktarılan bilgilere göre, konuşlandırılacak olan bu güçlerin arasında Halk Seferberlik Güçleri'ne (PMF) bağlı tugayların da yer alacağı belirtildi.",
+      "highlights": [
+        "Irak ile Ketaib Hizbullah uzlaşıya vardı",
+        "Bölgeye güçler konumlandırılacak",
+        "Güçler arasında Halk Seferberlik Güçleri tugayları da yer alacak"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+      "publishedAt": "2026-11-19T18:16:09.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.haberturk.com/gundem/ciftci-cember-daraliyor-3928596",
@@ -9328,7 +9379,7 @@
       "publishedAt": "2026-11-17T05:31:35.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T12:34:43.744Z"
+      "imageSearchAttemptedAt": "2026-11-19T18:44:31.677Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-kasim-2026-1751188",
@@ -13685,52 +13736,6 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/malatyadan-aci-haber-helikopter-kazasinda-4-asker-sehit-oldu-1750611",
       "publishedAt": "2026-11-12T22:38:31.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537",
-      "headline": "Dışişleri Bakanlığı'ndan İsrail'in Gazze'deki hastane saldırısına sert kınama",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1626315869436-d6781ba69d6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aG9zcGl0YWwlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzk0NTIzNTk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Acton Crawford",
-        "photographerUrl": "https://unsplash.com/@acton_crawford",
-        "unsplashUrl": "https://unsplash.com/photos/brown-and-white-concrete-building-near-green-trees-under-blue-sky-during-daytime-8PB_TFEy2XQ"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Bölgede yaşanan son gelişmeler ve yaşanan insani dramlar uluslararası kamuoyunun gündemindeki yerini korurken, Türkiye Cumhuriyeti Dışişleri Bakanlığı tarafından konuyla ilgili resmi bir kınama mesajı yayımlandı. Yapılan son dakika açıklaması niteliğindeki bu bildirimde, İsrail güçlerinin hedef aldığı sivillerin ve sağlık kuruluşlarının durumu ele alındı ve atılan adımların uluslararası hukuka aykırı olduğu vurgulandı.\n\nEdinilen bilgilere göre, söz konusu saldırının adresi Gazze Şeridi'nin güney kesiminde yer alan Han Yunus kenti oldu. Bölgede sivillerin sığındığı ve sağlık hizmetlerinin sürdürülmeye çalışıldığı kritik noktalardan biri olan Nasır Hastanesi, İsrail güçlerinin hedefi haline geldi. Hastane yerleşkesine yönelik gerçekleştirilen bu askeri müdahale, bölgedeki zaten tükenme noktasına gelen sağlık altyapısını daha da çıkmaza soktu.\n\nUluslararası alanda hastanelerin, sağlık çalışanlarının ve sivil yerleşim yerlerinin çatışmalardan muaf tutulması ve korunması kuralı bilindiği üzere savaş hukukunun temel taşlarını oluşturuyor. Türkiye Dışişleri Bakanlığı da bu bağlamda yaptığı kınama açıklamasında, söz konusu saldırının kabul edilemez olduğunu net bir dille ifade etti. Hastanelerin hedef alınmasının, uluslararası insancıl hukukun açık bir ihlali anlamına geldiği gerçeğinin altı çizildi.\n\nGazze genelinde aylardır devam eden ve sivil kayıpların her geçen gün arttığı çatışma ortamında, sağlık tesislerinin vurulması insani krizin boyutlarını da gözler önüne seriyor. Han Yunus'ta bulunan Nasır Hastanesi'ne düzenlenen bu saldırı, hem tedavi gören hastalar hem de can güvenliği endişesiyle hastane bahçelerine ve binalarına sığınan yerinden edilmiş siviller açısından büyük bir tehdit oluşturuyor.\n\nTürkiye, krizin başından bu yana bölgede acil ve kalıcı bir ateşkesin sağlanması, insani yardımların kesintisiz bir şekilde ulaştırılması ve sivillerin korunması yönündeki çağrılarını sürdürüyor. Dışişleri Bakanlığı'nın yayımladığı bu son kınama mesajı da, Ankara'nın sivillere yönelik saldırılar karşısındaki duruşunu ve uluslararası hukukun işletilmesi yönündeki beklentisini bir kez daha net bir şekilde ortaya koymuş oldu.",
-      "highlights": [
-        "Dışişleri Bakanlığı, İsrail'in Nasır Hastanesi'ne yönelik saldırısını kınadı.",
-        "Saldırının adresi Gazze Şeridi'nin güneyindeki Han Yunus kenti olarak duyuruldu.",
-        "Hedef alınan sağlık tesisinin durumu ve sivil kayıplar endişe yaratıyor."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-israilin-gazzedeki-hastaneye-saldirisini-kinadi/4123537",
-      "publishedAt": "2026-11-12T22:20:01.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/turkiye-belcika-maci-canli-izle-milli-mac-atv-canli-yayin-ekrani-sifresiz-hd-turkiye-belcika-maci-nereden-izlenir-sifreli-mi-3492426",
-      "headline": "Türkiye - Belçika maçı canlı izle ekranı ve ATV yayın detayları",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTQ1MDM5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Abigail  Keenan",
-        "photographerUrl": "https://unsplash.com/@akeenster",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM"
-      },
-      "timeAgo": "şimdi",
-      "body": "Futbolseverlerin büyük bir heyecanla beklediği kritik mücadele öncesinde geri sayım sona erdi ve gözler tamamen ekran başındaki yayın detaylarına çevrildi. A Milli Futbol Takımı, UEFA Uluslar Ligi’ndeki beşinci karşılaşmasında bu akşam Belçika’yı kendi sahasında ağırlıyor. Ay-yıldızlı ekibin sahada vereceği bu zorlu mücadele, milli heyecanı evlerinde ve mobil cihazları başında takip etmek isteyen futbolseverler tarafından yakından takip ediliyor. Karşılaşmanın yayın akışı ve nereden izlenebileceği bilgisi, gün boyunca spor gündeminin en çok araştırılan başlıkları arasında yer aldı.\n\nGerçekleşecek olan bu önemli karşılaşma, 12 Kasım 2026 Perşembe günü saat 20.00’de start alacak. Müsabakanın başlama düdüğüyle birlikte milyonlarca taraftar ekran başına kilitlenecek. Millilerin gruptaki kaderini etkileyecek ve sportif açıdan büyük önem taşıyan bu doksan dakika, futbolseverler için şifresiz olarak ekranlara getirilecek. Maçın yayıncı kuruluşu olan ATV ekranlarından canlı ve şifresiz olarak yayınlanacak olması, taraftarlarca memnuniyetle karşılandı.\n\nKarşılaşmayı televizyonları başından izlemek isteyenlerin yanı sıra dijital platformlar, telefon, tablet veya bilgisayar gibi farklı ekranlardan takip etmek isteyenler de yayın erişim yollarını araştırmayı sürdürüyor. Televizyonlarında ilgili kanalı bulamayan veya uydu üzerinden yayınları güncel tutmak isteyen vatandaşlar, ATV canlı yayın bağlantısı ve frekans bilgilerini mercek altına almış durumda. Kanalın uydu ayarlarının nasıl yapılandırılacağı ve internet üzerinden canlı yayına kesintisiz nasıl erişilebileceği, maç saatine doğru en çok aratılan konular arasında öne çıkıyor.\n\nAvrupa kupaları ve milli maçlar döneminde milyonlarca vatandaşı ekran baş೧nda birleştiren bu tür ulusal karşılaşmalar, sadece spor basınının değil, tüm ülkenin odak noktası haline geliyor. A Milli Futbol Takımı'nın sahada vereceği mücadele, her yaştan futbol severin ortak duygularla desteklediği anlara sahne olacak. Karşılaşma öncesinde yaşanan bu yoğun ilgi, milli takımların toplum üzerindeki birleştirici gücünü ve sporun kitleleri peşinden sürükleyen etkisini bir kez daha gözler önüne seriyor.\n\nMaç saatinin yaklaşmasıyla birlikte hem televizyon yayıncılığı hem de dijital mecralardaki yayın akışları hız kazandı. Evde, işte veya dışarıda olan futbolseverler, müsabakayı kaçırmamak adına mobil uygulamalar ve resmi web yayınları üzerinden alternatif izleme yöntemlerini test ediyor. ATV'nin sunduğu şifresiz ve yüksek çözünürlüklü yayın imkanı, sporseverlerin maça herhangi bir ek ücret ödemeden veya karmaşık abonelik süreçleriyle uğraşmadan erişebilmesini sağlıyor.\n\nÖzetle, UEFA Uluslar Ligi kapsamında oynanacak olan Türkiye-Belçika maçı, 12 Kasım 2026 Perşembe akşamı saat 20.00 itibarıyla tüm heyecanıyla ATV ekranlarında olacak. Maçı canlı izlemek isteyenler için tüm televizyon, uydu frekans ve dijital yayın kanalları hazır duruma getirilirken, ay-yıldızlı ekibimize başarı dilekleri sosyal medyada ve tüm platformlarda günden güne büyüyor.",
-      "highlights": [
-        "A Milli Futbol Takımı, UEFA Uluslar Ligi beşinci maçında Belçika'yı konuk ediyor.",
-        "Kritik mücadele 12 Kasım 2026 Perşembe günü saat 20.00'de başlayacak.",
-        "Karşılaşma ATV ekranlarından canlı ve şifresiz olarak yayınlanacak."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/turkiye-belcika-maci-canli-izle-milli-mac-atv-canli-yayin-ekrani-sifresiz-hd-turkiye-belcika-maci-nereden-izlenir-sifreli-mi-3492426",
-      "publishedAt": "2026-11-12T20:03:44.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
