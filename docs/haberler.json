@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-19T05:34:41.099Z",
+  "generatedAt": "2026-11-19T05:44:47.674Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/dunya/ingiltere-abli-ogrencilerin-ucretini-azaltmayi-planliyor-4874195",
+      "headline": "İngiltere hükümeti AB'li öğrencilerin üniversite ücretlerini azaltmayı planlıyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1627561952366-144630a5e8d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8JUM0JUIwbmdpbHRlcmUlMjBoJUMzJUJDayVDMyVCQ21ldGklMjBBQiUyN2xpJTIwJUMzJUI2JUM0JTlGcmVuY2lsZXJpbiUyMCVDMyVCQ25pdmVyc2l0ZSUyMCVDMyVCQ2NyZXRsZXJpbmklMjBhemFsdG1heSVDNCVCMSUyMHBsYW5sJUM0JUIxeW9yfGVufDF8MHx8fDE3OTUwNjcwNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ankara University",
+        "photographerUrl": "https://unsplash.com/@ankarauni",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-red-jacket-walking-on-hallway-aufZjmIasFU"
+      },
+      "timeAgo": "şimdi",
+      "body": "The Telegraph'ın haberine göre İngiltere hükümeti, cuma günü yapılacak İngiltere-AB Zirvesi öncesinde AB vatandaşı öğrencilerin yıllık 38 bin sterlin olan ücretlerini 9 bin 970 sterline çekme planını AB yetkililerine iletti.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/dunya/ingiltere-abli-ogrencilerin-ucretini-azaltmayi-planliyor-4874195",
+      "publishedAt": "2026-11-19T05:44:21.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-cindeki-zirvede-dikkat-ceken-an-abd-baskani-trump-kameraya-boyle-yakalandi-yine-kendini-tutamadi-7703521",
       "headline": "Çin'deki zirvede Trump kameraya yansıdı",
@@ -15,14 +34,15 @@
       "timeAgo": "6 dk önce",
       "body": "Çin'in Shenzhen kentinde düzenlenen Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi, liderlerin buluşmasına sahne oldu. South China Morning Post'un haberine göre, Çin Devlet Başkanı Xi Jinping'in genel kurul konuşması sırasında ABD Başkanı Donald Trump'ın koltuğunda gözlerini kapattığı ve uyukladığı anlar kameralara yansıdı. Sosyal medyada kullanıcılar bu görüntüler için \"Yine kendini tutamadı\" yorumlarında bulundu. \n\nOturum sırasında diğer liderlerin farklı tepkileri de dikkat çekti. Rusya Devlet Başkanı Vladimir Putin'in konuşmayı dikkatle takip ettiği görülürken, Kanada Başbakanı Mark Carney ve Hong Kong lideri John Lee notlar aldı. Japonya Başbakanı Sanae Takaichi ise Xi'nin konuşmasının bazı bölümlerinde gülümsedi. \n\nZirve kapsamında ABD Başkanı Trump ve Rusya Devlet Başkanı Putin, ikili görüşme öncesinde bir araya gelerek tokalaştı ve kameralara poz verdi. Trump, Putin ile uzun yıllara dayanan muhteşem bir ilişkileri olduğunu belirterek toplantıyı sabırsızlıkla beklediğini ifade etti. Trump ayrıca, günün ilerleyen saatlerinde Xi Jinping ve Putin ile üçlü bir görüşme gerçekleştireceklerini duyurdu.",
       "highlights": [
-        "ABD Başkanı Donald Trump, Çin'deki APEC Zirvesi'nde Xi Jinping'in konuşması sırasında uyuklarken kameralara yansıdı.",
-        "Rusya Devlet Başkanı Vladimir Putin konuşmayı dikkatle takip ederken, diğer bazı liderler not aldı veya gülümsedi.",
-        "Trump ve Putin ikili görüşme öncesinde bir araya gelerek tokalaştı."
+        "Çin'deki APEC Zirvesi'nde Xi Jinping'in konuşması sırasında ABD Başkanı Donald Trump'ın uyukladığı kameralara yansıdı.",
+        "Trump ve Rusya Devlet Başkanı Putin zirve kapsamında bir araya gelerek açıklamalarda bulundu.",
+        "Trump, İran'daki savaşı bitirmek için Çin veya Rusya'dan yardım istemeyeceğini söyledi."
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-cindeki-zirvede-dikkat-ceken-an-abd-baskani-trump-kameraya-boyle-yakalandi-yine-kendini-tutamadi-7703521",
       "publishedAt": "2026-11-19T05:28:42.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T05:44:29.766Z"
     },
     {
       "id": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
@@ -3435,7 +3455,7 @@
       "publishedAt": "2026-11-18T05:24:02.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T05:44:26.456Z"
+      "sourceTextAttemptedAt": "2026-11-19T05:44:29.766Z"
     },
     {
       "id": "https://www.haberturk.com/dunya/anket-almanya-da-hukumetin-calismalarindan-memnun-olmayanlarin-orani-yuzde-86-ya-yukseldi-3928111",
@@ -4586,7 +4606,7 @@
       "publishedAt": "2026-11-17T15:57:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T05:44:26.456Z",
+      "imageSearchAttemptedAt": "2026-11-19T05:44:29.766Z",
       "sourceTextAttemptedAt": "2026-11-18T09:14:20.983Z"
     },
     {
@@ -10681,6 +10701,7 @@
     "https://www.france24.com/en/asia-pacific/20261118-xi-putin-meet-ahead-of-historic-trump-trilateral-summit",
     "https://www.milliyet.com.tr/gundem/beyoglunda-binada-yangin-olay-yerine-cok-sayida-ekip-sevk-edildi-7703096",
     "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+    "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss"
   ]
 }
