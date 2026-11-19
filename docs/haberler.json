@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-19T12:04:36.143Z",
+  "generatedAt": "2026-11-19T12:14:54.646Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/kusadasinda-firar-eden-deve-kusu-karayoluna-girdi-aydin-kusadasi-haberleri-4874429",
+      "headline": "Çiftlikten kaçan deve kuşu karayolunda tehlike yarattı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1775834501503-49291ca076ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8b3N0cmljaCUyMHJ1bm5pbmclMjByb2FkfGVufDF8MHx8fDE3OTUwOTA0ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ONUR KURT",
+        "photographerUrl": "https://unsplash.com/@bykurt",
+        "unsplashUrl": "https://unsplash.com/photos/ostriches-stand-on-a-road-near-a-car-wlS20uwaujk"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Aydın'ın Kuşadası ilçesinde bulunan kırsal Değirmendere Mahallesi yakınlarında, sabah saatlerinde bir çiftlikten firar eden deve kuşu karayoluna çıktı. Bakıcılarını atlatarak yola giren hayvan, herkesin şaşkın bakışları arasında kontrolsüzce koştu ve sürücülere zor anlar yaşatarak hafif bir kaza atlattı.\n\nDeve kuşunun karayoluna çıktığını gören vatandaşlar durumu 112 Acil Yardım Hattı'na bildirerek yardım talebinde bulundu. Aynı saatlerde deve kuşunun kaçtığını fark eden çiftlik çalışanları da hayvanı yakalamak için harekete geçti. İri cüssesiyle kendisini yakalamaya çalışanları korkutan deve kuşu, kaçışı sırasında bir kamyonete çarptı.\n\nÇarptıktan sonra yere yıkılan fakat koşmaya devam eden deve kuşu, uzun uğraşlar sonucunda kontrol altına alındı. Yakalanan firari hayvan, güvenli bir şekilde kaçtığı çiftliğe geri getirildi. Olayın ardından deve kuşunun sağlık durumunun iyi olduğu öğrenildi.",
+      "highlights": [
+        "Aydın'ın Kuşadası ilçesinde çiftlikten kaçan deve kuşu karayoluna girdi.",
+        "Kaçış sırasında bir kamyonete çarpan deve kuşu hafif bir kaza atlattı.",
+        "Uzun uğraşlar sonucu yakalanan hayvan, kaçtığı çiftliğe geri getirildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/kusadasinda-firar-eden-deve-kusu-karayoluna-girdi-aydin-kusadasi-haberleri-4874429",
+      "publishedAt": "2026-11-19T12:12:50.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon",
+      "headline": "Fransa'da 2027 Cumhurbaşkanlığı Yarışı: Yeşil Lider Tondelier, Aşırı Solcu Mélenchon'a Yaklaşıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1531949436674-f35be9281b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwcG9saXRpY2lhbnN8ZW58MXwwfHx8MTc5NTA5MDQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Howard Bouchevereau",
+        "photographerUrl": "https://unsplash.com/@howardbouchevereau",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-people-standing-between-houses-z6kGdHpSum8"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Fransa'da yaklaşan cumhurbaşkanlığı seçimlerinin ilk turuna altı ay kala, Yeşil parti lideri Marine Tondelier'nin radikal solun lideri Jean-Luc Mélenchon ile yakınlaşma içinde olduğu bildirildi.\n\nFransa 24'ün aktardığına göre, bu hamle soldaki ve merkezdeki diğer adayları, özellikle de Raphaël Glucksmann'ı hazırlıksız yakaladı.\n\nSöz konusu gelişme, ülkedeki siyasi dinamiklerin seçim öncesinde nasıl şekillendiğine dair değerlendirmelerle birlikte France 24 tarafından yayımlandı.",
+      "highlights": [
+        "Yeşil parti lideri Marine Tondelier, aşırı solun lideri Jean-Luc Mélenchon'a yaklaşıyor.",
+        "Bu hamle soldaki ve merkezdeki diğer adayları hazırlıksız yakaladı."
+      ],
+      "externalUrl": "https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon",
+      "publishedAt": "2026-11-19T12:09:45.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/disisleri-bakani-fidandan-butce-sunumunda-onemli-aciklamalar-1751625",
       "headline": "Dışişleri Bakanı Fidan'dan bütçe sunumunda önemli açıklamalar",
@@ -4315,7 +4360,7 @@
       "category": "Son Dakika",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-19T09:24:27.695Z",
-      "sourceTextAttemptedAt": "2026-11-18T09:14:20.983Z"
+      "sourceTextAttemptedAt": "2026-11-19T12:14:39.605Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/bakan-gulerden-mekke-ittifaki-aciklamasi-4873867",
@@ -4332,15 +4377,15 @@
       "timeAgo": "2 dk önce",
       "body": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakı hakkında değerlendirmelerde bulundu.\n\nBakan Güler, konuya ilişkin yaptığı açıklamada, Mekke İttifakı'nın bölgedeki barışın güçlendirilmesine yönelik önemli ve tarihi bir adım olduğunu ifade etti.\n\nYetkililer tarafından başka bir detay paylaşılmazken, açıklama kamuoyuna bu ifadelerle duyuruldu.",
       "highlights": [
-        "Milli Savunma Bakanlığının 2027 yılı bütçesinin görüşmelerine TBMM Plan ve Bütçe Komisyonunda başlandı.",
-        "Bakan Yaşar Güler, Mekke İttifakı'nı bölgede barışın güçlendirilmesine yönelik tarihi bir adım olarak nitelendirdi.",
-        "Güler, ittifakın hiçbir ülkeyi hedef almadığını ve barışın korunmasına hizmet ettiğini belirtti."
+        "Erdoğan, yapıcı olduğu sürece eleştirilerden rahatsız olmayacaklarını söyledi.",
+        "Yanlışları düzeltmenin siyasetçilerin görevi olduğunu belirtti.",
+        "AK Parti'ye geçen 9 belediye başkanına rozet takıldı."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/bakan-gulerden-mekke-ittifaki-aciklamasi-4873867",
       "publishedAt": "2026-11-18T08:52:25.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T09:04:34.355Z"
+      "sourceTextAttemptedAt": "2026-11-19T12:14:39.605Z"
     },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
@@ -7581,7 +7626,7 @@
       "publishedAt": "2026-11-17T06:19:16.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T12:04:41.236Z"
+      "imageSearchAttemptedAt": "2026-11-19T12:14:39.605Z"
     },
     {
       "id": "https://www.haberturk.com/magazin/selahattin-pasali-evliligimizin-en-guzel-donemindeyiz-3927749",
