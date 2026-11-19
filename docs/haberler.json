@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T08:43:56.254Z",
+  "generatedAt": "2026-11-19T08:44:31.128Z",
   "articles": [
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-alihan-kuris-suc-orgutune-yeni-operasyon-7-supheliden-4u-yakalandi-7703665",
@@ -21,6 +21,53 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-alihan-kuris-suc-orgutune-yeni-operasyon-7-supheliden-4u-yakalandi-7703665",
       "publishedAt": "2026-11-19T08:42:51.000Z",
       "category": "Son Dakika",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T08:44:22.341Z"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-eski-bddk-baskani-sahap-kavcioglu-hakkinda-yurt-disi-cikis-yasagi-verildi-7703648",
+      "headline": "Eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı kararı verildi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1589391886645-d51941baf7fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnQlMjBnYXZlbHxlbnwxfDB8fHwxNzk1MDc3ODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tingey Injury Law Firm",
+        "photographerUrl": "https://unsplash.com/@tingeyinjurylawfirm",
+        "unsplashUrl": "https://unsplash.com/photos/wooden-gavel-and-block-on-marble-6sl88x150Xs"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması çerçevesinde, eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildiği bildirildi.\n\nSermaye piyasalarında gerçekleştirilen işlemlere yönelik sürdürülen fon soruşturması kapsamında, dün eski BDDK Başkanı Şahap Kavcıoğlu için Hazine ve Maliye Bakanlığından soruşturma izni talep edildiği belirtildi.\n\nÖte yandan Hazine ve Maliye Bakanı Mehmet Şimşek'in, söz konusu fon soruşturması kapsamında eski BDDK Başkanı Şahap Kavcıoğlu hakkında ön inceleme yapılması amacıyla Bakanlık Teftiş Başkanlığı'nı görevlendirdiği aktarıldı.\n\nYürütülen fon soruşturmasında Mustafa Yazıcı'nın ise adli kontrol şartıyla serbest bırakıldığı kaydedildi.",
+      "highlights": [
+        "Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı verildi",
+        "Hazine ve Maliye Bakanlığından soruşturma izni talep edildi",
+        "Mustafa Yazıcı adli kontrolle serbest bırakıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-eski-bddk-baskani-sahap-kavcioglu-hakkinda-yurt-disi-cikis-yasagi-verildi-7703648",
+      "publishedAt": "2026-11-19T08:42:47.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
+      "headline": "Nükleer silahlar Shenzhen üçlü görüşmesinin merkezinde",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1720348463004-f537593fa8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bnVjbGVhciUyMHdlYXBvbnN8ZW58MXwwfHx8MTc5NTA3Nzg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stephen Cobb",
+        "photographerUrl": "https://unsplash.com/@chuffed",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-metal-object-inside-of-a-building-lxKEtKifAjw"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Nükleer silahlar, Pekin'deki üçlü zirvede ABD Başkanı Donald Trump'ın gündeminin ilk sırasında yer alıyor. Habere göre ABD başkanı, Amerika Birleşik Devletleri, Rusya ve Çin'in nükleer cephaneliklerini azaltmasını istiyor. FRANCE 24 muhabiri Philip Turle, Trump'ın bu konuda üçlü bir anlaşma için güçlü bir baskı yapmasını bekliyor.\n\nGörüşmelerde İran da kilit bir rol oynuyor. Üç lider, İran rejiminin nükleer silah elde etmesini engelleme konusunda ortak bir çıkar paylaşıyor. \n\nBölgesel çatışmalar ile petrol fiyatları da zirvenin merkezi konuları arasında bulunuyor. Zirveye ilişkin detaylar ve beklentiler bu başlıklar etrafında şekilleniyor.",
+      "highlights": [
+        "Nükleer silahlar Pekin'deki üçlü zirvenin gündeminde yer alıyor",
+        "Liderler İran'ın nükleer silah edinmesini engellemeyi amaçlıyor",
+        "Bölgesel çatışmalar ve petrol fiyatları da görüşülecek konular arasında"
+      ],
+      "externalUrl": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
+      "publishedAt": "2026-11-19T08:36:29.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -3721,7 +3768,7 @@
       "publishedAt": "2026-11-18T07:54:15.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T08:24:59.486Z"
+      "sourceTextAttemptedAt": "2026-11-19T08:44:22.341Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-2026-yilinin-kelimesi-belli-oldu-tartismalarin-merkezine-yerlesti-7702846",
