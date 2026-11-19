@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-19T18:24:57.089Z",
+  "generatedAt": "2026-11-19T18:35:57.250Z",
   "articles": [
+    {
+      "id": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "Almanya Başbakanı Merz'ten ABD-Rusya-Çin üçlüsüne Yalta uyarısı: Avrupa'nın bölünmesine izin vermeyiz",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "8 dk önce",
+      "body": "Almanya Başbakanı Friedrich Merz, ABD, Rusya ve Çin liderlerinin bugünkü üçlü zirvesine atıfla \"Yalta formatı barışı getirmeyecek\" diye uyardı, Avrupa'nın yeniden bölünmesine izin vermeyeceklerini söyledi.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-11-19T18:28:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+      "headline": "Call for police to investigate Scottish hospital after 19 deaths due to surgery",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1603488704611-c24b71567172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2FsbCUyMGZvciUyMHBvbGljZSUyMHRvJTIwaW52ZXN0aWdhdGUlMjBTY290dGlzaCUyMGhvc3BpdGFsJTIwYWZ0ZXIlMjAxOSUyMGRlYXRocyUyMGR1ZSUyMHRvJTIwc3VyZ2VyeXxlbnwxfDB8fHwxNzk1MTEzMzI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alex Quezada",
+        "photographerUrl": "https://unsplash.com/@alex_quezada",
+        "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-green-mountain-during-daytime-ih8KTb3iLJc"
+      },
+      "timeAgo": "13 dk önce",
+      "body": "Surgeon at Aberdeen Royal Infirmary says he repeatedly voiced concerns that patients may have died unnecessarily A senior surgeon has called for a criminal investigation into a Scottish hospital after it emerged that at least 19 patients had died from avoidable complications due to surgery. Dr Mohammed Habib, a consultant at Aberdeen Royal Infirmary, said he had repeatedly reported concerns about the hospital’s…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
+      "publishedAt": "2026-11-19T18:21:59.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/diyarbakirda-korkutan-goruntu-siddetli-saganakta-beton-kopru-coktu-7704100",
       "headline": "Diyarbakır'da şiddetli sağanak nedeniyle beton köprü çöktü",
@@ -22,7 +56,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/diyarbakirda-korkutan-goruntu-siddetli-saganakta-beton-kopru-coktu-7704100",
       "publishedAt": "2026-11-19T18:19:19.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T18:34:20.319Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/ciftci-cember-daraliyor-3928596",
@@ -138,7 +173,8 @@
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
       "publishedAt": "2026-11-19T17:50:21.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T18:34:20.319Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/park-halindeki-3-arac-alev-alev-yandi-3495504",
