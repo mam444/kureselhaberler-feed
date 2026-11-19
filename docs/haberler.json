@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T05:55:01.634Z",
+  "generatedAt": "2026-11-19T06:05:13.459Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/19/harvard-calismasi-abddeki-veri-merkezleri-bir-yilda-danimarka-kadar-co2-saldi",
+      "headline": "Harvard çalışması: ABD'deki veri merkezleri bir yılda Danimarka kadar CO2 saldı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1683322499436-f4383dd59f5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGF0YSUyMGNlbnRlcnxlbnwxfDB8fHwxNzk1MDY4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Scott Rodgerson",
+        "photographerUrl": "https://unsplash.com/@scottrodgerson",
+        "unsplashUrl": "https://unsplash.com/photos/a-bunch-of-blue-wires-connected-to-each-other-PSpf_XgOM5w"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Harvard Üniversitesi'nde yürütülen yeni bir araştırma, ABD'deki en büyük 403 veri merkezinin bir yıllık elektrik tüketiminin Danimarka kadar CO2 saldığını ortaya koydu. Yapay zekanın yükselişiyle birlikte hazırlanan ilk çalışmalardan biri olan araştırmaya göre, bu tesisler Mayıs 2024 ile Nisan 2025 arasında 25,7 milyon ton CO2 üretti. Kullanılan elektriğin yarısından fazlası doğal gaz ve kömür gibi fosil yakıtlardan sağlandı. Araştırmacılar, bir veri merkezinin karbon ayak izinin kurulduğu yere göre değiştiğini, örneğin kömür kullanan Wyoming'deki bir merkezin, hidroelektrik payı yüksek Oregon'dakine göre iki kattan fazla karbon ürettiğini belirtti.\n\nÖte yandan Avrupa, veri merkezi kapasitesini artırmaya hazırlanırken inşaat patlaması da şimdiden başladı. AB, küresel yapay zeka yarışında rekabet edebilmek için kapasiteyi yedi yıl içinde üç katına çıkarmayı hedefliyor. CBRE verilerine göre yalnızca 2026'da Avrupa'daki kapasitenin yüzde 20 artması bekleniyor. Londra, Frankfurt ve Paris büyük merkezler haline gelirken, elektrik kıtlığı Amsterdam ve Dublin'de bazı projelerin durdurulmasına yol açtı. Buna karşın Finlandiya, İspanya ve İtalya gibi ülkelerde çok sayıda yeni proje duyuruldu veya inşaata başlandı.\n\nAncak bu büyüme çevre üzerindeki baskıları artırıyor. Uluslararası Enerji Ajansı'na (IEA) göre veri merkezleri, 2030'a kadar AB'deki ilave elektrik talebinin yüzde 10'unu oluşturacak. Bölge halkı su tüketimi, gürültü ve arazi kullanımı konusunda endişelerini dile getirirken, İngiltere, İtalya ve Hollanda'da projeleri protesto etmek amacıyla gösteriler düzenlendi. Hükümetlerin ve koalisyonların yeni projelere ara verilmesi yönünde talepleri gündeme geldi.\n\nAvrupa, çevresel etkileri azaltmak için yeni düzenlemeler planlıyor. AB'nin Enerji Verimliliği Direktifi uyarınca belirli güç kullanan veri merkezlerinin enerji ve su tüketimini bildirmesi zorunlu kılındı. Ayrıca enerji ve su verimliliği için A'dan G'ye derecelendirme sistemleri önerildi. Bazı işletmeciler ise Portekiz'de soğutma için deniz suyu kullanan tesisler veya Helsinki'de veri merkezi ısısıyla konutları ısıtmayı planlayan projeler gibi alternatif çözümler geliştiriyor.",
+      "highlights": [
+        "ABD'deki en büyük 403 veri merkezinin bir yılda tükettiği elektrik, Danimarka'nın saldığı kadar CO2 üretti.",
+        "Veri merkezlerinin karbon ayak izi, ağırlıklı olarak doğal gaz ve kömür gibi fosil yakıtlardan kaynaklanıyor.",
+        "Avrupa genelinde veri merkezi yatırımları artarken, çevresel etkiler ve enerji tüketimi nedeniyle protestolar düzenleniyor."
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/19/harvard-calismasi-abddeki-veri-merkezleri-bir-yilda-danimarka-kadar-co2-saldi",
+      "publishedAt": "2026-11-19T06:02:27.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/bahceli-yagmur-stratejisini-acikladi-yedi-cozum-onerisi-siraladi-1751536",
       "headline": "Bahçeli 'Yağmur Stratejisi'ni açıkladı: Yedi temel başlıkta çözüm önerileri",
@@ -256,6 +279,28 @@
       ],
       "externalUrl": "https://www.theguardian.com/world/2026/nov/19/datacentres-to-create-70-more-carbon-emissions-by-2030-iea-report-warns",
       "publishedAt": "2026-11-19T05:00:18.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+      "headline": "Trump-Putin görüşmesinden uzakta Avrupa Ukrayna'nın savunma maliyetini hesaplayacak",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1569404225992-9ac478f3c14e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QmVybGluJTIwbWVldGluZ3xlbnwxfDB8fHwxNzk1MDY4Mjg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Christian Ladewig",
+        "photographerUrl": "https://unsplash.com/@dozy_de",
+        "unsplashUrl": "https://unsplash.com/photos/brown-and-blue-cathedral-Zr-ZnTNekEY"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Avrupalı liderler Berlin'de bir araya gelmeye hazırlanıyor. Gerçekleşecek bu buluşma, Ukrayna'nın önümüzdeki yıl karşı karşıya kalacağı finansman açığının gölgesinde yapılıyor.\n\nKiev yönetimi, gelecek yıl için 25 milyar euro yani yaklaşık 27,4 milyar dolarlık bir finansman açığıyla mücadele ediyor. Bu durum, Avrupa'nın Ukrayna'nın savunması için üstleneceği maliyetlerin önemini artırıyor.\n\nLiderlerin Berlin'deki toplantısında bu ekonomik ve savunma ihtiyaçlarının ele alınması bekleniyor. Toplantının gündemi, Ukrayna'nın finansal ve askeri desteğinin sürdürülebilirliği ekseninde şekilleniyor.\n\nAvrupa cephesinde yürütülen bu temaslar, ABD'deki gelişmelerden ve olası Trump-Putin görüşmesinden bağımsız olarak kıtanın kendi güvenliği ve Ukrayna'ya desteği açısından önem taşıyor.",
+      "highlights": [
+        "Avrupalı liderler Berlin'de bir araya geliyor",
+        "Ukrayna'nın gelecek yıl 25 milyar euro finansman açığı bulunuyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+      "publishedAt": "2026-11-19T04:58:36.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -3429,15 +3474,14 @@
       "timeAgo": "15 dk önce",
       "body": "Çin, ABD ve Rusya liderlerinin bu hafta Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi kapsamında ilk üçlü görüşmelerini gerçekleştirmesi bekleniyor. Çin'in Shenzhen kentinde 18-19 Kasım tarihlerinde düzenlenecek olan toplantıda, ABD Başkanı Donald Trump ayrıca Çin Devlet Başkanı Xi Jinping ile ayrı bir ikili görüşme yapmayı planlıyor. DW'ye konuşan uzmanlar, ABD ile Çin arasındaki ticaret, teknoloji veya diğer konularda herhangi bir büyük atılım beklemiyor.\n\nBrookings Institution'dan Patricia M. Kim, mevcut ticaret ateşkesini korumanın her iki lider için de ortak hedef olduğunu belirtiyor. Hinrich Foundation'dan Jia Hui Tee ise Trump ve Xi'nin kırılgan ticaret ilişkilerini istikrara kavp etmeye odaklanacağını, tarafların 30 milyar dolar değerindeki karşılıklı tarife indirimlerinde ilerleme kaydedebileceğini ifade ediyor. Ancak Tee, Trump'ın içeride zayıflaması nedeniyle Çin'in taahhütlerinde temkinli olabileceğini ekliyor.\n\nRusya, ABD ve Çin liderleriyle yapılacak görüşmelerin diplomatik konumunu güçlendireceğini ve Ukrayna'daki savaşta Moskova'nın lehine bir çözüm sağlamaya yardımcı olacağını umuyor. Stimson Center'dan Yun Sun, Moskova'nın Washington'un müzakereye istekli olduğu izlenimini yaratmak istediğini, Trump'ın üçlü nükleer görüşmeler istediklerini, Pekin'in ise üç lider arasındaki tarihi toplantıya ev sahipliği yapma görüntüsünü arzuladığını belirtti.\n\nKennan Institute'ten Michael Kimmage, Çin'in Ukrayna'daki savaşı bitirmekten ziyade Rusya Devlet Başkanı Vladimir Putin'in rejiminin hayatta kalmasıyla ilgileniyor olabileceğini ifade etti. Uzmanlar, Pekin'in Rusya'nın çökmesini istemediğini ancak Avrupa'yı yabancılaştıracak kadar da açık bir destek vermekten kaçındığını aktarıyor. İran konusunda ise Groningen Üniversitesi'nden W.A. Figueroa, Çin ile ABD arasında gerçek bir iş birliğine dair çok az işaret bulunduğunu, Çin'in İran'a petrol alımları yoluyla mali destek sağlamaya devam ettiğini belirtti.",
       "highlights": [
-        "Trump, Xi ve Putin APEC'te ilk kez üçlü görüşme yapacak",
-        "Liderlerin ticaret ve Ukrayna gibi konularda farklı öncelikleri var",
-        "Görüşmede İran ve silah kontrolü de ele alınacak başlıklar arasında"
+        "Trump, Xi ve Putin APEC marjında ilk trilateral görüşmesini yapacak",
+        "Liderlerin ticaret, Ukrayna, İran ve silah kontrolünde farklı öncelikleri bulunuyor"
       ],
       "externalUrl": "https://www.dw.com/en/apec-summit-what-trump-xi-and-putin-want/a-79970462?maca=en-rss-en-world-4025-xml-mrss",
       "publishedAt": "2026-11-18T05:39:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T06:04:21.198Z"
+      "imageSearchAttemptedAt": "2026-11-19T06:04:34.043Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
