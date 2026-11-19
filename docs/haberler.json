@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-11-19T16:48:21.398Z",
+  "generatedAt": "2026-11-19T16:56:46.167Z",
   "articles": [
     {
+      "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1602657646192-e8915b87bd4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U3VzYW4lMjBTbWl0aCUyMGRlbmllZCUyMHBhcm9sZSUyMGFnYWluJTIwMzIlMjB5ZWFycyUyMGFmdGVyJTIwZHJvd25pbmclMjBoZXIlMjB0d28lMjBzb25zfGVufDF8MHx8fDE3OTUxMDczMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "QG Creations LLC",
+        "photographerUrl": "https://unsplash.com/@qgcreations",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-jacket-beside-woman-in-white-sleeveless-dress-u9MfvKsLrgM"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "This is the second time Smith has requested to be released from prison for killing the two boys, who were both under the age of four at the time.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T16:53:29.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/savunma-sanayii-baskani-haluk-gorgun-kizilelma-artik-kahraman-guvenlik-guclerimizin-emrinde-7704030",
+      "headline": "Savunma Sanayii Başkanı Haluk Görgün: KIZILELMA kahraman güvenlik güçlerimizin emrinde",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1614121174144-bd53a169780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZmlnaHRlciUyMGpldHxlbnwxfDB8fHwxNzk1MTA3MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NASA",
+        "photographerUrl": "https://unsplash.com/@nasa",
+        "unsplashUrl": "https://unsplash.com/photos/sr71-jet-above-mountains-Tquhp9Kqkzk"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Savunma Sanayii Başkanı Haluk Görgün, sosyal medya hesabından yaptığı paylaşımda savunma sanayisinde yeni bir eşik atlandığını belirterek, KIZILELMA'nın artık kahraman güvenlik güçlerinin emrinde olduğunu duyurdu. Görgün, yirmi yıllık bir hayalin gerçeğe dönüştüğüne şahitlik edildiğini vurguladı.\n\nPaylaşımında envantere giren ilk insansız savaş uçağı olarak dünya havacılık tarihine adını yazdıran KIZILELMA'nın bu büyük gururunu yaşatan Baykar ailesini, mühendisleri ve teknisyenleri tebrik eden Görgün, Milli Teknoloji Hamlesi'ne ömrünü adayan merhum Özdemir Bayraktar'ı ve vefat eden yol arkadaşlarını rahmetle andı.\n\nAK Parti Sözcüsü Ömer Çelik de KIZILELMA hakkında dünyada bir ilk olduğuna dikkat çeken açıklamalarda bulundu. Türkiye Yüzyılı'nın gökyüzündeki nişanesi olan Kızılelma'nın vatan, millet ve ordu için hayırlı olması temennisinde bulunuldu.",
+      "highlights": [
+        "KIZILELMA envantere giren ilk insansız savaş uçağı oldu",
+        "Haluk Görgün uçağın güvenlik güçlerinin emrinde olduğunu açıkladı",
+        "Ömer Çelik gelişmenin dünyada bir ilk olduğunu belirtti"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/savunma-sanayii-baskani-haluk-gorgun-kizilelma-artik-kahraman-guvenlik-guclerimizin-emrinde-7704030",
+      "publishedAt": "2026-11-19T16:49:40.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
       "id": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
-      "headline": "Newborn dies after suspected female genital mutilation in Senegal; relatives arrested",
+      "headline": "Senegal'de yeni doğan bebek şüpheli sünnet sonrası hayatını kaybetti, akrabaları tutuklandı",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
       "imageUrl": "https://images.unsplash.com/photo-1544374895-c98e79ac19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TmV3Ym9ybiUyMGRpZXMlMjBhZnRlciUyMHN1c3BlY3RlZCUyMGZlbWFsZSUyMGdlbml0YWwlMjBtdXRpbGF0aW9uJTIwaW4lMjBTZW5lZ2FsJTNCJTIwcmVsYXRpdmVzJTIwYXJyZXN0ZWR8ZW58MXwwfHx8MTc5NTEwNjczOXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -13,16 +55,21 @@
         "unsplashUrl": "https://unsplash.com/photos/women-standing-beside-white-concrete-wall-NJE5Muz1gSo"
       },
       "timeAgo": "5 dk önce",
-      "body": "Three people have been arrested in eastern Senegal after a newborn baby girl died following alleged female genital mutilation",
-      "highlights": [],
+      "body": "Senegal'in doğusunda yeni doğan kız bebek, iddiaya göre kadın sünnetine maruz bırakılmasının ardından kan kaybından yaşamını yitirdi. Yerel bir yetkilinin açıklamasına göre, aralarında bebeğin babası ve büyükannesinin de bulunduğu üç kişi gözaltına alındı.\n\nBölgesel aile işleri direktörü Ndiaye Bousso'nun aktardığına göre, bebek Tambacounda bölgesinde dünyaya geldikten yalnızca bir gün sonra, 12 Kasım'da bu işleme maruz bırakıldı. Babanın, prosedürü organize ettiği şüphesiyle Çarşamba günü tutuklandığı bildirildi. Bebeğin büyükannesi ve işlemi gerçekleştirdiği öne sürülen diğer kadın ise günler önce gözaltına alındı.\n\nBousso, babanın annesinin diğer kadının yardımıyla bebeği yıkamayı teklif ettiğini ancak annenin bilgisi dışında sünnet işlemini gerçekleştirdiğini belirtti. Bebeğin acı çektiğini ve kanadığını sonradan fark eden anne durumu gördü. Şiddetli kanama geçiren bebek, Cuma günü Tambacounda'daki bölgesel bir hastaneye sevk edilirken yolda hayatını kaybetti.\n\nSenegal'de 1999 yılından bu yana yasadışı olan kadın sünneti, beş yıla kadar hapisle cezalandırılıyor; işlemin ölümle sonuçlanması durumunda ise müebbet hapis cezası öngörülüyor. UNICEF verilerine göre ülkede 15-49 yaş arası kadın ve kız çocuklarının yaklaşık yüzde 20'sinin bu prosedüre maruz kaldığı tahmin ediliyor. Yetkililer, geleneğin bu zararlı uygulamayı haklı çıkaramayacağını vurgulayarak yasanın en sert şekilde uygulanmasını talep ediyor.",
+      "highlights": [
+        "Senegal'in doğusunda yeni doğan bir kız bebek, kadın sünneti şüphesiyle hayatını kaybetti.",
+        "Olayla ilgili olarak bebeğin babası ve büyükannesinin de aralarında bulunduğu üç kişi tutuklandı.",
+        "Senegal'de 1999'dan beri yasak olan kadın sünneti, ölümle sonuçlandığında müebbet hapisle cezalandırılabiliyor."
+      ],
       "externalUrl": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
       "publishedAt": "2026-11-19T16:40:45.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T16:54:17.001Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/muslum-sari-chp-ile-yeniden-temas-kurmak-isteyenlere-kapilarinin-acik-oldugunu-soyledi-3928613",
-      "headline": "Müslüm Sarı: CHP ile yeniden temas kurmak isteyenlere kapımız açık",
+      "headline": "Müslüm Sarı: Kapımız herkese açık",
       "source": "Habertürk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
       "imageUrl": "https://images.unsplash.com/photo-1698270723454-a2c84bfb61c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saXRpY2lhbiUyMHNwZWFraW5nJTIwbWljcm9waG9uZXxlbnwxfDB8fHwxNzk1MTA2ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -32,16 +79,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-holding-a-microphone-aVpE5dVepy8"
       },
       "timeAgo": "10 dk önce",
-      "body": "CHP Sözcüsü Müslüm Sarı, Habertürk'te parti içindeki ayrışmalar, başka partilere geçen belediye başkanları ve gündeme ilişkin diğer konular hakkında açıklamalarda bulundu. Sarı, CHP ile yeniden temas kurmak ve ortak siyasi değerler etrafında bir araya gelmek isteyenlere kapılarının açık olduğunu belirtti. \n\nPartiden seçildikten sonra AK Parti'ye katılan belediye başkanlarını eleştiren Sarı, seçmenlerin yalnızca adaylara değil, partilerin siyasi kimliğine de oy verdiğini ifade ederek bu geçişleri doğru bulmadığını söyledi. Parti içindeki ayrışmalara yönelik tepkilerin azaldığını belirten Sarı, vatandaşların öncelikli gündeminin ekonomik sorunlar olduğunu kaydetti.\n\nKurultay sürecine de değinen Sarı, olağan kurultay takviminin Şubat ayında tamamlanmasının planlandığını ve partinin kongreye hazır olduğunu bildirdi. Kemal Kılıçdaroğlu'nun yeniden genel başkanlık adaylığının kurultay delegelerinin değerlendirmesine bağlı olduğunu aktaran Sarı, İstanbul Büyükşehir Belediyesi'nin kırmızı çizgileri olduğunu ve olası bir başkanlık seçiminde belediyenin AK Parti'ye geçmemesi için her türlü iş birliğine hazır olduklarını dile getirdi.",
+      "body": "CHP Sözcüsü Müslüm Sarı, bir televizyon programında parti içi ayrışmalara, başka partilere geçen belediye başkanlarına ve güncel siyasi gelişmelere ilişkin değerlendirmelerde bulundu. Sarı, CHP ile yeniden temas kurmak isteyenlere kapılarının açık olduğunu belirterek, ortak siyasi değerler etrafında yeniden bir araya gelinmesi gerektiğini vurguladı.\n\nPartiden seçildikten sonra AK Parti'ye katılan belediye başkanlarını eleştiren Sarı, seçmenlerin yalnızca adaylara değil partilerin siyasi kimliğine de oy verdiğini ifade etti. Bu tür geçişlerin seçmen güvenini olumsuz etkilediğini belirten Sarı, parti değiştiren siyasetçilere tepki gösterdi. Vatandaşların öncelikli gündeminin geçim sıkıntısı olduğunu söyleyen Sarı, parti içindeki tartışmalara yönelik tepkilerin giderek azaldığını dile getirdi.\n\nKurultay sürecine de değinen Sarı, olağan takvimin 14 Şubat'ta tamamlanmasının planlandığını ve partinin kongreye hazır olduğunu açıkladı. Kemal Kılıçdaroğlu'nun yeniden genel başkanlık adaylığının kurultay delegelerinin değerlendirmesine bağlı olduğunu belirten Sarı, Kılıçdaroğlu'nun cumhurbaşkanlığı adaylığı düşünmediğini aktardı. İstanbul Büyükşehir Belediyesi'ndeki olası başkanlık seçimine ilişkin ise İBB'nin kırmızı çizgileri olduğunu vurgulayan Sarı, belediyenin AK Parti'ye geçmemesi için her türlü işbirliğine hazır olduklarını kaydetti. Terörsüz Türkiye sürecini desteklediklerini belirten Sarı, oluşturulacak izleme komisyonuna üye vereceklerini ifade etti.",
       "highlights": [
-        "Müslüm Sarı, CHP ile yeniden temas kurmak isteyenlere kapılarının açık olduğunu söyledi.",
-        "Sarı, başka partilere geçen belediye başkanlarını eleştirerek seçmen iradesine vurgu yaptı.",
-        "İstanbul Büyükşehir Belediyesi'nin kırmızı çizgileri olduğunu ifade etti."
+        "CHP Sözcüsü Müslüm Sarı, parti ile yeniden temas kurmak isteyenlere kapılarının açık olduğunu söyledi.",
+        "Sarı, başka partilere geçen belediye başkanlarını eleştirerek seçmen iradesine dikkat çekti.",
+        "İBB'nin kırmızı çizgileri olduğunu belirten Sarı, belediyenin AK Parti'ye geçmemesi için işbirliğine hazır olduklarını açıkladı."
       ],
       "externalUrl": "https://www.haberturk.com/gundem/muslum-sari-chp-ile-yeniden-temas-kurmak-isteyenlere-kapilarinin-acik-oldugunu-soyledi-3928613",
       "publishedAt": "2026-11-19T16:38:18.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T16:54:17.001Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/dunya-havacilik-tarihinde-bir-ilk-kizilelma-envantere-girdi-7704000",
