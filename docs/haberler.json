@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-19T06:54:53.738Z",
+  "generatedAt": "2026-11-19T07:05:34.607Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/basketbol/dusan-alimpijevic-besiktas-bugun-real-madridi-yendi-3495129",
+      "headline": "Dusan Alimpijevic: Beşiktaş bugün Real Madrid'i yendi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YmFza2V0YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTUwNzE5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Max Winkler",
+        "photographerUrl": "https://unsplash.com/@maxwinkler",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-basketball-players-UFIZodJgScQ"
+      },
+      "timeAgo": "şimdi",
+      "body": "Basketbol Avrupa Ligi'nin 12. haftasında Beşiktaş Fuzul, konuk ettiği İspanya ekibi Real Madrid'i 83-79 mağlup etti. Turkcell Basketbol Gelişim Merkezi'nde oynanan karşılaşmanın ardından Beşiktaş Başantrenörü Dusan Alimpijevic, tarihi bir galibiyet aldıklarını ifade etti. \n\nSırp başantrenör, basın toplantısında çok mutlu olduğunu belirterek Real Madrid gibi güçlü bir rakibe karşı takımının en iyi ve en güçlü basketbolunu oynadığını söyledi. Oyuncuların harika bir performans sergilediğini ve muazzam bir efor sarf ettiğini vurgulayan Alimpijevic, taraftarların oluşturduğu inanılmaz atmosfer için teşekkürlerini iletti.\n\nReal Madrid'in Avrupa Ligi'nin en iyi hücum takımı olduğunu dile getiren Alimpijevic, rakibi 7 üçlük isabetinde tutarak çok iyi bir iş çıkardıklarını ve tarihe tanıklık ettiklerini kaydetti.\n\nReal Madrid Başantrenörü Pedro Martinez ise Beşiktaş'ın karşılaşmada çok iyi bir enerji ortaya koyduğunu ve müthiş bir savunma yaptığını belirtti. Topu paylaşmakta ve tempo bulmakta zorlandıklarını aktaran Martinez, siyah-beyazlıların galibiyeti hak ettiğini ifade ederek tebrik etti.",
+      "highlights": [
+        "Beşiktaş Fuzul, Real Madrid'i 83-79 mağlup etti.",
+        "Başantrenör Dusan Alimpijevic tarihi bir galibiyet aldıklarını söyledi.",
+        "Real Madrid Başantrenörü Pedro Martinez, Beşiktaş'ın galibiyeti hak ettiğini belirtti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/basketbol/dusan-alimpijevic-besiktas-bugun-real-madridi-yendi-3495129",
+      "publishedAt": "2026-11-19T07:07:23.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
       "headline": "Bilecik'te feci kaza: Traktörün çamurluk kısmına sıkışan adam hayatını kaybetti",
@@ -15,14 +38,15 @@
       "timeAgo": "3 dk önce",
       "body": "Bilecik'in merkeze bağlı Koyunköy köyünde üzücü bir kaza meydana geldi. Alınan bilgiye göre, Yaşar Öztürk isimli şahıs, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkıştı.\n\nMeydana gelen olay sonucunda Yaşar Öztürk, olay yerinde hayatını kaybetti. Kazanın ardından olay yerine jandarma ve sağlık ekipleri sevk edildi. Ekipler tarafından olay yerinde gerekli incelemeler gerçekleştirildi.\n\nYaşamını yitiren Öztürk'ün cenazesi, yapılacak işlemler için Bilecik Eğitim ve Araştırma Hastanesi morguna kaldırıldı. Cumhuriyet Savcısının talimatıyla olayla ilgili adli soruşturma başlatıldı.",
       "highlights": [
-        "Bilecik'in Koyunköy köyünde Yaşar Öztürk, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkışarak hayatını kaybetti.",
-        "Cenaze, işlemler için Bilecik Eğitim ve Araştırma Hastanesi morguna kaldırıldı.",
-        "Cumhuriyet Savcısının talimatıyla olayla ilgili adli soruşturma başlatıldı."
+        "Bilecik'in Koyunköy köyünde meydana gelen kazada Yaşar Öztürk hayatını kaybetti.",
+        "Öztürk, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkıştı.",
+        "Cenaze hastane morguna kaldırılırken, olayla ilgili adli soruşturma başlatıldı."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
       "publishedAt": "2026-11-19T06:51:31.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T07:05:19.948Z"
     },
     {
       "id": "https://www.yenisafak.com/hayat/koah-nedeniyle-dunyada-37-milyon-kisi-yasamini-kaybetti-4874236",
@@ -142,7 +166,7 @@
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
-      "headline": "Mother whose twin baby died was determined to have home birth despite advice of experts, NSW inquest hears",
+      "headline": "İkiz Bebeklerden Birinin Öldüğü Ev Doğumu NSW Soruşturmasında Gündeme Geldi",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1754623034716-fccc01930d12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TW90aGVyJTIwd2hvc2UlMjB0d2luJTIwYmFieSUyMGRpZWQlMjB3YXMlMjBkZXRlcm1pbmVkJTIwdG8lMjBoYXZlJTIwaG9tZSUyMGJpcnRoJTIwZGVzcGl0ZSUyMGFkdmljZSUyMG9mJTIwZXhwZXJ0cyUyQyUyME5TVyUyMGlucXVlc3QlMjBoZWFyc3xlbnwxfDB8fHwxNzk1MDcxMjc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -152,12 +176,17 @@
         "unsplashUrl": "https://unsplash.com/photos/two-babies-sitting-on-a-green-park-bench-aY65yWO5Xbw"
       },
       "timeAgo": "37 dk önce",
-      "body": "Inquest into deaths of four babies in northern NSW between 2022 and 2024 told mother refused to give birth in hospital after hearing others’ traumatic stories Get our breaking news email , free app or daily news podcast Baby B’s mother was so determined to have a home birth she ignored the advice of experts – including her own midwife, an inquest has heard. The inquest heard she was pregnant with twins, which she…",
-      "highlights": [],
+      "body": "New South Wales (NSW) eyaletinde görülen bir soruşturmada, uzmanların tüm uyarılarına ve başka kişilerin travmatik doğum hikayelerine dayanarak hastaneye gitmeyi reddeden bir annenin ikiz bebeklerinden birini ev doğumunda kaybettiği açıklandı. Lismore’daki NSW Adli Tıp Mahkemesi'nde gerçekleştirilen duruşmada, ikiz gebelik bekleyen annenin, başkalarının kötü tecrübelerini duyduğu için hastanede doğum yapmak istemediği ifade edildi. İsimsiz olarak tutanaklarda yer alan anne, kendi ebesi dahil olmak üzere uzmanların risk uyarılarına kulak asmadı ve evde doğum yapmakta kararlı davrandı.\n\nSoruşturma kapsamında, yerel tıp camiasının ve ambulans servisinin tehlike ihtimaline karşı hazırlık yaptığı, hastane yetkilileri ile ebe arasında iletişim kurulduğu belirtildi. Uzman tanık Prof. Hannah Dahlen, ikiz gebeliğin 41 haftayı geçmesi, uzman incelemesinin yapılmaması ve hastaneye uzaklık gibi nedenlerle ev doğumunun bu koşullarda uygun görülmediğini mahkemeye aktardı. Annenin hastane kontrollerini reddettiği ve gebeliği ilerledikçe tıbbi sisteme olan güvensizliğinin arttığı kaydedildi.\n\nDoğumun ardından bebeklerden biri (B Bebeği) solunum desteğine ihtiyaç duymuş, ilk başta her şeyin yolunda gittiği sanılmıştı. Ancak mahkemede, B Bebeğinin daha sonra nefes almayı bıraktığı ve hastaneye kaldırılmasına rağmen kurtarılamayarak bakteriyel enfeksiyon nedeniyle hayatını kaybettiği ifade edildi. Diğer ikiz bebek ise aynı enfeksiyonu daha hafif geçirerek hayatta kalmayı başardı. Duruşmada sunulan uzman görüşüne göre, bu olayda ebe tedavisi \"makul ve uygun\" bulunurken, bu durum soruşturma kapsamındaki diğer üç ev/özgür doğum vakasından farklı bir yere konuldu. Soruşturmanın devam ettiği bildirildi.",
+      "highlights": [
+        "İkiz bebeklerden biri ev doğumunda hayatını kaybetti.",
+        "Uzmanlar, ikiz gebelik ve diğer riskler nedeniyle ev doğumunun uygun olmadığını belirtti.",
+        "Ebenin tedavisi makul ve uygun bulunurken, soruşturma devam ediyor."
+      ],
       "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/19/mother-whose-twin-baby-died-was-determined-to-have-home-birth-despite-expert-advice-nsw-inquest-hears-ntwnfb",
       "publishedAt": "2026-11-19T06:17:12.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T07:05:19.948Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/sports/20261119-fifa-rankings-france-finish-the-year-on-the-podium-morocco-break-into-the-top-five",
@@ -179,6 +208,28 @@
       ],
       "externalUrl": "https://www.france24.com/en/tv-shows/sports/20261119-fifa-rankings-france-finish-the-year-on-the-podium-morocco-break-into-the-top-five",
       "publishedAt": "2026-11-19T06:16:49.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
+      "headline": "Trump, Putin ve Xi nükleer çağın sonunu getirebilir mi?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1720348463004-f537593fa8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bnVjbGVhciUyMHdlYXBvbnN8ZW58MXwwfHx8MTc5NTA3MTkyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stephen Cobb",
+        "photographerUrl": "https://unsplash.com/@chuffed",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-metal-object-inside-of-a-building-lxKEtKifAjw"
+      },
+      "timeAgo": "49 dk önce",
+      "body": "Donald Trump, Vladimir Putin ve Xi Jinping'in olası bir toplantısı, yaklaşık 40 yıl önce Ronald Reagan ile Mikhail Gorbachev'in neredeyse gerçeğe dönüştürdüğü nükleer silahsızlanma hayalini yeniden canlandırabilir.",
+      "highlights": [
+        "Liderlerin olası toplantısı nükleer silahsızlanma hayalini canlandırabilir",
+        "Reagan ve Gorbachev bu hedefi 40 yıl önce neredeyse gerçekleştirmişti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
+      "publishedAt": "2026-11-19T06:15:55.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
