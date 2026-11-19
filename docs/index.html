@@ -41,35 +41,24 @@
     text-transform: none !important;
   }
   :root {
-    --navy: #0E2F5A;
-    --navy-dark: #081D3B;
-    --navy-rgb: 14, 47, 90;
-    --gold: #E0A800;
-    --gold-rgb: 224, 168, 0;
-    --accent-red: #E43B3B;
+    --navy: #071D38;
+    --navy-dark: #051326;
+    --navy-rgb: 7, 29, 56;
+    --gold: #E50914;
+    --gold-rgb: 229, 9, 20;
+    --accent-red: #E50914;
     --accent-blue: #1A73E8;
     --accent-orange: #F2994A;
-    --bg: #F4F5F7;
+    --bg: #EEF1F5;
     --card: #FFFFFF;
     --text: #1A1A1A;
     --text-secondary: #767A82;
     --divider: #E7E8EC;
     --card-border: rgba(15, 23, 42, 0.09);
     --shadow: rgba(15, 23, 42, 0.08);
-    --header-bg: rgba(14, 47, 90, 0.82);
+    --header-bg: #07162D;
     --up: #1DA34A;
     --down: #E43B3B;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme="light"]) {
-      --bg: #0B1220;
-      --card: #131B2C;
-      --text: #EDEFF3;
-      --text-secondary: #8D97A8;
-      --divider: #232E45;
-      --card-border: rgba(255, 255, 255, 0.08);
-      --shadow: rgba(0, 0, 0, 0.35);
-    }
   }
   :root[data-theme="dark"] {
     --bg: #0B1220;
@@ -85,11 +74,23 @@
   body, input, button, textarea { font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
   h1, h2, h3, .logo, .section-title, .badge, .page-heading { font-family: 'Plus Jakarta Sans', 'Inter', sans-serif; }
   body {
-    background: var(--bg);
+    background: #041225;
     color: var(--text);
     -webkit-font-smoothing: antialiased;
     transition: background .3s ease, color .3s ease;
   }
+  /* Brief image-only intro: transparent artwork, no frame, spinner or controls. */
+  #brandSplash {
+    position: fixed; inset: 0; z-index: 1000; display: grid; place-items: center;
+    overflow: hidden; background: #07162D;
+    animation: brand-splash-out .28s ease 1.18s forwards;
+  }
+  #brandSplash img {
+    display: block; width: min(78vw, 390px); max-height: 78svh;
+    object-fit: contain; filter: drop-shadow(0 0 22px rgba(22,139,255,.18));
+  }
+  @keyframes brand-splash-out { to { opacity: 0; visibility: hidden; pointer-events: none; } }
+  @media (prefers-reduced-motion: reduce) { #brandSplash { animation-duration: .01ms; animation-delay: .45s; } }
   a { color: inherit; text-decoration: none; }
 
   /* ---------- Reading progress bar ---------- */
@@ -109,17 +110,17 @@
 
   /* ---------- Live ticker ---------- */
   .live-ticker {
-    background: rgba(4,14,28,0.5);
-    border-bottom: 1px solid rgba(255,255,255,0.08);
+    background: linear-gradient(100deg, #E50914, #C80712);
+    border-bottom: 1px solid rgba(255,255,255,0.18);
   }
   .ticker-inner {
-    max-width: 1440px; margin: 0 auto; padding: 0 20px;
-    height: 30px; display: flex; align-items: center; gap: 14px;
+    max-width: 1240px; margin: 0 auto; padding: 0 20px;
+    height: 42px; display: flex; align-items: center; gap: 14px;
   }
   .live-badge {
     display: flex; align-items: center; gap: 5px; flex-shrink: 0;
-    background: rgba(228,59,59,0.16); color: #FF6B6B;
-    font-size: 10px; font-weight: 800; letter-spacing: 0.5px;
+    background: rgba(74,0,0,0.28); color: #fff;
+    font-size: 11px; font-weight: 800; letter-spacing: 0.5px;
     padding: 3px 9px; border-radius: 20px; text-transform: uppercase;
   }
   .live-dot-blink {
@@ -148,8 +149,8 @@
   @media (max-width: 600px) { .live-ticker { display: none; } }
 
   .header-inner {
-    max-width: 1440px; margin: 0 auto;
-    padding: 14px 20px;
+    max-width: 1240px; margin: 0 auto;
+    padding: 12px 20px 10px;
     display: flex; align-items: center; gap: 18px;
   }
   .logo {
@@ -218,7 +219,7 @@
     border-bottom: 1px solid rgba(255,255,255,0.08);
   }
   .categories-row {
-    max-width: 1440px; margin: 0 auto; padding: 0 16px;
+    max-width: 1240px; margin: 0 auto; padding: 0 16px;
     display: flex; align-items: center; gap: 12px;
   }
   .categories-inner {
@@ -270,15 +271,15 @@
   }
 
   /* ---------- Layout ---------- */
-  main { max-width: 1440px; margin: 0 auto; padding: 22px 20px 60px; }
+  main { max-width: 1240px; margin: 0 auto; padding: 18px 20px 56px; background: var(--card); color: var(--text); border-radius: 0 0 18px 18px; min-height: 68vh; box-shadow: 0 18px 55px rgba(0,0,0,.2); }
 
   .featured {
-    display: grid; grid-template-columns: 1.4fr 1fr; gap: 18px;
-    margin-bottom: 26px;
+    display: grid; grid-template-columns: 1.42fr 1fr; gap: 14px;
+    margin-bottom: 24px;
   }
   .featured-main {
     position: relative; border-radius: 16px; overflow: hidden;
-    background: var(--navy); color: #fff; min-height: 480px;
+    background: var(--navy); color: #fff; min-height: 370px;
     display: flex; align-items: flex-end; cursor: pointer;
   }
   .featured-main img {
@@ -316,7 +317,7 @@
     font-family: 'Plus Jakarta Sans', sans-serif; font-weight: 800; font-size: 26px;
     color: rgba(var(--navy-rgb), 0.16); flex-shrink: 0; width: 26px; text-align: center; line-height: 1;
   }
-  .side-card img { width: 72px; height: 72px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--divider); }
+  .side-card img { width: 96px; height: 76px; object-fit: cover; border-radius: 8px; flex-shrink: 0; background: var(--divider); }
   .side-card .thumb-fallback { width: 72px; height: 72px; aspect-ratio: unset; border-radius: 8px; font-size: 9px; text-align: center; padding: 4px; }
   .side-card .thumb-fallback .msr { font-size: 18px !important; }
   .side-card .info { min-width: 0; }
@@ -400,7 +401,7 @@
   .widget-empty { font-size: 12px; color: var(--text-secondary); padding: 4px 0; }
 
   .grid {
-    display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px;
+    display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 12px;
   }
   .card {
     position: relative; border-radius: 14px; overflow: hidden;
@@ -413,7 +414,7 @@
     box-shadow: 0 14px 30px rgba(var(--navy-rgb),0.16), 0 0 0 1px rgba(var(--gold-rgb),0.18), 0 0 24px rgba(var(--gold-rgb),0.12);
   }
   .card-media {
-    position: relative; aspect-ratio: 4/5; overflow: hidden; background: var(--navy);
+    position: relative; aspect-ratio: 16/10; overflow: hidden; background: var(--navy);
     display: flex; flex-direction: column; justify-content: flex-end; flex-shrink: 0;
   }
   .card.no-image .card-media { background: linear-gradient(135deg, var(--navy), var(--accent-blue)); }
@@ -787,6 +788,98 @@
     .live-show-badge { display: none; }
     .bell-dropdown { width: 260px; right: -60px; }
   }
+  /* ---------- Reference led news portal ---------- */
+  body { background: radial-gradient(ellipse at 50% -20%, #123d68 0, #071a32 42%, #041225 78%); }
+  header.site-header { background: #06162b; box-shadow: 0 8px 26px rgba(0,0,0,.25); }
+  .header-inner { min-height: 70px; gap: 22px; }
+  .logo { flex: 0 0 210px; }
+  .logo-wordmark { display:block; width:200px; height:48px; object-fit:contain; }
+  .search-box { max-width: 430px; }
+  .search-box input { background:#0a2543; border-color:#234364; }
+  .header-actions { gap:9px; }
+  .icon-btn-header { width:36px; height:36px; background:transparent; border-color:rgba(255,255,255,.32); }
+  nav.categories { background:#071b33; border-top:1px solid rgba(255,255,255,.06); }
+  .categories-row { min-height:44px; }
+  .live-show-badge { display:none; }
+  .cat-btn { padding:9px 12px; border-radius:7px; font-size:13px; }
+  .cat-btn.active { color:#fff; background:#e50914; }
+  .cat-btn.active::after { display:none; }
+  .live-show-badge { color:#fff; background:rgba(229,9,20,.2); border:1px solid rgba(229,9,20,.45); }
+  .live-ticker { background:linear-gradient(100deg,#e50914,#c80712); }
+  .ticker-inner { max-width:1240px; height:40px; }
+  .ticker-right { display:none; }
+  .live-badge { border-radius:5px; padding:4px 10px; }
+  main { background:#f7f9fc; color:#101a29; }
+  .featured { grid-template-columns:minmax(0,1.45fr) minmax(330px,1fr); }
+  .featured-main { min-height:370px; border-radius:12px; }
+  .featured-main .content { padding:24px; }
+  .featured-main h2 { font-size:clamp(24px,2.3vw,31px); }
+  .featured-main .source-name { color:#fff; }
+  .featured-side { gap:7px; }
+  .featured-side-title { margin-bottom:1px; }
+  .side-card { min-height:77px; padding:7px; border-radius:9px; box-shadow:0 2px 7px rgba(7,29,56,.07); }
+  .side-card .num { display:none; }
+  .side-card img { width:100px; height:66px; border-radius:6px; }
+  .side-card h3 { font-size:13px; }
+  .home-layout { grid-template-columns:minmax(0,1fr) 292px; gap:20px; }
+  .sidebar { position:static; gap:12px; }
+  .widget-card { border-radius:10px; padding:13px; }
+  .widget-title { color:#111c2c; }
+  .section-title { margin:23px 0 12px; font-size:15px; }
+  .section-title::before { width:4px; height:17px; background:#e50914; }
+  .grid { grid-template-columns:repeat(4,minmax(0,1fr)); gap:11px; }
+  .card { border-radius:8px; box-shadow:0 2px 8px rgba(7,29,56,.08); }
+  .card-media { aspect-ratio:auto; display:flex; flex-direction:column; justify-content:flex-start; background:#fff; }
+  .card .thumb { position:relative; inset:auto; display:block; width:100%; height:auto; aspect-ratio:16/9; object-fit:cover; }
+  .card .scrim { display:none; }
+  .card-media .thumb-fallback { position:relative; inset:auto; width:100%; height:auto; aspect-ratio:16/9; }
+  .card-media .body { padding:9px 10px 4px; color:#111c2c; }
+  .card h3 { color:#111c2c; font-size:13px; line-height:1.32; -webkit-line-clamp:3; }
+  .cat-tag { top:7px; left:7px; border-radius:4px; font-size:9px; }
+  .card-footer { padding:6px 9px 8px; font-size:10px; }
+  .breadcrumb { max-width:1240px; padding:12px 20px 0; }
+  .page-heading { max-width:1240px; }
+  footer .inner { max-width:1240px; }
+  :root[data-theme="dark"] main { background:#0b1322; color:#eef2f8; }
+  :root[data-theme="dark"] .card-media { background:#131b2c; }
+  :root[data-theme="dark"] .card-media .body { background:#131b2c; color:#eef2f8; }
+  :root[data-theme="dark"] .card h3,
+  :root[data-theme="dark"] .widget-title { color:#eef2f8; }
+  @media (max-width: 1000px) {
+    .home-layout { grid-template-columns:minmax(0,1fr) 260px; gap:14px; }
+    .featured { grid-template-columns:minmax(0,1.25fr) minmax(280px,1fr); }
+    .grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+  }
+  @media (max-width: 860px) {
+    .featured { grid-template-columns:1fr; }
+    .home-layout { grid-template-columns:1fr; }
+    .featured-main { min-height:330px; }
+    .sidebar { flex-direction:row; }
+    .sidebar .widget-card { min-width:260px; }
+  }
+  @media (max-width: 600px) {
+    .header-inner { min-height:58px; padding:9px 12px; gap:8px; }
+    .logo { flex:0 0 126px; }
+    .logo-wordmark { width:126px; height:36px; }
+    .search-box { max-width:none; min-width:0; }
+    .search-box input { padding:8px 10px 8px 34px; font-size:12px; }
+    .kbd-hint, .updated-at { display:none; }
+    .header-actions { gap:5px; }
+    .icon-btn-header { width:32px; height:32px; }
+    .categories-row { padding:0 8px; }
+    .cat-btn { padding:8px 10px; font-size:12px; }
+    .ticker-inner { height:38px; padding:0 12px; gap:8px; }
+    .ticker-track { font-size:12px; }
+    main { padding:13px 12px 38px; border-radius:0 0 13px 13px; }
+    .featured { gap:10px; margin-bottom:18px; }
+    .featured-main { min-height:300px; }
+    .featured-main .content { padding:16px; }
+    .featured-main h2 { font-size:23px; }
+    .side-card img { width:82px; height:60px; }
+    .grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:9px; }
+    .card h3 { font-size:12px; }
+    .card-footer { font-size:9px; }
+  }
 </style>
 <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
 <script>
@@ -797,19 +890,13 @@
 </script>
 </head>
 <body>
+<div id="brandSplash" aria-hidden="true"><img src="assets/brand/splash-illustration.png" alt=""></div>
 
 <div id="progressBar"></div>
 
 <header class="site-header">
-  <div class="live-ticker">
-    <div class="ticker-inner">
-      <div class="live-badge"><span class="live-dot-blink"></span>Son Dakika</div>
-      <div class="ticker-track-wrap"><div class="ticker-track" id="tickerTrack">Yükleniyor...</div></div>
-      <div class="ticker-right" id="tickerStats"></div>
-    </div>
-  </div>
   <div class="header-inner">
-    <div class="logo" id="logoHome"><img class="logo-icon" src="assets/brand/icon-transparent@2x.png" alt="Küresel Haberler" width="36" height="36"> <span class="full">Küresel<span class="dot">Haberler</span></span></div>
+    <div class="logo" id="logoHome"><img class="logo-wordmark" src="assets/brand/logo-horizontal-white@2x.png" alt="Küresel Haberler" width="210" height="52"></div>
     <div class="search-box" id="searchBoxTrigger">
       <span class="msr search-icon">search</span>
       <input id="searchInput" type="text" placeholder="Haber ara..." readonly>
@@ -830,6 +917,13 @@
       <div class="live-show-badge"><span class="msr" style="font-size:14px">podcasts</span>Podcast</div>
     </div>
   </nav>
+  <div class="live-ticker">
+    <div class="ticker-inner">
+      <div class="live-badge"><span class="msr">bolt</span>Son Dakika</div>
+      <div class="ticker-track-wrap"><div class="ticker-track" id="tickerTrack">Günün öne çıkan haberleri</div></div>
+      <div class="ticker-right" id="tickerStats"></div>
+    </div>
+  </div>
 </header>
 
 <div id="breadcrumbWrap"></div>
@@ -1311,7 +1405,7 @@ function renderHome() {
   const sideItems = rest.slice(0, 4);
   const gridItems = rest.slice(4);
 
-  let main = `<div class="featured">
+  const feature = `<div class="featured">
     <div class="featured-main" data-id="${top.id}">
       ${top.imageUrl ? `<img src="${escapeHtml(top.imageUrl)}" alt="">` : ''}
       <div class="grad"></div>
@@ -1335,12 +1429,10 @@ function renderHome() {
     </div>
   </div>`;
 
-  if (gridItems.length > 0) {
-    main += `<div class="section-title">Son Dakika</div>`;
-    main += feedSectionsHtml(gridItems);
-  }
+  let main = `<div class="section-title">Son Dakika</div>`;
+  if (gridItems.length > 0) main += feedSectionsHtml(gridItems);
 
-  const html = `<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
+  const html = `${feature}<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
 
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
@@ -1376,7 +1468,6 @@ function renderAboutPage() {
   renderCategoryNav(null);
 
   document.getElementById('content').innerHTML = `<div class="fade-in" style="max-width:720px">
-    <img src="assets/brand/logo-vertical-white@2x.png" alt="Küresel Haberler" style="height:150px;width:auto;display:block;margin:0 auto 24px;background:var(--navy);border-radius:16px;padding:20px">
     <div class="page-heading"><span class="msr" style="color:var(--gold)">info</span>Hakkımızda</div>
     <div class="article-body" style="margin-top:18px">
       <p><strong>${SITE_NAME}</strong>, farklı yayıncıların kamuya açık RSS içeriklerinden ve tarama kuralları izin verdiğinde
@@ -1400,7 +1491,7 @@ function renderCategoryNav(activeName) {
 
   const nav = document.getElementById('categoryNav');
   const allBtn = `<div class="cat-btn ${!activeName ? 'active' : ''}" data-nav="">
-    <span class="msr" style="font-size:16px;vertical-align:-3px">grid_view</span> Tümü</div>`;
+    <span class="msr" style="font-size:16px;vertical-align:-3px">home</span> Ana Sayfa</div>`;
   nav.innerHTML = allBtn + uniqueCats.map(c =>
     `<div class="cat-btn ${c === activeName ? 'active' : ''}" data-nav="${escapeHtml(c)}">${escapeHtml(c)}</div>`
   ).join('');
