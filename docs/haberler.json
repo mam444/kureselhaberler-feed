@@ -1,6 +1,43 @@
 {
-  "generatedAt": "2026-11-19T16:56:46.167Z",
+  "generatedAt": "2026-11-19T17:08:03.129Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-19T17:03:23.000Z",
+      "category": "World",
+      "lang": "en"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/bagcilar-tem-otoyolunda-zincirleme-kaza-yaralilar-var-7704034",
+      "headline": "Bağcılar TEM Otoyolu'nda zincirleme kaza; yaralılar var",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1573068111653-f18bef611c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTUxMDc5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Lucian Alexe",
+        "photographerUrl": "https://unsplash.com/@lucian_alexe",
+        "unsplashUrl": "https://unsplash.com/photos/orange-and-white-traffic-cone-p3Ip8U0eNNM"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "İstanbul Bağcılar TEM Otoyolu'nda, aralarında bir midibüsün de bulunduğu toplam dört aracın karıştığı zincirleme bir trafik kazası yaşandı.\n\nMeydana gelen kaza sonucunda yaralanan kişiler olduğu belirtildi. Olay yerine sevk edilen sağlık ekipleri, yaralılara ilk müdahaleyi olay yerinde yaptı.\n\nYaralılar, yapılan ilk müdahalelerin ardından ambulanslarla hastanelere kaldırılarak tedavi altına alındı.",
+      "highlights": [
+        "Bağcılar TEM Otoyolu'nda 4 araç kazaya karışı",
+        "Kazada yaralananlar hastaneye kaldırıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/bagcilar-tem-otoyolunda-zincirleme-kaza-yaralilar-var-7704034",
+      "publishedAt": "2026-11-19T17:02:37.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
       "headline": "Susan Smith denied parole again 32 years after drowning her two sons",
@@ -41,7 +78,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/savunma-sanayii-baskani-haluk-gorgun-kizilelma-artik-kahraman-guvenlik-guclerimizin-emrinde-7704030",
       "publishedAt": "2026-11-19T16:49:40.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-19T17:04:19.344Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
@@ -8718,7 +8756,7 @@
       "publishedAt": "2026-11-17T07:03:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T10:54:30.513Z"
+      "imageSearchAttemptedAt": "2026-11-19T17:04:19.344Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
