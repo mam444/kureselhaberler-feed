@@ -921,7 +921,6 @@
     <div class="ticker-inner">
       <div class="live-badge"><span class="msr">bolt</span>Son Dakika</div>
       <div class="ticker-track-wrap"><div class="ticker-track" id="tickerTrack">Günün öne çıkan haberleri</div></div>
-      <div class="ticker-right" id="tickerStats"></div>
     </div>
   </div>
 </header>
@@ -1185,9 +1184,7 @@ function widgetSkeletonHtml() {
 function renderSidebar(opts) {
   const relatedHtml = opts && opts.relatedTo ? relatedWidgetHtml(opts.relatedTo) : '';
   return `<aside class="sidebar">
-    <div class="widget-card" id="marketsWidget">${widgetSkeletonHtml()}</div>
     <div class="widget-card" id="trendingWidget">${trendingWidgetHtml()}</div>
-    <div class="widget-card" id="weatherWidget">${widgetSkeletonHtml()}</div>
     ${relatedHtml}
   </aside>`;
 }
@@ -1360,7 +1357,7 @@ function paintWeatherWidget() {
       weatherCityIndex = parseInt(sel.value, 10);
       weatherPromise = fetchWeatherFor(WEATHER_CITIES[weatherCityIndex]);
       el.innerHTML = weatherWidgetTitle() + widgetSkeletonHtml();
-      ensureWeatherLoaded();
+
     });
   }
 }
@@ -1436,8 +1433,7 @@ function renderHome() {
 
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
-  ensureMarketsLoaded();
-  ensureWeatherLoaded();
+
 }
 
 function renderCategoryPage(name) {
@@ -1458,8 +1454,7 @@ function renderCategoryPage(name) {
   const html = `${heading}<div class="home-layout" style="margin-top:18px"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
-  ensureMarketsLoaded();
-  ensureWeatherLoaded();
+
 }
 
 function renderAboutPage() {
@@ -1732,8 +1727,6 @@ function openArticle(id) {
   `;
 
   bindCardClicks(content);
-  ensureMarketsLoaded();
-  ensureWeatherLoaded();
 
   // Reactions
   const reactionsRow = document.getElementById('reactionsRow');
@@ -2034,8 +2027,6 @@ initBell();
 initKbdHint();
 // Bant, üst menü her sayfada (haber detayında dahi) göründüğünden, sadece
 // ana sayfa/kategori render'ında değil burada, açılışta bir kez tetiklenir.
-ensureMarketsLoaded();
-ensureWeatherLoaded();
 
 fetch(freshJsonUrl(FEED_URL), { cache: 'no-store' })
   .then(r => r.ok ? r.json() : Promise.reject(new Error('Haber akışı alınamadı')))
