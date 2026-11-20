@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-20T16:25:15.979Z",
+  "generatedAt": "2026-11-20T16:36:28.246Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/otomobil/renault-boreal-hybrid-e-tech-4x4-satisa-cikti-3495894",
+      "headline": "Renault Boreal hybrid E-Tech 4x4 satışa çıktı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1613035492264-518075adf7e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8UmVuYXVsdCUyMEJvcmVhbCUyMGh5YnJpZCUyMEUtVGVjaCUyMDR4NCUyMHNhdCVDNCVCMSVDNSU5RmElMjAlQzMlQTclQzQlQjFrdCVDNCVCMXxlbnwxfDB8fHwxNzk1MTkyNTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Peter Varga",
+        "photographerUrl": "https://unsplash.com/@pv_cargraphy",
+        "unsplashUrl": "https://unsplash.com/photos/orange-honda-car-on-road-during-daytime-P1atr7HJ8Zs"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "150 hp birleşik güç üreten yeni versiyon; arkaya yerleştirilen elektrikli motoru, beş farklı sürüş modu ve gelişmiş arazi teknolojileriyle farklı sürüş koşullarına uyum sağlıyor.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/otomobil/renault-boreal-hybrid-e-tech-4x4-satisa-cikti-3495894",
+      "publishedAt": "2026-11-20T16:34:42.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+      "headline": "Trump, Xi ve Putin ile yaptığı görüşmenin ardından basın toplantısı düzenliyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1612278920597-4d397a111e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NTE5MjUyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-standing-beside-woman-in-black-coat-gtOXLwM248A"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "ABD Başkanı Donald Trump, Asya'daki dört günlük gezisini tamamlayarak Washington'a döndü. Bu ziyaret kapsamında Çin Devlet Başkanı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin ile ilk kez üçlü bir zirvede bir araya gelen Trump, Beyaz Saray'da bir basın toplantısı düzenleyecek.\n\nÇin'in Shenzhen kentinde perşembe günü gerçekleştirilen dönüm noktası niteliğindeki üçlü görüşmede liderler, \"nükleer bir savaşın kazanılamayacağını ve asla yapılmaması gerektiğini\" kabul ettiler. Görüşmeleri \"gerçekten tarih yazmak\" olarak nitelendiren ABD başkanı, Çin'deki görüşmelerin ardından basın toplantısı düzenlememişti.\n\nFRANCE 24 tarafından yayımlanan habere göre basın toplantısının EST saatiyle 11:30'da (Paris saatiyle 17:30) canlı olarak izlenebileceği belirtildi. Donald Trump, 19 Kasım 2026 tarihinde dört günlük Asya gezisini tamamlayarak Air Force One uçağına bindi.",
+      "highlights": [
+        "Trump, Xi ve Putin ile ilk kez üçlü bir zirvede bir araya geldi",
+        "Liderler nükleer savaşın kazanılamayacağını ve asla yapılmaması gerektiğini kabul etti",
+        "Basın toplantısı Beyaz Saray'da gerçekleştirilecek"
+      ],
+      "externalUrl": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
+      "publishedAt": "2026-11-20T16:30:04.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/20-kasim-2026-cuma-gununun-son-dakika-onemli-gelismeleri-cnn-turk-16-30-bulteni-3495884",
       "headline": "20 Kasım 2026 Cuma Gününün Son Dakika Önemli Gelişmeleri",
@@ -22,7 +64,8 @@
       "externalUrl": "https://www.cnnturk.com/turkiye/20-kasim-2026-cuma-gununun-son-dakika-onemli-gelismeleri-cnn-turk-16-30-bulteni-3495884",
       "publishedAt": "2026-11-20T16:27:16.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T16:34:28.979Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/arts24/20261120-blade-runner-2099-rivals-the-big-tv-shows-to-watch-this-month",
@@ -45,7 +88,8 @@
       "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261120-blade-runner-2099-rivals-the-big-tv-shows-to-watch-this-month",
       "publishedAt": "2026-11-20T16:17:10.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T16:34:28.979Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/bakan-bolattan-umit-ozlalenin-iddialarina-yanit-belgelerle-curuttuk-43-yillik-helal-ve-tertemiz-tasarrufumun-kaynagi-belli-7704669",
@@ -13786,51 +13830,6 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
       "publishedAt": "2026-11-16T11:40:25.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
-      "headline": "Silikon Vadisi Nvidia'nın Eski CEO'su Jensen Huang'a Neden Destek Veriyor?",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDgyODMxNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Andrew Stutesman",
-        "photographerUrl": "https://unsplash.com/@drwmrk",
-        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "Elon Musk dahil olmak üzere Huang'ın meslektaşları, onun iş zekasını ve ABD'nin yapay zeka hedeflerine yönelik potansiyel riskleri övdü.",
-      "highlights": [
-        "Elon Musk ve diğer meslektaşları Huang'ı övdü",
-        "İş zekası ve ABD'nin yapay zeka hedeflerine yönelik riskler vurgulandı"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/why-silicon-valley-is-backing-nvidia-ex-ceo-jensen-huang-after-his-ouster?traffic_source=rss",
-      "publishedAt": "2026-11-16T11:05:47.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/onlarca-liseli-genc-umraniyedeki-avmde-bulusup-birbirlerine-acimasizca-vurdular-o-anlar-kamerada-4873027",
-      "headline": "Ümraniye'deki AVM'de liseli gençlerin kavgası kameraya yansıdı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1759496434732-d3d48cab592c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c2hvcHBpbmclMjBtYWxsJTIwZmlnaHR8ZW58MXwwfHx8MTc5NDgyNjY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "rawkkim",
-        "photographerUrl": "https://unsplash.com/@rawkkim",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-past-a-store-entrance-with-mannequins-displayed-aYA3IcdyMcc"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İstanbul'un Ümraniye ilçesindeki bir alışveriş merkezinde buluşan liseli iki grup arasında kavga çıktı. Gençlerin birbirine tekme ve yumruklarla saldırdığı anlar cep telefonuyla kaydedilirken, olay vatandaşların tepkisini çekti.",
-      "highlights": [
-        "Ümraniye'deki AVM'de iki grup kavga etti",
-        "Gençler birbirine tekme ve yumrukla saldırdı",
-        "Olay anı cep telefonu kamerasıyla kaydedildi"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/onlarca-liseli-genc-umraniyedeki-avmde-bulusup-birbirlerine-acimasizca-vurdular-o-anlar-kamerada-4873027",
-      "publishedAt": "2026-11-16T10:57:12.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
