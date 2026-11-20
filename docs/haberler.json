@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:14:49.916Z",
+  "generatedAt": "2026-11-20T17:24:36.612Z",
   "articles": [
     {
       "id": "https://www.milliyet.com.tr/gundem/bakan-bolattan-yeni-partili-umit-ozlalenin-fon-iddialarina-yanit-43-yillik-helal-ve-tertemiz-tasarrufumun-kaynagi-belli-7704669",
@@ -44,6 +44,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
       "publishedAt": "2026-11-20T17:09:20.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "headline": "Siber Güvenlik Operasyonu İngiltere Süpermarketlerinin Soğutma Sistemlerine Yönelik Saldırıyı Engelledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604719312245-6d2c47114758?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c3VwZXJtYXJrZXQlMjBmcmlkZ2V8ZW58MXwwfHx8MTc5NTE5NTQ3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Franki Chamaki",
+        "photographerUrl": "https://unsplash.com/@franki",
+        "unsplashUrl": "https://unsplash.com/photos/brown-and-green-labeled-box-lot-GFPcR7N5CCE"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "İngiltere'de gizli bir devlet siber güvenlik operasyonunun, süpermarketler, depolar, restoranlar, benzin istasyonları ve stadyumlardaki buzdolabı ile donduruculara yönelik bir siber saldırıyı yakın zamanda engellediği ortaya çıktı. Bu gelişme, en az yedi Avrupa ülkesindeki süpermarket zincirlerinin siber saldırılardan etkilenmesinin ardından yaşandı. BBC'nin ilk kez duyurduğu ve Whitehall ile Ulusal Siber Güvenlik Merkezi'nin öncülük ettiği operasyon haberi, kıta Avrupası'nda milyonlarca euro zarara yol açan olayların ardından geldi. Paris yönetimi, ekim ayında Fransa'daki yüzlerce perakendeciyi etkileyen saldırılardan dolayı kamuoyu önünde İran'ı suçlamıştı. Ayrıca ağustos ayında en az altı ABD askeri üssünde yaşanan soğutucu arızalarının ardından Pentagon şüpheli bir siber saldırıyı soruşturmaktadır.\n\nOmega Solutions adlı danışmanlık firmasından Garry Turner-Smith, İngiltere merkezli cihazlardaki zafiyetin kötü niyetli kişilerce keşfedilip istismar edilmesi durumunda ciddi sonuçlar doğurabileceğini belirtti. Omega firması zafiyetin tespit edilmesinin ardından siber güvenlik danışmanlığı veren Pen Test Partners'ı inceleme için göreve çağırırken, her iki şirket de durumu üretici firma Resource Data Management'a bildirdi. Pen Test Partners'ın yönetici ortağı Ken Munro, zafiyetin bulunduğu gün bir perakende sektörü siber güvenlik etkinliğinde olması sayesinde Ulusal Siber Güvenlik Merkezi temsilcileriyle yüz yüze görüşebildiğini ifade etti. Bu gelişme; Ulusal Siber Güvenlik Merkezi, Çevre, Gıda ve Köyişleri Bakanlığı ile Gıda Standartları Ajansı ve perakendeciler arasında bilgilendirme toplantılarının başlamasına yol açtı.\n\nPen Test Partners, savunmasız cihazların sahiplerini de uyarmaya çalıştı ancak küçük mağazalardaki binlerce cihazın hâlâ korunmasız durumda olabileceği belirtildi. Şirket, yöntemin yayımlanmadığını, bu sayede küçük işletmelerin kontrol cihazlarını internetten çekmesi veya güncellenmiş yazılımı uygulaması için hâlâ zaman bulunduğunu aktardı. Bir Ulusal Siber Güvenlik Merkezi sözcüsü, kuruluşların olası ağ risklerini anlamalarını ve riskleri azaltmak için uygun önlemleri almalarını sağlamak amacıyla önemli bilgiler ve güvenlik tavsiyeleri paylaştıklarını açıkladı. Üretici firma RDM'nin baş yöneticisi Ged Evans, BBC'ye yaptığı açıklamada, zafiyetin olağan test çalışmalarını aşan bir test ortamında donanımın sökülmesiyle tespit edildiğini belirtti. Evans, sorunu çözmek için hızla hareket ettiklerini, ilk yama sürümlerini devreye soktuklarını ve müşterileriyle proaktif bir şekilde iletişime geçtiklerini kaydetti. RDM ayrıca yöneltilen yorum taleplerine yanıt vermedi. Bu arada ABD ordusunun da benzer olayları araştırdığı bildirildi.",
+      "highlights": [
+        "Gizli bir devlet siber güvenlik operasyonu İngiltere'deki süpermarket ve depoların soğutma sistemlerine yönelik bir saldırıyı engelledi.",
+        "Avrupa'da en az yedi ülkedeki süpermarket zincirleri ve Fransa'daki yüzlerce perakendeci siber saldırılardan etkilendi.",
+        "Ulusal Siber Güvenlik Merkezi, risklerin azaltılması için kuruluşlarla güvenlik tavsiyeleri paylaştı."
+      ],
+      "externalUrl": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
+      "publishedAt": "2026-11-20T17:08:14.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -1495,7 +1518,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:14:36.728Z",
-      "imageSearchAttemptedAt": "2026-11-20T11:14:36.728Z"
+      "imageSearchAttemptedAt": "2026-11-20T17:24:18.698Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
@@ -3830,15 +3853,15 @@
       "timeAgo": "2 dk önce",
       "body": "Şanlıurfa'da seyir halindeki lüks otomobilin motor bölümünde çıkan yangın, kısa sürede büyüyerek aracı alev topuna çevirdi. Yangına ilk müdahaleyi AFAD ekipleri yaparken, olay yerine gelen itfaiye ekiplerinin müdahalesiyle söndürülen otomobil kullanılamaz hale geldi. Yangına müdahalenin geciktiğini öne süren vatandaşlar, itfaiye ekiplerine tepki gösterdi.",
       "highlights": [
-        "Lüks otomobilin motor bölümünden dumanlar yükseldi ve alevler kısa sürede aracı sardı.",
-        "Bölgeye sevk edilen AFAD ekipleri yangın tüpleriyle müdahale ederken, itfaiye ekipleri alevleri söndürdü.",
-        "Yangının çıkış nedeninin belirlenmesi için inceleme başlatıldı."
+        "Lüks otomobilin motor kısmından dumanlar yükseldi",
+        "AFAD ekipleri yangın tüpleriyle müdahalede bulundu",
+        "Yangının çıkış nedenini belirlemek için inceleme başlatıldı"
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/luks-otomobil-kule-dondu-afad-mudahale-etti-otomobil-alevlere-teslim-olmaktan-kurtulamadi-4874538",
       "publishedAt": "2026-11-19T17:13:24.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T17:24:17.950Z",
+      "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
       "imageSearchAttemptedAt": "2026-11-20T12:04:27.072Z"
     },
     {
@@ -4099,7 +4122,7 @@
       "publishedAt": "2026-11-19T16:14:56.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T16:34:35.075Z"
+      "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/rusyanin-ukraynaya-yonelik-hava-saldirilarinda-2-kisi-oldu-21-kisi-yaralandi/4131261",
@@ -13822,29 +13845,6 @@
       "externalUrl": "https://www.aa.com.tr/tr/gundem/besiktastaki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlidan-14u-tutuklandi/4126645",
       "publishedAt": "2026-11-16T12:22:27.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/3-yil-sonra-gelen-karar-ayni-aileden-3-kisinin-oldugu-olayda-ceza-yagdi-7701823",
-      "headline": "Aynı aileden 3 kişinin öldüğü olayda ceza yağdı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1507823690283-48b0929e727b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bmF0dXJhbCUyMGdhcyUyMHBpcGV8ZW58MXwwfHx8MTc5NDgzMTkxNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Quinten de Graaf",
-        "photographerUrl": "https://unsplash.com/@quinten149",
-        "unsplashUrl": "https://unsplash.com/photos/metal-pipe-between-trees-at-daytime-L4gN0aeaPY4"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Akyazı'da 18 Şubat 2023'te karbonmonoksit gazından zehirlenen Zengin ailesinden 3 kişi hayatını kaybetti, oğulları yaralı kurtuldu. Bilirkişi raporunda asli kusurlu bulunan doğal gaz firması yetkilileri F.B. ve K.Y., taksirle ölüme neden olma suçundan ayrı ayrı 5 yıl 5 ay hapis cezasına çarptırıldı.",
-      "highlights": [
-        "Zengin ailesinden 3 kişi karbonmonoksit gazından zehirlenerek öldü",
-        "Doğal gaz firması yetkilileri F.B. ve K.Y. asli kusurlu bulundu",
-        "Sanıklara ayrı ayrı 5 yıl 5 ay hapis cezası verildi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/3-yil-sonra-gelen-karar-ayni-aileden-3-kisinin-oldugu-olayda-ceza-yagdi-7701823",
-      "publishedAt": "2026-11-16T12:21:47.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     }
   ],
