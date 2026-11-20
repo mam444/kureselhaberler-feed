@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T18:04:38.165Z",
+  "generatedAt": "2026-11-20T18:14:29.881Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/huseyin-likoglu-umit-ozlale-fon-sorusturmasini-sulandirmaya-calisiyor-hedef-ekonominin-15-temmuzu-hedef-turkiye-4874964",
+      "headline": "ABD'nin yeni drone fırlatma aracı sosyal medyada alay konusu oldu",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1677432766327-97b56c6abc0d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bWlsaXRhcnklMjBkcm9uZSUyMGxhdW5jaGVyfGVufDF8MHx8fDE3OTUxOTg0Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ketan Yeluri",
+        "photographerUrl": "https://unsplash.com/@yeluriketan",
+        "unsplashUrl": "https://unsplash.com/photos/a-small-gray-helicopter-flying-over-a-lush-green-hillside-RnVdIoCcQiU"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Amerikan ordusunun Almanya'daki bir tatbikatta tanıttığı yeni drone fırlatma aracı sosyal medyada gündem oldu. ABD'li yetkililerin R3NEGADE adını taşıyan kara aracının HIV3 tipinde 18 adet kamikaze İHA'yı aynı anda fırlatarak etkili operasyonlar yapma kapasitesine sahip olduğunu iddia ettiği bildirildi. Fakat aracın fırlatıcı mekanizmasının oldukça yavaş çalıştığı gözlemlendi. Türk sosyal medya kullanıcıları bu yeni lançerle ilgili olarak hırsına ve işlevine yönelik eleştirel yorumlar paylaştı.\n\nSöz konusu sistemin tanıtıldığı dönemde Türkiye de ASELSAN üretimi EJDERHA'nın 51 İHA'yı tek tuşla etkisiz hale getirdiği anlara ilişkin görüntüleri kamuoyuyla paylaştı. EJDERHA sisteminin gönderdiği büyük ölçekli elektromanyetik dalgalar sayesinde mermi kullanmadan hedefteki İHA'ları düşürebildiği aktarıldı. Görevini başarıyla yerine getiren EJDERHA'nın alanında dünyanın en iyisi olduğu ve rekoru elinde tuttuğu kaydedildi. 19 Kasım 2026 tarihinde paylaşılan bu gelişmeler savunma teknolojilerindeki farklı yaklaşımları gözler önüne serdi.",
+      "highlights": [
+        "ABD'nin Almanya'daki tatbikatta tanıttığı R3NEGADE isimli drone fırlatma aracı sosyal medyada eleştirildi.",
+        "Araç yetkililerin açıklamasına göre 18 adet kamikaze İHA'yı eşzamanlı fırlatabiliyor ancak sistemi yavaş bulunuyor.",
+        "Türkiye ise ASELSAN üretimi EJDERHA'nın 51 İHA'yı tek tuşla düşürdüğü anları aynı dönemde yayınlamıştı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/huseyin-likoglu-umit-ozlale-fon-sorusturmasini-sulandirmaya-calisiyor-hedef-ekonominin-15-temmuzu-hedef-turkiye-4874964",
+      "publishedAt": "2026-11-20T18:10:19.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/trump-iran-ile-anlasmayi-reddetim-akarkayit-fiyatlari-anlasmaya-bagli-7704708",
       "headline": "Trump'tan Çin'de Önemli Açıklamalar: İran ile Anlaşmayı Reddettim",
@@ -22,7 +45,8 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/trump-iran-ile-anlasmayi-reddetim-akarkayit-fiyatlari-anlasmaya-bagli-7704708",
       "publishedAt": "2026-11-20T18:02:06.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T18:14:22.565Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
@@ -38,11 +62,36 @@
       "timeAgo": "5 dk önce",
       "body": "Danimarka Başbakanlık ofisi tarafından yapılan açıklamaya göre, yetkililer Danimarka topraklarında bir Amerikan Ukrayna vatandaşını öldürme girişimini engelledi. Söz konusu suikast girişiminin Rus istihbarat servisleri tarafından tasarlandığı iddia edildi. Danimarka yayın kuruluşu DR'ın haberine göre bu gelişmenin ardından Rusya'nın savunma ataşesi Danimarka'dan sınır dışı edildi. Polis, suikast girişimiyle bağlantılı olarak yasaklı Danimarka çetesi \"Loyal to Familia\"nın üyesi olduğu öne sürülen iki kişinin tutuklandığını bildirdi. Danimarka'nın yaptığı bu duyuru, Avrupa ile Rusya arasındaki gerilimin yeniden yükseldiği bir dönemde geldi. Bu arada, Polonya Başbakanı'nın ülkesindeki askeri tatbikatlarla zamanlanmış muhtemel bir provokasyon olarak nitelendirdiği olayda, iki Rus füzesi ve şüpheli bir drone Polonya'ya düştü.",
       "highlights": [
-        "Danimarka'da bir Amerikan Ukrayna vatandaşına yönelik suikast girişimi engellendi.",
-        "Rus istihbaratının yönlendirdiği iddia edilen olayla ilgili iki kişi tutuklandı ve Rus savunma ataşesi sınır dışı edildi."
+        "Danimarka'da bir Amerikan Ukrayna vatandaşını öldürme girişimi engellendi.",
+        "Planın Rus istihbarat servisleri tarafından tasarlandığı iddia edildi.",
+        "Olayla ilgili iki kişi tutuklandı ve Rus savunma ataşesi sınır dışı edildi."
       ],
       "externalUrl": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
       "publishedAt": "2026-11-20T17:59:38.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T18:14:22.565Z"
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+      "headline": "Burnham AB ile Brexit Sonrası En Büyük Yakınlaşmayı Sağladı, Ticaret ve Genç Hareketliliği Anlaşmaları İmzalandı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RVUlMjBzdW1taXQlMjBCcnVzc2Vsc3xlbnwxfDB8fHwxNzk1MTcwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Guillaume Périgois",
+        "photographerUrl": "https://unsplash.com/@guillaumeperigois",
+        "unsplashUrl": "https://unsplash.com/photos/row-of-european-union-flags-0NRkVddA2fw"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "Brüksel'deki zirvede AB ve Birleşik Krallık arasında gıda ve içecek, emisyon ticareti ile gençlerin hareketliliğini kapsayan üç anlaşma duyuruldu. Bu kapsamda 100 bin genç Britanyalının AB'de yaşayıp çalışabilmesi, eğitim alabilmesi ve seyahat edebilmesi öngörülürken, Avrupalılara da İngiltere'de karşılıklı erişim hakkı tanınması kararlaştırıldı. Ancak anlaşmalar, İngiltere'nin Avrupalı öğrencilere yerel düzeyde öğrenim ücreti uygulamaması durumunda AB'nin bunları bloke edebileceği tehdidiyle altı ay içinde raydan çıkma riskiyle karşı karşıya kaldı.\n\nBaşbakan anlaşmaların tamamlandığını, hafta sonu veya önümüzdeki hafta parlamentoya sunulacağını belirterek uygulamada bir karışıklık olmadığını savundu. Avrupa Komisyonu Başkanı Ursula von der Leyen ise anlaşmazlığı küçümseyerek bir çözüm bulunacağına olan güvenini dile getirdi. Anlaşmanın İngiltere'nin GSYH'sine yüzde 0,5 oranında, yani İngiliz ekonomisine 17 milyar sterlinlik bir katkı sağlayacağı ifade edildi.\n\nBrüksel'de karşı basın toplantısı düzenleyen Nigel Farage gibi siyasi muhalefet temsilcileri, başbakanın saf davranarak AB tarafından öğrenim ücreti indirimleri konusunda köşeye sıkıştırıldığını iddia etti. Öte yandan Avrupa Konseyi Başkanı António Costa, İngiltere'yi en yakın komşu ve doğal ortak olarak nitelendirerek aynı yönde ilerlediklerini vurguladı.\n\nGizli bir AB belgesine göre, Avrupa Konseyi ve Komisyonu, tüm öğrenciler için öğrenim ücretlerinde ulusal muamele sağlanmadığı sürece bu anlaşmaların yürürlüğe girmeyeceği yönünde bir deklarasyon üzerinde uzlaştı. Ayrıca gıda ve içecek ile emisyon ticareti anlaşmaları, İngiltere'nin AB kurallarına uyum sağlamasını gerektirirken, İngiliz uzmanların oy hakkı olmaksızın ilgili AB toplantılarına davet edileceği belirtildi.",
+      "highlights": [
+        "AB ve İngiltere arasında ticaret, emisyon ve genç hareketliliğini içeren üç anlaşma imzalandı.",
+        "Anlaşmalar, Avrupa'dan gelen öğrencilere İngiltere'de yerel düzeyde öğrenim ücreti uygulanmaması halinde altı ay içinde engellenme tehlikesiyle karşı karşıya.",
+        "Yeni düzenlemelerin İngiliz ekonomisine 17 milyar sterlinlik bir katkı sağlaması hedefleniyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
+      "publishedAt": "2026-11-20T17:57:10.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -4053,7 +4102,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
-      "imageSearchAttemptedAt": "2026-11-20T12:04:27.072Z"
+      "imageSearchAttemptedAt": "2026-11-20T18:14:22.565Z"
     },
     {
       "id": "https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks",
@@ -4381,7 +4430,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T16:14:35.299Z",
-      "imageSearchAttemptedAt": "2026-11-20T12:04:27.072Z"
+      "imageSearchAttemptedAt": "2026-11-20T18:14:22.565Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664",
@@ -13813,51 +13862,6 @@
       "externalUrl": "https://www.haberturk.com/gundem/son-dakika-haberler-sanliurfa-ve-hakkaride-566-kilo-uyusturucu-madde-ele-gecirildi-3927714",
       "publishedAt": "2026-11-16T12:40:04.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/bursada-ilginc-olay-dukkanini-kapatti-kurtuldum-deyip-lokma-dagitti-43380263",
-      "headline": "Bursa'da Dükkanını Kapatan Esnaftan İlginç Kutlama",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1646627927874-be8c13d0ae1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDc2OTUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rubaitul Azad",
-        "photographerUrl": "https://unsplash.com/@rubaitulazad",
-        "unsplashUrl": "https://unsplash.com/photos/a-gold-letter-g-on-a-black-background-sjpVVNpRdZ8"
-      },
-      "timeAgo": "36 dk önce",
-      "body": "Bursa'da kebapçılık yapan Yasin Yıldırım, kıraathane işleten komşusuyla yaşadığı park yeri tartışmasının ardından dükkanını kapattı. Seyyar çalışmaya başlayan Yıldırım, komşusundan kurtulduğunu belirterek lokma dağıttı.",
-      "highlights": [
-        "Komşusuyla park yeri tartışması yaşadı",
-        "Dükkanını kapatıp seyyar çalışmaya başladı",
-        "Komşusundan kurtulduğunu söyleyip lokma dağıttı"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/bursada-ilginc-olay-dukkanini-kapatti-kurtuldum-deyip-lokma-dagitti-43380263",
-      "publishedAt": "2026-11-16T12:39:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
-      "headline": "İngiliz çiftçiler, olası İngiltere-AB anlaşmasının Brexit sonrası ticareti canlandırmasını umuyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDc2ODI4NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Andrew Stutesman",
-        "photographerUrl": "https://unsplash.com/@drwmrk",
-        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Al Jazeera'den Charlie Angela, Sussex'te önerilen bir İngiltere-AB anlaşmasının ticaret engellerini hafifletmesini umut eden bir çiftçiyle görüştü.",
-      "highlights": [
-        "Al Jazeera'den Charlie Angela Sussex'teki bir çiftçiyle görüştü",
-        "Çiftçi önerilen bir İngiltere-AB anlaşmasının ticaret engellerini hafifletmesini umuyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
-      "publishedAt": "2026-11-16T12:38:20.000Z",
-      "category": "World",
       "lang": "tr"
     }
   ],
