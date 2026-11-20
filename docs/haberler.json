@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-20T09:54:44.603Z",
+  "generatedAt": "2026-11-20T10:05:20.929Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/emine-erdogandan-dunya-cocuk-haklari-gunu-mesaji-7704507",
+      "headline": "Emine Erdoğan'dan Dünya Çocuk Hakları Günü mesajı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1536825919521-ab78da56193b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2hpbGRyZW4lMjByaWdodHN8ZW58MXwwfHx8MTc5NTE2OTExMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/three-children-holding-hands-standing-on-grasses-97Rpu-UmCaY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Emine Erdoğan, Dünya Çocuk Hakları Günü dolayısıyla sosyal medya hesabından bir mesaj yayımladı. İnsanlığın savaş ve çatışma bölgelerindeki çocuklara daha adil bir dünya borçlu olduğunu belirten Erdoğan, çocukların arkadaşlarıyla güven içinde oyun oynayabildiği, ertesi güne korkmadan uyandığı ve geleceğe dair hayal kurabildiği bir düzenin önemine dikkat çekti.\n\nGazze'deki çocukların bu sevinçleri yaşayacak ömrü bulamadığını vurgulayan Erdoğan, bir çocuğun yaşama hakkı söz konusu olduğunda sesini duyurması gerekenin çocuklar değil, bu hakkı savunmakla yükümlü olan büyükler olduğunu ifade etti.\n\nGazze'den başlayarak nerede bir çocuğun hayatı tehlikedeyse veya çocukluğu elinden alınıyorsa o haksızlığı sona erdirmek için güçlerin birleştirilmesi gerektiğini belirten Erdoğan, 20 Kasım Dünya Çocuk Hakları Günü'nün her çocuğun güven ve huzur içinde yaşadığı günlerin başlangıcı olmasını diledi.",
+      "highlights": [
+        "İnsanlık, savaş ve çatışma bölgelerindeki çocuklara daha adil bir dünya borçlu.",
+        "Gazze'de çocuklar bu sevinçleri yaşayacak ömrü bulamıyor.",
+        "Sesini duyurmak zorunda kalan çocuk değil, o hakkı savunmakla yükümlü olan büyüklerdir."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/emine-erdogandan-dunya-cocuk-haklari-gunu-mesaji-7704507",
+      "publishedAt": "2026-11-20T10:03:12.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+      "headline": "Rusya'dan Kiev köprülerine misilleme saldırısı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1429041966141-44d228a42775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YnJpZGdlJTIwYXR0YWNrfGVufDF8MHx8fDE3OTUxNjkwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Modestas Urbonas",
+        "photographerUrl": "https://unsplash.com/@modestasu",
+        "unsplashUrl": "https://unsplash.com/photos/golden-gate-bridge-san-francisco-california-vj_9l20fzj0"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Rusya, Kiev'deki köprülere yönelik misilleme niteliğinde bir füze ve roket saldırısı gerçekleştirdi. Gerçekleşen bu saldırı, Vladimir Putin'in Ukrayna'nın sembolik Kırım köprüsüne düzenlediği saldırıya karşılık olarak \"ağır\" ve \"acı verici\" bir yanıt verme vaadinin hemen ardından geldi. Bölgede yaşanan gelişmeler ve saldırının yarattığı hasar konusundaki detaylar henüz sınırlı kalırken, taraflar arasındaki gerilimin bu hamleyle birlikte tırmanmaya devam ettiği bildirildi. Yetkililer ve kaynaklar tarafından sağlanan bilgiler çerçevesinde, söz konusu misilleme harekatının stratejik köprüleri hedef aldığı doğrulandı.",
+      "highlights": [
+        "Rusya Kiev köprülerine misilleme saldırısı düzenledi",
+        "Saldırı Putin'in acı verici yanıt vaadini izledi",
+        "Hedefte sembolik Kırım köprüsüne yapılan Ukrayna saldırısı vardı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+      "publishedAt": "2026-11-20T09:54:00.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
       "headline": "Marmara'da Akılalmaz Manzara: ‘Babamızı Dondurma Dolabında Saklıyoruz’",
@@ -22,7 +68,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
       "publishedAt": "2026-11-20T09:52:41.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T10:04:43.700Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/fransiz-basini-turkiyeyi-konusuyor-savunmada-dengeler-degisti-185-ulkeye-yayilan-guc-7704379",
@@ -13734,51 +13781,6 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
       "publishedAt": "2026-11-15T00:30:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "headline": "SpaceX'in Starship roketi fırlatma rampası kolları tarafından yakalandı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1711919600878-b5d9e77d3357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8U3BhY2VYJTIwU3RhcnNoaXB8ZW58MXwwfHx8MTc5NDcwMzkxOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sven Piper",
-        "photographerUrl": "https://unsplash.com/@svenpiper",
-        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-sign-that-says-spacex-on-it-z4El4WAsF8w"
-      },
-      "timeAgo": "38 dk önce",
-      "body": "SpaceX yetkilileri, mekanik kollarla yapılan bu yakalamanın Starship'in tam yeniden kullanılabilirliğini gösterdiğini belirtiyor. Bu durum, hızlı ve düşük maliyetli geri dönüşüm için büyük önem taşıyor.",
-      "highlights": [
-        "Starship fırlatma rampası kolları tarafından yakalandı",
-        "Yakalama işlemi mekanik kollarla gerçekleştirildi",
-        "Tam yeniden kullanılabilirlik hızlı ve düşük maliyetli geri dönüşüm için kritik"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "publishedAt": "2026-11-15T00:14:22.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-mbappe-yaniti-turkiye-macinda-oynayacak-mi-43378649",
-      "headline": "Zinedine Zidane'dan Mbappe Yanıtı: Türkiye Maçında Oynayacak mı?",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1602773230887-4537295a308e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDY4OTg2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Claudio Schwarz",
-        "photographerUrl": "https://unsplash.com/@purzlbaum",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-near-store-during-daytime-iqwHGxtlB4U"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Fransa Milli Takımı Teknik Direktörü Zinedine Zidane, tüm oyuncuların hazır olduğunu belirterek, ne yapmaları gerektiğini bildiklerini ve yarınki hedeflerinin işlerini tamamlayıp üst tura çıkmak olduğunu ifade etti.",
-      "highlights": [
-        "Tüm oyuncularımız hazır",
-        "İşimizi tamamlayıp üst tura çıkmalıyız"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-mbappe-yaniti-turkiye-macinda-oynayacak-mi-43378649",
-      "publishedAt": "2026-11-14T19:07:17.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
