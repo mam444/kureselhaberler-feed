@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-20T17:35:03.286Z",
+  "generatedAt": "2026-11-20T17:45:27.574Z",
   "articles": [
+    {
+      "id": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-dolandiricilik-operasyonunda-12-tutuklama-964001.html",
+      "headline": "Ankara merkezli dolandırıcılık operasyonunda 12 tutuklama",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1600081232007-19c495bef255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTUxOTY3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ethan Wilkinson",
+        "photographerUrl": "https://unsplash.com/@ethanrwilkinson",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-green-adidas-jersey-shirt-and-black-hat-UJdx3XM3xao"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Ankara merkezli olarak 5 ilde gerçekleştirilen dolandırıcılık operasyonunda gözaltına alınan şüphelilerin adli süreçleri tamamlandı. Operasyon kapsamında gözaltına alınan toplam 15 kişiden 12'si çıkarıldıkları mahkemece tutuklandı.\n\nYetkililer tarafından 20 Kasım 2026 tarihinde duyurulan operasyonun detaylarına göre, soruşturma süreci devam ediyor. Gözaltına alınan diğer şüphelilerin durumuna ilişkin ise başka bir ayrıntı paylaşılmadı.",
+      "highlights": [
+        "Ankara merkezli 5 ilde operasyon düzenlendi",
+        "15 şüpheliden 12'si tutuklandı"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-dolandiricilik-operasyonunda-12-tutuklama-964001.html",
+      "publishedAt": "2026-11-20T17:39:00.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
       "headline": "Oruç Reis Pakistan'da Petrol ve Doğal Gaz Arayacak",
@@ -15,12 +37,37 @@
       "timeAgo": "şimdi",
       "body": "Türkiye petrol ve doğal gaz aramacılığında faaliyet alanını genişletmeye devam ediyor. Ülkenin yerli ve millî sismik araştırma gemisi Oruç Reis, Pakistan sularında görev yapmak üzere bölgeye ulaştı. \n\nGerçekleştirilmesi beklenen keşiflerin hem Türkiye ekonomisine hem de Pakistan ekonomisine önemli katkılar sağlaması hedefleniyor. \n\nPakistan'a varan millî sismik araştırma gemisi CNN TÜRK tarafından görüntülendi. Muhabirler Fulya Öztürk ve Halil Kahraman, Oruç Reis gemisinde görev yapan emekçilerle bir araya gelerek görüştü.",
       "highlights": [
-        "Oruç Reis gemisi Pakistan'da petrol ve doğal gaz arayacak",
-        "Gemiyi ve çalışanlarını CNN TÜRK ekibi görüntüledi"
+        "Yerli ve millî sismik araştırma gemisi Oruç Reis Pakistan'da göreve başlıyor",
+        "Geminin Pakistan sularında petrol ve doğal gaz arayacağı belirtiliyor",
+        "Oruç Reis'i Pakistan'da CNN TÜRK ekibi görüntüleyerek emekçilerle konuştu"
       ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
       "publishedAt": "2026-11-20T17:38:58.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T17:44:18.737Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "headline": "Anthropic Hisseleri Geniş Çaplı Teknoloji Satışlarının Devam Etmesiyle Düştü",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c3RvY2slMjBtYXJrZXR8ZW58MXwwfHx8MTc5NTE5NjcwNHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Nick Chong",
+        "photographerUrl": "https://unsplash.com/@nick604",
+        "unsplashUrl": "https://unsplash.com/photos/screen-showing-bitcoin-trading-chart-N__BnvQ_w18"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Anthropic'in hisseleri, borsadaki güçlü ilk günün ardından, geniş çaplı teknoloji hisse senetleri satışlarının derinleşmesiyle birlikte ilk fiyatına doğru geriledi.\n\nCuma günü öğle saatlerinde S&P 500 endeksi %2'den fazla, Dow Jones Industrial Average ise %0.7 oranında değer kaybetti. Her iki ABD endeksi de son zirvelerinden %10 veya daha fazla düşüş anlamına gelen düzeltme bölgesine geriledi. Teknoloji ağırlıklı Nasdaq Composite Endeksi de Cuma günü işlemlerin ortasında %3.4'ten fazla düştü.\n\nClaude sohbet botunun üreticisi olan yapay zeka şirketi Anthropic, Perşembe günü Nasdaq borsasındaki ilk işlem gününde rekor düzeyde 81 milyar dolar toplamıştı. Şirketin hisseleri ilk gün %17 artışla 97.17 dolardan kapanmış ancak Cuma günü öğle saatlerine doğru %12'den fazla düşerek halka arz fiyatı olan 83 dolara yakın bir seviye olan yaklaşık 85 dolara gerilemişti.\n\nAlphaSense piyasa istihbaratı firmasından stratejist Ed Moya, Anthropic'in halka arzının daha geniş yapay zeka piyasasına olan güveni yeniden tesis etmiş gibi görünmediğini belirtti. Moya, yatırımcıların büyüme için ne kadar ödemeye istekli olduklarını sorguladığını ifade etti.\n\nABD'deki diğer büyük teknoloji şirketlerinin hisseleri de düşüş yaşadı. Nvidia ve SpaceX %6'dan fazla değer kaybederken, Tesla hisseleri %3'ten fazla ve Meta %3.4 oranında düştü. Avrupa ve Asya'daki ana borsa endekslerinde de benzer şekilde düşüşler görüldü.",
+      "highlights": [
+        "Anthropic hisseleri ilk işlem gününün ardından %12'den fazla düşerek 85 dolar seviyesine geriledi.",
+        "S&P 500 ve Dow Jones endeksleri düzeltme bölgesine yaklaşırken teknoloji hisselerinde satışlar derinleşti.",
+        "Nvidia, SpaceX, Tesla ve Meta gibi büyük ABD teknoloji şirketlerinin hisselerinde de düşüşler kaydedildi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-20T17:36:29.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -106,14 +153,15 @@
       "timeAgo": "28 dk önce",
       "body": "İngiltere ve Avrupa Birliği, Brexit sonrasındaki ilişkileri yeniden tesis etmek amacıyla tarihi bir anlaşmaya vardı. Brüksel'de gerçekleştirilen zirvenin ardından duyurulan bu yeni uzlaşma, taraflar arasında ilişkilerin onarılması adına taze bir başlangıç olarak değerlendiriliyor. Varılan anlaşma kapsamında gıda ihracatı kontrollerinin kolaylaştırılması, gençlerin hareketliliği ve karbon emisyon kotası gibi konular yer alıyor. İngiltere ile AB arasındaki bu önemli gelişme, tarafların iş birliğini güçlendirme yönünde attığı somut adımlardan biri olarak kayda geçti.",
       "highlights": [
-        "İngiltere ve AB, Brexit sonrası ilişkileri yeniden kurmak için anlaştı.",
-        "Brüksel'deki zirvenin ardından yeni bir anlaşma duyuruldu.",
-        "Anlaşma gıda ihracatı, genç hareketliliği ve karbon emisyon kotalarını kapsıyor."
+        "Birleşik Krallık ve AB ilişkileri yeniden kurmak için anlaştı",
+        "Anlaşma Brüksel'deki zirvenin ardından sağlandı",
+        "Mutabakat gıda ihracatı, genç hareketliliği ve karbon kotalarını kapsıyor"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
       "publishedAt": "2026-11-20T17:06:59.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T17:44:18.737Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/son-dakika-bakan-uraloglu-hgsde-icra-takipleri-durduruldu-3495903",
@@ -1518,7 +1566,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:34:57.104Z",
-      "imageSearchAttemptedAt": "2026-11-20T11:34:57.104Z"
+      "imageSearchAttemptedAt": "2026-11-20T17:44:18.737Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/taskoprude-sis-etkili-oldu-dron-ile-goruntulendi-kastamonu-taskopru-haberleri-4874826",
@@ -4423,7 +4471,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T15:34:22.171Z",
-      "imageSearchAttemptedAt": "2026-11-20T11:34:57.104Z"
+      "imageSearchAttemptedAt": "2026-11-20T17:44:18.737Z"
     },
     {
       "id": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
@@ -13804,50 +13852,6 @@
       "externalUrl": "https://www.yenisafak.com/video/gundem/babanin-uyusturucu-feryadi-yurekleri-dagladi-insan-evladinin-cezaevinde-kalmasina-sevinebilir-mi-4873080",
       "publishedAt": "2026-11-16T12:26:46.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/spor/son-dakika-galatasaray-samsunspor-maci-rams-park-in-bozuk-zemini-yuzunden-basaksehir-de-oynanacak-3927709",
-      "headline": "Galatasaray-Samsunspor Maçı Başakşehir'de Oynanacak",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c3RhZGl1bSUyMHNvY2NlcnxlbnwxfDB8fHwxNzk0ODMyNDg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mario Klassen",
-        "photographerUrl": "https://unsplash.com/@marioklassen",
-        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Galatasaray ile Samsunspor arasında oynanacak müsabaka, RAMS Park Stadyumu'nun zemininin elverişsiz olması nedeniyle Başakşehir Fatih Terim Stadyumu'na alındı. Karşılaşma bu statta oynanacak.",
-      "highlights": [
-        "Galatasaray-Samsunspor maçı Başakşehir Fatih Terim Stadyumu'nda oynanacak",
-        "RAMS Park'ın zemini elverişsiz olduğu için yer değiştirildi"
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/son-dakika-galatasaray-samsunspor-maci-rams-park-in-bozuk-zemini-yuzunden-basaksehir-de-oynanacak-3927709",
-      "publishedAt": "2026-11-16T12:25:52.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/genc-sudenazin-kahreden-olumu-son-yolculuguna-ugurlandi-7701828",
-      "headline": "Genç Sudenaz'ın kahreden ölümü! Son yolculuğuna uğurlandı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1654130015839-2cdfc163ec87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZnVuZXJhbCUyMGdyYXZlfGVufDF8MHx8fDE3OTQ4MzIxNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Bunting Kargbo",
-        "photographerUrl": "https://unsplash.com/@buntingamir",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-men-standing-around-a-wooden-bench-5sv7qUjPW_g"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Murathan M.A.'nın kullandığı hafif ticari aracın TIR'a çarpması sonucu ağır yaralanan Sudenaz Yiğit, hastanede hayatını kaybetti. Bursa Uludağ Üniversitesi öğrencisi Yiğit için Ankara'da cenaze töreni düzenlendi. Öğle namazının ardından cenazesi Karşıyaka Mezarlığı'nda toprağa verildi.",
-      "highlights": [
-        "Sudenaz Yiğit trafik kazasında hayatını kaybetti",
-        "Ankara'da Karşıyaka Mezarlığı'nda cenaze töreni düzenlendi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/genc-sudenazin-kahreden-olumu-son-yolculuguna-ugurlandi-7701828",
-      "publishedAt": "2026-11-16T12:25:42.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     }
   ],
