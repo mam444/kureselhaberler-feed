@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T05:34:43.865Z",
+  "generatedAt": "2026-11-20T05:44:33.718Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/bursa-semalarinda-mercek-bulutu-goruldu-ilgi-cekti-4874635",
+      "headline": "Bursa'da beş ilçeden görülen mercek bulutu ilgi çekti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1496398766793-e7528d18007d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bGVudGljdWxhciUyMGNsb3VkfGVufDF8MHx8fDE3OTUxNTM0NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Chris Barbalis",
+        "photographerUrl": "https://unsplash.com/@cbarbalis",
+        "unsplashUrl": "https://unsplash.com/photos/photo-of-white-cumulus-cloud-ZS7HDAtePrQ"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Bursa semalarında gözlemlenen mercek bulutu, şehirdeki birçok kişinin dikkatini çekti. Gökyüzündeki bu ilginç doğa olayı Osmangazi, Nilüfer, Kestel, Gürsu ve Yıldırım olmak üzere toplam beş farklı ilçeden görülebildi.\n\nBozulmadan bir süre gökyüzünde kalan bulut, vatandaşlar tarafından merakla izlendi. Pek çok kişi bu anı ölümsüzleştirmek için cep telefonlarının kameralarını kullanarak kayıt yaptı.\n\nMeteoroloji Genel Müdürlüğü'nün internet sitesinde yer alan bilgilere göre, mercek bulutları engebelerden kaynaklanan rüzgar dalgalanmalarının sonucunda meydana geliyor. Bu bulutlar aynı zamanda engebenin kuytu tarafında aşağı yönlü hareketli bir türbülans bulunduğuna işaret ediyor.\n\nUFO'ya benzetilen bu orografik bulut türü, fön rüzgarlarının etkili olduğu her türlü coğrafi alanda görülebilme özelliğine sahip bulunuyor.",
+      "highlights": [
+        "Bursa'nın beş ilçesinde mercek bulutu görüldü",
+        "Vatandaşlar doğa olayını cep telefonlarıyla kaydetti",
+        "Meteoroloji'ye göre bulutlar rüzgar dalgalanmalarıyla oluşuyor"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/bursa-semalarinda-mercek-bulutu-goruldu-ilgi-cekti-4874635",
+      "publishedAt": "2026-11-20T05:41:49.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/bulbulan-yaylasinda-mahsur-kalan-25-kisi-kurtarildi-4874631",
       "headline": "Bülbülan Yaylası'nda 3 minibüste mahsur kalan 25 kişi kurtarıldı",
@@ -10,11 +33,17 @@
       "imageCredit": null,
       "timeAgo": "1 dk önce",
       "body": "Ardahan-Ardanuç kara yolunun 2 bin 600 rakımlı Bülbülan Yaylası mevkisinde yoğun kar yağışı ve tipi nedeniyle mahsur kalan 25 kişi, AFAD ve Karayolları ekiplerinin saatler süren çalışmasıyla kurtarıldı.",
-      "highlights": [],
+      "highlights": [
+        "Bülbülan Yaylası'nda 3 minibüste mahsur kalan 25 kişi kurtarıldı.",
+        "AFAD ve Karayolları ekipleri kurtarma çalışmalarını Ardanuç yönünden sürdürdü.",
+        "Ilgar Geçidi'nde kar yağışı ve buzlanma nedeniyle çok sayıda araç yolda kaldı."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/bulbulan-yaylasinda-mahsur-kalan-25-kisi-kurtarildi-4874631",
       "publishedAt": "2026-11-20T05:33:31.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
+      "imageSearchAttemptedAt": "2026-11-20T05:44:26.679Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-turkiyenin-kizilelmasi-dunyada-yankilandi-siradan-bir-haber-degil-buyuk-hayal-gerceklesti-7704242",
@@ -125,6 +154,30 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
       "publishedAt": "2026-11-20T05:01:40.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+      "headline": "BM Genel Sekreteri seçimi küresel güçler arasındaki bölünmeleri gözler önüne seriyor",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673296630925-a16a5592cc14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VW5pdGVkJTIwTmF0aW9uc3xlbnwxfDB8fHwxNzk1MTUzNDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bernd 📷 Dittrich",
+        "photographerUrl": "https://unsplash.com/@hdbernd",
+        "unsplashUrl": "https://unsplash.com/photos/the-united-nations-emblem-is-on-display-in-front-of-a-window-WVXJSJmA0Zc"
+      },
+      "timeAgo": "44 dk önce",
+      "body": "Birleşmiş Milletler (BM) genel sekreterliği için yürütülen yarış, Cuma günü kritik bir aşamaya gelmeye hazırlanıyor. Güvenlik Konseyi'nde yapılacak gizli oylama, Costa Rikalı favori aday Rebeca Grynspan'in büyük güçler tarafından engellenip engellenmeyeceğini gösterecek. Bir ekonomist ve BM içinden bir isim olan Grynspan, 30 Temmuz'dan bu yana yapılan sekiz deneme oylamasının yedisinde lider konumdaydı. Ancak bu durum, daimi beş üye (P5) arasından Rusya ve ABD'nin adaya karşı direndiği düşüncesini beraberinde getiriyor.\n\nCuma günkü oylamada P5 üyeleri kırmızı, seçilmiş 10 üye (E10) ise beyaz oy pusulaları kullanacak. Adayın BM Genel Kurulu'na önerilmesi için dokuz oya ve hiçbir daimi üyeden veto almamaya ihtiyacı var. Süreç, mevcut Genel Sekreter António Guterres'i de zorlayan kutuplaşmayı gözler önüne seriyor. Öte yandan oylama, Birleşik Arap Emirlikleri'nin (BAE) diplomatı Lana Nusseibeh'in adaylığına yönelik tutumları da netleştirebilir. Nusseibeh; ABD ve Rusya'nın desteğini alırken, bazı ülkeler ve milletvekilleri BAE'nin izlediği aktif diplomasi ve Sudan, Somali ile Yemen gibi bölgelerdeki politikaları nedeniyle duruma mesafeli yaklaşıyor.\n\nLatin Amerika ülkeleri ise gayriresmi rotasyon sistemi gereği sıranın kendilerinde olduğunu savunuyor ve Panama ile Kolombiya gibi Konsey üyeleri bu doğrultuda tutum alıyor. Çin de bu rotasyon ilkesini destekliyor. Diğer taraftan, Arjantinli aday Rafael Grossi de Rusya'nın muhalefetiyle karşılaşıyor; Moskova, Grossi'nin Ukrayna'daki Zaporijya nükleer santresine yönelik müdahalelerine itiraz ediyor.\n\n140 gündür süren bu kilitlenme, küresel güçler arasındaki derin ayrışmaları ortaya koyuyor. Cuma günkü renk kodlu gizli oylamanın sonuçları, yeni genel sekreterin belirlenmesi yolundaki dengeleri ve olası vetoları açıkça gözler önüne serecek.",
+      "highlights": [
+        "Rebeca Grynspan bugüne kadarki deneme oylamalarının çoğunda lider konumda yer aldı.",
+        "Güvenlik Konseyi'nde yapılacak Cuma günkü oylamada daimi üyeler kırmızı pusula kullanacak.",
+        "Latin Amerika ülkeleri rotasyon kuralı nedeniyle kendi bölgelerinden bir aday istiyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
+      "publishedAt": "2026-11-20T05:00:24.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -2129,7 +2182,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T12:54:29.354Z",
-      "imageSearchAttemptedAt": "2026-11-19T19:04:17.407Z"
+      "imageSearchAttemptedAt": "2026-11-20T05:44:26.679Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
@@ -13705,52 +13758,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/corluda-kuvvetli-ruzgar-metruk-evi-yerle-bir-etti-4872266",
       "publishedAt": "2026-11-13T17:57:27.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
-      "headline": "Dünya genelindeki Microsoft kesintisi çalışanların neşesini bozmadı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1560264280-88b68371db39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8b2ZmaWNlJTIwd29ya2Vyc3xlbnwxfDB8fHwxNzk0NTkzMjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Arlington Research",
-        "photographerUrl": "https://unsplash.com/@arlington_research",
-        "unsplashUrl": "https://unsplash.com/photos/people-working-at-desks-in-open-office-kN_kViDchA0"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Günlük iş akışını sekteye uğratan büyük çaplı teknik aksaklıklar, dünya genelinde çalışanlar tarafından farklı bir perspektifle ele alındı. Küresel ölçekte yaşanan Microsoft kesintisi, iş dünyasının dijital iletişim araçlarını hedef alan espriler ve mizahi paylaşımlarla karşılandı. Yaşanan bu beklenmedik durum, profesyonel yaşamın vazgeçilmez unsurları haline gelen teknolojik altyapıların ne denli kritik bir öneme sahip olduğunu bir kez daha gözler önüne serdi.\n\nSöz konusu teknik aksaklık, özellikle şirket içi ve kurumlar arası iletişimde yoğun olarak kullanılan Outlook, Teams ve yapay zeka destekli Copilot gibi temel uygulamaları doğrudan etkiledi. Milyonlarca profesyonelin günlük operasyonlarını yürüttüğü bu platformların devre dışı kalması, iş süreçlerinde geçici bir duraksamaya yol açtı. Ancak bu durum, çalışanların moralini bozmak yerine, sosyal medya ve dijital platformlarda mizahi bir dille ele alınmasına zemin hazırladı.\n\nKurumsal dünyada teknolojiye olan bağımlılığın getirdiği zorluklar ve bu tür küresel çaplı krizlerin yönetimi, her zaman iş dünyasının en önemli gündem maddeleri arasında yer almıştır. Benzer teknolojik arızalar geçmişte de çeşitli sektörlerde geçici aksamalara neden olmuş ve şirketlerin kriz anındaki reflekslerini test etmiştir. Microsoft altyapısında meydana gelen bu son kesinti de, iş gücünün beklenmedik teknolojik engeller karşısında nasıl bir adaptasyon süreci geçirdiğini gösteren somut bir örnek olarak kayıtlara geçti.\n\nE-posta akışının durması ve çevrimiçi toplantı araçlarının kullanılamaz hale gelmesi, geleneksel çalışma alışkanlıklarının bir an için de olsa kesintiye uğramasına neden oldu. Buna rağmen, çalışanların yaşadığı bu geçici zorluğu mizah yoluyla hafifletme çabası, iş yerindeki stresin yönetilmesinde etkili bir yöntem olarak öne çıktı. Dijital dünyada yaşanan aksaklıkların getirdiği iletişim kopukluğu, çalışanların ortak bir dille durumu esprili bir şekilde ele almasını sağladı.\n\nTeknoloji şirketlerinin sunduğu bulut tabanlı ve entegre sistemlerin küresel ekonomideki payı her geçen gün artarken, bu sistemlerde meydana gelebilecek olası aksaklıklar da geniş kitleleri etkileme potansiyeli taşıyor. Microsoft kesintisi örneğinde olduğu gibi, milyonlarca kullanıcıyı aynı anda etkileyen olaylar, kurumsal altyapıların dayanıklılığını ve alternatif iletişim yöntemlerinin önemini bir kez daha tartışmaya açıyor. Çalışanların bu süreci mizahla karşılaması ise kriz anlarındaki toplumsal psikolojinin ilginç bir yansıması olarak değerlendiriliyor.",
-      "highlights": [
-        "Küresel Microsoft kesintisi Outlook, Teams ve Copilot'u etkiledi.",
-        "Çalışanlar dünya genelinde yaşanan aksaklığı mizahi bir dille karşıladı.",
-        "Teknolojik altyapı sorunları günlük iş akışını geçici olarak durdurdu."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
-      "publishedAt": "2026-11-13T17:55:05.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/spor/trabzonspor-da-zenit-mesaisi-3927233",
-      "headline": "Trabzonspor'da Zenit mesaisi",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1489944440615-453fc2b6a9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBzdGFkaXVtfGVufDF8MHx8fDE3OTQ1MDM5ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mario Klassen",
-        "photographerUrl": "https://unsplash.com/@marioklassen",
-        "unsplashUrl": "https://unsplash.com/photos/high-angel-photography-of-football-stadium-70YxSTWa2Zw"
-      },
-      "timeAgo": "33 dk önce",
-      "body": "Süper Lig'in köklü ekiplerinden Trabzonspor, liglere verilen milli arada hazırlıklarını sürdürürken, kulüp gündeminde uluslararası düzeyde gerçekleştirilecek önemli bir hazırlık maçı yer alıyor. Bordo-mavili ekip, bu kapsamda Rusya Premier Ligi'nin güçlü temsilcilerinden Zenit ile karşı karşıya gelmeye hazırlanıyor. Futbolseverlerin merakla beklediği bu özel karşılaşma, iki kulüp arasındaki sportif ilişkilerin güçlendirilmesi ve takımların maç ritmini koruması açısından büyük bir önem taşıyor.\n\nKaradeniz temsilcisi, yaklaşan bu zorlu mücadele için antrenman çalışmalarına resmen start verdi. Teknik heyet gözetiminde gerçekleştirilen idmanlarda oyuncuların hırslı ve istekli tavırları dikkat çekerken, milli takım aralığını en verimli şekilde değerlendirmek adına yoğun bir program uygulanıyor. Bordo-mavililerde eksik oyuncuların durumu yakından takip edilirken, mevcut kadro ile taktiksel çalışmaların yanı sıra fiziksel dayanıklılığı artırıcı egzersizlere ağırlık veriliyor.\n\nRusya'nın köklü ve başarılı kulüplerinden biri olan Zenit ile yapılacak olan bu özel müsabaka, 15 Kasım tarihinde gerçekleşecek. Karşılaşmanın adresi ise Rusya'nın tarihi ve kültürel dokusuyla öne çıkan şehirlerinden St. Petersburg olacak. Deplasmanda oynanacak bu hazırlık maçı, Trabzonspor teknik direktörünün farklı taktik denemeler yapmasına ve kadroda az süre bulan oyunculara şans tanımasına olanak sağlayacak bir fırsat olarak değerlendiriliyor.\n\nFutbol dünyasında milli araların takımlar için hem bir dinlenme hem de eksikleri tamamlama dönemi olduğu biliniyor. Trabzonspor da bu süreci en iyi şekilde analiz ederek, St. Petersburg deplasmanından hem sportif anlamda kazançlı çıkmayı hem de taraftarlarına keyifli bir futbol izletmeyi hedefliyor. Kulüp yetkilileri ve teknik kadro, hazırlıkların planlanan doğrultuda aksamadan ilerlemesi için tüm detayları titizlikle koordine ediyor.\n\nBu anlamlı hazırlık maçı öncesinde her iki kulübün taraftarları da sosyal medya ve spor platformları üzerinden karşılaşmaya dair beklentilerini dile getiriyor. Zenit ile yapılacak mücadelenin ardından Trabzonspor, Süper Lig'deki mücadelesine kaldığı yerden devam etmek üzere Türkiye'ye dönecek ve lig maratonunun bir sonraki haftası için hazırlıklarına kendi tesislerinde devam edecek.",
-      "highlights": [
-        "Trabzonspor, milli arada Zenit maçı için hazırlıklara başladı.",
-        "Özel karşılaşma 15 Kasım tarihinde St. Petersburg'da oynanacak.",
-        "Bordo-mavililer hazırlıklar kapsamında taktik ağırlıklı idmanlar yapıyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/trabzonspor-da-zenit-mesaisi-3927233",
-      "publishedAt": "2026-11-13T17:35:19.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
