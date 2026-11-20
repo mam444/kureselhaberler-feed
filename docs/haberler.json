@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-20T15:35:03.630Z",
+  "generatedAt": "2026-11-20T15:43:51.395Z",
   "articles": [
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "headline": "ABD Ordusu, Kamu Tepkileri Üzerine Bomba Yapımında Kullanılan Kimyasalın İmha Planını Erteledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1606964212668-176ea03e8b47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWlsaXRhcnklMjBhbW11bml0aW9uJTIwcGxhbnR8ZW58MXwwfHx8MTc5NTE4OTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Barrett Ward",
+        "photographerUrl": "https://unsplash.com/@barrettward",
+        "unsplashUrl": "https://unsplash.com/photos/stainless-steel-tool-on-black-surface-C-Rxgftu0MA"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "ABD ordusu, Iowa eyaletinin güneydoğusundaki Middletown'da yaklaşık 5 ton kurşun azit maddesini patlatma planını kamu sağlığı risklerine yönelik endişeler ve tepkiler üzerine erteledi. Ordu yetkilileri, bu kontrollü patlamanın hassas bileşeni imha etmenin en güvenli yolu olduğunu savunmuştu. Planın cuma günü öğle saatlerinde gerçekleştirilmesi öngörülüyordu.\n\nPatlama sırasında varillerin beton yapılar ve kum dolgulu bariyerlerle çevrelenmesi planlanıyordu. Ordu, olası cam hasarları nedeniyle bazı bölge sakinlerinin tahliye edilmesini tavsiye etmişti. Patlamanın yol açacağı sarsıntıların kısa süreceği ancak eski camları kırabileceği ve rüzgar hızına bağlı olarak toz bulutunun bir saatten fazla kalmayacağı belirtilmişti. Patlamanın kurşun partikülleri içeren bir bulut oluşturması beklenirken, güncellenen haritalar bulutun kuzeye doğru kayma potansiyelini göstermişti.\n\nPlanın duyulmasının ardından bölge halkı ve eyalet liderleri tepki gösterdi. Vali Kim Reynolds'ın ofisi bilgilendirilirken, yetkililer iletişim eksikliğine dikkat çekti. ABD ordusu vekili sekreteri Adam Telle, kamusal güven için iletişimin önemli olduğunu belirterek erteleme kararını duyurdu. Planın, malzemenin dengesini bozabilecek sıcaklık düşüşlerinden öncesi için pazartesi günü yapılmasının beklenildiği bildirildi.\n\nÇevre Koruma Ajansı (EPA) 13 Kasım'da acil durum izni onaylamıştı. Bölgedeki bazı okullar ve yerel kurumlar tedbir amacıyla kapanış kararı alırken, yetkililer ve uzmanlar kurşun tozunun yayılımı ve olası sağlık etkileri konusundaki belirsizliklere dikkat çekti. EPA belgelerinde nötralizasyon gibi alternatiflerin değerlendirildiği ancak varillerin taşınmasının kaza riskini artıracağı ifade edildi. Planlanan işlemin pazartesi günü yapılması bekleniyor.",
+      "highlights": [
+        "ABD ordusu Middletown'da kurşun azit patlatma planını erteledi.",
+        "Patlamanın kurşun partikülleri içerecek bir toz bulutu yaratması bekleniyordu.",
+        "Planlanan işlemin pazartesi günü yapılması bekleniyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "publishedAt": "2026-11-20T15:39:48.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/depremde-21-kisiye-mezar-olan-kircuval-otel-davasinda-karar-cikti-7704658",
+      "headline": "Depremde 21 kişiye mezar olan Kırçuval Otel davasında karar çıktı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1677588508537-5106322c2d40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y29sbGFwc2VkJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTE4OTMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vincenzo Cassano",
+        "photographerUrl": "https://unsplash.com/@myphotoblog",
+        "unsplashUrl": "https://unsplash.com/photos/a-bulldozer-digging-through-a-demolished-building-MqAiJPYEFrs"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Kahramanmaraş merkezli 6 Şubat 2023 depremlerinde yıkılan ve 6 voleybolcu ile 4 ampute sporcunun da aralarında bulunduğu 21 kişinin hayatını kaybettiği Malatya'daki 7 katlı Kırçuval Otel davasında karar açıklandı. Soruşturma kapsamında hazırlanan ve 5'inci Ağır Ceza Mahkemesi'nce kabul edilen iddianamede, aralarında eski Battalgazi Belediye Başkan Yardımcısı ve otel sahibi Zafer Kırçuval'ın da bulunduğu 11 sanık 'Bilinçli taksirle birden fazla kişinin ölümüne ve yaralanmasına neden olma' suçundan yargılanıyordu.\n\nDavanın karar duruşmasında taraf avukatları, tutuksuz sanıklar ve depremde enkazda oğlunu kaybeden Zeliha Ağırbaş hazır bulundu. Mahkeme heyeti, tarafları dinledikten sonra verdiği aranın ardından kararını açıkladı. Yargılama sonucunda Aziz Murat Palancı, Fırat Palancı ve İsmail Y. beraat etti.\n\nMahkeme heyeti diğer sanıklara ise hapis cezaları verdi. Buna göre Saffet Kırçuval ve Zafer Kırçuval'a 8 yıl 4'er ay hapis cezası verildi. Fatma Altaş'a 12 yıl 2 ay 20 gün hapis ve 6 yıl 3 ay meslekten men, Hayriye Doğan'a 14 yıl 2 ay hapis ve 7 yıl 7 ay meslekten men, Serpil Yoloğlu'na 12 yıl 2 ay 20 gün hapis ve 6 yıl 3 ay meslekten men cezası uygulandı. Mustafa Bingöl, Mustafa Hakan Büker ve Alper Yiğit ise 11 yıl 1 ay 10'ar gün hapis cezasına çarptırılırken, Alper Yiğit'e ayrıca 5 yıl 2 ay meslekten men cezası verildi. Sanıklar hakkında adli kontrol şartı uygulanması kararlaştırıldı.\n\nKararın ardından açıklama yapan Zeliha Ağırbaş adaletin yerini bulmadığını savunarak tepki gösterdi. Müşteki avukatı Çağrı Sarıoğlu ise sanıkların 'olası kast' ile cezalandırılmasını talep ettiklerini belirterek, beraat kararları ile tutuklama taleplerinin reddedilmesine yönelik istinaf mahkemesine itirazda bulunacaklarını ifade etti.",
+      "highlights": [
+        "Kırçuval Otel davasında mahkeme heyeti 8 sanığa hapis cezası verirken, 3 sanığın beraatine hükmetti.",
+        "Otelin yıkılmasında sorumlulukları bulunduğu iddiasıyla yargılanan sanıklara verilen cezaların yanı sıra bazı sanıklara meslekten men cezaları getirildi.",
+        "Müşteki avukatları beraat kararları ve tutuklama taleplerinin reddedilmesi üzerine istinaf mahkemesine başvuracaklarını açıkladı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/depremde-21-kisiye-mezar-olan-kircuval-otel-davasinda-karar-cikti-7704658",
+      "publishedAt": "2026-11-20T15:37:51.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/brezilyada-haftada-5-gun-calisma-donemi-basliyor-3495875",
       "headline": "Brezilya'da haftada 5 gün çalışma dönemi başlıyor",
@@ -3921,15 +3967,15 @@
       "timeAgo": "7 dk önce",
       "body": "Birleşik Krallık göçmenlik sistemini yönetmek için yapay zekaya daha fazla yöneliyor. Bu kapsamda göçmenlerin telefonlarının analiz edilmesi ve iltica başvurularının işleme konulması gibi alanlarda yapay zekadan yararlanılıyor.\n\nInfoMigrants gazetecisi Stella Elgersma, Birleşik Krallık İç İşleri Bakanlığı'nın iltica başvurularını işlemek için yapay zeka araçlarını test ettiğini aktarıyor. Bu süreçte mülakat özetleri oluşturan bir sistem de kullanılıyor.\n\nYapılandırılmış bilgilere göre sistemde hatalar bulunuyor, insan denetimi sınırlı düzeyde kalıyor ve şeffaflık konusunda endişeler dile getiriliyor. Bu durumun iltica eden kişilerin hayatını risk altına atıp atamayacağı ise tartışma konusu olmaya devam ediyor.",
       "highlights": [
-        "İngiltere göç sisteminde yapay zeka kullanımını artırıyor",
-        "İçişleri Bakanlığı mülakat özetleri çıkaran yapay zeka araçlarını test ediyor",
-        "Sistemde hatalar, sınırlı insan denetimi ve şeffaflık kaygıları bulunuyor"
+        "Birleşik Krallık İç İşleri Bakanlığı, iltica başvurularını işlemek için yapay zeka araçlarını test ediyor.",
+        "Test edilen sistemler arasında iltica mülakatlarının özetlerini oluşturan bir mekanizma da yer alıyor.",
+        "Süreçteki hatalar, sınırlı insan gözetimi ve şeffaflık endişeleri sığınmacıların hayatını riske atıp atmayacağı kaygılarını artırıyor."
       ],
       "externalUrl": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
       "publishedAt": "2026-11-19T15:07:23.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T15:24:25.133Z"
+      "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
@@ -3941,16 +3987,16 @@
       "timeAgo": "19 dk önce",
       "body": "El Salvador Devlet Başkanı Nayib Bukele, Çarşamba günü yaptığı açıklamada, askerlerinin Haiti'de Jeff Gwo Lwa olarak bilinen tanınmış bir çete liderinin lüks evini yıktığını belirtti.\n\nBukele, X hesabından yaptığı paylaşımda \"Haiti halkına Vertières Muharebesi'nin yıl dönümünde hediyem\" ifadelerini kullandı.\n\nBu açıklama, Haiti'nin Fransa'dan bağımsızlığını güvence altına almasında kritik öneme sahip olan 1803 yılındaki bir muharebeye atıfta bulundu.\n\nSöz konusu olayla ilgili olarak Bukele'nin saldırı görüntülerinikamuoyuna duyurduğu bildirildi.",
       "highlights": [
-        "El Salvador Devlet Başkanı Bukele, askerlerinin Haiti'deki bir çete liderinin lüks evini yıktığını açıkladı.",
-        "Bukele, X hesabından yaptığı paylaşımda olayın Vertières Muharebesi'nin yıl dönümüne denk geldiğini belirtti.",
-        "Saldırıya ilişkin görüntülerin kamuoyuna duyurulduğu bildirildi."
+        "El Salvador Devlet Başkanı Nayib Bukele, Haiti'deki bir çete liderinin evinin yıkıldığını açıkladı.",
+        "Saldırıya uğrayan konutun Jeff Gwo Lwa adlı çete liderine ait olduğu belirtildi.",
+        "Bukele, videonun Vertières Muharebesi'nin yıl dönümünde paylaşıldığını ifade etti."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
       "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-20T11:45:09.576Z",
-      "sourceTextAttemptedAt": "2026-11-19T15:34:20.069Z"
+      "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/mhp-lideri-devlet-bahceli-turkiye-yeni-bir-kutup-basidir-7703996",
@@ -13781,52 +13827,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/kelebek/magazin/artik-buyuk-sohretinden-kaciyor-okyanusun-ortasinda-ada-satin-aldi-burada-kimse-burnuma-mikrofon-dayamiyor-43380051",
       "publishedAt": "2026-11-16T10:20:21.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748",
-      "headline": "Dublin'deki Çocuk Katliamı Girişimine Müebbet Hapis",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8V29ybGR8ZW58MXwwfHx8MTc5NDY4OTg2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kyle Glenn",
-        "photographerUrl": "https://unsplash.com/@kylejglenn",
-        "unsplashUrl": "https://unsplash.com/photos/desk-globe-on-table-nXt5HtLmlgE"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Dublin'de bir okulun dışında bekleyen ve aralarında kalbinden bıçaklanan bir çocuğun da bulunduğu üç çocuğu öldürmeye teşebbüs eden bir adam müebbet hapse mahkum edildi. Bu saldırı Dublin'de isyanlara yol açmıştı.",
-      "highlights": [
-        "Üç çocuğu öldürmeye teşebbüs eden adama müebbet hapis verildi.",
-        "Saldırıda bir çocuk kalbinden bıçaklandı.",
-        "Olay Dublin'de isyanların çıkmasına neden oldu."
-      ],
-      "externalUrl": "https://news.sky.com/story/man-jailed-for-life-for-attempted-murder-of-children-that-sparked-dublin-riots-13612748",
-      "publishedAt": "2026-11-16T10:11:00.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786",
-      "headline": "Meteoroloji ve AKOM'dan sağanak ve fırtına uyarısı",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1519692933481-e162a57d6721?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aGVhdnklMjByYWlufGVufDF8MHx8fDE3OTQ4MjQxMzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Osman Rana",
-        "photographerUrl": "https://unsplash.com/@osmanrana",
-        "unsplashUrl": "https://unsplash.com/photos/person-walking-on-street-and-holding-umbrella-while-raining-with-vehicle-nearby-GXEZuWo5m4I"
-      },
-      "timeAgo": "36 dk önce",
-      "body": "Meteoroloji ve AKOM uyarılarının ardından Türkiye genelinde sağanak alarmı verildi. Salı gününden hafta sonuna kadar sürecek yağışlar Marmara, Ege, Akdeniz ve İç Anadolu'yu etkileyecek. İstanbul'da şiddetli Lodos fırtınasıyla sıcaklığın 22 dereceye çıkacağı tahmin ediliyor.",
-      "highlights": [
-        "Türkiye genelinde sağanak alarmı verildi",
-        "Yağışlar salı gününden hafta sonuna kadar sürecek",
-        "İstanbul'da şiddetli Lodos fırtınası ve 22 derece sıcaklık bekleniyor"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/meteoroloji-tarih-verdi-kuvvetli-saganak-ve-firtina-geri-geliyor-gunlerce-surecek-istanbul-ve-ankara-dahil-bircok-ilde-alarm-43379786",
-      "publishedAt": "2026-11-16T09:39:22.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
