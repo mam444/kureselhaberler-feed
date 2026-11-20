@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T11:35:22.640Z",
+  "generatedAt": "2026-11-20T11:45:16.540Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/erdogan-yuregir-belediye-baskan-vekili-ozunali-kabul-etti-4874853",
+      "headline": "Cumhurbaşkanı Erdoğan Yüreğir Belediye Başkan Vekili Özünal'ı kabul etti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1561489396-888724a1543d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2lhbiUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NTE3NTExNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Evangeline Shaw",
+        "photographerUrl": "https://unsplash.com/@evangelineshaw",
+        "unsplashUrl": "https://unsplash.com/photos/people-in-conference-nwLTVwb7DbU"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Genel Merkezi'nde Yüreğir Belediye Başkan Vekili Tarık Özünal'ı kabul etti.\n\nGerçekleşen görüşmede Tarık Özünal, ilçede yürütülen hizmetler ile gelecekte hayata geçirilecek yeni projeler hakkında Cumhurbaşkanı Erdoğan'a bilgi aktardı.\n\nGörüşmenin ardından Özünal, Cumhurbaşkanı Erdoğan'a bir tablo takdim etti.\n\nÖzünal, sosyal medya hesabından yaptığı paylaşımda Cumhurbaşkanı Erdoğan ile bir araya geldiğini belirterek, Erdoğan'ın liderliğindeki Türkiye Yüzyılı vizyonu ve belediyecilik tecrübesinin kendilerine ışık tuttuğunu ifade etti. Özünal, bu vizyondan aldıkları ilhamla Yüreğir için durmadan çalışmaya ve ilçeye değer katacak hizmetleri hayata geçirmeye devam edeceklerini kaydetti.",
+      "highlights": [
+        "Cumhurbaşkanı Erdoğan, AK Parti Genel Merkezi'nde Yüreğir Belediye Başkan Vekili Tarık Özünal'ı kabul etti.",
+        "Özünal, görüşmede ilçedeki hizmetler ve yeni projeler hakkında Erdoğan'a bilgi sundu.",
+        "Görüşme sonrasında Özünal, Erdoğan'a tablo hediye etti."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/erdogan-yuregir-belediye-baskan-vekili-ozunali-kabul-etti-4874853",
+      "publishedAt": "2026-11-20T11:43:14.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/kiz-kulesi-onunde-firtinada-islanarak-fotograf-cektirdiler-4874847",
       "headline": "Fırtınaya aldırış etmediler: Kız Kulesi önünde ıslanarak fotoğraf çektirdiler",
@@ -22,6 +45,26 @@
       "externalUrl": "https://www.yenisafak.com/gundem/kiz-kulesi-onunde-firtinada-islanarak-fotograf-cektirdiler-4874847",
       "publishedAt": "2026-11-20T11:33:53.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T11:45:09.576Z"
+    },
+    {
+      "id": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "EU and UK hold a rare summit in bid to 'rebuild ties'",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1516589918325-d3cb170106ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RVUlMjBhbmQlMjBVSyUyMGhvbGQlMjBhJTIwcmFyZSUyMHN1bW1pdCUyMGluJTIwYmlkJTIwdG8lMjAlMjdyZWJ1aWxkJTIwdGllcyUyN3xlbnwxfDB8fHwxNzk1MTc1MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jessi Pena",
+        "photographerUrl": "https://unsplash.com/@jespl",
+        "unsplashUrl": "https://unsplash.com/photos/elizabeth-tower-london-gpt0X6pLmDU"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "European Union officials and UK Prime Minister Andy Burnham met in Brussels to discuss efforts to rebuild ties following Brexit.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-20T11:30:00.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -1451,7 +1494,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-20T05:44:26.679Z"
+      "imageSearchAttemptedAt": "2026-11-20T11:45:09.576Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-turkiyenin-kizilelmasi-dunyada-yankilandi-siradan-bir-haber-degil-buyuk-hayal-gerceklesti-7704242",
@@ -3003,15 +3046,15 @@
       "timeAgo": "19 dk önce",
       "body": "El Salvador Devlet Başkanı Nayib Bukele, Çarşamba günü yaptığı açıklamada, askerlerinin Haiti'de Jeff Gwo Lwa olarak bilinen tanınmış bir çete liderinin lüks evini yıktığını belirtti.\n\nBukele, X hesabından yaptığı paylaşımda \"Haiti halkına Vertières Muharebesi'nin yıl dönümünde hediyem\" ifadelerini kullandı.\n\nBu açıklama, Haiti'nin Fransa'dan bağımsızlığını güvence altına almasında kritik öneme sahip olan 1803 yılındaki bir muharebeye atıfta bulundu.\n\nSöz konusu olayla ilgili olarak Bukele'nin saldırı görüntülerinikamuoyuna duyurduğu bildirildi.",
       "highlights": [
-        "El Salvador lideri Bukele, askerlerinin Haiti'de Jeff Gwo Lwa adlı çete liderinin evini yıktığını açıkladı",
-        "Bukele paylaşımında bu adımı Vertières Muharebesi'nin yıl dönümü nedeniyle attıklarını belirtti",
-        "Saldırıya ilişkin görüntüler kamuoyuna duyuruldu"
+        "El Salvador Devlet Başkanı Bukele, askerlerinin Haiti'deki bir çete liderinin lüks evini yıktığını açıkladı.",
+        "Bukele, X hesabından yaptığı paylaşımda olayın Vertières Muharebesi'nin yıl dönümüne denk geldiğini belirtti.",
+        "Saldırıya ilişkin görüntülerin kamuoyuna duyurulduğu bildirildi."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
       "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T05:34:24.807Z",
+      "imageSearchAttemptedAt": "2026-11-20T11:45:09.576Z",
       "sourceTextAttemptedAt": "2026-11-19T15:34:20.069Z"
     },
     {
@@ -3340,7 +3383,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T14:05:36.763Z",
-      "imageSearchAttemptedAt": "2026-11-20T05:34:24.807Z"
+      "imageSearchAttemptedAt": "2026-11-20T11:45:09.576Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/rizede-defnedilecekti-heyelan-riski-sebebiyle-sehit-aziz-ozturkun-naasi-gebzeye-nakledildi-4874486",
@@ -13753,51 +13796,6 @@
       "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
       "publishedAt": "2026-11-15T18:29:32.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-      "headline": "Hristiyan rahip ABD'nin kendisine Filistinli olduğu için vize vermediğini söyledi",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1619119514477-7889dd0ba269?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Q2hyaXN0aWFuJTIwcHJpZXN0fGVufDF8MHx8fDE3OTQ3Njc2Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "M G",
-        "photographerUrl": "https://unsplash.com/@garnet_photographer",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-white-thobe-standing-in-front-of-man-in-white-thobe-osUR4i8CbRI"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "İsa'nın doğduğu yer olan Beytüllahim'den bir Hristiyan rahip, ABD'nin kendisine Filistinli olduğu gerekçesiyle vize vermediğini belirtti.",
-      "highlights": [
-        "Beytüllahimli bir Hristiyan rahip vize alamadı",
-        "ABD'nin vizeyi vermeme nedeni olarak Filistinli olmasını gösterdiğini söyledi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-      "publishedAt": "2026-11-15T18:07:32.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-      "headline": "Estonya, Rusya sınır kapılarını drone üreticisine düzenlenen saldırı sonrası kapatacak",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1626449569473-462035785765?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Ym9yZGVyJTIwY3Jvc3Npbmd8ZW58MXwwfHx8MTc5NDc2ODA0MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hermes Rivera",
-        "photographerUrl": "https://unsplash.com/@hermez777",
-        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-metal-fence-aJ8F0SmOBpY"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "Estonya, Tallinn'in Rus istihbaratı tarafından emredildiğini açıkladığı kundaklama girişimiyle bağlantılı olarak sekiz kişinin gözaltına alındığını duyurdu.",
-      "highlights": [
-        "Rusya sınır kapıları kapatılacak",
-        "Kundaklama girişimiyle ilgili sekiz kişi gözaltına alındı",
-        "Saldırının Rus istihbaratı tarafından emredildiği belirtildi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker?traffic_source=rss",
-      "publishedAt": "2026-11-15T18:07:02.000Z",
-      "category": "World",
       "lang": "tr"
     }
   ],
