@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T06:24:37.358Z",
+  "generatedAt": "2026-11-20T06:25:24.596Z",
   "articles": [
     {
       "id": "https://www.ntv.com.tr/turkiye/otoyolda-otobus-ile-tir-carpisti-cok-sayida-yarali-var-1751716",
@@ -21,6 +21,30 @@
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/otoyolda-otobus-ile-tir-carpisti-cok-sayida-yarali-var-1751716",
       "publishedAt": "2026-11-20T06:23:09.000Z",
+      "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T06:25:20.525Z"
+    },
+    {
+      "id": "https://www.yenisafak.com/video/gundem/diyarbakirda-kopru-saniyeler-icinde-yikildi-catirdama-seslerini-duyuna-kameraya-sarildilar-4874656",
+      "headline": "Hatay'da şiddetli sağanak hayatı olumsuz etkiledi, köprü trafiğe kapatıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1643973278894-5b0a325e7746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RGl5YXJiYWslQzQlQjFyJUUyJTgwJTk5ZGElMjBrJUMzJUI2cHIlQzMlQkMlMjBzYW5peWVsZXIlMjBpJUMzJUE3aW5kZSUyMHklQzQlQjFrJUM0JUIxbGQlQzQlQjElM0ElMjAlQzMlODdhdCVDNCVCMXJkYW1hJTIwc2VzbGVyaW5pJTIwZHV5dW5hJTIwa2FtZXJheWElMjBzYXIlQzQlQjFsZCVDNCVCMWxhcnxlbnwxfDB8fHwxNzk1MTU1OTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Yusuf Onuk",
+        "photographerUrl": "https://unsplash.com/@onkysf",
+        "unsplashUrl": "https://unsplash.com/photos/a-bridge-over-a-body-of-water-surrounded-by-trees-JqFW07vMrBc"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Hatay'da meteorolojinin sarı kodlu uyarısının ardından ilçelerde gün boyu şiddetli yağış etkili oldu. Dörtyol ilçesinde havanın kararmasıyla birlikte aniden bastıran sağanak yağış, caddeleri göle çevirirken derelerin debisinde de artış yaşandı.\n\nYağışın yol açtığı olumsuzluklar sonucunda Özerli Çayı’nda su seviyesi yükseldi. Kemal Duduoğlu Caddesi üzerinde bulunan köprü, sel suları nedeniyle güvenlik önlemi amacıyla trafiğe kapatıldı.\n\nEkipler bölgede önlem alırken, köprünün gidiş ve geliş yönleri iki ayrı noktadan araç trafiğine kapatıldı. \n\nKentin işlek caddelerinde ise araçlarıyla su birikintisine giren vatandaşlar mahsur kaldı. Bölgedeki vatandaşlar, sağanağın bir anda bastırdığını belirtti.",
+      "highlights": [
+        "Hatay'ın ilçelerinde şiddetli yağış etkili oldu ve caddeler göle döndü",
+        "Özerli Çayı'nda su seviyesinin yükselmesiyle Kemal Duduoğlu Caddesi'ndeki köprü trafiğe kapatıldı",
+        "Araçlarıyla su birikintisine giren vatandaşlar mahsur kaldı"
+      ],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/diyarbakirda-kopru-saniyeler-icinde-yikildi-catirdama-seslerini-duyuna-kameraya-sarildilar-4874656",
+      "publishedAt": "2026-11-20T06:22:49.000Z",
       "category": "Gündem",
       "lang": "tr"
     },
@@ -44,7 +68,8 @@
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
       "publishedAt": "2026-11-20T06:15:06.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T06:25:20.525Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cinayet-suphelisi-21-yil-sonra-adanada-yakalandi-siirt-pervari-haberleri-4874647",
@@ -7545,7 +7570,7 @@
       "publishedAt": "2026-11-18T05:39:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T14:14:19.930Z"
+      "imageSearchAttemptedAt": "2026-11-20T06:25:20.525Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
@@ -7940,7 +7965,7 @@
       "publishedAt": "2026-11-17T18:42:26.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T14:24:26.945Z",
+      "imageSearchAttemptedAt": "2026-11-20T06:25:20.525Z",
       "sourceTextAttemptedAt": "2026-11-18T02:24:43.237Z"
     },
     {
@@ -13740,29 +13765,6 @@
       "publishedAt": "2026-11-13T21:54:08.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/balikesirde-lodos-firtinasi-uc-tekne-batti-4872307",
-      "headline": "Balıkesir'de etkili olan lodos fırtınası tekneleri batırdı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1541363393753-533174ed0a5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aGFyYm9yJTIwYm9hdHMlMjBzdG9ybXxlbnwxfDB8fHwxNzk0NjEyNjA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Frans Ruiter",
-        "photographerUrl": "https://unsplash.com/@frns",
-        "unsplashUrl": "https://unsplash.com/photos/black-storm-clouds-over-boats-moored-at-beach-M04dMrtjm3U"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "Türkiye genelinde etkisini gösteren olumsuz hava koşulları, deniz ulaşımını ve kıyı kesimlerindeki faaliyetleri de olumsuz yönde etkilemeye devam ediyor. Son olarak Balıkesir'in Ege kıyılarındaki turistik ve ekonomik açıdan önemli ilçelerinden biri olan Ayvalık'ta yaşanan şiddetli lodos fırtınası, denizcileri ve balıkçıları hazırlıksız yakaladı. Bölgede gün boyunca etkisini artıran olumsuz meteorolojik şartlar nedeniyle denizde ve kıyıda park halinde bulunan deniz araçları tehlike altında kaldı.\n\nEdinilen bilgilere göre, fırtınanın şiddetiyle denizde dalga boyu hızla yükseldi. Bu durum, Ayvalık açıklarında ve kıyıya yakın noktalarda demirli bulunan deniz araçlarının güvenliğini doğrudan tehdit etti. Şiddetli rüzgarın etkisiyle kontrolü kaybeden ve dalgaların şiddetine dayanamayan üç tekne, sulara gömülerek battı. Denizcilik sektörü açısından büyük maddi hasara yol açan bu olay, bölgedeki diğer teknelerin sahiplerini de alarma geçirdi.\n\nYaşanan olumsuzluklar sadece batan teknelerle sınırlı kalmadı. Fırtınanın şiddeti, denizdeki diğer araçların da bağlama halatlarına aşırı yük binmesine neden oldu. Yapılan incelemelerde, şiddetli rüzgarın etkisiyle bağlandığı yerden kopan direkli bir teknenin de kontrolsüz bir şekilde denizde sürüklenmeye başladığı tespit edildi. Sürüklenen bu teknenin diğer deniz araçlarına veya kıyıdaki yapılara çarparak daha büyük bir zarara yol açmaması için bölgede ilgili birimler tarafından gerekli güvenlik önlemleri değerlendirildi.\n\nYetkililer ve uzmanlar, özellikle lodos gibi ani ve sert rüzgarların hakim olduğu dönemlerde denizcilerin ve tekne sahiplerinin hava raporlarını yakından takip etmesi gerektiğine dikkat çekiyor. Ayvalık'taki bu son olay, kıyı bölgelerinde demirli teknelerin güvenliğinin ne kadar hayati olduğunu bir kez daha gözler önüne serdi. Fırtınanın deniz trafiği üzerindeki olumsuz etkilerinin bertaraf edilmesi ve sürüklenen teknenin güvenli bir noktaya alınması için çalışmaların sürdüğü bildirildi.\n\nBölge halkı ve sahil kesiminde esnaflık yapan vatandaşlar da fırtınanın yarattığı manzarayı endişeyle takip ederken, yaşanan bu kaza ve hasarların ardından denizcilik camiası geçmiş olsun dileklerini iletti. Fırtınanın etkisini kaybetmesiyle birlikte batan teknelerin kurtarılması ve denizde sürüklenen aracın tam olarak nerede güvenli bir şekilde sabitleneceğine dair operasyonların hava şartlarının elverdiği ölçüde planlanması bekleniyor.",
-      "highlights": [
-        "Balıkesir'in Ayvalık ilçesinde etkili olan lodos fırtınası hayatı olumsuz etkiledi.",
-        "Şiddetli dalgalar ve rüzgar nedeniyle üç tekne batarak sulara gömüldü.",
-        "Bağlama halatı kopan direkli bir tekne ise denizde sürüklenmeye başladı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/balikesirde-lodos-firtinasi-uc-tekne-batti-4872307",
-      "publishedAt": "2026-11-13T21:49:25.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
@@ -13966,6 +13968,7 @@
     "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
-    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4131208"
+    "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4131208",
+    "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss"
   ]
 }
