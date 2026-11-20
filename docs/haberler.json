@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-20T17:24:36.612Z",
+  "generatedAt": "2026-11-20T17:35:03.286Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
+      "headline": "Oruç Reis Pakistan'da Petrol ve Doğal Gaz Arayacak",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1592701649316-3d3afe31a6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cmVzZWFyY2glMjB2ZXNzZWx8ZW58MXwwfHx8MTc5NTE5NjA5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Erik Mclean",
+        "photographerUrl": "https://unsplash.com/@introspectivedsgn",
+        "unsplashUrl": "https://unsplash.com/photos/red-and-white-ship-on-sea-during-daytime-hnrdJ3ICJb0"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye petrol ve doğal gaz aramacılığında faaliyet alanını genişletmeye devam ediyor. Ülkenin yerli ve millî sismik araştırma gemisi Oruç Reis, Pakistan sularında görev yapmak üzere bölgeye ulaştı. \n\nGerçekleştirilmesi beklenen keşiflerin hem Türkiye ekonomisine hem de Pakistan ekonomisine önemli katkılar sağlaması hedefleniyor. \n\nPakistan'a varan millî sismik araştırma gemisi CNN TÜRK tarafından görüntülendi. Muhabirler Fulya Öztürk ve Halil Kahraman, Oruç Reis gemisinde görev yapan emekçilerle bir araya gelerek görüştü.",
+      "highlights": [
+        "Oruç Reis gemisi Pakistan'da petrol ve doğal gaz arayacak",
+        "Gemiyi ve çalışanlarını CNN TÜRK ekibi görüntüledi"
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
+      "publishedAt": "2026-11-20T17:38:58.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/bakan-bolattan-yeni-partili-umit-ozlalenin-fon-iddialarina-yanit-43-yillik-helal-ve-tertemiz-tasarrufumun-kaynagi-belli-7704669",
       "headline": "Bakan Bolat’tan Yeni Partili Ümit Özlale’nin fon iddialarına yanıt: 43 yıllık helal ve tertemiz tasarrufumun kaynağı belli",
@@ -67,6 +89,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
       "publishedAt": "2026-11-20T17:08:14.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
+      "headline": "İngiltere ve AB'den Brexit Sonrası İlişkileri Yeniden Kurmak İçin Dönüm Noktası Nitelikli Anlaşma",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1566518447958-da38001b61ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VUslMjBFVSUyMGZsYWdzfGVufDF8MHx8fDE3OTUxOTYwODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Paul Fiedler",
+        "photographerUrl": "https://unsplash.com/@paulfiedler",
+        "unsplashUrl": "https://unsplash.com/photos/flag-of-great-britain-MKaQ4KOEssk"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "İngiltere ve Avrupa Birliği, Brexit sonrasındaki ilişkileri yeniden tesis etmek amacıyla tarihi bir anlaşmaya vardı. Brüksel'de gerçekleştirilen zirvenin ardından duyurulan bu yeni uzlaşma, taraflar arasında ilişkilerin onarılması adına taze bir başlangıç olarak değerlendiriliyor. Varılan anlaşma kapsamında gıda ihracatı kontrollerinin kolaylaştırılması, gençlerin hareketliliği ve karbon emisyon kotası gibi konular yer alıyor. İngiltere ile AB arasındaki bu önemli gelişme, tarafların iş birliğini güçlendirme yönünde attığı somut adımlardan biri olarak kayda geçti.",
+      "highlights": [
+        "İngiltere ve AB, Brexit sonrası ilişkileri yeniden kurmak için anlaştı.",
+        "Brüksel'deki zirvenin ardından yeni bir anlaşma duyuruldu.",
+        "Anlaşma gıda ihracatı, genç hareketliliği ve karbon emisyon kotalarını kapsıyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
+      "publishedAt": "2026-11-20T17:06:59.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -2862,24 +2907,28 @@
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-turkiyenin-kizilelmasi-dunyada-yankilandi-siradan-bir-haber-degil-buyuk-hayal-gerceklesti-7704242",
-      "headline": "Türkiye'nin KIZILELMA'sı dünyada yankılandı! 'Sıradan bir haber değil, büyük hayal gerçekleşti'",
+      "headline": "Türkiye'nin ilk insansız savaş uçağı KIZILELMA güvenlik güçlerinin envanterine girdi",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1481542290883-70166d3f0b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWlsaXRhcnklMjBkcm9uZSUyMGZpZ2h0ZXIlMjBqZXR8ZW58MXwwfHx8MTc5NTE5NjEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Cédric Dhaenens",
+        "photographerUrl": "https://unsplash.com/@cedric",
+        "unsplashUrl": "https://unsplash.com/photos/gray-aircraft-J8Ns4iy1kXA"
+      },
       "timeAgo": "3 dk önce",
-      "body": "Baykar tarafından milli ve özgün olarak geliştirilen Türkiye’nin ilk insansız savaş uçağı KIZILELMA, kabul testlerinin tamamlanmasının ardından Türk Silahlı Kuvvetleri envanterine girdi. Cumhurbaşkanı Recep Tayyip Erdoğan sosyal medya paylaşımında, yıllar süren çalışmaların ardından büyük bir hayalin gerçeğe dönüştüğünü belirterek, Kızılelma ile ordunun zaferden zafere koşacağına inandığını ifade etti.\n\nTürkiye’nin bu adımı dünya basınında geniş yankı buldu. Yunan basını, KIZILELMA'nın envantere girmesinin sıradan bir haber olmadığını ve hava savaşının yeni çağında öncü bir teknolojik adım olduğunu yazarken, Banking News ise Türkiye'nin dünya havacılık tarihinde bir ilke imza attığını vurguladı. Fransız ve İspanyol basınındaki haberlerde ise Türkiye'nin ilk üç uçağın teslimiyle insansız savaş uçağını resmi olarak silahlı kuvvetlerine dahil eden ilk ülke olduğu ve küresel dron pazarındaki konumunu güçlendirdiği ifade edildi.\n\nABD merkezli Al Monitor, KIZILELMA teslimatının Türkiye'yi jet motorlu savaş dronlarına sahip az sayıdaki ülke arasına soktuğunu belirtti. İngiliz Aerospace Global News ise Türklerin büyük hayallerinden birinin gerçekleştiğini aktardı. Öte yandan Bayraktar Kızılelma'nın özellikleri arasında 5 saat havada kalış süresi, 1500 kilogram faydalı yük kapasitesi, 8.5 ton maksimum kalkış ağırlığı, 0.6 Mach seyir hızı, 0.9 Mach maksimum hız, 30.000 feet operasyonel irtifa ve 500 nm görev yarı çapı yer alıyor. Uçakta ayrıca otomatik iniş ve kalkış, düşük görünürlük, yüksek manevra kabiliyeti, kısa pistli gemilerden kalkış ve inis kabiliyeti ile AESA radar bulunduğu belirtildi.",
+      "body": "Baykar tarafından milli ve özgün olarak geliştirilen Türkiye’nin ilk insansız savaş uçağı KIZILELMA, kabul testlerinin başarıyla tamamlanmasının ardından Türk Silahlı Kuvvetleri’nin envanterine katıldı. Yaklaşık dört buçuk yıl önce başlatılan programın doruk noktası olarak nitelendirilen bu gelişme, dünya basınında geniş yankı uyandırdı.\n\nCumhurbaşkanı Recep Tayyip Erdoğan sosyal medya hesabından yaptığı paylaşımda, büyük bir hayalin gerçeğe dönüştüğü tarihi bir gün yaşandığını belirterek, Kızılelma'nın Türk Silahlı Kuvvetleri'nin envanterine alındığını duyurdu ve ordunun zaferden zafere koşacağına olan inancını dile getirdi.\n\nTürkiye'nin bu adımı uluslararası medyada farklı açılardan değerlendirildi. Yunan basınından Europost, gelişmeyi hava savaşını değiştirmeyi hedefleyen gizli bir hamle olarak aktarırken, Banking News tarihte bir ilk olduğunu vurguladı. Fransız La Nouvelle Tribune yaklaşık dört buçuk yıllık programın tamamlandığına dikkat çekerken, İspanyol Aviacionline Türkiye'nin insansız savaş uçağını resmi olarak silahlı kuvvetlerine dahil eden ilk ülke konumuna geldiğini belirtti.\n\nABD merkezli Al Monitor, Kızılelma'nın teslimatının Türkiye'yi jet motorlu savaş dronlarına sahip az sayıdaki ülke arasına soktuğunu kaydetti. İngiliz Aerospace Global News ise ilk uçuşun üzerinden dört yıldan kısa bir süre geçmesinin ardından ilk üç jetin Türk Silahlı Kuvvetleri'ne katıldığını yazdı.\n\nKIZILELMA; 5 saat havada kalış süresi, 1500 kilogram faydalı yük kapasitesi, 8.5 ton maksimum kalkış ağırlığı, 0.6 Mach seyir hızı, 0.9 Mach maksimum hız ve 30.000 feet operasyonel irtifa gibi özellikleriyle dikkat çekiyor. Platform, kısa pistli uçak gemilerinden kalkış ve iniş kabiliyeti ile AESA radar özelliklerini de barındırıyor.",
       "highlights": [
         "Türkiye’nin ilk insansız savaş uçağı KIZILELMA güvenlik güçlerinin envanterine girdi.",
-        "Cumhurbaşkanı Erdoğan, büyük bir hayalin gerçeğe dönüştüğünü belirtti.",
-        "Dünya basınında Türkiye'nin havacılık tarihinde bir ilke imza attığı vurgulandı."
+        "Cumhurbaşkanı Erdoğan, gelişmeyi büyük bir hayalin gerçeğe dönüştüğü tarihi bir gün olarak nitelendirdi.",
+        "Yunan, Fransız, İspanyol, Amerikan ve İngiliz basını gelişmeyi dünya havacılık tarihinde bir ilk olarak duyurdu."
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-turkiyenin-kizilelmasi-dunyada-yankilandi-siradan-bir-haber-degil-buyuk-hayal-gerceklesti-7704242",
       "publishedAt": "2026-11-20T05:15:45.000Z",
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:24:18.381Z",
-      "imageSearchAttemptedAt": "2026-11-20T11:24:35.154Z"
+      "imageSearchAttemptedAt": "2026-11-20T17:34:27.823Z"
     },
     {
       "id": "https://www.haberturk.com/kesfet/kenan-cinar-ile-burak-arslan-yuzlerini-kiraladi-3928019",
@@ -3461,7 +3510,7 @@
       "publishedAt": "2026-11-19T18:28:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T11:24:35.154Z",
+      "imageSearchAttemptedAt": "2026-11-20T17:34:27.823Z",
       "sourceTextAttemptedAt": "2026-11-19T18:54:17.129Z"
     },
     {
@@ -3841,7 +3890,7 @@
       "publishedAt": "2026-11-19T17:15:30.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T17:34:24.501Z"
+      "sourceTextAttemptedAt": "2026-11-20T17:34:27.823Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/luks-otomobil-kule-dondu-afad-mudahale-etti-otomobil-alevlere-teslim-olmaktan-kurtulamadi-4874538",
@@ -13799,52 +13848,6 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/genc-sudenazin-kahreden-olumu-son-yolculuguna-ugurlandi-7701828",
       "publishedAt": "2026-11-16T12:25:42.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3927664",
-      "headline": "Cumhurbaşkanı Erdoğan'dan Üniversiteli Gençlik Buluşması'nda açıklamalar",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1778876088509-982115d463ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RXJkbyVDNCU5RmFuJTIweW91dGglMjBtZWV0aW5nfGVufDF8MHx8fDE3OTQ4MzIxNDR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ufoma Ojo",
-        "photographerUrl": "https://unsplash.com/@ladyufoma001",
-        "unsplashUrl": "https://unsplash.com/photos/audience-seated-in-a-large-lecture-hall-with-red-chairs-AmdKia35QPA"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Cumhurbaşkanı Erdoğan, AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'nda konuştu. Gençlerin yeni dönemin mimarı olacağını belirten Erdoğan, siyaseti gençler için yaptıklarını ve gençliği siyasetin öznesi haline getirdiklerini ifade etti.",
-      "highlights": [
-        "Cumhurbaşkanı Erdoğan AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'nda konuştu.",
-        "Siyaseti gençler için yaptıklarını ve gençliği siyasetin öznesi haline getirdiklerini belirtti.",
-        "Yeni dönemin mimarı ve mihmandarının gençler olacağını ifade etti."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3927664",
-      "publishedAt": "2026-11-16T12:22:38.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/besiktastaki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlidan-14u-tutuklandi/4126645",
-      "headline": "Beşiktaş'taki Silahlı Saldırıda 14 Şüpheli Tutuklandı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1677289281696-eabe342c884c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnQlMjBjb3VydGhvdXNlfGVufDF8MHx8fDE3OTQ4MzIxNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Angela Orenda",
-        "photographerUrl": "https://unsplash.com/@angelaorenda",
-        "unsplashUrl": "https://unsplash.com/photos/two-cars-parked-in-front-of-a-large-building-E3bXZ_wmm1M"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Beşiktaş'ta 1 kişinin hayatını kaybettiği silahlı saldırıyla ilgili soruşturma kapsamında gözaltına alınan 30 şüpheliden 14'ü çıkarıldıkları mahkemece tutuklandı.",
-      "highlights": [
-        "Beşiktaş'taki silahlı saldırı soruşturması sürdürülüyor",
-        "Gözaltına alınan 30 şüpheli adliyeye sevk edildi",
-        "Şüphelilerden 14'ü tutuklanarak cezaevine gönderildi"
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/besiktastaki-silahli-saldiriya-iliskin-adliyeye-sevk-edilen-30-zanlidan-14u-tutuklandi/4126645",
-      "publishedAt": "2026-11-16T12:22:27.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
