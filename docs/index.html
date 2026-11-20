@@ -17,7 +17,7 @@
 <meta property="og:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/og-image.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/og-image.png">
-<meta name="theme-color" content="#0E2F5A">
+<meta name="theme-color" content="#111315">
 <link rel="icon" type="image/png" sizes="32x32" href="assets/brand/favicon-32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="assets/brand/favicon-16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="assets/brand/apple-touch-icon.png">
@@ -41,31 +41,31 @@
     text-transform: none !important;
   }
   :root {
-    --navy: #173A2D;
-    --navy-dark: #0D2A21;
-    --navy-rgb: 23, 58, 45;
-    --gold: #E56E19;
-    --gold-rgb: 229, 110, 25;
-    --accent-red: #D65D17;
+    --navy: #17191B;
+    --navy-dark: #111315;
+    --navy-rgb: 23, 25, 27;
+    --gold: #E87518;
+    --gold-rgb: 232, 117, 24;
+    --accent-red: #D64E16;
     --accent-blue: #315D50;
     --accent-orange: #F08A35;
-    --bg: #F7F1E6;
-    --card: #FFFCF6;
-    --text: #20251F;
-    --text-secondary: #77766D;
-    --divider: #E7DFD1;
-    --card-border: rgba(73, 62, 42, 0.12);
-    --shadow: rgba(55, 47, 33, 0.09);
-    --header-bg: #18382C;
+    --bg: #F5F3EE;
+    --card: #FFFFFF;
+    --text: #202020;
+    --text-secondary: #707070;
+    --divider: #E7E3DC;
+    --card-border: rgba(40, 35, 28, 0.12);
+    --shadow: rgba(35, 30, 24, 0.09);
+    --header-bg: #111315;
     --up: #1DA34A;
     --down: #E43B3B;
   }
   :root[data-theme="dark"] {
-    --bg: #101B17;
-    --card: #1A2923;
-    --text: #F5F1E8;
-    --text-secondary: #ADB8AE;
-    --divider: #304138;
+    --bg: #101315;
+    --card: #191D1F;
+    --text: #F5F3EE;
+    --text-secondary: #B6B9B7;
+    --divider: #303638;
     --card-border: rgba(255, 255, 255, 0.08);
     --shadow: rgba(0, 0, 0, 0.35);
   }
@@ -110,7 +110,7 @@
 
   /* ---------- Live ticker ---------- */
   .live-ticker {
-    background: linear-gradient(100deg, #E56E19, #C94F12);
+    background: linear-gradient(100deg, #E87518, #C94F12);
     border-bottom: 1px solid rgba(255,255,255,0.18);
   }
   .ticker-inner {
@@ -799,7 +799,7 @@
   }
   /* ---------- Reference led news portal ---------- */
   body { background: var(--bg); }
-  header.site-header { background: var(--header-bg); box-shadow: 0 3px 18px rgba(29,38,31,.14); }
+  header.site-header { background: var(--header-bg); box-shadow: 0 3px 18px rgba(20,20,20,.14); }
   .header-inner { min-height: 70px; gap: 22px; }
   .logo { flex: 0 0 210px; }
   .logo-wordmark { display:block; width:200px; height:48px; object-fit:contain; }
@@ -808,14 +808,16 @@
   .search-box input { background:rgba(255,255,255,.1); border-color:rgba(255,255,255,.22); }
   .header-actions { gap:9px; }
   .icon-btn-header { width:36px; height:36px; background:transparent; border-color:rgba(255,255,255,.32); }
-  nav.categories { background:#214538; border-top:1px solid rgba(255,255,255,.08); }
+  nav.categories { color:#262626; background:#fff; border-top:1px solid #ECE9E3; }
   .categories-row { min-height:44px; }
   .live-show-badge { display:none; }
   .cat-btn { padding:9px 12px; border-radius:7px; font-size:13px; }
-  .cat-btn.active { color:#fff; background:#E56E19; }
+  .cat-btn { color:#343434; }
+  .cat-btn:hover { color:#C94F12; }
+  .cat-btn.active { color:#C94F12; background:rgba(232,117,24,.10); }
   .cat-btn.active::after { display:none; }
   .live-show-badge { color:#fff; background:rgba(229,110,25,.2); border:1px solid rgba(229,110,25,.45); }
-  .live-ticker { background:linear-gradient(100deg,#E56E19,#C94F12); }
+  .live-ticker { background:linear-gradient(100deg,#E87518,#C94F12); }
   .ticker-inner { max-width:1240px; height:40px; }
   .ticker-right { display:none; }
   .live-badge { border-radius:5px; padding:4px 10px; }
@@ -845,7 +847,7 @@
   .widget-card { border-radius:16px; padding:16px; }
   .widget-title { color:var(--text); }
   .section-title { margin:23px 0 12px; font-size:15px; }
-  .section-title::before { width:4px; height:17px; background:#E56E19; }
+  .section-title::before { width:4px; height:17px; background:#E87518; }
   .grid { grid-template-columns:repeat(4,minmax(0,1fr)); gap:11px; }
   .card { border-radius:13px; box-shadow:0 2px 8px rgba(55,47,33,.08); }
   .card-media { aspect-ratio:auto; display:flex; flex-direction:column; justify-content:flex-start; background:#fff; }
