@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T06:44:43.043Z",
+  "generatedAt": "2026-11-20T06:54:40.707Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/edirne-ve-kirklarelinde-21-duzensiz-gocmen-yakalandi-edirne-kirklareli-haberleri-4874673",
+      "headline": "Edirne'de 13, Kırklareli'nde 8 olmak üzere 21 düzensiz göçmen yakalandı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1559733711-1b689ab44236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlncmFudHMlMjBib3JkZXIlMjBwYXRyb2x8ZW58MXwwfHx8MTc5NTE1NzY3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "mostafa meraji",
+        "photographerUrl": "https://unsplash.com/@mostafa_meraji",
+        "unsplashUrl": "https://unsplash.com/photos/people-walking-at-rural-area-enIbuT4DayY"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Edirne ve Kırklareli illerinde gerçekleştirilen güvenlik denetimleri neticesinde toplam 21 düzensiz göçmen yakalandı. Güvenlik güçlerinin yürüttüğü çalışmalar kapsamında, Edirne genelinde yapılan kontrollerde 13 yabancı uyruklu şahsın yasa dışı yollardan yurda giriş yaptığı tespit edildi.\n\nEdirne'de yakalanan düzensiz göçmenler, yapılan işlemlerinin ardından İl Göç İdaresi Müdürlüğüne gönderildi.\n\nKırklareli ilinde de güvenlik güçlerinin gerçekleştirdiği operasyonlarda 8 düzensiz göçmen yakalandı. Kırklareli'nde yakalanan yabancı uyruklular, Pehlivanköy Geri Gönderme Merkezine teslim edildi. Güvenlik birimlerinin bölgedeki denetim ve çalışmalarının sürdüğü belirtildi.",
+      "highlights": [
+        "Edirne'de 13, Kırklareli'nde 8 olmak üzere toplam 21 düzensiz göçmen yakalandı.",
+        "Edirne'deki göçmenler İl Göç İdaresi Müdürlüğüne gönderildi.",
+        "Kırklareli'nde yakalanan 8 düzensiz göçmen Pehlivanköy Geri Gönderme Merkezine teslim edildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/edirne-ve-kirklarelinde-21-duzensiz-gocmen-yakalandi-edirne-kirklareli-haberleri-4874673",
+      "publishedAt": "2026-11-20T06:51:53.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
       "headline": "Canlı: Kiev'de Rusya'nın düzenlediği ölümcül saldırılar iki köprüye zarar verdi",
@@ -189,6 +212,29 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T06:24:29.340Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+      "headline": "ABD denizcilik ajansı, İran ablukasının Körfez'deki primleri artırdığı konusunda uyardı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1613690399151-65ea69478674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2FyZ28lMjBzaGlwfGVufDF8MHx8fDE3OTUxNTc2NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Venti Views",
+        "photographerUrl": "https://unsplash.com/@ventiviews",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-boat-on-water-1cqIcrWFQBI"
+      },
+      "timeAgo": "52 dk önce",
+      "body": "ABD Denizcilik İdaresi, İran deniz ablukasının sigorta primleri ve kargo kapasitesi üzerindeki etkisini kabul etti.\n\nBir nota göre, yaşanan bu durum bölgedeki maliyetlerin yükselmesine sebep oluyor.\n\nYetkililer, söz konusu ablukanın nakliye ve ticaret üzerindeki yansımalarını değerlendirdi.",
+      "highlights": [
+        "ABD Denizcilik İdaresi naval ablukasının etkisini kabul etti",
+        "Sigorta primleri ve kargo kapasitesi etkilendi",
+        "Durum bir notla ortaya çıktı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
+      "publishedAt": "2026-11-20T06:03:03.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-tag-otoyolunda-tur-otobusu-ile-2-tir-carpisti-7704244",
@@ -3986,7 +4032,7 @@
       "publishedAt": "2026-11-19T06:33:08.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T06:44:39.045Z"
+      "sourceTextAttemptedAt": "2026-11-20T06:54:33.125Z"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
@@ -4328,17 +4374,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-body-of-water-next-to-the-ocean-7nHfMD8XZko"
       },
       "timeAgo": "2 dk önce",
-      "body": "Uluslararası Enerji Ajansı (IEA), perşembe günü yayımladığı yıllık Dünya Enerji Görünümü raporunda, şubat ayında ABD ve İsrail'in İran'a düzenlediği saldırılarla tetiklenen Orta Doğu krizinin tarihteki en büyük enerji güvenliği tehdidini yarattığını bildirdi. Ajans, bu durumun 1970'lerdeki petrol şoklarının ölçeğini geride bıraktığını kaydetti.\n\nİran'ın Hürmüz Boğazı'nı ablukaya alması ve bölgedeki tankerleri hedef alması nedeniyle Körfez ülkeleri petrol ihraç etmekte zorlanıyor. ABD'nin gemilere eşlik etme girişimlerine rağmen tedarik hatları ciddi şekilde aksamaya devam ediyor. Raporda, krizin etkisiyle tüketicilerin daha yüksek maliyetlerle karşı karşıya kaldığı ve tampon mekanizmaların tükendiği vurgulandı.\n\nIEA İcra Direktörü Fatih Birol, hükümetlerin tüketicileri korumak için müdahalelerde bulunduğunu ancak artan fiyatlar ve bazı durumlarda arz açıkları yaşandığını belirtti. Birol, krizin ne kadar uzun sürerse etkilerinin o kadar derin olacağını ve enerji dünyasının eski haline dönmesi için güvenilir bir yol göremediğini ifade etti.\n\nTürkiye'de düzenlenen COP31 iklim görüşmeleri sırasında yayımlanan rapor, mevcut politikalar ile net sıfır emisyon hedefleri gibi senaryoların yanı sıra krizin kalıcılığını ele alan ek senaryolara da yer verdi. Raporda, orta senaryoda küresel petrol talebinin 2030 civarında zirve yaptıktan sonra düşüşe geçmesinin beklendiği aktarıldı.",
+      "body": "Uluslararası Enerji Ajansı (IEA), perşembe günü yaptığı açıklamada, Orta Doğu'daki krizin tarihin en büyük enerji güvenliği tehdidini oluşturduğunu bildirdi. Ajans, yıllık Dünya Enerji Görünümü raporunda, Şubat ayında ABD ve İsrail'in İran'a düzenlediği saldırılarla tetiklenen krizin etkilerini absorber etme yollarının tükendiğini ve tüketicilerin faturayı daha fazla ödemek zorunda kaldığını belirtti. İran'ın Hürmüz Boğazı'nı ablukaya alması ve bölgedeki tankerleri hedef alması nedeniyle Körfez ülkeleri petrol ihracatında zorluk yaşıyor. ABD'nin gemileri kanaldan geçirme çabalarına rağmen tedarik zincirleri ciddi şekilde aksamış durumda.\n\nIEA İcra Direktörü Fatih Birol, raporun önsözünde, Hürmüz Boğazı krizinin 1970'lerin petrol şoklarını geride bırakan benzeri görülmemiş bir tehdit yarattığını vurguladı. Hükümetlerin tüketicileri korumak için müdahalelerde bulunduğunu ancak artan fiyatlar ve bazı durumlarda arz açıklarıyla karşılaşıldığını ifade etti. Birol, krizin kalıcı izler bırakacağını ve enerji dünyasının eskisi gibi olacağına dair inandırıcı bir yol görmediğini kaydetti.\n\nTürkiye'de düzenlenen COP31 iklim görüşmeleri sırasında yayımlanan raporda, ajans enerji görünümü için mevcut politikaları, açıklanan hükümet politikalarını ve 2050'de sıfır net emisyona ulaşmayı ele alan üç ana senaryonun yanı sıra krizin sürmesi durumuna ilişkin iki senaryo daha ekledi. Orta senaryoda küresel petrol talebinin 2030 civarında zirve yapması öngörülürken, krizin ne kadar uzun sürerse etkilerinin o kadar derin olacağı belirtildi.",
       "highlights": [
-        "Orta Doğu krizi tarihin en büyük enerji güvenliği tehdidini oluşturuyor",
-        "İran'ın Hürmüz Boğazı ablukası ve tanker hedef alımları petrol sevkiyatını aksatıyor",
-        "Tüketiciler daha yüksek maliyetler ve arz açıklarıyla karşı karşıya kalıyor"
+        "Orta Doğu'daki kriz tarihin en büyük enerji güvenliği tehdidini oluşturuyor.",
+        "İran'ın Hürmüz Boğazı'nı ablukası petrol sevkiyatlarını aksatıyor ve tüketicileri yüksek fiyatlarla karşı karşıya bırakıyor.",
+        "IEA İcra Direktörü Fatih Birol, enerji dünyasının eski haline dönmesi için inandırıcı bir yol görmediğini belirtti."
       ],
       "externalUrl": "https://www.france24.com/en/middle-east/20261119-middle-east-crisis-energy-security-iea",
       "publishedAt": "2026-11-19T05:11:59.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T05:24:33.764Z"
+      "sourceTextAttemptedAt": "2026-11-20T06:54:33.125Z"
     },
     {
       "id": "https://www.haberturk.com/dunya/dunya-bu-gorusmeye-kilitlendi-trump-si-ve-putin-tarihi-bir-gorusme-gerceklestirecek-3928376",
@@ -8651,7 +8697,7 @@
       "publishedAt": "2026-11-17T16:17:23.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T14:54:17.127Z",
+      "imageSearchAttemptedAt": "2026-11-20T06:54:33.125Z",
       "sourceTextAttemptedAt": "2026-11-18T06:24:29.731Z"
     },
     {
@@ -8861,7 +8907,7 @@
       "publishedAt": "2026-11-17T15:57:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T14:54:17.127Z",
+      "imageSearchAttemptedAt": "2026-11-20T06:54:33.125Z",
       "sourceTextAttemptedAt": "2026-11-18T09:14:20.983Z"
     },
     {
@@ -13719,52 +13765,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/dunya/abd-genelinde-tum-ucuslar-durduruldu-3927258",
       "publishedAt": "2026-11-14T00:22:04.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazete-de-3927262",
-      "headline": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı Resmi Gazete'de yayımlandı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606751582238-254639e4bb94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8b2ZmaWNpYWwlMjBnYXpldHRlfGVufDF8MHx8fDE3OTQ2MTI1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Brett Jordan",
-        "photographerUrl": "https://unsplash.com/@brett_jordan",
-        "unsplashUrl": "https://unsplash.com/photos/text-YIFhxNvOQZ8"
-      },
-      "timeAgo": "26 dk önce",
-      "body": "Türkiye'nin çalışma hayatında kapsamlı bir dönüşüm sürecini başlatmayı hedefleyen önemli bir düzenleme hayata geçirildi. Konuya ilişkin resmi adımlar atılırken, hazırlanan Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) başlıklı Cumhurbaşkanlığı Genelgesi, ilgili mercilerin onayının ardından Resmi Gazete'nin mükerrer veya normal sayıları üzerinden kamuoyuna duyuruldu. Bu hamle, ülkenin hem yeşil ekonomi vizyonuna uyum sağlaması hem de dijitalleşmenin getirdiği teknolojik yeniliklerin istihdam piyasası üzerindeki olası yansımalarını kontrol altında tutabilmesi adına stratejik bir dönüm noktası olarak değerlendiriliyor.\n\nSon yıllarda tüm dünyada hız kazanan iklim kriziyle mücadele tedbirleri ve endüstriyel alandaki dijital devrim, geleneksel iş modellerini kökten değiştirmeye devam ediyor. İşte bu küresel değişim dalgasının çalışma yaşamı üzerindeki etkilerini en aza indirmek ve dezavantajlı duruma düşebilecek kesimleri korumak amacıyla tasarlanan plan, önümüzdeki yıllarda atılacak adımların yol haritasını çiziyor. Belirlenen stratejiler doğrultusunda, çalışanların haklarının gözetilmesi, yeşil iş alanlarının desteklenmesi ve iş gücünün yeni becerilerle donatılması gibi kritik hedeflere odaklanılması öngörülüyor.\n\nResmi Gazete'de yayımlanan metne göre, söz konusu eylem planının uygulama sürecinin takibi ve koordinasyonu belirli bir kurumsal yapıya emanet edildi. Buna göre, planın başarıyla hayata geçirilmesi ve ilgili tüm paydaşlar arasında iş birliğinin tesis edilmesi görevi Çalışma ve Sosyal Güvenlık Bakanlığı tarafından yürütülecek. Bakanlık, ilgili diğer kamu kurum ve kuruluşları, sivil toplum örgütleri ve sosyal taraflarla eş güdüm içinde çalışarak sürecin etkin bir şekilde yönetilmesini sağlayacak.\n\nPlanın kapsadığı 2027 ile 2029 yılları arasındaki dönemin, Türkiye'nin istihdam politikalarında yeşil ve dijital dönüşüm eksenli köklü değişimlere sahne olması bekleniyor. Gerek imalat sanayiinde gerekse hizmetler sektöründe faaliyet gösteren iş yerlerinin bu yeni düzene ayak uydurabilmesi için çeşitli teşvik ve eğitim programlarının devreye sokulması da planın satır aralarında yer alan hususlar arasında bulunuyor. Sürecin tüm aşamaları, Çalışma ve Sosyal Güvenlik Bakanlığı'nın liderliğinde titizlikle izlenecek.\n\nGeride bıraktığımız dönemde dünya genelinde tartışılmaya başlanan ve artık ulusal politikaların merkezine yerleşen 'adil geçiş' kavramı, ekonomik büyüme hedeflenirken çalışanların mağdur edilmemesini temel alıyor. Bu kapsamda yayımlanan yeni eylem planı, hem çevresel sürdürülebilirliği sağlamak hem de iş gücü piyasasının dinamiklerini korumak adına atılan somut ve bağlayıcı bir idari adım olma özelliği taşıyor. İlgili bakanlığın koordinasyonunda ilerleyecek olan çalışmaların, Türkiye'nin gelecekteki çalışma standartlarını şekillendirmesi bekleniyor.",
-      "highlights": [
-        "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) Resmi Gazete'de yayımlandı.",
-        "Plan, yeşil ve dijital dönüşümün çalışma hayatına etkilerini yönetmeyi amaçlıyor.",
-        "Uygulama süreci Çalışma ve Sosyal Güvenlik Bakanlığı tarafından koordine edilecek."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazete-de-3927262",
-      "publishedAt": "2026-11-13T23:03:26.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-kasim-2026-1750771",
-      "headline": "14 Kasım 2026 son depremler listesi: Az önce nerede deprem oldu, şiddeti kaç?",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1630531210784-21e457d5bd55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c2Vpc21vZ3JhcGglMjBtYWNoaW5lfGVufDF8MHx8fDE3OTQ2MTI1OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Stephen Andrews",
-        "photographerUrl": "https://unsplash.com/@porkbellysteve",
-        "unsplashUrl": "https://unsplash.com/photos/white-laptop-computer-turned-on-displaying-8-00-fsxMTe6hMUM"
-      },
-      "timeAgo": "30 dk önce",
-      "body": "Türkiye genelinde yaşanan sismik hareketlilik, vatandaşlar tarafından yakından takip edilmeye devam ediyor. Özellikle büyük şehirlerde yaşayanlar başta olmak üzere pek çok kişi, son dakika deprem haberlerini anlık olarak öğrenmek için arama motorlarına başvuruyor. 14 Kasım 2026 tarihinde meydana gelen sarsıntılara ilişkin tüm detaylar, ilgili kurumların resmi verileri üzerinden mercek altına alınıyor.\n\nÜlke genelindeki sarsıntıları anlık olarak izlemek isteyen vatandaşlar, Türkiye deprem haritası üzerinden son bilgileri sorguluyor. 'Az önce deprem mi oldu?', 'Nerede ve kaç şiddetinde sarsıntı yaşandı?' gibi sorular, arama motorlarında en çok araştırılan konular arasında yer alıyor. Deprem kuşağında yer alan Türkiye'de, bu tür anlık gelişmeler her zaman büyük bir hassasiyetle ve dikkatle takip ediliyor.\n\nAfet ve Acil Durum Yönetimi Başkanlığı (AFAD) ile Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü, ülke genelindeki sarsıntıları 7/24 esaslı olarak kaydediyor. Bu resmi kurumlar, meydana gelen depremlerin büyüklüğünü, merkez üssünü ve derinliğini kamuoyuyla paylaşarak vatandaşları bilgilendiriyor. Güncel deprem listeleri, gün boyunca anlık olarak güncellenerek ilgili platformlar üzerinden erişime açılıyor.\n\nÖzellikle megakent İstanbul başta olmak üzere Ankara, İzmir ve diğer tüm illerde yaşayan milyonlarca insan, bulundukları bölgede veya yakın çevrede herhangi bir sarsıntı olup olmadığını merak ediyor. 'Yakınımdaki depremler nelerdir?' sorusuna yanıt arayan bireyler, olası bir artçı sarsıntı riskine karşı da resmi kurumların yapacağı açıklamaları yakından takip ediyor. Yaşanan her sarsıntının ardından büyüklük ve derinlik bilgileri bu kurumlar vasıtasıyla netlik kazanıyor.\n\nDeprem bilincinin ve hazırlık kültürünün hayati önem taşıdığı Türkiye'de, anlık deprem raporları toplumsal güvenliğin sağlanmasında kritik bir rol oynuyor. Uzmanlar, sarsıntı anında ve sonrasında resmi kaynaklarca yapılmayan hiçbir asılsız bilgiye itibar edilmemesi gerektiğini vurguluyor. 14 Kasım 2026 tarihi itibarıyla güncel deprem verilerine ulaşmak isteyenler, AFAD ve Kandilli Rasathanesi'nin resmi internet siteleri ile canlı harita uygulamalarını takip etmeyi sürdürüyor.",
-      "highlights": [
-        "14 Kasım 2026 tarihinde meydana gelen son depremler vatandaşlarca araştırılıyor.",
-        "AFAD ve Kandilli Rasathanesi sarsıntı verilerini anlık olarak paylaşıyor.",
-        "İstanbul, Ankara ve İzmir başta olmak üzere il il son depremler takip ediliyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-14-kasim-2026-1750771",
-      "publishedAt": "2026-11-13T23:00:01.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
