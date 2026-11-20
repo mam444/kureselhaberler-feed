@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T13:14:42.932Z",
+  "generatedAt": "2026-11-20T13:25:38.208Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/anadolu-efes-asvel-maci-canli-izle-euroleage-anadolu-efes-asvel-basketbol-maci-nereden-izlenir-hangi-kanalda-saat-kacta-mac-sifresiz-3495843",
+      "headline": "Anadolu Efes - ASVEL EuroLeague Maçı Ne Zaman, Saat Kaçta ve Hangi Kanalda?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmFza2V0YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTUxODExMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/ball-under-basketball-ring-BfphcCvhl6E"
+      },
+      "timeAgo": "şimdi",
+      "body": "THY EuroLeague'in 13. haftasında Anadolu Efes, taraftarı önünde Fransa temsilcisi LDLC ASVEL'i konuk ediyor. Karşılaşma, 20 Kasım 2026 Cuma akşamı saat 20.30'da Turkcell Basketbol Gelişim Merkezi'nde oynanacak.\n\nLacivert-beyazlı ekip, geride kalan haftalardaki istikrarsız sonuçları telafi ederek üst sıralara yaklaşmayı ve iç saha avantajıyla önemli bir galibiyet almayı hedefliyor. Konuk ekip ASVEL ise alt sıralardan uzaklaşma mücadelesi veriyor. İki takımın sezon hedefleri açısından önem taşıyan bu kritik mücadele S Sport ve S Sport Plus ekranlarından canlı olarak yayınlanacak.",
+      "highlights": [
+        "Anadolu Efes ile LDLC ASVEL, EuroLeague 13. hafta maçında karşı karşıya geliyor.",
+        "Karşılaşma 20 Kasım 2026 Cuma günü saat 20.30'da Turkcell Basketbol Gelişim Merkezi'nde oynanacak.",
+        "Maç S Sport ve S Sport Plus ekranlarından canlı olarak izlenebilecek."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/anadolu-efes-asvel-maci-canli-izle-euroleage-anadolu-efes-asvel-basketbol-maci-nereden-izlenir-hangi-kanalda-saat-kacta-mac-sifresiz-3495843",
+      "publishedAt": "2026-11-20T13:25:43.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
       "headline": "AKOM'dan İstanbul için son dakika sağanak uyarısı",
@@ -15,14 +38,15 @@
       "timeAgo": "şimdi",
       "body": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte bugün ve yarın etkili olması beklenen sağanak yağışa karşı vatandaşları uyardı.\n\nAKOM raporuna göre, bugün öğle saatlerinden sonra başlaması öngörülen yağışların akşam saatlerine doğru il genelinde etkisini artırması bekleniyor. Yağışların saat 22.00'ye kadar sağanak ve yer yer kuvvetli gök gürültülü sağanak şeklinde, metrekareye 10 ila 20 kilogram düşecek şekilde etkili olacağı tahmin ediliyor.\n\nGece saatlerinde etkisini kaybetmesi beklenen yağışların, cumartesi günü öğle saatlerinden itibaren yeniden başlaması öngörülüyor. Bu yağışların akşam saatlerine kadar kısa süreli ve kuvvetli gök gürültülü sağanak geçişleri şeklinde görüleceği tahmin ediliyor.\n\nYetkililer, yaşanabilecek olumsuzluklara karşı kent sakinlerini dikkatli ve tedbirli olmaları konusunda uyardı.",
       "highlights": [
-        "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi (AKOM) sağanak uyarısında bulundu.",
+        "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi (AKOM) sağanak uyarısı yaptı.",
         "Yağışların metrekareye 10 ila 20 kilogram düşmesi bekleniyor.",
-        "Yağışların cumartesi günü öğle saatlerinden sonra yeniden başlaması öngörülüyor."
+        "AKOM vatandaşları olumsuzluklara karşı dikkatli ve tedbirli olmaya çağırdı."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
       "publishedAt": "2026-11-20T13:19:14.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T13:25:23.843Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/eyupsultanda-2-iett-otobusu-carpisti-4-yarali-3495840",
@@ -91,6 +115,30 @@
       ],
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
       "publishedAt": "2026-11-20T12:44:58.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T13:25:23.843Z"
+    },
+    {
+      "id": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+      "headline": "Öğrenim ücretleri krizi, Burnham'ın AB anlaşmasını tehlikeye atabilir",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1698191310487-9fc33b0e266a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RVUlMjBzdW1taXQlMjBCcnVzc2Vsc3xlbnwxfDB8fHwxNzk1MTcwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carl Gruner",
+        "photographerUrl": "https://unsplash.com/@squads_cap",
+        "unsplashUrl": "https://unsplash.com/photos/three-european-flags-flying-in-front-of-a-building-dxQ6ISn7_tQ"
+      },
+      "timeAgo": "43 dk önce",
+      "body": "İçeriden kişilere göre, öğrenim ücretleri konusundaki anlaşmazlık, Birleşik Krallık ile Avrupa Birliği arasındaki ilişkileri yeniden düzenleme anlaşmasını riske atabilir. Downing Street, Birleşik Krallık ve AB'nin gıda ve içecek, emisyon ticareti ve gençlik hareketliliği olmak üzere üç anlaşmada mutabakata vardığını bildirdi. Ancak AB kaynakları, Avrupalı öğrenciler için uygulanacak öğrenim ücreti oranlarında bir uzlaşı sağlanmadığı sürece bu anlaşmaların yürürlüğe girmeyeceğini belirtiyor.\n\nBrüksel'deki zirveye katılan Birleşik Krallık Başbakanı Andy Burnham, Avrupa Komisyonu Başkanı Ursula von der Leyen ve Avrupa Konseyi Başkanı António Costa tarafından karşılandı. 10 Numara, müzakerelerin sona erdiğini ve anlaşmanın tamamlandığını duyururken, öğrenim ücreti meselesinin diğer süreçlerin çökmesine yol açabileceği iddialarına karşı çıktı. İngiliz yetkililer, bu konuların tamamen ayrı olduğunu savundu.\n\nAB ise Brüksel'deki kurumların hazırladığı bir belgede, bu anlaşmaların bir bütün oluşturduğunu ve AB öğrencileri için öğrenim ücretleri konusunda vatandaşlarla eşit muamele sağlanmasının hayati önem taşıdığını vurguladı. AB, Avrupalı öğrencilerin uluslararası oranlar yerine Birleşik Krallık içindeki yerel öğrenci oranlarını ödemesini talep ediyor. Yapılan son görüşmelerde Birleşik Krallık, AB öğrencileri için ücreti 12.000 sterline kadar düşürebileceğini öne sürerken, AB eşit muamele talebinde ısrarcı.\n\nÖğrenim ücretleri konusundaki müzakerelerin altı ay daha sürmesi planlanıyor. Anlaşmanın henüz kesinleşmemiş olmasına rağmen Başbakan Burnham, İngiltere'deki Brexit karşıtı siyasetçilerden, özellikle de Brüksel'de bulunan Reform UK lideri Nigel Farage'dan sert tepkilerle karşılaşıyor. Farage, Burnham'ın AB'nin tek pazarının bir bölümüne yeniden katıldığını ve bunun gereksiz olduğunu savundu.",
+      "highlights": [
+        "Birleşik Krallık ve AB, gıda, emisyon ticareti ve gençlik hareketliliği konularında anlaşmaya vardı.",
+        "AB kaynakları, öğrenim ücretleri konusunda uzlaşı sağlanmazsa anlaşmaların yürürlüğe girmeyeceğini belirtiyor.",
+        "AB, Avrupalı öğrencilerin Birleşik Krallık'ta yerel öğrenci oranlarıyla öğrenim ücreti ödemesini istiyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
+      "publishedAt": "2026-11-20T12:42:08.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -9730,7 +9778,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T17:55:23.537Z",
-      "imageSearchAttemptedAt": "2026-11-20T06:34:25.008Z"
+      "imageSearchAttemptedAt": "2026-11-20T13:25:23.843Z"
     },
     {
       "id": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
@@ -9795,7 +9843,7 @@
       "publishedAt": "2026-11-17T16:53:39.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T06:34:25.008Z",
+      "imageSearchAttemptedAt": "2026-11-20T13:25:23.843Z",
       "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z"
     },
     {
@@ -13764,52 +13812,6 @@
       ],
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/russias-andreeva-defeats-ukraines-svitolina-7-5-6-3-to-win-wta-finals?traffic_source=rss",
       "publishedAt": "2026-11-16T07:13:00.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/gundem/istanbulda-korkunc-olum-otomobil-carpti-servis-araci-uzerinden-gecti-43379652",
-      "headline": "İstanbul'da feci kaza: Otomobilin çarptığı yaya hayatını kaybetti",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1713623311317-d3c43a4be4cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTQ4MTUwNzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anthony Maw",
-        "photographerUrl": "https://unsplash.com/@anthonymaw",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-that-has-crashed-into-another-car-XcjVef6uvYA"
-      },
-      "timeAgo": "39 dk önce",
-      "body": "İstanbul Arnavutköy'de yolun karşısına geçmeye çalışan 61 yaşındaki Mehmet Önalan, otomobilin çarpmasıyla yola savrulduktan sonra bir servis aracının altında kaldı. Olay sonucunda yaşamını yitiren Önalan'ın kazasına karışan iki aracın sürücüsü de gözaltına alındı.",
-      "highlights": [
-        "İstanbul Arnavutköy'de meydana geldi",
-        "61 yaşındaki Mehmet Önalan hayatını kaybetti",
-        "İki aracın sürücüsü gözaltına alındı"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/gundem/istanbulda-korkunc-olum-otomobil-carpti-servis-araci-uzerinden-gecti-43379652",
-      "publishedAt": "2026-11-16T07:06:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
-      "headline": "Bacaklarını kaybeden Avustralyalı milletvekili hastaneden ayrıldı",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1758654859923-339c0f2f925e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QXVzdHJhbGlhbiUyMHBvbGl0aWNpYW4lMjBob3NwaXRhbHxlbnwxfDB8fHwxNzk0ODMyMDQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Navy Medicine",
-        "photographerUrl": "https://unsplash.com/@navymedicine",
-        "unsplashUrl": "https://unsplash.com/photos/nurses-attend-to-patients-in-a-hospital-ward-s_FCfUvLaDI"
-      },
-      "timeAgo": "6 sa önce",
-      "body": "Saldırı iddiası sonucu her iki bacağını da kaybeden Avustralyalı siyasetçi Helen Haines, hastaneden ayrılırken minnettarlık dolu olduğunu belirtti.",
-      "highlights": [
-        "Helen Haines hastaneden ayrıldı",
-        "Saldırı iddiası sonucu iki bacağını kaybetmişti",
-        "Hastaneden ayrılırken minnettarlık duyduğunu ifade etti"
-      ],
-      "externalUrl": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
-      "publishedAt": "2026-11-16T06:49:00.000Z",
       "category": "World",
       "lang": "tr"
     }
