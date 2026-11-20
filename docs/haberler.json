@@ -1,9 +1,32 @@
 {
-  "generatedAt": "2026-11-20T09:44:43.156Z",
+  "generatedAt": "2026-11-20T09:54:44.603Z",
   "articles": [
     {
+      "id": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
+      "headline": "Marmara'da Akılalmaz Manzara: ‘Babamızı Dondurma Dolabında Saklıyoruz’",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1777272469190-98126bf82128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aXNsYW5kJTIwdmlsbGFnZXxlbnwxfDB8fHwxNzk1MTY4NDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Julia Taubitz",
+        "photographerUrl": "https://unsplash.com/@justmejuliee",
+        "unsplashUrl": "https://unsplash.com/photos/cobblestone-street-lined-with-traditional-dutch-houses-oUKwVgGNWdQ"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Balıkesir'in Erdek ilçesine bağlı Paşalimanı Adası'nda yaşayan Mahmut S.'nin sabaha karşı fenalaşması üzerine yakınları 112 ekiplerine haber verdi. İddialara göre, adada sabit bir ambulans bulunmadığı için sağlık ekipleri hastanın Balıklı İskelesi'ne getirilmesini istedi. Aile üyeleri, saat 06.15'te bir panelvanın arkasında hastayla birlikte iskeleye ulaştı ve yaklaşık 45 dakika beklediklerini belirtti. Kıyı emniyetinin gelmesiyle yapılan kontrolde hastanın vefat ettiği anlaşıldı.\n\nÖlümün ardından yakınlarının adaya ulaşmasını beklemek amacıyla merhumun cenazesi camiye götürüldü. Adada morg bulunmadığı için kullanılmak istenen soğutuculu tabutun soğutma sistemi ise çalışmadı. Bunun üzerine Mahmut S.'nin bedeni, yakınlarının Gebze'den adaya varmasına kadar dondurma dolabında bekletildi. Ailenin ulaşmasının ardından Mahmut S. toprağa verildi.\n\nYaşanan olayların ardından ada sakinlerinin durumuna ilişkin çeşitli iddialar gündeme geldi. Adada hastane bulunmadığı, yalnızca bir sağlık ocağı olduğu ve burada tek sağlık görevlisinin çalıştığı öğrenildi. Doktorun ise haftada bir görevlendirme ile adaya geldiği öne sürüldü. Morg hizmeti için yıllarca yapılan başvurulara rağmen ne ilçe belediyesinin ne de büyükşehir belediyesinin morg hizmeti sağlamadığı iddia edildi. Ayrıca sağlık hizmetlerindeki eksikliklerin yanı sıra adada okulun da yer almadığı belirtildi.",
+      "highlights": [
+        "Mahmut S.'nin cenazesi adada morg olmadığı ve soğutuculu tabut çalışmadığı için dondurma dolabında bekletildi.",
+        "Adada sabit ambulans bulunmadığı, hastanın panelvanla iskeleye taşındığı ve Kıyı Emniyeti beklendiği ifade edildi.",
+        "Ada sakinleri hastane, morg, düzenli doktor ve okul gibi hizmetlerin eksikliğinden yakındı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
+      "publishedAt": "2026-11-20T09:52:41.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.milliyet.com.tr/dunya/fransiz-basini-turkiyeyi-konusuyor-savunmada-dengeler-degisti-185-ulkeye-yayilan-guc-7704379",
-      "headline": "Fransız basınından Türkiye analizi: Savunmada dengeler değişti",
+      "headline": "Fransız basını Türkiye'yi konuşuyor! Savunmada dengeler değişti: '185 ülkeye yayılan güç'",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
       "imageUrl": "https://images.unsplash.com/photo-1721969661115-8d1affb358da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHVya2lzaCUyMGRlZmVuc2UlMjBpbmR1c3RyeXxlbnwxfDB8fHwxNzk1MTY3ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -13,16 +36,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-group-of-fighter-jets-flying-through-a-cloudy-sky-wyXRVUCWM1A"
       },
       "timeAgo": "4 dk önce",
-      "body": "Türkiye'nin savunma sanayisinde kaydettiği dönüşüm Fransız yayın kuruluşu France 24'ün analizinde yer aldı. Haberde, Türkiye'nin NATO müttefikleri arasında yerli üretim hamlesi ve ihracat kapasitesiyle önemli bir oyuncu haline geldiği vurgulandı.\n\nAnalize göre, Türk silah üreticilerinin ciroları 2002-2023 yılları arasında 15 kat artarken, savunma sanayisi ihracatı 2010 yılında yaklaşık 800 milyon dolarken 2024'te 7.1 milyar dolara çıktı. Emekli Tuğgeneral Patrice Moyeuvre, Türkiye'nin teçhizatının önemli bir bölümünü kendi imkanlarıyla ürettiğini belirtti. Dönüşümün arkasındaki en önemli adımlardan birinin 2004'te atıldığı, Ankara'nın hazır sistemler yerine silah geliştirme çalışmalarını ülke içine yönlendirdiği ve sektörü Savunma Sanayii Başkanlığı koordinasyonuna aldığı aktarıldı.\n\nTürkiye'nin son 10 yılda 185 ülkeye 230 farklı savunma ürünü ihraç ettiği ifade edildi. ASELSAN, HAVELSAN, TUSAŞ ve ROKETSAN gibi şirketlerin uluslararası ölçekte büyüdüğü kaydedildi. Janes analisti Tom Barton, Türkiye'nin füze, İHA ve komuta ağlarına yatırımlar yaptığını ve Avrupa ile ABD şirketleriyle rekabet eden tercih edilen bir tedarikçi olduğunu söyledi.\n\nAyrıca ASELSAN'ın EJDERHA adlı yüksek güçlü elektromanyetik sisteminin 51 droneluk sürüyü etkisiz hale getirdiği gösterime yer verildi. Türkiye'nin bağımsız dış politikası ve NATO müttefikleriyle ilişkileri de analizde ele alındı.",
+      "body": "Türkiye'nin savunma sanayisinde kaydettiği büyük dönüşüm Fransız yayın kuruluşu France 24'te yayımlanan analizde ele alındı. Analizde, Türkiye'nin NATO müttefikleri arasında iddialı politikası, yerli üretim hamlesi ve büyüyen ihracat kapasitesiyle askeri ittifakın önemli oyuncularından biri haline geldiği vurgulandı. Türk silah üreticilerinin 2002-2023 yılları arasında cirolarını 15 kat artırdığı, savunma sanayisi ihracatının ise 2010 yılında yaklaşık 800 milyon dolar seviyesindeyken 2024'te 7.1 milyar dolara yükseldiği aktarıldı.\n\nEmekli Fransız Tuğgeneral Patrice Moyeuvre, Türkiye'nin savunma teçhizatının önemli bir bölümünü kendi imkanlarıyla tasarladığını, geliştirdiğini ve ürettiğini belirtti. France 24'ün analizinde ASELSAN, HAVELSAN, TUSAŞ ve ROKETSAN gibi şirketlerin uluslararası ölçekte savunmanın bel kemiği haline geldiği ifade edildi. Türkiye'nin dönüşümünün arkasındaki en önemli adımlardan birinin 2004 yılında atıldığı, Ankara'nın hazır sistem satın alma yaklaşımını değiştirerek silah geliştirme çalışmalarını ülke içine yönlendirdiği ve sektörü Savunma Sanayii Başkanlığı'nın koordinasyonuna aldığı kaydedildi.\n\nAnkara'nın son 10 yılda 185 ülkeye 230 farklı türde savunma ürünü ihraç ettiğine dikkat çekilirken, bu tablonun Türkiye'nin uluslararası pazardaki rekabet gücünü gözler önüne serdiği belirtildi. Londra merkezli Janes analisti Tom Barton, Türkiye'nin gelişmiş askeri sistemlere yönelik yatırımlarını vurgulayarak, Türkiye'nin Orta Doğu ve Asya'daki müşteriler açısından tercih edilen bir tedarikçi olarak görüldüğünü söyledi. Ayrıca ASELSAN'ın yüksek güçlü elektromanyetik sistemi EJDERHA'nın 51 dronu tek düğmeyle etkisiz hale getirdiği gösterime de yer verildi.\n\nAnalizde, Türkiye'nin temmuz ayındaki NATO zirvesine ev sahipliği yapması ve NATO Edge etkinliğini düzenlemesinin Ankara'nın ittifak içerisindeki konumunu ortaya koyduğu ifade edildi. Son olarak, Türkiye'nin savunma alanındaki yükselişinin yanı sıra dış politikadaki bağımsız tutumuna dikkat çekilerek, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Washington, Kiev, Moskova ve Tahran ile ilişkilerde bağımsız hareket etme iradesini dış politikanın temel unsuru olarak gördüğü aktarıldı.",
       "highlights": [
-        "Türk savunma sanayi cirosu 2002-2023 yılları arasında 15 kat arttı.",
-        "Savunma ihracatı 2024 yılında 7.1 milyar dolara yükseldi.",
+        "Türk silah üreticileri 2002-2023 yılları arasında cirolarını 15 kat artırdı.",
+        "Savunma sanayisi ihracatı 2024 yılında 7.1 milyar dolara yükseldi.",
         "Türkiye son 10 yılda 185 ülkeye 230 farklı türde savunma ürünü ihraç etti."
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/fransiz-basini-turkiyeyi-konusuyor-savunmada-dengeler-degisti-185-ulkeye-yayilan-guc-7704379",
       "publishedAt": "2026-11-20T09:41:03.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T09:54:23.452Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/kari-kocanin-korkunc-yasak-ask-plani-cesedi-varil-icinde-yok-etmeye-calistilar-7704373",
@@ -111,6 +135,28 @@
       ],
       "externalUrl": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
       "publishedAt": "2026-11-20T09:18:30.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+      "headline": "Kenya’nın Büyüyen Doping Krizi Atletizm Ülkesi Mirasını Gölgeliyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cnVubmluZyUyMGRvcGluZ3xlbnwxfDB8fHwxNzk1MTY4NDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "sporlab",
+        "photographerUrl": "https://unsplash.com/@sporlab",
+        "unsplashUrl": "https://unsplash.com/photos/pair-of-blue-and-white-adidas-running-shoes-XiZ7pRvCzro"
+      },
+      "timeAgo": "38 dk önce",
+      "body": "Kenya'nın atletizm alanındaki güçlü mirası, son yıllarda artan doping vakaları nedeniyle gölgede kalmaya devam ediyor. Athletics Integrity Unit (Atletizm Dürüstlük Birimi) verilerine göre, 2017 yılından bu yana 140'tan fazla Kenyalı sporcu açığa alındı. Cezalandırılan veya uzaklaştırılan bu sporcuların çoğunluğunu ise uzun mesafe koşucuları oluşturuyor. Yaşanan bu durum, ülkenin atletizmdeki tarihi başarıları üzerinde soru işaretleri yaratıyor ve spor dünyasında geniş yankı uyandırıyor.",
+      "highlights": [
+        "2017'den bu yana 140'tan fazla Kenyalı sporcu askıya alındı",
+        "Cezalandırılan sporcuların çoğunluğunu uzun mesafe koşucuları oluşturuyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+      "publishedAt": "2026-11-20T09:16:30.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -13734,52 +13780,6 @@
       "externalUrl": "https://www.hurriyet.com.tr/sporarena/zinedine-zidanedan-mbappe-yaniti-turkiye-macinda-oynayacak-mi-43378649",
       "publishedAt": "2026-11-14T19:07:17.000Z",
       "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-      "headline": "Orta Afrika Cumhuriyeti'nde Artan Maliyetler ve Tutuklamalar Protestolara Yol Açtı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591259622709-bdb033b4be2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cHJvdGVzdHxlbnwxfDB8fHwxNzk0Njc5NTA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Teemu Paananen",
-        "photographerUrl": "https://unsplash.com/@xteemu",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-city-buildings-rd5uNIUJCF0"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Orta Afrika Cumhuriyeti'nin başkenti Bangui'de yüzlerce kişi sokaklara dökülerek artan akaryakıt fiyatlarını ve tutuklamaları protesto etti.",
-      "highlights": [
-        "Bangui'de yüzlerce kişi sokaklara döküldü",
-        "Artan akaryakıt fiyatları protesto edildi",
-        "Tutuklamalara karşı eylem düzenlendi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
-      "publishedAt": "2026-11-14T17:50:28.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "headline": "ABD'den Ukrayna'ya Donbas teklifi iddiası",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1653936999234-6574484abc38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8WmVsZW5za3l5JTIwTkFUTyUyMERvbmJhc3xlbnwxfDB8fHwxNzk0Njc5NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-signs-in-a-protest-ybnDhuOL00E"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "ABD'nin, Ukrayna'nın NATO üyesi olabilmesi için Donbas'ın bazı kısımlarını Rusya'ya bırakmasını önerdiği öne sürüldü. Devlet Başkanı Zelenskiy, tarafsızlık taahhüdünde bulunma olasılığını reddederek Rusya'ya toprak vermeyi kabul etmediğini belirtti.",
-      "highlights": [
-        "ABD'nin Donbas'ın bir kısmının Rusya'ya bırakılmasını önerdiği iddia edildi",
-        "Zelenskyy tarafsızlığı reddetti",
-        "Ukrayna lideri Rusya'ya toprak vermeyi kabul etmedi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "publishedAt": "2026-11-14T16:53:39.000Z",
-      "category": "World",
       "lang": "tr"
     }
   ],
