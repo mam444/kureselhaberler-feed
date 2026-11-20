@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-20T10:05:20.929Z",
+  "generatedAt": "2026-11-20T10:14:30.181Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/japonyada-gergin-anlar-abd-ordusuna-ait-f-35-ucagi-acil-inis-yapti-7704514",
+      "headline": "Japonya'da ABD ordusuna ait F-35 uçağı acil iniş yaptı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1693835195923-46a94e82bb88?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Ri0zNSUyMGZpZ2h0ZXIlMjBqZXR8ZW58MXwwfHx8MTc5NTE2OTY2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kim Tunger",
+        "photographerUrl": "https://unsplash.com/@kimtunger",
+        "unsplashUrl": "https://unsplash.com/photos/a-fighter-jet-sitting-on-top-of-an-airport-tarmac-XMRdwBvQPQs"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Japonya'da ABD ordusuna ait bir F-35 savaş uçağı Koçi Havalimanı'na acil iniş gerçekleştirdi.\n\nKoçi eyalet yönetiminden yapılan açıklamaya göre, acil inişin sebebi hakkında henüz herhangi bir detay paylaşılmadı.\n\nYetkililer tarafından yapılan bilgilendirmede, yaşanan olay sonucunda yaralanan kimsenin olmadığı kaydedildi.\n\nÖte yandan, ABD ordusuna ait başka bir F-35 savaş uçağı da Mart 2025'te ülkenin batısındaki Iwakuni Havalimanı'na acil iniş yapmış ve bakım-tamir süreci nedeniyle 40 günden fazla orada kalmıştı.",
+      "highlights": [
+        "ABD ordusuna ait F-35 savaş uçağı Koçi Havalimanı'na acil iniş yaptı",
+        "Olayda yaralanan olmadığı bildirildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/japonyada-gergin-anlar-abd-ordusuna-ait-f-35-ucagi-acil-inis-yapti-7704514",
+      "publishedAt": "2026-11-20T10:12:21.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
+      "headline": "Aşırı Sağcılar GTA VI Şakasının Hedefini Kaçırıyor: Asıl Hedef Kendileri",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dmlkZW8lMjBnYW1lc3xlbnwxfDB8fHwxNzk1MTE2ODYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carl Raw",
+        "photographerUrl": "https://unsplash.com/@carltraw",
+        "unsplashUrl": "https://unsplash.com/photos/gaming-room-with-arcade-machines-m3hn2Kn5Bns"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "France 24'ün basın özetinde yer alan bilgilere göre, son dönemde gündeme gelen önemli konular arasında Shenzhen'de Donald Trump, Vladimir Putin ve Xi Jinping arasında gerçekleştirilen tarihi zirve yer alıyor. Görüşme basında farklı şekillerde değerlendirilirken, COP31 iklim zirvesinin son aşamaya geldiği ancak son taslak metinden fosil yakıtlarla ilgili ifadelerin çıktığı bildirildi. \n\nÖte yandan haberde, dijital çağın eğlence trendleri de ele alındı. The Guardian gazetesinin \"Power Slap\" adlı yeni dövüş sporuna ilişkin uzun bir incelemesine yer verilirken, uzun süredir beklenen \"Grand Theft Auto VI\" oyununun da piyasaya çıktığı aktarıldı. Oyun, basından övgüler alırken Birleşik Krallık'ta binlerce gencin oyunu oynamak için okulu astığı belirtildi.\n\nOyunun kültürel yansımalarına değinen Wired, çevrim içi bazı kişilerin oynanış sırasında kadınlara saygı duymak zorunda kalmaktan ve düşünceli bir erkek arkadaş olmanın hikayenin ana unsuru olmasından rahatsızlık duyduğunu ifade etti. Sağ görüşlü yayıncıların bu duruma tepki gösterdiği kaydedildi.\n\nHuffington Post ise aşırı sağcıların GTA şakasının esas esprisini kaçırdığını, oyunun Amerikan kültürü ve muhafazakar siyaseti hedef alan keskin bir mizah barındırdığını belirtti. Habere göre sağ kesimin tepkisinin temel nedeni mizah değil, Rockstar Games'in suç faaliyetlerinin yanına \"empati\" mekanizmasını eklemiş olması.",
+      "highlights": [
+        "Shenzhen'de Donald Trump, Vladimir Putin ve Xi Jinping arasında tarihi bir zirve gerçekleştirildi.",
+        "COP31 iklim zirvesinin son taslak metninden fosil yakıtlarla ilgili ifadeler çıkarıldı.",
+        "Grand Theft Auto VI oyunu piyasaya çıktı ve aşırı sağcıların oyundaki bazı mekanizmalardan rahatsızlık duyduğu belirtildi."
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
+      "publishedAt": "2026-11-20T10:11:52.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/emine-erdogandan-dunya-cocuk-haklari-gunu-mesaji-7704507",
       "headline": "Emine Erdoğan'dan Dünya Çocuk Hakları Günü mesajı",
@@ -15,14 +60,15 @@
       "timeAgo": "2 dk önce",
       "body": "Emine Erdoğan, Dünya Çocuk Hakları Günü dolayısıyla sosyal medya hesabından bir mesaj yayımladı. İnsanlığın savaş ve çatışma bölgelerindeki çocuklara daha adil bir dünya borçlu olduğunu belirten Erdoğan, çocukların arkadaşlarıyla güven içinde oyun oynayabildiği, ertesi güne korkmadan uyandığı ve geleceğe dair hayal kurabildiği bir düzenin önemine dikkat çekti.\n\nGazze'deki çocukların bu sevinçleri yaşayacak ömrü bulamadığını vurgulayan Erdoğan, bir çocuğun yaşama hakkı söz konusu olduğunda sesini duyurması gerekenin çocuklar değil, bu hakkı savunmakla yükümlü olan büyükler olduğunu ifade etti.\n\nGazze'den başlayarak nerede bir çocuğun hayatı tehlikedeyse veya çocukluğu elinden alınıyorsa o haksızlığı sona erdirmek için güçlerin birleştirilmesi gerektiğini belirten Erdoğan, 20 Kasım Dünya Çocuk Hakları Günü'nün her çocuğun güven ve huzur içinde yaşadığı günlerin başlangıcı olmasını diledi.",
       "highlights": [
-        "İnsanlık, savaş ve çatışma bölgelerindeki çocuklara daha adil bir dünya borçlu.",
-        "Gazze'de çocuklar bu sevinçleri yaşayacak ömrü bulamıyor.",
-        "Sesini duyurmak zorunda kalan çocuk değil, o hakkı savunmakla yükümlü olan büyüklerdir."
+        "İnsanlık savaş ve çatışma bölgelerindeki çocuklara daha adil bir dünya borçlu",
+        "Gazze'de çocuklar bu sevinçleri yaşayacak ömrü bulamıyor",
+        "Yaşama hakkı söz konusu olduğunda sesini duyurması gerekenler büyüklerdir"
       ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/emine-erdogandan-dunya-cocuk-haklari-gunu-mesaji-7704507",
       "publishedAt": "2026-11-20T10:03:12.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T10:14:23.320Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
@@ -45,7 +91,8 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
       "publishedAt": "2026-11-20T09:54:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T10:14:23.320Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
@@ -13735,52 +13782,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-15-kasim-2026-43378828",
       "publishedAt": "2026-11-15T06:49:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
-      "headline": "Hamas, kıdemli komutanının İsrail hava saldırısında öldürüldüğünü açıkladı",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1551645644-2104d49f7bc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SGFtYXMlMjBjb21tYW5kZXIlMjBhaXJzdHJpa2V8ZW58MXwwfHx8MTc5NDgzMjUxNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vishu Joo",
-        "photographerUrl": "https://unsplash.com/@vishujoo",
-        "unsplashUrl": "https://unsplash.com/photos/gray-and-brown-plane-flying-on-sky-xjR_nXvG6TI"
-      },
-      "timeAgo": "1 gün önce",
-      "body": "Filistinli militan grup Hamas, 7 Ekim 2023 saldırısının planlanması ve denetlenmesine yardım eden kıdemli bir komutanının İsrail hava saldırısında öldürüldüğünü bildirdi.",
-      "highlights": [
-        "Hamas kıdemli bir komutanının öldürüldüğünü açıkladı",
-        "Komutan 7 Ekim 2023 saldırısının planlanmasında görev almıştı",
-        "Ölümün İsrail hava saldırısı sonucu gerçekleştiği belirtildi"
-      ],
-      "externalUrl": "https://news.sky.com/story/hamas-says-senior-commander-killed-in-israeli-airstrike-13612384",
-      "publishedAt": "2026-11-15T05:16:00.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
-      "headline": "15 Kasım 2026 AFAD son depremler listesi ve son dakika deprem haberleri",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1584931423298-c576fda54bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZWFydGhxdWFrZSUyMG1hcHxlbnwxfDB8fHwxNzk0NzAzOTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Martin Sanchez",
-        "photographerUrl": "https://unsplash.com/@martinsanchez",
-        "unsplashUrl": "https://unsplash.com/photos/world-map-showing-red-infection-clusters-j2c7yf223Mk"
-      },
-      "timeAgo": "22 dk önce",
-      "body": "15 Kasım 2026 tarihinde son dakika deprem haberleri, Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ile AFAD verileri üzerinden takip ediliyor. Vatandaşlar İstanbul, Ankara, İzmir ve diğer illerdeki son depremler ile depremin büyüklüğünü merak ediyor.",
-      "highlights": [
-        "15 Kasım 2026 deprem son dakika haberleri",
-        "AFAD ve Kandilli Rasathanesi son depremler listesi",
-        "İstanbul, Ankara ve İzmir'de deprem olup olmadığı araştırılıyor"
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-15-kasim-2026-1750900",
-      "publishedAt": "2026-11-15T00:30:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
