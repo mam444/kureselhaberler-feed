@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:25:06.685Z",
+  "generatedAt": "2026-11-20T18:34:24.644Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-cuma-gununu-dususle-tamamladi-3495922",
@@ -16,12 +16,36 @@
       "body": "Borsa İstanbul'da BIST 100 endeksi, haftanın son işlem gününü yüzde 2,36 kayıpla 11.131,32 puandan kapattı. Önceki kapanışa göre 268,7 puan gerileyen endeksin günlük işlem hacmi 84,4 milyar lira oldu.\n\nSektörel bazda bankacılık endeksi yüzde 1,94, holding endeksi ise yüzde 2,52 değer kaybetti. Finansal kiralama ve faktoring sektörü yüzde 1,25 artışla en çok kazandıran olurken, madencilik endeksi yüzde 3,91 düşüşle günün en çok değer kaybeden sektörü olarak kayıtlara geçti.\n\nKüresel piyasalarda ABD Merkez Bankasının (Fed) para politikasına yönelik sıkı duruş endişeleri ve yapay zeka sektörünün sürdürülebilirliğine dair soru işaretleri satış baskısını artırdı. Borsa İstanbul da bu negatif havadan etkilendi.\n\nAnalistler, önümüzdeki hafta yurt içinde TCMB Finansal İstikrar Raporu ile ekonomik güven endeksinin, yurt dışında ise ABD büyüme verileri, çekirdek kişisel tüketim harcamaları ve global imalat sanayi PMI verilerinin takip edileceğini belirtti. Teknik olarak BIST 100 endeksinde 11.000 ve 10.900 seviyeleri destek, 11.300 ve 11.400 seviyeleri ise direnç konumunda bulunuyor.",
       "highlights": [
         "BIST 100 endeksi haftanın son işlem gününü yüzde 2,36 kayıpla 11.131,32 puandan tamamladı.",
-        "Madencilik endeksi yüzde 3,91'lik düşüşle günün en çok değer kaybeden sektörü oldu.",
+        "Madencilik endeksi yüzde 3,91 düşüşle günün en fazla değer kaybeden sektörü oldu.",
         "Küresel piyasalarda Fed'in para politikasına ilişkin endişeler satış baskısını artırdı."
       ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-cuma-gununu-dususle-tamamladi-3495922",
       "publishedAt": "2026-11-20T18:27:14.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T18:34:16.595Z"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+      "headline": "New York'ta Sih ayrılıkçıyı öldürme planı nedeniyle Hintli adama 19 yıldan fazla hapis cezası verildi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1780396209853-a771d772e56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnRyb29tJTIwc2tldGNofGVufDF8MHx8fDE3OTUxOTk2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michael D Beckwith",
+        "photographerUrl": "https://unsplash.com/@mdbeckwith",
+        "unsplashUrl": "https://unsplash.com/photos/empty-ornate-courtroom-interior-with-wooden-paneling-and-green-seats-xf5Qn2-GaJQ"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "New York'ta bir Sih ayrılıkçıyı öldürme komplosuna karıştığını kabul eden bir Hintli adam, Cuma günü ABD'de 19 yıldan uzun süre hapis cezasına çarptırıldı. 55 yaşındaki Nikhil Gupta, Şubat ayında kiralık katil tutma, kiralık katil tutmak için komplo kurma ve kara para aklamak için komplo kurma suçlarını kabul etmişti. Manhattan federal mahkemesindeki duruşmada ABD Bölge Hakimi Victor Marrero, 235 aylık hapis cezasını açıkladı.\n\nSavcılar, Gupta'nın New York'taki Sikhs for Justice adlı kuruluşun avukatı ve ABD-Kanada çift vatandaşlığına sahip olan Gurpatwant Singh Pannun'u öldürmek için bir Hint hükümet yetkilisiyle birlikte komplo kurduğunu belirtti. Pannun, Kuzey Hindistan'da egemen bir Sih devleti kurulmasını savunuyor. Dava belgelerine göre Gupta ve Hint hükümet yetkilisi Vikash Yadav, gizli görevdeki bir ABD kolluk görevlisi olan sözde kiralık katile 15.000 dolar nakit teslim edilmesini ayarladı. Yadav da davada suçlanıyor ancak ABD'nin gözetiminde değil ve savunma avukatı tutup tutmadığı bilinmiyor.\n\nHindistan hükümeti Pannun'a yönelik herhangi bir komplo ile bağını reddederek bunun hükümet politikasına aykırı olduğunu söyledi. Manhattan ABD savcılığı yaklaşık 24 yıl hapis cezası talep etmişti. Cuma günü mahkemede konuşan Gupta, Mahatma Gandhi'nin gösterdiği şiddet içermeyen yoldan sapmaktan duyduğu pişmanlığı dile getirdi ve özür diledi. Pannun ise mahkemeye ABD'ye kovuşturma için minnettar olduğunu söyledi ve Sih egemenliği için savunuculuğa devam edeceğini ifade etti. ABD ve Kanada yetkilileri, bu tür keşiflerin Hindistan ile ilişkileri sınadığını belirtti.",
+      "highlights": [
+        "Nikhil Gupta, New York'ta Sih ayrılıkçıyı öldürme komplosu nedeniyle 19 yıldan fazla hapis cezası aldı.",
+        "Gupta, Şubat ayında kiralık katil tutma ve ilgili komplo suçlamalarını kabul etmişti.",
+        "Hindistan hükümeti olayla herhangi bir bağı olduğunu reddetti."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
+      "publishedAt": "2026-11-20T18:24:12.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -145,7 +169,7 @@
     },
     {
       "id": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
-      "headline": "Birleşik Krallık'ta Dört Parlamento Bölgesinden Dördünde Seçmenler AB'ye Yeniden Katılmayı Destekliyor",
+      "headline": "İngiltere'de Beş Parlamenter Sandalyeden Dördünde Seçmenler AB'ye Yeniden Katılmayı Destekliyor",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1625440153141-1ae4c27ff33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RXVyb3BlYW4lMjBVbmlvbiUyMGZsYWd8ZW58MXwwfHx8MTc5NTE5OTA3OHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -155,16 +179,17 @@
         "unsplashUrl": "https://unsplash.com/photos/blue-and-yellow-flag-on-pole-Pcs3mOL14Sk"
       },
       "timeAgo": "29 dk önce",
-      "body": "Yapılan yeni bir ankete göre, Birleşik Krallık'taki parlamento seçim bölgelerinin beşte dördünde seçmenler Avrupa Birliği'ne yeniden katılmayı destekliyor. Bu bölgeler arasında, aralarında başbakanın seçim bölgesi Makerfield'ın da bulunduğu çok sayıda eski ayrılma yanlısı bölge yer alıyor.\n\nGreat Britain genelinde gerçekleştirilen seçim bölgesi düzeyindeki modelleme, 512 koltuğun yeniden katılmayı desteklediğini, 73 koltuğun dışarıda kalmayı savunduğunu ve 47 koltuğun ise başa baş olduğunu ortaya koydu. Bu anket, Andy Burnham'ın AB'ye dönüş tartışmasını açma yönündeki argümanını güçlendirecek nitelikte bulunuyor.\n\nEski Barack Obama anketörü Jim Messina tarafından kurulan ve 2016'daki AB'de kalma kampanyasında da çalışmış olan Fortius Global tarafından bu ay gerçekleştirilen araştırma, 7.000'den fazla kişinin katılımıyla yapıldı. Analiz, 2016'da ayrılma yönünde oy kullandığı tahmin edilen 394 seçim bölgesinden 274'ündeki seçmenlerin artık AB'ye yeniden katılmak istediğini gösterdi.\n\nModelleme sonuçlarına göre yeniden katılma seçeneği İngiltere'de yüzde 58.3, İskoçya'da yüzde 68.9 ve Galler'de yüzde 57.9 oranında önde bulunuyor. Öte yandan Brexit kampanyasını yürüten isimler, Michael Gove'un desteklediği \"Stay Out\" adlı yeni bir hareketin lansmanını yaparken, Nigel Farage ise Brexit'in tersine çevrilmesi durumunda halkın protesto için sokaklara dökülebileceği uyarısında bulundu.",
+      "body": "Yeni bir kamuoyu araştırmasına göre, Büyük Britanya genelindeki seçmenlerin önemli bir çoğunluğu Birleşik Krallık'ın Avrupa Birliği'ne yeniden katılmasına destek veriyor. 7.000'den fazla kişiyle bu ay gerçekleştirilen anket verilerine dayanan konsolide modelleme, beş parlamento sandalyesinden dördünde seçmenlerin yeniden katılım yönünde eğilim gösterdiğini ortaya koydu. Araştırmayı gerçekleştiren Fortius Global firmasının analizine göre, 512 seçim bölgesinde AB'ye geri dönme taraftarları çoğunlukta bulunurken, 73 bölge dışarıda kalmayı destekliyor ve 47 bölgede ise durum başa baş görünüyor.\n\nAraştırma, 2016 yılında Brexit lehine oy kullandığı tahmin edilen 394 seçim bölgesinden 274'ünde seçmenlerin artık AB'ye yeniden katılmak istediğini gösterdi. Bu bölgeler arasında, aralarında başbakanın seçim bölgesi Makerfield ile Kemi Badenoch'un Kuzey Batı Essex koltuğunun da bulunduğu pek çok eski Brexit yanlısı bölge yer alıyor. Ayrıca kabinedeki bakanların ve milletvekillerinin koltuklarının bulunduğu bazı bölgelerde de benzer bir eğilimin olduğu belirtiliyor.\n\nModelleme sonuçlarına göre AB'ye yeniden katılma seçeneği İngiltere'de %58,3, İskoçya'da %68,9 ve Galler'de %57,9 oranında önde bulunuyor. Bu gelişmeler yaşanırken, Brexit kampanyasını yürüten isimler Michael Gove'un desteklediği \"Stay Out\" adlı yeni bir hareketin kuruluşunu duyururken, Nigel Farage ise Brexit'in tersine çevrilmesi durumunda sokak protestoları olabileceği uyarısında bulundu.\n\nAraştırma, AB'ye yeniden katılma yönündeki tartışmaların İşçi Partisi'nin seçimlardeki oy potansiyeline etkisini de inceledi. Tam AB üyeliği senaryosunda İşçi Partisi'nin olası yeni seçim bölgelerinde öne geçebileceği ve oy payının artabileceği öngörüldü. Andy Burnham, Makerfield seçim bölgesindeki seçmenlerin geçmişte sanayi düşüşü ve kesintiler nedeniyle AB'den ayrılmayı seçtiğini, ancak Brexit destekçilerinin vaat ettiği değişimin gerçekleşmediğini ifade etti.",
       "highlights": [
-        "Birleşik Krallık'taki parlamento seçim bölgelerinin beşte dördünde seçmenler AB'ye yeniden katılmayı destekliyor.",
-        "Araştırma, 7.000'den fazla kişinin katılımıyla Fortius Global tarafından bu ay gerçekleştirildi.",
-        "Yeniden katılma seçeneği İngiltere'de yüzde 58.3, İskoçya'da yüzde 68.9 ve Galler'de yüzde 57.9 oranında önde."
+        "Beş parlamenter koltuğundan dördünde seçmenler AB'ye yeniden katılmayı destekliyor.",
+        "2016'da ayrılma yönünde oy kullandığı tahmin edilen 274 seçim bölgesinde artık AB'ye yeniden katılma isteği bulunuyor.",
+        "Modelleme sonuçlarına göre yeniden katılma seçeneği İngiltere, İskoçya ve Galler'de önde yer alıyor."
       ],
       "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
       "publishedAt": "2026-11-20T17:55:09.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T18:34:16.595Z"
     },
     {
       "id": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
@@ -1544,7 +1569,7 @@
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T12:25:06.202Z",
+      "imageSearchAttemptedAt": "2026-11-20T18:34:16.595Z",
       "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z"
     },
     {
@@ -5967,7 +5992,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
-      "imageSearchAttemptedAt": "2026-11-20T12:25:06.202Z"
+      "imageSearchAttemptedAt": "2026-11-20T18:34:16.595Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
@@ -13843,29 +13868,6 @@
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china?traffic_source=rss",
       "publishedAt": "2026-11-16T12:55:16.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/adiyamanda-kaza-sonrasi-meydan-dayagi-hem-surucuyu-darp-ettiler-hem-aracina-saldirdilar-4873092",
-      "headline": "Adıyaman'da kaza sonrası sürücüye ve araca saldırı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1710905284916-74c42985384e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDc5NTk0OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Fiqih Alfarish",
-        "photographerUrl": "https://unsplash.com/@fiqihalfarish",
-        "unsplashUrl": "https://unsplash.com/photos/a-sign-on-the-side-of-a-building-dDI0_eSYYkc"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Adıyaman'ın Gölbaşı ilçesinde iki minibüsün çarpışmasının ardından kavga çıktı. Kazaya karışan sürücü diğer araçtaki kişilerin saldırısıyla darp edilirken, öfkeli grup araca da zarar verdi. Polis ekipleri vatandaşların sakinleştiremediği kişilere müdahale etti.",
-      "highlights": [
-        "Gölbaşı'nda iki minibüs çarpıştı",
-        "Kazaya karışan sürücü darp edildi",
-        "Öfkeli grup araca zarar verdi"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/adiyamanda-kaza-sonrasi-meydan-dayagi-hem-surucuyu-darp-ettiler-hem-aracina-saldirdilar-4873092",
-      "publishedAt": "2026-11-16T12:51:26.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
