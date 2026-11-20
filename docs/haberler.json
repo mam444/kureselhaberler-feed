@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-20T12:04:36.947Z",
+  "generatedAt": "2026-11-20T12:15:21.047Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/yuksekovada-kislik-patates-tezgahlarda-satisa-sunuldu-hakkari-yuksekova-haberleri-4874869",
+      "headline": "Yüksekova'da kışlık patates tezgâhlarda: Kilosu 20 liradan satılıyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1635847163737-c93e3d73bcc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG90YXRvZXMlMjBtYXJrZXR8ZW58MXwwfHx8MTc5NTE3NjkxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "engin akyurt",
+        "photographerUrl": "https://unsplash.com/@enginakyurt",
+        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-potatoes-with-brown-spots-on-them-9qX8dee7ZcY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Hakkari'nin Yüksekova ilçesinde soğuk havaların etkisini artırmasıyla birlikte kışlık mutfak hazırlıkları hız kazandı. Temel gıda maddeleri arasında bulunan patates, çetin geçen kış mevsimi öncesinde ilçe merkezindeki Sobacılar ve Eski Sinema sokaklarında kurulan tezgâhlarda alıcılarla buluşuyor.\n\nPiyasaya sunulan kışlık patatesin kilogram fiyatı 20 lira olarak belirlenirken, yaklaşık 40 kilogramlık çuvallar ise 800 liradan satılıyor. Ekonomik olması ve uzun süre bozulmadan saklanabilmesi, ürünün ilçe halkı tarafından tercih edilmesinde önemli rol oynuyor.\n\nİlçe merkezinde esnaflık yapan Hakan Çiftçi, kalabalık aileler ile kışlık stok yapmak isteyenlerin kiloluk alışverişler yerine çuval usulünü seçtiğini dile getirdi. Çiftçi, yerli üretimin yanı sıra çevre illerden getirilen patateslerin sezonda yoğun ilgi gördüğünü ve havaların daha da soğumasıyla satışların artmasını beklediklerini ifade etti.\n\nAlışveriş yapan vatandaşlar ise kar yağışı başlamadan temel gıda ihtiyaçlarını karşılamaya çalıştıklarını belirtti. Tüketiciler, fiyatların makul seviyede bulunmasının aile bütçelerini olumlu yönde rahatlattığını aktardı.",
+      "highlights": [
+        "Kışlık patatesin kilogramı 20 liradan, 40 kilogramlık çuvalı 800 liradan satılıyor",
+        "Esnaf Hakan Çiftçi, kalabalık ailelerin çuval usulü alışverişi tercih ettiğini söyledi",
+        "Vatandaşlar kar yağışı bastırmadan temel gıda ihtiyaçlarını tamamlamaya çalışıyor"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/yuksekovada-kislik-patates-tezgahlarda-satisa-sunuldu-hakkari-yuksekova-haberleri-4874869",
+      "publishedAt": "2026-11-20T12:13:21.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
+      "headline": "El Salvador: Nayib Bukele, kendisini \"dünyanın en havalı diktatörü\" olarak tanımlıyor ve üçüncü dönem için yarışıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "8 dk önce",
+      "body": "El Salvador Devlet Başkanı Nayib Bukele, kendisini \"dünyanın en havalı diktatör\" olarak adlandırıyor. Başkanlık dönemi sınırlamalarını ortadan kaldırmak amacıyla Anayasa'da değişikliğe giden Bukele, üçüncü bir dönem için adaylık arayışında bulunuyor.\n\nBukele'nin çetelere karşı yürüttüğü mücadele ülkesinde kendisine büyük bir popülarite kazandırdı. Ancak bu durum aynı zamanda ciddi insan hakları endişelerini de beraberinde getirdi ve bu yönde eleştirilerin odak noktası haline geldi.",
+      "highlights": [
+        "El Salvador Devlet Başkanı Nayib Bukele üçüncü dönem için adaylık arıyor",
+        "Anayasa değiştirilerek başkanlık dönemi sınırlamaları kaldırıldı",
+        "Çetelere karşı yürütülen savaş büyük bir popülarite kazandırırken insan hakları endişelerine yol açtı"
+      ],
+      "externalUrl": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
+      "publishedAt": "2026-11-20T12:07:14.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
       "headline": "İranlı bakandan İsrailli büyükelçiye: “ABD ordusunun başkomutanı olduğunu bilmiyorduk”",
@@ -15,14 +57,15 @@
       "timeAgo": "şimdi",
       "body": "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'in açıklamalarına sosyal medya hesabından yanıt verdi. Erakçi, Leiter'in ABD askerlerinin İran'ın yenilgiye uğratılmasının ardından dönebileceği yönündeki sözlerini alıntılayarak tepki gösterdi.\n\nLeiter, bir televizyon kanalına verdiği röportajda ABD'nin İran'a karşı yeni ve kapsamlı bir saldırı başlatması durumunda İsrail'in bu saldırılara katılacağını ifade etmişti. İran'ın Batı medeniyetini hedef aldığını öne süren Leiter, Tahran yönetiminin devrilmesi gerektiğini savunmuştu.\n\nİsrailli büyükelçi, saldırı kararının Trump'a ait olduğunu belirterek Amerikalı askerlerin İran'ın yenilgiye uğramasıyla ailelerinin yanına dönebileceğini öne sürmüştü. İran'ın İsrail için varoluşsal bir tehdit oluşturduğunu iddia eden Leiter, Sovyetler Birliği gibi İran yönetiminin de çökeceğini savunmuştu.",
       "highlights": [
-        "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'e tepki gösterdi.",
-        "Leiter, ABD'nin İran'a yeni bir saldırı başlatması halinde İsrail'in katılacağını belirtti.",
-        "İsrailli büyükelçi, Amerikalı askerlerin İran yenilgiye uğradığında dönebileceğini ifade etti."
+        "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'in açıklamalarına sosyal medyadan yanıt verdi.",
+        "Erakçi, Leiter'in sözlerini alıntılayarak \"İsrail’in Washington Büyükelçisi’nin ABD Silahlı Kuvvetleri Başkomutanı olduğunu bilmiyorduk\" dedi.",
+        "Leiter, ABD'nin İran'a saldırı başlatması halinde İsrail'in de katılacağını belirtmişti."
       ],
       "externalUrl": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
       "publishedAt": "2026-11-20T12:06:52.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T12:15:13.836Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/erdogan-yuregir-belediye-baskan-vekili-ozunali-kabul-etti-4874853",
@@ -117,7 +160,8 @@
       "externalUrl": "https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya",
       "publishedAt": "2026-11-20T11:28:30.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T12:15:13.836Z"
     },
     {
       "id": "https://www.theguardian.com/society/2026/nov/20/lifelong-guardianship-ceremonies-england-care-leavers-relationships",
@@ -3456,7 +3500,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T13:56:13.255Z",
-      "imageSearchAttemptedAt": "2026-11-20T05:34:24.807Z"
+      "imageSearchAttemptedAt": "2026-11-20T12:15:13.836Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
@@ -3689,7 +3733,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T12:54:29.354Z",
-      "imageSearchAttemptedAt": "2026-11-20T05:44:26.679Z"
+      "imageSearchAttemptedAt": "2026-11-20T12:15:13.836Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/19/kristine-blanche-health-website",
@@ -13756,51 +13800,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/bilgi/foto/mi-lli-pi-yango-yilbasi-bi-let-fi-yatlari-2027-buyuk-ikramiye-1-milyar-tl-milli-piyango-yilbasi-cekilisi-ceyrek-bilet-yarim-bilet-tam-bilet-fiyatlari-ne-kadar-kac-tl-3927353",
       "publishedAt": "2026-11-15T18:56:17.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/video/turkiye/sehit-annesinin-ruyasi-camiye-donustu-3493617",
-      "headline": "Şehit annesinin rüyası camiye dönüştü",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1611068679117-acfd4579efcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDc2OTUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Joe Dudeck",
-        "photographerUrl": "https://unsplash.com/@joetography",
-        "unsplashUrl": "https://unsplash.com/photos/text-GENLTrYEfa4"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Hatay'da şehit oğlunun rüyasında cami istediğini gören Uçar ailesi, bu isteği gerçeğe dönüştürerek cami yaptırdı. Aile, bu projeyle oğullarının adını geleceğe taşımayı amaçlıyor.",
-      "highlights": [
-        "Şehit annesinin rüyası üzerine aile cami yaptırdı",
-        "Cami Hatay'da inşa edildi",
-        "Uçar ailesi oğlunun adını yaşatmak istiyor"
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/turkiye/sehit-annesinin-ruyasi-camiye-donustu-3493617",
-      "publishedAt": "2026-11-15T18:51:48.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-a-milli-takim-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3927446",
-      "headline": "A Milli Takım Fransa deplasmanında",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1535506197904-e5c09c0e5619?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmF0aW9uYWwlMjBmb290YmFsbCUyMHRlYW18ZW58MXwwfHx8MTc5NDc2ODAzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jeffrey F Lin",
-        "photographerUrl": "https://unsplash.com/@jeffreyflin",
-        "unsplashUrl": "https://unsplash.com/photos/girl-soccer-group-on-soccer-field-oc8m9Cj8dsc"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "A Milli Futbol Takımımız, UEFA Uluslar A Ligi 1. Grup son maçında deplasmanda Fransa ile karşı karşıya geliyor. Grupta puanı bulunmayan Ay-yıldızlılar, Bordeaux'da oynanacak zorlu mücadelede puan veya puanlar hedefliyor.",
-      "highlights": [
-        "Maç Bordeaux'da oynanıyor",
-        "Millilerin grupta henüz puanı bulunmuyor"
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-a-milli-takim-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3927446",
-      "publishedAt": "2026-11-15T18:32:55.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
