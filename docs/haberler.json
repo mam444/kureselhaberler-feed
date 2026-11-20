@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T15:46:39.384Z",
+  "generatedAt": "2026-11-20T15:54:38.880Z",
   "articles": [
     {
       "id": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
@@ -15,14 +15,15 @@
       "timeAgo": "4 dk önce",
       "body": "Avrupa genelinde eylemciler, hükümetler üzerindeki baskıyı artırmak amacıyla cuma günü sokaklara çıkmaya hazırlanıyor. Sınır ötesi dayanışma gösterisi niteliğindeki bu eylemler, artan yaşam maliyeti, militarizm ve diğer çeşitli nedenlere karşı koordine edilen gösterileri kapsıyor.\n\nİspanya'nın başkenti Madrid'den aktarım yapan FRANCE 24 muhabiri Sarah Morris, ülkedeki durumu ve protestoların arka planını takip ediyor. Benzer şekilde Avrupa'nın farklı bölgelerinde de vatandaşlar hükümetlerin politikalarına karşı ortak ses çıkarıyor.\n\nSöz konusu gösteriler, Avrupa genelinde artan geçim sıkıntısı ve ekonomik zorluklara karşı düzenlenen protestolar silsilesinin bir parçasını oluşturuyor. Eylemciler, hükümetlerin bu sorunlara karşı daha somut adımlar atmasını talep ediyor.",
       "highlights": [
-        "Avrupa genelinde eylemciler cuma günü sokaklara çıkmaya hazırlanıyor",
-        "Protestolar artan yaşam maliyeti ve militarizme karşı düzenleniyor",
-        "FRANCE 24 muhabiri Sarah Morris Madrid'den bildirdi"
+        "Avrupa'daki eylemciler Cuma günü sokaklara çıkmaya hazırlandı",
+        "Protestolar artan yaşam maliyeti ve militarizme karşı düzenlendi",
+        "Eylemler hükümetler üzerindeki baskıyı artırmayı amaçlıyor"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
       "publishedAt": "2026-11-20T15:41:34.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T15:54:28.256Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
@@ -68,7 +69,8 @@
       "externalUrl": "https://www.trthaber.com/haber/egitim/ogrenciler-anadolu-medeniyetlerini-dijital-ansiklopediyle-taniyacak-963992.html",
       "publishedAt": "2026-11-20T15:39:00.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T15:54:28.256Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/depremde-21-kisiye-mezar-olan-kircuval-otel-davasinda-karar-cikti-7704658",
