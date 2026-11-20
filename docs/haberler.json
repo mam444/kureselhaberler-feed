@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T13:55:20.040Z",
+  "generatedAt": "2026-11-20T14:04:37.303Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/yasam/50den-fazla-milletten-25-bin-kisinin-yasadigi-sehrin-hedefi-surdurulebilir-turizm-3495854",
+      "headline": "50'den fazla milletten 25 bin kişinin yaşadığı şehrin hedefi sürdürülebilir turizm",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1759909632121-17c0f7aea633?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y29hc3RhbCUyMGNpdHklMjBzdXN0YWluYWJsZSUyMHRvdXJpc218ZW58MXwwfHx8MTc5NTE4MzQ3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sergei Gussev",
+        "photographerUrl": "https://unsplash.com/@sergei_gussev",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-gardens-by-the-bay-and-singapore-skyline-bewATgzaUJo"
+      },
+      "timeAgo": "şimdi",
+      "body": "Mısır, binlerce yıllık kültürel mirasının yanı sıra Kızıldeniz kıyısındaki modern turizm merkezleri, su sporları, gastronomi ve sanat etkinlikleriyle de ön plana çıkıyor. Elli'den fazla milletten 25 binin üzerinde insanın ikamet ettiği El Gouna yönetimi, Türk ziyaretçilerin de kenti deneyimlemesini amaçlıyor.\n\nOrascom Hospitality Pazarlamadan Sorumlu Genel Müdür Yardımcısı Shafayat Miah, El Gouna'nın uzun vadeli yaklaşımının Mısır'ı sadece tarihi eserlerin yer aldığı bir gezi rotası olarak değil, yılın farklı zamanlarında tekrar ziyaret edilebilecek zengin bir tatil destinasyonu olarak değerlendirmelerini sağlamak olduğunu ifade etti. Otuz altı yıllık geçmişe sahip olan El Gouna, kendi sosyal ve ekonomik yaşamı bulunan bütünleşik bir sahil kenti konumundadır.\n\nKentin gelişim modelinde çevresel sürdürülebilirliğin yanı sıra yerel toplumun ekonomik ve sosyal hayata katılımı da kritik bir rol oynuyor. Bu kapsamda, ekonomik fırsatlara erişimi kısıtlı olan kadınların mesleki beceriler kazanması, üretime dahil olması ve gelir elde etmesi destekleniyor. El emeği ve üretim odaklı girişimler sayesinde kadınların geliştirdikleri becerileri ekonomik değere dönüştürmeleri sağlanıyor.\n\nEl Gouna'da kuşların, bölgeye has bitki örtüsünün ve çeşitli hayvan türlerinin yaşam alanlarının korunmasına yönelik faaliyetler yürütülüyor. Yaklaşık 10 ila 15 dönümlük doğal yaşama ayrılmış yeşil bölge bu yaklaşımı yansıtırken, Kızıldeniz kıyısındaki ekosistemi korumak amacıyla 2021 yılında kamu kurumlarının gözetiminde 2 bin mangrov ağacı dikildi.\n\nŞehirde ters ozmoz teknolojisi kullanan su arıtma sistemleri ile atık su arıtma tesisleri işletiliyor. Su kaynaklarının sınırlı olduğu Kızıldeniz bölgesinde mevcut kaynakların verimli kullanılmasının hedeflendiği kentte, güneş enerjisi yatırımları, atıkların ayrıştırılması ve geri dönüşüm uygulamaları da çevre yönetimi politikasını destekliyor.",
+      "highlights": [
+        "El Gouna'da 50'den fazla milletten 25 binin üzerinde insan yaşıyor.",
+        "Kadınların mesleki beceriler kazanması ve üretime katılması destekleniyor.",
+        "Kızıldeniz kıyısındaki ekosistemi korumak için 2 bin mangrov ağacı dikildi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/yasam/50den-fazla-milletten-25-bin-kisinin-yasadigi-sehrin-hedefi-surdurulebilir-turizm-3495854",
+      "publishedAt": "2026-11-20T14:07:12.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/gunun-maclari-20-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-20-kasim-cuma-gunun-maclari-3495851",
       "headline": "Günün Maçları 20 Kasım 2026: Bugün Kimlerin Maçı Var, Hangi Maçlar Oynanacak?",
@@ -49,7 +72,7 @@
     },
     {
       "id": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
-      "headline": "Suudi Arabistan Yemen'deki Husilere Ait Füze ve İnsansız Hava Araçlarını Durdurdu",
+      "headline": "Suudi Arabistan Yemen'den Atılan Füze ve İhaları Önledi, Orta Doğu'dan Son Haberler",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
       "imageUrl": "https://images.unsplash.com/photo-1726087163038-2910e4de29e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlzc2lsZSUyMGRyb25lJTIwc2F1ZGklMjBhcmFiaWF8ZW58MXwwfHx8MTc5NTE4Mjg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -59,14 +82,38 @@
         "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-construction-site-in-the-desert-mzF_aDw9l9Y"
       },
       "timeAgo": "8 dk önce",
-      "body": "Suudi Arabistan yönetimi, İran destekli Husi isyancıların krallığa yönelik yeni füze ve insansız hava aracı saldırıları düzenlediğini açıkladı. Yapılan açıklamada, başkent Riyad'ı da hedef alan beş insansız hava aracı ile bir balistik füzenin cuma sabahı havada etkisiz hale getirildiği bildirildi. Gerçekleşen bu müdahaleler, isyancıların Suudi Arabistan topraklarını hedef alan son girişimleri arasında yer aldı.\n\nSöz konusu gelişmeler, Suudi Arabistan liderliğindeki koalisyonun Yemen'de Husi kontrolündeki bölgelere yönelik büyük bir hava harekatı başlatmasından günler sonra yaşandı. Suudi Sivil Savunması, perşembe gününden bu yana halkı olası saldırılar veya düşen enkaz parçalarına karşı uyarmak amacıyla çok sayıda acil durum uyarısı gönderdi.\n\nÖte yandan Orta Doğu'daki diğer gelişmeler kapsamında, Irak'ta güvenlik güçleri başkent Bağdat'ın güneyindeki Jurf al-Sakhar bölgesine konuşlandı. Bölgenin, petrol kaçakçılığı iddiaları ve hükümetin geri çekilme çağrıları nedeniyle tansiyonun yükseldiği bir nokta olduğu belirtildi.\n\nİki Iraklı yetkilinin aktardığı bilgilere göre, hükümet ile İran destekli Kataib Hezbollah milis grubu arasında bir anlaşmaya varıldı. İran Kudüs Gücü komutanı Esmail Qaani'nin aracılık ettiği müzakereler sonucunda, güvenlik güçlerinin bölgeye girmesi kararlaştırılırken, milis güçlerinin bir ay içinde çekileceği ifade edildi.",
+      "body": "Suudi Arabistan, İran destekli Husilerin krallığa yönelik yeni füze ve insansız hava araçları fırlattığını duyurdu. Bu gelişme, Suudi Arabistan'ın Yemen'de Husi kontrolündeki bölgelere yönelik büyük bir hava kampanyası başlatmasından günler sonra gerçekleşti. Suudi liderliğindeki koalisyon, Cuma sabahı başkent Riyad dahil olmak üzere ülkeyi hedef alan beş insansız hava aracı ve bir balistik füzenin imha edildiğini açıkladı. Suudi Sivil Savunması, Perşembe gününden bu yana halkı olası saldırılar veya enkaz düşmesi konusunda uyaran 13 acil durum bildirimi gönderdi. Husiler saldırılar hakkında hemen yorum yapmazken, taraflar birbirlerinin bölgelerindeki kilit limanları vurma tehditlerinde bulundu.\n\nDiğer taraftan Irak'ta, hükümetin petrol kaçakçılığı yapmakla suçladığı İran destekli güçlü bir milis güçle uzlaşmaya varmasının ardından güvenlik güçleri başkent Bağdat'ın güneyindeki bir milis kalesine konuşlandı. Güvenlik güçleri, uzun süredir Kataib Hizbullah milislerinin kontrolünde olan Curf el-Sahar bölgesinin eteklerinde komuta karargahı kurdu. Bölgede, hükümetin petrol kaçakçılığı iddialarıyla milislerin çekilmesini istemesi ve milislerin çatışma tehdidinde bulunmasıyla gerilim artmıştı.\n\nİsimlerinin açıklanmasını istemeyen iki Iraklı yetkili, hükümet ile Kataib Hizbullah arasında güvenlik güçlerinin girmesine izin veren ancak milislerin derhal çekilmeyeceği bir anlaşmaya varıldığını belirtti. İran Devrim Muhafızları Kudüs Gücü Komutanı İsmail Kaani'nin arabuluculuk yaptığı müzakereler sonucunda varılan mutabakatla ordu, federal polis ve enerji sektörü polisleri bölgeye sevk edildi. Uzlaşma kapsamında, Irak güvenlik güçlerinin resmi bir parçasını oluşturan Haşdi Şabi unsurları da konuşmaya dahil edilirken, Kataib Hizbullah'ın bir ay içinde savaşçılarını geri çekeceği bildirildi.",
       "highlights": [
-        "Suudi Arabistan yönetimi, Yemen'deki Husilere ait füze ve insansız hava araçlarının durdurulduğunu açıkladı.",
-        "Irak'ta hükümet ile Kataib Hezbollah milis grubu arasında bölgeye güvenlik güçlerinin girmesini içeren bir anlaşma sağlandı.",
-        "İran Kudüs Gücü komutanı Esmail Qaani müzakerelere aracılık etti."
+        "Suudi Arabistan Yemen'den atılan beş dron ve bir balistik füzenin önlendiğini açıkladı.",
+        "Irak'ta hükümet ile Kataib Hizbullah arasında milis kalelerinin kontrolü konusunda anlaşmaya varıldı.",
+        "İran'ın Kudüs Gücü Komutanı İsmail Kaani Irak'taki müzakerelere arabuluculuk yaptı."
       ],
       "externalUrl": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
       "publishedAt": "2026-11-20T13:46:20.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T14:04:24.086Z"
+    },
+    {
+      "id": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+      "headline": "Mahmood, Birmingham'daki savunmasız kişiler için konut sağlama konusunda kuşkulu",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1773856281645-68edbd6235be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QmlybWluZ2hhbSUyMGhvdXNpbmd8ZW58MXwwfHx8MTc5NTE4MzQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Daniel Sturley",
+        "photographerUrl": "https://unsplash.com/@danielsturleyphotography",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-with-industrial-buildings-and-trees-PtUKEhTjU_U"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Birmingham Ladywood milletvekili Shabana Mahmood, seçim bölgesindeki savunmasız sakinlere yönelik konut sağlayıcılarına sert eleştiriler yöneltti. Yükselen maliyetler ve sömürü riskleri konusundaki uyarıların ardından endişelerini dile getiren Mahmood, bu durumdan şüphelendiğini belirtti.\n\nBağımsız bir inceleme çağrısının yapıldığı Birmingham'daki desteklenen muaf konut (SEA) sektörü, ülkenin en büyükleri arasında yer alıyor. Sistem; bağımlılıkla mücadele edenler, ev içi şiddetten kaçan kadınlar ve eski mahkumlar gibi ek ihtiyaçları olan savunmasız kişilere barınma, bakım ve destek sağlamayı amaçlıyor.\n\nAncak siyasetçiler, hayır kurumları ve sakinler; gerekli desteği sağlayamayan kötü niyetli sağlayıcıların varlığı ile sömürü ve antisosyal davranış riskleri konusunda kaygılar dile getirdi. Birmingham şehir konseyindeki bir iç inceleme, 15 aylık dönemde ilgili desteğin sağlandığına dair zamanında kanıt olmaksızın 615 milyon sterlinden fazla SEA konut yardımı ödendiğini ortaya koydu.\n\nMahmood, bölgedeki kullanımın ve bildiği istismarların topluluklarında birçok soruna yol açtığını ifade etti. Şehirde yaklaşık 12.200 mülkte 34.000'den fazla kişinin SEA'da yaşadığı, bunun da nüfusu Birmingham'ın yedi katı olan Londra'dakinden çok daha yüksek olduğu belirtildi.\n\nKonuyla ilgili bağımsız bir inceleme, konseyin SEA sektörüne yaklaşımının tam olarak etkili olmadığını ve risklerin her zaman etkin bir şekilde yönetilemediğini sonucuna vardığını gösterdi. Hükümet sözcüsü, Birmingham'daki desteklenen konut sorunlarını yakından izlediklerini ve standartları yükseltmek için adımlar attıklarını kaydetti.",
+      "highlights": [
+        "Shabana Mahmood, Birmingham'daki desteklenen muaf konut sektörü konusunda endişelerini dile getirdi.",
+        "İç incelemede, zamanında destek kanıtı sunulmadan 615 milyon sterlinden fazla konut yardımı yapıldığı belirlendi.",
+        "Bağımsız inceleme, konseyin yaklaşımlarının tam olarak etkili olmadığını ortaya koydu."
+      ],
+      "externalUrl": "https://www.theguardian.com/society/2026/nov/20/ahabana-mahmood-housing-provision-vulnerable-people-birmingham-supported-exempt-accommodation",
+      "publishedAt": "2026-11-20T13:43:46.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -3894,15 +3941,15 @@
       "timeAgo": "2 dk önce",
       "body": "Vatani görevini yaptığı sırada kalp krizi geçirerek hayatını kaybeden şehit Jandarma Er Aziz Öztürk’ün naaşı, heyelan riski sebebiyle Rize’den Kocaeli’nin Gebze ilçesine nakledildi.",
       "highlights": [
-        "Sertan Güner, anneannesinin diktiği çarşafları pankarta dönüştürüyor",
-        "Pankartlar Türkiye'nin dört bir yanındaki taraftarlardan gelen taleplerle gönderiliyor",
-        "Nuran Balıkçı dikişler için 50 yıllık makinesini kullanıyor"
+        "Jandarma Er Aziz Öztürk 23 Aralık 2011'de hayatını kaybetti ve 2024 yılında şehit unvanı verildi.",
+        "Heyelan riski ve ailenin talebi üzerine Rize'deki naaşı kabrinden çıkarılarak Gebze'ye nakledildi.",
+        "Gebze Şehitliği'nde düzenlenen askeri törenin ardından şehidin naaşı dualarla defnedildi."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/rizede-defnedilecekti-heyelan-riski-sebebiyle-sehit-aziz-ozturkun-naasi-gebzeye-nakledildi-4874486",
       "publishedAt": "2026-11-19T13:43:22.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T13:56:13.255Z",
+      "sourceTextAttemptedAt": "2026-11-20T14:04:24.086Z",
       "imageSearchAttemptedAt": "2026-11-20T12:15:13.836Z"
     },
     {
@@ -10802,7 +10849,7 @@
       "publishedAt": "2026-11-17T15:43:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T07:24:29.769Z",
+      "imageSearchAttemptedAt": "2026-11-20T14:04:24.086Z",
       "sourceTextAttemptedAt": "2026-11-18T12:54:27.569Z"
     },
     {
@@ -10819,7 +10866,7 @@
       "publishedAt": "2026-11-17T15:42:46.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T07:24:29.769Z",
+      "imageSearchAttemptedAt": "2026-11-20T14:04:24.086Z",
       "sourceTextAttemptedAt": "2026-11-18T13:04:31.016Z"
     },
     {
@@ -13773,51 +13820,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/boluda-baba-yadigari-traktor-35-yil-sonra-yenilendi-4872945",
       "publishedAt": "2026-11-16T08:29:29.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/gundem/cop31-rekora-gidiyor-963404.html",
-      "headline": "COP31 rekora gidiyor",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1718042800464-9e5a2d38d3df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QW50YWx5YSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0ODE4NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sam",
-        "photographerUrl": "https://unsplash.com/@cosmvs",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-mountains-in-the-background-_EREl5j8amE"
-      },
-      "timeAgo": "29 dk önce",
-      "body": "COP31 Zirvesi'ne ev sahipliği yapan Antalya'daki Mavi Bölge'ye kayıt olanların sayısı 102 bin 610 kişiye yükseldi. Yeşil Bölge ise 6 gün içinde 221 bin 326 kişi tarafından ziyaret edildi.",
-      "highlights": [
-        "Mavi Bölge kayıt sayısı 102 bin 610'a ulaştı",
-        "Yeşil Bölge'yi 6 günde 221 bin 326 kişi ziyaret etti"
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/gundem/cop31-rekora-gidiyor-963404.html",
-      "publishedAt": "2026-11-16T08:15:00.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.sabah.com.tr/yasam/son-dakikagulistan-doku-sorusturmasinda-yeni-gelisme-kritik-ismin-ifadesi-ortaya-cikti-7702724",
-      "headline": "Gülistan Doku soruşturmasında yeni gelişme: Tutuklu polisin ifadesi ortaya çıktı",
-      "source": "Sabah",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=sabah.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1600081191763-05da665acf1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzk0ODM5NzAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ethan Wilkinson",
-        "photographerUrl": "https://unsplash.com/@ethanrwilkinson",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-green-and-black-stripe-shirt-wearing-black-hat-gAKslVe547M"
-      },
-      "timeAgo": "6 sa önce",
-      "body": "Gülistan Doku soruşturmasında tutuklu polis memuru İsmail Erzan'ın ifadesine ulaşıldı. Erzan, ifadesinde aileye bilgi vermeme yönünde talimat aldığını belirtti.",
-      "highlights": [
-        "Gülistan Doku soruşturmasında yeni gelişme",
-        "Tutuklu polis memuru İsmail Erzan'ın ifadesi ortaya çıktı",
-        "Erzan aileye bilgi vermeyin talimatı aldığını söyledi"
-      ],
-      "externalUrl": "https://www.sabah.com.tr/yasam/son-dakikagulistan-doku-sorusturmasinda-yeni-gelisme-kritik-ismin-ifadesi-ortaya-cikti-7702724",
-      "publishedAt": "2026-11-16T08:07:32.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
