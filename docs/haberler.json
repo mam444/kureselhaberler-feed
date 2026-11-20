@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T12:15:21.047Z",
+  "generatedAt": "2026-11-20T12:25:22.079Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/insaat-sektorunde-istihdam-rekoru-calisan-sayisi-2-milyon-68-bini-asti-3495724",
+      "headline": "İnşaat sektöründe istihdam rekoru: Çalışan sayısı 2 milyon 68 bini aştı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y29uc3RydWN0aW9uJTIwd29ya2Vyc3xlbnwxfDB8fHwxNzk1MTc3NTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jeriden Villegas",
+        "photographerUrl": "https://unsplash.com/@jeriden94",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-orange-and-black-vest-wearing-white-helmet-holding-yellow-and-black-power-tool-VLPUm5wP5Z0"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Türkiye'de inşaat sektöründe ücretli çalışan sayısı, eylül ayında tüm zamanların en yüksek eylül ayı seviyesine ulaştı. Türkiye İstatistik Kurumu (TÜİK) verilerine göre sektördeki çalışan sayısı yıllık bazda yüzde 2 oranında artış göstererek 2 milyon 68 bin 357'ye yükseldi. Sektördeki ücretli çalışan sayısı geçen yılın aynı ayına kıyasla 41 bin 477 kişi arttı. Sanayi, inşaat ve ticaret-hizmet sektörleri toplamında ise ücretli çalışan sayısı eylül ayında geçen yılın aynı dönemine göre yüzde 1,7 artarak 16 milyon 448 bin 397 olarak kayıtlara geçti.\n\nTÜİK verilerine göre, sanayi sektöründe ücretli çalışan sayısı yıllık bazda yüzde 1,2 azalırken, ticaret-hizmet sektöründe yüzde 2,3'lük bir artış yaşandı. İnşaat sektöründeki alt sektörler incelendiğinde; çalışanların 1 milyon 333 bin 991'i bina inşaatında, 293 bin 227'si bina dışı yapıların inşaatında ve 441 bin 139'u özel inşaat faaliyetlerinde görev aldı. Bina inşaatında çalışan sayısı yüzde 0,3, bina dışı yapıların inşaatında yüzde 13,1 ve özel inşaat faaliyetlerinde yüzde 0,9 oranında arttı.\n\nİstanbul Üniversitesi İşletme Fakültesi Öğretim Üyesi Prof. Dr. Ali Hepşen, 41 bin 477 kişilik toplam istihdam artışının yaklaşık 34 bininin bina dışı inşaat faaliyetlerinden kaynaklandığına dikkat çekti. Altyapı ve mühendislik projelerinin istihdamı desteklediğini belirten uzmanlar, deprem bölgesindeki yeniden yapılanma, kentsel dönüşüm faaliyetleri ve enerji projelerinin de bu süreçte etkili olduğunu ifade etti. Bununla birlikte, istihdamdaki artışın konut piyasasında doğrudan aynı oranda bir toparlanma anlamına gelmediği, yüksek finansman maliyetleri ve satın alma gücündeki sınırlamaların özel sektör konut piyasasını baskıladığı belirtildi.",
+      "highlights": [
+        "İnşaat sektöründe ücretli çalışan sayısı eylül ayında 2 milyon 68 bin 357'ye ulaştı.",
+        "Çalışan sayısı geçen yılın aynı ayına göre 41 bin 477 kişi arttı.",
+        "En büyük artış bina dışı inşaat faaliyetlerinde görüldü."
+      ],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/insaat-sektorunde-istihdam-rekoru-calisan-sayisi-2-milyon-68-bini-asti-3495724",
+      "publishedAt": "2026-11-20T12:23:27.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/yuksekovada-kislik-patates-tezgahlarda-satisa-sunuldu-hakkari-yuksekova-haberleri-4874869",
       "headline": "Yüksekova'da kışlık patates tezgâhlarda: Kilosu 20 liradan satılıyor",
@@ -22,7 +45,8 @@
       "externalUrl": "https://www.yenisafak.com/gundem/yuksekovada-kislik-patates-tezgahlarda-satisa-sunuldu-hakkari-yuksekova-haberleri-4874869",
       "publishedAt": "2026-11-20T12:13:21.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z"
     },
     {
       "id": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
@@ -34,12 +58,37 @@
       "timeAgo": "8 dk önce",
       "body": "El Salvador Devlet Başkanı Nayib Bukele, kendisini \"dünyanın en havalı diktatör\" olarak adlandırıyor. Başkanlık dönemi sınırlamalarını ortadan kaldırmak amacıyla Anayasa'da değişikliğe giden Bukele, üçüncü bir dönem için adaylık arayışında bulunuyor.\n\nBukele'nin çetelere karşı yürüttüğü mücadele ülkesinde kendisine büyük bir popülarite kazandırdı. Ancak bu durum aynı zamanda ciddi insan hakları endişelerini de beraberinde getirdi ve bu yönde eleştirilerin odak noktası haline geldi.",
       "highlights": [
-        "El Salvador Devlet Başkanı Nayib Bukele üçüncü dönem için adaylık arıyor",
-        "Anayasa değiştirilerek başkanlık dönemi sınırlamaları kaldırıldı",
-        "Çetelere karşı yürütülen savaş büyük bir popülarite kazandırırken insan hakları endişelerine yol açtı"
+        "El Salvador Devlet Başkanı Nayib Bukele üçüncü dönem için adaylık arayışında",
+        "Bukele kendisini \"dünyanın en havalı diktatörü\" olarak adlandırıyor",
+        "Çetelere karşı yürütülen savaş büyük bir popülarite sağlarken ciddi insan hakları endişeleri de doğurdu"
       ],
       "externalUrl": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
       "publishedAt": "2026-11-20T12:07:14.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-20T12:25:06.202Z",
+      "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z"
+    },
+    {
+      "id": "https://www.rfi.fr/en/africa/20261120-nigeria-moves-to-end-prison-sentences-for-attempted-suicide",
+      "headline": "Nijerya İntihar Girişimine Hapis Cezasını Kaldırmak İçin Harekete Geçti",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1723088672765-3c6da5aee020?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8TmlnZXJpYSUyMG1vdmVzJTIwdG8lMjBlbmQlMjBwcmlzb24lMjBzZW50ZW5jZXMlMjBmb3IlMjBhdHRlbXB0ZWQlMjBzdWljaWRlfGVufDF8MHx8fDE3OTUxNzc1MTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ayano Tosin",
+        "photographerUrl": "https://unsplash.com/@peacetoolmedia",
+        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-in-front-of-a-building-88D9Ccj5ZV4"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Nijerya Devlet Başkanı Bola Tinubu, parlamentodan intihar girişiminin suç olmaktan çıkarılmasını ve bu kişilere destek sağlanmasını talep etti. Yapılan girişim, intihar girişimlerinin cezai bir suç yerine ruh sağlığı sorunu olarak ele alınmasını amaçlıyor. Nijerya'da psikolojik sağlık hizmetlerine erişim kısıtlı ve intihar düşünceleri genellikle manevi bir rahatsızlık olarak görülüyor.\n\nSenatoda ikinci okuması geçen Ulusal İntihar Önleme Tasarısı tartışılırken, Başkan Tinubu ayrıca Ulusal Ruh Sağlığı Değişiklik Tasarısı'nı Senatoya gönderdi. Her iki tasarı da cezai yaptırımların tıbbi tedavi, rehabilitasyon ve destekle değiştirilmesini hedefliyor. Nijerya'nın ceza kanunlarına göre intihar girişimi şu anda bir yıla kadar hapis cezası gerektiriyor ve Müslüman çoğunluklu kuzeyde bu ceza beş yıla kadar çıkabiliyor.\n\nTasarıyı destekleyen Senatör Asuquo Ekpenyong, hayatta kalanların kovuşturulmasının insanları yardım aramaktan caydırabileceğini belirtti. Sağlık Bakanı Mohammed Ali Pate, Dünya Sağlık Örgütü verilerine atıfta bulunarak Nijerya'nın yıllık yaklaşık 300 bin intihar girişimi ve en az 7 bin ölüm kaydettiğini ifade etti.\n\nDestekçiler yasanın ülke genelinde uyumlaştırılmasını isterken, tek başına suç olmaktan çıkarmanın yeterli olmayabileceği konusunda uyardı. Afrobarometer'in 2024 raporuna göre Nijeryalıların yüzde 35'inden azı topluluklarında ruhsal sorunlar için yardım alınabileceğine inanıyor. Ayrıca ülkede 200 milyondan fazla kişiye hizmet veren bin psikiyatristten daha azı bulunuyor. Yasanın geçmesi halinde Nijerya, intihar girişimini suç olmaktan çıkaran Gana ve Kenya gibi ülkelere katılacak.",
+      "highlights": [
+        "Başkan Tinubu parlamentodan intihar girişiminin suç olmaktan çıkarılmasını istedi.",
+        "Mevcut kanunlara göre intihar girişimi hapis cezası ve para cezası ile cezalandırılabiliyor.",
+        "Nijerya'da yıllık yaklaşık 300 bin intihar girişimi kaydediliyor."
+      ],
+      "externalUrl": "https://www.rfi.fr/en/africa/20261120-nigeria-moves-to-end-prison-sentences-for-attempted-suicide",
+      "publishedAt": "2026-11-20T12:07:08.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -4411,7 +4460,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
-      "imageSearchAttemptedAt": "2026-11-20T05:54:25.714Z"
+      "imageSearchAttemptedAt": "2026-11-20T12:25:06.202Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
@@ -4619,7 +4668,7 @@
       "publishedAt": "2026-11-19T09:10:03.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T05:34:24.807Z",
+      "imageSearchAttemptedAt": "2026-11-20T12:25:06.202Z",
       "sourceTextAttemptedAt": "2026-11-19T09:34:30.884Z"
     },
     {
@@ -13755,52 +13804,6 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
       "publishedAt": "2026-11-15T22:06:38.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/kurban-bayrami-tarihleri-2027-kurban-bayrami-ne-zaman-ayin-kacinda-kurban-bayrami-hangi-ay-kurban-bayrami-tatil-tarihi-3493623",
-      "headline": "2027 Kurban Bayramı Tarihleri Belli Oldu",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1779950657804-1306dd3888fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8S3VyYmFuJTIwQmF5cmFtaXxlbnwxfDB8fHwxNzk0NzcxMjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Samuel Adeleke",
-        "photographerUrl": "https://unsplash.com/@lekepov",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-crowd-of-people-in-colorful-headscarves-kneeling-uPlsVyAOp0k"
-      },
-      "timeAgo": "şimdi",
-      "body": "Diyanet İşleri Başkanlığı'nın 2027 yılı dini günler takvimini yayımlamasıyla birlikte Kurban Bayramı'nın tarihleri netleşti. Vatandaşlar arife günü ve resmi tatil süresini merakla araştırıyor.",
-      "highlights": [
-        "2027 Kurban Bayramı tarihleri netleşti",
-        "Diyanet takvimi yayımlandı",
-        "Tatil süresi merak ediliyor"
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/kurban-bayrami-tarihleri-2027-kurban-bayrami-ne-zaman-ayin-kacinda-kurban-bayrami-hangi-ay-kurban-bayrami-tatil-tarihi-3493623",
-      "publishedAt": "2026-11-15T19:39:21.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/bilgi/foto/mi-lli-pi-yango-yilbasi-bi-let-fi-yatlari-2027-buyuk-ikramiye-1-milyar-tl-milli-piyango-yilbasi-cekilisi-ceyrek-bilet-yarim-bilet-tam-bilet-fiyatlari-ne-kadar-kac-tl-3927353",
-      "headline": "2027 Milli Piyango yılbaşı bilet fiyatları ve büyük ikramiye açıklandı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1593871097805-09627f52f4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bG90dGVyeSUyMHRpY2tldHxlbnwxfDB8fHwxNzk0NzY5NTE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "thapanee srisawat",
-        "photographerUrl": "https://unsplash.com/@noonths",
-        "unsplashUrl": "https://unsplash.com/photos/person-holding-white-printer-paper-G771MJLxPaw"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "2027 Milli Piyango yılbaşı bilet fiyatları geçen yıla göre yüzde 25 zamlandı. Büyük ikramiye 1 milyar TL'ye yükselirken, 31 Aralık 2026'daki çekilişte dağıtılacak toplam ikramiye 5 milyar 796 milyon 300 bin TL olarak belirlendi.",
-      "highlights": [
-        "Bilet fiyatları geçen yıla göre yüzde 25 zamlandı",
-        "Büyük ikramiye 1 milyar TL'ye yükseldi",
-        "Toplam ikramiye 5 milyar 796 milyon 300 bin TL olacak"
-      ],
-      "externalUrl": "https://www.haberturk.com/bilgi/foto/mi-lli-pi-yango-yilbasi-bi-let-fi-yatlari-2027-buyuk-ikramiye-1-milyar-tl-milli-piyango-yilbasi-cekilisi-ceyrek-bilet-yarim-bilet-tam-bilet-fiyatlari-ne-kadar-kac-tl-3927353",
-      "publishedAt": "2026-11-15T18:56:17.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
