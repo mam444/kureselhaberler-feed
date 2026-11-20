@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:16:03.903Z",
+  "generatedAt": "2026-11-20T14:25:05.144Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/egitim/auzef-sinav-sonuclari-2026-istanbul-universitesi-auzef-vize-sonuclari-ne-zaman-aciklanacak-3495839",
@@ -15,13 +15,37 @@
       "timeAgo": "şimdi",
       "body": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Fakültesi (AUZEF) 2026 güz dönemi vize sonuçlarının açıklanacağı tarih öğrenciler tarafından bekleniyor. 14-15 Kasım 2026 tarihlerinde gerçekleştirilen ara sınavların ardından adaylar resmi duyuruları takibe başladı.\n\nAUZEF güz dönemi ara sınav sonuçları henüz açıklanmadı. Sonuçların, değerlendirme sürecinin tamamlanmasının ardından genellikle sınavların bitiminden sonraki 10 ila 15 gün içinde erişime açılması bekleniyor. Bu doğrultuda sonuçların 25-30 Kasım 2026 tarihleri arasında duyurulması öngörülüyor.\n\nÖğrenciler, sonuçlar açıklandığında AKSİS kullanıcı adı ve şifreleriyle sisteme giriş yaparak sınav puanlarını öğrenebilecek. AUZEF'te dönem sonu başarı notları hesaplanırken ara sınavların yüzde 30'u, final veya bütünleme sınavlarının ise yüzde 70'i dikkate alınıyor.\n\nÜniversitenin 2026-2027 akademik takvimine göre güz dönemi bitirme sınavları 26-27 Aralık 2026 tarihlerinde, bütünleme sınavları ise 30-31 Ocak 2027 tarihlerinde yapılacak. Bahar dönemi ara sınavları 24-25 Nisan 2027, final sınavları 12-13 Haziran 2027 ve bütünleme sınavları ise 10-11 Temmuz 2027 tarihlerinde gerçekleştirilecek.",
       "highlights": [
-        "İstanbul Üniversitesi AUZEF 2026 güz dönemi ara sınavları 14-15 Kasım 2026 tarihlerinde yapıldı.",
-        "AUZEF güz dönemi ara sınav sonuçlarının 25-30 Kasım 2026 tarihleri arasında erişime açılması bekleniyor.",
-        "Dönem sonu başarı notu hesaplanmasında ara sınavların yüzde 30'u, final veya bütünleme sınavlarının yüzde 70'i dikkate alınıyor."
+        "AUZEF 2026 güz dönemi vize sınavları 14-15 Kasım tarihlerinde yapıldı.",
+        "Sonuçların 25-30 Kasım 2026 tarihleri arasında erişime açılması bekleniyor.",
+        "Not hesaplamasında ara sınavların yüzde 30'u, final sınavlarının yüzde 70'i etkili oluyor."
       ],
       "externalUrl": "https://www.cnnturk.com/egitim/auzef-sinav-sonuclari-2026-istanbul-universitesi-auzef-vize-sonuclari-ne-zaman-aciklanacak-3495839",
       "publishedAt": "2026-11-20T14:17:09.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T14:24:34.771Z"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/the-51/20261120-does-staggered-consent-actually-protect-young-people",
+      "headline": "Kademeli rıza yaşı gençleri koruyor mu?",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1623577287452-68b18b24a4d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VUslMjBmbGFnfGVufDF8MHx8fDE3OTUxODQ2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Reinaldo Sture",
+        "photographerUrl": "https://unsplash.com/@rsture",
+        "unsplashUrl": "https://unsplash.com/photos/us-a-flag-on-pole-under-blue-sky-during-daytime-G4On6eN-QiI"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "İngiltere'de iki tanınmış komedyenin karıştığı son skandalların ardından hükümet, kademeli yaş rızası sistemini getirmeyi değerlendiriyor. Konuyla ilgili olarak Annette Young, İngiltere'deki Sosyal Adalet ve Suç Enstitüsü'nden Katherine Allen ile bu tür yasaların işe yarıp yaramadığını tartışıyor.\n\nProgramda ayrıca kadın cinayetlerinin toplumsal maliyetleri ele alınıyor. Sevdiklerini bu şekilde kaybeden ailelerin bu kaybın üstesinden nasıl geldiği ve trajedinin ardından ailelere sunulan destek mekanizmaları inceleniyor.\n\nBunun yanı sıra, büyük ölçüde erkek egemen bir alan olan Meksika mariachi müziği geleneklerine meydan okuyan kadınlarla bir araya geliniyor.\n\nYayınlanan içeriğe göre program Fransa 24 kanalındaki The 51 Percent programından alınmıştır ve 20 Kasım 2026 tarihinde yayınlanmıştır.",
+      "highlights": [
+        "İngiltere hükümeti kademeli yaş rızasını değerlendiriyor",
+        "Kadın cinayetlerinin toplumsal maliyetleri ele alınıyor",
+        "Meksika mariachi müziğindeki kadınlar inceleniyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/the-51/20261120-does-staggered-consent-actually-protect-young-people",
+      "publishedAt": "2026-11-20T14:14:00.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -4364,15 +4388,15 @@
       "timeAgo": "4 dk önce",
       "body": "Nijerya, 36 eyaletinin kendi polis teşkilatlarını kurmasına izin verme konusunda bir adım daha ilerledi. Artan güvensizlik ortamında yetkililerin federal gücü tamamlayacak eyalet düzeyinde polis güçleri arayışına girmesiyle birlikte Ulusal Meclis, anayasa değişiklik tasarı taslağını cumhurbaşkanına iletti.\n\nŞu anda birçok eyalet, Boko Haram gibi silahlı gruplarla mücadele etmek amacıyla yerel milis gruplarını finanse ediyor. Ancak bu grupların söz konusu görev için yetersiz eğitimli ve donanımsız olduğu belirtiliyor.\n\nKonuya ilişkin gelişmeler Fransa 24 muhabiri tarafından aktarılıyor.",
       "highlights": [
-        "Ulusal Meclis anayasa değişiklik tasarısını cumhurbaşkanına gönderdi",
-        "Eyaletlerin kendi polis güçlerini kurması planlanıyor",
-        "Mevcut gönüllü savunma gruplarının yetersiz ve donanımsız olduğu ifade ediliyor"
+        "Ulusal Meclis anayasa değişiklik tasarısını başkana gönderdi",
+        "Birçok eyalet Boko Haram'a karşı milis grupları finanse ediyor",
+        "Mevcut yerel gruplar yetersiz eğitim ve ekipmana sahip"
       ],
       "externalUrl": "https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces",
       "publishedAt": "2026-11-19T12:20:35.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T12:34:43.744Z"
+      "sourceTextAttemptedAt": "2026-11-20T14:24:34.771Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/kusadasinda-firar-eden-deve-kusu-karayoluna-girdi-aydin-kusadasi-haberleri-4874429",
@@ -11045,7 +11069,7 @@
       "publishedAt": "2026-11-17T15:27:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T07:54:27.154Z",
+      "imageSearchAttemptedAt": "2026-11-20T14:24:34.771Z",
       "sourceTextAttemptedAt": "2026-11-18T14:34:27.988Z"
     },
     {
@@ -11762,7 +11786,7 @@
       "publishedAt": "2026-11-17T07:56:00.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T07:54:27.154Z"
+      "imageSearchAttemptedAt": "2026-11-20T14:24:34.771Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-dengeli-dis-politika-yurutmek-zorunda-1751242",
@@ -13798,29 +13822,6 @@
       ],
       "externalUrl": "https://www.hurriyet.com.tr/kelebek/magazin/8-kez-kaybettigi-buyuk-odul-artik-ellerinde-gozunden-akan-yaslar-42-yillik-buyuk-emegin-gururuyla-yuklu-43379916",
       "publishedAt": "2026-11-16T08:40:57.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/tbmmde-bu-hafta-yogun-mesai-milyonlari-ilgilendiren-borc-duzenlemesi-gundemde-4872953",
-      "headline": "TBMM'de yoğun mesai: Borç düzenlemesi ve yeni teklifler gündemde",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1778013142895-b8af9932d717?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RyVDMyVCQ25kZW18ZW58MXwwfHx8MTc5NDgxODY2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Reanimated Man X",
-        "photographerUrl": "https://unsplash.com/@reanimatedmanx",
-        "unsplashUrl": "https://unsplash.com/photos/modern-building-with-glowing-logos-against-twilight-sky-vo7tEX_yvtk"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Türkiye Büyük Millet Meclisi bu hafta Genel Kurul ve komisyonlarda kritik düzenlemeleri ele alacak. Genel Kurul'da Türk Kızılay Kanunu Teklifi ile yabancı dijital konaklama platformlarına yönelik düzenlemeler görüşülürken; komisyonlarda bakanlık bütçeleri ve milyonlarca yurttaşı ilgilendiren GSS prim borçlarının silinmesine ilişkin kanun teklifi ele alınacak.",
-      "highlights": [
-        "Genel Kurul'da Türk Kızılay Kanunu ve dijital konaklama platformları teklifi görüşülüyor.",
-        "Plan ve Bütçe Komisyonu'nda bakanlıkların 2027 yılı bütçeleri ele alınacak.",
-        "GSS prim borçlarının silinmesine ilişkin kanun teklifi görüşülecek."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/tbmmde-bu-hafta-yogun-mesai-milyonlari-ilgilendiren-borc-duzenlemesi-gundemde-4872953",
-      "publishedAt": "2026-11-16T08:39:42.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
