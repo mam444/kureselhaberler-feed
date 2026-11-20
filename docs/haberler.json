@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T15:43:51.395Z",
+  "generatedAt": "2026-11-20T15:46:39.384Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
+      "headline": "Avrupa'da Z Kuşağı protestoları: İspanya'da geçim sıkıntısına karşı kitlesel mitingler",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1712604178038-30c07c3c4654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cHJvdGVzdCUyMFNwYWlufGVufDF8MHx8fDE3OTUxODk1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dmitrii E.",
+        "photographerUrl": "https://unsplash.com/@dmitriielj",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-dressed-in-white-walking-down-a-street-hRE5w76L0tM"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Avrupa genelinde eylemciler, hükümetler üzerindeki baskıyı artırmak amacıyla cuma günü sokaklara çıkmaya hazırlanıyor. Sınır ötesi dayanışma gösterisi niteliğindeki bu eylemler, artan yaşam maliyeti, militarizm ve diğer çeşitli nedenlere karşı koordine edilen gösterileri kapsıyor.\n\nİspanya'nın başkenti Madrid'den aktarım yapan FRANCE 24 muhabiri Sarah Morris, ülkedeki durumu ve protestoların arka planını takip ediyor. Benzer şekilde Avrupa'nın farklı bölgelerinde de vatandaşlar hükümetlerin politikalarına karşı ortak ses çıkarıyor.\n\nSöz konusu gösteriler, Avrupa genelinde artan geçim sıkıntısı ve ekonomik zorluklara karşı düzenlenen protestolar silsilesinin bir parçasını oluşturuyor. Eylemciler, hükümetlerin bu sorunlara karşı daha somut adımlar atmasını talep ediyor.",
+      "highlights": [
+        "Avrupa genelinde eylemciler cuma günü sokaklara çıkmaya hazırlanıyor",
+        "Protestolar artan yaşam maliyeti ve militarizme karşı düzenleniyor",
+        "FRANCE 24 muhabiri Sarah Morris Madrid'den bildirdi"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
+      "publishedAt": "2026-11-20T15:41:34.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
       "headline": "ABD Ordusu, Kamu Tepkileri Üzerine Bomba Yapımında Kullanılan Kimyasalın İmha Planını Erteledi",
@@ -22,6 +45,29 @@
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
       "publishedAt": "2026-11-20T15:39:48.000Z",
       "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/egitim/ogrenciler-anadolu-medeniyetlerini-dijital-ansiklopediyle-taniyacak-963992.html",
+      "headline": "Öğrenciler Anadolu medeniyetlerini dijital ansiklopediyle tanıyacak",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1610484826917-0f101a7bf7f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGlnaXRhbCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1MTg5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Compare Fibre",
+        "photographerUrl": "https://unsplash.com/@comparefibre",
+        "unsplashUrl": "https://unsplash.com/photos/boy-in-red-hoodie-wearing-black-headphones-JiOFFI3W7IA"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Milli Eğitim Bakanlığı (MEB), Anadolu'nun kültürel mirasının öğrencilere tanıtılması amacıyla \"Dijital Anadolu Medeniyetleri Ansiklopedisi\" projesini hayata geçirdi.\n\nBu kapsamda, 100 kavrama yönelik olarak hazırlanan toplam 800 dakikalık eğitsel video içeriği hazırlandı.\n\nSöz konusu eğitim içerikleri, dijital eğitim platformları üzerinden kullanıcıların erişimine sunulacak.",
+      "highlights": [
+        "MEB tarafından Dijital Anadolu Medeniyetleri Ansiklopedisi hayata geçirildi",
+        "100 kavrama yönelik 800 dakikalık eğitsel video içeriği hazırlandı",
+        "İçerikler dijital eğitim platformları üzerinden erişime sunulacak"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/egitim/ogrenciler-anadolu-medeniyetlerini-dijital-ansiklopediyle-taniyacak-963992.html",
+      "publishedAt": "2026-11-20T15:39:00.000Z",
+      "category": "Son Dakika",
       "lang": "tr"
     },
     {
@@ -4131,15 +4177,15 @@
       "timeAgo": "13 dk önce",
       "body": "Fransa'nın başkenti Paris'te Perşembe günü binden fazla kişi, 2027 bütçesinde emeklileri hedef alan sosyal ve vergi önlemlerine karşı yürüyüş düzenledi. Eylem, öğrenci ve lise gruplarının da katıldığı bir sendika ittifakının çağrısıyla gerçekleştirildi.\n\nHükümet, 1.260 euro üzerindeki emekli maaşlarının endekslemesini dondurmayı ve yüzde 10'luk gelir vergisi istisnasını reforme etmeyi planlıyor. Bu adımlarla emeklilerin yaklaşık 5,4 milyar euro katkı sağlaması hedefleniyor.\n\nSendika liderleri ise bu kaynağın emeklilerin cebinden çıkmaması gerektiği görüşünü savunuyor. Gelişmeler ve protestolarla ilgili detaylar basın yansımalarında yer buldu.",
       "highlights": [
-        "Paris'te binden fazla kişi 2027 bütçe kesintilerine karşı yürüdü",
-        "Hükümet emeklilerden yaklaşık 5,4 milyar euro katkı sağlamayı hedefliyor",
-        "Sendikalar paranın emeklilerin cebinden çıkmaması gerektiğini söylüyor"
+        "Paris'te bin kişiden fazla kişi bütçe kesintilerine karşı yürüdü",
+        "Hükümet emeklilerin yaklaşık 5,4 milyar euro katkı sağlamasını istiyor",
+        "Sendika liderleri paranın emeklilerin cebinden çıkmaması gerektiğini savunuyor"
       ],
       "externalUrl": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
       "publishedAt": "2026-11-19T14:32:57.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T14:54:17.127Z"
+      "sourceTextAttemptedAt": "2026-11-20T15:44:21.186Z"
     },
     {
       "id": "https://www.haberturk.com/ekonomi/tmsf-guvencesiyle-insa-edilen-bayrampasa-modern-bolgenin-yeni-yasam-merkezi-olmayi-hedefliyor-3928444",
@@ -4202,15 +4248,15 @@
       "timeAgo": "17 dk önce",
       "body": "In August 2017, after attacks by a Rohingya militia, Myanmar’s army launched a “clearance campaign” in Rakhine state, with survivors describing mass killings, rapes and burned villages as hundreds of thousands fled to Bangladesh. The Gambia took Myanmar to the ICJ in 2019, and after a seven-year legal fight the court has ruled that Myanmar committed acts of genocide. Meanwhile some 1.2 million Rohingya remain in…",
       "highlights": [
-        "UAD, Myanmar'ın Rohingya halkına karşı soykırım işlediğine hükmetti.",
-        "Gambiya, Myanmar'ı 2019 yılında mahkemeye taşımıştı.",
-        "Yaklaşık 1,2 milyon Rohingya kamplarda yaşamaya devam ediyor."
+        "Uluslararası Adalet Divanı, Myanmar'ın Rohingya'ya karşı soykırım işlediğine hükmetti.",
+        "Gambiya, Myanmar'ı 2019 yılında UCM'ye taşımıştı.",
+        "Yaklaşık 1,2 milyon Rohingya kalabalık kamplarda yaşamaya devam ediyor."
       ],
       "externalUrl": "https://www.france24.com/en/icj-rules-myanmar-committed-genocide-against-the-rohingya",
       "publishedAt": "2026-11-19T14:07:11.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T14:34:31.868Z"
+      "sourceTextAttemptedAt": "2026-11-20T15:44:21.186Z"
     },
     {
       "id": "https://www.france24.com/en/china-summit-ends-with-little-new-europe-backs-ukraine-in-berlin",
@@ -13782,52 +13828,6 @@
       "externalUrl": "https://www.dw.com/tr/made-in-europe-çıkarması-türk-otomotivciler-berlin-e-gidiyor/a-79957078?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-16T10:31:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-      "headline": "Lübnan'ın ikinci havalimanı ekonomik ve siyasi faydalar sağlayabilir",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8V29ybGR8ZW58MXwwfHx8MTc5NDgyNjQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kyle Glenn",
-        "photographerUrl": "https://unsplash.com/@kylejglenn",
-        "unsplashUrl": "https://unsplash.com/photos/desk-globe-on-table-nXt5HtLmlgE"
-      },
-      "timeAgo": "26 dk önce",
-      "body": "Lübnan'da ikinci bir havalimanının kurulması, savaşın yıkıma uğrattığı ülkeye hava seyahati için daha fazla seçenek sunuyor. Bu gelişme ülkeye ekonomik ve siyasi avantajlar sağlayabilir.",
-      "highlights": [
-        "Lübnan'da ikinci bir havalimanı kurulması planlanıyor",
-        "Savaş mağduru ülkeye hava seyahatinde seçenekler sunacak",
-        "Ekonomik ve siyasi faydalar sağlayabileceği belirtiliyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/features/2026/11/16/lebanons-second-airport-could-provide-economic-and-political-benefits?traffic_source=rss",
-      "publishedAt": "2026-11-16T10:28:22.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/kelebek/magazin/artik-buyuk-sohretinden-kaciyor-okyanusun-ortasinda-ada-satin-aldi-burada-kimse-burnuma-mikrofon-dayamiyor-43380051",
-      "headline": "Ünlü oyuncu okyanus ortasında ada satın aldı",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8aXNsYW5kJTIwb2NlYW58ZW58MXwwfHx8MTc5NDgyNjQ4Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tom Winckels",
-        "photographerUrl": "https://unsplash.com/@twinckels",
-        "unsplashUrl": "https://unsplash.com/photos/green-trees-on-cliff-I7oLRdM9YIw"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "90'lı ve 2000'li yılların popüler sinema oyuncularından biri, kariyerindeki büyük şöhretten kaçarak okyanusun ortasında ada satın aldı. Ünlü oyuncu, burada kimsenin kendisine mikrofon uzatmadığını belirtti.",
-      "highlights": [
-        "90'lar ve 2000'lerin popüler sinema oyuncusuydu",
-        "Şöhretten kaçarak okyanusun ortasında ada satın aldı",
-        "Kimsenin kendisine mikrofon uzatmadığını ifade etti"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/kelebek/magazin/artik-buyuk-sohretinden-kaciyor-okyanusun-ortasinda-ada-satin-aldi-burada-kimse-burnuma-mikrofon-dayamiyor-43380051",
-      "publishedAt": "2026-11-16T10:20:21.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
