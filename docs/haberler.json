@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T09:34:48.565Z",
+  "generatedAt": "2026-11-20T09:44:43.156Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/fransiz-basini-turkiyeyi-konusuyor-savunmada-dengeler-degisti-185-ulkeye-yayilan-guc-7704379",
+      "headline": "Fransız basınından Türkiye analizi: Savunmada dengeler değişti",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1721969661115-8d1affb358da?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHVya2lzaCUyMGRlZmVuc2UlMjBpbmR1c3RyeXxlbnwxfDB8fHwxNzk1MTY3ODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Haci",
+        "photographerUrl": "https://unsplash.com/@e_haci",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-fighter-jets-flying-through-a-cloudy-sky-wyXRVUCWM1A"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Türkiye'nin savunma sanayisinde kaydettiği dönüşüm Fransız yayın kuruluşu France 24'ün analizinde yer aldı. Haberde, Türkiye'nin NATO müttefikleri arasında yerli üretim hamlesi ve ihracat kapasitesiyle önemli bir oyuncu haline geldiği vurgulandı.\n\nAnalize göre, Türk silah üreticilerinin ciroları 2002-2023 yılları arasında 15 kat artarken, savunma sanayisi ihracatı 2010 yılında yaklaşık 800 milyon dolarken 2024'te 7.1 milyar dolara çıktı. Emekli Tuğgeneral Patrice Moyeuvre, Türkiye'nin teçhizatının önemli bir bölümünü kendi imkanlarıyla ürettiğini belirtti. Dönüşümün arkasındaki en önemli adımlardan birinin 2004'te atıldığı, Ankara'nın hazır sistemler yerine silah geliştirme çalışmalarını ülke içine yönlendirdiği ve sektörü Savunma Sanayii Başkanlığı koordinasyonuna aldığı aktarıldı.\n\nTürkiye'nin son 10 yılda 185 ülkeye 230 farklı savunma ürünü ihraç ettiği ifade edildi. ASELSAN, HAVELSAN, TUSAŞ ve ROKETSAN gibi şirketlerin uluslararası ölçekte büyüdüğü kaydedildi. Janes analisti Tom Barton, Türkiye'nin füze, İHA ve komuta ağlarına yatırımlar yaptığını ve Avrupa ile ABD şirketleriyle rekabet eden tercih edilen bir tedarikçi olduğunu söyledi.\n\nAyrıca ASELSAN'ın EJDERHA adlı yüksek güçlü elektromanyetik sisteminin 51 droneluk sürüyü etkisiz hale getirdiği gösterime yer verildi. Türkiye'nin bağımsız dış politikası ve NATO müttefikleriyle ilişkileri de analizde ele alındı.",
+      "highlights": [
+        "Türk savunma sanayi cirosu 2002-2023 yılları arasında 15 kat arttı.",
+        "Savunma ihracatı 2024 yılında 7.1 milyar dolara yükseldi.",
+        "Türkiye son 10 yılda 185 ülkeye 230 farklı türde savunma ürünü ihraç etti."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/fransiz-basini-turkiyeyi-konusuyor-savunmada-dengeler-degisti-185-ulkeye-yayilan-guc-7704379",
+      "publishedAt": "2026-11-20T09:41:03.000Z",
+      "category": "Son Dakika",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/kari-kocanin-korkunc-yasak-ask-plani-cesedi-varil-icinde-yok-etmeye-calistilar-7704373",
       "headline": "Kars'tan Antakya'ya gelen Ahmet Nuri Bezar cinayetinde varil ve nehir detayı",
@@ -22,7 +45,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/kari-kocanin-korkunc-yasak-ask-plani-cesedi-varil-icinde-yok-etmeye-calistilar-7704373",
       "publishedAt": "2026-11-20T09:32:25.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T09:44:36.198Z"
     },
     {
       "id": "https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
@@ -66,6 +90,29 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:34:37.315Z"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "headline": "California, Nvidia'ya Çin'e çip ihracatı incelemesi kapsamında celp gönderdi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1672307613484-3254a04651fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWljcm9jaGlwfGVufDF8MHx8fDE3OTUxNjc4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Maxence Pira",
+        "photographerUrl": "https://unsplash.com/@maxence_pira",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-pattern-of-small-squares-7hR3FrFs4Q0"
+      },
+      "timeAgo": "26 dk önce",
+      "body": "California eyaleti, Nvidia hakkında gelişmiş yarı iletken çip ihracatının ABD kısıtlamalarına aykırı olarak Çin'e gidip gitmediğini araştırmak üzere soruşturma başlattı. Eyalet Başsavcısı Rob Bonta, şirkete bir soruşturma celbi gönderildiğini açıkladı.\n\nSoruşturma, kurucu ortak ve uzun süredir genel müdür olan Jensen Huang'ın evlilik dışı ilişkilerinin ortaya çıkmasının ardından istifa etmesiyle tetiklendi. Başsavcı Bonta, yaşananların yatırımcıların yanıltılmış olabileceğine dair kırmızı alarm verdiğini belirtti.\n\nİstifaya yol açan süreçte, Huang'ın Çinli bir casus olduğu şüphelenilen Alice Huang ile ilişkisi olduğu ortaya çıkmıştı. Alice Huang ile bağlantılı olan Singapur merkezli Megaspeed firmasının, son yıllarda Nvidia'dan yaklaşık 5 milyar dolar değerinde çip satın aldığı ve kısıtlı gelişmiş çipleri Çin'e yönlendirip yönlendirmediğinin araştırıldığı bildirildi. Megaspeed ise meşru bir işletme olduğunu açıkladı.\n\nSoruşturma kapsamında ayrıca eski yöneticinin eylemleri sonucunda Çin'e gizli bilgi aktarılıp aktarılmadığı da inceleniyor. Jensen Huang'ın itirafının ardından Nvidia hisseleri bir hafta içinde beşte bir oranında değer kaybederek Perşembe günü bir yılın en düşük seviyesine geriledi ve piyasa değerinden yaklaşık 1 trilyon dolar silindi.\n\nEski CEO Huang'ın, 1 Aralık'ta ulusal güvenlik ihlali potansiyeliyle ilgili çeşitli kongre komiteleri önünde ifade vermesi bekleniyor.",
+      "highlights": [
+        "California Başsavcılığı Nvidia'ya soruşturma celbi gönderdi",
+        "Soruşturma çip ihracatının Çin'e ulaşıp ulaşmadığını ve yatırımcıların yanıltılıp yanıltılmadığını inceliyor",
+        "Jensen Huang'ın istifası ve hisselerdeki düşüş süreci tetikledi"
+      ],
+      "externalUrl": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
+      "publishedAt": "2026-11-20T09:18:30.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
@@ -13733,52 +13780,6 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
       "publishedAt": "2026-11-14T16:53:39.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/dunya/bilal-erdogan-lubnan-daki-turkmenlerle-bulusarak-cumhurbaskani-erdogan-in-selamlarini-iletti-3927401",
-      "headline": "Bilal Erdoğan Lübnan'daki Türkmen köylerini ziyaret etti",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1675669562515-e957c9ff436d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMGZsYWd8ZW58MXwwfHx8MTc5NDY3NDcwNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "engin akyurt",
-        "photographerUrl": "https://unsplash.com/@enginakyurt",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-the-flag-of-turkey-4A7dZHjdlUU"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, gerçekleştirdiği uluslararası temaslar kapsamında Lübnan'ın kuzey bölgesinde yer alan Türkmen köylüleri ile bir araya geldi. Bölgedeki diplomatik ve kültürel bağların güçlendirilmesi amacıyla yapılan bu anlamlı ziyaret çerçevesinde, Erdoğan, Kavaşra ve Aydamun köylerine giderek yerel halkla buluştu.\n\nZiyaret rotasında bulunan Kavaşra ve Aydamun köylerinde halkın gösterdiği yoğun ilgi dikkat çekti. Köy sakinleri, Türkiye'den gelen heyeti ellerindeki Türk bayraklarıyla ve coşkulu tezahüratlarla karşıladı. Gerçekleşen bu samimi buluşmada, Türkiye ile bölgedeki Türkmen toplulukları arasındaki köklü tarihi ve kültürel bağların önemi bir kez daha ön plana çıktı.\n\nZiyaret sırasında halka hitap eden ve onlarla birebir görüşmeler gerçekleştiren İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, köylülere Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan'ın özel selamlarını iletti. Bu mesaj, bölgedeki Türkmenler arasında büyük bir memnuniyetle karşılanırken, Türkiye'nin her zaman soydaşlarının ve mazlum coğrafyaların yanında olduğu bir kez daha vurgulandı.\n\nProgram boyunca bölgenin genel durumu, köylerin ihtiyaçları ve yürütülebilecek kültürel çalışmalar hakkında da değerlendirmelerde bulunuldu. Türkiye'nin uluslararası alandaki insani yardım ve kültürel diplomasi faaliyetlerinin bir parçası olarak değerlendirilen bu tür ziyaretler, ülkeler arasındaki dostluk köprülerini pekiştirmeyi amaçlıyor.\n\nGerçekleştirilen temasların ardından Bilal Erdoğan'ın Lübnan programını tamamlayarak bölgeden ayrılması beklenirken, Kavaşra ve Aydamun köylerindeki bu tarihi buluşma, iki ülke arasındaki dostane ilişkilerin sahadaki somut bir yansıması olarak kayıtlara geçti.",
-      "highlights": [
-        "Bilal Erdoğan Lübnan'ın kuzeyindeki Kavaşra ve Aydamun köylerini ziyaret etti.",
-        "Köylüler Erdoğan'ı ellerinde Türk bayrakları ve büyük bir coşkuyla karşıladı.",
-        "Erdoğan, Cumhurbaşkanı Erdoğan'ın selamlarını ileterek Türkiye'nin destek mesajını vurguladı."
-      ],
-      "externalUrl": "https://www.haberturk.com/dunya/bilal-erdogan-lubnan-daki-turkmenlerle-bulusarak-cumhurbaskani-erdogan-in-selamlarini-iletti-3927401",
-      "publishedAt": "2026-11-14T16:32:59.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/kultur/kktcnin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciyle-bulusacak/4125318",
-      "headline": "KKTC'nin kuruluş yıl dönümüne özel yayınlar TRT ekranlarında izleyiciyle buluşacak",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1538131587570-641359811581?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dGVsZXZpc2lvbiUyMGJyb2FkY2FzdHxlbnwxfDB8fHwxNzk0Njc0NzE2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Pinho .",
-        "photographerUrl": "https://unsplash.com/@pinho",
-        "unsplashUrl": "https://unsplash.com/photos/a-remote-control-sitting-in-front-of-a-television-yjXAtMCPdGs"
-      },
-      "timeAgo": "18 dk önce",
-      "body": "Kuzey Kıbrıs Türk Cumhuriyeti'nin (KKTC) kuruluşunun yıl dönümü, bu yıl da medya organlarında geniş bir şekilde ele alınmaya hazırlanıyor. Bu kapsamda, köklü yayın kuruluşu Türkiye Radyo Televizyon Kurumu (TRT), anlamlı günün önemine yakışır özel içerikleri izleyicilerin beğenisine sunacağını duyurdu.\n\nGerçekleştirilecek olan bu özel yayınlar, tarihi yıl dönümünün coşkusunu ve anlamını ekranlara taşımayı amaçlıyor. Kuzey Kıbrıs Türk Cumhuriyeti'nin varoluş mücadelesini, kültürel zenginliklerini ve bugüne kadar kaydettiği gelişmeleri ele alan yapımlar, TRT'nin çeşitli kanallarında izleyiciyle buluşacak.\n\nPlanlanan bu kapsamlı yayıncılık faaliyeti, halkın tarih bilincini pekiştirmeyi ve söz konusu dönüm noktasının önemini geniş kitlelere aktarmayı hedefliyor. TRT ekranlarında yer alacak belgeseller, özel programlar ve röportajlar aracılığıyla, Kuzey Kıbrıs'ın geçmişten bugüne yaşadığı kritik aşamalar tarafsız ve kapsayıcı bir gazetecilik anlayışıyla masaya yatırılacak.\n\nKurumun hazırladığı bu özel yayın akışının, ulusal çapta izleyicilerden ilgi görmesi bekleniyor. Yayıncılık ilkeleri doğrultusunda hazırlanan içerikler, sadece bir kutlama programı olmanın ötesinde, tarihsel olayların arka planını ve toplumsal etkilerini de gözler önüne serecek nitelikte tasarlandı.\n\nKuzey Kıbrıs Türk Cumhuriyeti'nin 43. kuruluş yıl dönümü gibi kritik bir eşikte hayata geçirilen bu projeler, ülkenin kültürel ve siyasi hafızasına katkı sunmayı amaçlıyor. İzleyiciler, TRT ekranlarından yayımlanacak olan bu özel içerikler sayesinde, söz konusu dönemin dönüm noktalarına ve tarihsel köklerine dair ayrıntılı bir bakış açısı elde etme fırsatı bulacak.",
-      "highlights": [
-        "Kuzey Kıbrıs Türk Cumhuriyeti'nin kuruluş yıl dönümü TRT'de kutlanacak.",
-        "Özel yayınlar tarihi yıl dönümünün anlamını ekranlara taşıyacak.",
-        "Belgeseller ve programlar izleyicilere tarihi süreçleri aktaracak."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/kultur/kktcnin-kurulus-yil-donumune-ozel-yayinlar-trt-ekranlarinda-izleyiciyle-bulusacak/4125318",
-      "publishedAt": "2026-11-14T16:27:00.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
