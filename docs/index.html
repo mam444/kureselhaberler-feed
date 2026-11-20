@@ -803,6 +803,7 @@
   .header-inner { min-height: 70px; gap: 22px; }
   .logo { flex: 0 0 210px; }
   .logo-wordmark { display:block; width:200px; height:48px; object-fit:contain; }
+  .logo-wordmark { filter: drop-shadow(0 1px 0 rgba(255,255,255,.12)); }
   .search-box { max-width: 430px; }
   .search-box input { background:rgba(255,255,255,.1); border-color:rgba(255,255,255,.22); }
   .header-actions { gap:9px; }
@@ -821,6 +822,7 @@
   main { background:var(--bg); color:var(--text); }
   .featured { grid-template-columns:minmax(0,1.45fr) minmax(330px,1fr); }
   .featured-main { min-height:390px; border-radius:18px; }
+  .featured-main { box-shadow:0 12px 28px rgba(55,47,33,.12); }
   .featured-main .content { padding:24px; }
   .featured-main h2 { font-size:clamp(24px,2.3vw,31px); }
   .featured-main .source-name { color:#fff; }
@@ -831,6 +833,14 @@
   .side-card img { width:100px; height:66px; border-radius:6px; }
   .side-card h3 { font-size:13px; }
   .home-layout { grid-template-columns:minmax(0,1fr) 292px; gap:20px; }
+  .main-col { min-width:0; }
+  .article-layout { grid-template-columns:minmax(0,1fr) 320px; gap:30px; }
+  .article-inner { max-width:none; }
+  .article-inner h1 { max-width:960px; color:var(--text); }
+  .article-meta { padding:10px 0 14px; border-top:1px solid var(--divider); }
+  .article-toolbar { position:sticky; top:132px; z-index:5; background:var(--bg); padding:10px 12px; border:1px solid var(--divider); border-radius:14px; }
+  .article-body { max-width:780px; }
+  .article-layout > .sidebar { position:sticky; top:132px; }
   .sidebar { position:static; gap:12px; }
   .widget-card { border-radius:16px; padding:16px; }
   .widget-title { color:var(--text); }
@@ -864,6 +874,8 @@
     .home-layout { grid-template-columns:1fr; }
     .featured-main { min-height:330px; }
     .sidebar { flex-direction:row; }
+    .article-layout > .sidebar { position:static; }
+    .article-toolbar { position:static; }
     .sidebar .widget-card { min-width:260px; }
   }
   @media (max-width: 600px) {
@@ -899,7 +911,7 @@
 </script>
 </head>
 <body>
-<div id="brandSplash" aria-hidden="true"><img src="assets/brand/splash-illustration.png" alt=""></div>
+<div id="brandSplash" aria-hidden="true"><img src="assets/brand/splash-illustration-clean.png" alt=""></div>
 
 <div id="progressBar"></div>
 
