@@ -318,6 +318,15 @@
     color: var(--navy); display: flex; align-items: center; gap: 6px; margin-bottom: 2px;
   }
   .featured-side-title .msr { font-size: 18px; color: var(--gold); flex-shrink: 0; }
+  .home-quick-cats { display:grid; grid-template-columns:repeat(8,minmax(0,1fr)); gap:9px; margin:14px 0 22px; }
+  .home-quick-cat { min-width:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px;
+    min-height:78px; padding:8px 5px; border:1px solid var(--divider); border-radius:13px; background:var(--card);
+    color:var(--text); transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease; }
+  .home-quick-cat:hover { transform:translateY(-2px); border-color:var(--cat-accent,var(--gold)); box-shadow:0 8px 20px var(--shadow); }
+  .home-quick-cat .quick-icon { display:grid; place-items:center; width:37px; height:37px; border-radius:11px;
+    color:var(--cat-accent,var(--gold)); background:color-mix(in srgb,var(--cat-accent,var(--gold)) 11%, transparent); }
+  .home-quick-cat .quick-icon .msr { font-size:21px; }
+  .home-quick-cat span:last-child { max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:10.5px; font-weight:800; }
 
   .badge {
     display: inline-block; font-size: 11px; font-weight: 700;
@@ -839,6 +848,10 @@
     .related-grid { grid-template-columns: 1fr; }
   }
   @media (max-width: 540px) {
+    .home-quick-cats { grid-template-columns:repeat(4,minmax(0,1fr)); gap:7px; margin:10px 0 16px; }
+    .home-quick-cat { min-height:68px; }
+    .home-quick-cat .quick-icon { width:32px; height:32px; }
+    .home-quick-cat .quick-icon .msr { font-size:19px; }
     .grid { grid-template-columns: 1fr; }
     .logo span.full { display: none; }
     .live-show-badge { display: none; }
@@ -1571,10 +1584,31 @@ function renderHome() {
     </div>
   </div>`;
 
+  const shortcutCategories = [...new Set(allArticles.map(a => a.category).filter(Boolean))].slice(0, 8);
+  const shortcutIcon = category => {
+    const value = category.toLocaleLowerCase('tr-TR');
+    if (value.includes('ekonomi')) return 'trending_up';
+    if (value.includes('spor')) return 'sports_soccer';
+    if (value.includes('teknoloji')) return 'memory';
+    if (value.includes('bilim')) return 'science';
+    if (value.includes('sağlık')) return 'favorite';
+    if (value.includes('kültür')) return 'theater_comedy';
+    if (value.includes('yaşam')) return 'eco';
+    if (value.includes('türkiye')) return 'map';
+    if (value.includes('dünya')) return 'public';
+    if (value.includes('son dakika')) return 'bolt';
+    return 'article';
+  };
+  const shortcuts = shortcutCategories.length ? `<nav class="home-quick-cats" aria-label="Kategoriler">
+    ${shortcutCategories.map(category => `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
+      <span class="quick-icon"><span class="msr">${shortcutIcon(category)}</span></span><span>${escapeHtml(category)}</span>
+    </a>`).join('')}
+  </nav>` : '';
+
   let main = `<div class="section-title">Son Dakika</div>`;
   if (gridItems.length > 0) main += pagedFeedHtml(gridItems, 'home');
 
-  const html = `${feature}<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
+  const html = `${feature}${shortcuts}<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
 
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
