@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T13:04:38.357Z",
+  "generatedAt": "2026-11-20T13:14:42.932Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
+      "headline": "AKOM'dan İstanbul için son dakika sağanak uyarısı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1622078909758-d8c4828e9069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjByYWlufGVufDF8MHx8fDE3OTUxNjQ4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Obaid Ur Rehman",
+        "photographerUrl": "https://unsplash.com/@ripper03",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-night-time-P5E04YnORN4"
+      },
+      "timeAgo": "şimdi",
+      "body": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte bugün ve yarın etkili olması beklenen sağanak yağışa karşı vatandaşları uyardı.\n\nAKOM raporuna göre, bugün öğle saatlerinden sonra başlaması öngörülen yağışların akşam saatlerine doğru il genelinde etkisini artırması bekleniyor. Yağışların saat 22.00'ye kadar sağanak ve yer yer kuvvetli gök gürültülü sağanak şeklinde, metrekareye 10 ila 20 kilogram düşecek şekilde etkili olacağı tahmin ediliyor.\n\nGece saatlerinde etkisini kaybetmesi beklenen yağışların, cumartesi günü öğle saatlerinden itibaren yeniden başlaması öngörülüyor. Bu yağışların akşam saatlerine kadar kısa süreli ve kuvvetli gök gürültülü sağanak geçişleri şeklinde görüleceği tahmin ediliyor.\n\nYetkililer, yaşanabilecek olumsuzluklara karşı kent sakinlerini dikkatli ve tedbirli olmaları konusunda uyardı.",
+      "highlights": [
+        "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi (AKOM) sağanak uyarısında bulundu.",
+        "Yağışların metrekareye 10 ila 20 kilogram düşmesi bekleniyor.",
+        "Yağışların cumartesi günü öğle saatlerinden sonra yeniden başlaması öngörülüyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
+      "publishedAt": "2026-11-20T13:19:14.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/eyupsultanda-2-iett-otobusu-carpisti-4-yarali-3495840",
       "headline": "Eyüpsultan’da 2 İETT otobüsü çarpıştı: 4 yaralı",
@@ -16,13 +39,14 @@
       "body": "İstanbul'un Eyüpsultan ilçesinde iki İETT otobüsünün karıştığı kazada 4 kişi yaralandı. Olay, 20 Kasım 2026 tarihinde saat 10.00 sıralarında Sakarya Mahallesi Silahtarağa Caddesi üzerinde gerçekleşti.\n\nEdinilen bilgilere göre kaza, durağa yanaşma manevrası yapan bir İETT otobüsüne, arkadan gelen bir başka İETT otobüsünün çarpması sonucunda meydana geldi. \n\nÇarpışmanın ardından çevredeki vatandaşların ihbarı üzerine olay yerine çok sayıda sağlık ve polis ekibi sevk edildi. Sağlık görevlilerinin olay yerindeki ilk kontrollerinde, kazada yaralandığı tespit edilen 3 yolcu ile 1 otobüs şoförü ambulanslarla hastaneye sevk edildi.\n\nKaza nedeniyle aksayan trafik, kazaya karışan otobüslerin yoldan kaldırılmasıyla normale döndü. Yaşanan olayla ilgili olarak resmi inceleme başlatıldığı bildirildi. DHA kaynaklı haberde başka bir ayrıntıya yer verilmedi.",
       "highlights": [
         "Eyüpsultan’da iki İETT otobüsü çarpıştı",
-        "Kazada 3 yolcu ve 1 otobüs şoförü olmak üzere 4 kişi yaralandı",
+        "Kazada 3 yolcu ve 1 otobüs şoförü yaralandı",
         "Yaralılar ambulansla hastaneye kaldırıldı"
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/eyupsultanda-2-iett-otobusu-carpisti-4-yarali-3495840",
       "publishedAt": "2026-11-20T13:09:16.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T13:14:34.282Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cop31de-400-bin-pet-sise-dogaya-atilmaktan-kurtarildi-4874892",
@@ -45,6 +69,29 @@
       "externalUrl": "https://www.yenisafak.com/gundem/cop31de-400-bin-pet-sise-dogaya-atilmaktan-kurtarildi-4874892",
       "publishedAt": "2026-11-20T12:53:37.000Z",
       "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+      "headline": "Uluslararası Lig Çeyrek Final Eşleşmeleri Belli Oldu: İspanya Fransa ile Karşılaşacak, İngiltere Norveç ile Oynayacak",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673614255879-0e0eb4f62c90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TmF0aW9ucyUyMExlYWd1ZSUyMGZvb3RiYWxsfGVufDF8MHx8fDE3OTUxODA0NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Davide Buttani",
+        "photographerUrl": "https://unsplash.com/@dabuttare",
+        "unsplashUrl": "https://unsplash.com/photos/a-soccer-ball-sitting-on-top-of-a-soccer-field-MVgejnMFy4I"
+      },
+      "timeAgo": "30 dk önce",
+      "body": "Uluslararası Lig çeyrek final kuralarında eşleşmeler açıklandı. Yapılan kura çekimine göre İspanya, Fransa ile mücadele edecek. Bir diğer eşleşmede ise İngiltere, Norveç ile karşı karşıya gelecek.\n\nDünya Kupası şampiyonu ve Avrupa şampiyonu unvanını taşıyan İspanya, daha önce düzenlenen dört Uluslararası Lig finalinin üçüne ulaşma başarısı gösterdi. İspanyol ekibi bu finallerden birinde, 2023 yılında şampiyonluk elde etti.\n\nÇeyrek final aşamasındaki bu kritik karşılaşmaların ardından turnuvadaki rekabetin nasıl şekilleneceği futbolseverler tarafından takip ediliyor. Takımların bu turdaki performansları ve maçların sonuçları turnuvanın ilerleyen aşamaları için belirleyici olacak.",
+      "highlights": [
+        "İspanya çeyrek finalde Fransa ile karşılaşacak",
+        "İngiltere Norveç ile oynayacak",
+        "İspanya 2023 yılında Uluslararası Lig'i kazandı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/20/nations-league-knockouts-spain-france-england-norway-quarterfinals?traffic_source=rss",
+      "publishedAt": "2026-11-20T12:44:58.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -3825,15 +3872,15 @@
       "timeAgo": "4 dk önce",
       "body": "Büyükçekmece Fatih Mahallesi'nde bulunan 4 katlı binanın 2'nci katındaki dairede 2 yıl yaşayan kiracı, evin tahliye edilmesinin ardından dairenin duvarlarına, tavanına, kapı ve pencerelerine, mutfak dolaplarına, peteklere ve kombiye aşk şiirleri ile ayrılık sözleri yazdı. Yaklaşık 8-9 aydır kira ödemesi alamayan ev sahibi, tahliye davası açarak yasal süreç başlatmıştı. Yasal sürecin tamamlanmasıyla kiracı evi boşalttı.\n\nDaireyi kontrole giden ev sahibinin avukatı, evin demirbaşlarının ve yüzeylerinin yazılarla dolu olduğunu fark etti. Avukatın çektiği görüntüleri inceleyen ev sahibi büyük şaşkınlık yaşadı. Ev sahibi ve avukatı, daha önce benzeri görülmeyen bu durum karşısında şok olduklarını belirtti.\n\nEv sahibinin avukatı Ali Selman Altınbilek, tahsil edilemeyen kiralar için icra takibi ve tahliye süreçlerinin işletildiğini, ayrıca evdeki yazılar ve tahribat nedeniyle 'eve zarar verme' ile 'güveni kötüye kullanma' suçlarından yasal süreç başlatıldığını açıkladı. Avukat Altınbilek, zararların tazmin edileceğini belirtti.\n\nEski kiracının durumla ilgili olarak psikolojik durumunun iyi olmadığını ifade ettiği aktarıldı. Ayrıca dairede daha önce tahliye edilen bir tekel bayine ait eşyaların bulunduğu ve bu eşyaların taşınmasının da zorluk çıkardığı bilgisi paylaşıldı. Hukuki sürecin devam ettiği bildirildi.",
       "highlights": [
-        "Büyükçekmece'de 2 yıl oturduğu evi tahliye eden kiracının dairenin her yerine aşk şiirleri ve ayrılık sözleri yazdığı ortaya çıktı.",
-        "Ev sahibi, 8-9 aydır alamadığı kira ödemeleri ve evde oluşan zararlar nedeniyle avukatı aracılığıyla şikayetçi oldu.",
-        "Avukat Selman Altınbilek, 'eve zarar verme' ve 'güveni kötüye kullanma' suçlarından hukuki sürecin sürdüğünü belirtti."
+        "Kiracı, 2 yıl yaşadığı evden taşınırken dairenin çeşitli yerlerine aşk şiirleri ve ayrılık sözleri yazdı.",
+        "Ev sahibi, yaklaşık 9 aydır kira ödemediği belirtilen kiracı hakkında tahliye davası ve icra takibi başlattı.",
+        "Ev sahibinin avukatı, 'eve zarar verme' ve 'güveni kötüye kullanma' suçlarından hukuki sürecin sürdüğünü belirtti."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/hayat/buyukcekmecede-tahliye-edilen-evde-ask-siirleri-bulundu-4874467",
       "publishedAt": "2026-11-19T13:00:46.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T13:14:23.606Z"
+      "sourceTextAttemptedAt": "2026-11-20T13:14:34.282Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/tekirdag-ve-antalya-dahil-9-belediye-ak-partide-candan-yuceer-ve-busra-ozdemir-rozetlerini-takti-1751605",
@@ -9078,7 +9125,7 @@
       "publishedAt": "2026-11-18T05:39:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T06:25:20.525Z"
+      "imageSearchAttemptedAt": "2026-11-20T13:14:34.282Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-israilde-hesaplar-bozuldu-kulislerde-sirrimiz-tehlikede-panigi-54-kubitlik-turk-canavari-7702757",
@@ -9473,7 +9520,7 @@
       "publishedAt": "2026-11-17T18:42:26.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T06:25:20.525Z",
+      "imageSearchAttemptedAt": "2026-11-20T13:14:34.282Z",
       "sourceTextAttemptedAt": "2026-11-18T02:24:43.237Z"
     },
     {
@@ -13763,52 +13810,6 @@
       ],
       "externalUrl": "https://news.sky.com/story/australian-mp-helen-haines-first-words-since-leaving-hospital-13612681",
       "publishedAt": "2026-11-16T06:49:00.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656",
-      "headline": "William ve Kate, Earthshot Ödülleri için Mumbai'ye geldi",
-      "source": "Sky News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1569758267239-d08deb78bb1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TXVtYmFpJTIwYWlycG9ydHxlbnwxfDB8fHwxNzk0ODMyMTY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Previn Samuel",
-        "photographerUrl": "https://unsplash.com/@samuelprevin",
-        "unsplashUrl": "https://unsplash.com/photos/bandra-worli-sea-link-in-mumbai-vr6nMSlyTJs"
-      },
-      "timeAgo": "8 sa önce",
-      "body": "Galler Prensi ve Prensesi, Earthshot Ödül törenleri için Mumbai'ye ulaştı. Bu ziyaret, çiftin yaklaşık dört yıl sonra gerçekleştirdiği ilk resmi yurt dışı gezisi oldu.",
-      "highlights": [
-        "Prens ve Prenses Mumbai'ye geldi",
-        "Ziyaret Earthshot Ödülleri için düzenlendi",
-        "Yaklaşık dört yıldaki ilk resmi yurt dışı gezisi"
-      ],
-      "externalUrl": "https://news.sky.com/story/william-and-kate-land-in-mumbai-for-earthshot-prize-trip-13612656",
-      "publishedAt": "2026-11-16T04:12:00.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
-      "headline": "Papa'dan Peru'daki yerli liderlerin cinayetlerine ve Amazon'un tahribatına kınama",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1593069567131-53a0614dde1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QW1hem9uJTIwcmFpbmZvcmVzdHxlbnwxfDB8fHwxNzk0Nzk1OTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vlad Hilitanu",
-        "photographerUrl": "https://unsplash.com/@vladhilitanu",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-green-trees-pt7QzB4ZLWw"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "Papa, yerlilerin topraklarını koruma çabalarını desteklediğini belirterek, öldürülen çevre savunucuları için adalet çağrısında bulundu ve Amazon'un ormansızlaştırılmasına karşı tepki gösterdi.",
-      "highlights": [
-        "Papa Peru'daki yerli liderlerin cinayetlerini kınadı",
-        "Yerlilerin topraklarını koruma çabalarını desteklediğini açıkladı",
-        "Öldürülen çevre savunucuları için adalet talep etti"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
-      "publishedAt": "2026-11-16T01:52:12.000Z",
       "category": "World",
       "lang": "tr"
     }
