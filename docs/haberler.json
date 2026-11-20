@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-11-20T14:25:05.144Z",
+  "generatedAt": "2026-11-20T14:35:39.616Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/avrupa-devi-greenwoodu-istiyor-3495866",
+      "headline": "Avrupa devi Greenwood'u istiyor!",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1582745699869-45a9011036f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TWFzb24lMjBHcmVlbndvb2QlMjBGZW5lcmJhaGNlfGVufDF8MHx8fDE3OTUxODUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "nasro azaizia",
+        "photographerUrl": "https://unsplash.com/@nasro18dz",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-hoodie-standing-near-green-trees-during-daytime-8g-pC6iv22w"
+      },
+      "timeAgo": "şimdi",
+      "body": "Fenerbahçe'de sergilediği performansla dikkat çeken Mason Greenwood, Avrupa kulüplerinin radarına girdi. Birçok kulübün, İngiliz yıldızı kış transfer döneminde kadrosuna katmak için harekete geçmeye hazırlandığı belirtildi.\n\nFenerbahçe'nin yaz transfer döneminde Marsilya'dan 39 milyon euro karşılığında transfer ettiği 25 yaşındaki kanat oyuncusu, Avrupa kulüplerinin listesinde yer alıyor. El Gol Digital'in aktardığına göre, La Liga ekiplerinden Atletico Madrid oyuncuyu kadrosuna katmak istiyor. Premier Lig kulüplerinin Alex Baena'ya, Roma'nın ise Ademola Lookman'a ilgi göstermesi nedeniyle Atletico Madrid'in, iki oyuncunun durumuna bağlı olarak temmuz ayında Greenwood için yeniden harekete geçeceği ifade edildi.\n\nDiğer yandan, İtalya Serie A takımlarından Napoli'nin gözlemcilerinin, Fenerbahçe'nin Liverpool ile yaptığı UEFA Şampiyonlar Ligi karşılaşmasını yakından izlediği kaydedildi. Atletico Madrid ve Napoli'nin yanı sıra, 25 yaşındaki futbolcuya Avrupa genelindeki ilginin artmaya devam ettiği aktarıldı. Greenwood'un gelecekteki transfer süreci ve kulüplerin hamleleri futbol gündemindeki yerini koruyor.",
+      "highlights": [
+        "Atletico Madrid, Mason Greenwood'u kadrosuna katmak istiyor.",
+        "Napoli gözlemcileri, Fenerbahçe'nin Liverpool ile oynadığı UEFA Şampiyonlar Ligi maçını takip etti.",
+        "Greenwood, Fenerbahçe'ye yaz transfer döneminde Marsilya'dan transfer edilmişti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/avrupa-devi-greenwoodu-istiyor-3495866",
+      "publishedAt": "2026-11-20T14:35:56.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.rfi.fr/en/france/20261120-depardieu-and-houellebecq-accused-of-gang-rape-on-french-film-set",
+      "headline": "Fransız Film Setinde Depardieu ve Houellebecq'e Toplu Tecavüz Suçlaması",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "10 dk önce",
+      "body": "Paris savcılığı, bir aktrisin şikayeti üzerine oyuncu Gérard Depardieu ve Fransız yazar Michel Houellebecq'in de aralarında bulunduğu bir grubun 2018 yılında \"Thalasso\" film setinde kendisine tecavüz ettiği iddiasıyla soruşturma başlattı. Mediapart'ın haberine göre, Alexandra takma adını kullanan bir aktris, 13 Mayıs 2025 tarihinde suç duyurusunda bulundu.\n\nOlayın 11 Aralık 2018'de Normandiya'nın Cabourg kasabasında gerçekleştiği belirtildi. Şikayetçi, senaryo gereği çekilen bir sahnede aktörler ile diğer kadın oyuncunun alkollü olduğunu, Houellebecq'in kendisini yatağa bastırdığını ve Depardieu'nün parmaklarıyla tecavüz ettiğini öne sürdü. Filmin yönetmeni Guillaume Nicloux ise toplu tecavüze ve cinsel saldırıya yardım etme ile mahremiyeti ihlal eden görüntüler kaydetme suçlamalarıyla anılıyor.\n\nAktrisin talebi üzerine yapım ekibinin görüntüleri imha ettiği ifade edildi. Şikayetçi, tazminat olarak yeni bir rol ve toplam 45.000 euro değerinde üç oyunculuk sözleşmesi teklif edildiğini belirtti.\n\nÜç isim de henüz resmi olarak sorgulanmazken, Mediapart'ın sorularına yanıt vermediler. Depardieu ve Houellebecq hakkında daha başka suçlamalar ve davalar da bulunuyor.",
+      "highlights": [
+        "Aktris, 2018'deki film setinde Gérard Depardieu ve Michel Houellebecq tarafından toplu tecavüze uğradığını iddia etti.",
+        "Paris savcılığı olayla ilgili adli soruşturma başlattı.",
+        "Şikayetçi aktrisin talebi üzerine çekilen görüntüler yapım ekibi tarafından imha edildi."
+      ],
+      "externalUrl": "https://www.rfi.fr/en/france/20261120-depardieu-and-houellebecq-accused-of-gang-rape-on-french-film-set",
+      "publishedAt": "2026-11-20T14:24:55.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/egitim/auzef-sinav-sonuclari-2026-istanbul-universitesi-auzef-vize-sonuclari-ne-zaman-aciklanacak-3495839",
       "headline": "İstanbul Üniversitesi AUZEF 2026 Vize Sonuçları İçin Bekleyiş Sürüyor",
@@ -46,7 +88,8 @@
       "externalUrl": "https://www.france24.com/en/tv-shows/the-51/20261120-does-staggered-consent-actually-protect-young-people",
       "publishedAt": "2026-11-20T14:14:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T14:34:25.266Z"
     },
     {
       "id": "https://www.theguardian.com/uk-news/2026/nov/20/pontins-owner-fined-death-somerset-brean-sands-holiday-park-wendy-jones",
@@ -4667,15 +4710,15 @@
       "timeAgo": "2 dk önce",
       "body": "Uluslararası Adalet Divanı (UAD), Gambiya tarafından 2017 yılındaki operasyonun ardından açılan davada, Myanmar'ın Rohingya halkına karşı soykırım işleyip işlemediğine ilişkin kararını vermeye hazırlanıyor.\n\nHukuki açıdaki en temel testin, bir grubu yok etme niyetini kanıtlamak olduğu belirtiliyor. Bu durumun ise oldukça zor olduğu ifade ediliyor.\n\nMahkemenin bu konudaki yorumunun, Güney Afrika'nın İsrail'e karşı açtığı dava üzerinde de etkili olabileceği kaydediliyor.\n\n19.11.2026 tarihinde yayımlanan konuyla ilgili hukuki sürecin detayları ve mahkemenin yaklaşımı bekleniyor.",
       "highlights": [
-        "UAD, Myanmar'ın Rohingya'ya karşı soykırım işleyip işlemediğine karar vermeye hazırlanıyor.",
-        "Dava Gambiya tarafından 2017'deki harekâtın ardından açıldı.",
+        "UAD, Myanmar'ın Rohingya'ya karşı soykırım işleyip işlemediği konusunda karar hazırlığında.",
+        "Dava Gambiya tarafından 2017 müdahalesinin ardından açıldı.",
         "Temel hukuki test bir grubu yok etme niyetini kanıtlamaktır."
       ],
       "externalUrl": "https://www.france24.com/en/myanmar-s-rohingya-case-how-does-the-icj-define-genocide",
       "publishedAt": "2026-11-19T11:22:31.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:34:37.423Z"
+      "sourceTextAttemptedAt": "2026-11-20T14:34:25.266Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ak-parti-milletin-partisidir-1751630",
@@ -11885,7 +11928,7 @@
       "publishedAt": "2026-11-17T07:12:30.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T08:15:36.360Z"
+      "imageSearchAttemptedAt": "2026-11-20T14:34:25.266Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/gunde-3-kez-nobet-geciriyordu-30-yasinda-hayaline-kavustu-17-yil-boyunca-bunu-bekledim-7702236",
@@ -11921,7 +11964,7 @@
       "publishedAt": "2026-11-17T07:03:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T08:15:36.360Z"
+      "imageSearchAttemptedAt": "2026-11-20T14:34:25.266Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
@@ -13778,51 +13821,6 @@
       "externalUrl": "https://news.sky.com/story/at-least-17-people-killed-in-two-separate-shootings-in-south-africa-13612711",
       "publishedAt": "2026-11-16T08:55:00.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
-      "headline": "Ronaldinho İtalya üçüncü liginde 45 dakika sahaya çıktı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1631392406079-14af6f97b773?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Um9uYWxkaW5obyUyMGZvb3RiYWxsfGVufDF8MHx8fDE3OTQ4MjA1NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dean Milenkovic",
-        "photographerUrl": "https://unsplash.com/@deanmilenkovic",
-        "unsplashUrl": "https://unsplash.com/photos/a-soccer-ball-sitting-on-top-of-a-cement-floor-xpPBYGJqbQs"
-      },
-      "timeAgo": "21 dk önce",
-      "body": "Futbol efsanesi Ronaldinho, emeklilik kararından vazgeçerek İtalya'nın üçüncü ligindeki bir maçta 45 dakika forma giydi.",
-      "highlights": [
-        "Ronaldinho emeklilikten döndü",
-        "İtalya'nın üçüncü liginde oynadı",
-        "Maçta 45 dakika süre aldı"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
-      "publishedAt": "2026-11-16T08:54:58.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/kelebek/magazin/8-kez-kaybettigi-buyuk-odul-artik-ellerinde-gozunden-akan-yaslar-42-yillik-buyuk-emegin-gururuyla-yuklu-43379916",
-      "headline": "8 kez kaybettiği büyük ödül sonunda onun oldu",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1704565522803-c5110e82acd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YWN0b3IlMjBjcnlpbmclMjBhd2FyZHxlbnwxfDB8fHwxNzk0ODIwNTg0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "550Park Luxury Wedding Films",
-        "photographerUrl": "https://unsplash.com/@550park",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-tuxedo-holds-his-hand-to-his-face-Rdeulgz_4OA"
-      },
-      "timeAgo": "35 dk önce",
-      "body": "Sinema dünyasının tanınan ismi, 42 yıllık kariyerinin ardından uzun süredir aday olup kaybettiği büyük ödülü nihayet kazandı. Başarılı oyuncu, bu anı gözyaşlarıyla karşıladı.",
-      "highlights": [
-        "42 yıllık kariyerinde büyük ödülü ilk kez kazandı",
-        "Daha önce 8 kez bu ödülü kaybetmişti"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/kelebek/magazin/8-kez-kaybettigi-buyuk-odul-artik-ellerinde-gozunden-akan-yaslar-42-yillik-buyuk-emegin-gururuyla-yuklu-43379916",
-      "publishedAt": "2026-11-16T08:40:57.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
