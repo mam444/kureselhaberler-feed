@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T10:14:30.181Z",
+  "generatedAt": "2026-11-20T10:24:39.343Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/20/avrupanin-aile-dostu-kayak-merkezleri-calismada-iskandinavya-ve-andorra-one-cikti",
+      "headline": "Avrupa'nın aile dostu kayak merkezleri: Çalışmada İskandinavya ve Andorra öne çıktı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1769509676981-5bbdd87674c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZmFtaWx5JTIwc2tpJTIwcmVzb3J0fGVufDF8MHx8fDE3OTUxNzAyNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Onur Can Elma",
+        "photographerUrl": "https://unsplash.com/@onurcanelma",
+        "unsplashUrl": "https://unsplash.com/photos/skiers-on-a-snowy-mountain-under-a-cloudy-blue-sky-I7-uuIg5jiQ"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "İngiltere'deki kapalı kar merkezi The Snow Centre tarafından yayımlanan yeni bir araştırma, aile kayak tatilleri için Avrupa'nın en iyi destinasyonlarını ortaya koydu. Çalışma kapsamında Avrupa genelindeki 144 kayak merkezi incelendi. Analizde pist çeşitliliği, lift altyapısı, fiyat uygunluğu ve ailelere özel imkanlar gibi kriterler dikkate alındı. Araştırma sonucunda İskandinavya ve Andorra'daki kayak merkezlerinin üst sıralarda yer aldığı belirlendi.\n\nAvrupa'da aile olanakları açısından 5/5 tam puan alan yalnızca dört kayak merkezi bulunuyor. İsveç'teki Idre Fjäll ve Sälen kayak merkezleri, 100 üzerinden sırasıyla 74 ve 73 puan alarak ebeveynlerin başlıca tercihleri arasında gösterildi. Her iki merkez de fiyat uygunluğundan 4/5 puan aldı. Andorra'daki Vallnord bölgesi (Pal ve Arinsal) ise 76 toplam puanla aile olanakları için en yüksek notu alarak dikkat çekti.\n\nAlplerde otantik bir deneyim arayanlar için Avusturya'nın Dachstein West bölgesi 76 toplam puanla cazip bir denge noktası sunarken, Andorra'daki Grandvalira, Soldeu ve El Tarter merkezleri 85 puanla genel sıralamada öne çıktı. Öte yandan Doğu Avrupa, bütçesini düşünen ailelere uygun alternatifler sağladı. Romanya'daki Straja maksimum fiyat uygunluğu puanı olan 5/5'i alırken, Bulgaristan'daki Bansko kaliteli kayak okulu eğitimi ve çocuk kulüplerini daha düşük fiyatlarla sundu.",
+      "highlights": [
+        "İsveç'teki Idre Fjäll ve Sälen merkezleri ebeveynler için başlıca tercihler arasında yer aldı.",
+        "Andorra'daki Vallnord bölgesi aile olanakları için en yüksek notu aldı.",
+        "Doğu Avrupa'daki Romanya'nın Straja ve Bulgaristan'ın Bansko merkezleri bütçe dostu seçenekler sundu."
+      ],
+      "externalUrl": "https://tr.euronews.com/2026/11/20/avrupanin-aile-dostu-kayak-merkezleri-calismada-iskandinavya-ve-andorra-one-cikti",
+      "publishedAt": "2026-11-20T10:18:32.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/japonyada-gergin-anlar-abd-ordusuna-ait-f-35-ucagi-acil-inis-yapti-7704514",
       "headline": "Japonya'da ABD ordusuna ait F-35 uçağı acil iniş yaptı",
@@ -21,7 +44,8 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/japonyada-gergin-anlar-abd-ordusuna-ait-f-35-ucagi-acil-inis-yapti-7704514",
       "publishedAt": "2026-11-20T10:12:21.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T10:24:30.419Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
@@ -69,6 +93,29 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T10:14:23.320Z"
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "headline": "Küresel borsa piyasaları yapay zeka hisselerindeki düşüşle geriledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c3RvY2slMjBtYXJrZXQlMjBjcmFzaHxlbnwxfDB8fHwxNzk1MTU0MDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Maxim Hopman",
+        "photographerUrl": "https://unsplash.com/@nampoh",
+        "unsplashUrl": "https://unsplash.com/photos/stock-market-candlestick-chart-on-dark-screen-fiXLQXAhCfk"
+      },
+      "timeAgo": "22 dk önce",
+      "body": "Küresel borsa piyasaları, Anthropic şirketinin halka arzının yapay zeka bağlantılı şirketlerdeki satış dalgasını durduramaması nedeniyle düşüş yaşadı. Cuma günü büyük çip şirketlerinin hisselerinin değer kaybetmesiyle Asya borsaları 2020'den bu yana en kötü haftasını geçirmeye yöneldi. Tayvan'da hisseler yüzde 6,7 düşerken TSMC yüzde 6 civarında geriledi. Japonya'nın Nikkei endeksi yüzde 5 düşüş kaydetti ve Güney Kore'nin Kospi endeksi yüzde 5,5 oranında değer kaybetti. Yapay zeka yatırımları endişeleriyle SoftBank hisseleri Tokyo'da yüzde 14,5 düşerek son iki yıldan fazla süredir en kötü gününü yaşadı.\n\nAvrupa borsa piyasaları da Mart ayından bu yana en kötü haftasına doğru ilerlerken, Stoxx 600 endeksi açılıştaki ilk 90 dakikada yüzde 1,3 düştü. Bu satış dalgası, Perşembe günü Wall Street'te ana endekslerin yüzde 2'den fazla değer kaybettiği kayıpların ardından geldi. Perşembe günü halka arz edilen Anthropic'in hisseleri ilk işlemlerde yüzde 40'a yakın sıçrama yaptıktan sonra günü yüzde 17 artışla kapattı. Ancak Cuma günü hisseler yüzde 6 düşüşle 91,30 dolara gerileyerek halka arz fiyatı olan 83 dolara doğru düşüş eğilimi gösterdi.\n\nAnthropic'in halka arzı, yatırımcıların milyarlarca dolarlık yapay zeka yatırımlarının karşılığını alıp alamayacağını sorgulamasıyla piyasadaki endişeleri hafifletmeyi başaramadı. Capital.com kıdemli piyasa analisti Daniela Hathorn, halka arzın yapay zeka talebinin güçlü kaldığını gösterdiğini ancak yüksek değerlemeler, kârlılık ve yatırım harcamalarının sürdürülebilirliğine yönelik endişeleri aşmaya yetmediğini belirtti.\n\nCuma sabahı İngiltere'nin FTSE 100 hisse senedi endeksi beş ayın en düşük seviyesine geriledi. Hafta boyunca yüzde 4,8 düşen endeks, İran savaşının başlangıcından bu yana en büyük haftalık düşüşüne doğru ilerliyor.",
+      "highlights": [
+        "Küresel borsalar, Anthropic'in halka arzının yapay zeka hisselerindeki satış dalgasını durduramamasıyla düştü.",
+        "Asya borsaları 2020'den bu yana en kötü haftasını yaşamaya yöneldi.",
+        "İngiltere'nin FTSE 100 endeksi cuma sabahı beş ayın en düşük seviyesine geriledi."
+      ],
+      "externalUrl": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+      "publishedAt": "2026-11-20T10:02:21.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
@@ -168,7 +215,7 @@
     },
     {
       "id": "https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
-      "headline": "Former French prime minister Dominique de Villepin to announce presidential bid",
+      "headline": "Eski Fransa Başbakanı Dominique de Villepin başkanlık adaylığını açıklayacak",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
       "imageUrl": "https://images.unsplash.com/photo-1714999484661-aa6ccb657def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Rm9ybWVyJTIwRnJlbmNoJTIwcHJpbWUlMjBtaW5pc3RlciUyMERvbWluaXF1ZSUyMGRlJTIwVmlsbGVwaW4lMjB0byUyMGFubm91bmNlJTIwcHJlc2lkZW50aWFsJTIwYmlkfGVufDF8MHx8fDE3OTUxNjcyODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -178,12 +225,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-man-speaking-into-a-microphone-in-front-of-a-sign-zmeHA4NO1Bs"
       },
       "timeAgo": "3 dk önce",
-      "body": "France’s former conservative prime minister Dominique de Villepin, who served as former president Jacques Chirac’s foreign minister during the country’s steadfast opposition to the US-led invasion of Iraq in 2003, is expected to formally launch his presidential campaign Friday. But while De Villepin’s opposition to Israel’s Gaza campaign and assured analysis of international affairs has caught the eyes of younger…",
-      "highlights": [],
+      "body": "Eski Fransa Başbakanı ve muhafazakâr politikacı Dominique de Villepin, 2027 yılındaki cumhurbaşkanlığı seçimleri için resmi adaylık kampanyasını Cuma günü başlatmaya hazırlanıyor. De Villepin'in ekibi, Paris'teki Maison de l'Amerique Latine'de saat 11.00 için bir basın toplantısı düzenleyeceğini duyurdu. Ekibinin aktardığına göre aday, Fransa'yı böldüğünü savunduğu aşırı sağcı Ulusal Birlik, sol cephedeki Boyun Eğmeyen Fransa ve Macroncu merkez olmak üzere üç güç odağına karşı bir alternatif olarak konumlanacak.\n\nEski başbakan, ülkenin çöküşünden sorumlu tuttuğu bu üç grubun karşısında bir yenilenme simgesi olarak öne çıkmayı hedefliyor. 2027 seçimlerinde seçmenlerin kaderci bir anlayışa teslim olmamasını istemesi beklenen De Villepin'in adaylığı iki yılı aşkın bir süredir planlanıyordu. Bu süreçte kendi siyasi partisi \"İnsaniyetçi Fransa\"yı kuran, bir kitap yayımlayan ve sosyal medya varlığını artıran siyasetçi, ülke genelinde çeşitli konuşmalar gerçekleştirdi.\n\nÖte yandan adaylığı kesinleşmeyen isimlerin 500 belediye başkanı imzası toplama zorunluluğu bulunuyor. De Villepin'in ekibi halihazırda 300 imza taahhüdü alındığını belirtirken, eski başbakan benzer bir imza toplama sorununu 2012 yılında da yaşamıştı. 1980'lerden bu yana iktidar kadrolarında yer almasına ve Jacques Chirac döneminde dışişleri bakanlığı yapmasına rağmen daha önce hiç halkoyuyla bir göreve seçilmeyen De Villepin, uluslararası meselelerdeki analizleriyle tanınıyor. Özellikle Gazze'deki operasyonlara karşı duruşu, genç ve sol eğilimli seçmenlerin dikkatini çekerken, bu kitlenin oylarını alıp alamayacağı merak ediliyor. Anketlerde ise oranının yüzde bir ile üç arasında değiştiği ifade ediliyor.",
+      "highlights": [
+        "Eski Fransa Başbakanı Dominique de Villepin cumhurbaşkanlığı adaylığını Cuma günü duyuracak.",
+        "Adaylık için Fransa genelindeki belediye başkanlarından en az 500 imza toplanması gerekiyor ve ekibi şu ana kadar 300 taahhüt alındığını belirtiyor.",
+        "Mevcut anketlerde De Villepin'in oy oranı yüzde bir ila üç arasında seyrediyor."
+      ],
       "externalUrl": "https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
       "publishedAt": "2026-11-20T09:31:33.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T10:24:30.419Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-acardan-fon-sorusturmasina-iliskin-aciklama-7704376",
@@ -13736,52 +13788,6 @@
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/gumushanede-sonbahar-ve-ilk-kar-manzaralari-4872601",
       "publishedAt": "2026-11-15T07:28:44.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "headline": "ASEAN Zirvesi: Kimler katılıyor ve masada ne var?",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1761723818201-2b86e46e8cc7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QVNFQU4lMjBzdW1taXR8ZW58MXwwfHx8MTc5NDcyNzgwNXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ligio Pereira",
-        "photographerUrl": "https://unsplash.com/@ligio_pereira",
-        "unsplashUrl": "https://unsplash.com/photos/two-signs-with-together-we-rise-text-and-logos-AGsHuk64byA"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "ABD ve İsrail'in İran'a karşı yürüttüğü savaşın neden olduğu enerji kesintileri, ithalata bağımlı olan ASEAN bloğu için en önemli gündem maddelerinden biri olarak öne çıkıyor.",
-      "highlights": [
-        "ABD-İsrail savaşının İran üzerindeki etkileri",
-        "Enerji kesintileri ana gündem maddesi",
-        "İthalata bağımlı ASEAN bloğu"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/15/asean-summit-whos-attending-and-whats-at-stake?traffic_source=rss",
-      "publishedAt": "2026-11-15T07:11:24.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-15-kasim-2026-43378828",
-      "headline": "Bugün ne pişirsem diyenlere: Günlük ev yemeği menüsü (15 Kasım 2026)",
-      "source": "Hürriyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=hurriyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1532636875304-0c89119d9b4d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMGZvb2R8ZW58MXwwfHx8MTc5NDcyNzgwOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Suad Kamardeen",
-        "photographerUrl": "https://unsplash.com/@suadkamardeen",
-        "unsplashUrl": "https://unsplash.com/photos/roasted-meat-dish-3lnsCAQm23U"
-      },
-      "timeAgo": "41 dk önce",
-      "body": "15 Kasım 2026 tarihli günlük ev yemeği menüsü; ekşili köfte, tencerede kapuska, şehriyeli pirinç pilavı, gavurdağı salatası, Van cacığı ve fincanda kadayıf tariflerinden oluşuyor.",
-      "highlights": [
-        "Ekşili köfte ve kapuska ile ana yemek seçenekleri",
-        "Gavurdağı salatası ve Van cacığı eşlikçiler",
-        "Tatlı kapanış için fincanda kadayıf"
-      ],
-      "externalUrl": "https://www.hurriyet.com.tr/lezizz/galeri-bugun-ne-pisirsem-diyenlere-gunluk-ev-yemegi-menusu-15-kasim-2026-43378828",
-      "publishedAt": "2026-11-15T06:49:00.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
