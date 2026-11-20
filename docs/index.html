@@ -14,13 +14,14 @@
 <meta property="og:site_name" content="Küresel Haberler">
 <meta property="og:title" content="Küresel Haberler">
 <meta property="og:description" content="Yapay zeka ile özgün cümlelerle yeniden yazılmış, bağımsız stok fotoğraflarla görselleştirilmiş güncel haberler.">
-<meta property="og:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/og-image.png">
+<meta property="og:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/icon-512-2026.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/og-image.png">
-<meta name="theme-color" content="#111315">
-<link rel="icon" type="image/png" sizes="32x32" href="assets/brand/favicon-32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="assets/brand/favicon-16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/brand/apple-touch-icon.png">
+<meta name="twitter:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/icon-512-2026.png">
+<meta name="theme-color" content="#155840">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/brand/favicon-16-2026.png">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/brand/icon-192-2026.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/brand/icon-512-2026.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/brand/apple-touch-icon-2026.png">
 <link rel="manifest" href="site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,26 +42,33 @@
     text-transform: none !important;
   }
   :root {
-    --navy: #17191B;
-    --navy-dark: #111315;
-    --navy-rgb: 23, 25, 27;
-    --gold: #E87518;
-    --gold-rgb: 232, 117, 24;
-    --accent-red: #D64E16;
-    --accent-blue: #315D50;
-    --accent-orange: #F08A35;
-    --bg: #F5F3EE;
-    --card: #FFFFFF;
-    --text: #202020;
-    --text-secondary: #707070;
-    --divider: #E7E3DC;
-    --card-border: rgba(40, 35, 28, 0.12);
-    --shadow: rgba(35, 30, 24, 0.09);
-    --header-bg: #111315;
+    --navy: #155840;
+    --navy-dark: #0B392C;
+    --navy-rgb: 21, 88, 64;
+    --gold: #762A87;
+    --gold-rgb: 118, 42, 135;
+    --accent-red: #D72E3D;
+    --accent-blue: #267456;
+    --accent-orange: #E7B643;
+    --bg: #FAF6ED;
+    --card: #FFFCF7;
+    --text: #202333;
+    --text-secondary: #76727A;
+    --divider: #E8E1D7;
+    --card-border: rgba(37, 84, 61, 0.13);
+    --shadow: rgba(39, 51, 42, 0.09);
+    --header-bg: #FFFCF7;
     --up: #1DA34A;
     --down: #E43B3B;
   }
   :root[data-theme="dark"] {
+    --navy: #DDF0E5;
+    --navy-dark: #0B241D;
+    --header-bg: #17221C;
+    --gold: #C17BD2;
+    --accent-red: #FF6464;
+    --accent-blue: #70C49D;
+    --accent-orange: #F0C762;
     --bg: #101315;
     --card: #191D1F;
     --text: #F5F3EE;
@@ -79,15 +87,28 @@
     -webkit-font-smoothing: antialiased;
     transition: background .3s ease, color .3s ease;
   }
-  /* Brief image-only intro: transparent artwork, no frame, spinner or controls. */
+  /* Brief logo intro, composed from the same marks used in the product. */
   #brandSplash {
     position: fixed; inset: 0; z-index: 1000; display: grid; place-items: center;
-    overflow: hidden; background: var(--navy-dark);
+    overflow: hidden; background: var(--bg);
     animation: brand-splash-out .28s ease 1.18s forwards;
   }
-  #brandSplash img {
-    display: block; width: min(78vw, 390px); max-height: 78svh;
-    object-fit: contain; filter: drop-shadow(0 0 22px rgba(22,139,255,.18));
+  #brandSplash .splash-lockup {
+    display:flex; flex-direction:column; align-items:center; gap:12px;
+    text-align:center; font-size:clamp(26px,6vw,38px); font-weight:900;
+    line-height:.96; letter-spacing:-1.1px;
+  }
+  #brandSplash .splash-lockup img { width:min(38vw,176px); height:auto; object-fit:contain; }
+  #brandSplash .brand-top { color:var(--navy); }
+  #brandSplash .brand-bottom { color:var(--gold); }
+  .footer-brand { display:flex; align-items:center; gap:9px; margin-bottom:16px; }
+  .footer-brand img { width:36px; height:36px; object-fit:contain; }
+  .footer-brand .logo-lockup { display:flex; flex-direction:column; line-height:.94; font-size:15px; }
+  .footer-brand .brand-top { color:#fff; }
+  .footer-brand .brand-bottom { color:#DCA4E8; }
+  .site-logo { display:flex; align-items:center; gap:8px; }
+  .site-logo .logo-lockup { display:flex; flex-direction:column; line-height:.94; font-size:17px; }
+  .site-logo img { width:40px; height:40px; object-fit:contain; }
   }
   @keyframes brand-splash-out { to { opacity: 0; visibility: hidden; pointer-events: none; } }
   @media (prefers-reduced-motion: reduce) { #brandSplash { animation-duration: .01ms; animation-delay: .45s; } }
@@ -104,13 +125,13 @@
     position: sticky; top: 0; z-index: 20;
     background: var(--header-bg);
     backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-    color: #fff;
+    color: var(--text);
     box-shadow: 0 2px 16px rgba(0,0,0,0.15);
   }
 
   /* ---------- Live ticker ---------- */
   .live-ticker {
-    background: linear-gradient(100deg, #E87518, #C94F12);
+    background: linear-gradient(100deg, var(--accent-red), #B81F35);
     border-bottom: 1px solid rgba(255,255,255,0.18);
   }
   .ticker-inner {
@@ -160,8 +181,11 @@
     white-space: nowrap; cursor: pointer;
   }
   .logo-icon {
-    width: 36px; height: 36px; flex-shrink: 0; object-fit: contain;
+    width: 42px; height: 42px; flex-shrink: 0; object-fit: contain;
   }
+  .logo-lockup { display:flex; flex-direction:column; line-height:.94; font-size:18px; letter-spacing:-.55px; }
+  .logo-lockup .brand-top { color:var(--navy); }
+  .logo-lockup .brand-bottom { color:var(--gold); }
   .logo .dot { color: var(--gold); }
   .header-actions { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
   .icon-btn-header {
@@ -802,22 +826,22 @@
   header.site-header { background: var(--header-bg); box-shadow: 0 3px 18px rgba(20,20,20,.14); }
   .header-inner { min-height: 70px; gap: 22px; }
   .logo { flex: 0 0 210px; }
-  .logo-wordmark { display:block; width:200px; height:auto; object-fit:contain; }
-  .logo-wordmark { filter: drop-shadow(0 1px 0 rgba(255,255,255,.12)); }
+  .logo-lockup { font-family:'Plus Jakarta Sans',sans-serif; font-weight:900; }
   .search-box { max-width: 430px; }
-  .search-box input { background:rgba(255,255,255,.1); border-color:rgba(255,255,255,.22); }
+  .search-box input { background:#F4F0E7; border-color:#E8E1D7; color:#202333; }
+  .search-box .msr { color:var(--navy); }
   .header-actions { gap:9px; }
-  .icon-btn-header { width:36px; height:36px; background:transparent; border-color:rgba(255,255,255,.32); }
+  .icon-btn-header { width:36px; height:36px; background:transparent; color:var(--navy); border-color:rgba(21,88,64,.2); }
   nav.categories { color:#262626; background:#fff; border-top:1px solid #ECE9E3; }
   .categories-row { min-height:44px; }
   .live-show-badge { display:none; }
   .cat-btn { padding:9px 12px; border-radius:7px; font-size:13px; }
   .cat-btn { color:#343434; }
-  .cat-btn:hover { color:#C94F12; }
-  .cat-btn.active { color:#C94F12; background:rgba(232,117,24,.10); }
+  .cat-btn:hover { color:#155840; }
+  .cat-btn.active { color:#155840; background:rgba(21,88,64,.10); }
   .cat-btn.active::after { display:none; }
-  .live-show-badge { color:#fff; background:rgba(229,110,25,.2); border:1px solid rgba(229,110,25,.45); }
-  .live-ticker { background:linear-gradient(100deg,#E87518,#C94F12); }
+  .live-show-badge { color:#fff; background:rgba(215,46,61,.2); border:1px solid rgba(215,46,61,.45); }
+  .live-ticker { background:linear-gradient(100deg,#D72E3D,#B81F35); }
   .ticker-inner { max-width:1240px; height:40px; }
   .ticker-right { display:none; }
   .live-badge { border-radius:5px; padding:4px 10px; }
@@ -847,7 +871,7 @@
   .widget-card { border-radius:16px; padding:16px; }
   .widget-title { color:var(--text); }
   .section-title { margin:23px 0 12px; font-size:15px; }
-  .section-title::before { width:4px; height:17px; background:#E87518; }
+  .section-title::before { width:4px; height:17px; background:#762A87; }
   .grid { grid-template-columns:repeat(4,minmax(0,1fr)); gap:11px; }
   .card { border-radius:13px; box-shadow:0 2px 8px rgba(55,47,33,.08); }
   .card-media { aspect-ratio:auto; display:flex; flex-direction:column; justify-content:flex-start; background:#fff; }
@@ -882,8 +906,9 @@
   }
   @media (max-width: 600px) {
     .header-inner { min-height:58px; padding:9px 12px; gap:8px; }
-    .logo { flex:0 0 126px; }
-    .logo-wordmark { width:126px; height:36px; }
+    .logo { flex:0 0 132px; gap:6px; }
+    .logo-icon { width:34px; height:34px; }
+    .logo-lockup { font-size:12px; letter-spacing:-.2px; }
     .search-box { max-width:none; min-width:0; }
     .search-box input { padding:8px 10px 8px 34px; font-size:12px; }
     .kbd-hint, .updated-at { display:none; }
@@ -913,13 +938,21 @@
 </script>
 </head>
 <body>
-<div id="brandSplash" aria-hidden="true"><img src="assets/brand/splash-illustration-clean.png" alt=""></div>
+<div id="brandSplash" aria-hidden="true">
+  <div class="splash-lockup">
+    <img src="assets/brand/globe-gold-green.png" alt="">
+    <span><span class="brand-top">Küresel</span><br><span class="brand-bottom">Haberler</span></span>
+  </div>
+</div>
 
 <div id="progressBar"></div>
 
 <header class="site-header">
   <div class="header-inner">
-    <div class="logo" id="logoHome"><img class="logo-wordmark" src="assets/brand/logo-horizontal-transparent.png" alt="Küresel Haberler" width="200" height="62"></div>
+    <div class="logo site-logo" id="logoHome">
+      <img src="assets/brand/globe-gold-green.png" alt="">
+      <span class="logo-lockup"><span class="brand-top">Küresel</span><span class="brand-bottom">Haberler</span></span>
+    </div>
     <div class="search-box" id="searchBoxTrigger">
       <span class="msr search-icon">search</span>
       <input id="searchInput" type="text" placeholder="Haber ara..." readonly>
@@ -969,7 +1002,10 @@
 
 <footer>
   <div class="inner">
-    <img src="assets/brand/logo-horizontal-transparent.png" alt="Küresel Haberler" style="height:34px;width:auto;display:block;margin-bottom:16px">
+    <div class="footer-brand">
+      <img src="assets/brand/globe-gold-green.png" alt="">
+      <span class="logo-lockup"><span class="brand-top">Küresel</span><span class="brand-bottom">Haberler</span></span>
+    </div>
     <strong>Küresel Haberler</strong> bağımsız bir haber platformudur. Akış, yayıncıların kamuya açık RSS
     içeriklerinden ve tarama kuralları izin verirse yapılandırılmış haber metinlerinden özgün özetlerle hazırlanır;
     tam yayıncı yazıları kopyalanmaz ve her içerikte asıl kaynağa bağlantı verilir. Otomatik üretim
