@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T11:45:16.540Z",
+  "generatedAt": "2026-11-20T12:04:36.947Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
+      "headline": "İranlı bakandan İsrailli büyükelçiye: “ABD ordusunun başkomutanı olduğunu bilmiyorduk”",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1757916315213-b7254eea4f9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXJhbmlhbiUyMGZsYWd8ZW58MXwwfHx8MTc5NTE3NjI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "mdreza jalali",
+        "photographerUrl": "https://unsplash.com/@mdrezajalali",
+        "unsplashUrl": "https://unsplash.com/photos/iranian-flag-waving-amidst-green-trees-frcrWWVukuU"
+      },
+      "timeAgo": "şimdi",
+      "body": "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'in açıklamalarına sosyal medya hesabından yanıt verdi. Erakçi, Leiter'in ABD askerlerinin İran'ın yenilgiye uğratılmasının ardından dönebileceği yönündeki sözlerini alıntılayarak tepki gösterdi.\n\nLeiter, bir televizyon kanalına verdiği röportajda ABD'nin İran'a karşı yeni ve kapsamlı bir saldırı başlatması durumunda İsrail'in bu saldırılara katılacağını ifade etmişti. İran'ın Batı medeniyetini hedef aldığını öne süren Leiter, Tahran yönetiminin devrilmesi gerektiğini savunmuştu.\n\nİsrailli büyükelçi, saldırı kararının Trump'a ait olduğunu belirterek Amerikalı askerlerin İran'ın yenilgiye uğramasıyla ailelerinin yanına dönebileceğini öne sürmüştü. İran'ın İsrail için varoluşsal bir tehdit oluşturduğunu iddia eden Leiter, Sovyetler Birliği gibi İran yönetiminin de çökeceğini savunmuştu.",
+      "highlights": [
+        "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'e tepki gösterdi.",
+        "Leiter, ABD'nin İran'a yeni bir saldırı başlatması halinde İsrail'in katılacağını belirtti.",
+        "İsrailli büyükelçi, Amerikalı askerlerin İran yenilgiye uğradığında dönebileceğini ifade etti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
+      "publishedAt": "2026-11-20T12:06:52.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/erdogan-yuregir-belediye-baskan-vekili-ozunali-kabul-etti-4874853",
       "headline": "Cumhurbaşkanı Erdoğan Yüreğir Belediye Başkan Vekili Özünal'ı kabul etti",
@@ -22,7 +45,8 @@
       "externalUrl": "https://www.yenisafak.com/gundem/erdogan-yuregir-belediye-baskan-vekili-ozunali-kabul-etti-4874853",
       "publishedAt": "2026-11-20T11:43:14.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T12:04:27.072Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kiz-kulesi-onunde-firtinada-islanarak-fotograf-cektirdiler-4874847",
@@ -50,7 +74,7 @@
     },
     {
       "id": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "EU and UK hold a rare summit in bid to 'rebuild ties'",
+      "headline": "AB ve İngiltere, Bağları Yeniden Kurma Girişimiyle Nadir Bir Zirve Düzenledi",
       "source": "DW English",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
       "imageUrl": "https://images.unsplash.com/photo-1516589918325-d3cb170106ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RVUlMjBhbmQlMjBVSyUyMGhvbGQlMjBhJTIwcmFyZSUyMHN1bW1pdCUyMGluJTIwYmlkJTIwdG8lMjAlMjdyZWJ1aWxkJTIwdGllcyUyN3xlbnwxfDB8fHwxNzk1MTc1MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -60,10 +84,38 @@
         "unsplashUrl": "https://unsplash.com/photos/elizabeth-tower-london-gpt0X6pLmDU"
       },
       "timeAgo": "15 dk önce",
-      "body": "European Union officials and UK Prime Minister Andy Burnham met in Brussels to discuss efforts to rebuild ties following Brexit.",
-      "highlights": [],
+      "body": "İngiltere Başbakanı Andy Burnham ile Avrupa Birliği üst düzey yetkilileri, Brexit oylamasından yaklaşık on yıl sonra Brüksel'de düzenlenen zirvede bir araya geldi. Bu buluşmanın, ilişkileri yeniden inşa etmek adına ilk adımları oluşturabileceği belirtildi.\n\nBrüksel'deki zirvede ticaret ve gençlerin hareketliliği konularında anlaşmaların duyurulması planlanıyordu. Brüksel, bu anlaşmaların yürürlüğe girmesini, İngiltere'de eğitim gören AB'li öğrenciler için üniversite harçlarının düşürülmesine yönelik bir anlaşmaya varılması koşuluna bağladı.\n\nBrüksel'e varışında açıklamalarda bulunan Başbakan Burnham, İngiltere ile Avrupa'nın değerleri, çıkarları ve küresel bir mahalleyi paylaştığını ifade etti. Daha tehlikeli bir dünyada birlikte daha güçlü olduklarını belirten Burnham, Avrupa ile daha yakın bir ortaklığın çalışan insanlar, İngiltere ve Avrupa için faydalı olduğunu vurguladı. Burnham, gelecekteki ilişki için bloka yeniden katılmak da dahil olmak üzere farklı seçeneklerin değerlendirilmesi gerektiğini dile getirdi.\n\nGörüşmelerde gıda ihracatında bürokrasinin azaltılması, İngiltere ile AB emisyon ticaret sistemlerinin birbirine bağlanması ve bir \"gençlik deneyimi programı\" kurulması olmak üzere üç kilit anlaşma ele alındı. Bu programın, İngiliz şirketlerinin Avrupa'ya gıda ihracatını kolaylaştırması ve gençlerin vize zorunluluğu olmaksızın seyahat etmesini amaçladığı kaydedildi. Tarafların bu meseleler üzerinde önceden uzlaştığı, ancak harç indirimi şartının altı ay içinde çözüme kavuşturulmasının hedeflendiği aktarıldı. Bir İngiliz hükümet sözcüsü AP ajansına yaptığı açıklamada anlaşmanın tamamlandığını belirtti. YouGov anketine göre ise son dönemde İngiltere'nin Brexit kararından pişmanlık duyanların oranı artış gösterdi.",
+      "highlights": [
+        "İngiltere ve AB yetkilileri ilişkileri yeniden kurmak için Brüksel'de bir araya geldi.",
+        "Ticaret ve gençlerin hareketliliği alanlarında üç kilit anlaşma masaya yatırıldı.",
+        "Anlaşmaların yürürlüğe girmesi, AB'li öğrenciler için üniversite harçlarının düşürülmesine bağlı kılındı."
+      ],
       "externalUrl": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-xml-mrss",
       "publishedAt": "2026-11-20T11:30:00.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T12:04:27.072Z"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya",
+      "headline": "Malezya'daki İstenmeyen Mülteciler: Rohingya'nın Durumu",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1595561579181-263fe6175b73?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Um9oaW5neWElMjByZWZ1Z2VlcyUyME1hbGF5c2lhfGVufDF8MHx8fDE3OTUxNzYyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Edmund Lou",
+        "photographerUrl": "https://unsplash.com/@edmundlou",
+        "unsplashUrl": "https://unsplash.com/photos/2-boys-standing-near-wooden-door-dcPThE8G59E"
+      },
+      "timeAgo": "36 dk önce",
+      "body": "Uluslararası Adalet Divanı, 19 Kasım tarihinde Myanmar'ı 2017 yılında Rohingya'ya karşı soykırım işlemekten suçlu buldu. Uzun süredir zulüm gören Müslüman azınlığı destekleyen Malezya'da, sosyal medyadaki nefret söylemleri ve Rohingya'nın sınır dışı edilmesi çağrıları artış gösterdi. Bu gelişmeler sonucunda, ülkenin güvenli bir sığınak olma rolü sona erme noktasına geldi.\n\nMalezya'da yaşayan 126 bin Rohingya mültecisi gelecekte yaşanacaklar konusunda endişe duyuyor. Tehditlerin ardından mülteciler için kurulan en az dokuz okul kapanmaya zorlandı. Ayrıca yüzden fazla Rohingya evlerinden çıkarıldı.\n\nFRANCE 24 muhabirleri Théo Collet, Aruna Popuri, Constantin Simon, Alix Ostian ve Justin McCurry tarafından hazırlanan haberde, bölgedeki mültecilerin karşı karşıya kaldığı zorluklar aktarıldı. Mülteciler hem artan tehditlerle hem de sosyal medyadaki baskılarla mücadele ediyor.",
+      "highlights": [
+        "Uluslararası Adalet Divanı, Myanmar'ı 2017'deki soykırımdan suçlu buldu.",
+        "Malezya'daki 126.000 Rohingya mültecisi geleceklerinden endişe ediyor.",
+        "En az dokuz mülteci okulu tehditler nedeniyle kapatıldı ve yüzden fazla kişi evlerinden sürüldü."
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya",
+      "publishedAt": "2026-11-20T11:28:30.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -2498,7 +2550,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T17:24:17.950Z",
-      "imageSearchAttemptedAt": "2026-11-20T06:04:25.175Z"
+      "imageSearchAttemptedAt": "2026-11-20T12:04:27.072Z"
     },
     {
       "id": "https://www.rfi.fr/en/international/20261119-eu-warns-uk-to-make-up-its-mind-on-brexit-before-further-talks",
@@ -2826,7 +2878,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T16:14:35.299Z",
-      "imageSearchAttemptedAt": "2026-11-20T06:04:25.175Z"
+      "imageSearchAttemptedAt": "2026-11-20T12:04:27.072Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664",
@@ -13749,52 +13801,6 @@
       ],
       "externalUrl": "https://www.haberturk.com/spor/fransa-turkiye-maci-canli-anlatim-a-milli-takim-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-iste-muhtemel-11-ler-ve-mac-kadrosu-3927446",
       "publishedAt": "2026-11-15T18:32:55.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-      "headline": "Prens Harry Ukrayna'da Invictus 2027 Adaylarıyla Buluştu",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1524661135-423995f22d0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29ybGR8ZW58MXwwfHx8MTc5NDc2ODI4NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Andrew Stutesman",
-        "photographerUrl": "https://unsplash.com/@drwmrk",
-        "unsplashUrl": "https://unsplash.com/photos/blue-green-and-yellow-world-map-l68Z6eF2peA"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "İngiliz kraliyet ailesi üyesi Prens Harry, 2022'den bu yana dördüncü sürpriz Ukrayna ziyaretini gerçekleştirdi. Yaralı gazilerle bir araya gelen prens, bu ziyarette \"risk aldığını\" ifade etti.",
-      "highlights": [
-        "Prens Harry Ukrayna'ya sürpriz bir ziyaret gerçekleştirdi",
-        "Ziyaret 2022'den bu yana yapılan dördüncü ziyaret oldu",
-        "Prens, yaralı gazilerle bir araya gelerek risk aldığını söyledi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/15/prince-harry-in-ukraine-meeting-invictus-2027-hopefuls?traffic_source=rss",
-      "publishedAt": "2026-11-15T18:31:52.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
-      "headline": "Bursa'da ev yangını: 5 ev yandı, 10 kişi dumandan etkilendi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1639369488374-561b5486177d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aG91c2UlMjBmaXJlfGVufDF8MHx8fDE3OTQ3Njc2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Karl Callwood",
-        "photographerUrl": "https://unsplash.com/@climatechangevi",
-        "unsplashUrl": "https://unsplash.com/photos/a-fire-blazing-in-a-building-at-night-5Wo-2JNnBaQ"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Bursa'nın İnegöl ilçesinde bir evde çıkan yangın 4 eve daha sıçradı. Olayda alevlere teslim olan 5 evde maddi hasar meydana gelirken, 10 kişi dumandan etkilendi.",
-      "highlights": [
-        "Bursa İnegöl'de evde yangın çıktı",
-        "Yangın 4 eve daha sıçradı",
-        "10 kişi dumandan etkilendi"
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-bursada-5-ev-alevlere-teslim-oldu-10-kisi-dumandan-etkilendi-1751033",
-      "publishedAt": "2026-11-15T18:29:32.000Z",
       "category": "Gündem",
       "lang": "tr"
     }
