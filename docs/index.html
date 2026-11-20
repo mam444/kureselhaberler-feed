@@ -465,7 +465,32 @@
     background: linear-gradient(135deg, var(--navy), var(--accent-blue));
     display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px;
     color: rgba(255,255,255,0.75); font-size: 13px; font-weight: 700; flex-shrink: 0;
+    position: relative; isolation: isolate; overflow: hidden;
   }
+  .thumb-fallback::before {
+    content:""; position:absolute; z-index:0; width:66%; aspect-ratio:1; border-radius:50%;
+    right:-8%; top:-55%; border:1px solid rgba(255,255,255,.14);
+    box-shadow:0 0 0 18px rgba(255,255,255,.025),0 0 0 42px rgba(255,255,255,.02);
+  }
+  .thumb-fallback .fallback-mark {
+    width:64px; height:64px; display:grid; place-items:center; border-radius:50%;
+    color:var(--fallback-accent,#E7B643); background:rgba(255,255,255,.08);
+    border:1px solid rgba(255,255,255,.25); position:relative; z-index:1;
+  }
+  .thumb-fallback .fallback-mark .msr { font-size:34px; }
+  .thumb-fallback .fallback-label { font-size:11px; letter-spacing:.55px; text-transform:uppercase; position:relative; z-index:1; }
+  .card.no-image .thumb-fallback { --fallback-accent:#E7B643; }
+  .card.no-image[data-category="Ekonomi"] .thumb-fallback { --fallback-accent:#E7B643; }
+  .card.no-image[data-category="Spor"] .thumb-fallback { --fallback-accent:#56B883; }
+  .card.no-image[data-category="Teknoloji"] .thumb-fallback,
+  .card.no-image[data-category="Bilim"] .thumb-fallback { --fallback-accent:#69B5E8; }
+  .card.no-image[data-category="Sağlık"] .thumb-fallback { --fallback-accent:#FF7388; }
+  .card.no-image[data-category="Kültür & Sanat"] .thumb-fallback { --fallback-accent:#F59C62; }
+  .card.no-image[data-category="Yaşam"] .thumb-fallback { --fallback-accent:#8DCB6A; }
+  .card.no-image[data-category="Türkiye"] .thumb-fallback { --fallback-accent:#E75B68; }
+  .card.no-image[data-category="Dünya"] .thumb-fallback { --fallback-accent:#79AEE0; }
+  .card.no-image[data-category="Eğitim"] .thumb-fallback { --fallback-accent:#BB88DF; }
+  .card.no-image[data-category="Gündem"] .thumb-fallback { --fallback-accent:#F08A35; }
   .card-media .thumb-fallback { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: unset; }
   .card-media .body { position: relative; z-index: 1; padding: 14px; display: flex; flex-direction: column; gap: 6px; color: #fff; }
   .card h3 { font-size: 14.5px; line-height: 1.34; margin: 0; font-weight: 700;
@@ -1093,7 +1118,25 @@ function cardImage(article, cls) {
   if (article.imageUrl) {
     return `<img class="${cls}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`;
   }
-  return `<div class="thumb-fallback"><span class="msr" style="font-size:26px;opacity:.85">newspaper</span><span>${SITE_NAME}</span></div>`;
+  const label = article.category || SITE_NAME;
+  const icon = categoryFallbackIcon(article.category);
+  return `<div class="thumb-fallback" style="--fallback-accent:${categoryColor(article.category)}"><span class="fallback-mark"><span class="msr">${icon}</span></span><span class="fallback-label">${escapeHtml(label)}</span></div>`;
+}
+
+function categoryFallbackIcon(category) {
+  const value = (category || '').toLocaleLowerCase('tr-TR');
+  if (value.includes('ekonomi') || value.includes('finans')) return 'trending_up';
+  if (value.includes('spor')) return 'sports_soccer';
+  if (value.includes('teknoloji')) return 'memory';
+  if (value.includes('bilim')) return 'science';
+  if (value.includes('sağlık')) return 'favorite';
+  if (value.includes('kültür')) return 'theater_comedy';
+  if (value.includes('yaşam')) return 'eco';
+  if (value.includes('türkiye')) return 'map';
+  if (value.includes('dünya')) return 'public';
+  if (value.includes('eğitim')) return 'school';
+  if (value.includes('son dakika')) return 'bolt';
+  return 'article';
 }
 
 // Bölüm arası yatay reklam bandı — akışın kesintisiz kalması için artık
@@ -1102,13 +1145,26 @@ function cardImage(article, cls) {
 // Kategoriye göre yumuşak/pastel rozet rengi — eşlemesi olmayan kategoriler
 // (Dünya, Son Dakika vb.) nötr bir gri-mavi ile gösterilir.
 const CATEGORY_COLORS = {
-  'Ekonomi': '#1DA34A',
-  'Spor': '#E43B3B',
-  'Teknoloji': '#1A73E8',
-  'Gündem': '#F2994A',
+  'Ekonomi': '#E7B643',
+  'Spor': '#33895D',
+  'Teknoloji': '#4594D0',
+  'Gündem': '#E66B25',
+  'Türkiye': '#168A48',
+  'Dünya': '#4B83B8',
+  'Sağlık': '#E8344E',
+  'Bilim': '#4594D0',
+  'Kültür & Sanat': '#E66B25',
+  'Yaşam': '#4F8D37',
+  'Eğitim': '#7A3DA0',
 };
 function categoryColor(cat) {
-  return CATEGORY_COLORS[cat] || '#6B7A90';
+  if (CATEGORY_COLORS[cat]) return CATEGORY_COLORS[cat];
+  const key = (cat || '').toLocaleLowerCase('tr-TR');
+  if (key.includes('teknoloji') || key.includes('bilim')) return '#4594D0';
+  if (key.includes('ekonomi')) return '#E7B643';
+  if (key.includes('sağlık')) return '#E8344E';
+  if (key.includes('spor')) return '#33895D';
+  return '#168A48';
 }
 
 function getBookmarks() {
