@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-20T18:44:39.970Z",
+  "generatedAt": "2026-11-20T18:54:34.815Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/ekonomi/altin-mi-mevduat-mi-2027nin-kazandiran-yatirimi-belli-oluyor-3495920",
+      "headline": "Altın ve gümüşte sert düşüş: 2027 için yatırım değerlendirmesi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1632113988284-31334b398e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Z29sZCUyMHNpbHZlciUyMG1hcmtldHxlbnwxfDB8fHwxNzk1MjAwODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dash Cryptocurrency",
+        "photographerUrl": "https://unsplash.com/@dashpay",
+        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-gold-bars-sitting-on-top-of-a-pile-of-money--3xhXkOcKvE"
+      },
+      "timeAgo": "şimdi",
+      "body": "Altın ve gümüş fiyatlarında yaşanan sert düşüşle birlikte gram altın 5 bin 700 liraya, ons gümüş ise 41 dolar seviyesine geriledi. Posta Gazetesi Ekonomi Müdürü Bilal Emin Turan, bu gerilemede doların güçlenmesinin, Fed'in faiz artırımı beklentilerinin ve küresel piyasalardaki nakit ihtiyacının etkili olduğunu belirtti. Turan, kıymetli metallerdeki düşüşün küresel satışlar ve fonların hareketleriyle hızlandığını ifade etti.\n\nGeçmiş dönemdeki hareketlere değinen Turan, 2011 sonrasında yaşanan tabloya benzer bir sürecin görüldüğünü ve 3 bin 500 dolar seviyesinin kritik bir destek noktası olduğunu kaydetti. Altın fiyatlarındaki düşüşün Türkiye'deki hane halkı servetine de yansıdığını belirten Turan, yaklaşık 750 milyar dolar seviyesinde olan hane halkı altın varlığının 500 milyar dolar seviyelerine gerilediğini ve 200-250 milyar dolarlık servet kaybı yaşandığını aktardı.\n\nGümüş tarafında ise sanayi talebi ve arz endişelerinin etkili olduğunu belirten Turan, Çin'in gümüşü stratejik metal ilan etmesinin piyasadaki kıtlık beklentisini güçlendirdiğini söyledi. Ancak kalıcı bir yükseliş için parasal genişleme ve faizlerde gevşeme gerektiğinin altını çizdi.\n\n2027 yılının piyasalar açısından zorlu geçebileceğini ifade eden Turan, ticaret savaşları, Venezuela ve İran'daki gelişmeler ile Rusya-Ukrayna Savaşı'na ilişkin belirsizliklerin küresel piyasaları baskıladığını dile getirdi. Turan, TL mevduatın ise bileşik getiri sayesinde yatırımcıya reel kazanç sağlamaya devam edebileceğini kaydetti.",
+      "highlights": [
+        "Gram altın 5 bin 700 liraya, ons gümüş ise 41 dolar seviyesine geriledi.",
+        "Hane halkının altın varlığı yaklaşık 500 milyar dolar seviyesine gerileyerek 200-250 milyar dolarlık servet kaybı yaşandı.",
+        "TL mevduatın bileşik getiri sayesinde yatırımcıya reel kazanç sağlamaya devam edebileceği belirtildi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/ekonomi/altin-mi-mevduat-mi-2027nin-kazandiran-yatirimi-belli-oluyor-3495920",
+      "publishedAt": "2026-11-20T18:54:13.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/buyukcekmecede-ask-siirleri-yazilan-ev-sasirtti-kiraci-abdulmuttalip-gungor-konustu-4874967",
       "headline": "Tahliye edilen dairenin her yerine yazı yazan kiracı konuştu: Sebebi ortaya çıktı",
@@ -26,7 +49,7 @@
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-      "headline": "Florida'da bir tamirci, ABD'ye gelen İngiliz kadını öldürmekten suçlu bulundu",
+      "headline": "Florida'da İngiliz kadını öldüren tamirci suçlu bulundu",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": "https://images.unsplash.com/photo-1607778914885-787b06728b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc5NTE4NTkwMXww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -36,14 +59,38 @@
         "unsplashUrl": "https://unsplash.com/photos/brown-wooden-chairs-inside-building-m_-8_AhhJjE"
       },
       "timeAgo": "8 dk önce",
-      "body": "Florida'da bir oto tamircisi ve çekici sürücüsü olan Dwain Hall, Portsmouth, İngiltere'den gelen 32 yaşındaki müzik öğretmeni Sonia Exelby'yi bıçaklayarak öldürmekten suçlu bulundu. Savcılar ve soruşturmacılar, Hall'un ruhsal rahatsızlığı bulunan Exelby'yi bir fetiş web sitesi üzerinden kandırarak Amerika Birleşik Devletleri'ne getirdiğini belirtti. Exelby'nin ekim ayında kaybolmasının ardından cesedi Marion ilçesindeki sığ bir mezarda bulunmuştu.\n\nMahkemede sunulan deliller ve tanık ifadeleri doğrultusunda, Hall birinci derece cinayet ve kaçırma suçlamalarıyla yargılandı. Savcılık, 30 tanık dinletip 93 delil sunduktan sonra davasını tamamlarken, sanık suçlamaları reddetmişti. Soruşturmacılar, Exelby'nin internette hayatına son verilmesini istediğine dair paylaşımlar yaptığını ve Florida'ya muhtemelen cinsel istismara uğramak, işkence görmek ve öldürülmek amacıyla geldiğini kaydetti. Hall'un avukatı ise müvekkilinin suçlamaları kabul etmeyerek Exelby'nin kendi hayatına son verdiğini, ABD'ye ölmek amacıyla geldiğini savundu.\n\nSavcı Amy Beth Berndt ise jürinin sağduyusunu kullanması gerektiğini ifade ederek Hall'un kadının ruhsal rahatsızlığını hedef aldığını ve onu sadistçe zevk için öldürdüğünü öne sürdü. Olayla ilgili soruşturma ve yargı süreçleri sonucunda jüri kararına varıldı.",
+      "body": "Florida'da bir oto tamircisi, İngiltere'den gelen bir müzik öğretmenini bıçaklayarak öldürmekten suçlu bulundu. Dwain Hall adlı şüpheli, Portsmouth'tan Sonia Exelby'yi bir fetiş web sitesi üzerinden ikna ederek ABD'ye getirdi. Mahkeme, savcılığın 93 delil sunması ve 30 tanığı dinlemesinin ardından kararını verdi. Suçlamaları reddeden Hall, kaçırma ve birinci derece cinayet suçlarıyla yargılanıyordu. Exelby'nin kaybolmasının ardından başlatılan soruşturmada, cesedi Marion ilçesinde sığ bir mezarda bulunmuştu.\n\nSavcılık, akıl hastalığı bulunan Exelby'nin hayatına son vermek istediğini internette paylaştıktan sonra Florida'ya seyahat ettiğini belirtti. Müfettişler, Hall'un bu savunmasızlığı bilerek onu Florida'ya çektiğini öne sürdü. Yetkililer, Exelby'nin ABD'ye cinsel istismara uğrama, işkence görme ve öldürülme amacıyla geldiğini ifade etti. Hall, Exelby'yi Gainesville havaalanından alarak bir Airbnb'ye götürdü; müfettişler burada banka kartı işlemleri ve cep telefonundaki videolar gibi delillere ulaştı.\n\nSanık avukatı Junior Barrett ise kapanış konuşmasında Exelby'nin kendi hayatına son verdiğini savundu. Avukat, Exelby'nin ölmek amacıyla ABD'ye geldiğini ve Hall'un onun intihar etmesini engellememesinin cinayet anlamına gelmediğini öne sürdü. Savcı Amy Beth Berndt ise jürinin sağduyusunu kullanmasını isteyerek, Hall'un akıl hastalığı nedeniyle Exelby'yi hedef aldığını ve sadistçe zevk için öldürdüğünü belirtti.",
       "highlights": [
-        "Florida'da bir tamirci, İngiliz müzik öğretmenini öldürmekten suçlu bulundu.",
-        "Soruşturmacılar kadının cesedini Marion ilçesinde sığ bir mezarda buldu.",
-        "Sanığın avukatı maktulün ABD'ye ölmek amacıyla geldiğini ve kendi hayatına son verdiğini savundu."
+        "Florida'da bir tamirci, İngiliz müzik öğretmeni Sonia Exelby'yi öldürmekten suçlu bulundu.",
+        "Sanık avukatı, Exelby'nin ABD'ye ölmek amacıyla geldiğini ve intihar ettiğini savundu.",
+        "Savcılık, sanığın kadının akıl hastalığını hedef alarak cinayeti işlediğini belirtti."
       ],
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
       "publishedAt": "2026-11-20T18:36:30.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-20T18:54:23.836Z"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+      "headline": "İspanya, ABD'nin iadesini istediği aktivist James 'Fergie' Chambers'ı kefaletle serbest bıraktı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591065411478-97722a82fe81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cHJvdGVzdCUyMHByb3Rlc3RvciUyMGFjdGl2aXN0fGVufDF8MHx8fDE3OTUyMDA4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Koshu",
+        "photographerUrl": "https://unsplash.com/@koshuuu",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-jacket-holding-white-printer-paper-ILpe0MpOYww"
+      },
+      "timeAgo": "20 dk önce",
+      "body": "İspanya mahkemesi, ABD'nin iade talebini değerlendirdiği sırada zengin ABD'li aktivist ve bağışçı James “Fergie” Chambers'ı kefaletle serbest bıraktı. Bu gelişmeyle eş zamanlı olarak İrlanda polisi, ABD yetkililerinin talebi üzerine Chambers ve partneri Stella Schnabel'in Dublin'deki evine baskın düzenledi. İspanya'daki temyiz mahkemesi, iade talebinin temel belgelerinin İspanyolcaya yasal olarak gerekli olan çevirisindeki sorunlar nedeniyle Cuma günü tutuksuz yargılanma kararı aldı. Chambers'ın avukatları ve savunma ekibi, ABD'nin orijinal çeviride yaptığı değişikliklerin hukuki etkilerine dikkat çekti. Madrid'deki Aranjuez cezaevinin dışında serbest bırakıldıktan sonra konuşan Chambers, hakkındaki suçlamaların temelsiz olduğunu söyledi.\n\nChambers'ın davası, ABD'nin Hamas'a destek iddiasıyla bir vatandaşının iadesini istediği bilinen ilk örnek olma özelliği taşıyor. İddianın, iade talebinin temelini oluşturan uluslararası kara para aklama suçlaması ve Gazze'deki Filistinlilere yardım eden kuruluşlara yapılan bağışlarla bağlantılı olduğu belirtiliyor. Ailesinin şirketi Cox Enterprises'tan 250 milyon dolarlık mirasın varisi olan Chambers, İsrail ve Gazze konusundaki tartışmalı paylaşımları ve ilerici projelere yaptığı bağışlarla biliniyor.\n\nDiğer yandan, İrlanda polisi (Garda Síochána) ABD yetkililerinin talebiyle Çarşamba günü Chambers ve Schnabel'in Dublin'deki konutuna baskın gerçekleştirdi. Çiftin İrlandalı avukatı Ciarán Mulholland, polisin ön kapıyı kırarak elektronik eşyalara ve diğer bazı mallara el koyduğunu aktardı. Beş aylık hamile olan Stella Schnabel, baskının ABD'li yetkililerin ellerindeki dayı güçlendirmek amacıyla yaptığı çaresiz bir arayıştan ibaret olduğunu ifade etti. Avukat Mulholland, İrlanda devletinin bu şekilde gizli bir tutum sergilemesinin olağandışı olduğunu belirterek yetkililerden arama emri ve el konulan eşyaların listesini talep etti. İspanya'daki yüksek mahkemenin iade kararına ilişkin duruşma süreci, çeviri sorunlarının incelenmesi nedeniyle ertelendi. Savcılığın bu konuya yazılı olarak yanıt vermesi için fırsat tanınırken, savunma ekibi çeviri değişikliklerine dair kapsamlı bir rapor sundu.",
+      "highlights": [
+        "İspanya, ABD'nin iadesini talep ettiği James 'Fergie' Chambers'ı kefaletle serbest bıraktı.",
+        "İrlanda polisi, ABD yetkililerinin talebiyle Chambers ve partnerinin Dublin'deki evine baskın düzenledi.",
+        "Mahkeme, iade talebinin İspanyolca çevirisindeki sorunlar nedeniyle serbest bırakılma kararı aldı."
+      ],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+      "publishedAt": "2026-11-20T18:34:13.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -3799,7 +3846,7 @@
       "publishedAt": "2026-11-19T18:42:04.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T18:54:17.129Z"
+      "sourceTextAttemptedAt": "2026-11-20T18:54:23.836Z"
     },
     {
       "id": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
@@ -6621,7 +6668,7 @@
       "publishedAt": "2026-11-19T07:32:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T12:34:30.833Z"
+      "imageSearchAttemptedAt": "2026-11-20T18:54:23.836Z"
     },
     {
       "id": "https://www.cnnturk.com/hava-durumu/19-kasim-2026-hava-durumu-meteorolojiden-kuvvetli-yagis-uyarisi-bugun-istanbulda-yagmur-var-mi-3495134",
@@ -13824,51 +13871,6 @@
       "externalUrl": "https://www.aljazeera.com/video/witness/2026/11/16/beyond-the-horizon-searching-for-kenyas-elusive-black-leopard?traffic_source=rss",
       "publishedAt": "2026-11-16T13:30:00.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/magazin/johnny-depp-hollywood-dan-kendi-adasina-kacti-kimsenin-bana-kamera-dogrultmadigi-bir-hayat-yasiyorum-3927712",
-      "headline": "Hollywood'dan Kendi Adasına Kaçtı",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1545579133-99bb5ab189bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dHJvcGljYWwlMjBpc2xhbmR8ZW58MXwwfHx8MTc5NDgzNDg3NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "jcob nasyr",
-        "photographerUrl": "https://unsplash.com/@j_cobnasyr1",
-        "unsplashUrl": "https://unsplash.com/photos/white-sand-beach-with-palm-trees-ppMxyOhPtd8"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "2024 yılında Bahamalar'da bir ada satın alan Johnny Depp, Hollywood'da bulamadığı mahremiyeti yaşamak amacıyla buraya yerleşti. Ünlü oyuncu yeni hayatından memnun olduğunu belirterek, orada kimsenin kendisine kamera doğrultmadığını veya dik dik bakmadığını ifade etti.",
-      "highlights": [
-        "2024'te Bahamalar'da bir ada satın aldı",
-        "Mahremiyet yaşamak için adaya taşındı",
-        "Yeni hayatından memnun olduğunu belirtti"
-      ],
-      "externalUrl": "https://www.haberturk.com/magazin/johnny-depp-hollywood-dan-kendi-adasina-kacti-kimsenin-bana-kamera-dogrultmadigi-bir-hayat-yasiyorum-3927712",
-      "publishedAt": "2026-11-16T13:06:19.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-izleme-komisyonunun-calismalarini-baslatacagiz-7701858",
-      "headline": "TBMM Başkanı Kurtulmuş: İzleme komisyonunun çalışmalarını başlatacağız",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1635017010130-8b12cbae591d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cGFybGlhbWVudCUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDgzNDg3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kunal Saha",
-        "photographerUrl": "https://unsplash.com/@kunalsahaaa",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-clock-tower-on-top-of-it-XzSAkekOIUg"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "TBMM Başkanı Numan Kurtulmuş, COP31 kapsamındaki Parlamenter Toplantısı'nın ardından TRT Haber'de soruları yanıtladı. Kurtulmuş, organizasyonun önemine vurgu yaparak, iklim siyaseti konusunda küresel ölçekte yapılabilecek işlerin tartışıldığını belirtti.",
-      "highlights": [
-        "TBMM Başkanı Kurtulmuş TRT Haber'de soruları yanıtladı",
-        "COP31 kapsamında Parlamenter Toplantısı düzenlendi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/tbmm-baskani-kurtulmus-izleme-komisyonunun-calismalarini-baslatacagiz-7701858",
-      "publishedAt": "2026-11-16T13:05:27.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     }
   ],
