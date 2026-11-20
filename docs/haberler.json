@@ -1,45 +1,50 @@
 {
-  "generatedAt": "2026-11-20T15:06:56.711Z",
+  "generatedAt": "2026-11-20T15:09:13.696Z",
   "articles": [
     {
-      "id": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-      "headline": "Trump to hold press conference after meeting with Xi and Putin",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1620083295363-2aef3e510a28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VHJ1bXAlMjB0byUyMGhvbGQlMjBwcmVzcyUyMGNvbmZlcmVuY2UlMjBhZnRlciUyMG1lZXRpbmclMjB3aXRoJTIwWGklMjBhbmQlMjBQdXRpbnxlbnwxfDB8fHwxNzk1MTg3MTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "https://www.yenisafak.com/galeri/gundem/otoyolda-panik-dolu-dakikalar-akaryakit-tankeri-alev-aldi-4874928",
+      "headline": "Otoyolda panik dolu dakikalar: Akaryakıt tankeri alev aldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1722335925023-c81c21dfd63f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZnVlbCUyMHRhbmtlciUyMGZpcmV8ZW58MXwwfHx8MTc5NTE4NzM0NHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageCredit": {
-        "photographer": "Jon Tyson",
-        "photographerUrl": "https://unsplash.com/@jontyson",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-blue-hat-WeK_Wc2b0Aw"
+        "photographer": "engin akyurt",
+        "photographerUrl": "https://unsplash.com/@enginakyurt",
+        "unsplashUrl": "https://unsplash.com/photos/a-fire-hydrant-spewing-water-onto-a-field-WF_fy7f7Tfo"
       },
-      "timeAgo": "6 dk önce",
-      "body": "Trump did not formally take questions while in China at the end of his trip, though it's typically expected on presidential foreign trips. (Image credit: Vyacheslav Prokofyev)",
-      "highlights": [],
-      "externalUrl": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference",
-      "publishedAt": "2026-11-20T15:00:00.000Z",
-      "category": "Dünya",
+      "timeAgo": "3 dk önce",
+      "body": "Kırklareli'nin Lüleburgaz ilçesinde, TEM Otoyolu'nun Edirne yönünde ilerleyen akaryakıt yüklü bir tanker, sürücüsünün direksiyon hakimiyetini kaybetmesi sonucu yol kenarına devrildi. Kazanın ardından akaryakıt tankeri alev alarak yanmaya başladı.\n\nÇevredeki vatandaşlar tarafından araçtan çıkarılan sürücü yaralandı. Olay yerine ihbar üzerine çok sayıda jandarma, sağlık ve itfaiye ekibi sevk edildi. Sağlık ekiplerinin ilk müdahalesini yaptığı yaralı sürücü, hastaneye kaldırılarak tedavi altına alındı.\n\nKaza nedeniyle TEM Otoyolu Edirne yönüne trafiğe kapatıldı. İtfaiye ekiplerinin yoğun çabaları sonucunda alev alan tankerdeki yangın kontrol altına alınarak söndürüldü.",
+      "highlights": [
+        "Kırklareli'nin Lüleburgaz ilçesinde akaryakıt tankeri devrilerek alev aldı",
+        "Kazada yaralanan sürücü çevredekiler tarafından çıkarılarak hastaneye kaldırıldı",
+        "TEM Otoyolu Edirne yönüne kapatıldı ve itfaiye ekipleri yangını söndürdü"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/otoyolda-panik-dolu-dakikalar-akaryakit-tankeri-alev-aldi-4874928",
+      "publishedAt": "2026-11-20T15:05:44.000Z",
+      "category": "Gündem",
       "lang": "tr"
     },
     {
-      "id": "https://www.yenisafak.com/gundem/albayrak-grubundan-yeni-parti-izmir-milletvekili-umit-ozlalenin-fon-iddialarina-yanit-yasal-haklarimizi-kullanacagiz-4874927",
-      "headline": "Albayrak Grubu'ndan Ümit Özlale'nin fon iddialarına yanıt: Yasal haklarımızı kullanacağız",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606836591695-4d58a73eba1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YnVzaW5lc3MlMjBtZWV0aW5nfGVufDF8MHx8fDE3OTUxODcxODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "id": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Pakistan Taliban karşıtı grupları destekliyor mu?",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1774779685524-cc735ae11a9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXMlMjBQYWtpc3RhbiUyMGJhY2tpbmclMjBhbnRpLVRhbGliYW4lMjBncm91cHMlMjBpbiUyMEFmZ2hhbmlzdGFuJTNGfGVufDF8MHx8fDE3OTUxODczMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageCredit": {
-        "photographer": "Rodeo Project Management Software",
-        "photographerUrl": "https://unsplash.com/@getrodeo",
-        "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-chair-inside-building-ONe-snuCaqQ"
+        "photographer": "Emin Huric",
+        "photographerUrl": "https://unsplash.com/@emin99",
+        "unsplashUrl": "https://unsplash.com/photos/close-up-of-a-world-map-showing-the-middle-east-MeME21VDU3A"
       },
       "timeAgo": "7 dk önce",
-      "body": "Albayrak Grubu, Yeni Parti İzmir Milletvekili Ümit Özlale'nin grup hakkındaki açıklamalarına yönelik kamuoyuna bir açıklama yaptı. Finansal işlemlerin yürürlükteki mevzuat, Sermaye Piyasası Kurulu düzenlemeleri ile ilgili kurumların denetim ve gözetimi doğrultusunda gerçekleştirildiği ve kullanılan finansman araçlarının yasal olduğu vurgulandı.\n\nBir asra yakın ticari geçmişi, 10 ülkedeki faaliyetleri ve 10.000'den fazla çalışanıyla üretime, yatırıma ve istihdama katkı sağladığını belirten grup, portföy yönetim şirketleri ve yatırım fonlarıyla uzun yıllardır çalışıldığını ifade etti. Açıklamada, son yıllarda beş farklı grup şirketi aracılığıyla kısa vadeli borçlanma aracı ihraçlarının yapıldığı, Ereğli Tekstil'in bono, TÜMOSAN ile Sukkar Şeker'in ise sukuk gibi sermaye piyasası enstrümanlarını mevzuat çerçevesinde kullandığı bilgisi verildi.\n\nEkonomi alanında akademik unvan taşıyan bir siyasetçinin bono ile sukuk arasındaki farkı, yatırım fonlarının işleyişini ve sermaye piyasası araçlarının şirket finansmanındaki yerini bilmesinin beklendiği ifade edilen açıklamada, Özlale'nin daha önce de gerçeği yansıtmayan değerlendirmelerde bulunduğu belirtildi. Açıklamaların amacının bilgi edinmekten ziyade kamuoyunda şüphe oluşturmak olduğu kanaatinin güçlendiği kaydedildi.\n\nAlbayrak Grubu'nun ticari faaliyetleri ve finansal yükümlülükleri hakkında bilgi edinilecek yerlerin ilgili düzenleyici kurumlar, kamuya açık bildirimler ve yetkili merciler olduğu aktarıldı. Grubun faaliyetlerini sürdürmek ve finansal enstrümanlarını seçmek için izin almak veya hesap vermek zorunda olmadığı vurgulandı.\n\nKamuoyunu yanıltabilecek açıklamaların ticari itibar, yatırımcılar ve sermaye piyasalarına duyulan güven üzerindeki etkilerinin ciddiyetle değerlendirildiği belirtilerek, ticari itibara ve tüzel kişilik haklarına yönelik gerçeğe aykırı beyanlar karşısında ilgili mevzuat çerçevesinde bütün yasal hakların kullanılacağı bildirildi. Hukuki girişimlerin grup, yatırımcılar ve sermaye piyasalarının güvenilirliğinin korunması açısından önem taşıdığı kaydedildi.",
+      "body": "Afganistan'daki Taliban yönetimi, İslamabad yönetimini kendi iktidarlarına karşı olan silahlı Afgan grupları desteklemekle suçlarken, Pakistan hükümeti bu iddiaları reddediyor. Taliban Dışişleri Bakanı Amir Han Muttaki, son dönemde yaptığı bir açıklamada Pakistan'ın Afganistan'ı istikrarsızlaştırma amacıyla bir proje başlattığını öne sürdü. Bu iddialar, Afgan Taliban güçleri ile Pakistan güvenlik güçleri arasında aylardır süren sınır çatışmalarının ardından gündeme geldi. Temmuz ayında Badakhshan vilayetinin Zebak bölgesinde Taliban güçleri ile Taliban karşıtı bir grup olan Afganistan Özgürlük Cephesi (AFF) arasında çatışmalar yaşandığı bildirildi.\n\nTaliban'ın ana sözcüsü Zabihullah Mujahid, Eylül ayında yaptığı bir röportajda Badakhshan'daki güvensizliği yaratan kişilerin Pakistan'ın Chitral bölgesinden geçip tekrar Chitral'a kaçtığını, yanlarında Pakistanlı askeri personelin de bulunduğunu iddia etti. Pakistan Enformasyon Bakanlığı bu iddiaları hızla reddederek propaganda olarak nitelendirdi. Taliban'a karşı olan gruplar ise dışarıdan herhangi bir destek almadıklarını ve direnişlerinin tamamen yerel olduğunu ifade ediyor.\n\nİslamabad yönetimi, Afganistan topraklarındaki Taliban'dan, ülkesine karşı faaliyet gösteren Pakistan Talibanı (TTP) ve Belucistan Kurtuluş Ordusu (BLA) gibi militan gruplara karşı harekete geçmesini defalarca talep etti. İslamabad, bu grupların Afganistan'dan saldırılar düzenlediğini iddia ediyor. Öte yandan uzmanlar, Pakistan'ın amacının Taliban'ı devirmek değil, TTP'ye karşı işbirliği yapmaya zorlamak için bir baskı unsuru yaratmak olabileceğini belirtiyor. Analistler ayrıca Taliban'ın Pakistan'ın bölgesel rakibi Hindistan ile ilişkileri güçlendirme çabalarının da İslamabad'da endişeye yol açtığına dikkat çekiyor.",
       "highlights": [
-        "Albayrak Grubu, tüm finansal işlemlerin mevzuat ve SPK düzenlemelerine uygun yürütüldüğünü belirtti.",
-        "Grup, Ümit Özlale'nin açıklamalarına karşı tüm yasal haklarını kullanacağını duyurdu."
+        "Taliban yönetimi, Pakistan'ı kendi iktidarına karşı olan silahlı grupları desteklemekle suçluyor.",
+        "Pakistan hükümeti Taliban'ın iddialarını reddederek bunları propaganda olarak nitelendiriyor.",
+        "İslamabad yönetimi, Afganistan'daki Taliban'dan TTP gibi militan gruplara karşı harekete geçmesini talep ediyor."
       ],
-      "externalUrl": "https://www.yenisafak.com/gundem/albayrak-grubundan-yeni-parti-izmir-milletvekili-umit-ozlalenin-fon-iddialarina-yanit-yasal-haklarimizi-kullanacagiz-4874927",
-      "publishedAt": "2026-11-20T14:59:25.000Z",
-      "category": "Gündem",
+      "externalUrl": "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-20T15:02:00.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -79,15 +84,15 @@
       "timeAgo": "6 dk önce",
       "body": "BM'nin COP31 iklim görüşmelerinin, fosil yakıtlardan hiç bahsedilmeyen taslak bir anlaşma üzerindeki ülkeler arası anlaşmazlıklar nedeniyle Cuma günü uzatılması bekleniyor. Müzakereleri tıkıyan başka anlaşmazlıkların da bulunduğu bildirildi.\n\nSöz konusu görüşmeler, Avrupa'daki sıcak hava dalgaları ve Nepal'deki yıkıcı seller gibi iklim eyleminin aciliyetini gösteren çarpıcı hatırlatmaların yanı sıra rekor kıran bir El Nino'nun sıcaklıkları artırdığı bir dönemde gerçekleşiyor.\n\nFRANCE 24 Çevre Editörü Valerie Dekimpe, sürece dair ayrıntıları aktardı.",
       "highlights": [
-        "COP31 görüşmeleri fosil yakıtlardan bahsedilmeyen taslak anlaşma nedeniyle tıkandı",
-        "Avrupa'daki sıcak hava dalgaları ve Nepal'deki seller iklim eyleminin aciliyetini hatırlatıyor",
-        "Görüşmelerin Cuma günü uzatılması bekleniyordu"
+        "COP31 iklim görüşmeleri Cuma günü uzatmalara kalmaya hazırlanıyor.",
+        "Taslak anlaşmada fosil yakıtlardan hiç bahsedilmiyor.",
+        "Avrupa'daki sıcak hava dalgaları ve Nepal'deki sel felaketleri iklim eyleminin aciliyetini hatırlatıyor."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
       "publishedAt": "2026-11-20T14:38:56.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:02:21.586Z"
+      "sourceTextAttemptedAt": "2026-11-20T15:07:28.972Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/avrupa-devi-greenwoodu-istiyor-3495866",
@@ -3876,7 +3881,7 @@
       "publishedAt": "2026-11-19T14:44:33.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T15:04:24.780Z"
+      "sourceTextAttemptedAt": "2026-11-20T15:07:28.972Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/suudi-arabistan-veliaht-prensi-ve-centcom-komutanindan-askeri-isbirligi-gorusmesi-7703990",
@@ -3900,7 +3905,7 @@
       "publishedAt": "2026-11-19T14:41:01.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:02:21.586Z"
+      "sourceTextAttemptedAt": "2026-11-19T14:54:17.127Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506",
@@ -12206,7 +12211,7 @@
       "publishedAt": "2026-11-17T05:31:35.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T15:02:21.586Z"
+      "imageSearchAttemptedAt": "2026-11-20T15:07:28.972Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-17-kasim-2026-1751188",
@@ -12244,7 +12249,7 @@
       "publishedAt": "2026-11-16T20:22:46.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T15:02:21.586Z"
+      "imageSearchAttemptedAt": "2026-11-20T15:07:28.972Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
