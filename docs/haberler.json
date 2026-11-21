@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-21T10:34:23.574Z",
+  "generatedAt": "2026-11-21T10:44:38.075Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
+      "headline": "445 kilogram su ürünü ele geçirildi: 15 kişiye ceza",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1680357680725-f350480aee35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8NDQ1JTIwa2lsb2dyYW0lMjBzdSUyMCVDMyVCQ3IlQzMlQkNuJUMzJUJDJTIwZWxlJTIwZ2UlQzMlQTdpcmlsZGklM0ElMjAxNSUyMGtpJUM1JTlGaXllJTIwY2V6YXxlbnwxfDB8fHwxNzk1MjU3ODc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim Johnson",
+        "photographerUrl": "https://unsplash.com/@mangofantasy",
+        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-bags-of-cement-sitting-next-to-each-other-rc5crEySTXo"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Mersin’de su ürünlerinin korunması ve sürdürülebilir avcılığın sağlanması amacıyla gerçekleştirilen denetimlerde, mevzuata aykırı faaliyetlerde bulunduğu belirlenen 15 kişiye idari para cezası uygulanırken, avlanması yasak olan ve yasal boy sınırının altında bulunan toplam 445 kilogram su ürününe el konuldu.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
+      "publishedAt": "2026-11-21T10:43:02.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
       "headline": "AB Lideri Ursula von der Leyen'den Danimarka'daki Suikast Girişimine Sert Tepki",
@@ -15,14 +34,15 @@
       "timeAgo": "2 dk önce",
       "body": "Avrupa Komisyonu Başkanı Ursula von der Leyen, Danimarka'da bir ABD-Ukrayna vatandaşını hedef alan ve Rus istihbarat servisleri tarafından tasarlandığı iddia edilen suikast girişimini şiddetle kınadı.\n\nCumartesi günü yaptığı açıklamada von der Leyen, Danimarka ile tam dayanışma içinde olduklarını vurguladı. Sosyal medya platformu X üzerinden bir mesaj paylaşan Komisyon Başkanı, olayın Avrupa Birliği topraklarında gerçekleştirilen bir saldırı olduğunu belirtti ve bunu kabul edilemez olarak nitelendirdi.\n\nAyrıca von der Leyen, Rus hibrit saldırılarının hedefi olan tüm üye devletlerin yanında olduklarını ifade etti. Hazırlık ve caydırıcılığı güçlendirmek amacıyla AB'nin yakında yeni bir Avrupa Güvenlik Stratejisi önereceğini de sözlerine ekledi.\n\nÖte yandan, Danimarka'daki Rus büyükelçiliği Cuma günü yaptığı açıklamada, yöneltilen suçlamaların herhangi bir kanıtla desteklenmediğini savundu.",
       "highlights": [
-        "AB Komisyonu Başkanı Ursula von der Leyen, Rus istihbaratının Danimarka'daki suikast planı iddiasını kınadı.",
-        "Rusya'nın Kopenhag Büyükelçiliği suçlamaların kanıtlanmadığını belirtti.",
-        "AB hazırlık ve caydırıcılığı artırmak için yeni bir güvenlik stratejisi önermeye hazırlanıyor."
+        "AB Lideri Ursula von der Leyen, Rus istihbaratına bağlanan suikast girişimini kınadı.",
+        "Rusya'nın Kopenhag büyükelçiliği, iddiaların kanıtlanmadığını açıkladı.",
+        "AB, hazırlık ve caydırıcılığı güçlendirmek için yeni bir güvenlik stratejisi önerecek."
       ],
       "externalUrl": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
       "publishedAt": "2026-11-21T10:32:36.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:44:26.543Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
@@ -36,14 +56,38 @@
         "unsplashUrl": "https://unsplash.com/photos/the-seal-of-the-department-of-justice-on-a-wall-Vvh_9ooeEZ0"
       },
       "timeAgo": "4 dk önce",
-      "body": "ABD basını, Federal Soruşturma Bürosu'nun (FBI) suç bilgilerini içeren veri tabanına izinsiz girilmiş olabileceği şüphesiyle soruşturma başlattığını duyurdu. Konuya ilişkin bilgisi bulunan iki kişinin aktardığına dayandırılan haberlerde, federal ve yerel kolluk kuvvetlerinin Ulusal Suç Bilgi Merkezi (NCIC) veri tabanını yakalama emirleri ile adli geçmiş sorgulamaları için kullandığı belirtildi. BBC, FBI'dan konuyla ilgili açıklama talep etti. Bu gelişmenin, geçen hafta ABD'de bankacılık ve hava trafik kontrolü gibi sektörleri etkileyen teknik kesintilerin ardından yaşandığı, yetkililerin ise bu kesintilerin siber saldırılardan kaynaklanmadığını açıkladığı aktarıldı. Öte yandan, ABD'nin iç istihbarat ve güvenlik teşkilatı FBI daha önce de siber suç gruplarının hedefi olmuştu. Eylül ayında FBI, ShinyHunters adlı grubun sistemlerine izinsiz girmiş olabileceği şüphesiyle soruşturma yürüttüğünü açıklamış, grup ise teşkilat çalışanlarına ait bilgileri çaldığını öne sürmüştü. Ayrıca NBC, ABD Tarım Bakanlığı'nın (USDA) da bir siber saldırıya uğramış olabileceğini, çiftçilere ödemelerin yapıldığı sistemin hedef alındığının bildirildiğini kaydetti. USDA konu hakkında kamuoyuna açıklama yapmadı.",
+      "body": "ABD basını, FBI'ın suç bilgilerini içeren veri tabanına izinsiz girilmiş olabileceği şüphesiyle soruşturma başlattığını aktardı. Konuya ilişkin bilgiler, konudan haberdar edilen iki kişinin açıklamalarına dayandırıldı. Federal ve yerel kolluk kuvvetleri, Ulusal Suç Bilgi Merkezi (NCIC) veri tabanını adli geçmiş sorgulamaları ve yakalama emirleri ile ilgili bilgi paylaşımı amacıyla kullanıyor. BBC, konuyla ilgili olarak FBI'dan açıklama talep etti. ABD'nin iç istihbarat ve güvenlik teşkilatı olan FBI, daha önce de bilgisayar korsanlarının hedefi olmuştu. Eylül ayında ShinyHunters adlı siber suç grubunun sistemlere izinsiz girmiş olabileceği şüphesiyle soruşturma yürütüldüğü açıklanmış, grup teşkilatın yaklaşık 38 bin çalışanına ait hassas bilgileri çaldığını iddia etmişti. Söz konusu olayın ardından eski bir FBI ajanı, görevdeki çalışanların güvenliğinden endişe duyduğunu ve kişisel bilgilerin internette suçlular ile ABD'ye hasım devletler adına çalışan korsanların eline geçebileceğini belirtmişti. Öte yandan NBC'nin haberine göre, ABD Tarım Bakanlığı da siber saldırıya uğramış olabilecek bir gelişmeyle karşılaştı ve çalışanlara çiftçilere yapılan ödemelerin yürütüldüğü sistemin hedef alındığı bildirildi. ABD Tarım Bakanlığı konu hakkında kamuoyuna herhangi bir açıklama yapmadı.",
       "highlights": [
-        "ABD basını, FBI'ın suç kayıtları veri tabanında güvenlik ihlali şüphesiyle soruşturma başlattığını bildirdi.",
+        "ABD basını, FBI'ın suç kayıtları veri tabanına izinsiz girilmiş olabileceği şüphesiyle soruşturma başlattığını bildirdi.",
         "Federal ve yerel kolluk kuvvetleri NCIC veri tabanını yakalama emirleri ve adli geçmiş sorgulamaları için kullanıyor.",
-        "NBC'ye göre ABD Tarım Bakanlığı'nın da siber saldırıya uğramış olabileceği bildirildi."
+        "NBC'ye göre ABD Tarım Bakanlığı'nın çiftçilere ödeme yapılan sistemi de siber saldırının hedefi oldu."
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T10:30:24.000Z",
+      "category": "Dünya",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:44:26.543Z"
+    },
+    {
+      "id": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Anthropic araştırmacısı, yapay zekayı kullanarak matematiğin en büyük bilmecesini çözdü",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGhlbWF0aWNzfGVufDF8MHx8fDE3OTUyNTc4NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Steve A Johnson",
+        "photographerUrl": "https://unsplash.com/@steve_j",
+        "unsplashUrl": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Yapay zeka alanında faaliyet gösteren Anthropic şirketinde çalışan bir matematikçi, şirketin Claude yapay zeka aracını kullanarak matematiğin en ünlü problemlerinden birini çözdüğünü bildirdi. 1859 yılına dayanan Riemann hipotezi, asal sayıların dağılımını konu alıyor.\n\nAnthropic'in teknik kadrosunda yer alan Levent Alpoge, Cuma günü yayınladığı bir notta Claude ile birlikte çalışarak Riemann Hipotezi'nin bir kanıtını keşfettiğine inandığını duyurdu. Kanıtın diğer matematikçiler tarafından doğrulanması ve onaylanması gerekiyor.\n\nAlpoge, yapay zeka ile olan iş birliğinin 250 bin sayfadan fazla matematiksel materyal ürettiğini belirtti. Clay Mathematics Institute başkanı Martin Bridson, AP haber ajansının aktardığı açıklamada bunun tarihi öneme sahip bir duyuru olduğunu ifade etti.\n\nAlman matematikçi Bernhard Riemann tarafından 19. yüzyılda formüle edilen hipotez, asal sayıların dağılımı hakkındadır. Bu potansiyel gelişme, yapay zeka sistemlerinin gelişmiş matematiksel araştırmalara önemli katkılar sağladığı örneklerin arttığı bir dönemde gerçekleşti. Eylül ayında rakip yapay zeka şirketi OpenAI da teknolojisinin Navier-Stokes denklemlerini içeren bir problemin çözümüne yardımcı olduğunu açıklamıştı.",
+      "highlights": [
+        "Anthropic araştırmacısı Levent Alpoge, Claude yapay zeka aracını kullanarak Riemann hipotezini çözdüğünü açıkladı.",
+        "Kanıtın bağımsız matematikçiler tarafından doğrulanması gerekiyor.",
+        "Riemann hipotezi, Clay Mathematics Institute tarafından belirlenen yedi Milenyum Ödül Problemi'nden biridir."
+      ],
+      "externalUrl": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-21T10:29:00.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -13959,51 +14003,6 @@
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanin-karadeniz-bolgesinde-gaz-tankeri-batti-3-bin-400-ton-lpg-tasiyordu-7702461",
       "publishedAt": "2026-11-17T11:41:15.000Z",
-      "category": "Son Dakika",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.haberturk.com/bilgi/foto/vgm-burs-sonuc-sorgulama-ekrani-2026-2027-vgm-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3927953",
-      "headline": "VGM burs sonuçları bekleniyor!",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c2Nob2xhcnNoaXAlMjBhcHBsaWNhdGlvbnxlbnwxfDB8fHwxNzk0OTE0NjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "MD Duran",
-        "photographerUrl": "https://unsplash.com/@mdesign85",
-        "unsplashUrl": "https://unsplash.com/photos/woman-wearing-academic-cap-and-dress-selective-focus-photography-1VqHRwxcCCw"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "2026-2027 eğitim öğretim yılı VGM burs başvuruları 22-31 Ekim tarihleri arasında alındı. Değerlendirme süreci 6 Kasım'da başlarken, aylık 4 bin TL burs desteğinden yararlanmak isteyen öğrenciler sonuçların açıklanacağı tarihi araştırıyor.",
-      "highlights": [
-        "Başvurular 22-31 Ekim tarihleri arasında alındı",
-        "Değerlendirme süreci 6 Kasım'da başladı",
-        "Burs desteği aylık 4 bin TL"
-      ],
-      "externalUrl": "https://www.haberturk.com/bilgi/foto/vgm-burs-sonuc-sorgulama-ekrani-2026-2027-vgm-burs-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-3927953",
-      "publishedAt": "2026-11-17T11:19:09.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-bakan-gurlek-ile-bir-araya-geldi-7702395",
-      "headline": "MHP lideri Bahçeli, Bakan Gürlek ile bir araya geldi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saXRpY2lhbiUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDkxMTA2NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "History in HD",
-        "photographerUrl": "https://unsplash.com/@historyhd",
-        "unsplashUrl": "https://unsplash.com/photos/barack-obama-v_e3Hha4EBA"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "MHP Genel Başkanı Devlet Bahçeli, Adalet Bakanı Akın Gürlek'i Türkiye Büyük Millet Meclisi'ndeki makamında kabul etti. Görüşmeye ilişkin ayrıntıların daha sonra geleceği bildirildi.",
-      "highlights": [
-        "MHP Genel Başkanı Bahçeli, Bakan Gürlek'i kabul etti",
-        "Görüşme Meclis'teki makamda gerçekleşti"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-bakan-gurlek-ile-bir-araya-geldi-7702395",
-      "publishedAt": "2026-11-17T10:23:13.000Z",
       "category": "Son Dakika",
       "lang": "tr"
     }
