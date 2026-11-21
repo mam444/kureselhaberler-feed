@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T17:04:33.761Z",
+  "generatedAt": "2026-11-21T17:14:41.109Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-ve-mit-baskani-ibrahim-kalin-libya-milli-birlik-hukumeti-basbakani-dibeybe-ile-gorustu-7705227",
+      "headline": "Dışişleri Bakanı Hakan Fidan ve MİT Başkanı İbrahim Kalın, Libya Başbakanı Dibeybe ile İstanbul'da görüştü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1717054807574-11a3d7735d5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SGFrYW4lMjBGaWRhbnxlbnwxfDB8fHwxNzk1MjgxMjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Miroslav Vicena",
+        "photographerUrl": "https://unsplash.com/@bacabaca21",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-large-group-of-houses-MbVzzU3Hz9A"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Dışişleri Bakanı Hakan Fidan, Libya Milli Birlik Hükümeti Başbakanı Abdülhamid Dibeybe ile İstanbul'da bir araya geldi. Gerçekleştirilen görüşmede Milli Birlik Hükümeti İletişim ve Siyasi İşlerden Sorumlu Devlet Bakanı Velid Lafi ile Başbakan’ın Ulusal Güvenlik Danışmanı İbrahim Dibeybe de hazır bulundu. Öte yandan söz konusu toplantıya Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın da katılım sağladı.",
+      "highlights": [
+        "Dışişleri Bakanı Hakan Fidan ve MİT Başkanı İbrahim Kalın İstanbul'da görüştü",
+        "Libya Başbakanı Abdülhamid Dibeybe görüşmede yer aldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-ve-mit-baskani-ibrahim-kalin-libya-milli-birlik-hukumeti-basbakani-dibeybe-ile-gorustu-7705227",
+      "publishedAt": "2026-11-21T17:12:08.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/rtukten-televizyon-gunu-kutlamasi-televizyon-yuzde-82-ile-en-takip-edilen-mecra-haberde-en-guvenilir-kaynak-3496245",
       "headline": "RTÜK'ten Televizyon Günü kutlaması: \"Televizyon yüzde 82 ile en takip edilen mecra, haberde en güvenilir kaynak\"",
@@ -15,15 +38,16 @@
       "timeAgo": "şimdi",
       "body": "Radyo ve Televizyon Üst Kurulu (RTÜK), 21 Kasım Dünya Televizyon Günü dolayısıyla kutlama mesajları yayımladı. RTÜK Başkanı Mehmet Daniş, teknolojisi zamanla değişse de televizyonun sevinçlerin, hüzünlerin ve tarihe tanıklık edilen anların taşıyıcısı olmaya devam ettiğini vurguladı.\n\nDaniş, Üst Kurul'un Medyametre 2025 araştırmasının sonuçlarını paylaştı. Araştırmaya göre televizyon, yüzde 82,5 oranla en çok takip edilen mecra olurken, haber kaynaklarına duyulan güvende de ilk sırada yer aldı. Daniş, bu güvenin sorumluluğunu taşıyan yayıncı kuruluş yöneticilerine ve ekran arkasındaki çalışanlara teşekkür etti.\n\nRadyo ve Televizyon Üst Kurul Üyesi Hasan Davulcu da konuyla ilgili açıklama yaptı. Davulcu, daralan reklam gelirleri ve zorlaşan rekabet koşullarının sektörü yakından ilgilendirdiğini belirterek, güçlü ve sürdürülebilir bir yayıncılık için tüm paydaşlar arasında iş birliği ve dayanışmanın önemine inandıklarını kaydetti.",
       "highlights": [
-        "RTÜK Başkanı Mehmet Daniş, Medyametre 2025 araştırmasının sonuçlarını paylaştı.",
-        "Televizyon, yüzde 82,5 ile en çok takip edilen mecra ve haberde en güvenilir kaynak oldu.",
-        "RTÜK Üyesi Hasan Davulcu, daralan reklam gelirleri ve rekabet koşullarına dikkat çekti."
+        "Televizyon yüzde 82,5 ile en çok takip edilen mecra oldu",
+        "Haber kaynaklarına duyulan güvende televizyon ilk sırada yer aldı",
+        "RTÜK üyeleri sektörün geleceği ve dayanışma vurgusu yaptı"
       ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/rtukten-televizyon-gunu-kutlamasi-televizyon-yuzde-82-ile-en-takip-edilen-mecra-haberde-en-guvenilir-kaynak-3496245",
       "publishedAt": "2026-11-21T17:05:45.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T17:14:25.900Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/yuksekovada-30-yillik-ayakkabi-ustaligi-fabrikasyona-karsi-el-emegini-yasatiyor-3496244",
@@ -138,6 +162,30 @@
       ],
       "externalUrl": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "publishedAt": "2026-11-21T16:39:49.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "headline": "Otonom Silahların Kontrolüne İlişkin Uluslararası BM Görüşmeleri Çöküntüye Uğradı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1756929009327-c02f06b50a84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SW50ZXJuYXRpb25hbCUyMFVOJTIwdGFsa3MlMjBvbiUyMGNvbnRyb2xsaW5nJTIwdXNlJTIwb2YlMjBhdXRvbm9tb3VzJTIwd2VhcG9ucyUyMGNvbGxhcHNlfGVufDF8MHx8fDE3OTUyODEyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Gabriel Vasiliu",
+        "photographerUrl": "https://unsplash.com/@gabimedia",
+        "unsplashUrl": "https://unsplash.com/photos/a-military-missile-launcher-on-display-outdoors-IMCxZfyDmz0"
+      },
+      "timeAgo": "38 dk önce",
+      "body": "Cenevre'de düzenlenen Belirli Konvansiyonel Silahlar Sözleşmesi kapsamındaki BM görüşmelerinde, otonom silahların kullanımını kontrol altına alacak yasal olarak bağlayıcı uluslararası bir anlaşma hedefi başarısızlıkla sonuçlandı. Bütün gece süren ve sabaha karşı sona eren müzakereler, Rusya'nın itirazları ve engelleme taktikleri nedeniyle sonuçsuz kaldı.\n\nKonferansa katılan devletlerin ezici bir çoğunluğu yasal bağlayıcılığı olan bir anlaşma için müzakere yetkisi verilmesini isterken, oy birliği kuralı zorunluluğu daha zayıf bir seçeneğin kabul edilmesine yol açtı. Kabul edilen metin, ülkelerden yasal yükümlülük taşıyıp taşımadığı belirsiz bir aracı oy birliğiyle detaylandırmasını talep etti. Rusya sürecin önünü tıkayan baş aktör olurken, ABD gibi yapay zeka savaşına yatırım yapan diğer askeri güçler de sivil koruma sağlayacak bağlayıcı bir protokole mesafeli durdu.\n\n100'den fazla devlet, bu silahların tamamen yeni zorluklar yarattığını belirterek yeni bir yasa talep etmişti. Ukrayna, Çin ve İran'ın da aralarında bulunduğu Avrupalı ve NATO'lu devletler yeni bir protokole destek veya isteklilik bildirdi. Ancak Güney Kore, Japonya, Türkiye, İngiltere, Fransa ve Almanya gibi savunma teknolojisinde önde gelen güçler de bağlayıcı yeni bir yasaya karşı direnç göstererek bağlayıcılığı olmayan bir anlaşmayı savundu.\n\nBM forumu olan sözleşme, tüm tarafların oy birliğiyle anlaşmasını gerektiren bir sistemle çalışıyor. Bu yüksek eşik nedeniyle sözleşme son 30 yıldır silahları düzenleyen yeni bir yasa geçiremedi. Diplomatlar Rusya'nın kasıtlı olarak süreci uzattığını ve iyi niyetle çalışmadığını belirtirken, eleştirmenler bu sonucu kaçırılmış bir fırsat olarak nitelendirdi. Konferansın son gününde bazı üye olmayan ülkelerin dışlanması salonda protestoya neden olurken, uzmanlar otonom silahların halihazırda kullanımda olduğuna ve acil kurallara ihtiyaç duyulduğuna dikkat çekti.",
+      "highlights": [
+        "Otonom silahların kontrolüne yönelik BM görüşmeleri Rusya'nın itirazları ve oy birliği kuralı nedeniyle sonuçsuz kaldı.",
+        "Yüzden fazla devlet yasal olarak bağlayıcı yeni bir anlaşma talep ederken, ABD ve İngiltere gibi bazı askeri güçler bağlayıcı olmayan anlaşmaları savundu.",
+        "Uzmanlar ve diplomatlar, otonom silahların halihazırda kullanımda olduğunu ve acil uluslararası kurallara ihtiyaç duyulduğunu belirtti."
+      ],
+      "externalUrl": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "publishedAt": "2026-11-21T16:36:11.000Z",
       "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr"
@@ -14583,55 +14631,6 @@
       ],
       "externalUrl": "https://www.dw.com/en/eu-asean-pursue-deeper-trade-ties-but-hurdles-remain-as-businesses-struggle-with-informal-barriers/a-79971350?maca=en-rss-en-world-4025-xml-mrss",
       "publishedAt": "2026-11-17T18:39:00.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/ekonomi/super-loto-sonuclari-aciklandi-mi-17-kasim-super-loto-sonuclari-nereden-sorgulanir-mpi-sonuc-sorgulama-ekrani-3494507",
-      "headline": "Süper Loto sonuçları açıklandı mı? 17 Kasım Süper Loto sonuç sorgulama ekranı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1593871097805-09627f52f4bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bG90dGVyeSUyMHRpY2tldHxlbnwxfDB8fHwxNzk0OTQwNDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "thapanee srisawat",
-        "photographerUrl": "https://unsplash.com/@noonths",
-        "unsplashUrl": "https://unsplash.com/photos/person-holding-white-printer-paper-G771MJLxPaw"
-      },
-      "timeAgo": "şimdi",
-      "body": "17 Kasım 2026 Salı akşamı gerçekleştirilecek Süper Loto çekilişi öncesinde şans oyunu severler sonuçların açıklanıp açıklanmadığını araştırmaya başladı. İkramiye umuduyla kupon dolduran vatandaşlar arama motorları üzerinden Milli Piyango İdaresi (MPİ) sonuç sorgulama ekranına ulaşmaya çalışıyor.\n\nSüper Loto çekilişleri saat 21.30'da başlamakta ve sonuçlar yaklaşık 15 dakika içerisinde belli olmaktadır. 17 Kasım tarihli çekiliş sonuçlarının açıklanmasının ardından haberin güncelleneceği belirtiliyor.\n\nŞans oyunu kurallarına göre Süper Loto, 1 ile 60 sayı arasından 6 adet sayının bilinmesine dayanan bir sistemdir. Oyuncular en az 2, en fazla 6 adet sayıyı doğru tahmin ederek farklı miktarlarda ikramiye kazanma şansı elde edebilmektedir.\n\nSüper Loto oynamak isteyenler www.millipiyangoonline.com adresi veya Milli Piyango mobil uygulaması üzerinden online kupon oluşturabilmektedir. Ayrıca en yakın Milli Piyango satış bayilerinden de oyun oynanmaya devam edilebilmektedir.",
-      "highlights": [
-        "17 Kasım Süper Loto sonuçları açıklandı: 9-12-17-24-35-39",
-        "Süper Loto, 1 ile 60 sayı arasından 6 adet sayının bilinmesine dayanan bir oyundur.",
-        "En az 2, en fazla 6 adet sayıyı doğru tahmin ederek farklı miktarlarda ikramiye kazanılabilir."
-      ],
-      "externalUrl": "https://www.cnnturk.com/ekonomi/super-loto-sonuclari-aciklandi-mi-17-kasim-super-loto-sonuclari-nereden-sorgulanir-mpi-sonuc-sorgulama-ekrani-3494507",
-      "publishedAt": "2026-11-17T18:38:09.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T18:44:31.805Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/video/ekonomi/altin/altin-ve-gumuste-dengeler-degisiyor-mu-3494506",
-      "headline": "Altın ve gümüşte dengeler değişiyor mu?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1624365169873-d42588f4e866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Z29sZCUyMHNpbHZlciUyMGNvaW5zfGVufDF8MHx8fDE3OTQ5Mzk4NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zlaťáky.cz",
-        "photographerUrl": "https://unsplash.com/@zlataky",
-        "unsplashUrl": "https://unsplash.com/photos/silver-and-gold-round-coins-KlAQ54k2ZoU"
-      },
-      "timeAgo": "şimdi",
-      "body": "Altın ve gümüş piyasalarındaki güncel durum ve yatırım beklentileri masaya yatırıldı. Bir tarafta yatırımcısına eski zirveler için iki yıl bekleneceği uyarısı yapılan altın yer alırken, diğer tarafta talep patlaması yaşayan ve piyasada kıtlık sinyalleri veren gümüş dikkat çekiyor.\n\nGoldman Sachs, altın fiyatlarının 2027'de değil, ocak ayında görülen 5 bin 600 dolar zirvesine iki yıl sonra dönebileceğini öngörüyor. Bazı bankalar ise ons bazında 3 bin 400 ile 3 bin 500 dolar arasında tahminlerde bulunuyor. Altında dalgalı bir seyir hakim sürerken, faiz gibi risksiz ve sabit getiriler de yatırımcıların kararlarını etkiliyor. 2027 yılı için enflasyonun dizginlenmesi, ABD ekonomisinin soğuması ve petrol fiyatlarının seyri gibi faktörler takip ediliyor. Posta Gazetesi Ekonomi Müdürü Bilal Emin Turan, petrol fiyatlarının 90 doların altında kalıcı olmadığını ve ülkelerin stratejik petrol rezervlerini şubat itibarıyla kullandığını belirterek altın üzerindeki baskının süreceğini ifade etti.\n\nÖte yandan gümüş tarafında Gümüş Enstitüsü'nden arz açığı olduğu yönünde açıklamalar geldi. Normalde bir sanayi metali olan gümüşe geçen yıl sadece sanayicilerin değil, vatandaşların da yoğun talep göstermesi ve Londra'daki stokların tükenmesi fiyatları yukarı taşıdı. Fonların da etkisiyle gümüş piyasasında hareketlilik yaşandı. Uzman değerlendirmelerine göre gümüşteki bu arz açığı ve talep dengesi fiyatlamaları yakından etkiliyor. Güvenli limanlar olarak bilinen bu iki kıymetli madende yaşanan gelişmeler yatırımcılar tarafından takip ediliyor.",
-      "highlights": [
-        "Goldman Sachs, altının 5 bin 600 dolar zirvesine iki yıl sonra döneceğini tahmin ediyor.",
-        "Gümüş Enstitüsü piyasada arz açığı bulunduğunu açıkladı.",
-        "Gümüşe hem sanayicilerin hem de vatandaşların yoğun talep gösterdiği belirtildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/ekonomi/altin/altin-ve-gumuste-dengeler-degisiyor-mu-3494506",
-      "publishedAt": "2026-11-17T18:28:16.000Z",
       "category": "Ekonomi",
       "lang": "tr",
       "isBreaking": false
