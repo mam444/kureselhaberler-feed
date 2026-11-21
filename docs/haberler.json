@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T13:04:32.859Z",
+  "generatedAt": "2026-11-21T13:14:39.515Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/finans-haberler/bitcoinde-sert-dusus-24-saatte-2-4-milyar-dolarlik-pozisyon-tasfiye-edildi-3496195",
@@ -23,6 +23,31 @@
       "publishedAt": "2026-11-21T13:08:27.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:14:17.904Z"
+    },
+    {
+      "id": "https://www.rfi.fr/en/podcasts/international-report/20261121-turkey-seizes-control-of-last-major-independent-news-channel-amid-fraud-scandal",
+      "headline": "Türkiye, dolandırıcılık skandalı gölgesinde son bağımsız haber kanalının kontrolünü ele geçirdi",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1651465531201-7e430660fd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dGVsZXZpc2lvbiUyMG5ld3N8ZW58MXwwfHx8MTc5NTI2Njg3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Brad Weaver",
+        "photographerUrl": "https://unsplash.com/@bweaver",
+        "unsplashUrl": "https://unsplash.com/photos/a-room-with-a-camera-and-equipment-qhamVJdrkRs"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Uluslararası haberlere göre Türkiye, 20 milyar dolarlık bir yatırım fonu skandalının ardından ülkedeki yüz binlerce kişinin birikimini yok eden kamu tepkisini bastırma çabaları sürerken son bağımsız televizyon haber kanalının kontrolünü devlet kontrolüne aldı. Salı günü sabah saatlerinde, polisin mahkeme kararıyla devlet kayyumu ataması sonucunda Sözcü TV yayından kaldırıldı ve kanalın yayını kesildi. Bu hamle, geçen ay bir diğer büyük bağımsız yayıncı olan Halk TV'ye yönelik benzer devlet el koyma kararını takip etti. Türkiye'nin en büyük iki bağımsız haber kanalının susturulması muhalefet partileri ve insan hakları gruplarından tepki topladı. Hükümet yargının bağımsız çalıştığını savunurken eleştirmenler kararların siyasi amaçlı olduğunu belirtiyor. İnsan Hakları İzleme Örgütü'nden Emma Sinclair-Webb, bu hamlelerin iktidar partisinin takipçilerine ulaşabilecek tüm bağımsız medyayı kapatma sürecinin bir parçası olduğunu ifade etti. Yetkililer Sözcü TV'yi 2016 darbe girişiminden sorumlu tutulan Fethullah Gülen'in takipçileriyle bağları olmakla suçlarken, kanalın yöneticileri iddiaları reddetti. Yatırım skandalı, 100'den fazla yatırım fonunun çöküşü, 20 doların silinmesi ve 500 bin yatırımcının mağdur olmasıyla ortaya çıktı. Yaklaşık 500 kişi soruşturma altında bulunurken 100'den fazla şüpheli tutuklandı. Cumhurbaşkanı Recep Tayyip Erdoğan kimsenin adaletten kaçamayacağını taahhüt ederken, siyasi analistler hükümetin kamuoyundaki anlatıyı kontrol etmekte zorlandığını belirtti. TV gazeteciliğinin sona erdiği yönündeki değerlendirmelere karşın tartışmalar ve eleştiriler sosyal medyaya taşındı. Hükümet çevrim içi muhalefeti denetleme çabalarını hızlandırırken, Koza TV bağımsız habercilik için yeni bir çıkış noktası haline geldi.",
+      "highlights": [
+        "Sözcü TV'ye mahkeme kararıyla kayyum atandı ve yayınları kesildi",
+        "Yatırım fonu skandalı 20 milyar doların silinmesine yol açtı",
+        "Televizyon yayıncılığındaki baskılar sonrası tartışmalar sosyal medyaya taşındı"
+      ],
+      "externalUrl": "https://www.rfi.fr/en/podcasts/international-report/20261121-turkey-seizes-control-of-last-major-independent-news-channel-amid-fraud-scandal",
+      "publishedAt": "2026-11-21T13:05:31.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
       "lang": "tr"
     },
     {
@@ -39,15 +64,16 @@
       "timeAgo": "12 dk önce",
       "body": "Fransa'nın güneybatı kıyılarında Malta bayraklı bir yük gemisi karaya oturdu ve mahsur kaldı. Fransız yetkililer, geminin alabora olmasını ve potansiyel bir kirliliğe yol açmasını engellemek amacıyla bir operasyonun hazırlıklarını sürdürüyor. Olay sırasında herhangi bir yük taşımayan gemide bulunan 19 mürettebatın tamamı helikopterle güvenli bir şekilde tahliye edildi. Konuyla ilgili gelişmeler yetkililer tarafından takip ediliyor.",
       "highlights": [
-        "Malta bayraklı bir yük gemisi Fransa'nın güneybatı kıyılarında karaya oturdu.",
-        "Gemideki 19 mürettebat helikopterle güvenli bir şekilde tahliye edildi.",
-        "Yetkililer geminin alabora olmasını ve kirlilik yaratmasını önlemek için operasyon hazırlığı yapıyor."
+        "Malta bayraklı bir kargo gemisi Fransa'nın güneybatı açıklarında karaya oturdu.",
+        "Gemideki 19 mürettebat helikopterle güvenli şekilde tahliye edildi.",
+        "Yetkililer alabora ve kirlilik riskine karşı operasyon hazırlığı yapıyor."
       ],
       "externalUrl": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
       "publishedAt": "2026-11-21T12:52:27.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:14:17.904Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/boludan-iskocyaya-uzanan-73-yillik-bitki-koleksiyonu-universitede-korunuyor-3496194",
@@ -7047,7 +7073,7 @@
       "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T06:54:26.848Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:14:17.904Z",
       "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
       "isBreaking": false
     },
@@ -7390,7 +7416,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:14:23.712Z",
-      "imageSearchAttemptedAt": "2026-11-21T07:04:24.867Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:14:17.904Z",
       "isBreaking": false
     },
     {
@@ -14588,28 +14614,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T12:25:05.772Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "Ethiopia-Eritrea border clashes raise fears of regional war",
-      "source": "DW English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "25 dk önce",
-      "body": "Doğu Afrika'daki gerilimlerin en üst seviyeye ulaştığı bildirilirken, tartışmalı Etiyopya-Eritre sınır bölgesinde yaşanan yeni çatışmalar tam kapsamlı bir savaş korkularını artırdı. Bununla birlikte, Etiyopya ile Sudan arasındaki diplomatik ilişkilerin de yeni bir düşüş yaşadığı belirtiliyor.\n\nTigray Halk Kurtuluş Cephesi'ne (TPLF) bağlı savaşçıların 23 Eylül'de bir taarruz başlattığı ifade edildi. Etiyopya Ulusal Savunma Kuvvetleri (ENDF) ise TPLF'yi kuzeydeki Tigray bölgesinden dışarıya doğru itti. İzleme organizasyonu ACLED'in verilerine göre, ENDF güçlerinin Tigray'ın içerilerine ilerleyerek Tigray Savunma Kuvvetleri'ni Eritrea sınırına doğru sürdüğü aktarıldı.\n\nSınır hattındaki Badme kasabası yakınlarında ağır topların ateşlendiği bildirilirken, bölge 1998-2000 yıllarındaki Eritre-Etiyopya Savaşı'nın başlangıç noktası olması nedeniyle tarihsel bir öneme sahip bulunuyor. Uzmanlar, Etiyopya ordusunun kuzey sınırını güvence altına almayı ve Eritre ile Tigray güçleri arasındaki ikmal hatlarını kesmeyi amaçlıyor olabileceğini ifade ediyor.\n\nAynı dönemde, Etiyopya ile Sudan arasındaki diplomatik ilişkilerin daha da kötüleştiği kaydedildi. Mavi Nil üzerinde inşa edilen Büyük Rönesans Barajı (GERD) nedeniyle Sudan ve Mısır'ın endişe duyduğu, Sudan'da ise 2023 yılından bu yana ordu ile Hızlı Destek Kuvvetleri (RSF) arasında iç savaş sürdüğü bilgisi paylaşıldı. Analistler, iki ülke arasında doğrudan bir çatışmadan ziyade muhalif gruplar üzerinden vekâlet savaşlarının sürmesinin muhtemel olduğunu belirtiyor.",
-      "highlights": [
-        "Etiyopya-Eritre sınırındaki çatışmalar tam kapsamlı savaş korkularını artırdı.",
-        "ENDF güçleri Tigray güçlerini Eritre sınırına doğru sürdü.",
-        "Etiyopya ile Sudan arasındaki diplomatik ilişkiler zayıfladı."
-      ],
-      "externalUrl": "https://www.dw.com/en/ethiopia-eritrea-border-clashes-raise-fears-of-regional-war/a-79970353?maca=en-rss-en-world-4025-xml-mrss",
-      "publishedAt": "2026-11-17T15:43:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:54:16.862Z",
-      "sourceTextAttemptedAt": "2026-11-18T12:54:27.569Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
