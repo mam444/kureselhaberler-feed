@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T10:54:27.140Z",
+  "generatedAt": "2026-11-21T11:25:08.637Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/samsun/samsunda-trafik-levhasina-ve-otobuse-carpan-otomobildeki-3-kisi-yaralandi-3496167",
+      "headline": "Samsun'da trafik levhasına ve otobüse çarpan otomobildeki 3 kişi yaralandı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1615423263169-36d38558bd53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dHJhZmZpYyUyMGFjY2lkZW50JTIwY2FyfGVufDF8MHx8fDE3OTUyNjAzMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "C Joyful",
+        "photographerUrl": "https://unsplash.com/@alonly",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-black-stripe-shirt-and-black-pants-standing-beside-black-car-during-daytime-uWOBgtCD_m8"
+      },
+      "timeAgo": "şimdi",
+      "body": "Samsun'un İlkadım ilçesinde meydana gelen trafik kazasında, otomobilin trafik levhasına ve otobüse çarpması neticesinde 3 kişi yaralandı.\n\nEdinilen bilgilere göre kaza, ilçede bulunan 2. Bulvar Yolu'nda gerçekleşti. E.K. (43) yönetimindeki 38 BZ 771 plakalı otomobil, sürücüsünün direksiyon hakimiyetini yitirmesi sonucunda refüjde yer alan trafik levhasına çarptı.\n\nÇarpmanın etkisiyle karşı şeride geçen otomobil, yol kenarında park halinde bulunan 55 C 0382 plakalı otobüse çarparak durabildi. Bu sırada yerinden kopan trafik levhası da park halindeki 55 AOV 289 plakalı kamyonete zarar verdi.\n\nYaşanan kaza sonucunda otomobil sürücüsü E.K. ile birlikte araç içerisinde bulunan T.K. (17) ve A.K. (19) yaralandı. Olayın ardından yaralıların hayati tehlikesinin bulunmadığı bilgisine ulaşıldı.",
+      "highlights": [
+        "Samsun'un İlkadım ilçesinde otomobilin trafik levhasına ve otobüse çarpması sonucu 3 kişi yaralandı",
+        "Kazada sürücü E.K. ile araçtaki T.K. ve A.K. yaralandı, hayati tehlikelerinin bulunmadığı öğrenildi",
+        "Kontrolden çıkan otomobil karşı şeride geçerek park halindeki otobüse çarptı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/samsun/samsunda-trafik-levhasina-ve-otobuse-carpan-otomobildeki-3-kisi-yaralandi-3496167",
+      "publishedAt": "2026-11-21T11:29:32.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/yapay-zeka/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti/4132855",
       "headline": "Anthropic çalışanı Türk matematikçi, 167 yıldır çözülemeyen problemi yapay zekayla çözdüğünü iddia etti",
@@ -21,7 +44,8 @@
       "externalUrl": "https://www.aa.com.tr/tr/yapay-zeka/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti/4132855",
       "publishedAt": "2026-11-21T10:51:27.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
@@ -63,7 +87,9 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
       "publishedAt": "2026-11-21T10:38:13.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
+      "imageSearchAttemptedAt": "2026-11-21T11:25:04.635Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
@@ -13982,29 +14008,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T17:35:06.098Z"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-protesto-neye-ugradigini-sasirdi-7702471",
-      "headline": "Sırbistan'da milletvekiline meclis önünde yoğurtlu protesto",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1718390996817-f522efe4b0f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RCVDMyVCQ255YXxlbnwxfDB8fHwxNzk0OTE3MDgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Furkan Elveren",
-        "photographerUrl": "https://unsplash.com/@furkanelveren",
-        "unsplashUrl": "https://unsplash.com/photos/a-woman-standing-in-front-of-an-old-theater-GmcUsuukZbw"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Sırbistan'da yeni meclis oturumu öncesinde düzenlenen protestolarda, Sırp İlerleme Partisi milletvekili Lidija Vukicevic saçına yoğurt dökülerek protesto edildi. Olayın ardından açıklama yapan Vukicevic, kendini çok kötü hissettiğini ve meclis önünde güvende hissedemediklerini belirtti.",
-      "highlights": [
-        "Milletvekili Lidija Vukicevic'e yoğurtlu saldırı düzenlendi",
-        "Vukicevic kendisini güvende hissetmediğini ifade etti",
-        "Protestolar meclis oturumu öncesinde gerçekleştirildi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-protesto-neye-ugradigini-sasirdi-7702471",
-      "publishedAt": "2026-11-17T12:03:17.000Z",
-      "category": "Dünya",
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
@@ -14212,6 +14215,7 @@
     "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
-    "https://www.milliyet.com.tr/gundem/beyoglunda-5-katli-binada-yangin-cok-sayida-ekip-sevk-edildi-7705080"
+    "https://www.milliyet.com.tr/gundem/beyoglunda-5-katli-binada-yangin-cok-sayida-ekip-sevk-edildi-7705080",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss"
   ]
 }
