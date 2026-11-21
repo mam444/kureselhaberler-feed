@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T17:34:24.136Z",
+  "generatedAt": "2026-11-21T17:54:48.746Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/bilal-erdogan-ulkemiz-musluman-ulkeler-arasinda-ekonomik-buyukluk-itibariyla-birinci-siraya-cikti-3496257",
+      "headline": "Bilal Erdoğan: Ülkemiz Müslüman ülkeler arasında ekonomik büyüklük itibarıyla birinci sıraya çıktı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1585514989463-ea7132a67056?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8TkdPJTIwbWVldGluZyUyMElzdGFuYnVsfGVufDF8MHx8fDE3OTUyODM2ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emre",
+        "photographerUrl": "https://unsplash.com/@reo",
+        "unsplashUrl": "https://unsplash.com/photos/couple-sitting-on-brown-wooden-bench-near-body-of-water-during-daytime-oEy71vfxl7w"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye Gönüllü Teşekküller Vakfı (TGTV) Mütevelli Heyeti Başkanı Necmeddin Bilal Erdoğan, İstanbul'da 25-28 Kasım tarihlerinde düzenlenecek olan 5. Uluslararası Sivil Toplum Kuruluşları (STK) Fuarı'nın basın toplantısında açıklamalarda bulundu. Eyüpsultan'daki TÜGVA Genel Merkezi'nde gerçekleşen toplantıda konuşan Erdoğan, Türkiye'nin geçen yıl Müslüman ülkeler arasında ekonomik büyüklük bakımından birinci sıraya yükseldiğini belirtti.\n\nErdoğan, 2 milyarlık İslam aleminde Türkiye'den her zaman bir liderlik, ağabeylik ve önderlik beklentisi olduğunu ifade ederek, bu doğrultuda sivil toplum alanında da üzerlerine düşeni yapmayı amaçladıklarını söyledi. Fuarın bu yıl İDSB ile TGTV işbirliğinde \"Sivil Toplum 5.0\" temasıyla gerçekleştirileceğini belirten Erdoğan, STK'lerin yapay zeka ve teknoloji ürünlerini etkin kullanmasının, idari ve mali sürdürülebilirlik açısından güçlenmesinin önemine değindi.\n\nKonuşmasında dünyadaki örneklerle uyumlu güçlü bir gönüllülük mevzuatı oluşturulması için ilgili kurumlarla çalışmaların sürdüğünü aktaran Erdoğan, geçmişteki fuarlarda insani yardım temasının ön planda olduğunu hatırlattı. Gazze'deki soykırım, Sudan'daki iç savaş ve Suriye'nin durumu gibi İslam coğrafyasının çeşitli bölgelerinde yaşanan sıkıntılara dikkat çeken Erdoğan, insani yardım kuruluşları arasındaki koordinasyonu güçlendirirken İslam dünyasında sivil toplum bilincinin yerleşmesini istediklerini kaydetti.\n\nToplantıda gazetecilerin sorularını da yanıtlayan Erdoğan, Arakan Müslümanlarının yaşadığı duruma değinerek Uluslararası Adalet Divanı'nın kararını insanlık vicdanı açısından ümit ışığı olarak nitelendirdi. İDSB Genel Sekreteri Eyüp Akbal ise fuarda 60'tan fazla ülkeden 200'ü aşkın STK'yi ağırlayacaklarını belirtti.",
+      "highlights": [
+        "Türkiye geçen yıl Müslüman ülkeler arasında ekonomik büyüklük itibarıyla birinci sıraya çıktı.",
+        "5. Uluslararası Sivil Toplum Kuruluşları Fuarı 25-28 Kasım tarihlerinde İstanbul'da düzenlenecek.",
+        "Fuar, İslam Dünyası Sivil Toplum Kuruluşları Birliği (İDSB) ile TGTV işbirliğinde gerçekleştirilecek."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/bilal-erdogan-ulkemiz-musluman-ulkeler-arasinda-ekonomik-buyukluk-itibariyla-birinci-siraya-cikti-3496257",
+      "publishedAt": "2026-11-21T17:55:40.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
       "headline": "Liverpool ve Manchester United Karşı Karşıya Geliyor",
@@ -21,6 +45,31 @@
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
       "publishedAt": "2026-11-21T17:28:51.000Z",
       "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T17:54:41.244Z"
+    },
+    {
+      "id": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+      "headline": "COP31: Enerji, finans ve bilim konularında derin bölünmeler sürüyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1571845599234-790a035f6109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2xpbWF0ZSUyMGNoYW5nZSUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc5NTI4MzY4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-a-sign-that-says-the-climate-is-changing-why-aren-1AaRGN_vyq0"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Türkiye'de düzenlenen COP31 iklim görüşmeleri, fosil yakıtlar, iklim finansmanı ve küresel ısınma hedefleri üzerindeki derin anlaşmazlıklar nedeniyle uzatmalara gitti. Gecikmelere yol açan süreçte, güncellenen taslak metinden fosil yakıtlara dair tüm atıfların çıkarılması, AB ve net bir aşamalı çıkış taahhüdü talep eden bir düzine ülkenin sert eleştirilerine neden oldu.\n\nMüzakereciler ayrıca önerilen küresel elektrifikasyon hedefi, karbon yakalama ve BM iklim bilimi raporlarının geleceği konusunda bölünmüş durumda. Gelişmekte olan ülkeler, 120 milyar dolarlık iklim adaptasyon fonu hedefinin metinden çıkarılmasına tepki gösterdi.\n\nAvustralya delegeler ayrılmadan önce gözden geçirilmiş bir anlaşmayı güvence altına almak için çalışırken, Fransa 24 gazetecisi Adria Rocha Cutiller son gelişmeleri aktarıyor.",
+      "highlights": [
+        "COP31 iklim görüşmeleri enerji, finans ve bilim anlaşmazlıkları nedeniyle uzadı",
+        "Güncellenen taslakta fosil yakıtlara ve 120 milyar dolarlık adaptasyon fonuna yer verilmedi",
+        "AB ve bazı ülkeler fosil yakıtlardan çıkış taahhüdü talep ediyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
+      "publishedAt": "2026-11-21T17:26:47.000Z",
+      "category": "Ekonomi",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3575,7 +3624,7 @@
       "publishedAt": "2026-11-20T17:39:00.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:54:31.783Z",
+      "sourceTextAttemptedAt": "2026-11-21T17:54:41.244Z",
       "isBreaking": true
     },
     {
@@ -14591,56 +14640,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T19:44:14.681Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-      "headline": "Papa Leo'nun Elçisi Kutsal Topraklardaki Hristiyanlara Birlik Mesajı Getirdi",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1632487112387-01dcd23010e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SmVydXNhbGVtJTIwY2h1cmNofGVufDF8MHx8fDE3OTQ5NDI4NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Levi Meir Clancy",
-        "photographerUrl": "https://unsplash.com/@levimeirclancy",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-clock-tower-on-top-of-it-YWPa8Ur-rig"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Katolik Kilisesi'nin Doğu Kiliseleri Departmanı Başkanı Kardinal Claudio Gugerotti, bölgedeki Hristiyanlar için zorlu geçen bu dönemde Papa Leo XIV'ün desteğini ve varlığını iletmek amacıyla salı günü Kudüs'ü ziyaret etti. Gugerotti, İsa'nın gömüldüğüne ve yeniden dirildiğine inanılan Kutsal Kabir Kilisesi içerisindeki Kutsal Edikül önünde dua etti. Düzenlenen törene Kudüs'teki diğer Hristiyan mezheplerinin liderleri de katıldı.\n\nKardinal Gugerotti ve diğer Hristiyan liderler, Kudüs'ün Eski Şehri'nin dar sokaklarında, gayda çalanlar, Fransiskan keşişleri ve büyük bir haç eşliğinde tarihi kiliseye doğru bir yürüyüş gerçekleştirdi. Bölgede din adamlarına ve inananlara yönelik tacizlerin arttığı, nisan ayında ise İsrail'de bir rahibeye yönelik nadir görülen şiddetli bir saldırının endişe yarattığı belirtildi.\n\nİsrail'deki Hristiyanların çoğunluğunu oluşturan Filistinliler, geçen ayki ulusal seçimlerde Arap liderliğindeki partilerin tarihi kazanımlar elde etmesinin ardından hedef haline geldi. Kudüs'teki Latin Patriği Kardinal Pierbattista Pizzaballa, ziyaret öncesinde yaptığı açıklamada, zorlu koşullarda hizmet eden din adamlarının, ailelerin ve gençlerin inanç ve umutla desteklenmesi için dua ettiklerini ifade etti.\n\nKardinal Gugerotti'nin altı günlük ziyareti kapsamında, İsa'nın doğduğuna inanılan Nativity Bazilikası'nı ve bir camiyi ziyaret etmek üzere Beytüllahim'e gitmesi planlanıyor. Ziyaret programında İsrail liderleriyle görüşmeler yer almazken, Gugerotti'nin Kudüs'teki Yunan Ortodoks ve Ermeni kiliselerinin liderleriyle bir araya gelmesi planlanıyor.",
-      "highlights": [
-        "Kardinal Claudio Gugerotti, Kudüs'ü ziyaret ederek Papa Leo XIV'ün mesajını iletti.",
-        "Kutsal Kabir Kilisesi'nde farklı mezheplerin liderlerinin katılımıyla tören düzenlendi.",
-        "Gugerotti'nin programında Beytüllahim ziyareti de yer alıyor."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-      "publishedAt": "2026-11-17T19:05:12.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-17T19:24:20.890Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/irandan-abdye-nukleer-resti-3494510",
-      "headline": "İran'dan ABD'ye 'nükleer' resti",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1614035435969-bc2bad339b7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bnVjbGVhciUyMHdlYXBvbnxlbnwxfDB8fHwxNzk0OTQxNjk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Oo Jiflip",
-        "photographerUrl": "https://unsplash.com/@oojiflip",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-red-space-ship-scale-model-QSvjKqDiDPY"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, ABD'nin İran'a karşı nükleer silah kullanması durumunda Tahran yönetiminin aynı düzeyde karşılık vereceğini açıkladı.\n\nİran merkezli Khabarfoori haber sitesine konuşan Muhsini Sani, ABD Başkanı Donald Trump ve İsrail Başbakanı Binyamin Netanyahu'nun tutumları göz önüne alındığında her türlü gelişmenin yaşanabileceğini belirterek gerekli önlemlerin alındığını kaydetti. ABD ile olası bir anlaşmaya dair son derece kötümser olduklarını ve bu konuda olumlu bir beklenti taşımadıklarını dile getirdi.\n\nABD yönetiminin seçim yenilgisinin ardından savaşın artık bir fayda sağlamadığı sonucuna varması ve geçmiş politikalarından vazgeçmesi durumunda diplomatik bir sürecin mümkün olabileceğini ifade eden Muhsini Sani, askeri saldırı ihtimaline karşı tüm hazırlıkların yapıldığını savundu.\n\nMuhsini Sani, \"ABD nükleer silah kullanmaya kalkışırsa İran'ın vereceği karşılık da aynı düzeyde olacaktır.\" şeklinde konuştu ancak verilecek olası karşılığın detaylarına ilişkin herhangi bir bilgi paylaşmadı.",
-      "highlights": [
-        "ABD'nin nükleer silah kullanması durumunda İran'ın aynı düzeyde karşılık vereceği belirtildi.",
-        "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, askeri saldırı ihtimaline karşı gerekli hazırlıkların yapıldığını ifade etti.",
-        "Muhsini Sani, muhtemel karşılığın ayrıntıları hakkında bilgi vermedi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/irandan-abdye-nukleer-resti-3494510",
-      "publishedAt": "2026-11-17T18:52:40.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T19:24:21.469Z",
       "isBreaking": false
     }
   ],
