@@ -1,25 +1,31 @@
 {
-  "generatedAt": "2026-11-21T18:44:37.782Z",
+  "generatedAt": "2026-11-21T18:54:23.906Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-21-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-eleme-potasi-4-aday-3496265",
       "headline": "MasterChef'te eleme adayı ve dokunulmazlık oyunu merak ediliyor",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1709837167719-1ff90bdbbac5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y29va2luZyUyMHNob3d8ZW58MXwwfHx8MTc5NTI4NzI2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emediong Umoh",
+        "photographerUrl": "https://unsplash.com/@official_umoh",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-chefs-outfit-preparing-food-in-a-kitchen-gcHkQ07Af2Q"
+      },
       "timeAgo": "şimdi",
       "body": "Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu'nun jüri üyeliğini üstlendiği MasterChef programında, 21 Kasım 2026 tarihinde eleme adayı ile dokunulmazlık oyununu kazanan takımın kim olduğu izleyiciler tarafından merak ediliyor. Yarışmacılar dokunulmazlık oyununda tezgah başına geçerek hünerlerini sergiledi.\n\nAncak programda dokunulmazlık oyununun kazananı ve 4. eleme adayı henüz netleşmedi. Resmi açıklamalar yapıldığında detayların güncelleneceği belirtildi.\n\nProgramın mevcut haftasında daha önce belirlenen eleme potasındaki ilk üç isim Şükran, Tolgahan ve Şadi olarak açıklanmıştı.",
       "highlights": [
-        "Dokunulmazlık oyununu hangi takımın kazandığı henüz açıklanmadı",
-        "Önceki eleme adayları Şükran, Tolgahan ve Şadi olarak belirlendi",
-        "Dördüncü eleme adayı henüz belli değil"
+        "Mehmet Yalçınkaya, Danilo Zanna ve Somer Sivrioğlu jüri üyeliğini yapmaktadır.",
+        "Daha önce eleme potasına giren ilk 3 isim Şükran, Tolgahan ve Şadi olmuştur.",
+        "Dokunulmazlık oyununu hangi takımın kazandığı ve eleme adayı henüz açıklanmamıştır."
       ],
       "externalUrl": "https://www.cnnturk.com/magazin/masterchef-eleme-adayi-21-kasim-2026-masterchefte-eleme-adayi-kim-oldu-dokunulmazlik-oyununu-hangi-takim-kazandi-eleme-potasi-4-aday-3496265",
       "publishedAt": "2026-11-21T18:44:29.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-21T18:54:21.264Z",
+      "sourceTextAttemptedAt": "2026-11-21T18:54:21.264Z"
     },
     {
       "id": "https://www.trthaber.com/haber/turkiye/sanliurfada-2-otomobil-carpisti-2-olu-5-yarali-964091.html",
@@ -1666,7 +1672,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
-      "imageSearchAttemptedAt": "2026-11-21T12:44:26.874Z"
+      "imageSearchAttemptedAt": "2026-11-21T18:54:21.264Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
@@ -3685,7 +3691,7 @@
       "publishedAt": "2026-11-20T18:10:19.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T18:24:28.665Z",
+      "sourceTextAttemptedAt": "2026-11-21T18:54:21.264Z",
       "isBreaking": false
     },
     {
@@ -6918,7 +6924,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-21T12:44:26.874Z",
+      "imageSearchAttemptedAt": "2026-11-21T18:54:21.264Z",
       "isBreaking": false
     },
     {
