@@ -1,6 +1,51 @@
 {
-  "generatedAt": "2026-11-21T08:35:23.425Z",
+  "generatedAt": "2026-11-21T08:44:30.607Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/teknoloji/isteyen-telefonunu-terminatore-donusturebilir-cin-menseli-artexle-yapay-zekaya-yemek-tarifi-sorar-gibi-siber-saldiri-7704972",
+      "headline": "'İsteyen telefonunu Terminatör'e dönüştürebilir!' Çin menşeli ARTEX'le yapay zekaya yemek tarifi sorar gibi siber saldırı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMGN5YmVyc2VjdXJpdHl8ZW58MXwwfHx8MTc5NTI1MDY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Winkler",
+        "photographerUrl": "https://unsplash.com/@markuswinkler",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-black-typewriter-with-white-printer-paper-tGBXiHcPKrM"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Çin menşeli ARTEX adlı araç, yapay zeka destekli siber saldırı araçlarını sıradan vatandaşların ve suçluların erişimine sunuyor. Bu yılın Temmuz ayında piyasaya sürülen araç sayesinde büyük paralara, pahalı donanımlara veya sunuculara ihtiyaç duyulmadan ciddi yıkımlar yaratılabiliyor. FBI ve siber güvenlik kuruluşlarının iddialarına göre ARTEX, ConnectWise Cloud Backup gibi dünya genelindeki kuruluşları hedef alan büyük saldırıların arkasında yer alıyor. Microsoft, binlerce Microsoft 365 kullanıcısını riske atan saldırıyı Çin bağlantılı Storm-0940 grubuna bağlayarak grubun ARTEX'i yüzlerce kuruluşu hedef almak için kullandığını belirtti.\n\nDirectDefense bilgi güvenliği sorumlusu Christopher Walcutt, ARTEX'i yalın bir dille görevler verilebilen bir Terminatör'e benzeterek aracın hedefleri belirleyip sonuçlara acımasızca ulaştığını ifade etti. Araç, doğal dil girdilerini kullanarak ChatGPT'den lazanya tarifi istemek kadar kolay bir şekilde komuta edilebiliyor. Sistem aynı anda birden fazla görevi yerine getirebiliyor, ajanların öğrendiklerini analiz edebiliyor ve kredi kartı verilerini çalmak, gizli dosyaları indirmek veya kötü amaçlı yazılım yüklemek için yeni yardımcılar üretebiliyor.\n\nDatadog araştırmacılarına göre ARTEX, Temmuz ayında bir Çinli yazılım geliştiricisi tarafından güvenlik açıklarını bulmak için bir teşhis aracı olarak GitHub'da yayınlandı ve iki ay sonra yayından kaldırıldı. FBI, Kasım 2026 başı itibarıyla 1.600'den fazla halka açık ARTEX konsol örneği tespit edildiğini bildirdi. Benzer şekilde Google'ın Tehdit İstihbarat Grubu da kötü amaçlı aktörlerce kullanılan PentAGI gibi diğer araçların izini sürdü.\n\nSiber güvenlik uzmanı Scott Schober, saldırganların zaafları istismar etme hızının kurumların sistemlerini güncelleme hızını aştığını belirtti. Schober, siber suçluların yapay zeka gelişmelerinden faydalandığını ve sisteme bir kez girmenin ihlaller, erişim sorunları veya kesintiler için yeterli olduğunu vurguladı. Walcutt ise yapay zekanın yeni güvenlik açıkları yaratmadığını, halihazırda var olanları bulmayı ve istismar etmeyi kolaylaştırdığını ifade etti.",
+      "highlights": [
+        "ARTEX, Çin menşeli yapay zeka destekli bir siber saldırı aracı olarak dikkat çekiyor.",
+        "Araç, doğal dil girdileriyle komuta edilerek kredi kartı verilerini çalma veya kötü amaçlı yazılım yükleme gibi işlemleri otomatize edebiliyor.",
+        "FBI ve siber güvenlik uzmanları, saldırganların zaafları istismar etme hızının kurumların yama yapma hızını geçtiğini belirtiyor."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/teknoloji/isteyen-telefonunu-terminatore-donusturebilir-cin-menseli-artexle-yapay-zekaya-yemek-tarifi-sorar-gibi-siber-saldiri-7704972",
+      "publishedAt": "2026-11-21T08:41:49.000Z",
+      "category": "Teknoloji",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+      "headline": "Gianni Infantino'nun FIFA yeniden başkanlık seçimine CONMEBOL'den destek",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1629042335867-0995c7bfc5b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8R2lhbm5pJTIwSW5mYW50aW5vJTIwRklGQXxlbnwxfDB8fHwxNzk1MjUwNjYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Helena Lopes",
+        "photographerUrl": "https://unsplash.com/@helenalopesph",
+        "unsplashUrl": "https://unsplash.com/photos/boy-in-green-and-white-crew-neck-t-shirt-sitting-on-white-bed-p8kYzEaSzWs"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Güney Amerika Futbol Konfederasyonu CONMEBOL, FIFA başkanı Gianni Infantino'nun yeniden başkanlık kampanyasına oy birliğiyle destek açıkladı. Bu gelişme, Infantino'nun seçim kampanyası açısından büyük bir destek olarak değerlendirildi.",
+      "highlights": [
+        "CONMEBOL, Gianni Infantino'ya oy birliğiyle desteğini açıkladı.",
+        "Bu destek Infantino'nun FIFA başkanlığı yeniden seçim kampanyasına büyük bir katkı sağladı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+      "publishedAt": "2026-11-21T08:33:52.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/21/trump-putin-ile-iliskilerini-savundu-irani-durust-olmamakla-sucladi",
       "headline": "Trump, Putin ile ilişkilerini savundu: İran’ı dürüst olmamakla suçladı",
@@ -14,7 +59,8 @@
       "externalUrl": "https://tr.euronews.com/2026/11/21/trump-putin-ile-iliskilerini-savundu-irani-durust-olmamakla-sucladi",
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261121-france-must-change-or-risk-losing-overseas-territories-former-pm-tells-rfi-manuel-valls",
@@ -26,14 +72,15 @@
       "timeAgo": "3 dk önce",
       "body": "Fransa'nın eski başkenti ve eski denizaşırı topraklar bakanı Manuel Valls, RFI'a yaptığı açıklamada, Fransa'nın denizaşırı topraklarıyla ilişkilerini kökten değiştirmesi gerektiğini belirtti. Valls, Paris yönetiminin bu bölgelerle ilgili merkeziyetçi yapısını azaltmaması durumunda Fransa'nın bu toprakları kaybetme riskiyle karşı karşıya olduğunu ifade etti.\n\nAvrupa dışındaki bu toprakların Fransa'ya beş kıtada ve üç okyanusta stratejik bir varlık sağladığını belirten Valls, anakaradan uzakta yaşayan yaklaşık 3 milyon kişinin derin ekonomik ve sosyal eşitsizliklerle mücadele ettiğini vurguladı. Valls, yeni yayımlanan \"Denizaşırı Topraklar: Acil Durum\" adlı kitabında, Rusya, Azerbaycan ve Çin'in bu bölgeleri hedef aldığını ve Fransa'nın küçülen küresel etkisini korumak için \"metropolleşmeden uzaklaşması\" gerektiğini savundu.\n\nYeni Kaledonya örneğine değinen Valls, Temmuz 2025'te siyasi liderler tarafından imzalanan ancak hem bölgede hem de anakarada muhalefetle karşılaşarak çıkmaza giren Bougival Anlaşması'na dikkat çekti. Bu anlaşmanın Fransız Cumhuriyeti içinde ek yetkilere sahip bir Yeni Kaledonya Devleti yaratmayı amaçladığını hatırlatan Valls, Çin'in bölgedeki mineral rezervlerini ve stratejik konumunu hedef aldığını kaydetti.\n\nBağımsızlık çağrılarının yanı sıra Karayipler'deki Guadeloupe ve Martinique gibi bölgelerde uyuşturucu kaçakçılığının toplumları sarstığını belirten eski başbakan, Fransa'nın bu bölgelere yönelik paternalist ve infantil yaklaşımını terk etmesi gerektiğini dile getirdi. Valls, Fransız Guyanası ve diğer bölgeler için daha fazla özerklik ve kişiselleştirilmiş \"à la carte\" statüler çağrısında bulundu.\n\nValls, Fransa'da Emmanuel Macron'un cumhurbaşkanlığı döneminde dokuz veya on farklı denizaşırı topraklar bakanının görev yapmış olmasının bir saçmalık ve saygısızlık göstergesi olduğunu belirtti. Paris'in bu toprakları yalnızca olimpiyat madalyaları, siklonlar veya isyanlar sırasında hatırladığını ifade eden Valls, saygı ve diyaloğa dayalı yeni bir yaklaşımın inşa edilmesi gerektiğini kaydetti.",
       "highlights": [
-        "Eski başbakan Manuel Valls, Fransa'nın denizaşırı toprakları ile ilişkilerini değiştirmemesi durumunda bu bölgeleri kaybetme riski bulunduğunu belirtti.",
-        "Valls, Fransa'nın Paris merkezli gücünü azaltması ve denizaşırı bölgeler için kişiselleştirilmiş statüler oluşturulması çağrısında bulundu.",
-        "Yeni Kaledonya'daki Bougival Anlaşması'nın çıkmaza girdiğini ve Çin'in bölgedeki mineral rezervlerini hedef aldığını ifade etti."
+        "Fransa'nın denizaşırı topraklarında yaklaşık 3 milyon kişi yaşıyor.",
+        "Bölgelerde derin ekonomik ve sosyal eşitsizlikler ile artan bağımsızlık çağrıları bulunuyor.",
+        "Eski başbakan Manuel Valls, Fransa'nın ilişkilerini değiştirmemesi halinde bu toprakları kaybedebileceğini söyledi."
       ],
       "externalUrl": "https://www.rfi.fr/en/france/20261121-france-must-change-or-risk-losing-overseas-territories-former-pm-tells-rfi-manuel-valls",
       "publishedAt": "2026-11-21T08:31:24.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
@@ -12864,7 +12911,7 @@
       "publishedAt": "2026-11-17T15:44:54.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T13:54:27.307Z",
+      "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z",
       "sourceTextAttemptedAt": "2026-11-18T11:54:40.640Z"
     },
     {
@@ -13917,42 +13964,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T10:32:58.658Z"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/cankurtaran-tuneli-hopa-yonu-17-18-kasimda-kapali-4873325",
-      "headline": "Cankurtaran Tüneli’nde bakım çalışması: Ulaşım eski yoldan sağlanacak",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "1 dk önce",
-      "body": "Artvin'deki Cankurtaran Tüneli'nin Borçka-Hopa yönü, bakım ve onarım çalışmaları nedeniyle 17-18 Kasım 2026'da 08.30 ile 17.00 arasında araç trafiğine kapatılacak. Sürücüler eski Cankurtaran yoluna yönlendirilecek.",
-      "highlights": [],
-      "externalUrl": "https://www.yenisafak.com/gundem/cankurtaran-tuneli-hopa-yonu-17-18-kasimda-kapali-4873325",
-      "publishedAt": "2026-11-17T07:03:29.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T14:34:25.266Z"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
-      "headline": "8.kattan düşüp mucize şekilde hayatta kalmıştı: Üniversite öğrencisinin ilk sözleri ortaya çıktı!",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1652020089052-e16f4b760d33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8OC5rYXR0YW4lMjBkJUMzJUJDJUM1JTlGJUMzJUJDcCUyMG11Y2l6ZSUyMCVDNSU5RmVraWxkZSUyMGhheWF0dGElMjBrYWxtJUM0JUIxJUM1JTlGdCVDNCVCMSUzQSUyMCVDMyU5Q25pdmVyc2l0ZSUyMCVDMyVCNiVDNCU5RnJlbmNpc2luaW4lMjBpbGslMjBzJUMzJUI2emxlcmklMjBvcnRheWElMjAlQzMlQTclQzQlQjFrdCVDNCVCMSUyMXxlbnwxfDB8fHwxNzk0OTk5MjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rafli Firmansyah",
-        "photographerUrl": "https://unsplash.com/@flxraf",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-9Ng-h9DU7TI"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "HABER MERKEZİ/ Olay, Georgia Üniversitesi öğrencisi Kristin Sargent’ın arkadaşlarıyla birlikte bir futbol maçını izledikten sonra eve dönüp eğlenmeye devam ettiği 26 Eylül akşamı meydana geldi. Athens-Clarke County Polisi tarafından aylar sonra paylaşılan görüntüler ve tanık ifadeleri, korkunç kazanın nasıl gerçekleştiğini gözler önüne serdi. DİNLEDİĞİ ŞARKI MANİDARDI Ev arkadaşlarının polise verdiği ifadeye göre,…",
-      "highlights": [],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/8-kattan-dusup-mucize-sekilde-hayatta-kalmisti-universite-ogrencisinin-ilk-sozleri-ortaya-cikti-7702186",
-      "publishedAt": "2026-11-17T07:00:58.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T10:54:42.397Z"
     }
   ],
   "rejectedIds": [
