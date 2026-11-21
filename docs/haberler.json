@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T07:34:23.047Z",
+  "generatedAt": "2026-11-21T07:44:33.321Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/balattaki-ikonik-bina-30-milyon-liraya-satisa-cikarildi-4875100",
+      "headline": "Balat'ın ikonik binası 30 milyon liraya satışa çıkarıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1579001724923-d5927bd1c958?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aGlzdG9yaWMlMjBidWlsZGluZyUyMGlzdGFuYnVsfGVufDF8MHx8fDE3OTUyNDcwNjd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Osman Köycü",
+        "photographerUrl": "https://unsplash.com/@osmank",
+        "unsplashUrl": "https://unsplash.com/photos/galata-tower-during-daytime-Me960O-VYEY"
+      },
+      "timeAgo": "şimdi",
+      "body": "İstanbul'un film ve dizilerde sıkça yer alan Balat semtindeki dikkat çekici bir bina, internet üzerinden verilen ilanla 30 milyon lira bedelle satışa sunuldu. Yıllardır bakımsız ve harap görüntüsüyle bilinen yapının önünde yerli ve yabancı turistler sık sık fotoğraf çektiriyor. İki sokağın kesiştiği noktada bulunan binanın, 1920'li yıllara ait haritalarda da yer aldığı ancak kesin yapım tarihinin bilinmediği belirtiliyor. Araştırmacı ve Arkeolog Ömer Faruk Yavaşçay, binanın Osmanlı'nın son dönemi veya Cumhuriyet'in ilk yıllarında inşa edilmiş olabileceğini ifade etti. Yaklaşık 245 metrekarelik alana sahip olan binanın zemin ve iki katlı olduğu, arka bölümde ise bodrum katı bulunduğu aktarıldı. Yavaşçay, yapının kütüphane, sergi alanı veya müze gibi kültür sanat faaliyetleri için restore edilerek şehre kazandırılması gerektiğini söyledi.\n\nDizi ve filmlerdeki kovalamaca ile geçiş sahnelerinde kullanılan mimarisiyle bilinen bina, ziyaretçilerin de uğrak noktalarından biri haline geldi. Bölgede yaşayan Sevil Bardak, gün içerisinde yüzlerce kişinin dizi ve filmlerdeki sahneleri yeniden çekmek için buraya geldiğini belirtti. Bardak, Deli Yürek dizisi çekimleri sırasında bölgeye yerleştirilen çeşmenin orijinalinde olmadığını, çekim sonrasında da orada kaldığını kaydetti. Güney Kore'den İstanbul'a gelen Uno isimli yabancı turist de binanın eşsiz ve ilgi çekici bir görünüme sahip olduğunu dile getirdi.\n\nİnternet ilanına göre 245 metrekare brüt ve 210 metrekare net alana sahip müstakil tapulu binanın 5 oda ve 1 salonu bulunuyor. Dört katlı olarak listelenen ve uzun süredir boş olduğu belirtilen yapının yenileme ihtiyacı olduğu ifade ediliyor. Bazı vatandaşlar ise binanın 30 milyon liralık satış fiyatını yüksek bulduklarını belirterek, yapının popüler konumu sebebiyle bu bedeli hak edip etmediği konusunda şüpheler dile getirdi.",
+      "highlights": [
+        "Balat'ın tanınan binalarından biri 30 milyon lira bedelle satışa çıkarıldı.",
+        "Araştırmacı Ömer Faruk Yavaşçay yapının kültür sanat faaliyetlerine dönüştürülmesi gerektiğini belirtti.",
+        "Bina, dizi ve film sahnelerindeki konumuyla yerli ve yabancı turistlerin ilgisini çekiyor."
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/balattaki-ikonik-bina-30-milyon-liraya-satisa-cikarildi-4875100",
+      "publishedAt": "2026-11-21T07:44:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/1-milyon-700-bin-liralik-altin-vurgununun-goruntuleri-ortaya-cikti-7704960",
       "headline": "1 milyon 700 bin liralık altın vurgununun görüntüleri ortaya çıktı",
@@ -18,7 +41,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/1-milyon-700-bin-liralik-altin-vurgununun-goruntuleri-ortaya-cikti-7704960",
       "publishedAt": "2026-11-21T07:32:53.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T07:44:22.555Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
@@ -40,6 +64,25 @@
       ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T07:31:05.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "headline": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1655182623034-cec1eefe8b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8WmVsZW5za3klMjBzYXlzJTIwUHV0aW4lMjBpcyUyMGElMjAlMjdraWxsZXIlMjclMjBhZnRlciUyMFRydW1wJTIwY2FsbHMlMjBSdXNzaWFuJTIwbGVhZGVyJTIwYSUyMGZyaWVuZHxlbnwxfDB8fHwxNzk1MjQ3MDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rom T",
+        "photographerUrl": "https://unsplash.com/@sutetir",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-in-front-of-a-statue-1lrTVkv3miM"
+      },
+      "timeAgo": "20 dk önce",
+      "body": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T07:24:45.000Z",
       "category": "Dünya",
       "lang": "tr"
     },
@@ -3393,15 +3436,15 @@
       "timeAgo": "3 dk önce",
       "body": "Keban Baraj Gölü havzasında yer alan tesiste yetiştirilen 5 farklı mersin balığı türü ile elde edilen havyarlar, başta Avrupa ülkeleri olmak üzere Japonya, ABD ve Kanada pazarlarına ihraç ediliyor. Elazığ merkeze bağlı Muratcık köyü havzasında kurulan ve Tunceli sınırına uzanan su ürünleri tesisi faaliyetlerini sürdürüyor.\n\nİşletmenin Genel Müdürü Mikaeil Hosseinzadeh, Türkiye’deki faaliyetlerine 8 yıl önce başladıklarını, 5 yıl önce ise baraj gölünün su potansiyeli nedeniyle üretimi Keban Baraj Gölü havzasına taşıdıklarını belirtti. Hosseinzadeh, Keban Barajı'nda 5 bin ton mersin balığı ve 6 bin ton alabalık kapasitesine sahip olduklarını ifade etti.\n\nŞirket kapasitesini 20 bin tona çıkartmayı hedeflediklerini belirten Hosseinzadeh, yıllık 100 ton havyar elde edebilmek için yılda bin 500 ton balık hasat edilmesi gerektiğini kaydetti. Tesiste Huso huso, Acipenser gueldenstaedtii, Acipenser persicus, Acipenser ruthenus ve Acipenser baerii (Sibirya) olmak üzere 5 ayrı türün yetiştirildiği bildirildi.\n\nHosseinzadeh, 2028-2029 yıllarında havyar hasadına başlayacaklarını aktardı. Lüks gıdalar arasında yer alan havyarın Avrupa, Japonya, Amerika ve Kanada'da çok tüketildiği ve tesisin bu pazarlara yönelik üretim yaptığı ifade edildi.",
       "highlights": [
-        "Keban Baraj Gölü havzasındaki tesiste 5 bin ton kapasiteyle mersin balığı yetiştiriliyor.",
-        "Tesiste Huso huso, Acipenser gueldenstaedtii, Acipenser persicus, Acipenser ruthenus ve Acipenser baerii türleri yetiştiriliyor.",
-        "Üretilen mersin balığı ve havyar Avrupa, Japonya, ABD ve Kanada pazarlarına gönderiliyor."
+        "Keban Baraj Gölü havzasındaki tesiste 5 farklı mersin balığı türü yetiştiriliyor.",
+        "Üretilen mersin balığı ve havyar Avrupa, Japonya, ABD ve Kanada'ya gönderiliyor.",
+        "2028-2029 yıllarında havyar hasadına başlanması planlanıyor."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/kebanda-mersin-baligi-ve-havyar-uretimi-hedef-100-ton-4874697",
       "publishedAt": "2026-11-20T07:21:26.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T07:34:26.176Z"
+      "sourceTextAttemptedAt": "2026-11-21T07:44:22.555Z"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
@@ -9849,7 +9892,7 @@
       "publishedAt": "2026-11-18T12:14:28.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T19:04:25.874Z",
+      "imageSearchAttemptedAt": "2026-11-21T07:44:22.555Z",
       "sourceTextAttemptedAt": "2026-11-18T12:44:48.013Z"
     },
     {
@@ -10532,7 +10575,7 @@
       "publishedAt": "2026-11-18T09:02:36.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T19:14:26.960Z",
+      "imageSearchAttemptedAt": "2026-11-21T07:44:22.555Z",
       "sourceTextAttemptedAt": "2026-11-19T12:14:39.605Z"
     },
     {
@@ -13874,46 +13917,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-20T15:07:28.972Z"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
-      "headline": "Cezaevinden çıktı annesini darbederek öldürdü",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1677233860259-ce1a8e0f8498?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2V6YWV2aW5kZW4lMjAlQzMlQTclQzQlQjFrdCVDNCVCMSUyMGFubmVzaW5pJTIwZGFyYmVkZXJlayUyMCVDMyVCNmxkJUMzJUJDcmQlQzMlQkN8ZW58MXwwfHx8MTc5NTAwNjQ5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Çağlar Oskay",
-        "photographerUrl": "https://unsplash.com/@oskaycaglar",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-destroyed-building-mmLtohu4qmE"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Samsun'da kan donduran bir olay yaşandı. Cezaevinden iki ay önce çıktığı ve çok sayıda suç kaydı bulunduğu öğrenilen 38 yaşındaki N.G., birlikte yaşadığı annesi İftadiye Gürgün'ü darbederek öldürdü. Olayın ardından gözaltına alınan şüpheliyle ilgili soruşturma başlatıldı.",
-      "highlights": [],
-      "externalUrl": "https://www.yenisafak.com/gundem/samsunda-annesini-darbederek-olduren-ng-gozaltinda-4873201",
-      "publishedAt": "2026-11-16T19:58:07.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T12:54:27.569Z"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/mersinde-firari-hukumlu-arkadasinin-evinde-yakalandi-4873199",
-      "headline": "Yüzünü estetik operasyonla değiştiren firari yakalandı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1743000332522-c0cd8b66b8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8WSVDMyVCQ3olQzMlQkNuJUMzJUJDJTIwZXN0ZXRpayUyMG9wZXJhc3lvbmxhJTIwZGUlQzQlOUZpJUM1JTlGdGlyZW4lMjBmaXJhcmklMjB5YWthbGFuZCVDNCVCMXxlbnwxfDB8fHwxNzk1MDA3MDk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mahmut Yıldız",
-        "photographerUrl": "https://unsplash.com/@iammahmutyildiz",
-        "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Mersin'de hırsızlık ve dolandırıcılık suçlarından hakkında 15 yıl 9 ay kesinleşmiş hapis cezası bulunan firari hükümlü R.B., saklandığı arkadaşının ikametinde yakalandı. Ekipler, hükümlünün tanınmamak için yüzüne estetik operasyon yaptırdığını tespit etti.",
-      "highlights": [],
-      "externalUrl": "https://www.yenisafak.com/gundem/mersinde-firari-hukumlu-arkadasinin-evinde-yakalandi-4873199",
-      "publishedAt": "2026-11-16T19:49:49.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T13:04:31.016Z"
     }
   ],
   "rejectedIds": [
