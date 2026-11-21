@@ -691,6 +691,8 @@
     display: flex; align-items: center; gap: 10px; margin-bottom: 20px;
     color: var(--text-secondary); font-size: 13.5px; flex-wrap: wrap;
   }
+  .source-citation { display:inline-flex; align-items:center; gap:7px; max-width:100%; margin:-8px 0 18px; padding:9px 12px; border:1px solid var(--divider); border-radius:10px; color:var(--accent-blue); background:var(--card); font-size:12px; font-weight:750; text-decoration:none; }
+  .source-citation:hover { border-color:var(--accent-blue); text-decoration:underline; }
   .source-avatar {
     width: 30px; height: 30px; border-radius: 50%; background: var(--navy); color: #fff;
     display: flex; align-items: center; justify-content: center; font-weight: 800; font-size: 13px; flex-shrink: 0;
@@ -1137,6 +1139,14 @@ function timeAgo(iso) {
 function escapeHtml(s) {
   return (s || '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
+function safeHttpUrl(value) {
+  try {
+    const url = new URL(String(value || ''), location.href);
+    return ['https:', 'http:'].includes(url.protocol) ? url.href : null;
+  } catch {
+    return null;
+  }
+}
 
 const CORE_CATEGORIES = [
   { name:'Gündem', icon:'article', color:'#E66B25' },
@@ -1178,7 +1188,7 @@ const EXPLORE_IMAGE_TERMS = {
   'Ekonomi': ['altin', 'borsa', 'enflasyon', 'faiz', 'ekonomi', 'dolar', 'yatirim', 'finans', 'butce', 'piyasa'],
   'Teknoloji': ['teknoloji', 'yapay zeka', 'siber', 'nvidia', 'yazilim', 'telefon', 'bilgisayar', 'cip', 'robot', 'openai'],
   'Spor': ['spor', 'futbol', 'basketbol', 'voleybol', 'tenis', 'euroleague', 'fifa', 'mac', 'takim', 'oyuncu'],
-  'Sağlık': ['saglik', 'hastane', 'doktor', 'hastalik', 'tedavi', 'ilac', 'asI', 'kanser', 'salgIn', 'hasta'],
+  'Sağlık': ['saglik', 'hastane', 'doktor', 'hastalik', 'tedavi', 'ilac', 'asi', 'kanser', 'salgin', 'hasta'],
   'Bilim': ['bilim', 'arastirma', 'kesif', 'nasa', 'uzay', 'deney', 'fosil', 'astronomi', 'iklim', 'universite'],
   'Kültür & Sanat': ['kultur', 'sanat', 'sergi', 'konser', 'festival', 'tiyatro', 'sinema', 'film', 'muzik', 'kitap'],
   'Yaşam': ['yasam', 'hava durumu', 'meteoroloji', 'turizm', 'seyahat', 'tatil', 'yemek', 'moda', 'otel', 'hayvan'],
@@ -1306,7 +1316,7 @@ function cardHtml(a) {
   const mins = readingTime(a.body);
   const bookmarked = isBookmarked(a.id);
   return `
-    <div class="card ${a.imageUrl ? '' : 'no-image'}" data-id="${a.id}">
+    <div class="card ${a.imageUrl ? '' : 'no-image'}" data-id="${escapeHtml(a.id)}">
       <div class="card-media">
         ${cardImage(a, 'thumb')}
         <div class="scrim"></div>
@@ -1469,7 +1479,7 @@ function relatedWidgetHtml(currentArticle) {
   return `<div class="widget-card">
     <div class="widget-title"><span class="msr">link</span>İlgili Haberler</div>
     ${items.map(a => `
-      <div class="trend-item" data-id="${a.id}">
+      <div class="trend-item" data-id="${escapeHtml(a.id)}">
         ${cardImage(a, 'related-thumb')}
         <div class="trend-info">
           <h4>${escapeHtml(a.headline)}</h4>
@@ -1672,7 +1682,7 @@ function renderHome() {
   const gridItems = rest.slice(4);
 
   const feature = `<div class="featured">
-    <div class="featured-main" data-id="${top.id}">
+    <div class="featured-main" data-id="${escapeHtml(top.id)}">
       ${top.imageUrl ? `<img class="featured-cover" data-news-cover data-category="${escapeHtml(canonicalCategory(top.category))}" src="${escapeHtml(top.imageUrl)}" alt="">` : categoryIllustrationHtml(top.category, 'featured-cover-fallback')}
       <div class="grad"></div>
       <div class="content">
@@ -1682,9 +1692,9 @@ function renderHome() {
       </div>
     </div>
     <div class="featured-side">
-      <div class="featured-side-title"><span class="msr">bolt</span>Öne Çıkanlar</div>
+      <div class="featured-side-title"><span class="msr">schedule</span>Son Haberler</div>
       ${sideItems.map((a, i) => `
-        <div class="side-card" data-id="${a.id}">
+        <div class="side-card" data-id="${escapeHtml(a.id)}">
           <div class="num">${i + 1}</div>
           ${cardImage(a, 'thumb')}
           <div class="info">
@@ -1695,7 +1705,8 @@ function renderHome() {
     </div>
   </div>`;
 
-  const shortcutCategories = [...new Set(allArticles.map(a => canonicalCategory(a.category)).filter(Boolean))].slice(0, 8);
+  const shortcutCategories = CORE_CATEGORIES.map(item => item.name)
+    .filter(name => categoryArticles(name).length > 0).slice(0, 8);
   const shortcutIcon = category => {
     const value = category.toLocaleLowerCase('tr-TR');
     if (value.includes('ekonomi')) return 'trending_up';
@@ -1716,7 +1727,7 @@ function renderHome() {
     </a>`).join('')}
   </nav>` : '';
 
-  let main = `<div class="section-title">Son Dakika</div>`;
+  let main = `<div class="section-title">Güncel Haber Akışı</div>`;
   if (gridItems.length > 0) main += pagedFeedHtml(gridItems, 'home');
 
   const html = `${feature}${shortcuts}<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
@@ -1959,6 +1970,7 @@ function openArticle(id) {
       <div class="source-avatar"><span class="msr" style="font-size:16px">newspaper</span></div>
       <span class="source-name">${SITE_NAME}</span> · <span class="time-tag"><span class="msr">schedule</span>${timeAgo(a.publishedAt)}</span> · <span class="time-tag"><span class="msr">menu_book</span>${readingTime(a.body)} dk okuma</span>
     </div>
+    ${safeHttpUrl(a.externalUrl) ? `<a class="source-citation" href="${escapeHtml(safeHttpUrl(a.externalUrl))}" target="_blank" rel="noopener noreferrer"><span class="msr">open_in_new</span>Kaynak: ${escapeHtml(a.originalSource || a.source || 'Orijinal yayın')}</a>` : ''}
 
     ${a.highlights && a.highlights.length > 0 ? `
       <div class="ai-summary">
@@ -2202,7 +2214,7 @@ function renderCmdkResults(q) {
     return;
   }
   results.innerHTML = items.map(a => `
-    <div class="cmdk-item" data-id="${a.id}">
+    <div class="cmdk-item" data-id="${escapeHtml(a.id)}">
       ${a.imageUrl ? `<img data-news-cover data-category="${escapeHtml(canonicalCategory(a.category))}" src="${escapeHtml(a.imageUrl)}" alt="">` : categoryIllustrationHtml(a.category)}
       <div>
         <div class="cmdk-item-title">${escapeHtml(a.headline)}</div>
@@ -2241,6 +2253,12 @@ function paintTickerHeadline() {
   const track = document.getElementById('tickerTrack');
   if (!track || allArticles.length === 0) return;
   const breaking = allArticles.filter(a => a.isBreaking || canonicalCategory(a.category) === 'Son Dakika');
+  const liveBadge = document.querySelector('.live-badge');
+  if (liveBadge) {
+    liveBadge.innerHTML = breaking.length
+      ? '<span class="msr">bolt</span>Son Dakika'
+      : '<span class="msr">schedule</span>Güncel Haberler';
+  }
   const items = (breaking.length ? breaking : allArticles).slice(0, 6);
   const a = items[tickerIndex % items.length];
   tickerIndex++;
@@ -2276,7 +2294,7 @@ async function renderBellDropdown() {
     el.innerHTML = subscribeRow + '<div class="bell-empty">Henüz haber yok.</div>';
   } else {
     el.innerHTML = subscribeRow + '<div class="bell-title">Son Haberler</div>' + allArticles.slice(0, 5).map(a => `
-    <div class="bell-item" data-id="${a.id}">
+    <div class="bell-item" data-id="${escapeHtml(a.id)}">
       <div class="bell-item-title">${escapeHtml(a.headline)}</div>
       <div class="bell-item-meta">${timeAgo(a.publishedAt)}</div>
     </div>`).join('');
