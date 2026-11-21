@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-21T12:24:33.779Z",
+  "generatedAt": "2026-11-21T12:34:30.112Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
+      "headline": "Çiğdem Batur hakkında soruşturma başlatıldı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı. Oyuncu Çiğdem Batur, geçen günler Sultanahmet Camisi'nden yaptığı paylaşımda kullandığı “ayak kokusu” ve “rezil oluyoruz” ifadeleri tepki çekmişti. İstanbul Cumhuriyet Başsavcılığı, Batur hakkında resen soruşturma başlatıldığını duyurdu. “AŞAĞILAYICI NİTELİK” Başsavcılık'ın açıklamasında \"Söz…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
+      "publishedAt": "2026-11-21T12:32:26.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+      "headline": "Anthropic Çalışanı Yapay Zeka Desteğiyle Riemann Hipotezi'ni Çözdüğünü İddia Etti",
+      "source": "NPR",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
+      "imageUrl": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGh8ZW58MXwwfHx8MTc5NTI2NDQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Growtika",
+        "photographerUrl": "https://unsplash.com/@growtika",
+        "unsplashUrl": "https://unsplash.com/photos/an-abstract-image-of-a-sphere-with-dots-and-lines-nGoCBxiaRO0"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Yapay zeka devi Anthropic'te görev yapan bir matematikçi, şirketin yapay zeka aracı Claude'un yardımıyla önemli bir matematik problemini çözdüğünü öne sürdü. Şirketin teknik kadrosunda yer alan Levent Alpöge, web sitesinde yayımladığı dört sayfalık bir açıklamayla Riemann Hipotezi'ne dair bir kanıt bulduğunu duyurdu.\n\nAlpöge, Claude ile birlikte çalıştıklarını ve son çizgide yapay zekanın kendisini geride bıraktığını belirtti. 1859 yılında formüle edilen Riemann Hipotezi, asal sayıların sonsuza giderken nasıl dağıldığı üzerine odaklanıyor.\n\nKeşfinin ardından Anthropic CEO'su Dario Amodei'ye duyuru yapabilmek için mesaj attığını belirten Alpöge, bu açıklamayı şirketin tarihindeki en büyük halka arzın gerçekleştiği dönemin hemen ardından yaptı. Anthropic, iddiayla ilgili Associated Press'in e-postasın yanıt vermedi.\n\nAlpöge ve Claude'un kanıtı, matematiksel teoremlerin programlanmasını sağlayan Lean kodunun 17 milyon satırı içinde yayımlandı. Rutgers Üniversitesi'nden matematik profesörü Alex Kontorovich, Claude'un kodu takip ederek kanıtın doğru olduğunu söylediğini belirtti. Clay Mathematics Institute başkanı Martin Bridson, sorunun çözülüp çözülmediğinin değerlendirilmesinin zaman alacağını ifade etti. Enstitü, hipotezi 2000 yılında Yedi Millennium Ödül Problemi'nden biri olarak seçmiş ve 1 milyon dolar ödül koymuştu. Açıklamanın ardından Riemann Hipotezi enstitünün web sitesinde hala çözülmemiş olarak listelenmeye devam etti. Eylül ayında da OpenAI, Navier-Stokes denkleminde benzer bir yapay zeka başarısına imza atıldığını duyurmuştu. Tüm bu gelişmeler, Anthropic'in rekor kıran 81 milyar dolarlık halka arzının ardından yaşandı.",
+      "highlights": [
+        "Anthropic çalışanı Levent Alpöge, Claude yardımıyla Riemann Hipotezi'ni çözdüğünü iddia etti.",
+        "İddia, 17 milyon satırlık Lean kodu ile web sitesinde paylaşıldı.",
+        "Clay Mathematics Institute, çözümün değerlendirilmesinin zaman alacağını belirtti."
+      ],
+      "externalUrl": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
+      "publishedAt": "2026-11-21T12:30:16.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/saglik/uzmani-sessiz-tehlikeye-karsi-uyardi-3496190",
       "headline": "Uzmanı 'sessiz tehlikeye' karşı uyardı",
@@ -27,19 +67,25 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "headline": "Zelensky Kırım Köprüsü saldırılarını 'adil yanıt' olarak nitelendirdi",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "3 dk önce",
-      "body": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "highlights": [],
+      "body": "Ukrayna Devlet Başkanı Volodimir Zelensky, Rusya'yı işgal altındaki Kırım'a bağlayan kritik köprüyü hedef alan saldırıların, Ukrayna'daki köprülere yönelik 109 ayrı Rus saldırısına karşı \"adil bir yanıt\" olduğunu savundu. Zelensky, Kiev'de BBC'ye yaptığı açıklamada, Kırım Köprüsü'ne düzenlenen saldırıların ardından Rusya'nın yoğun saldırılarla karşılık vermesinin Vladimir Putin'in savaşı durdurmak istemediğinin ve tırmandırma bahçesi aradığının sinyali olduğunu belirtti.\n\nPutin'in Çin'de köprünün yalnızca sivil amaçlı kullanıldığı yönündeki iddiasını reddeden Zelensky, internette tankların ve diğer Rus askeri teçhizatının tedarik hattı olarak bu güzergahı kullandığını gösteren kanıtlar bulunduğunu ifade etti. Rusya'nın Şubat 2022'de tam kapsamlı işgal başlattığını hatırlatan Zelensky, bu açıklamaları İngiltere Savunma Bakanı Wes Streeting ile Kiev'de yapacağı görüşme öncesinde gerçekleştirdi.\n\nZiyaret sırasında Streeting, Avrupa'nın Ukrayna'ya desteğinde birlik içinde olduğunu göstermek için Kiev'de bulunduğunu vurguladı. Putin'in bölmeye çalıştıkça kendilerinin daha kararlı hale geldiğini belirten Streeting, Cuma günü askeri tatbikat sırasında Polonya'yı vuran Rus füzelerini \"öfke uyandıran bir provokasyon\" olarak nitelendirdi ve Putin'i \"soğukkanlı bir katil\" olarak tanımladı.\n\nÖte yandan Finlandiya Savunim Bakanlığı, cumartesi günü yaptığı açıklamada, Doğu Finlandiya Körfezi'ndeki uluslararası deniz alanında bir Rus ticaret gemisine drone saldırısı tespit edildiğini ve geminin hasar gördüğünü bildirdi. Açıklamada bölgede geçici havacılık ve denizcilik kısıtlamalarının yeniden getirildiği belirtilirken, Rusya konuya ilişkin henüz kamuoyuna bir açıklama yapmadı.",
+      "highlights": [
+        "Zelensky Kırım Köprüsü saldırılarını Ukrayna'daki köprülere yönelik Rus saldırılarına 'adil yanıt' olarak savundu.",
+        "İngiltere Savunma Bakanı Wes Streeting, Avrupa'nın Ukrayna'ya desteğini göstermek üzere Kiev'i ziyaret etti.",
+        "Finlandiya, Doğu Finlandiya Körfezi'ndeki uluslararası sularda bir Rus ticaret gemisine drone saldırısı düzenlendiğini bildirdi."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T12:20:55.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T12:34:20.382Z",
+      "imageSearchAttemptedAt": "2026-11-21T12:34:20.382Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sivasta-polis-memurunun-dikkati-yurekleri-isitti-4875194",
@@ -3530,7 +3576,7 @@
       "publishedAt": "2026-11-20T12:13:21.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z",
+      "sourceTextAttemptedAt": "2026-11-21T12:34:20.382Z",
       "isBreaking": false
     },
     {
@@ -14546,52 +14592,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T08:54:32.635Z",
       "sourceTextAttemptedAt": "2026-11-18T14:24:29.574Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Alman Dışişleri Bakanı Wadephul Azerbaycan'da Putin'i eleştirdi: Egemen devletler istemiyor",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "10 dk önce",
-      "body": "Almanya Dışişleri Bakanı Johann Wadephul, Rusya'nın baskısı altındaki Azerbaycan ve Ermenistan'ı ziyaret ederek temaslarda bulunuyor. Bakü'de Azerbaycan Cumhurbaşkanı İlham Aliyev tarafından kabul edilen ve Azeri mevkidaşı Ceyhun Bayramov ile bir araya gelen Wadephul, temaslarının ardından Erivan'da Ermenistan Başbakanı Nikol Paşinyan ve Dışişleri Bakanı Ararat Mizoryan ile görüşecek.\n\nAzerbaycan Cumhurbaşkanlığı tarafından yapılan açıklamada, Aliyev ile Alman heyeti arasındaki görüşmede iki ülke ilişkilerinin başarıyla geliştiği belirtildi. Görüşmede, temmuz ayında imzalanan stratejik belgelerin yanı sıra yatırımlar, ulaştırma, lojistik ve turizm alanındaki iş birliği ele alındı. Ayrıca bu yıl Azerbaycan gazının Almanya'ya ihracatının başladığı hatırlatılarak, ülkenin Avrupa'nın enerji güvenliğine ve Orta Koridor'daki rolüne vurgu yapıldı.\n\nBakü'deki temasları öncesinde Rusya'yı eleştiren Alman Bakan Wadephul, Moskova'yı bölge halklarının geleceği pahasına Güney Kafkasya'daki nüfuzunu korumaya çalışmakla suçladı. Wadephul, Rusya Devlet Başkanı Vladimir Putin'in egemen devletlerden oluşan bir Avrupa düzeni istemediğini ifade etti.\n\nWadephul'un gündeminde doğal gaz ve petrol tedarikinin yanı sıra Güney Kafkasya'nın ticaret ve enerji potansiyeli de yer aldı. Bakan, yarınki Erivan ziyaretinde Ermenistan'ın Avrupa Birliği'ne yakınlaşması ile Azerbaycan ve Türkiye ile ilişkilerinin normalleşmesini ele alacak. Ermenistan ve Azerbaycan, Ağustos 2025'te ABD Başkanı Donald Trump'ın arabuluculuğunda barış anlaşması metni üzerinde uzlaşmış ancak anlaşma henüz imzalanmamıştı.",
-      "highlights": [
-        "Almanya Dışişleri Bakanı Johann Wadephul, Bakü'de Cumhurbaşkanı İlham Aliyev ve mevkidaşı Ceyhun Bayramov ile görüştü.",
-        "Wadephul, Rusya Devlet Başkanı Putin'i egemen devletlerden oluşan bir Avrupa düzeni istememekle eleştirdi.",
-        "Görüşmelerde enerji tedariki, yatırımlar ve Güney Kafkasya'daki iş birliği imkanları ele alındı."
-      ],
-      "externalUrl": "https://www.dw.com/tr/alman-dışişleri-bakanı-wadephul-azerbaycan-da-putin-i-eleştirdi-egemen-devletler-istemiyor/a-79972496?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-11-17T15:27:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T09:14:29.224Z",
-      "sourceTextAttemptedAt": "2026-11-18T14:34:27.988Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
-      "headline": "Trump'tan İran'a Washington tehdidi uyarısı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1612278920639-cfbae3835fee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NDkyOTEwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "History in HD",
-        "photographerUrl": "https://unsplash.com/@historyhd",
-        "unsplashUrl": "https://unsplash.com/photos/2-men-in-black-suit-sitting-on-red-chair-05QvOWAzN3I"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Başkan Donald Trump, İran'ın Washington'a saldırı planları üzerinde çalıştığı yönündeki CNN haberine yanıt verdi.",
-      "highlights": [
-        "Trump, İran'ın Washington'a yönelik planlarına tepki gösterdi",
-        "Açıklama bir CNN haberinin ardından geldi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
-      "publishedAt": "2026-11-17T15:13:57.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T14:54:43.585Z",
       "isBreaking": false
     }
   ],
