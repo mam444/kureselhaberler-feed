@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-21T12:15:07.622Z",
+  "generatedAt": "2026-11-21T12:24:33.779Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/saglik/uzmani-sessiz-tehlikeye-karsi-uyardi-3496190",
+      "headline": "Uzmanı 'sessiz tehlikeye' karşı uyardı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1743000332522-c0cd8b66b8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VXptYW4lQzQlQjElMjAlMjdzZXNzaXolMjB0ZWhsaWtleWUlMjclMjBrYXIlQzUlOUYlQzQlQjElMjB1eWFyZCVDNCVCMXxlbnwxfDB8fHwxNzk1MjYzODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mahmut Yıldız",
+        "photographerUrl": "https://unsplash.com/@iammahmutyildiz",
+        "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
+      },
+      "timeAgo": "şimdi",
+      "body": "Kayseri Devlet Hastanesi Acil Servis Sorumlusu Uzman Doktor Mürsel Koçer, kış aylarının gelmesiyle birlikte artan karbonmonoksit zehirlenmelerine karşı vatandaşları uyardı. Koçer, karbonmonoksitin renksiz, kokusuz ve tatsız olması nedeniyle fark edilmesinin güç olduğunu ve son derece tehlikeli bir gaz olduğunu belirtti.\n\nKoçer, gazın yakıtların tam yanmaması sonucu kapalı ve yeterince havalandırılmayan ortamlarda ortaya çıktığını ifade etti. Solunum yoluyla vücuda giren gazın kanın oksijen taşıma kapasitesini düşürerek beyin ve kalp başta olmak üzere hayati organlarda ciddi hasara yol açabileceğini kaydetti.\n\nZehirlenme belirtileri arasında sıradan baş ağrısı, halsizlik, baş dönmesi, bulantı ve yorgunluk yer alırken; durumun ilerlemesiyle kusma, göğüs ağrısı, nefes darlığı, bilinç bulanıklığı ve bayılma gibi yaşamı tehdit eden tabloların gelişebileceği bildirildi. Aynı evde yaşayan birden fazla kişide eş zamanlı bu belirtilerin görülmesinin önemli bir uyarı işareti olduğu vurgulandı.\n\nBasit önlemlerle zehirlenmelerin büyük ölçüde engellenebileceğini belirten Koçer, soba ve bacaların düzenli temizletilmesi, kombi ile şofbenlerin yıllık kontrollerinin yaptırılması, kapalı ortamlarda mangal ve jeneratör gibi cihazların kullanılmaması ve evlerde karbonmonoksit dedektörleri bulundurulması gerektiğini kaydetti. Şüphe durumunda kişinin güvenli bir şekilde temiz havaya çıkarılması ve vakit kaybetmeden acil çağrı merkezinin aranması gerektiği ifade edildi.",
+      "highlights": [
+        "Uzman Doktor Mürsel Koçer, karbonmonoksit gazının renksiz, kokusuz ve tatsız olduğunu belirtti.",
+        "Zehirlenmenin ilk belirtileri arasında baş ağrısı, halsizlik, baş dönmesi ve bulantı yer alıyor.",
+        "Soba ve bacaların düzenli temizliği ile cihaz kontrollerinin yapılması önem taşıyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/saglik/uzmani-sessiz-tehlikeye-karsi-uyardi-3496190",
+      "publishedAt": "2026-11-21T12:25:02.000Z",
+      "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "headline": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T12:20:55.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/sivasta-polis-memurunun-dikkati-yurekleri-isitti-4875194",
       "headline": "Bursa'da şehit kabirlerinde karekod dönemi başlatıldı",
@@ -23,7 +63,8 @@
       "publishedAt": "2026-11-21T12:14:25.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T12:24:20.240Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/formula1/formula-1-heyecani-las-vegasta-pole-pozisyonu-antonellinin-3496185",
@@ -3552,15 +3593,15 @@
       "timeAgo": "şimdi",
       "body": "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'in açıklamalarına sosyal medya hesabından yanıt verdi. Erakçi, Leiter'in ABD askerlerinin İran'ın yenilgiye uğratılmasının ardından dönebileceği yönündeki sözlerini alıntılayarak tepki gösterdi.\n\nLeiter, bir televizyon kanalına verdiği röportajda ABD'nin İran'a karşı yeni ve kapsamlı bir saldırı başlatması durumunda İsrail'in bu saldırılara katılacağını ifade etmişti. İran'ın Batı medeniyetini hedef aldığını öne süren Leiter, Tahran yönetiminin devrilmesi gerektiğini savunmuştu.\n\nİsrailli büyükelçi, saldırı kararının Trump'a ait olduğunu belirterek Amerikalı askerlerin İran'ın yenilgiye uğramasıyla ailelerinin yanına dönebileceğini öne sürmüştü. İran'ın İsrail için varoluşsal bir tehdit oluşturduğunu iddia eden Leiter, Sovyetler Birliği gibi İran yönetiminin de çökeceğini savunmuştu.",
       "highlights": [
-        "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'in açıklamalarına sosyal medyadan yanıt verdi.",
-        "Erakçi, Leiter'in sözlerini alıntılayarak \"İsrail’in Washington Büyükelçisi’nin ABD Silahlı Kuvvetleri Başkomutanı olduğunu bilmiyorduk\" dedi.",
-        "Leiter, ABD'nin İran'a saldırı başlatması halinde İsrail'in de katılacağını belirtmişti."
+        "İran Dışişleri Bakanı Abbas Erakçi, İsrailli büyükelçinin sözlerine sosyal medyadan yanıt verdi.",
+        "İsrail'in Washington Büyükelçisi Yechiel Leiter, ABD'nin İran'a karşı saldırı başlatması halinde İsrail'in de katılacağını söylemişti.",
+        "Leiter, Amerikalı askerlerin İran yenilgiye uğradığında dönebileceğini savunmuştu."
       ],
       "externalUrl": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
       "publishedAt": "2026-11-20T12:06:52.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:15:13.836Z",
+      "sourceTextAttemptedAt": "2026-11-21T12:24:20.240Z",
       "isBreaking": false
     },
     {
@@ -14552,58 +14593,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T14:54:43.585Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/spor/kulupler-birligi-baskani-ertugrul-dogan-yayin-ihalesinde-beklentimiz-500-milyon-dolar-3928032",
-      "headline": "\"İhaleden beklentimiz 500 milyon dolar\"",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1731393792092-f26f8a30e56b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8JTIyJUM0JUIwaGFsZWRlbiUyMGJla2xlbnRpbWl6JTIwNTAwJTIwbWlseW9uJTIwZG9sYXIlMjJ8ZW58MXwwfHx8MTc5NDk5MzI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "David Trinks",
-        "photographerUrl": "https://unsplash.com/@dtrinksrph",
-        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-money-sitting-on-top-of-a-table-v2bTNjp71Wg"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Kulüpler Birliği Vakfı tarafından bir otelde düzenlenen Futbol Zirvesi'nin ardından basın mensuplarının sorularını yanıtlayan Kulüpler Birliği Vakfı Başkanı Ertuğrul Doğan, Süper Lig naklen yayın ihalesine ilişkin değerlendirmelerde bulundu. Doğan, kulüplerin mali sıkıntılarının çok büyük olduğunu vurgulayarak yayın ihalesinde beklentilerinin Göksel Gümüşdağ dönemindeki 500 milyon dolar seviyesine yeniden ulaşmak olduğunu belirtti.\n\nToplantıda kulüplerin ekonomik durumuna ve vergi oranlarına da değinen Ertuğrul Doğan, mevcut oransal vergi oranlarının tüm kulüpler için çok yüksek olduğunu ifade etti. Stopaj konusunun amatör sporlar için olmazsa olmaz olduğunu hatırlatan Doğan, Cumhurbaşkanı Recep Tayyip الله'ın (metne sadık kalınarak: Sayın Cumhurbaşkanımızın) geçmişteki talimatlarıyla hayata geçirilen bu desteğin azalan rakamları için yeniden randevu talep edip konuyu görüşeceklerini kaydetti.\n\nDoğan, naklen yayın ihalesinde hedeflenen 500 milyon dolarlık bedelin güncel kur üzerinden olacağını belirtti. Ayrıca Türk futbolunun gelişimi için vizyon ortaya koyulması gerektiğini ifade eden Doğan, kulüplerin naklen yayın komisyonunun federasyon ve firmalarla görüşmelerini sürdürdüğünü aktardı.\n\nA Milli Futbol Takımı'na ilişkin de konuşan Ertuğrul Doğan, alınan sonuçların ardından milli futbolculara destek olunması gerektiğini vurguladı. Teknik Direktör Sergen Yalçın'ın takıma vizyon katacağına inandığını belirten Doğan, iki maç üzerinden bir değerlendirme yapmanın mantıklı olmadığını dile getirdi.",
-      "highlights": [
-        "Yayın ihalesinde beklentimiz 500 milyon dolar seviyesine gelmek.",
-        "Mevcut vergi oranlarının ve stopajın durumu için Cumhurbaşkanından randevu isteyeceğiz.",
-        "İki maçta bir Milli Takım'ı değerlendirmek mantıklı değil, destek olmalıyız."
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/kulupler-birligi-baskani-ertugrul-dogan-yayin-ihalesinde-beklentimiz-500-milyon-dolar-3928032",
-      "publishedAt": "2026-11-17T15:12:56.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T09:14:20.983Z",
-      "sourceTextAttemptedAt": "2026-11-18T15:24:31.948Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-yogun-trafik-yuzde-76ya-ulasti-7702605",
-      "headline": "İstanbul'da akşam saatlerinde yoğun trafik! Yüzde 76'ya ulaştı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1734761654305-ad52f1608ce0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8JUM0JUIwc3RhbmJ1bCUyN2RhJTIwYWslQzUlOUZhbSUyMHNhYXRsZXJpbmRlJTIweW8lQzQlOUZ1biUyMHRyYWZpayUyMSUyMFklQzMlQkN6ZGUlMjA3NiUyN3lhJTIwdWxhJUM1JTlGdCVDNCVCMXxlbnwxfDB8fHwxNzk0OTkzODgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anil Baki Durmus",
-        "photographerUrl": "https://unsplash.com/@anldrms",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-a-tall-building-G6o_frpXC0o"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "D-100 kara yolunun Avcılar, Küçükçekmece, Bahçelievler, Bakırköy ve Zeytinburnu kesimlerinde, ayrıca Beyoğlu ve Beşiktaş'taki caddelerde​​​​​​​ trafik yoğunluğu meydana geldi. TEM Otoyolu'nda, Esenler ve Bağcılar ile bağlantı yollarında ulaşımda aksamalar yaşanıyor. Anadolu Yakası'nda ise D-100 kara yolunda, Üsküdar, Kadıköy, Ataşehir, Maltepe, Kartal ve Pendik'te araçlar güçlükle seyrediyor. TEM Otoyolu'nda…",
-      "highlights": [
-        "İstanbul'da genel trafik yoğunluğu yüzde 76'ya ulaştı.",
-        "D-100 kara yolu ve TEM Otoyolu'nun her iki yakasındaki çeşitli noktalarda ulaşım aksıyor.",
-        "Toplu taşıma kullanan vatandaşlar duraklarda ve aktarma merkezlerinde sıra bekliyor."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/istanbulda-aksam-saatlerinde-yogun-trafik-yuzde-76ya-ulasti-7702605",
-      "publishedAt": "2026-11-17T15:12:37.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T09:24:31.048Z",
-      "sourceTextAttemptedAt": "2026-11-18T15:24:31.948Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
