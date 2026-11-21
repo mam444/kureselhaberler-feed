@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T16:55:08.127Z",
+  "generatedAt": "2026-11-21T17:04:33.761Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/rtukten-televizyon-gunu-kutlamasi-televizyon-yuzde-82-ile-en-takip-edilen-mecra-haberde-en-guvenilir-kaynak-3496245",
+      "headline": "RTÜK'ten Televizyon Günü kutlaması: \"Televizyon yüzde 82 ile en takip edilen mecra, haberde en güvenilir kaynak\"",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1651465531201-7e430660fd82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dGVsZXZpc2lvbiUyMHN0dWRpb3xlbnwxfDB8fHwxNzk1MjgwNjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Brad Weaver",
+        "photographerUrl": "https://unsplash.com/@bweaver",
+        "unsplashUrl": "https://unsplash.com/photos/a-room-with-a-camera-and-equipment-qhamVJdrkRs"
+      },
+      "timeAgo": "şimdi",
+      "body": "Radyo ve Televizyon Üst Kurulu (RTÜK), 21 Kasım Dünya Televizyon Günü dolayısıyla kutlama mesajları yayımladı. RTÜK Başkanı Mehmet Daniş, teknolojisi zamanla değişse de televizyonun sevinçlerin, hüzünlerin ve tarihe tanıklık edilen anların taşıyıcısı olmaya devam ettiğini vurguladı.\n\nDaniş, Üst Kurul'un Medyametre 2025 araştırmasının sonuçlarını paylaştı. Araştırmaya göre televizyon, yüzde 82,5 oranla en çok takip edilen mecra olurken, haber kaynaklarına duyulan güvende de ilk sırada yer aldı. Daniş, bu güvenin sorumluluğunu taşıyan yayıncı kuruluş yöneticilerine ve ekran arkasındaki çalışanlara teşekkür etti.\n\nRadyo ve Televizyon Üst Kurul Üyesi Hasan Davulcu da konuyla ilgili açıklama yaptı. Davulcu, daralan reklam gelirleri ve zorlaşan rekabet koşullarının sektörü yakından ilgilendirdiğini belirterek, güçlü ve sürdürülebilir bir yayıncılık için tüm paydaşlar arasında iş birliği ve dayanışmanın önemine inandıklarını kaydetti.",
+      "highlights": [
+        "RTÜK Başkanı Mehmet Daniş, Medyametre 2025 araştırmasının sonuçlarını paylaştı.",
+        "Televizyon, yüzde 82,5 ile en çok takip edilen mecra ve haberde en güvenilir kaynak oldu.",
+        "RTÜK Üyesi Hasan Davulcu, daralan reklam gelirleri ve rekabet koşullarına dikkat çekti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/rtukten-televizyon-gunu-kutlamasi-televizyon-yuzde-82-ile-en-takip-edilen-mecra-haberde-en-guvenilir-kaynak-3496245",
+      "publishedAt": "2026-11-21T17:05:45.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/yuksekovada-30-yillik-ayakkabi-ustaligi-fabrikasyona-karsi-el-emegini-yasatiyor-3496244",
       "headline": "Yüksekova'da 30 yıllık ayakkabı ustalığı! Fabrikasyona karşı el emeğini yaşatıyor",
@@ -91,6 +115,30 @@
       "externalUrl": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
       "publishedAt": "2026-11-21T16:41:49.000Z",
       "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "headline": "Anthropic matematikçisi, 19. yüzyıldan kalma Riemann hipotezini kanıtlamak için Claude'u kullandığını iddia etti",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGhlbWF0aWNzfGVufDF8MHx8fDE3OTUyNTc4NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Steve A Johnson",
+        "photographerUrl": "https://unsplash.com/@steve_j",
+        "unsplashUrl": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "Anthropic şirketinde görev yapan Türk asıllı Amerikan matematikçi Levent Alpöge, kişisel internet sitesinde yaptığı açıklamada, yapay zeka aracı Claude'un 19. yüzyıldan kalma Riemann hipotezinin kanıtlanmasına yardımcı olduğunu öne sürdü. Alpöge, asal sayılarla ilgili bu matematik problemini çözmek için yapay zeka yazılımını kullandığının yaklaşık altı hafta sürdüğünü belirtti. Alpöge, bulguların doğrulanabileceğini savunduğu Lean adlı bir dille yazılmış bilgisayar koduna da yer verdi. İddianın doğrulanması durumunda bu gelişmenin karmaşık matematik problemlerinde yapay zeka kullanımı açısından önemli bir dönüm noktası olabileceği ifade ediliyor. Ancak bazı matematikçilerin, son derece karlı özel şirketlerin bu tür teknolojilere milyonlarca dolar harcamasından duydukları rahatsızlığı dile getirdiği de belirtildi.\n\nAlpöge, notunu Anthropic'in Nasdaq borsa endeksinde halka açılmasından yalnızca bir gün sonra yayımladı. Zamanlamanın kötü olduğunu belirten Alpöge, elinde olsaydı çalışmayı çok daha erken bitirmek istediğini kaydetti. Alman matematikçi Bernhard Riemann tarafından 1859'da öne sürülen Riemann hipotezi, asal sayıların sıklığını ve sayı doğrusu üzerindeki dağılımını ele alan yaklaşık 170 yıllık bir matematik problemi olarak biliniyor. Bu problem, Clay Matematik Enstitüsü tarafından 2000 yılında seçilen yedi Milenyum ödüllü matematik probleminden biri olma özelliği taşıyor ve enstitü çözülen her problem için 1 milyon dolar teklif ediyor. Öte yandan, İtalya'daki bağımsız matematikçi Alessandro Masullo'nun da yapay zekaya güvenmediği gerekçesiyle AI kullanmadan üzerinde çalıştığı eksik bir kanıtı cuma günü yayımladığı bildirildi. Diğer bazı matematikçiler de yapay zekaya güvenmenin rahatsızlık yarattığını belirtirken, bu durumun dev teknoloji şirketlerinin modellerini sergilemek için kaynak tüketmesi olarak eleştirildiği aktarıldı. Alpöge'nin iddiası sonrasında matematikçiler bulguların doğrulanıp doğrulanamayacağını incelemeye başladı.",
+      "highlights": [
+        "Anthropic matematikçisi Levent Alpöge, Claude yazılımının yardımıyla Riemann hipotezini kanıtladığını öne sürdü.",
+        "Alpöge, bulguların doğrulanabileceğini belirttiği Lean dilinde yazılmış bilgisayar kodunu paylaştı.",
+        "Riemann hipotezi, 1859'da Bernhard Riemann tarafından öne sürülen ve Clay Matematik Enstitüsü'nün Milenyum ödüllü problemleri arasında yer alan yaklaşık 170 yıllık bir matematik problemidir."
+      ],
+      "externalUrl": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "publishedAt": "2026-11-21T16:39:49.000Z",
+      "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3768,7 +3816,7 @@
       "publishedAt": "2026-11-20T16:27:16.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T16:34:28.979Z",
+      "sourceTextAttemptedAt": "2026-11-21T17:04:24.356Z",
       "isBreaking": true
     },
     {
@@ -14586,55 +14634,6 @@
       "publishedAt": "2026-11-17T18:28:16.000Z",
       "category": "Ekonomi",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
-      "headline": "Jensen Huang, Önümüzdeki Ay ABD Temsilciler Meclisi Komitelerinde İfade Verecek",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1629670858824-41bf77d366d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SmVuc2VuJTIwSHVhbmclMjB0byUyMHRlc3RpZnklMjBiZWZvcmUlMjBVUyUyMEhvdXNlJTIwY29tbWl0dGVlcyUyMG5leHQlMjBtb250aHxlbnwxfDB8fHwxNzk0OTQwNDczfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Adam Michael Szuscik",
-        "photographerUrl": "https://unsplash.com/@adammichael",
-        "unsplashUrl": "https://unsplash.com/photos/us-a-flag-on-white-concrete-building-P8P-P0x7RkI"
-      },
-      "timeAgo": "20 dk önce",
-      "body": "Nvidia CEO'su Jensen Huang, şirket yönetim kurulunun kendisini yeniden göreve çağırması durumunda bu pozisyona dönmeye hazır olduğunu açıkladı. Gelişmeler kapsamında Huang'ın, önümüzdeki ay ABD Temsilciler Meclisi komiteleri önünde ifade vermesi bekleniyor. Kaynak metinde paylaşılan sınırlı bilgiler doğrultusunda, söz konusu duruşmanın detaylarına veya gündemine ilişkin başka bir ayrıntıya yer verilmedi.",
-      "highlights": [
-        "Jensen Huang önümüzdeki ay ABD Temsilciler Meclisi komitelerinde ifade verecek.",
-        "Huang, yönetim kurulu istemesi halinde Nvidia CEO'su olarak dönmeye hazır olduğunu belirtti."
-      ],
-      "externalUrl": "https://www.aljazeera.com/economy/2026/11/17/jensen-huang-to-testify-before-us-house-committees-next-month?traffic_source=rss",
-      "publishedAt": "2026-11-17T18:14:06.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T19:00:38.899Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/bakan-kurum-alman-mevkidasi-schneider-ile-gorustu-3494503",
-      "headline": "Bakan Kurum, Alman mevkidaşı Schneider ile görüştü",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1570095378004-ce65d6c2d5bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NDkzOTIwN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/people-gathered-outside-buildings-holding-climate-justice-now-signage-dYZumbs8f_E"
-      },
-      "timeAgo": "şimdi",
-      "body": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Almanya Federal Çevre, İklim Eylemi, Doğa Koruma ve Nükleer Güvenlik Bakanı Carsten Schneider ile bir araya geldi.\n\nBakan Kurum, görüşmeyle ilgili sosyal medya hesabı üzerinden yaptığı açıklamada, Antalya'da güçlü bir diyalog zemininde uluslararası temasların sürdüğünü belirtti.\n\nKurum ve Schneider, iklim kriziyle mücadeleyi hızlandıracak ortak adımlar üzerine görüş alışverişinde bulundu.",
-      "highlights": [
-        "Bakan Kurum, Alman mevkidaşı Schneider ile bir araya geldi",
-        "Görüşme Antalya'da gerçekleştirildi",
-        "İklim kriziyle mücadelede ortak adımlar ele alındı"
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/bakan-kurum-alman-mevkidasi-schneider-ile-gorustu-3494503",
-      "publishedAt": "2026-11-17T18:13:13.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-17T18:14:25.354Z",
       "isBreaking": false
     }
   ],
