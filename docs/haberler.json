@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T13:34:32.652Z",
+  "generatedAt": "2026-11-21T13:44:41.575Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/cankirida-5-aracin-karistigi-zincirleme-trafik-kazasi-meydana-geldi-7705159",
+      "headline": "Çankırı'da 5 aracın karıştığı zincirleme trafik kazası meydana geldi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1673187139181-795761a40ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTUyNjg2Nzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Malik",
+        "photographerUrl": "https://unsplash.com/@usmanbim94",
+        "unsplashUrl": "https://unsplash.com/photos/two-cars-parked-next-to-each-other-in-a-parking-lot-cbXfPEOc1-k"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Çankırı'da D-100 kara yolu Çardaklı mevkisinde zincirleme bir trafik kazası yaşandı. Edinilen bilgilere göre, İ.D. yönetimindeki 52 AFR 577 plakalı otomobil, trafikte yavaşlama yaşanması üzerine durdu.\n\nBu sırada aynı istikamette seyir halinde olan A.Ö. idaresindeki 04 ABL 897 plakalı araç, K.T. yönetimindeki 54 KT 543 plakalı araç, K.B. idaresindeki 52 ACL 134 plakalı araç ve M.S.M. yönetimindeki yabancı plakalı araçlar birbirleriyle çarpıştı.\n\nBeş aracın karıştığı zincirleme kaza sonucunda araçlarda maddi hasar oluştuğu bildirildi. Kazanın ardından olay yerine ve detaylara ilişkin başka bir açıklama yapılmadı.",
+      "highlights": [
+        "Çankırı'da D-100 kara yolu Çardaklı mevkisinde 5 araç çarpıştı",
+        "Kazada araçlarda maddi hasar meydana geldi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/cankirida-5-aracin-karistigi-zincirleme-trafik-kazasi-meydana-geldi-7705159",
+      "publishedAt": "2026-11-21T13:42:33.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/antalyada-trafik-kisitlamalari-kaldirildi-4875222",
       "headline": "Antalya'da trafik kısıtlamaları kaldırıldı",
@@ -16,14 +39,15 @@
       "body": "Antalya'da, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Expo Bulvarı'nda uygulanan trafik kısıtlamaları sona erdi. Antalya Valiliği tarafından yapılan açıklamaya göre, Aksu ilçesindeki COP31 etkinlik alanı çevresinde trafik düzenini sağlamak ve ulaşımın güvenli şekilde sürmesini temin etmek amacıyla tedbirler alınmıştı.\n\nBu kapsamda, 10 Kasım tarihinden itibaren Expo Kavşağı ile Kumköy Kavşağı arasındaki Expo Bulvarı'nda yol kapatma ve trafik kısıtlamaları uygulanmaya başlanmıştı. Valilik açıklamasında, söz konusu güzergahtaki yol kapatma ve trafik kısıtlamalarının 21 Kasım itibarıyla kaldırıldığı bildirildi.",
       "highlights": [
         "Antalya'da COP31 kapsamında uygulanan trafik kısıtlamaları kaldırıldı.",
-        "Kısıtlamalar Expo Kavşağı ile Kumköy Kavşağı arasındaki Expo Bulvarı'nda uygulanıyordu.",
-        "Yol kapatma ve trafik kısıtlamaları 21 Kasım itibarıyla sona erdirildi."
+        "Kısıtlamalar Expo Kavşağı ile Kumköy Kavşağı arasındaki Expo Bulvarı'nda 10 Kasım'dan itibaren uygulanıyordu.",
+        "Yol kapatma ve kısıtlamalar 21 Kasım itibarıyla sona erdi."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/antalyada-trafik-kisitlamalari-kaldirildi-4875222",
       "publishedAt": "2026-11-21T13:33:00.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:44:32.075Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/kocaelide-saganak-hayati-felc-etti-degirmenderede-yollar-gole-dondu-3496202",
@@ -194,6 +218,29 @@
       "externalUrl": "https://www.cnnturk.com/turkiye/boludan-iskocyaya-uzanan-73-yillik-bitki-koleksiyonu-universitede-korunuyor-3496194",
       "publishedAt": "2026-11-21T12:51:15.000Z",
       "category": "Eğitim",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+      "headline": "Rusya NATO'nun Doğu Savunmalarını Test Ediyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1655706443789-7682c46bcb8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlzc2lsZSUyMFBvbGFuZCUyME5BVE98ZW58MXwwfHx8MTc5NTI2ODY3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Marek Studzinski",
+        "photographerUrl": "https://unsplash.com/@jccards",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-medals-tfGs3q5QJy4"
+      },
+      "timeAgo": "54 dk önce",
+      "body": "Cuma günü Polonya'ya iki Rus füzesi ve şüpheli bir dron düştü. Polonya Başbakanı Donald Tusk, bu olayın ülkede Ukrayna'daki olası bir savaş sonrası misyon için düzenlenen Avrupa askerî tatbikatlarıyla aynı zamana denk getirilen muhtemel bir \"kasıtlı provokasyon\" olduğunu ifade etti. Yaşanan bu gelişmelerin ardından Londra'daki King's College'da Çatışma ve Güvenlik Kıdemli Öğretim Üyesi olan Domitilla Sagramoso konuyla ilgili değerlendirmelerde bulundu. Olay, NATO sınırlarındaki gerilimin artış gösterdiği bir dönemde gerçekleşti.",
+      "highlights": [
+        "Cuma günü Polonya'ya iki Rus füzesi ve şüpheli bir dron düştü",
+        "Başbakan Donald Tusk olayı olası bir kasıtlı provokasyon olarak nitelendirdi"
+      ],
+      "externalUrl": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+      "publishedAt": "2026-11-21T12:50:35.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3622,7 +3669,7 @@
       "timeAgo": "şimdi",
       "body": "THY EuroLeague'in 13. haftasında Anadolu Efes, taraftarı önünde Fransa temsilcisi LDLC ASVEL'i konuk ediyor. Karşılaşma, 20 Kasım 2026 Cuma akşamı saat 20.30'da Turkcell Basketbol Gelişim Merkezi'nde oynanacak.\n\nLacivert-beyazlı ekip, geride kalan haftalardaki istikrarsız sonuçları telafi ederek üst sıralara yaklaşmayı ve iç saha avantajıyla önemli bir galibiyet almayı hedefliyor. Konuk ekip ASVEL ise alt sıralardan uzaklaşma mücadelesi veriyor. İki takımın sezon hedefleri açısından önem taşıyan bu kritik mücadele S Sport ve S Sport Plus ekranlarından canlı olarak yayınlanacak.",
       "highlights": [
-        "Anadolu Efes, THY EuroLeague 13. hafta maçında LDLC ASVEL'i ağırlayacak.",
+        "Anadolu Efes, THY EuroLeague 13. hafta maçında LDLC ASVEL ile karşı karşıya gelecek.",
         "Karşılaşma 20 Kasım 2026 Cuma günü saat 20.30'da Turkcell Basketbol Gelişim Merkezi'nde oynanacak.",
         "Mücadele S Sport ve S Sport Plus ekranlarından canlı olarak yayınlanacak."
       ],
@@ -3630,7 +3677,7 @@
       "publishedAt": "2026-11-20T13:25:43.000Z",
       "category": "Spor",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T13:34:29.037Z",
+      "sourceTextAttemptedAt": "2026-11-21T13:44:32.075Z",
       "isBreaking": false
     },
     {
@@ -8827,7 +8874,7 @@
       "category": "Türkiye",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T08:43:40.229Z",
-      "imageSearchAttemptedAt": "2026-11-21T07:24:26.533Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:44:32.075Z",
       "isBreaking": true
     },
     {
@@ -9095,7 +9142,7 @@
       "publishedAt": "2026-11-19T07:32:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T07:34:17.167Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:44:32.075Z",
       "isBreaking": false
     },
     {
@@ -14573,53 +14620,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T07:04:26.681Z",
       "sourceTextAttemptedAt": "2026-11-18T10:34:52.308Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
-      "headline": "Bakan Kurum: Antalya'da geleceğimiz adına önemli kararlar alalım istiyoruz",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1612880982970-75cce3c96587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QmFrYW4lMjBLdXJ1bSUzQSUyMEFudGFseWElMjdkYSUyMGdlbGVjZSVDNCU5RmltaXolMjBhZCVDNCVCMW5hJTIwJUMzJUI2bmVtbGklMjBrYXJhcmxhciUyMGFsYWwlQzQlQjFtJTIwaXN0aXlvcnV6fGVufDF8MHx8fDE3OTQ5ODQyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Süheyl Burak",
-        "photographerUrl": "https://unsplash.com/@suheylburak",
-        "unsplashUrl": "https://unsplash.com/photos/black-and-white-car-on-road-during-daytime-0t5CY6jcsu0"
-      },
-      "timeAgo": "21 dk önce",
-      "body": "Bakan Kurum, \"Eylem Gündemini ilerletebilmek, bugün geldiğimiz noktayı daha yukarıya taşıyabilmek amacıyla bir Örtü Karar alacağımızı ifade etmiştik. Buna ilişkin ilk taslak metni yayınladık, geri dönüşleri aldık. İkinci taslak metni de yarın paylaşacağız. Hep birlikte istişare edeceğiz ve istiyoruz ki Antalya'da bir şeyler değişsin\" dedi.",
-      "highlights": [],
-      "externalUrl": "https://www.trthaber.com/haber/cevre/bakan-kurum-antalyada-gelecegimiz-adina-onemli-kararlar-alalim-istiyoruz-963592.html",
-      "publishedAt": "2026-11-17T15:47:00.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T06:44:26.194Z",
-      "sourceTextAttemptedAt": "2026-11-18T10:32:58.658Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
-      "headline": "CHP'de Kongre Takvimi Değişti: Yeni Tarihler Belli Oldu",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1668706971199-37e30a4e6298?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2FsJTIwbWVldGluZ3xlbnwxfDB8fHwxNzk0ODM3MzM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jon Tyson",
-        "photographerUrl": "https://unsplash.com/@jontyson",
-        "unsplashUrl": "https://unsplash.com/photos/a-sign-on-a-wall-A8BWoNvljVA"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Cumhuriyet Halk Partisi (CHP) Genel Merkezi, il ve ilçe kongrelerine ilişkin takvimde değişikliğe gitti. 11 Kasım'da gerçekleştirilen Merkez Yönetim Kurulu (MYK) toplantısında alınan kararlar doğrultusunda revize edilen takvim, 17 Kasım 2026 tarihinde il ve ilçe başkanlıklarına gönderilen yazıyla bildirildi. Düzenlemenin, örgütlerden gelen yoğun talepler üzerine yapıldığı belirtildi.\n\nAlınan kararla birlikte üye çizelgelerinin askıya çıkarılma süresi uzatıldı. Yeni takvime göre üye çizelgeleri, 12 Kasım 2026 ile 16 Ocak 2027 tarihleri arasında yedi gün süreyle askıya çıkarılacak. Askı sürecinde yapılacak itirazlar ilçe yönetim kurullarınca değerlendirilirken, bu kararlara yönelik itirazlar il yönetim kurullarında sonuçlandırılacak. Kesin üye çizelgelerinin gönderilmesine 25 Kasım'da başlanacak.\n\nGüncellenen takvime göre ilçe kongresi delege seçimleri 28 Kasım 2026 tarihinde başlayacak ve 21 Şubat 2027'de tamamlanacak. Kesin üye çizelgelerinin ilçe başkanlıklarına gönderilmesi için son tarih ise 24 Ocak 2027 olarak belirlendi.\n\nİlçe kongrelerinin 27 Şubat 2027 tarihinde başlaması ve 28 Mart 2027'de sona ermesi kararlaştırıldı. İlçe kongrelerinin tamamlanmasının ardından ise il kongreleri süreci devreye girecek.\n\nCHP'nin yayımladığı güncel takvime göre il kongreleri 3 Nisan 2027'de başlayacak ve 2 Mayıs 2027'de tamamlanacak. Kongre süreçlerinin ardından yapılacak olan kurultayın tarihi ise Parti Meclisi tarafından belirlenecek.",
-      "highlights": [
-        "CHP il ve ilçe kongre takvimini güncelledi.",
-        "Üye çizelgelerinin askı süreci 16 Ocak 2027'ye kadar uzatıldı.",
-        "İlçe kongreleri 27 Şubat'ta, il kongreleri ise 3 Nisan 2027'de başlayacak."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/chp-genel-merkezi-il-ve-ilce-kongrelerinin-takvimini-guncelledi-3928039",
-      "publishedAt": "2026-11-17T15:46:40.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T10:54:42.397Z",
       "isBreaking": false
     }
   ],
