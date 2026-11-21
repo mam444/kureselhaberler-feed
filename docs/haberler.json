@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T13:14:39.515Z",
+  "generatedAt": "2026-11-21T13:24:27.824Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/kocaelide-saganak-hayati-felc-etti-degirmenderede-yollar-gole-dondu-3496202",
+      "headline": "Kocaeli'de sağanak hayatı felç etti! Değirmendere'de yollar göle döndü",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1535916707207-35f97e715e1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zmxvb2QlMjBzdHJlZXQlMjBUdXJrZXl8ZW58MXwwfHx8MTc5NTI2NzQ2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emre",
+        "photographerUrl": "https://unsplash.com/@reo",
+        "unsplashUrl": "https://unsplash.com/photos/buildings-beside-calm-body-of-water-PjjMG6VyHs4"
+      },
+      "timeAgo": "şimdi",
+      "body": "Kocaeli'nin Gölcük ilçesinde etkili olan kuvvetli sağanak yağış günlük yaşamı olumsuz etkiledi. Yağışın şiddetini artırmasıyla birlikte özellikle Değirmendere bölgesinde rögarlar taştı. Yaşanan bu durum sonucunda sahil şeridi, cadde ve sokaklar su altında kaldı.\n\nOluşan yoğun su birikintileri nedeniyle sürücüler trafikte ilerlemekte büyük güçlük çekti. Seyir halindeki ve park halindeki çok sayıda araç yolda kalarak su içerisinde kaldı.\n\nSu baskınları sebebiyle bazı vatandaşlar evlerinden çıkamadı ve bölgede günlük yaşam aksadı. Yağışın etkileri Gölcük genelinde ve Değirmendere'de hissedildi.",
+      "highlights": [
+        "Kocaeli'nin Gölcük ilçesinde kuvvetli sağanak hayatı olumsuz etkiledi.",
+        "Değirmendere bölgesinde rögarların taşmasıyla cadde, sokak ve sahil şeridini su bastı.",
+        "Su birikintileri nedeniyle çok sayıda araç yolda kaldı ve bazı vatandaşlar evlerinden çıkamadı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/kocaelide-saganak-hayati-felc-etti-degirmenderede-yollar-gole-dondu-3496202",
+      "publishedAt": "2026-11-21T13:27:27.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+      "headline": "Chaudhary, skandal gölgesindeki hazırlık maçında Avustralya'nın İngiltere'yi yenmesini sağladı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1607734834519-d8576ae60ea6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y3JpY2tldCUyMG1hdGNofGVufDF8MHx8fDE3OTUyNjc0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "𓆩𝐀𝕕เℓ𓆪",
+        "photographerUrl": "https://unsplash.com/@beingaheart",
+        "unsplashUrl": "https://unsplash.com/photos/people-sitting-on-bench-on-green-grass-field-during-daytime-W5o5EFH_RQ4"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Avustralya, Melbourne'de oynanan karşılaşmada İngiltere'yi üç wicket farkla mağlup etmeyi başardı. Skandal iddialarının gölgesindeki T20 hazırlık mücadelesinde zafere giden yolu açan isim Nikhil Chaudhary oldu.\n\nKarşılaşmanın sonucunu belirleyen kritik performans, Chaudhary'den geldi. Başarılı oyuncu kaydettiği 66 sayıyla takımının galibiyet yükünü sırtladı ve hücumdaki çabaları yönetti.\n\nMücadele büyük bir çekişmeye sahne olurken, Avustralya zorlu engeli son aşamada aştı. Ekip, maçı yalnızca bir top kala kazanmayı başardı. Bu sonuçla Avustralya, serideki iddialı duruşunu gösterdi.",
+      "highlights": [
+        "Nikhil Chaudhary 66 sayı kaydetti",
+        "Avustralya İngiltere'yi üç wicket farkla yendi",
+        "Maç yalnızca bir top kala bitti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+      "publishedAt": "2026-11-21T13:08:59.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/finans-haberler/bitcoinde-sert-dusus-24-saatte-2-4-milyar-dolarlik-pozisyon-tasfiye-edildi-3496195",
       "headline": "Bitcoin'de sert düşüş: 24 saatte 2,4 milyar dolarlık pozisyon tasfiye edildi",
@@ -3574,15 +3622,15 @@
       "timeAgo": "şimdi",
       "body": "İstanbul'un Eyüpsultan ilçesinde iki İETT otobüsünün karıştığı kazada 4 kişi yaralandı. Olay, 20 Kasım 2026 tarihinde saat 10.00 sıralarında Sakarya Mahallesi Silahtarağa Caddesi üzerinde gerçekleşti.\n\nEdinilen bilgilere göre kaza, durağa yanaşma manevrası yapan bir İETT otobüsüne, arkadan gelen bir başka İETT otobüsünün çarpması sonucunda meydana geldi. \n\nÇarpışmanın ardından çevredeki vatandaşların ihbarı üzerine olay yerine çok sayıda sağlık ve polis ekibi sevk edildi. Sağlık görevlilerinin olay yerindeki ilk kontrollerinde, kazada yaralandığı tespit edilen 3 yolcu ile 1 otobüs şoförü ambulanslarla hastaneye sevk edildi.\n\nKaza nedeniyle aksayan trafik, kazaya karışan otobüslerin yoldan kaldırılmasıyla normale döndü. Yaşanan olayla ilgili olarak resmi inceleme başlatıldığı bildirildi. DHA kaynaklı haberde başka bir ayrıntıya yer verilmedi.",
       "highlights": [
-        "Eyüpsultan’da iki İETT otobüsü çarpıştı",
-        "Kazada 3 yolcu ve 1 otobüs şoförü yaralandı",
-        "Yaralılar ambulansla hastaneye kaldırıldı"
+        "Eyüpsultan'da durağa yanaşan İETT otobüsüne arkadan gelen başka bir İETT otobüsü çarptı.",
+        "Kazada 3 yolcu ve 1 otobüs şoförü olmak üzere toplam 4 kişi yaralandı.",
+        "Yaralılar ambulanslarla hastaneye kaldırılırken, kazayla ilgili inceleme başlatıldı."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/eyupsultanda-2-iett-otobusu-carpisti-4-yarali-3495840",
       "publishedAt": "2026-11-20T13:09:16.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T13:14:34.282Z",
+      "sourceTextAttemptedAt": "2026-11-21T13:24:20.552Z",
       "isBreaking": false
     },
     {
@@ -4021,7 +4069,7 @@
       "publishedAt": "2026-11-20T11:12:12.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T11:24:35.154Z",
+      "sourceTextAttemptedAt": "2026-11-21T13:24:20.552Z",
       "isBreaking": false
     },
     {
@@ -7438,7 +7486,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:04:24.086Z",
-      "imageSearchAttemptedAt": "2026-11-21T07:04:24.867Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:24:20.552Z",
       "isBreaking": false
     },
     {
@@ -7681,7 +7729,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T13:04:31.029Z",
-      "imageSearchAttemptedAt": "2026-11-21T07:14:26.571Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:24:20.552Z",
       "isBreaking": false
     },
     {
@@ -14567,53 +14615,6 @@
       "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z",
       "sourceTextAttemptedAt": "2026-11-18T11:54:40.640Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms",
-      "headline": "Urban Zulu and '100 Reasons to Stay Single in Lagos': Telling African stories on their own terms",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1787779350658-ee53ac6e5b4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VXJiYW4lMjBadWx1JTIwYW5kJTIwJTI3MTAwJTIwUmVhc29ucyUyMHRvJTIwU3RheSUyMFNpbmdsZSUyMGluJTIwTGFnb3MlMjclM0ElMjBUZWxsaW5nJTIwQWZyaWNhbiUyMHN0b3JpZXMlMjBvbiUyMHRoZWlyJTIwb3duJTIwdGVybXN8ZW58MXwwfHx8MTc5NDk4NzI2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ben Iwara",
-        "photographerUrl": "https://unsplash.com/@1hundredimages",
-        "unsplashUrl": "https://unsplash.com/photos/woman-in-blue-jacket-in-lagos-CTj5W3zAU78"
-      },
-      "timeAgo": "30 dk önce",
-      "body": "Africa's creative industries are attracting growing international attention, from fashion and film to television and music. But as African stories reach audiences around the world, a bigger question is emerging: who gets to tell those stories, and who gets to shape how the continent is seen? At FAME Week Africa in Cape Town, arts24 met some of the creatives driving that conversation.",
-      "highlights": [],
-      "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261117-urban-zulu-and-100-reasons-to-stay-single-in-lagos-telling-african-stories-on-their-own-terms",
-      "publishedAt": "2026-11-17T15:44:37.000Z",
-      "category": "Kültür & Sanat",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:34:14.812Z",
-      "sourceTextAttemptedAt": "2026-11-18T12:14:55.737Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
-      "headline": "Rus askeri nakliye uçağı Sibirya'da düştü: 17 kişi hayatını kaybetti",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1580532224583-df27f865580b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWlsaXRhcnklMjB0cmFuc3BvcnQlMjBhaXJwbGFuZXxlbnwxfDB8fHwxNzk0OTMwMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nick Morales",
-        "photographerUrl": "https://unsplash.com/@sixty7pixels",
-        "unsplashUrl": "https://unsplash.com/photos/gray-and-black-jet-plane-in-mid-air-during-daytime-gR9sjk4Cpm0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Rusya'nın Kemerovo bölgesindeki Yahunovo köyü yakınlarında bir uçak kazası meydana geldi. Kemerovo Bölge Valisi İlya Seredyuk olay yerinde acil servis ekiplerinin çalıştığını bildirdi. Rus basınında yer alan haberlere göre düşen An-12 tipi uçakta 17 kişi bulunuyordu.",
-      "highlights": [
-        "Kemerovo bölgesinde An-12 tipi askeri nakliye uçağı düştü",
-        "Kazada mürettebatla birlikte 19 kişi yaşamını yitirdi",
-        "İlk belirlemelere göre kaza teknik arızadan kaynaklandı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/rus-askeri-nakliye-ucagi-sibiryada-dustu-17-kisi-oldu-7702610",
-      "publishedAt": "2026-11-17T15:43:44.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T12:25:05.772Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
