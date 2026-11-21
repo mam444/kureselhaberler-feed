@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T19:34:30.421Z",
+  "generatedAt": "2026-11-21T19:54:35.272Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/piknik-kabusa-dondu-mantar-yedikten-sonra-fenalasan-5-kisiden-1i-oldu-7705294",
+      "headline": "Piknik kabusa döndü: Mantar yedikten sonra fenalaşan 5 kişiden 1’i öldü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1782912402671-4237aaae120e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bXVzaHJvb20lMjBwaWNuaWN8ZW58MXwwfHx8MTc5NTI5MDg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "An Shved",
+        "photographerUrl": "https://unsplash.com/@anshved",
+        "unsplashUrl": "https://unsplash.com/photos/womans-hand-taking-a-pizza-slice-from-a-box-WqPzJA7jvXc"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Dün Ahmetcik Mesire Alanı’nda yaşanan olayda, ilçede yaşayan 5 kişi ormandan topladıkları mantarları mangalda pişirip yedi. Bir süre sonra Ali Çiğdem’in rahatsızlanması üzerine diğerleri durumu yetkililere bildirdi ve olay yerine acil sağlık ekipleri sevk edildi. Ali Çiğdem ile birlikte toplam 5 kişi ambulanslarla Çivril Şehit Hilmi Öz Devlet Hastanesine kaldırıldı. Hastanede durumu ağırlaşan Ali Çiğdem, yapılan tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti.\n\nOlayda durumu ağırlaşan 52 yaşındaki Engin K. Denizli Devlet Hastanesi’ne sevk edilirken, 67 yaşındaki Devrim K., 55 yaşındaki Adem E. ve 52 yaşındaki Tacettin T.’in sağlık durumlarının iyi olduğu ancak gözlem altında tutuldukları bildirildi. Hayatını kaybeden Ali Çiğdem'in cenazesi, otopsi işlemleri için Adli Tıp Kurumu Denizli Grup Başkanlığı morguna götürüldü. Polis ekiplerinin olayla ilgili başlattığı soruşturma devam ediyor.",
+      "highlights": [
+        "Ormandan toplanan mantarları yiyen 5 kişiden Ali Çiğdem hayatını kaybetti.",
+        "Engin K. Denizli Devlet Hastanesi’ne sevk edilirken diğer 3 kişinin durumu iyi ve gözlem altında.",
+        "Polis olayla ilgili soruşturma başlattı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/piknik-kabusa-dondu-mantar-yedikten-sonra-fenalasan-5-kisiden-1i-oldu-7705294",
+      "publishedAt": "2026-11-21T19:48:32.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
       "headline": "Ticaret Bakanlığı'ndan yanıltıcı reklama 1 milyon 83 bin lira ceza",
@@ -13,17 +37,18 @@
         "unsplashUrl": "https://unsplash.com/photos/white-apple-earpods-on-pink-surface-bkwKvGBO_jE"
       },
       "timeAgo": "6 dk önce",
-      "body": "Ticaret Bakanlığı, bir zincir markete \"Hep Ucuz\" sloganıyla yayımlanan ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen reklamları nedeniyle 1 milyon 83 bin lira para cezası verdi. Ticaret Bakanlığı Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan, Reklam Kurulu tarafından incelenen reklamların, marketteki tüm ürünlerin her zaman ucuz olduğu algısı yarattığını ancak bu iddianın kanıtlanamadığını bildirdi.\n\nBakanlık tarafından yapılan incelemelerde, temel tüketim ürünleri baz alınarak yedi zincir markette fiyat karşılaştırmaları yapıldı. İnceleme sonucunda, ilgili marketin tüm ürünlerinin sürekli ucuz olduğuna dair yeterli bilgi ve belgeye ulaşılamadı. Şirketin daha sonra yaklaşık 500 temel tüketim ürünü üzerinden 10 zincir marketi kapsayan karşılaştırmalar yaptığı belirtilse de, bu çalışmalar da söz konusu iddiayı doğrulamadı.\n\nÖte yandan, daha önce reklamları durdurma kararı verilmesine rağmen bu reklamların şirketin sanal medya hesabında yayımlanmaya devam ettiği tespit edildi. Reklam Kurulu, yanıltıcı nitelikteki bu reklamlar sebebiyle ilgili zincir markete 1 milyon 83 bin 706 lira idari para cezası kesilmesine ve reklamların durdurulmasına karar verdi.\n\nBekir Kaplan, Bakanlık olarak tüketicilerin doğru bilgilendirilmesi, yanıltıcı reklamlarla mücadele edilmesi ve adil piyasa koşullarının korunması amacıyla denetimlerin kararlılıkla sürdürüldüğünü vurguladı.",
+      "body": "Ticaret Bakanlığı, bir zincir marketin yayımladığı ve tüketicinin fiyat algısını bozucu nitelikte değerlendirilen reklamları incelemeye aldı. Reklam Kurulu tarafından yapılan incelemelerde, marketin kullandığı \"Hep Ucuz\" ifadesinin tüketicilerde her ürünün her zaman ucuz olduğu algısı yarattığı ancak bu iddiayı doğrulayacak yeterli bilgi ve belgenin sunulamadığı belirlendi.\n\nBakanlık Basın ve Halkla İlişkiler Müşaviri Bekir Kaplan'ın yaptığı açıklamaya göre, 7 zincir markette gerçekleştirilen fiyat karşılaştırmalarında süt, çay, un, pirinç, ayçiçek yağı, yumurta, tavuk, bebek maması, bebek bezi ve deterjan gibi temel tüketim ürünleri incelendi. Yapılan incelemeler sonucunda, ilgili marketin tüm ürünlerinin sürekli ucuz olduğuna dair bir bulguya ulaşılamadı.\n\nŞirketin daha sonra yaklaşık 500 temel tüketim ürünü üzerinden 10 zincir marketi kapsayan fiyat karşılaştırmaları yaptığı belirtilmesine rağmen, bu çalışmaların da \"Hep Ucuz\" iddiasını doğrulamadığı ifade edildi. Ayrıca, daha önce reklamları durdurma kararı alınmış olmasına rağmen söz konusu reklamların şirketin sanal medya hesabında yayımlanmaya devam ettiği tespit edildi.\n\nYaşanan bu gelişmelerin ardından Reklam Kurulu, yanıltıcı ve fiyat algısını bozucu nitelikteki reklamlar nedeniyle ilgili zincir markete 1 milyon 83 bin 706 lira idari para cezası verilmesini ve reklamların durdurulmasını kararlaştırdı. Bakanlık yetkilileri, tüketicilerin doğru bilgilendirilmesi ve adil piyasa koşullarının korunması amacıyla denetimlerin kararlılıkla sürdürüldüğünü vurguladı.",
       "highlights": [
-        "\"Hep Ucuz\" iddiasını doğrulayacak yeterli bilgi ve belge sunulamadı",
-        "Zincir markete 1 milyon 83 bin 706 lira idari para cezası uygulandı",
-        "Daha önce durdurma kararı verilmesine rağmen reklamların yayımlanmaya devam ettiği belirlendi"
+        "Ticaret Bakanlığı bir zincir markete 1 milyon 83 bin 706 lira ceza verdi.",
+        "\"Hep Ucuz\" iddiasını doğrulayacak yeterli bilgi ve belgenin sunulamadığı belirlendi.",
+        "Durdurma kararına rağmen reklamların sanal medyada yayımlanmaya devam ettiği tespit edildi."
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/ticaret-bakanligindan-yaniltici-reklama-1-milyon-83-bin-lira-ceza-hep-ucuz-iddiasi-dogrulanamadi-1751964",
       "publishedAt": "2026-11-21T19:28:33.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T19:54:28.071Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/tugba-ozay-zeytinyagi-fiyatini-yuksek-bulanlari-elestirdi-4875289",
@@ -168,6 +193,30 @@
       ],
       "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
       "publishedAt": "2026-11-21T19:00:08.000Z",
+      "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "headline": "Bondi'deki 'temiz' güzellik markasının dudak parlatıcısı lansmanındaki sigaralar incelemeye alındı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1631214524115-9942bf927d4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bGlwJTIwZ2xvc3MlMjBjaWdhcmV0dGVzfGVufDF8MHx8fDE3OTUyOTA4NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ashley Piszek",
+        "photographerUrl": "https://unsplash.com/@missswiss",
+        "unsplashUrl": "https://unsplash.com/photos/pink-lipstick-on-pink-surface-QM77NRAFVOg"
+      },
+      "timeAgo": "54 dk önce",
+      "body": "\"Cilt tahriş edicilerden arındırılmış\" temiz içerikler vadettiğini belirten Avustralyalı bir güzellik şirketi, sahil kenarındaki bir dudak parlatıcısı lansmanında konuklara sigara sunduğu görüldüğü için eyalet sağlık düzenleyicilerine sevk edildi. Sydney'in Bondi semtinde kasım ayı başlarında düzenlenen bir etkinlikten paylaşılan fotoğraflarda, gümüş bir tepsi üzerinde sağlık uyarısı içermeyen gevşek sigaraların bir kase dudak parlatıcısının yanında sergilendiği görüldü.\n\nCopini Beauty'nin resmi Instagram hesabından yapılan paylaşımlarda, markaya ait kibrit kutuları, dudak parlatıcıları ve şarap kadehlerinin yanı sıra sigara olduğu görülen ürünlerin sergilendiği belirtildi. Etkinlik, influencer Casey James ve ürün geliştiricisi Carla McGraw tarafından ortaklaşa kurulan Copini markasına ait.\n\nAvustralya yasalarına göre tütün ürünlerinin reklamını yapmak veya bunları teşvik etmek, ayrıca işletmelerin ücretsiz tütün ürünü sunması veya dağıtması yasaklanmıştır. Lansmanda yer alan sigaraların filtrelerinde zorunlu grafik sağlık uyarılarının bulunmadığı ve yasa dışı tütün ürünlerinde yaygın olan Manchester markası ambalajını taşıdığı görüldü.\n\nNew South Wales (NSW) Sağlık Bakanı'nın sözcüsü, durumun NSW Sağlık Düzenleme ve Uygulama Merkezi'ne sevk edildiğini belirtti. Federal sağlık departmanından bir sözcü ise tütün kullanımını özendiren veya normalleştiren reklamlardan dolayı derin endişe duyduklarını ifade etti.\n\nFederal yasalara göre tütün reklamcılığı veya sponsorluğunun bireyler için 728.000 dolara, şirketler için ise 7,2 milyon dolara kadar cezası bulunuyor. Copini şirketi ise konuyla ilgili yorum taleplerine yanıt vermedi. Sydney Üniversitesi'nden tütün kontrolü profesörü Becky Freeman, popüler kültürde ve yerel etkinliklerde sigaranın yeniden görülmesinin şoke edici olduğunu belirtti.",
+      "highlights": [
+        "Copini Beauty'nin lansmanındaki görüntüler incelemeye sevk edildi",
+        "Sigaraların üzerinde zorunlu sağlık uyarılarının yer almadığı görüldü",
+        "Federal ve eyalet yetkilileri tütün promosyonlarına karşı derin endişe duyduklarını belirtti"
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+      "publishedAt": "2026-11-21T19:00:07.000Z",
       "category": "Sağlık",
       "isBreaking": false,
       "lang": "tr"
@@ -3716,7 +3765,7 @@
       "publishedAt": "2026-11-20T18:51:26.000Z",
       "category": "Eğitim",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T19:24:22.320Z",
+      "sourceTextAttemptedAt": "2026-11-21T19:54:28.071Z",
       "isBreaking": false
     },
     {
@@ -10067,7 +10116,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
-      "imageSearchAttemptedAt": "2026-11-21T13:34:25.389Z",
+      "imageSearchAttemptedAt": "2026-11-21T19:54:28.071Z",
       "isBreaking": false
     },
     {
@@ -10284,7 +10333,7 @@
       "publishedAt": "2026-11-19T09:10:03.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T13:34:25.389Z",
+      "imageSearchAttemptedAt": "2026-11-21T19:54:28.071Z",
       "sourceTextAttemptedAt": "2026-11-19T09:34:30.884Z",
       "isBreaking": false
     },
@@ -14595,56 +14644,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T06:54:14.605Z",
       "imageSearchAttemptedAt": "2026-11-19T06:54:33.709Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/milleyha-kus-cennetine-yine-moloz-ve-cop-dokuldu-hatay-samandag-haberleri-4873741",
-      "headline": "Hatay'daki Milleyha Kuş Cenneti'ne yine moloz ve çöp döküldü",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1759302307158-2fa5c4242fd6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YmlyZCUyMHNhbmN0dWFyeSUyMGdhcmJhZ2V8ZW58MXwwfHx8MTc5NDk4MzY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Yulin Wang",
-        "photographerUrl": "https://unsplash.com/@lanaill",
-        "unsplashUrl": "https://unsplash.com/photos/seabirds-nesting-on-a-rocky-island-under-a-cloudy-sky-87CIT_H38cA"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Hatay'ın Samandağ ilçesinde bulunan Milleyha Kuş Cenneti'ne kimliği belirsiz kişiler tarafından yeniden moloz ve çöp döküldü. Türkiye'nin önemli kuş göç ve gözlem noktaları arasında yer alan alan, biyolojik çeşitliliği ve doğal yaşam özellikleriyle dikkat çekiyor.\n\nAfrika ile Asya arasındaki göç yolları üzerinde yer alan ve yüzlerce kuş türüne barınma, beslenme ile dinlenme imkânı sunan sulak alan, Asi Nehri'nin Akdeniz'e döküldüğü noktada bulunuyor. Bölge, 2025 yılında doğal sit alanı olarak tescil edilmişti.\n\nDoğal zenginliğiyle bilinen kuş cennetine bırakılan atık yığınları ekosistemi tehdit ederken kötü bir görüntü oluşturdu. Yol kenarında birikmiş halde görülen moloz ve çöpler, bölgede dronla görüntülendi.",
-      "highlights": [
-        "Hatay'ın Samandağ ilçesindeki Milleyha Kuş Cenneti'ne kimliği belirsiz kişilerce moloz ve çöp döküldü.",
-        "Ekosistemi tehdit eden ve kötü görüntü oluşturan atık yığınları dronla görüntülendi.",
-        "2025 yılında doğal sit alanı olarak tescillenen alan, Afrika ile Asya arasındaki göç yolları üzerinde yer alıyor."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/milleyha-kus-cennetine-yine-moloz-ve-cop-dokuldu-hatay-samandag-haberleri-4873741",
-      "publishedAt": "2026-11-18T06:33:46.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T06:44:39.045Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/tv-shows/sports/20261118-2027-afcon-qualifiers-senegal-and-5-other-nations-secure-spot",
-      "headline": "2027 Afrika Uluslar Kupası Elemeleri'nde Senegal ve Diğer 5 Ülke Bilet Aldı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk0OTg0ODU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Abigail  Keenan",
-        "photographerUrl": "https://unsplash.com/@akeenster",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM"
-      },
-      "timeAgo": "23 dk önce",
-      "body": "2027 Afrika Uluslar Kupası (AFCON) elemelerinde turnuvaya katılmaya hak kazanan ilk takımlar belli oldu. Senegal, Kamerun ve Fas bu ülkeler arasında yer alarak turnuva bileti alan ilk ekipler arasında bulundu. Elemelerde toplamda altı ülkenin bu başarıyı elde ettiği bildirildi.\n\nÖte yandan, spor gündeminin diğer branşlarında da çeşitli karşılaşmalar ve sonuçlar yaşandı. Uluslar Ligi'nde Portekiz yenilgiden dönerken, Norveç son dakikalarda Danimarka'yı mağlup etmeyi başardı. ATP Finalleri'nde ise Arthur Fils'in yarı finale kalma şansının devam ettiği aktarıldı.\n\nBasketbol alanında ise EuroLeague heyecanı sürdü. Paris Basketball, bu organizasyonda üst üste beşinci galibiyetini alarak başarılı serisini devam ettirdi. L'Equipe TV tarafından aktarılan gelişmeler arasında futbol, Uluslar Kupası ve diğer spor dallarındaki bu güncel sonuçlar yer aldı.",
-      "highlights": [
-        "Senegal, Kamerun ve Fas 2027 AFCON'a katılım hakkı kazandı.",
-        "Uluslar Ligi'nde Portekiz toparlanırken Norveç son anlarda kazandı.",
-        "Paris Basketball EuroLeague'de üst üste beşinci galibiyetini elde etti."
-      ],
-      "externalUrl": "https://www.france24.com/en/tv-shows/sports/20261118-2027-afcon-qualifiers-senegal-and-5-other-nations-secure-spot",
-      "publishedAt": "2026-11-18T06:30:56.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T07:04:26.681Z",
       "isBreaking": false
     }
   ],
