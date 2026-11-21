@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T18:09:41.334Z",
+  "generatedAt": "2026-11-21T18:14:49.286Z",
   "articles": [
+    {
+      "id": "https://www.trthaber.com/haber/turkiye/iett-otobusunde-bicakla-yolculari-tehdit-eden-zanli-yakalandi-964089.html",
+      "headline": "İETT otobüsünde bıçakla yolcuları tehdit eden zanlı yakalandı",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1761070822445-2803cadc4e9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YnVzJTIwa25pZmUlMjBwb2xpY2V8ZW58MXwwfHx8MTc5NTI4NDg3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Trinks",
+        "photographerUrl": "https://unsplash.com/@dtrinksrph",
+        "unsplashUrl": "https://unsplash.com/photos/armored-police-rescue-vehicle-parked-outdoors-uj3YxFAoay8"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Beykoz ilçesinde seyir halinde olan bir İETT otobüsünde yolcuları bıçakla tehdit ettiği belirtilen şüpheli güvenlik güçleri tarafından yakalandı. Olayla ilgili edinilen bilgilere göre, otobüste bulunan yolcuların korku ve panik yaşamasına neden olan bıçaklı şüpheli gözaltına alındı. Yaşanan bu gelişme sonrasında zanlının emniyetteki işlemleri sürerken, olayla ilgili soruşturma yetkililer tarafından takip ediliyor. Basına yansıyan bilgilere göre olay 21 Kasım 2026 tarihinde akşam saatlerinde gerçekleşti.",
+      "highlights": [
+        "Beykoz'da seyir halindeki İETT otobüsünde yaşandı",
+        "Şüpheli yolcuları bıçakla tehdit etti",
+        "Zanlı gözaltına alındı"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/turkiye/iett-otobusunde-bicakla-yolculari-tehdit-eden-zanli-yakalandi-964089.html",
+      "publishedAt": "2026-11-21T18:13:00.000Z",
+      "category": "Türkiye",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/istanbulda-kritik-gazze-gorusmesi-mit-baskani-ibrahim-kalin-hamas-heyetiyle-bir-araya-geldi-3496261",
       "headline": "İstanbul'da kritik Gazze görüşmesi: MİT Başkanı İbrahim Kalın, Hamas heyetiyle bir araya geldi",
@@ -15,13 +39,38 @@
       "timeAgo": "şimdi",
       "body": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye liderliğindeki üst düzey bir heyetle görüştü. Güvenlik kaynaklarından edinilen bilgilere göre, gerçekleşen toplantıda Gazze'deki ateşkesin uygulanması ve bölgedeki gelişmeler ele alındı.\n\nİsrail'in Gazze Şeridi ile Batı Şeria'daki artan saldırıları, Mescid-i Aksa'ya yönelik ihlalleri, Sarı Hat'ı ihlal eden son askeri operasyonları ve ateşkese aykırı uygulamaları görüşmenin önemli başlıkları arasında yer aldı. Ayrıca İsrailli yerleşimcilerin Filistinlilere yönelik saldırıları ve göçe zorlayan uygulamalar da gündeme getirildi.\n\nToplantıda, İsrail'in ihlalleri sebebiyle sekteye uğrayan Barış Planı'nın yeniden ilerletilmesi için atılabilecek adımlar değerlendirildi. Kış şartlarının etkisiyle Gazze'de giderek ağırlaşan insani kriz de ele alınarak yardımların ihtiyaç sahiplerine ulaştırılmasının önemi vurgulandı.\nMİT Başkanı Kalın, görüşmede Türkiye'nin Filistin halkına olan desteğini yineledi. Türkiye'nin Gazze'ye insani yardım ulaştırılması için diğer arabulucular ve uluslararası ortaklarla yürüttüğü çalışmalar da toplantıda aktarıldı.",
       "highlights": [
-        "MİT Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye liderliğindeki heyetle görüştü.",
-        "Görüşmede ateşkes ihlalleri, İsrail'in saldırıları ve Barış Planı'nın durumu ele alındı.",
-        "Kalın, Türkiye'nin Filistin halkına desteğini yineledi ve insani yardım çalışmaları vurgulandı."
+        "MİT Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye ve üst düzey heyetle görüştü.",
+        "Görüşmede İsrail'in saldırıları, ateşkes ihlalleri, Mescid-i Aksa'daki durum ve Barış Planı ele alındı.",
+        "MİT Başkanı Kalın, Türkiye'nin Filistin halkına desteğini yineledi ve insani yardım çalışmalarına değindi."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/istanbulda-kritik-gazze-gorusmesi-mit-baskani-ibrahim-kalin-hamas-heyetiyle-bir-araya-geldi-3496261",
       "publishedAt": "2026-11-21T18:12:42.000Z",
       "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T18:14:18.173Z"
+    },
+    {
+      "id": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+      "headline": "Meksika'da Kartel Lideri 'El Chapo Isidro'nun Yakalanması Şiddet Olaylarını Tetikledi",
+      "source": "NPR",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
+      "imageUrl": "https://images.unsplash.com/photo-1743464714966-fc09275a90f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8TWV4aWNvJTIwcG9saWNlJTIwY2FydGVsfGVufDF8MHx8fDE3OTUyODQ4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Charles Zhang",
+        "photographerUrl": "https://unsplash.com/@charleszyh",
+        "unsplashUrl": "https://unsplash.com/photos/police-officer-on-a-motorcycle-near-a-car-wh2u2dn6bq4"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Meksika'nın Sinaloa eyaletinde, ABD'ye uyuşturucu kaçakçılığı yapmakla suçlanan ve FBI'ın en çok aranan 10 kaçağı arasında yer alan kartel lideri Fausto Isidro Meza Flores, namı diğer 'El Chapo Isidro', güvenlik güçlerinin düzenlediği operasyonla yakalandı. Operasyonun ardından bölgede çatışmalar çıktı, araçlar ve iş yerleri ateşe verildi.\n\nMeksika hükümeti, operasyonda Trump yönetiminden sağlanan istihbaratın etkili olduğunu açıkladı. Gizlilik ve unsur sürpriziyle gerçekleştirildiği belirtilen operasyonda güvenlik güçleri, binaya düzenlenen silahlı ve patlayıcılı saldırıların ardından Meza Flores'i gözaltına aldı. Gözaltı kararının ardından sokaklarda yanan araçlarla kurulan barikatlar nedeniyle Meza Flores'in Guasave'den çıkarılması cumartesi sabaha karşı gerçekleştirilebildi.\n\nGuasave kentinde yaşanan çatışmalar nedeniyle binlerce kişinin marketlerde ve güvenli yerlerde saklandığı, itfaiye ekiplerinin ise ancak sabah saatlerinde görev yapabildiği bildirildi. Güvenlik Sekreteri Omar García Harfuch, sivilleri korumak amacıyla eyaletteki askeri varlığın süreceğini duyurdu.\n\nABD ve Meksika hükümetleri yakalama kararını güvenlik başarısı olarak kutlarken, DEA operasyonun önemine dikkat çekti. Ancak uzmanlar ve analistler, liderlerin yakalanmasının örgütün tamamını ortadan kaldırmadığını ve halihazırda kartel grupları arasında yaşanan iktidar mücadelesi ile şiddet dalgasını daha da tırmandırabileceği konusunda uyarıda bulundu. Meksika Devlet Başkanı Claudia Sheinbaum'un suç gruplarına karşı daha agresif bir politika izlediği, bu durumun ABD Başkanı Donald Trump'ın baskısıyla hız kazandığı ifade edildi.",
+      "highlights": [
+        "Meksika güçleri, aranan kartel lideri 'El Chapo Isidro'yu Sinaloa'da yakaladı.",
+        "Operasyon ve liderin tutuklanması bölgede şiddet dalgasını ve çatışmaları tetikledi.",
+        "ABD ve Meksika operasyonu güvenlik başarısı olarak kutlarken uzmanlar yeni şiddet dalgası konusunda uyarıda bulundu."
+      ],
+      "externalUrl": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained",
+      "publishedAt": "2026-11-21T18:08:55.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3690,15 +3739,15 @@
       "timeAgo": "şimdi",
       "body": "Türkiye petrol ve doğal gaz aramacılığında faaliyet alanını genişletmeye devam ediyor. Ülkenin yerli ve millî sismik araştırma gemisi Oruç Reis, Pakistan sularında görev yapmak üzere bölgeye ulaştı. \n\nGerçekleştirilmesi beklenen keşiflerin hem Türkiye ekonomisine hem de Pakistan ekonomisine önemli katkılar sağlaması hedefleniyor. \n\nPakistan'a varan millî sismik araştırma gemisi CNN TÜRK tarafından görüntülendi. Muhabirler Fulya Öztürk ve Halil Kahraman, Oruç Reis gemisinde görev yapan emekçilerle bir araya gelerek görüştü.",
       "highlights": [
-        "Yerli ve millî sismik araştırma gemisi Oruç Reis Pakistan'da göreve başlıyor",
-        "Geminin Pakistan sularında petrol ve doğal gaz arayacağı belirtiliyor",
-        "Oruç Reis'i Pakistan'da CNN TÜRK ekibi görüntüleyerek emekçilerle konuştu"
+        "Millî sismik araştırma gemisi Oruç Reis Pakistan'da petrol ve doğal gaz arayacak.",
+        "Olası bir keşif iki ülke ekonomisine katkı sunacak.",
+        "CNN TÜRK ekibi Pakistan'a ulaşan gemiyi görüntüleyerek emekçilerle görüştü."
       ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
       "publishedAt": "2026-11-20T17:38:58.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:44:18.737Z",
+      "sourceTextAttemptedAt": "2026-11-21T18:14:18.173Z",
       "isBreaking": false
     },
     {
@@ -14592,56 +14641,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T05:11:25.432Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.haberturk.com/ekonomi/apple-hizmetlerinde-erisin-sorunu-3928074",
-      "headline": "Apple hizmetlerinde erişim sorunu",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1563203369-26f2e4a5ccf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QXBwbGUlMjBzdG9yZXxlbnwxfDB8fHwxNzk0OTQ0MTMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Laurenz Heymann",
-        "photographerUrl": "https://unsplash.com/@lagommedia",
-        "unsplashUrl": "https://unsplash.com/photos/apple-store-shop-front-VkfhJLz5SMQ"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "ABD'li teknoloji devi Apple'ın bazı hizmetlerinde kesintiler yaşandığı bildirildi. Downdetector sitesinin verilerine göre, TSİ 20.00 civarında Apple'ın bazı hizmetlerine erişimde sorun yaşandığına ilişkin kullanıcı bildirimleri gelmeye başladı. Binlerce kullanıcı, şirketin Apple Support, iCloud, Apple Pay, App Store, Apple Business Manager ve Apple Store gibi hizmetlerinde sorunlar bildirdi.\n\nApple'ın sistem durumu güncellemelerini paylaştığı internet sitesinde, App Store ve Apple Music hizmetlerinde TSİ 19.45'ten bu yana kesinti yaşandığı belirtilerek hizmetin yavaş çalışabileceği veya kullanılamayabileceği uyarısı yer aldı. Söz konusu sayfada, AppleCare on Device hizmetinde de TSİ 19.15'ten beri kesinti olduğu kaydedildi. Ayrıca TSİ 19.45'ten bu yana iCloud hesaplarında oturum açmada tüm kullanıcıları etkileyen sorunlar yaşandığı aktarıldı.",
-      "highlights": [
-        "App Store ve Apple Music gibi hizmetlerde kesintiler yaşandı",
-        "Binlerce kullanıcı Apple Support, iCloud, Apple Pay, App Store ve diğer hizmetlerde sorunlar bildirdi",
-        "iCloud hesaplarında oturum açmada tüm kullanıcıları etkileyen sorunlar yaşandı"
-      ],
-      "externalUrl": "https://www.haberturk.com/ekonomi/apple-hizmetlerinde-erisin-sorunu-3928074",
-      "publishedAt": "2026-11-17T19:24:45.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T01:03:59.665Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/vanda-deprem-son-dakika-vanda-kac-buyuklugunde-deprem-oldu-3494513",
-      "headline": "Van'da Deprem: Afad'dan Açıklama",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1677233861254-3e5338c1d9ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VmFuJTIwZWFydGhxdWFrZXxlbnwxfDB8fHwxNzk0OTQzNDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Çağlar Oskay",
-        "photographerUrl": "https://unsplash.com/@oskaycaglar",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-that-is-sitting-in-the-street-paHTI-WDJgI"
-      },
-      "timeAgo": "şimdi",
-      "body": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, Van'da bir deprem meydana geldi. Yaşanan sarsıntının ardından vatandaşlar depremin büyüklüğünü ve merkez üssünü araştırmaya başladı.\n\nAFAD tarafından paylaşılan resmi verilere göre deprem Van Gölü merkezli olarak gerçekleşti. Depremin büyüklüğü 4.3 (Mw) olarak ölçüldü.\n\nSarsıntının detaylarına göre deprem, Van'ın Gevaş ilçesine 0.74 kilometre mesafede kaydedildi. 17.11.2026 tarihinde saat 18:57:45 TSİ'de meydana gelen depremin derinliği ise 13.61 kilometre olarak açıklandı.",
-      "highlights": [
-        "Van Gölü'nde 4.3 büyüklüğünde deprem meydana geldi",
-        "Depremin merkez üssü Van Gölü olarak açıklandı",
-        "Sarsıntının derinliği 13.61 kilometre olarak ölçüldü"
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/vanda-deprem-son-dakika-vanda-kac-buyuklugunde-deprem-oldu-3494513",
-      "publishedAt": "2026-11-17T19:24:41.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T19:34:19.608Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
