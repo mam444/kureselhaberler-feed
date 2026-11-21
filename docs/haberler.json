@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T17:24:30.414Z",
+  "generatedAt": "2026-11-21T17:34:24.136Z",
   "articles": [
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "headline": "Liverpool ve Manchester United Karşı Karşıya Geliyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk1MjgyNDYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Spor dünyasının en büyük rekabetlerinden biri, Liverpool'un Premier League'de düşme hattında yer alan Manchester United'ı konuk etmesiyle sahne alıyor. İki takım arasındaki bu kritik mücadele, futbolseverlerin odak noktasında bulunuyor. Karşılaşma öncesinde her iki ekibin durumları ve olası kadroları merakla takip ediliyor. Liverpool, sahasında ağırlayacağı rakibi karşısında galibiyet ararken, Manchester United ise düşme hattından uzaklaşma mücadelesi veriyor. Maçın sonucu ve yaşanacak gelişmeler futbol dünyasında yakından izleniyor.",
+      "highlights": [
+        "Liverpool, Manchester United'ı konuk ediyor",
+        "Manchester United Premier League'de düşme hattında yer alıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "publishedAt": "2026-11-21T17:28:51.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/rizede-rengi-degisen-dere-endise-yaratmisti-nedeni-belli-oldu-7705233",
       "headline": "Rize'de rengi değişen derenin nedeni belirlendi",
@@ -23,7 +46,8 @@
       "publishedAt": "2026-11-21T17:22:49.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T17:34:20.231Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/disisleri-bakani-hakan-fidan-ve-mit-baskani-ibrahim-kalin-libya-milli-birlik-hukumeti-basbakani-dibeybe-ile-gorustu-7705227",
@@ -1719,7 +1743,7 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "imageSearchAttemptedAt": "2026-11-21T11:25:04.635Z",
+      "imageSearchAttemptedAt": "2026-11-21T17:34:20.231Z",
       "isBreaking": false
     },
     {
@@ -3714,15 +3738,15 @@
       "timeAgo": "şimdi",
       "body": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Hızlı Geçiş Sistemi (HGS) geçişlerinde yaşanan sorunlara ilişkin yeni kararları açıkladı. Yapılan incelemeler neticesinde icra takiplerinin toplam geçişlerin yüzde 0,43'ünü oluşturduğu tespit edildi. Alınan kararlar doğrultusunda, özel otoyol şirketlerinin süreyi aşan tahsilatları sebebiyle yürüttüğü avukatlık ve icra uygulamalarının derhal durdurulması ve yeniden düzenlenmesi kararlaştırıldı.\n\nBakan Uraloğlu, hukuki mevzuat çalışmaları tamamlanıncaya kadar vatandaşlara yönelik icra takiplerinin uygulanmayacağını bildirdi. Ayrıca HGS kullanıcılarının hesaplarını kredi kartına bağlayarak otomatik ödeme talimatı vermelerinin teşvik edileceği ve bu konuda kolaylaştırıcı düzenlemelerin hayata geçirileceği ifade edildi.\n\nSüreç kapsamında hatalı geçişlerle ilgili olarak vatandaşların mevcut iletişim kanallarına ek olarak farklı haberleşme yöntemleriyle de bilgilendirilmesi sağlanacak. Bunun yanı sıra kişisel verilerin korunması kurallarına uygun biçimde ödeme kanallarının çeşitlendirilmesi amacıyla teknik ve idari altyapının hazırlanacağı belirtildi.\n\nUlaştırma ve Altyapı Bakanlığının önceliğinin vatandaşların yaşadığı sorunları hızla çözmek ve benzer olayların tekrar yaşanmasını engellemek olduğu vurgulandı. Uraloğlu, vatandaşların haklarının ve huzurunun korunmasının temel sorumlulukları olduğunu kaydetti.",
       "highlights": [
-        "Hukuki mevzuat çalışmaları tamamlanana kadar HGS'de icra takipleri durduruldu.",
-        "Özel otoyol şirketlerinin avukatlık ve icra uygulamalarının durdurulması kararlaştırıldı.",
-        "İcra takiplerinin toplam geçişlerin yüzde 0,43'ünü oluşturduğu tespit edildi."
+        "HGS'de hukuki mevzuat çalışmaları tamamlanana kadar icra takipleri durduruldu.",
+        "İcra takiplerinin toplam geçişlerin yüzde 0,43'ünü oluşturduğu tespit edildi.",
+        "Özel otoyol şirketlerinin süreyi aşan tahsilatları kapsamındaki avukatlık ve icra uygulamaları durdurulacak."
       ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/son-dakika-bakan-uraloglu-hgsde-icra-takipleri-durduruldu-3495903",
       "publishedAt": "2026-11-20T17:05:03.000Z",
       "category": "Ekonomi",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:14:26.967Z",
+      "sourceTextAttemptedAt": "2026-11-21T17:34:20.231Z",
       "isBreaking": false
     },
     {
@@ -14617,30 +14641,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T19:24:21.469Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
-      "headline": "Mozambikli muhalefet lideri Venancio Mondlane terör suçlamalarıyla hakim karşısına çıktı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1568092806323-8ec13dfa9b92?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnQlMjB0cmlhbHxlbnwxfDB8fHwxNzk0OTQxNjg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "David Veksler",
-        "photographerUrl": "https://unsplash.com/@davidveksler",
-        "unsplashUrl": "https://unsplash.com/photos/architectural-photography-of-trial-court-interior-view-HpmDAS1Dozs"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Mozambik'in muhalefet lideri Venancio Mondlane, terörizm ve sivil itaatsizlik suçlamalarıyla yargılanmaya başladı.\n\nMondlane, hakkındaki bu ciddi iddialarla ilgili olarak mahkeme huzuruna çıktı.\n\nYargılama sürecinde sanık konumunda bulunan muhalefet lideri, kendisine yöneltilen suçlamalarla ilgili savunma yapacak.\n\nSüreç, Mozambik'teki siyasi gelişmeler açısından yakından takip ediliyor.",
-      "highlights": [
-        "Mozambik muhalefet lideri Venancio Mondlane yargılanıyor",
-        "Mondlane terörizm ve sivil itaatsizlik suçlamalarıyla karşı karşıya"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/17/mozambique-opposition-leader-goes-on-trial-on-terrorism-charges?traffic_source=rss",
-      "publishedAt": "2026-11-17T18:48:15.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T01:03:59.665Z",
       "isBreaking": false
     }
   ],
