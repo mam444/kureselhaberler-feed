@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T16:24:25.530Z",
+  "generatedAt": "2026-11-21T16:34:34.706Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/genclerbirligi-gaziantep-fkyi-tek-golle-gecti-3496243",
+      "headline": "Gençlerbirliği, Gaziantep FK’yi tek golle geçti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk1Mjc4ODY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Abigail  Keenan",
+        "photographerUrl": "https://unsplash.com/@akeenster",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-people-playing-soccer-on-soccer-field-8-s5QuUBtyM"
+      },
+      "timeAgo": "şimdi",
+      "body": "Trendyol Süper Lig'in 12. haftasında Gençlerbirliği ile Gaziantep FK, Eryaman Stadı’nda karşı karşıya geldi. Ev sahibi başkent temsilcisi Gençlerbirliği, sahasında ağırladığı Gaziantep FK karşısında galibiyete uzandı.\n\nKarşılaşmanın 9’uncu dakikasında Adama Traore’nin kaydettiği golle müsabakayı 1-0 kazanmayı başaran Ankara ekibi, bu sonucun ardından puanını 14’e yükseltti.\n\nYeni teknik direktörü Volkan Demirel yönetimindeki ilk mücadelesinden yenilgiyle ayrılan Gaziantep FK ise bu maçın ardından 8 puanda kaldı.",
+      "highlights": [
+        "Gençlerbirliği, Gaziantep FK'yi 1-0 mağlup etti",
+        "Maçtaki tek golü 9. dakikada Adama Traore attı",
+        "Gaziantep FK, yeni teknik direktörü Volkan Demirel yönetimindeki ilk maçından yenilgiyle ayrıldı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/genclerbirligi-gaziantep-fkyi-tek-golle-gecti-3496243",
+      "publishedAt": "2026-11-21T16:35:07.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "headline": "FBI, suç veritabanına yönelik olduğu iddia edilen siber saldırıyı araştırıyor",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1523841589119-b55aee0f66e7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RkJJJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTI3ODg2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kyle Glenn",
+        "photographerUrl": "https://unsplash.com/@kylejglenn",
+        "unsplashUrl": "https://unsplash.com/photos/mans-eyeview-of-multi-storey-building-zC5WkZVIv4A"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "ABD medyasının konuya ilişkin bilgi sahibi iki kaynağa dayandırdığı haberlerine göre FBI, suç bilgileri veritabanında meydana gelen olası bir ihlali soruşturuyor. Federal ve yerel kolluk kuvvetlerinin yakalama kararları ile güvenlik soruşturmaları hakkında bilgi paylaşmak için kullandığı Ulusal Suç Bilgi Merkezi (NCIC) veritabanı hedef alındı. FBI konuyla ilgili BBC'nin yorum talebine hemen yanıt vermedi.\n\nCumartesi günü Fox News'e verdiği röportajda saldırı hakkında sorulan bir soruya yanıt veren ABD Başkanı Donald Trump, olaydan \"yeni haberdar olduğunu\" söyledi. Trump, durumun iyi olmadığını ve bunu beğenmediğini belirterek, \"Ama belki de başka türlü asla öğrenemeyeceğimiz şeyleri öğreniriz\" dedi.\n\nFBI veritabanındaki bu ihlal iddiası, geçen hafta ABD'de bankacılık, hava trafik kontrolü ve diğer sektörleri etkileyen bir dizi teknoloji kesintisinin ardından geldi. Yetkililer bu kesintilerin siber saldırılardan kaynaklanmadığını ifade ederken, olaylar milletvekillerinin incelemesini tetikledi. Beyaz Saray Ulusal Siber Güvenlik Direktörü Sean Cairncross bu hafta görevden alındı ve Başkan Trump kendisinin yeterince iyi olmadığını söyledi.\n\nEylül ayında FBI, yaklaşık 38.000 büro personelinin hassas bilgilerini çaldığını iddia eden ShinyHunters adlı siber suç grubunun düzenlediği iddia edilen bir ihlali soruşturduğunu açıklamıştı. Öte yandan NBC'nin haberine göre, ABD Tarım Bakanlığı'na (USDA) yönelik ayrı bir siber saldırı düzenlendi ve çalışanlara perşembe günü çiftlik ödeme sisteminin hedef alındığı bildirildi. USDA konu hakkında kamuoyuna herhangi bir açıklama yapmadı.",
+      "highlights": [
+        "ABD medyasına göre FBI, suç veritabanındaki olası bir ihlali araştırıyor.",
+        "Başkan Donald Trump, saldırıdan yeni haberdar olduğunu ve durumu iyi bulmadığını söyledi.",
+        "NBC, ABD Tarım Bakanlığı'nın çiftlik ödeme sisteminin de hedef alındığını bildirdi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T16:27:14.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-burundu-1751952",
       "headline": "İstanbul'un bazı ilçelerinde dolu ve sağanak etkili oldu, yollar beyaza büründü",
@@ -15,15 +63,16 @@
       "timeAgo": "2 dk önce",
       "body": "İstanbul'un Silivri ve Çatalca ilçelerinde etkili olan dolu yağışı, yolları ve kaldırımları beyaza bürüdü. Büyükçekmece'de ise sağanak nedeniyle caddeler suyla doldu.\n\nSilivri'nin Akören Mahallesi ile Çatalca'nın bazı bölgelerinde aniden bastıran dolu yağışı kısa sürede etkisini gösterdi. Bu nedenle yollar ve kaldırımlar beyaza bürünürken, bazı vatandaşlar araçlarını kapalı alanlara çekti, bazıları ise üzerlerini örtülerle kapatarak önlem aldı.\n\nBüyükçekmece ilçesinde ise sağanak yağış etkili oldu. Ulus Mahallesi Çiğdem Caddesi ve çevresi ile İstiklal Caddesi'nde yağış nedeniyle su birikintileri meydana geldi.\n\nDolu ve sağanağa trafikte yakalanan sürücüler zor anlar yaşarken, ilerleyişlerinde dikkatli olmak zorunda kaldı.",
       "highlights": [
-        "Silivri ve Çatalca'da dolu yağışı yolları beyaza bürüdü.",
-        "Büyükçekmece'de sağanak nedeniyle caddelerde su birikintileri oluştu.",
-        "Sürücüler ve vatandaşlar ani bastıran yağışlara karşı önlem almaya çalıştı."
+        "Silivri ve Çatalca'da dolu yağışı yolları beyaza bürüdü",
+        "Büyükçekmece'de sağanak nedeniyle su birikintileri oluştu",
+        "Sürücüler trafikte dikkatli ilerledi"
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/istanbulun-bazi-ilcelerinde-dolu-ve-saganak-etkili-yollar-beyaza-burundu-1751952",
       "publishedAt": "2026-11-21T16:22:13.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T16:34:19.423Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-hava-bir-anda-degisti-aniden-baslayan-dolu-yagisi-sonrasi-yollar-beyaza-burundu-7705212",
@@ -3679,7 +3728,7 @@
     },
     {
       "id": "https://www.rfi.fr/en/france/20261120-french-greens-candidate-gives-hard-left-melenchon-a-boost-in-presidential-race",
-      "headline": "Fransız Yeşiller adayından aşırı solcu Mélenchon'a cumhurbaşkanlığı yarışında destek",
+      "headline": "Fransız Yeşiller'in adayı, cumhurbaşkanlığı yarışında aşırı solcu Mélenchon'a destek verdi",
       "source": "RFI English",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
       "imageUrl": "https://images.unsplash.com/photo-1771340589259-5b8ee8ff8ea9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RnJlbmNoJTIwR3JlZW5zJTIwY2FuZGlkYXRlJTIwZ2l2ZXMlMjBoYXJkLWxlZnQlMjBNJUMzJUE5bGVuY2hvbiUyMGElMjBib29zdCUyMGluJTIwcHJlc2lkZW50aWFsJTIwcmFjZXxlbnwxfDB8fHwxNzk1MTkxMzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -3689,17 +3738,17 @@
         "unsplashUrl": "https://unsplash.com/photos/two-men-in-suits-smiling-at-an-outdoor-event-oVr94-Ok_nA"
       },
       "timeAgo": "11 dk önce",
-      "body": "Fransa'da 2027 cumhurbaşkanlığı seçimine beş ay kala, Yeşiller Partisi (EELV) ulusal sekreteri Marine Tondelier'nin aşırı solcu aday Jean-Luc Mélenchon'u destekleme konusunda çekinceli bir mutabakata varması, aşırı solcu isme destek sağladı. Anketlerde yüzde 20 civarında oy alarak ikinci sırada yer alan France Unbowed (LFI) partisinin lideri Mélenchon, ittifakın yapılabileceğini belirtti.\n\nYüzde 3 civarında oy oranına sahip olan Yeşiller lideri Tondelier, çarşamba günü France 2 televizyonuna yaptığı açıklamada, Mélenchon'un kampanyasındaki ivmenin yadsınamaz olduğunu vurgulayarak onun adaylığı etrafında bir koalisyona hazır olduklarını ifade etti. Tondelier'nin bu kararı, aralık ortasında parti üyelerinin yapacağı oylamada onaylanmayı bekliyor.\n\nBu hamle merkez sol ve merkez sağda eleştirilere yol açtı. Sosyalist Parti lideri Olivier Faure Yeşillerin kendi yanlarında yer alması gerektiğini belirtirken, merkez sol aday Raphaël Glucksmann ise bu adımın sol ve merkez solu kendi etrafında birleştirme çabasını zayıflatma riski taşıdığını söyledi. Merkez kesimden Dışişleri Bakanı Jean-Noël Barrot ise Tondelier'nin kararını bir teslimiyet olarak nitelendirdi.\n\nGelen eleştirilerin ardından Tondelier perşembe günü tonunu hafifleterek henüz kesin görüşünü vermediğini ve tartışmalara bağlı olacağını belirtti. Öte yandan, cuma günü eski başbakan Dominique de Villepin 2027 cumhurbaşkanlığı yarışına katıldığını duyurdu.",
+      "body": "Fransa'nın 2027 cumhurbaşkanlığı seçimleri öncesinde, Yeşiller Partisi (EELV) ulusal sekreteri ve adayı Marine Tondelier'in aşırı solcu Fransa Boyun Eğmez (LFI) partisinin lideri Jean-Luc Mélenchon'u destekleme konusunda şartlı anlaşmaya varması sol ve merkez siyasetçilerin tepkisini çekti.\n\nAnketlerde oyları yüzde 3 civarında görünen Marine Tondelier, Mélenchon'un kampanyasındaki ivmenin yadsınamaz olduğunu belirterek, onun adaylığı etrafında merkezleşen bir koalisyona hazır olduklarını ifade etti. Aşırı sağcı Marine Le Pen'in ardından anketlerde yüzde 20 civarında oyla ikinci sırada yer alan Mélenchon, bu gelişmeyi olumlu karşılayarak bir ittifakın yapılabileceğini söyledi, ancak temkinli olunması çağrısında bulundu.\n\nTondelier'in kararı, merkez sol ve merkez sağdan eleştiriler aldı. Sosyalist Parti lideri Olivier Faure, Yeşiller'in kendi yanlarında yer alması gerektiğini belirtti. Yüzde 11 ila 13 arasında oy oranına sahip merkez sol aday Raphaël Glucksmann, bu hamlenin sol ve merkez solu kendi adaylığı etrafında birleştirme çabasını zayıflatma riski taşıdığını söyledi. Dışişleri Bakanı Jean-Noël Barrot ise kararı 'teslimiyet' olarak nitelendirdi.\n\nGelen eleştirilerin ardından açıklamalarını yumuşatan Tondelier, henüz nihai görüşünü vermediğini, bunun müzakerelere bağlı olacağını vurgulayarak şimdilik kendisinin de aday olmaya devam ettiğini belirtti. Yeşil parti üyelerinin aralık ortasında yapacağı oylamayla kararı onaylaması gerekiyor. Öte yandan, eski başbakan Dominique de Villepin de bölünmüş ve 'çürümüş' bir Fransa'yı onarmak için 2027 cumhurbaşkanlığı yarışına katıldığını açıkladı.",
       "highlights": [
-        "Yeşiller adayı Marine Tondelier, aşırı solcu Jean-Luc Mélenchon'u desteklemeye yeşil ışık yaktı.",
-        "Tondelier'nin kararı merkez sol ve merkez sağ kesimden tepki topladı.",
-        "Kararın aralık ayında Yeşiller üyeleri tarafından oylanması gerekiyor."
+        "Yeşiller adayı Marine Tondelier, aşırı solcu Jean-Luc Mélenchon'u destekleme konusunda şartlı anlaşmaya vardı.",
+        "Mélenchon'un ana akım kredibilitesi bu hamleyle artarken, karar merkez sol ve merkez sağda eleştirilere yol açtı.",
+        "Tondelier'in kararı, aralık ortasında Green parti üyelerinin yapacağı oylama ile oylanacak."
       ],
       "externalUrl": "https://www.rfi.fr/en/france/20261120-french-greens-candidate-gives-hard-left-melenchon-a-boost-in-presidential-race",
       "publishedAt": "2026-11-20T16:04:55.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T16:24:35.429Z",
+      "sourceTextAttemptedAt": "2026-11-21T16:34:19.423Z",
       "isBreaking": false
     },
     {
@@ -14588,53 +14637,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T17:55:23.537Z",
       "imageSearchAttemptedAt": "2026-11-21T14:24:24.169Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
-      "headline": "2026 KPSS Merkezi Atama Tercih Takvimi Belli Oldu",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1624969862293-b749659ccc4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZXhhbSUyMGNhbGVuZGFyfGVufDF8MHx8fDE3OTQ5MzQ0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Towfiqu barbhuiya",
-        "photographerUrl": "https://unsplash.com/@towfiqu999999",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-pink-analog-alarm-clock-jOeh3Lv88xA"
-      },
-      "timeAgo": "şimdi",
-      "body": "ÖSYM tarafından yayımlanan sınav ve yerleştirme takvimine göre, KPSS 2026/2 merkezi yerleştirme tercih süreci 17 Aralık 2026 Perşembe günü başlayacak ve 24 Aralık 2026 Perşembe günü sona erecek. Memur adayları tercih işlemleri için toplam 8 günlük süreye sahip olacak. Tercihler mülakatsız, KPSS puan üstünlüğüne göre yapılacak.\n\nTakvimin duyurulmasının ardından adaylar kadro ve kontenjanlar ile tercih kılavuzunun yayımlanmasını bekliyor. Kılavuzun yayımlanmasıyla lisans, ön lisans ve ortaöğretim mezunlarının başvurabileceği pozisyonlar ile kurum bilgileri, unvanlar, görev yerleri, kontenjanlar ve nitelik kodları ilan edilecek. Adaylar bu süreçte taban puanları ve kadro dağılımlarını inceleyerek planlama yapıyor.",
-      "highlights": [
-        "KPSS 2026/2 tercihleri 17-24 Aralık 2026 tarihleri arasında yapılacak.",
-        "Yerleştirme işlemleri mülakatsız, KPSS puan üstünlüğüne göre gerçekleştirilecek.",
-        "Tercih kılavuzu ve kadro dağılımları kılavuzun yayımlanmasıyla ilan edilecek."
-      ],
-      "externalUrl": "https://www.cnnturk.com/egitim/kpss-merkezi-atama-tercih-takvimi-2026-kpss-merkezi-atama-tercihleri-ne-zaman-baslayacak-kpss-2026-2-kadro-ve-kontenjanlari-ne-zaman-3494456",
-      "publishedAt": "2026-11-17T16:58:28.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-17T17:38:27.702Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/disisleri-bakani-hakan-fidan-suriyeli-mevkidasi-ile-gorustu-3494459",
-      "headline": "Dışişleri Bakanı Hakan Fidan, Suriyeli mevkidaşı ile görüştü",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1580959279997-a76378b4d853?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RCVDNCVCMSVDNSU5RmklQzUlOUZsZXJpJTIwQmFrYW4lQzQlQjElMjBIYWthbiUyMEZpZGFuJTJDJTIwU3VyaXllbGklMjBtZXZraWRhJUM1JTlGJUM0JUIxJTIwaWxlJTIwZyVDMyVCNnIlQzMlQkMlQzUlOUZ0JUMzJUJDfGVufDF8MHx8fDE3OTQ5MzYzNDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Maryam Araghi",
-        "photographerUrl": "https://unsplash.com/@ma5rs",
-        "unsplashUrl": "https://unsplash.com/photos/people-in-green-and-black-camouflage-uniform-holding-flags-during-daytime-5esouD5qKbw"
-      },
-      "timeAgo": "şimdi",
-      "body": "Dışişleri Bakanı Hakan Fidan ve Milli Savunma Bakanı Yaşar Güler, Ankara'da Suriyeli mevkidaşlarıyla bir araya geldi.",
-      "highlights": [],
-      "externalUrl": "https://www.cnnturk.com/dunya/disisleri-bakani-hakan-fidan-suriyeli-mevkidasi-ile-gorustu-3494459",
-      "publishedAt": "2026-11-17T16:58:22.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:25:27.611Z",
-      "sourceTextAttemptedAt": "2026-11-17T17:38:27.702Z",
       "isBreaking": false
     }
   ],
