@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T15:54:41.230Z",
+  "generatedAt": "2026-11-21T16:04:48.333Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/otomobil/elektrikli-arac-ekspertizinde-batarya-kontrolu-basladi-3496239",
+      "headline": "Elektrikli araç ekspertizinde batarya kontrolü başladı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZWxlY3RyaWMlMjB2ZWhpY2xlJTIwYmF0dGVyeXxlbnwxfDB8fHwxNzk1Mjc3MDgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "CHUTTERSNAP",
+        "photographerUrl": "https://unsplash.com/@chuttersnap",
+        "unsplashUrl": "https://unsplash.com/photos/electric-vehicle-charger-plugged-into-car-xfaYAsMV1p8"
+      },
+      "timeAgo": "şimdi",
+      "body": "Auto King Oto Ekspertiz, elektrikli araçlara yönelik yeni nesil ekspertiz çözümü olan EV KING hizmetini kullanıma sundu. 21.11.2026 tarihinde paylaşılan bilgilere göre bu yeni hizmet, elektrikli araç sahiplerinin ve alıcılarının ihtiyaçlarına yanıt vermek amacıyla geliştirildi.\n\nYalnızca Auto King Oto Ekspertiz noktalarında sunulan EV KING, teknolojik hizmet deneyimini yeni nesil ölçüm cihazları ve ileri teknoloji batarya kontrolüyle bir araya getiriyor. Hizmet kapsamında batarya sağlığı, hücre analizi ve şarj döngüsüne ilişkin veriler detaylı biçimde değerlendiriliyor.\n\nAuto King Oto Ekspertiz Genel Müdürü Berkay Çelik, elektrikli araçların yaygınlaşmasının ekspertiz standartlarını ve tüketici beklentilerini yeniden şekillendirdiğini belirtti. Çelik, bir aracın gerçek durumunu anlamak için dış görünüm ve kilometrenin yeterli olmadığını, batarya sağlık durumunu bilmenin büyük önem taşıdığını ifade etti.\n\nGeleneksel ekspertiz kriterlerinin ötesine geçen EV KING, ikinci el değerini ve performansı etkileyen batarya bileşenini yeni nesil ölçüm cihazlarıyla analiz ediyor. Bu sayede tüketicilere araçlarının mevcut durumu hakkında önemli teknik bilgiler sunuluyor.",
+      "highlights": [
+        "Auto King Oto Ekspertiz, EV KING hizmetini hayata geçirdi.",
+        "Hizmet kapsamında ileri teknoloji batarya kontrolü ve hücre analizi yapılıyor.",
+        "Berkay Çelik, batarya sağlığının önemine dikkat çekti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/otomobil/elektrikli-arac-ekspertizinde-batarya-kontrolu-basladi-3496239",
+      "publishedAt": "2026-11-21T16:08:35.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
       "headline": "COP31 Anlaşması İçin Ülkeler Arasında Yarış Başladı",
@@ -15,15 +39,16 @@
       "timeAgo": "2 dk önce",
       "body": "COP31 iklim görüşmelerinin, yeni bir küresel iklim anlaşmasına varma çabaları kapsamında takviminin aştığı bildirildi. Gelişmeler, fosil yakıtlara yer vermeyen ilk taslağa yönelik eleştirilerin ardından yaşandı.\n\nAvrupa Birliği (AB), mevcut teklifin zirveyi bir \"fosil yakıt zirvesine\" dönüştürme riski taşıdığı konusunda uyarılarda bulundu. Müzakereciler, günün ilerleyen saatlerinde açıklanması beklenen revize edilmiş ve potansiyel olarak nihai bir anlaşma üzerinde çalışmalarını sürdürüyor.\n\nKonuya ilişkin ayrıntılar, France 24 Uluslararası İlişkiler Editörü Jamie Smith-Maillet tarafından aktarıldı.",
       "highlights": [
-        "COP31 iklim görüşmeleri takviminin aştı",
-        "AB, mevcut teklifin zirveyi fosil yakıt zirvesine dönüştürebileceği uyarısında bulundu",
-        "Yeni ve muhtemel nihai anlaşmanın gün içinde açıklanması bekleniyor"
+        "COP31 iklim görüşmeleri programın gerisinde kaldı",
+        "AB mevcut teklifin zirveyi fosil yakıt zirvesine dönüştürebileceği konusunda uyardı",
+        "Revize edilmiş nihai anlaşmanın günün ilerleyen saatlerinde açıklanması bekleniyor"
       ],
       "externalUrl": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
       "publishedAt": "2026-11-21T15:52:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T16:04:24.580Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/saganak-nedeniyle-coken-yolda-olusan-cukura-4-arac-dustu-3496235",
@@ -39,13 +64,38 @@
       "timeAgo": "3 dk önce",
       "body": "Samsun'un İlkadım ilçesinde etkili olan sağanak yağış, kentte olumsuzluklara yol açtı. İlçe genelinde yaşanan yağışlar sırasında, altyapı çalışması yürütülen bir yolda çökme meydana geldi.\n\nİlkadım ilçesi Osmaniye Caddesi'nde bulunan ve altyapı çalışması yapılan yolda, sağanak yağışın etkisiyle yaklaşık 30 santimetrelik bir çökme oluştuğu bildirildi.\n\nYaşanan çökme sonucunda yolda büyük bir çukur açıldı. Açılan bu çukura, o sırada park halinde bulunan 4 araç birden düştü.\n\nMeydana gelen olayda hasar gören araçlar, olay yerine gelen çekici yardımıyla düştükleri çukurdan çıkarıldı.",
       "highlights": [
-        "Samsun'un İlkadım ilçesinde sağanak nedeniyle yolda çökmeler yaşandı",
-        "Osmaniye Caddesi'ndeki altyapı çalışması yürütülen yolda yaklaşık 30 santimetrelik çökme meydana geldi",
-        "Çökme sonucunda oluşan çukura park halindeki 4 araç düştü ve çekiciyle çıkarıldı"
+        "Samsun'un İlkadım ilçesindeki Osmaniye Caddesi'nde sağanak nedeniyle yol çöktü.",
+        "Altyapı çalışması yürütülen yaklaşık 30 santimetrelik çöküntüye park halindeki 4 araç düştü.",
+        "Hasar gören araçlar çekici yardımıyla çıkarıldı."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/saganak-nedeniyle-coken-yolda-olusan-cukura-4-arac-dustu-3496235",
       "publishedAt": "2026-11-21T15:51:31.000Z",
       "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T16:04:24.580Z"
+    },
+    {
+      "id": "https://www.france24.com/en/new-day-of-protests-across-france",
+      "headline": "Fransa'da Yeni Protesto Günü",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1531752148124-118ba196fc7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJhbmNlJTIwcHJvdGVzdHxlbnwxfDB8fHwxNzk1Mjc3MDc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Pierre Herman",
+        "photographerUrl": "https://unsplash.com/@lepipotron",
+        "unsplashUrl": "https://unsplash.com/photos/people-waving-flag-of-france-near-building-Fw_2kaQZc90"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Fransa, artan yaşam maliyetleri ve gelecek yıl yapılacak cumhurbaşkanlığı seçimi öncesinde haftalardır süren toplumsal huzursuzluğun hükümet tarafından ele alınış biçimini protesto etmek amacıyla sokaklara dökülen eylemcilerle birlikte art arda altıncı Cumartesi gününü yaşıyor. Ülke genelinde düzenlenen bu eylemlerde göstericiler tepkilerini dile getirmek için bir kez daha alanlara çıktı.\n\nFrance 24 muhabiri Antonia Kerrigan, konuyla ilgili detaylı bilgileri aktardı. 21.11.2026 tarihinde yayımlanan haberde, Fransa'da yaşanan bu protesto dalgasının ardındaki temel motivasyonların yaşam maliyetlerindeki artış ve hükümetin politikaları olduğu belirtildi.\n\nEylemlerin, önümüzdeki yıl düzenlenecek olan cumhurbaşkanlığı seçimi öncesindeki süreçte gerçekleştiği vurgulandı. Göstericiler, sosyal huzursuzlukların yönetiliş şekline karşı tepkilerini sokaklarda sürdürüyor.",
+      "highlights": [
+        "Fransa art arda altıncı Cumartesi protestolarına sahne oluyor",
+        "Eylemciler artan yaşam maliyetlerini protesto ediyor",
+        "Gösteriler gelecek yılki cumhurbaşkanlığı seçimi öncesinde düzenleniyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/new-day-of-protests-across-france",
+      "publishedAt": "2026-11-21T15:50:52.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -14584,57 +14634,6 @@
       "imageSearchAttemptedAt": "2026-11-17T17:28:56.932Z",
       "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/kirpi-ahmet-cinayeti-davasinda-kan-donduran-ifade-adam-yaktim-kullerini-bulamadilar-diyordu-7702633",
-      "headline": "'Kirpi Ahmet' cinayeti davasında kan donduran ifade: 'Adam yaktım, küllerini bulamadılar' diyordu",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1711003596872-aa68f08a4b8e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc5NDkzNDQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dragon White Munthe",
-        "photographerUrl": "https://unsplash.com/@fotomagi",
-        "unsplashUrl": "https://unsplash.com/photos/an-empty-courtroom-with-wooden-paneling-and-columns-Bh6u25Qv9qA"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "Zonguldak'ta 2008'de kaybolan ve kemikleri 2010'da Ulutan Barajı'nda bulunan Ahmet Yılmaz'ın cinayetine ilişkin davada sanıklar ve tanıklar hakim karşısına çıktı. Soruşturma kapsamında açılan davada tutuklu yargılanan sanıklar Tarık Yolcu ve Köksal Aktaş ile SEGBİS ile bağlanan İlker Eren duruşmada yer aldı. Sanık Köksal Aktaş savunmasında, Yılmaz'ı 2017'de lösemiden ölen Baycan İleri'nin öldürdüğünü iddia etti. Aktaş, ormanlık alanda uyandığında Ahmet'in öldüğünü gördüğünü öne sürdü. Diğer sanık Tarık Yolcu ise birçok şeyi hatırlamadığını ve Aktaş'ın ifadelerine katıldığını belirtti. Duruşmada tanık olarak dinlenen İlker Eren'in eski eşi İ.B., eski eşinin kendisini tehdit ettiğini belirterek, 'Adam yaktım, küllerini bulamadılar. Baraja adam attık, bulamadılar' şeklinde sözler sarf ettiğini iddia etti. Hakkındaki suçlamaları reddeden İlker Eren ise dosyayla ilgisi olmadığını savundu. Mahkeme heyeti tutuklu sanıkların tutukluluk hallerinin devamına karar vererek duruşmayı erteledi.",
-      "highlights": [
-        "Zonguldak'ta 2008'de kaybolan Ahmet Yılmaz'ın kemikleri 2010'da barajda bulunmuştu.",
-        "Sanık Köksal Aktaş, cinayeti 2017'de ölen Baycan İleri'nin işlediğini öne sürdü.",
-        "Tanık İ.B., eski eşi İlker Eren'in kendisine 'Adam yaktım, küllerini bulamadılar' dediğini iddia etti."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/kirpi-ahmet-cinayeti-davasinda-kan-donduran-ifade-adam-yaktim-kullerini-bulamadilar-diyordu-7702633",
-      "publishedAt": "2026-11-17T16:44:51.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-17T18:12:54.744Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/fon-sorusturmalarinda-404-milyar-liralik-geri-kazanim-4873591",
-      "headline": "Fon soruşturmalarında 40,4 milyar liralık geri kazanım",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1699692892450-d8bc10574ab6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Rm9uJTIwc29ydSVDNSU5RnR1cm1hbGFyJUM0JUIxbmRhJTIwNDAlMkM0JTIwbWlseWFyJTIwbGlyYWwlQzQlQjFrJTIwZ2VyaSUyMGthemFuJUM0JUIxbXxlbnwxfDB8fHwxNzk0OTM2NjkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mehmet Can Özgümüş",
-        "photographerUrl": "https://unsplash.com/@canmehmet",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-is-parked-in-front-of-a-gate-DwHc5VOM9XE"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Adalet Bakanı Akın Gürlek, fon soruşturmalarının yeni deliller doğrultusunda derinleştirildiğini belirterek yürütülen çalışmalara ve mali incelemelere ilişkin açıklamalarda bulundu. Sosyal medya hesabından yaptığı paylaşımda İstanbul Cumhuriyet Başsavcılığı koordinesinde para hareketleri, malvarlığı devirleri ve bağlantılı hesapların ayrıntılı şekilde incelendiğini aktardı. Gürlek, soruşturmalarda kişilerin unvan veya bağlantılarının değil somut delillerin esas alındığını, fon yöneticileri ve denetim süreçleri dahil hukuki sorumluluk doğurabilecek tüm hususların değerlendirildiğini vurguladı.\n\nPaylaşılan güncel rakamlara göre soruşturma kapsamında toplam 498 şüpheli bulunuyor. Bunlardan 129'unun tutuklu, 289'u hakkında adli kontrol tedbiri olduğunu belirten Gürlek, 54 şüpheliye yönelik yakalama kararının sürdüğünü, 22 şüphelinin ise gözaltı işlemlerinin devam ettiğini bildirdi.\n\nSuç gelirlerinin kaçırılmasını önlemek amacıyla 417 gerçek ve 149 tüzel kişinin malvarlığına el koyma ile dondurma kararı uygulandı. Gönüllü iade ve geri kazanım süreçleri çerçevesinde 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi. Gürlek, gönüllü iadenin tek başına hukuki sorumluluğu kaldırmayacağını, önceliklerinin yatırımcı haklarını korumak olduğunu belirtti.\n\nCumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında 10'uncu Fon Koordinasyon Kurulu Toplantısı'nın gerçekleştirildiğini aktaran Gürlek, toplantıda soruşturmaların seyrinin ve yatırımcı haklarını koruma çalışmalarının ele alındığını ifade etti. Bakan Gürlek, maddi gerçeğin ortaya çıkarılması ve vatandaşların haklarının korunması için çalışmaların kararlılıkla süreceğini kaydetti.",
-      "highlights": [
-        "Fon soruşturmalarında gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi.",
-        "Soruşturma kapsamında bugün itibarıyla 498 şüpheli bulunuyor; bunlardan 129'u tutuklu, 289'u hakkında adli kontrol tedbiri var.",
-        "417 gerçek ve 149 tüzel kişinin malvarlıkları hakkında el koyma ve dondurma kararı uygulandı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/fon-sorusturmalarinda-404-milyar-liralik-geri-kazanim-4873591",
-      "publishedAt": "2026-11-17T16:43:20.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:31:14.908Z",
-      "sourceTextAttemptedAt": "2026-11-17T18:24:25.184Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
