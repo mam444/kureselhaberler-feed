@@ -1,6 +1,25 @@
 {
-  "generatedAt": "2026-11-21T09:34:32.114Z",
+  "generatedAt": "2026-11-21T09:44:30.886Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/koprude-suratlice-makas-atan-surucu-kaza-yaptigi-anlari-paylasti-4875137",
+      "headline": "Köprüde süratlice makas atan sürücü kaza yaptığı anları paylaştı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1649077364275-6fee774c4bcf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SyVDMyVCNnByJUMzJUJDZGUlMjBzJUMzJUJDcmF0bGljZSUyMG1ha2FzJTIwYXRhbiUyMHMlQzMlQkNyJUMzJUJDYyVDMyVCQyUyMGthemElMjB5YXB0JUM0JUIxJUM0JTlGJUM0JUIxJTIwYW5sYXIlQzQlQjElMjBwYXlsYSVDNSU5RnQlQzQlQjF8ZW58MXwwfHx8MTc5NTI1NDI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Valery Sysoev",
+        "photographerUrl": "https://unsplash.com/@valerysysoev",
+        "unsplashUrl": "https://unsplash.com/photos/a-busy-city-street-filled-with-lots-of-traffic-BjzqdgpOqnw"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "İstanbul'da köprü üzerinde saatte 150 kilometre hızla ilerlerken makas atan sürücü, bariyerlere çarparak kaza yaptı. Tehlikeli sürüşünü ve kaza anını kameraya kaydeden şahıs, görüntüleri sosyal medya hesabından \"Köprüde önümüze atlayan bariyere vurduk. Sizce kim hatalı?\" notuyla paylaştı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/koprude-suratlice-makas-atan-surucu-kaza-yaptigi-anlari-paylasti-4875137",
+      "publishedAt": "2026-11-21T09:42:46.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/gulek-yaylasinda-turk-semenderi-goruntulendi-4875130",
       "headline": "Gülek Yaylası'nda nesli tehlike altındaki Türk semenderi görüntülendi",
@@ -22,6 +41,30 @@
       "externalUrl": "https://www.yenisafak.com/gundem/gulek-yaylasinda-turk-semenderi-goruntulendi-4875130",
       "publishedAt": "2026-11-21T09:31:10.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T09:44:24.306Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "headline": "İran'ın Devrim Muhafızları Hürmüz Boğazı üzerinde bir ABD insansız hava aracını vurdu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1588281345136-9893252095bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZHJvbmUlMjBleHBsb3Npb258ZW58MXwwfHx8MTc5NTI1NDI2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Luke Jernejcic",
+        "photographerUrl": "https://unsplash.com/@jernejcic",
+        "unsplashUrl": "https://unsplash.com/photos/fireballs-erupting-against-blue-sky-Oi31uKsnM1Q"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "İran Devrim Muhafızları Ordusu (IRGC), Hürmüz Boğazı üzerinde bir ABD insansız hava aracını düşürdü. Bu gelişme, savaşı sona erdirmeye yönelik çabaların çıkmaza girdiği bir döneme denk geldi.\n\nOlayın ardından İran, Hürmüz Boğazı'nın yeniden açılmasına yönelik şartlarını yineledi. Bölgedeki gerilim sürerken taraflar arasında diplomatik çözüm çabaları da tıkanmış durumda.\n\nDiğer yandan ABD yönetimi, 'petrol vekilleri' olarak faaliyet gösterdiğini belirttiği dört İran vatandaşını yaptırım listesine ekledi. Washington'ın uyguladığı bu yeni yaptırımlar, iki ülke arasındaki mevcut gerginliği artıran bir diğer hamle olarak kaydedildi.",
+      "highlights": [
+        "İran Devrim Muhafızları Hürmüz üzerinde ABD İHA'sını vurdu",
+        "İran boğazın açılması için şartlarını yineledi",
+        "ABD dört İranlıya yaptırım uyguladı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "publishedAt": "2026-11-21T09:30:24.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -3575,7 +3618,7 @@
       "publishedAt": "2026-11-20T09:13:58.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:25:36.163Z"
+      "sourceTextAttemptedAt": "2026-11-21T09:44:24.306Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/video-51talkin-iki-ogrencisi-antalyada-iklim-ve-cevre-mesaji-verdi-1751740",
@@ -13949,52 +13992,6 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-israil-tvsinde-canli-yayinda-skandal-an-evlerinden-ettikleri-gazzeli-cocuklarla-boyle-alay-ettiler-7702228",
       "publishedAt": "2026-11-17T08:49:10.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
-      "headline": "İrlandalı boksör Lee Reeves 31 yaşında hayatını kaybetti",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1575747515871-2e323827539e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Ym94aW5nJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NDkwNTA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "David Guliciuc",
-        "photographerUrl": "https://unsplash.com/@hypefilms",
-        "unsplashUrl": "https://unsplash.com/photos/brown-and-gray-boxing-stage-o2zrjlM5s5o"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "İrlandalı boksör Lee Reeves, Dublin'de Gary Cully ile yaptığı maçta ağır yaralanmasından üç ay sonra Limerick'te yaşamını yitirdi.",
-      "highlights": [
-        "Lee Reeves 31 yaşında hayatını kaybetti",
-        "Ölüm nedeni üç ay önce aldığı yaralar",
-        "Olay Limerick'te gerçekleşti"
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
-      "publishedAt": "2026-11-17T08:41:21.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/5-ab-ulkesinden-gocmenlerle-mucadele-adimi-sinir-disi-etme-merkezi-kurulacak-7702316",
-      "headline": "5 AB ülkesinden göçmenlerle mücadele adımı: Sınır dışı etme merkezi kurulacak",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1646579220694-19b415b52869?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8U29uJTIwRGFraWthfGVufDF8MHx8fDE3OTQ5MDMyODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Herlambang Tinasih Gusti",
-        "photographerUrl": "https://unsplash.com/@tinasihgusti",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-next-to-each-other-BgQQLPJIqkI"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Almanya, Danimarka, Avusturya, Yunanistan ve Hollanda, düzensiz göçmenleri Ruanda'ya göndermek üzere anlaştı. Gelecek yıl Ruanda'da açılması beklenen geri dönüş merkezine, ilk aşamada pilot uygulama kapsamında yaklaşık 100 kişinin gönderilmesi planlanıyor. İngiltere'nin iptal edilen planından farklı olarak bu anlaşma, kalma hakkı için tüm yasal yolları tüketmiş ve kendi ülkelerine iade edilemeyen göçmenleri kapsıyor.",
-      "highlights": [
-        "Beş AB ülkesi düzensiz göçmenleri Ruanda'ya göndermek için anlaştı.",
-        "Gelecek yıl açılacak merkeze ilk aşamada yaklaşık 100 kişi gönderilecek.",
-        "Anlaşma, sınır dışı kararı kesinleşmiş ancak iade edilemeyen göçmenleri kapsıyor."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/5-ab-ulkesinden-gocmenlerle-mucadele-adimi-sinir-disi-etme-merkezi-kurulacak-7702316",
-      "publishedAt": "2026-11-17T08:40:40.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     }
   ],
