@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T18:04:40.300Z",
+  "generatedAt": "2026-11-21T18:09:41.334Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/istanbulda-kritik-gazze-gorusmesi-mit-baskani-ibrahim-kalin-hamas-heyetiyle-bir-araya-geldi-3496261",
+      "headline": "İstanbul'da kritik Gazze görüşmesi: MİT Başkanı İbrahim Kalın, Hamas heyetiyle bir araya geldi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1623613229313-5e59f698526f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXN0YW5idWwlMjBtZWV0aW5nfGVufDF8MHx8fDE3OTUyODQ1NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ibrahim Uzun",
+        "photographerUrl": "https://unsplash.com/@ibuzn",
+        "unsplashUrl": "https://unsplash.com/photos/galata-tower-skyline-in-istanbul-XupGtwWXw5g"
+      },
+      "timeAgo": "şimdi",
+      "body": "Milli İstihbarat Teşkilatı (MİT) Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye liderliğindeki üst düzey bir heyetle görüştü. Güvenlik kaynaklarından edinilen bilgilere göre, gerçekleşen toplantıda Gazze'deki ateşkesin uygulanması ve bölgedeki gelişmeler ele alındı.\n\nİsrail'in Gazze Şeridi ile Batı Şeria'daki artan saldırıları, Mescid-i Aksa'ya yönelik ihlalleri, Sarı Hat'ı ihlal eden son askeri operasyonları ve ateşkese aykırı uygulamaları görüşmenin önemli başlıkları arasında yer aldı. Ayrıca İsrailli yerleşimcilerin Filistinlilere yönelik saldırıları ve göçe zorlayan uygulamalar da gündeme getirildi.\n\nToplantıda, İsrail'in ihlalleri sebebiyle sekteye uğrayan Barış Planı'nın yeniden ilerletilmesi için atılabilecek adımlar değerlendirildi. Kış şartlarının etkisiyle Gazze'de giderek ağırlaşan insani kriz de ele alınarak yardımların ihtiyaç sahiplerine ulaştırılmasının önemi vurgulandı.\nMİT Başkanı Kalın, görüşmede Türkiye'nin Filistin halkına olan desteğini yineledi. Türkiye'nin Gazze'ye insani yardım ulaştırılması için diğer arabulucular ve uluslararası ortaklarla yürüttüğü çalışmalar da toplantıda aktarıldı.",
+      "highlights": [
+        "MİT Başkanı İbrahim Kalın, İstanbul'da Hamas Siyasi Büro Başkanı Halil el-Hayye liderliğindeki heyetle görüştü.",
+        "Görüşmede ateşkes ihlalleri, İsrail'in saldırıları ve Barış Planı'nın durumu ele alındı.",
+        "Kalın, Türkiye'nin Filistin halkına desteğini yineledi ve insani yardım çalışmaları vurgulandı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/istanbulda-kritik-gazze-gorusmesi-mit-baskani-ibrahim-kalin-hamas-heyetiyle-bir-araya-geldi-3496261",
+      "publishedAt": "2026-11-21T18:12:42.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/live-galatasaray-2-1-samsunspor-mac-ozeti-aslan-basaksehirde-rekor-kirdi-3496119",
       "headline": "Galatasaray 2-1 Samsunspor | Maç Özeti | Aslan, Başakşehir'de rekor kırdı!",
@@ -39,15 +63,16 @@
       "timeAgo": "2 dk önce",
       "body": "Baltık Denizi'nde Cumartesi günü gerçekleştirilen drone saldırısı sonucunda bir Rus kargo gemisi alev alarak yandı ve ardından Finlandiya sularına sürüklendi. Kiev'den bildiren FRANCE 24 muhabiri Gulliver Cragg, hedef alınan geminin büyük bir Rus askeri lojistik şirketiyle bağlantılı olduğunu aktardı.\n\nUkrayna makamlarının genellikle bu tür olayların sorumluluğunu üstlenmediğini veya reddetmediğini belirten Cragg, analistlerin saldırı için net bir motivasyona işaret ettiğini ifade etti. Olayla ilgili detaylar ve gelişmeler bölgedeki kaynaklar tarafından takip ediliyor.",
       "highlights": [
-        "Baltık Denizi'nde bir Rus kargo gemisi drone saldırısıyla yandı",
+        "Rus kargo gemisi Baltık Denizi'nde drone saldırısıyla yandı",
         "Geminin Finlandiya sularına sürüklendiği bildirildi",
-        "Hedef alınan geminin Rus askeri lojistik şirketiyle bağlantılı olduğu belirtildi"
+        "Gemi büyük bir Rus askeri lojistik şirketiyle bağlantılı"
       ],
       "externalUrl": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
       "publishedAt": "2026-11-21T18:02:23.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T18:09:30.348Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/bilal-erdogan-ulkemiz-musluman-ulkeler-arasinda-ekonomik-buyukluk-itibariyla-birinci-siraya-cikti-3496257",
@@ -3624,7 +3649,7 @@
       "publishedAt": "2026-11-20T17:44:18.000Z",
       "category": "Teknoloji",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T18:04:21.314Z",
+      "sourceTextAttemptedAt": "2026-11-21T18:09:30.348Z",
       "isBreaking": false
     },
     {
@@ -14617,30 +14642,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T19:34:19.608Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/son-dakika-deprem-17-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-17-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3494212",
-      "headline": "17 Kasım 2026 AFAD ve Kandilli Rasathanesi son depremler listesi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1653971296122-6b384285ed65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZWFydGhxdWFrZSUyMHNlaXNtb2dyYXBofGVufDF8MHx8fDE3OTQ5NDI4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Aedrian Salazar",
-        "photographerUrl": "https://unsplash.com/@aedrian",
-        "unsplashUrl": "https://unsplash.com/photos/a-blurry-image-of-a-red-and-blue-wave-e1e2JiEAd70"
-      },
-      "timeAgo": "şimdi",
-      "body": "17 Kasım Salı günü son dakika deprem haberleri ve yaşanan sarsıntılar vatandaşlar tarafından araştırılmaya devam ediyor. Bulundukları bölgelerde sarsıntı hisseden çok sayıda kişi internet üzerinden arama yaparak son depremler listesini sorguluyor.\n\nAfet ve Acil Durum Yönetimi Başkanlığı (AFAD) verilerine göre, 17 Kasım Salı günü Adıyaman'da bir deprem kaydedildi. Saat 09:59'da merkez üssü Aksu-Sincik (Adıyaman) olan depremin büyüklüğü 2.2 ve derinliği 5.2 kilometre olarak ölçüldü. Ayrıca AFAD, Van Gölü'nde de 4.3 büyüklüğünde bir deprem meydana geldiğini açıkladı.\n\nYaşanan sarsıntıların ardından vatandaşlar Kandilli Rasathanesi ve AFAD'ın son depremler listesini yakından takip ediyor. Boğaziçi Üniversitesi Kandilli Rasathanesi ve AFAD internet siteleri üzerinden depremlerin büyüklüğü, şiddeti, merkezi ve derinliği gibi bilgilere ulaşılabiliyor.",
-      "highlights": [
-        "AFAD verilerine göre Adıyaman'da saat 09:59'da 2.2 büyüklüğünde deprem oldu.",
-        "AFAD, Van Gölü'nde 4.3 büyüklüğünde bir deprem meydana geldiğini açıkladı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-deprem-17-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-17-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3494212",
-      "publishedAt": "2026-11-17T19:15:56.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T19:24:21.469Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14850,6 +14851,7 @@
     "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
     "https://www.milliyet.com.tr/gundem/beyoglunda-5-katli-binada-yangin-cok-sayida-ekip-sevk-edildi-7705080",
     "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss"
   ]
 }
