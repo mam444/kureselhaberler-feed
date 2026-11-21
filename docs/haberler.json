@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T16:04:48.333Z",
+  "generatedAt": "2026-11-21T16:14:40.826Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-hava-bir-anda-degisti-aniden-baslayan-dolu-yagisi-sonrasi-yollar-beyaza-burundu-7705212",
+      "headline": "İstanbul'da ani dolu ve sağanak yağış etkili oldu, Meteoroloji'den soğuk hava uyarısı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1551311837-f6b8462ee878?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aGFpbCUyMHN0b3JtJTIwSXN0YW5idWx8ZW58MXwwfHx8MTc5NTI3NzY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Samet Kurtkus",
+        "photographerUrl": "https://unsplash.com/@sametkurtkus",
+        "unsplashUrl": "https://unsplash.com/photos/flock-of-birds-flying-PKjvwC43398"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "İstanbul'un Silivri ve Çatalca ilçelerinde aniden başlayan dolu yağışı yolları ve kaldırımları beyaza bürüdü. Büyükçekmece'de ise sağanak nedeniyle cadde ve sokaklarda su birikintileri oluştu. Kuzey Marmara Otoyolu Çatalca mevkiinde dolu yağışı ve tünelde mahsur kalan araçlar cep telefonu kameralarına yansıdı. Sürücüler trafikte ilerlemekte zorluk çekti.\n\nÖte yandan Meteoroloji Genel Müdürlüğü ve uzmanlar yurt genelinde hava sıcaklıklarının düşeceğini bildirdi. Balkanlar üzerinden gelen soğuk hava dalgası nedeniyle salı günü sıcaklıkların 7 ila 9 derece azalması bekleniyor.\n\nProf. Dr. Orhan Şen sosyal medya açıklamasında salı gününden itibaren sıcaklıkların düşeceğini belirterek uyarılarda bulundu. Meteoroloji, beklenen kuvvetli yağışlar nedeniyle 21 il için sarı kodlu uyarı yayımladı.\n\nTürkiye genelinde birçok bölgede sağanak ve gök gürültülü sağanak yağış tahmin edilirken, yüksek kesimlerde karla karışık yağmur ve kar bekleniyor. Yetkililer yaşanabilecek olumsuzluklara karşı dikkatli olunmasını istedi.",
+      "highlights": [
+        "İstanbul'un Silivri ve Çatalca ilçelerinde dolu yağışı yolları beyaza bürüdü.",
+        "Büyükçekmece'de sağanak nedeniyle su birikintileri oluştu.",
+        "Meteoroloji ve uzmanlar salı gününden itibaren sıcaklıkların düşeceği konusunda uyardı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-istanbulda-hava-bir-anda-degisti-aniden-baslayan-dolu-yagisi-sonrasi-yollar-beyaza-burundu-7705212",
+      "publishedAt": "2026-11-21T16:10:45.000Z",
+      "category": "Yaşam",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/otomobil/elektrikli-arac-ekspertizinde-batarya-kontrolu-basladi-3496239",
       "headline": "Elektrikli araç ekspertizinde batarya kontrolü başladı",
@@ -15,13 +39,38 @@
       "timeAgo": "şimdi",
       "body": "Auto King Oto Ekspertiz, elektrikli araçlara yönelik yeni nesil ekspertiz çözümü olan EV KING hizmetini kullanıma sundu. 21.11.2026 tarihinde paylaşılan bilgilere göre bu yeni hizmet, elektrikli araç sahiplerinin ve alıcılarının ihtiyaçlarına yanıt vermek amacıyla geliştirildi.\n\nYalnızca Auto King Oto Ekspertiz noktalarında sunulan EV KING, teknolojik hizmet deneyimini yeni nesil ölçüm cihazları ve ileri teknoloji batarya kontrolüyle bir araya getiriyor. Hizmet kapsamında batarya sağlığı, hücre analizi ve şarj döngüsüne ilişkin veriler detaylı biçimde değerlendiriliyor.\n\nAuto King Oto Ekspertiz Genel Müdürü Berkay Çelik, elektrikli araçların yaygınlaşmasının ekspertiz standartlarını ve tüketici beklentilerini yeniden şekillendirdiğini belirtti. Çelik, bir aracın gerçek durumunu anlamak için dış görünüm ve kilometrenin yeterli olmadığını, batarya sağlık durumunu bilmenin büyük önem taşıdığını ifade etti.\n\nGeleneksel ekspertiz kriterlerinin ötesine geçen EV KING, ikinci el değerini ve performansı etkileyen batarya bileşenini yeni nesil ölçüm cihazlarıyla analiz ediyor. Bu sayede tüketicilere araçlarının mevcut durumu hakkında önemli teknik bilgiler sunuluyor.",
       "highlights": [
-        "Auto King Oto Ekspertiz, EV KING hizmetini hayata geçirdi.",
-        "Hizmet kapsamında ileri teknoloji batarya kontrolü ve hücre analizi yapılıyor.",
-        "Berkay Çelik, batarya sağlığının önemine dikkat çekti."
+        "Auto King Oto Ekspertiz, EV KING adlı yeni nesil ekspertiz hizmetini hayata geçirdi.",
+        "Hizmet kapsamında yeni nesil ölçüm cihazları ve ileri teknoloji batarya kontrolü yapılıyor.",
+        "Genel Müdür Berkay Çelik, batarya sağlığı, hücre analizi ve şarj döngüsü verilerinin değerlendirildiğini belirtti."
       ],
       "externalUrl": "https://www.cnnturk.com/otomobil/elektrikli-arac-ekspertizinde-batarya-kontrolu-basladi-3496239",
       "publishedAt": "2026-11-21T16:08:35.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T16:14:29.137Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+      "headline": "Meksika'da Kartel Lideri Olduğu İddia Edilen Chapo Isidro Yakalandı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1774305455455-be778c4774d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwYXJyZXN0JTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNzc2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Orlando García",
+        "photographerUrl": "https://unsplash.com/@orlandogp",
+        "unsplashUrl": "https://unsplash.com/photos/people-stand-outside-a-closed-store-at-night-Pd4k_lodveE"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Meksika güçleri, ülkenin Sinaloa eyaletinde Chapo Isidro'yu gözaltına aldı. Operasyon sonucunda ele geçirilen şüphelinin, Amerika Birleşik Devletleri'nin uyuşturucu suçlamalarıyla karşı karşıya olduğu bildirildi. Chapo Isidro, aynı zamanda Amerika Birleşik Devletleri Federal Soruşturma Bürosu'nun en çok arananlar listesinde yer alıyordu.\n\nYetkililer tarafından gerçekleştirilen bu tutuklama, uluslararası alanda dikkat çeken operasyonlar arasında yerini aldı. Şüphelinin yakalanmasıyla ilgili süreç ve ilerleyen dönemde sevk edileceği merciler hakkındaki detaylar, mevcut resmi açıklamalarla sınırlı kalmaya devam ediyor.",
+      "highlights": [
+        "Meksika güçleri Chapo Isidro'yu Sinaloa'da tutukladı",
+        "Şüpheli FBI'ın en çok arananlar listesindeydi",
+        "ABD'de uyuşturucu suçlamalarıyla karşı karşıya bulunuyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+      "publishedAt": "2026-11-21T16:03:16.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -89,15 +138,16 @@
       "timeAgo": "14 dk önce",
       "body": "Fransa, artan yaşam maliyetleri ve gelecek yıl yapılacak cumhurbaşkanlığı seçimi öncesinde haftalardır süren toplumsal huzursuzluğun hükümet tarafından ele alınış biçimini protesto etmek amacıyla sokaklara dökülen eylemcilerle birlikte art arda altıncı Cumartesi gününü yaşıyor. Ülke genelinde düzenlenen bu eylemlerde göstericiler tepkilerini dile getirmek için bir kez daha alanlara çıktı.\n\nFrance 24 muhabiri Antonia Kerrigan, konuyla ilgili detaylı bilgileri aktardı. 21.11.2026 tarihinde yayımlanan haberde, Fransa'da yaşanan bu protesto dalgasının ardındaki temel motivasyonların yaşam maliyetlerindeki artış ve hükümetin politikaları olduğu belirtildi.\n\nEylemlerin, önümüzdeki yıl düzenlenecek olan cumhurbaşkanlığı seçimi öncesindeki süreçte gerçekleştiği vurgulandı. Göstericiler, sosyal huzursuzlukların yönetiliş şekline karşı tepkilerini sokaklarda sürdürüyor.",
       "highlights": [
-        "Fransa art arda altıncı Cumartesi protestolarına sahne oluyor",
-        "Eylemciler artan yaşam maliyetlerini protesto ediyor",
-        "Gösteriler gelecek yılki cumhurbaşkanlığı seçimi öncesinde düzenleniyor"
+        "Fransa art arda altıncı Cumartesi gününde protestolara sahne oluyor",
+        "Göstericiler artan yaşam maliyetleri ve hükümetin politikalarını protesto ediyor",
+        "Eylemler gelecek yıl yapılacak cumhurbaşkanlığı seçimi öncesinde gerçekleşiyor"
       ],
       "externalUrl": "https://www.france24.com/en/new-day-of-protests-across-france",
       "publishedAt": "2026-11-21T15:50:52.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T16:14:29.137Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261121-french-court-finds-racism-played-role-in-police-beating-of-black-music-producer",
@@ -14582,58 +14632,6 @@
       "imageSearchAttemptedAt": "2026-11-21T14:24:24.169Z",
       "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/bakan-gurlek-fon-sorusturmasinda-129-tutuklu-var-1751341",
-      "headline": "Bakan Gürlek: Fon soruşturmasında 129 tutuklu var",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1701605919891-1824e8dae598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRyb29tJTIwanVzdGljZXxlbnwxfDB8fHwxNzk0OTM2NTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nathan Cima",
-        "photographerUrl": "https://unsplash.com/@nathan_cima",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-door-A4Qca4vX1Q0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Adalet Bakanı Akın Gürlek, İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturmalarına ilişkin son gelişmeleri kamuoyuyla paylaştı. Soruşturmaların yeni elde edilen deliller doğrultusunda derinleştirildiğini aktaran Gürlek, para hareketleri ile mal varlığı devirlerinin detaylıca incelendiğini kaydetti. Sürecin iyi niyetli yatırımcıların haklarını ilgilendirdiğini belirten Gürlek, ilgili kurumların koordinasyon içerisinde çalıştığını ifade etti.\n\nSoruşturma kapsamında toplam 498 şüpheli bulunduğunu açıklayan Adalet Bakanı Gürlek, bunlardan 129'unun tutuklandığını bildirdi. Şüphelilerin 289'u hakkında adli kontrol tedbirleri uygulanırken, haklarında yakalama kararı çıkarılan 54 kişinin yakalanması için çalışmaların devam ettiği belirtildi. Gözaltındaki 22 şüphelinin ise adli işlemlerinin sürdüğü aktarıldı. Suç gelirlerinin kaçırılmasını engellemek amacıyla 417 gerçek kişi ile 149 tüzel kişinin mal varlığına el koyma ve dondurma tedbiri getirildi.\n\nGönüllü iade ve geri kazanım süreçleri kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildiğini belirten Gürlek, bu işlemin kişileri hukuki sorumluluktan tek başına kurtarmayacağını vurguladı. Soruşturmaların kapsamının fon yöneticileriyle sınırlı kalmadığını dile getiren Gürlek, kamu görevlileri dahil tüm sorumlulukların incelendiğini belirterek, kişilerin makam veya bağlantılarının değil somut delillerin belirleyici olduğunu kaydetti. Ayrıca Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlığında 10'uncu Fon Koordinasyon Kurulu Toplantısı'nın gerçekleştirildiği hatırlatıldı.",
-      "highlights": [
-        "Fon soruşturmalarında toplam 498 şüpheli bulunuyor ve bunlardan 129'u tutuklu.",
-        "417 gerçek kişi ile 149 tüzel kişinin mal varlıkları hakkında el koyma ve dondurma kararı alındı.",
-        "Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/bakan-gurlek-fon-sorusturmasinda-129-tutuklu-var-1751341",
-      "publishedAt": "2026-11-17T16:49:46.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:28:56.932Z",
-      "sourceTextAttemptedAt": "2026-11-17T17:41:00.908Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/bakan-gurlekten-fon-sorusturmasi-aciklamasi-129-supheli-tutuklu-7702635",
-      "headline": "Bakan Gürlek'ten fon soruşturması açıklaması: 75 kişiden 40.4 milyar TL tahsil edildi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1743000332522-c0cd8b66b8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QmFrYW4lMjBHJUMzJUJDcmxlayUyN3RlbiUyMGZvbiUyMHNvcnUlQzUlOUZ0dXJtYXMlQzQlQjElMjBhJUMzJUE3JUM0JUIxa2xhbWFzJUM0JUIxJTNBJTIwNzUlMjBraSVDNSU5RmlkZW4lMjA0MC40JTIwbWlseWFyJTIwVEwlMjB0YWhzaWwlMjBlZGlsZGl8ZW58MXwwfHx8MTc5NDkzNjU1M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mahmut Yıldız",
-        "photographerUrl": "https://unsplash.com/@iammahmutyildiz",
-        "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Adalet Bakanı Akın Gürlek, fon soruşturmalarında toplam 498 şüphelinin bulunduğunu, bunlardan 129'unun tutuklu olduğunu ve 289'u hakkında adli kontrol kararı verildiğini açıkladı. Gürlek, sosyal medya hesabından yaptığı açıklamada, soruşturmaların yeni deliller doğrultusunda derinleştirildiğini ve iyi niyetli yatırımcıların haklarının yakından takip edildiğini belirtti. İstanbul Cumhuriyet Başsavcılığınca yürütülen soruşturmalarda para hareketleri, mal varlığı devirleri ve bağlantılı hesapların ayrıntılı incelendiğini vurgulayan Bakan Gürlek, somut deliller ile hukuki sorumluluğun esas alındığını ifade etti.\n\nSoruşturma kapsamında, hakkında yakalama kararı bulunan 54 şüpheliye yönelik çalışmalar sürerken gözaltındaki 22 şüphelinin adli işlemlerinin devam ettiği bildirildi. Suçtan elde edildiği değerlendirilen gelirlerin kaçırılmasını önlemek amacıyla 417 gerçek kişi ve 149 tüzel kişinin mal varlıklarına el koyma ve dondurma kararı uygulandı. Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildiğini belirten Gürlek, gönüllü iadenin tek başına hukuki sorumluluğu ortadan kaldırmadığını kaydetti.\n\nCumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında 10'uncu Fon Koordinasyon Kurulu Toplantısı'nın gerçekleştirildiğini aktaran Gürlek, soruşturmaların seyri ve mali incelemelerin değerlendirildiğini ifade etti. Bakan Gürlek, maddi gerçeğin ortaya çıkarılması ve vatandaşların haklarının korunması için çalışmaların kararlılıkla sürdürüleceğini kaydetti.",
-      "highlights": [
-        "Soruşturmalarda toplam 498 şüpheli bulunurken 129 şüpheli tutuklandı, 289 şüpheli hakkında adli kontrol kararı verildi.",
-        "Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi.",
-        "417 gerçek kişi ve 149 tüzel kişinin mal varlıkları hakkında el koyma ve dondurma kararı uygulandı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-gurlekten-fon-sorusturmasi-aciklamasi-129-supheli-tutuklu-7702635",
-      "publishedAt": "2026-11-17T16:47:05.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:28:56.932Z",
-      "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
