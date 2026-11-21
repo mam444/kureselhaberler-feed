@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T19:14:34.084Z",
+  "generatedAt": "2026-11-21T19:24:35.433Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/tugba-ozay-zeytinyagi-fiyatini-yuksek-bulanlari-elestirdi-4875289",
+      "headline": "Tuğba Özay zeytin hasadı yaptı, fiyatı yüksek bulanları eleştirdi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1642275964193-8b9a8523443b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8b2xpdmUlMjBoYXJ2ZXN0fGVufDF8MHx8fDE3OTUyODkwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sophie Laurent",
+        "photographerUrl": "https://unsplash.com/@sophie_wild_wisdom",
+        "unsplashUrl": "https://unsplash.com/photos/a-hand-holding-a-bunch-of-green-and-black-olives-TAkpcOEByIE"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Antalya'nın Manavgat ilçesinde bulunan bahçesinde zeytin hasadı gerçekleştiren eski manken ve sanatçı Tuğba Özay, artan maliyetlere rağmen zeytinyağı fiyatlarının düşmesine dikkat çekti. Yaklaşık 25 yıldır zeytin yetiştirdiğini ve kendi markasını kurduğunu belirten Özay, bu yıl rekoltenin çok iyi ve hasadın bereketli geçtiğini ifade etti. Özay, üreticinin ürününün değerini bulması gerektiğini vurguladı.\n\nArtan giderlere değinen Özay, yevmiyelerin çok arttığını; sıkma, toplama, budama, kireç, çapalama ve bordo bulamacı masraflarının ayrı ayrı yapıldığını anlattı. Geçtiğimiz yıl 350-400 lira seviyesine çıkan zeytinyağı fiyatlarının bu yıl 200-250 liraya müşteri aradığını belirten Özay, tüketicilerin kremlere ve parfümlere binlerce lira harcayıp zeytinyağına pahalı demesini eleştirdi.\n\nZeytin ağaçlarının kökleriyle birbirine bağlı olduğunu söyleyen sanatçı, Türkiye'nin dünyada zeytin üretiminde ilk beş içinde yer almasına rağmen ağaçların kesildiğini ve dışarıdan zeytin alındığını dile getirdi. Ayrıca Canan Karatay ve İlber Ortaylı'nın zeytin hakkındaki önemli bilgilerine değindi.\n\nSon olarak sahtecilik konusunda uyarılarda bulunan Tuğba Özay, içerisine soya yağı karıştırılan sahte yağların ucuz fiyatlarla satıldığını aktararak vatandaşları bu tür ürünlere aldanmamaları konusunda uyardı. Kendi zeytinyağlarının asit oranının 0.3 olduğunu belirtti.",
+      "highlights": [
+        "Tuğba Özay Manavgat'taki bahçesinde zeytin hasadı yaptı",
+        "Zeytinyağı fiyatlarının geçen yıla göre düştüğünü belirtti",
+        "Sahte zeytinyağı karışımlarına karşı tüketicileri uyardı"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/tugba-ozay-zeytinyagi-fiyatini-yuksek-bulanlari-elestirdi-4875289",
+      "publishedAt": "2026-11-21T19:23:38.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/sanliurfa-ceylanpinarda-feci-kaza-olu-ve-yaralilar-var-7705271",
       "headline": "Şanlıurfa Ceylanpınar'da iki otomobil çarpıştı: Ölü ve yaralılar var",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-21T19:09:56.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T19:24:27.020Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
@@ -73,6 +98,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T19:14:18.351Z"
+    },
+    {
+      "id": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "headline": "Queensland’s LNP faces reckoning over broken health system amid preventable deaths",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1773720262167-c4bc68b961b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8UXVlZW5zbGFuZCUyMGhvc3BpdGFsJTIwYW1idWxhbmNlfGVufDF8MHx8fDE3OTUyODkwNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stewart Munro",
+        "photographerUrl": "https://unsplash.com/@stewartmunro",
+        "unsplashUrl": "https://unsplash.com/photos/queensland-irish-association-float-at-a-parade-xQ93zK_bCTE"
+      },
+      "timeAgo": "24 dk önce",
+      "body": "Queensland's LNP government has faced intense political pressure and a parliamentary barrage regarding the state's healthcare system. During the parliamentary sitting week, the opposition accused the government of overseeing a broken system following reports of multiple deaths of individuals waiting for medical attention.\n\nParliament heard that six people had died while waiting for an ambulance over the previous three weeks, with some enduring hours-long waits despite being triaged as urgent. Additionally, a man died by suicide in the emergency department of the Prince Charles hospital after taking three hours for staff to locate him.\n\nHealth Minister Tim Nicholls struggled to respond to the opposition's questioning in parliament. Initially, Nicholls criticized questions regarding ambulance ramping and gave incorrect information before later correcting the parliamentary record to confirm that four ambulances were waiting on the ramp at Townsville University hospital.\n\nNicholls attempted to deflect blame toward the federal government, the former Labor state government, and overwhelmed hospitals. Amid mounting pressure, he attended an emergency meeting with Premier David Crisafulli, health department director general David Rosengren, and ambulance service commissioner Craig Emery, later promising to reinvest in health services.\n\nFormer health minister and opposition leader Steven Miles lashed out at the government over the preventable deaths, stating that Queenslanders were left waiting hours for ambulances. The political fallout has left the LNP government confronting accountability for health system failures.",
+      "highlights": [
+        "Queensland's LNP government faced scrutiny over a broken health system.",
+        "Six people reportedly died waiting for an ambulance over a three-week period.",
+        "Health Minister Tim Nicholls promised to reinvest in health services."
+      ],
+      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+      "publishedAt": "2026-11-21T19:00:08.000Z",
+      "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
@@ -3538,15 +3587,15 @@
       "timeAgo": "şimdi",
       "body": "Büyük ve küçük birçok kişinin ilgiyle izlediği Buz Devri 5, televizyon ekranlarında izleyiciyle buluşuyor. Sevilen animasyon serisinin beşinci filmi, ekranlardaki yerini almasının ardından izleyicilerin merak konusu oldu. Yönetmenliğini Carlos Saldanha'nın üstlendiği yapım, tahmini 80 milyon dolarlık bütçesine karşılık 660 milyon 998 bin 756 dolar gişe hasılatı elde etti. Bu sonuçla film, animasyon filmleri arasında dünya listesinde 27. sıraya yerleşti.\n\nFilmin konusu ise meşe palamudu delisi firavun faresi Scrat'ın karnını doyurmaya çalışırken kozmik olayları tetiklemesiyle başlıyor. Yaşanan bu gelişmeler, serinin sevilen kahramanlarının dünyasına kadar uzanıyor ve dünya bir kez daha yok olma tehlikesiyle karşı karşıya kalıyor. Bu kez dünyaya çarpabilecek hızda bir meteor yörüngeye yaklaşmaktadır.\n\nİzleyiciler tarafından seslendirme kadrosu da merak ediliyor. Filmde rol alan ve karakterleri seslendiren isimler arasında Carlos Saldanha (Dodo), John Leguizamo (Sid), Chris Wedge (Scrat), Ray Romano (Manfred), Queen Latifah (Ellie), Denis Leary (Diego), Josh Peck (Eddie) ve Seann William Scott (Crash) yer alıyor.",
       "highlights": [
-        "Buz Devri 5 filmi televizyon ekranlarında izleyiciyle buluşuyor.",
-        "Scrat'ın tetiklediği kozmik olaylar sonucunda dünyaya bir meteor yaklaşıyor.",
-        "Film, Carlos Saldanha yönetmenliğinde gişede 660.998.756 dolar hasılat yaptı."
+        "Buz Devri 5 filminin yönetmenliğini Carlos Saldanha üstleniyor.",
+        "Scrat'ın tetiklediği olaylar sonucu bir meteor dünyaya yaklaşarak tehlike yaratıyor.",
+        "Seslendirme kadrosunda John Leguizamo, Ray Romano ve Queen Latifah gibi isimler bulunuyor."
       ],
       "externalUrl": "https://www.cnnturk.com/magazin/buz-devri-5-filmi-konusu-nedir-buz-devri-5-kimler-seslendiriyor-3495930",
       "publishedAt": "2026-11-20T19:06:16.000Z",
       "category": "Kültür & Sanat",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T19:14:26.960Z",
+      "sourceTextAttemptedAt": "2026-11-21T19:24:27.020Z",
       "isBreaking": false
     },
     {
@@ -8653,7 +8702,7 @@
       "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T13:14:17.904Z",
+      "imageSearchAttemptedAt": "2026-11-21T19:24:27.020Z",
       "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
       "isBreaking": false
     },
@@ -8996,7 +9045,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:14:23.712Z",
-      "imageSearchAttemptedAt": "2026-11-21T13:14:17.904Z",
+      "imageSearchAttemptedAt": "2026-11-21T19:24:27.020Z",
       "isBreaking": false
     },
     {
@@ -14596,52 +14645,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T06:54:33.709Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/resmi-gazetede-5-anlasmanin-yururluk-tarihi-yayimlandi-4873725",
-      "headline": "Türkiye'nin 5 uluslararası anlaşmasının yürürlük tarihleri Resmi Gazete'de",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "1 dk önce",
-      "body": "Türkiye'nin Ukrayna, Avrupa Komisyonu, Birleşmiş Milletler ve Katar ile imzaladığı 5 uluslararası anlaşmanın yürürlüğe girdiği tarihler, Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasını taşıyan kararla Resmi Gazete'de yayımlandı.",
-      "highlights": [
-        "Türkiye'nin 5 uluslararası anlaşmasının yürürlük tarihleri Resmi Gazete'de yayımlandı.",
-        "Ukrayna ile Serbest Ticaret Anlaşması'nın yürürlük tarihi 1 Ekim 2026 olarak belirlendi.",
-        "Katar ile askeri konuşlanma teknik düzenlemesinin yürürlük tarihi 30 Eylül 2022 oldu."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/resmi-gazetede-5-anlasmanin-yururluk-tarihi-yayimlandi-4873725",
-      "publishedAt": "2026-11-18T06:13:35.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T06:34:33.389Z",
-      "imageSearchAttemptedAt": "2026-11-21T14:04:25.326Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-putinden-abd-rusya-cin-zirvesi-oncesi-kritik-mesaj-onemli-faydalar-saglayacak-7702765",
-      "headline": "Putin'den ABD-Rusya-Çin zirvesi öncesi kritik mesaj: Önemli faydalar sağlayacak",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1645930900640-b550978bac74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VmxhZGltaXIlMjBQdXRpbnxlbnwxfDB8fHwxNzk0OTgxMjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Yohan Marion",
-        "photographerUrl": "https://unsplash.com/@yohanmarion",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-standing-around-a-white-house-c4ad9PlSkaI"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Rusya Devlet Başkanı Vladimir Putin, Çin'in Shenzhen şehrinde gerçekleştirilen Asya-Pasifik Ekonomik İşbirliği (APEC) CEO Zirvesi'nde değerlendirmelerde bulundu. Küresel ekonomideki ağırlığın Asya-Pasifik bölgesine kaydığını belirten Putin, bölgenin dünya ekonomisinin merkezi ile en önemli sanayi ve teknoloji üssü haline geldiğini vurguladı.\n\nPutin, APEC ülkelerinin küresel Gayri Safi Yurt İçi Hasılanın (GSYH) yüzde 60'ından fazlasını ve dünya mal ticaretinin yüzde 50'sini oluşturduğunu kaydetti. Bazı ülkelerin ekonomik büyüyen rakiplerini engelleme çabalarına değinen Putin, yaptırımların, gümrük tarifelerinin ve ihracat kısıtlamalarının ülkelerin ekonomik gelişimini tamamen durduramadığını ifade etti.\n\nRusya'nın da kapsamlı yaptırımlarla karşı karşıya kaldığını aktaran Putin, son üç yılda Rusya'nın GSYH'sinin yüzde 10'dan fazla arttığını ve büyümeye devam ettiğini söyledi. Rusya'nın ihracatında dolar ve euronun payının 2021'deki yüzde 85 seviyesinden bugün yüzde 9'a düştüğünü bildiren Putin, ülkesinin alternatif finansal mekanizmalar geliştirdiğini belirtti.\n\nAvrupa Birliği'nin Rus enerji kaynaklarından vazgeçmesinin ekonomik sonuçlarına da değinen Putin, Avrupa'nın sanayi potansiyeli ile uluslararası rekabet gücünü kaybettiğini dile getirdi. Rusya'nın Asya-Pasifik ülkeleriyle ekonomik ilişkilerinin güçlendiğini, bölgenin ülkenin dış ticaretindeki payının yüzde 53'e ulaştığını kaydetti.\n\nUluslararası ekonomik ilişkilerde iş birliğinin önemine işaret eden Putin, küresel ekonomideki parçalanma ve artan riskler karşısında diyaloğa öncelik verilmesi gerektiğini vurguladı. Putin, APEC Zirvesi kapsamında yapılması planlanan Rusya, Çin ve ABD liderleri arasındaki üçlü görüşmenin önemli faydalar sağlayabileceğini düşündüğünü ifade etti.",
-      "highlights": [
-        "Son üç yılda Rusya'nın GSYH'si yüzde 10'dan fazla arttı.",
-        "Rusya'nın ihracatında dolar ve euronun payı yüzde 9'a geriledi.",
-        "Rusya, Çin ve ABD liderleri arasındaki üçlü görüşmenin önemli faydalar sağlayabileceği ifade edildi."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-putinden-abd-rusya-cin-zirvesi-oncesi-kritik-mesaj-onemli-faydalar-saglayacak-7702765",
-      "publishedAt": "2026-11-18T05:52:33.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
