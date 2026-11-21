@@ -1,6 +1,7 @@
 import { XMLParser } from 'fast-xml-parser';
 import { iconUrlFor } from './sources.mjs';
 import { decodeHtmlEntities } from './html-text.mjs';
+import { classifyArticleCategory, isBreakingArticle } from './category.mjs';
 
 const parser = new XMLParser({
   ignoreAttributes: false,
@@ -48,6 +49,13 @@ function textOf(node) {
   if (typeof node === 'string' || typeof node === 'number') return String(node);
   if (typeof node === 'object' && '#text' in node) return String(node['#text']);
   return String(node);
+}
+
+function categoryTexts(item) {
+  return [...asArray(item?.category), ...asArray(item?.['dc:subject'])]
+    .map(textOf)
+    .map((value) => value.trim())
+    .filter(Boolean);
 }
 
 const robotsRulesByOrigin = new Map();
@@ -197,10 +205,12 @@ function parseRssItem(item, source) {
     : stripHtml(encodedRaw);
   const publishedAt = item.pubDate ? new Date(textOf(item.pubDate)) : null;
   const image = extractImageFromItem(item, encodedRaw || descriptionRaw);
-  // Always our own curated Turkish category, never the feed's own <category>
-  // tag — those are inconsistent per source (some English, some missing),
-  // and a real news site's category nav needs to be clean and predictable.
-  const category = source.defaultCategory;
+  const feedCategories = categoryTexts(item);
+  const category = classifyArticleCategory({
+    headline: stripHtml(title), body: description,
+    sourceCategory: source.defaultCategory, feedCategories,
+    url: source.url, lang: source.lang,
+  });
 
   return {
     id: link,
@@ -212,6 +222,7 @@ function parseRssItem(item, source) {
     externalUrl: link,
     publishedAt: publishedAt && !Number.isNaN(publishedAt.getTime()) ? publishedAt.toISOString() : null,
     category: category || null,
+    isBreaking: isBreakingArticle({ headline: title, sourceCategory: source.defaultCategory }),
     lang: source.lang,
   };
 }
@@ -231,7 +242,12 @@ function parseAtomEntry(entry, source) {
   const publishedRaw = entry.published || entry.updated;
   const publishedAt = publishedRaw ? new Date(textOf(publishedRaw)) : null;
   const image = extractImageFromItem(entry, contentRaw || summaryRaw);
-  const category = source.defaultCategory;
+  const feedCategories = categoryTexts(entry);
+  const category = classifyArticleCategory({
+    headline: stripHtml(title), body: description,
+    sourceCategory: source.defaultCategory, feedCategories,
+    url: source.url, lang: source.lang,
+  });
 
   return {
     id: link,
@@ -243,6 +259,7 @@ function parseAtomEntry(entry, source) {
     externalUrl: link,
     publishedAt: publishedAt && !Number.isNaN(publishedAt.getTime()) ? publishedAt.toISOString() : null,
     category: category || null,
+    isBreaking: isBreakingArticle({ headline: title, sourceCategory: source.defaultCategory }),
     lang: source.lang,
   };
 }

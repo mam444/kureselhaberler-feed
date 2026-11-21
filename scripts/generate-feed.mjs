@@ -8,6 +8,7 @@ import { sendNewArticleNotification } from './onesignal.mjs';
 import { fcmTopicForCategory, sendAndroidPush } from './fcm.mjs';
 import { jaccardSimilarity } from './similarity.mjs';
 import { decodeHtmlEntities } from './html-text.mjs';
+import { classifyArticleCategory, isBreakingArticle } from './category.mjs';
 
 const FEED_PATH = path.resolve('docs/haberler.json');
 // The feed runs every ten minutes. Keep a per-run and rolling-hour cap based
@@ -136,9 +137,13 @@ async function rewriteAndIllustrate(raw) {
         highlights: rewritten.highlights ?? [],
         externalUrl: raw.externalUrl,
         publishedAt: raw.publishedAt,
-        category: raw.lang === 'en' && raw.category === 'World'
-          ? 'Dünya'
-          : raw.category,
+        category: classifyArticleCategory({
+          headline: raw.headline, body: raw.body,
+          sourceCategory: raw.category, url: raw.externalUrl, lang: raw.lang,
+        }),
+        isBreaking: isBreakingArticle({
+          headline: raw.headline, sourceCategory: raw.category, isBreaking: raw.isBreaking,
+        }),
         // Gemini's editorial prompt always produces Turkish, even when its
         // source item comes from an English-language international feed.
         lang: 'tr',
@@ -180,7 +185,13 @@ async function createRssFallback(raw) {
     highlights: [],
     externalUrl: raw.externalUrl,
     publishedAt: raw.publishedAt,
-    category: raw.category,
+    category: classifyArticleCategory({
+      headline: raw.headline, body: raw.body,
+      sourceCategory: raw.category, url: raw.externalUrl, lang: raw.lang,
+    }),
+    isBreaking: isBreakingArticle({
+      headline: raw.headline, sourceCategory: raw.category, isBreaking: raw.isBreaking,
+    }),
     lang: raw.lang,
   };
 }
@@ -414,9 +425,13 @@ async function main() {
         headline: decodeHtmlEntities(article.headline),
         body: article.body ? decodeHtmlEntities(article.body) : article.body,
         lang: wasTranslatedToTurkish ? 'tr' : article.lang,
-        category: wasTranslatedToTurkish && article.category === 'World'
-          ? 'Dünya'
-          : article.category,
+        category: classifyArticleCategory({
+          headline: article.headline, body: article.body,
+          sourceCategory: article.category, url: article.externalUrl, lang: article.lang,
+        }),
+        isBreaking: isBreakingArticle({
+          headline: article.headline, sourceCategory: article.category, isBreaking: article.isBreaking,
+        }),
       };
     })
     .filter((article) => isWithinNewsWindow(article, now))

@@ -327,6 +327,25 @@
     color:var(--cat-accent,var(--gold)); background:color-mix(in srgb,var(--cat-accent,var(--gold)) 11%, transparent); }
   .home-quick-cat .quick-icon .msr { font-size:21px; }
   .home-quick-cat span:last-child { max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:10.5px; font-weight:800; }
+  .explore-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:14px; margin:18px 0 28px; }
+  .explore-card { overflow:hidden; border:1px solid var(--divider); border-radius:16px; background:var(--card); color:var(--text); box-shadow:0 3px 12px var(--shadow); transition:transform .18s,border-color .18s,box-shadow .18s; }
+  .explore-card:hover { transform:translateY(-3px); border-color:var(--cat-accent); box-shadow:0 12px 28px var(--shadow); }
+  .explore-visual { height:148px; position:relative; overflow:hidden; display:grid; place-items:center; background:linear-gradient(135deg,color-mix(in srgb,var(--cat-accent) 35%,var(--navy)),var(--navy-dark)); }
+  .explore-visual > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition:transform .35s; }
+  .explore-card:hover .explore-visual > img { transform:scale(1.045); }
+  .explore-visual::after { content:""; position:absolute; inset:0; background:linear-gradient(180deg,rgba(3,13,28,.03) 25%,rgba(3,13,28,.76)); }
+  .explore-art { width:96px; height:96px; display:grid; place-items:center; position:relative; z-index:1; border:1px solid color-mix(in srgb,var(--cat-accent) 70%,white); border-radius:30px; color:white; background:linear-gradient(145deg,color-mix(in srgb,var(--cat-accent) 65%,white),var(--cat-accent)); box-shadow:0 14px 32px rgba(0,0,0,.25); }
+  .explore-art::before,.explore-art::after { content:""; position:absolute; border:1px solid rgba(255,255,255,.42); border-radius:50%; width:126px; height:48px; transform:rotate(-28deg); }
+  .explore-art::after { width:142px; height:70px; transform:rotate(38deg); opacity:.45; }
+  .explore-art .msr { font-size:44px; filter:drop-shadow(0 3px 3px rgba(0,0,0,.25)); }
+  .explore-visual > .thumb-fallback { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:unset; }
+  .explore-visual .explore-name { position:absolute; z-index:2; left:13px; bottom:12px; color:#fff; font-weight:900; font-size:14px; text-shadow:0 2px 8px rgba(0,0,0,.55); }
+  .explore-meta { padding:11px 13px 13px; }
+  .explore-count { color:var(--text-secondary); font-size:11px; font-weight:700; display:flex; align-items:center; gap:5px; }
+  .explore-latest { margin-top:6px; font-size:12px; line-height:1.4; font-weight:750; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; min-height:34px; }
+  .feed-error { display:grid; justify-items:center; gap:10px; padding:52px 20px; border:1px solid var(--divider); border-radius:18px; background:var(--card); text-align:center; color:var(--text-secondary); }
+  .feed-error .msr { font-size:34px; color:var(--accent-red); }
+  .feed-error button { display:inline-flex; align-items:center; gap:7px; border:0; border-radius:999px; padding:10px 16px; background:var(--accent-red); color:white; font-weight:800; cursor:pointer; }
 
   .badge {
     display: inline-block; font-size: 11px; font-weight: 700;
@@ -499,6 +518,9 @@
   .card.no-image[data-category="Eğitim"] .thumb-fallback { --fallback-accent:#BB88DF; }
   .card.no-image[data-category="Gündem"] .thumb-fallback { --fallback-accent:#F08A35; }
   .card-media .thumb-fallback { position: absolute; inset: 0; width: 100%; height: 100%; aspect-ratio: unset; }
+  .featured-main .featured-cover-fallback { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:unset; }
+  .article-inner .article-cover-fallback { aspect-ratio:16/9; border-radius:18px; margin-bottom:10px; }
+  .next-up-card .next-up-cover-fallback { position:absolute; inset:0; width:100%; height:100%; aspect-ratio:unset; }
   .card-media .body { position: relative; z-index: 1; padding: 14px; display: flex; flex-direction: column; gap: 6px; color: #fff; }
   .card h3 { font-size: 14.5px; line-height: 1.34; margin: 0; font-weight: 700;
     font-family: 'Plus Jakarta Sans', 'Inter', sans-serif; color: #fff;
@@ -848,6 +870,12 @@
     .related-grid { grid-template-columns: 1fr; }
   }
   @media (max-width: 540px) {
+    .explore-grid { grid-template-columns:repeat(2,minmax(0,1fr)); gap:9px; }
+    .explore-visual { height:122px; }
+    .explore-art { width:76px; height:76px; border-radius:24px; }
+    .explore-art .msr { font-size:36px; }
+    .explore-meta { padding:9px; }
+    .explore-latest { font-size:11px; }
     .home-quick-cats { grid-template-columns:repeat(4,minmax(0,1fr)); gap:7px; margin:10px 0 16px; }
     .home-quick-cat { min-height:68px; }
     .home-quick-cat .quick-icon { width:32px; height:32px; }
@@ -1083,7 +1111,6 @@ function freshJsonUrl(path) {
   url.searchParams.set('v', Date.now().toString());
   return url;
 }
-const PINNED_CATEGORIES = ['Gündem', 'Ekonomi', 'Spor', 'Teknoloji', 'Dünya'];
 const REACTIONS = [
   { key: 'surprised', emoji: '😲', label: 'Şaşırtıcı' },
   { key: 'sad', emoji: '😢', label: 'Üzücü' },
@@ -1111,6 +1138,62 @@ function escapeHtml(s) {
   return (s || '').replace(/[&<>"']/g, (c) => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 
+const CORE_CATEGORIES = [
+  { name:'Gündem', icon:'article', color:'#E66B25' },
+  { name:'Türkiye', icon:'map', color:'#168A48' },
+  { name:'Dünya', icon:'public', color:'#4B83B8' },
+  { name:'Ekonomi', icon:'trending_up', color:'#D5A527' },
+  { name:'Teknoloji', icon:'memory', color:'#4594D0' },
+  { name:'Spor', icon:'sports_soccer', color:'#33895D' },
+  { name:'Sağlık', icon:'favorite', color:'#E8344E' },
+  { name:'Bilim', icon:'science', color:'#5697C9' },
+  { name:'Kültür & Sanat', icon:'theater_comedy', color:'#E66B25' },
+  { name:'Yaşam', icon:'eco', color:'#4F8D37' },
+  { name:'Eğitim', icon:'school', color:'#7A3DA0' },
+  { name:'Son Dakika', icon:'bolt', color:'#D92D3B' },
+];
+function categoryKey(value) {
+  return String(value || '').normalize('NFKD').replace(/\p{M}/gu,'').toLocaleLowerCase('tr-TR').replaceAll('ı','i').replace(/[^a-z0-9]+/g,' ').trim();
+}
+function canonicalCategory(value) {
+  const key = categoryKey(value);
+  if (['world','international','world news','dunya'].includes(key)) return 'Dünya';
+  if (['science and technology','bilim ve teknoloji','technology','tech'].includes(key)) return 'Teknoloji';
+  if (['business','finance','economy'].includes(key)) return 'Ekonomi';
+  if (['sports'].includes(key)) return 'Spor';
+  if (['health'].includes(key)) return 'Sağlık';
+  if (['education'].includes(key)) return 'Eğitim';
+  if (['culture','arts','kultur sanat','kultur ve sanat'].includes(key)) return 'Kültür & Sanat';
+  if (['lifestyle','travel','tourism'].includes(key)) return 'Yaşam';
+  if (['turkey'].includes(key)) return 'Türkiye';
+  if (['breaking news'].includes(key)) return 'Son Dakika';
+  return String(value || '').trim();
+}
+function categoryArticles(name) {
+  const wanted = canonicalCategory(name);
+  if (wanted === 'Son Dakika') return allArticles.filter(a => a.isBreaking || canonicalCategory(a.category) === wanted);
+  return allArticles.filter(a => canonicalCategory(a.category) === wanted);
+}
+const EXPLORE_IMAGE_TERMS = {
+  'Ekonomi': ['altin', 'borsa', 'enflasyon', 'faiz', 'ekonomi', 'dolar', 'yatirim', 'finans', 'butce', 'piyasa'],
+  'Teknoloji': ['teknoloji', 'yapay zeka', 'siber', 'nvidia', 'yazilim', 'telefon', 'bilgisayar', 'cip', 'robot', 'openai'],
+  'Spor': ['spor', 'futbol', 'basketbol', 'voleybol', 'tenis', 'euroleague', 'fifa', 'mac', 'takim', 'oyuncu'],
+  'Sağlık': ['saglik', 'hastane', 'doktor', 'hastalik', 'tedavi', 'ilac', 'asI', 'kanser', 'salgIn', 'hasta'],
+  'Bilim': ['bilim', 'arastirma', 'kesif', 'nasa', 'uzay', 'deney', 'fosil', 'astronomi', 'iklim', 'universite'],
+  'Kültür & Sanat': ['kultur', 'sanat', 'sergi', 'konser', 'festival', 'tiyatro', 'sinema', 'film', 'muzik', 'kitap'],
+  'Yaşam': ['yasam', 'hava durumu', 'meteoroloji', 'turizm', 'seyahat', 'tatil', 'yemek', 'moda', 'otel', 'hayvan'],
+  'Eğitim': ['egitim', 'ogrenci', 'universite', 'okul', 'ogretmen', 'sinav', 'yks', 'tyt', 'lgs', 'yok'],
+};
+function exploreLeadArticle(name, articles) {
+  const terms = EXPLORE_IMAGE_TERMS[name];
+  const withImages = articles.filter(article => article.imageUrl);
+  if (!terms) return withImages[0] || articles[0];
+  return withImages.find(article => {
+    const headline = categoryKey(article.headline);
+    return terms.some(term => headline.includes(categoryKey(term)));
+  }) || articles.find(article => !article.imageUrl) || null;
+}
+
 function readingTime(text) {
   const words = (text || '').trim().split(/\s+/).filter(Boolean).length;
   return Math.max(1, Math.round(words / 180));
@@ -1128,12 +1211,40 @@ function seededInt(seed, min, max) {
 
 function cardImage(article, cls) {
   if (article.imageUrl) {
-    return `<img class="${cls}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`;
+    return `<img class="${cls}" data-news-cover data-category="${escapeHtml(canonicalCategory(article.category))}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`;
   }
-  const label = article.category || SITE_NAME;
-  const icon = categoryFallbackIcon(article.category);
-  return `<div class="thumb-fallback" style="--fallback-accent:${categoryColor(article.category)}"><span class="fallback-mark"><span class="msr">${icon}</span></span><span class="fallback-label">${escapeHtml(label)}</span></div>`;
+  return categoryIllustrationHtml(article.category);
 }
+
+function categoryIllustrationHtml(category, extraClass = '') {
+  const normalized = canonicalCategory(category);
+  const definition = CORE_CATEGORIES.find(item => item.name === normalized);
+  const icon = definition?.icon || categoryFallbackIcon(normalized);
+  const color = definition?.color || categoryColor(normalized);
+  return `<div class="thumb-fallback ${extraClass}" style="--fallback-accent:${color}"><span class="fallback-mark"><span class="msr">${icon}</span></span><span class="fallback-label">${escapeHtml(normalized || SITE_NAME)}</span></div>`;
+}
+
+// Keep the real editorial cover when it loads. A broken remote image falls
+// back to a category illustration so failed image hosts never leave blank cards.
+document.addEventListener('error', event => {
+  const image = event.target;
+  if (!(image instanceof HTMLImageElement) || !image.hasAttribute('data-news-cover')) return;
+  const category = image.dataset.category || '';
+  const definition = CORE_CATEGORIES.find(item => item.name === category);
+  const fallback = document.createElement('div');
+  const preserveClasses = ['featured-cover','hero','next-up-cover-fallback','explore-cover']
+    .filter(name => image.classList.contains(name)).join(' ');
+  fallback.className = `thumb-fallback ${preserveClasses}`;
+  if (image.closest('.article-inner')) fallback.classList.add('article-cover-fallback');
+  if (image.closest('.next-up-card')) fallback.classList.add('next-up-cover-fallback');
+  fallback.style.setProperty('--fallback-accent', definition?.color || categoryColor(category));
+  const mark = document.createElement('span'); mark.className = 'fallback-mark';
+  const icon = document.createElement('span'); icon.className = 'msr'; icon.textContent = definition?.icon || categoryFallbackIcon(category);
+  mark.append(icon);
+  const label = document.createElement('span'); label.className = 'fallback-label'; label.textContent = category || SITE_NAME;
+  fallback.append(mark,label);
+  image.replaceWith(fallback);
+}, true);
 
 function categoryFallbackIcon(category) {
   const value = (category || '').toLocaleLowerCase('tr-TR');
@@ -1562,7 +1673,7 @@ function renderHome() {
 
   const feature = `<div class="featured">
     <div class="featured-main" data-id="${top.id}">
-      ${top.imageUrl ? `<img src="${escapeHtml(top.imageUrl)}" alt="">` : ''}
+      ${top.imageUrl ? `<img class="featured-cover" data-news-cover data-category="${escapeHtml(canonicalCategory(top.category))}" src="${escapeHtml(top.imageUrl)}" alt="">` : categoryIllustrationHtml(top.category, 'featured-cover-fallback')}
       <div class="grad"></div>
       <div class="content">
         ${top.category ? `<span class="badge" data-cat="${escapeHtml(top.category)}">${escapeHtml(top.category)}</span>` : ''}
@@ -1584,7 +1695,7 @@ function renderHome() {
     </div>
   </div>`;
 
-  const shortcutCategories = [...new Set(allArticles.map(a => a.category).filter(Boolean))].slice(0, 8);
+  const shortcutCategories = [...new Set(allArticles.map(a => canonicalCategory(a.category)).filter(Boolean))].slice(0, 8);
   const shortcutIcon = category => {
     const value = category.toLocaleLowerCase('tr-TR');
     if (value.includes('ekonomi')) return 'trending_up';
@@ -1616,11 +1727,12 @@ function renderHome() {
 }
 
 function renderCategoryPage(name) {
+  name = canonicalCategory(name);
   setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">${escapeHtml(name)}</span>`);
   document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
   renderCategoryNav(name);
 
-  const items = allArticles.filter(a => a.category === name);
+  const items = categoryArticles(name);
 
   const content = document.getElementById('content');
   let main = '';
@@ -1634,6 +1746,32 @@ function renderCategoryPage(name) {
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
 
+}
+
+function renderExplorePage() {
+  setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">Keşfet</span>`);
+  document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
+  renderCategoryNav('Keşfet');
+  const cards = CORE_CATEGORIES.map(({ name, icon, color }) => {
+    const articles = categoryArticles(name);
+    // Use a category-matching editorial cover only when the headline supports
+    // it; otherwise keep the designed category art instead of showing an
+    // unrelated photo from the general feed.
+    const lead = exploreLeadArticle(name, articles);
+    const visual = lead?.imageUrl
+      ? `<img class="explore-cover" data-news-cover data-category="${escapeHtml(name)}" src="${escapeHtml(lead.imageUrl)}" alt="" loading="lazy">`
+      : `<div class="explore-art"><span class="msr">${icon}</span></div>`;
+    return `<a class="explore-card" href="#kategori/${encodeURIComponent(name)}" style="--cat-accent:${color}">
+      <div class="explore-visual">${visual}<span class="explore-name">${escapeHtml(name)}</span></div>
+      <div class="explore-meta"><div class="explore-count"><span class="msr" style="font-size:15px">article</span>${articles.length} güncel haber</div>
+      <div class="explore-latest">${escapeHtml(lead?.headline || 'Bu kategoride yeni haber bekleniyor')}</div></div>
+    </a>`;
+  }).join('');
+  document.getElementById('content').innerHTML = `<div class="fade-in">
+    <div class="page-heading"><span class="msr" style="color:var(--gold)">explore</span>Keşfet</div>
+    <p style="margin:8px 0 0;color:var(--text-secondary)">Güncel haberleri konu başlıklarına göre incele.</p>
+    <div class="explore-grid">${cards}</div>
+  </div>`;
 }
 
 function renderAboutPage() {
@@ -1657,18 +1795,17 @@ function renderAboutPage() {
 }
 
 function renderCategoryNav(activeName) {
-  // Pinned categories (Gündem, Ekonomi, Spor, Teknoloji, Dünya) always show
-  // first, like a real news site's fixed section list, even on a day they
-  // have no fresh articles yet; anything else the feed produces follows.
-  const found = [...new Set(allArticles.map(a => a.category).filter(Boolean))];
-  const uniqueCats = PINNED_CATEGORIES.concat(found.filter(c => !PINNED_CATEGORIES.includes(c)));
+  const found = [...new Set(allArticles.map(a => canonicalCategory(a.category)).filter(Boolean))];
+  const uniqueCats = CORE_CATEGORIES.map(item => item.name).concat(found.filter(c => !CORE_CATEGORIES.some(item => item.name === c)));
 
   const nav = document.getElementById('categoryNav');
   const allBtn = `<div class="cat-btn ${!activeName ? 'active' : ''}" data-nav="">
     <span class="msr" style="font-size:16px;vertical-align:-3px">home</span> Ana Sayfa</div>`;
-  nav.innerHTML = allBtn + uniqueCats.map(c =>
+  const exploreBtn = `<div class="cat-btn ${activeName === 'Keşfet' ? 'active' : ''}" data-explore="true"><span class="msr" style="font-size:16px;vertical-align:-3px">explore</span> Keşfet</div>`;
+  nav.innerHTML = allBtn + exploreBtn + uniqueCats.map(c =>
     `<div class="cat-btn ${c === activeName ? 'active' : ''}" data-nav="${escapeHtml(c)}">${escapeHtml(c)}</div>`
   ).join('');
+  nav.querySelector('[data-explore]').addEventListener('click', () => { location.hash = 'kesfet'; });
   nav.querySelectorAll('.cat-btn').forEach(btn => {
     btn.addEventListener('click', () => {
       const cat = btn.getAttribute('data-nav');
@@ -1830,12 +1967,12 @@ function openArticle(id) {
       </div>` : ''}
 
     ${a.imageUrl ? `
-      <img class="hero" src="${escapeHtml(a.imageUrl)}" alt="">
+      <img class="hero" data-news-cover data-category="${escapeHtml(canonicalCategory(a.category))}" src="${escapeHtml(a.imageUrl)}" alt="">
       ${a.imageCredit && a.imageCredit.photographer ? `
         <div class="image-credit">Fotoğraf: ${escapeHtml(a.imageCredit.photographer)} /
           <a href="${escapeHtml(a.imageCredit.unsplashUrl || 'https://unsplash.com')}" target="_blank" rel="noopener">Unsplash</a>
         </div>` : ''}
-    ` : ''}
+    ` : categoryIllustrationHtml(a.category, 'article-cover-fallback')}
 
     <div class="article-toolbar">
       <span class="share-label">Paylaş</span>
@@ -1875,7 +2012,7 @@ function openArticle(id) {
 
     ${nextArticle ? `
       <div class="next-up-card" id="nextUpCard">
-        ${nextArticle.imageUrl ? `<img src="${escapeHtml(nextArticle.imageUrl)}" alt="">` : ''}
+        ${nextArticle.imageUrl ? `<img data-news-cover data-category="${escapeHtml(canonicalCategory(nextArticle.category))}" src="${escapeHtml(nextArticle.imageUrl)}" alt="">` : categoryIllustrationHtml(nextArticle.category, 'next-up-cover-fallback')}
         <div class="next-up-scrim"></div>
         <div class="next-up-cancel" id="nextUpCancel"><span class="msr">close</span></div>
         <div class="next-up-body">
@@ -2066,7 +2203,7 @@ function renderCmdkResults(q) {
   }
   results.innerHTML = items.map(a => `
     <div class="cmdk-item" data-id="${a.id}">
-      ${a.imageUrl ? `<img src="${escapeHtml(a.imageUrl)}" alt="">` : `<div class="thumb-fallback"><span class="msr">newspaper</span></div>`}
+      ${a.imageUrl ? `<img data-news-cover data-category="${escapeHtml(canonicalCategory(a.category))}" src="${escapeHtml(a.imageUrl)}" alt="">` : categoryIllustrationHtml(a.category)}
       <div>
         <div class="cmdk-item-title">${escapeHtml(a.headline)}</div>
         <div class="cmdk-item-meta">${a.category ? escapeHtml(a.category) + ' · ' : ''}${timeAgo(a.publishedAt)}</div>
@@ -2103,7 +2240,8 @@ let tickerTimer = null;
 function paintTickerHeadline() {
   const track = document.getElementById('tickerTrack');
   if (!track || allArticles.length === 0) return;
-  const items = allArticles.slice(0, 6);
+  const breaking = allArticles.filter(a => a.isBreaking || canonicalCategory(a.category) === 'Son Dakika');
+  const items = (breaking.length ? breaking : allArticles).slice(0, 6);
   const a = items[tickerIndex % items.length];
   tickerIndex++;
   track.style.animation = 'none';
@@ -2186,6 +2324,8 @@ function route() {
   const hash = decodeURIComponent(location.hash.replace(/^#/, ''));
   if (hash.startsWith('kategori/')) {
     renderCategoryPage(hash.slice('kategori/'.length));
+  } else if (hash === 'kesfet') {
+    renderExplorePage();
   } else if (hash === 'hakkimizda') {
     renderAboutPage();
   } else if (hash === '') {
@@ -2207,19 +2347,64 @@ initKbdHint();
 // Bant, üst menü her sayfada (haber detayında dahi) göründüğünden, sadece
 // ana sayfa/kategori render'ında değil burada, açılışta bir kez tetiklenir.
 
-fetch(freshJsonUrl(FEED_URL), { cache: 'no-store' })
-  .then(r => r.ok ? r.json() : Promise.reject(new Error('Haber akışı alınamadı')))
-  .then(data => {
-    allArticles = (data.articles || []).slice().sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0));
-    if (data.generatedAt) {
-      document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
+let feedLoadPromise = null;
+let feedGeneratedAt = null;
+async function loadNewsFeed() {
+  if (feedLoadPromise) return feedLoadPromise;
+  feedLoadPromise = (async () => {
+    try {
+      const response = await fetch(freshJsonUrl(FEED_URL), {
+        cache: 'no-store',
+        headers: { 'Accept': 'application/json' },
+        signal: AbortSignal.timeout(20000),
+      });
+      if (!response.ok) throw new Error(`Haber akışı HTTP ${response.status}`);
+      const data = await response.json();
+      if (!data || !Array.isArray(data.articles)) throw new Error('Haber akışı biçimi geçersiz');
+      const articles = data.articles
+        .filter(article => article && typeof article.id === 'string' && typeof article.headline === 'string')
+        .map(article => ({
+          ...article,
+          category: canonicalCategory(article.category),
+          isBreaking: article.isBreaking === true || canonicalCategory(article.category) === 'Son Dakika'
+            || /\bson\s+dakika\b/i.test(article.headline),
+        }))
+        .sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0));
+      const changed = data.generatedAt !== feedGeneratedAt || articles.length !== allArticles.length;
+      allArticles = articles;
+      feedGeneratedAt = data.generatedAt || null;
+      if (data.generatedAt) document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
+      if (allArticles.length === 0) {
+        document.getElementById('content').innerHTML = '<div class="feed-error"><span class="msr">inbox</span><strong>Henüz haber yok</strong><button id="retryFeed" type="button"><span class="msr">refresh</span> Yenile</button></div>';
+        document.getElementById('retryFeed').addEventListener('click', () => loadNewsFeed());
+        return true;
+      }
+      if (allArticles.length > 0) {
+        startTicker();
+        if (changed) route();
+      }
+      return true;
+    } catch (error) {
+      console.error('[news-feed] Haber akışı alınamadı:', error);
+      if (allArticles.length === 0) {
+        document.getElementById('content').innerHTML = `<div class="feed-error"><span class="msr">cloud_off</span><strong>Haberler şu anda yüklenemedi</strong><span>Bağlantıyı kontrol edip tekrar deneyebilirsin.</span><button id="retryFeed" type="button"><span class="msr">refresh</span> Yeniden dene</button></div>`;
+        document.getElementById('retryFeed').addEventListener('click', () => loadNewsFeed());
+      } else {
+        document.getElementById('updatedAt').textContent = 'Bağlantı bekleniyor · kayıtlı haberler gösteriliyor';
+      }
+      return false;
+    } finally {
+      feedLoadPromise = null;
     }
-    startTicker();
-    route();
-  })
-  .catch(() => {
-    document.getElementById('content').innerHTML = '<div class="empty-state">Haberler yüklenemedi. Lütfen daha sonra tekrar deneyin.</div>';
-  });
+  })();
+  return feedLoadPromise;
+}
+
+loadNewsFeed();
+setInterval(() => { if (document.visibilityState === 'visible') loadNewsFeed(); }, 5 * 60 * 1000);
+document.addEventListener('visibilitychange', () => {
+  if (document.visibilityState === 'visible') loadNewsFeed();
+});
 </script>
 
 </body>
