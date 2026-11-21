@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T13:44:41.575Z",
+  "generatedAt": "2026-11-21T13:54:43.898Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/otomobil/mercedes-amg-gt-elektrikle-yola-cikti-3496209",
+      "headline": "Mercedes AMG GT elektrikle yola çıktı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1704340142770-b52988e5b6eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZWxlY3RyaWMlMjBjYXJ8ZW58MXwwfHx8MTc5NTI2OTI4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hyundai Motor Group",
+        "photographerUrl": "https://unsplash.com/@hyundaimotorgroup",
+        "unsplashUrl": "https://unsplash.com/photos/a-concept-car-is-shown-in-the-dark-V1DFo8C4JPA"
+      },
+      "timeAgo": "şimdi",
+      "body": "Mercedes-AMG, yeni tamamen elektrikli performans otomobili Mercedes-AMG GT 55 4-Kapı Coupé'yi Türkiye'de satışa sundu. İstanbul Park’ta gerçekleştirilen AMG Next Era lansmanı ile tanıtılan araç, AMG.EA yüksek performans mimarisi temelinde geliştirildi. Model, üç adet eksenel akı motoru sayesinde 816 bg’ne kadar güç üretiyor.\n\nAraçta yer alan ve doğrudan soğutulan silindirik hücreli AMG Yüksek Performanslı Elektrikli Batarya, WLTP normuna göre 675 kilometreye kadar menzil sunuyor. 800 volt mimarisine sahip batarya sistemi, 600 kW’ın üzerinde azami şarj gücü ile uygun şarj altyapısında 10 dakikalık şarjla 460 kilometrenin üzerinde ek menzile ulaşabiliyor. Bataryanın yüzde 10’dan yüzde 80’e şarj edilmesi 11 dakika sürüyor. Özel siparişle sunulacak Mercedes-AMG GT 63 4MATIC+ ise 1.169 bg maksimum güç ve 2.000 Nm maksimum tork sağlıyor.\n\nMercedes-Benz Otomotiv İcra Kurulu ve Otomobil Grubu Başkanı Şenol Bayrak, dünya genelindeki Top-End modeller arasında her 2 Mercedes-Benz otomobilden birinin AMG imzası taşıdığını belirtti. 2027 yılında Mercedes-AMG’nin 60. yılının kutlanacağını ifade eden Bayrak, efsane V8 motorlu CLE 63’ün yanı sıra 10’dan fazla yeni AMG modelini Türkiye’de buluşturmayı planladıklarını kaydetti. Araçtan bu yıl sonuna kadar 3 haneli rakamlarda satış adeti bekleniyor.\n\nMercedes-Benz Otomobil Satış ve Pazarlama Direktörü Dr. Nadine Adam ise yeni modelde elektrikli performansın gerçek AMG duygusuyla buluştuğunu belirtti. AMGFORCE S+, 1.600’den fazla ses kullanılarak geliştirilen dijital ses sistemiyle V8 motor sesini yeniden yaratıyor. Ayrıca AMG RACE ENGINEER sistemi; sürücünün sürüş, reküperasyon, enerji ve termal yönetim bileşenlerini gerçek zamanlı koordine etmesine ve aracın tepki, çeviklik ile çekiş karakterini şekillendirmesine olanak tanıyor.",
+      "highlights": [
+        "Mercedes-AMG GT 55 4-Kapı Coupé, üç eksenli akı motoruyla 816 bg güç üretiyor.",
+        "Araç, WLTP'ye göre 675 kilometreye kadar menzil ve 10 dakikalık şarjla 460 kilometrenin üzerinde ek menzil sunuyor.",
+        "Özel siparişle sunulacak Mercedes-AMG GT 63 4MATIC+ ise 1.169 bg maksimum güç ve 2.000 Nm maksimum tork sağlıyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/otomobil/mercedes-amg-gt-elektrikle-yola-cikti-3496209",
+      "publishedAt": "2026-11-21T13:58:25.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.rfi.fr/en/france/20261121-national-assembly-backs-greater-legal-protection-for-police-using-firearms",
+      "headline": "Fransa Ulusal Meclisi polisin ateşli silah kullanımında yasal korumayı artırma kararını onayladı",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1557081999-0ea3e23579d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwcG9saWNlfGVufDF8MHx8fDE3OTUyNjkyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ev",
+        "photographerUrl": "https://unsplash.com/@ev",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-police-standing-and-leaning-on-wall-pqkGQboKSeM"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Fransa parlamentosu, polislere ateşli silah kullanımlarında daha geniş yasal korumalar sağlayan bir tasarıyı onayladı. Sağ eğilimli Senato tasarıyı 205 oya karşı 110 oyla kabul ederken, önlem hükümet, muhafazakâr milletvekilleri ve aşırı sağcı lider Marine Le Pen'in partisi tarafından desteklendi. Düzenleme, silahlarını kullanan memurların yasa çerçevesinde hareket ettiğine dair yasal bir karine getiriyor.\n\nDestekçiler bu adımın memurların otomatik olarak şüpheli muamelesi görmesini engelleyeceğini savunurken, insan hakları grupları polisin ateş açması durumlarında soruşturmaların zorlaşabileceği uyarısında bulundu. Sol kanat partiler tasarıyı Fransa Anayasa Konseyi'ne taşıma taahhüdünde bulundu. İçişleri Bakanı Laurent Nunez, önlemin silahını kullanan polis veya jandarma memurunun otomatik gözaltına alınması uygulamasına son vereceğini ifade etti.\n\nMuhalefet ve insan hakları kuruluşları ise tasarıyı eleştirerek ispat yükünün kurbanlara ve ailelerine geçebileceğini belirtti. İnsan Hakları Ligi, özellikle kimlik kontrolleri ve gösteriler sırasında polisin ateş açmasıyla ilgili soruşturmaların engellenebileceği uyarısında bulundu. Tartışmalar, Eylül ayında başlayan ve polisin aşırı güç kullandığı iddialarının yöneltildiği öğrenci protestolarının ardından hız kazandı.\n\nTasarı, polisin hayati tehlike anlarında veya tehlikeli kaçakları durdurmak için ateş açabileceği durumları genişleten 2017 güvenlik yasasının üzerine inşa ediliyor. Eleştirmenler, polis şiddeti vakalarında mahkûmiyetlerin nadir olduğu ülkede bu reformun memurların yargılanmasını zorlaştırabileceğini savunuyor. Tasarının anayasaya uygunluğu Anayasa Konseyi tarafından değerlendirilebilir.",
+      "highlights": [
+        "Fransa parlamentosu polislere ateşli silah kullanımında daha geniş yasal koruma sağlayan tasarıyı onayladı.",
+        "İnsan hakları grupları kararın polis şiddeti soruşturmalarını zorlaştırabileceği uyarısında bulundu.",
+        "Sol kanat tasarıyı Fransa Anayasa Konseyi'ne taşıyacağını açıkladı."
+      ],
+      "externalUrl": "https://www.rfi.fr/en/france/20261121-national-assembly-backs-greater-legal-protection-for-police-using-firearms",
+      "publishedAt": "2026-11-21T13:44:03.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/cankirida-5-aracin-karistigi-zincirleme-trafik-kazasi-meydana-geldi-7705159",
       "headline": "Çankırı'da 5 aracın karıştığı zincirleme trafik kazası meydana geldi",
@@ -22,7 +70,8 @@
       "publishedAt": "2026-11-21T13:42:33.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:54:26.331Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/antalyada-trafik-kisitlamalari-kaldirildi-4875222",
@@ -235,14 +284,16 @@
       "timeAgo": "54 dk önce",
       "body": "Cuma günü Polonya'ya iki Rus füzesi ve şüpheli bir dron düştü. Polonya Başbakanı Donald Tusk, bu olayın ülkede Ukrayna'daki olası bir savaş sonrası misyon için düzenlenen Avrupa askerî tatbikatlarıyla aynı zamana denk getirilen muhtemel bir \"kasıtlı provokasyon\" olduğunu ifade etti. Yaşanan bu gelişmelerin ardından Londra'daki King's College'da Çatışma ve Güvenlik Kıdemli Öğretim Üyesi olan Domitilla Sagramoso konuyla ilgili değerlendirmelerde bulundu. Olay, NATO sınırlarındaki gerilimin artış gösterdiği bir dönemde gerçekleşti.",
       "highlights": [
-        "Cuma günü Polonya'ya iki Rus füzesi ve şüpheli bir dron düştü",
-        "Başbakan Donald Tusk olayı olası bir kasıtlı provokasyon olarak nitelendirdi"
+        "Polonya'ya iki Rus füzesi ve şüpheli bir drone düştü",
+        "Başbakan Donald Tusk olayı kasıtlı bir provokasyon olarak nitelendirdi",
+        "Gelişmeler Avrupa'daki askerî tatbikatlar sırasında yaşandı"
       ],
       "externalUrl": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
       "publishedAt": "2026-11-21T12:50:35.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:54:26.331Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/ballistic-missile-attack-zelenskyys-hometown-central-ukraine-kills-138340723",
@@ -10144,7 +10195,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T19:24:21.081Z",
-      "imageSearchAttemptedAt": "2026-11-21T07:34:17.167Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:54:26.331Z",
       "isBreaking": false
     },
     {
@@ -11823,7 +11874,7 @@
       "publishedAt": "2026-11-18T12:14:28.000Z",
       "category": "Teknoloji",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T07:44:22.555Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:54:26.331Z",
       "sourceTextAttemptedAt": "2026-11-18T12:44:48.013Z",
       "isBreaking": false
     },
@@ -14568,58 +14619,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T06:14:22.092Z",
       "sourceTextAttemptedAt": "2026-11-18T10:14:21.868Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win",
-      "headline": "Serbia's student-backed MPs take seats in parliament after election win",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1781174849957-a1009c34cbf4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8U2VyYmlhJTI3cyUyMHN0dWRlbnQtYmFja2VkJTIwTVBzJTIwdGFrZSUyMHNlYXRzJTIwaW4lMjBwYXJsaWFtZW50JTIwYWZ0ZXIlMjBlbGVjdGlvbiUyMHdpbnxlbnwxfDB8fHwxNzk0OTgzNjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anton Borzenkov",
-        "photographerUrl": "https://unsplash.com/@borzenkov",
-        "unsplashUrl": "https://unsplash.com/photos/grand-building-with-green-domes-overlooks-a-busy-street-intersection-UCNCpCoBpxo"
-      },
-      "timeAgo": "17 dk önce",
-      "body": "Serbia's Student ⁠List lawmakers entered parliament ​on Tuesday, cheered on by hundreds of supporters, after their October ​election victory ended 14 years of rule by the Serbian Progressive Party (SNS). The Student List, a group that includes academics, professionals, farmers, actors and activists ​chosen ‌by student assemblies, secured 140 seats in the ⁠250-member parliament in October 25 polls, while the SNS…",
-      "highlights": [
-        "Öğrenci destekli milletvekilleri salı günü parlamentoda koltuklarını devraldı",
-        "Öğrenci Listesi, 25 Ekim'deki seçimlerde 140 sandalye kazandı",
-        "Seçim sonuçları Sırp İlerleme Partisi'nin 14 yıllık iktidarını bitirdi"
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261117-serbia-s-student-backed-mps-take-seats-in-parliament-after-election-win",
-      "publishedAt": "2026-11-17T15:48:34.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T06:34:15.950Z",
-      "sourceTextAttemptedAt": "2026-11-18T10:14:21.868Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "AİHM'den Türkiye'ye Can Atalay Kararı",
-      "source": "DW English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1716560899460-1986f6e221f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8UmlnaHRzJTIwY291cnQlMjBydWxlcyUyMFR1cmtleSUyMG11c3QlMjByZWxlYXNlJTIwamFpbGVkJTIwbGF3bWFrZXIlMjBBdGFsYXl8ZW58MXwwfHx8MTc5NDk4NTQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Grace Mooney",
-        "photographerUrl": "https://unsplash.com/@mooney222",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-turkey-with-a-blue-and-red-head-ISwDkTCqVvo"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "Avrupa İnsan Hakları Mahkemesi (AİHM), insan hakları avukatı ve seçilmiş milletvekili Can Atalay'ın tutukluluğu konusunda Türkiye aleyhine karar verdi. Salı günü yayımlanan kararda, Türkiye'nin Atalay'ı serbest bırakması ve meclisteki koltuğuna oturmasına izin vermesi gerektiği belirtildi. Mahkeme, Atalay'ın tutukluluk halinin onu susturmayı ve siyasi çoğulculuğu zedelemeyi amaçladığını ifade etti. Türkiye'ye ayrıca 32.500 euro tazminat ödenmesi hükmedildi. Hakimler, bu davanın Türkiye'deki diğer siyasi muhaliflerin, hak aktivistlerinin ve gazetecilerin tutukluluğu bağlamında değerlendirilmesi gerektiğini vurguladı.\n\nAvrupa İnsan Hakları Sözleşmesi'nin kurucu imzacılarından olan Türkiye, daha önce Osman Kavala ve Selahattin Demirtaş davalarında da mahkeme kararlarına uymamıştı. Bir avukat olarak Atalay, geçmişte çok sayıda toplumsal ve siyasi davada mağdurları temsil etmiş ve 2013 Gezi protestolarının önde gelen isimlerinden biri olmuştu. Nisan 2022'de darbe teşebbüsüne yardım suçlamasıyla 18 yıl hapis cezasına çarptırılan Atalay, Silivri Cezaevi'nden Türkiye İşçi Partisi (TİP) adayı olarak 2023 milletvekili seçimlerine katıldı.\n\nHatay'dan milletvekili seçilmesine rağmen Anayasa Mahkemesi'nin kararlarına rağmen tahliye edilmeyen Atalay'ın parlamento statüsü 2024 yılında düşürülmüş, Anayasa Mahkemesi bu kararı daha sonra iptal etmişti. Cumhurbaşkanı Recep Tayyip Erdoğan'ın partisi kararın mecliste okunmasını engellemiş, ancak bir yıl sonra muhalif bir milletvekili kararı okumasına rağmen Atalay hapiste kalmaya devam etmiştir. AİHM kararının ardından TİP lideri Erkan Baş sosyal medyadan çağrıda bulunarak Atalay'ın serbest bırakılmasını ve meclis yetkisinin iade edilmesini istedi. TİP, uzun süredir Atalay'ın tahliyesini talep ediyordu.",
-      "highlights": [
-        "AİHM, Türkiye'nin Can Atalay'ı serbest bırakması ve meclisteki koltuğuna oturmasına izin vermesi gerektiğine karar verdi.",
-        "Mahkeme, Türkiye'nin Atalay'a 32.500 euro tazminat ödemesini hükmetti.",
-        "TİP lideri Erkan Baş, AİHM kararının ardından Atalay'ın serbest bırakılması ve milletvekilliği yetkisinin iadesi çağrısında bulundu."
-      ],
-      "externalUrl": "https://www.dw.com/en/rights-court-rules-turkey-must-release-jailed-lawmaker-atalay/a-79972462?maca=en-rss-en-world-4025-xml-mrss",
-      "publishedAt": "2026-11-17T15:47:00.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:04:26.681Z",
-      "sourceTextAttemptedAt": "2026-11-18T10:34:52.308Z",
       "isBreaking": false
     }
   ],
