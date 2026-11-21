@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T09:14:33.055Z",
+  "generatedAt": "2026-11-21T09:24:31.592Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cq8j40d29kneo?at_medium=RSS&at_campaign=rss",
+      "headline": "COP31 müzakereleri fosil yakıt tartışmalarında düğümlendi",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1794180272704-2bee33f98eb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc5NTI0NjQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mirna Wabi-Sabi",
+        "photographerUrl": "https://unsplash.com/@mirnawabisabi",
+        "unsplashUrl": "https://unsplash.com/photos/people-carrying-environmental-protest-banners-EjBMAbv72U4"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Antalya'da 20 Kasım'da sona ermesi planlanan BM iklim konferansı COP31'de ülkeler nihai bir anlaşmaya varamadı ve delegeler karar metninde uzlaşmak için müzakerelerini sürdürüyor. İki hafta süren görüşmeler, fosil yakıtlardan çıkış ve iklim finansmanı gibi konularda düğümlendi. Akşam saatlerinde yapılan genel kurulda COP31 Başkanı Murat Kurum, \"Bitiş çizgisine yakınız ama daha oraya ulaşamadık\" açıklamasını yaptı. Başkanlığın üçüncü bir örtü karar taslağı sunması bekleniyor.\n\nTürkiye ve Avustralya'nın eş başkanlığında 19 Kasım'da yayımlanan ikinci karar taslağında fosil yakıtlar bahsinin çıkarılması geniş tepki topladı. Avrupa Birliği, konferansın \"bir fosil zirvesine\" dönüşme riski bulunduğunu belirtti. Fransa ve Panama liderliğinde aralarında Belçika, Fildişi Sahili, Finlandiya, Yunanistan, Guatemala ve İspanya'nın yer aldığı ülkeler daha güçlü iklim eylemi talebinde bulundu. Panama Çevre Bakanı Juan Carlos Navarro, fosil yakıtlardan uzaklaşma taahhüdü ve iklim finansmanı içermeyen bir bildiriyi desteklemeyeceğini ifade etti.\n\nİkinci taslakta fosil yakıtların yer almamasıyla ilgili soruya yanıt veren COP31 Müzakereler Başkanı Chris Bowen, çalışmaların süreceğine inandığını ve bunun metne nasıl yansıtılacağını ülkelerle müzakere edeceklerini kaydetti. İlk taslakta yer alan 120 milyar dolarlık iklim finansman hedefi de ikinci taslakta çıkarılan bölümler arasında yer aldı.\n\nGelişmekte olan ülkelerin iklim değişikliğine uyum sağlamasını kolaylaştıracak finansmanın artırılması süreci taslakta bulunurken, bu konuda yeni siyasi taahhütler talep ediliyor. Gana Çevre Bakanı ve Afrikalı müzakereciler grubu başkanı Zanetor Agyeman Rawlings, haklı olarak kendilerine ait olanı talep ettiklerini belirtti. Konferans, İran'ın Hürmüz Boğazı'nı kapatmasının ardından küresel enerji sektöründe aksamaların yaşandığı bir dönemde gerçekleşiyor. Uluslararası Enerji Ajansı raporuna göre, yenilenebilir enerjinin payının 2035'e kadar yüzde 45-50'ye çıkması öngörülüyor.",
+      "highlights": [
+        "Antalya'daki COP31 iklim konferansında ülkeler nihai bir anlaşmaya varamadı.",
+        "İkinci karar taslağından fosil yakıtlar bahsinin tamamen çıkarılması geniş tepki aldı.",
+        "Gelişmekte olan ülkeler için iklim finansmanının artırılmasına yönelik süreç taslakta yer aldı."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cq8j40d29kneo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T09:23:45.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/tekirdagda-lodos-sonrasi-deniz-ulasimi-normale-dondu-4875127",
       "headline": "Tekirdağ'da lodos etkisini yitirdi: Deniz ulaşımı normale döndü",
@@ -16,13 +39,14 @@
       "body": "Tekirdağ'da etkili olan lodosun gücünü kaybetmesiyle birlikte bölgede deniz ulaşımı yeniden normale döndü. Zaman zaman saatte 50 kilometre hıza ulaşan olumsuz hava koşulları nedeniyle daha önce sahile demirlemek zorunda kalan yerli ve yabancı bandıralı 9 şilep ve tanker, rotalarında seyrine devam etmeye başladı.\n\nOlumsuz hava şartları yüzünden bir süredir denize açılamayan balıkçılar da rüzgarın etkisini yitirmesiyle birlikte yeniden avlanmak üzere denize açılacak. Hava koşullarının iyileşmesiyle deniz trafiğindeki aksaklıklar tamamen ortadan kalktı.",
       "highlights": [
         "Tekirdağ'da lodosun etkisini yitirmesiyle deniz ulaşımı normale döndü.",
-        "Sahile demirleyen 9 şilep ve tanker seyrine devam etti.",
+        "Sahile demirleyen yerli ve yabancı bandıralı 9 şilep ve tanker seyrine devam etti.",
         "Balıkçılar yeniden avlanmak için denize açılacak."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/tekirdagda-lodos-sonrasi-deniz-ulasimi-normale-dondu-4875127",
       "publishedAt": "2026-11-21T09:12:55.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/oltasina-takilani-dev-sasirtti-turkiyenin-en-buyuk-baliklarinin-ciktigi-golet-burasi-7705044",
@@ -47,6 +71,25 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T09:14:29.224Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+      "headline": "Harry Kane Sakatlık Nedeniyle Birkaç Ay Sahalardan Uzak Kalacak",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "23 dk önce",
+      "body": "Bayern Münih forması giyen Harry Kane, Köln ile 1-1 berabere kaldıkları karşılaşmada sakatlık geçirdi. \n\nKarşılaşma sırasında sol ayak bileğindeki bağların yırtıldığı belirtilen Ballon d'Or sahibi oyuncunun, bu sakatlık nedeniyle birkaç ay sahalardan uzak kalacağı açıklandı. \n\nYaşanan bu gelişme, Alman ekibi Bayern Münih cephesinde endişeye yol açarken, golcü oyuncunun tedavi sürecinin nasıl ilerleyeceği ve kaçıracağı maçlar konusundaki detaylar ilerleyen günlerde netlik kazanacak.",
+      "highlights": [
+        "Harry Kane sol ayak bileğindeki bağları yırtıkladı",
+        "Sakatlık Bayern Münih'in Cologne ile 1-1 berabere kaldığı maçta yaşandı",
+        "Yıldız oyuncu birkaç ay sahalardan uzak kalacak"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+      "publishedAt": "2026-11-21T09:01:29.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss",
@@ -170,13 +213,18 @@
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "3 dk önce",
-      "body": "Asya ziyaretinin ardından Beyaz Saray’da konuşan Trump, Şi ve Putin’le ilişkilerini savundu. Putin’in Ukrayna’daki savaşı diplomasi yoluyla bitirmek istediğini öne sürdü. İran ile da 'gerçek bir anlaşma' yapılması çağrısında bulundu.",
-      "highlights": [],
+      "body": "ABD Başkanı Donald Trump, dört günlük Asya ziyaretinin ardından Beyaz Saray’da yaptığı açıklamalarda Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile olan ilişkilerini savundu. Her iki liderle yaptığı görüşmeleri olumlu bir gelişme olarak değerlendiren Trump, Putin’i dost olarak tanımlaması nedeniyle yöneltilen eleştirilere yanıt verdi ve ilişkisini harika olarak nitelendirdi. Ukrayna’daki savaşa değinen Trump, Putin’in çatışmayı diplomatik yollarla bitirmek istediğini öne sürdü. Ancak barış anlaşmasına ulaşmanın zor olduğunu belirten Trump, Ukrayna Cumhurbaşkanı Volodimir Zelenskiy ile Putin arasında büyük bir nefret olduğunu ifade etti. Savaş sürerken ABD, Rusya ve Çin liderleri Çin’de ortak bir barış bildirisi yayımlayarak stratejik istikrarı koruma taahhüdünde bulundu.\n\nİran ile süren çatışmaya da değinen Trump, Tahran’ın Washington ile anlaşmak istediğini ancak henüz kabul edilebilir koşullar sunmadığını söyledi. Gerçek bir anlaşma yapmak istediklerini belirten Trump, İran hükümetini 51 yıldır insanları kandırmakla suçladı. Ayrıca doğrulanmamış haberlere atıfta bulunarak İran’ın kirli bomba geliştirmesine izin vermeyeceklerini ifade etti. \n\nMeksika ve Kanada ile yürütülen ticaret görüşmelerine de değinen Trump, Meksika Cumhurbaşkanı Claudia Sheinbaum ile yapılan görüşmelerde anlaşmaya yaklaştıklarını ancak Meksika’nın ticaret fazlası vermesini kabul etmeyeceklerini vurguladı. Kanada ile ilgili olarak ise yapılacak işler olduğunu, ülkenin ticarette yıllarca haksız avantaj sağladığını savundu.\n\nSon olarak, yurt dışında veri merkezi kuran Amerikan şirketlerine yüksek vergiler getirmeyi planladığını açıklayan Trump, bu tesislerin ABD’de kalmasını istediğini belirtti. Önerisine ilişkin ayrıntı vermeyen Trump, konuyu henüz yetkilileriyle görüşmediğini de kabul etti.",
+      "highlights": [
+        "Trump, Asya ziyareti sonrasında Şi Cinping ve Vladimir Putin ile ilişkilerini savundu.",
+        "Trump, Putin’in Ukrayna’daki savaşı diplomatik yollarla bitirmek istediğini öne sürdü.",
+        "Trump, İran hükümetini 51 yıldır insanları kandırmakla suçladı."
+      ],
       "externalUrl": "https://tr.euronews.com/2026/11/21/trump-putin-ile-iliskilerini-savundu-irani-durust-olmamakla-sucladi",
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z"
+      "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z",
+      "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261121-france-must-change-or-risk-losing-overseas-territories-former-pm-tells-rfi-manuel-valls",
@@ -2703,7 +2751,7 @@
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T03:18:38.636Z",
+      "imageSearchAttemptedAt": "2026-11-21T09:24:17.870Z",
       "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z"
     },
     {
@@ -2915,7 +2963,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:34:57.104Z",
-      "imageSearchAttemptedAt": "2026-11-21T03:18:38.636Z"
+      "imageSearchAttemptedAt": "2026-11-21T09:24:17.870Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/taskoprude-sis-etkili-oldu-dron-ile-goruntulendi-kastamonu-taskopru-haberleri-4874826",
@@ -13944,45 +13992,6 @@
       "publishedAt": "2026-11-17T08:12:17.000Z",
       "category": "Son Dakika",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/sinan-burhandan-ankara-kulislerini-hareketlendirecek-iddia-iki-isim-ak-partiye-katilacak-4873371",
-      "headline": "Sinan Burhan'dan Ankara kulislerini hareketlendirecek iddia: İki isim AK Parti'ye katılacak",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591453214154-c95db71dbd83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2lhbiUyMGhhbmRzaGFrZXxlbnwxfDB8fHwxNzk0OTAzMjkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Constantin Wenning",
-        "photographerUrl": "https://unsplash.com/@conniwenningsimages",
-        "unsplashUrl": "https://unsplash.com/photos/man-and-woman-holding-hands-idDvA4jPBO8"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Gazeteci Sinan Burhan, Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer'in bu perşembe günü AK Parti'ye katılacağını ve rozetini Cumhurbaşkanı Recep Tayyip Erdoğan'ın takacağını öne sürdü. Bur ayrıca Beyoğlu Belediye Başkan Vekili Sefer Karaahmetoğlu'nun da 19 Kasım Perşembe günü AK Parti'ye geçeceğini iddia etti.",
-      "highlights": [
-        "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer AK Parti'ye katılacak",
-        "Rozeti Cumhurbaşkanı Recep Tayyip Erdoğan takacak",
-        "Beyoğlu Belediye Başkan Vekili Sefer Karaahmetoğlu AK Parti'ye geçiyor"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/sinan-burhandan-ankara-kulislerini-hareketlendirecek-iddia-iki-isim-ak-partiye-katilacak-4873371",
-      "publishedAt": "2026-11-17T08:08:44.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.trthaber.com/haber/turk-dunyasi/bilge-kaganin-saray-sehrinin-yeri-tespit-edildi-ayrintilar-ilk-kez-trt-haberde-963467.html",
-      "headline": "Bilge Kağanın Saray Şehrinin yeri tespit edildi: Ayrıntılar ilk kez TRT Haberde",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "şimdi",
-      "body": "Türk tarihinin önemli hükümdarlarından Bilge Kağan’ın Saray Şehri'nin izine, 13. yüzyılda yaşamış Kitan asıllı bir devlet adamının eserinde rastlandı. Moğolistan’ın Hotont bölgesindeki surlarla çevrili yapı kalıntıları, Göktürklerde şehircilik tarihine ışık tutuyor. Ayrıntılar haberimizde...",
-      "highlights": [],
-      "externalUrl": "https://www.trthaber.com/haber/turk-dunyasi/bilge-kaganin-saray-sehrinin-yeri-tespit-edildi-ayrintilar-ilk-kez-trt-haberde-963467.html",
-      "publishedAt": "2026-11-17T07:56:00.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T14:24:34.771Z"
     }
   ],
   "rejectedIds": [
