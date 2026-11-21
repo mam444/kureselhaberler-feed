@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T09:24:31.592Z",
+  "generatedAt": "2026-11-21T09:34:32.114Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/gulek-yaylasinda-turk-semenderi-goruntulendi-4875130",
+      "headline": "Gülek Yaylası'nda nesli tehlike altındaki Türk semenderi görüntülendi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1654284637224-d4ea83ba5424?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VHVya2lzaCUyMHNhbGFtYW5kZXJ8ZW58MXwwfHx8MTc5NTI1MzY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Asha Taylor",
+        "photographerUrl": "https://unsplash.com/@axt06280",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-lizard-on-a-mossy-surface-n5VatCJJFUU"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Adana'dan Gülek Yaylası'ndaki yayla evine giden Öykü Konuş, bahçesinde dolaşırken nesli tehlike altındaki Türk semenderi ile karşılaştı. Yakından incelediği nadir canlıyı cep telefonu kamerasıyla görüntüleyen Konuş, semendere zarar vermeden doğal yaşam alanına bıraktı.\n\nDünya Doğa ve Doğal Kaynakları Koruma Birliği (IUCN) tarafından hazırlanan kırmızı listede yer alan Türk semenderinin görüntülenmesi, bölgedeki doğal yaşamın zenginliğini gözler önüne serdi.\n\nYaşadığı karşılaşmanın ardından açıklama yapan Öykü Konuş, bu türlerin ekolojik denge için çok önemli ve koruma altında olduğunu belirtti. Konuş, insanların bu canlıları gördüğünde dokunmadan ve ürkütmeden yolunu açması gerektiğini ifade ederek doğanın korunması çağrısında bulundu.",
+      "highlights": [
+        "Adana Gülek Yaylası'nda Türk semenderi görüntülendi",
+        "Semender IUCN kırmızı listesinde yer alıyor",
+        "Öykü Konuş canlıya zarar vermeden doğaya bıraktı"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/gulek-yaylasinda-turk-semenderi-goruntulendi-4875130",
+      "publishedAt": "2026-11-21T09:31:10.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cq8j40d29kneo?at_medium=RSS&at_campaign=rss",
       "headline": "COP31 müzakereleri fosil yakıt tartışmalarında düğümlendi",
@@ -82,14 +105,16 @@
       "timeAgo": "23 dk önce",
       "body": "Bayern Münih forması giyen Harry Kane, Köln ile 1-1 berabere kaldıkları karşılaşmada sakatlık geçirdi. \n\nKarşılaşma sırasında sol ayak bileğindeki bağların yırtıldığı belirtilen Ballon d'Or sahibi oyuncunun, bu sakatlık nedeniyle birkaç ay sahalardan uzak kalacağı açıklandı. \n\nYaşanan bu gelişme, Alman ekibi Bayern Münih cephesinde endişeye yol açarken, golcü oyuncunun tedavi sürecinin nasıl ilerleyeceği ve kaçıracağı maçlar konusundaki detaylar ilerleyen günlerde netlik kazanacak.",
       "highlights": [
-        "Harry Kane sol ayak bileğindeki bağları yırtıkladı",
-        "Sakatlık Bayern Münih'in Cologne ile 1-1 berabere kaldığı maçta yaşandı",
-        "Yıldız oyuncu birkaç ay sahalardan uzak kalacak"
+        "Harry Kane sol ayak bileğindeki bağları yırtı.",
+        "Sakatlık Köln ile oynanan 1-1'lik maçta gerçekleşti.",
+        "Oyuncu birkaç ay sahalardan uzak kalacak."
       ],
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
       "publishedAt": "2026-11-21T09:01:29.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-21T09:34:25.162Z",
+      "sourceTextAttemptedAt": "2026-11-21T09:34:25.162Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss",
@@ -247,6 +272,29 @@
       "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z"
     },
     {
+      "id": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+      "headline": "Fransa, Sosyal Huzursuzluğun Altıncı Haftasında Yeni Protestolara Hazırlanıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1686817514886-7857fe665057?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RnJhbmNlJTIwcHJvdGVzdHxlbnwxfDB8fHwxNzk1MjUzNjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Project:KENO",
+        "photographerUrl": "https://unsplash.com/@projectkeno",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-walking-down-a-street-next-to-tall-buildings-AXNnXQR2_K8"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Fransa, gelecek yıl yapılacak cumhurbaşkanlığı seçimi öncesinde artan yaşam maliyeti ve hükümetin haftalardır süren sosyal huzursuzluğu yönetme biçimine karşı düzenlenecek art arda altıncı cumartesi protestolarına hazırlanıyor. Paris polisinin verdiği bilgiye göre, sendikalar ve gençlik grupları tarafından organize edilen yürüyüş yerel saatle 14:00'te Cumhuriyet Meydanı'ndan başlayarak Millet Meydanı'na doğru ilerleyecek. Sarı Yelekliler ise reddedilen Concorde Meydanı yürüyüşü yerine bu aynı güzergaha katılacaklarını duyurdu.\n\nAşırı solcu Boyun Eğmeyen Fransa (LFI) partisinden sosyal medyada yapılan açıklamada, hükümetten yanıt alınamadığı belirtilerek mücadelenin devam edeceği vurgulandı ve gençlerle sendikaların yanında kalabalık şekilde alanlara çıkılması çağrısı yapıldı.\n\nAvrupa genelinde cuma günü İspanya, Portekiz, Almanya ve Yunanistan dahil 20'den fazla ülkede gençlik ve işçi öncülüğünde gösteriler düzenlendi. On binlerce kişi yaşam maliyeti, kötüleşen eğitim koşulları, iklim krizinin etkileri ve küresel çatışmalar nedeniyle sokaklara döküldü; bu eylemler bazı şehirlerde okullarda, toplu taşımada ve kamu hizmetlerinde aksamalara yol açarken polis ile göstericiler arasında çatışmalar yaşandı.\n\nGeçtiğimiz cumartesi günü içişleri bakanlığı verilerine göre Fransa genelinde yaklaşık 146.000 kişi sokaklardayken, CGT sendikası bu sayının 500.000 olduğunu öne sürmüştü. Ülke genelinde 50 ila 60 planlı yürüyüş için 70.000 civarında polis ve jandarma görevlendirilmişti.",
+      "highlights": [
+        "Fransa art arda altıncı cumartesi protestolarına hazırlanıyor",
+        "Paris'teki yürüyüş yerel saatle 14:00'te başlayacak",
+        "Avrupa genelinde 20'den fazla ülkede gösteriler düzenlendi"
+      ],
+      "externalUrl": "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
+      "publishedAt": "2026-11-21T08:29:53.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
       "headline": "İspanya mahkemesi Filistin yanlısı aktivist James 'Fergie' Chambers'a kefaletle serbestlik tanıdı",
       "source": "Al Jazeera",
@@ -266,7 +314,8 @@
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
       "publishedAt": "2026-11-21T08:26:22.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T09:34:25.162Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
@@ -3008,7 +3057,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:14:36.728Z",
-      "imageSearchAttemptedAt": "2026-11-21T03:18:38.636Z"
+      "imageSearchAttemptedAt": "2026-11-21T09:34:25.162Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
@@ -13945,51 +13994,6 @@
       ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/5-ab-ulkesinden-gocmenlerle-mucadele-adimi-sinir-disi-etme-merkezi-kurulacak-7702316",
       "publishedAt": "2026-11-17T08:40:40.000Z",
-      "category": "Son Dakika",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/bahceli-sozcu-tvye-kayyum-atanmasi-hakkinda-konustu-yonetimi-ve-yorumculari-isaret-etti-4873383",
-      "headline": "Bahçeli'den Sözcü TV'ye kayyum atanması açıklaması",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1655720352145-cd7bbf26698a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bmV3cyUyMG1pY3JvcGhvbmV8ZW58MXwwfHx8MTc5NDkwNDQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Iwaria Inc.",
-        "photographerUrl": "https://unsplash.com/@iwaria",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-holding-a-microphone-1jsk7RhVg-U"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "MHP Genel Başkanı Devlet Bahçeli, Sözcü Medya Grubu'na kayyum atanması kararına ilişkin konuştu. Bahçeli, kararın gerekçeleri konusunda Sözcü yönetimini ve ekrandaki yorumcuları işaret ederek, sorunun sebep ve sonuçlarının onlara sorulması gerektiğini belirtti.",
-      "highlights": [
-        "Bahçeli, Sözcü Medya Grubu'na kayyum atanması hakkında konuştu",
-        "Kararın gerekçeleri için Sözcü yönetimini ve yorumcuları işaret etti"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/bahceli-sozcu-tvye-kayyum-atanmasi-hakkinda-konustu-yonetimi-ve-yorumculari-isaret-etti-4873383",
-      "publishedAt": "2026-11-17T08:32:36.000Z",
-      "category": "Gündem",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-sosyal-medya-cagrisi-gerekli-adimlari-atmanin-zamani-geldi-7702248",
-      "headline": "MHP lideri Bahçeli'den sosyal medya ve şehit açıklaması",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1594321120022-7649850959bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U29uJTIwRGFraWthfGVufDF8MHx8fDE3OTQ5MDMyODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "visuals",
-        "photographerUrl": "https://unsplash.com/@visuals",
-        "unsplashUrl": "https://unsplash.com/photos/a-drawing-of-a-face-i7xNLAWRl2I"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "MHP lideri Devlet Bahçeli, televizyon, sosyal medya ve radyo aracılığıyla takip edenlere ve Türk-İslam âlemine selamlarını iletti. Bahçeli, Malatya Yeşilyurt'ta S-70 tipi helikopterin kırıma uğraması sonucu ve Kıbrıs'ta görev başında rahatsızlanarak şehit olan askerler için başsağlığı diledi.",
-      "highlights": [
-        "Malatya'nın Yeşilyurt ilçesinde S-70 tipi helikopter kaza kırıma uğradı",
-        "Kaza ve görev sırasında toplam beş askeri personel şehit oldu",
-        "Bahçeli şehit ailelerine ve Türk Silahlı Kuvvetleri'ne başsağlığı diledi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-mhp-lideri-bahceliden-sosyal-medya-cagrisi-gerekli-adimlari-atmanin-zamani-geldi-7702248",
-      "publishedAt": "2026-11-17T08:12:17.000Z",
       "category": "Son Dakika",
       "lang": "tr"
     }
