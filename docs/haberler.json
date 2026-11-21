@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-21T10:24:28.474Z",
+  "generatedAt": "2026-11-21T10:34:23.574Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
+      "headline": "AB Lideri Ursula von der Leyen'den Danimarka'daki Suikast Girişimine Sert Tepki",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1553522622-dbbcea69d15f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VXJzdWxhJTIwdm9uJTIwZGVyJTIwTGV5ZW58ZW58MXwwfHx8MTc5NTI1NzI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tolga Ahmetler",
+        "photographerUrl": "https://unsplash.com/@t_ahmetler",
+        "unsplashUrl": "https://unsplash.com/photos/woman-fishing-on-bridge-during-daytime-ae3HsYShHPc"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Avrupa Komisyonu Başkanı Ursula von der Leyen, Danimarka'da bir ABD-Ukrayna vatandaşını hedef alan ve Rus istihbarat servisleri tarafından tasarlandığı iddia edilen suikast girişimini şiddetle kınadı.\n\nCumartesi günü yaptığı açıklamada von der Leyen, Danimarka ile tam dayanışma içinde olduklarını vurguladı. Sosyal medya platformu X üzerinden bir mesaj paylaşan Komisyon Başkanı, olayın Avrupa Birliği topraklarında gerçekleştirilen bir saldırı olduğunu belirtti ve bunu kabul edilemez olarak nitelendirdi.\n\nAyrıca von der Leyen, Rus hibrit saldırılarının hedefi olan tüm üye devletlerin yanında olduklarını ifade etti. Hazırlık ve caydırıcılığı güçlendirmek amacıyla AB'nin yakında yeni bir Avrupa Güvenlik Stratejisi önereceğini de sözlerine ekledi.\n\nÖte yandan, Danimarka'daki Rus büyükelçiliği Cuma günü yaptığı açıklamada, yöneltilen suçlamaların herhangi bir kanıtla desteklenmediğini savundu.",
+      "highlights": [
+        "AB Komisyonu Başkanı Ursula von der Leyen, Rus istihbaratının Danimarka'daki suikast planı iddiasını kınadı.",
+        "Rusya'nın Kopenhag Büyükelçiliği suçlamaların kanıtlanmadığını belirtti.",
+        "AB hazırlık ve caydırıcılığı artırmak için yeni bir güvenlik stratejisi önermeye hazırlanıyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
+      "publishedAt": "2026-11-21T10:32:36.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
+      "headline": "FBI'ın suç kayıtları veri tabanında güvenlik ihlali şüphesi",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1688956020469-50f4ecef7489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RkJJJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTI1NzI2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Trinks",
+        "photographerUrl": "https://unsplash.com/@dtrinksrph",
+        "unsplashUrl": "https://unsplash.com/photos/the-seal-of-the-department-of-justice-on-a-wall-Vvh_9ooeEZ0"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "ABD basını, Federal Soruşturma Bürosu'nun (FBI) suç bilgilerini içeren veri tabanına izinsiz girilmiş olabileceği şüphesiyle soruşturma başlattığını duyurdu. Konuya ilişkin bilgisi bulunan iki kişinin aktardığına dayandırılan haberlerde, federal ve yerel kolluk kuvvetlerinin Ulusal Suç Bilgi Merkezi (NCIC) veri tabanını yakalama emirleri ile adli geçmiş sorgulamaları için kullandığı belirtildi. BBC, FBI'dan konuyla ilgili açıklama talep etti. Bu gelişmenin, geçen hafta ABD'de bankacılık ve hava trafik kontrolü gibi sektörleri etkileyen teknik kesintilerin ardından yaşandığı, yetkililerin ise bu kesintilerin siber saldırılardan kaynaklanmadığını açıkladığı aktarıldı. Öte yandan, ABD'nin iç istihbarat ve güvenlik teşkilatı FBI daha önce de siber suç gruplarının hedefi olmuştu. Eylül ayında FBI, ShinyHunters adlı grubun sistemlerine izinsiz girmiş olabileceği şüphesiyle soruşturma yürüttüğünü açıklamış, grup ise teşkilat çalışanlarına ait bilgileri çaldığını öne sürmüştü. Ayrıca NBC, ABD Tarım Bakanlığı'nın (USDA) da bir siber saldırıya uğramış olabileceğini, çiftçilere ödemelerin yapıldığı sistemin hedef alındığının bildirildiğini kaydetti. USDA konu hakkında kamuoyuna açıklama yapmadı.",
+      "highlights": [
+        "ABD basını, FBI'ın suç kayıtları veri tabanında güvenlik ihlali şüphesiyle soruşturma başlattığını bildirdi.",
+        "Federal ve yerel kolluk kuvvetleri NCIC veri tabanını yakalama emirleri ve adli geçmiş sorgulamaları için kullanıyor.",
+        "NBC'ye göre ABD Tarım Bakanlığı'nın da siber saldırıya uğramış olabileceği bildirildi."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-21T10:30:24.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945?maca=tur-rss-tur-all-1495-xml-mrss",
       "headline": "Almanya'da sağcı şiddeti belgeleyen portala destek kesildi",
@@ -70,7 +116,8 @@
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
       "publishedAt": "2026-11-21T09:58:59.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:34:18.844Z"
     },
     {
       "id": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
@@ -3483,7 +3530,7 @@
       "publishedAt": "2026-11-20T10:12:21.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:24:30.419Z"
+      "sourceTextAttemptedAt": "2026-11-21T10:34:18.844Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/press-review/20261120-the-far-right-is-missing-the-butt-of-the-gta-vi-joke-it-s-them",
@@ -13958,52 +14005,6 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/mhp-lideri-bahceli-bakan-gurlek-ile-bir-araya-geldi-7702395",
       "publishedAt": "2026-11-17T10:23:13.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/teknoloji/nvidia-eski-ceosu-huangi-geri-getirme-kulislerine-sirtini-dondu-7702382",
-      "headline": "Nvidia, eski CEO'su Huang'ı geri getirme kulislerine sırtını döndü",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1662947683280-3be5bfc47075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8TnZpZGlhJTIwY2hpcHxlbnwxfDB8fHwxNzk0OTA5ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "BoliviaInteligente",
-        "photographerUrl": "https://unsplash.com/@boliviainteligente",
-        "unsplashUrl": "https://unsplash.com/photos/logo-1GOYDLM_jcg"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "ABD'li çip üreticisi Nvidia, casusluk iddialarıyla istifa eden eski CEO Jensen Huang'ın görevine iade edilmesine yönelik kampanyayı göz ardı etti. BBC kaynaklarına dayandırılan iddiaya göre yönetim kurulu bu kampanya ile ilgilenmiyor. Öte yandan Huang, Donald Trump'ın desteğini almış; Elon Musk ve bazı teknoloji yöneticileri iadesi için dilekçe imzalamıştı.",
-      "highlights": [
-        "Nvidia yönetimi, eski CEO Jensen Huang'ı geri getirme kampanyasını göz ardı etti.",
-        "Huang'ın iadesi için Donald Trump destek vermiş, Elon Musk ve teknoloji yöneticileri dilekçe imzalamıştı.",
-        "Huang'ın yönetimi yeniden üstlenme ihtimalini yakın çevresiyle değerlendirdiği öne sürüldü."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/teknoloji/nvidia-eski-ceosu-huangi-geri-getirme-kulislerine-sirtini-dondu-7702382",
-      "publishedAt": "2026-11-17T09:59:23.000Z",
-      "category": "Teknoloji",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/2-bin-yildir-uyuyan-fay-hatti-icin-bolgeye-inildi-6-subat-sonrasi-sinirimizdaki-asil-tehlike-icin-kritik-hamle-4873433",
-      "headline": "2 bin yıldır uyuyan fay hattı için kritik saha çalışması başlatıldı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1788213153360-d88f662d4696?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmF1bHQlMjBsaW5lfGVufDF8MHx8fDE3OTQ5MDkyOTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Matthew Mentley",
-        "photographerUrl": "https://unsplash.com/@matthewmentley",
-        "unsplashUrl": "https://unsplash.com/photos/stone-path-between-volcanic-rock-walls-xVVnxPuL4HA"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "6 Şubat depremlerinin ardından uzmanlar, Suriye'deki kırılmayan fay hatlarına odaklandı. AFAD koordinasyonundaki Türk ve Suriyeli 20 kişilik heyet, Ölü Deniz Fayı bağlantılı hatlarda inceleme yapmak üzere ilk kez kapsamlı bir saha çalışması başlattı. 500 ila 2000 yıldır sessiz kalan faylarda hendekler açılarak deprem riski araştırılıyor.",
-      "highlights": [
-        "20 kişilik Türk ve Suriyeli heyet saha çalışması başlattı",
-        "Ölü Deniz Fayı bağlantılı hatlar inceleniyor",
-        "Faylar üzerinde hendekler açılacak"
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/2-bin-yildir-uyuyan-fay-hatti-icin-bolgeye-inildi-6-subat-sonrasi-sinirimizdaki-asil-tehlike-icin-kritik-hamle-4873433",
-      "publishedAt": "2026-11-17T09:52:06.000Z",
-      "category": "Gündem",
       "lang": "tr"
     }
   ],
