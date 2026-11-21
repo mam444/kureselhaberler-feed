@@ -1,6 +1,28 @@
 {
-  "generatedAt": "2026-11-21T10:44:38.075Z",
+  "generatedAt": "2026-11-21T10:54:27.140Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/yapay-zeka/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti/4132855",
+      "headline": "Anthropic çalışanı Türk matematikçi, 167 yıldır çözülemeyen problemi yapay zekayla çözdüğünü iddia etti",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1635372722656-389f87a941b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGhlbWF0aWNzfGVufDF8MHx8fDE3OTUyNTg0NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Thomas T",
+        "photographerUrl": "https://unsplash.com/@pyssling240",
+        "unsplashUrl": "https://unsplash.com/photos/a-blackboard-with-a-lot-of-writing-on-it-OPpCbAAKWv8"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Yapay zeka şirketi Anthropic'te çalışan Türk matematikçi Levent Alpöge, 167 yıldır çözülemeyen Riemann hipotezini yapay zeka yardımıyla çözdüğünü ileri sürdü. Yapılan bu açıklama matematik dünyasında büyük yankı uyandırırken, Alpöge'nin iddiası henüz resmi olarak doğrulandı mı veya detayları neleri kapsıyor konusunda başka bir ayrıntı verilmedi. İddianın merkeze aldığı Riemann hipotezi, uzun yıllardır matematikçilerin üzerinde çalıştığı ancak bir türlü çözüme ulaştırılamayan en önemli problemler arasında yer alıyor. Türk matematikçinin yapay zeka teknolojisini bu süreçte nasıl kullandığı ve elde ettiği iddia edilen sonuca nasıl ulaştığına dair kaynak metinde herhangi bir ek bilgi bulunmuyor.",
+      "highlights": [
+        "Anthropic çalışanı Türk matematikçi Levent Alpöge Riemann hipotezini çözdüğünü iddia etti",
+        "167 yıldır çözülemeyen problemin yapay zeka yardımıyla çözüldüğü ileri sürüldü"
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/yapay-zeka/anthropic-calisani-turk-matematikci-167-yildir-cozulemeyen-problemi-yapay-zekayla-cozdugunu-iddia-etti/4132855",
+      "publishedAt": "2026-11-21T10:51:27.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
       "headline": "445 kilogram su ürünü ele geçirildi: 15 kişiye ceza",
@@ -14,10 +36,33 @@
       },
       "timeAgo": "2 dk önce",
       "body": "Mersin’de su ürünlerinin korunması ve sürdürülebilir avcılığın sağlanması amacıyla gerçekleştirilen denetimlerde, mevzuata aykırı faaliyetlerde bulunduğu belirlenen 15 kişiye idari para cezası uygulanırken, avlanması yasak olan ve yasal boy sınırının altında bulunan toplam 445 kilogram su ürününe el konuldu.",
-      "highlights": [],
+      "highlights": [
+        "9-14 Kasım 2026 tarihleri arasında Mersin'de denetimler yapıldı",
+        "1380 Sayılı Su Ürünleri Kanununa aykırı davranan 15 kişiye para cezası verildi",
+        "Yasako olan ve boyun altında bulunan 445 kilogram su ürününe el konuldu"
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
       "publishedAt": "2026-11-21T10:43:02.000Z",
       "category": "Gündem",
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:54:18.312Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+      "headline": "El Halil'deki Binalar İçin Yıkım Tebligatları Filistinlilerde Korkuya Neden Oldu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "16 dk önce",
+      "body": "İsrail makamlarının Batı Şeria'da yasal ruhsata sahip evleri hedef alması, bölgedeki Filistinliler arasında zorunlu göç korkusunu artırdı.\n\nEl Halil bölgesinde yaşanan bu gelişmeler, Filistinli sakinlerin endişelerini en üst seviyeye taşıdı.\n\nYetkililerin hedef aldığı konutların resmi ruhsatlı olması dikkat çekerken, halk yaşanan durum karşısında tedirgin.\n\nBölgedeki zorunlu göç tehlikesi, yerel halkın geleceğe dair kaygılarını güçlendiriyor.",
+      "highlights": [
+        "İsrail makamları Batı Şeria'daki yasal ruhsatlı evleri hedef alıyor",
+        "Filistinliler zorunlu göç korkusu yaşıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
+      "publishedAt": "2026-11-21T10:38:13.000Z",
+      "category": "Dünya",
       "lang": "tr"
     },
     {
@@ -70,7 +115,7 @@
     },
     {
       "id": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "Anthropic araştırmacısı, yapay zekayı kullanarak matematiğin en büyük bilmecesini çözdü",
+      "headline": "Anthropic araştırmacısı, yapay zekayı kullanarak matematiğin en büyük bilmecesini çözdüğünü açıkladı",
       "source": "DW English",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
       "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGhlbWF0aWNzfGVufDF8MHx8fDE3OTUyNTc4NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -80,16 +125,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0"
       },
       "timeAgo": "16 dk önce",
-      "body": "Yapay zeka alanında faaliyet gösteren Anthropic şirketinde çalışan bir matematikçi, şirketin Claude yapay zeka aracını kullanarak matematiğin en ünlü problemlerinden birini çözdüğünü bildirdi. 1859 yılına dayanan Riemann hipotezi, asal sayıların dağılımını konu alıyor.\n\nAnthropic'in teknik kadrosunda yer alan Levent Alpoge, Cuma günü yayınladığı bir notta Claude ile birlikte çalışarak Riemann Hipotezi'nin bir kanıtını keşfettiğine inandığını duyurdu. Kanıtın diğer matematikçiler tarafından doğrulanması ve onaylanması gerekiyor.\n\nAlpoge, yapay zeka ile olan iş birliğinin 250 bin sayfadan fazla matematiksel materyal ürettiğini belirtti. Clay Mathematics Institute başkanı Martin Bridson, AP haber ajansının aktardığı açıklamada bunun tarihi öneme sahip bir duyuru olduğunu ifade etti.\n\nAlman matematikçi Bernhard Riemann tarafından 19. yüzyılda formüle edilen hipotez, asal sayıların dağılımı hakkındadır. Bu potansiyel gelişme, yapay zeka sistemlerinin gelişmiş matematiksel araştırmalara önemli katkılar sağladığı örneklerin arttığı bir dönemde gerçekleşti. Eylül ayında rakip yapay zeka şirketi OpenAI da teknolojisinin Navier-Stokes denklemlerini içeren bir problemin çözümüne yardımcı olduğunu açıklamıştı.",
+      "body": "Yapay zeka alanında faaliyet gösteren Anthropic şirketinde çalışan bir matematikçi, şirketin geliştirdiği Claude adlı yapay zeka aracını kullanarak yüzyıldan uzun süredir çözülemeyen Riemann hipotezini çözdüğünü bildirdi. 1859 yılına dayanan Riemann hipotezi, asal sayıların dağılımını konu alıyor.\n\nAnthropic teknik ekibinde yer alan Levent Alpoge, Cuma günü internet sitesinde yaptığı açıklamada, Claude ile birlikte çalışarak Riemann Hipotezi'nin bir kanıtını keşfettiğine inandığını belirtti. Alpoge, yapay zeka ile gerçekleştirdiği bu iş birliğinin 250 bin sayfadan fazla matematiksel materyal ürettiğini ifade etti.\n\nAlpoge, sürecin ardından yaptığı değerlendirmede Claude'un son aşamada kendisini geride bıraktığını kaydetti. Öne sürülen bu kanıtın diğer matematikçiler tarafından doğrulanması ve onaylanması gerektiği belirtildi.\n\nAlmanyak matematikçi Bernhard Riemann tarafından 19. yüzyılda formüle edilen hipotez, Clay Matematik Enstitüsü tarafından belirlenen yedi Milenyum Ödüllü Problem'den biri olma özelliği taşıyor. Enstitü başkanı Martin Bridson, AP ajansına yaptığı açıklamada bunun tarihi öneme sahip bir duyuru olduğunu ifade etti. Öte yandan enstitü, gerçek bir anlayışa ulaşmanın uzun ve zorlu bir yol olacağını vurguladı.",
       "highlights": [
         "Anthropic araştırmacısı Levent Alpoge, Claude yapay zeka aracını kullanarak Riemann hipotezini çözdüğünü açıkladı.",
-        "Kanıtın bağımsız matematikçiler tarafından doğrulanması gerekiyor.",
-        "Riemann hipotezi, Clay Mathematics Institute tarafından belirlenen yedi Milenyum Ödül Problemi'nden biridir."
+        "Öne sürülen matematiksel kanıtın bağımsız matematikçiler tarafından doğrulanması gerekiyor.",
+        "Riemann hipotezi, Clay Matematik Enstitüsü'nün belirlediği yedi Milenyum Ödüllü Problem'den biri arasında yer alıyor."
       ],
       "externalUrl": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-xml-mrss",
       "publishedAt": "2026-11-21T10:29:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:54:18.312Z"
     },
     {
       "id": "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945?maca=tur-rss-tur-all-1495-xml-mrss",
@@ -13958,52 +14004,6 @@
       "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-sirbistanda-milletvekiline-yogurtlu-protesto-neye-ugradigini-sasirdi-7702471",
       "publishedAt": "2026-11-17T12:03:17.000Z",
       "category": "Dünya",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/kan-donduran-cinayet-suc-makinesi-annesini-doverek-oldurdu-7702464",
-      "headline": "Nurettin Gürgün, Annesini Döverek Öldürdü",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1638415383201-90701d9d9b91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwc3RhdGlvbnxlbnwxfDB8fHwxNzk0OTE2NDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "WrS.tm.pl",
-        "photographerUrl": "https://unsplash.com/@wrstmpl",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-driving-down-a-street-next-to-a-tall-building-WCddNxEdlwY"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Çarşamba ilçesinde cezaevinden 2 ay önce çıkan Nurettin Gürgün, birlikte yaşadığı 71 yaşındaki annesi İftadiye Gürgün'ü evde darp ederek öldürdü. Hastaneye kaldırılan yaşlı kadın kurtarılamazken, 23 suç kaydı bulunan zanlı gözaltına alınarak adliyeye sevk edildi.",
-      "highlights": [
-        "Nurettin Gürgün annesini darp ederek öldürdü",
-        "İftadiye Gürgün hastanede hayatını kaybetti",
-        "Zanlı gözaltına alınarak adliyeye sevk edildi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/kan-donduran-cinayet-suc-makinesi-annesini-doverek-oldurdu-7702464",
-      "publishedAt": "2026-11-17T11:53:19.000Z",
-      "category": "Son Dakika",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanin-karadeniz-bolgesinde-gaz-tankeri-batti-3-bin-400-ton-lpg-tasiyordu-7702461",
-      "headline": "Bulgaristan'ın Karadeniz bölgesinde gaz tankeri battı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1582517378602-f109b395ce40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Z2FzJTIwdGFua2VyJTIwc2hpcHxlbnwxfDB8fHwxNzk0OTE1ODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Venti Views",
-        "photographerUrl": "https://unsplash.com/@ventiviews",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-beside-body-of-water-during-daytime-ASmaVyS4AZM"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Bulgaristan açıklarında 3 bin 400 ton LPG taşıyan Gas Husky adlı tanker battı. Liberya bayraklı ve 19 Filipinli mürettebatı bulunan gemi için arama kurtarma çalışmaları başlatıldı. Ekipler, aramalar sırasında üzerinde insanların bulunduğu bir can kurtaran salı tespit etti.",
-      "highlights": [
-        "Gas Husky adlı gaz tankeri Byala kentinin doğusunda battı",
-        "19 kişilik Filipinli mürettebat için arama kurtarma çalışmaları başlatıldı",
-        "Aramalarda üzerinde insanların bulunduğu bir can kurtaran salı tespit edildi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-bulgaristanin-karadeniz-bolgesinde-gaz-tankeri-batti-3-bin-400-ton-lpg-tasiyordu-7702461",
-      "publishedAt": "2026-11-17T11:41:15.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     }
   ],
