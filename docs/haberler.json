@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-21T13:24:27.824Z",
+  "generatedAt": "2026-11-21T13:34:32.652Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/antalyada-trafik-kisitlamalari-kaldirildi-4875222",
+      "headline": "Antalya'da trafik kısıtlamaları kaldırıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1756988008282-38706f2c3ebc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QW50YWx5YSUyMHRyYWZmaWMlMjByb2FkfGVufDF8MHx8fDE3OTUyNjgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Aleksandr Galichkin",
+        "photographerUrl": "https://unsplash.com/@axga",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-light-trails-on-a-highway-at-night-HgUkzmRkgNY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Antalya'da, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Expo Bulvarı'nda uygulanan trafik kısıtlamaları sona erdi. Antalya Valiliği tarafından yapılan açıklamaya göre, Aksu ilçesindeki COP31 etkinlik alanı çevresinde trafik düzenini sağlamak ve ulaşımın güvenli şekilde sürmesini temin etmek amacıyla tedbirler alınmıştı.\n\nBu kapsamda, 10 Kasım tarihinden itibaren Expo Kavşağı ile Kumköy Kavşağı arasındaki Expo Bulvarı'nda yol kapatma ve trafik kısıtlamaları uygulanmaya başlanmıştı. Valilik açıklamasında, söz konusu güzergahtaki yol kapatma ve trafik kısıtlamalarının 21 Kasım itibarıyla kaldırıldığı bildirildi.",
+      "highlights": [
+        "Antalya'da COP31 kapsamında uygulanan trafik kısıtlamaları kaldırıldı.",
+        "Kısıtlamalar Expo Kavşağı ile Kumköy Kavşağı arasındaki Expo Bulvarı'nda uygulanıyordu.",
+        "Yol kapatma ve trafik kısıtlamaları 21 Kasım itibarıyla sona erdirildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/antalyada-trafik-kisitlamalari-kaldirildi-4875222",
+      "publishedAt": "2026-11-21T13:33:00.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/kocaelide-saganak-hayati-felc-etti-degirmenderede-yollar-gole-dondu-3496202",
       "headline": "Kocaeli'de sağanak hayatı felç etti! Değirmendere'de yollar göle döndü",
@@ -15,15 +39,16 @@
       "timeAgo": "şimdi",
       "body": "Kocaeli'nin Gölcük ilçesinde etkili olan kuvvetli sağanak yağış günlük yaşamı olumsuz etkiledi. Yağışın şiddetini artırmasıyla birlikte özellikle Değirmendere bölgesinde rögarlar taştı. Yaşanan bu durum sonucunda sahil şeridi, cadde ve sokaklar su altında kaldı.\n\nOluşan yoğun su birikintileri nedeniyle sürücüler trafikte ilerlemekte büyük güçlük çekti. Seyir halindeki ve park halindeki çok sayıda araç yolda kalarak su içerisinde kaldı.\n\nSu baskınları sebebiyle bazı vatandaşlar evlerinden çıkamadı ve bölgede günlük yaşam aksadı. Yağışın etkileri Gölcük genelinde ve Değirmendere'de hissedildi.",
       "highlights": [
-        "Kocaeli'nin Gölcük ilçesinde kuvvetli sağanak hayatı olumsuz etkiledi.",
-        "Değirmendere bölgesinde rögarların taşmasıyla cadde, sokak ve sahil şeridini su bastı.",
-        "Su birikintileri nedeniyle çok sayıda araç yolda kaldı ve bazı vatandaşlar evlerinden çıkamadı."
+        "Kocaeli'nin Gölcük ilçesinde kuvvetli sağanak etkili oldu.",
+        "Değirmendere'de rögarların taşmasıyla cadde ve sokakları su bastı.",
+        "Su birikintileri nedeniyle araçlar yolda kaldı ve vatandaşlar evlerinden çıkamadı."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/kocaelide-saganak-hayati-felc-etti-degirmenderede-yollar-gole-dondu-3496202",
       "publishedAt": "2026-11-21T13:27:27.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:34:25.389Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
@@ -47,7 +72,8 @@
       "publishedAt": "2026-11-21T13:08:59.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T13:34:25.389Z"
     },
     {
       "id": "https://www.cnnturk.com/finans-haberler/bitcoinde-sert-dusus-24-saatte-2-4-milyar-dolarlik-pozisyon-tasfiye-edildi-3496195",
@@ -95,6 +121,30 @@
       "externalUrl": "https://www.rfi.fr/en/podcasts/international-report/20261121-turkey-seizes-control-of-last-major-independent-news-channel-amid-fraud-scandal",
       "publishedAt": "2026-11-21T13:05:31.000Z",
       "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+      "headline": "ABD'nin 'Trump sınıfı' savaş gemisi planı yeni filonun maliyetini milyarlarca dolar artırdı",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1685178863425-9dacad84e74c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VVMlMjB3YXJzaGlwJTIwZmxlZXR8ZW58MXwwfHx8MTc5NTI2ODA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vidar Nordli-Mathisen",
+        "photographerUrl": "https://unsplash.com/@vidarnm",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-navy-ship-with-a-bunch-of-fighter-jets-on-top-of-it-bOTxqWs8I0g"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "ABD Kongresi'ne sunulan bir rapora göre, ülkenin yeni \"Trump sınıfı\" savaş gemisi planı, yeni filonun maliyetini milyarlarca dolar artırdı. Kongre Bütçe Ofisi'nin analizi, donanmanın 2027 gemi inşa planındaki maliyetlerin gerçekçi olmadığını ve gemi tasarımlarının beklenenden karmaşık çıkması nedeniyle öngörülen bütçenin aşıldığını ortaya koydu. Buna göre, önümüzdeki 30 yıl boyunca toplam gemi inşa maliyetlerinin yıllık ortalama 54 milyar doları bulması bekleniyor. Ek maliyetlerin büyük kısmı, donanmanın ateş gücünü büyük gemilerde yoğunlaştıracak 15 adet ağır silahlı savaş gemisi satın alma kararından kaynaklanıyor. Bu durum, donanmanın ateşi daha fazla gemiye dağıtma hedefiyle çelişiyor. Senato ödenek komitesi üyeleri, bu mali yıl için Trump sınıfı gemiler adına talep edilen 1 milyar dolarlık ön tedarik bütçesinin sıfıra indirilmesini önerdi.\n\nÖte yandan Donanma Vekili Hung Cao, bu hafta katıldığı Senato onay duruşmasında, İran savaşının donanmanın kapasitesini zorladığını ve bu durumun filoyu sürdürülebilir sınırların ötesine taşıdığını kabul etti. İran'daki çatışmanın ABD'ye maliyetinin 260 milyar dolar civarında olduğu belirtilirken, Hürmüz Boğazı'ndaki geçiş seviyelerinin savaş öncesi oranların oldukça altında kaldığı ifade edildi. Savaşın başlamasından bu yana ABD donanma gemilerinin standart yedi aylık sürenin ötesinde, 10 ila 11 ay boyunca görev yaptığı açıklandı. Uzun süreli görevlerin bakım ve onarımları geciktirdiği, Pasifik bölgesinde nadir görülen uçak gemisi eksikliklerine yol açtığı bildirildi. Uzmanlar, donanmanın yaşadığı bu aşırı gerilmenin şimdilik yönetilebilir olduğunu ancak savaşın devam etmesi halinde gelecekte bakım ve personel açısından büyük sorunlar doğurabileceğini belirtiyor. Ayrıca raporda, Çin'in gemi inşa kapasitesinin ABD'yi büyük oranda geride bıraktığına dikkat çekildi.",
+      "highlights": [
+        "ABD'nin yeni Trump sınıfı savaş gemileri planı yeni filonun maliyetini milyarlarca dolar artırdı.",
+        "Donanma Vekili Hung Cao, İran savaşının donanma kapasitesini sürdürülemez sınırların ötesine taşıdığını kabul etti.",
+        "Kongre Bütçe Ofisi, önümüzdeki 30 yıl boyunca yıllık ortalama gemi inşa maliyetinin 54 milyar doları bulacağını öngördü."
+      ],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+      "publishedAt": "2026-11-21T13:00:00.000Z",
+      "category": "Ekonomi",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -8437,7 +8487,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
-      "imageSearchAttemptedAt": "2026-11-21T07:14:26.571Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:34:25.389Z",
       "isBreaking": false
     },
     {
@@ -8654,7 +8704,7 @@
       "publishedAt": "2026-11-19T09:10:03.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T07:24:26.533Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:34:25.389Z",
       "sourceTextAttemptedAt": "2026-11-19T09:34:30.884Z",
       "isBreaking": false
     },
@@ -14570,50 +14620,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T10:54:42.397Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.trthaber.com/haber/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz-963591.html",
-      "headline": "İranlı milletvekili: ABD nükleer silah kullanırsa aynı düzeyde karşılık veririz",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1699380309667-a202c5f4a8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8JUM0JUIwcmFubCVDNCVCMSUyMG1pbGxldHZla2lsaSUzQSUyMEFCRCUyMG4lQzMlQkNrbGVlciUyMHNpbGFoJTIwa3VsbGFuJUM0JUIxcnNhJTIwYXluJUM0JUIxJTIwZCVDMyVCQ3pleWRlJTIwa2FyJUM1JTlGJUM0JUIxbCVDNCVCMWslMjB2ZXJpcml6fGVufDF8MHx8fDE3OTQ5ODYwNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Austin Crick",
-        "photographerUrl": "https://unsplash.com/@austin_nft",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-up-their-cell-phones-hE-d4XDdKec"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "İran Meclisi Ulusal Güvenlik Komisyonu üyesi Muhammed Rıza Muhsini Sani, ABD'nin İran'a karşı nükleer silah kullanması durumunda Tahran yönetiminin aynı düzeyde karşılık vereceğini söyledi.",
-      "highlights": [],
-      "externalUrl": "https://www.trthaber.com/haber/dunya/iranli-milletvekili-abd-nukleer-silah-kullanirsa-ayni-duzeyde-karsilik-veririz-963591.html",
-      "publishedAt": "2026-11-17T15:45:00.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T07:14:21.082Z",
-      "sourceTextAttemptedAt": "2026-11-18T11:54:40.640Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
-      "headline": "Trump says he takes possible Iran bomb threat to Washington 'very seriously'",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "23 dk önce",
-      "body": "President Donald Trump said Tuesday that US authorities take any possible threats to Washington ‘very seriously’, following reports that Iran was planning to target senior Trump administration officials, possibly with a radioactive bomb. Tehran dismissed the reports as ‘fabricated’.",
-      "highlights": [
-        "Trump, Washington'a yönelik olası İran tehdidini çok ciddiye aldıklarını söyledi.",
-        "CNN'in haberine göre ABD istihbaratı İran'ın kirli bomba planladığına işaret etti.",
-        "Tahran yönetimi iddiaları 'uydurma' olarak nitelendirdi."
-      ],
-      "externalUrl": "https://www.france24.com/en/americas/20261117-trump-says-he-takes-possible-iran-bomb-threat-to-washington-very-seriously",
-      "publishedAt": "2026-11-17T15:44:54.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z",
-      "sourceTextAttemptedAt": "2026-11-18T11:54:40.640Z",
       "isBreaking": false
     }
   ],
