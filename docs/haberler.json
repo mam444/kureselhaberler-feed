@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T09:04:31.983Z",
+  "generatedAt": "2026-11-21T09:14:33.055Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/tekirdagda-lodos-sonrasi-deniz-ulasimi-normale-dondu-4875127",
+      "headline": "Tekirdağ'da lodos etkisini yitirdi: Deniz ulaşımı normale döndü",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1627040019728-e5a2c27311a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VGVraXJkYWclMjBzZWElMjB0cmFmZmljfGVufDF8MHx8fDE3OTUyNTI0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Gamze",
+        "photographerUrl": "https://unsplash.com/@delikosesi",
+        "unsplashUrl": "https://unsplash.com/photos/dock-on-body-of-water-during-night-time-FK3exN7sWdU"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Tekirdağ'da etkili olan lodosun gücünü kaybetmesiyle birlikte bölgede deniz ulaşımı yeniden normale döndü. Zaman zaman saatte 50 kilometre hıza ulaşan olumsuz hava koşulları nedeniyle daha önce sahile demirlemek zorunda kalan yerli ve yabancı bandıralı 9 şilep ve tanker, rotalarında seyrine devam etmeye başladı.\n\nOlumsuz hava şartları yüzünden bir süredir denize açılamayan balıkçılar da rüzgarın etkisini yitirmesiyle birlikte yeniden avlanmak üzere denize açılacak. Hava koşullarının iyileşmesiyle deniz trafiğindeki aksaklıklar tamamen ortadan kalktı.",
+      "highlights": [
+        "Tekirdağ'da lodosun etkisini yitirmesiyle deniz ulaşımı normale döndü.",
+        "Sahile demirleyen 9 şilep ve tanker seyrine devam etti.",
+        "Balıkçılar yeniden avlanmak için denize açılacak."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/tekirdagda-lodos-sonrasi-deniz-ulasimi-normale-dondu-4875127",
+      "publishedAt": "2026-11-21T09:12:55.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/oltasina-takilani-dev-sasirtti-turkiyenin-en-buyuk-baliklarinin-ciktigi-golet-burasi-7705044",
       "headline": "Oltasına takılan dev sazanı böyle bırakdı: Türkiye'nin en büyük balıkları bu göletten çıkıyor",
@@ -22,7 +45,8 @@
       "externalUrl": "https://www.milliyet.com.tr/gundem/oltasina-takilani-dev-sasirtti-turkiyenin-en-buyuk-baliklarinin-ciktigi-golet-burasi-7705044",
       "publishedAt": "2026-11-21T09:02:33.000Z",
       "category": "Son Dakika",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T09:14:29.224Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss",
@@ -112,7 +136,8 @@
       "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
       "publishedAt": "2026-11-21T08:39:35.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T09:14:29.224Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
@@ -172,6 +197,28 @@
       "category": "Dünya",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-21T08:44:18.767Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+      "headline": "İspanya mahkemesi Filistin yanlısı aktivist James 'Fergie' Chambers'a kefaletle serbestlik tanıdı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1651669596427-6feb5941141c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHJvdGVzdCUyMGNvdXJ0fGVufDF8MHx8fDE3OTUyNTI0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ian Hutchinson",
+        "photographerUrl": "https://unsplash.com/@ianhutchinson92",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-outside-of-a-white-building-xENKE2dzxow"
+      },
+      "timeAgo": "48 dk önce",
+      "body": "İspanya Yüksek Mahkemesi, Filistin yanlısı hayırsever James 'Fergie' Chambers hakkında koşullu kefalet kararını onayladı.\n\nAlınan karar doğrultusunda Chambers tutuksuz yargılanmak üzere serbest bırakıldı.\n\nSüreçle ilgili detaylar İspanyol adli makamları tarafından paylaşıldı.",
+      "highlights": [
+        "İspanya Yüksek Mahkemesi kefalet verdi",
+        "James 'Fergie' Chambers koşullu serbest bırakıldı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
+      "publishedAt": "2026-11-21T08:26:22.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
@@ -13152,7 +13199,7 @@
       "publishedAt": "2026-11-17T15:29:59.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T14:14:23.712Z",
+      "imageSearchAttemptedAt": "2026-11-21T09:14:29.224Z",
       "sourceTextAttemptedAt": "2026-11-18T13:54:17.024Z"
     },
     {
@@ -13218,7 +13265,7 @@
       "publishedAt": "2026-11-17T15:27:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T14:24:34.771Z",
+      "imageSearchAttemptedAt": "2026-11-21T09:14:29.224Z",
       "sourceTextAttemptedAt": "2026-11-18T14:34:27.988Z"
     },
     {
@@ -13936,49 +13983,6 @@
       "category": "Gündem",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-20T14:24:34.771Z"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-dengeli-dis-politika-yurutmek-zorunda-1751242",
-      "headline": "Bahçeli: Türkiye dengeli dış politika yürütmek zorunda",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1566762773464-e11000956ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QmFoJUMzJUE3ZWxpJTNBJTIwVCVDMyVCQ3JraXllJTIwZGVuZ2VsaSUyMGQlQzQlQjElQzUlOUYlMjBwb2xpdGlrYSUyMHklQzMlQkNyJUMzJUJDdG1layUyMHpvcnVuZGF8ZW58MXwwfHx8MTc5NDk5NTcxMXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Eren Namlı",
-        "photographerUrl": "https://unsplash.com/@namlieren",
-        "unsplashUrl": "https://unsplash.com/photos/crowd-of-people-near-building-showing-turkey-flag-during-daytime-mdjqOYwuG6g"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "MHP Genel Başkanı Devlet Bahçeli, Türkiye'nin bölgesindeki savaş ve çatışmalar nedeniyle dengeli bir dış politika yürütmek zorunda olduğunu söyledi.",
-      "highlights": [],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/bahceli-turkiye-dengeli-dis-politika-yurutmek-zorunda-1751242",
-      "publishedAt": "2026-11-17T07:53:04.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T09:55:02.663Z"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/2-haftada-yuzde-7-yukseldi-barajlar-costu-istanbul-barajlarinda-son-durum-ne-1751237",
-      "headline": "İstanbul barajlarında son durum: 2 haftada yüzde 7 yükseldi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1734761653525-9eca2e496faa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SXN0YW5idWwlMjBkYW0lMjB3YXRlcnxlbnwxfDB8fHwxNzk0OTAxNDU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anil Baki Durmus",
-        "photographerUrl": "https://unsplash.com/@anldrms",
-        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-bridge-over-a-body-of-water-ArpZ-mhirQw"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İstanbul Su ve Kanalizasyon İdaresi verilerine göre, İstanbul'daki barajların doluluk oranında son iki hafta içerisinde yüzde 7'lik bir artış kaydedildi.",
-      "highlights": [
-        "İstanbul barajlarında doluluk oranı arttı",
-        "Son 2 haftada yüzde 7'lik yükseliş yaşandı",
-        "Veriler İSKİ tarafından açıklandı"
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/2-haftada-yuzde-7-yukseldi-barajlar-costu-istanbul-barajlarinda-son-durum-ne-1751237",
-      "publishedAt": "2026-11-17T07:42:56.000Z",
-      "category": "Gündem",
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
