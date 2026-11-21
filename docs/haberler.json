@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-21T14:44:41.443Z",
+  "generatedAt": "2026-11-21T14:54:33.777Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/gungorende-temel-kazisinda-gocuk-bir-isci-toprak-altinda-kaldi-7705182",
+      "headline": "Güngören'de temel kazısında göçük! Bir işçi toprak altında kaldı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y29uc3RydWN0aW9uJTIwc2l0ZXxlbnwxfDB8fHwxNzk1MjQ1ODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jeriden Villegas",
+        "photographerUrl": "https://unsplash.com/@jeriden94",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-orange-and-black-vest-wearing-white-helmet-holding-yellow-and-black-power-tool-VLPUm5wP5Z0"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Güngören'de gerçekleştirilen bir temel kazısı sırasında göçük meydana geldiği ve bir işçinin toprak altında kaldığı bildirildi. Konuyla ilgili detayların ilerleyen saatlerde netleşmesi bekleniyor. Olay yerindeki gelişmeler yakından takip ediliyor.",
+      "highlights": [
+        "Güngören'de temel kazısında göçük meydana geldi",
+        "Bir işçi toprak altında kaldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/gungorende-temel-kazisinda-gocuk-bir-isci-toprak-altinda-kaldi-7705182",
+      "publishedAt": "2026-11-21T14:52:33.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/spor/diger-sporlar/atlara-neden-nal-takiliyor-nal-cakilirken-atlarin-cani-aciyor-mu-iste-yaris-atlarinin-gorunmeyen-hazirligi-3496218",
       "headline": "Atlara neden nal takılıyor? Nallar çakılırken atların canı acıyor mu?",
@@ -15,15 +38,15 @@
       "timeAgo": "şimdi",
       "body": "Yarış atlarının performansında önemli bir yere sahip olan nalların neden takıldığı ve takılırken atların canının acıyıp acımadığı merak ediliyor. Konuyla ilgili merak edilenler CNN TÜRK Spor Spikeri Damla Uğurtürk tarafından Nalbant Turgut Kaya'ya soruldu.\n\nYarış atlarının görünmeyen hazırlıkları kapsamında ele alınan bu süreçte, nalın performans üzerindeki önemi dikkat çekiyor. Metinde, metal bir parça olan nalın atlar için taşıdığı işlev ve uygulama aşamasına dair detayların Nalbant Turgut Kaya'ya yöneltilen sorularla ele alındığı belirtiliyor.",
       "highlights": [
-        "Atlara neden nal takıldığı merak ediliyor",
-        "Nal çakılırken atların canının acıyıp acımadığı soruluyor",
-        "Konu CNN TÜRK Spor Spikeri Damla Uğurtürk tarafından Nalbant Turgut Kaya'ya soruldu"
+        "CNN TÜRK Spor Spikeri Damla Uğurtürk nallarla ilgili konuyu Nalbant Turgut Kaya'ya sordu.",
+        "Atlara neden nal takıldığı ve nal çakılırken canlarının acıyıp acımadığı merak ediliyor."
       ],
       "externalUrl": "https://www.cnnturk.com/video/spor/diger-sporlar/atlara-neden-nal-takiliyor-nal-cakilirken-atlarin-cani-aciyor-mu-iste-yaris-atlarinin-gorunmeyen-hazirligi-3496218",
       "publishedAt": "2026-11-21T14:46:33.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T14:54:23.497Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
@@ -46,6 +69,30 @@
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
       "publishedAt": "2026-11-21T14:38:58.000Z",
       "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+      "headline": "Man City Fulham karşısında 1-1 berabere kalarak üç maçlık yenilgi serisini sonlandırdı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk1MjY5ODcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Vienna Reyes",
+        "photographerUrl": "https://unsplash.com/@viennachanges",
+        "unsplashUrl": "https://unsplash.com/photos/soccer-field-qCrKTET_09o"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Manchester City, Premier League'de Fulham ile oynadığı maçta sahadan 1-1 beraberlikle ayrılarak üç maçlık mağlubiyet serisine son vermeyi başardı. Karşılaşmada Fulham, Rodrigo Muniz'in kaydettiği golle öne geçti ve maçın gidişatını kendi lehine çeviren bir başlangıç yaptı.\n\nAncak konuk ekip Manchester City, Elliot Anderson'ın kaydettiği şık vole golüyle skora dengeyi getirmeyi bildi. Bu kritik golle birlikte City, zorlu deplasmandan değerli bir puanla ayrılmış oldu.\n\nElde edilen bu sonuç, son haftalarda üst üste mağlubiyetler alan Manchester ekibi için kötü gidişata dur deyen önemli bir adım oldu. Fulham ise sahasında galibiyeti kaçırarak 1 puana razı kaldı.\n\nHer iki takım da mücadelenin geri kalan bölümünde skoru değiştirecek fırsatları değerlendiremedi ve mücadele karşılıklı atılan gollerle beraberlikle sonuçlandı. Bu sonuçla Manchester City lig tablosunda hanesine değerli bir puan yazdırmış oldu.",
+      "highlights": [
+        "Rodrigo Muniz Fulham'ı öne geçiren golü attı",
+        "Elliot Anderson'ın volesi Manchester City'ye beraberliği getirdi",
+        "Manchester City üç maçlık yenilgi serisini sonlandırdı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/man-city-fightback-for-1-1-draw-with-fulham-to-end-three-game-losing-streak?traffic_source=rss",
+      "publishedAt": "2026-11-21T14:35:52.000Z",
+      "category": "Spor",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -14473,7 +14520,7 @@
       "publishedAt": "2026-11-17T16:24:00.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:14:22.698Z",
+      "imageSearchAttemptedAt": "2026-11-21T14:54:23.497Z",
       "sourceTextAttemptedAt": "2026-11-18T05:42:11.024Z",
       "isBreaking": true
     },
@@ -14520,7 +14567,7 @@
       "publishedAt": "2026-11-17T16:20:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:24:19.510Z",
+      "imageSearchAttemptedAt": "2026-11-21T14:54:23.497Z",
       "sourceTextAttemptedAt": "2026-11-18T05:54:21.956Z",
       "isBreaking": false
     },
@@ -14563,57 +14610,6 @@
       "imageSearchAttemptedAt": "2026-11-21T08:24:19.510Z",
       "sourceTextAttemptedAt": "2026-11-18T06:24:29.731Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/ak-parti-den-81-ilde-saha-calismasi-3928043",
-      "headline": "AK Parti'den 81 ilde saha çalışması",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1652883083070-f0588e63e6dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QUslMjBQYXJ0aSUyN2RlbiUyMDgxJTIwaWxkZSUyMHNhaGElMjAlQzMlQTdhbCVDNCVCMSVDNSU5Rm1hcyVDNCVCMXxlbnwxfDB8fHwxNzk0OTQ0MTM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Emir Eğricesu",
-        "photographerUrl": "https://unsplash.com/@emiregricesu",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-group-of-people-holding-a-purple-banner-PVRr-BC6Bvg"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "AK Parti'nin 'Türkiye Yüzyılı Buluşmaları' kapsamında 81 il ve 973 ilçede gerçekleştirdiği saha çalışmalarında vatandaşlardan gelen talep, beklenti ve öneriler raporlaştırılıyor. Hazırlanan rapor, AK Parti Genel Başkan Yardımcısı ve Teşkilat Başkanı Ahmet Büyükgümüş tarafından Cumhurbaşkanı Recep Tayyip Erdoğan'a sunulacak",
-      "highlights": [
-        "AK Parti tarafından 81 il ve 973 ilçede saha çalışması gerçekleştirildi.",
-        "Ziyaretlerde vatandaşların talep, beklenti ve önerileri dinlendi.",
-        "Hazırlanan rapor AK Parti Teşkilat Başkanı Ahmet Büyükgümüş tarafından Cumhurbaşkanı Erdoğan'a sunulacak."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/ak-parti-den-81-ilde-saha-calismasi-3928043",
-      "publishedAt": "2026-11-17T16:15:04.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T19:34:18.278Z",
-      "sourceTextAttemptedAt": "2026-11-18T06:54:14.605Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-afad-duyurdu-vanda-4-3-buyuklugunde-deprem-7702623",
-      "headline": "Van Gölü'nde 4.3 büyüklüğünde deprem meydana geldi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1647125849914-5238985ab21a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VmFuJTIwZWFydGhxdWFrZXxlbnwxfDB8fHwxNzk0OTMyMDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Craig Chilton",
-        "photographerUrl": "https://unsplash.com/@craggy53",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-crack-in-the-side-of-a-road-13dudPW47eQ"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "AFAD, Van Gölü'nde 4.3 büyüklüğünde bir deprem meydana geldiğini açıkladı. 17.11.2026 tarihinde saat 18:57:45 TSİ'de kaydedilen depremin merkez üssünün Van'ın Gevaş ilçesi olduğu ve 13.61 kilometre derinlikte gerçekleştiği bildirildi.",
-      "highlights": [
-        "Van Gölü'nde 4.3 büyüklüğünde deprem meydana geldi",
-        "Depremin derinliği 13.62 kilometre olarak ölçüldü",
-        "Ulaştırma ve Altyapı Bakanı Uraloğlu altyapıda olumsuzluk olmadığını açıkladı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-afad-duyurdu-vanda-4-3-buyuklugunde-deprem-7702623",
-      "publishedAt": "2026-11-17T16:10:14.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T07:14:21.082Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
