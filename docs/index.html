@@ -14,14 +14,15 @@
 <meta property="og:site_name" content="Küresel Haberler">
 <meta property="og:title" content="Küresel Haberler">
 <meta property="og:description" content="Yapay zeka ile özgün cümlelerle yeniden yazılmış, bağımsız stok fotoğraflarla görselleştirilmiş güncel haberler.">
-<meta property="og:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/icon-512-2026.png">
+<meta property="og:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/red/icon-512.png">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/icon-512-2026.png">
-<meta name="theme-color" content="#155840">
-<link rel="icon" type="image/png" sizes="16x16" href="assets/brand/favicon-16-2026.png">
-<link rel="icon" type="image/png" sizes="192x192" href="assets/brand/icon-192-2026.png">
-<link rel="icon" type="image/png" sizes="512x512" href="assets/brand/icon-512-2026.png">
-<link rel="apple-touch-icon" sizes="180x180" href="assets/brand/apple-touch-icon-2026.png">
+<meta name="twitter:image" content="https://mam444.github.io/kureselhaberler-feed/assets/brand/red/icon-512.png">
+<meta name="theme-color" content="#07162D">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/brand/red/favicon-16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/brand/red/favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="assets/brand/red/icon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="assets/brand/red/icon-512.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/brand/red/apple-touch-icon.png">
 <link rel="manifest" href="site.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -42,38 +43,38 @@
     text-transform: none !important;
   }
   :root {
-    --navy: #155840;
-    --navy-dark: #0B392C;
-    --navy-rgb: 21, 88, 64;
-    --gold: #762A87;
-    --gold-rgb: 118, 42, 135;
-    --accent-red: #D72E3D;
-    --accent-blue: #267456;
-    --accent-orange: #E7B643;
-    --bg: #FAF6ED;
-    --card: #FFFCF7;
-    --text: #202333;
-    --text-secondary: #76727A;
-    --divider: #E8E1D7;
-    --card-border: rgba(37, 84, 61, 0.13);
-    --shadow: rgba(39, 51, 42, 0.09);
-    --header-bg: #FFFCF7;
+    --navy: #07162D;
+    --navy-dark: #061122;
+    --navy-rgb: 7, 22, 45;
+    --gold: #E50914;
+    --gold-rgb: 229, 9, 20;
+    --accent-red: #E50914;
+    --accent-blue: #1675D1;
+    --accent-orange: #F07818;
+    --bg: #F2F5F9;
+    --card: #FFFFFF;
+    --text: #101B2D;
+    --text-secondary: #657184;
+    --divider: #E1E7EF;
+    --card-border: rgba(7, 22, 45, 0.12);
+    --shadow: rgba(7, 22, 45, 0.10);
+    --header-bg: #07162D;
     --up: #1DA34A;
     --down: #E43B3B;
   }
   :root[data-theme="dark"] {
-    --navy: #DDF0E5;
-    --navy-dark: #0B241D;
-    --header-bg: #17221C;
-    --gold: #C17BD2;
-    --accent-red: #FF6464;
-    --accent-blue: #70C49D;
-    --accent-orange: #F0C762;
-    --bg: #101315;
-    --card: #191D1F;
-    --text: #F5F3EE;
-    --text-secondary: #B6B9B7;
-    --divider: #303638;
+    --navy: #E9F1FF;
+    --navy-dark: #030B17;
+    --header-bg: #061122;
+    --gold: #FF303A;
+    --accent-red: #FF303A;
+    --accent-blue: #55A7FF;
+    --accent-orange: #FFAD61;
+    --bg: #07111F;
+    --card: #101D30;
+    --text: #F3F6FB;
+    --text-secondary: #A7B3C4;
+    --divider: #24344A;
     --card-border: rgba(255, 255, 255, 0.08);
     --shadow: rgba(0, 0, 0, 0.35);
   }
@@ -90,7 +91,7 @@
   /* Brief logo intro, composed from the same marks used in the product. */
   #brandSplash {
     position: fixed; inset: 0; z-index: 1000; display: grid; place-items: center;
-    overflow: hidden; background: var(--bg);
+    overflow: hidden; background:#07162D;
     opacity: 1; visibility: visible; transition: opacity .28s ease, visibility 0s linear .28s;
   }
   #brandSplash.dismissed { opacity: 0; visibility: hidden; pointer-events: none; }
@@ -99,17 +100,16 @@
     text-align:center; font-size:clamp(26px,6vw,38px); font-weight:900;
     line-height:.96; letter-spacing:-1.1px;
   }
-  #brandSplash .splash-lockup img { width:min(38vw,176px); height:auto; object-fit:contain; }
-  #brandSplash .brand-top { color:var(--navy); }
-  #brandSplash .brand-bottom { color:var(--gold); }
+  #brandSplash .splash-lockup img { width:min(38vw,210px); height:auto; object-fit:contain; border-radius:22px; }
+  #brandSplash .brand-top, #brandSplash .brand-bottom { color:#fff; }
   .footer-brand { display:flex; align-items:center; gap:9px; margin-bottom:16px; }
-  .footer-brand img { width:36px; height:36px; object-fit:contain; }
+  .footer-brand img { width:196px; height:58px; object-fit:contain; border-radius:8px; }
   .footer-brand .logo-lockup { display:flex; flex-direction:column; line-height:.94; font-size:15px; }
   .footer-brand .brand-top { color:#fff; }
-  .footer-brand .brand-bottom { color:#DCA4E8; }
+  .footer-brand .brand-bottom { color:#fff; }
   .site-logo { display:flex; align-items:center; gap:8px; }
-  .site-logo .logo-lockup { display:flex; flex-direction:column; line-height:.94; font-size:17px; }
-  .site-logo img { width:40px; height:40px; object-fit:contain; }
+  .site-logo .logo-lockup { display:none; }
+  .site-logo img { width:196px; height:58px; object-fit:contain; border-radius:8px; }
   a { color: inherit; text-decoration: none; }
 
   /* ---------- Reading progress bar ---------- */
@@ -889,25 +889,26 @@
   }
   /* ---------- Reference led news portal ---------- */
   body { background: var(--bg); }
-  header.site-header { background: var(--header-bg); box-shadow: 0 3px 18px rgba(20,20,20,.14); }
+  header.site-header { background:#07162D; box-shadow: 0 8px 28px rgba(3,12,28,.25); }
   .header-inner { min-height: 70px; gap: 22px; }
-  .logo { flex: 0 0 210px; }
+  .logo { flex: 0 0 196px; }
   .logo-lockup { font-family:'Plus Jakarta Sans',sans-serif; font-weight:900; }
   .search-box { max-width: 430px; }
-  .search-box input { background:#F4F0E7; border-color:#E8E1D7; color:#202333; }
-  .search-box .msr { color:var(--navy); }
+  .search-box input { background:rgba(255,255,255,.08); border-color:rgba(255,255,255,.18); color:#fff; }
+  .search-box input::placeholder { color:rgba(255,255,255,.62); }
+  .search-box .msr { color:#fff; }
   .header-actions { gap:9px; }
-  .icon-btn-header { width:36px; height:36px; background:transparent; color:var(--navy); border-color:rgba(21,88,64,.2); }
-  nav.categories { color:#262626; background:#fff; border-top:1px solid #ECE9E3; }
+  .icon-btn-header { width:36px; height:36px; background:rgba(255,255,255,.08); color:#fff; border-color:rgba(255,255,255,.2); }
+  nav.categories { color:#fff; background:#0B1F3A; border-top:1px solid rgba(255,255,255,.1); }
   .categories-row { min-height:44px; }
   .live-show-badge { display:none; }
   .cat-btn { padding:9px 12px; border-radius:7px; font-size:13px; }
-  .cat-btn { color:#343434; }
-  .cat-btn:hover { color:#155840; }
-  .cat-btn.active { color:#155840; background:rgba(21,88,64,.10); }
+  .cat-btn { color:rgba(255,255,255,.76); }
+  .cat-btn:hover { color:#fff; }
+  .cat-btn.active { color:#fff; background:rgba(229,9,20,.22); }
   .cat-btn.active::after { display:none; }
-  .live-show-badge { color:#fff; background:rgba(215,46,61,.2); border:1px solid rgba(215,46,61,.45); }
-  .live-ticker { background:linear-gradient(100deg,#D72E3D,#B81F35); }
+  .live-show-badge { color:#fff; background:rgba(229,9,20,.2); border:1px solid rgba(229,9,20,.45); }
+  .live-ticker { background:linear-gradient(100deg,#E50914,#B90611); }
   .ticker-inner { max-width:1240px; height:40px; }
   .ticker-right { display:none; }
   .live-badge { border-radius:5px; padding:4px 10px; }
@@ -972,7 +973,8 @@
   }
   @media (max-width: 600px) {
     .header-inner { min-height:58px; padding:9px 12px; gap:8px; }
-    .logo { flex:0 0 132px; gap:6px; }
+    .logo { flex:0 0 142px; gap:6px; }
+    .site-logo img { width:142px; height:43px; }
     .logo-icon { width:34px; height:34px; }
     .logo-lockup { font-size:12px; letter-spacing:-.2px; }
     .search-box { max-width:none; min-width:0; }
@@ -1006,8 +1008,7 @@
 <body>
 <div id="brandSplash" aria-hidden="true">
   <div class="splash-lockup">
-    <img src="assets/brand/globe-gold-green.png" alt="">
-    <span><span class="brand-top">Küresel</span><br><span class="brand-bottom">Haberler</span></span>
+    <img src="assets/brand/red/logo-vertical.png" alt="">
   </div>
 </div>
 <script>window.setTimeout(() => document.getElementById('brandSplash')?.classList.add('dismissed'), 1350);</script>
@@ -1017,7 +1018,7 @@
 <header class="site-header">
   <div class="header-inner">
     <div class="logo site-logo" id="logoHome">
-      <img src="assets/brand/globe-gold-green.png" alt="">
+      <img src="assets/brand/red/logo-horizontal.png" alt="Küresel Haberler">
       <span class="logo-lockup"><span class="brand-top">Küresel</span><span class="brand-bottom">Haberler</span></span>
     </div>
     <div class="search-box" id="searchBoxTrigger">
@@ -1070,8 +1071,7 @@
 <footer>
   <div class="inner">
     <div class="footer-brand">
-      <img src="assets/brand/globe-gold-green.png" alt="">
-      <span class="logo-lockup"><span class="brand-top">Küresel</span><span class="brand-bottom">Haberler</span></span>
+      <img src="assets/brand/red/logo-horizontal-white.png" alt="Küresel Haberler">
     </div>
     <strong>Küresel Haberler</strong> bağımsız bir haber platformudur. Akış, yayıncıların kamuya açık RSS
     içeriklerinden ve tarama kuralları izin verirse yapılandırılmış haber metinlerinden özgün özetlerle hazırlanır;
@@ -2367,15 +2367,37 @@ initKbdHint();
 
 let feedLoadPromise = null;
 let feedGeneratedAt = null;
+const FEED_CACHE_KEY = 'kuresel-news-feed-v2';
 async function loadNewsFeed() {
   if (feedLoadPromise) return feedLoadPromise;
   feedLoadPromise = (async () => {
     try {
-      const response = await fetch(freshJsonUrl(FEED_URL), {
+      // A local file preview has an opaque file:// origin, so resolve its feed
+      // from the public Pages endpoint. Hosted builds continue to use the
+      // same-origin JSON file.
+      if (allArticles.length === 0) {
+        try {
+          const cached = JSON.parse(localStorage.getItem(FEED_CACHE_KEY) || 'null');
+          if (cached && Array.isArray(cached.articles) && cached.articles.length) {
+            allArticles = cached.articles;
+            feedGeneratedAt = cached.generatedAt || null;
+            startTicker();
+            route();
+            document.getElementById('updatedAt').textContent = 'Kayıtlı haberler gösteriliyor';
+          }
+        } catch (_) { /* Storage can be unavailable in private/file contexts. */ }
+      }
+      const feedPath = location.protocol === 'file:'
+        ? 'https://mam444.github.io/kureselhaberler-feed/haberler.json'
+        : FEED_URL;
+      const requestOptions = {
         cache: 'no-store',
         headers: { 'Accept': 'application/json' },
-        signal: AbortSignal.timeout(20000),
-      });
+      };
+      if (typeof AbortSignal !== 'undefined' && typeof AbortSignal.timeout === 'function') {
+        requestOptions.signal = AbortSignal.timeout(20000);
+      }
+      const response = await fetch(freshJsonUrl(feedPath), requestOptions);
       if (!response.ok) throw new Error(`Haber akışı HTTP ${response.status}`);
       const data = await response.json();
       if (!data || !Array.isArray(data.articles)) throw new Error('Haber akışı biçimi geçersiz');
@@ -2391,6 +2413,9 @@ async function loadNewsFeed() {
       const changed = data.generatedAt !== feedGeneratedAt || articles.length !== allArticles.length;
       allArticles = articles;
       feedGeneratedAt = data.generatedAt || null;
+      try {
+        localStorage.setItem(FEED_CACHE_KEY, JSON.stringify({ generatedAt: feedGeneratedAt, articles }));
+      } catch (_) { /* A full or unavailable browser store must not block news. */ }
       if (data.generatedAt) document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
       if (allArticles.length === 0) {
         document.getElementById('content').innerHTML = '<div class="feed-error"><span class="msr">inbox</span><strong>Henüz haber yok</strong><button id="retryFeed" type="button"><span class="msr">refresh</span> Yenile</button></div>';
