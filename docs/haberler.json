@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T12:34:30.112Z",
+  "generatedAt": "2026-11-21T12:44:36.709Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/turkiye-ve-italya-ayni-sofrada-iki-ulkeyi-bu-kez-yemekler-bulusturdu-3496192",
+      "headline": "Türkiye ve İtalya aynı sofrada: İki ülkeyi bu kez yemekler buluşturdu",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXRhbGlhbiUyMGZvb2R8ZW58MXwwfHx8MTc5NTI2NTA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Eaters Collective",
+        "photographerUrl": "https://unsplash.com/@eaterscollective",
+        "unsplashUrl": "https://unsplash.com/photos/pesto-pasta-with-sliced-tomatoes-served-on-white-ceramic-plate-12eHC6FxPyg"
+      },
+      "timeAgo": "şimdi",
+      "body": "UNESCO Kültürel Miras Listesi'nde yer alan İtalyan lezzetleri, 'İtalyan Mutfağı Haftası' kapsamında İstanbul'a getirildi. Bu hafta boyunca çeşitli etkinlikler düzenlenirken, bu kapsamda ünlü bir restoranda özel bir akşam yemeği organize edildi.\n\nİtalya'nın İstanbul Başkonsolosluğu'nun ev sahipliğinde gerçekleştirilen bu yemeğe CNN TÜRK de özel davetli olarak katıldı. Etkinlik, iki ülke arasındaki buluşmayı yemekler vasıtasıyla sağladı.\n\nBüşra Arslantaş ve İlayda Naz Yalçınkaya'nın hazırladığı haberde, söz konusu organizasyonun detayları aktarıldı. İtalyan lezzetlerinin İstanbul'a taşınmasıyla birlikte kutlanan mutfak haftası, çeşitli etkinliklerle devam ediyor.",
+      "highlights": [
+        "UNESCO Kültürel Miras Listesi'ndeki İtalyan lezzetleri İstanbul'a taşındı",
+        "İtalyan Mutfağı Haftası dolayısıyla bir restoranda akşam yemeği düzenlendi",
+        "Yemeğe İtalya'nın İstanbul Başkonsolosu ev sahipliği yaptı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/turkiye-ve-italya-ayni-sofrada-iki-ulkeyi-bu-kez-yemekler-bulusturdu-3496192",
+      "publishedAt": "2026-11-21T12:44:13.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+      "headline": "Finlandiya Körfezi'nde Rus kargo gemisi drone saldırısıyla alev aldı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1715198749916-3fab2a14074f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2FyZ28lMjBzaGlwJTIwZmlyZXxlbnwxfDB8fHwxNzk1MjY1MDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hennie Stander",
+        "photographerUrl": "https://unsplash.com/@henniestander",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-cargo-ship-in-the-middle-of-the-ocean-Y92tPZJLfUY"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Finlandiya makamlarının açıklamasına göre, Cumartesi günü Finlandiya Körfezi'nin uluslararası sularında seyreden bir Rus kargo gemisi drone saldırısının ardından alev aldı. Finlandiya ordusu, doğu Baltık Denizi'nde gerçekleşen saldırıyı Cumartesi sabahı tespit etti.\n\nSaldırı sonucunda geminin yangın çıkardığı ve Finlandiya sularına doğru sürüklenmeye başladığı bildirildi. Olay yerine sevk edilen Finlandiya sınır muhafızları, mevcut durumun diğer gemiler için bir tehlike oluşturmadığını açıkladı.\n\nFinlandiya Savunma Bakanlığı drone saldırısının arkasında kimin olduğunu belirtmezken, olayla ilgili olarak NATO'nun derhal bilgilendirildiğini duyurdu. Artan gerilimler nedeniyle bölgedeki hava ve deniz sahasında geçici kısıtlamalar yürürlüğe konuldu.",
+      "highlights": [
+        "Finlandiya Körfezi'nde bir Rus kargo gemisi drone saldırısıyla yandı",
+        "Finlandiya makamları olayı NATO'ya bildirdi ve bölgede geçici kısıtlamalar getirdi",
+        "Saldırı sonrasında gemi alev alarak Finlandiya sularına doğru sürüklenmeye başladı"
+      ],
+      "externalUrl": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+      "publishedAt": "2026-11-21T12:35:54.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
       "headline": "Çiğdem Batur hakkında soruşturma başlatıldı",
@@ -10,12 +58,18 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı. Oyuncu Çiğdem Batur, geçen günler Sultanahmet Camisi'nden yaptığı paylaşımda kullandığı “ayak kokusu” ve “rezil oluyoruz” ifadeleri tepki çekmişti. İstanbul Cumhuriyet Başsavcılığı, Batur hakkında resen soruşturma başlatıldığını duyurdu. “AŞAĞILAYICI NİTELİK” Başsavcılık'ın açıklamasında \"Söz…",
-      "highlights": [],
+      "highlights": [
+        "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı.",
+        "İstanbul Cumhuriyet Başsavcılığı, Batur hakkında resen soruşturma başlatıldığını duyurdu.",
+        "Çiğdem Batur sosyal medya hesabından açıklama yaparak amacının inançları veya kutsal mekanları hedef almak olmadığını belirtti."
+      ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
       "publishedAt": "2026-11-21T12:32:26.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
+      "imageSearchAttemptedAt": "2026-11-21T12:44:26.874Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
@@ -3589,16 +3643,16 @@
       "timeAgo": "8 dk önce",
       "body": "El Salvador Devlet Başkanı Nayib Bukele, kendisini \"dünyanın en havalı diktatör\" olarak adlandırıyor. Başkanlık dönemi sınırlamalarını ortadan kaldırmak amacıyla Anayasa'da değişikliğe giden Bukele, üçüncü bir dönem için adaylık arayışında bulunuyor.\n\nBukele'nin çetelere karşı yürüttüğü mücadele ülkesinde kendisine büyük bir popülarite kazandırdı. Ancak bu durum aynı zamanda ciddi insan hakları endişelerini de beraberinde getirdi ve bu yönde eleştirilerin odak noktası haline geldi.",
       "highlights": [
-        "Nayib Bukele kendisini \"dünyanın en havalı diktatör\" olarak adlandırıyor",
-        "Başkanlık dönemi sınırlamaları kaldırılarak üçüncü dönem için adaylık aranıyor",
-        "Çetelere karşı mücadele popülarite sağlarken insan hakları endişeleri yaratıyor"
+        "Nayib Bukele üçüncü dönem için yarışıyor",
+        "Anayasa değiştirilerek başkanlık sınırlamaları kaldırıldı",
+        "Çete savaşı popülariteyi artırırken insan hakları endişelerine yol açtı"
       ],
       "externalUrl": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-21T09:24:17.870Z",
-      "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z",
+      "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
       "isBreaking": false
     },
     {
@@ -5264,7 +5318,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-21T06:34:20.859Z",
+      "imageSearchAttemptedAt": "2026-11-21T12:44:26.874Z",
       "isBreaking": false
     },
     {
@@ -14545,53 +14599,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-21T09:14:29.224Z",
       "sourceTextAttemptedAt": "2026-11-18T13:54:17.024Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
-      "headline": "Bakan Kacır: Yeşil ve dijital dönüşümle geleceğin sanayisini inşa ediyoruz",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1521618755572-156ae0cdd74d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Z3JlZW4lMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3OTQ5Mjk4MTh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zbynek Burival",
-        "photographerUrl": "https://unsplash.com/@zburival",
-        "unsplashUrl": "https://unsplash.com/photos/blue-solar-panel-boards-V4ZYJZJ3W4M"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'da düzenlenen COP31 kapsamında Bilim, Sanayi ve Teknoloji Gününde çeşitli programlara katıldı. Bakan Kacır, yeşil dönüşüm ile dijitalleşmenin ikiz dönüşüm ekseninde buluşmasını merkeze alarak yüksek düzeyli yuvarlak masa toplantılarına iştirak etti, sanayiciler ve KOBİ'ler için yeni yeşil finansman desteklerini açıkladı.\n\nYapay Zekâ Üzerine Yüksek Düzeyli Yeşil Dijital Eylem Yuvarlak Masa Toplantısı'nda konuşan Kacır, yapay zekâ ve dijital teknolojilerin enerji verimliliği ile emisyon azaltımındaki kritik rolüne dikkat çekti. Türkiye'yi yapay zekâ çözümlerinin geliştirildiği ve sanayi üretimine entegre edildiği küresel bir merkez yapmayı amaçladıklarını belirten Kacır, 2030 Yapay Zekâ Eylem Planı ile iki yılda 10 bin ileri düzey uzman ve 100 bin uygulama profesyoneli eğitmeyi hedeflediklerini ifade etti.\n\nSanayinin İkiz Dönüşümü Projesi Resmî Açılış Etkinliği'nde yeni finansman müjdelerini paylaşan Kacır, Dünya Bankası finansmanıyla VakıfBank ve Eximbank aracılığıyla 485 milyon dolarlık kaynağın Türk sanayisine kazandırılacağını duyurdu. Ayrıca imalat sanayi KOBİ'lerine yönelik 3 milyar lira bütçeli yeni destek çağrısının ilan edildiğini ve KOSGEB eliyle yeşil dönüşüm yatırımı yapacak KOBİ'lere 7 milyon liraya kadar sıfır faizli finansman sağlanacağını kaydetti.\n\nBakan Kacır, COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum ile bir araya gelerek Türk Standardları Enstitüsü tarafından hazırlanan Türkiye'nin ilk TS ISO 20121:2024 Etkinlik Sürdürülebilirliği Yönetim Sistemi Belgesini takdim etti. Yeşil Sanayileşme Üzerine Bakanlar Yuvarlak Masa Toplantısı ve Bilim Günü Üst Düzey Oturumu'nda da konuşan Kacır, Türkiye'nin 2030 Sanayi ve Teknoloji Stratejisi ile HIT-30 programı çerçevesinde temiz teknolojileri ölçeklendirdiğini vurguladı.",
-      "highlights": [
-        "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'daki COP31 kapsamında yeşil finansman desteklerini duyurdu.",
-        "VakıfBank ve Eximbank aracılığıyla 485 milyon dolarlık uzun dönemli kaynak Türk sanayisine kazandırılacak.",
-        "KOSGEB aracılığıyla yeşil dönüşüm yapacak KOBİ'lere 7 milyon liraya kadar sıfır faizli finansman sağlanacak."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/ekonomi/bakan-kacir-yesil-ve-dijital-donusumle-gelecegin-sanayisini-insa-ediyoruz-7702608",
-      "publishedAt": "2026-11-17T15:29:38.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T14:14:38.757Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-toplantisi-yapildi/4128094",
-      "headline": "Kulüpler Birliği Vakfı toplantısı yapıldı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1571249854210-6efcb5638508?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8S3VsJUMzJUJDcGxlciUyMEJpcmxpJUM0JTlGaSUyMFZha2YlQzQlQjElMjB0b3BsYW50JUM0JUIxcyVDNCVCMSUyMHlhcCVDNCVCMWxkJUM0JUIxfGVufDF8MHx8fDE3OTQ5OTIwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Eren Namlı",
-        "photographerUrl": "https://unsplash.com/@namlieren",
-        "unsplashUrl": "https://unsplash.com/photos/people-near-buildings-with-turkey-flag-qHwkrzgq2Fk"
-      },
-      "timeAgo": "32 dk önce",
-      "body": "Vakıf başkanı Ertuğrul Doğan, \"Kulüplerimizin beklentisi, daha önce Sayın Göksel Gümüşdağ zamanında gelen 500 milyon dolar seviyesine yeniden gelmek.\" dedi.",
-      "highlights": [],
-      "externalUrl": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-toplantisi-yapildi/4128094",
-      "publishedAt": "2026-11-17T15:28:03.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T08:54:32.635Z",
-      "sourceTextAttemptedAt": "2026-11-18T14:24:29.574Z",
       "isBreaking": false
     }
   ],
