@@ -1,6 +1,40 @@
 {
-  "generatedAt": "2026-11-21T08:24:31.026Z",
+  "generatedAt": "2026-11-21T08:35:23.425Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/21/trump-putin-ile-iliskilerini-savundu-irani-durust-olmamakla-sucladi",
+      "headline": "Trump, Putin ile ilişkilerini savundu: İran’ı dürüst olmamakla suçladı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Asya ziyaretinin ardından Beyaz Saray’da konuşan Trump, Şi ve Putin’le ilişkilerini savundu. Putin’in Ukrayna’daki savaşı diplomasi yoluyla bitirmek istediğini öne sürdü. İran ile da 'gerçek bir anlaşma' yapılması çağrısında bulundu.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/21/trump-putin-ile-iliskilerini-savundu-irani-durust-olmamakla-sucladi",
+      "publishedAt": "2026-11-21T08:32:13.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.rfi.fr/en/france/20261121-france-must-change-or-risk-losing-overseas-territories-former-pm-tells-rfi-manuel-valls",
+      "headline": "Fransa'nın eski başbakanından uyarı: Denizaşırı topraklar kaybedilebilir",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Fransa'nın eski başkenti ve eski denizaşırı topraklar bakanı Manuel Valls, RFI'a yaptığı açıklamada, Fransa'nın denizaşırı topraklarıyla ilişkilerini kökten değiştirmesi gerektiğini belirtti. Valls, Paris yönetiminin bu bölgelerle ilgili merkeziyetçi yapısını azaltmaması durumunda Fransa'nın bu toprakları kaybetme riskiyle karşı karşıya olduğunu ifade etti.\n\nAvrupa dışındaki bu toprakların Fransa'ya beş kıtada ve üç okyanusta stratejik bir varlık sağladığını belirten Valls, anakaradan uzakta yaşayan yaklaşık 3 milyon kişinin derin ekonomik ve sosyal eşitsizliklerle mücadele ettiğini vurguladı. Valls, yeni yayımlanan \"Denizaşırı Topraklar: Acil Durum\" adlı kitabında, Rusya, Azerbaycan ve Çin'in bu bölgeleri hedef aldığını ve Fransa'nın küçülen küresel etkisini korumak için \"metropolleşmeden uzaklaşması\" gerektiğini savundu.\n\nYeni Kaledonya örneğine değinen Valls, Temmuz 2025'te siyasi liderler tarafından imzalanan ancak hem bölgede hem de anakarada muhalefetle karşılaşarak çıkmaza giren Bougival Anlaşması'na dikkat çekti. Bu anlaşmanın Fransız Cumhuriyeti içinde ek yetkilere sahip bir Yeni Kaledonya Devleti yaratmayı amaçladığını hatırlatan Valls, Çin'in bölgedeki mineral rezervlerini ve stratejik konumunu hedef aldığını kaydetti.\n\nBağımsızlık çağrılarının yanı sıra Karayipler'deki Guadeloupe ve Martinique gibi bölgelerde uyuşturucu kaçakçılığının toplumları sarstığını belirten eski başbakan, Fransa'nın bu bölgelere yönelik paternalist ve infantil yaklaşımını terk etmesi gerektiğini dile getirdi. Valls, Fransız Guyanası ve diğer bölgeler için daha fazla özerklik ve kişiselleştirilmiş \"à la carte\" statüler çağrısında bulundu.\n\nValls, Fransa'da Emmanuel Macron'un cumhurbaşkanlığı döneminde dokuz veya on farklı denizaşırı topraklar bakanının görev yapmış olmasının bir saçmalık ve saygısızlık göstergesi olduğunu belirtti. Paris'in bu toprakları yalnızca olimpiyat madalyaları, siklonlar veya isyanlar sırasında hatırladığını ifade eden Valls, saygı ve diyaloğa dayalı yeni bir yaklaşımın inşa edilmesi gerektiğini kaydetti.",
+      "highlights": [
+        "Eski başbakan Manuel Valls, Fransa'nın denizaşırı toprakları ile ilişkilerini değiştirmemesi durumunda bu bölgeleri kaybetme riski bulunduğunu belirtti.",
+        "Valls, Fransa'nın Paris merkezli gücünü azaltması ve denizaşırı bölgeler için kişiselleştirilmiş statüler oluşturulması çağrısında bulundu.",
+        "Yeni Kaledonya'daki Bougival Anlaşması'nın çıkmaza girdiğini ve Çin'in bölgedeki mineral rezervlerini hedef aldığını ifade etti."
+      ],
+      "externalUrl": "https://www.rfi.fr/en/france/20261121-france-must-change-or-risk-losing-overseas-territories-former-pm-tells-rfi-manuel-valls",
+      "publishedAt": "2026-11-21T08:31:24.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
       "headline": "Bizans'tan günümüze uzanan su mirası: Zeyrek Sarnıcı ve Zeyrek Çinili Hamam",
@@ -15,14 +49,15 @@
       "timeAgo": "4 dk önce",
       "body": "İstanbul'un su ihtiyacını karşılamak amacıyla Bizans döneminde inşa edilen Zeyrek Sarnıcı, mimarisi ve tarihi katmanlarıyla geçmişin izlerini bugüne ulaştırıyor. Yapı, dönemin su ihtiyacını karşılayan özellikleriyle dikkat çekiyor.\n\nOsmanlı döneminde inşa edilen Zeyrek Çinili Hamamı ise duvarlarında yer alan gemi grafitileriyle öne çıkıyor. Bu grafitiler, yapının en dikkat çekici detayları arasında bulunuyor.\n\nSanat tarihçisi Hayri Fehmi Yılmaz, bu iki tarihi yapıya dair soruları yanıtladı. Açıklamalarda Zeyrek Sarnıcı'nın Bizans, Zeyrek Çinili Hamamı'nın ise Osmanlı dönemine ait olduğu vurgulandı.",
       "highlights": [
-        "Zeyrek Sarnıcı Bizans döneminde İstanbul'un su ihtiyacını karşılamak için inşa edildi.",
-        "Zeyrek Çinili Hamamı Osmanlı döneminde inşa edildi ve duvarlarında gemi grafitileri var.",
-        "Sanat tarihçisi Hayri Fehmi Yılmaz iki yapı hakkındaki soruları yanıtladı."
+        "Zeyrek Sarnıcı İstanbul'un su ihtiyacını karşılamak için Bizans döneminde inşa edilmiştir.",
+        "Osmanlı dönemine ait Zeyrek Çinili Hamamı'nın duvarlarında gemi grafitileri bulunmaktadır.",
+        "Sanat tarihçisi Hayri Fehmi Yılmaz yapıplarla ilgili soruları yanıtlamıştır."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
       "publishedAt": "2026-11-21T08:20:49.000Z",
       "category": "Gündem",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T08:34:24.020Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/462-konutluk-toki-projesinde-sona-yaklasildi-evler-goruntulendi-4875106",
@@ -3483,16 +3518,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-and-flags-m-JzXHmoHSM"
       },
       "timeAgo": "15 dk önce",
-      "body": "Edinilen bilgilere göre, Muhafazakar Parti lideri Kemi Badenoch'a Brexit ve Avrupa konularına daha az zaman ayırması yönünde tavsiyede bulunuldu. Kaynaklar, bu hamlen多年的 Muhafazakar Parti'yi tanımlayan bu konunun artık ikinci derece önemli bir konu olarak görüldüğünü aktardı.\n\nBadenoch'un ekibi, parti için daha elverişli seçim zeminleri sunduğuna inanılan alanlara odaklanılmasını amaçlıyor. Bu kapsamda özellikle ekonomi, sosyal güvenliğin maliyeti ve savunma konuları ön plana çıkıyor. Kemi Badenoch, Perşembe günü Daily Mail'de yayımlanan makalesinde başbakanın AB ile yeniden ilişki kurma girişimini eleştirse de, parti kaynakları konunun artık arka plana atıldığını belirtiyor.\n\nBir kaynak, Badenoch'un anlatıyı Brexit'ten uzaklaştırması yönünde eski bir Muhafazakar yetkili ve kıdemli siyasi danışman olan Stephen Gilbert tarafından yönlendirildiğini ifade etti. Diğer bir parti kaynağı ise Gilbert'ın tavsiyesinin daha incelikli olduğunu kaydetti.\n\nMuhafazakar Parti sözcüsü konuya ilişkin yaptığı açıklamada, ülkenin en son ihtiyaç duyduğu şeyin bir Brexit tartışmasına geri çekilmek olduğunu belirtti. Sözcü, bunun Kemi Badenoch ve Muhafazakarların AB'yi hiç tartışmayacağı anlamına gelmediğini ancak refah faturasını düşürmek, savunmayı finanse etmek ve büyümeyi teşvik etmek gibi adımların AB dışında da yapılabileceğini vurguladı.",
+      "body": "Muhafazakar Parti lideri Kemi Badenoch'un, partisini yıllardır tanımlayan bölücü konulardan uzaklaştırarak Brexit ve Avrupa hakkında harcadığı zamanı sınırlaması yönünde tavsiye aldığı belirtildi. Kaynakların aktardığına göre, stratejik bir değişiklikle ekonomi, sosyal güvenlik maliyetleri ve savunma gibi seçmen nezdinde daha verimli olduğu düşünülen alanlara odaklanılması amaçlanıyor.\n\nBadenoch, Perşembe günü Daily Mail'de yayımlanan makalesinde Andy Burnham'ın AB ile yürüttüğü yeniden müzakere sürecini eleştirse de kaynaklar konunun artık ikincil derecede görüldüğünü ifade ediyor. Stephen Gilbert tarafından Brexit anlatısından uzaklaşılması yönünde tavsiye aldığı belirtilen Badenoch'un son dönemdeki konuşmaları da bu değişimi yansıtır nitelikte görünüyor.\n\nYaz aylarından bu yana gerçekleştirilen başbakanlık soruları oturumlarında, Badenoch ve vekili Alex Burghart'ın Avrupa konusunu yalnızca bir kez ele aldığı, diğer oturumların ise refah devleti, yaşam maliyeti, savunma, bütçe ve borç gibi konulara odaklandığı kaydedildi. Bir kıdemli Muhafazakâr, bu durumun Avrupa'yı kenara itmekten ziyade ekonomi ve savunma gibi güçlü olunan alanları daha fazla konuşma çabası olduğunu belirtti.\n\nParti içindeki bazı gölge bakanlar da bu stratejiyi desteklediklerini ifade etti. Bir gölge bakan Brexit konusunun son derece bölücü olduğunu vurgularken, bir diğeri artık yola devam edilmesi gerektiğini dile getirdi. Muhafazakâr Parti sözcüsü ise ülkenin en son ihtiyaç duyacağı şeyin yeniden bir Brexit tartışmasına çekilmek olduğunu, ancak bu durumun AB'yi hiç tartışmayacakları anlamına gelmediğini belirtti.",
       "highlights": [
-        "Kemi Badenoch'a Brexit tartışmalarını azaltması yönünde tavsiyede bulunulduğu bildirildi.",
-        "Parti liderliği, ekonomi, sosyal güvenliğin maliyeti ve savunma gibi alanlara odaklanmayı amaçlıyor."
+        "Kemi Badenoch'a Brexit ve Avrupa tartışmalarını sınırlaması yönünde tavsiye verildi.",
+        "Muhafazakar Parti ekonomi, sosyal güvenlik ve savunma alanlarına odaklanmayı amaçlıyor.",
+        "Parti sözcüsü ülkenin yeniden bir Brexit tartışmasına çekilmemesi gerektiğini ifade etti."
       ],
       "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
       "publishedAt": "2026-11-20T08:00:26.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T08:24:25.896Z"
+      "sourceTextAttemptedAt": "2026-11-21T08:34:24.020Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
@@ -12626,7 +12662,7 @@
       "publishedAt": "2026-11-17T15:57:29.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T13:46:35.367Z",
+      "imageSearchAttemptedAt": "2026-11-21T08:34:24.020Z",
       "sourceTextAttemptedAt": "2026-11-18T09:14:20.983Z"
     },
     {
@@ -12647,7 +12683,7 @@
       "publishedAt": "2026-11-17T15:56:26.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T13:54:27.307Z",
+      "imageSearchAttemptedAt": "2026-11-21T08:34:24.020Z",
       "sourceTextAttemptedAt": "2026-11-18T09:55:02.663Z"
     },
     {
@@ -13917,42 +13953,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T10:54:42.397Z"
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/adanada-soba-satislari-artti-modeller-degisti-4873319",
-      "headline": "Adana'da soba satışları arttı, modern modeller 120 bin TL'ye kadar çıkıyor",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "1 dk önce",
-      "body": "Adana'da kış mevsiminin etkisini göstermesiyle soba satışlarında hareketlilik yaşanırken, vatandaşlar klasik modeller yerine fiyatı 120 bin TL’ye kadar çıkan modern tasarımlı sobalara yöneldi. Soba satıcısı Fuat Okutucu, \"Eski tip sobaların devri bitti\" dedi.",
-      "highlights": [],
-      "externalUrl": "https://www.yenisafak.com/gundem/adanada-soba-satislari-artti-modeller-degisti-4873319",
-      "publishedAt": "2026-11-17T06:52:52.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T14:44:33.523Z"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/modifiye-tutkusu-yuzunden-ceza-yedi-surucu-tutanakla-fotograf-cektirdi-7702185",
-      "headline": "Modifiye tutkusu yüzünden ceza yedi! Sürücü tutanakla fotoğraf çektirdi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1665032271037-ebf9521b7b37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TW9kaWZpeWUlMjB0dXRrdXN1JTIweSVDMyVCQ3olQzMlQkNuZGVuJTIwY2V6YSUyMHllZGklMjElMjBTJUMzJUJDciVDMyVCQ2MlQzMlQkMlMjB0dXRhbmFrbGElMjBmb3RvJUM0JTlGcmFmJTIwJUMzJUE3ZWt0aXJkaXxlbnwxfDB8fHwxNzk1MDAyMzAzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Silverius Trandafir",
-        "photographerUrl": "https://unsplash.com/@silverius89",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-and-woman-sitting-on-steps-eM6huNdbsT8"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Bursa’da uygulama sırasında durdurulan, alçak süspansiyon ve uygunsuz egzoz donanımına sahip 2 otomobilin sürücüsüne toplam 20 bin lira ceza kesildi. İşlem sırasında fotoğraf çektiren sürücülerden biri, “Bir fotoğraf 10 bin TL’ye geldi. İndirimle 7 bin 500 TL’ye düşer” dedi. Merkez Yıldırım ilçesi Millet Mahallesi Sağlıklı Yaşam Parkı çevresinde dün akşam saatlerinde trafik denetimi yapıldı. Polis ekipleri uygulama…",
-      "highlights": [],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/modifiye-tutkusu-yuzunden-ceza-yedi-surucu-tutanakla-fotograf-cektirdi-7702185",
-      "publishedAt": "2026-11-17T06:32:42.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T11:44:42.673Z"
     }
   ],
   "rejectedIds": [
