@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-21T16:34:34.706Z",
+  "generatedAt": "2026-11-21T16:44:45.698Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/diyarbakir-turizmde-rekora-gidiyor-3496240",
+      "headline": "Diyarbakır turizmde rekora gidiyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1637088059591-980f8be0847f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RGl5YXJiYWslQzQlQjFyJTIwdHVyaXptZGUlMjByZWtvcmElMjBnaWRpeW9yfGVufDF8MHx8fDE3OTUyNzk0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Levi Meir Clancy",
+        "photographerUrl": "https://unsplash.com/@levimeirclancy",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-street-filled-with-lots-of-traffic-under-a-cloudy-sky-2TEBQTKqKQE"
+      },
+      "timeAgo": "şimdi",
+      "body": "Terörsüz Türkiye süreciyle birlikte Doğu ve Güneydoğu'da turizm hareketliliği ivme kazanırken, geçmişte güvenlik endişeleriyle anılan Diyarbakır'da hedef 2 milyon ziyaretçiye ulaşmak olarak belirlendi. Bir dönem Avrupa'daki seyahat değerlendirmelerinde riskli bölge olarak gösterilen ve seyahat sigortası engelleriyle karşılaşan kent, bu algıyı geride bırakmaya hazırlanıyor.\n\nDeğişimin en somut göstergesi ise rakamlara yansıdı. 2024 yılında yaklaşık 1,1 milyon ziyaretçi ağırlayan Diyarbakır, 2026 yılının yalnızca ilk 8 ayında bu sayıyı 1,3 milyon ziyaretçiye çıkardı. Kent; UNESCO Dünya Mirası Listesi'nde yer alan surları ve Hevsel Bahçeleri'nin yanı sıra tarihi hanları, dar sokakları ve mutfağıyla yeniden keşfediliyor.\n\nTURSAB Yönetim Kurulu Üyesi ve Sekreteri Recep Koyuncu, bölgede turizmin huzurlu bir şekilde yürütüldüğünü ve turist sayısındaki artışın esnaf ile otellere ciddi gelir sağladığını belirtti. Esnaf da 1983'ten bu yana kenti bu kadar huzurlu görmediğini ifade etti.\n\nÖte yandan kentte sürecin hukuki zeminini ele alan etkinlikler de düzenleniyor. Hukukçular Derneği Diyarbakır İl Temsilciliği tarafından düzenlenen \"Ortak Gelecek ve Hukuk\" başlıklı programda, Terörsüz Türkiye süreci hukuki çerçeveden değerlendirildi.",
+      "highlights": [
+        "Diyarbakır'da 2026 yılı turizm hedefi 2 milyon ziyaretçi olarak açıklandı.",
+        "Kent, 2026'nın ilk 8 ayında 1,3 milyon ziyaretçi ağırladı.",
+        "TURSAB yöneticisi Recep Koyuncu turist sayısındaki artışın esnaf ve otellere gelir sağladığını belirtti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/diyarbakir-turizmde-rekora-gidiyor-3496240",
+      "publishedAt": "2026-11-21T16:45:46.000Z",
+      "category": "Yaşam",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
+      "headline": "French police officers convicted of racist assault",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1557081999-0ea3e23579d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RnJlbmNoJTIwcG9saWNlJTIwb2ZmaWNlcnMlMjBjb252aWN0ZWQlMjBvZiUyMHJhY2lzdCUyMGFzc2F1bHR8ZW58MXwwfHx8MTc5NTI3OTQ3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "ev",
+        "photographerUrl": "https://unsplash.com/@ev",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-police-standing-and-leaning-on-wall-pqkGQboKSeM"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "A French court on Friday sentenced three policemen to serve time over the beating of a black music producer in 2020. It also recognized the assault on Michelle Zecler was racially motivated.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
+      "publishedAt": "2026-11-21T16:41:49.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/genclerbirligi-gaziantep-fkyi-tek-golle-gecti-3496243",
       "headline": "Gençlerbirliği, Gaziantep FK’yi tek golle geçti",
@@ -15,15 +59,16 @@
       "timeAgo": "şimdi",
       "body": "Trendyol Süper Lig'in 12. haftasında Gençlerbirliği ile Gaziantep FK, Eryaman Stadı’nda karşı karşıya geldi. Ev sahibi başkent temsilcisi Gençlerbirliği, sahasında ağırladığı Gaziantep FK karşısında galibiyete uzandı.\n\nKarşılaşmanın 9’uncu dakikasında Adama Traore’nin kaydettiği golle müsabakayı 1-0 kazanmayı başaran Ankara ekibi, bu sonucun ardından puanını 14’e yükseltti.\n\nYeni teknik direktörü Volkan Demirel yönetimindeki ilk mücadelesinden yenilgiyle ayrılan Gaziantep FK ise bu maçın ardından 8 puanda kaldı.",
       "highlights": [
-        "Gençlerbirliği, Gaziantep FK'yi 1-0 mağlup etti",
-        "Maçtaki tek golü 9. dakikada Adama Traore attı",
-        "Gaziantep FK, yeni teknik direktörü Volkan Demirel yönetimindeki ilk maçından yenilgiyle ayrıldı"
+        "Gençlerbirliği, Gaziantep FK'yi 1-0 mağlup etti.",
+        "Ev sahibi ekibe galibiyeti getiren golü 9. dakikada Adama Traore kaydetti.",
+        "Gaziantep FK, yeni teknik direktörü Volkan Demirel yönetimindeki ilk maçında puan çıkaramadı."
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/genclerbirligi-gaziantep-fkyi-tek-golle-gecti-3496243",
       "publishedAt": "2026-11-21T16:35:07.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T16:44:27.668Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
@@ -3639,17 +3684,17 @@
         "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-standing-beside-woman-in-black-coat-gtOXLwM248A"
       },
       "timeAgo": "5 dk önce",
-      "body": "ABD Başkanı Donald Trump, Asya'daki dört günlük gezisini tamamlayarak Washington'a döndü. Bu ziyaret kapsamında Çin Devlet Başkanı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin ile ilk kez üçlü bir zirvede bir araya gelen Trump, Beyaz Saray'da bir basın toplantısı düzenleyecek.\n\nÇin'in Shenzhen kentinde perşembe günü gerçekleştirilen dönüm noktası niteliğindeki üçlü görüşmede liderler, \"nükleer bir savaşın kazanılamayacağını ve asla yapılmaması gerektiğini\" kabul ettiler. Görüşmeleri \"gerçekten tarih yazmak\" olarak nitelendiren ABD başkanı, Çin'deki görüşmelerin ardından basın toplantısı düzenlememişti.\n\nFRANCE 24 tarafından yayımlanan habere göre basın toplantısının EST saatiyle 11:30'da (Paris saatiyle 17:30) canlı olarak izlenebileceği belirtildi. Donald Trump, 19 Kasım 2026 tarihinde dört günlük Asya gezisini tamamlayarak Air Force One uçağına bindi.",
+      "body": "ABD Başkanı Donald Trump, Çin lideri Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin ile Shenzhen, Çin'de gerçekleştirdiği ilk üçlü zirvenin ardından Washington'a döndü. Cuma günü Beyaz Saray'da bir basın toplantısı düzenleyen Trump, Xi ve Putin ile ilişkilerinin harika olduğunu belirtti. Çin ve Rus mevkidaşlarıyla Perşembe günü yapılan tarihi üçlü toplantıda nükleer savaşın kazanılamayacağı ve asla yapılmaması gerektiği konusunda anlaştıklarını aktardı. \n\nTrump, Çin lideri Xi ile harika bir ilişkisi olduğunu ifade ederek, Air Force One uçağı Shenzhen'e indiğinde Xi'nin kendisini pistte karşılamasının nadir bir hareket olduğunu vurguladı. Hem Xi hem de Putin ile fantastik ilişkileri bulunduğunu söyleyen ABD Başkanı, bu durumun ülkeyi güvenli kıldığını savundu. Üç liderin, özellikle İran'ın nükleer programı olmak üzere nükleer silahların yayılmasının sınırlanmasını ele aldığını kaydetti.\n\nUkrayna savaşına değinen Trump, Putin'in kendisine Ukrayna savaşının diplomatik yollarla sona ermesini istediğini ifade ettiğini aktardı. İran konusunda ise Tahran yönetiminin yarım asırdır dünyayı kandırdığını öne süren Trump, İran'ın asla nükleer silaha sahip olmayacağını söyledi. Ticaret alanında ise Asya gezisinin ardından 10 ek ticaret anlaşması daha beklediklerini, Kanada ve Meksika ile ticaret görüşmelerinde ilerleme kaydedildiğini ifade etti.\n\nABD Başkanı ayrıca, ABD'li şirketlerin yurt dışında veri merkezi kurmasına izin vermeyeceğini belirterek bu konuda ağır cezalar vadetti. Yapay zeka şirketi Anthropic'in CEO'su Dario Amodei'yi halka arzı dolayısıyla kutlayan Trump, şirkete saygı duyduğunu belirtti. Federal Rezerv'i eleştiren Trump, faiz oranlarının çok yüksek olduğunu ve Fed'in siyasi davrandığını iddia etti.",
       "highlights": [
-        "Trump, Xi ve Putin ile yaptığı üçlü görüşmenin ardından basın toplantısı düzenliyor.",
-        "Liderler Shenzhen'deki zirvede nükleer savaşın kazanılamayacağı konusunda uzlaştı.",
-        "Zirve, Trump'ın dört günlük Asya turunun ardından gerçekleştirildi."
+        "Trump, Çinli mevkidaşı Xi ve Rus lider Putin ile ilişkilerini 'fantastik' olarak nitelendirdi.",
+        "Liderlerin nükleer silahların yayılmasının sınırlanmasını ve İran'ın nükleer programını ele aldığı bildirildi.",
+        "Trump, Putin'in Ukrayna savaşının diplomatik yollarla bitmesini istediğini belirtti."
       ],
       "externalUrl": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin",
       "publishedAt": "2026-11-20T16:30:04.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T16:44:22.233Z",
+      "sourceTextAttemptedAt": "2026-11-21T16:44:27.668Z",
       "isBreaking": false
     },
     {
@@ -14590,53 +14635,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-17T18:34:29.802Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/kirmizi-isikta-kanli-pusu-otomobile-silahli-saldiri-1-olu-3494498",
-      "headline": "Kırmızı ışıkta kanlı pusu: Otomobile silahlı saldırıya uğrayan Ferhat Yamen hayatını kaybetti",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1638759811641-1f9296d8f606?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cmVkJTIwdHJhZmZpYyUyMGxpZ2h0fGVufDF8MHx8fDE3OTQ5MzgwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "CARTER SAUNDERS",
-        "photographerUrl": "https://unsplash.com/@cdsaunders04",
-        "unsplashUrl": "https://unsplash.com/photos/a-traffic-light-hanging-from-a-metal-pole-LYG3fjpKTI4"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Alibeyköy Atatürk Caddesi'nde saat 15.30 sıralarında meydana gelen olayda, sahibi olduğu iş merkezinin önünde aracıyla kırmızı ışıkta bekleyen Ferhat Yamen, alacak meselesi nedeniyle husumetlisi olduğu belirtilen bir kişinin silahlı saldırısına uğradı. Saldırının ardından şüpheli olay yerinden kaçtı.\n\nÇevredekilerin ihbarı üzerine olay yerine sevk edilen sağlık ekipleri, ağır yaralanan Ferhat Yamen'i ambulansla hastaneye kaldırdı. Hastanede tedavi altına alınan Yamen, yapılan tüm müdahalelere rağmen kurtarılamayarak hayatını kaybetti.\n\nSaldırı anı çevredeki bir kişinin cep telefonu kamerasıyla kaydedilirken, görüntülerde şüphelinin olay sonrasında yürüyerek uzaklaştığı görüldü. Polis ekipleri kaçan şüpheliyi yakalamak için çalışma başlattı. Olayın tanıklarından Vahit Arslan ise yemek yemek için geldiği sırada büyük bir ses duyduğunu, döndüğünde olayın gerçekleştiğini ancak hayatını kaybeden kişiyi tanımadığını ifade etti.",
-      "highlights": [
-        "Ferhat Yamen kırmızı ışıkta beklediği sırada silahlı saldırıya uğradı.",
-        "Ağır yaralanan Yamen hastanede hayatını kaybetti.",
-        "Polis kaçan şüpheliyi yakalamak için çalışma başlattı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/kirmizi-isikta-kanli-pusu-otomobile-silahli-saldiri-1-olu-3494498",
-      "publishedAt": "2026-11-17T17:53:52.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-17T18:14:25.354Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/aksarayda-cop-yuklu-kamyon-devrildi-4873597",
-      "headline": "Aksaray’da çöp yüklü kamyon devrildi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "2 dk önce",
-      "body": "Aksaray’da kontrolden çıkan çöp yüklü kamyon karayoluna devrildi. Sürücü hafif yaralanırken, çöpler yola dökülerek yolun tek şeridini kapattı.",
-      "highlights": [
-        "Aksaray-Adana karayolunda çöp kamyonu devrildi.",
-        "Sürücü kazayı hafif yaralı atlattı.",
-        "Çöplerin yola dökülmesiyle ulaşım tek şeritten verildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/aksarayda-cop-yuklu-kamyon-devrildi-4873597",
-      "publishedAt": "2026-11-17T17:42:48.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T17:55:23.537Z",
-      "imageSearchAttemptedAt": "2026-11-21T14:24:24.169Z",
       "isBreaking": false
     }
   ],
