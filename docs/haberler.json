@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T12:54:43.275Z",
+  "generatedAt": "2026-11-21T13:04:32.859Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/finans-haberler/bitcoinde-sert-dusus-24-saatte-2-4-milyar-dolarlik-pozisyon-tasfiye-edildi-3496195",
+      "headline": "Bitcoin'de sert düşüş: 24 saatte 2,4 milyar dolarlık pozisyon tasfiye edildi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1518546305927-5a555bb7020d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Qml0Y29pbiUyMGNyYXNofGVufDF8MHx8fDE3OTUyNjYyNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "André François McKenzie",
+        "photographerUrl": "https://unsplash.com/@silverhousehd",
+        "unsplashUrl": "https://unsplash.com/photos/gold-colored-bitcoin-iGYiBhdNTpE"
+      },
+      "timeAgo": "şimdi",
+      "body": "Bitcoin'de düşüş baskısı derinleşmeye devam ediyor. Ekim 2025 döneminde 126 bin doların üzerine çıkarak rekor seviyeye ulaşan kripto para birimi, son yaşanan satış dalgasıyla birlikte iki yılı aşkın sürenin en düşük seviyelerini gördü.\n\nYaşanan gelişmelerle birlikte, içinde bulunulan çeyrekteki toplam değer kaybı yüzde 28 oranına ulaştı. Piyasadaki bu sert geri çekilme sürecinde, kaldıraçlı işlemlerde ardı ardına yaşanan tasfiyeler dikkat çekti. \n\nSöz konusu tasfiye dalgasının piyasadaki mevcut satış baskısını daha da artırdığı belirtildi. Kripto para piyasasındaki hareketlilik ve yaşanan bu büyük çaplı tasfiyeler yatırımcıların odak noktasında yer alıyor.",
+      "highlights": [
+        "Ekim 2025'te 126 bin doları aşarak rekor kıran Bitcoin iki yılın en düşük seviyesine geriledi",
+        "İçinde bulunulan çeyrekteki değer kaybı yüzde 28'e ulaştı",
+        "Kaldıraçlı işlemlerde yaşanan tasfiyeler satış baskısını artırdı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/finans-haberler/bitcoinde-sert-dusus-24-saatte-2-4-milyar-dolarlik-pozisyon-tasfiye-edildi-3496195",
+      "publishedAt": "2026-11-21T13:08:27.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
+      "headline": "Fransa açıklarında bir yük gemisi karaya oturdu",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604506522146-316c8bedd874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2FyZ28lMjBzaGlwfGVufDF8MHx8fDE3OTUyNjYyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anastasios Antoniadis",
+        "photographerUrl": "https://unsplash.com/@borderpolarphotographer",
+        "unsplashUrl": "https://unsplash.com/photos/cargo-ship-on-sea-under-cloudy-sky-during-daytime-AMXFr97d00c"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Fransa'nın güneybatı kıyılarında Malta bayraklı bir yük gemisi karaya oturdu ve mahsur kaldı. Fransız yetkililer, geminin alabora olmasını ve potansiyel bir kirliliğe yol açmasını engellemek amacıyla bir operasyonun hazırlıklarını sürdürüyor. Olay sırasında herhangi bir yük taşımayan gemide bulunan 19 mürettebatın tamamı helikopterle güvenli bir şekilde tahliye edildi. Konuyla ilgili gelişmeler yetkililer tarafından takip ediliyor.",
+      "highlights": [
+        "Malta bayraklı bir yük gemisi Fransa'nın güneybatı kıyılarında karaya oturdu.",
+        "Gemideki 19 mürettebat helikopterle güvenli bir şekilde tahliye edildi.",
+        "Yetkililer geminin alabora olmasını ve kirlilik yaratmasını önlemek için operasyon hazırlığı yapıyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
+      "publishedAt": "2026-11-21T12:52:27.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/boludan-iskocyaya-uzanan-73-yillik-bitki-koleksiyonu-universitede-korunuyor-3496194",
       "headline": "Bolu'dan İskoçya'ya uzanan 73 yıllık bitki koleksiyonu üniversitede korunuyor",
@@ -3776,7 +3824,7 @@
       "publishedAt": "2026-11-20T12:04:57.000Z",
       "category": "Ekonomi",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:54:52.214Z",
+      "sourceTextAttemptedAt": "2026-11-21T13:04:20.238Z",
       "isBreaking": false
     },
     {
@@ -3876,7 +3924,7 @@
       "publishedAt": "2026-11-20T11:28:30.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:15:13.836Z",
+      "sourceTextAttemptedAt": "2026-11-21T13:04:20.238Z",
       "isBreaking": false
     },
     {
@@ -6761,7 +6809,7 @@
       "category": "Spor",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T16:14:35.299Z",
-      "imageSearchAttemptedAt": "2026-11-21T06:44:18.833Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:04:20.238Z",
       "isBreaking": false
     },
     {
@@ -6953,7 +7001,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T15:34:22.171Z",
-      "imageSearchAttemptedAt": "2026-11-21T06:54:26.848Z",
+      "imageSearchAttemptedAt": "2026-11-21T13:04:20.238Z",
       "isBreaking": false
     },
     {
@@ -14561,50 +14609,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-21T08:54:16.862Z",
       "sourceTextAttemptedAt": "2026-11-18T12:54:27.569Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
-      "headline": "Avustralya'daki Christmas Adası'nda milyonlarca kırmızı yengeç yıllık göçüne başladı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "13 dk önce",
-      "body": "Avustralya'nın Christmas Adası'nda yaşayan milyonlarca kırmızı yengeç, yıllık göçleri için harekete geçti.",
-      "highlights": [],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/avustralyadaki-christmas-adasinda-milyonlarca-kirmizi-yengec-yillik-gocune-basladi/4128119",
-      "publishedAt": "2026-11-17T15:42:46.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:54:16.862Z",
-      "sourceTextAttemptedAt": "2026-11-18T13:04:31.016Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/canakkale-de-olumsuz-hava-sartlari-nedeniyle-18-kasim-da-8-sefer-iptal-edildi-3928035",
-      "headline": "Çanakkale'de feribot seferleri iptal edildi",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1655918986943-add6734678bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8JUMzJTg3YW5ha2thbGUlMjdkZSUyMGZlcmlib3QlMjBzZWZlcmxlcmklMjBpcHRhbCUyMGVkaWxkaXxlbnwxfDB8fHwxNzk0OTg5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Özer Öztürk",
-        "photographerUrl": "https://unsplash.com/@ozerozturk",
-        "unsplashUrl": "https://unsplash.com/photos/a-boat-in-the-water-_iF4Ij6EAp4"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Çanakkale'nin Bozcaada ve Gökçeada ilçelerine 18 Kasım Çarşamba günü yapılması planlanan bazı feribot seferleri, Kuzey Ege Denizi'ndeki olumsuz hava şartları nedeniyle iptal edildi. Gestaş, iki ada hattında toplam 8 seferin gerçekleştirilemeyeceğini duyurdu",
-      "highlights": [
-        "Kuzey Ege Denizi'ndeki olumsuz hava şartları nedeniyle Bozcaada ve Gökçeada hatlarında toplam 8 feribot seferi iptal edildi.",
-        "Gestaş Deniz Ulaşım AŞ tarafından yapılan açıklamada, seferlerin 18 Kasım Çarşamba günü gerçekleştirilemeyeceği duyuruldu.",
-        "Geyikli-Bozcaada ve Kabatepe-Gökçeada hatlarındaki belirli saatlerdeki kalkışların yapılamayacağı bildirildi."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/canakkale-de-olumsuz-hava-sartlari-nedeniyle-18-kasim-da-8-sefer-iptal-edildi-3928035",
-      "publishedAt": "2026-11-17T15:36:01.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T08:14:30.426Z",
-      "sourceTextAttemptedAt": "2026-11-18T13:14:20.667Z",
       "isBreaking": false
     }
   ],
