@@ -1676,7 +1676,11 @@ function renderHome() {
     return;
   }
 
-  const [top, ...rest] = allArticles;
+  // Prefer a real, available newsroom image for the lead story. Keeping the
+  // original article order otherwise preserves the existing feed ranking.
+  const leadIndex = Math.max(0, allArticles.findIndex(article => article.imageUrl));
+  const top = allArticles[leadIndex];
+  const rest = allArticles.filter((_, index) => index !== leadIndex);
   const sideItems = rest.slice(0, 4);
   const gridItems = rest.slice(4);
 
@@ -1729,10 +1733,17 @@ function renderHome() {
   let main = `<div class="section-title">Güncel Haber Akışı</div>`;
   if (gridItems.length > 0) main += pagedFeedHtml(gridItems, 'home');
 
-  const html = `${feature}${shortcuts}<div class="home-layout"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
+  const homeSidebar = `<aside class="sidebar">
+    <div class="widget-card" id="marketsWidget">${marketsData ? marketsWidgetHtml(marketsData) : marketsWidgetTitle() + widgetSkeletonHtml()}</div>
+    <div class="widget-card" id="weatherWidget">${weatherData ? weatherWidgetHtml(weatherData) : weatherWidgetTitle() + widgetSkeletonHtml()}</div>
+    <div class="widget-card" id="trendingWidget">${trendingWidgetHtml()}</div>
+  </aside>`;
+  const html = `${feature}${shortcuts}<div class="home-layout"><div class="main-col">${main}</div>${homeSidebar}</div>`;
 
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
+  ensureMarketsLoaded();
+  ensureWeatherLoaded();
 
 }
 
