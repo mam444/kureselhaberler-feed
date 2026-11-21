@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T15:14:50.386Z",
+  "generatedAt": "2026-11-21T15:24:40.068Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/video/gundem/namazdan-cikan-vatandasi-haftaya-camiye-gelme-diyerek-olumle-tehdit-etti-4875252",
@@ -14,12 +14,17 @@
       },
       "timeAgo": "4 dk önce",
       "body": "Kocaeli'nin İzmit ilçesindeki tarihi Orhan Camii önünde çıkan park yeri tartışmasında, aracını park edip namazını kılan vatandaş mahalleli bir şahsın saldırısına ve tehdidine uğradı. Yakasına yapıştığı vatandaşa \"Haftaya bu camiye gelme, seni vururum\" diyerek vatandaşı ölümle tehdit eden saldırganın, Müslüman cemaate ve İslam'a yönelik hadsiz ifadeler kullanması tepki çekti.",
-      "highlights": [],
+      "highlights": [
+        "Kocaeli'nin İzmit ilçesindeki tarihi Orhan Camii önünde park yeri tartışması çıktı.",
+        "Saldırgan şahıs namazdan çıkan vatandaşı yakasından tutarak \"Haftaya bu camiye gelme! Seni vururum!\" diyerek tehdit etti.",
+        "Saldırgan ayrıca cemaate ve İslam'a yönelik sözler sarf etti."
+      ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/namazdan-cikan-vatandasi-haftaya-camiye-gelme-diyerek-olumle-tehdit-etti-4875252",
       "publishedAt": "2026-11-21T15:11:02.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T15:24:28.300Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/harry-kane-sezonun-ilk-devresini-kapatti-3496227",
@@ -67,6 +72,30 @@
       "externalUrl": "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
       "publishedAt": "2026-11-21T15:00:01.000Z",
       "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Yeni AB bütçe teklifi küresel teknoloji devlerine vergi getirmeyi amaçlıyor",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RVUlMjBmbGFnJTIwQnJ1c3NlbHN8ZW58MXwwfHx8MTc5NTI3NDY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Christian Lue",
+        "photographerUrl": "https://unsplash.com/@christianlue",
+        "unsplashUrl": "https://unsplash.com/photos/blue-and-yellow-star-flag-8Yw6tsB8tnc"
+      },
+      "timeAgo": "27 dk önce",
+      "body": "Avrupa Konseyi Başkanı Antonio Costa, bir sonraki AB bütçesi için yeni bir taslak sundu. Costa, üye ülkelerin katkılarını hafifletmek amacıyla büyük teknoloji firmalarına vergi getirilmesini önerdi. Bu hamle, daha önceki teklifleri şiddetle eleştiren bazı üye devletlerin yükünü azaltmayı hedefliyor.\n\nAB Komisyonu tarafından 2025 yılında sunulan 2028-2034 dönemi bütçesinin ilk taslağı, özellikle Almanya'nın da aralarında bulunduğu kuzeyli üye ülkeler tarafından bütçenin daha küçük olması gerektiği gerekçesiyle eleştirilmişti. Bu eleştirilerin ardından Avrupa Konseyi Başkanı, 204 milyar euro daha küçük olan yeni bir taslak önerdi. Ancak üye devletler arasındaki bölünmeler devam ediyor gibi görünüyor ve Fransa, Costa'nın yeni taslağına karşı çıkarak bunu \"derin hayal kırıklığı yaratıcı\" olarak nitelendirdi.\n\nTeklif, ulusal katkıları makul bir seviyede tutmayı amaçlayan bir dizi yeni gelir kanalını içeriyor. En büyük yankının, AB içinde en az 50 milyon euro ve dünya çapında 750 million euro dijital faaliyet cirosuna sahip şirketlere vergi getirilmesiyle uyandırması bekleniyor. Costa'ya göre bu firmalar, çevrimiçi reklamcılık, dijital aracı hizmetler ve kullanıcı tarafından oluşturulan verilerden elde edilen yıllık net cironun yüzde 3'üne denk gelen yıllık bir katkıya tabi olacak.\n\nCosta'nın planı, gelecek hafta Brüksel'de bir araya gelecek olan AB liderlerinin saatler sürecek görüşmelerinin merkezinde yer alacak. Antonio Costa teklifi hakkında realist bir bütçe olduğunu ve nihai bir anlaşmaya doğru ilerlemek için iyi bir temel oluşturduğundan emin olduğunu belirtti.\n\nBununla birlikte, Fransa'dan gelen ilk tepki, nihai bir anlaşmanın henüz uzak olabileceğini gösteriyor. Fransa başkanlığı, bütçenin özellikle Ortak Tarım Politikası konusunda gerekenin çok gerisinde kaldığını ifade etti. AB, bütçe konusunda 2026 sonuna kadar genel bir anlaşmaya varmayı ve resmi kabulünün 2027'de gerçekleşmesini umuyordu.",
+      "highlights": [
+        "Avrupa Konseyi Başkanı Antonio Costa, üye ülkelerin katkılarını hafifletmek için büyük teknoloji firmalarına vergi önerdi.",
+        "Yeni taslak, ilk taslağa göre 204 milyar euro daha küçük hazırlandı.",
+        "Fransa, bütçe teklifinin derin hayal kırıklığı yarattığını ve bir anlaşma için temel sağlamadığını belirtti."
+      ],
+      "externalUrl": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-21T14:58:00.000Z",
+      "category": "Ekonomi",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -261,20 +290,25 @@
     },
     {
       "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
-      "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "headline": "Ölümcül Otonom Silahlar İçin Yapılan BM Görüşmelerinde Bağlayıcı Kural Umutları Karşılanmadı",
       "source": "NPR",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "7 dk önce",
-      "body": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy. (Image credit: Efrem Lukatsky)",
-      "highlights": [],
+      "body": "Cenevre'de düzenlenen Birleşmiş Milletler toplantılarında diplomatlar, \"katil robotlar\" olarak da anılan ölümcül otonom silahların düzenlenmesine yönelik seçenekleri tartışma konusunda uzlaşmaya vardı. Cumartesi sabahının erken saatlerine kadar süren bir haftalık müzakerelerin ardından varılan uzlaşmaya göre ülkelerin, bağlayıcı olabileceği gibi isteğe bağlı da kalabilecek düzenlemeler önermek için iki yılı olacak. Yorgun müzakereciler bu anlaşmanın hiç yoktan iyi olduğunu ve BM'nin silahsızlanma sürecinin işleyebildiğini gösterdiğini savundu.\n\nAncak birçok insani yardım kuruluşu ve ülke için bu sonuç beklentilerin çok gerisinde kaldı. Uluslararası Kızılhaç Komitesi (ICRC), BM genel sekreteri ve Papa Leo, bir yıl içinde yasal olarak bağlayıcı kuralların taslak haline getirilmesinin acil olduğunu belirtmişti. Ukrayna, Sudan ve Gazze'deki çatışmalarda sivillerin yarı otonom dronlar tarafından öldürüldüğü, örneğin bu yıl Sudan'daki sivil ölümlerin %80'inin dronlardan kaynaklandığı ifade edildi.\n\nABD, Rusya ve İsrail gibi güçlü ülkelerin bağlayıcı düzenlemelere sıcak bakmadığı biliniyordu. Müzakerelerin ilk gününde Rusya ajandaya itiraz ederek süreci geciktirdi; ABD ise otonom silahlar için bağlayıcı olmayan, isteğe bağlı kılavuz ilkelerin tartışılması amacıyla beş yıllık bir süre önerdi. Cumartesi sabahı saat 4:30'da varılan kompromis sonucunda bir yıl içinde anlaşma ihtimali ortadan kalkarken, yasal olarak bağlayıcı kuralların getirilip getirilmeyeceği belirsiz kaldı.\n\nUluslararası Kızılhaç Komitesi karardan duyduğu üzüntüyü dile getirirken, bazı kampanyacılar anlaşmayı \"gerçek bir hayal kırıklığı\" olarak nitelendirdi. Future of Life Institute'un askeri yapay zeka yönetişimi uzmanı Anna Hehir, teknolojinin kontrolsüz bir şekilde hızla ilerleyeceğini ve bu sistemlerin bireyler ile suç grupları gibi farklı aktörler tarafından kolayca edinilebileceğini belirtti. Mevcut savaş kuralları ve Cenevre Sözleşmelerinin, öldürenlerin insan değil makine olması durumunda nasıl uygulanacağı konusunda da büyük soru işaretleri bulunuyor.",
+      "highlights": [
+        "Cenevre'deki BM görüşmelerinde otonom silahlar için bağlayıcı kural umutları karşılanmadı.",
+        "Ülkelerin olası düzenlemeleri önermesi için iki yıllık bir süre tanındı.",
+        "İnsani yardım kuruluşları ve uzmanlar kararın yetersiz olduğunu ve teknolojinin kontrolsüz ilerleyeceğini belirtti."
+      ],
       "externalUrl": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
       "publishedAt": "2026-11-21T14:18:17.000Z",
       "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-21T14:34:23.025Z"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-21T14:34:23.025Z",
+      "sourceTextAttemptedAt": "2026-11-21T15:24:28.300Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/galatasaraydan-var-atamasina-tepki-3496210",
@@ -4344,7 +4378,7 @@
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T09:24:17.870Z",
+      "imageSearchAttemptedAt": "2026-11-21T15:24:28.300Z",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
       "isBreaking": false
     },
@@ -4565,7 +4599,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:44:19.150Z",
-      "imageSearchAttemptedAt": "2026-11-21T09:24:17.870Z",
+      "imageSearchAttemptedAt": "2026-11-21T15:24:28.300Z",
       "isBreaking": false
     },
     {
@@ -14600,24 +14634,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-17T17:34:23.063Z",
       "sourceTextAttemptedAt": "2026-11-18T05:34:20.841Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki-963594.html",
-      "headline": "İran Meclis Başkanı Kalibaf'tan ABD basınındaki kirli bomba haberine tepki",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "11 dk önce",
-      "body": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD merkezli CNN televizyonunun, İran'ın Washington'da \"kirli bomba\" veya kimyasal silah kullanarak ABD Başkanı Donald Trump yönetiminin üst düzey yetkililerini hedef almaya yönelik planlar geliştirdiği iddiasına sert tepki göstererek, ABD medyasını İsrail yanlısı propaganda yapmakla suçladı.",
-      "highlights": [],
-      "externalUrl": "https://www.trthaber.com/haber/dunya/iran-meclis-baskani-kalibaftan-abd-basinindaki-kirli-bomba-haberine-tepki-963594.html",
-      "publishedAt": "2026-11-17T16:24:00.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T14:54:23.497Z",
-      "sourceTextAttemptedAt": "2026-11-18T05:42:11.024Z",
       "isBreaking": true
     }
   ],
