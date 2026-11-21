@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-21T14:14:58.338Z",
+  "generatedAt": "2026-11-21T14:25:35.367Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/finans-haberler/altin-ve-gumuste-sert-dusus-degerli-metaller-34-haftanin-en-kotu-haftasini-yasadi-3496216",
+      "headline": "Altın ve gümüşte sert düşüş! Değerli metaller 34 haftanın en kötü haftasını yaşadı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "şimdi",
+      "body": "Değerli metaller, Fed'in faiz artırımına gidebileceği endişeleri, doların güçlenmesi ve hisse senedi piyasalarındaki satış baskısının yarattığı nakit ihtiyacı nedeniyle sert değer kaybetti. Altın, gümüş ve platin fiyatlarında yaşanan gerileme, haftalık bazda son 34 haftanın en büyük kayıplarını beraberinde getirdi.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/finans-haberler/altin-ve-gumuste-sert-dusus-degerli-metaller-34-haftanin-en-kotu-haftasini-yasadi-3496216",
+      "publishedAt": "2026-11-21T14:26:18.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "headline": "Killer robots: U.N. talks fall short of hopes for legally binding rules",
+      "source": "NPR",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "7 dk önce",
+      "body": "U.N. talks in Geneva have failed to deliver binding rules on autonomous weapons, as humanitarian groups warn that military AI is advancing far faster than diplomacy. (Image credit: Efrem Lukatsky)",
+      "highlights": [],
+      "externalUrl": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+      "publishedAt": "2026-11-21T14:18:17.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/galatasaraydan-var-atamasina-tepki-3496210",
       "headline": "Galatasaray'dan VAR atamasına tepki",
@@ -15,15 +47,16 @@
       "timeAgo": "2 dk önce",
       "body": "Galatasaray Sportif A.Ş Başkan Vekili Maruf Güneş, Trendyol Süper Lig'in 12'nci haftasında Samsunspor ile oynanacak maç için VAR hakemi olarak atanan Erkan Engin'e yönelik açıklamalarda bulundu.\n\nGüneş, daha önceki Gençlerbirliği maçında Erkan Engin'in net bir penaltıda orta hakemi uyarmadığını belirterek, tüm tartışmalara rağmen aynı ismin Samsunspor maçına atanmasını eleştirdi. TFF Başkanı İbrahim Hacıosmanoğlu'nun geçmişteki \"Sahadaki insani hataları kabul ederim ama VAR’daki hatayı kabul etmiyorum\" sözlerini hatırlatan Güneş, bu konudaki ısrarın sebebini sordu.\n\nAçıklamasında yabancı VAR atamalarına da değinen Güneş, Kocaelispor-Fenerbahçe maçına yabancı VAR hakemi atanırken bu sezon ilk defa kendi iç saha maçlarında yabancı VAR atanmamasını sorguladı. Bunun gerekçesini merak ettiklerini ifade eden Güneş, yaşananların tesadüf mü yoksa ön kesme çabası mı olduğunu göreceklerini belirtti.\n\nKimseye ayrıcalık istemediklerini, yalnızca adil ve eşit yönetim talep ettiklerini vurgulayan Galatasaray Başkan Vekili, uyarılarına devam edeceklerini ve tartışmalı kararların sorumluluğunun bu tercihlerde ısrar edenlerde olacağını kaydetti. Galatasaray ile Samsunspor mücadelesi Başakşehir Fatih Terim Stadyumu'nda oynanacak.",
       "highlights": [
-        "Galatasaray Sportif A.Ş Başkan Vekili Maruf Güneş, Erkan Engin'in Samsunspor maçına VAR olarak atanmasına tepki gösterdi.",
-        "Güneş, Gençlerbirliği maçında Erkan Engin'in net bir penaltıda orta hakemi uyarmadığını hatırlattı.",
-        "Kocaelispor-Fenerbahçe maçına yabancı VAR atanırken kendi iç saha maçlarında bu uygulamanın yapılmamasını sorguladı."
+        "Galatasaray Sportif A.Ş Başkan Vekili Maruf Güneş, Samsunspor maçının VAR atamasına tepki gösterdi.",
+        "Güneş, Gençlerbirliği maçında VAR hakemi Erkan Engin'in penaltı pozisyonunda orta hakemi uyarmadığını ifade etti.",
+        "TFF Başkanı Hacıosmanoğlu'nun VAR hatalarını kabul etmediğine yönelik açıklaması hatırlatıldı."
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/galatasaraydan-var-atamasina-tepki-3496210",
       "publishedAt": "2026-11-21T14:12:49.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T14:24:24.169Z"
     },
     {
       "id": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
@@ -4327,15 +4360,15 @@
       "timeAgo": "3 dk önce",
       "body": "İçişleri Bakanı Mustafa Çiftçi, yarın Tunceli'de 8 ilin valileri ve güvenlik birimlerinin üst düzey yöneticileriyle Terörsüz Türkiye süreciyle ilgili ikinci kez toplantı yapacak. Terörsüz Türkiye sürecine ilişkin yarın Tunceli'de 8 ilin valileri ve güvenlik birimlerinin üst düzey yöneticileriyle toplantı yapılacak. İçişleri Bakanı Mustafa Çiftçi'nin başkanlık edeceği “Bölge Valileri ile Terörsüz Türkiye Konulu…",
       "highlights": [
-        "İçişleri Bakanı Mustafa Çiftçi başkanlığında Tunceli'de 8 ilin valisinin katılımıyla Terörsüz Türkiye toplantısı yapılacak.",
-        "Toplantıya Tunceli, Adıyaman, Bayburt, Elazığ, Erzincan, Erzurum, Malatya ve Şanlıurfa valileri ile güvenlik birimlerinin üst düzey yöneticileri katılacak.",
-        "Benzer bir toplantının ilki 17 Ekim'de Batman'da gerçekleştirilmişti."
+        "İçişleri Bakanı Mustafa Çiftçi başkanlığında Tunceli'de Terörsüz Türkiye toplantısı yapılacak",
+        "Toplantıya Tunceli, Adıyaman, Bayburt, Elazığ, Erzincan, Erzurum, Malatya ve Şanlıurfa valileri katılacak",
+        "İlk toplantı 17 Ekim'de Batman'da gerçekleştirilmişti"
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/tuncelide-terorsuz-turkiye-toplantisi-8-ilin-valisi-katilacak-1751775",
       "publishedAt": "2026-11-20T11:02:03.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T11:14:36.728Z",
+      "sourceTextAttemptedAt": "2026-11-21T14:24:24.169Z",
       "imageSearchAttemptedAt": "2026-11-21T09:34:25.162Z",
       "isBreaking": false
     },
@@ -14004,7 +14037,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T17:55:23.537Z",
-      "imageSearchAttemptedAt": "2026-11-21T08:04:17.859Z",
+      "imageSearchAttemptedAt": "2026-11-21T14:24:24.169Z",
       "isBreaking": false
     },
     {
@@ -14072,7 +14105,7 @@
       "publishedAt": "2026-11-17T16:53:39.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T08:14:22.698Z",
+      "imageSearchAttemptedAt": "2026-11-21T14:24:24.169Z",
       "sourceTextAttemptedAt": "2026-11-17T17:44:30.765Z",
       "isBreaking": false
     },
@@ -14579,54 +14612,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T07:54:28.059Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128144",
-      "headline": "Dünya Bankası, COP31'de iklim yatırımlarının merkezine istihdamı koydu",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1637497601387-0cc99a234251?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RCVDMyVCQ255YSUyMEJhbmthcyVDNCVCMSUyQyUyMENPUDMxJTI3ZGUlMjBpa2xpbSUyMHlhdCVDNCVCMXIlQzQlQjFtbGFyJUM0JUIxbiVDNCVCMW4lMjBtZXJrZXppbmUlMjBpc3RpaGRhbSVDNCVCMSUyMGtveWR1fGVufDF8MHx8fDE3OTQ5ODAwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nedret Binici",
-        "photographerUrl": "https://unsplash.com/@nedret00",
-        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-different-currency-sitting-on-top-of-each-other-TD9ZL6i81R4"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Dünya Bankası, COP31 kapsamında, kalkınma önceliklerini desteklemenin ve dayanıklılığı artırmanın yanı sıra, istihdamı güçlendirmeyi amaçlayan 6,9 milyar dolarlık yatırımı tanıttı.",
-      "highlights": [],
-      "externalUrl": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-cop31de-iklim-yatirimlarinin-merkezine-istihdami-koydu/4128144",
-      "publishedAt": "2026-11-17T15:59:46.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T05:34:20.841Z",
-      "sourceTextAttemptedAt": "2026-11-18T08:04:32.374Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/felc-kalan-kanserli-anneye-akilalmaz-tuzak-uvey-oglu-tum-birikimini-alip-kacti-1751332",
-      "headline": "Felç kalan kanserli anneye akılalmaz tuzak: Üvey oğlu tüm birikimini alıp kayboldu",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1665514894845-b33b5e239d93?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RmVsJUMzJUE3JTIwa2FsYW4lMjBrYW5zZXJsaSUyMGFubmV5ZSUyMGFrJUM0JUIxbGFsbWF6JTIwdHV6YWsuJTIwJUMzJTlDdmV5JTIwbyVDNCU5Rmx1JTIwdCVDMyVCQ20lMjBiaXJpa2ltaW5pJTIwYWwlQzQlQjFwJTIwa2ElQzMlQTd0JUM0JUIxfGVufDF8MHx8fDE3OTQ5ODA1NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "K D",
-        "photographerUrl": "https://unsplash.com/@aboutkimba",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-sitting-on-a-bench-wearing-masks-cZOZ_OYMjkQ"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "İstanbul Avcılar'da akciğer kanseri teşhisi konulan ve beyin ameliyatı sonrasında felç geçirerek yatağa bağımlı kalan Şuse Yılmaz, üvey oğlunun kendilerini dolandırdığını öne sürerek polise şikayetçi oldu. Yeşilkent Mahallesi'nde yaşayan yaşlı kadına bir süre 26 yıllık eşi Aydın Yılmaz baktı. Ancak Aydın Yılmaz'ın sağlık sorunlarının artması üzerine Şuse Yılmaz, Çatalca'da yaşayan kamyon şoförü üvey oğlu C.S.'yi arayarak yanlarına taşınmasını istedi.\n\nAnnesinin yanına geleceğini belirten C.S., hastane işleri için bir otomobil alınması gerektiğini ifade etti. Bunun üzerine Yılmaz çifti, 14 tam altın ve 70 bin lira tutarındaki toplam 800 bin liralık birikimlerini C.S.'ye teslim etti. Kütahya'nın Simav ilçesinden otomobil alan C.S., annesini birkaç kez hastaneye götürüp getirdikten sonra telefonlarını kapatarak ortadan kayboldu.\n\nAydın Yılmaz, üvey oğullarının iyi niyetlerini tamamen suistimal ettiğini belirterek, “Annesini 'Sen benim canımsın, sana bakacağım' diyerek kandırıyor” dedi. C.S.'nin birkilerini alarak aracı aldıktan sonra kısa süre hastaneye gelip gittiğini, ardından telefonu kapatıp kendilerini engellediğini ifade eden Aydın Yılmaz, polise giderek şikayetçi olduğunu ve zararının karşılanmasını istediğini kaydetti.",
-      "highlights": [
-        "Felç kalan kanserli kadın üvey oğlu tarafından dolandırıldığını iddia etti.",
-        "Yılmaz çifti, hastane işleri için araba alınması amacıyla 800 bin lira değerindeki tüm birikimlerini üvey oğullarına verdi.",
-        "Üvey oğlunun parayı alıp aracı aldıktan sonra telefonlarını kapatarak kaybolduğu belirtildi."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/felc-kalan-kanserli-anneye-akilalmaz-tuzak-uvey-oglu-tum-birikimini-alip-kacti-1751332",
-      "publishedAt": "2026-11-17T15:59:28.000Z",
-      "category": "Sağlık",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T05:42:11.024Z",
-      "sourceTextAttemptedAt": "2026-11-18T09:04:34.355Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
