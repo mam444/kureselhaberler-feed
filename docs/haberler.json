@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T10:14:30.055Z",
+  "generatedAt": "2026-11-21T10:24:28.474Z",
   "articles": [
     {
       "id": "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945?maca=tur-rss-tur-all-1495-xml-mrss",
@@ -15,14 +15,15 @@
       "timeAgo": "6 dk önce",
       "body": "Almanya hükümeti, İkinci Dünya Savaşı sonrasında yaşanan sağcı şiddet olaylarını belgelemek amacıyla kurulan internet portalına sağlanan mali desteğin sonlandırılacağını açıkladı.\n\nKültür ve Medyadan Sorumlu Devlet Bakanı Wolfram Weimer, muhalefetteki Yeşiller Partisi milletvekili Marlene Schönberger'in yazılı soru önergesine verdiği yanıtta, 2026 yılı sonrasındaki finansman için ek bütçe kaynağı bulunmadığını belirtti.\n\nKarara tepki gösteren Yeşiller Partisi Federal Meclis İçişleri Komisyonu üyesi Marlene Schönberger, 'Rechte Gewalt' adlı tema portalının yayına girmesinin üzerinden henüz sekiz ay dahi geçmediğine dikkat çekerek hükümetin kararına sert eleştiriler yöneltti.\n\nSchönberger, federal hükümetin sağcı şiddeti önlemekle, önleyemediği durumlarda ise bu şiddeti kabul edip belgelemekle yükümlü olduğunu vurgulayarak, bu adımın mağdurlara karşı bir sorumluluk olduğunu ifade etti.\n\nAlman Dijital Kütüphanesi'nin 'Archivportal-D' platformunda yer alan ve sorumluluğunu Federal Arşiv'in üstlendiği portal, 1945'ten bu yana Almanya'daki sağcı şiddeti merkezî bir yerde toplamayı hedefliyordu. Projeyle devlet ve sivil toplum kaynaklı dağınık arşiv materyallerinin çevrimiçi ortamda bir araya getirilmesi amaçlanıyordu.",
       "highlights": [
-        "Almanya'da sağcı şiddeti belgeleyen internet portalına verilen mali destek sona eriyor.",
-        "Kültür ve Medyadan Sorumlu Devlet Bakanı Wolfram Weimer, 2026 sonrasında ek bütçe kaynağı olmadığını duyurdu.",
-        "Yeşiller Partisi'nden Marlene Schönberger kararı eleştirerek hükümetin fişi çektiğini söyledi."
+        "Almanya'da sağcı şiddeti belgeleyen internet portalına verilen hükümet desteği sonlandırılıyor.",
+        "Kültür ve Medyadan Sorumlu Devlet Bakanı Wolfram Weimer, 2026 sonrasında finansman için ek bütçe kaynağı bulunmadığını açıkladı.",
+        "Yeşiller Partisi'nden Marlene Schönberger, henüz sekiz ay önce kurulan portal için alınan kararı eleştirdi."
       ],
       "externalUrl": "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945?maca=tur-rss-tur-all-1495-xml-mrss",
       "publishedAt": "2026-11-21T10:08:00.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:24:22.800Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/masaktan-gildencrest-capital-raporu-bahamalara-195-milyarlik-transfer-son-anda-engellendi-1751887",
@@ -47,6 +48,29 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T10:14:18.146Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+      "headline": "Verstappen Las Vegas'ta Ceza Almadı, Pol Pozisyonunu Aldı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614949194403-9602bdc14a3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Rm9ybXVsYSUyMDElMjByYWNlfGVufDF8MHx8fDE3OTUyNTY2NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Clément Delacre",
+        "photographerUrl": "https://unsplash.com/@clementdelacre",
+        "unsplashUrl": "https://unsplash.com/photos/race-car-on-track-with-curbs-M5s9Ffs1KqU"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "Max Verstappen, Las Vegas'taki Formula 1 antrenman seanslarında yaşadığı olayların ardından disiplin cezasından kurtuldu. Seans boyunca çeşitli olaylara karışan pilot, cezadan kaçınmayı başararak pol pozisyonunun sahibi oldu. Öte yandan sıralamalarda Kimi Antonelli bir cezaya çarptırıldı. Yaşanan bu gelişmelerin ardından hafta sonundaki yarış öncesi Formula 1 gündemi hareketlendi.",
+      "highlights": [
+        "Max Verstappen Vegas F1 antrenmanlarındaki olaylar sonrası disiplin cezası almadı",
+        "Verstappen pol pozisyonunu elde etti",
+        "Kimi Antonelli cezaya çarptırıldı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
+      "publishedAt": "2026-11-21T09:58:59.000Z",
+      "category": "Dünya",
+      "lang": "tr"
     },
     {
       "id": "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
@@ -134,13 +158,15 @@
       "timeAgo": "25 dk önce",
       "body": "Yemen'deki İran destekli Husiler ile Suudi Arabistan liderliğindeki koalisyon arasındaki saldırı alışverişi devam ediyor. Koalisyon güçleri, cumartesi günü erken saatlerde Riyad'a doğru fırlatılan üç balistik füzenin havada önlenerek imha edildiğini açıkladı.\n\nBu gelişme, Suudi Arabistan liderliğindeki koalisyonun Yemen'deki Husi hedeflerine yönelik düzenlediği hava saldırılarının ardından, son günlerde başkent Riyad'a düzenlenen ikinci Husi saldırısı olarak kayıtlara geçti. Taraflar arasındaki çatışmalar ve karşılıklı saldırılar bölgede sürmektedir.",
       "highlights": [
-        "Suudi Arabistan liderliğindeki koalisyon, Riyad'a fırlatılan üç balistik füzenin imha edildiğini açıkladı.",
-        "Saldırı, son günlerde başkent Riyad'a düzenlenen ikinci Husi saldırısı oldu."
+        "Husiler Suudi Arabistan'a karşı saldırılar düzenledi.",
+        "Koalisyon güçleri Riyad'a ateşlenen üç balistik füzenin imha edildiğini açıkladı.",
+        "Bu gelişme, son günlerde Suudi Arabistan'ın başkentini hedef alan ikinci Husi saldırısı oldu."
       ],
       "externalUrl": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
       "publishedAt": "2026-11-21T09:49:44.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T10:24:22.800Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/koprude-suratlice-makas-atan-surucu-kaza-yaptigi-anlari-paylasti-4875137",
@@ -13979,29 +14005,6 @@
       "publishedAt": "2026-11-17T09:52:06.000Z",
       "category": "Gündem",
       "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-cekyada-iki-yolcu-treni-kafa-kafaya-carpisti-46-yarali-bolgeden-sicak-goruntu-7702378",
-      "headline": "Çekya'da iki yolcu treni çarpıştı: 46 yaralı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1749464341901-8994f86f09c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dHJhaW4lMjBjcmFzaHxlbnwxfDB8fHwxNzk0OTA5Mjk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Gowtham AGM",
-        "photographerUrl": "https://unsplash.com/@gowthamagm",
-        "unsplashUrl": "https://unsplash.com/photos/a-derailed-train-lies-on-its-side-arAJV7EtaRs"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Çekya'nın başkenti Prag'da ana tren istasyonu yakınlarında iki yolcu treni kafa kafaya çarpıştı. Kazada 46 kişi yaralanırken, yaralılardan dördünün hayati tehlikesi bulunuyor. Yetkililer, trenlerin düşük hızda seyretmesi sayesinde büyük bir yıkım yaşanmadığını bildirdi.",
-      "highlights": [
-        "Prag'da iki yolcu treni çarpıştı",
-        "Kazada 46 kişi yaralandı",
-        "Yaralılardan dördünün hayati tehlikesi var"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-cekyada-iki-yolcu-treni-kafa-kafaya-carpisti-46-yarali-bolgeden-sicak-goruntu-7702378",
-      "publishedAt": "2026-11-17T09:51:56.000Z",
-      "category": "Son Dakika",
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
@@ -14208,6 +14211,7 @@
     "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4131208",
     "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/20/brexit-debate-returns-as-uk-pm-seeks-closer-eu-ties?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+    "https://www.milliyet.com.tr/gundem/beyoglunda-5-katli-binada-yangin-cok-sayida-ekip-sevk-edildi-7705080"
   ]
 }
