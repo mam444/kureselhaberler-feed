@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-20T22:22:37.211Z",
+  "generatedAt": "2026-11-21T03:18:44.420Z",
   "articles": [
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
+      "headline": "Üç Fransız polis memuru, Siyah bir adama yönelik ırkçı saldırı nedeniyle mahkum edildi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614779313269-887d53e21375?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwY291cnR8ZW58MXwwfHx8MTc5NTIzMTEyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Valery Tenevoy",
+        "photographerUrl": "https://unsplash.com/@plag",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-jacket-and-black-helmet-sitting-on-bench-during-daytime-8TWYbUJE5xQ"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "Paris ceza mahkemesi, 2020 yılında Siyah müzik yapımcısı Michel Zecler'e düzenlenen saldırıda ırkçılığın ağırlaştırıcı bir faktör olduğuna hükmetti. Bu karar doğrultusunda üç Fransız polis memuru mahkum edildi.",
+      "highlights": [
+        "Paris ceza mahkemesi ırkçılığı ağırlaştırıcı faktör saydı",
+        "Siyah müzik yapımcısı Michel Zecler 2020'de saldırıya uğradı",
+        "Üç Fransız polis memuru mahkum edildi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
+      "publishedAt": "2026-11-21T03:01:24.000Z",
+      "category": "Dünya",
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-kasim-2026-1751828",
+      "headline": "21 Kasım 2026 Son Dakika Deprem Haberleri: AFAD ve Kandilli Son Depremler Listesi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1736117703151-8c56ab8c0d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZWFydGhxdWFrZSUyMG1hcHxlbnwxfDB8fHwxNzk1MjMxMTIyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Etienne Girardet",
+        "photographerUrl": "https://unsplash.com/@etiennegirardet",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-map-of-the-world-20nbPE3nyvM"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "21 Kasım 2026 tarihinde Türkiye genelinde meydana gelen sarsıntılar ve son deprem haberleri vatandaşlar tarafından yakından takip ediliyor. Arama motorlarında en çok merak edilen konular arasında son dakika deprem olup olmadığı, sarsıntının nerede ve kaç büyüklüğünde gerçekleştiği yer alıyor.\n\nİstanbul, Ankara ve İzmir başta olmak üzere il il son deprem bilgileri araştırılıyor. Kullanıcılar anlık deprem haritası üzerinden yakınlarındaki sarsıntıları ve artçı deprem ihtimallerini inceliyor.\n\nAfet ve Acil Durum Yönetimi Başkanlığı (AFAD) ile Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü son depremler listesini güncel olarak paylaşıyor. Hangi illerde deprem olduğu ve bu sarsıntıların hissedilip hissedilmediği resmi kurumların verileriyle takip ediliyor.\n\nGüncel deprem listeleri ve son dakika gelişmeleri, vatandaşların en çok araştırdığı konular arasında bulunmaya devam ediyor. Depremle ilgili tüm detaylar ilgili kurumların anlık verileriyle gün yüzüne çıkıyor.",
+      "highlights": [
+        "21 Kasım 2026 tarihinde son depremler araştırılıyor",
+        "AFAD ve Kandilli Rasathanesi son deprem listelerini paylaşıyor",
+        "İstanbul, Ankara ve İzmir başta olmak üzere il il deprem bilgileri takip ediliyor"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-21-kasim-2026-1751828",
+      "publishedAt": "2026-11-21T03:00:00.000Z",
+      "category": "Gündem",
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
       "headline": "ABD'li yasa koyucular Çin ihracat kısıtlamalarının ardından daha sert yapay zeka çipi kuralları talep ediyor",
@@ -22,7 +68,8 @@
       "externalUrl": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
       "publishedAt": "2026-11-20T22:15:07.000Z",
       "category": "Dünya",
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-21T03:18:38.636Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/son-dakika-trump-cin-donusu-konustu-irana-anlasma-mesaji-fede-sert-tepki-3495949",
@@ -1891,15 +1938,15 @@
       "timeAgo": "8 dk önce",
       "body": "El Salvador Devlet Başkanı Nayib Bukele, kendisini \"dünyanın en havalı diktatör\" olarak adlandırıyor. Başkanlık dönemi sınırlamalarını ortadan kaldırmak amacıyla Anayasa'da değişikliğe giden Bukele, üçüncü bir dönem için adaylık arayışında bulunuyor.\n\nBukele'nin çetelere karşı yürüttüğü mücadele ülkesinde kendisine büyük bir popülarite kazandırdı. Ancak bu durum aynı zamanda ciddi insan hakları endişelerini de beraberinde getirdi ve bu yönde eleştirilerin odak noktası haline geldi.",
       "highlights": [
-        "El Salvador Devlet Başkanı Nayib Bukele üçüncü dönem için adaylık arayışında",
-        "Bukele kendisini \"dünyanın en havalı diktatörü\" olarak adlandırıyor",
-        "Çetelere karşı yürütülen savaş büyük bir popülarite sağlarken ciddi insan hakları endişeleri de doğurdu"
+        "Nayib Bukele kendisini \"dünyanın en havalı diktatör\" olarak adlandırıyor",
+        "Başkanlık dönemi sınırlamaları kaldırılarak üçüncü dönem için adaylık aranıyor",
+        "Çetelere karşı mücadele popülarite sağlarken insan hakları endişeleri yaratıyor"
       ],
       "externalUrl": "https://www.france24.com/en/el-salvador-nayib-bukele-self-proclaimed-coolest-dictator-on-earth-is-seeking-a-third-term",
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T18:34:16.595Z",
+      "imageSearchAttemptedAt": "2026-11-21T03:18:38.636Z",
       "sourceTextAttemptedAt": "2026-11-20T12:25:06.202Z"
     },
     {
@@ -2111,7 +2158,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:34:57.104Z",
-      "imageSearchAttemptedAt": "2026-11-20T17:44:18.737Z"
+      "imageSearchAttemptedAt": "2026-11-21T03:18:38.636Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/taskoprude-sis-etkili-oldu-dron-ile-goruntulendi-kastamonu-taskopru-haberleri-4874826",
@@ -2156,7 +2203,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:14:36.728Z",
-      "imageSearchAttemptedAt": "2026-11-20T17:24:18.698Z"
+      "imageSearchAttemptedAt": "2026-11-21T03:18:38.636Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
@@ -13836,52 +13883,6 @@
       "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/infantino-made-things-worse-at-fifa-than-blatter-says-jurgen-klopp?traffic_source=rss",
       "publishedAt": "2026-11-16T14:36:23.000Z",
       "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
-      "headline": "Belçikalı futbolcu Romelu Lukaku milli takımdan emekli oldu",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1672675224932-00552a3ed77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Um9tZWx1JTIwTHVrYWt1fGVufDF8MHx8fDE3OTQ4NDQwODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Micheal Ogungbe",
-        "photographerUrl": "https://unsplash.com/@micheal632",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-red-shirt-holding-two-fingers-up-JdyLvgFXo9I"
-      },
-      "timeAgo": "1 sa önce",
-      "body": "Belçika'nın tüm zamanların en golcü oyuncusu Romelu Lukaku, milli futbol kariyerini sonlandırdı. Lukaku, 135 maçta kaydettiği 94 golle ülke tarihinin zirvesinde yer alıyor ve erkekler arası tüm zamanlar gol krallığı listesinde beşinci sırada bulunuyor.",
-      "highlights": [
-        "Romelu Lukaku milli futbol kariyerini sonlandırdı",
-        "135 maçta 94 gol kaydetti",
-        "Tüm zamanların en golcü oyuncusu"
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/11/16/belgiums-romelu-lukaku-retires-from-international-football?traffic_source=rss",
-      "publishedAt": "2026-11-16T14:35:00.000Z",
-      "category": "World",
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/sanal-devriyeye-takildilar-409-internet-sitesi-icin-flas-karar-7701926",
-      "headline": "409 internet sitesine erişim engeli getirildi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1614064548237-096f735f344f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y3liZXIlMjBzZWN1cml0eXxlbnwxfDB8fHwxNzk0ODQ1OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "FlyD",
-        "photographerUrl": "https://unsplash.com/@flyd2069",
-        "unsplashUrl": "https://unsplash.com/photos/padlock-on-laptop-with-light-trails-C5pXRFEjq3w"
-      },
-      "timeAgo": "2 sa önce",
-      "body": "9-15 Kasım tarihlerindeki siber devriye faaliyetlerinde 791 URL incelendi. İncelemelerde yasa dışı bahis, oltalama ve müstehcen içerik tespit edilen 409 internet sitesine erişim engeli getirildi. Ayrıca nitelikli dolandırıcılık olaylarına karıştığı belirlenen 4 şüpheli hakkında adli işlem başlatıldı.",
-      "highlights": [
-        "791 sosyal medya ve URL adresi incelendi",
-        "409 internet sitesine erişim engeli getirildi",
-        "4 şüpheli hakkında adli işlem başlatıldı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/sanal-devriyeye-takildilar-409-internet-sitesi-icin-flas-karar-7701926",
-      "publishedAt": "2026-11-16T14:34:51.000Z",
-      "category": "Son Dakika",
       "lang": "tr"
     }
   ],
