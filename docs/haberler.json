@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T15:45:13.533Z",
+  "generatedAt": "2026-11-21T15:54:41.230Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
+      "headline": "COP31 Anlaşması İçin Ülkeler Arasında Yarış Başladı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1615092296061-e2ccfeb2f3d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMGNoYW5nZXxlbnwxfDB8fHwxNzk1Mjc2NDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Conservation Commons",
+        "photographerUrl": "https://unsplash.com/@conservationcommons",
+        "unsplashUrl": "https://unsplash.com/photos/wildfire-burning-across-hillside-at-dusk-kbTp7dBzHyY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "COP31 iklim görüşmelerinin, yeni bir küresel iklim anlaşmasına varma çabaları kapsamında takviminin aştığı bildirildi. Gelişmeler, fosil yakıtlara yer vermeyen ilk taslağa yönelik eleştirilerin ardından yaşandı.\n\nAvrupa Birliği (AB), mevcut teklifin zirveyi bir \"fosil yakıt zirvesine\" dönüştürme riski taşıdığı konusunda uyarılarda bulundu. Müzakereciler, günün ilerleyen saatlerinde açıklanması beklenen revize edilmiş ve potansiyel olarak nihai bir anlaşma üzerinde çalışmalarını sürdürüyor.\n\nKonuya ilişkin ayrıntılar, France 24 Uluslararası İlişkiler Editörü Jamie Smith-Maillet tarafından aktarıldı.",
+      "highlights": [
+        "COP31 iklim görüşmeleri takviminin aştı",
+        "AB, mevcut teklifin zirveyi fosil yakıt zirvesine dönüştürebileceği uyarısında bulundu",
+        "Yeni ve muhtemel nihai anlaşmanın gün içinde açıklanması bekleniyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
+      "publishedAt": "2026-11-21T15:52:00.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/turkiye/saganak-nedeniyle-coken-yolda-olusan-cukura-4-arac-dustu-3496235",
+      "headline": "Sağanak nedeniyle çöken yolda oluşan çukura 4 araç düştü",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1677233861254-3e5338c1d9ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2ElQzQlOUZhbmFrJTIwbmVkZW5peWxlJTIwJUMzJUE3JUMzJUI2a2VuJTIweW9sZGElMjBvbHUlQzUlOUZhbiUyMCVDMyVBN3VrdXJhJTIwNCUyMGFyYSVDMyVBNyUyMGQlQzMlQkMlQzUlOUZ0JUMzJUJDfGVufDF8MHx8fDE3OTUyNzY0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Çağlar Oskay",
+        "photographerUrl": "https://unsplash.com/@oskaycaglar",
+        "unsplashUrl": "https://unsplash.com/photos/a-car-that-is-sitting-in-the-street-paHTI-WDJgI"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Samsun'un İlkadım ilçesinde etkili olan sağanak yağış, kentte olumsuzluklara yol açtı. İlçe genelinde yaşanan yağışlar sırasında, altyapı çalışması yürütülen bir yolda çökme meydana geldi.\n\nİlkadım ilçesi Osmaniye Caddesi'nde bulunan ve altyapı çalışması yapılan yolda, sağanak yağışın etkisiyle yaklaşık 30 santimetrelik bir çökme oluştuğu bildirildi.\n\nYaşanan çökme sonucunda yolda büyük bir çukur açıldı. Açılan bu çukura, o sırada park halinde bulunan 4 araç birden düştü.\n\nMeydana gelen olayda hasar gören araçlar, olay yerine gelen çekici yardımıyla düştükleri çukurdan çıkarıldı.",
+      "highlights": [
+        "Samsun'un İlkadım ilçesinde sağanak nedeniyle yolda çökmeler yaşandı",
+        "Osmaniye Caddesi'ndeki altyapı çalışması yürütülen yolda yaklaşık 30 santimetrelik çökme meydana geldi",
+        "Çökme sonucunda oluşan çukura park halindeki 4 araç düştü ve çekiciyle çıkarıldı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/saganak-nedeniyle-coken-yolda-olusan-cukura-4-arac-dustu-3496235",
+      "publishedAt": "2026-11-21T15:51:31.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.rfi.fr/en/france/20261121-french-court-finds-racism-played-role-in-police-beating-of-black-music-producer",
       "headline": "Fransız mahkemesi, siyahi müzik yapımcısının polis tarafından darp edilmesinde ırkçılığın rol oynadığına hükmetti",
@@ -3881,15 +3929,15 @@
       "timeAgo": "6 dk önce",
       "body": "BM'nin COP31 iklim görüşmelerinin, fosil yakıtlardan hiç bahsedilmeyen taslak bir anlaşma üzerindeki ülkeler arası anlaşmazlıklar nedeniyle Cuma günü uzatılması bekleniyor. Müzakereleri tıkıyan başka anlaşmazlıkların da bulunduğu bildirildi.\n\nSöz konusu görüşmeler, Avrupa'daki sıcak hava dalgaları ve Nepal'deki yıkıcı seller gibi iklim eyleminin aciliyetini gösteren çarpıcı hatırlatmaların yanı sıra rekor kıran bir El Nino'nun sıcaklıkları artırdığı bir dönemde gerçekleşiyor.\n\nFRANCE 24 Çevre Editörü Valerie Dekimpe, sürece dair ayrıntıları aktardı.",
       "highlights": [
-        "COP31 iklim görüşmeleri Cuma günü uzatmalara kalmaya hazırlanıyor.",
-        "Taslak anlaşmada fosil yakıtlardan hiç bahsedilmiyor.",
-        "Avrupa'daki sıcak hava dalgaları ve Nepal'deki sel felaketleri iklim eyleminin aciliyetini hatırlatıyor."
+        "Türkiye'deki COP31 iklim görüşmeleri cuma günü uzatmalara kalmaya hazırlanıyor",
+        "Taslak anlaşmada fosil yakıtlara yer verilmiyor ve başka anlaşmazlıklar da müzakereleri tıkıyor",
+        "Avrupa'daki sıcak hava dalgaları ve Nepal'deki seller iklim eyleminin aciliyetini hatırlatıyor"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
       "publishedAt": "2026-11-20T14:38:56.000Z",
       "category": "Bilim",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:07:28.972Z",
+      "sourceTextAttemptedAt": "2026-11-21T15:54:26.118Z",
       "isBreaking": false
     },
     {
@@ -3906,15 +3954,15 @@
       "timeAgo": "şimdi",
       "body": "Fenerbahçe'de sergilediği performansla dikkat çeken Mason Greenwood, Avrupa kulüplerinin radarına girdi. Birçok kulübün, İngiliz yıldızı kış transfer döneminde kadrosuna katmak için harekete geçmeye hazırlandığı belirtildi.\n\nFenerbahçe'nin yaz transfer döneminde Marsilya'dan 39 milyon euro karşılığında transfer ettiği 25 yaşındaki kanat oyuncusu, Avrupa kulüplerinin listesinde yer alıyor. El Gol Digital'in aktardığına göre, La Liga ekiplerinden Atletico Madrid oyuncuyu kadrosuna katmak istiyor. Premier Lig kulüplerinin Alex Baena'ya, Roma'nın ise Ademola Lookman'a ilgi göstermesi nedeniyle Atletico Madrid'in, iki oyuncunun durumuna bağlı olarak temmuz ayında Greenwood için yeniden harekete geçeceği ifade edildi.\n\nDiğer yandan, İtalya Serie A takımlarından Napoli'nin gözlemcilerinin, Fenerbahçe'nin Liverpool ile yaptığı UEFA Şampiyonlar Ligi karşılaşmasını yakından izlediği kaydedildi. Atletico Madrid ve Napoli'nin yanı sıra, 25 yaşındaki futbolcuya Avrupa genelindeki ilginin artmaya devam ettiği aktarıldı. Greenwood'un gelecekteki transfer süreci ve kulüplerin hamleleri futbol gündemindeki yerini koruyor.",
       "highlights": [
-        "Mason Greenwood gösterdiği performansla Avrupa kulüplerinin dikkatini çekti.",
-        "Atletico Madrid, Greenwood'u kadrosuna katmak istiyor.",
-        "Napoli gözlemcileri Fenerbahçe'nin Liverpool ile oynadığı maçı takip etti."
+        "Mason Greenwood sergilediği performansla Avrupa kulüplerinin ilgisini çekti",
+        "Atletico Madrid ve Napoli oyuncuyla ilgilenen kulüpler arasında yer alıyor",
+        "Fenerbahçe oyuncuyu yaz transfer döneminde Marsilya'dan kadrosuna katmıştı"
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/avrupa-devi-greenwoodu-istiyor-3495866",
       "publishedAt": "2026-11-20T14:35:56.000Z",
       "category": "Spor",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T14:44:33.523Z",
+      "sourceTextAttemptedAt": "2026-11-21T15:54:26.118Z",
       "isBreaking": false
     },
     {
@@ -14586,54 +14634,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-17T17:31:14.908Z",
       "sourceTextAttemptedAt": "2026-11-17T18:24:25.184Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-963595.html",
-      "headline": "Bakan Gürlek: Fon soruşturmasında 129 şüpheli tutuklu bulunmaktadır",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1794598130570-8e9b0bd43161?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QmFrYW4lMjBHJUMzJUJDcmxlayUzQSUyMEZvbiUyMHNvcnUlQzUlOUZ0dXJtYXMlQzQlQjFuZGElMjAxMjklMjAlQzUlOUYlQzMlQkNwaGVsaSUyMHR1dHVrbHUlMjBidWx1bm1ha3RhZCVDNCVCMXJ8ZW58MXwwfHx8MTc5NDkzNjg4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Josef Kali",
-        "photographerUrl": "https://unsplash.com/@josefkali",
-        "unsplashUrl": "https://unsplash.com/photos/elderly-man-walking-past-painted-wall-SCIgRpQlMfQ"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Adalet Bakanı Akın Gürlek, fon soruşturmalarıyla ilgili, \"Bugün itibarıyla 498 şüpheli bulunmaktadır. 129 şüpheli tutuklu, 289 şüpheli hakkında adli kontrol tedbir kararı bulunmaktadır. Hakkında yakalama kararı bulunan 54 şüpheliye yönelik çalışmalar devam ederken, gözaltındaki 22 şüphelinin adli işlemleri sürmektedir\" açıklamasını yaptı.",
-      "highlights": [],
-      "externalUrl": "https://www.trthaber.com/haber/gundem/bakan-gurlek-fon-sorusturmasinda-129-supheli-tutuklu-bulunmaktadir-963595.html",
-      "publishedAt": "2026-11-17T16:42:00.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:34:23.063Z",
-      "sourceTextAttemptedAt": "2026-11-17T18:24:25.184Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/son-dakika-akin-gurlek-fon-sorusturmasi-derinlesiyor-3928047",
-      "headline": "Akın Gürlek: Fon soruşturması derinleşiyor",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1743000332522-c0cd8b66b8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QWslQzQlQjFuJTIwRyVDMyVCQ3JsZWslM0ElMjBGb24lMjBzb3J1JUM1JTlGdHVybWFzJUM0JUIxJTIwZGVyaW5sZSVDNSU5Rml5b3J8ZW58MXwwfHx8MTc5NDkzNzEwOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mahmut Yıldız",
-        "photographerUrl": "https://unsplash.com/@iammahmutyildiz",
-        "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Adalet Bakanı Akın Gürlek, sosyal medya hesabından yaptığı açıklamada fon soruşturmalarının yeni elde edilen deliller doğrultusunda derinleştirildiğini belirtti. Soruşturmaların somut delillerle yürütüldüğünü vurgulayan Gürlek, kişilerin makam veya unvanlarının değil, hukuki sorumlulukların esas alındığını ifade etti.\n\nSürecin son durumuna ilişkin bilgi veren Bakan Gürlek, soruşturmalar kapsamında toplam 498 şüphelinin bulunduğunu, 129 kişinin tutuklu olduğunu ve 289 kişi hakkında adli kontrol tedbir kararı alındığını kaydetti. Ayrıca hakkında yakalama kararı bulunan 54 şüpheliye yönelik çalışmaların sürdüğünü ve gözaltındaki 22 şüphelinin adli işlemlerinin devam ettiğini aktardı.\n\nMalvarlığı tedbirlerine de değinen Gürlek, suçtan elde edildiği değerlendirilen gelirlerin kaçırılmasını önlemek amacıyla 417 gerçek ve 149 tüzel kişinin malvarlıklarına el koyma ile dondurma kararı uygulandığını belirtti. Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildiğini, ancak gönüllü iadenin tek başına hukuki sorumluluğu ortadan kaldırmayacağını vurguladı.\n\nÖnceliklerinin iyi niyetli yatırımcıların haklarını korumak olduğunu belirten Gürlek, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın başkanlığında 10'uncu Fon Koordinasyon Kurulu Toplantısı'nın gerçekleştirildiğini bildirdi. Toplantıda soruşturmaların seyrinin, mali incelemelerin ve yatırımcıların haklarını korumaya yönelik çalışmaların değerlendirildiği ifade edildi.",
-      "highlights": [
-        "Soruşturmalar kapsamında 498 şüpheli bulunuyor; 129 şüpheli tutuklu, 289 şüpheli hakkında adli kontrol tedbir kararı var.",
-        "417 gerçek ve 149 tüzel kişinin malvarlıkları hakkında el koyma ve dondurma kararı uygulandı.",
-        "Gönüllü iade ve geri kazanım kapsamında 75 kişiden yaklaşık 40,4 milyar lira tahsil edildi."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-akin-gurlek-fon-sorusturmasi-derinlesiyor-3928047",
-      "publishedAt": "2026-11-17T16:41:46.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-17T17:38:27.702Z",
-      "sourceTextAttemptedAt": "2026-11-17T18:34:29.802Z",
       "isBreaking": false
     }
   ],
