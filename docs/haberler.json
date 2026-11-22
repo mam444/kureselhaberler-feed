@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T18:15:05.498Z",
+  "generatedAt": "2026-11-22T18:24:35.710Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/sariyerde-market-otoparkindaki-arac-bir-anda-alev-aldi-7705802",
+      "headline": "Sarıyer'de market otoparkında otomobil alev aldı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1513894697031-3e3aa4c54326?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2FyJTIwZmlyZXxlbnwxfDB8fHwxNzk1MzcxODcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Flavio",
+        "photographerUrl": "https://unsplash.com/@flaviewxvx",
+        "unsplashUrl": "https://unsplash.com/photos/broken-car-covered-with-flame-YBzsJv3c1EQ"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Sarıyer'in İstinye Mahallesi'nde bulunan bir marketin otoparkında park halindeki bir otomobil, sürücüsünün aracı çalıştırmak istediği sırada alev aldı.\n\nAlışverişini tamamladıktan sonra marketten ayrılan Nimet Y., 34 YA 0004 plakalı otomobilini çalıştırmak istediği esnada aracın motor kısmından alevlerin yükselmeye başladığını fark etti.\n\nDurumu fark eden diğer sürücüler, otoparkta bulunan yangın söndürme tüpleri ile alevlere ilk müdahaleyi gerçekleştirdi. Alevlerin kontrol altına alınamaması üzerine durum itfaiye ekiplerine bildirildi.\n\nOlay yerine gelen itfaiye ekiplerinin çalışmaları sonucunda yangın tamamen söndürülürken, araçta soğutma işlemleri uygulandı. Olayda herhangi bir yaralanma yaşanmadığı belirtildi.\n\nÖte yandan, diğer sürücülerin yangına tüplerle müdahale ettiği anlar çevredekiler tarafından cep telefonu kamerasıyla kaydedildi.",
+      "highlights": [
+        "Sarıyer'de bir marketin otoparkında otomobil çalıştığı sırada alev aldı",
+        "Diğer sürücüler yangına yangın söndürme tüpleriyle müdahale etti",
+        "Olay yerine gelen itfaiye ekipleri yangını söndürdü ve yaralanma olmadı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/sariyerde-market-otoparkindaki-arac-bir-anda-alev-aldi-7705802",
+      "publishedAt": "2026-11-22T18:18:37.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/dunya/trumptan-irana-nukleer-anlasma-mesaji-3496631",
       "headline": "Trump'tan İran'a nükleer anlaşma mesajı",
@@ -15,13 +39,38 @@
       "timeAgo": "şimdi",
       "body": "ABD Başkanı Donald Trump, İran'a yönelik nükleer anlaşma mesajı vererek Tahran'ın gelecekte nükleer silah edinmesini engelleyecek kalıcı bir anlaşma hedeflediğini belirtti. Fox News'e açıklamalarda bulunan Trump, kimsenin İran'ın nükleer silaha sahip olmasına izin vermeyeceğini vurguladı ve kalıcı bir anlaşma yapacağını ifade etti. Ancak Trump, olası yeni bir anlaşmanın şartlarına veya görüşmelerin takvimine ilişkin herhangi bir ayrıntı paylaşmadı.\n\nÖte yandan Trump, ilk başkanlık döneminde ABD'yi 2018 yılında İran'la yapılan nükleer anlaşmadan çekmişti. Bu hamlenin ardından Tahran yönetimi de anlaşma kapsamındaki taahhütlerinden kademeli olarak uzaklaşmıştı. \n\nTrump ayrıca, 2025 yılının mart ayında dönemin İran dini lideri Ali Hamaney'e bir mektup gönderdiğini açıklamıştı. Bu mektupta Tahran'a nükleer müzakere çağrısı yaptığını belirten Trump, askeri müdahalenin bir seçenek olduğunu ifade etmesine rağmen kendi tercihinin anlaşmadan yana olduğunu kaydetmiştir. İran ile dünya güçleri ilk nükleer anlaşmaya 2015 yılında varmış; bu anlaşma İran'ın nükleer programına sınırlamalar getirirken yaptırımların kaldırılmasını öngörmüştü.",
       "highlights": [
-        "ABD Başkanı Donald Trump, İran'ın gelecekte nükleer silah edinmesini engelleyecek kalıcı bir anlaşma hedeflediğini söyledi.",
-        "Trump, ilk başkanlık döneminde 2018'de ABD'yi İran'la yapılan nükleer anlaşmadan çekmişti.",
-        "Trump, olası yeni bir anlaşmanın şartlarına veya görüşmelerin takvimine ilişkin ayrıntı vermedi."
+        "Trump, İran'ın gelecekte nükleer silah edinmesini engelleyecek kalıcı bir anlaşma istediğini belirtti.",
+        "Trump, 2018'de ABD'yi çekmiş olduğu 2015 tarihli nükleer anlaşmanın ardından olası yeni anlaşmanın şartlarına dair ayrıntı vermedi.",
+        "-1"
       ],
       "externalUrl": "https://www.cnnturk.com/video/dunya/trumptan-irana-nukleer-anlasma-mesaji-3496631",
       "publishedAt": "2026-11-22T18:17:46.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T18:24:24.546Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "headline": "Sudan'da Hızlı Destek Kuvvetleri'nin İHA Saldırıları Sonucu Siviller Yaşamını Yitirdi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1705676112042-4fb11cade8d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZHJvbmUlMjBzdHJpa2UlMjBTdWRhbnxlbnwxfDB8fHwxNzk1MzcxODY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Steve King",
+        "photographerUrl": "https://unsplash.com/@amazingtripideas",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-desert-town-with-a-mountain-in-the-background-ce3qgc3EcRg"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Sudan'daki Hızlı Destek Kuvvetleri (RSF) tarafından gerçekleştirilen insansız hava aracı (İHA) saldırıları sonucunda hayatını kaybeden sivillerin olduğu bildirildi. Yaşanan saldırılar, bölgede sivillerin ölümüne yol açarken, çok sayıda binanın da zarar görmesine neden oldu.\n\nYetkililer ve kaynaklar tarafından aktarılan bilgilere göre, saldırıların ardından binalarda hasar meydana geldiği doğrulandı. Sudan'da süregelen çatışmalar ve insansız hava aracı saldırıları sivil halkı doğrudan etkilemeye devam ediyor. Konuya ilişkin olarak verilen resmi bilgiler, saldırıların RSF güçleri tarafından düzenlendiğini ve sivil kayıplarla birlikte maddi hasara da sebep olduğunu ortaya koyuyor. Olayla ilgili ayrıntılar henüz sınırlı düzeyde bulunuyor.",
+      "highlights": [
+        "Sudan'ın Hızlı Destek Kuvvetleri İHA saldırısı düzenledi",
+        "Saldırı nedeniyle birkaç sivil hayatını kaybetti",
+        "Çok sayıda binada hasar oluştu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "publishedAt": "2026-11-22T18:12:07.000Z",
+      "category": "Yaşam",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -2704,7 +2753,7 @@
       "category": "Türkiye",
       "isBreaking": true,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:24:18.888Z"
+      "sourceTextAttemptedAt": "2026-11-22T18:24:24.546Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/istanbulda-kritik-gazze-gorusmesi-mit-baskani-ibrahim-kalin-hamas-heyetiyle-bir-araya-geldi-3496261",
@@ -5168,7 +5217,7 @@
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T11:54:27.630Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:24:24.546Z",
       "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z",
       "isBreaking": false
     },
@@ -5190,7 +5239,7 @@
       "publishedAt": "2026-11-21T08:31:24.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T12:14:21.235Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:24:24.546Z",
       "isBreaking": false
     },
     {
@@ -14590,55 +14639,6 @@
       "publishedAt": "2026-11-18T17:00:04.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/gunun-maclari-18-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-18-kasim-carsamba-gunun-maclari-3494773",
-      "headline": "Günün Maçları 18 Kasım 2026: Bugün Hangi Maçlar Var, Kimlerin Maçı Var?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmFza2V0YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTUwMjEwMTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/ball-under-basketball-ring-BfphcCvhl6E"
-      },
-      "timeAgo": "şimdi",
-      "body": "Milli aranın sona ermesinin ardından futbol ve diğer spor branşlarında lig fikstürleri yeniden gündeme geldi. 18 Kasım Çarşamba günü oynanacak karşılaşmaları ve maç programını merak eden sporseverler ekran başındaki yerini alırken, günün spor takvimi de netleşti.\n\n18 Kasım Çarşamba günü futbol alanında Nesine 2. Lig maçları ile UEFA Kadınlar Şampiyonlar Ligi karşılaşmaları oynanacak. Basketbol branşında ise EuroLeague, Basketbol Şampiyonlar Ligi, EuroCup, FIBA Europe Cup ve NBA mücadeleleri sporseverlerle buluşacak.\n\nGün içinde ekrana gelecek bazı önemli basketbol karşılaşmaları arasında Beşiktaş ile Real Madrid (EuroLeague, 20.00, S Sport Plus), Galatasaray MCT Technic ile Legia Varşova (Basketbol Şampiyonlar Ligi, 20.00, TRT Spor), Niners Chemnitz ile Tofaş (EuroCup, 20.55, TRT Spor Yıldız) ve Esenler Erokspor ile Rilski Sportist (FIBA Europe Cup, 18.55, TRT Spor Yıldız) maçları yer alıyor.\n\nAyrıca UEFA Kadınlar Şampiyonlar Ligi'nde 19.45'te Hacken - Manchester City ve Real Madrid - Inter, 22.00'de ise Chelsea - Paris Saint-Germain ile Juventus - OH Leuven karşılaşmaları oynanacak. Nesine 2. Lig Beyaz ve Kırmızı gruplarda da çeşitli saatlerde lig maçları yapılacak.",
-      "highlights": [
-        "18 Kasım Çarşamba günü Nesine 2. Lig, UEFA Kadınlar Şampiyonlar Ligi ve basketbol maçları oynanacak.",
-        "EuroLeague'de Beşiktaş ile Real Madrid karşı karşıya gelecek.",
-        "Basketbol Şampiyonlar Ligi'nde Galatasaray MCT Technic, Legia Varşova ile oynayacak."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/gunun-maclari-18-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-18-kasim-carsamba-gunun-maclari-3494773",
-      "publishedAt": "2026-11-18T17:00:01.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T17:04:34.753Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/tcdd-isci-alimi-kura-sonuclari-tcdd-asil-ve-yedek-liste-ne-zaman-yayimlanacak-kura-sonuclari-nereden-ogrenilir-166-surekli-isci-3494767",
-      "headline": "TCDD 166 Sürekli İşçi Alımı Kura Çekimi Tamamlandı: Asil ve Yedek Liste Bekleniyor",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1695473719389-f1cb3ca758e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhaW4lMjBzdGF0aW9uJTIwd29ya2VyfGVufDF8MHx8fDE3OTUwMjAzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "KUA YUE",
-        "photographerUrl": "https://unsplash.com/@df11g",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-a-platform-next-to-a-train-7fSEt0px7bY"
-      },
-      "timeAgo": "şimdi",
-      "body": "TCDD Taşımacılık AŞ bünyesinde istihdam edilmek üzere gerçekleştirilen 166 sürekli işçi alımı kapsamında noter kura çekimi tamamlandı. 21-26 Ekim 2026 tarihleri arasında alınan başvuruların ardından, şartları sağlayan adaylar için kura 18 Kasım 2026 tarihinde saat 10.00'da Genel Müdürlükte noter huzurunda gerçekleştirildi.\n\nKura çekiminin tamamlanmasının ardından binlerce aday, asil ve yedek aday listelerinin yayımlanacağı tarihi araştırmaya başladı. Adaylar, sonuç duyurularını ve sonraki aşamalara ilişkin açıklamaları yakından takip ediyor.\n\nTCDD 166 sürekli işçi alımı kura sonuçları ve asil ile yedek listeler TCDD Taşımacılık AŞ'nin resmi internet sitesi üzerinden duyurulacak. Liste yayımlandığında başvuru sahipleri isimlerini kontrol ederek kura sonucunda asil ya da yedek aday olup olmadıklarını öğrenebilecek.\n\nSonuçların ilan edilmesiyle birlikte adaylar, TCDD'nin resmi duyuru kanalları aracılığıyla isim listelerine ve başvuru durumlarına ulaşabilecek. İşe alım sürecinin sonraki aşamaları için gerekli evraklar ve takvim bilgileri de sonuçlarla beraber adayların erişimine sunulacak.",
-      "highlights": [
-        "TCDD Taşımacılık AŞ bünyesindeki 166 sürekli işçi alımı için kura çekimi 18 Kasım 2026 tarihinde Genel Müdürlükte noter huzurunda tamamlandı.",
-        "Adaylar, asil ve yedek liste sonuçlarını TCDD'nin resmi internet sitesindeki duyurular bölümünden öğrenebilecek."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/tcdd-isci-alimi-kura-sonuclari-tcdd-asil-ve-yedek-liste-ne-zaman-yayimlanacak-kura-sonuclari-nereden-ogrenilir-166-surekli-isci-3494767",
-      "publishedAt": "2026-11-18T16:49:28.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T16:55:22.894Z",
       "isBreaking": false
     }
   ],
