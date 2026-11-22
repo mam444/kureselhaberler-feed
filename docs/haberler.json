@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T06:54:41.380Z",
+  "generatedAt": "2026-11-22T07:04:32.914Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/izmirde-3-6-buyuklugunde-deprem-3496367",
+      "headline": "İzmir'de 3,6 büyüklüğünde deprem",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1663608173526-30c5c596d656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SXptaXIlMjBlYXJ0aHF1YWtlfGVufDF8MHx8fDE3OTUzMzEwNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Krisztian Nemes",
+        "photographerUrl": "https://unsplash.com/@nemes_k",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-next-to-a-body-of-water-M47fKurkPA0"
+      },
+      "timeAgo": "şimdi",
+      "body": "İzmir'de 3,6 büyüklüğünde bir deprem meydana geldiği bildirildi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından yapılan açıklamalara göre, sarsıntı 22 Kasım 2026 tarihinde kaydedildi.\n\nAFAD'ın resmi sosyal medya hesabı üzerinden paylaşılan bilgilere göre deprem saat 03:14:16'da gerçekleşti. Sarsıntının merkez üssünün İzmir'in Menemen ilçesi olduğu açıklandı.\n\nYetkililer tarafından paylaşılan verilere göre depremin derinliği 13.51 kilometre olarak ölçüldü. Depremle ilgili resmi kurumlarca aktarılan ayrıntılar bu bilgilerle sınırlı kaldı.",
+      "highlights": [
+        "İzmir'de 3,6 büyüklüğünde deprem meydana geldi",
+        "Depremin merkez üssü Menemen olarak açıklandı",
+        "Sarsıntının derinliği 13.51 kilometre olarak ölçüldü"
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/izmirde-3-6-buyuklugunde-deprem-3496367",
+      "publishedAt": "2026-11-22T07:08:09.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbulun-22-ilcesinde-elektrik-kesintisi-yasanacak-1752011",
       "headline": "İstanbul'da planlı elektrik kesintisi: 22 ilçeyi kapsıyor",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-22T06:52:09.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T07:04:23.317Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
@@ -167,6 +192,22 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "headline": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 sa önce",
+      "body": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "category": "Kültür & Sanat",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/video-beykozda-iett-otobusunde-bicakla-tehdit-eden-supheli-alkollu-cikti-1751999",
@@ -347,13 +388,18 @@
         "unsplashUrl": "https://unsplash.com/photos/2-men-in-black-suit-sitting-on-red-chair-05QvOWAzN3I"
       },
       "timeAgo": "şimdi",
-      "body": "ABD'de ara seçimlerin ardından Temsilciler Meclisi'nin kontrolünü devralmaya hazırlanan Demokratlardan İran savaşıyla ilgili dikkat çeken açıklama geldi. Demokratların Meclis Başkanlığı adayı Hakeem Jeffries, ocak ayında göreve başlamalarının ardından savaşı sona erdirmek için kararlı adımlar atacaklarını söyledi. Jeffries, Trump yönetimine de seslenerek savaşın derhal bitirilebileceğini belirtti.",
-      "highlights": [],
+      "body": "ABD'de ara seçimlerin ardından Temsilciler Meclisi'nin kontrolünü devralmaya hazırlanan Demokratlar, yeni dönemde izleyecekleri politikalara ilişkin açıklamalarda bulundu. Demokratların Meclis Başkanlığı adayı Hakeem Jeffries, ocak ayında göreve başlamalarının ardından İran'la devam eden savaşı sona erdirmek için kararlı adımlar atacaklarını bildirdi. The New York Times gazetesine konuşan Jeffries, ABD Başkanı Donald Trump'ın İran politikasını eleştirerek bu maliyetli ve keyfi savaşa son vermenin Amerikan halkına ekonomik rahatlama sağlayacak en acil adım olduğunu belirtti. Jeffries, savaşın sona erdirilmesi amacıyla bütçe yasaları üzerinden kullanılabilecek yetkilerin değerlendirildiğini ifade etti.\n\nDemokrat lider, röportajında Gazze Şeridi'ndeki insani krize de değindi. Bağımsız bir Filistin devletinin kurulmasını desteklediğini belirten Jeffries, Gazze'deki sivil kayıp ve yıkımların kabul edilemez, sürdürülemez ve Amerikan değerlerine aykırırı olduğunu söyledi. Bölgeye insani yardımların artırılması çağrısında bulunan Jeffries, tıbbi malzeme, barınma ve temiz su gibi temel ihtiyaçların karşılanmasının önemine işaret etti.\n\nJeffries ayrıca işgal altındaki Batı Şeria'da yaşanan yerleşimci şiddetine karşı yasal düzenlemelerin de gündemlerinde olduğunu açıkladı. Bu kapsamda \"Batı Şeria'da Yerleşimci Şiddetinden Korunma ve Şiddetin Önlenmesi Yasası\"nın yeni Kongrenin ilk 100 günü içerisinde ilerletilmesini istediğini belirtti.\n\nResmi olmayan sonuçlara göre Demokratlar Temsilciler Meclisi'nde 257 sandalyeye ulaştı. Demokratların Hakeem Jeffries'i Meclis Başkanlığına seçmesi durumunda, Jeffries bu göreve gelen ilk siyahi siyasetçi olarak ABD tarihinde bir ilke imza atacak.",
+      "highlights": [
+        "Demokratların Meclis Başkanlığı adayı Hakeem Jeffries, İran ile savaşı sona erdirmek için ocak ayında harekete geçeceklerini açıkladı.",
+        "Jeffries, Gazze'deki sivil kayıpların kabul edilemez olduğunu belirterek insani yardımların artırılmasını istedi.",
+        "Batı Şeria'daki yerleşimci şiddetine karşı yasal düzenlemelerin yeni Kongrenin ilk 100 günü içinde gündeme getirileceği bildirildi."
+      ],
       "externalUrl": "https://www.cnnturk.com/dunya/abdde-secimin-kazanani-demokratlarin-yol-haritasi-belli-oldu-trumpa-iki-cephede-baski-3496334",
       "publishedAt": "2026-11-21T23:15:48.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T07:04:23.317Z"
     },
     {
       "id": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
@@ -9044,7 +9090,7 @@
       "category": "Spor",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T16:14:35.299Z",
-      "imageSearchAttemptedAt": "2026-11-21T19:14:18.351Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:04:23.317Z",
       "isBreaking": false
     },
     {
@@ -9236,7 +9282,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T15:34:22.171Z",
-      "imageSearchAttemptedAt": "2026-11-21T19:14:18.351Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:04:23.317Z",
       "isBreaking": false
     },
     {
@@ -14579,54 +14625,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-18T09:34:56.240Z",
       "sourceTextAttemptedAt": "2026-11-19T12:04:23.103Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/tmonun-5-tir-dolusu-kaliteli-findigi-curukleriyle-degistirildi-iddiasi-11-gozalti-7702893",
-      "headline": "TMO'nun fındıklarının değiştirildiği iddiasıyla 11 kişi gözaltına alındı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "2 dk önce",
-      "body": "Toprak Mahsulleri Ofisi'ne ait fındıkların sevkiyatı sırasında yaşanan usulsüzlük iddiası üzerine güvenlik güçleri harekete geçti. Kandıra'daki TMO deposundan Karasu'ya sevk edilmek üzere yola çıkan tırlar, Sakarya'nın Ferizli ilçesi Gölkent Mahallesi'ndeki bir depoya yönlendirildi. İddialara göre, bu depoda tırlarda bulunan sağlam fındıklar indirildi ve yerlerine beş tır dolusu çürük fındık yüklendi.\n\nDeğiştirilen çürük fındıkların Karasu TMO alım merkezine teslim edilmesinin ardından durum yetkililer tarafından fark edildi. Yapılan ihbar sonrasında polis ekipleri olayla ilgili kapsamlı bir soruşturma başlattı.\n\nSoruşturma kapsamında gerçekleştirilen operasyonlarda, Ferizli'nin Gölkent Mahallesi'nde faaliyet gösteren fındık tüccarı E.M. ile birlikte Kaynarca ve Karasu ilçelerinde tespit edilen 10 şüpheli daha yakalandı. Üç ilçede düzenlenen operasyonlar sonucunda toplam 11 şüpheli gözaltına alındı. Olayla ilgili adli süreç ve soruşturmanın devam ettiği bildirildi.",
-      "highlights": [
-        "Kandıra'daki TMO deposundan sevk edilen sağlam fındıkların çürük ürünlerle değiştirildiği iddia edildi",
-        "TMO yetkililerinin ihbarı üzerine polis ekipleri soruşturma başlattı",
-        "Ferizli, Kaynarca ve Karasu ilçelerinde düzenlenen operasyonlarda 11 şüpheli gözaltına alındı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/tmonun-5-tir-dolusu-kaliteli-findigi-curukleriyle-degistirildi-iddiasi-11-gozalti-7702893",
-      "publishedAt": "2026-11-18T09:02:36.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T14:04:25.326Z",
-      "sourceTextAttemptedAt": "2026-11-19T12:14:39.605Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/bakan-gulerden-mekke-ittifaki-aciklamasi-4873867",
-      "headline": "Bakan Güler'den Mekke İttifakı açıklaması",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "attributionNote": null,
-      "imageUrl": "https://images.unsplash.com/photo-1714888517905-97afe5b70091?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TWVjY2ElMjBhZ3JlZW1lbnR8ZW58MXwwfHx8MTc5NDk5MjA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Romeo Leaupepe Su’a",
-        "photographerUrl": "https://unsplash.com/@amromzes",
-        "unsplashUrl": "https://unsplash.com/photos/a-city-street-with-traffic-cones-and-people-walking-24qkRgi7NqI"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Milli Savunma Bakanı Yaşar Güler, Mekke İttifakı hakkında değerlendirmelerde bulundu.\n\nBakan Güler, konuya ilişkin yaptığı açıklamada, Mekke İttifakı'nın bölgedeki barışın güçlendirilmesine yönelik önemli ve tarihi bir adım olduğunu ifade etti.\n\nYetkililer tarafından başka bir detay paylaşılmazken, açıklama kamuoyuna bu ifadelerle duyuruldu.",
-      "highlights": [
-        "Erdoğan, yapıcı olduğu sürece eleştirilerden rahatsız olmayacaklarını söyledi.",
-        "Yanlışları düzeltmenin siyasetçilerin görevi olduğunu belirtti.",
-        "AK Parti'ye geçen 9 belediye başkanına rozet takıldı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/bakan-gulerden-mekke-ittifaki-aciklamasi-4873867",
-      "publishedAt": "2026-11-18T08:52:25.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T12:14:39.605Z",
       "isBreaking": false
     }
   ],
