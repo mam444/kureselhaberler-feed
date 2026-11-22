@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T11:14:39.781Z",
+  "generatedAt": "2026-11-22T11:20:39.248Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
+      "headline": "Altay'da mağlubiyet sonrası taraftarlardan tepki",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1560354765-02010876efff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBmYW5zJTIwc3RhZGl1bXxlbnwxfDB8fHwxNzk1MzQ2NDM0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Patrick Ogilvie",
+        "photographerUrl": "https://unsplash.com/@patrickogilvie",
+        "unsplashUrl": "https://unsplash.com/photos/football-field-GB9XKDZWwp0"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "TFF 3. Lig 2. Grup 13. hafta karşılaşmasında İzmir derbisinde Gaziemir SK'ya deplasmanda 2-1 mağlup olan Altay'da gerginlik yaşandı. Siyah-beyazlı takım, son yedi maçında altıncı yenilgisini alarak üst üste dördüncü kez sahadan mağlubiyetle ayrıldı. Yedi maçtır galibiyet kazanamayan ekip düşme hattına yaklaşırken, Gaziemir SK orta sıralara yükseldi.\n\nMaçın ardından siyah-beyazlı taraftarlar futbolcuları tribüne çağırarak tepki gösterdi. Bornova Aziz Kocaoğlu Stadı'nın kale arkası tribünündeki taraftarlarla 45 yaşındaki santrfor Murat Uluç tartıştı. Soyunma odasından çıkıp tribünlere giden futbolculardan mücadele etmelerini isteyen taraftarlar uyarılarda bulundu.\n\nAltay Başkanı Sinan Kanlı, alınan sonucun ve performansın kabul edilemez olduğunu belirterek, teknik direktör meselesi olmadığını, Tuna Üzümcü ile devam edeceklerini ifade etti. Kanlı, sahada gerekli gayreti göstermeyenlerin konfor alanında kalmayacağını söyledi.\n\nTeknik Direktör Tuna Üzümcü ise kısıtlı imkanlarla genç bir grupla mücadele ettiklerini, sakatlıklar ve geç hazırlık sürecinin etkilerini yaşadıklarını kaydetti. Üzümcü, gençlik ve tecrübesizliğin bazı hataları açıklayabileceğini ancak mücadele eksikliğinin mazereti olamayacağını vurgulayarak, hafta içerisinde camiayı bilgilendireceğini belirtti.",
+      "highlights": [
+        "Altay, Gaziemir SK deplasmanında 2-1 yenilerek son yedi maçında altıncı mağlubiyetini aldı.",
+        "Maç sonrasında taraftarlar futbolculara tepki gösterirken, Murat Uluç tribünlerle tartıştı.",
+        "Başkan Sinan Kanlı sonuçların kabul edilemez olduğunu belirtirken, teknik direktör Tuna Üzümcü mücadele eksikliğine dikkat çekti."
+      ],
+      "externalUrl": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
+      "publishedAt": "2026-11-22T11:16:25.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/yds-gerceklestirildi-sinav-sonuclari-10-aralikta-duyurulacak-4875422",
       "headline": "YDS gerçekleştirildi: Sınav sonuçları 10 Aralık'ta duyurulacak",
@@ -14,12 +38,17 @@
       },
       "timeAgo": "2 dk önce",
       "body": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca Yabancı Dil Bilgisi Seviye Tespit Sınavı (2026-YDS/2) yapıldı. Sınavın sonuçları 10 Aralık'ta duyurulacak.",
-      "highlights": [],
+      "highlights": [
+        "2026-YDS/2 sınavı Türkiye, Lefkoşa ve Bişkek'te toplam 89 merkezde yapıldı.",
+        "Sınav 137 bin 331 adayın katılımıyla 5 dilde ve 80 sorudan oluştu.",
+        "Sınav sonuçları 10 Aralık'ta açıklanacak."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/yds-gerceklestirildi-sinav-sonuclari-10-aralikta-duyurulacak-4875422",
       "publishedAt": "2026-11-22T11:12:10.000Z",
       "category": "Eğitim",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:20:28.900Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
@@ -67,6 +96,26 @@
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
       "publishedAt": "2026-11-22T11:00:26.000Z",
       "category": "Kültür & Sanat",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
+      "headline": "Arizona grandfather hailed as a hero after finding missing toddler in desert",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1763386840769-8484a2a02442?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QXJpem9uYSUyMGdyYW5kZmF0aGVyJTIwaGFpbGVkJTIwYXMlMjBhJTIwaGVybyUyMGFmdGVyJTIwZmluZGluZyUyMG1pc3NpbmclMjB0b2RkbGVyJTIwaW4lMjBkZXNlcnR8ZW58MXwwfHx8MTc5NTM0NjQzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Luigi Ritchie",
+        "photographerUrl": "https://unsplash.com/@luigir",
+        "unsplashUrl": "https://unsplash.com/photos/a-hiker-climbs-a-desert-trail-towards-mountains-3ZAKE8qVTK0"
+      },
+      "timeAgo": "20 dk önce",
+      "body": "Jay Stewart joined search party after two-year-old Vella Campillo wandered off into desert from front yard of home An Arizona granddad has been formally recognized as a hero after recently volunteering to help search for a toddler who wandered off alone into the desert while wearing only a diaper – and finding her safely within several hours curled up under a bush, leading to her rescue. “I’ll never forget it as…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
+      "publishedAt": "2026-11-22T11:00:25.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3929,15 +3978,15 @@
       "timeAgo": "2 dk önce",
       "body": "Mersin’de su ürünlerinin korunması ve sürdürülebilir avcılığın sağlanması amacıyla gerçekleştirilen denetimlerde, mevzuata aykırı faaliyetlerde bulunduğu belirlenen 15 kişiye idari para cezası uygulanırken, avlanması yasak olan ve yasal boy sınırının altında bulunan toplam 445 kilogram su ürününe el konuldu.",
       "highlights": [
-        "9-14 Kasım 2026 tarihleri arasında Mersin'de denetimler yapıldı",
+        "Mersin'de 9-14 Kasım 2026 tarihlerinde su ürünleri denetimleri yapıldı",
         "1380 Sayılı Su Ürünleri Kanununa aykırı davranan 15 kişiye para cezası verildi",
-        "Yasako olan ve boyun altında bulunan 445 kilogram su ürününe el konuldu"
+        "Avlanması yasak ve boy sınırının altında olan 445 kilogram su ürününe el konuldu"
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
       "publishedAt": "2026-11-21T10:43:02.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:54:18.312Z",
+      "sourceTextAttemptedAt": "2026-11-22T11:20:28.900Z",
       "isBreaking": false
     },
     {
@@ -14580,54 +14629,6 @@
       "category": "Ekonomi",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T14:24:29.574Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
-      "headline": "İsrail'in Suriye'nin güneyine yönelik hamleleri sürerken 'son oyun' tartışılıyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1562422160-071dc5c266de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8U3lyaWElMjBib3JkZXJ8ZW58MXwwfHx8MTc5NTAxMTkwNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mika Baumeister",
-        "photographerUrl": "https://unsplash.com/@kommumikation",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-in-the-street-TXlQKAhUdok"
-      },
-      "timeAgo": "17 dk önce",
-      "body": "İsrail'in güney Suriye'deki baskınlarını artırmasıyla birlikte, ülkedeki yeni hükümet arayışları ve gelecekteki olası gelişmeler gündeme gelmeye devam ediyor. Bölgedeki durum ve yeni hükümet arayışları yakından takip ediliyor.\n\nUzmanlar, İsrail'in güney Suriye'deki askeri hareketliliğini yoğunlaştırmasına rağmen, gelecekteki tabloda büyük bir değişim yaşanmasının beklenmediğini ifade ediyor.\n\nMevcut gelişmeler ışığında analistler, sahadaki dengelerin ve geleceğe yönelik senaryoların sınırlı bir değişim göstereceğini öngörüyor.",
-      "highlights": [
-        "İsrail güney Suriye'deki incursions faaliyetlerini yoğunlaştırıyor",
-        "Analistler gelecekte büyük bir değişim olmayacağını öngörüyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
-      "publishedAt": "2026-11-18T14:08:08.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T14:34:27.988Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-      "headline": "İngiltere hükümeti yabani kuşların azalmasını durduramayarak yasaları çiğniyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606197875207-8cdc55b2e72e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8d2lsZCUyMGJpcmRzfGVufDF8MHx8fDE3OTUwMTEyODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Srinivasan Venkataraman",
-        "photographerUrl": "https://unsplash.com/@srinii",
-        "unsplashUrl": "https://unsplash.com/photos/flock-of-birds-flying-during-daytime-OiBFhunQ7Zs"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Birleşik Krallık çevre düzenleyicisi, yabani kuşların felaket düzeyindeki düşüşüne müdahale etmeyen Çevre Bakanı Angela Eagle, bakanlar ve Natural England'ın yasaları çiğnediğini açıkladı. Yeni verilere göre, yabani kuş popülasyonları kayıtlardaki en düşük seviyeye gerilerken, 132 yerli üreme türünün yüzde 45'i beş yıllık bir süre içinde düşüş gösterdi. British Trust for Ornithology'ye (BTO) göre Britanya, son beş onyılda 73 milyondan fazla yabani kuşunu kaybetti. Bu kayba swifts, turtledoves, tree sparrows, wood warblers ve bullfinches gibi sevilen bahçe kuşları da dahil.\n\nBakanların kuş popülasyonlarını sağlıklı seviyelere getirmek için yasal sorumlulukları bulunuyor. Ancak bağımsız çevre düzenleyicisi olan Çevre Koruma Ofisi (OEP), çarşamba günü yaptığı açıklamada Çevre Bakanı, bakanlık ve Natural England'ın yabani kuşları korumada başarısız olarak yasayı çiğnediğini belirtti. OEP, Eagle'ın yeni Özel Koruma Alanları (SPA) sınıflandırmamak, mevcut alanları genişletmemek veya korunan türlere yeni türler eklememek suretiyle çevre yasasını ihlal ettiğini bildirdi.\n\nNatural England da yabani kuş popülasyonlarını uygun seviyelerde tutmak veya eski haline getirmek için gereken adımları atmayarak ve yeterli yaşam alanları sağlamayarak çevre yasasını ihlal etmekle suçlanıyor. OEP Baş Düzenleme Sorumlusu Helen Venn, bakanlar tarafından kuş popülasyonlarını koruma konusunda sürekli gecikmeler yaşandığını ifade etti. RSPB İcra Kurulu Başkanı Beccy Speight ise en çok ihtiyaç duyan türler için yeni ve genişletilmiş Özel Koruma Alanlarının belirlenmesi de dahil olmak üzere acil eylem beklediklerini belirtti. Çevre Bakanlığı ise yorum yapması için bilgilendirildi.",
-      "highlights": [
-        "Yabani kuş popülasyonları kayıtlardaki en düşük seviyeye geriledi ve türlerin yüzde 45'i düşüşte.",
-        "Çevre Koruma Ofisi (OEP), Çevre Bakanı Angela Eagle, bakanlar ve Natural England'ın yasaları çiğnediğini bildirdi.",
-        "Bakanlıkların yabani kuşları korumak ve Özel Koruma Alanları oluşturmak için yasal sorumlulukları bulunuyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
-      "publishedAt": "2026-11-18T14:07:35.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
