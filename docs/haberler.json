@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T03:10:51.980Z",
+  "generatedAt": "2026-11-22T05:44:23.277Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/kucukcekmecede-bir-binada-yangin-cikti-yaralilar-var-4875349",
+      "headline": "Küçükçekmece'de bir binada yangın çıktı: Yaralılar var",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1615314843323-16960c165dce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YnVpbGRpbmclMjBmaXJlfGVufDF8MHx8fDE3OTUzMjYyNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "joey senft",
+        "photographerUrl": "https://unsplash.com/@jsenftphotography",
+        "unsplashUrl": "https://unsplash.com/photos/brown-wooden-house-near-fire-TSmGF2Yx9mk"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Küçükçekmece'de 5 katlı bir binanın bodrum katında yangın meydana geldi. Olay, saat 04.45 sıralarında Mehmet Akif Mahallesi 1. Akarsu Sokak'ta bulunan binada çıktı.\n\nBodrum kattaki alevleri fark eden çevre sakinleri durumu itfaiye ekiplerine bildirdi. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri yönlendirildi.\n\nİtfaiye ekiplerinin müdahalesiyle yangın söndürüldü. Olayda yaralananlar olduğu öğrenildi.\n\nEkiplerin olay yerindeki incelemeleri devam ediyor.",
+      "highlights": [
+        "Küçükçekmece'de 5 katlı binanın bodrum katında yangın çıktı",
+        "Olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi",
+        "Yangında yaralananlar olduğu öğrenildi"
+      ],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/kucukcekmecede-bir-binada-yangin-cikti-yaralilar-var-4875349",
+      "publishedAt": "2026-11-22T05:28:25.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
       "headline": "22 Kasım 2026 Son Depremler ve AFAD Son Dakika Deprem Listesi",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-22T03:00:00.000Z",
       "category": "Türkiye",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T05:44:21.055Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
@@ -47,7 +72,8 @@
       "publishedAt": "2026-11-22T02:14:18.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T05:44:21.055Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/abdde-secimin-kazanani-demokratlarin-yol-haritasi-belli-oldu-trumpa-iki-cephede-baski-3496334",
@@ -1624,7 +1650,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:34:23.025Z",
-      "imageSearchAttemptedAt": "2026-11-21T23:11:36.491Z"
+      "imageSearchAttemptedAt": "2026-11-22T05:44:21.055Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -2473,7 +2499,7 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "imageSearchAttemptedAt": "2026-11-21T17:34:20.231Z",
+      "imageSearchAttemptedAt": "2026-11-22T05:44:21.055Z",
       "isBreaking": false
     },
     {
@@ -14621,30 +14647,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T08:44:36.949Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/arzunun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-1751411",
-      "headline": "Arzu'nun Katledildiği Makaslı Vahşet İçin İstenen Ceza Belli Oldu",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1607778914885-787b06728b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc5NDkzNDQ5MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hansjörg Keller",
-        "photographerUrl": "https://unsplash.com/@kel_foto",
-        "unsplashUrl": "https://unsplash.com/photos/brown-wooden-chairs-inside-building-m_-8_AhhJjE"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Bursa'da dini nikahla birlikte yaşadığı Arzu Khalılova'yı 146 makas darbesiyle katleden sanık Salican Mehmet hakkında ağırlaştırılmış müebbet hapis cezası talep edildi. Olay, 3 Kasım 2025'te saat 15.00 sıralarında Yıldırım ilçesinde meydana geldi. Çift arasında çıkan tartışmanın kavgaya dönüşmesi üzerine Mehmet, dört ve bir yaşlarındaki iki çocuğunun annesi Khalılova'ya makasla saldırdı. Sesleri duyarak üst kata çıkan sanığın annesi F.M., durumu eşi İ.M.'ye bildirdi ve yapılan ihbar üzerine adrese polis ve sağlık ekipleri sevk edildi. Elinde makasla yakalanan sanık tutuklanırken, hastaneye kaldırılan Khalılova hayatını kaybetti. Yapılan otopsi sonucunda, Khalılova'nın vücudunda 72'si tek başına ölümcül nitelikte olmak üzere toplam 146 makas yarası tespit edildi.\n\nSanık Salican Mehmet'in kasten yaralama, uyuşturucu bulundurma ve ateşli silahlar kanununa muhalefet suçlarından sekiz kaydı bulunduğu, ayrıca Arzu Khalılova'ya yönelik reşit olmayanla cinsel ilişki suçundan da işlem gördüğü belirlendi. Bursa 19'uncu Ağır Ceza Mahkemesi'nde görülen duruşmaya tutuklu sanık, taraf avukatları ve maktulün annesi Zülfiye Halil ile sanığın babası İ.M. katıldı. Duruşmada, sanığın akli melekelerinin yerinde olduğunu belirten İstanbul Adli Tıp Kurumu Gözlem İhtisas Dairesi raporu okundu. Sanık Salican Mehmet, pişman olduğunu öne sürerek tahliyesini istedi.\n\nCumhuriyet savcısı duruşmada mütalaasını açıkladı. Savcı, 72'si iç organlara gelecek ve tek başına ölümcül olacak şekilde toplam 146 makas darbesiyle gerçekleştirilen eylem nedeniyle sanığın canavarca hisle kadına karşı kasten öldürmek suçundan ağırlaştırılmış müebbet hapis cezasına çarptırılmasını talep etti. Sanık avukatı, İstanbul Adli Tıp Kurumu raporuna itiraz ederek yeniden rapor hazırlanmasını istedi ve mütalaaya karşı ek süre talep etti. Mahkeme heyeti, sanık avukatının ek süre talebini kabul ederek duruşmayı erteledi.",
-      "highlights": [
-        "Bursa'da dini nikahla yaşadığı Arzu Khalılova'yı 146 makas darbesiyle katleden sanık için ağırlaştırılmış müebbet hapis cezası istendi.",
-        "Otuopside Khalılova'nın vücudunda 72'si tek başına ölümcül olan 146 makas darbesi bulunduğu belirlendi.",
-        "İstanbul Adli Tıp Kurumu raporunda sanığın akli melekelerinin yerinde olduğu belirtilirken, duruşma ertelendi."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/arzunun-katledildigi-makasli-vahset-icin-istenen-ceza-belli-oldu-1751411",
-      "publishedAt": "2026-11-18T07:32:51.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14855,6 +14857,7 @@
     "https://www.milliyet.com.tr/gundem/beyoglunda-5-katli-binada-yangin-cok-sayida-ekip-sevk-edildi-7705080",
     "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+    "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss"
   ]
 }
