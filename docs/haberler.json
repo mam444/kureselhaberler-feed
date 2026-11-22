@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-22T06:35:38.979Z",
+  "generatedAt": "2026-11-22T06:45:04.543Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
+      "headline": "Suriye'deki Türk üniversitelerine bağlı fakülteler devrediliyor: Karar ne anlama geliyor?",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Türkiye'nin Gaziantep Üniversitesi ve Sağlık Bilimleri Üniversitesi bünyesinde Suriye'de faaliyet gösteren akademik birimler, Suriye'deki üniversitelere devredilecek. Düzenlemeyle öğrencilerin eğitimlerine kesintisiz devam etmesi ve akademik haklarının korunması öngörülüyor.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
+      "publishedAt": "2026-11-22T06:39:19.000Z",
+      "category": "Eğitim",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/cop31de-antalya-mutabakati-icin-son-viraj-cop31-baskani-kurum-umutluyuz-7705428",
       "headline": "COP31’de Antalya Mutabakatı için son viraj! Bakan Kurum: Umutluyuz",
@@ -15,15 +31,16 @@
       "timeAgo": "2 dk önce",
       "body": "Çevre, Şehircilik ve İklim Değişikliği Bakanı ve COP31 Başkanı Murat Kurum, COP31 Zirvesi’nin 14’üncü gününde, Örtü Karar’ın oylanacağı kapanış oturumu öncesinde Anadolu Ajansı ve TRT'nin sorularını yanıtladı.\n\nKurum, son örtü kararın yayınlandığını belirterek ülkelerin bu doğrultuda çalışmasını, uzlaşmasını ve bir araya gelmesini istediklerini ifade etti. Uzlaşma sağlanması durumunda konunun Genel Kurul'da görüşüleceğini ve neticeye bağlanacağını, buradan güzel mesajlarla ayrılmayı amaçladıklarını söyledi.\n\nTüm ülke delegelerinin dünyanın geleceği adına yoğun bir mesai harcadığını vurgulayan Kurum, 196 ülkeyi bir araya getirerek herkesin kendinden bir şeyler bulabileceği bir sonuç elde etmeye çalıştıklarını dile getirdi.\n\nÖrtü karara yönelik itirazlar hakkında ise Kurum, şu ana kadar ufak tefek taleplerin bulunduğunu, bunları değerlendirdiklerini ve yapabileceklerini yapmaya çalıştıklarını belirtti. Kurum, Genel Kurul'da durumun görüleceğini ve süreçten umutlu olduklarını kaydetti.",
       "highlights": [
-        "COP31 Başkanı ve Bakan Murat Kurum, son örtü kararın yayınlandığını ve uzlaşma sağlanması halinde Genel Kurul'da görüşüleceğini belirtti.",
-        "Kurum, 196 ülkenin dünyanın geleceği için yoğun mesai verdiğini ve süreçten umutlu olduklarını ifade etti.",
-        "Örtü karara ilişkin ufak tefek taleplerin olduğunu ve bunları değerlendirdiklerini söyledi."
+        "COP31'in 14'üncü gününde son örtü kararı yayınlandı",
+        "Bakan Kurum ufak tefek taleplerin değerlendirildiğini belirtti",
+        "Kurum süreçten umutlu olduklarını açıkladı"
       ],
       "externalUrl": "https://www.milliyet.com.tr/ekonomi/cop31de-antalya-mutabakati-icin-son-viraj-cop31-baskani-kurum-umutluyuz-7705428",
       "publishedAt": "2026-11-22T06:32:57.000Z",
       "category": "Ekonomi",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T06:44:19.960Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/izmirde-zehir-imalathanesine-baskin-81-bin-500-sentetik-hap-ele-gecirildi-4875358",
@@ -60,12 +77,17 @@
       },
       "timeAgo": "20 dk önce",
       "body": "Finland warned the war in Ukraine was \"spilling over\" after a drone set ablaze a Russian cargo ship on the eastern Baltic Sea on Saturday. Helsinki stressed that Kyiv had the right to defend itself against Moscow's aggression. Follow our liveblog for the latest developments.",
-      "highlights": [],
+      "highlights": [
+        "Finlandiya, Rus kargo gemisine drone saldırısının ardından savaşın sıçradığını belirtti.",
+        "Bir Rus helikopterinin Finlandiya hava sahasını ihlal etmiş olabileceğinden şüpheleniliyor.",
+        "İngiltere ve Hollanda liderleri Ukrayna'ya desteği sürdürme taahhüdünde bulundu."
+      ],
       "externalUrl": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
       "publishedAt": "2026-11-22T06:15:38.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T06:44:19.960Z"
     },
     {
       "id": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342?maca=en-rss-en-world-4025-xml-mrss",
@@ -91,6 +113,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T06:34:26.907Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "headline": "Endonezya'daki Fabrika Yangınında Onlarca Kişi Kayıp",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1736472073980-094e333ef417?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmFjdG9yeSUyMGZpcmV8ZW58MXwwfHx8MTc5NTMyOTg2NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jessica Christian",
+        "photographerUrl": "https://unsplash.com/@lovesquish",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-with-a-lot-of-smoke-coming-out-of-it-iX1UVhJi1Jw"
+      },
+      "timeAgo": "39 dk önce",
+      "body": "Endonezya'nın batı Cava bölgesinde bir şekerleme fabrikasında çıkan yangın sonucunda en az üç kişi hayatını kaybetti, 36 kişi ise hâlâ kayıp durumda. Cumartesi günü meydana gelen olayın ardından itfaiye ekipleri pazar günü de alevlerle mücadele ederken, kurtarma ekipleri işçilerin mahsur kaldığı düşünülen hasarlı binada arama çalışmaları yürütüyor. Endonezya Ulusal Arama ve Kurtarma Ajansı, pazar günü yaptığı açıklamada 15 kurtulanın tespit edildiğini, dört kişinin ise yaralı olarak hastaneye ve yerel bir kliniğe kaldırıldığını bildirdi.\n\nBanten eyaletinin Serang ilçesinde, Cakarta'nın yaklaşık 50 kilometre batısında yer alan fabrikadaki yangının çıkış nedeni henüz yetkililer tarafından belirlenemedi. Banten Valisi Andra Soni basına yaptığı açıklamada, yangın çıktığı sırada fabrikada yaklaşık 60 kişinin bulunduğunun tahmin edildiğini belirtti. Olay yerine ilişkin fotoğraf ve görüntülerde, gece saatlerinde devasa fabrikanın alevlere teslim olduğu, itfaiyenin yangınla mücadele ettiği ve pazar sabahı ilk yardım ekiplerinin enkazdan en az bir ceset çıkardığı görüldü.\n\nKurtarma ajansı, ortak arama kurtarma ekibindeki tüm üyelerin sahada görev yapan personelin güvenliğini ön planda tutarak kayıp kurbanları bulmak için büyük çaba harcadığını açıkladı. AFP'nin aktardığı yerel yayınlara göre, kayıp işçilerin yakınları gelişmelerden haberdar olmak üzere fabrika önünde toplandı. İtfaiye yetkilisi Tubugas Machfudz, Kompas TV'ye yaptığı açıklamada, ekiplerin yerel saatle 16.30'da (09.30 GMT) binaya çağrıldığını ancak binanın zaten alevler içinde kaldığını ifade etti.\n\nMachfudz, olay yerine vardıklarında geniş bir alanın halihazırda yanmakta olduğunu, bu nedenle şirketin koruma sisteminin düzgün çalışıp çalışmadığını belirleyemediklerini söyledi. Arama ve kurtarma yetkililerine göre fabrika PT Fonusa Agung Mulia'ya ait bulunuyor. Şirket, LinkedIn üzerindeki tanımında Endonezya'nın en büyük yiyecek ve içecek şirketlerinden biri olan UNIFAM'ın bir yan kuruluşu olduğunu belirtiyor.",
+      "highlights": [
+        "Endonezya'da bir şekerleme fabrikasında çıkan yangında en az üç kişi öldü, 36 kişi kayıp.",
+        "Kurtarma ekipleri pazar günü kayıp kişileri ararken 15 kişinin sağ olarak bulunduğunu açıkladı.",
+        "Yetkililer yangının çıkış nedeninin henüz belirlenemediğini bildirdi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T06:05:00.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/video-beykozda-iett-otobusunde-bicakla-tehdit-eden-supheli-alkollu-cikti-1751999",
@@ -7575,7 +7621,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-21T18:54:21.264Z",
+      "imageSearchAttemptedAt": "2026-11-22T06:44:19.960Z",
       "isBreaking": false
     },
     {
@@ -8208,7 +8254,7 @@
       "publishedAt": "2026-11-19T18:28:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T19:04:17.220Z",
+      "imageSearchAttemptedAt": "2026-11-22T06:44:19.960Z",
       "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": false
     },
@@ -14575,58 +14621,6 @@
       "publishedAt": "2026-11-18T08:48:31.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/spor/kocaelisporda-selcuk-inan-ile-17-aydir-suren-istikrar-4873853",
-      "headline": "Kocaelispor'da Selçuk İnan İle 17 Aylık İstikrar",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "attributionNote": null,
-      "imageUrl": "https://images.unsplash.com/photo-1526232761682-d26e03ac148e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Zm9vdGJhbGwlMjBjb2FjaHxlbnwxfDB8fHwxNzk0OTkxNDgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Adrià Crehuet Cano",
-        "photographerUrl": "https://unsplash.com/@acrehuet98",
-        "unsplashUrl": "https://unsplash.com/photos/children-playing-soccer-LIhB1_mAGhY"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Trendyol Süper Lig ekiplerinden Kocaelispor'da teknik direktör Selçuk İnan ile sürdürülen birliktelik dikkat çekiyor. Kulüpte yaklaşık 17 aydır devam eden bu istikrarlı süreç, Körfez ekibinin sahadaki performansında önemli bir unsur olarak ön plana çıkıyor.\n\nSöz konusu süre ve istikrar sayesinde teknik direktör Selçuk İnan, görev süresi açısından ligin en istikrarlı üçüncü ismi konumuna yükseldi. Kocaelispor yönetiminin ve takımın İnan ile yakaladığı bu uyum, ligdeki diğer ekiplerle olan rekabet süreçlerinde de adından söz ettiriyor.",
-      "highlights": [
-        "Kocaelispor'da teknik direktör Selçuk İnan ile 17 aydır birliktelik sürdürülüyor.",
-        "İstikrarlı süreç Körfez ekibinin performansında ön plana çıkıyor.",
-        "Selçuk İnan bu görev süresiyle ligin en istikrarlı üçüncü ismi oldu."
-      ],
-      "externalUrl": "https://www.yenisafak.com/spor/kocaelisporda-selcuk-inan-ile-17-aydir-suren-istikrar-4873853",
-      "publishedAt": "2026-11-18T08:43:26.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T08:54:32.635Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
-      "headline": "Epstein'ın Ölümü İntihar Değil Cinayet Olabilir",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "attributionNote": null,
-      "imageUrl": "https://images.unsplash.com/photo-1613932179258-f75a8de3058f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9yZW5zaWMlMjBleHBlcnR8ZW58MXwwfHx8MTc5NDk5MTQ3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Usman Yousaf",
-        "photographerUrl": "https://unsplash.com/@usmanyousaf",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-blue-dress-shirt-wearing-black-framed-eyeglasses-IMJpkwLJ0KA"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Yapılan bir otopsi kayıtları ve fotoğraf incelemesine göre, ABD'li cinsel suçlunun 2019 yılında öldürülmüş olabileceği ihtimali üzerinde duruluyor. Bir adli tıp uzmanı tarafından paylaşılan bu değerlendirme, olayın intiharasıl cinayet olma ihtimalinin daha yüksek olduğuna işaret ediyor. Konuya ilişkin elde edilen bulguların analizi, soruşturmanın seyrine dair yeni bir bakış açısı sunarken, yetkililerin veya uzmanların resmi raporlar üzerindeki incelemeleri devam ediyor. Olayın mahiyeti hakkındaki iddialar, uzman görüşleri doğrultusunda tartışılmaya sürdürülüyor.",
-      "highlights": [
-        "Otopsi kayıtları ve fotoğraflar incelendi",
-        "ABD'li cinsel suçlunun öldürülmüş olabileceği belirtildi",
-        "Uzman, olayın cinayet olma ihtimalinin daha yüksek olduğunu söyledi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/18/forensic-experts-says-jeffrey-epstein-was-killed-casts-doubt-over-suicide?traffic_source=rss",
-      "publishedAt": "2026-11-18T08:35:19.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T08:54:32.635Z",
       "isBreaking": false
     }
   ],
