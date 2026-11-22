@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-22T07:14:36.560Z",
+  "generatedAt": "2026-11-22T07:24:52.065Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/ankaranin-hamlesi-iki-ulkeyi-masaya-oturttu-turkiye-buyuk-ilerleme-kaydetti-7705450",
+      "headline": "Ankara'nın hamlesi iki ülkeyi masaya oturttu: 'Türkiye büyük ilerleme kaydetti'",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1566762773464-e11000956ddf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QW5rYXJhJTI3biVDNCVCMW4lMjBoYW1sZXNpJTIwaWtpJTIwJUMzJUJDbGtleWklMjBtYXNheWElMjBvdHVydHR1JTNBJTIwJTI3VCVDMyVCQ3JraXllJTIwYiVDMyVCQ3klQzMlQkNrJTIwaWxlcmxlbWUlMjBrYXlkZXR0aSUyN3xlbnwxfDB8fHwxNzk1MzMyMjg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Eren Namlı",
+        "photographerUrl": "https://unsplash.com/@namlieren",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-of-people-near-building-showing-turkey-flag-during-daytime-mdjqOYwuG6g"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Kathimerini gazetesinin haberinde, Yunanistan ile İsrail'in, yaklaşık 1 milyar euroluk silah sistemleri ve işbirliğine ilişkin müzakere sürecine girdiği belirtildi. Haberde, pazarlığın Yunanistan'ın Kalamata ilindeki uçuş eğitim merkezindeki ders saatlerinin artırılmasını, elektronik harp sistemlerini ve uzun menzilli hassas füzeleri kapsadığı ifade edildi. Kalamata'daki uçuş eğitim merkezinin 2021'den itibaren 20…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/ankaranin-hamlesi-iki-ulkeyi-masaya-oturttu-turkiye-buyuk-ilerleme-kaydetti-7705450",
+      "publishedAt": "2026-11-22T07:19:45.000Z",
+      "category": "Türkiye",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/hindistanda-feci-kaza-kamerada-saniye-saniye-kaydetti-can-kaybi-bildirildi-7705439",
       "headline": "Hindistan'da feci kaza kamerada: Saniye saniye kaydetti, can kaybı bildirildi!",
@@ -23,7 +43,8 @@
       "publishedAt": "2026-11-22T07:12:32.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T07:24:25.058Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/izmirde-3-6-buyuklugunde-deprem-3496367",
@@ -49,6 +70,29 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T07:14:20.426Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+      "headline": "Somali Cumhurbaşkanının BAE ile Neden Ters Düştüğü Açıklandı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1775211580804-0dc97bad2847?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U29tYWxpYSUyMGZsYWdzfGVufDF8MHx8fDE3OTUzMzIyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "MOHAMED ABUKAR",
+        "photographerUrl": "https://unsplash.com/@koorwayne",
+        "unsplashUrl": "https://unsplash.com/photos/framed-collection-of-colorful-handcrafted-objects-pDhlW84pSjk"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "Somali'nin Birleşik Arap Emirlikleri (BAE) ile bağlarını koparmasının ardında, Abu Dabi'ye yakın bölgesel liderlerle yaşanan bir iç iktidar mücadelesi yer alıyor. Kaynaklara göre bu gelişme, Somali cumhurbaşkanının eski müttefiki olan BAE'ye karşı tavır almasının temel sebebini oluşturuyor. İki taraf arasındaki bu kopuş, bölgesel aktörlerin Somali iç siyasetindeki etkisi ve merkezi yönetim ile yerel liderler arasındaki rekabet ekseninde şekilleniyor. Yaşanan siyasi gerilim, ülkenin dış ilişkilerini ve bölgesel dengeleri de yakından ilgilendiriyor.",
+      "highlights": [
+        "Somali ve BAE arasındaki kopuşun nedeni iç iktidar mücadelesi",
+        "Süreçte Abu Dabi'ye yakın bölgesel liderler etkili oldu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
+      "publishedAt": "2026-11-22T06:59:59.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbulun-22-ilcesinde-elektrik-kesintisi-yasanacak-1752011",
@@ -9744,7 +9788,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:04:24.086Z",
-      "imageSearchAttemptedAt": "2026-11-21T19:34:19.157Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:24:25.058Z",
       "isBreaking": false
     },
     {
@@ -9987,7 +10031,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T13:04:31.029Z",
-      "imageSearchAttemptedAt": "2026-11-21T19:34:19.157Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:24:25.058Z",
       "isBreaking": false
     },
     {
@@ -14576,56 +14620,6 @@
       "publishedAt": "2026-11-18T09:27:51.000Z",
       "category": "Ekonomi",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/azerbaycan-disisleri-bakani-bayramovdan-turkiye-aciklamasi-iliskiler-her-zamanki-gibi-saglam-7702902",
-      "headline": "Azerbaycan Dışişleri Bakanı Bayramov'dan Türkiye açıklaması: İlişkiler her zamanki gibi sağlam",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1758138118569-c23a62506a22?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QXplcmJhaWphbiUyMFR1cmtleSUyMGZsYWdzfGVufDF8MHx8fDE3OTQ5OTM4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zulfugar Karimov",
-        "photographerUrl": "https://unsplash.com/@zulfugarkarimov",
-        "unsplashUrl": "https://unsplash.com/photos/azerbaijan-and-turkey-flags-on-a-table-Es0SCe1Zc1Q"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Azerbaycan Dışişleri Bakanı Ceyhun Bayramov, Azerbaycan'da temaslarda bulunan Almanya Dışişleri Bakanı Johann Wadephul ile ortak basın toplantısı düzenledi. Basın toplantısında bir gazetecinin sorusunu yanıtlayan Bayramov, Azerbaycan ile Türkiye arasındaki bağları değerlendirdi. İki ülkenin kelimenin hakiki anlamında dost ve kardeş halklar arasında ilişkiler yürüttüğünü belirten Bayramov, en yüksek ve benzersiz yakınlık ilişkilerine sahip olduklarını ifade etti.\n\nBayramov, Şuşa Beyannamesi ile iki devletin ilişkilerinin müttefiklik düzeyine yükseltildiğini hatırlattı. Her toplumun kendi çizdiği yol olduğunu ve farklı görüşler seslendirilebileceğini kaydeden Bayramov, Azerbaycan'ın yaklaşımının net olduğunu vurguladı. Ülkesinin kendi kalkınma modeliyle ilerlediğini aktaran Bakan, Azerbaycan ile Türkiye arasındaki dostluk ve kardeşlik bağlarının şimdi de her zamanki gibi sağlam olduğunu ve gelecekte daha da sağlamlaşacağını dile getirdi.\n\nBakan Bayramov, Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan'ın 8 Kasım'da Azerbaycan'daki Zafer Günü etkinliklerine katıldığını belirtti. Erdoğan'ın bu ziyarette Cumhurbaşkanı İlham Aliyev ile birlikte hem iki ülkeye hem de dünyaya verdiği mesajların, ilişkilerin sağlamlığının en net kanıtı olduğunu sözlerine ekledi.",
-      "highlights": [
-        "Azerbaycan Dışişleri Bakanı Ceyhun Bayramov Türkiye ilişkilerini değerlendirdi",
-        "İki ülkenin Şuşa Beyannamesi ile ilişkilerini müttefiklik düzeyine yükselttiği hatırlatıldı",
-        "Erdoğan'ın Zafer Günü etkinliklerine katıldığı ifade edildi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/azerbaycan-disisleri-bakani-bayramovdan-turkiye-aciklamasi-iliskiler-her-zamanki-gibi-saglam-7702902",
-      "publishedAt": "2026-11-18T09:23:00.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T09:54:27.108Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/tiktokta-sanal-askerlik-yapilmaya-baslandi-en-cok-hediyeyi-atan-komutan-oluyor-4873881",
-      "headline": "Tiktok'ta 'sanal askerlik' yapılmaya başlandı : En çok hediyeyi atan komutan oluyor",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1762340275963-04400d52c393?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VGlrdG9rJTI3dGElMjAlMjdzYW5hbCUyMGFza2VybGlrJTI3JTIweWFwJUM0JUIxbG1heWElMjBiYSVDNSU5RmxhbmQlQzQlQjElMjAlM0ElMjBFbiUyMCVDMyVBN29rJTIwaGVkaXlleWklMjBhdGFuJTIwa29tdXRhbiUyMG9sdXlvcnxlbnwxfDB8fHwxNzk0OTkzMjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zulfugar Karimov",
-        "photographerUrl": "https://unsplash.com/@zulfugarkarimov",
-        "unsplashUrl": "https://unsplash.com/photos/tiktok-logo-with-glitch-effect-on-black-background-pJ4Hebwy6qM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "TikTok’ta gelir elde etmek amacıyla düzenlenen canlı yayınlara eklenen sıra dışı konseptlere bir yenisi daha eklendi. Daha önce sanal halay, düğün konvoyu ve tavaf animasyonlarıyla gündeme gelen yayınlarda bu kez \"sanal askerlik\" formatı başlatıldı. Kullanıcıların yorum yazarak sanal orduya dahil olduğu akımda, gerçek parayla satın alınan sanal hediyelerden en fazlasını gönderen izleyici \"komutan\" unvanını kazanıyor.",
-      "highlights": [
-        "TikTok'ta 'sanal askerlik' adı verilen yeni bir canlı yayın konsepti ortaya çıktı",
-        "İzleyiciler yorum yaparak askerlik temalı animasyonlarla sanal ordunun bir parçası oluyor",
-        "Yayıncıya en fazla sanal hediye gönderen izleyici komutan ilan ediliyor"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/tiktokta-sanal-askerlik-yapilmaya-baslandi-en-cok-hediyeyi-atan-komutan-oluyor-4873881",
-      "publishedAt": "2026-11-18T09:11:30.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T09:54:27.108Z",
       "isBreaking": false
     }
   ],
