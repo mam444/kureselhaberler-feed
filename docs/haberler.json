@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T08:05:10.840Z",
+  "generatedAt": "2026-11-22T08:14:55.120Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/ekonomi/turkiye-elektrikli-battaniye-ihracatiyla-dis-ticaretine-sicaklik-kazandirdi/4133379",
+      "headline": "Türkiye, elektrikli battaniye ihracatıyla dış ticaretine sıcaklık kazandırdı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1686828752370-c0398d724e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZWxlY3RyaWMlMjBibGFua2V0fGVufDF8MHx8fDE3OTUzMzUyODh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Slaapwijsheid.nl",
+        "photographerUrl": "https://unsplash.com/@slaapwijsheid",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-sleeping-in-a-bed-with-a-white-comforter-Ip3Z-FoLl1Q"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Soğuk kış koşullarının etkisiyle elektrikli battaniye benzeri kişisel ısınma ürünlerine olan ilgi artış gösterdi. Bu dönemde Türkiye, dış ticaret faaliyetleri kapsamında önemli bir adım attı.\n\nGerçekleştirilen açıklamalara göre, Türkiye 9 aylık zaman dilimi içinde elektrikli battaniye ihracatı gerçekleştirdi.\n\nSöz konusu süre zarfında yapılan bu dış ticaret hamlesiyle birlikte, ülkenin ekonomisine 1,3 milyon dolarlık ihracat geliri sağlandı.\n\nYetkililer ve sektör temsilcileri, kış sezonunun getirdiği bu talep artışının ihracat rakamlarına yansıdığını belirtti.",
+      "highlights": [
+        "Soğuk kış koşullarıyla elektrikli battaniye gibi kişisel ısınma ürünleri öne çıktı.",
+        "Türkiye 9 ayda elektrikli battaniye ihracatı gerçekleştirdi.",
+        "Söz konusu ürün grubunda 1,3 milyon dolarlık ihracat yapıldı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/ekonomi/turkiye-elektrikli-battaniye-ihracatiyla-dis-ticaretine-sicaklik-kazandirdi/4133379",
+      "publishedAt": "2026-11-22T08:12:43.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/kdk-devreye-girdi-zabita-alimini-sinirlandiran-sart-kaldirildi-4875381",
       "headline": "KDK devreye girdi: Zabıta alımını sınırlandıran şart kaldırıldı",
@@ -15,12 +39,37 @@
       "timeAgo": "2 dk önce",
       "body": "Kamu Denetçiliği Kurumu'na başvuran bir vatandaş, Sarıidris Belediyesi'nin zabıta memuru alım ilanındaki şartlara itiraz etti. İlanda sadece belirli finans programlarından mezun olma şartı aranmasının Anayasa'nın eşitlik ve hizmete alınmada görevin gerektirdiği nitelikler ilkelerini ihlal ettiğini belirtti. Vatandaş, bu durumun fırsat eşitliğini ortadan kaldırdığını ve adrese teslim ilan algısı yaratarak kamu güvenini zedelediğini ifade etti.\n\nBaşvuruyu inceleyen Kamu Denetçiliği Kurumu, Sarıidris Belediye Başkanlığı ile iletişime geçti. KDK, yayımlanan ilan metninin Anayasa'nın ilgili maddesini zedeler nitelikte olduğunu belediyeye hatırlattı.\n\nKurumun girişimleri sonucunda ilan metnindeki kısıtlayıcı şart genişletildi. Eski metinde yer alan 'bankacılık ve finans, finans matematiği, finansal ekonometri' lisans programlarından mezun olma şartı kaldırıldı.\n\nİlan, 'Lisans düzeyinde eğitim veren fakültelerin kamu yönetimi, bankacılık ve finans, iktisat, ekonomi, maliye, muhasebe ve finansman programlarından birinden mezun olmak' şeklinde yeniden yayımlandı.",
       "highlights": [
-        "Sarıidris Belediyesi'nin zabıta memuru alım ilanındaki şart KDK başvurusuyla değiştirildi.",
-        "İlandaki dar kapsamlı mezuniyet şartı genişletilerek yeni programlar eklendi."
+        "Sarıidris Belediyesi'nin zabıta memuru alım ilanındaki kısıtlayıcı şart KDK başvurusuyla kaldırıldı.",
+        "İlan şartı, belirli finans programları yerine daha geniş lisans programlarını kapsayacak şekilde değiştirildi."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/kdk-devreye-girdi-zabita-alimini-sinirlandiran-sart-kaldirildi-4875381",
       "publishedAt": "2026-11-22T08:03:31.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:14:30.673Z"
+    },
+    {
+      "id": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+      "headline": "Bank of England direktörleri Küba'daki köleliğe dayalı madencilikten yasadışı kâr elde etti",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1565558810352-d2d62b70aa41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y29wcGVyJTIwbWluZXxlbnwxfDB8fHwxNzk1MzM1Mjc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "AbdolAzim Mollaei",
+        "photographerUrl": "https://unsplash.com/@abdolazimmollaei",
+        "unsplashUrl": "https://unsplash.com/photos/brown-mountains-3HOVPGyv8CE"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Yeni bir araştırmaya göre, uzun süre görev yapan Bank of England direktörleri, Britanya İmparatorluğu'nda köleliğin kaldırılmasının ardından onlarca yıl boyunca Küba'daki köle emeğinden kâr sağladı. Tarihçi Chris Evans'ın araştırması, Santiago de Cuba yakınlarındaki El Cobre bakır madeninde erkeklerin ve çocukların hapishane koşullarında köleleştirildiğini ortaya koydu. 1840'larda Küba, Birleşik Krallık'ın en önemli bakır cevheri kaynağı konumundaydı ve elde edilen bakır, Manchester'ın pamuk endüstrisi, demiryolları ile telgraf sistemleri için kritik öneme sahipti.\n\nİngiltere 1807'de köle ticaretini yasaklamış ve 1833'te imparatorluğunun çoğunda köleliği kaldıran yasayı çıkarrmıştı. Ancak Köleliği Kaldırma Yasası yürürlüğe girerken, Londra'nın finans çevreleri İspanyol kontrolündeki Küba'da köle emeğine dayanan El Cobre madencilik faaliyetlerini geliştirdi. Bu son derece klucratif operasyonda rol oynayanlar arasında, özel sıfatlarıyla hareket eden Bank of England direktörleri Charles Pascoe Grenfell ve William Thompson da yer alıyordu.\n\nMaden işçilerinin, Nijerya'daki Bight of Biafra'dan yasadışı yollarla Küba'ya kaçırılmış muhtemel köleler olduğu belirtiliyor. El Cobre'deki yüksek ölüm oranı, binlerce Afrikalının sömürüldüğünü gösteriyor. Küba'da kölelik yasal olmasına rağmen köle ithalatı yasal değildi. Cobre madencilik şirketinin ortağı olan Grenfell, işçilerin sömürülmesinde kilit rol oynamıştı. 1840'lara gelindiğinde Cobre, batı yarımküredeki en büyük köle işletmesi haline gelmişti.\n\nGrenfell ayrıca Galler'deki Pascoe, Grenfell & Sons adlı izabe tesisinin ortağı olarak madenden ithalat yaparken, eski Londra belediye başkanı Thompson ise yöneticisi olduğu Royal Santiago Company aracılığıyla köleleştirilmiş işçileri sömürdü. Dönemde köleliğin gizlendiği ve endüstriyel toplumun karmaşıklığı nedeniyle yatırımcıların çoğunun madenlerin köle işçi çalıştrdığını bilmediği ifade ediliyor. El Cobre'deki kölelik, Kasım 1868'de Küba devrimcilerinin kasabayı ele geçirmesiyle sona erdi. Bank of England sözcüsü, eski yöneticilerin köle ticaretindeki rolünü daha önce kabul ettiklerini açıkladı.",
+      "highlights": [
+        "Bank of England direktörleri Charles Pascoe Grenfell ve William Thompson Küba'daki köleliğe dayalı maden operasyonlarından kâr sağladı.",
+        "El Cobre bakır madeninde erkekler ve çocuklar hapishane koşullarında çalıştırıldı ve maden 1840'larda batı yarımkürenin en büyük köle işletmesi haline geldi.",
+        "El Cobre'deki kölelik, Kasım 1868'de Küba devrimcilerinin kasabayı ele geçirmesiyle sona erdi."
+      ],
+      "externalUrl": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+      "publishedAt": "2026-11-22T08:00:22.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -71,7 +120,8 @@
       "publishedAt": "2026-11-22T07:48:28.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:14:30.673Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/endonezyanin-gobeginde-korkunc-yangin-36-isciye-ulasilmaya-calisiliyor-7705463",
@@ -14584,56 +14634,6 @@
       "publishedAt": "2026-11-18T10:14:26.000Z",
       "category": "Ekonomi",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
-      "headline": "Trump, İran'ın Washington'a yönelik 'kirli bomba' planladığı iddialarını ciddiye aldıklarını söyledi",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1569285645462-a3f9c6332d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NDk5ODA5NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Darren Halstead",
-        "photographerUrl": "https://unsplash.com/@darren1303",
-        "unsplashUrl": "https://unsplash.com/photos/man-wearing-donald-trump-mask-standing-in-front-of-white-house-B_vXFdzvw3g"
-      },
-      "timeAgo": "21 dk önce",
-      "body": "ABD Başkanı Donald Trump, salı günü yaptığı açıklamada, İran'ın Washington'da kirli bomba saldırısı planlıyor olabileceği yönündeki iddiaları ciddiye aldıklarını belirtti. Bu açıklama, Trump'ın ABD istihbarat değerlendirmelerine dayandırılan bir CNN haberine ilişkin sorulan soruları yanıtlamasının ardından geldi.\n\nSöz konusu iddialar, salı günü X platformu üzerinden açıklama yapan İran Dışişleri Bakanlığı sözcüsü tarafından reddedildi. Bakanlık sözcüsü, iddiaların \"temelsiz\" olduğunu ifade etti.",
-      "highlights": [
-        "Trump, İran'ın Washington'a yönelik kirli bomba saldırısı planlayabileceği iddialarını ciddiye aldıklarını söyledi.",
-        "Açıklama, ABD istihbarat değerlendirmelerine dayanan CNN haberinin ardından geldi.",
-        "İran Dışişleri Bakanlığı sözcüsü iddiaları 'temelsiz' olarak nitelendirip reddetti."
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261118-trump-says-taking-seriously-reports-iran-planning-washington-dirty-bomb-attack",
-      "publishedAt": "2026-11-18T10:13:52.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:44:29.637Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/usak-valiliginden-cocuklara-hz-muhammedin-hayatini-anlatan-kitap-armagani-4873908",
-      "headline": "Uşak Valiliğinden öğrencilere Hz. Muhammed’in hayatını anlatan kitap hediyesi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1455884981818-54cb785db6fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Ym9vayUyMGdpZnQlMjBjaGlsZHJlbnxlbnwxfDB8fHwxNzk0OTk2ODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Annie Spratt",
-        "photographerUrl": "https://unsplash.com/@anniespratt",
-        "unsplashUrl": "https://unsplash.com/photos/pile-of-story-books-O1TNdLNvJLM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "İçişleri Bakanlığı Sivil Toplumla İlişkiler Genel Müdürlüğünün desteğiyle yürütülen HİKMET (Erdem ve Bilim Akademisi) Projesi çerçevesinde, ilkokul ve ortaokul öğrencilerine yönelik bir eser hazırlandı. Uşak Valiliği, İl Millî Eğitim Müdürlüğü ve Eğitime Destek Platformu iş birliğiyle hayata geçirilen çalışma, çocukların akademik gelişimlerinin yanı sıra millî, manevi ve ahlaki değerlerle yetişmesini amaçlıyor. Berikan Yayınevi tarafından 64 sayfa basılan kitap, Uşak İl Millî Eğitim Müdürlüğü Kitap Yazma Komisyonunun incelemesinden geçti.\n\nSade ve akıcı bir dille kaleme alınan eserde sevgi, aile, merhamet, doğruluk, dürüstlük, adalet, hakkaniyet, bilgi, sabır, yardımlaşma ve çevre bilinci gibi değerler işleniyor. Kitapta Hz. Muhammed’in çocukluk ve gençlik döneminden kesitler, “El-Emin” unvanı, Kâbe hakemliği ve Hira Mağarası’nda ilk vahyin gelişi gibi önemli olaylar çocuklara aktarılıyor. Ayrıca tarihî bilgilerin yanı sıra günlük yaşama dair yol gösterici sorular ve küçük bir sözlük de eserde yer alıyor.\n\nUşak Valisi Dr. Serdar Kartal, kitaptaki mektubunda gerçek başarının yalnızca akademik kazanımlarla ölçülemeyeceğini ifade etti. İnsanı yücelten unsurların güzel ahlak, vicdan ve merhamet olduğunu belirten Kartal, öğrencilere bu değerleri hayatlarının merkezine almaları çağrısında bulundu. Projeyle çocukların medeniyet kökleriyle bağ kurması ve sorumluluk bilinci gelişmiş bireyler olarak yetişmesi hedefleniyor.",
-      "highlights": [
-        "İçişleri Bakanlığı destekli HİKMET Projesi kapsamında ilkokul ve ortaokul öğrencileri için kitap hazırlandı.",
-        "Eserde Hz. Muhammed’in hayatından kesitler ve değerler eğitimi konuları yer alıyor.",
-        "Uşak Valisi Dr. Serdar Kartal çocuklara mektup yazarak güzel ahlak vurgusu yaptı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/usak-valiliginden-cocuklara-hz-muhammedin-hayatini-anlatan-kitap-armagani-4873908",
-      "publishedAt": "2026-11-18T10:11:31.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T10:24:32.682Z",
       "isBreaking": false
     }
   ],
