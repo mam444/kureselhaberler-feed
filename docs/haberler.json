@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T06:45:04.543Z",
+  "generatedAt": "2026-11-22T06:54:41.380Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbulun-22-ilcesinde-elektrik-kesintisi-yasanacak-1752011",
+      "headline": "İstanbul'da planlı elektrik kesintisi: 22 ilçeyi kapsıyor",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1608677663465-bc94c1c72416?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG93ZXIlMjBvdXRhZ2UlMjBJc3RhbmJ1bHxlbnwxfDB8fHwxNzk1MzMwNDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ervo Rocks",
+        "photographerUrl": "https://unsplash.com/@ervorocks",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-during-night-time-JcfQY4nzQ-I"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Boğaziçi Elektrik Dağıtım A.Ş. (BEDAŞ), İstanbul Avrupa Yakası'nda gerçekleştirilecek bakım, yatırım ve iyileştirme çalışmaları doğrultusunda 22 ilçeyi kapsayan yeni bir planlı kesinti programı duyurdu.\n\nYayımlanan programa göre, İstanbul'da toplam 22 ilçede elektrik kesintisi yaşanacak. Vatandaşlar kesinti saatleri ve etkilenecek bölgelerle ilgili sorgulamalarına hız kazandırdı.\n\nÖte yandan 5 ilçede kesintiler bu geceden itibaren başlayarak sabah saatlerine kadar devam edecek. Bu kapsamda Sultangazi, Arnavutköy, Sarıyer, Eyüpsultan ve Bayrampaşa'da kesintiler gece yarısı itibarıyla devreye girecek.\n\nBEDAŞ tarafından paylaşılan bu bilgiler doğrultusunda, 23 Kasım tarihli planlı kesinti programının detayları vatandaşlar tarafından takip ediliyor.",
+      "highlights": [
+        "BEDAŞ, İstanbul Avrupa Yakası'nda 22 ilçeyi kapsayan yeni planlı kesinti programını yayımladı.",
+        "Kesintiler Sultangazi, Arnavutköy, Sarıyer, Eyüpsultan ve Bayrampaşa'da bu gece yarısı başlayıp sabaha kadar sürecek.",
+        "Çalışmalar kapsamlı bakım, yatırım ve iyileştirme faaliyetleri nedeniyle yürütülüyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbulun-22-ilcesinde-elektrik-kesintisi-yasanacak-1752011",
+      "publishedAt": "2026-11-22T06:52:09.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
       "headline": "Suriye'deki Türk üniversitelerine bağlı fakülteler devrediliyor: Karar ne anlama geliyor?",
@@ -9,13 +33,19 @@
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "5 dk önce",
-      "body": "Türkiye'nin Gaziantep Üniversitesi ve Sağlık Bilimleri Üniversitesi bünyesinde Suriye'de faaliyet gösteren akademik birimler, Suriye'deki üniversitelere devredilecek. Düzenlemeyle öğrencilerin eğitimlerine kesintisiz devam etmesi ve akademik haklarının korunması öngörülüyor.",
-      "highlights": [],
+      "body": "Türkiye'nin Gaziantep Üniversitesi ve Sağlık Bilimleri Üniversitesi bünyesinde Suriye'de faaliyet gösteren akademik birimlerinin Suriye'deki yükseköğretim kurumlarına devredilmesi kararlaştırıldı. Yükseköğretim Kurulu'nun (YÖK) açıklamasına göre, bu süreç iki ülke arasında imzalanan mutabakat kapsamında yürütülüyor. 14 Ekim 2026 tarihinde Gaziantep'te imzalanan mutabakat zaptı gereğince, Gaziantep Üniversitesi'ne bağlı Afrin Eğitim Fakültesi, Azez İslami İlimler Fakültesi, El-Bab İktisadi ve İdari Bilimler Fakültesi ile Cerablus Meslek Yüksekokulu faaliyetlerini Halep Üniversitesi bünyesinde sürdürecek. Sağlık Bilimleri Üniversitesi'ne bağlı Çobanbey Tıp Fakültesi ile Çobanbey Sağlık Hizmetleri Meslek Yüksekokulu ise ilgili Suriye yükseköğretim kurumlarına aktarılacak.\n\nDüzenleme, söz konusu birimlerde kayıtlı öğrencilerin eğitimlerine kesintisiz devam etmesini ve akademik haklarının korunmasını hedefliyor. Mevcut programların bulunmaması durumunda öğrencilerin eşdeğer programlarda eğitimlerine devam etmesi sağlanacak. Ayrıca öğrencilerin ve mezunların hak kaybı yaşamaması için tarafların gerekli önlemleri alması öngörülüyor.\n\nMutabakat kapsamında Gaziantep Üniversitesi'nin Suriye'de görev yapan akademik ve idari personeli mevcut statüleriyle görevlerine devam ederken, Sağlık Bilimleri Üniversitesi'nin Çobanbey birimlerinde çalışan 27 Suriyeli yerel idari personel statüleri korunarak ilgili Suriye kurumlarına aktarılacak. Öte yandan, Çobanbey'deki birimlerde bulunan laboratuvar cihazları, ekipmanlar ile eğitim ve bilişim materyallerinin gümrük vergisi alınmadan Türkiye'ye geri getirilmesi kararlaştırıldı.\n\nİki ülke arasında imzalanan mutabakat, yürürlüğe girdiği tarihten itibaren bir yıl süreyle geçerli olacak ve olası anlaşmazlıklar dostane müzakerelerle çözülecek. Cumhurbaşkanı Recep Tayyip Erdoğan'ın 20 Kasım tarihli ve 12016 sayılı kararıyla söz konusu altı akademik birimin faaliyetlerine son verilmesi kararlaştırıldı ve bu karar 21 Kasım'da Resmî Gazete'de yayımlanarak yürürlüğe girdi.",
+      "highlights": [
+        "Gaziantep Üniversitesi ve Sağlık Bilimleri Üniversitesi'nin Suriye'deki akademik birimleri Suriye'deki üniversitelere devrediliyor.",
+        "Öğrencilerin eğitimlerine kesintisiz devam etmesi ve akademik haklarının korunması öngörülüyor.",
+        "Gaziantep Üniversitesi'nin personeli statüleri korunarak görevine devam ederken, Çobanbey'deki ekipmanlar Türkiye'ye getirilecek."
+      ],
       "externalUrl": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
       "publishedAt": "2026-11-22T06:39:19.000Z",
       "category": "Eğitim",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T06:54:26.072Z",
+      "imageSearchAttemptedAt": "2026-11-22T06:54:26.072Z"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/cop31de-antalya-mutabakati-icin-son-viraj-cop31-baskani-kurum-umutluyuz-7705428",
@@ -8672,7 +8702,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
-      "imageSearchAttemptedAt": "2026-11-21T19:04:17.220Z",
+      "imageSearchAttemptedAt": "2026-11-22T06:54:26.072Z",
       "isBreaking": false
     },
     {
@@ -14598,30 +14628,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T12:14:39.605Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "headline": "Apec zirvesi canlı: Xi ve Putin görüşmelere başladı, Trump Çin'e varıyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1794796693699-acc80dbb0385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QXBlYyUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0OTkyNjc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "leoon liang",
-        "photographerUrl": "https://unsplash.com/@leoonliang",
-        "unsplashUrl": "https://unsplash.com/photos/crowd-waiting-near-apec-china-flags-1BLqTQdJjPc"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Çin'in Shenzhen şehrinde devam eden Apec zirvesinde Çin Devlet Başkanı Xi Jinping, Çarşamba günü daha serbest ticaret ve yapay zeka alanında iş birliği çağrısında bulunan bir açılış konuşması gerçekleştirdi. Xi, ticaret engellerinin kaldırılması gerektiğini belirterek bilimsel ve teknolojik inovasyon ortaklıkları kurulması gerektiğini ifade etti.\n\nRusya Devlet Başkanı Vladimir Putin de zirvede bir konuşma yaptı. Putin, Ukrayna'nın Kırım'ı Rusya'ya bağlayan Kerç köprüsünü imha etmesinin ardından kürsüye çıktı ve Batılı güçleri eski hegemonlar olarak tanımladı. Avrupa'nın aşağılayıcı bir düşüş içinde olduğunu iddia eden Putin, Rusya'ya yönelik yaptırımların ters teperek ülkesini daha güçlü hale getirdiğini savundu.\n\nÇin ve Rusya devlet medyasına göre, Xi ve Putin açılış konuşmalarının ardından ikili bir görüşmeye geçti. ABD Başkanı Donald Trump, Xi ve Putin arasındaki üçlü zirvenin ise Perşembe günü gerçekleştirilmesi planlanıyor. Liderlerin Ukrayna ve İran savaşları, ticaret, yapay zeka ve nükleer silahlar gibi konuları ele alması beklenirken, Kuzey Kore lideri Kim Jong-un'un katılıp katılmayacağı belirsizliğini koruyor.\n\nÖte yandan, ABD Başkanı Trump Çarşamba günü Filipinler ile çok büyük bir ticaret anlaşması yaptıklarını açıkladı ancak ayrıntı vermedi. Manila yönetimi ise herhangi bir anlaşma duyurmadı. Trump'ın Çarşamba akşamı Shenzhen'e varması bekleniyor.",
-      "highlights": [
-        "Çin Devlet Başkanı Xi Jinping, daha serbest ticaret ve yapay zeka iş birliği çağrısı yaptı.",
-        "Rusya Devlet Başkanı Vladimir Putin, açılış konuşmalarının ardından Xi ile görüştü.",
-        "ABD Başkanı Donald Trump, Xi ve Putin ile yapacağı üçlü görüşme öncesinde Çin'e varıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "publishedAt": "2026-11-18T08:48:31.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14833,6 +14839,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
-    "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss"
+    "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+    "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss"
   ]
 }
