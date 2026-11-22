@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T10:54:49.586Z",
+  "generatedAt": "2026-11-22T11:04:33.155Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
+      "headline": "KIZILELMA anma puluyla ölümsüzleşecek",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1689510230616-76823330dbf7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZmlnaHRlciUyMGRyb25lJTIwc3RhbXB8ZW58MXwwfHx8MTc5NTM0NTQ3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Enderun Defence",
+        "photographerUrl": "https://unsplash.com/@enderundefence",
+        "unsplashUrl": "https://unsplash.com/photos/a-fighter-jet-sitting-on-top-of-an-airport-runway-6Hq05cVVCjs"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Türkiye'nin İlk İnsansız Savaş Uçağı KIZILELMA\" konulu anma pulu ve ilk gün zarfının 29 Kasım'da tedavüle sunulacağını açıkladı. Bakan Uraloğlu tarafından yapılan yazılı açıklamada, PTT AŞ tarafından KIZILELMA için hazırlanan filatelik ürünler hakkında bilgi verildi.\n\nBaykar tarafından milli ve özgün olarak geliştirilen KIZILELMA'nın Sinop açıklarında gerçekleştirilen testte dünya havacılık muharebesi tarihinde ilke imza attığı hatırlatıldı. Açıklamada, KIZILELMA'nın ASELSAN imzalı MURAD AESA radarının işaretlediği hedefi TÜBİTAK SAGE tarafından geliştirilen GÖKDOĞAN füzesiyle tam isabetle vurduğu, bu sayede görüş ötesi hava-hava füzesi kullanarak jet motorlu hava hedefini vuran ilk İnsansız Savaş Uçağı olduğu belirtildi.\n\nKIZILELMA'nın havacılık tarihine geçen başarısını anma puluyla yaşatacaklarını vurgulayan Uraloğlu, söz konusu anma pulu ve ilk gün zarfının 29 Kasım'da tedavüle gireceğini bildirdi. Aynı gün Tekirdağ PTT Müdürlüğü'nde ilk gün damgasının kullandırılmaya başlanacağı ifade edilirken, ürünlerin PTT iş yerlerinde ve resmi internet adresinde satışa sunulacağı kaydedildi.\n\nÖte yandan, Türkiye'nin ilk İnsansız Savaş Uçağı KIZILELMA'dan üçünün kabul testlerinin tamamlanmasının ardından hafta içi güvenlik güçlerinin envanterine katıldığı da daha önce açıklanmıştı.",
+      "highlights": [
+        "Ulaştırma ve Altyapı Bakanı Uraloğlu, KIZILELMA konulu anma pulu ve ilk gün zarfının 29 Kasım'da tedavüle sunulacağını açıkladı.",
+        "KIZILELMA, görüş ötesi hava-hava füzesi kullanarak jet motorlu hava hedefini vuran ilk İnsansız Savaş Uçağı olarak kayıtlara geçti.",
+        "Kabul testleri tamamlanan üç KIZILELMA, hafta içi güvenlik güçlerinin envanterine girdi."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
+      "publishedAt": "2026-11-22T11:02:37.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/spor/turk-sporcular-dunya-para-tekvando-sampiyonasinda-4-altin-madalya-kazandi/4133498",
       "headline": "Türk sporcular Dünya Para Tekvando Şampiyonası'nda 4 altın madalya kazandı",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-22T10:44:23.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:04:23.325Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/havalimaninda-ice-baskini-yolcularin-gozu-onunde-yaka-paca-gozaltina-aldilar-7705564",
@@ -71,7 +96,8 @@
       "publishedAt": "2026-11-22T10:39:50.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:04:23.325Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/nato-polonya-hava-sahasinin-ihlalini-gorusmek-icin-toplanacak/4133482",
@@ -369,6 +395,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T10:04:20.977Z"
+    },
+    {
+      "id": "https://www.france24.com/en/english-village-votes-to-leave-uk",
+      "headline": "İngiliz Köyü 'Birleşik Krallık'tan Ayrılmak' İçin Oy Kullandı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1670620800615-4225fe6ecb75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RW5nbGlzaCUyMHZpbGxhZ2V8ZW58MXwwfHx8MTc5NTM0NTQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "George Ciobra",
+        "photographerUrl": "https://unsplash.com/@george_ciobra",
+        "unsplashUrl": "https://unsplash.com/photos/a-street-lined-with-stone-buildings-next-to-a-lush-green-forest-LX1k7rOj7Sg"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "İngiltere'nin küçük bir köyü olan Barnham sakinleri, hükümetin yakınlardaki eski bir hava üssüne 931 sığınmacı yerleştirme planlarını protesto etmek amacıyla cumartesi günü Birleşik Krallık'tan ayrılmak yönünde sembolik bir referandumda oy kullandı. Planlanan sığınmacı sayısı, köyün 584 olan kendi nüfusunun üzerinde yer alıyor.\n\nGerçekleştirilen bu oylama, eylül ayında başka bir köyde düzenlenen benzer bir protestonun ardından geldi ve ülke genelinde göç konusunda artan gerilimlere dikkat çekti. Yaşanan gelişmeler kapsamında, bu hafta başında aşırı sağcı bir göç karşıtı grubun lideri hapis cezasına çarptırıldı ancak grubun destekçileri hareketi canlı tutma sözü verdi. Jack Pownall konuya ilişkin haberi hazırladı.",
+      "highlights": [
+        "Barnham sakinleri Birleşik Krallık'tan ayrılmak için sembolik oy kullandı",
+        "Protesto, eski bir hava üssüne 931 sığınmacı yerleştirme planına karşı yapıldı",
+        "Sığınmacı sayısı köyün kendi nüfusu olan 584'ten fazla"
+      ],
+      "externalUrl": "https://www.france24.com/en/english-village-votes-to-leave-uk",
+      "publishedAt": "2026-11-22T09:40:05.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-goc-etmesi-bekleniyordu-tezgaha-geri-geldi-25-yillik-balikciyim-boyle-bir-durum-gormedim-1752044",
@@ -14581,56 +14631,6 @@
       "publishedAt": "2026-11-18T13:54:19.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/son-dakika-otomobil-5-metreden-dustu-3-can-kaybi-var-3928278",
-      "headline": "Konya'da otomobil 5 metreden düştü: 3 kişi hayatını kaybetti",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1687867451910-28941a460f35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2FyJTIwYWNjaWRlbnQlMjBjcmFzaHxlbnwxfDB8fHwxNzk1MDEwMDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Josh Sonnenberg",
-        "photographerUrl": "https://unsplash.com/@joshsonnenberg",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-that-has-been-involved-in-a-car-accident-Tn9mxVvKL8g"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Konya'da yoldan çıkan bir otomobilin yaklaşık 5 metre yükseklikten menfezin önüne düşmesi sonucu 3 kişi yaşamını yitirdi. Demirören Haber Ajansı'nın aktardığına göre kaza, saat 09.00 sıralarında Konya-Afyonkarahisar kara yolunun 50. kilometresinde gerçekleşti. Sürücü A.S.B.'nin kontrolünü yitirdiği araç ters dönerken, olay yerine polis, jandarma, sağlık ve itfaiye ekipleri sevk edildi. Ekiplerin yaptığı kontrolde sürücü A.S.B. ile araçta bulunan A.Ö. ve A.O.A.'nın hayatını kaybettiği tespit edildi.\n\nİlk belirlemelerde üzerlerinden kimlik çıkmayan 3 kişinin kimliği, yapılan parmak izi çalışması sonucunda belirlendi. Kazada yaşamını yitirenlerin kuaförlük yapan sürücü Ahmet Buğra Söyler (21) ile arkadaşları Abdullah Öztaş (26) ve Ali Osman Altunbay (25) olduğu öğrenildi. Kazanın, bu kişilerin Konya'dan Akşehir'e dönerken meydana geldiği belirtildi.\n\nHayatını kaybeden 3 kişinin cenazeleri, otopsi işlemleri için Sarayönü Devlet Hastanesi morguna kaldırıldı. Cenazelerin memleketleri Akşehir'de toprağa verilmesinin bekletildiği ifade edilirken, kazayla ilgili incelemelerin sürdüğü bildirildi.",
-      "highlights": [
-        "Konya-Afyonkarahisar kara yolunda otomobil 5 metreden menfezin önüne düştü.",
-        "Kazada sürücü Ahmet Buğra Söyler ile arkadaşları Abdullah Öztaş ve Ali Osman Altunbay hayatını kaybetti.",
-        "Cenazeler otopsi için Sarayönü Devlet Hastanesi morguna kaldırıldı."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-otomobil-5-metreden-dustu-3-can-kaybi-var-3928278",
-      "publishedAt": "2026-11-18T13:47:56.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T14:24:26.945Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
-      "headline": "Uluslararası Atom Enerjisi Ajansı: Kuzey Kore zenginleştirme tesisi genişletmesinde dış çalışmaları tamamladı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1604359896927-0610b7a3a2be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Tm9ydGglMjBLb3JlYSUyMG51Y2xlYXJ8ZW58MXwwfHx8MTc5NTAxMDA2OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Thomas Evans",
-        "photographerUrl": "https://unsplash.com/@thoeva",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-3dSv5LXts8A"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Uluslararası Atom Enerjisi Ajansı (IAEA) Başkanı Rafael Grossi Çarşamba günü yaptığı açıklamada, Kuzey Kore'nin Yongbyon zenginleştirme tesisindeki yeni bir genişleme çalışmasının Ekim ayı ortasından bu yana dışarıdan tamamlandığını bildirdi. IAEA, ülkenin nükleer programını uydu görüntüleri ve açık kaynaklar aracılığıyla izliyor. Ajans müfettişlerinin 2009'dan bu yana Kuzey Kore'ye erişimi bulunmuyor.\n\nGrossi, IAEA Yönetim Kurulu toplantısındaki açılış konuşmasında, Pyongyang'ın uranyum zenginleştirme programındaki devam eden genişlemenin ciddi bir endişe kaynağı olmaya devam ettiğini belirtti. Grossi, Eylül 2026 ortasından bu yana orijinal Yongbyon tesisine yönelik yeni bir uzantının yapım aşamasında olduğunu ve Ekim 2026 sonuna kadar dışarıdan tamamlandığını ifade etti.\n\nBM yaptırımlarına tabi olan Kuzey Kore'nin Yongbyon, Kangson ve Kusong bölgelerinde uranyum zenginleştirme tesisleri işlettiği düşünülüyor. Eylül ayında IAEA üyeleri, yıllık konferansta kabul edilen bir kararla artan nükleer faaliyetlere ilişkin artan endişelerini dile getirmişti.\n\nKuzey Kore liderinin kız kardeşi Kim Yo Jong, ülkenin nükleer silahlı statüsünün mutlak olduğunu belirterek nükleer arındırma çabalarını eleştirdi. Öte yandan ABD Başkanı Donald Trump, Asya ziyareti sırasında Kuzey Kore lideri Kim Jong-un ile olası bir görüşmeye işaret etti.",
-      "highlights": [
-        "Uluslararası Atom Enerjisi Ajansı, Kuzey Kore'nin Yongbyon tesisindeki genişletmenin dış çalışmalarının tamamlandığını açıkladı.",
-        "IAEA Başkanı Rafael Grossi, uranyum zenginleştirme programındaki genişlemenin ciddi bir endişe kaynağı olduğunu söyledi.",
-        "Kuzey Kore liderinin kardeşi Kim Yo Jong, ülkenin nükleer statüsünün mutlak olduğunu ifade etti."
-      ],
-      "externalUrl": "https://www.france24.com/en/asia-pacific/20261118-north-korea-completes-external-works-on-enrichment-facility-extension-says-iaea",
-      "publishedAt": "2026-11-18T13:46:57.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T14:04:21.431Z",
       "isBreaking": false
     }
   ],
