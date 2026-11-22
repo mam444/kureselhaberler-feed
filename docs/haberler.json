@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T08:34:47.594Z",
+  "generatedAt": "2026-11-22T08:44:21.852Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/58-yillik-arkadaslik-aska-donustu-75-yasinda-evlendiler-ikinci-baharimiz-oldu-7705527",
+      "headline": "58 Yıllık Arkadaşlık Aşka Dönüştü: 75 Yaşında Evlendiler",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1739932907333-e518dc4fb674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZWxkZXJseSUyMGNvdXBsZSUyMHdlZGRpbmd8ZW58MXwwfHx8MTc5NTMzNzA2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Junior REIS",
+        "photographerUrl": "https://unsplash.com/@juniorreisfoto",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-and-woman-standing-next-to-each-other-near-a-tree-YGXrPe7WvkA"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Demir Çelik Lisesi’nde başlayan ve yarım asrı aşan arkadaşlıklarını evlilikle taçlandıran 75 yaşındaki Servet Erkenez ile aynı yaştaki Kamil Yıldırım, hayatlarını birleştirmek için Tuzla’yı tercih etti. Yaz aylarını Akçay’da, yılın geri kalanını ise İstanbul’da geçiren çiftin nikah töreni aileleri ve sevenlerinin katılımıyla gerçekleştirildi.\n\nYıllar boyunca bayramlarda ve doğum günlerinde mesajlaşarak iletişimlerini sürdüren çiftin arkadaşlığı zamanla farklı bir boyuta evrildi. Servet Erkenez, birlikteliklerini mühürlemek üzere Tuzla’da bulunduklarını belirterek uzun yıllar birbirlerini arkadaş olarak gördüklerini, sonrasında ise bu ilişkinin aşka dönüştüğünü ve sonbaharlarını yaşamak istediklerini ifade etti.\n\nKamil Yıldırım bu evliliği kendileri için ikinci bir bahar olarak nitelendirirken, aralarındaki durumu kendisinin onu beğendiğini ve herhalde onun da kendisini beğendiğini düşündüğünü belirterek aktardı. Çift, nikah sonrasında yaş sorusuna esprili bir dille 34 veya 32 yanıtını vererek ölünceye kadar evet dedikleri yeni hayatlarına adım attı.\n\nBu özel günde annesini yalnız bırakmamak adına ABD’den bir haftalığına İstanbul’a gelen Hülya Rosen, annesinin ve Kamil Yıldırım’ın mutluluğu hak ettiğini dile getirdi. Rosen, onların birbirini çok sevdiğine inandığını ve bu durumun gençler için de bir umut ve örnek olmasını istediğini, ayrıca bu birlikteliğin kendileri için de sürpriz olduğunu kaydetti.\n\nAile, nikah törenine ev sahipliği yapan Tuzla Belediyesi’ne teşekkürlerini iletti. Nikahı kıyan Tuzla Belediye Başkan Yardımcısı Eyüp Sunar, Tuzla Belediye Başkanı Av. Eren Ali Bingöl’ün selamlarını ve mutluluk temennilerini aileye aktardı. Neşeli anların yaşandığı törenin ardından çift ömür boyu mutluluk dileklerini kabul etti.",
+      "highlights": [
+        "Demir Çelik Lisesi'nde başlayan 58 yıllık arkadaşlık aşka dönüştü",
+        "Servet Erkenez ve Kamil Yıldırım 75 yaşında Tuzla'da evlendi",
+        "Hülya Rosen annesinin nikahı için ABD'den geldi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/58-yillik-arkadaslik-aska-donustu-75-yasinda-evlendiler-ikinci-baharimiz-oldu-7705527",
+      "publishedAt": "2026-11-22T08:43:08.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-kepez-belediyesine-rusvet-sorusturmasi-3929164",
       "headline": "Kepez Belediyesi'ne rüşvet soruşturması",
@@ -22,7 +46,8 @@
       "publishedAt": "2026-11-22T08:24:39.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:44:16.662Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/taksiye-bindi-hayati-degisti-universiteli-zehranin-ilginc-hikayesi-erkek-sasiriyorlar-kadinlar-mutlu-oluyor-7705509",
@@ -121,6 +146,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T08:24:29.687Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+      "headline": "Gukesh ile Sindarov Cenevre'de Dünya Satranç Şampiyonluğu İçin Karşılaşacak",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1543756070-dd3109556b0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2hlc3MlMjBjaGFtcGlvbnNoaXB8ZW58MXwwfHx8MTc5NTMzNzA1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mitchell Johnson",
+        "photographerUrl": "https://unsplash.com/@mitchazj",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-white-chess-board-near-people-standing-inside-building-CZRNxAIYLzI"
+      },
+      "timeAgo": "33 dk önce",
+      "body": "Hindistan'dan Gukesh, unvanını korumak üzere Özbekistan'dan Sindarov ile karşı karşıya gelecek. Tarihin en genç Dünya Satranç Şampiyonası olma özelliğini taşıyan bu mücadele, Cenevre'de gerçekleştirilecek.\n\nMüsabakalar 22 Kasım tarihinde başlayacak. Şampiyona kapsamında oyuncular en fazla 14 oyun oynayacak.",
+      "highlights": [
+        "Hindistan'dan Gukesh unvanını savunacak",
+        "Özbekistan'dan Sindarov rakip olacak",
+        "Maçlar 22 Kasım'da Cenevre'de başlayacak ve en fazla 14 oyun sürecek"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+      "publishedAt": "2026-11-22T08:11:40.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kdk-devreye-girdi-zabita-alimini-sinirlandiran-sart-kaldirildi-4875381",
@@ -4058,7 +4107,7 @@
       "publishedAt": "2026-11-21T07:38:38.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T08:04:17.859Z",
+      "sourceTextAttemptedAt": "2026-11-22T08:44:16.662Z",
       "isBreaking": false
     },
     {
@@ -14585,56 +14634,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T11:14:26.157Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
-      "headline": "ABD, vakaların artmasıyla kızamıktan arındırılmış statüsünü kaybetti",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWVhc2xlcyUyMHZpcnVzfGVufDF8MHx8fDE3OTQ5OTkyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Fusion Medical Animation",
-        "photographerUrl": "https://unsplash.com/@fusion_medical_animation",
-        "unsplashUrl": "https://unsplash.com/photos/visualization-of-the-coronavirus-causing-covid-19-rnr8D3FNUNY"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Pan American Health Organization Salı günü yaptığı açıklamada, ABD'nin 26 yılın ardından kızamıktan arındırılmış zor kazandığı statüsünü kaybettiğini duyurdu. Açıklamaya göre bu gelişmenin nedeni, ülkenin son bir yılı aşkın süredir son derece bulaşıcı olan virüsün sürekli yayılmasını durdurmada başarısız olması gösterildi.\n\nDünya Sağlık Örgütü'nün Amerika kolu, ABD'nin yanı sıra Bolivya ve Meksika'nın da kızamıktan arındırılmış statülerini kaybettiğini bildirdi.",
-      "highlights": [
-        "ABD, kızamıktan arındırılmış statüsünü 26 yılın ardından kaybetti.",
-        "Karar Pan American Health Organization tarafından Salı günü açıklandı.",
-        "Bolivya ve Meksika da aynı statüyü kaybetti."
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261118-us-loses-measles-free-status-as-cases-soar",
-      "publishedAt": "2026-11-18T10:50:41.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:24:31.667Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/konyada-otomobil-menfez-duvarina-carpti-3-olu-4873927",
-      "headline": "Konya'da menfez duvarına çarpan otomobilde 3 kişi hayatını kaybetti",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1597328290883-50c5787b7c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2FyJTIwY3Jhc2glMjBhY2NpZGVudHxlbnwxfDB8fHwxNzk0OTk3OTgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Clark Van Der Beken",
-        "photographerUrl": "https://unsplash.com/@snapsbyclark",
-        "unsplashUrl": "https://unsplash.com/photos/damaged-silver-car-with-crushed-hood-CSkriQWeTVs"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Konya'da sabah saat 09.00 sıralarında meydana gelen trafik kazasında, sürücüsünün direksiyon hakimiyetini kaybettiği otomobil menfez duvarına çarptı. Konya-Afyonkarahisar kara yolunun 50'nci kilometresinde, Sarayönü ilçesi Ladik Mahallesi yakınlarında gerçekleşen olayda, Afyonkarahisar yönüne ilerleyen araç ağır hasar aldı.\n\nKazanın bildirilmesinin ardından olay yerine sağlık, polis, jandarma ve itfaiye ekipleri sevk edildi. Ekipler tarafından yapılan kontrollerde, sürücü Ahmet Buğra Söyler ile araçta bulunan A.Ö. ve A.O.A.'nın hayatını kaybettiği tespit edildi. Üzerlerinden kimlik çıkmayan kişilerin kimlik bilgileri, gerçekleştirilen parmak izi çalışması sonucunda belirlendi.\n\nOlay yerindeki incelemelerin tamamlanmasının ardından otomobil çekici yardımıyla yoldan kaldırıldı. Hayatını kaybeden 3 kişinin cenazeleri, otopsi işlemleri için Sarayönü Devlet Hastanesi morguna götürüldü. Yetkililer tarafından kazayla ilgili başlatılan tahkikatın devam ettiği bildirildi.",
-      "highlights": [
-        "Konya'da otomobilin menfez duvarına çarpması sonucu 3 kişi yaşamını yitirdi.",
-        "Kazada hayatını kaybedenlerin sürücü Ahmet Buğra Söyler ile A.Ö. ve A.O.A. olduğu parmak izi çalışmasıyla belirlendi.",
-        "Cenazeler otopsi için Sarayönü Devlet Hastanesi morguna kaldırıldı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/konyada-otomobil-menfez-duvarina-carpti-3-olu-4873927",
-      "publishedAt": "2026-11-18T10:32:27.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T10:54:30.513Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
