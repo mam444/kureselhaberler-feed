@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T09:14:56.307Z",
+  "generatedAt": "2026-11-22T09:24:28.206Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-goc-etmesi-bekleniyordu-tezgaha-geri-geldi-25-yillik-balikciyim-boyle-bir-durum-gormedim-1752044",
+      "headline": "Göç etmesi bekleniyordu, tezgaha geri geldi: 25 yıllık balıkçıyım böyle bir durum görmedim",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1507991426709-5bbee2c6a189?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmlzaCUyMG1hcmtldHxlbnwxfDB8fHwxNzk1MzM5NDYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Duangphorn Wiriya",
+        "photographerUrl": "https://unsplash.com/@ph_an_tom",
+        "unsplashUrl": "https://unsplash.com/photos/edible-fish-on-crate-lot-vJzsb8W2lhQ"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Karadeniz'de palamut sezonunun bittiği düşünülürken balıkçıların ağlarına yeniden takılmaya başlayan palamutlar tezgahlarda bolluk yaşanmasına yol açtı. Normal şartlarda bu dönemde göç etmesi beklenen palamudun boğazdan geri dönerek yeniden Karadeniz'e yönelmesi balıkçıları şaşırtti. Trabzon'daki balıkçı esnafı Ahmet Çoğalmış, palamut bolluğunun halen devam ettiğini belirterek bu durumun 15-20 gün daha sürebileceğini ifade etti. Çoğalmış, normalde balığın boğazdan çıkıp okyanusa girmesi gerektiğini ancak bu yıl palamudun boğazdan geri döndüğünü söyledi.\n\nPalamut bolluğunun diğer balık çeşitlerini de etkilediğini belirten Çoğalmış, yaklaşık 1 kilogram ağırlığındaki palamutların tanesinin 100-125 TL arasında satıldığını kaydetti. Hamsinin kilogram fiyatının 400 TL'ye ulaştığına dikkat çeken Çoğalmış, palamudun ekonomik olması dolayısıyla vatandaşlarca tercih edilmeyi sürdürdüğünü aktardı.\n\nBir diğer balıkçı esnafı Emin Avcı ise 25 yıllık meslek hayatı boyunca böyle bir duruma ve bolluğa hiç rastlamadığını dile getirdi. Avcı, palamudun çoktan göç etmesi gerektiğini belirterek avlanmanın hala sürdüğünü vurguladı.\n\nVatandaşların palamuda gösterdiği ilginin sezonun ilk dönemine kıyasla azaldığını ifade eden Avcı, insanların palamudu yediğini, tuzladığını ve dondurucuya attığını belirtti. Palamut avının bitecek gibi görünmediğini ve uzun süre devam edeceğini düşündüğünü ekledi.\n\nTezgahlarda palamut 100-125 TL arasında satılırken, diğer bazı balık çeşitlerinin kilogram fiyatları ise istavrit için 150 TL, hamsi için 400 TL, mezgit, çinekop ve barbun için ise 600 TL olarak belirlendi.",
+      "highlights": [
+        "Palamut normalde göç etmesi gerekirken boğazdan geri dönerek Karadeniz'e yöneldi ve tezgahlarda yeniden bolluk yaşandı.",
+        "Yaklaşık 1 kilogram ağırlığındaki palamudun tanesi 100-125 TL arasında satılıyor.",
+        "Hamsinin kilogram fiyatı 400 TL'yi bulurken, istavrit 150 TL, mezgit, çinekop ve barbun ise 600 TL'den alıcı buluyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-goc-etmesi-bekleniyordu-tezgaha-geri-geldi-25-yillik-balikciyim-boyle-bir-durum-gormedim-1752044",
+      "publishedAt": "2026-11-22T09:23:01.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
       "headline": "Theresa May'den Andy Burnham'a Brexit Açıklaması: 'İlerlemeli'",
@@ -22,7 +46,8 @@
       "publishedAt": "2026-11-22T09:09:22.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T09:24:18.213Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/hamile-kadini-doner-bicagiyla-yaraladi-korkunc-ifade-3929180",
@@ -45,6 +70,29 @@
       "externalUrl": "https://www.haberturk.com/gundem/hamile-kadini-doner-bicagiyla-yaraladi-korkunc-ifade-3929180",
       "publishedAt": "2026-11-22T09:09:08.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "headline": "Trump'ın çıkış stratejisi İran ablukasının kaldırılmasına bağlı olabilir",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1569285645462-a3f9c6332d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NTE5MjUyN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Darren Halstead",
+        "photographerUrl": "https://unsplash.com/@darren1303",
+        "unsplashUrl": "https://unsplash.com/photos/man-wearing-donald-trump-mask-standing-in-front-of-white-house-B_vXFdzvw3g"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Amerika Birleşik Devletleri Başkanı Donald Trump'ın, ülkenin içinde bulunduğu savaşı sona erdirmek istemesi durumunda İran'a yönelik deniz ablukasını hafifletmek zorunda kalacağı belirtildi.\n\nBir analist tarafından yapılan değerlendirmeye göre, bu adım Washington yönetimi için olası bir çıkış stratejisinin merkezinde yer alabilir.\n\nSöz konusu ablukanın sessizce kaldırılmasının, çatışmaların seyrini değiştirebilecek kritik bir hamle olabileceği ifade ediliyor. Ancak sürecin nasıl işleyeceği ve stratejinin hayata geçirilip geçirilmeyeceği konusunda başka bir detay paylaşılmadı.",
+      "highlights": [
+        "Analiste göre Trump savaşı bitirmek için İran ablukasını hafifletmek zorunda kalabilir",
+        "Ablukanın kaldırılması olası bir çıkış stratejisine bağlı olabilir"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "publishedAt": "2026-11-22T09:06:27.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3060,7 +3108,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
-      "imageSearchAttemptedAt": "2026-11-22T03:10:44.743Z"
+      "imageSearchAttemptedAt": "2026-11-22T09:24:18.213Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
@@ -3120,9 +3168,9 @@
       "timeAgo": "3 dk önce",
       "body": "Ukrayna Devlet Başkanı Volodimir Zelensky, Rusya'yı işgal altındaki Kırım'a bağlayan kritik köprüyü hedef alan saldırıların, Ukrayna'daki köprülere yönelik 109 ayrı Rus saldırısına karşı \"adil bir yanıt\" olduğunu savundu. Zelensky, Kiev'de BBC'ye yaptığı açıklamada, Kırım Köprüsü'ne düzenlenen saldırıların ardından Rusya'nın yoğun saldırılarla karşılık vermesinin Vladimir Putin'in savaşı durdurmak istemediğinin ve tırmandırma bahçesi aradığının sinyali olduğunu belirtti.\n\nPutin'in Çin'de köprünün yalnızca sivil amaçlı kullanıldığı yönündeki iddiasını reddeden Zelensky, internette tankların ve diğer Rus askeri teçhizatının tedarik hattı olarak bu güzergahı kullandığını gösteren kanıtlar bulunduğunu ifade etti. Rusya'nın Şubat 2022'de tam kapsamlı işgal başlattığını hatırlatan Zelensky, bu açıklamaları İngiltere Savunma Bakanı Wes Streeting ile Kiev'de yapacağı görüşme öncesinde gerçekleştirdi.\n\nZiyaret sırasında Streeting, Avrupa'nın Ukrayna'ya desteğinde birlik içinde olduğunu göstermek için Kiev'de bulunduğunu vurguladı. Putin'in bölmeye çalıştıkça kendilerinin daha kararlı hale geldiğini belirten Streeting, Cuma günü askeri tatbikat sırasında Polonya'yı vuran Rus füzelerini \"öfke uyandıran bir provokasyon\" olarak nitelendirdi ve Putin'i \"soğukkanlı bir katil\" olarak tanımladı.\n\nÖte yandan Finlandiya Savunim Bakanlığı, cumartesi günü yaptığı açıklamada, Doğu Finlandiya Körfezi'ndeki uluslararası deniz alanında bir Rus ticaret gemisine drone saldırısı tespit edildiğini ve geminin hasar gördüğünü bildirdi. Açıklamada bölgede geçici havacılık ve denizcilik kısıtlamalarının yeniden getirildiği belirtilirken, Rusya konuya ilişkin henüz kamuoyuna bir açıklama yapmadı.",
       "highlights": [
-        "Zelensky Kırım Köprüsü saldırılarını adil yanıt olarak nitelendirdi",
-        "Ukrayna köprülere yönelik 109 ayrı Rus hava saldırısı düzenlendiğini belirtti",
-        "Açıklama İngiltere'den Streeting ile görüşmede yapıldı"
+        "Zelensky, Kırım Köprüsü saldırılarını haklı bir yanıt olarak nitelendirdi",
+        "Açıklama, Ukrayna'nın köprülerine yapılan 109 Rus hava saldırısının ardından geldi",
+        "Görüşme İngiltere'den Streeting ile gerçekleştirildi"
       ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T12:20:55.000Z",
@@ -3130,7 +3178,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:34:20.382Z",
-      "imageSearchAttemptedAt": "2026-11-22T03:10:44.743Z"
+      "imageSearchAttemptedAt": "2026-11-22T09:24:18.213Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sivasta-polis-memurunun-dikkati-yurekleri-isitti-4875194",
@@ -14579,55 +14627,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T12:34:43.744Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/istanbulda-lodos-etkisini-marmara-denizinde-surduruyor-4873974",
-      "headline": "İstanbul'da sabahtan beri etkili olan lodos Marmara Denizi'nde sürüyor",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1767555678246-395201d917b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXN0YW5idWwlMjBzdG9ybXklMjBzZWF8ZW58MXwwfHx8MTc5NTAwMzQ4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Enes Doğan",
-        "photographerUrl": "https://unsplash.com/@enesdogan",
-        "unsplashUrl": "https://unsplash.com/photos/maidens-tower-surrounded-by-choppy-water-and-seagulls-02TucL2xi0Q"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul'da sabah saatlerinden itibaren başlayan lodos, Marmara Denizi'nde etkisini sürdürmeye devam ediyor. Kentte gün boyu etkili olan rüzgar nedeniyle Salacak sahilinde yüksek dalgalar oluştu.\n\nMeteoroloji Genel Müdürlüğü ve İstanbul Valiliği'nin uyarılarının ardından etkili olan lodos ve fırtına, Üsküdar Sahili'nde de dalgalara yol açtı. Kıyıya vuran dev dalgalar bazı vatandaşları ıslattı.\n\nÖte yandan İBB Afet Koordinasyon Merkezi (AKOM), İstanbul'da rüzgarın etkisini artırarak cuma günü saatte 85 kilometre hıza ulaşabileceğini bildirdi. Yetkililer vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
-      "highlights": [
-        "İstanbul'da sabah saatlerinde başlayan lodos Marmara Denizi'nde etkisini sürdürüyor",
-        "Salacak sahilinde rüzgarın şiddetiyle yüksek dalgalar oluştu",
-        "Rüzgarın etkisi sabah saatlerinden bu yana devam ediyor"
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/istanbulda-lodos-etkisini-marmara-denizinde-surduruyor-4873974",
-      "publishedAt": "2026-11-18T12:02:58.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T12:14:55.737Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/france/20261118-we-weren-t-afraid-of-the-future-france-s-student-protests-today-and-in-may-68",
-      "headline": "Fransa'da Günümüz Öğrenci Eylemleri ve Mayıs 1968'in Kıyaslaması",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1602089097457-1badf4b7ffa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c3R1ZGVudCUyMHByb3Rlc3R8ZW58MXwwfHx8MTc5NTAwMzQ4NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kalea Morgan",
-        "photographerUrl": "https://unsplash.com/@kakalea",
-        "unsplashUrl": "https://unsplash.com/photos/people-holding-white-and-black-signage-during-daytime-l2CSvpj065o"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Fransa genelinde öğrencilerin okullardaki koşullara karşı sürdürdüğü protestolar, ülkenin tarihinin en büyük öğrenci eylemleri olan Mayıs 1968 hareketleriyle kaçınılmaz karşılaştırmalara yol açıyor. Günümüzdeki gençlerin 58 yıl öncesine kıyasla bambaşka bir dünyada değişim talebinde bulunduğu belirtiliyor.\n\n1968 yılının Mayıs ayında 16 yaşında olan Maryse Esterle, üniversitelerden başlayan öğrenci hareketinin sınıflara sıçradığı dönemi hatırlıyor. O dönemde Fransa'da karma eğitim norm değilken, en önemli meselelerden birinin kız ve erkek çocuklar arasındaki ayrımı sona erdirmek olduğunu ifade ediyor.\n\nENS Lyon üniversitesinden siyaset bilimci Boris Gobille, 1968 yılında genç olmanın iki dünya arasında sıkışmak anlamına geldiğini belirtiyor. Bir yanda bastırılamaz bir özgürleşme arzu edilirken, diğer yanda hâlâ çok katı kurallara sahip bir toplumda yaşandığını, gençlerin ebeveynlerinden farklı bir kültüre sahip olduğunu aktarıyor. Ayrıca dönemin ekonomik büyüme ve refah ortamı sayesinde gençlerin geleceğe dair bir korku taşımadığını vurguluyor.\n\nBugünkü eylemcilerin ekonomik kriz, artan eşitsizlikler, iklim değişikliği ve aşırı sağ gibi sorunlarla karşı karşıya olduğu, 1968'deki protestoların ise üniversite reformları talebiyle başlayıp daha geniş bir boyuta ulaştığı ifade ediliyor. 1968 yılında işçi hareketinin de katılımıyla milyonlarca insanın dahil olduğu genel grev tarihin en büyüğü olarak kayıtlara geçmişti.\n\nGünümüzdeki protestoların ise çok daha küçük ölçekte gerçekleştiği görülüyor. Uzmanlar, demografik yapının değiştiğini ve yaşlı nüfusun arttığını, Fransa'daki örgütlü eylem geleneğinin gerilediğini ve sosyal medya üzerinden yeni kitlesel hareket biçimlerinin ortaya çıktığını belirtiyor.",
-      "highlights": [
-        "Fransa'daki güncel öğrenci protestoları Mayıs 1968 olaylarıyla karşılaştırılıyor.",
-        "1968'deki eylemler tarihin en büyük genel grevine dönüşmüştü.",
-        "Günümüzdeki protestolar daha küçük ölçekte gerçekleşiyor."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/france/20261118-we-weren-t-afraid-of-the-future-france-s-student-protests-today-and-in-may-68",
-      "publishedAt": "2026-11-18T12:01:49.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
