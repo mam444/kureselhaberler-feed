@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T07:04:32.914Z",
+  "generatedAt": "2026-11-22T07:14:36.560Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/hindistanda-feci-kaza-kamerada-saniye-saniye-kaydetti-can-kaybi-bildirildi-7705439",
+      "headline": "Hindistan'da feci kaza kamerada: Saniye saniye kaydetti, can kaybı bildirildi!",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1661188279623-d9fc9dda3b6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhZmZpYyUyMGFjY2lkZW50JTIwSW5kaWF8ZW58MXwwfHx8MTc5NTMzMTY3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carolina Avinceta",
+        "photographerUrl": "https://unsplash.com/@theroamfree",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-vehicles-are-parked-in-a-parking-lot-f1csk2-sJPs"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "India Today'in haberine göre Hindistan'ın Andhra Pradesh eyaletinin Kakinada ilçesindeki bir otoyolda cumartesi sabahı ölümcül bir trafik kazası meydana geldi. Servis şeridinden çıkıp otoyolu geçmeye çalışan yaşlı bir motosiklet sürücüsüne çarpmamak isteyen mavi bir SUV sürücüsü ani bir manevra yaptı. Güvenlik kameralarına yansıyan olayda, aşırı hızla ilerleyen SUV ters şeride geçerek karşı yönden gelen beyaz bir SUV ile kafa kafaya çarpıştı.\n\nYaşanan bu çarpışma zincirleme bir reaksiyona neden oldu ve kazaya başka bir motosiklet sürücüsü de karıştı. Şiddetli çarpışmanın etkisiyle bu sürücü havaya birkaç metre savruldu. Sosyal medyada hızla yayılan güvenlik kamerası görüntülerinde, yaşlı adamın otoyoldan karşıya geçmeye çalışması, sonrasındaki şiddetli çarpışma ve kazaya sebep olan motosiklet sürücüsünün olay yerinden kaçma anı saniye saniye kaydedildi.\n\nKazada iki kişi hayatını kaybederken üç kişi de ağır yaralandı. Yaralılar tedavi edilmek üzere çevredeki bir hastaneye kaldırıldı. Yetkililer, hayatını kaybedenlerin ve yaralananların kimliklerinin henüz belirlenemediğini bildirdi. Olayla ilgili soruşturma sürerken daha fazla ayrıntı bekleniyor.",
+      "highlights": [
+        "Andhra Pradesh'ın Kakinada ilçesindeki otoyolda kaza meydana geldi.",
+        "Motosikletliye çarpmamak isteyen SUV karşı şeride geçerek kafa kafaya çarpıştı.",
+        "Kazada iki kişi hayatını kaybetti, üç kişi de ağır yaralandı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/hindistanda-feci-kaza-kamerada-saniye-saniye-kaydetti-can-kaybi-bildirildi-7705439",
+      "publishedAt": "2026-11-22T07:12:32.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/izmirde-3-6-buyuklugunde-deprem-3496367",
       "headline": "İzmir'de 3,6 büyüklüğünde deprem",
@@ -15,15 +39,16 @@
       "timeAgo": "şimdi",
       "body": "İzmir'de 3,6 büyüklüğünde bir deprem meydana geldiği bildirildi. Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) tarafından yapılan açıklamalara göre, sarsıntı 22 Kasım 2026 tarihinde kaydedildi.\n\nAFAD'ın resmi sosyal medya hesabı üzerinden paylaşılan bilgilere göre deprem saat 03:14:16'da gerçekleşti. Sarsıntının merkez üssünün İzmir'in Menemen ilçesi olduğu açıklandı.\n\nYetkililer tarafından paylaşılan verilere göre depremin derinliği 13.51 kilometre olarak ölçüldü. Depremle ilgili resmi kurumlarca aktarılan ayrıntılar bu bilgilerle sınırlı kaldı.",
       "highlights": [
-        "İzmir'de 3,6 büyüklüğünde deprem meydana geldi",
-        "Depremin merkez üssü Menemen olarak açıklandı",
-        "Sarsıntının derinliği 13.51 kilometre olarak ölçüldü"
+        "İzmir'de 3,6 büyüklüğünde deprem meydana geldi.",
+        "Depremin merkez üssü Menemen olarak açıklandı.",
+        "Sarsıntının derinliği 13,51 kilometre olarak ölçüldü."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/izmirde-3-6-buyuklugunde-deprem-3496367",
       "publishedAt": "2026-11-22T07:08:09.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T07:14:20.426Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-bu-gece-basliyor-sabaha-kadar-devam-edecek-istanbulun-22-ilcesinde-elektrik-kesintisi-yasanacak-1752011",
@@ -194,20 +219,46 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+      "headline": "Labour MPs sign up for leadership course to counter rightwing populism",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1788924646015-41ba762e59d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TGFib3VyJTIwTVBzJTIwc2lnbiUyMHVwJTIwZm9yJTIwbGVhZGVyc2hpcCUyMGNvdXJzZSUyMHRvJTIwY291bnRlciUyMHJpZ2h0d2luZyUyMHBvcHVsaXNtfGVufDF8MHx8fDE3OTUzMzE2Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Matthew Larsen",
+        "photographerUrl": "https://unsplash.com/@matthew_larsen",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-walking-toward-beehive-in-wellington-WPC2u9BrAYg"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Course run by former No 10 advisers is funded by Gary Lubner, who has given more than £11m to Labour More than 20 Labour MPs have signed up to a year-long leadership course helping them to counter rightwing populism and deal with hostility, run by two former No 10 advisers and ultimately funded by multimillionaire donor Gary Lubner. The training courses worth about £9,600 are being led by Ruth Turner, who was Tony…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+      "publishedAt": "2026-11-22T06:00:21.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
       "id": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
-      "headline": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
+      "headline": "Berlin Sanat Kompleksindeki Askeri Yapay Zeka Etkinliği Tepki Çekti",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "1 sa önce",
-      "body": "Kraftwerk Berlin, part of same development as techno club Tresor, transformed into ‘war room’ for arms firm event With their cavernous post-industrial venues, teeth-grinding four-by-four beats and bouncers that look like Blade Runner extras, Berlin’s nightclubs trade on a reputation for bleakness. A recent event at one of the city’s most legendary clubland institutions, however, has proven too dystopian even for…",
-      "highlights": [],
+      "body": "Berlin'deki Kraftwerk Berlin sanat kompleksinde gerçekleştirilen askeri yapay zeka etkinliği, kent müzik sahnesinde büyük bir öfkeye yol açtı. Berlin Security Conference kapsamında, Alman silah girişimi Helsing'in yapay zeka hedefleme sistemi Clarity'nin tanıtıldığı etkinlikte kompleksin ana salonu savaş odasına dönüştürüldü. Ziyaretçiler duvara yansıtılan haritalar, tavana asılan dronlar ve çelik yelekli, iz sürme köpekleriyle devriye gezen güvenlik görevlileriyle karşılaştı. Atonal müzik festivaline ev sahipliği yapan ve Tresor kulübüyle aynı komplekste bulunan mekan, etkinliğin ardından özür diledi.\n\nKraftwerk Berlin, yaşanan tepkiler üzerine kiralama departmanının rezervasyon politikasını gözden geçireceğini duyurarak durumu ciddi bir muhakeme hatası olarak nitelendirdi. Münih merkezli Helsing, kurucuları arasında Spotify'ın kurucu ortağı Daniel Ek'in de bulunduğu bir şirket olarak biliniyor. Şirket, Clarity platformunun drone, uydu ve sensör verilerini kullanarak hedeflere kilitlenen bir ajan istihbarat sistemi olduğunu belirtiyor. Helsing sözcüsü, sistemin kişileri belirlemek üzere tasarlanmadığını ve radar sistemleri, fırlatma rampaları ile gemiler gibi nesneleri aramak üzere geliştirildiğini savundu.\n\nYaşanan olay, Berlin'in ünlü gece hayatının ticari kullanımı ile kültür sektörünün geleneksel pasifizmi arasındaki gerilimleri gözler önüne serdi. 1990'larda Berlin ile Detroit elektronik müzik sahnesi arasında köprü kuran Tresor gece kulübü ve plak şirketi, etkinliği en sert şekilde kınayarak topluluklarının inşa ettiği mekanlarda buna yer olmadığını belirtti. Kraftwerk Berlin'in yöneticisi Dietmar-Maria Dimitri Hegemann, rezervasyonun kendisine danışılmadan ticari kiralama birimindeki bir personel tarafından yapıldığını ve bunun kabul edilemez olduğunu ifade etti.\n\nSavunucular Berlin'deki birçok kulübün artan kiralar ve düşen bütçelerle mücadele ettiğine dikkat çekerken, bu durum ticari kiralamaları norm haline getirdi. Daha önce de benzer ticari etkinliklere ev sahipliği yapan mekanda, Ekim ayında Alman hükümeti tarafından düzenlenen bir yatırım zirvesi gerçekleşmişti. Buna karşın, Clarity lansmanına gösterilen tepki, Avrupa'daki güvenlik tehditleri ve silah endüstrisinin yükselişi ile bölgenin anti-militarist kültürel konsensüsü arasındaki çatışmayı yeniden tartışmaya açtı.",
+      "highlights": [
+        "Kraftwerk Berlin, askeri yapay zeka etkinliği nedeniyle ciddi bir muhakeme hatası yaptığını belirterek özür diledi.",
+        "Alman silah girişimi Helsing'in Clarity adlı hedefleme sistemi bir sanat kompleksinde tanıtıldı.",
+        "Tresor gece kulübü ve plak şirketi etkinliği en sert şekilde kınadı."
+      ],
       "externalUrl": "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
       "publishedAt": "2026-11-22T06:00:21.000Z",
-      "category": "Kültür & Sanat",
+      "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-22T07:14:20.426Z",
+      "sourceTextAttemptedAt": "2026-11-22T07:14:20.426Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/video-beykozda-iett-otobusunde-bicakla-tehdit-eden-supheli-alkollu-cikti-1751999",
@@ -9328,7 +9379,7 @@
       "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T19:24:27.020Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:14:20.426Z",
       "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
       "isBreaking": false
     },
@@ -9671,7 +9722,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:14:23.712Z",
-      "imageSearchAttemptedAt": "2026-11-21T19:24:27.020Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:14:20.426Z",
       "isBreaking": false
     },
     {
@@ -14575,56 +14626,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T09:54:27.108Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-      "headline": "Shabana Mahmood, 'İki Telli Polislik' Algısıyla Mücadele Sözü Verdi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1568649801302-3bee5a870b75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwb2ZmaWNlciUyMFVLfGVufDF8MHx8fDE3OTQ5OTMyNjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kai Pilger",
-        "photographerUrl": "https://unsplash.com/@kaip",
-        "unsplashUrl": "https://unsplash.com/photos/woman-wearing-black-police-suit-Xq3RLluXfYo"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "İngiltere ve Galler'deki polis teşkilatının yaklaşık 200 yerel komutanlık şeklinde yeniden yapılandırılacağı açıklandı. İçişleri Bakanı Shabana Mahmood, polis liderlerine yaptığı konuşmada, yerel alanların ihtiyaçlarına odaklanacak daha küçük ve çok sayıda komutanlıktan oluşan bir yapı inşa edeceğini duyurdu. İçişleri Bakanlığı tarafından son 200 yıldaki en büyük polislik reformu olarak nitelendirilen bu süreçte, hırsızlık, araç hırsızlığı, telefon hırsızlığı ve huzuru bozucu davranışlar gibi rutin suçlarla ilgilenecek yeni yerel polis komutanlıkları kurulacak.\n\nKonsey coğrafi sınırlarıyla büyük ölçüde uyumlu olacak bu yeni yapılar, kasabaları veya kırsal alanları kapsayacak. Karar alma süreçlerinin yerel bilgi ve anlayışla yönlendirileceği bu sistem, polisin denetimli serbestlik, sağlık ve konut gibi diğer yerel hizmetlerle daha yakın ortaklık kurmasını sağlayacak. Yeni yerel polis garantisi, ülkenin neresinde olursa olsun her bir komutanlığın aynı yüksek kalitede hizmet sunmasını güvence altına alacak. Ocak ayında hükümet, bazı polis güçlerinin birleştirilmesine yönelik planları içeren bir beyaz birlik yayımlamıştı ancak bölgesel düzeydeki güçlerin azaltılması konusundaki ilerlemeler beklemekteydi.\n\nYapılan açıklamaya göre, yeni sistemde yerel komutanlıklar hiyerarşinin en altında yer alacak. Her yerel komutanlığın yerel topluluğa ve seçilmiş yetkililere karşı sorumlu, adlandırılmış bir komutanı bulunacak ve topluluklar yerel önceliklerin belirlenmesinde rol oynayabilecek. Bu yapıların üstünde ise kamu düzeni, adli tıp ve ateşli silahlar gibi en ciddi ve karmaşık suçların soruşturulmasını yürütecek uzman hizmetler yer alacak. Yeni sistem ayrıca mevcut 43 polis karargahındaki idari tekrarları ortadan kaldırarak binlerce polisi mahalle polisliğine döndürmeyi amaçlıyor.\n\nYapılan düzenlemenin en üst kademesinde ise ulusal ve uluslararası tehditlerle mücadele edecek Ulusal Polis Servisi bulunacak. Bu servis, terörle mücadele ve diğer ajansların kabiliyetlerini bir araya getirerek 21. yüzyılda suçla mücadele için gerekli teknoloji ve kaynakları sağlayacak. İçişleri Bakanlığı, bu hamlenin daha geniş bir polis reformu programının ilk adımı olduğunu belirtti. Mevcut sistemde İngiltere ve Galler genelinde 43 farklı polis gücü faaliyet göstermektedir.",
-      "highlights": [
-        "Polis teşkilatı yaklaşık 200 yerel komutanlık şeklinde yeniden yapılandırılacak.",
-        "Hırsızlık ve huzuru bozucu davranışlar gibi rutin suçlarla yerel komutanlıklar ilgilenecek.",
-        "En üst kademede Ulusal Polis Servisi yer alacak."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/live/2026/nov/18/shabana-mahmood-andy-burnham-kemi-badenoch-pmqs-latest-news-updates",
-      "publishedAt": "2026-11-18T09:04:03.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T12:04:23.103Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
-      "headline": "Paris Hilton ve AOC, Yapay Zeka Üretimi Deepfake'lere Karşı Açıklama Yaptı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1649294437222-86377f9f7f7f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8UGFyaXMlMjBIaWx0b258ZW58MXwwfHx8MTc5NDk5NDUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Road Ahead",
-        "photographerUrl": "https://unsplash.com/@roadahead_2223",
-        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-pool-and-buildings-in-a-city-jnHw1jtaBD8"
-      },
-      "timeAgo": "21 dk önce",
-      "body": "ABD Kongre Üyesi AOC ve televizyon kişiliği Paris Hilton, kadınları ve kız çocuklarını hedef alan yapay zeka ürünü deepfake'lere karşı ses yükseltti. İkili, bu tür içeriklerin yarattığı tehditlere dikkat çekerek konuyla ilgili ortak bir duruş sergiledi. Yapay zeka teknolojisinin kötüye kullanımının özellikle kadınlar ve kız çocukları üzerinde olumsuz etkiler oluşturduğu vurgulandı. Gerçekleştirilen bu açıklamalarla birlikte, deepfake teknolojisinin mağdurları üzerindeki etkilerine dair endişeler dile getirildi.",
-      "highlights": [
-        "ABD Kongre Üyesi AOC ve Paris Hilton deepfake'lere karşı konuştu",
-        "İçerikler kadınları ve kız çocuklarını hedef alıyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/18/paris-hilton-and-aoc-speak-against-ai-generated-deepfakes?traffic_source=rss",
-      "publishedAt": "2026-11-18T09:03:05.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-18T09:34:56.240Z",
-      "sourceTextAttemptedAt": "2026-11-19T12:04:23.103Z",
       "isBreaking": false
     }
   ],
