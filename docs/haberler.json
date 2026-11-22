@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-22T10:04:45.193Z",
+  "generatedAt": "2026-11-22T10:14:40.963Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
+      "headline": "Galler Prensesi kanser süreci hakkında konuştu",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1644875516974-497e69051f56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8UHJpbmNlc3MlMjBDYXRoZXJpbmUlMjBjYW5jZXIlMjBkb2N1bWVudGFyeXxlbnwxfDB8fHwxNzk1MzQyNDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Karina Halley",
+        "photographerUrl": "https://unsplash.com/@karinahalley",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-white-dress-and-a-doll-in-a-white-dress-N05b1OABeDo"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Galler Prensesi Catherine, 2024 yılındaki kanser teşhisinin ardından yaşadığı süreci konu alan Heal adlı yeni bir belgeselde yer aldı. 44 yaşındaki prensesin hayatını takip eden yapım, onun 24 saat içinde İskoçya, İngiltere ve Galler'deki en yüksek dağlara tırmanma girişimini ekranlara taşıyor.\n\nBelgeselin fragmanında Galler Prensesi, iyileşme sürecini bir yolculuk olarak değerlendiriyor. Fransa 24'te yayımlanan ve Ophelie Jacobson tarafından hazırlanan video içerikli haberde, yeni yapımın detayları paylaşıldı. Belgesel, prensesin kanser teşhisi sonrasındaki yaşam mücadelesine ve doğa içindeki tırmanış denemesine odaklanıyor.",
+      "highlights": [
+        "Galler Prensesi Catherine kanser teşhisi sonrasını anlatan yeni bir belgeselde yer aldı",
+        "Heal adlı film 44 yaşındaki prensesin 24 saatte en yüksek dağlara tırmanma girişimini konu alıyor",
+        "Fragmanında iyileşmeyi bir yolculuk olarak tanımlayan prenses süreci değerlendiriyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
+      "publishedAt": "2026-11-22T10:07:02.000Z",
+      "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/siverekte-10-yil-hapis-cezasiyla-aranan-hukumlu-yakalandi-4875414",
+      "headline": "Siverek’te 10 yıl hapis cezasıyla aranan hükümlü yakalandı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1639865796674-f13b84051866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Z2VuZGFybWVyaWUlMjBhcnJlc3R8ZW58MXwwfHx8MTc5NTM0MjQ3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "(Augustin-Foto) Jonas Augustin",
+        "photographerUrl": "https://unsplash.com/@augustinfoto",
+        "unsplashUrl": "https://unsplash.com/photos/a-police-officer-standing-in-front-of-a-crowd-of-people-MzZD5OwanV8"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Şanlıurfa’nın Siverek ilçesinde, bir yabancıyı ülkeye sokmak veya ülkede kalmasına imkân sağlamak suçundan hakkında 10 yıl kesinleşmiş hapis cezası bulunan bir kişi jandarma ekiplerince yakalandı.\n\nŞanlıurfa İl Jandarma Komutanlığı tarafından nitelikli suçlardan aranan kişilerin yakalanmasına yönelik yürütülen çalışmalar kapsamında, Siverek İlçe Jandarma Komutanlığı ekipleri bir operasyon düzenledi.\n\nGerçekleştirilen çalışmalar sonucunda, Ö.Y. isimli hükümlü yakalanarak gözaltına alındı.\n\nGözaltına alınan hükümlünün, jandarmadaki işlemlerinin tamamlanmasının ardından adli makamlara sevk edileceği bildirildi.",
+      "highlights": [
+        "Siverek'te 10 yıl kesinleşmiş hapis cezası bulunan Ö.Y. yakalandı.",
+        "Operasyon Şanlıurfa İl Jandarma Komutanlığı koordinesinde gerçekleştirildi.",
+        "Hükümlü, jandarmadaki işlemlerin ardından adli makamlara sevk edilecek."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/siverekte-10-yil-hapis-cezasiyla-aranan-hukumlu-yakalandi-4875414",
+      "publishedAt": "2026-11-22T10:06:36.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-emekliye-refah-payi-duzenlemesi-ve-fon-sorusturmasi-ele-alinacak-1752049",
       "headline": "Kabine Yarın Toplanıyor: Gündemde Emekliye Refah Payı ve Fon Soruşturması Var",
@@ -15,15 +63,16 @@
       "timeAgo": "1 dk önce",
       "body": "Cumhurbaşkanlığı Kabinesi, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında yarın Beştepe'de bir araya gelecek. Toplantının ana gündem maddesini, 17 milyon emekliyi kapsaması beklenen refah payı düzenlemesi oluşturacak.\n\nÇalışmanın son durumunun ele alınacağı toplantıda, emeklilere refah payı verilmesi ve en düşük emekli aylığında artış yapılması beklentileri masaya yatırılacak. Bütçe maratonunun ardından kanun teklifinin Meclis'e sunulması beklenirken, Cumhurbaşkanı Erdoğan düzenlemenin yeni yıla girmeden hayata geçirileceğini ifade etmişti.\n\nKabinenin bir diğer önemli gündem başlığı ise fon soruşturması olacak. Bu süreç, toplantıda hem adli hem de idari boyutlarıyla kapsamlı şekilde değerlendirilecek.\n\nToplantıda ayrıca Terörsüz Türkiye sürecindeki son durum ve güvenlik birimlerinden gelen istihbarat raporları ele alınacak. Öte yandan ABD-İran gerilimi, Hürmüz Boğazı'nda seyrüsefer güvenliği, İsrail'in Suriye ve Gazze saldırıları ile Antalya'daki COP31 İklim Zirvesi'nin çıktıları da gözden geçirilecek başlıklar arasında yer alıyor.",
       "highlights": [
-        "Cumhurbaşkanlığı Kabinesi yarın Beştepe'de toplanacak",
-        "Emekliye refah payı düzenlemesi ana gündem maddesi olacak",
-        "Fon soruşturması, Terörsüz Türkiye süreci ve dış gelişmeler ele alınacak"
+        "Cumhurbaşkanlığı Kabinesi yarın Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında Beştepe'de toplanacak.",
+        "Emekliye refah payı düzenlemesi ve fon soruşturmasındaki son durum toplantının ana gündem maddeleri arasında yer alacak.",
+        "Terörsüz Türkiye süreci, ABD-İran gerilimi ve Ortadoğu'daki gelişmeler masaya yatırılacak."
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/kabine-yarin-toplaniyor-emekliye-refah-payi-duzenlemesi-ve-fon-sorusturmasi-ele-alinacak-1752049",
       "publishedAt": "2026-11-22T10:03:41.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T10:14:18.066Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/video-matematik-ogrencisi-zehra-okul-masraflari-icin-taksi-soforu-oldu-1752048",
@@ -3808,7 +3857,7 @@
       "timeAgo": "3 dk önce",
       "body": "Danimarka, Moskova yönetimini Kopenhag'da Ukrayna ve Amerika kökenli bir rap şarkıcısına yönelik başarısız bir suikast girişiminin arkasında olmakla suçladı. Yaşanan bu gelişme, Avrupa ile Rusya arasındaki gerilimi tırmandıran bir olay olarak kayıtlara geçti.\n\nBu suçlamanın ardından Danimarka makamları, bir Rus diplomatın sınır dışı edilmesine karar verdi. Ayrıca yetkililer, Rus turistler için vize süreçlerinde daha sıkı kısıtlamalar uygulanacağını duyurdu. Haber, Yuka Royer tarafından aktarıldı.",
       "highlights": [
-        "Danimarka, Kopenhag'daki başarısız suikast girişiminden Rusya'yı sorumlu tuttu.",
+        "Danimarka, Rusya'yı Kopenhag'daki bir suikast girişiminin arkasında olmakla suçladı.",
         "Bir Rus diplomat sınır dışı edildi.",
         "Rus turistler için vize kısıtlamaları artırıldı."
       ],
@@ -3816,7 +3865,7 @@
       "publishedAt": "2026-11-21T09:51:01.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:04:22.126Z",
+      "sourceTextAttemptedAt": "2026-11-22T10:14:18.066Z",
       "isBreaking": false
     },
     {
@@ -14582,55 +14631,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T13:14:23.606Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-      "headline": "GTA 6 Hakkında Bilmeniz Gereken Her Şey",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dmlkZW8lMjBnYW1lfGVufDF8MHx8fDE3OTUwMDgyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Florian Olivo",
-        "photographerUrl": "https://unsplash.com/@florianolv",
-        "unsplashUrl": "https://unsplash.com/photos/person-sitting-on-gaming-chair-while-playing-video-game-Mf23RF8xArY"
-      },
-      "timeAgo": "22 dk önce",
-      "body": "Uzun süredir büyük bir merakla beklenen Grand Theft Auto 6 oyununun gece yarısı piyasaya sürülmesi planlanıyor. Yaşanacak bu büyük çıkış öncesinde ekonomistler dikkat çekici bir öngörüde bulundu.\n\nUzmanların tahminlerine göre oyunun piyasaya çıkışı, iş gücü verimliliğinde yaşanabilecek düşüşler nedeniyle ABD'ye 1 milyar dolara kadar mal olabilir. Oyun dünyasında büyük bir heyecan yaratan bu gelişmeyle ilgili beklentiler devam ediyor.",
-      "highlights": [
-        "GTA 6 gece yarısı piyasaya çıkmaya hazırlanıyor.",
-        "Ekonomistler oyunun ABD'ye verimlilik kaybı olarak 1 milyar dolara mal olabileceğini öngörüyor."
-      ],
-      "externalUrl": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-      "publishedAt": "2026-11-18T13:02:33.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T13:34:34.209Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/sinopta-tarihi-jandarma-binasi-halk-kutuphanesi-oluyor-4873992",
-      "headline": "Sinop'ta 106 yıllık tarihi jandarma binası halk kütüphanesi olacak",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591469894936-1bffa82d4c7e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2lub3AlMjd0YSUyMDEwNiUyMHklQzQlQjFsbCVDNCVCMWslMjB0YXJpaGklMjBqYW5kYXJtYSUyMGJpbmFzJUM0JUIxJTIwaGFsayUyMGslQzMlQkN0JUMzJUJDcGhhbmVzaSUyMG9sYWNha3xlbnwxfDB8fHwxNzk1MDA2NDc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "umut gultekin",
-        "photographerUrl": "https://unsplash.com/@gltknumut",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-near-body-of-water-during-daytime-UdM4hDuutPI"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Sinop'ta 1920'de jandarma binası olarak inşa edilen 106 yıllık tarihi yapı, halk kütüphanesi olarak hizmet verecek. Vali Mustafa Özarslan, dönüşümü Valiliğin sosyal medya hesaplarından duyurdu.",
-      "highlights": [
-        "1920'de inşa edilen 106 yıllık tarihi jandarma binası halk kütüphanesi olacak.",
-        "Uygulama ve teşhir-tanzim ihalesi Samsun Rölöve ve Anıtlar Müdürlüğü tarafından 25 Kasım'da yapılacak.",
-        "Binada çocuk kütüphanesi, sergi salonu ve kafeterya yer alacak."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/sinopta-tarihi-jandarma-binasi-halk-kutuphanesi-oluyor-4873992",
-      "publishedAt": "2026-11-18T12:53:12.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T13:04:31.016Z",
       "isBreaking": false
     }
   ],
