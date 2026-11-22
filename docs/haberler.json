@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T08:44:21.852Z",
+  "generatedAt": "2026-11-22T08:54:23.333Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+      "headline": "COP31: 'Son' anlaşma taslağı müzakerelerin çökmesini engelleyebilecek mi?",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1794180272704-2bee33f98eb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc5NTI0NjQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mirna Wabi-Sabi",
+        "photographerUrl": "https://unsplash.com/@mirnawabisabi",
+        "unsplashUrl": "https://unsplash.com/photos/people-carrying-environmental-protest-banners-EjBMAbv72U4"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Birleşmiş Milletler iklim konferansı COP31'de müzakerelerin düğümlenmesinin ardından, uzatmalarda da gecikmeler yaşandı. Türkiye ve Avustralya'nın eş başkanlığını yürüttüğü görüşmelerde, ülkeler arasındaki görüş ayrılığını gidermesi umulan yeni bir anlaşma taslağı pazar sabaha karşı yayımlandı. Taslakta \"fosil yakıtlardan uzaklaşılması\" ifadesine açık bir şekilde yer verilmezken, metin ülkelerin üç yıl önce bu yönde verdikleri taahhüdü tanıyor. Ülkelerin bu yeni taslağı kabul edip etmeyeceği pazar sabahı yapılan genel kurulda tartışılacak.\n\nCOP31 Başkanı Murat Kurum, pazar günü konferansa girerken yaptığı açıklamada bir atılım konusunda umutlu olduğunu belirtti. Ancak BBC'nin edindiği bilgilere göre bu görüş Avrupa Birliği tarafından paylaşılmıyor ve AB yeni metni geriye doğru bir adım olarak değerlendiriyor. Yeni taslak, kırılgan ülkelerin iklim krizine uyum sağlamasını kolaylaştıracak finansman konusunda somut bir hedeften bahsetmezken, dünyanın sıcaklık artışını 1,5°C'nin altında tutma hedefine ulaşamama yolunda olduğunu ilk kez kabul ediyor.\n\nEğer ülkeler bir anlaşmaya varamazsa, müzakereler gelecek yıla kadar askıya alınabilir. Bu durum, ülkelerin 1995'te COP iklim konferanslarının düzenlenmeye başlamasından bu yana sadece bir kez yaşandı. Yeni metnin yayımlanmasından kısa süre önce AB İklim Komiseri Wopke Hoekstra, bloğun iklim eylemi açısından ihtiyaç duyulanı elde edememesi durumunda anlaşma olmayacağını söyledi. İngiltere'nin baş müzakerecisi ve Enerji Bakanı Miatta Fahnbulleh ise ekibinin hâlâ bir anlaşmaya varmak için çalıştığını ifade etti.\n\nSuudi Arabistan'ın öncülüğünde fosil yakıt ifadesinin çıkarılması yönündeki baskının ardından, Panama, Solomon Adaları, Fildişi Sahili ve Avrupa Birliği'nden bakanlar bu taahhüdün nihai anlaşmaya yeniden dahil edilmesi için mücadele ediyordu. Deniz seviyesine yakın bir ada ülkesi olan Tuvalu'nun İklim Bakanı Maina Talia bunun ülkesi için kırmızı çizgi olduğunu vurguladı. Fransa Ekolojik Dönüşüm Bakanı Monique Barbut ise metindeki karbon yakalama, kullanma ve depolama teknolojilerine yapılan atıfları eleştirdi.\n\nGelişmekte olan ülkelerin gündeme getirdiği finansman sorunu son anlaşma taslağında da çözüme kavuşturulmamış gibi görünüyor. Gana Çevre Bakanı ve Afrika Müzakereciler Grubu Başkanı Zanetor Agyeman Rawlings, gelişmiş ülkelerin insan kaynaklı faaliyetlerinin yükünü çeken halkları için haklı olarak kendilerine ait olanı talep ettiklerini belirtti. Görüşmeleri takip eden iklim aktivistleri ve çevre grupları ise müzakereleri sert bir dille eleştirdi.",
+      "highlights": [
+        "Türkiye ve Avustralya eş başkanlığındaki COP31 görüşmelerinde yeni anlaşma taslağı pazar sabaha karşı yayımlandı.",
+        "Taslak, dünyanın sıcaklık artışını 1,5°C'nin altında tutma hedefine ulaşamama yolunda olduğunu ilk kez kabul ediyor.",
+        "Avrupa Birliği yeni metni geriye doğru bir adım olarak değerlendirirken, finansman konusunda somut bir hedef yer almıyor."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-22T08:53:37.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/58-yillik-arkadaslik-aska-donustu-75-yasinda-evlendiler-ikinci-baharimiz-oldu-7705527",
       "headline": "58 Yıllık Arkadaşlık Aşka Dönüştü: 75 Yaşında Evlendiler",
@@ -169,7 +193,8 @@
       "publishedAt": "2026-11-22T08:11:40.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:54:19.046Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kdk-devreye-girdi-zabita-alimini-sinirlandiran-sart-kaldirildi-4875381",
@@ -215,6 +240,29 @@
       ],
       "externalUrl": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
       "publishedAt": "2026-11-22T08:00:22.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+      "headline": "Ukrayna'nın Lviv kentindeki füze saldırısı araç kamerasında",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673554858916-75cc870d7a17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8THZpdiUyMG1pc3NpbGUlMjBzdHJpa2V8ZW58MXwwfHx8MTc5NTMzNzY2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alina Borysenko",
+        "photographerUrl": "https://unsplash.com/@borillina",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-an-old-tank-rhFPi21UWos"
+      },
+      "timeAgo": "55 dk önce",
+      "body": "Ukrayna'nın batısındaki Lviv kentinde yaşanan patlama anı, araç kamerasına yansıdı. Kaydedilen görüntülerde, bir füzenin yerleşim bölgesini hedef aldığı anlar yer aldı. Saldırının gerçekleştiği Lviv, ülkenin batısında konumlanıyor. Yaşanan bu olay, bölgedeki güvenlik durumunu bir kez daha gözler önüne serdi. Görüntüler kısa süre içinde kamuoyuyla paylaşıldı.",
+      "highlights": [
+        "Lviv'de bir füze yerleşim bölgesini vurdu",
+        "Saldırı anı araç kamerasıyla kaydedildi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
+      "publishedAt": "2026-11-22T07:59:29.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -3821,7 +3869,7 @@
       "publishedAt": "2026-11-21T08:33:52.000Z",
       "category": "Spor",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T08:54:16.862Z",
+      "sourceTextAttemptedAt": "2026-11-22T08:54:19.046Z",
       "isBreaking": false
     },
     {
@@ -14584,56 +14632,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T11:54:20.732Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261118-turkish-pro-opposition-broadcaster-taken-off-air-after-police-raid",
-      "headline": "Muhalefet yanlısı Türk yayın kuruluşu polis baskınının ardından yayından kaldırıldı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1501141178950-e7fa06e4adf5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dGVsZXZpc2lvbiUyMHN0dWRpb3xlbnwxfDB8fHwxNzk0OTk5ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tim Mossholder",
-        "photographerUrl": "https://unsplash.com/@timmossholder",
-        "unsplashUrl": "https://unsplash.com/photos/close-up-photo-of-spmte-color-bars-oTjFWTHDRZQ"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Türk yetkililer, salı günü şafak vakti düzenlenen polis baskınıyla muhalefet yanlısı Sözcü TV'yi yayından kaldırdı. Savcılar, kanalın ve internet sitesinin yönetimi için bir kayyum atandığını belirtti.\n\nBu hamle, muhalefete yönelik baskıların genişletilmesi olarak değerlendirilirken, medya özgürlüğü konusundaki endişeleri de yeniden alevlendirdi. Söz konusu gelişme, uluslararası alanda ve medya çevrelerinde dikkat çekti. Olayla ilgili resmi makamlar tarafından yapılan açıklamalar ve gelişmeler takip edilmeye devam ediyor.",
-      "highlights": [
-        "Türk yetkililer Sözcü TV'yi şafak vakti düzenlenen baskınla yayından kaldırdı",
-        "Kanalı ve internet sitesini yönetmek üzere kayyum atandı",
-        "Bu gelişme basın özgürlüğü konusundaki endişeleri yeniledi"
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261118-turkish-pro-opposition-broadcaster-taken-off-air-after-police-raid",
-      "publishedAt": "2026-11-18T10:51:55.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:54:20.732Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/israil-parlamentosunda-denge-degisti-netanyahu-donemi-yasalarina-ilk-hamle-7703048",
-      "headline": "İsrail parlamentosunda denge değişti: Netanyahu dönemi yasalarına karşı ilk hamle",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1628495041345-192d4fbabe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8JUM0JUIwc3JhaWwlMjBwYXJsYW1lbnRvc3VuZGElMjBkZW5nZSUyMGRlJUM0JTlGaSVDNSU5RnRpJTNBJTIwTmV0YW55YWh1JTIwZCVDMyVCNm5lbWklMjB5YXNhbGFyJUM0JUIxbmElMjBpbGslMjBoYW1sZSUyMXxlbnwxfDB8fHwxNzk0OTk5Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Christelle Hayek",
-        "photographerUrl": "https://unsplash.com/@christellehayek",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-PDEbVSRG-Cg"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "İsrail devlet televizyonu KAN'ın haberine göre, Yashar Partisi lideri Gadi Eisenkot öncülüğündeki değişim bloğu, Meclis'teki komisyonları ele geçirmesinin ardından Yashar Partisi'nden Matan Kahana'nın Meclis Başkanı seçilmesiyle parlamentoda hakimiyeti ele geçirdi.\n\nDeğişim bloğu, ilk olarak Başbakan Binyamin Netanyahu'nun tartışmalı yargı düzenlemelerini yürürlükten kaldırmaya yönelik tasarılarla işe başladı. Netanyahu'nun koalisyonu döneminde çıkan önemli yasaların yürürlükten kaldırılmasını öngören 4 tasarı ön oylama için Genel Kurul gündemine alındı.\n\nHakim Seçim Komitesi'nin yapısını değiştirmeyi öngören yasa, İsrail Meclisi Genel Kurulu'nda 63 evet oymasına karşılık 47 hayır oyuyla ilk okumadan geçti. Tasarıların yanı sıra Yargı Temel Kanunu maddesini, Mahkemeler Kanunu'na eklenen bir maddeyi, Başsavcılık Kanunu'nu ve İletişim Kanunu'nu yürürlükten kaldırmayı amaçlayan düzenlemeler de görüşülecek.\n\nHaaretz gazetesi, Meclis Başkanının değiştirilmesiyle Netanyahu'nun parlamento üzerindeki hakimiyetine darbe vurulduğunu belirtti. Öte yandan Yedioth Ahronoth gazetesi, Eisenkot öncülüğündeki değişim bloku liderleri Naftali Bennett, Yair Golan, Avigdor Liberman ve Yair Lapid'in bir araya geleceğini bildirdi. Muhalefet bloğunun ortak adayı Kahana, Likud Milletvekili Ofir Katz'ı geride bırakarak Meclis Başkanı seçilmişti.",
-      "highlights": [
-        "Yashar Partisi lideri Gadi Eisenkot öncülüğündeki değişim bloğu parlamentoda hakimiyeti ele geçirdi.",
-        "Hakim Seçim Komitesi'nin yapısını değiştirmeyi öngören yasa Genel Kurul'da ilk okumadan geçti.",
-        "Muhalefet bloğunun ortak adayı Matan Kahana Meclis Başkanı seçildi."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/israil-parlamentosunda-denge-degisti-netanyahu-donemi-yasalarina-ilk-hamle-7703048",
-      "publishedAt": "2026-11-18T10:51:13.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:14:26.157Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
