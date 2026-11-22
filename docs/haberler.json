@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-11-22T11:44:42.763Z",
+  "generatedAt": "2026-11-22T11:54:35.646Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/dahiliye-uzmani-dr-gulsevin-yazici-hakkin-rahmetine-kavustu-4875435",
+      "headline": "Dahiliye uzmanı Dr. Gülsevin Yazıcı Hakk’ın rahmetine kavuşti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1612349316228-5942a9b489c2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZG9jdG9yJTIwcG9ydHJhaXR8ZW58MXwwfHx8MTc5NTM0ODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Yousaf",
+        "photographerUrl": "https://unsplash.com/@usmanyousaf",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-white-dress-shirt-wearing-black-framed-eyeglasses-SakqLf78KVo"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Uzun yıllar insan sağlığına hizmet eden dahiliye uzmanı Dr. Gülsevin Yazıcı hayatını kaybetti. Mesleği boyunca insan sağlığına hizmet veren Yazıcı, görevine olan bağlılığı, yardımseverliği ve güzel ahlakıyla çevresinde sevilen ve saygı duyulan bir hekim olarak tanınıyordu. Albayrak ailesinin hem hekimi hem de yakın aile dostu olan Dr. Gülsevin Yazıcı’nın vefatı, başta Albayrak ailesi olmak üzere tüm yakınları ve sevenleri arasında büyük bir üzüntüye yol açtı.",
+      "highlights": [
+        "Dahiliye uzmanı Dr. Gülsevin Yazıcı hayatını kaybetti.",
+        "Yazıcı, Albayrak ailesinin hem hekimi hem de yakın aile dostuydu.",
+        "Vefat haberi ailesi ve sevenleri arasında derin üzüntü yarattı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/dahiliye-uzmani-dr-gulsevin-yazici-hakkin-rahmetine-kavustu-4875435",
+      "publishedAt": "2026-11-22T11:47:54.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "headline": "İran'ın Körfez'deki saldırılarını artırmasının arkasında ne var?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1773415403629-fbbbb8730608?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8R3VsZiUyMHRhbmtlciUyMGF0dGFja3xlbnwxfDB8fHwxNzk1MzQ4NDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Roger Starnes Sr",
+        "photographerUrl": "https://unsplash.com/@rstar50",
+        "unsplashUrl": "https://unsplash.com/photos/gulf-gas-station-sign-on-a-green-roof-cy8SMQe6gUE"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Tahran yönetimi, Körfez bölgesindeki saldırılarını artırma yoluna gitti. Bu tırmanışın arkasında, ABD'nin uyguladığı deniz abluka politikasının ve yaptırımlar kampanyasının ülkenin ekonomisine verdiği zararlar yer alıyor. Yaşanan ekonomik baskılar, Tahran'ın bölgedeki saldırı hamlelerini artırmasının temel gerekçesini oluşturuyor. ABD'nin ekonomik önlemleri ve ambargoları, İran ekonomisini olumsuz etkilemeye devam ediyor.",
+      "highlights": [
+        "Tahran saldırılarını artırdı",
+        "ABD deniz ablukası ve yaptırımlar ekonomiye zarar veriyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+      "publishedAt": "2026-11-22T11:46:42.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/sehit-astsubay-yalin-gergunun-naasi-samsuna-getirildi-yarin-son-yolculuguna-ugurlanacak-7705625",
       "headline": "Şehit Astsubay Yalın Gergün'ün naaşı Samsun'a getirildi",
@@ -23,7 +70,8 @@
       "publishedAt": "2026-11-22T11:39:30.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:54:27.630Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/eyyup-kadir-inandan-umit-ozlale-aciklamasi-ak-partiye-katilmak-icin-benimle-gorustu-4875428",
@@ -3980,17 +4028,17 @@
         "unsplashUrl": "https://unsplash.com/photos/a-statue-of-a-man-holding-a-red-flag-YXKk3c5Tbxs"
       },
       "timeAgo": "3 dk önce",
-      "body": "Cumhurbaşkanı Erdoğan, Gaziosmanpaşa Adalet Sarayı'nın açılış töreninde açıklamalarda bulundu. Erdoğan, daha önce dağınık halde bulunan üç ayrı binanın tek çat altında birleştirildiğini belirterek, adalet hizmetlerinin daha etkin, hızlı ve saygın sunulmasını hedeflediklerini ifade etti. Taşınma işlemlerinin tamamlanmasıyla yeni hizmet binasının faaliyete geçtiği kaydedildi.\n\nYaklaşık 90 bin metrekare kapalı alana sahip olan yeni adalet sarayı; 7'si bodrum, 21'i normal ve 1'i çatı katı olmak üzere toplam 29 kattan oluşuyor. Binada 160 cumhuriyet savcısı odası, 136 hakim odası, 14 ağır ceza mahkemesi başkanı odası ve 113 duruşma salonunun yanı sıra 360 kişilik iki büyük duruşma salonu ve 317 araçlık otopark yer alıyor.\n\nAyrıca tesiste sağlık ünitesi, market, mağaza, postane, banka şubesi ve sosyal yaşam alanları bulunuyor. Ön bürolar ile duruşma salonlarının ileri teknolojili bilişim altyapısıyla donatıldığı belirtildi. Gaziosmanpaşa, Sultangazi, Eyüpsultan ve Arnavutköy ilçelerini kapsayan yeni adliyenin 1 milyon 791 bin kişiye hizmet vereceği açıklandı.\n\nKonuşmasında adaletin önemine de değinen Erdoğan, merkezinde adaletin olmadığı hiçbir sistemin yaşama imkanı bulamayacağını, güçlü toplumların ve devletlerin temelinin adalet olduğunu vurguladı.",
+      "body": "Cumhurbaşkanı Erdoğan, Eyüpsultan'daki Gaziosmanpaşa Adalet Sarayı'nın resmi açılış töreninde yaptığı konuşmada, eser ve hizmet siyasetine yeni bir halka eklemenin bahtiyarlığı içinde olduklarını belirtti. Erdoğan, daha önce üç ayrı binada hizmet veren Gaziosmanpaşa Adliyesi ile ek binaların tek çatı altında birleştirildiğini ifade etti.\n\nYaklaşık 90 bin metrekare kapalı alana sahip olan yeni adalet sarayı; 7'si bodrum, 21'i normal ve 1'i çatı katı olmak üzere toplam 29 kattan oluşuyor. Binada cumhuriyet savcısı odaları, hakim odaları, ağır ceza mahkemesi başkanı odaları, 113 duruşma salonu ile 360 kişilik iki büyük duruşma salonu ve 317 araçlık otopark yer alıyor. Ayrıca ön bürolar ve duruşma salonları ileri teknolojili bilişim altyapısıyla donatıldı.\n\nKonuşmasında adaletin önemine vurgu yapan Erdoğan, toplumları ve devletleri güçlü kılan temel unsurun adalet olduğunu kaydetti. Geç gelen adaletin vicdanları kararttığını ve devlet ile vatandaş arasındaki bağı yıprattığını dile getiren Erdoğan, yargılamada sürelerin kısaltılması ve adaletin gecikmeden tecelli etmesi için çalıştıklarını belirtti.\n\nErdoğan, Türkiye genelinde adalet hizmet binalarının kapalı kullanım alanının 6 milyon 191 bin metrekareye ulaştığını ve 2002'den bu yana 306 adliye hizmet binası için 226 milyar 830 milyon liranın üzerinde harcama yapıldığını açıkladı. Yalnızca İstanbul'da 43 milyar 494 milyon liralık yatırım yapıldığını belirten Erdoğan, İstanbul Adli Tıp Grup Başkanlığı binasının 2028'de tamamlanmasının hedeflendiğini ve Ümraniye'de yaklaşık 200 bin metrekarelik yeni bir adliye inşa etmeyi hedeflediklerini bildirdi.",
       "highlights": [
-        "Gaziosmanpaşa Adalet Sarayı hizmete girdi",
-        "Binanın teknik özellikleri ve kapasitesi açıklandı",
-        "Adaletin toplumlar için önemi vurgulandı"
+        "Gaziosmanpaşa Adalet Sarayı 29 kattan oluşuyor ve yaklaşık 90 bin metrekare kapalı alana sahip.",
+        "Yeni adliye binası Gaziosmanpaşa, Sultangazi, Eyüpsultan ve Arnavutköy'deki 1 milyon 791 bin kişiyi kapsıyor.",
+        "Ümraniye'de yaklaşık 200 bin metrekarelik yeni bir adliye inşa edilmesi hedefleniyor."
       ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-7705116",
       "publishedAt": "2026-11-21T11:41:57.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T11:54:18.419Z",
+      "sourceTextAttemptedAt": "2026-11-22T11:54:27.630Z",
       "isBreaking": true
     },
     {
@@ -4580,7 +4628,7 @@
       "category": "Bilim",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T09:04:23.465Z",
-      "imageSearchAttemptedAt": "2026-11-22T05:54:22.817Z",
+      "imageSearchAttemptedAt": "2026-11-22T11:54:27.630Z",
       "isBreaking": false
     },
     {
@@ -4698,7 +4746,7 @@
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T05:54:22.817Z",
+      "imageSearchAttemptedAt": "2026-11-22T11:54:27.630Z",
       "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z",
       "isBreaking": false
     },
@@ -14588,51 +14636,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T15:14:21.664Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
-      "headline": "Three leaders, three agendas: Who wants what from Xi-Trump-Putin summit?",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1774094453087-0207a0cd2309?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VGhyZWUlMjBsZWFkZXJzJTJDJTIwdGhyZWUlMjBhZ2VuZGFzJTNBJTIwV2hvJTIwd2FudHMlMjB3aGF0JTIwZnJvbSUyMFhpLVRydW1wLVB1dGluJTIwc3VtbWl0JTNGfGVufDF8MHx8fDE3OTUwMTQzNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marwen Larafa",
-        "photographerUrl": "https://unsplash.com/@marwen_larafa",
-        "unsplashUrl": "https://unsplash.com/photos/four-people-sit-on-a-stage-at-a-panel-discussion-lhZIyJ-uhGE"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Be it curbing arms sales to Taiwan, bouncing back after a midterms shellacking, or the optics of a place at the table with the world's two superpowers, Xi Jinping, Donald Trump and Vladimir Putin are approaching their trilateral meeting in Shenzhen with starkly different aims and agendas. Here's a look at what the Chinese, US and Russian leaders are hoping for.",
-      "highlights": [],
-      "externalUrl": "https://www.france24.com/en/asia-pacific/20261118-three-leaders-three-agendas-who-wants-what-from-xi-trump-putin-summit",
-      "publishedAt": "2026-11-18T14:52:08.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:15:04.256Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/gokyuzunde-ufoyu-andiran-goruntu-bursa-semalarinda-ilginc-goruntu-7703266",
-      "headline": "Bursa semalarında UFO'yu andıran merceksi bulut görüntülendi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1569428034239-f9565e32e224?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bGVudGljdWxhciUyMGNsb3VkfGVufDF8MHx8fDE3OTUwMTMyMjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "C Dustin",
-        "photographerUrl": "https://unsplash.com/@dianamia",
-        "unsplashUrl": "https://unsplash.com/photos/white-clouds-K-Iog-Bqf8E"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Bursa semalarında dün akşam saatlerinden itibaren lodosun etkisini göstermesiyle birlikte merceksi bulutlar gözlemlendi. Genellikle dağ ve tepe gibi yüksek engebelerin üzerinde rüzgarın dalga hareketleri yapması sonucu oluşan orta seviyeli bu bulut türü, UFO'yu andıran ilginç görüntüsüyle dikkat çekti. Gökyüzünde beliren bu sıra dışı manzarayı fark eden vatandaşlar, anı cep telefonlarıyla kaydetti.\n\nSöz konusu görüntüler kısa süre içinde sanal medyada paylaşılarak büyük ilgi gördü. Bursa semalarındaki bu doğa olayı sosyal platformlarda gündem oluştururken, kaynak metinde yer alan bilgilere göre olayla ilgili başka bir ayrıntı veya resmi bir açıklama bulunmuyor.",
-      "highlights": [
-        "Bursa semalarında merceksi bulutlar görüntülendi",
-        "Vatandaşlar tarafından cep telefonuyla kaydedilen görüntüler sanal medyada ilgi gördü"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/gokyuzunde-ufoyu-andiran-goruntu-bursa-semalarinda-ilginc-goruntu-7703266",
-      "publishedAt": "2026-11-18T14:44:20.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T15:04:24.780Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
