@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-22T08:54:23.333Z",
+  "generatedAt": "2026-11-22T09:04:36.303Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/evinden-binlercesi-cikti-balya-balya-paralari-kolilerde-saklamis-4875395",
+      "headline": "Evinden binlercesi çıktı: Balya balya paraları kolilerde saklamış",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Şişli’de motorize yunus polislerinin durdurduğu Mustafa Yusuf D.’nin üzerinde kokain bulundu. Çevrede çalışma başlatan polis, satıcı Selçuk Ö.’yü gözaltına aldı. Şüphelinin evinde yapılan aramada market poşetlerinde piyasa değeri yaklaşık 1,7 milyon lira olan uyuşturucu, 4 hassas terazi, karton kolide ise 102 bin 850 lira ele geçirildi. Mustafa Yusuf D. serbest bırakılırken, Selçuk Ö. tutuklandı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/evinden-binlercesi-cikti-balya-balya-paralari-kolilerde-saklamis-4875395",
+      "publishedAt": "2026-11-22T09:03:58.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
       "headline": "COP31: 'Son' anlaşma taslağı müzakerelerin çökmesini engelleyebilecek mi?",
@@ -21,6 +37,26 @@
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-22T08:53:37.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-xml-mrss",
+      "headline": "Çin ve ASEAN ülkeleri Güney Çin Denizi davranış kuralları konusunda zorlanıyor",
+      "source": "DW English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "20 dk önce",
+      "body": "Filipinler'in 2026 yılındaki ASEAN dönem başkanlığında Güney Çin Denizi için Çin ile bir davranış kuralı oluşturmayı amaçladığı ancak kasım ortasında Manila'da düzenlenen zirvede bu hedeften vazgeçmek zorunda kaldığı bildirildi. Filipinler Dışişleri Sekreteri Theresa Lazaro, metnin yaklaşık yüzde 80'i üzerinde müzakere edildiğini, ancak kilit anlaşmazlık alanlarının çözümsüz kaldığını açıkladı.\n\nGüney Çin Denizi, dünyanın en önemli nakliye rotalarından biri olmasının yanı sıra balıkçılık sahaları barındırıyor ve önemli petrol ve gaz rezervlerine sahip olabileceği değerlendiriliyor. Çin, Dokuz Çizgili Hattı ile denizin büyük bir kısmında hak iddia ederken; bu iddialar Filipinler, Vietnam, Malezya ve Brunei'nin iddialarıyla örtüşüyor.\n\nAlman Küresel ve Bölge Çalışmaları Enstitüsü'nden siyaset bilimi uzmanı Andreas Ufen, Çin'in son derece güçlü olduğunu ve yasal olarak bağlayıcı bir anlaşmada gerçek bir menfaati bulunmadığını belirtti. Uzmanlar, taraflar arasında anlaşmanın bağlayıcı niteliği ve coğrafi kapsamı gibi konularda görüş ayrılıkları olduğunu ifade ederken, Çin ve ASEAN uluslarının büyük bir ilerleme kaydetmeden 12 yıldır müzakere yürüttüğüne dikkat çekti.\n\nAyrıca ASEAN içindeki bölünmelerin de müzakereleri tıkadığı vurgulandı. Filipinler ve Vietnam Çin'e karşı sesini yükseltirken, Malezya ve Endonezya daha ihtiyatlı bir yaklaşım izliyor, Kamboçya ve Laos ise Pekin ile yakın ekonomik bağlara sahip bulunuyor. Singapur'un başkanlığında 2027 yılında devam edecek müzakerelerin sonucu, Çin'in eylem alanını kısıtlayacak düzenlemelere boyun eğmeye hazır olup olmadığına ve ASEAN'ın uzlaşı sağlayıp sağlayamayacağına bağlı olacak.",
+      "highlights": [
+        "Filipinler, 2026 ASEAN zirvesinde Çin ile davranış kuralı oluşturma hedefinden vazgeçti.",
+        "Çin ve ASEAN ülkeleri 12 yıldır anlaşma müzakereleri yürütüyor ancak bağlayıcı nitelik ve coğrafi kapsamda anlaşmazlıklar sürüyor.",
+        "Müzakereler 2027 yılında Singapur'un başkanlığında devam edecek."
+      ],
+      "externalUrl": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-xml-mrss",
+      "publishedAt": "2026-11-22T08:45:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -265,7 +301,8 @@
       "publishedAt": "2026-11-22T07:59:29.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T09:04:26.727Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
@@ -3797,7 +3834,7 @@
       "publishedAt": "2026-11-21T08:48:54.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T09:04:23.465Z",
+      "sourceTextAttemptedAt": "2026-11-22T09:04:26.727Z",
       "isBreaking": false
     },
     {
@@ -14582,55 +14619,6 @@
       "publishedAt": "2026-11-18T11:42:54.000Z",
       "category": "Teknoloji",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "headline": "Son Teknoloji Kesintilerinin Bağlantılı Olduğuna Dair Kanıt Yok, Dedi Rubio",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1752742111841-f490c48aa668?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dGVjaG5vbG9neSUyMG91dGFnZXxlbnwxfDB8fHwxNzk1MDAyMjg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Stickling",
-        "photographerUrl": "https://unsplash.com/@stikkx",
-        "unsplashUrl": "https://unsplash.com/photos/servers-illuminate-a-futuristic-cityscape-with-a-data-center-ISP9CdRYS28"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "ABD Dışişleri Bakanı Marco Rubio, son dönemde yaşanan ve uçuşların durmasına, bankacılık ile iş erişiminin kısıtlanmasına yol açan bilişim teknolojileri kesintilerinin birbiriyle bağlantılı olduğuna veya kötü niyetli aktörlerin işi olduğuna dair \"sıfır kanıt\" bulunduğunu açıkladı. Filipinler'deki Solaire Resort'ta basın mensuplarına konuşan Rubio, ABD'nin \"sistematik bir saldırı altında olmadığını\" belirtti.\n\nSon günlerde Microsoft, büyük ABD bankaları, Apple, Amerikan hava trafik kontrol sistemleri ve Ulusal Güvenlik Ajansı (NSA) teknik arızalardan ve kesintilerden etkilendi. Rubio, olayların siber korsanlar, suçlular ya da başka bir ulus devletle bağlantılı olduğuna dair hiçbir neden bulunmadığını vurguladı.\n\nABD Ulusal İstihbarat Direktörü Jay Clayton, bu olayların planlanandan uzun süren veya beklenmeyen aksaklıklarla karşılaşan güvenlik güncellemelerinden kaynaklandığını bildirdi. Siber güvenlik uzmanı Tal Be'ery ise olayların doğrudan bağlantılı olmadığını ancak ortak bir temanın yapay zeka olduğunu ifade etti.\n\nPerşembe günü Microsoft'un araçlarının çökmesiyle başlayan kesintiler zinciri, ertesi gün uçuşların durdurulmasına, ardından bankacılık işlemlerinde aksamalara, NSA'nın gizli haberleşme ağının çevrimdışı kalmasına ve Apple uygulamalarında sorun yaşanmasına neden oldu. Demokrat Senatör Mark Warner da kesintilerin koordineli bir çabadan ziyade sistemleri güvence altına alma girişimlerinden kaynaklandığı değerlendirmesini destekledi. Filipinler'de Donald Trump ile seyahat eden Rubio, açıklamalarını bu ziyaret sırasında yaptı. Trump ise kesintilerle ilgili endişeli olup olmadığına dair soruyu \"Hayatın olağan akışı\" şeklinde yanıtladı.",
-      "highlights": [
-        "ABD Dışişleri Bakanı Marco Rubio, teknoloji kesintilerinin bağlantılı olduğuna dair \"sıfır kanıt\" bulunduğunu söyledi.",
-        "Yetkililer, kesintilerin kötü niyetli saldırılardan değil, güvenlik güncellemelerinden kaynaklandığını belirtti.",
-        "Microsoft, ABD bankaları, Apple ve uçuş sistemleri son günlerde teknik arızalardan etkilendi."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/18/zero-evidence-recent-tech-outages-linked-marco-rubio",
-      "publishedAt": "2026-11-18T11:35:36.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/spor/samsunspor-galatasaray-maci-hazirliklarini-surdurdu-4873950",
-      "headline": "Samsunspor Galatasaray maçı hazırlıklarını sürdürdü",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1624280157150-4d1ed8632989?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjB0cmFpbmluZ3xlbnwxfDB8fHwxNzk0OTk5ODk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tobias Flyckt",
-        "photographerUrl": "https://unsplash.com/@flyckt",
-        "unsplashUrl": "https://unsplash.com/photos/woman-in-black-and-white-soccer-jersey-kicking-soccer-ball-on-green-field-during-daytime-5yNJx9NO3Yc"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Samsunspor, Süper Lig'in 12'nci haftasında deplasmanda Galatasaray ile oynayacağı karşılaşmanın hazırlıklarına devam etti. Kırmızı-beyazlı ekip, Nuri Asan Tesisleri'nde teknik direktör Nenad Bjelica yönetiminde çalıştı.\n\nAntrenman ısınma hareketleriyle başladı. Isınmanın ardından futbolcular tarafından dar alanda pas organizasyonları gerçekleştirildi. Çalışma, son bölümde yapılan şut çalışmasıyla sona erdi.\n\nSamsunspor, Galatasaray maçı hazırlıklarına yarın yapacağı antrenmanlarla devam edecek.",
-      "highlights": [
-        "Samsunspor, Galatasaray maçı hazırlıklarını Nuri Asan Tesisleri'nde sürdürdü.",
-        "Antrenman teknik direktör Nenad Bjelica yönetiminde gerçekleştirildi.",
-        "Çalışma ısınma hareketleri, pas organizasyonları ve şut çalışmasıyla tamamlandı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/spor/samsunspor-galatasaray-maci-hazirliklarini-surdurdu-4873950",
-      "publishedAt": "2026-11-18T11:03:47.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:54:20.732Z",
       "isBreaking": false
     }
   ],
