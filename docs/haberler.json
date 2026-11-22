@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:35:39.441Z",
+  "generatedAt": "2026-11-22T18:44:28.767Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3496634",
@@ -2715,7 +2715,7 @@
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:44:20.665Z"
+      "sourceTextAttemptedAt": "2026-11-22T18:44:21.544Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/kirmizi-bultenle-araniyordu-uluslararasi-suc-orgutu-uyesi-istanbul-buyukcekmecede-yakalandi-7705240",
@@ -2726,13 +2726,17 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Milli İstihbarat Teşkilatı Başkanlığı ve İstanbul Emniyet Müdürlüğü İstihbarat Şube Müdürlüğü koordinesinde, Organize Suçlarla Mücadele Şube Müdürlüğünce yürütülen çalışmalar kapsamında, başta Danimarka olmak üzere birçok Avrupa ülkesinde suç faaliyetlerine karıştığı belirlenen ve Interpol tarafından kırmızı bültenle aranan uluslararası suç örgütü üyesi M.O.'nun Büyükçekmece'de bulunduğu tespit edildi. Zanlı, özel…",
-      "highlights": [],
+      "highlights": [
+        "Interpol tarafından kırmızı bültenle aranan M.O. Büyükçekmece'de yakalandı",
+        "Operasyonda M.O. ile birlikte 2 şüpheli daha gözaltına alındı",
+        "Adreslerde yapılan aramalarda 2 tabanca, çelik yelek ve fişek ele geçirildi"
+      ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/kirmizi-bultenle-araniyordu-uluslararasi-suc-orgutu-uyesi-istanbul-buyukcekmecede-yakalandi-7705240",
       "publishedAt": "2026-11-21T18:22:11.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:34:27.300Z",
+      "sourceTextAttemptedAt": "2026-11-22T18:44:21.544Z",
       "imageSearchAttemptedAt": "2026-11-22T17:54:23.574Z"
     },
     {
@@ -10234,7 +10238,7 @@
       "publishedAt": "2026-11-19T18:28:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T06:44:19.960Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:44:21.544Z",
       "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": false
     },
@@ -10652,7 +10656,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
-      "imageSearchAttemptedAt": "2026-11-22T06:54:26.072Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:44:21.544Z",
       "isBreaking": false
     },
     {
