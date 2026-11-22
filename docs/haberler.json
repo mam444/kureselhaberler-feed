@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T10:14:40.963Z",
+  "generatedAt": "2026-11-22T10:24:44.688Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/yer-pendik-9-katli-binada-16-kisi-hastanelik-oldu-giris-cikislar-kapatildi-7705580",
+      "headline": "Pendik'te 9 katlı binada zehirlenme şüphesi: 16 kişi hastanelik oldu",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1744688596038-57da319892f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Z2FzJTIwbGVhayUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTUzNDMwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Zooey Li",
+        "photographerUrl": "https://unsplash.com/@zooeyli",
+        "unsplashUrl": "https://unsplash.com/photos/pipes-and-equipment-are-mounted-on-a-black-wall-LZKyHvKgIRk"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "İstanbul Pendik Esenler Mahallesi Sedir Sokak'ta bulunan 9 katlı bir binada sabah saatlerinde doğal gaz zehirlenmesi şüphesiyle ihbarda bulunuldu. Yapılan ihbarın ardından olay yerine çok sayıda polis, sağlık ve İGDAŞ ekibi sevk edildi.\n\nOlay yerinde gerçekleştirilen ilk incelemeler sonucunda, zehirlenme şüphesi taşıyan 4 kişi ambulanslarla hastaneye sevk edildi. Daha sonra kendi imkânlarıyla sağlık kuruluşlarına başvuran 12 kişiyle birlikte hastanede tedavi altına alınan toplam kişi sayısı 16'ya ulaştı.\n\nYetkili ekipler olası bir riskin önüne geçmek amacıyla binayı tedbir amaçlı tahliye etti ve giriş çıkışları kapattı. Binada ikamet eden aileler güvenlik tedbirleri kapsamında binanın bahçesine çıkarıldı.\n\nİGDAŞ ve ilgili diğer ekiplerin olay yerindeki inceleme ve çalışmaları devam ediyor. Doğal gaz kaçağının tam olarak hangi kaynaktan kaynaklandığını belirlemek için yürütülen çalışmaların sürdüğü öğrenildi.",
+      "highlights": [
+        "Pendik'te 9 katlı binada doğal gaz zehirlenmesi şüphesiyle 16 kişi hastaneye kaldırıldı",
+        "Ekipler binayı tedbir amacıyla tahliye ederek giriş ve çıkışlara kapattı",
+        "İGDAŞ ve ilgili ekiplerin olay yerindeki incelemeleri sürüyor"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/yer-pendik-9-katli-binada-16-kisi-hastanelik-oldu-giris-cikislar-kapatildi-7705580",
+      "publishedAt": "2026-11-22T10:22:38.000Z",
+      "category": "Sağlık",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
       "headline": "Galler Prensesi kanser süreci hakkında konuştu",
@@ -15,15 +39,16 @@
       "timeAgo": "7 dk önce",
       "body": "Galler Prensesi Catherine, 2024 yılındaki kanser teşhisinin ardından yaşadığı süreci konu alan Heal adlı yeni bir belgeselde yer aldı. 44 yaşındaki prensesin hayatını takip eden yapım, onun 24 saat içinde İskoçya, İngiltere ve Galler'deki en yüksek dağlara tırmanma girişimini ekranlara taşıyor.\n\nBelgeselin fragmanında Galler Prensesi, iyileşme sürecini bir yolculuk olarak değerlendiriyor. Fransa 24'te yayımlanan ve Ophelie Jacobson tarafından hazırlanan video içerikli haberde, yeni yapımın detayları paylaşıldı. Belgesel, prensesin kanser teşhisi sonrasındaki yaşam mücadelesine ve doğa içindeki tırmanış denemesine odaklanıyor.",
       "highlights": [
-        "Galler Prensesi Catherine kanser teşhisi sonrasını anlatan yeni bir belgeselde yer aldı",
-        "Heal adlı film 44 yaşındaki prensesin 24 saatte en yüksek dağlara tırmanma girişimini konu alıyor",
-        "Fragmanında iyileşmeyi bir yolculuk olarak tanımlayan prenses süreci değerlendiriyor"
+        "Heal adlı yeni belgesel Prenses Catherine'in yaşamını konu alıyor",
+        "Film 44 yaşındaki prensesin dağlara tırmanma girişimini takip ediyor",
+        "Fragman prensesin iyileşmeyi bir yolculuk olarak değerlendirdiğini gösteriyor"
       ],
       "externalUrl": "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
       "publishedAt": "2026-11-22T10:07:02.000Z",
       "category": "Sağlık",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T10:24:20.879Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/siverekte-10-yil-hapis-cezasiyla-aranan-hukumlu-yakalandi-4875414",
@@ -39,13 +64,37 @@
       "timeAgo": "8 dk önce",
       "body": "Şanlıurfa’nın Siverek ilçesinde, bir yabancıyı ülkeye sokmak veya ülkede kalmasına imkân sağlamak suçundan hakkında 10 yıl kesinleşmiş hapis cezası bulunan bir kişi jandarma ekiplerince yakalandı.\n\nŞanlıurfa İl Jandarma Komutanlığı tarafından nitelikli suçlardan aranan kişilerin yakalanmasına yönelik yürütülen çalışmalar kapsamında, Siverek İlçe Jandarma Komutanlığı ekipleri bir operasyon düzenledi.\n\nGerçekleştirilen çalışmalar sonucunda, Ö.Y. isimli hükümlü yakalanarak gözaltına alındı.\n\nGözaltına alınan hükümlünün, jandarmadaki işlemlerinin tamamlanmasının ardından adli makamlara sevk edileceği bildirildi.",
       "highlights": [
-        "Siverek'te 10 yıl kesinleşmiş hapis cezası bulunan Ö.Y. yakalandı.",
-        "Operasyon Şanlıurfa İl Jandarma Komutanlığı koordinesinde gerçekleştirildi.",
-        "Hükümlü, jandarmadaki işlemlerin ardından adli makamlara sevk edilecek."
+        "Şanlıurfa'nın Siverek ilçesinde 10 yıl hapis cezasıyla aranan Ö.Y. yakalandı.",
+        "Operasyon Şanlıurfa İl Jandarma Komutanlığı koordinasyonunda gerçekleştirildi.",
+        "Gözaltına alınan hükümlü, jandarmadaki işlemlerin ardından adli makamlara sevk edilecek."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/siverekte-10-yil-hapis-cezasiyla-aranan-hukumlu-yakalandi-4875414",
       "publishedAt": "2026-11-22T10:06:36.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T10:24:20.879Z"
+    },
+    {
+      "id": "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
+      "headline": "Güney Kore'de Yapay Zeka Destekli Kopya Skandalı Sınav Güvenliğini Sarstı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1678649653438-3b0d6f793f23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U291dGglMjBLb3JlYSUyMGV4YW18ZW58MXwwfHx8MTc5NTM0MDY4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Ford",
+        "photographerUrl": "https://unsplash.com/@david_ford",
+        "unsplashUrl": "https://unsplash.com/photos/a-tall-building-with-a-sky-background-46GL3NtN76o"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Güney Kore'de üniversite giriş sınavları öncesinde patlak veren büyük bir kopya skandalının ardından eğitim bakanı Pazar günü istifa etti. Yaşanan bu tartışmalar, ulusal bir vergi muhasebesi sınavında en yüksek puanı alan bir kişinin, neredeyse kusursuz bir sonuç elde etmek amacıyla mini kamera ve akıllı telefon kullandığını itiraf etmesi etrafında şekillendi. Konuyla ilgili ayrıntılar Jack Pownall tarafından rapor edildi. Haberin odak noktasında Güney Kore ve yapay zeka unsurları yer alırken, durum ülke genelinde sınav güvenliği konusunda endişelere yol açtı.",
+      "highlights": [
+        "Güney Kore'de eğitim bakanı büyük bir kopya skandalının ardından Pazar günü istifa etti.",
+        "Vergi muhasebesi sınavında birinci olan kişi mini kamera ve akıllı telefon kullandığını itiraf etti."
+      ],
+      "externalUrl": "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
+      "publishedAt": "2026-11-22T10:05:28.000Z",
+      "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -14582,55 +14631,6 @@
       "category": "Türkiye",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T13:24:19.238Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/france/20261118-french-interior-minister-accused-of-exaggerating-police-protest-injury-figures",
-      "headline": "Fransa İçişleri Bakanı polis protesto yaralanma sayılarını 'abartmakla' suçlandı",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1658087140258-6a8d1a2cc417?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RnJlbmNoJTIwcG9saWNlJTIwcHJvdGVzdHxlbnwxfDB8fHwxNzk1MDA3NjY0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jan Zinnbauer",
-        "photographerUrl": "https://unsplash.com/@jan_zinnbauer",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-vmGUkUi2PIw"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Bir grup avukat, Fransa İçişleri Bakanı Laurent Nuñez hakkında, mevcut protesto hareketinin başlangıcından bu yana kolluk kuvvetlerinin yaşadığı yaralanma sayısı hakkında \"yanlış bilgi yaydığı\" suçlamasıyla soruşturma açılmasını talep etti. Avukatlar, bu verilerin lise protestocularına karşı orantısız güç kullanımını haklı çıkarmak için kullanıldığını iddia etti.\n\nÇarşamba günü Yargıtay'a gönderilen raporda, 12 avukattan oluşan grup, Nuñez'i son gösterilerdeki polis yaralanmalarıyla ilgili rakamları yanlış aktarmakla suçladı. Fransa'da bir aydan uzun süredir geçim sıkıntısı ve düşük kamu sektörü maaşları nedeniyle lise abluka ve protestoları yaşanıyor. Büyük ölçüde barışçıl geçen gösterilerin bazılarında şiddet olayları ve polis şiddeti iddiaları görüldü.\n\nAvukatlar, suç duyurusunda, Nuñez'in röportajlarda verdiği rakamları ve bağımsız internet gazetesi Mediapart'ın çevik kuvvet biriminin sızdırılan iç belgesine dayanan soruşturmasını kaynak gösterdi. Bakanın, toplam sayıyı yüksek göstermek ve polis baskısını meşrulaştırmak için protestocuların neden olduğu yaralanmalar ile çalışma koşullarından kaynaklanan kaza ve yaralanmaları birbirinden ayırmadığını öne sürdüler.\n\nGrup adına konuşan avukat Etienne Deshoulières, bakanın okullu göstericilere karşı orantısız güç kullanımını haklı çıkarmak için polis yaralanmalarını abarttığını ve bunun yanlış bilgi yayma suçunu oluşturduğunu belirtti. Diğer avukat Jérôme Karsenti ise gerçeğin bükülemeyeceğini ifade etti. İçişleri Bakanlığı, AFP'nin yorum talebine yanıt vermedi.\n\nÖte yandan Adalet Bakanı Gérald Darmanin salı günü parlamentoya yaptığı açıklamada, son haftalardaki protestolarda yaklaşık 15 bin kişinin gözaltına alındığını veya tutuklandığını bildirdi. Darmanin, 17 Ekim'den bu yana enflasyon protestolarında 7 bin 184, öğrenci protestolarında ise 8 bin kişinin gözaltına alındığını aktardı. İlk gruptaki olaylarla ilgili 3 bin 053 dava sonucunda hapis cezaları verildiği kaydedildi. Nuñez hakkında ayrıca protestoların başlangıcından bu yana kamu düzenini yönetimiyle ilgili olarak Cumhuriyet Adalet Divanı'na şikayetler yapılmış durumda.",
-      "highlights": [
-        "Bir grup avukat, Fransa İçişleri Bakanı Laurent Nuñez hakkında soruşturma açılmasını istedi.",
-        "Bakan, polis yaralanma sayılarındaki rakamları yanlış aktarmak ve abartmakla suçlandı.",
-        "Adalet Bakanı Gérald Darmanin protestolarda yaklaşık 15 bin kişinin gözaltına alındığını açıkladı."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/france/20261118-french-interior-minister-accused-of-exaggerating-police-protest-injury-figures",
-      "publishedAt": "2026-11-18T13:09:32.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/can-atakli-muhalefeti-topa-tuttu-capsizsiniz-beceriksizsiniz-4873997",
-      "headline": "Can Ataklı’dan muhalefete sert eleştiri: ‘Çapsızsınız beceriksizsiniz’",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8am91cm5hbGlzdCUyMG1pY3JvcGhvbmV8ZW58MXwwfHx8MTc5NTAwNzA4OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kane Reinholdtsen",
-        "photographerUrl": "https://unsplash.com/@kanereinholdtsen",
-        "unsplashUrl": "https://unsplash.com/photos/silver-corded-microphone-in-shallow-focus-photography-LETdkk7wHQk"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Gazeteci Can Ataklı, kendi YouTube kanalında gerçekleştirdiği yayında muhalefetin siyasi söylemlerini ve gündeme dair açıklamalarını eleştirdi.\n\nAtaklı, yayın sırasında muhalefet temsilcilerinin yaşanan gelişmeler karşısında etkili bir tutum sergileyemediğini savundu ve kullandığı sert ifadelerle dikkat çekti.\n\nMuhalefetin kendisine ulaştırılan bilgileri yeterince değerlendirmeden kamuoyuyla paylaştığını öne süren Ataklı, bunun siyasi açıdan ciddi bir hata olduğunu dile getirdi.\n\nİzlenen siyasi yöntemi eleştirmeyi sürdüren Ataklı, açıklamalarının sonunda da sert ifadeler kullanarak tepkisini gösterdi.",
-      "highlights": [
-        "Can Ataklı YouTube kanalındaki yayında muhalefeti eleştirdi",
-        "Muhalefet temsilcilerinin etkili bir tutum sergileyemediğini söyledi",
-        "Bilgilerin yeterince değerlendirilmeden açıklandığını öne sürdü"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/can-atakli-muhalefeti-topa-tuttu-capsizsiniz-beceriksizsiniz-4873997",
-      "publishedAt": "2026-11-18T13:03:46.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T13:14:23.606Z",
       "isBreaking": false
     }
   ],
