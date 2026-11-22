@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T18:34:31.535Z",
+  "generatedAt": "2026-11-22T18:35:39.441Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/turkiye/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3496634",
@@ -15,15 +15,16 @@
       "timeAgo": "şimdi",
       "body": "Hatay'ın Samandağ ilçesinde akşam saatlerinde sahilde bir el bombası bulundu. Deniz Mahallesi sahilinde yürüyüş yapan bir vatandaş, kıyıda el bombası olduğunu fark ederek durumu hemen yetkililere bildirdi.\n\nİhbarın ardından olay yerine hızla Sahil Güvenlik ve polis ekipleri sevk edildi. Ekipler bölgede geniş güvenlik önlemleri alırken, durum bomba imha uzmanlarına bildirildi.\n\nOlay yerine gelen bomba imha ekipleri yaptıkları incelemenin ardından el bombasını kontrollü bir şekilde patlatarak imha etti. Patlama anı ise çevredeki bir vatandaşın cep telefonu kamerasıyla görüntülendi.\n\nYaşanan olayın ardından güvenlik güçleri konuyla ilgili inceleme başlattı.",
       "highlights": [
-        "Hatay Samandağ sahilinde el bombası bulundu",
-        "Bomba imha ekipleri tarafından kontrollü şekilde patlatıldı",
-        "Patlama anı cep telefonu kamerasıyla kaydedildi"
+        "Hatay'ın Samandağ ilçesinde sahilde el bombası bulundu",
+        "El bombası bomba imha ekiplerince kontrollü şekilde patlatıldı",
+        "Patlama anı cep telefonu kamerasıyla görüntülendi"
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3496634",
       "publishedAt": "2026-11-22T18:35:13.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T18:35:33.363Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/sariyerde-market-otoparkindaki-arac-bir-anda-alev-aldi-7705802",
@@ -153,20 +154,26 @@
       "headline": "Virginia'da 5 yaşından küçük bir çocuk kızamık nedeniyle hayatını kaybetti",
       "source": "Al Jazeera",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1676313030076-4ac0b37050fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWVhc2xlcyUyMGNoaWxkJTIwaGVhbHRofGVufDF8MHx8fDE3OTUzNzI1Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bermix Studio",
+        "photographerUrl": "https://unsplash.com/@bermixstudio",
+        "unsplashUrl": "https://unsplash.com/photos/a-doctor-examining-a-childs-stomach-with-a-stethoscope-kinSYGfBSzc"
+      },
       "timeAgo": "34 dk önce",
       "body": "Virginia eyaletinde, 5 yaşından küçük bir çocukta kızamık bağlantılı ilk ölüm gerçekleşti. Bu ölüm vakası, sağlık uzmanlarının artan vakalar nedeniyle Amerika Birleşik Devletleri'nin kızamığı elimine etmiş ülke statüsünü kaldırmasından birkaç gün sonra meydana geldi. Konuya ilişkin yetkililer ve uzmanlar tarafından aktarılan bilgiler doğrultusunda, ülkede görülen kızamık vakalarındaki artış eğilimi sürerken, yaşanan bu son kayıp kamuoyunda ve sağlık çevrelerinde dikkat çekti. Sağlık otoritelerinin epidemiyolojik gelişmeler ve vaka artışlarına yönelik değerlendirmeleri devam ediyor.",
       "highlights": [
-        "Virginia'da 5 yaşından küçük bir çocuk kızamık nedeniyle öldü.",
-        "Ölüm, ABD'nin kızamık eliminasyon statüsünün kaldırılmasından günler sonra gerçekleşti.",
-        "Vakalarda artış yaşandığı bildirildi."
+        "Virginia'da 5 yaşından küçük bir çocuk kızamık nedeniyle hayatını kaybetti.",
+        "Bu ölüm, 2026 yılının ilk kızamık bağlantılı ölümü olarak kayda geçti.",
+        "Olay, uzmanların ABD'nin kızamık eliminasyon statüsünü kaldırmasından günler sonra yaşandı."
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
       "publishedAt": "2026-11-22T18:00:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-22T18:35:33.363Z",
+      "sourceTextAttemptedAt": "2026-11-22T18:35:33.363Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
@@ -2114,7 +2121,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T06:24:29.014Z",
-      "imageSearchAttemptedAt": "2026-11-22T12:34:23.905Z"
+      "imageSearchAttemptedAt": "2026-11-22T18:35:33.363Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/kadikoyde-aci-olay-is-bulmak-icin-istanbula-gelen-gencin-cesedi-bulundu-4875350",
@@ -8148,7 +8155,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:44:19.150Z",
-      "imageSearchAttemptedAt": "2026-11-22T12:34:23.905Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:35:33.363Z",
       "isBreaking": false
     },
     {
