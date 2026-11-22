@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-22T08:24:53.699Z",
+  "generatedAt": "2026-11-22T08:34:47.594Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/gundem/son-dakika-kepez-belediyesine-rusvet-sorusturmasi-3929164",
+      "headline": "Kepez Belediyesi'ne rüşvet soruşturması",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1714778323522-ce0ab3a61cb2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bXVuaWNpcGFsaXR5JTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTMzNjQ3NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mahdi Shakhesi",
+        "photographerUrl": "https://unsplash.com/@mahdishakhesi",
+        "unsplashUrl": "https://unsplash.com/photos/a-tall-building-with-a-clock-on-the-front-of-it-jFLwlyy3_1A"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Antalya Kepez Belediyesi'ne rüşvet ve irtikap operasyonu düzenlendi. Demirören Haber Ajansı'nın aktardığı bilgilere göre, gerçekleştirilen soruşturma ve operasyon kapsamında toplam 10 kişi gözaltına alındı. Olayla ilgili gelişmeler haberin detaylarında yer aldı.",
+      "highlights": [
+        "Kepez Belediyesi'ne rüşvet ve irtikap operasyonu yapıldı",
+        "Operasyonda 10 kişi gözaltına alındı"
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-kepez-belediyesine-rusvet-sorusturmasi-3929164",
+      "publishedAt": "2026-11-22T08:24:39.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/taksiye-bindi-hayati-degisti-universiteli-zehranin-ilginc-hikayesi-erkek-sasiriyorlar-kadinlar-mutlu-oluyor-7705509",
       "headline": "Taksiye bindi hayatı değişti! Üniversiteli Zehra'nın ilginç hikayesi",
@@ -15,15 +38,16 @@
       "timeAgo": "2 dk önce",
       "body": "Bursa Uludağ Üniversitesi Fen-Edebiyat Fakültesi Matematik Bölümü ikinci sınıf öğrencisi Zehra Karadaş, ailesine yük olmamak ve okul giderlerini karşılamak amacıyla taksi şoförlüğü yapmaya başladı. İzmir'den Bursa'ya üniversite eğitimi için gelen Karadaş, araç sahibinin güvenilir şoför aradığını duyduktan sonra bu işe talip oldu ve direksiyon başına geçti.\n\nDers programına göre çalışma saatlerini ayarlayan genç öğrenci, amfideki matematik derslerinin ardından taksi durağına gidiyor. Bursa sokaklarında direksiyon sallayan Karadaş, kazandığı parayla hem eğitim masraflarını hem de günlük yaşam giderlerini karşılıyor.\n\nTaksicilik yapmaya spontane bir şekilde başladığını belirten Karadaş, araba kullanmayı sevdiğini ve işe ihtiyacı olduğunu ifade etti. Müşteri olarak bindiği takside çalışanların eleman aradığını duyarak başvurduğunu ve sürecin hızlı geliştiğini aktaran Karadaş, aldığı tepkilerin çok güzel olduğunu ve insanların mutlu olmasından kendisinin de mutlu olduğunu söyledi.\n\nErkek müşterilerin araçta kadın sürücü görünce şaşırdıklarını ve çekindiklerini belirten Karadaş, kadın müşterilerin ise kendilerini daha güvende hissettiklerini ve durumdan çok memnun olduklarını dile getirdi. Karadaş, harçlıkları için çalıştığını sözlerine ekledi.",
       "highlights": [
-        "Bursa Uludağ Üniversitesi Matematik Bölümü öğrencisi Zehra Karadaş taksi şoförlüğüne başladı",
-        "Karadaş, kazandığı parayla eğitim masraflarını ve günlük yaşam giderlerini karşılıyor",
-        "Kadın müşteriler kadın sürücü sayesinde kendilerini daha güvende hissettiklerini söylüyor"
+        "Bursa Uludağ Üniversitesi Matematik Bölümü öğrencisi Zehra Karadaş taksi şoförlüğü yapmaya başladı.",
+        "Karadaş, kazandığı parayla eğitim masraflarını ve günlük yaşam giderlerini karşılıyor.",
+        "Kadın müşteriler kadın sürücü sayesinde kendilerini daha güvende hissettiklerini belirtiyor."
       ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/taksiye-bindi-hayati-degisti-universiteli-zehranin-ilginc-hikayesi-erkek-sasiriyorlar-kadinlar-mutlu-oluyor-7705509",
       "publishedAt": "2026-11-22T08:22:45.000Z",
       "category": "Eğitim",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:34:25.215Z"
     },
     {
       "id": "https://www.rfi.fr/en/environment/20261122-nepal-first-climate-loss-and-damage-payout-falls-far-short-of-needs",
@@ -45,6 +69,30 @@
       ],
       "externalUrl": "https://www.rfi.fr/en/environment/20261122-nepal-first-climate-loss-and-damage-payout-falls-far-short-of-needs",
       "publishedAt": "2026-11-22T08:20:47.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.rfi.fr/en/international/20261122-cop31-draft-deal-sparks-backlash-as-france-warns-of-step-backward",
+      "headline": "Cop31 Taslak Anlaşması Tepki Çekti: Fransa 'Geri Adım' Uyarısında Bulundu",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1695277966664-7df3bd5ee11f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2xpbWF0ZSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk1MzI3NDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/a-person-holding-a-sign-that-says-climate-justice-zOdvBieWTYw"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Türkiye'de düzenlenen Cop31 iklim zirvesinde son dakikada ortaya çıkan taslak anlaşma, fosil yakıtlara açıkça yer vermemesi nedeniyle eleştirilere yol açtı ve iki haftalık müzakerelerin küresel ısınmayla mücadelede anlamlı bir ilerleme sağlanamadan bitebileceği endişelerini artırdı. Pazar günü erken saatlerde yayımlanan yeni taslak, kömür, petrol ve gazdan uzaklaşmaya yönelik doğrudan bir taahhüt içermezken, Fransa çevre bakanı bu teklifi \"geri adım\" olarak nitelendirdi. \n\nTürkiye Çevre Bakanı ve Cop31 eş başkanı Murat Kurum tarafından sunulan taslak metin saat 3'ten kısa süre sonra dağıtıldı ve delegasyonlara itiraz etmeleri için sadece üç saat süre tanındı. Antalya'daki görüşmeler normalde Cuma günü sona ermesi gerekirken resmi sürenin yaklaşık 40 saat üzerine çıkarak Pazar gününe kadar uzadı. Temel anlaşmazlık noktası, 2023 yılında Dubai'deki Cop28'de varılan mutabakata rağmen fosil yakıtların kademeli olarak kaldırılmasına yönelik açık bir taahhüdün yer almaması oldu. \n\nPanama, petrol üretimini ele almayan ve finansal desteği güçlendirmeyen herhangi bir anlaşmayı bloke etmekle tehdit ederken, Panama Çevre Bakanı Juan Carlos Navarro fosil yakıt endüstrisini müzakereleri rehin almakla suçladı. Buna karşılık taslak, 2035 yılına kadar elektriğin payını artırmayı ve bir milyar ton karbondioksitin yakalanması, kullanılması ve depolanmasını hedefleyen öneriler de içeriyor. \n\nİklim krizinden etkilenen gelişmekte olan ülkeler için finansal destek konusu da çözümsüz kalmaya devam ediyor. Hassas uluslar zengin ülkelerden uyum fonlarını artırmaları konusunda daha net taahhütler talep ederken, delegeler Antalya'dan ayrılmaya hazırlanırken nihai anlaşmayı onaylayacak yeterli müzakerecinin kalıp kalmayacağına dair endişeler de bulunuyor. Bir sonraki BM iklim zirvesi Cop32'nin Kasım 2027'de Etiyopya'nın başkenti Addis Ababa'da yapılması planlanıyor.",
+      "highlights": [
+        "Cop31 taslak anlaşması fosil yakıtlara yer vermediği için eleştirildi.",
+        "Fransa taslak teklifi bir geri adım olarak nitelendirdi.",
+        "Gelişmekte olan ülkeler için finansal destek konusu çözümsüz kaldı."
+      ],
+      "externalUrl": "https://www.rfi.fr/en/international/20261122-cop31-draft-deal-sparks-backlash-as-france-warns-of-step-backward",
+      "publishedAt": "2026-11-22T08:16:06.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -3832,15 +3880,15 @@
       "timeAgo": "4 dk önce",
       "body": "İstanbul'un su ihtiyacını karşılamak amacıyla Bizans döneminde inşa edilen Zeyrek Sarnıcı, mimarisi ve tarihi katmanlarıyla geçmişin izlerini bugüne ulaştırıyor. Yapı, dönemin su ihtiyacını karşılayan özellikleriyle dikkat çekiyor.\n\nOsmanlı döneminde inşa edilen Zeyrek Çinili Hamamı ise duvarlarında yer alan gemi grafitileriyle öne çıkıyor. Bu grafitiler, yapının en dikkat çekici detayları arasında bulunuyor.\n\nSanat tarihçisi Hayri Fehmi Yılmaz, bu iki tarihi yapıya dair soruları yanıtladı. Açıklamalarda Zeyrek Sarnıcı'nın Bizans, Zeyrek Çinili Hamamı'nın ise Osmanlı dönemine ait olduğu vurgulandı.",
       "highlights": [
-        "Zeyrek Sarnıcı İstanbul'un su ihtiyacını karşılamak için Bizans döneminde inşa edilmiştir.",
-        "Osmanlı dönemine ait Zeyrek Çinili Hamamı'nın duvarlarında gemi grafitileri bulunmaktadır.",
-        "Sanat tarihçisi Hayri Fehmi Yılmaz yapıplarla ilgili soruları yanıtlamıştır."
+        "Zeyrek Sarnıcı, İstanbul'un su ihtiyacını karşılamak için Bizans döneminde inşa edildi.",
+        "Osmanlı dönemine ait Zeyrek Çinili Hamamı'nın duvarlarında gemi grafitileri bulunuyor.",
+        "Sanat tarihçisi Hayri Fehmi Yılmaz, iki yapı hakkındaki soruları yanıtladı."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
       "publishedAt": "2026-11-21T08:20:49.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T08:34:24.020Z",
+      "sourceTextAttemptedAt": "2026-11-22T08:34:25.215Z",
       "isBreaking": false
     },
     {
@@ -14586,55 +14634,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T10:54:30.513Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/gulistan-doku-cinayetinde-kritik-ifade-tutuklu-polisten-tuzak-savunmasi-4873926",
-      "headline": "Gülistan Doku cinayetinde kritik ifade: Tutuklu polisten 'tuzak' savunması",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1690400524283-4e410dce7318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saWNlJTIwaW52ZXN0aWdhdGlvbnxlbnwxfDB8fHwxNzk0OTk4MDk3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "JOSHUA COLEMAN",
-        "photographerUrl": "https://unsplash.com/@joshstyle",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-next-to-a-yellow-police-line-g86cBfIbd6E"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Tunceli’de 5 Ocak 2020 tarihinde kaybolan üniversite öğrencisi Gülistan Doku’ya yönelik cinayet soruşturmasında, 18 Ocak 2020 tarihli açık kaynak araştırma raporu mercek altına alındı. Teknik incelemelerde, Doku’nun kaybolmasından 3 gün sonra, 8 Ocak’ta sanal medya hesabında hareketlilik tespit edildiği belirlendi. Soruşturma kapsamında tutuklanan polis memuru Abdulvahit Pusat, savcılık sorgusunda, sanal medya hesabında veri manipülasyonu yapıldığı şüphesiyle ilgili savunma verdi.\n\nPusat, 29 Temmuz 2026 tarihli ifadesinde, raporu hazırladığını kabul ederken düzenleme talimatını kimden aldığını net hatırlamadığını öne sürdü. Doku’nun bulunması amacıyla açık kaynak araştırması yaptığını anlatan Pusat, komiseri O.M.Ö.’nün talimatıyla Asayiş Şube Müdürlüğü’ne gönderildiğini ve kendisine bazı görüntülerin teslim edildiğini kaydetti. Pusat, bu görüntüleri henüz tamamlanmamış raporuna eklediğini ve giriş bölümünü komiseriyle birlikte alelacele düzenlediklerini savundu.\n\nRapordaki ekran görüntülerinin tamamını kendisinin hazırlamadığını belirten Pusat, arkadaş listeleri ve beğenileri gösteren diğer görsellerin hazır halde kendisine teslim edildiğini ifade etti. Bu görsellerin Doku’nun arkadaşı E.D. aracılığıyla alınmış olabileceğini değerlendiren Pusat, hazır görüntüleri rapora eklerken tedirgin olduğunu öne sürdü. Komiseri O.M.Ö.’nün kendisine teslim tutanağı bulunduğunu ve işlemlerin yasal olduğunu söylediğini iddia eden Pusat, “Şimdi anlıyorum ki Gülistan’ın E.D. isimli arkadaşını çağırıp... bana raporu tanzim ettirmişler. Bana resmen tuzak kurmuşlar” dedi.\n\nSavcılığın, Doku’nun sanal medya hesabındaki veri silme ve arkadaş engelleme işlemleri ile resmi kolluk raporu arasındaki bağlantıyı ve Pusat’ın iddialarını çok yönlü olarak araştırdığı öğrenildi.",
-      "highlights": [
-        "Gülistan Doku'nun kaybolmasından 3 gün sonra sanal medya hesabında hareketlilik tespit edildi.",
-        "Tutuklu polis memuru Abdulvahit Pusat, raporu hazırladığını kabul etti ancak kendisine tuzak kur adecuIdunu öne sürdü.",
-        "Pusat, bazı görsellerin hazır halde kendisine teslim edildiğini ve komiserinin talimatıyla rapora eklendiğini savundu."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/gulistan-doku-cinayetinde-kritik-ifade-tutuklu-polisten-tuzak-savunmasi-4873926",
-      "publishedAt": "2026-11-18T10:30:55.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gazzede-katliam-devam-ediyor-1751435",
-      "headline": "Cumhurbaşkanı Erdoğan: Emeklilere iyileştirme sene başından önce olacak",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1622223145461-271074da3e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Q3VtaHVyYmElQzUlOUZrYW4lQzQlQjElMjBFcmRvJUM0JTlGYW4lMjBhJUMzJUE3JUM0JUIxa2xhZCVDNCVCMS4lMjBFbWVrbGlsZXJlJTIwaXlpbGUlQzUlOUZ0aXJtZSUyMHNlbmUlMjBiYSVDNSU5RiVDNCVCMW5kYW4lMjAlQzMlQjZuY2UlMjBvbGFjYWt8ZW58MXwwfHx8MTc5NDk5NzQ3OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ömer Faruk Yıldız",
-        "photographerUrl": "https://unsplash.com/@fotomuhabiriomer",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-gray-dress-shirt-standing-beside-man-in-black-crew-neck-t-shirt-YH9qRjze9tM"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, TBMM'deki partisinin grup toplantısında önemli açıklamalarda bulundu. Erdoğan, emekli maaşlarına yönelik düzenlemenin sene başından önce hayata geçirileceğini duyurdu.\n\nBütün emeklileri kapsayacak olan maaş düzenlemesinin yaş ve prim sayısı dikkate alınarak yapılacağını belirten Erdoğan, refah payı düzenlemesinin bu yıl bitmeden tamamlanacağını ve 17 milyon emeklinin tümünün kapsama alınacağını ifade etti. Konuşmasında dış politika meselelerine de değinen Erdoğan, Basra Körfezi'nde suların yeniden ısındığını ve Gazze'de İsrail'in uyguladığı kısıtlamalar nedeniyle büyük bir felaket ile katliamın devam ettiğini söyledi.\n\nAK Parti'nin kuruluşundan bu yana geçen 24 yıllık sürece değinen Cumhurbaşkanı, tek pusulalarının Türk milleti olduğunu vurguladı. Heyecanlarının ilk günkü gibi olduğunu dile getiren Erdoğan, makamların geçici olduğunu kaydetti.\n\nFon soruşturması ve ödemelerine ilişkin de bilgi veren Erdoğan, sürecin şeffaf bir şekilde yönetildiğini bildirdi. Bugüne kadar toplam 161 milyar lira ödeme yapıldığını ve bu tutarda hiç kamu kaynağı kullanılmadığını belirten Erdoğan, 371 bin 21 yatırımcının net yatırım tutarını geri aldığını aktardı. Fon firarilerinin sıkı takipte olduğunu ve toplam 136 kişinin tutuklandığını ifade eden Erdoğan, denetim ile cezaları artıran yeni bir fon yasası hazırladıklarını açıkladı.",
-      "highlights": [
-        "Emekli maaşı düzenlemesi yaş ve prim gün sayısı esas alınarak yılbaşından önce hayata geçirilecek ve 17 milyon emeklinin tümünü kapsayacak.",
-        "Fon ödemelerinde toplam tutar yaklaşık 161 milyar liraya ulaştı ve bu süreçte hiçbir kamu kaynağı kullanılmadı.",
-        "Fon firarileri için sıkı takip sürerken, toplam 136 kişi tutuklandı ve denetim ile cezaları artıran yeni bir yasa hazırlanıyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-gazzede-katliam-devam-ediyor-1751435",
-      "publishedAt": "2026-11-18T10:24:03.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:34:37.423Z",
       "isBreaking": false
     }
   ],
