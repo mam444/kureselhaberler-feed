@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-22T11:24:47.664Z",
+  "generatedAt": "2026-11-22T11:34:33.423Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/eyyup-kadir-inandan-umit-ozlale-aciklamasi-ak-partiye-katilmak-icin-benimle-gorustu-4875428",
+      "headline": "Eyyüp Kadir İnan’dan Ümit Özlale açıklaması: AK Parti’ye katılmak için benimle görüştü",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1767019486543-178e0cfe7d72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RXl5JUMzJUJDcCUyMEthZGlyJTIwJUM0JUIwbmFuJUUyJTgwJTk5ZGFuJTIwJUMzJTlDbWl0JTIwJUMzJTk2emxhbGUlMjBhJUMzJUE3JUM0JUIxa2xhbWFzJUM0JUIxJTNBJTIwQUslMjBQYXJ0aSVFMiU4MCU5OXllJTIwa2F0JUM0JUIxbG1hayUyMGklQzMlQTdpbiUyMGJlbmltbGUlMjBnJUMzJUI2ciVDMyVCQyVDNSU5RnQlQzMlQkN8ZW58MXwwfHx8MTc5NTM0NzI3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Morgan Marinoni",
+        "photographerUrl": "https://unsplash.com/@morganmarinoniphotography",
+        "unsplashUrl": "https://unsplash.com/photos/woman-wearing-a-headscarf-next-to-a-sign-kiujoctfiLM"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, Yeni Parti İzmir Milletvekili Ümit Özlale’nin yaklaşık bir buçuk yıl önce AK Parti’ye katılmak amacıyla kendisiyle görüştüğünü söyledi.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/eyyup-kadir-inandan-umit-ozlale-aciklamasi-ak-partiye-katilmak-icin-benimle-gorustu-4875428",
+      "publishedAt": "2026-11-22T11:33:54.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
       "headline": "Kepez Belediyesi'ne rüşvet operasyonu. 20 kişi gözaltına alındı",
@@ -10,12 +30,18 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Antalya'da Kepez Belediyesi'ne yönelik rüşvet ve yolsuzluk soruşturması kapsamında düzenlenen operasyonda 20 şüpheli gözaltına alındı. Belediyelere yönelik rüşvet ve yolsuzluk operasyonları sürüyor. Bu sabah saatlerinde CHP'li Antalya Kepez Belediyesi'ne yönelik soruşturma kapsamında İl Emniyet Müdürlüğü Kaçakçılık ve Organize Suçlarla Mücadele Şube Müdürlüğü ile İstihbarat Şube Müdürlüğü ekiplerince Antalya ve…",
-      "highlights": [],
+      "highlights": [
+        "Kepez Belediyesi'ne yönelik operasyonda 20 şüpheli gözaltına alındı",
+        "Operasyon Antalya ve Konya'da eş zamanlı olarak gerçekleştirildi",
+        "Zanlılara rüşvet ve ihaleye fesat karıştırma suçlamaları yöneltiliyor"
+      ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
       "publishedAt": "2026-11-22T11:22:53.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:34:18.648Z",
+      "imageSearchAttemptedAt": "2026-11-22T11:34:18.648Z"
     },
     {
       "id": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
@@ -89,7 +115,8 @@
       "publishedAt": "2026-11-22T11:07:30.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:34:18.648Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kizilelma-anma-puluyla-olumsuzlesecek-1752056",
@@ -164,6 +191,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T11:24:24.099Z"
+    },
+    {
+      "id": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+      "headline": "UK-EU food deal hailed by British firms: ‘We’re pretty aligned anyway’",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1722639096482-4e1a805f9b0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vZCUyMHRyYWRlfGVufDF8MHx8fDE3OTUzNDcyNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Brad",
+        "photographerUrl": "https://unsplash.com/@minimdesignco",
+        "unsplashUrl": "https://unsplash.com/photos/a-grocery-store-filled-with-lots-of-food-2Vl1JZFmtOw"
+      },
+      "timeAgo": "34 dk önce",
+      "body": "İngiltere ile Avrupa Birliği arasında gıda, bitki ve hayvansal ürünlerdeki fiziksel kontrollerin büyük kısmını kaldırmayı amaçlayan yeni bir sıhhi ve fitosaniter (SPS) anlaşma, İngiliz üreticiler tarafından genel olarak memnuniyetle karşılandı. Anlaşmanın, gıda ihracatçılarına fayda sağlaması ve küçük perakendecilerin yeniden Avrupa peyniri ile şarabı ithal etmesine imkan tanıması bekleniyor.\n\n1 Mart 2028'de yürürlüğe girmesi planlanan düzenleme; taze sosis, burger, tohumluk patates ve yumuşakçalar dahil olmak üzere İngiltere ürünleri için AB pazarını yeniden açmayı hedefliyor. Ancak Brexit sonrasında ticaret düzenlemelerinin alt üst olmasından yıllar sonra bazı ihracatçılar, anlaşma yürürlüğe girinceye kadar temkinli yaklaşacaklarını belirtti.\n\nİskoç tohumluk patates üreticisi Jamieson Brothers'ın operasyon direktörü Iain Barbour, anlaşmanın fiziksel olarak gerçekleşene kadar kimse tarafından inanılmayacağını ifade etti. Brexit sonrasında sertifika anlaşmazlıkları nedeniyle tohumluk patates ihracatı durmuş ve bu durum özellikle İskoç üreticileri ile kuzey İngiltere'deki yetiştiricileri olumsuz etkilemişti.\n\nCanlı çift kabuklu yumuşakçalar ihraç eden Devon merkezli Offshore Shellfish'in ticari direktörü Sarah Holmyard ise anlaşmanın en önemli detayının, su kalitesi en yüksek derecede olmasa bile yumuşakçaların ihraç edilmesine izin verilmesi güvencesi olduğunu belirterek bunu büyük bir kazanım olarak nitelendirdi.\n\nSomerset merkezli peynir ve tereyağı üreticisi Wyke Farms'ın yönetici direktörü Rich Clothier, veteriner kontrollerinin kaldırılmasının önemli bir avantaj olduğunu söyledi. Clothier, anlaşmanın maliyetleri ve ürün israfını büyük ölçüde azaltacağını vurgularken, uygulamanın bu kadar uzun sürecek olmasının hayal kırıklığı yarattığını dile getirdi.",
+      "highlights": [
+        "İngiltere ile AB arasında gıda, bitki ve hayvansal ürün kontrollerini kaldırmayı amaçlayan SPS anlaşması duyuruldu.",
+        "Anlaşmanın 1 Mart 2028'de yürürlüğe girmesi planlanıyor; tohumluk patates ve yumuşakça gibi ürünler için pazarın yeniden açılması hedefleniyor.",
+        "İngiliz üreticiler anlaşmayı olumlu karşılasa da, uygulama tarihinin uzun bir süre sonrasını kapsamasından dolayı temkinli yaklaşıyor."
+      ],
+      "externalUrl": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
+      "publishedAt": "2026-11-22T11:00:24.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.aa.com.tr/tr/spor/turk-sporcular-dunya-para-tekvando-sampiyonasinda-4-altin-madalya-kazandi/4133498",
@@ -14577,56 +14628,6 @@
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
-      "headline": "Robert Pattinson, yeni James Bond oldu: Sürpriz oyuncu seçimi açıklandı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1542979915-a9c2df9a2e74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SmFtZXMlMjBCb25kfGVufDF8MHx8fDE3OTUwMTI1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Patrick Robert Doyle",
-        "photographerUrl": "https://unsplash.com/@teapowered",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-black-mountain-EkBCBo7vmM4"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Robert Pattinson, sinemanın en ikonik rollerinden birinde Daniel Craig'in yerini alarak yeni James Bond olacak. Bu sürpriz oyuncu seçimi, sinema eleştirmeni Emma Jones ile Eve Jackson'ın sunduğu arts24 haftalık film programında ele alındı.\n\nProgramda, Pattinson'ın yıldız gücü ve sinema efsanesi 007 karakterine neler katabileceği tartışıldı. Sürpriz seçimin arka planındaki detaylar ve oyuncunun bu büyük role getirebilecekleri masaya yatırıldı.\n\nYayında ayrıca güncel yapımlar da değerlendirildi. Eleştirmenler, son \"Hunger Games\" ön filmi \"Sunrise on the Reaping\"i, Lukas Dhont'un Cannes ödüllü filmi \"Coward\"ı ve Almanya'nın Oscar adayı \"Everytime\"ı inceledi.\n\nSöz konusu yapım ve oyuncu tercihleri, FRANCE 24'ün kültür ve sinema programı kapsamında izleyicilere aktarıldı. Programda yer alan isimler arasında Emma Jones, Laura Di Biasio, Eve Jackson, Louise Dupont, Marion Chaval ve Solène Clausse bulunuyor.",
-      "highlights": [
-        "Robert Pattinson, Daniel Craig'in ardından yeni James Bond oldu.",
-        "Emma Jones ve Eve Jackson, arts24 programında sürpriz seçimi tartıştı.",
-        "Programda ayrıca Hunger Games ön filmi ve Coward ile Everytime filmleri incelendi."
-      ],
-      "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261118-robert-pattinson-is-the-new-james-bond-the-surprise-casting-choice-explained",
-      "publishedAt": "2026-11-18T14:32:34.000Z",
-      "category": "Kültür & Sanat",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T14:46:25.197Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/fon-sorusturmasinda-yeni-isim-mustafa-yazici-ifade-veriyor-7703255",
-      "headline": "Fon soruşturmasında Mustafa Yazıcı ifade veriyor",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1743708826277-dda59ddac473?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Rm9uJTIwc29ydSVDNSU5RnR1cm1hcyVDNCVCMW5kYSUyME11c3RhZmElMjBZYXolQzQlQjFjJUM0JUIxJTIwaWZhZGV5ZSUyMHZlcml5b3J8ZW58MXwwfHx8MTc5NTAxMjU0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sinem Tunalı",
-        "photographerUrl": "https://unsplash.com/@sinem_",
-        "unsplashUrl": "https://unsplash.com/photos/statue-of-a-historical-figure-and-children-outdoors-KKntHie_rRw"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen fon soruşturması devam ediyor. Soruşturma çerçevesinde ifadeye çağrılan Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı, İstanbul Adliyesi'ne intikal etti. Yazıcı'nın adliyedeki ifade verme süreci başlatıldı.",
-      "highlights": [
-        "İstanbul Cumhuriyet Başsavcılığınca fon soruşturması sürdürülüyor.",
-        "Adil Varlık Yönetim Kurulu Başkan Vekili Mustafa Yazıcı adliyeye geldi.",
-        "Yazıcı'nın adliyedeki ifade işlemi başladı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/fon-sorusturmasinda-yeni-isim-mustafa-yazici-ifade-veriyor-7703255",
-      "publishedAt": "2026-11-18T14:31:08.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T14:46:25.197Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
