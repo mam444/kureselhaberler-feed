@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-22T07:54:49.080Z",
+  "generatedAt": "2026-11-22T08:05:10.840Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/kdk-devreye-girdi-zabita-alimini-sinirlandiran-sart-kaldirildi-4875381",
+      "headline": "KDK devreye girdi: Zabıta alımını sınırlandıran şart kaldırıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1770493707253-3b9a134e877d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8emFiJUM0JUIxdGElMjBhbCVDNCVCMW0lQzQlQjF8ZW58MXwwfHx8MTc5NTMzNDcwOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tom Audagna",
+        "photographerUrl": "https://unsplash.com/@tomaudagna",
+        "unsplashUrl": "https://unsplash.com/photos/crowd-gathers-near-a-building-with-city-skyline-behind-TMuZFFI0wxc"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Kamu Denetçiliği Kurumu'na başvuran bir vatandaş, Sarıidris Belediyesi'nin zabıta memuru alım ilanındaki şartlara itiraz etti. İlanda sadece belirli finans programlarından mezun olma şartı aranmasının Anayasa'nın eşitlik ve hizmete alınmada görevin gerektirdiği nitelikler ilkelerini ihlal ettiğini belirtti. Vatandaş, bu durumun fırsat eşitliğini ortadan kaldırdığını ve adrese teslim ilan algısı yaratarak kamu güvenini zedelediğini ifade etti.\n\nBaşvuruyu inceleyen Kamu Denetçiliği Kurumu, Sarıidris Belediye Başkanlığı ile iletişime geçti. KDK, yayımlanan ilan metninin Anayasa'nın ilgili maddesini zedeler nitelikte olduğunu belediyeye hatırlattı.\n\nKurumun girişimleri sonucunda ilan metnindeki kısıtlayıcı şart genişletildi. Eski metinde yer alan 'bankacılık ve finans, finans matematiği, finansal ekonometri' lisans programlarından mezun olma şartı kaldırıldı.\n\nİlan, 'Lisans düzeyinde eğitim veren fakültelerin kamu yönetimi, bankacılık ve finans, iktisat, ekonomi, maliye, muhasebe ve finansman programlarından birinden mezun olmak' şeklinde yeniden yayımlandı.",
+      "highlights": [
+        "Sarıidris Belediyesi'nin zabıta memuru alım ilanındaki şart KDK başvurusuyla değiştirildi.",
+        "İlandaki dar kapsamlı mezuniyet şartı genişletilerek yeni programlar eklendi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/kdk-devreye-girdi-zabita-alimini-sinirlandiran-sart-kaldirildi-4875381",
+      "publishedAt": "2026-11-22T08:03:31.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
       "headline": "Kepez Belediyesi'ne rüşvet operasyonu: 10 kişi gözaltına alındı",
@@ -16,11 +39,37 @@
       "body": "Antalya'da Kepez Belediyesi'ne yönelik bir rüşvet ve irtikap operasyonu gerçekleştirildi. Düzenlenen operasyon kapsamında toplam 10 şüpheli gözaltına alındı. \n\nSöz konusu operasyon, CHP'li belediyelere yönelik rüşvet ve yolsuzluk iddialarıyla yürütülen soruşturmalar çerçevesinde yapıldı. \n\nYetkililer tarafından olayla ilgili ayrıntıların ilerleyen saatlerde geleceği bildirildi.",
       "highlights": [
         "Kepez Belediyesi'ne rüşvet ve irtikap operasyonu düzenlendi",
-        "10 şüpheli gözaltına alındı"
+        "Operasyonda 10 şüpheli gözaltına alındı",
+        "Şüphelilerin işlemleri sürüyor"
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
       "publishedAt": "2026-11-22T07:52:04.000Z",
       "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:05:05.547Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+      "headline": "Max Verstappen, Las Vegas Grand Prix'sini Dördüncü Yılda Üçüncü Kez Kazandı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1577334928618-2ff2bf09e827?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RjElMjBMYXMlMjBWZWdhc3xlbnwxfDB8fHwxNzk1MzM0NzA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sung Shin",
+        "photographerUrl": "https://unsplash.com/@ironstagram",
+        "unsplashUrl": "https://unsplash.com/photos/las-vegas-nevada-billboard-under-white-and-blue-sky-sNLdpqkr2YE"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "Red Bull pilotu Max Verstappen, Antonelli ve Russell'ı geride bırakarak Formula 1 Las Vegas Grand Prix'sinde birinciliğe ulaştı.\n\nVerstappen, bu galibiyetle birlikte son dört yılda Las Vegas'taki yarışta üçüncü kez zafer elde etmiş oldu.\n\nOldukça çekişmeli geçen mücadele boyunca toplamda 35 liderlik değişimi yaşandı.\n\nRed Bull pilotu, yarışın galibiyetine ulaşabilmek için tüm gücünü ortaya koyarak rakipleriyle mücadele etti.",
+      "highlights": [
+        "Verstappen Antonelli ve Russell'ı geride bıraktı",
+        "Yarışta 35 liderlik değişimi yaşandı",
+        "Verstappen son dört yılda üçüncü kez kazandı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+      "publishedAt": "2026-11-22T07:48:28.000Z",
+      "category": "Spor",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -243,7 +292,8 @@
       "publishedAt": "2026-11-22T06:40:18.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T08:05:05.547Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
@@ -14585,55 +14635,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T10:24:32.682Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261118-all-eyes-on-talks-with-putin-xi-as-trump-arrives-at-apec-summit",
-      "headline": "Putin ve Xi ile Görüşmelere Odaklanan Trump APEC Zirvesi İçin Çin'e Vardı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1794796693699-acc80dbb0385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QVBFQyUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0OTk2ODY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "leoon liang",
-        "photographerUrl": "https://unsplash.com/@leoonliang",
-        "unsplashUrl": "https://unsplash.com/photos/crowd-waiting-near-apec-china-flags-1BLqTQdJjPc"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "ABD Başkanı Donald Trump, Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesinin düzenlendiği Çin'e çarşamba günü geldi. Ziyaret kapsamında tüm dikkatler, perşembe günü Trump, Çin Devlet Başkanı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin arasında gerçekleşecek olan tarihi üçlü görüşmeye çevrilmiş durumda.\n\nTrump, söz konusu görüşmelerde İran ve Ukrayna'daki savaşların yanı sıra nükleer silahsızlanma konularının ele alınacağını ifade etti.",
-      "highlights": [
-        "ABD Başkanı Donald Trump, APEC zirvesi için Çarşamba günü Çin'e varış yaptı.",
-        "Perşembe günü Trump, Xi Jinping ve Vladimir Putin arasında tarihi üçlü bir görüşme gerçekleştirilmesi bekleniyor.",
-        "Trump, görüşmelerde İran ve Ukrayna savaşları ile nükleer silahsızlanmanın ele alınacağını belirtti."
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261118-all-eyes-on-talks-with-putin-xi-as-trump-arrives-at-apec-summit",
-      "publishedAt": "2026-11-18T10:09:10.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T10:24:33.435Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/biberonuna-uyusturucu-madde-karisan-bebek-hayatini-kaybetmisti-ingilteredeki-kan-donduran-olayda-flas-karar-7702874",
-      "headline": "İngiltere'de 2 yaşındaki bebek uyuşturucudan öldü! Aileyle ilgili karar",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1588410670460-cdab54625253?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmFieSUyMHRvZGRsZXJ8ZW58MXwwfHx8MTc5NDk5NjI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Reynardo Etenia Wongso",
-        "photographerUrl": "https://unsplash.com/@reynardoew",
-        "unsplashUrl": "https://unsplash.com/photos/child-in-white-tank-top-EHmoH8aCQqU"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "İngiltere'nin County Durham bölgesinde sütüne yüksek miktarda kokain karışması sonucu hayatını kaybeden iki yaşındaki Laylah Hatch'in ölümüyle ilgili dava sonuçlandı. Nisan 2024'te Billingham kasabasında yaşanan olayda, anne Jodie Hatch'in erkek arkadaşı Dale Mathie'nin evinde kalan küçük Laylah, içtiği sütün ardından kusmuğunda boğularak bilincini kaybetmiş ve kaldırıldığı hastanede kurtarılamamıştı.\n\nTeesside Ağır Ceza Mahkemesi'nde açıklanan otopsi raporunda, küçük çocuğun kanında esrar ve ekstazinin yanı sıra bir yetişkini öldürebilecek seviyede kokain bulunduğu belirtildi. İncelemelerde, Laylah'ın ölümünden önce de defalarca uyuşturucuya maruz kaldığı ortaya çıktı. Dava dosyasına göre, küçük kızın ölümünden günler önce açıkta duran esrarlı şekeri yiyerek 17 saat baygın kaldığı ve sanık Dale Mathie'nin telefonunda uyuşturucu etkisindeyken çekilmiş videolarının bulunduğu tespit edildi.\n\nSavcı Richard Wright, uyuşturucu satıcılığı yapan Mathie'nin dairesinde uyuşturucuların çocukların erişebileceği şekilde açıkta bırakıldığını aktardı. Kokainin bebeğin biberonuna kasıtlı mı konulduğu yoksa dağınıklıktan dolayı mı süte karıştığı belirlenemezken, savcılık ölümün kaçınılmaz bir kaza olmadığını vurguladı. Olayın ardından delillerin yok edilmeye çalışıldığı da belirlendi.\n\nMahkeme sonucunda suçları kabul eden uyuşturucu satıcısı Dale Mathie 13 yıl 9 ay, anne Jodie Hatch ise 5 yıl 4 ay hapis cezasına çarptırıldı. Mathie'nin suç ortağı Brandon Jameson da 2 yıl 6 ay hapis cezası aldı. Soruşturmayı yürüten Başmüfettiş Chris Pringle, çocukların kendi evlerinde güvende olması gerektiğine dikkat çekti.",
-      "highlights": [
-        "İki yaşındaki Laylah Hatch sütüne karışan kokain nedeniyle hayatını kaybetti.",
-        "Anne Jodie Hatch ve uyuşturucu satıcısı Dale Mathie toplamda 19 yılı aşkın hapis cezası aldı.",
-        "Otopsi raporunda küçük çocuğun kanında yetişkin birini öldürebilecek düzeyde kokain bulundu."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/biberonuna-uyusturucu-madde-karisan-bebek-hayatini-kaybetmisti-ingilteredeki-kan-donduran-olayda-flas-karar-7702874",
-      "publishedAt": "2026-11-18T10:02:03.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
