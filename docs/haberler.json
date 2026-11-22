@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T11:34:33.423Z",
+  "generatedAt": "2026-11-22T11:44:42.763Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/sehit-astsubay-yalin-gergunun-naasi-samsuna-getirildi-yarin-son-yolculuguna-ugurlanacak-7705625",
+      "headline": "Şehit Astsubay Yalın Gergün'ün naaşı Samsun'a getirildi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1777250185706-1417f93692bb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWlsaXRhcnklMjBmdW5lcmFsfGVufDF8MHx8fDE3OTUzNDc4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ken So",
+        "photographerUrl": "https://unsplash.com/@ken_memoriesinfinity",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-suit-lays-wreath-with-flowers-at-outdoor-event-cJi57PABN6s"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Şırnak’ın Uludere ilçesi Şenoba bölgesindeki 48’inci Hudut Tugay Komutanlığı’nda meydana gelen silah kazasında yaralanan İstihkam Astsubay Çavuş Yalın Gergün, kaldırıldığı Uludere Devlet Hastanesi’nde yapılan tüm müdahalelere rağmen şehit oldu. Şehit Gergün’ün Türk bayrağına sarılı naaşı askeri uçakla Samsun-Çarşamba Havalimanı'na getirildi.\n\nHavalimanında düzenlenen karşılama töreninde şehidin yakınlarının yanı sıra Samsun Valisi Orhan Tavlı, milletvekilleri, askeri ve mülki erkan ile protokol üyeleri yer aldı. Karşılamanın ardından şehidin cenazesi Kıranköy Mezarlığı morguna nakledildi.\n\nBekar olduğu ve bir yıl yedi ay önce göreve başladığı belirtilen Yalın Gergün, yarın öğle namazını müteakiben Büyük Cami’de kılınacak cenaze namazının ardından Samsun Garnizon Şehitliği’nde son yolculuğuna uğurlanacak.\n\nÖte yandan şehidin 44 yaşındaki annesi Burcu Çelik’in, oğlunun şehadet haberini umre ziyareti sırasında aldığı ve Samsun’a doğru hareket ettiği bilgisi paylaşıldı.",
+      "highlights": [
+        "Şırnak'ta silah kazasında yaralanan İstihkam Astsubay Çavuş Yalın Gergün şehit oldu",
+        "Şehit Gergün'ün naaşı askeri uçakla Samsun-Çarşamba Havalimanı'na getirildi",
+        "Cenaze yarın öğle namazının ardından Samsun Garnizon Şehitliği'nde toprağa verilecek"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/sehit-astsubay-yalin-gergunun-naasi-samsuna-getirildi-yarin-son-yolculuguna-ugurlanacak-7705625",
+      "publishedAt": "2026-11-22T11:39:30.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/eyyup-kadir-inandan-umit-ozlale-aciklamasi-ak-partiye-katilmak-icin-benimle-gorustu-4875428",
       "headline": "Eyyüp Kadir İnan’dan Ümit Özlale açıklaması: AK Parti’ye katılmak için benimle görüştü",
@@ -14,12 +38,17 @@
       },
       "timeAgo": "1 dk önce",
       "body": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, Yeni Parti İzmir Milletvekili Ümit Özlale’nin yaklaşık bir buçuk yıl önce AK Parti’ye katılmak amacıyla kendisiyle görüştüğünü söyledi.",
-      "highlights": [],
+      "highlights": [
+        "AK Parti Genel Sekreteri Eyyüp Kadir İnan, Ümit Özlale'nin bir süre önce AK Parti'ye katılmak için kendisiyle görüştüğünü belirtti.",
+        "İnan, Özgür Özel'in Ümit Özlale'yi siyasi hedefleri doğrultusunda kullandığını iddia etti.",
+        "İnan, Özlale'nin geçmişteki görüşmede kendisine övücü sözler söylediğini ancak bugün sosyal medyada farklı ifadeler kullandığını söyledi."
+      ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/eyyup-kadir-inandan-umit-ozlale-aciklamasi-ak-partiye-katilmak-icin-benimle-gorustu-4875428",
       "publishedAt": "2026-11-22T11:33:54.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T11:44:29.119Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
@@ -3255,7 +3284,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:34:23.025Z",
-      "imageSearchAttemptedAt": "2026-11-22T05:44:21.055Z"
+      "imageSearchAttemptedAt": "2026-11-22T11:44:29.119Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -4034,7 +4063,7 @@
       "publishedAt": "2026-11-21T11:29:32.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T11:44:19.150Z",
+      "sourceTextAttemptedAt": "2026-11-22T11:44:29.119Z",
       "isBreaking": false
     },
     {
@@ -4104,7 +4133,7 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "imageSearchAttemptedAt": "2026-11-22T05:44:21.055Z",
+      "imageSearchAttemptedAt": "2026-11-22T11:44:29.119Z",
       "isBreaking": false
     },
     {
@@ -14604,30 +14633,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T15:04:24.780Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.rfi.fr/en/africa/20261118-strain-specific-ebola-vaccines-to-be-trialled-in-drc-who-announces",
-      "headline": "Kongo Demokratik Cumhuriyeti'nde türe özgü Ebola aşıları denenecek, WHO duyurdu",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1618961734760-466979ce35b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RWJvbGElMjB2YWNjaW5lfGVufDF8MHx8fDE3OTUwMTMyMjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Braňo",
-        "photographerUrl": "https://unsplash.com/@3dparadise",
-        "unsplashUrl": "https://unsplash.com/photos/3-clear-glass-bottles-on-table-QSuou3VAtf4"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Dünya Sağlık Örgütü (WHO), Demokratik Kongo Cumhuriyeti'ni (DKC) etkileyen ölümcül Bundibugyo Ebola virüsüne karşı geliştirilen iki aşının geleceğ انه hafta salgının merkez üssünde denemelere başlayacağını duyurdu. WHO lideri Tedros Adhanom Ghebreyesus, Cenevre'deki genel merkezde düzenlenen basın toplantısında, Bundibugyo virüsü için özel olarak geliştirilen iki aday aşının test edilmesinin gelecek hafta başlamasını beklediklerini belirtti.\n\nDemokratik Kongo Cumhuriyeti'ndeki Tumaini denemesi, aşıların güvenliğini, etkinliğini ve bağışıklık tepkisi tetikleme yeteneğini test edecek. Denemede, yüksek risk altında olduğu değerlendirilen temaslıları aşılamak için halka aşılaması yöntemi uygulanacak. Daha yaygın olan Zaire Ebola türüne karşı kullanım için halihazırda onaylanmış bir aşı olan Ervebo, Bundibugyo'ya karşı da koruma sağlayıp sağlamadığını belirlemek amacıyla 23 Ekim'de 3. Aşama düzeyinde Tumaini denemesini başlatmıştı.\n\nMayıs ayında ilan edilen salgına neden olan ve uluslararası halk sağlığı acil durumunu tetikleyen daha az yaygın Bundibugyo Ebola türü için halihazırda herhangi bir aşı veya tedavi bulunmuyor. Sağlık kuruluşları, salgının altıncı aya girmesiyle birlikte vaka sayıları ve ölümlerin rekor hızla artmaya devam ettiğini ve salgının kontrolden çıkmaya devam ettiğini teyit etti.\n\nWHO'ya göre, Orta Afrika ülkesinin şimdiye kadarki en kötü Ebola salgınında toplam 11.376 vakadan 5.568 ölüm doğrulandı. Kaynak eksiklikleri, ülkedeki istikrarsızlık ve zayıf koordinasyon, küresel olarak kayıtlara geçen en büyük ikinci salgın olan bu durumu kontrol altına alma çabalarını engelledi.\n\nDeneme safhasındaki Bundibugyo'ya özgü iki aday aşının her ikisi de 1. Aşama klinik denemelerini tamamladı. Biri Oxford Üniversitesi tarafından geliştirilen bir ChAdOx1 adenoviral vektör aşısı, diğeri ise ABD merkezli Moderna grubu tarafından geliştirilen mRNA-1469 aşısıdır. WHO'nun sağlık bilimi departmanı başkanı Meg Doherty, aday aşılarla 2. Aşama klinik denemelerinin DKC'nin Kuzey Kivu eyaletinin merkez üssü olan Bunia'da 26 veya 27 Kasım'da başlamasının planlandığını ifade etti. Tumaini denemesine 140'tan fazla kişinin kaydolduğu ve binlerce temaslının katılmasının beklediği bildirildi.",
-      "highlights": [
-        "Bundibugyo Ebola türüne karşı iki aday aşı gelecek hafta DKC'de denenecek.",
-        "Salgında şimdiye kadar 11.376 vaka ve 5.568 ölüm doğrulandı.",
-        "Aday aşıların 2. Aşama klinik denemelerinin Bunia'da başlaması planlanıyor."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/africa/20261118-strain-specific-ebola-vaccines-to-be-trialled-in-drc-who-announces",
-      "publishedAt": "2026-11-18T14:38:59.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14841,6 +14846,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
     "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
     "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
-    "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss"
+    "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss"
   ]
 }
