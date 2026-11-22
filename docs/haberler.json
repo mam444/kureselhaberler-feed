@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-22T12:04:31.040Z",
+  "generatedAt": "2026-11-22T12:14:31.985Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/17-yasindaki-kardelenin-hayatini-kaybettigi-olayda-kamera-goruntuleri-ortaya-cikti-7705653",
+      "headline": "17 yaşındaki Kardelen'in hayatını kaybettiği olayda kamera görüntüleri ortaya çıktı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1636106824449-0699bc32660d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8MTclMjB5YSVDNSU5RiVDNCVCMW5kYWtpJTIwS2FyZGVsZW4lMjdpbiUyMGhheWF0JUM0JUIxbiVDNCVCMSUyMGtheWJldHRpJUM0JTlGaSUyMG9sYXlkYSUyMGthbWVyYSUyMGclQzMlQjZyJUMzJUJDbnQlQzMlQkNsZXJpJTIwb3J0YXlhJTIwJUMzJUE3JUM0JUIxa3QlQzQlQjF8ZW58MXwwfHx8MTc5NTM0OTY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kuntay Bayramoğlu",
+        "photographerUrl": "https://unsplash.com/@acedia59",
+        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-clock-on-the-top-of-it-VyVTe45LaW4"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "16 Kasım'da meydana gelen ve 17 yaşındaki Kardelen Koç'un hayatını kaybettiği olayla ilgili güvenlik kamerası görüntüleri ortaya çıktı. Kırşehir nüfusuna kayıtlı olduğu öğrenilen Kardelen Koç, iş makinesinin altında kalarak yaşamını yitirmişti. Yaşanan acı olayın ardından ortaya çıkan güvenlik kamerası görüntüleri, olayın yaşandığı anlara ilişkin görüntüleri gözler önüne serdi. İstanbul Valiliği'nden fırtına ve…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/17-yasindaki-kardelenin-hayatini-kaybettigi-olayda-kamera-goruntuleri-ortaya-cikti-7705653",
+      "publishedAt": "2026-11-22T12:12:56.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+      "headline": "Endonezya'daki fabrika yangınında 3 kişi hayatını kaybetti, 36 kişi kayıp",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1651996854143-6382913dbf74?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZmFjdG9yeSUyMGZpcmUlMjBJbmRvbmVzaWF8ZW58MXwwfHx8MTc5NTM0OTY2NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Renanda Afrizka Roma Satria",
+        "photographerUrl": "https://unsplash.com/@renandaafrizka",
+        "unsplashUrl": "https://unsplash.com/photos/a-person-sitting-on-a-pile-of-rubble-bELZUTymQfE"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Endonezya'da şekerleme ve atıştırmalık ürünler üreten bir fabrikada çıkan yangın sonucunda en az üç kişi yaşamını yitirdi, çok sayıda kişi ise kayıp durumda. Olayın ardından başlatılan arama ve kurtarma çalışmalarında tesisten sağ olarak kurtarılan 15 kişi güvenli alana alındı.\n\nYangının başlamasından bu yana 12 saatten fazla süre geçmesine rağmen itfaiye ekipleri tesisin çeşitli bölümlerindeki alevlerle mücadeleyi sürdürüyor. Yetkililer ve ekipler sahada çalışmalarına devam ederken, alevlerin kontrol altına alınması için yoğun çaba harcanıyor.\n\nYangının çıkış nedeni henüz kesinlik kazanmadı. Öte yandan tesisten kurtulan bazı kişilerin aktardığı bilgilere göre yangın, binanın üçüncü katında yer alan bir soğutma ünitesinde başladı. Olayla ilgili incelemeler ve kurtarma faaliyetleri devam ediyor.",
+      "highlights": [
+        "Endonezya'da şekerleme fabrikasında çıkan yangında 3 kişi öldü, 36 kişi kayıp",
+        "Tesisten 15 kişi sağ olarak kurtarıldı",
+        "Kurtulanların ifadesine göre yangın üçüncü kattaki soğutma ünitesinde başladı"
+      ],
+      "externalUrl": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+      "publishedAt": "2026-11-22T12:11:00.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/inegolde-dron-destekli-trafik-denetimi-21-surucuye-105-bin-tl-ceza-7705650",
       "headline": "İnegöl'de dron destekli trafik denetimi: 21 sürücüye 105 bin TL ceza",
@@ -23,7 +67,8 @@
       "publishedAt": "2026-11-22T12:03:02.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T12:14:21.235Z"
     },
     {
       "id": "https://www.rfi.fr/en/international/20261122-who-gets-europe-s-scrap-industry-fights-over-future-of-waste-exports",
@@ -4112,7 +4157,7 @@
       "publishedAt": "2026-11-21T11:35:42.000Z",
       "category": "Spor",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T12:04:29.551Z",
+      "sourceTextAttemptedAt": "2026-11-22T12:14:21.235Z",
       "isBreaking": false
     },
     {
@@ -4818,7 +4863,7 @@
       "publishedAt": "2026-11-21T08:31:24.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T06:04:27.213Z",
+      "imageSearchAttemptedAt": "2026-11-22T12:14:21.235Z",
       "isBreaking": false
     },
     {
@@ -7460,7 +7505,7 @@
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T06:04:27.213Z",
+      "imageSearchAttemptedAt": "2026-11-22T12:14:21.235Z",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
       "isBreaking": false
     },
@@ -14586,55 +14631,6 @@
       "publishedAt": "2026-11-18T15:05:20.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulunda-cocuk-iklim-zirvesi-ve-yasanabilir-cevre-bilgi-yarismasi-yapildi/4129530",
-      "headline": "Türkiye İklim Okulunda Çocuk İklim Zirvesi ve Bilgi Yarışması Düzenlendi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1727473704274-3fbad0dbbd60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y2xpbWF0ZSUyMHNjaG9vbCUyMGNoaWxkcmVufGVufDF8MHx8fDE3OTUwMTQzOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "‪Salah Darwish",
-        "photographerUrl": "https://unsplash.com/@salahdarwish",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-young-children-sitting-at-a-desk-6hl__HAWP4w"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Milli Eğitim Bakanlığı tarafından Birleşmiş Milletler İklim Değişikliği Konferansı çerçevesinde kurulan Türkiye İklim Okulu, önemli etkinliklere ev sahipliği yaptı.\n\nBu kapsamda okul bünyesinde \"Çocuk İklim Zirvesi\" gerçekleştirildi.\n\nAyrıca öğrenciler için \"Tabiat ve Yaşanabilir Çevre Bilgi Yarışması\" düzenlendi.",
-      "highlights": [
-        "Türkiye İklim Okulu'nda Çocuk İklim Zirvesi yapıldı",
-        "Tabiat ve Yaşanabilir Çevre Bilgi Yarışması düzenlendi"
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulunda-cocuk-iklim-zirvesi-ve-yasanabilir-cevre-bilgi-yarismasi-yapildi/4129530",
-      "publishedAt": "2026-11-18T15:01:26.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:15:04.256Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/tv-shows/france-in-focus/20261118-french-presidential-elections-2027-more-candidates-more-confusion-episode-2",
-      "headline": "2027 Fransa Cumhurbaşkanlığı Seçimleri: Daha Fazla Aday ve Belirsizlik (Bölüm 2)",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1586448911804-9fc613f60e15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RnJhbmNlJTIwZWxlY3Rpb25zfGVufDF8MHx8fDE3OTUwMTYwNzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "KOBU Agency",
-        "photographerUrl": "https://unsplash.com/@kobuagency",
-        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-abstract-painting-_nrSIAptXrU"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "Fransa, 2027 baharında yeni cumhurbaşkanını seçmek için sandık başına gitmeye hazırlanıyor. Nihai oy pusulasına girebilmek için yarışan otuz sekiz aday bulunuyor ve bu adayların 12 Mart'a kadar 500 seçilmiş yetkilinin desteğini toplamak için süreleri var. Son anketlere göre aşırı sağcı Ulusal Birlik lideri Marine Le Pen belirgin bir farkla önde yer alıyor ve şu an en çok öne çıkan figür konumunda bulunuyor.\n\nBu seri kapsamında muhabirler, yirmi yılı aşkın süredir ulusal oylama sonuçlarını tutarlı bir şekilde yansıtan Fransa'nın belirleyici kasabası Châteaudun'ü ziyaret etti. Kentsel ve tarımsal yapıların bir arada bulunduğu kasabanın 13.000 sakini, farklı görüşleri barındırması nedeniyle Fransız kamuoyunun bir barometresi olarak görülüyor.\n\nSerinin bu ikinci bölümünde muhabirler, geçtiğimiz haziran ayında gelecek nisan ayında hangi oy pusulasını atacağı konusunda oldukça kararsız olan bir matematik öğretmenliği yapan kişiyle görüştü. Ayrıca pazarı ziyaret eden muhabirler, hayat pahalılığı meselesinin herkesin dilinde olduğunu aktardı.\n\nSon olarak muhabirler, ekim ayı başlarında eğitim koşullarını protesto etmek amacıyla okulunda düzenlenen bir blokaja katılan bir lise öğrencisiyle bir araya geldi. Bahsi geçen öğrenci, önümüzdeki nisan ayında cumhurbaşkanlığı seçimlerinde ilk kez oy kullanacak.\n\nHabere imza atan isimler arasında Joanna Cockerell, Natacha Vesnitch, Stéphanie Cheval ve Joël Procope yer alıyor. Program kapsamında yayımlanan içerik France 24 ekranlarında izleyiciyle buluştu.",
-      "highlights": [
-        "Fransa'da 2027 baharında yapılacak cumhurbaşkanlığı seçimleri için 38 aday yarışıyor ve adayların 500 seçilmiş yetkiliden destek toplamak için 12 Mart'a kadar süreleri bulunuyor.",
-        "Aşırı sağcı Ulusal Birlik lideri Marine Le Pen, son anketlerde önemli bir farkla önde yer alıyor.",
-        "Muhabirler ulusal oylamaları istikrarlı şekilde yansıtan Châteaudun kasabasını ziyaret ederek bir matematik öğretmeni, pazar esnafı ve ilk kez oy kullanacak bir lise öğrencisiyle görüştü."
-      ],
-      "externalUrl": "https://www.france24.com/en/tv-shows/france-in-focus/20261118-french-presidential-elections-2027-more-candidates-more-confusion-episode-2",
-      "publishedAt": "2026-11-18T15:01:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:44:34.204Z",
       "isBreaking": false
     }
   ],
