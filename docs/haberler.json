@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-22T07:44:37.981Z",
+  "generatedAt": "2026-11-22T07:54:49.080Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
+      "headline": "Kepez Belediyesi'ne rüşvet operasyonu: 10 kişi gözaltına alındı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1526666361175-e3595627c376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTUzMzQwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "King's Church International",
+        "photographerUrl": "https://unsplash.com/@kingschurchinternational",
+        "unsplashUrl": "https://unsplash.com/photos/police-standing-on-road-3mjspmQDM_M"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Antalya'da Kepez Belediyesi'ne yönelik bir rüşvet ve irtikap operasyonu gerçekleştirildi. Düzenlenen operasyon kapsamında toplam 10 şüpheli gözaltına alındı. \n\nSöz konusu operasyon, CHP'li belediyelere yönelik rüşvet ve yolsuzluk iddialarıyla yürütülen soruşturmalar çerçevesinde yapıldı. \n\nYetkililer tarafından olayla ilgili ayrıntıların ilerleyen saatlerde geleceği bildirildi.",
+      "highlights": [
+        "Kepez Belediyesi'ne rüşvet ve irtikap operasyonu düzenlendi",
+        "10 şüpheli gözaltına alındı"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-10-kisi-gozaltina-alindi-1752023",
+      "publishedAt": "2026-11-22T07:52:04.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/endonezyanin-gobeginde-korkunc-yangin-36-isciye-ulasilmaya-calisiliyor-7705463",
       "headline": "Endonezya'da Fabrika Yangını: 3 Ölü, Kayıp 36 İşçiye Ulaşılmaya Çalışılıyor",
@@ -23,7 +46,8 @@
       "publishedAt": "2026-11-22T07:42:38.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T07:54:23.922Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/o-kural-esnetildi-2-eve-kredi-imkani-3496369",
@@ -196,6 +220,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T07:04:23.317Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+      "headline": "Kansas City Current, Washington Spirit'i 2-1 Yenerek İlk NWSL Şampiyonluğunu Kazandı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1637203727318-fb31b63e2377?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8TldTTCUyMGNoYW1waW9uc2hpcCUyMHNvY2NlciUyMHRyb3BoeXxlbnwxfDB8fHwxNzk1MzM0MDc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "My Profit Tutor",
+        "photographerUrl": "https://unsplash.com/@myprofittutor",
+        "unsplashUrl": "https://unsplash.com/photos/gold-trophy-on-green-grass-W-6grboBEIY"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Kansas City Current, Washington Spirit'i 2-1 mağlup ederek tarihindeki ilk NWSL şampiyonluğuna ulaştı. Büyük bir çekişmeye sahne olan karşılaşmada Current takımına galibiyeti getiren golleri DiBernardo ve Debinha kaydetti.\n\nWashington Spirit'in tek golünü atan Trinity Rodman, maçın ardından gözyaşları içinde kaldı. Zorlu geçen mücadele sonucunda sahadan galibiyetle ayrılan Kansas City Current, kupanın sahibi oldu.",
+      "highlights": [
+        "Kansas City Current, Washington Spirit'i 2-1 yendi",
+        "DiBernardo ve Debinha Current'a galibiyeti getirdi",
+        "Trinity Rodman Spirit'in tek golünü attı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+      "publishedAt": "2026-11-22T06:40:18.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
@@ -3829,12 +3877,16 @@
       },
       "timeAgo": "1 dk önce",
       "body": "İstanbul Emniyet Müdürlüğü Asayiş Şube Müdürlüğü ekipleri, 11 Kasım'da Ataşehir'de yaşayan G.Ş'nin telefonla aranarak kendilerini polis olarak tanıtan kişilerce dolandırılması üzerine çalışma başlattı Yapılan incelemelerde, şüphelilerin çeşitli yönlendirmelerle G.Ş'nin 1 milyon 700 bin lira değerindeki ziynet eşyalarını adresine gönderdikleri kişiye teslim etmesini sağladıkları belirlendi. Saha çalışmaları ve teknik…",
-      "highlights": [],
+      "highlights": [
+        "1 milyon 700 bin lira değerindeki ziynet eşyaları dolandırıldı",
+        "Ziynet eşyalarını alan kişi ile kuyumcu ve aracıların da aralarında olduğu 5 şüpheli tutuklandı",
+        "Şüphelinin altınları kuyumcuda bozdurması güvenlik kamerasınca kaydedildi"
+      ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/1-milyon-700-bin-liralik-altin-vurgununun-goruntuleri-ortaya-cikti-7704960",
       "publishedAt": "2026-11-21T07:32:53.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T07:44:22.555Z",
+      "sourceTextAttemptedAt": "2026-11-22T07:54:23.922Z",
       "isBreaking": true
     },
     {
@@ -12432,7 +12484,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T19:24:21.081Z",
-      "imageSearchAttemptedAt": "2026-11-21T20:14:20.624Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:54:23.922Z",
       "isBreaking": false
     },
     {
@@ -14111,7 +14163,7 @@
       "publishedAt": "2026-11-18T12:14:28.000Z",
       "category": "Teknoloji",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-21T20:14:20.624Z",
+      "imageSearchAttemptedAt": "2026-11-22T07:54:23.922Z",
       "sourceTextAttemptedAt": "2026-11-18T12:44:48.013Z",
       "isBreaking": false
     },
@@ -14581,55 +14633,6 @@
       "publishedAt": "2026-11-18T10:02:03.000Z",
       "category": "Son Dakika",
       "lang": "tr",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-      "headline": "İran destekli milisler tarafından kaçırılıp işkence gören Iraklı çevreci Jassim al-Asadi bataklıkları koruma görevine devam ediyor",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1707997913351-487de1fe13f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SXJhcWklMjBtYXJzaGVzfGVufDF8MHx8fDE3OTQ5OTYyODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "حسن",
-        "photographerUrl": "https://unsplash.com/@hasanmajed__",
-        "unsplashUrl": "https://unsplash.com/photos/a-small-boat-sitting-on-top-of-a-river-ncdT9vkSTiM"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Iraklı çevreci Jassim al-Asadi, maruz kaldığı kaçırma ve işkence olaylarına rağmen Orta Doğu'nun en büyük sulak alanı olan Güney Irak'taki bataklıkları ve 4.000 yıldan uzun süredir devam eden yaşam tarzını kurtarma misyonunu sürdürüyor. Asadi, kuraklık ve iklim değişikliğinin tehdit ettiği bataklıklardaki su seviyelerini izliyor, balıkçılar ve manda yetiştiricileriyle görüşmeler yapıyor.\n\nS Saddam Hüseyin'in 1990'larda Şii ayaklanmasının ardından bataklıkları kurutmasının ardından, 2003 yılında ABD liderliğindeki işgal sonrasında Asadi ve Iraklı-Amerikalı çevreci Azzam Alwash suları yeniden bataklıklara döndürmüştü. İki mühendis 2004 yılında Nature Iraq çevre kuruluşunu kurdu. Bölge, biyolojik çeşitliliği ve en eski medeniyetlerden birine ev sahipliği yapması nedeniyle 2016 yılında UNESCO Dünya Mirası Listesi'ne dahil edildi.\n\nŞubat 2023'te Bağdat dönüşünde silahlı kişiler tarafından arabası durdurulan 69 yaşındaki Asadi, İran destekli bir Iraklı milis tarafından kaçırıldı. Milisler, Asadi'yi ve görüştüğü gazetecileri İsrail ajanı olmakla ve İran'daki protestoları kışkırtmakla suçladı. Çiftlik olduğuna inanılan bir yere götürülen Asadi, casusluk suçlamasını kabul etmesi için darbedildi.\n\nİki hafta boyunca tutulan Asadi, başının arap poşeti veya plastik torbayla boğulma noktasına getirilmesi, suya batırılması, elektrik şoku verilmesi ve zincirlerle dövülmesi dahil ağır işkencelere maruz kaldı. İşkence seansları arasında hücrede bekletilen Asadi, ezberindeki Arap şairlerinin şiirlerini okuyarak hayatta kalmaya çalıştığını belirtti. İki haftanın sonunda serbest bırakılan Asadi, bataklıkları korumak için çalışmalarına geri döndü.",
-      "highlights": [
-        "Iraklı çevreci Jassim al-Asadi, İran destekli bir milis tarafından kaçırılıp iki hafta boyunca işkence gördü.",
-        "Milisler Asadi'yi ve gazetecileri İsrail ajanı olmakla suçlayarak casusluk itirafı istedi.",
-        "Asadi tüm yaşananlara rağmen Güney Irak'taki bataklıkları koruma çalışmalarına devam ediyor."
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
-      "publishedAt": "2026-11-18T10:00:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-7702899",
-      "headline": "Cumhurbaşkanı Erdoğan'dan grup toplantısında önemli açıklamalar",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1665391222532-9940e1a75660?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RXJkbyVDNCU5RmFuJTIwcG9kaXVtJTIwc3BlZWNofGVufDF8MHx8fDE3OTQ5OTU3MDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AMONWAT DUMKRUT",
-        "photographerUrl": "https://unsplash.com/@amonwatdumkrut",
-        "unsplashUrl": "https://unsplash.com/photos/a-person-speaking-into-a-microphone-in-front-of-a-crowd-HtdFxKF9_wk"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin grup toplantısında açıklamalarda bulundu. Toplantının iç ve dış siyasi gelişmeler bakımından kritik bir dönemde gerçekleştirildiğini belirten Erdoğan, eski dünya düzeninin yıkıldığını ve yerine ne konulacağının bilinmediği şiddetli bir rekabet sürecinde olduklarını ifade etti. Rusya-Ukrayna savaşının devam ettiğini ve Basra Körfezi'nde suların yeniden ısındığını kaydetti.\n\nİsrail'in Gazze'ye yönelik insanlık dışı kısıtlamaları ve katliamlarının sürdüğünü dile getiren Erdoğan, kış mevsiminin bastırmasıyla birlikte bölgede büyük bir insani felaket yaşandığını belirtti. Gazze'de yaşananlara sessiz kalmayacaklarını vurgulayan Erdoğan, İslam âleminin de ciddi bir özeleştiride bulunması gerektiğini, İsrail üzerinde daha ağır baskı kurulması ve Gazze'ye insani yardım ulaştırılması için daha fazla gayret gösterilmesi gerektiğini söyledi.\n\nKonuşmasında AK Parti'nin kuruluş sürecine de değinen Erdoğan, partinin millet tarafından kurulduğunu ve her zaman milletin çizdiği rotada yürüdüğünü ifade etti. 3 Kasım seçimlerinin Türkiye'de yeni bir dönemin başlangıcı olduğunu belirten Erdoğan, 18 Kasım 2002'den bu yana kesintisiz devam eden AK Parti hükümetleriyle ülkenin yolunun açıldığını kaydetti.\n\nİlk grup toplantısında milletvekillerine yaptığı konuşmayı hatırlatan Erdoğan, Meclis'e bireysel çabalarla değil, halkın kaderine ortak olma misyonuyla geldiklerini vurguladı. 24 yıldır ilk günkü heyecanla ve milletin çıkarlarını önceleyen bir anlayışla hareket ettiklerini belirten Erdoğan, Türkiye'yi kalkındırmak ve mazlumların umut kapısı olmak için çalışmaya devam ettiklerini dile getirdi.",
-      "highlights": [
-        "Eski dünya düzeni yıkılırken yerine ne konulacağının bilinmediği sancılı bir süreçten geçiliyor.",
-        "İsrail'in Gazze'ye yönelik insanlık dışı kısıtlamaları ve katliamları sürerken, bölgede büyük bir insani felaket yaşanıyor.",
-        "AK Parti, siyaset yolculuğuna başladığı ilk günden itibaren milletin çizdiği rotada yürüdü."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-7702899",
-      "publishedAt": "2026-11-18T09:53:16.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
       "isBreaking": true
     }
   ],
