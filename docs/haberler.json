@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T18:24:35.710Z",
+  "generatedAt": "2026-11-22T18:34:31.535Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3496634",
+      "headline": "Hatay sahilinde bulunan el bombası imha edildi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1636925785440-1d295ff6286c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Z3JlbmFkZSUyMGJlYWNofGVufDF8MHx8fDE3OTUzNzI0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "david hili",
+        "photographerUrl": "https://unsplash.com/@davidhili123",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-airplanes-flying-through-a-cloudy-sky-lSACboI60uk"
+      },
+      "timeAgo": "şimdi",
+      "body": "Hatay'ın Samandağ ilçesinde akşam saatlerinde sahilde bir el bombası bulundu. Deniz Mahallesi sahilinde yürüyüş yapan bir vatandaş, kıyıda el bombası olduğunu fark ederek durumu hemen yetkililere bildirdi.\n\nİhbarın ardından olay yerine hızla Sahil Güvenlik ve polis ekipleri sevk edildi. Ekipler bölgede geniş güvenlik önlemleri alırken, durum bomba imha uzmanlarına bildirildi.\n\nOlay yerine gelen bomba imha ekipleri yaptıkları incelemenin ardından el bombasını kontrollü bir şekilde patlatarak imha etti. Patlama anı ise çevredeki bir vatandaşın cep telefonu kamerasıyla görüntülendi.\n\nYaşanan olayın ardından güvenlik güçleri konuyla ilgili inceleme başlattı.",
+      "highlights": [
+        "Hatay Samandağ sahilinde el bombası bulundu",
+        "Bomba imha ekipleri tarafından kontrollü şekilde patlatıldı",
+        "Patlama anı cep telefonu kamerasıyla kaydedildi"
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/hatay-sahilinde-bulunan-el-bombasi-imha-edildi-3496634",
+      "publishedAt": "2026-11-22T18:35:13.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/sariyerde-market-otoparkindaki-arac-bir-anda-alev-aldi-7705802",
       "headline": "Sarıyer'de market otoparkında otomobil alev aldı",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-22T18:18:37.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T18:34:20.820Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/trumptan-irana-nukleer-anlasma-mesaji-3496631",
@@ -72,7 +97,8 @@
       "publishedAt": "2026-11-22T18:12:07.000Z",
       "category": "Yaşam",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T18:34:20.820Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261122-french-right-backs-macron-s-plan-to-put-public-spending-limits-in-constitution",
@@ -119,6 +145,26 @@
       "externalUrl": "https://www.cnnturk.com/dunya/hirvatistani-ayaga-kaldiran-goruntuler-binlerce-kisi-beyaz-yastiklarla-meydanlara-indi-3496599",
       "publishedAt": "2026-11-22T18:08:31.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+      "headline": "Virginia'da 5 yaşından küçük bir çocuk kızamık nedeniyle hayatını kaybetti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "34 dk önce",
+      "body": "Virginia eyaletinde, 5 yaşından küçük bir çocukta kızamık bağlantılı ilk ölüm gerçekleşti. Bu ölüm vakası, sağlık uzmanlarının artan vakalar nedeniyle Amerika Birleşik Devletleri'nin kızamığı elimine etmiş ülke statüsünü kaldırmasından birkaç gün sonra meydana geldi. Konuya ilişkin yetkililer ve uzmanlar tarafından aktarılan bilgiler doğrultusunda, ülkede görülen kızamık vakalarındaki artış eğilimi sürerken, yaşanan bu son kayıp kamuoyunda ve sağlık çevrelerinde dikkat çekti. Sağlık otoritelerinin epidemiyolojik gelişmeler ve vaka artışlarına yönelik değerlendirmeleri devam ediyor.",
+      "highlights": [
+        "Virginia'da 5 yaşından küçük bir çocuk kızamık nedeniyle öldü.",
+        "Ölüm, ABD'nin kızamık eliminasyon statüsünün kaldırılmasından günler sonra gerçekleşti.",
+        "Vakalarda artış yaşandığı bildirildi."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/22/virginia-reports-first-measles-linked-death-of-2026-in-child-younger-than-5?traffic_source=rss",
+      "publishedAt": "2026-11-22T18:00:00.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -7881,7 +7927,7 @@
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T12:14:21.235Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:34:20.820Z",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
       "isBreaking": false
     },
@@ -9548,7 +9594,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-22T06:44:19.960Z",
+      "imageSearchAttemptedAt": "2026-11-22T18:34:20.820Z",
       "isBreaking": false
     },
     {
@@ -14590,55 +14636,6 @@
       "category": "Türkiye",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T17:14:49.323Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "headline": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1647273426587-31512cdf2e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SW5zaWRlJTIwdGhlJTIwb2xkJTIwZ2FzJTIwcGlwZWxpbmUlMjB3aGVyZSUyMFVrcmFpbmUlMjBpcyUyMGZpZ2h0aW5nJTIwYW4lMjB1bmRlcmdyb3VuZCUyMHdhciUyMHdpdGglMjBSdXNzaWF8ZW58MXwwfHx8MTc5NTAyMTUyNHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Taine Noble",
-        "photographerUrl": "https://unsplash.com/@nottainenoble",
-        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-street-Ri5v0kWULX4"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
-      "highlights": [
-        "Ukrayna güçleri Kharkiv'deki eski bir Sovyet gaz boru hattında yedi aydır Rus birlikleriyle savaşıyor",
-        "Boru hattının çapı bir metreden biraz fazla olup sadece emeklemeye izin veriyor",
-        "Alan, cephe hattındaki dronlardan nispeten güvenli bir ortam sunuyor"
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:40.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T17:14:49.323Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "headline": "'Drone'lar burada uçmuyor': BBC Ukrayna'nın yeni yeraltı cephesini rapor ediyor",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1593583810872-ddee4d6bd55a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dW5kZXJncm91bmQlMjBwaXBlbGluZSUyMHdhcnxlbnwxfDB8fHwxNzk1MDIyMTI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "SELİM ARDA ERYILMAZ",
-        "photographerUrl": "https://unsplash.com/@selimarda6006",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-blue-denim-jeans-and-brown-jacket-climbing-on-brown-wooden-ladder-during-daytime-Grg6bwZuBMs"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Ukrayna'daki savaşta yeni bir cephe açıldığı ve bu cephenin yeraltında bulunduğu bildirildi. Kharkiv bölgesindeki eski bir Sovyet doğalgaz boru hattında, Ukrayna güçlerinin son yedi aydır Rus birlikleriyle yaşadığı ve savaştığı belirtildi. Çapı bir metreden biraz fazla olan boru hattında yalnızca emekleyerek ilerlemeye yetecek kadar alan olduğu aktarıldı.\n\nBoru hattının, cephe üzerindeki gökyüzünü dolduran ve her iki tarafın ilerlemesini neredeyse imkansız hale getiren dronelardan nispeten korunaklı olduğu ifade edildi. Tünel operasyonunu planlamaya yardımcı olan ve burayı yeni bir savaş dünyası olarak tanımlayan Zanuda, yeraltına inmenin artık \"tek seçenek\" olduğunu belirtti. Ancak Zanuda, yüzeyde manevra alanı bulunduğunu fakat burada düşmanla yalnızca doğrudan çatışabildiklerini kaydetti.\n\nBoru hattındaki operasyonlar kapsamında askerlerin ve ikmal malzemelerinin özel tasarımlı elektrikli bir vagonla taşındığı, askerlerin bu araca \"Kupyansk metrosu\" adını verdiği bilgisi verildi. Ukrayna güçlerinin Nisan ayında başlattığı ve mitolojik yer altı tanrısı Veles'in adı verilen Operasyon Veles ile boru hattı boyunca 15 kilometre ilerlediği bildirildi. Ukrayna tarafı, operasyon boyunca 100'den fazla Rus askerinin öldürüldüğünü ve 30 askerin esir alındığını açıkladı.\n\nUkrayna Ulusal Muhafızları 13. Khartiia Tugayı'ndan askerler, boru hattının içindeki kalıntıları, suyu ve Rus barikatlarını temizlediklerini belirtti. Operasyona yüzlerce Kolombiyalı gönüllünün de dahil olduğu aktarıldı. Komutanları Biashym'in eski bir madenci olmasının, askerlerin yeraltındaki fiziksel ve psikolojik zorluklara hazırlanmasına yardımcı olduğu ifade edildi.\n\nUkrayna Devlet Başkanı Volodimir Zelenskiy'nin bu operasyonu bir başarı olarak nitelendirdiği, kaybedilen toprakların geri alınmasına yardımcı olduğu ve moral yükselttiği kaydedildi. Ancak bu durumun tek başına savaşın seyrini değiştirmediği, Ukrayna için tünelin ucunda hala bir ışık görünmediği vurgulandı.",
-      "highlights": [
-        "Ukrayna güçleri, Kharkiv bölgesindeki eski bir Sovyet doğalgaz boru hattında yedi aydır Rus birlikleriyle savaşıyor.",
-        "Operasyon Veles kapsamında Ukrayna boru hattı boyunca 15 kilometre ilerledi ve 100'den fazla Rus askerinin öldürüldüğünü açıkladı.",
-        "Devlet Başkanı Volodimir Zelenskiy operasyonu bir başarı olarak nitelendirdi."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-18T17:00:04.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
