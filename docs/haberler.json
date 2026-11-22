@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-22T12:24:46.957Z",
+  "generatedAt": "2026-11-22T12:35:15.546Z",
   "articles": [
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+      "headline": "Bruno Fernandes, Manchester United'daki kötü başlangıç nedeniyle sözleşme görüşmelerini askıya aldı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1662096909714-e2f206d0a636?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QnJ1bm8lMjBGZXJuYW5kZXN8ZW58MXwwfHx8MTc5NTM1MDg5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bibesh Manandhar",
+        "photographerUrl": "https://unsplash.com/@b_base",
+        "unsplashUrl": "https://unsplash.com/photos/a-pair-of-blue-and-red-striped-shirts-with-white-text-e-OfH1yh_hs"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Manchester United'ın kaptanı Bruno Fernandes, kulübün yaşadığı kötü başlangıcın ardından sözleşme görüşmelerini dondurduğunu açıkladı.\n\nKaptan futbolcunun mevcut sözleşmesi sezon sonunda sona eriyor.\n\nAncak kulübün, sözleşmeyi uzatma opsiyonu bulunuyor.",
+      "highlights": [
+        "Bruno Fernandes sözleşme görüşmelerini askıya aldı",
+        "Mevcut sözleşme sezon sonunda bitiyor",
+        "Kulübün sözleşmeyi uzatma opsiyonu bulunuyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/22/bruno-fernandes-manchester-united-contract-talks-premier-league-football?traffic_source=rss",
+      "publishedAt": "2026-11-22T12:22:43.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
       "headline": "Fosil Yakıtlar Metinden Çıkarıldı, COP31 Anlaşmasız Sona Erdi",
@@ -47,7 +71,8 @@
       "publishedAt": "2026-11-22T12:20:38.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T12:34:23.905Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/17-yasindaki-kardelenin-hayatini-kaybettigi-olayda-kamera-goruntuleri-ortaya-cikti-7705653",
@@ -84,15 +109,16 @@
       "timeAgo": "3 dk önce",
       "body": "Endonezya'da şekerleme ve atıştırmalık ürünler üreten bir fabrikada çıkan yangın sonucunda en az üç kişi yaşamını yitirdi, çok sayıda kişi ise kayıp durumda. Olayın ardından başlatılan arama ve kurtarma çalışmalarında tesisten sağ olarak kurtarılan 15 kişi güvenli alana alındı.\n\nYangının başlamasından bu yana 12 saatten fazla süre geçmesine rağmen itfaiye ekipleri tesisin çeşitli bölümlerindeki alevlerle mücadeleyi sürdürüyor. Yetkililer ve ekipler sahada çalışmalarına devam ederken, alevlerin kontrol altına alınması için yoğun çaba harcanıyor.\n\nYangının çıkış nedeni henüz kesinlik kazanmadı. Öte yandan tesisten kurtulan bazı kişilerin aktardığı bilgilere göre yangın, binanın üçüncü katında yer alan bir soğutma ünitesinde başladı. Olayla ilgili incelemeler ve kurtarma faaliyetleri devam ediyor.",
       "highlights": [
-        "Endonezya'da şekerleme fabrikasında çıkan yangında 3 kişi öldü, 36 kişi kayıp",
-        "Tesisten 15 kişi sağ olarak kurtarıldı",
-        "Kurtulanların ifadesine göre yangın üçüncü kattaki soğutma ünitesinde başladı"
+        "Endonezya'da şekerleme fabrikasında çıkan yangında en az üç kişi öldü.",
+        "On beş kişi tesisten sağ olarak kurtarıldı.",
+        "Kurtulanlar yangının üçüncü kattaki soğutma ünitesinde başladığını belirtti."
       ],
       "externalUrl": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
       "publishedAt": "2026-11-22T12:11:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-22T12:34:23.905Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/inegolde-dron-destekli-trafik-denetimi-21-surucuye-105-bin-tl-ceza-7705650",
@@ -1745,7 +1771,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T06:24:29.014Z",
-      "imageSearchAttemptedAt": "2026-11-22T06:24:29.014Z"
+      "imageSearchAttemptedAt": "2026-11-22T12:34:23.905Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/kadikoyde-aci-olay-is-bulmak-icin-istanbula-gelen-gencin-cesedi-bulundu-4875350",
@@ -7775,7 +7801,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:44:19.150Z",
-      "imageSearchAttemptedAt": "2026-11-22T06:24:29.014Z",
+      "imageSearchAttemptedAt": "2026-11-22T12:34:23.905Z",
       "isBreaking": false
     },
     {
@@ -14607,32 +14633,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T16:44:18.145Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "Kuzey Kore uranyum zenginleştirme tesisini genişletti, IAEA başkanı açıkladı",
-      "source": "DW English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591200834528-4050ce99fe78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bnVjbGVhciUyMHBsYW50fGVufDF8MHx8fDE3OTUwOTc2OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nicolas HIPPERT",
-        "photographerUrl": "https://unsplash.com/@nhippert",
-        "unsplashUrl": "https://unsplash.com/photos/nuclear-cooling-towers-at-night-C82jAEQkfE0"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Birleşmiş Milletler nükleer denetleme kurumu başkanı Rafael Grossi, Çarşamba günü yaptığı açıklamada Kuzey Kore'nin Yongbyon nükleer kompleksindeki orijinal uranyum zenginleştirme tesisine bir ek bina inşa ettiğini belirtti. Uluslararası Atom Enerjisi Ajansı (IAEA), Pyongyang'ın müfettişleri sınır dışı ettiği 2009 yılından bu yana ülkeye erişemiyor ve nükleer faaliyetleri izlemek için uydu görüntülerine güveniyor. Grossi, IAEA Yönetim Kurulu'nun üç aylık toplantısında Yongbyon ve Kangson tesislerindeki zenginleştirme faaliyetlerine değindi. Grossi, Eylül 2026 ortalarından bu yana Yongbyon tesisine yönelik yeni bir uzantının inşa halinde olduğunu ve Ekim 2026 sonu itibarıyla dış kısmının tamamlandığını ifade etti.\n\nZenginleştirilmiş uranyum; nükleer santraller, deniz taşıtları ve denizaltıların reaktörleri için yakıt olarak kullanılabilmesinin yanı sıra nükleer silahlarda da değerlendirilebiliyor. Grossi, uranyum zenginleştirme programının devam eden genişlemesinin ciddi bir endişe kaynağı olmayı sürdürdüğünü kaydetti. Diğer yandan, ABD Başkanı Donald Trump, Çin Devlet Başkanı Xi Jinping ve Rusya Devlet Başkanı Vladimir Putin ile görüşmek üzere Çin'e giderken Kuzey Kore lideri Kim Jong Un ile olası bir görüşme ihtimalini dile getirdi. Kuzey Kore devlet medyası ise Kim'in bir kayak merkezini ve Paektu Dağı'nı ziyaret ettiğine dair fotoğraflar yayımlarken, olası bir seyahat planına değinmedi.\n\nKim Jong Un, ABD ve Güney Kore'ye karşı ülkeyi geniş kapsamlı bir nükleer güçle donatmayı amaçladığını daha önce belirtmişti. Kuzey Kore, nükleer silah geliştirme çalışmaları ve balistik füze teknolojisi kullanımı nedeniyle uluslararası yaptırımlara tabi tutuluyor ancak Pyongyang bu kısıtlamaları defalarca ihlal etti. Eylül 2024'te ilk gizli uranyum zenginleştirme tesisini ortaya çıkaran ülke, nükleer cephaneliğini artırma çağrısında bulunmuştu. Nisan ayında Grossi, ajansın ülkedeki nükleer tesislerdeki faaliyetlerde hızlı bir artış doğruladığını bildirmişti. Eylül ayında ise IAEA, Kuzey Kore'nin nükleer programına ilişkin endişeler içeren kararları kabul etti. Kim Jong Un'un kız kardeşi Kim Yo Jong, bu gelişmeye yanıt olarak ülkenin nükleer silahlı statüsünün kesin olduğunu söylemişti.",
-      "highlights": [
-        "UAEA başkanı Rafael Grossi açıklama yaptı",
-        "Kuzey Kore'nin uranyum zenginleştirme programı genişletildi",
-        "Gelişme ciddi bir endişe kaynağı olarak değerlendirildi"
-      ],
-      "externalUrl": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-xml-mrss",
-      "publishedAt": "2026-11-18T15:15:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T15:34:26.781Z",
-      "imageSearchAttemptedAt": "2026-11-19T14:14:19.930Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14847,6 +14847,7 @@
     "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
     "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
     "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+    "https://www.yenisafak.com/gundem/istanbul-valiliginden-firtina-ve-kuvvetli-saganak-uyarisi-4875445"
   ]
 }
