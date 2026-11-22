@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-21T23:11:46.866Z",
+  "generatedAt": "2026-11-22T03:10:51.980Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
+      "headline": "22 Kasım 2026 Son Depremler ve AFAD Son Dakika Deprem Listesi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1736117704452-46670dd0c81f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZWFydGhxdWFrZSUyMG1hcHxlbnwxfDB8fHwxNzk1MzE3MDQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Etienne Girardet",
+        "photographerUrl": "https://unsplash.com/@etiennegirardet",
+        "unsplashUrl": "https://unsplash.com/photos/a-map-of-the-area-of-a-mountain-PtpRmtsh6A0"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "22 Kasım 2026 tarihinde meydana gelen sarsıntılara ilişkin son dakika deprem haberleri arama motorlarında araştırılıyor.\n\nVatandaşlar tarafından \"Son dakika deprem mi oldu?\", \"Az önce deprem nerede oldu?\" ve \"Artçı deprem mi oldu?\" gibi soruların yanıtları merak ediliyor.\n\nİstanbul, Ankara, İzmir başta olmak üzere il il son depremler, depremin büyüklüğü ve zamanı Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü ile AFAD verileri üzerinden takip ediliyor.\n\nTürkiye canlı deprem haritası üzerinden anlık sarsıntılar ve hangi illerde deprem hissedildiği bilgisine ulaşılabiliyor. Deprem haberleriyle ilgili tüm detaylar ve son liste güncel olarak izleniyor.",
+      "highlights": [
+        "22 Kasım 2026 tarihinde son depremler araştırılıyor.",
+        "AFAD ve Kandilli Rasathanesi son deprem listesi takip ediliyor.",
+        "İstanbul, Ankara ve İzmir'de deprem olup olmadığı merak ediliyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-22-kasim-2026-1751970",
+      "publishedAt": "2026-11-22T03:00:00.000Z",
+      "category": "Türkiye",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "headline": "Yerinden Edilen Filistinliler Gazze'deki İsrail Hava Saldırılarına Karşı Protesto Düzenledi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1702024284454-630967911461?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8R2F6YSUyMHByb3Rlc3R8ZW58MXwwfHx8MTc5NTMxNzA0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emad El Byed",
+        "photographerUrl": "https://unsplash.com/@emad_el_bayed",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-pile-of-rubble-sitting-on-top-of-a-street-Ar-scICdYMs"
+      },
+      "timeAgo": "56 dk önce",
+      "body": "Yerinden edilen Filistinliler, Gazze'de süregiden İsrail hava saldırılarına karşı protesto gösterileri düzenledi. Bölgedeki hareketlilik devam ederken, bir Gazze belediye başkanı açıklamalarda bulundu. Belediye başkanının aktardığına göre, İsrail güçleri konut binalarını yıkmayı sürdürüyor. Bu yıkımların, kademeli bir yerdirme politikasının bir parçası olarak gerçekleştirildiği ifade edildi. Sahadaki gerginlik ve hava saldırıları devam ederken, bölge halkı yaşadıkları duruma karşı tepkilerini dile getirdi. Olaylara ve politikalara ilişkin gelişmeler kaynak metin sınırlılıkları çerçevesinde takip ediliyor.",
+      "highlights": [
+        "Yerinden edilen Filistinliler protesto düzenledi",
+        "İsrail konut binalarını yıkmaya devam ediyor",
+        "Yıkımlar kademeli yerdirme politikasının parçası"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+      "publishedAt": "2026-11-22T02:14:18.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/abdde-secimin-kazanani-demokratlarin-yol-haritasi-belli-oldu-trumpa-iki-cephede-baski-3496334",
       "headline": "ABD'de seçimin kazananı Demokratların yol haritası belli oldu: Trump'a iki cephede baskı!",
@@ -457,7 +505,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T18:34:27.300Z",
-      "imageSearchAttemptedAt": "2026-11-21T18:34:27.300Z"
+      "imageSearchAttemptedAt": "2026-11-22T03:10:44.743Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -2065,7 +2113,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
-      "imageSearchAttemptedAt": "2026-11-21T18:54:21.264Z"
+      "imageSearchAttemptedAt": "2026-11-22T03:10:44.743Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
@@ -2126,8 +2174,8 @@
       "body": "Ukrayna Devlet Başkanı Volodimir Zelensky, Rusya'yı işgal altındaki Kırım'a bağlayan kritik köprüyü hedef alan saldırıların, Ukrayna'daki köprülere yönelik 109 ayrı Rus saldırısına karşı \"adil bir yanıt\" olduğunu savundu. Zelensky, Kiev'de BBC'ye yaptığı açıklamada, Kırım Köprüsü'ne düzenlenen saldırıların ardından Rusya'nın yoğun saldırılarla karşılık vermesinin Vladimir Putin'in savaşı durdurmak istemediğinin ve tırmandırma bahçesi aradığının sinyali olduğunu belirtti.\n\nPutin'in Çin'de köprünün yalnızca sivil amaçlı kullanıldığı yönündeki iddiasını reddeden Zelensky, internette tankların ve diğer Rus askeri teçhizatının tedarik hattı olarak bu güzergahı kullandığını gösteren kanıtlar bulunduğunu ifade etti. Rusya'nın Şubat 2022'de tam kapsamlı işgal başlattığını hatırlatan Zelensky, bu açıklamaları İngiltere Savunma Bakanı Wes Streeting ile Kiev'de yapacağı görüşme öncesinde gerçekleştirdi.\n\nZiyaret sırasında Streeting, Avrupa'nın Ukrayna'ya desteğinde birlik içinde olduğunu göstermek için Kiev'de bulunduğunu vurguladı. Putin'in bölmeye çalıştıkça kendilerinin daha kararlı hale geldiğini belirten Streeting, Cuma günü askeri tatbikat sırasında Polonya'yı vuran Rus füzelerini \"öfke uyandıran bir provokasyon\" olarak nitelendirdi ve Putin'i \"soğukkanlı bir katil\" olarak tanımladı.\n\nÖte yandan Finlandiya Savunim Bakanlığı, cumartesi günü yaptığı açıklamada, Doğu Finlandiya Körfezi'ndeki uluslararası deniz alanında bir Rus ticaret gemisine drone saldırısı tespit edildiğini ve geminin hasar gördüğünü bildirdi. Açıklamada bölgede geçici havacılık ve denizcilik kısıtlamalarının yeniden getirildiği belirtilirken, Rusya konuya ilişkin henüz kamuoyuna bir açıklama yapmadı.",
       "highlights": [
         "Zelensky Kırım Köprüsü saldırılarını adil yanıt olarak nitelendirdi",
-        "Açıklama UK'den Streeting ile görüşmede yapıldı",
-        "Köprülere 109 ayrı Rus hava saldırısı düzenlendiği belirtildi"
+        "Ukrayna köprülere yönelik 109 ayrı Rus hava saldırısı düzenlendiğini belirtti",
+        "Açıklama İngiltere'den Streeting ile görüşmede yapıldı"
       ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-21T12:20:55.000Z",
@@ -2135,7 +2183,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:34:20.382Z",
-      "imageSearchAttemptedAt": "2026-11-21T18:34:27.300Z"
+      "imageSearchAttemptedAt": "2026-11-22T03:10:44.743Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sivasta-polis-memurunun-dikkati-yurekleri-isitti-4875194",
@@ -14597,55 +14645,6 @@
       "category": "Türkiye",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/istanbulda-lodos-uyarisi-ruzgar-85-km-hiza-cikabilir-4873780",
-      "headline": "İstanbul'da lodos uyarısı: Hızı 85 kilometreye ulaşabilir",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1541501338479-c86b9769e7fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8JUM0JUIwc3RhbmJ1bCUyN2RhJTIwbG9kb3MlMjB1eWFyJUM0JUIxcyVDNCVCMSUzQSUyMEglQzQlQjF6JUM0JUIxJTIwODUlMjBraWxvbWV0cmV5ZSUyMHVsYSVDNSU5RmFiaWxpcnxlbnwxfDB8fHwxNzk0OTg2NjY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Öznur Doğan",
-        "photographerUrl": "https://unsplash.com/@seyrifani",
-        "unsplashUrl": "https://unsplash.com/photos/stormy-clouds-above-city-buildings-near-body-of-water-jidE2MFB6Qc"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul'da beklenen lodos nedeniyle rüzgarın hızının 85 kilometreye ulaşabileceği bildirildi.\n\nHaber başlığında yer alan bu uyarı, bölgedeki hava koşullarına yönelik dikkatli olunması gerektiğini ortaya koyuyor.\n\nYetkililerin veya kaynakların belirttiği bu durum, ulaşım ve günlük yaşam üzerinde olumsuz etkilere yol açabilir.\n\nVatandaşların şiddetli lodosun olası risklerine karşı hazırlıklı ve tedbirli olmaları önem taşımaktadır.",
-      "highlights": [
-        "8 Eylül 1999 sonrasında sigortalı olanlar için kademeli emeklilik beklentisi sürüyor.",
-        "EMADDER temsilcileri Çalışma ve Sosyal Güvenlik Bakanlığı bünyesinde temaslarda bulundu.",
-        "2000 sonrası sigortalılar için yaş ve prim şartlarında düzenleme yapılıp yapılmayacağı merak ediliyor."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/istanbulda-lodos-uyarisi-ruzgar-85-km-hiza-cikabilir-4873780",
-      "publishedAt": "2026-11-18T07:22:13.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T07:44:33.049Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/2-cocugunun-annesi-rus-kadini-146-makas-darbesiyle-oldurmustu-bursadaki-vahsette-savci-mutalaasini-acikladi-7702812",
-      "headline": "Bursa'daki cinayette savcı mütalaasını açıkladı: 146 makas darbesiyle öldüren sanığa ağırlaştırılmış müebbet talebi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1592089195518-cd3933e250fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c2Npc3NvcnMlMjBjcmltZSUyMHNjZW5lJTIwY291cnR8ZW58MXwwfHx8MTc5NDk4NjA2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jenn",
-        "photographerUrl": "https://unsplash.com/@studiostarling",
-        "unsplashUrl": "https://unsplash.com/photos/yellow-and-black-metal-rod-gQCzAT6vyN4"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Bursa'da iki çocuğunun annesi Arzu Khalılova'yı 146 makas darbesiyle öldüren tutuklu sanık Salican Mehmet hakkında açılan davada savcılık mütalaasını açıkladı. 3 Kasım 2025 tarihinde Yıldırım ilçesi Değirmenlikızık Mahallesi'nde meydana gelen olayda, dini nikahla birlikte yaşadığı Khalılova ile aralarında tartışma çıkan Salican Mehmet, 4 ve 1 yaşlarındaki kızlarının annesine makasla saldırmıştı. Sesleri duyarak üst kata çıkan sanığın annesi F.M.'nin haber vermesi üzerine adrese polis ve sağlık ekipleri sevk edilmiş, yaralı olarak hastaneye kaldırılan Arzu Khalılova hayatını kaybetmişti. Otopside Khalılova'nın vücudunda 146 makas girişi olduğu ve bunlardan 72'sinin tek başına ölümcül nitelikte olduğu belirlenmişti.\n\nEmniyetteki ifadesinde psikolojik problemleri olduğunu ve ilaç kullandığını öne süren Salican Mehmet, olay günü küçük kızlarının ağlaması ve eşiyle aralarında yaşanan tartışmanın ardından sinirlendiğini, çocuk odasından aldığı makasla eşine saldırdığını iddia etmişti. Tutuklanan sanığın daha önceden suç kayıtlarının bulunduğu da tespit edilmişti. Bursa 19'uncu Ağır Ceza Mahkemesi'nde görülen duruşmaya tutuklu sanık, taraf avukatları ve maktulün annesi katıldı. İstanbul Adli Tıp Kurumu Gözlem İhtisas Dairesi'nden sanığın akli melekelerinin yerinde olduğuna dair rapor mahkemeye sunuldu.\n\nDuruşmada sanık pişman olduğunu belirterek tahliyesini talep etti. Savcılık, 72'si iç organlara gelecek ve tek başına ölümcül olacak şekilde toplam 146 makas darbesiyle gerçekleştirilen eylem nedeniyle sanığın 'Canavarca hisle kadına karşı kasten öldürme suçu'ndan ağırlaştırılmış müebbet hapis cezasına çarptırılmasını istedi. Sanık avukatı Adli Tıp Kurumu raporuna itiraz ederek mütalaaya karşı ek süre talep etti. Mahkeme heyeti ek süre talebini kabul ederek duruşmayı erteledi.",
-      "highlights": [
-        "Arzu Khalılova'nın vücudunda 72'si ölümcül olmak üzere 146 makas darbesi tespit edildi.",
-        "İstanbul Adli Tıp Kurumu sanığın akli melekelerinin yerinde olduğuna dair rapor verdi.",
-        "Cumhuriyet savcısı sanık için ağırlaştırılmış müebbet hapis cezası talep etti."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/2-cocugunun-annesi-rus-kadini-146-makas-darbesiyle-oldurmustu-bursadaki-vahsette-savci-mutalaasini-acikladi-7702812",
-      "publishedAt": "2026-11-18T07:12:53.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
