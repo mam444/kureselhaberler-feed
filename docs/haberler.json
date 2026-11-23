@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T14:45:46.512Z",
+  "generatedAt": "2026-11-23T14:56:02.513Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/video/gundem/lastik-firmasinin-sahtekarligi-arac-kamerasiyla-ifsa-oldu-ayari-elleme-bozuk-de-4875771",
@@ -46,6 +46,27 @@
       "externalUrl": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
       "publishedAt": "2026-11-23T14:39:25.000Z",
       "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T14:54:24.457Z"
+    },
+    {
+      "id": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "headline": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604496464355-a5032e3b47e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RGVtb2NyYXRzJTIwcmV2ZWFsJTIwZGV0YWlscyUyMGZvciUyMDIwMjglMjBwcmVzaWRlbnRpYWwlMjBwcmltYXJ5JTIwYWZ0ZXIlMjBtaWR0ZXJtJTIwdmljdG9yaWVzJTIwJUUyJTgwJTkzJTIwVVMlMjBwb2xpdGljcyUyMGxpdmV8ZW58MXwwfHx8MTc5NTQ0NTcxNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Clay Banks",
+        "photographerUrl": "https://unsplash.com/@claybanks",
+        "unsplashUrl": "https://unsplash.com/photos/red-and-blue-building-illustration-BY-R0UNRE7w"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s…",
+      "highlights": [],
+      "externalUrl": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "publishedAt": "2026-11-23T14:38:52.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -5730,7 +5751,7 @@
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T18:24:24.546Z",
+      "imageSearchAttemptedAt": "2026-11-23T14:54:24.457Z",
       "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z",
       "isBreaking": false
     },
@@ -5752,7 +5773,7 @@
       "publishedAt": "2026-11-21T08:31:24.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T18:24:24.546Z",
+      "imageSearchAttemptedAt": "2026-11-23T14:54:24.457Z",
       "isBreaking": false
     },
     {
@@ -14619,27 +14640,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T19:24:21.081Z",
       "imageSearchAttemptedAt": "2026-11-22T07:54:23.922Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/d-8-genel-sekreterinden-iklim-degisikligine-karsi-uygulamaya-gecilmesi-cagrisi/4129752",
-      "headline": "D-8 Genel Sekreterinden iklim değişikliğine karşı uygulamaya geçilmesi çağrısı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1652883083229-2b288968f3d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RC04JTIwR2VuZWwlMjBTZWtyZXRlcmluZGVuJTIwaWtsaW0lMjBkZSVDNCU5RmklQzUlOUZpa2xpJUM0JTlGaW5lJTIwa2FyJUM1JTlGJUM0JUIxJTIwdXlndWxhbWF5YSUyMGdlJUMzJUE3aWxtZXNpJTIwJUMzJUE3YSVDNCU5RnIlQzQlQjFzJUM0JUIxfGVufDF8MHx8fDE3OTUwMjg3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Emir Eğricesu",
-        "photographerUrl": "https://unsplash.com/@emiregricesu",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-a-protest-sign-PjzMXGNMoh4"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "D-8 Genel Sekreteri Büyükelçi Sohail Mahmood, emisyon azaltımının hızlandırılması, dayanıklılığın güçlendirilmesi ve uluslararası taahhütler ile uygulama arasındaki açığın kapatılmasının aciliyetini vurguladı.",
-      "highlights": [],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/d-8-genel-sekreterinden-iklim-degisikligine-karsi-uygulamaya-gecilmesi-cagrisi/4129752",
-      "publishedAt": "2026-11-18T18:55:28.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T19:44:26.618Z",
       "isBreaking": false
     }
   ],
