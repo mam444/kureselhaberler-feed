@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-23T16:47:21.336Z",
+  "generatedAt": "2026-11-23T16:55:44.613Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
+      "headline": "Komagene Krallığı'nın kutsal tuzağı: Adıyaman'daki 2 bin yıllık tünelin sırrı çözülüyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Adıyaman'daki Arsameia Antik Kenti'nde bulunan 158 metre uzunluğundaki basamaklı tünelin, yalnızca su temini için kullanılmadığı düşünülüyor. Yeni bir araştırmaya göre yaklaşık 2 bin yıl önce Kommagene Krallığı'nın kutsal alanlarını ziyaret edenler, geçitte dini bir deneyim yaşamış olabilir.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
+      "publishedAt": "2026-11-23T16:52:37.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.trthaber.com/haber/turkiye/istanbula-soguk-hava-geliyor-sicaklik-8-derece-dusuyor-964227.html",
       "headline": "İstanbul'a soğuk hava geliyor: Sıcaklık 8 derece düşüyor",
@@ -23,6 +39,31 @@
       "publishedAt": "2026-11-23T16:39:00.000Z",
       "category": "Türkiye",
       "isBreaking": true,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T16:54:16.445Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "headline": "COP31 iklim zirvesi neden anlaşmasız olarak çöküldü?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1561489396-888724a1543d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2xpbWF0ZSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk1NDUyODYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Evangeline Shaw",
+        "photographerUrl": "https://unsplash.com/@evangelineshaw",
+        "unsplashUrl": "https://unsplash.com/photos/people-in-conference-nwLTVwb7DbU"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Tarihin en uzun BM iklim zirvesi, Türkiye'de nihai bir anlaşmaya varılamadan sona erdi. Bu gelişme, 17 yıldır ilk kez yaşanan bir başarısızlık olarak kayıtlara geçti. Zirvenin sonucunda taraflar arasında uzlaşma sağlanamadı ve görüşmeler anlaşmasızlıkla sonuçlandı. Yaşanan bu durum, son 17 yıllık süreçte iklim zirvelerinde karşılaşılan ilk başarısız olma özelliği taşıyor. Toplantının detayları ve anlaşmazlığın tam nedenleri hakkında başka bir resmi ayrıntı paylaşılmadı.",
+      "highlights": [
+        "Tarihin en uzun BM iklim zirvesi Türkiye'de yapıldı",
+        "Zirve nihai bir anlaşmaya varılamadan sona erdi",
+        "Bu sonuç 17 yıldır ilk kez yaşanan bir başarısızlık oldu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "publishedAt": "2026-11-23T16:38:30.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
       "lang": "tr"
     },
     {
@@ -14562,54 +14603,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T06:24:18.754Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://tr.euronews.com/2026/11/19/harvard-calismasi-abddeki-veri-merkezleri-bir-yilda-danimarka-kadar-co2-saldi",
-      "headline": "Harvard çalışması: ABD'deki veri merkezleri bir yılda Danimarka kadar CO2 saldı",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1683322499436-f4383dd59f5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGF0YSUyMGNlbnRlcnxlbnwxfDB8fHwxNzk1MDY4Mjk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Scott Rodgerson",
-        "photographerUrl": "https://unsplash.com/@scottrodgerson",
-        "unsplashUrl": "https://unsplash.com/photos/a-bunch-of-blue-wires-connected-to-each-other-PSpf_XgOM5w"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Harvard Üniversitesi'nde yürütülen yeni bir araştırma, ABD'deki en büyük 403 veri merkezinin bir yıllık elektrik tüketiminin Danimarka kadar CO2 saldığını ortaya koydu. Yapay zekanın yükselişiyle birlikte hazırlanan ilk çalışmalardan biri olan araştırmaya göre, bu tesisler Mayıs 2024 ile Nisan 2025 arasında 25,7 milyon ton CO2 üretti. Kullanılan elektriğin yarısından fazlası doğal gaz ve kömür gibi fosil yakıtlardan sağlandı. Araştırmacılar, bir veri merkezinin karbon ayak izinin kurulduğu yere göre değiştiğini, örneğin kömür kullanan Wyoming'deki bir merkezin, hidroelektrik payı yüksek Oregon'dakine göre iki kattan fazla karbon ürettiğini belirtti.\n\nÖte yandan Avrupa, veri merkezi kapasitesini artırmaya hazırlanırken inşaat patlaması da şimdiden başladı. AB, küresel yapay zeka yarışında rekabet edebilmek için kapasiteyi yedi yıl içinde üç katına çıkarmayı hedefliyor. CBRE verilerine göre yalnızca 2026'da Avrupa'daki kapasitenin yüzde 20 artması bekleniyor. Londra, Frankfurt ve Paris büyük merkezler haline gelirken, elektrik kıtlığı Amsterdam ve Dublin'de bazı projelerin durdurulmasına yol açtı. Buna karşın Finlandiya, İspanya ve İtalya gibi ülkelerde çok sayıda yeni proje duyuruldu veya inşaata başlandı.\n\nAncak bu büyüme çevre üzerindeki baskıları artırıyor. Uluslararası Enerji Ajansı'na (IEA) göre veri merkezleri, 2030'a kadar AB'deki ilave elektrik talebinin yüzde 10'unu oluşturacak. Bölge halkı su tüketimi, gürültü ve arazi kullanımı konusunda endişelerini dile getirirken, İngiltere, İtalya ve Hollanda'da projeleri protesto etmek amacıyla gösteriler düzenlendi. Hükümetlerin ve koalisyonların yeni projelere ara verilmesi yönünde talepleri gündeme geldi.\n\nAvrupa, çevresel etkileri azaltmak için yeni düzenlemeler planlıyor. AB'nin Enerji Verimliliği Direktifi uyarınca belirli güç kullanan veri merkezlerinin enerji ve su tüketimini bildirmesi zorunlu kılındı. Ayrıca enerji ve su verimliliği için A'dan G'ye derecelendirme sistemleri önerildi. Bazı işletmeciler ise Portekiz'de soğutma için deniz suyu kullanan tesisler veya Helsinki'de veri merkezi ısısıyla konutları ısıtmayı planlayan projeler gibi alternatif çözümler geliştiriyor.",
-      "highlights": [
-        "ABD'deki en büyük 403 veri merkezinin bir yılda tükettiği elektrik, Danimarka'nın saldığı kadar CO2 üretti.",
-        "Veri merkezlerinin karbon ayak izi, ağırlıklı olarak doğal gaz ve kömür gibi fosil yakıtlardan kaynaklanıyor.",
-        "Avrupa genelinde veri merkezi yatırımları artarken, çevresel etkiler ve enerji tüketimi nedeniyle protestolar düzenleniyor."
-      ],
-      "externalUrl": "https://tr.euronews.com/2026/11/19/harvard-calismasi-abddeki-veri-merkezleri-bir-yilda-danimarka-kadar-co2-saldi",
-      "publishedAt": "2026-11-19T06:02:27.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/bahceli-yagmur-stratejisini-acikladi-yedi-cozum-onerisi-siraladi-1751536",
-      "headline": "Bahçeli 'Yağmur Stratejisi'ni açıkladı: Yedi temel başlıkta çözüm önerileri",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1588009774214-e0c5200b70ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RGV2bGV0JTIwQmFoY2VsaXxlbnwxfDB8fHwxNzk1MDY3NjkyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Shalev Cohen",
-        "photographerUrl": "https://unsplash.com/@shalevcohen",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-near-mountain-during-daytime-p5vOrFZm58o"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli, Türkiye'deki sorunlara karşı oluşturdukları \"Yağmur Stratejisi\"nin ayrıntılarını paylaştı. Bahçeli, gündemdeki konuları değerlendirirken ülkenin sorunlarını “eğitim ve istihdam”, “yoksulluk”, “yolsuzluk”, “adalet”, “orta sınıf”, “basın ve sorumluluk” ile “Terörsüz Türkiye” olmak üzere yedi temel başlıkta özetledi ve bu meselelerin seçime kadar çözülmesi gerektiğini vurguladı.\n\nTV100'e açıklamalarda bulunan MHP lideri Bahçeli, söz konusu stratejinin Meclis'teki güçlü temsil ile mümkün olacağını belirterek, \"Yürütmede Erdoğan, yasamada MHP, Türkiye’de Cumhur İttifakı, dünyada Türk asrı olmalıdır\" ifadelerini kullandı. İttifak içinde bir denge ve denetleme mekanizması olduklarını kaydeden Bahçeli, koltuk ya da unvan peşinde koşmadıklarını, TBMM'de ne kadar güçlü olurlarsa asgari ücretli, memur ve dar gelirlinin haklarını koruyacak kanunların o kadar hızlı çıkacağını dile getirdi.\n\nEkonomik ve toplumsal konulara da değinen Bahçeli, son yirmi yıldaki kazanımlara rağmen yaşanan ekonomik kırılmanın toplumsal huzuru olumsuz etkilediğini belirtti. Yoksulluğun derin eşitsizlikler yaratarak toplumda ciddi bir kaygı ortamı oluşturduğunu, bunun da aidiyet duygusunu zayıflatarak mutsuzluk çıkardığını ifade etti.\n\nYolsuzluğun kaynakların israfı ile toplumsal öfke ve ahlaki yozlaşmanın temel kaynağı olduğunu söyleyen Bahçeli, belediyelerde yaşanan yolsuzluk ve fon skandallarının siyaset kurumuna duyulan güveni aşındırdığını kaydetti. Ayrıca \"Terörsüz Türkiye\" sürecine de dikkat çeken MHP lideri, bu sürecin gelecek nesillerin huzur ve refahı adına tarihi bir sorumluluk olduğunu belirterek, \"Terörsüz Türkiye, gelecek inşasının teminatıdır\" dedi.",
-      "highlights": [
-        "Bahçeli, Türkiye'deki sorunları yedi temel başlıkta özetledi ve bu sorunların seçime kadar çözülmesi gerektiğini belirtti.",
-        "MHP lideri, partilerinin ittifakın içinde bir denge ve denetleme mekanizması olduğunu ifade etti.",
-        "Devlet Bahçeli, Terörsüz Türkiye sürecinin gelecek nesillerin huzuru ve refahı için tarihi bir sorumluluk olduğunu vurguladı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/bahceli-yagmur-stratejisini-acikladi-yedi-cozum-onerisi-siraladi-1751536",
-      "publishedAt": "2026-11-19T05:53:55.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
