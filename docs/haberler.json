@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-23T15:17:03.829Z",
+  "generatedAt": "2026-11-23T15:27:49.414Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
+      "headline": "Kabine toplantısı sona erdi. Cumhurbaşkanı Erdoğan açıklama yapıyor",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1627561979957-5604fb1e4e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8S2FiaW5lJTIwdG9wbGFudCVDNCVCMXMlQzQlQjElMjBzb25hJTIwZXJkaS4lMjBDdW1odXJiYSVDNSU5RmthbiVDNCVCMSUyMEVyZG8lQzQlOUZhbiUyMGElQzMlQTclQzQlQjFrbGFtYSUyMHlhcCVDNCVCMXlvcnxlbnwxfDB8fHwxNzk1NDQ3NTY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ankara University",
+        "photographerUrl": "https://unsplash.com/@ankarauni",
+        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-flag-and-a-portrait-of-a-man-jSXEZbOkKSY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Cumhurbaşkanı Erdoğan, kabine toplantısı sonrası açıklama yapıyor. Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığındaki Cumhurbaşkanlığı Kabinesi toplantısı sona erdi. Cumhurbaşkanlığı Külliyesi'ndeki toplantı, yaklaşık 2 saat 40 dakika sürdü. Cumhurbaşkanı Erdoğan, kabine toplantısı sonrası açıklama yapıyor. Açıklamadan öne çıkanlar şöyle: -Hükümet olarak Türkiye'yi, Türkiye'nin sanayisini, aşımızı, ekmeğimizi,…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
+      "publishedAt": "2026-11-23T15:23:48.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261123-tens-of-thousands-take-to-streets-in-belgium-in-anti-austerity-protests",
+      "headline": "Tens of thousands take to streets in Belgium in anti-austerity protests",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1776844131798-c14ac2e53bc0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VGVucyUyMG9mJTIwdGhvdXNhbmRzJTIwdGFrZSUyMHRvJTIwc3RyZWV0cyUyMGluJTIwQmVsZ2l1bSUyMGluJTIwYW50aS1hdXN0ZXJpdHklMjBwcm90ZXN0c3xlbnwxfDB8fHwxNzk1NDQ3NTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jeffrey Zhang",
+        "photographerUrl": "https://unsplash.com/@jeffreyzhang_920",
+        "unsplashUrl": "https://unsplash.com/photos/people-and-cars-in-a-european-city-square-7Bc_J6SWcbg"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Belgium faced a day of political turmoil Monday, as a national strike against planned austerity measures caused widespread disruption, with the government's future hanging in the balance.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/video/20261123-tens-of-thousands-take-to-streets-in-belgium-in-anti-austerity-protests",
+      "publishedAt": "2026-11-23T15:19:44.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
       "headline": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
@@ -15,7 +55,8 @@
       "publishedAt": "2026-11-23T15:09:09.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T15:24:31.581Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-lodos-hizini-artiracak-ruzgar-firtinaya-donusecek-akomdan-istanbul-uyarisi-7706152",
@@ -10146,7 +10187,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-22T18:34:20.820Z",
+      "imageSearchAttemptedAt": "2026-11-23T15:24:31.581Z",
       "isBreaking": false
     },
     {
@@ -14583,56 +14624,6 @@
       "publishedAt": "2026-11-18T19:31:40.000Z",
       "category": "Teknoloji",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/ekonomi/bakan-bolattan-gurbetcilere-mujde-tasitlarin-kalis-suresini-4-yila-uzattik-3494992",
-      "headline": "Bakan Bolat'tan gurbetçilere müjde: Taşıtların kalış süresini 4 yıla uzattık",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1634744213075-20989fcce2a2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VHVya2lzaCUyMGZsYWd8ZW58MXwwfHx8MTc5NTAyOTg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Imad Alassiry",
-        "photographerUrl": "https://unsplash.com/@imadalassiry",
-        "unsplashUrl": "https://unsplash.com/photos/a-turkey-flag-flying-in-front-of-a-city-oJkjeDa-vco"
-      },
-      "timeAgo": "şimdi",
-      "body": "Ticaret Bakanı Ömer Bolat, yurt dışından emekli olan vatandaşların taşıtları için Türkiye'de kalış süresinin 2 artı 2 yıl olmak üzere toplam 4 yıla çıkarıldığını duyurdu. Bakan Bolat, AK Parti Genel Başkan Yardımcısı Zafer Sırakaya, İstanbul Milletvekili Seda Gören ve Konya Milletvekili Meryem Göka ile Ticaret Bakanlığı'nda bir araya geldi.\n\nSanal medya hesabından açıklamalarda bulunan Bolat, bu görüşmede yurt dışında yaşayan vatandaşların Türkiye'ye gelişlerinde gümrük kapılarındaki işlemlerin kolaylaştırılması ve hizmet kalitesinin artırılmasına yönelik düzenlemelerin ele alındığını aktardı.\n\nBolat, yapılan toplantıda ele alınan konuları şu sözlerle ifade etti: Tatil dönemlerinde gümrük kapılarındaki personel sayısını üç katına çıkararak bekleme sürelerini en aza indirmemizi, yurt dışından emekli vatandaşlarımızın taşıtları için Türkiye'de kalış süresini 2 artı 2 yıl olmak üzere toplam 4 yıla uzatmamızı, yurt dışında ikamet eden vatandaşlarımızın taşıt kullanımına ilişkin şartları kolaylaştıran düzenlemelerimizi ele aldık.\n\nYurt dışında yaşayan vatandaşların Türkiye ile bağlarını güçlendirmeye yönelik çalışmaların süreceğini belirten Bakan Bolat, önümüzdeki dönemde de vatandaşların beklenti ve ihtiyaçlarını esas alan çalışmaları ilgili bakanlıklarla eş güdüm içinde hayata geçirmeye devam edeceklerini kaydetti.",
-      "highlights": [
-        "Yurt dışından emekli vatandaşların taşıtları için Türkiye'de kalış süresi 2+2 yıl olmak üzere toplam 4 yıla uzatıldı.",
-        "Tatil dönemlerinde gümrük kapılarındaki personel sayısı üç katına çıkarılarak bekleme süreleri en aza indirilecek.",
-        "Yurt dışında yaşayan vatandaşların Türkiye'ye gelişlerinde gümrük kapılarındaki işlemlerin kolaylaştırılması ve hizmet kalitesinin artırılması değerlendirildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/ekonomi/bakan-bolattan-gurbetcilere-mujde-tasitlarin-kalis-suresini-4-yila-uzattik-3494992",
-      "publishedAt": "2026-11-18T19:27:18.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T19:34:20.508Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-      "headline": "California'da 'Atmosferik Nehir' Etkisiyle Yoğun Yağmur ve Kar Bekleniyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1578590114999-b49067b44d9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SGVhdnklMjByYWluJTIwYW5kJTIwc25vdyUyMHByZWRpY3RlZCUyMGluJTIwQ2FsaWZvcm5pYSUyMGFzJTIwJUUyJTgwJTk4YXRtb3NwaGVyaWMlMjByaXZlciVFMiU4MCU5OSUyMG1vdmVzJTIwYWNyb3NzJTIwc3RhdGV8ZW58MXwwfHx8MTc5NTAzMDUxMHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Leah Berman",
-        "photographerUrl": "https://unsplash.com/@leahberman",
-        "unsplashUrl": "https://unsplash.com/photos/pine-trees-RNNHwW_npj8"
-      },
-      "timeAgo": "17 dk önce",
-      "body": "California eyaletinde etkili olması beklenen \"atmosferik nehir\" sistemi nedeniyle bu hafta boyunca yoğun yağmur ve kar yağışı tahmin ediliyor. Ulusal Hava Durumu Servisi (NWS), Körfez Bölgesi'nin büyük kısmı için sel uyarıları yayımladı. Güney California'da ise kıyı kesimlerinde su baskınları, şiddetli dalgalar, kıyı iskeleleri ile otoparklarında dalga kaynaklı hasarlar ve sahillerde kum erozyonu görülebileceği bildirildi. Yakın zamanda yaşanan orman yangınlarından henüz kurtulamayan bölgeler, özellikle Big Sur ve Napa vadisindeki yangın izi alanları için ani sel riskine karşı özel uyarılar yapıldı.\n\nNWS verilerine göre en yoğun yağışların San Francisco'nun kuzeydoğusunda, Santa Rosa'dan Chico ile Redding'e uzanan Central Valley'de ve Körfez Bölgesi'nin güneyinde Santa Cruz'dan San Jose ile Palo Alto'ya kadar olan kıyı dağlık bölgelerinde görülmesi bekleniyor. Accuweather yaptığı çevrim içi tahmin açıklamasında, özellikle sahil şeridinde ve dağ geçidi yollarında seyahat gecikmeleri, yerel su baskınları ve tehlikeli koşulların yaşanabileceği konusunda uyardı.\n\nBatı ABD'de kurak dönemlerde hayati önem taşıyan ancak aynı zamanda sel riski de oluşturan atmosferik nehirler, devasa su buharı akımları olarak biliniyor. Güney California'da NWS, çarşamba ve perşembe günleri birçok bölgede 1 ila 3 inç, dağlık ve etek bölgelerinde ise 3 ila 5 inç yağış öngörürken, bu günlerde %20 fırtına ihtimali bulunduğunu belirtti. 6.000 feet üzerindeki yüksek kesimlerde bir aya yakın kar yağışı beklendiği kaydedilirken, önemli derecede yol su baskını ile kaya ve çamur kayması riski bulunduğu ifade edildi.\n\nKıyı dalgası hasarı riskinin Güney California'da perşembe günü zirveye ulaşması bekleniyor. Ayrıca Şükran Günü haftasında mevsimsel yüksek suların fırtına riskleriyle örtüşmesi nedeniyle önümüzdeki hafta ek risklerin yaşanabileceği öngörülüyor. Hafta başında San Francisco Körfezi'nde hortumlar görülürken, NWS çarşamba günü San Francisco'nun doğusundaki okyanusta ek hortum riskine dikkat çekti.",
-      "highlights": [
-        "California genelinde \"atmosferik nehir\" nedeniyle yoğun yağmur ve kar yağışı bekleniyor.",
-        "Ulusal Hava Durumu Servisi, Körfez Bölgesi için sel uyarıları yayımladı.",
-        "Yangın izi bulunan Big Sur ve Napa vadisi gibi bölgeler için ani sel riski uyarısı yapıldı."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
-      "publishedAt": "2026-11-18T19:18:18.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T19:44:14.681Z",
       "isBreaking": false
     }
   ],
