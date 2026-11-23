@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-23T04:06:10.455Z",
+  "generatedAt": "2026-11-23T14:05:53.080Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/video/20261123-worst-possible-choice-should-date-of-french-election-be-changed",
+      "headline": "Fransa'da seçim tarihi tartışma yarattı: 'En kötü olası seçim'",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1531752148124-118ba196fc7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJhbmNlJTIwZWxlY3Rpb258ZW58MXwwfHx8MTc5NTQ0MjY2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Pierre Herman",
+        "photographerUrl": "https://unsplash.com/@lepipotron",
+        "unsplashUrl": "https://unsplash.com/photos/people-waving-flag-of-france-near-building-Fw_2kaQZc90"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Fransa, 2027 yılında iki turlu bir cumhurbaşkanlığı seçimi için sandık başına gitmeye hazırlanırken, oylama tarihlerinin belirlenmesi ülkede tartışmalara yol açtı. Mevcut takvime göre oylamanın 18 Nisan ve 2 Mayıs tarihlerinde yapılması planlanıyor.\n\nSeçim takvimiyle ilgili en çok dikkat çeken detay ise ikinci tur oylamanın tarihine ilişkin endişeler oldu. İkinci tur oylamanın, ülkede geleneksel olarak protesto günü olan 1 Mayıs İşçi Bayramı'ndan bir gün sonra yapılacak olması soru işaretleri yarattı.\n\nSeçim tarihlerine yönelik bu durum, 'en kötü olası seçim' olarak nitelendiriliyor. Konuya ilişkin tartışmalar sürerken, 2027'deki iki turlu kritik oylama için belirlenen takvim güncelliğini koruyor.",
+      "highlights": [
+        "Fransa 2027 yılında iki turlu cumhurbaşkanlığı seçimi yapacak.",
+        "Oylamanın 18 Nisan ve 2 Mayıs tarihlerinde yapılması planlanıyor.",
+        "İkinci tur oylama, İşçi Bayramı'ndan bir gün sonraya denk geliyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261123-worst-possible-choice-should-date-of-french-election-be-changed",
+      "publishedAt": "2026-11-23T14:02:09.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://tr.euronews.com/2026/11/23/irandan-abdnin-hurmuz-ablukasina-tepki-her-yolu-kullanacagiz",
+      "headline": "İran'dan ABD'nin Hürmüz ablukasına tepki: 'Her yolu kullanacağız'",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ABD'nin deniz ablukasını “suç teşkil eden bir eylem” olarak nitelendirdi. Açıklama, ABD Başkanı Donald Trump'ın ablukayı aşmaya çalışan İran gemilerini batırmakla tehdit etmesinden bir gün sonra geldi.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/23/irandan-abdnin-hurmuz-ablukasina-tepki-her-yolu-kullanacagiz",
+      "publishedAt": "2026-11-23T14:00:39.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/sariyerde-aslan-gordum-ihbari-ekipler-calisma-baslatti-1752109",
       "headline": "Sarıyer'de aslan alarmı: Ekiplerin yakalama çalışmaları sürüyor",
@@ -46,7 +86,8 @@
       "publishedAt": "2026-11-23T03:52:33.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T14:04:16.700Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/budonun-12-seferi-iptal-edildi-3496671",
@@ -564,7 +605,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T12:44:24.981Z"
+      "sourceTextAttemptedAt": "2026-11-23T14:04:16.700Z"
     },
     {
       "id": "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
@@ -829,7 +870,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T11:34:18.648Z",
-      "imageSearchAttemptedAt": "2026-11-23T04:06:02.262Z"
+      "imageSearchAttemptedAt": "2026-11-23T14:04:16.700Z"
     },
     {
       "id": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
@@ -1540,7 +1581,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T09:14:24.856Z",
-      "imageSearchAttemptedAt": "2026-11-23T04:06:02.262Z"
+      "imageSearchAttemptedAt": "2026-11-23T14:04:16.700Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
@@ -14595,55 +14636,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-18T19:14:17.603Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/yagistan-etkilenenlere-su-faturasinda-4-ay-erteleme-4874079",
-      "headline": "İstanbul'da selden etkilenenlere su faturasında dört ay erteleme veya altı taksit imkanı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1686071973008-e9e7a14bc20b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXN0YW5idWwlMjBmbG9vZCUyMHdhdGVyJTIwYmlsbHxlbnwxfDB8fHwxNzk1MDI1MjA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Youssef Mohamed",
-        "photographerUrl": "https://unsplash.com/@yusuflens",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-bridge-spanning-over-a-large-body-of-water-Lw0OeEoCuyo"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul Su ve Kanalizasyon İdaresi (İSKİ) Genel Kurulu'nda, kentte 13-18 Ekim tarihlerinde meydana gelen yoğun yağıştan zarar gören aboneler için su faturalarında ödeme kolaylığı sağlanması kararlaştırıldı. Saraçhane'deki belediye binasında, Meclis 2. Başkanvekili Gencay Özcan yönetiminde gerçekleştirilen İstanbul Büyükşehir Belediyesi Meclisi kasım ayı toplantılarının dördüncü oturumunda İSKİ Genel Kurulu toplandı.\n\nToplantı sırasında, 13-18 Ekim 2026 tarihleri arasında yaşanan yoğun yağışlardan etkilendiği resmi kurum ile kuruluşlarca belirlenen abonelerin ödenmemiş faturalarına yönelik teklif ele alındı. Teklif doğrultusunda, sel ile su baskınlarından etkilenen abonelerin ekim ayı fatura dönemine ait henüz ödenmemiş su ve atık su borçlarında anapara tutarları korunarak iki farklı ödeme alternatifi sunulması öngörüldü.\n\nBelirlenen düzenlemeye göre birinci alternatif olarak, ödenmemiş faturaların son ödeme tarihlerinin 4 ay ertelenmesi ve bu süreçte gecikme zammı uygulanmaması kararlaştırıldı. İkinci alternatifte ise söz konusu faturaların vade farkı alınmaksızın 6 eşit taksitte tahsil edilmesi teklifi yer aldı.\n\nİSKİ Genel Kurulu'nda görüşülen teklif, yapılan oylama sonucunda oy birliğiyle kabul edilerek yürürlüğe girdi. Böylece ekim ayındaki yağışlardan etkilenen vatandaşlara borçlarını erteleme veya taksitlendirme imkanı tanındı.",
-      "highlights": [
-        "13-18 Ekim tarihlerinde yaşanan yoğun yağıştan etkilenen abonelerin ekim ayı su faturaları için ödeme kolaylığı kararlaştırıldı.",
-        "Ödemesi yapılmamış faturalar için son ödeme tarihinin 4 ay ertelenmesi veya vade farkı alınmadan 6 eşit taksitte tahsil edilmesi önerildi.",
-        "Teklif, İSKİ Genel Kurulu'nda gerçekleştirilen oylama sonucunda oy birliğiyle kabul edildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/yagistan-etkilenenlere-su-faturasinda-4-ay-erteleme-4874079",
-      "publishedAt": "2026-11-18T18:05:11.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T18:24:37.486Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-      "headline": "Alexander Zverev'e ATP Finalleri Sırasında Eski Eşi Tarafından Taciz Davası Tebligat Yapıldı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1530915365347-e35b749a0381?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dGVubmlzJTIwcGxheWVyfGVufDF8MHx8fDE3OTUwMjUxOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "John Fornander",
-        "photographerUrl": "https://unsplash.com/@johnfo",
-        "unsplashUrl": "https://unsplash.com/photos/person-wearing-pair-of-white-low-top-sneakers-while-holding-wilson-tennis-racket-4R9CcBdQTEg"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Alman tenisçi Alexander Zverev'e, Torino'daki sezon sonu ATP Finalleri devam ederken eski partneri tarafından açılan bir dava resmen tebliğ edildi. Erkekler dünya sıralamasında bir numara olan Zverev'in eski kız arkadaşı ve çocuğunun annesi olan Brenda Patea tarafından açılan son hukuki dava, ikili arasında daha önce yapılan mahkeme dışı anlaşma şartlarının ihlal edildiğini öne sürüyor.\n\nAlmanya'da açılan dava, Zverev'in bu yıl Fransa'nın L'Equipe gazetesine verdiği röportajda iddiaların asılsızlığının kanıtlandığını ve suçsuzluğunun kanıtlandığını söylemesine dayanıyor. Zverev'in avukatları Christian Schertz ve Anna Sophie Heuchemer, çarşamba günü davanın kendilerine resmen ulaştığını doğrulayarak müvekkilinin davaya karşı kendini savunacağını bildirdi. Avukatlar, atfedilen ifadenin ifade özgürlüğü kapsamında değerlendirilebileceğini ve sözleşmesel yükümlülüklerin ihlal edilmediğini belirtti.\n\nPatea'nın avukatı Michael Scheele ise Zverev'in masumiyet iddiasının müvekkiline yönelik bir eleştiri fırtınası başlattığını, bu durumun influencer olarak işine zarar verdiğini ve onurunun zedelendiğini ifade etti. Scheele, taraflar arasındaki anlaşmaya göre Zverev'in kamuoyuna herhangi bir açıklama yapmasının yasak olduğunu belirtti. Patea'nın talepleri arasında Zverev'in bu tür yorumları tekrarlamaması ve aksi takdirde her seferinde 250.000 euroya kadar para cezasına çarptırılması yer alıyor.\n\nZverev, Mayıs 2020'de Berlin'deki bir tartışma sırasında Patea'ya bedensel zarar verme suçlamasıyla karşı karşıya kalmıştı. Suçlamaları her zaman reddeden tenisçinin davası, 2024 yılında Berlin'deki bir bölge mahkemesinde varılan anlaşmayla sona ermişti. Anlaşma, Zverev'in suçluluk kabul etmediği bir kararla sonuçlanmış ve Alman oyuncu devlete ile hayır kurumlarına para cezası ödemeyi kabul etmişti. Bu ay dünya bir numarası olan ve bu yıl ilk Grand Slam şampiyonluklarını kazanan Zverev, ATP Finalleri'nde mücadele ederken dava hakkında henüz bir yorum yapmadı.",
-      "highlights": [
-        "Alexander Zverev'e ATP Finalleri sırasında eski partneri Brenda Patea tarafından dava tebliğ edildi.",
-        "Dava, Zverev'in mahkeme dışı anlaşma şartlarını ihlal ettiği iddiasıyla açıldı.",
-        "Patea, Zverev'in benzer açıklamaları tekrarlamamasını ve ihlal durumunda para cezası verilmesini talep ediyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/sport/2026/nov/18/alexander-zverev-abuse-lawsuit-atp-finals-finals-brenda-patea",
-      "publishedAt": "2026-11-18T17:52:39.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
