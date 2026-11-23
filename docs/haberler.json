@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-23T18:56:07.253Z",
+  "generatedAt": "2026-11-23T19:06:28.586Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/chpde-kurultay-tartismasi-3497113",
+      "headline": "CHP'de kurultay tartışması",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1753646784650-c956f24e93df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Q0hQJTI3ZGUlMjBrdXJ1bHRheSUyMHRhcnQlQzQlQjElQzUlOUZtYXMlQzQlQjF8ZW58MXwwfHx8MTc5NTQ2MDc4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tejash Shah",
+        "photographerUrl": "https://unsplash.com/@postcardwalashot",
+        "unsplashUrl": "https://unsplash.com/photos/a-red-building-with-people-walking-around-it-PJvUlXacETg"
+      },
+      "timeAgo": "şimdi",
+      "body": "CHP’de kurultay tartışması sürüyor. Kongre takviminin bir kez daha ertelenmesi parti içinde itirazlara neden oldu. Oğuz Kaan Salıcı’nın ardından Akif Hamzaçebi de erteleme kararına tepki gösterdi. CHP yönetimi ise itiraz eden isimlerle görüşme kararı aldı. Gözler şimdi çarşamba günü yapılacak MYK toplantısında.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/chpde-kurultay-tartismasi-3497113",
+      "publishedAt": "2026-11-23T19:08:47.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/valilikten-kritik-uyari-batman-barajindan-olasi-su-tahliyesi-7706472",
       "headline": "Valilikten kritik uyarı: Batman Barajı'ndan olası su tahliyesi",
@@ -15,7 +35,8 @@
       "publishedAt": "2026-11-23T18:51:28.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-23T19:04:29.582Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
@@ -31,7 +52,8 @@
       "publishedAt": "2026-11-23T18:48:10.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T19:04:29.582Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752260",
@@ -14517,31 +14539,6 @@
       "category": "Ekonomi",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
-      "headline": "Riyad'da bir gökdelen hasar gördü: Suudi Arabistan'dan Husi saldırılarına karşı artış raporu",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1778846266193-74c83f7f5117?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c2t5c2NyYXBlciUyMHJpeWFkaHxlbnwxfDB8fHwxNzk1MDc1NDYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Oualid Lakhrouti",
-        "photographerUrl": "https://unsplash.com/@oualid24",
-        "unsplashUrl": "https://unsplash.com/photos/modern-skyscrapers-dominate-a-sprawling-cityscape-under-a-hazy-sky-NCD37SPA2wk"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Suudi Arabistan'ın başkenti Riyad'da Perşembe günü Yemen'deki Husilerin düzenlediği saldırılar sonrasında bir gökdelen hasar gördü. Görgü tanıkları, ülkenin ekonomik hedeflerini simgeleyen Public Investment Fund Tower'ın camlarının kırıldığını ve binanın birkaç katında hasar oluştuğunu bildirdi. Başkentte sabah saatlerinde şiddetli bir patlama sesi duyulurken, Suudi Arabistan liderliğindeki askeri koalisyon Riyad'a yönelik bir füze tehdidine müdahale edildiğini açıkladı. Koalisyon sözcüsü Turki al-Malki, ilk değerlendirmelerin enkaz etkisine işaret ettiğini ve maddi hasarın araştırıldığını belirtti.\n\nYemen'deki iç savaşın yaz aylarında yeniden şiddetlenmesinin ardından Suudi Arabistan'a yönelik saldırılarda artış yaşandığı bildirildi. Kral Abdullah Finans Merkezi'nde bulunan 385 metre yüksekliğindeki 80 katlı kule, şehrin en yüksek binası olma özelliği taşıyor. Husiler son haftalarda hava limanları, enerji altyapısı, askeri tesisler ve finans merkezini hedef alan saldırılarını artırmıştı.\n\nÖte yandan koalisyon, Yemen sınırındaki güney bölgelerine fırlatılan beş balistik füzenin de imha edildiğini duyurdu. Ekim ayında Riyad'daki Kral Halid Uluslararası Havalimanı'na düzenlenen saldırıda 14 kişinin hayatını kaybettiği ve yüzlerce kişinin yaralandığı hatırlatıldı. Bu gelişmelerin ardından Suudi koalisyonu Yemen'deki Husi hedeflerine yönelik hava operasyonlarını sürdürürken, Husi medyası Suudi Arabistan'ın Sanaa'ya saldırı düzenlediğini bildirdi. Koalisyon ise Dhamar kentindeki bir balistik füze fırlatma platformunun imha edildiğini açıkladı.",
-      "highlights": [
-        "Riyad'daki Public Investment Fund Tower Perşembe günü düzenlenen saldırılar sonucu hasar gördü.",
-        "Suudi öncülüğündeki koalisyon Riyad'a yönelen bir füze tehdidine müdahale edildiğini bildirdi.",
-        "Koalisyon, Yemen sınırına doğru atılan beş balistik füzenin de engellendiğini açıkladı."
-      ],
-      "externalUrl": "https://www.france24.com/en/middle-east/20261119-skyscraper-in-riyadh-damaged-as-saudi-arabia-reports-surge-in-new-houthi-attacks",
-      "publishedAt": "2026-11-19T07:58:16.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T08:14:19.068Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14757,6 +14754,7 @@
     "https://www.aljazeera.com/opinions/2026/11/22/what-sandpapergate-reveals-about-australian-cricket?traffic_source=rss",
     "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
-    "https://www.yenisafak.com/gundem/istanbul-valiliginden-firtina-ve-kuvvetli-saganak-uyarisi-4875445"
+    "https://www.yenisafak.com/gundem/istanbul-valiliginden-firtina-ve-kuvvetli-saganak-uyarisi-4875445",
+    "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss"
   ]
 }
