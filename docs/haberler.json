@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-23T18:44:25.319Z",
+  "generatedAt": "2026-11-23T18:56:07.253Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/valilikten-kritik-uyari-batman-barajindan-olasi-su-tahliyesi-7706472",
+      "headline": "Valilikten kritik uyarı: Batman Barajı'ndan olası su tahliyesi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Valilikten yapılan açıklamada, son dönemlerde etkili olan yoğun yağışlar sonucu baraj havzalarına gelen yüksek akımlar nedeniyle gerekli görülmesi halinde DSİ 10. Bölge Müdürlüğü tarafından kontrollü su tahliyesi gerçekleştirilebileceği belirtildi. Açıklamada, vatandaşların muhtemel su tahliyeleri sırasında can ve mal güvenliğinin korunması amacıyla nehir yataklarına yaklaşmaması ve su seviyelerinde yaşanabilecek…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/valilikten-kritik-uyari-batman-barajindan-olasi-su-tahliyesi-7706472",
+      "publishedAt": "2026-11-23T18:51:28.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
+      "headline": "Tourists evacuated after fire destroys 6 hotels in Zanzibar's Nungwi Beach area",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "7 dk önce",
+      "body": "A fire engulfed six hotels along a popular beach in Tanzania&rsquo;s Zanzibar archipelago over the weekend",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
+      "publishedAt": "2026-11-23T18:48:10.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752260",
       "headline": "Çılgın Sayısal Loto çekilişi sonuçlandı: 23 Kasım 2026 kazanan numaralar açıklandı",
@@ -23,7 +55,8 @@
       "publishedAt": "2026-11-23T18:43:32.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T18:54:36.949Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kumulonimbus-bulutu-istanbulda-hava-trafigini-etkiliyor-4875819",
@@ -68,7 +101,8 @@
       "publishedAt": "2026-11-23T18:25:55.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T18:54:36.949Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cankirida-uyusturucu-operasyonu-39-kisi-yakalandi-4875818",
@@ -14507,56 +14541,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T08:14:19.068Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/korna-caldilar-diye-tir-soforu-aracini-motosikletlilerin-uzerine-kirdi-4874277",
-      "headline": "Korna çaldılar diye TIR şoförü aracını motosikletlilerin üzerine kırdı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1763839956438-0a0f8873e81b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bW90b3JjeWNsZSUyMHRydWNrJTIwcm9hZHxlbnwxfDB8fHwxNzk1MDc0ODY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Bernd 📷 Dittrich",
-        "photographerUrl": "https://unsplash.com/@hdbernd",
-        "unsplashUrl": "https://unsplash.com/photos/a-person-flying-a-kite-in-a-dusty-outdoor-lot-hPBoW0DxBgE"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Rize’de Pazar ilçesinden merkez istikametine seyir halinde olan 7 kişilik motosiklet grubunun bulunduğu yolda korku dolu anlar yaşandı. Şerit değiştirmek isteyen tır sürücüsünün selektör ve kornayla uyarılmasının ardından aracı motosikletlilerin üzerine kırdığı ileri sürüldü.\n\nYaklaşık 95 kilometre hızla ilerledikleri sırada büyük tehlike atlatan motosikletliler durumu 112'ye bildirdi. Yaşanan olayla ilgili olarak trafik polislerinin inceleme başlattığı öğrenildi.",
-      "highlights": [
-        "Rize Pazar'da 7 kişilik motosiklet grubu yolda seyir halindeyken olay yaşandı",
-        "TIR sürücüsünün aracı motosikletlilerin üzerine kırdığı ileri sürüldü",
-        "Motosikletlilerin 112'yi aramasının ardından trafik polisleri inceleme başlattı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/korna-caldilar-diye-tir-soforu-aracini-motosikletlilerin-uzerine-kirdi-4874277",
-      "publishedAt": "2026-11-19T07:53:14.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T08:04:17.135Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-      "headline": "Pete Hegseth'in Venezuela ile Askeri Anlaşması Soru İşaretleri Yaratıyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1608396941316-ea89219bd56e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBkZWFsfGVufDF8MHx8fDE3OTUwNzY2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Filip Andrejevic",
-        "photographerUrl": "https://unsplash.com/@fandrejevic",
-        "unsplashUrl": "https://unsplash.com/photos/men-in-green-and-brown-camouflage-uniform-1LTunOck3es"
-      },
-      "timeAgo": "32 dk önce",
-      "body": "Pete Hegseth tarafından Venezuela ile yapılan yeni askeri anlaşma, ABD'nin bölgedeki nüfusu, bölgesel güvenlik durumu ve Nicolas Maduro'nun görevden uzaklaştırılması gibi önemli konular etrafında çeşitli soruların doğmasına yol açtı.\n\nSöz konusu askeri mutabakat, Washington'un stratejik hamleleri ve Latin Amerika'daki dengeler açısından yakından takip edilirken, anlaşmanın olası sonuçları ve bölgesel güvenliğe etkileri de tartışılmaya başlandı.\n\nUzmanlar ve gözlemciler, bu yeni anlaşmanın Maduro yönetimi üzerindeki baskıyı ve ABD'nin bölgedeki genel politikasını nasıl etkileyeceğini değerlendiriyor.",
-      "highlights": [
-        "Hegseth'in Venezuela ile yeni bir askeri anlaşma yaptığı bildirildi.",
-        "Anlaşma ABD'nin bölgesel güvenliği ve nüfusu hakkında sorular uyandırdı.",
-        "Gelişme Maduro'nun görevden uzaklaştırılması meselesiyle ilişkilendiriliyor."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-      "publishedAt": "2026-11-19T07:52:30.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T08:34:33.110Z",
       "isBreaking": false
     }
   ],
