@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-23T19:44:30.003Z",
+  "generatedAt": "2026-11-23T19:54:29.711Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/son-dakika-haberi-kabine-toplantisi-sona-erdi-3497106",
+      "headline": "SON DAKİKA HABERİ: Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Atılan adımları yakından takip ediyoruz",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1622223145461-271074da3e20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8U09OJTIwREFLJUM0JUIwS0ElMjBIQUJFUiVDNCVCMCUzQSUyMEN1bWh1cmJhJUM1JTlGa2FuJUM0JUIxJTIwRXJkbyVDNCU5RmFuJTI3ZGFuJTIwZm9uJTIwc29ydSVDNSU5RnR1cm1hcyVDNCVCMSUyMGElQzMlQTclQzQlQjFrbGFtYXMlQzQlQjElM0ElMjBBdCVDNCVCMWxhbiUyMGFkJUM0JUIxbWxhciVDNCVCMSUyMHlhayVDNCVCMW5kYW4lMjB0YWtpcCUyMGVkaXlvcnV6fGVufDF8MHx8fDE3OTU0NjM2Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ömer Faruk Yıldız",
+        "photographerUrl": "https://unsplash.com/@fotomuhabiriomer",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-gray-dress-shirt-standing-beside-man-in-black-crew-neck-t-shirt-YH9qRjze9tM"
+      },
+      "timeAgo": "şimdi",
+      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan Kabine Toplantısı sonrası açıklamalarda bulundu. Cumhurbaşkanı Erdoğan fon soruşturmasıyla ilgili olarak, \"Atılan adımları yakından takip ediyoruz\" dedi.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-haberi-kabine-toplantisi-sona-erdi-3497106",
+      "publishedAt": "2026-11-23T19:55:50.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/nigdede-apartman-dairesinde-yangin-cikti-hasar-olustu-4875829",
       "headline": "Niğde'de apartman dairesinde yangın çıktı: Sakinler tahliye edildi",
@@ -15,7 +35,8 @@
       "publishedAt": "2026-11-23T19:42:57.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-23T19:54:27.062Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3497119",
@@ -526,6 +547,22 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:34:27.255Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "headline": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 sa önce",
+      "body": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T17:14:50.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
@@ -14449,56 +14486,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-19T15:34:20.069Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-alihan-kuris-suc-orgutune-yeni-operasyon-7-supheliden-4u-yakalandi-7703665",
-      "headline": "Alihan Kuriş suç örgütüne operasyon: 7 şüpheliden 4'ü yakalandı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1538115081112-32c7d8401807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTQ5MDgwNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AJ Colores",
-        "photographerUrl": "https://unsplash.com/@ajcolores",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-police-in-the-middle-of-the-road-aZ-TRPezwt0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Alihan Kuriş suç örgütüne yönelik düzenlenen yeni operasyonda 7 şüpheliden 4'ü yakalandı. Operasyonla ilgili ayrıntıların ilerleyen saatlerde netleşmesi bekleniyor. Konuya dair gelişmeler yakından takip ediliyor.",
-      "highlights": [
-        "Alihan Kuriş suç örgütü soruşturmasında 7 şüpheliden 4'ü yakalandı",
-        "7 ikamet ve 19 iş yerine eş zamanlı operasyon düzenlendi",
-        "Firari şüphelilerin yakalanması için çalışmalar sürdürülüyor"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-alihan-kuris-suc-orgutune-yeni-operasyon-7-supheliden-4u-yakalandi-7703665",
-      "publishedAt": "2026-11-19T08:42:51.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:14:53.072Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-eski-bddk-baskani-sahap-kavcioglu-hakkinda-yurt-disi-cikis-yasagi-verildi-7703648",
-      "headline": "Eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı kararı verildi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1589391886645-d51941baf7fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnQlMjBnYXZlbHxlbnwxfDB8fHwxNzk1MDc3ODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tingey Injury Law Firm",
-        "photographerUrl": "https://unsplash.com/@tingeyinjurylawfirm",
-        "unsplashUrl": "https://unsplash.com/photos/wooden-gavel-and-block-on-marble-6sl88x150Xs"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması çerçevesinde, eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildiği bildirildi.\n\nSermaye piyasalarında gerçekleştirilen işlemlere yönelik sürdürülen fon soruşturması kapsamında, dün eski BDDK Başkanı Şahap Kavcıoğlu için Hazine ve Maliye Bakanlığından soruşturma izni talep edildiği belirtildi.\n\nÖte yandan Hazine ve Maliye Bakanı Mehmet Şimşek'in, söz konusu fon soruşturması kapsamında eski BDDK Başkanı Şahap Kavcıoğlu hakkında ön inceleme yapılması amacıyla Bakanlık Teftiş Başkanlığı'nı görevlendirdiği aktarıldı.\n\nYürütülen fon soruşturmasında Mustafa Yazıcı'nın ise adli kontrol şartıyla serbest bırakıldığı kaydedildi.",
-      "highlights": [
-        "Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı verildi",
-        "Hazine ve Maliye Bakanlığından soruşturma izni talep edildi",
-        "Mustafa Yazıcı adli kontrolle serbest bırakıldı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-eski-bddk-baskani-sahap-kavcioglu-hakkinda-yurt-disi-cikis-yasagi-verildi-7703648",
-      "publishedAt": "2026-11-19T08:42:47.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:25:36.163Z",
       "isBreaking": true
     }
   ],
