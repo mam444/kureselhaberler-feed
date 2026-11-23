@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-23T17:36:31.228Z",
+  "generatedAt": "2026-11-23T17:46:29.908Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/yerel-haberler/izmir/trafikte-motosikletle-akrobatik-hareketler-yapan-aday-surucunun-ehliyeti-iptal-edildi-3497092",
+      "headline": "Trafikte motosikletle akrobatik hareketler yapan aday sürücünün ehliyeti iptal edildi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1559750495-cc5db2fed6d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bW90b3JjeWNsZSUyMHN0dW50fGVufDF8MHx8fDE3OTU0NTU5NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Angie Rivera",
+        "photographerUrl": "https://unsplash.com/@angierivera227",
+        "unsplashUrl": "https://unsplash.com/photos/person-doing-motocross-stunt-on-air-during-daytime-C2rwtaiEMe4"
+      },
+      "timeAgo": "şimdi",
+      "body": "İzmir'in Buca ilçesinde, otoyolda motosikletiyle akrobatik hareketler gerçekleştiren bir sürücü hakkında yasal işlem yapıldı. Buca Otoyolu Kutlutaş Köprüsü yakınlarında motosikletli bir kişinin akrobatik hareketlerle trafik güvenliğini tehlikeye attığı yönündeki ihbarlar üzerine İl Emniyet Müdürlüğü Trafik Şube Müdürlüğü ekipleri harekete geçti. Yapılan çalışmalar neticesinde kimliği belirlenen 20 yaşındaki U.S.G. gözaltına alındı.\n\nEkipler tarafından gerçekleştirilen işlemler kapsamında, şüpheliye Karayolları Trafik Kanunu'nun ilgili maddeleri gereğince işlem yapıldı. Sürücüye akrobatik hareketler yapmak ve kask kullanmamak suçlarından toplamda 48 bin 500 lira idari para cezası kesildi. Bununla birlikte, kullanılan motosiklet 60 gün süreyle trafikten men edildi.\n\nOlayın ardından şüphelinin aday sürücü statüsünde olması nedeniyle sürücü belgesi daimi olarak iptal edildi. Gözaltına alınan U.S.G. hakkında ayrıca trafik güvenliğini tehlikeye sokma suçundan da adli işlem başlatıldığı bildirildi. Yetkililer trafik güvenliğini tehlikeye atan sürücülere yönelik denetimlerin ve çalışmaların sürdüğünü belirtti.",
+      "highlights": [
+        "İzmir Buca'da otoyolda akrobatik hareketler yapan aday sürücüye 48 bin 500 lira ceza verildi.",
+        "Şüphelinin aday sürücü olması sebebiyle sürücü belgesi daimi olarak iptal edildi.",
+        "Motosiklet 60 gün süreyle trafikten men edilirken, sürücü hakkında adli işlem başlatıldı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/yerel-haberler/izmir/trafikte-motosikletle-akrobatik-hareketler-yapan-aday-surucunun-ehliyeti-iptal-edildi-3497092",
+      "publishedAt": "2026-11-23T17:49:22.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
       "headline": "Galatasaray Aston Villa Maçı Nerede Oynanacak? Şampiyonlar Ligi Maçının Adresi Açıklandı",
@@ -11,15 +35,33 @@
       "timeAgo": "şimdi",
       "body": "Galatasaray ile Aston Villa arasındaki UEFA Şampiyonlar Ligi karşılaşmasının nerede ve hangi statta oynanacağı futbolseverler tarafından araştırılan konular arasında yer alıyor. Sarı-kırmızılı ekip, Avrupa arenasındaki bu kritik sınavda İngiliz temsilcisi Aston Villa'yı kendi sahasında konuk edecek.\n\nKarşılaşma için herhangi bir stat değişikliği bulunmuyor. Mücadele, İstanbul'daki Ali Sami Yen Spor Kompleksi RAMS Park'ta oynanacak. Galatasaray, Süper Lig'deki Samsunspor maçını zemin yenileme çalışmaları sebebiyle farklı bir statta oynamış olsa da, zemin bakım çalışmalarının tamamlanmasının ardından Avrupa mücadelesinde yeniden evine dönüyor.\n\nUEFA Şampiyonlar Ligi'nin 5. haftasında gerçekleşecek dev mücadele, 24 Kasım 2026 Salı günü oynanacak. Sarı-kırmızılılar, taraftar desteğini arkasına alarak RAMS Park'ta önemli bir sonuç elde etmeyi hedefliyor. Haftanın en çok takip edilen karşılaşmalarından biri olan bu maçta Galatasaray, kendi seyircisinin desteğiyle İngiliz ekibini ağırlayacak.",
       "highlights": [
-        "Galatasaray Aston Villa maçı RAMS Park'ta oynanacak.",
-        "Karşılaşma 24 Kasım 2026 Salı günü yapılacak.",
-        "Mücadele UEFA Şampiyonlar Ligi kapsamında gerçekleşecek."
+        "Galatasaray Aston Villa maçı RAMS Park'ta oynanacak",
+        "Karşılaşma 24 Kasım 2026 Salı günü yapılacak",
+        "Mücadele UEFA Şampiyonlar Ligi kapsamında gerçekleşecek"
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
       "publishedAt": "2026-11-23T17:37:13.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-23T17:44:25.657Z",
+      "sourceTextAttemptedAt": "2026-11-23T17:44:25.657Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "headline": "What failure of COP31 reveals about a divided world",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "21 dk önce",
+      "body": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T17:24:25.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/sokaklar-beyaza-burundu-goruntuler-istanbuldan-7706457",
@@ -122,7 +164,8 @@
       "publishedAt": "2026-11-23T17:02:18.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T17:44:25.657Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
@@ -14531,54 +14574,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T07:05:19.948Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/hayat/koah-nedeniyle-dunyada-37-milyon-kisi-yasamini-kaybetti-4874236",
-      "headline": "KOAH nedeniyle dünyada yaklaşık 3,7 milyon kişi yaşamını kaybetti",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1616012480717-fd9867059ca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Q09QRCUyMGx1bmdzJTIwaGVhbHRofGVufDF8MHx8fDE3OTUwNzA2OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Umanoide",
-        "photographerUrl": "https://unsplash.com/@umanoide",
-        "unsplashUrl": "https://unsplash.com/photos/chest-x-ray-of-rib-cage-tHS9j3HWT1s"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Uzm. Dr. Esra Geçgel, Kronik Obstrüktif Akciğer Hastalığı'nın (KOAH) hava yolları ve akciğer dokusundaki değişikliklere bağlı kalıcı hava akımı kısıtlanmasıyla seyreden, önlenebilir ve tedavi edilebilir bir rahatsızlık olduğunu belirtti. Süregelen öksürük, balgam, nefes darlığı ve yorgunluğun hastalığın başlıca belirtileri olduğunu ifade eden Geçgel, yakınmaların erken fark edilmesinin yaşam kalitesini korumak açısından önemli olduğunu kaydetti. Küresel Hastalık Yükü 2021 analizine göre dünyada yaklaşık 3,7 milyon kişinin KOAH nedeniyle hayatını kaybettiğini aktaran Geçgel, 1990-2021 yıllarında toplam vaka sayısının yaklaşık yüzde 112, ölüm sayısının ise yüzde 49 arttığının bildirildiğini ifade etti.\n\nNüfusun büyümesi ve yaşlanmasının toplam hastalık yükünü artırdığını belirten Geçgel, çalışmaların bu yükün 2045 yılına kadar artabileceğine işaret ettiğini kaydetti. Türkiye Sağlık Enstitüleri Başkanlığı'nın (TÜSEB) 2020 KOAH raporuna göre Türkiye'de yaklaşık 4 milyon hasta olduğunun tahmin edildiğini aktaran Uzm. Dr. Geçgel, TÜİK 2025 verilerinde solunum sistemi hastalıklarının yüzde 15,1 ile ölüm nedenleri arasında üçüncü sırada yer aldığını, ancak bu oranın tüm solunum sistemi hastalıklarını kapsadığını bildirdi. Bulguların korunma ve erken tanının ulusal düzeyde güçlendirilmesi gerektiğini gösterdiğini vurguladı.\n\nÖzellikle 40 yaş üzerinde olup tütün kullanımı veya zararlı solunum maruziyeti öyküsü bulunan kişilerde öksürük, balgam ve nefes darlığı şikayetlerinin KOAH açısından değerlendirilmesi gerektiğini belirten Geçgel, hastalığın gençlerde de gelişebileceğini kaydetti. Tanının hekim değerlendirmesi ve spirometri adı verilen nefes ölçüm testiyle doğrulandığını ifade eden Geçgel, korunmanın yaşam boyu zararlı maruziyetlerin azaltılmasını gerektirdiğini söyledi. Tütün kontrolü, temiz hava politikaları ve güvenli çalışma şartlarının bireysel önlemleri daha etkili kıldığını ekledi.\n\nSigaranın KOAH gelişiminde başlıca risk faktörlerinden biri olduğunu vurgulayan Uzm. Dr. Esra Geçgel, sigarayı bırakmanın her yaşta yararlı olduğunu ve tanı aldıktan sonra da akciğer fonksiyon kaybını yavaşlatmaya yardımcı olduğunu belirtti. Elektronik sigara ve nargilenin güvenli alternatifler olarak görülmemesi gerektiğini belirten Geçgel, gebelikte ve çocuklukta tütün dumanından uzak durulmasının, yeterli beslenmenin ve aşıların önemine dikkat çekti. Egzersizin ise KOAH'ın şiddeti ve bireyin kapasitesine göre sağlık ekibiyle belirlenmesi gerektiğini ifade etti.",
-      "highlights": [
-        "Dünyada yaklaşık 3,7 milyon kişi KOAH nedeniyle yaşamını yitirdi.",
-        "Türkiye'de yaklaşık 4 milyon KOAH hastası olduğu tahmin ediliyor.",
-        "Tanı, hekim değerlendirmesi ve spirometri testi ile doğrulanıyor."
-      ],
-      "externalUrl": "https://www.yenisafak.com/hayat/koah-nedeniyle-dunyada-37-milyon-kisi-yasamini-kaybetti-4874236",
-      "publishedAt": "2026-11-19T06:42:27.000Z",
-      "category": "Yaşam",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/international/20261119-mistral-boss-denies-french-ai-firm-is-macron-s-personal-project",
-      "headline": "Mistral CEO'su Arthur Mensch, şirketinin Macron'un 'kişisel projesi' olduğu iddialarını reddetti",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1791724738927-153d51e93c7c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QXJ0aHVyJTIwTWVuc2NofGVufDF8MHx8fDE3OTUwNzA2ODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rubin Russo",
-        "photographerUrl": "https://unsplash.com/@the_roman_collar",
-        "unsplashUrl": "https://unsplash.com/photos/auschwitz-birkenau-memorial-and-museum-entrance-wall-cgYQHuuqw3I"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Fransız yapay zeka şirketi Mistral'in yöneticisi, şirketin Cumhurbaşkanı Emmanuel Macron'un \"kişisel projesi\" olduğu iddialarını reddetti. Arthur Mensch, yapay zekaya verilen desteğin siyasi sınırları aştığını belirtti. Silikon Vadisi'nde düzenlenen bir konferansta konuşan Mensch, hızlı büyüyen bir şirketi Fransa'da kurduklarını ve bu dönemde Macron'un cumhurbaşkanı olduğunu ifade etti. Başkanlık desteğinin faydalı olduğunu ancak bunun ABD başkanının Amerikan teknolojisini desteklemesine benzediğini ekledi. Mistral'in değeri 21 milyar euroyu aşarken, Fransız hükümeti şirkette dolaylı bir paya sahip bulunuyor. Mensch, yaklaşan Fransa cumhurbaşkanlığı seçimlerinin sonuçlarından bağımsız olarak şirketin destek görmeye devam edeceğine inandığını söyledi. Adayların bazılaruyla görüştüğünü belirten yönetici, adayların teknik konularda daha fazla bilgi sahibi olması gerekeceğini vurguladı.\n\nKonferansta \"egemen yapay zeka\" kavramını öven Mensch, işletmelerin kendi sistemlerini kurmasına olanak tanıyan yatay platform yaklaşımını savundu. ABD'li devler OpenAI ve Anthropic'in dikey yaklaşımını da geçerli bularak değerlendiren Mensch, bu şirketlerin işletme verilerini kendi lehlerine kullanarak doğrudan rekabet eden ürünler geliştirdiği iddiasını dile getirdi. Fransa'daki lise protestolarına da değinen Mensch, gençlerin yaşadığı kaynattaki tedirginliğin yapay zekanın gelecekteki işleri değiştirecek olmasından kaynaklandığını öne sürdü. Şirketin halka arz planları hakkında konuşan Mensch, merkezin Avrupa olduğunu ve buranın halka arz için \"doğal yer\" olduğunu belirtti. Bu yıl içinde böyle bir adım atmayacaklarını ancak buna hazırlandıklarını sözlerine ekledi.",
-      "highlights": [
-        "Mistral CEO'su Arthur Mensch, şirketin Emmanuel Macron'un kişisel projesi olduğu iddialarını reddetti.",
-        "Mensch, yapay zekaya verilen desteğin siyasi sınırların ötesinde olduğunu belirtti.",
-        "Yönetici, OpenAI ve Anthropic'in işletme verilerini kendi rekabetçi ürünleri için kullandığını iddia etti."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/international/20261119-mistral-boss-denies-french-ai-firm-is-macron-s-personal-project",
-      "publishedAt": "2026-11-19T06:41:19.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
