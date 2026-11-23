@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-23T18:26:36.497Z",
+  "generatedAt": "2026-11-23T18:36:46.397Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/kumulonimbus-bulutu-istanbulda-hava-trafigini-etkiliyor-4875819",
+      "headline": "İstanbul'da Kümülonimbus bulutu: Uçaklar havada tur atıyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "İstanbul’da etkili olan kötü hava koşulları ve yıldırımlara neden olan Kümülonimbus bulutları hava trafiğini olumsuz etkiledi. Olumsuz hava koşullarından kaçınmaya çalışan pilotlar havada tur atarken, şiddetli yağış nedeniyle görüş mesafesinin düşmesi üzerine bazı uçaklar başka havalimanlarına yönlendirildi.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/kumulonimbus-bulutu-istanbulda-hava-trafigini-etkiliyor-4875819",
+      "publishedAt": "2026-11-23T18:27:12.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/cankirida-uyusturucu-operasyonu-39-kisi-yakalandi-4875818",
       "headline": "Çankırı'da uyuşturucu operasyonları: 39 kişi yakalandı 51 kişiye adli işlem",
@@ -70,6 +86,31 @@
       "externalUrl": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
       "publishedAt": "2026-11-23T18:12:55.000Z",
       "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T18:34:22.544Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "headline": "İran'da başörtüsüz şarkı söyleyen şarkıcı Parastoo Ahmadi ve ekibi kırbaçlandı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1544704512-12bc4c1628ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXJhbmlhbiUyMHNpbmdlcnxlbnwxfDB8fHwxNzk1NDU4ODcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Viktor Talashuk",
+        "photographerUrl": "https://unsplash.com/@viktortalashuk",
+        "unsplashUrl": "https://unsplash.com/photos/woman-holding-microphone-2-ukZU5IlvM"
+      },
+      "timeAgo": "30 dk önce",
+      "body": "Avukatların açıklamalarına göre, zorunlu başörtüsü kuralına uymadan sahne alan tanınmış şarkıcı Parastoo Ahmadi ile müzik ve prodüksiyon ekibinden dört kişi İran makamları tarafından kırbaçlandı. Savunma ekibinden bir üye, 29 yaşındaki Ahmadi'nin, üç müzisyenin ve bir yapımcının Kum şehrinde 74'er kez kırbaçlandığını belirtti.\n\nAhmadi, Aralık 2024'te canlı yayınlanan bir konserinde kolsuz bir kıyafet giymişti. İran yasaları kadınların kamuoyunda konser vermesini yasaklıyor ve başörtüsü ile mütevazı kıyafetler giymesini zorunlu kılıyor. Haziran ayında Kum'daki bir ceza mahkemesi, isnat edilen suçlamaları reddeden Ahmadi ve diğer sekiz sanığı, \"müstehcen ve uygunsuz materyal\" yayımlayarak \"kamu ahlakını zedelemekten\" suçlu bulmuştu.\n\nSanıklara 74 kırbaç cezasının yanı sıra iki yıl süreyle görsel-işitsel faaliyetlerden men ve yurt dışına çıkış yasağı verilmişti. Avukatları, Eylül ayı sonlarında Kum'daki bir istinaf mahkemesinin temyiz başvurusunu reddederek cezayı onadığını aktardı.\n\nPazartesi günü BBC'ye konuşan avukatlardan biri, Ahmadi ile birlikte erkek sanıklardan dördünün Kum'daki Ceza İnfaz Ofisi'nin üçüncü şubesinde kırbaçlandığını ifade etti. Reform yanlısı Etemad gazetesi, avukat Mostafa Nili'ye dayanarak kırbaçlanan diğer dört erkeğin Soheil Faghih-Nasiri, Amin Taheri, Amirali Pirnia ve Mohsen Lashkari olduğunu kaydetti.\n\nABD merkezli İran İnsan Hakları Merkezi'nden Bahar Ghandehari, cezaların uluslararası işkence yasağını ihlal ettiğini savunarak kararı eleştirdi. Olay sonrasında diğer İranlı sanatçılar ve insan hakları aktivistleri de cezaları kınadı. İran'da 2022'de Mahsa Amini'nin ölümünün ardından ülke genelinde protestolar yaşanmış, sonrasında birçok kadın kıyafet kuralına karşı başörtüsü takmayı bırakmıştı. Yetkililer ise tutuklamalar ve çeşitli önlemlerle yanıt vermeye devam ediyor.",
+      "highlights": [
+        "Parastoo Ahmadi ve dört ekip üyesi Kum'da 74'er kez kırbaçlandı.",
+        "Mahkeme sanıkları kamu ahlakını zedelemekten suçlu bulmuştu.",
+        "İstinaf mahkemesi Eylül sonunda cezayı onamıştı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T18:04:20.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -14512,51 +14553,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T07:54:20.555Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "headline": "Kırım Köprüsü yeniden saldırıya uğradı, Rusya açıkladı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "2 dk önce",
-      "body": "Rusya'nın açıklamasına göre, Kırım Köprüsü bu hafta üçüncü kez Ukrayna tarafından saldırıya uğradı. Moskova'nın atadığı Kırım lideri Sergey Aksyonov, Rusya'yı işgal altındaki Kırım'a bağlayan köprüye düzenlenen bir diğer saldırının ardından trafiğin geçici olarak askıya alındı̆̆ını belirtti. Kritik öneme sahip köprü, daha önce haftanın başlarında iki kez vurulmuş ve bu durum ağır hasara yol açarak köprünün bir kısmının suya çökmesine neden olmuştu.\n\nRusya Ulaştırma Bakanlığı, Telegram üzerinden yaptığı açıklamada, saldırıda kimsenin yaralanmadığını ve uzmanların köprüdeki hasarı değerlendirdiğini bildirdi. Bakanlık açıklamasında, gece saatlerinde düzenlenen insansız hava aracı saldırısı sonucunda Kırım Köprüsü'nün demiryolu bölümündeki tren seferlerinin geçici olarak durdurulduğu ifade edildi. Bu gelişmeler, Rusya Devlet Başkanı Vladimir Putin'in perşembe günü Çin'de ABD Başkanı Donald Trump ve Çin Devlet Başkanı Xi Jinping ile görüşeceği döneme denk geldi.\n\nÖte yandan, Ukraynalı kaynaklar başkent Kiev'in dışındaki bölgeler için gece boyunca hava saldırısı uyarılarında bulunmaya devam etti. Odesa Valisi Oleh Kiper, çarşamba günü güneydeki Odesa şehrine düzenlenen Rus insansız hava aracı saldırısında en az dört kişinin hayatını kaybettiğini aktardı. Yetkililer saldırıyı doğrudan insanları ve yaşamlarını hedef alan acımasız ve kasıtlı bir eylem olarak nitelendirdi.\n\nKremlin Sözcüsü Dmitry Peskov, köprünün yeniden inşa edileceğini ve eskisinden bile daha iyi olacağını söyledi. Ukrayna kuvvetleri köprüyü kalıcı olarak kapatmakta zorlansa da son girişimler, cephe hattına ilerleyen Rus askerleri için hayati önem taşıyan kara ve demiryolu güzergahını yıkmaya yaklaşmalarını sağladı. Rus güçleri ayrıca son günlerde Kiev'deki Dinyeper Nehri üzerindeki köprü geçişlerini de hedef aldı.",
-      "highlights": [
-        "Köprü Ukrayna'nın ortak saldırısı sonucu büyük hasar gördü",
-        "Putin saldırılara karşı daha acı verici yanıt vaat etti",
-        "Köprü Rusya'nın Kırım'daki işgalinin sembolü konumunda"
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T07:32:06.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T16:34:27.462Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/hava-durumu/19-kasim-2026-hava-durumu-meteorolojiden-kuvvetli-yagis-uyarisi-bugun-istanbulda-yagmur-var-mi-3495134",
-      "headline": "19 Kasım 2026 Hava Durumu: Meteoroloji'den kuvvetli yağış ve fırtına uyarısı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1428592953211-077101b2021b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cmFpbnklMjB3ZWF0aGVyfGVufDF8MHx8fDE3OTUwNzM2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "reza shayestehpour",
-        "photographerUrl": "https://unsplash.com/@r_shayesrehpour",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photography-of-raindrops-Nw_D8v79PM4"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Meteoroloji Genel Müdürlüğü, 19 Kasım 2026 Perşembe gününe ait hava durumu tahmin raporunu yayımladı. Yapılan son değerlendirmelere göre Türkiye genelinde parçalı ve çok bulutlu bir havanın hâkim olması bekleniyor. Ege, Akdeniz, Karadeniz, Doğu ve Güneydoğu Anadolu bölgeleri ile İç Anadolu'nun kuzey ve doğusunda aralıklı yağmur ve sağanak görüleceği tahmin ediliyor. Bunun yanı sıra Bursa, Sakarya ve Bilecik çevrelerinde de yağışların etkili olacağı, Doğu Anadolu'nun doğusundaki yüksek kesimlerde ise karla karışık yağmur ve kar yağışı yaşanacağı öngörülüyor.\n\nRaporda bazı bölgeler için kuvvetli yağış uyarısında bulunuldu. Doğu Karadeniz kıyıları, Zonguldak, Bartın, Kastamonu, Karabük, Ordu, Adana, Osmaniye, Hatay, Tunceli, Bingöl ve Muş çevrelerinde yağışların yerel olarak kuvvetli olması bekleniyor. Ayrıca Diyarbakır, Van, Siirt ve Batman'ın kuzey kesimleri için de benzer şekilde kuvvetli yağış uyarısı yapıldı.\n\nMeteoroloji ayrıca Marmara, Ege, İç Anadolu, Karadeniz'in iç kesimleri ile Hakkari çevrelerinde etkili olacak rüzgâra karşı uyardı. Güney yönlerden esecek rüzgârın saatte 50 ila 70 kilometre hıza ulaşması, yer yer ise 80 kilometre hızı bularak fırtınaya dönüşebileceği tahmin ediliyor.\n\nHava sıcaklıklarının iç kesimlerde 3 ila 5 derece artacağı, diğer bölgelerde ise önemli bir değişiklik olmayacağı öngörülüyor. İstanbul'da ise bugün için herhangi bir yağış beklenmezken, kentte etkili olan kuvvetli fırtınanın ardından vatandaşlar güncel raporları araştırmaya devam ediyor.",
-      "highlights": [
-        "Meteoroloji Genel Müdürlüğü 19 Kasım 2026 hava durumu tahminlerini yayımladı.",
-        "Birçok ilde kuvvetli sağanak ve fırtına bekleniyor.",
-        "İstanbul'da bugün için yağış öngörülmüyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/hava-durumu/19-kasim-2026-hava-durumu-meteorolojiden-kuvvetli-yagis-uyarisi-bugun-istanbulda-yagmur-var-mi-3495134",
-      "publishedAt": "2026-11-19T07:30:58.000Z",
-      "category": "Yaşam",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
