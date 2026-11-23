@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-23T19:54:29.711Z",
+  "generatedAt": "2026-11-23T20:05:30.171Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/istanbulu-sarsan-aslanla-ilgili-kritik-uyarilar-karsiniza-cikarsa-ne-yapmalisiniz-3497121",
+      "headline": "İstanbul'u sarsan aslanla ilgili kritik uyarılar!Karşınıza çıkarsa ne yapmalısınız?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1646430601182-135f018bd242?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8JUM0JUIwc3RhbmJ1bCUyN3UlMjBzYXJzYW4lMjBhc2xhbmxhJTIwaWxnaWxpJTIwa3JpdGlrJTIwdXlhciVDNCVCMWxhciUyMUthciVDNSU5RiVDNCVCMW4lQzQlQjF6YSUyMCVDMyVBNyVDNCVCMWthcnNhJTIwbmUlMjB5YXBtYWwlQzQlQjFzJUM0JUIxbiVDNCVCMXolM0Z8ZW58MXwwfHx8MTc5NTQ2NDI4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Aziz Aljaber",
+        "photographerUrl": "https://unsplash.com/@kuwaitna",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-sidewalk-next-to-a-body-of-water--hjgW0mvJPk"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "İstanbul Veteriner Hekimler Odası Başkanı Ahmet Yavuz Karaca, Sarıyer'de aranan aslana ilişkin vatandaşların aramalara katılma düşüncesiyle hareket etmemeleri gerektiğini belirterek, \"Aslanla karşılaştılar diyelim, karşılaştıkları anda da hayvandan direkt hızlı bir şekilde kaçma durumuna geçtiklerinde hayvan onu av olarak veyahut tehlike olarak algılayıp saldırabilir. Yavaşça görünmeden bölgeden uzaklaşmayı tercih…",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/turkiye/istanbulu-sarsan-aslanla-ilgili-kritik-uyarilar-karsiniza-cikarsa-ne-yapmalisiniz-3497121",
+      "publishedAt": "2026-11-23T20:01:08.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/son-dakika-haberi-kabine-toplantisi-sona-erdi-3497106",
       "headline": "SON DAKİKA HABERİ: Cumhurbaşkanı Erdoğan'dan fon soruşturması açıklaması: Atılan adımları yakından takip ediyoruz",
@@ -30,13 +50,18 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Niğde'de Kale Mahallesi'ndeki 4 katlı bir apartmanın 3. katında bulunan dairede henüz belirlenemeyen nedenle yangın çıktı. Apartman sakinleri itfaiye ekiplerince tahliye edilirken, yangın dairede hasara neden oldu.",
-      "highlights": [],
+      "highlights": [
+        "Kale Mahallesi'ndeki 4 katlı apartmanın 3. katında yangın çıktı.",
+        "İhbar üzerine olay yerine polis, sağlık, doğal gaz ve itfaiye ekipleri sevk edildi.",
+        "Apartman sakinleri itfaiye ekiplerince tahliye edildi, dairede hasar oluştu."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/nigdede-apartman-dairesinde-yangin-cikti-hasar-olustu-4875829",
       "publishedAt": "2026-11-23T19:42:57.000Z",
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T19:54:27.062Z"
+      "imageSearchAttemptedAt": "2026-11-23T19:54:27.062Z",
+      "sourceTextAttemptedAt": "2026-11-23T20:04:22.709Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3497119",
@@ -562,7 +587,8 @@
       "publishedAt": "2026-11-23T17:14:50.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T20:04:22.709Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
@@ -14462,31 +14488,6 @@
       "imageSearchAttemptedAt": "2026-11-23T16:24:31.229Z",
       "sourceTextAttemptedAt": "2026-11-19T09:34:30.884Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-dunyanin-gozu-cinde-trump-xi-putin-gorusmesi-basladi-7703658",
-      "headline": "Dünyanın gözü Çin'de: Trump, Xi ve Putin APEC zirvesinde bir araya geldi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1578495959700-a617c3600026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QVBFQyUyMHN1bW1pdCUyMENoaW5hfGVufDF8MHx8fDE3OTUxMDI1OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Road Trip with Raj",
-        "photographerUrl": "https://unsplash.com/@roadtripwithraj",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-photography-of-city-buildings-py8eyAh9J3A"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping, Asya-Pasifik Ekonomik İşbirliği (APEC) forumu kapsamında Çin'in Shenzhen kentindeki Kylin Villa'da bir araya geldi. Bir ilk olma özelliği taşıyan üçlü buluşma, Rusya-Ukrayna savaşının beşinci yılına yaklaşırken düzenlenmesi nedeniyle uluslararası kamuoyunun dikkatini çekti. Zirve öncesinde Trump \"Tarihe damga vuracağız\" açıklamasını yaparken, Xi Jinping ise görüşmeyi \"çığır açıcı öneme sahip\" olarak nitelendirdi.\n\nPerşembe günü erken saatlerde Trump ve Putin, Ağustos 2025'ten bu yana ilk kez yüz yüze görüştü. Trump, Rus lideri \"arkadaşım\" olarak adlandırırken Putin İngilizce olarak \"Tanıştığımıza memnun oldum\" dedi. Bu yıl üçüncü kez bir araya gelen Trump ve Xi Jinping ise ikili görüşme gerçekleştirdi. Görüşmelerde ticaret ve yapay zeka alanında ortak kurallar oluşturulması ele alınması beklenirken, temaslar casusluk iddialarının gölgesinde kaldı. Xi Jinping, Çin-ABD ilişkilerinin istikrarlı kaldığını belirtti. Öte yandan Putin ve Xi Jinping'in çarşamba günü 50'nci kez bir araya geldiği açıklandı.\n\nUkrayna savaşı zirvenin kritik başlıkları arasında yer aldı. Washington yönetimi başlangıçta Ukrayna meselesinin görüşülmeyeceğini belirtirken, Trump savaşın gündeme geleceğini söyledi. Çin ise Ukrayna'daki çatışmayı çözmesi gereken bir mesele olarak görmediğini bildirdi. Kremlin ise toplantı gündeminin henüz kesinleşmediğini ifade etti. Ayrıca zirvede nükleer silahsızlanma konusu da ele alınması beklenen başlıklar arasında yer aldı. Trump, ülkelerin nükleer silah sayılarına değinerek ABD'nin yaklaşık 4 bin, Rusya'nın 3 bin 800, Çin'in ise 400-500 civarında nükleer silaha sahip olduğunu belirtti.\n\nZirvenin dikkat çeken anlarından biri, Xi Jinping'in protokol dışına çıkarak Trump'ı havalimanında kırmızı halıyla karşılaması oldu. Trump, Fox News'e yaptığı açıklamada bu durumu büyük bir saygı göstergesi olarak değerlendirdi. Öte yandan Trump, Kuzey Kore lideri Kim Jong Un'un kendisiyle görüşmek için Çin'e gelmek istediğini de ifade etti. Shenzhen'deki APEC toplantısına Japonya Başbakanı Sanae Takaichi, Güney Kore Devlet Başkanı Lee Jae Myung, Kanada Başbakanı Mark Carney ve Avustralya Başbakanı Anthony Albanese de katıldı. Liderler perşembe günü APEC'in geleneksel aile fotoğrafında yer aldı.",
-      "highlights": [
-        "ABD Başkanı Trump, Rusya Devlet Başkanı Putin ve Çin Devlet Başkanı Xi Jinping Shenzhen'de bir araya geldi.",
-        "Trump ve Putin Ağustos 2025'ten bu yana ilk kez yüz yüze görüştü.",
-        "Xi Jinping protokol dışına çıkarak Trump'ı havalimanında kırmızı halıyla karşıladı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-dunyanin-gozu-cinde-trump-xi-putin-gorusmesi-basladi-7703658",
-      "publishedAt": "2026-11-19T08:51:55.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T15:34:20.069Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
@@ -14704,6 +14705,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
     "https://www.yenisafak.com/gundem/istanbul-valiliginden-firtina-ve-kuvvetli-saganak-uyarisi-4875445",
     "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss"
   ]
 }
