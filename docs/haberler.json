@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-23T17:28:12.953Z",
+  "generatedAt": "2026-11-23T17:36:31.228Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
+      "headline": "Galatasaray Aston Villa Maçı Nerede Oynanacak? Şampiyonlar Ligi Maçının Adresi Açıklandı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "şimdi",
+      "body": "Galatasaray ile Aston Villa arasındaki UEFA Şampiyonlar Ligi karşılaşmasının nerede ve hangi statta oynanacağı futbolseverler tarafından araştırılan konular arasında yer alıyor. Sarı-kırmızılı ekip, Avrupa arenasındaki bu kritik sınavda İngiliz temsilcisi Aston Villa'yı kendi sahasında konuk edecek.\n\nKarşılaşma için herhangi bir stat değişikliği bulunmuyor. Mücadele, İstanbul'daki Ali Sami Yen Spor Kompleksi RAMS Park'ta oynanacak. Galatasaray, Süper Lig'deki Samsunspor maçını zemin yenileme çalışmaları sebebiyle farklı bir statta oynamış olsa da, zemin bakım çalışmalarının tamamlanmasının ardından Avrupa mücadelesinde yeniden evine dönüyor.\n\nUEFA Şampiyonlar Ligi'nin 5. haftasında gerçekleşecek dev mücadele, 24 Kasım 2026 Salı günü oynanacak. Sarı-kırmızılılar, taraftar desteğini arkasına alarak RAMS Park'ta önemli bir sonuç elde etmeyi hedefliyor. Haftanın en çok takip edilen karşılaşmalarından biri olan bu maçta Galatasaray, kendi seyircisinin desteğiyle İngiliz ekibini ağırlayacak.",
+      "highlights": [
+        "Galatasaray Aston Villa maçı RAMS Park'ta oynanacak.",
+        "Karşılaşma 24 Kasım 2026 Salı günü yapılacak.",
+        "Mücadele UEFA Şampiyonlar Ligi kapsamında gerçekleşecek."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
+      "publishedAt": "2026-11-23T17:37:13.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/sokaklar-beyaza-burundu-goruntuler-istanbuldan-7706457",
       "headline": "İstanbul'da aniden başlayan dolu yağışı etkili oldu",
@@ -23,7 +43,8 @@
       "publishedAt": "2026-11-23T17:21:03.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T17:34:27.255Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
@@ -86,6 +107,22 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/hungarys-magyar-visit-ukraine-sign-mending-relations-138377958",
+      "headline": "Hungary’s Magyar says he will visit Ukraine in a sign of mending relations",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "33 dk önce",
+      "body": "Hungarian Prime Minister P&eacute;ter Magyar plans to visit Ukraine soon, signaling improved relations between the two countries",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/hungarys-magyar-visit-ukraine-sign-mending-relations-138377958",
+      "publishedAt": "2026-11-23T17:02:18.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
@@ -14541,55 +14578,6 @@
       "externalUrl": "https://www.rfi.fr/en/international/20261119-mistral-boss-denies-french-ai-firm-is-macron-s-personal-project",
       "publishedAt": "2026-11-19T06:41:19.000Z",
       "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/istanbulda-firtina-sahili-vurdu-uskudarda-dev-dalgalar-metreleri-asti-4874230",
-      "headline": "Boğaziçi Film Festivali'nde LGBT temalı filme verilen ödül tepki çekti",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmlsbSUyMGZlc3RpdmFsfGVufDF8MHx8fDE3OTUwNzAwODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Felix Mooneeram",
-        "photographerUrl": "https://unsplash.com/@felixmooneeram",
-        "unsplashUrl": "https://unsplash.com/photos/red-cinema-chair-evlkOfkQ5rE"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Boğaziçi Film Festivali’nde LGBT temalı “Yerçekimi” adlı filmin ödül alması, TVNET ekranlarında yayınlanan Siyaseten programında masaya yatırıldı. Programda konuşan Ersin Çelik ve İsmail Kılıçarslan, söz konusu yapımın festivalde ödüllendirilmesine sert tepki gösterdi.\n\nİsmail Kılıçarslan, yaşanan durumu festivalin itibarına zarar vermemesi gereken bir “yol kazası” şeklinde tanımladı. Kılıçarslan, üniversite yönetiminin sessizliğini bozarak bu hatadan dönmesi gerektiğini belirtti.\n\nKamuoyuna açıklama yapılması ve gerekirse verilen ödülün geri alınması çağrısında bulunan Kılıçarslan, festivalin geçmişteki başarılı organizasyonlarına da dikkat çekti. Yaşananların kesinlikle görmezden gelinmemesi gerektiğini vurguladı. 18 Kasım 2026 tarihinde gündeme gelen konuyla ilgili yönetimden henüz bir açıklama yapılması bekleniyor.",
-      "highlights": [
-        "Boğaziçi Film Festivali'nde LGBT temalı Yerçekimi filmi ödül aldı",
-        "İsmail Kılıçarslan yönetimin sessizliğini bozması gerektiğini söyledi",
-        "Ödülün geri alınması ve açıklama yapılması çağrısı yapıldı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/istanbulda-firtina-sahili-vurdu-uskudarda-dev-dalgalar-metreleri-asti-4874230",
-      "publishedAt": "2026-11-19T06:33:08.000Z",
-      "category": "Kültür & Sanat",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T06:54:33.125Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-      "headline": "Tammy Shipley hapishanede 20 litre su içerek hayatını kaybetti, soruşturma sistemik hataları işaret etti",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1546715999-747d84658c9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cHJpc29uJTIwY2VsbCUyMHdhdGVyfGVufDF8MHx8fDE3OTUwNzAwNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "7500 RPM",
-        "photographerUrl": "https://unsplash.com/@7500rpm",
-        "unsplashUrl": "https://unsplash.com/photos/empty-hallway-with-turned-on-lights-LJp0F9Icjlc"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Silverwater kadın cezaevinde tutuklu bulunan 47 yaşındaki Aborijin kadın Tammy Michelle Shipley'nin ölümüne ilişkin yürütülen soruşturma sonuçlandı. Soruşturma, 20 Aralık 2022 tarihinde hayatını kaybeden Shipley’nin ölümünün önlenebilir olduğunu ve sistemik hatalardan kaynaklandığını ortaya koydu.\n\nElde edilen bilgilere göre, beş çocuk annesi Shipley, hırsızlık suçlamalarıyla gözaltına alındıktan 11 gün sonra cezaevinde fenalaştı. Eyalet adli tıp korneri Teresa O’Sullivan, ölümün aşırı su tüketimine bağlı düşük kan sodyum seviyeleri ve şizoafektif bozukluk komplikasyonlarından kaynaklandığına hükmetti.\n\nSoruşturma raporunda, Shipley’nin cezaevinde iki kez kendine zarar vermesinin ardından hem fiziksel hem de elektronik olarak sürekli izlenmesi gerektiği, ancak bu denetimlerin yapılmadığı vurgulandı. Korner O’Sullivan, gerekli aralıklarla gözlem yapılmış olması durumunda aşırı su tüketiminin önlenebileceğini ifade etti.\n\nAyrıca raporda, Shipley’nin cezaevindeki 11 günlük sürede bir psikiyatrist veya ruh sağlığı hemşiresi tarafından hiç görülmemiş olmasının tatmin edici bulunmadığı belirtildi. Kusma şikayetlerinin ardından tıbbi bakım alması gerektiği kaydedilen Shipley’nin hücresinde yüzüstü yatar halde bulunmasının ardından müdahaleye başlanmasında 23 dakikalık bir gecikme yaşandığı aktarıldı.\n\nKorner O’Sullivan, NSW polisi, Corrective Services NSW ve Justice Health kurumlarına yönelik 10 tavsiyede bulunarak kayıtların gözden geçirilmesini ve izleme sistemlerinin iyileştirilmesini istedi. Anne Vicki Shipley ise kararın ardından yaptığı açıklamada, sistemin kızına travma yaşattığını ve nihayetinde ölüme sürüklediğini belirterek hükümetten tavsiyeleri hızlı bir şekilde hayata geçirmesini talep etti.",
-      "highlights": [
-        "Tammy Michelle Shipley'nin ölümü sistemik hatalar ve önlenebilir ihmaller sonucu gerçekleşti.",
-        "Korner O’Sullivan, düzenli gözlemler yapılması halinde aşırı su tüketiminin engellenebileceğini belirtti.",
-        "Yetkili kurumlara hapishane koşulları ve ruh sağlığı kayıtları için 10 tavsiye sunuldu."
-      ],
-      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/19/tammy-shipley-was-supposed-to-be-monitored-in-prison-instead-she-died-after-drinking-20l-of-water-ntwnfb",
-      "publishedAt": "2026-11-19T06:20:46.000Z",
-      "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
     }
