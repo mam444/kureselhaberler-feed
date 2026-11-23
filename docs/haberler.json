@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-23T15:27:49.414Z",
+  "generatedAt": "2026-11-23T15:35:27.650Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-kamyonun-carptigi-otomobil-hurdaya-dondu-3-yarali-7706436",
+      "headline": "Kuzey Marmara Otoyolu'nda kaza: 3 yaralı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1673187139181-795761a40ca1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTU0NDgwODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Usman Malik",
+        "photographerUrl": "https://unsplash.com/@usmanbim94",
+        "unsplashUrl": "https://unsplash.com/photos/two-cars-parked-next-to-each-other-in-a-parking-lot-cbXfPEOc1-k"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Kuzey Marmara Otoyolu'nun T3 Tüneli içerisinde saat 16.00 sıralarında bir trafik kazası meydana geldi. İstanbul istikametine seyir halinde olan 60 ZK 477 plakalı kamyon ile 34 TA 3021 plakalı otomobil çarpıştı. \n\nÇarpışmanın etkisiyle otomobil hurdaya dönerken araç içerisindeki vatandaşlar sıkıştı. Çevreden yapılan ihbarlar üzerine olay yerine çok sayıda sağlık, itfaiye ve jandarma ekibi yönlendirildi. \n\nİtfaiye ekiplerinin yürüttüğü çalışma sonucunda otomobilde sıkışan 3 kişi bulundukları yerden kurtarıldı. Sağlık ekipleri tarafından ilk müdahaleleri yapılan yaralılar hastaneye kaldırıldı. \n\nHastanede tedavi altına alınan yaralıların sağlık durumlarının ciddiyetini koruduğu belirtildi. Yaşanan feci kazayla ilgili resmi soruşturma başlatıldı.",
+      "highlights": [
+        "Kuzey Marmara Otoyolu'nda kamyon ile otomobil çarpıştı",
+        "Otomobilde sıkışan 3 kişi itfaiye ekiplerince çıkarılarak hastaneye kaldırıldı",
+        "Yaralıların sağlık durumunun ciddiyetini koruduğu öğrenildi"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/kuzey-marmara-otoyolunda-feci-kaza-kamyonun-carptigi-otomobil-hurdaya-dondu-3-yarali-7706436",
+      "publishedAt": "2026-11-23T15:33:38.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261123-is-cannes-mayor-david-lisnard-a-dark-horse-for-french-presidential-elections",
+      "headline": "Cannes Belediye Başkanı David Lisnard Fransa cumhurbaşkanlığı seçimleri için sürpriz bir aday mı?",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1551866442-64e75e911c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwZmxhZ3xlbnwxfDB8fHwxNzk1NDQ4MDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anthony Choren",
+        "photographerUrl": "https://unsplash.com/@tony_cm__",
+        "unsplashUrl": "https://unsplash.com/photos/french-flag-waving-in-blue-sky-lYzap0eubDY"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Cannes Belediye Başkanı ve Fransa cumhurbaşkanlığı adayı David Lisnard, yakın zamanda yapılan bir seçmen eğilimi anketinde eski başbakanlar Edouard Philippe ve Gabriel Attal'ı geride bırakarak birçok kişiyi şaşırttı.\n\nUltra liberal bir platformda yarışan Cannes belediye başkanı, sosyal medyada geniş bir takipçi kitlesine ulaştı. Ancak bazı eleştirmenler, Elysee Sarayı için gereken ulusal deneyimden yoksun olduğunu savunuyor.\n\n23.11.2026 tarihinde yayınlanan bu gelişmeler, Fransa'daki siyasi hareketliliği ve olası adaylar arasındaki rekabeti gözler önüne seriyor. Seçim yarışındaki bu son anket sonuçları kamuoyunda farklı tepkilere neden olmaya devam ediyor.",
+      "highlights": [
+        "David Lisnard seçmen eğilimi anketinde eski başbakanları geride bıraktı",
+        "Aday ultra liberal bir platformda yarışıyor ve sosyal medyada takipçi topluyor",
+        "Eleştirmenler adayın ulusal deneyimden yoksun olduğunu belirtiyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261123-is-cannes-mayor-david-lisnard-a-dark-horse-for-french-presidential-elections",
+      "publishedAt": "2026-11-23T15:24:22.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/kabine-toplantisi-sona-erdi-cumhurbaskani-erdogan-aciklama-yapiyor-1752249",
       "headline": "Kabine toplantısı sona erdi. Cumhurbaşkanı Erdoğan açıklama yapıyor",
@@ -19,7 +67,8 @@
       "publishedAt": "2026-11-23T15:23:48.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T15:34:27.997Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261123-tens-of-thousands-take-to-streets-in-belgium-in-anti-austerity-protests",
@@ -10820,7 +10869,7 @@
       "publishedAt": "2026-11-19T18:28:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T18:44:21.544Z",
+      "imageSearchAttemptedAt": "2026-11-23T15:34:27.997Z",
       "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": false
     },
@@ -11238,7 +11287,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
-      "imageSearchAttemptedAt": "2026-11-22T18:44:21.544Z",
+      "imageSearchAttemptedAt": "2026-11-23T15:34:27.997Z",
       "isBreaking": false
     },
     {
@@ -14575,54 +14624,6 @@
       "externalUrl": "https://www.cnnturk.com/turkiye/kpss-ortaogretim-sonuclari-2026-kpss-ortaogretim-sonuclari-aciklandi-mi-ne-zaman-aciklanacak-osym-kpss-lise-sonuc-tarihi-3494575",
       "publishedAt": "2026-11-18T19:43:14.000Z",
       "category": "Türkiye",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/international/20261118-openai-partners-with-nato-to-strengthen-alliance-s-cyber-defences",
-      "headline": "OpenAI, NATO'nun siber savunmasını güçlendirmek için ortaklık kurdu",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1706548633589-2a02f434f0d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TkFUTyUyMGN5YmVyJTIwZGVmZW5jZXxlbnwxfDB8fHwxNzk1MDMxMDU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marek Studzinski",
-        "photographerUrl": "https://unsplash.com/@jccards",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-bunch-of-bullet-casings-rF5Jr7RpJLo"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "OpenAI, transatlantik ittifakın siber savunmasını güçlendirmesine ve olası saldırıları araştırmasına yardımcı olmak amacıyla NATO ile ortaklık kurduğunu duyurdu. Açıklama Salı günü yapıldı.\n\nChatGPT üreticisi şirket, bu anlaşmayla NATO'ya yazılım inceleme, şüpheli faaliyetleri araştırma, güvenlik açıklarını doğrulama, düzeltme geliştirme ve test etme gibi alanlarda \"gelişmiş yapay zeka\" sunan Daybreak siber güvenlik platformuna erişim sağlandığını belirtti. Anlaşma, Türkiye'nin İzmir şehrinde düzenlenen NATO Edge teknoloji ve dijital savunma konferansında yayımlanan bir bildiriyle duyuruldu.\n\nOpenAI, yapay zekanın savaşta üstlenmesi gereken rol üzerine küresel çapta hararetli tartışmaların sürdüğü bir dönemde, yapay zekanın sorumlu bir şekilde benimsenmesine ve teknolojinin güvenli kullanımına yönelik NATO ilkelerine \"tamamen bağlı\" olduğunu bildirdi.\n\nNATO İletişim ve Bilgi Ajansı genel müdürü Dylan Browne, yapay zeka destekli siber savunma modellerinin siber güvenlikte nesilsel bir sıçrama temsil ettiğini belirtti. Browne, bu teknolojilerin güvenlik açıklarının keşfini hızlandırdığını, gelişen tehditleri makine hızında tespit ettiğini ve savunucuların rakiplerinin bir adım önünde kalmasını sağladığını ifade etti.\n\nOpenAI daha önce Avrupa Birliği Siber Güvenlik Ajansı (ENISA) ile Fransa, Almanya ve Polonya'daki ulusal siber güvenlik ajanslarıyla da ortaklık kurmuştu. Ukrayna da ABD'li teknoloji firmasının araçlarını sivil altyapıya yönelik siber tehditlere karşı kullanıyor.",
-      "highlights": [
-        "OpenAI, NATO ile siber savunmayı güçlendirmek ve olası saldırıları araştırmak için ortaklık kurdu.",
-        "Anlaşma kapsamında NATO, OpenAI'ın Daybreak siber güvenlik platformunun gelişmiş yapay zekasına erişim sağlayacak.",
-        "OpenAI daha önce ENISA ve Fransa, Almanya, Polonya ile Ukrayna'daki kurumlarla da ortaklıklar yapmıştı."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/international/20261118-openai-partners-with-nato-to-strengthen-alliance-s-cyber-defences",
-      "publishedAt": "2026-11-18T19:33:31.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/video/turkiye/abdyi-yapay-zeka-mi-cokertiyor-3494989",
-      "headline": "ABD'yi yapay zeka mı çökertiyor?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwxfDB8fHwxNzk1MDMwNTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Steve A Johnson",
-        "photographerUrl": "https://unsplash.com/@steve_j",
-        "unsplashUrl": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Amerika'da 10 Kasım'dan bu yana teknoloji, havacılık ve bankacılık sistemlerinde peş peşe ciddi kesintiler yaşandı. Microsoft ve havacılık sistemlerinin kilitlenmesiyle ülke genelinde uçuşlar durdu, hava trafik kontrol sistemlerindeki arıza sebebiyle uçuşlar 4 saatten fazla durduruldu ve 16 binden fazla uçuş etkilendi. Ayrıca United Airlines sistemlerinde aksaklıklar görüldü. Bankacılık devleri ile yatırım şirketi devre dışı kaldı, JP Morgan Chase başta olmak üzere bankacılık sistemlerinde ve işlemlerinde kesintiler meydana geldi ve ABD Ulusal Güvenlik Ajansı'nın ağlarında kesintiler görüldü.\n\nBeyaz Saray kesintiler için siber saldırı olmadığını, altyapının eski olduğunu belirtirken, Amerikan basını ve kamuoyu 'ABD'yi yapay zeka mı çökertiyor?' sorusunu sormaya başladı. Adli Bilişim Uzmanı Prof. Dr. Ali Murat Kırık, asıl sorunun sistemlerin birbirine aşırı derecede bağımlı hale gelmesi olduğunu, bir yazılım güncellenmesindeki hata, sunucu arızası veya eskiyen altyapının milyonlarca insanı etkileyebildiğini ifade etti. Uzman, yapay zeka destekli araçların yazılımlardaki güvenlik açıklarını çok daha hızlı tespit ettiği dönemde bunları tespit etmemesinin soru işaretleri getirdiğini belirtti.\n\nProf. Dr. Ali Murat Kırık, yapay zeka üzerinden küresel bir büyük sıfırlama operasyonu yürütülüp yürütülmediğini veya finans ve veri sistemlerinin yeniden dizayn edildiği kasıtlı bir sürece tanıklık edilip edilmediğini sorguladı. Siber saldırı olmasa bile teknolojik bir hatanın ülke çapında büyük bir krize dönüşebileceğini vurgulayan Kırık, yaşananların dijital altyapıların ne kadar kırılgan ve birbirine bağımlı hale geldiğini gösterdiğini kaydetti.\n\nTürkiye'nin durumu hakkında da değerlendirmelerde bulunan Kırık, Türkiye'nin özellikle ödeme ve bankacılık sistemleri açısından güçlü bir teknolojik altyapıya sahip olduğunu belirtti. Kritik sektörlerde bulut hizmetlerine yönelik düzenlemeler ve güvenlik gerekliliklerinin dış kaynaklı sistemlere bağımlılığın kontrol altında tutulmasına katkı sağladığını ifade eden uzman, Türkiye’nin bazı küresel teknoloji kesintilerinden etkilenme riskinin daha sınırlı olduğunu aktardı.\n\nKırık, teknolojide dışa bağımlılığı azaltmanın, yerli yazılım ve siber güvenlik çözümlerini geliştirmenin büyük önem taşıdığını vurguladı. Türkiye'nin bu anlamda ciddi bir bilgi birikimine sahip olduğunu belirten uzman, yerli teknolojinin önemine dikkat çekti.",
-      "highlights": [
-        "Microsoft ve havacılık sistemleri kilitlendi, 16 binden fazla uçuş etkilendi.",
-        "Beyaz Saray siber saldırı olmadığını, altyapının eski olduğunu açıkladı.",
-        "Türkiye'nin güçlü altyapısı sayesinde küresel kesintilerden etkilenme riski daha sınırlı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/turkiye/abdyi-yapay-zeka-mi-cokertiyor-3494989",
-      "publishedAt": "2026-11-18T19:31:40.000Z",
-      "category": "Teknoloji",
       "lang": "tr",
       "isBreaking": false
     }
