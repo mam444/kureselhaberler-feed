@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-23T14:26:15.069Z",
+  "generatedAt": "2026-11-23T14:33:06.302Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "headline": "Presidential villa suffers water and power cuts, Nigerian leader says",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1639774275491-71d62502a4e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8UHJlc2lkZW50aWFsJTIwdmlsbGElMjBzdWZmZXJzJTIwd2F0ZXIlMjBhbmQlMjBwb3dlciUyMGN1dHMlMkMlMjBOaWdlcmlhbiUyMGxlYWRlciUyMHNheXN8ZW58MXwwfHx8MTc5NTQ0NDI2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Francis Tokede",
+        "photographerUrl": "https://unsplash.com/@cosmascares",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-with-lots-of-houses-and-trees-IxRrPNNl-Xk"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-23T14:26:33.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/ekonomi/jensen-huang-nvidia-ya-geri-dondu-hisseler-yuzde-25-yukseldi-3929505",
+      "headline": "Jensen Huang Nvidia'ya geri döndü",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1662947683395-1ce33bdcd094?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SmVuc2VuJTIwSHVhbmclMjBOdmlkaWElMjd5YSUyMGdlcmklMjBkJUMzJUI2bmQlQzMlQkN8ZW58MXwwfHx8MTc5NTQ0NDMyOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo--ZS3S9a3jEQ"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "ABD'li çip üreticisi Nvidia, 12 gün önce görevinden istifa eden kurucu ortağı Jensen Huang'ı yeniden CEO olarak göreve getirdi. Yönetim kurulu, geçen hafta Huang'ı göreve geri getirmeyi düşünmediğini açıklamıştı",
+      "highlights": [],
+      "externalUrl": "https://www.haberturk.com/ekonomi/jensen-huang-nvidia-ya-geri-dondu-hisseler-yuzde-25-yukseldi-3929505",
+      "publishedAt": "2026-11-23T14:26:08.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/yasa-disi-bahis-ve-dolandiriciliga-gecit-yok-407-site-kapatildi-4875768",
       "headline": "Yasa dışı bahis ve dolandırıcılığa geçit yok: 407 site kapatıldı",
@@ -14,12 +54,17 @@
       },
       "timeAgo": "3 dk önce",
       "body": "Ankara İl Jandarma Komutanlığı ekiplerinin siber devriye faaliyetlerinde 793 sosyal medya ve URL adresi incelendi. Yasa dışı bahis, oltalama yoluyla dolandırıcılık ve müstehcen içerik barındırdığı belirlenen toplam 407 internet sitesine erişim engeli getirildi.",
-      "highlights": [],
+      "highlights": [
+        "16-22 Kasım tarihleri arasında 793 sosyal medya ve URL adresi incelendi.",
+        "Yasa dışı bahis, oltalama dolandırıcılığı ve müstehcen içerikli paylaşımlar yapan 407 site kapatıldı.",
+        "Kapatılan siteler Siber Güvenlik Başkanlığına bildirilerek erişime engellendi."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/yasa-disi-bahis-ve-dolandiriciliga-gecit-yok-407-site-kapatildi-4875768",
       "publishedAt": "2026-11-23T14:22:51.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T14:30:23.872Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/arts24/20261123-pamela-bring-a-little-light-to-darker-times-with-dancing-on-the-edge",
@@ -35,7 +80,8 @@
       "publishedAt": "2026-11-23T14:16:44.000Z",
       "category": "Kültür & Sanat",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T14:30:23.872Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/23/portishead-no-music-for-genocide-hareketine-katildi-israilde-muzigini-erisime-kapatti",
@@ -3044,7 +3090,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T18:44:21.544Z",
-      "imageSearchAttemptedAt": "2026-11-22T17:54:23.574Z"
+      "imageSearchAttemptedAt": "2026-11-23T14:30:23.872Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -14583,55 +14629,6 @@
       ],
       "externalUrl": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
       "publishedAt": "2026-11-18T18:26:17.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/magazin/sikayetci-oldular-julio-iglesiasa-cinsel-taciz-suclamasi-3494971",
-      "headline": "Julio Iglesias'a 'cinsel taciz' suçlaması: Şikayetçi oldular",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1676181739859-08330dea8999?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y291cnQlMjBnYXZlbHxlbnwxfDB8fHwxNzk1MDI2Mjc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Wesley Tingey",
-        "photographerUrl": "https://unsplash.com/@wesleyphotography",
-        "unsplashUrl": "https://unsplash.com/photos/a-wooden-judges-hammer-sitting-on-top-of-a-table-TdNLjGXVH3s"
-      },
-      "timeAgo": "şimdi",
-      "body": "Meşhur şarkılarla tanınan Julio İglesias hakkında iki eski çalışanı tarafından cinsel taciz, saldırı ve aşağılayıcı muamele suçlamalarıyla başvuru yapıldı. İspanya Ulusal Mahkemesi, iddialar üzerine yapılan başvuruyu kısmen kabul etti.\n\nİspanyol basınına yansıyan bilgilere göre, Ulusal Mahkeme Hakimi Antonio Pina, davanın kabul edilme gerekçesini açıkladı. Pina, davanın davacının tek bir ifadesine dayandığını ve bu ifadenin ceza soruşturmasının başlatılması için ilk bakışta delil teşkil edecek nitelikte olduğunu belirtti.\n\nSöz konusu dava, şarkıcı İglesias'ın Bahamalar ve Dominik Cumhuriyeti'ndeki evlerinde görev yapan iki kadın çalışanın suçlamalarını kapsıyor. 83 yaşındaki Julio İglesias'ı suçlayan kadınlar, daha önceki basına verdikleri demeçlerde sanatçıyı cinsel saldırı, tokatlama, taciz ve çalışanları sistematik olarak iş yerinde aşağılamakla suçlamıştı.\n\nMahkeme kaynaklarının aktardığı bilgilere göre, şikayetçi olan kadınların 3 Şubat 2027 tarihinde şahsen Ulusal Mahkemeye gelerek dava açma taleplerini onaylamaları gerekiyor. Konuyla ilgili yargı süreci devam ediyor.",
-      "highlights": [
-        "Julio Iglesias hakkında iki eski çalışanı cinsel taciz ve saldırı iddialarıyla suç duyurusunda bulundu.",
-        "İspanya Ulusal Mahkemesi, davayı kabul etme gerekçesini soruşturmayı haklı çıkaracak nitelikte ilk bakışta delil bulunmasıyla açıkladı.",
-        "Şikayetçi kadınların 3 Şubat 2027'de mahkemede ifade vermesi bekleniyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/magazin/sikayetci-oldular-julio-iglesiasa-cinsel-taciz-suclamasi-3494971",
-      "publishedAt": "2026-11-18T18:24:39.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T18:34:20.549Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-      "headline": "Ayrılık kampanyası yeniden canlandı, Burnham nasıl yanıt veriyor?",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1524871729950-c4e886edc1f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHJvdGVzdCUyMExvbmRvbnxlbnwxfDB8fHwxNzk1MDI2ODY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Y K",
-        "photographerUrl": "https://unsplash.com/@yokeboy",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-holding-banner-in-between-building-during-daytime-LpBRtSuMLkI"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Westminster'da pro-Brexit bir kampanyanın başlatılması haftanın sürprizlerinden biri olurken, argümanlar tanıdık bir kitaptan alındı. X platformunda hafta sonu yayınlanan videoda Fransa'daki olaylar, Brüksel'deki görüntüler ve İngiltere'nin nakit parasına ihtiyaç duyduğunu söyleyen Avrupa politikacıları yer aldı. Westminster'daki Brexit karşıtı deneyimliler arasında hemen bir karşı taarruza gerek olup olmadığına dair konuşmalar başladı.\n\nŞimdilik Stay Out adlı grubun iddialarına karşı yanıtlar, herhangi bir merkezî organizasyon olmaksızın sosyal medyadaki pro-rejoin serbest çalışanlar tarafından veriliyor. Stay Out'un iddiaları arasında AB'ye dönmenin haftalık 750 milyon sterline mal olacağı da bulunuyor. Bir milletvekili, hükümetin tam olarak hangi yöne gittiğini bilmeden yeni bir pro-rejoin kampanyası başlatmanın zor olduğunu ifade etti.\n\nNo 10 içindeki kesimler, Andy Burnham'ın dışarıdan herhangi bir baskı grubuna ihtiyaç duymadan Avrupa ile daha yakın bir ilişki için kendi argümanını ortaya koyabileceğinden emin. Eski baş Brexit müzakereci yardımcısı Oliver Lewis tarafından yürütülen Stay Out, \"statüko kampanyası\" olarak adlandırılacak. Stratejistler, fiyatları düşürmeye ve ekonomiyi büyütmeye yardımcı olması halinde seçmenlerin yüzde 71'inin Avrupa ile daha yakın bir ilişkiyi desteklediğini gösteren anketlere dikkat çekiyor.\n\nAncak bazı kişiler kampanyayı tamamen Burnham'a bırakma konusunda endişe duyuyor. Downing Street'ten bu işin yapılıp yapılamayacağı ve sahada insanlara karşı çıkacak bir altyapının henüz hazır olup olmadığı sorgulanıyor. AB yanlısı kampanyaların tekrar gündeme gelmesi durumunda geride kalma kaygısı da dile getiriliyor.\n\nRemain kampanyasında ve sonraki Halk Oylaması'nda görev yapan pek çok kişi, özellikle son aylardaki tartışmalar nedeniyle bu deneyimden çekiniyor. Benzer durum Stay Out'tan uzak durmak isteyen Vote Leave'in önde gelen isimleri için de geçerli. Pro-Avrupa kampanyalarını finanse etmek isteyecek fon sağlayanların her zaman bulunacağı ifade ediliyor.",
-      "highlights": [
-        "Pro-Brexit kampanyasının başlaması Westminster'da sürpriz yarattı.",
-        "Stay Out kampanyasının iddialarına karşı sosyal medyadaki serbest çalışanlar yanıt veriyor.",
-        "Anketler seçmenlerin yüzde 71'inin Avrupa ile daha yakın bir ilişkiyi desteklediğini gösteriyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
-      "publishedAt": "2026-11-18T18:23:25.000Z",
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
