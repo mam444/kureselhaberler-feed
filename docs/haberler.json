@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-23T14:07:21.878Z",
+  "generatedAt": "2026-11-23T14:17:32.133Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/23/portishead-no-music-for-genocide-hareketine-katildi-israilde-muzigini-erisime-kapatti",
+      "headline": "Portishead, 'No Music For Genocide' hareketine katıldı: İsrail'de müziğini erişime kapattı",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "6 dk önce",
+      "body": "İkonik trip-hop grubu Portishead, sanatçıları ve hak sahiplerini İsrail'deki yayın platformlarından müziklerini çekmeye çağıran kültürel boykot girişimi 'No Music For Genocide' kampanyasına katıldı.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/23/portishead-no-music-for-genocide-hareketine-katildi-israilde-muzigini-erisime-kapatti",
+      "publishedAt": "2026-11-23T14:11:10.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
       "headline": "Ukrayna'dan Rusya'ya Mesaj: \"İstediğimiz Yerde Size Saldırabiliriz\"",
@@ -15,15 +31,16 @@
       "timeAgo": "3 dk önce",
       "body": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Pazartesi günü yaptığı açıklamada, Libya'daki bir limanda demirli bulunan bir Rus savaş gemisine saldırı düzenlendiğini bildirdi.\n\nZelenskiy, bir önceki gün gerçekleştirilen sürpriz saldırıda deniz dronlarının Rus donanma gemisini batırdığını öne sürdü.\n\nFrance 24'ten James Andre'ye göre, Kiev'in bu saldırıyı gerçekleştirilmesi ve sorumluluğu üstlenmesi, Rusya'ya \"istediğimiz yerde size saldırabiliriz\" mesajını veriyor.",
       "highlights": [
-        "Ukrayna, Libya limanında demirli bir Rus savaş gemisini hedef aldı",
-        "Zelenskiy, deniz dronlarının gemiyi batırdığını belirtti",
-        "Saldırıyla Rusya'ya \"istediğimiz yerde saldırabiliriz\" mesajı veriliyor"
+        "Zelenskiy, Libya'daki bir limanda demirli Rus savaş gemisinin vurulduğunu açıkladı.",
+        "Saldırının deniz dronları kullanılarak gerçekleştirildiği iddia edildi.",
+        "Kyiv'in saldırıyı üstlenmesiyle Rusya'ya mesaj verildiği belirtildi."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
       "publishedAt": "2026-11-23T14:04:23.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T14:14:27.513Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/23/irandan-abdnin-hurmuz-ablukasina-tepki-her-yolu-kullanacagiz",
@@ -662,7 +679,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T12:34:23.905Z"
+      "sourceTextAttemptedAt": "2026-11-23T14:14:27.513Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/17-yasindaki-kardelenin-hayatini-kaybettigi-olayda-kamera-goruntuleri-ortaya-cikti-7705653",
@@ -2226,7 +2243,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T06:34:26.907Z",
-      "imageSearchAttemptedAt": "2026-11-22T18:54:25.550Z"
+      "imageSearchAttemptedAt": "2026-11-23T14:14:27.513Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
@@ -2307,8 +2324,12 @@
       "headline": "Berlin Sanat Kompleksindeki Askeri Yapay Zeka Etkinliği Tepki Çekti",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1559564484-e48b3e040ff4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QmVybGluJTIwU2FuYXQlMjBLb21wbGVrc2luZGVraSUyMEFza2VyaSUyMFlhcGF5JTIwWmVrYSUyMEV0a2lubGklQzQlOUZpJTIwVGVwa2klMjAlQzMlODdla3RpfGVufDF8MHx8fDE3OTU0NDM0NTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Marius Serban",
+        "photographerUrl": "https://unsplash.com/@twistlemon",
+        "unsplashUrl": "https://unsplash.com/photos/beige-concrete-structure-iFtuhgn7fYs"
+      },
       "timeAgo": "1 sa önce",
       "body": "Berlin'deki Kraftwerk Berlin sanat kompleksinde gerçekleştirilen askeri yapay zeka etkinliği, kent müzik sahnesinde büyük bir öfkeye yol açtı. Berlin Security Conference kapsamında, Alman silah girişimi Helsing'in yapay zeka hedefleme sistemi Clarity'nin tanıtıldığı etkinlikte kompleksin ana salonu savaş odasına dönüştürüldü. Ziyaretçiler duvara yansıtılan haritalar, tavana asılan dronlar ve çelik yelekli, iz sürme köpekleriyle devriye gezen güvenlik görevlileriyle karşılaştı. Atonal müzik festivaline ev sahipliği yapan ve Tresor kulübüyle aynı komplekste bulunan mekan, etkinliğin ardından özür diledi.\n\nKraftwerk Berlin, yaşanan tepkiler üzerine kiralama departmanının rezervasyon politikasını gözden geçireceğini duyurarak durumu ciddi bir muhakeme hatası olarak nitelendirdi. Münih merkezli Helsing, kurucuları arasında Spotify'ın kurucu ortağı Daniel Ek'in de bulunduğu bir şirket olarak biliniyor. Şirket, Clarity platformunun drone, uydu ve sensör verilerini kullanarak hedeflere kilitlenen bir ajan istihbarat sistemi olduğunu belirtiyor. Helsing sözcüsü, sistemin kişileri belirlemek üzere tasarlanmadığını ve radar sistemleri, fırlatma rampaları ile gemiler gibi nesneleri aramak üzere geliştirildiğini savundu.\n\nYaşanan olay, Berlin'in ünlü gece hayatının ticari kullanımı ile kültür sektörünün geleneksel pasifizmi arasındaki gerilimleri gözler önüne serdi. 1990'larda Berlin ile Detroit elektronik müzik sahnesi arasında köprü kuran Tresor gece kulübü ve plak şirketi, etkinliği en sert şekilde kınayarak topluluklarının inşa ettiği mekanlarda buna yer olmadığını belirtti. Kraftwerk Berlin'in yöneticisi Dietmar-Maria Dimitri Hegemann, rezervasyonun kendisine danışılmadan ticari kiralama birimindeki bir personel tarafından yapıldığını ve bunun kabul edilemez olduğunu ifade etti.\n\nSavunucular Berlin'deki birçok kulübün artan kiralar ve düşen bütçelerle mücadele ettiğine dikkat çekerken, bu durum ticari kiralamaları norm haline getirdi. Daha önce de benzer ticari etkinliklere ev sahipliği yapan mekanda, Ekim ayında Alman hükümeti tarafından düzenlenen bir yatırım zirvesi gerçekleşmişti. Buna karşın, Clarity lansmanına gösterilen tepki, Avrupa'daki güvenlik tehditleri ve silah endüstrisinin yükselişi ile bölgenin anti-militarist kültürel konsensüsü arasındaki çatışmayı yeniden tartışmaya açtı.",
       "highlights": [
@@ -2321,7 +2342,7 @@
       "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T17:54:23.574Z",
+      "imageSearchAttemptedAt": "2026-11-23T14:14:27.513Z",
       "sourceTextAttemptedAt": "2026-11-22T07:14:20.426Z"
     },
     {
@@ -14619,31 +14640,6 @@
       "publishedAt": "2026-11-18T18:17:34.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-      "headline": "Karl Kani Kendi Hikayesini Anlatıyor",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmFzaGlvbiUyMGRlc2lnbmVyfGVufDF8MHx8fDE3OTUwMjg3NTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alyssa Strohmann",
-        "photographerUrl": "https://unsplash.com/@anotherlovely",
-        "unsplashUrl": "https://unsplash.com/photos/hanged-top-on-brown-and-white-clothes-horse-TS--uNw-JqE"
-      },
-      "timeAgo": "50 dk önce",
-      "body": "Moda tasarımcısı Karl Kani, NPR'ın Morning Edition programına konuk olarak yeni anı kitabından bahsetti. Programda, hip-hop dünyasının en büyük yıldızlarından bazılarını nasıl giydirdiğini anlatan Kani, aynı zamanda dar paça kot pantolonların herkes için uygun olmadığını dile getirdi.\n\nOn yıllar boyunca hip-hop müziğin önde gelen isimlerine kıyafetler tasarlayan Kani, bu süreçte edindiği deneyimleri kaleme aldığı yeni kitabıyla kendi hikayesini okuyucularla buluşturuyor.",
-      "highlights": [
-        "Karl Kani yeni anı kitabından bahsetti",
-        "Hip-hop'ın en büyük yıldızlarını giydirdi",
-        "Dar paça kotların herkes için olmadığını söyledi"
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design",
-      "publishedAt": "2026-11-18T18:15:59.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-18T19:14:17.603Z",
       "isBreaking": false
     }
   ],
