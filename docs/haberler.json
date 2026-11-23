@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-23T19:34:41.627Z",
+  "generatedAt": "2026-11-23T19:44:30.003Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/nigdede-apartman-dairesinde-yangin-cikti-hasar-olustu-4875829",
+      "headline": "Niğde'de apartman dairesinde yangın çıktı: Sakinler tahliye edildi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Niğde'de Kale Mahallesi'ndeki 4 katlı bir apartmanın 3. katında bulunan dairede henüz belirlenemeyen nedenle yangın çıktı. Apartman sakinleri itfaiye ekiplerince tahliye edilirken, yangın dairede hasara neden oldu.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/nigdede-apartman-dairesinde-yangin-cikti-hasar-olustu-4875829",
+      "publishedAt": "2026-11-23T19:42:57.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3497119",
       "headline": "SON DAKİKA HABERİ: Borsa günü düşüşle tamamladı",
@@ -14484,31 +14500,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:25:36.163Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
-      "headline": "Nükleer silahlar Shenzhen üçlü görüşmesinin merkezinde",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1720348463004-f537593fa8b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bnVjbGVhciUyMHdlYXBvbnN8ZW58MXwwfHx8MTc5NTA3Nzg2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Stephen Cobb",
-        "photographerUrl": "https://unsplash.com/@chuffed",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-metal-object-inside-of-a-building-lxKEtKifAjw"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Nükleer silahlar, Pekin'deki üçlü zirvede ABD Başkanı Donald Trump'ın gündeminin ilk sırasında yer alıyor. Habere göre ABD başkanı, Amerika Birleşik Devletleri, Rusya ve Çin'in nükleer cephaneliklerini azaltmasını istiyor. FRANCE 24 muhabiri Philip Turle, Trump'ın bu konuda üçlü bir anlaşma için güçlü bir baskı yapmasını bekliyor.\n\nGörüşmelerde İran da kilit bir rol oynuyor. Üç lider, İran rejiminin nükleer silah elde etmesini engelleme konusunda ortak bir çıkar paylaşıyor. \n\nBölgesel çatışmalar ile petrol fiyatları da zirvenin merkezi konuları arasında bulunuyor. Zirveye ilişkin detaylar ve beklentiler bu başlıklar etrafında şekilleniyor.",
-      "highlights": [
-        "Nükleer silahlar Donald Trump'ın gündeminin ilk sırasında yer alıyor",
-        "Üç lider İran'ın nükleer silah edinmesini engellemek istiyor",
-        "Bölgesel çatışmalar ve petrol fiyatları merkezi konular arasında"
-      ],
-      "externalUrl": "https://www.france24.com/en/nuclear-arms-at-the-center-of-the-schenzhen-trilateral-meeting",
-      "publishedAt": "2026-11-19T08:36:29.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:34:37.315Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14725,6 +14716,7 @@
     "https://www.aljazeera.com/opinions/2026/11/22/the-european-revolt-may-be-coming-to-the-uk?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
     "https://www.yenisafak.com/gundem/istanbul-valiliginden-firtina-ve-kuvvetli-saganak-uyarisi-4875445",
-    "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss"
   ]
 }
