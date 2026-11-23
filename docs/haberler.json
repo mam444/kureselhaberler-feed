@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-23T17:56:30.791Z",
+  "generatedAt": "2026-11-23T18:09:16.675Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/hafizanin-139uncu-bolumu-yayinda-turkistani-bolerek-turk-kimligini-silmeye-calistilar-4875813",
+      "headline": "Hafıza'nın 139'uncu bölümü yayında: Türkistan’ı bölerek Türk kimliğini silmeye çalıştılar",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1597092451116-27787c07901d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aGlzdG9yeSUyMGFyY2hpdmV8ZW58MXwwfHx8MTc5NTQ1NzE1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "C M",
+        "photographerUrl": "https://unsplash.com/@ubahnverleih",
+        "unsplashUrl": "https://unsplash.com/photos/books-in-shelves-in-room-X_j3b4rqnlk"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Yeni Şafak'ın Hafıza Büyük Resim serisinin 139'uncu bölümü izleyicilerle buluştu. Gazeteci Ersin Çelik ile Stratejist İbrahim Ufuk Kaynak'ın konuk olduğu yeni bölümde, Çarlık Rusyası'ndan Sovyetler Birliği dönemine kadar uzanan süreçte Türk ve Müslüman coğrafyasına yönelik sistematik zulüm ile asimilasyon politikaları ele alındı.\n\nProgramda, Türkistan kelimesinin yasaklanma gerekçeleri ile Türklerin birbirlerinden uzaklaştırılıp Türkiye'den koparılmasını hedefleyen böl, parçala ve yönet taktikleri tüm boyutlarıyla masaya yatırıldı. Çelik ve Kaynak, farklı dil, bayrak ve tarih dayatmalarının yanı sıra Stalin dönemindeki Ruslaştırma politikalarını ve Türk kimliğini ortadan kaldırmayı amaçlayan tarihi mühendislik planlarını deşifre etti.\n\nBölümde ayrıca İngiliz ile Rus güçlerinin gittikleri bölgelerde karşılaştıkları Türk varlığını dağıtma çabaları ve bu coğrafyaların yaşadığı derin tarihsel kırılmalar da detaylıca değerlendirildi.",
+      "highlights": [
+        "Hafıza Büyük Resim'in 139'uncu bölümünde Türkistan'daki asimilasyon politikaları ele alındı.",
+        "Stalin'in Ruslaştırma politikaları ve Türk kimliğini silme planları masaya yatırıldı.",
+        "İngiliz ve Rusların Türk varlığını dağıtma çabaları değerlendirildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/hafizanin-139uncu-bolumu-yayinda-turkistani-bolerek-turk-kimligini-silmeye-calistilar-4875813",
+      "publishedAt": "2026-11-23T18:00:13.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
       "headline": "'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign",
@@ -35,7 +59,8 @@
       "publishedAt": "2026-11-23T17:52:22.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-23T18:04:34.117Z"
     },
     {
       "id": "https://www.cnnturk.com/yerel-haberler/izmir/trafikte-motosikletle-akrobatik-hareketler-yapan-aday-surucunun-ehliyeti-iptal-edildi-3497092",
@@ -61,6 +86,22 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:54:28.323Z"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/drone-attack-colombian-police-base-injures-civilians-damages-138381975",
+      "headline": "Drone attack on Colombian police base injures civilians and damages homes",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "17 dk önce",
+      "body": "Explosive-laden drones have struck a police base in C&uacute;cuta, Colombia, injuring two civilians and damaging 60 homes",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/drone-attack-colombian-police-base-injures-civilians-damages-138381975",
+      "publishedAt": "2026-11-23T17:47:53.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
@@ -14513,56 +14554,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T07:24:29.769Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-      "headline": "ABD'nin İran limanları ablukasının etkisi için erken",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1656436075877-a20103919f4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXJhbiUyMGJsb2NrYWRlfGVufDF8MHx8fDE3OTUwNzMwNjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Akbar Nemati",
-        "photographerUrl": "https://unsplash.com/@akbarnemati",
-        "unsplashUrl": "https://unsplash.com/photos/flag-of-iran-waving-WKIkjULHGm0"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "ABD'nin İran limanlarına uyguladığı ablukanın ülke ekonomisi üzerinde sarsıcı bir etkisi olduğu bildiriliyor. Ancak Tahran yönetimi, ekonomisinin bu ablukaya karşı ayakta kalabileceği konusunda ısrarcı bir tutum sergiliyor.\n\nWashington'un hamlesinin ekonomide yarattığı baskı dikkat çekerken, Tahran'dan gelen açıklamalarda ülkenin bu sürece dayanabileceği savunuluyor. Bununla birlikte, ablukanın nihai etkilerini net olarak belirlemek için henüz erken olduğu ifade ediliyor.\n\nİran'ın kararlı duruşu sürerken, taraflar arasındaki ekonomik baskı ve dayanıklılık tartışmaları devam ediyor. Mevcut durumda, yaptırımların ve ablukanın uzun vadeli sonuçlarına dair kesin bir değerlendirme yapmak için erken olduğu kaydediliyor.",
-      "highlights": [
-        "US blockade of Iranian ports has a crippling effect on economy",
-        "Tehran insists its economy can survive",
-        "Too early to determine impact"
-      ],
-      "externalUrl": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-      "publishedAt": "2026-11-19T07:08:57.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T07:54:27.154Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/basketbol/dusan-alimpijevic-besiktas-bugun-real-madridi-yendi-3495129",
-      "headline": "Dusan Alimpijevic: Beşiktaş bugün Real Madrid'i yendi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1505666287802-931dc83948e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YmFza2V0YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTUwNzE5MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Max Winkler",
-        "photographerUrl": "https://unsplash.com/@maxwinkler",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-basketball-players-UFIZodJgScQ"
-      },
-      "timeAgo": "şimdi",
-      "body": "Basketbol Avrupa Ligi'nin 12. haftasında Beşiktaş Fuzul, sahasında konuk ettiği İspanya temsilcisi Real Madrid'i 83-79 mağlup etti. Turkcell Basketbol Gelişim Merkezi'nde oynanan mücadelenin ardından Beşiktaş Başantrenörü Dusan Alimpijevic, tarihi bir galibiyete imza attıklarını belirtti. Çok mutlu olduğunu ifade eden Sırp başantrenör, Real Madrid gibi güçlü bir ekibe karşı takımının en iyi ve en güçlü basketbolunu oynadığını, oyuncuların fantastik bir performans sergileyerek muazzam bir efor sarf ettiğini vurguladı.\n\nAlimpijevic, taraftarların oluşturduğu inanılmaz atmosfere dikkat çekerek onlara teşekkür etti ve Avrupa basketboluna güzel bir görüntü sunulduğunu dile getirdi. Real Madrid'in Avrupa Ligi'nin en iyi hücum takımı olduğunun altını çizen Alimpijevic, rakibi 7 üçlük isabetinde tutarak harika bir iş yaptıklarını ve tarihe tanıklık ettiklerini kaydetti.\n\nKarşılaşmanın ardından açıklamalarda bulunan Real Madrid Başantrenörü Pedro Martinez ise Beşiktaş'ın karşılaşmada çok iyi bir enerji ortaya koyduğunu ifade etti. Siyah-beyazlıları tebrik eden Martinez, müthiş bir savunma yapıldığını, topu paylaşmakta ve tempo bulmakta zorlandıklarını belirterek Beşiktaş'ın kendilerinden daha iyi oynadığını ve galibiyeti hak ettiğini belirtti.",
-      "highlights": [
-        "Beşiktaş Fuzul, Avrupa Ligi'nin 12. haftasında Real Madrid'i 83-79 mağlup etti.",
-        "Beşiktaş Başantrenörü Dusan Alimpijevic, Real Madrid karşısında tarihi bir galibiyet aldıklarını söyledi.",
-        "Real Madrid Başantrenörü Pedro Martinez, Beşiktaş'ın daha iyi oynadığını ve galibiyeti hak ettiğini belirtti."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/basketbol/dusan-alimpijevic-besiktas-bugun-real-madridi-yendi-3495129",
-      "publishedAt": "2026-11-19T07:07:23.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T07:14:22.454Z",
       "isBreaking": false
     }
   ],
