@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-23T19:24:39.423Z",
+  "generatedAt": "2026-11-23T19:34:41.627Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3497119",
+      "headline": "SON DAKİKA HABERİ: Borsa günü düşüşle tamamladı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1648098893250-1d03dce92467?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U09OJTIwREFLJUM0JUIwS0ElMjBIQUJFUiVDNCVCMCUzQSUyMEJvcnNhJTIwZyVDMyVCQ24lQzMlQkMlMjBkJUMzJUJDJUM1JTlGJUMzJUJDJUM1JTlGbGUlMjB0YW1hbWxhZCVDNCVCMXxlbnwxfDB8fHwxNzk1NDYyNDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tyler Prahm",
+        "photographerUrl": "https://unsplash.com/@tprahm",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-clock-with-numbers-on-it-AWI17F-ocGM"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Son dakika haberine göre; Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,24 değer kaybederek 11.104,38 puandan tamamladı.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3497119",
+      "publishedAt": "2026-11-23T19:33:01.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor-3497117",
       "headline": "AB, Rusya'ya yeni yaptırımlara hazırlanıyor",
@@ -14,6 +34,31 @@
       "externalUrl": "https://www.cnnturk.com/dunya/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor-3497117",
       "publishedAt": "2026-11-23T19:26:27.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-23T19:34:23.185Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+      "headline": "Rusya'dan Estonya'ya 'Açık Savaş' Tehdidi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1628934483549-e7d7adadd81c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8UnVzc2lhJTIwdGhyZWF0ZW5zJTIwJUUyJTgwJTk4aG9zdGlsZSVFMiU4MCU5OSUyMEVzdG9uaWElMjB3aXRoJTIwJUUyJTgwJTk4b3BlbiUyMHdhciVFMiU4MCU5OXxlbnwxfDB8fHwxNzk1NDYyNDY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sergey Mind",
+        "photographerUrl": "https://unsplash.com/@miseriv",
+        "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-green-trees-and-river-during-daytime-eOhYPSAwSt8"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Moskova yönetimi, Tallinn'i sınır kapatma gibi eylemler nedeniyle suçlayarak bu adımları \"düşmanca eylemler\" olarak nitelendirdi. Moskova ayrıca Estonya'nın, Ukrayna'nın saldırı başlatmasına izin verdiğini öne sürdü. Bu iddialar ve suçlamalar doğrultusunda Rusya, Estonya'ya yönelik \"açık savaş\" tehdidinde bulundu. Kaynaklarda yer alan bilgilere göre taraflar arasındaki gerilim bu suçlamalarla birlikte tırmandı.",
+      "highlights": [
+        "Moskova, Tallinn'i 'düşmanca eylemler' ile suçladı",
+        "Estonya'nın sınır kapattığı ve Ukrayna'nın saldırılarına izin verdiği öne sürüldü",
+        "Rusya, Estonya'yı 'açık savaş' ile tehdit etti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+      "publishedAt": "2026-11-23T19:20:30.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -421,7 +466,8 @@
       "publishedAt": "2026-11-23T17:36:17.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T19:34:23.185Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
@@ -14462,53 +14508,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:34:37.315Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/son-dakika-bddk-eski-baskani-sahap-kavciogluna-yurt-disi-cikis-yasagi-1751584",
-      "headline": "Son dakika... BDDK eski Başkanı Şahap Kavcıoğlu'na yurt dışı çıkış yasağı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "2 dk önce",
-      "body": "Savcılığın soruşturma izni istediği eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildi. Eski Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu hakkında yeni bir karar verildi. İstanbul Cumhuriyet Başsavcılığı'nın fon kriziyle ilgili dosya kapsamında soruşturma izni istediği Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildi. Savcılığın Kavcıoğlu ve dört kişi hakkındaki…",
-      "highlights": [
-        "Eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışı çıkış yasağı getirildi.",
-        "Başsavcılığın yazısında rüşvet iddiası yer alırken haksız menfaat sağlandığı öne sürüldü.",
-        "Eski BDDK Başkan Yardımcısı Muhammed Erişen, Bilal Soysal ve Mustafa Alper Taş iki hafta önce tutuklandı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/son-dakika-bddk-eski-baskani-sahap-kavciogluna-yurt-disi-cikis-yasagi-1751584",
-      "publishedAt": "2026-11-19T08:32:18.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T08:43:40.229Z",
-      "imageSearchAttemptedAt": "2026-11-23T16:34:27.462Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-      "headline": "Trump, Xi ve Putin Çin'in Shenzhen kentinde tarihi üçlü zirve için bir araya geldi",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1634647626782-f5fffa9fd9b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2hlbnpoZW4lMjBzdW1taXR8ZW58MXwwfHx8MTc5NTA3NzgzNnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ダモ リ",
-        "photographerUrl": "https://unsplash.com/@darmau",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-a-city-in-the-background-5-k1_mBljB0"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Rusya Devlet Başkanı Vladimir Putin, Çin Devlet Başkanı Xi Jinping ve ABD Başkanı Donald Trump, Çin'in Shenzhen kentinde düzenlenen APEC zirvesi marjında tarihi üçlü görüşmelere başladı. Pekin yönetimi toplantının \"dünya barışını korumayı\" amaçlayacağını belirtirken, bu durum kürenin \"etki alanlarına\" bölünmesi yönündeki endişeleri artırdı. Liderlerin görüşmesi, 1945 yılındaki Yalta Zirvesi'ne benzetiliyor.\n\nÜç lider de zirveye tamamen farklı ajandalarla yaklaşıyor. ABD Başkanı Donald Trump, zirve öncesinde yaptığı açıklamada Ukrayna'daki savaşı sona erdirme konusunu tartışmayı planladığını ifade etti. Ayrıca Trump, Pekin'de mayıs ayında oluşturulan Ticaret Kurulu'nun ABD-Çin ilişkilerinde denge sağladığını belirtti. Diğer taraftan Trump, yapay zekanın hiçbir biçimde \"güçlü bir şekilde düzenlenmesine\" karşı olduklarını da vurguladı.\n\nÇin Devlet Başkanı Xi Jinping, Shenzhen'deki APEC zirvesinde Asya-Pasifik topluluğu oluşturulmasının açıklığa ve entegrasyona bağlı olduğunu belirterek açık iş birliği çağrısı yaptı. Rusya Devlet Başkanı Vladimir Putin ise Rusya'nın Asya-Pasifik bölgesinin ayrılmaz bir parçası olduğunu ve bölgenin ekonomik refahına önemli katkı sağladığını dile getirdi. \n\nUzmanlar, Kylin Villa'da gerçekleştirilen bu sıkı bir şekilde planlanmış üçlü zirvenin somut sonuçlardan ziyade sembolik ağırlıklı olmasını bekliyor. Öte yandan bu benzeri görülmemiş diplomatik buluşma, çıkarlarının göz ardı edilmesinden korkan daha küçük ülkeleri huzursuz ediyor. Zirve öncesinde Trump ve Putin ayrıca ikili bir görüşme gerçekleştirdi.",
-      "highlights": [
-        "Putin, Shenzhen'deki APEC zirvesi marjında düzenlenen üçlü toplantı için Perşembe günü geldi.",
-        "Zirvede Putin, Xi Jinping ve Donald Trump bir araya geliyor.",
-        "Pekin yönetimi görüşmenin dünya barışını korumayı amaçladığını belirtti."
-      ],
-      "externalUrl": "https://www.france24.com/en/asia-pacific/20261119-xi-trump-putin-talks-live-china-us-russia-leaders-hold-landmark-three-way-meeting",
-      "publishedAt": "2026-11-19T08:30:40.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-19T08:43:40.229Z",
       "isBreaking": false
     }
   ],
