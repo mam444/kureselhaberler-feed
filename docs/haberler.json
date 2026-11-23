@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-23T20:05:30.171Z",
+  "generatedAt": "2026-11-23T20:14:37.125Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/kahramanmarasta-yatalak-hasta-esinin-cesediyle-3-gun-yasadi-4875832",
+      "headline": "Kahramanmaraş'ta acı olay: Yatalak hasta eşinin cansız bedeniyle üç gün yaşadı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Kahramanmaraş’ta komşuların kötü kokular üzerine ihbarıyla girilen evde 78 yaşındaki Sultan Kaplan’ın cansız bedeni bulundu. Yaşlı kadının 3 gün önce hayatını kaybettiği belirlenirken, yatalak ve demans hastası eşi Hüseyin Kaplan’ın sesini duyuramadığı için eşinin cansız bedeniyle 3 gün boyunca aynı evde kaldığı ortaya çıktı. Hastaneye kaldırılan yaşlı adamın sağlık durumuna ilişkin bilgi verilmedi.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/kahramanmarasta-yatalak-hasta-esinin-cesediyle-3-gun-yasadi-4875832",
+      "publishedAt": "2026-11-23T20:13:00.000Z",
+      "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+      "headline": "Protesting Bangladesh garment workers reject pay offer",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1722871514484-0dc5ef084ecc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8UHJvdGVzdGluZyUyMEJhbmdsYWRlc2glMjBnYXJtZW50JTIwd29ya2VycyUyMHJlamVjdCUyMHBheSUyMG9mZmVyfGVufDF8MHx8fDE3OTU0NjQ4NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bornil Amin",
+        "photographerUrl": "https://unsplash.com/@bornil",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-car-holding-a-flag-avXuXps6rfs"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+      "publishedAt": "2026-11-23T20:03:48.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/istanbulu-sarsan-aslanla-ilgili-kritik-uyarilar-karsiniza-cikarsa-ne-yapmalisiniz-3497121",
       "headline": "İstanbul'u sarsan aslanla ilgili kritik uyarılar!Karşınıza çıkarsa ne yapmalısınız?",
@@ -2346,7 +2382,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T11:34:18.648Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:06:20.268Z"
+      "imageSearchAttemptedAt": "2026-11-23T20:14:33.661Z"
     },
     {
       "id": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
@@ -3057,7 +3093,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T09:14:24.856Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:06:20.268Z"
+      "imageSearchAttemptedAt": "2026-11-23T20:14:33.661Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
@@ -14441,52 +14477,6 @@
       "publishedAt": "2026-11-19T09:21:54.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders",
-      "headline": "BAE, Siparişleri Düzenlemek İçin Merkez Ofis ve Hava Biriminde 1.070 Kişiyi İşten Çıkaracak",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1551796880-ddd03f861ae7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmlnaHRlciUyMGpldHxlbnwxfDB8fHwxNzk1MDgwODczfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Terence Burke",
-        "photographerUrl": "https://unsplash.com/@ancientwanderer",
-        "unsplashUrl": "https://unsplash.com/photos/flying-gray-jet-plane-ugJ5DkR8S_o"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "İngiltere'nin en büyük savunma yüklenicisi BAE Systems, merkez ofisi ve hava biriminde 1.070 kişiyi işten çıkarma planlarını açıkladı. Bu hamle, kritik yeteneklerin daha hızlı ve verimli bir şekilde müşterilere ulaştırılması talebiyle yapılıyor. İşten çıkarmaların gönüllü ayrılıklar yoluyla gerçekleştirileceği, üretim sahasında, RAF üslerindeki uçak bakımında ve kariyerinin başındaki stajyerlerde ise uygulanmayacağı belirtildi. Bir BAE sözcüsü, bu adımların çevikliği ve rekabet gücünü artırmaya yönelik devam eden sürecin bir sonraki aşaması olduğunu ifade etti.\n\nİşten çıkarmaların maliyet kesintisinden ziyade Eurofighter Typhoon savaş uçağı programındaki belirsizlikle bağlantılı olduğu öne sürüldü. BAE, geçen yıl Türkiye'ye 20 adet Typhoon savaş uçağı tedarikini içeren 8 milyar sterlinlik sözleşmenin bir parçası olmuştu. Ancak bu siparişin Lancashire fabrikalarındaki çalışmayı sadece iki yıl destekleyeceği ve gelecekteki yeni nesil savaş uçağı üretimi başlayana kadar istihdamı sürdürmeye yetmeyeceği düşünülüyor. Şirket, İtalya ve Japonya ile ortaklıkta altıncı nesil Tempest savaş uçağının üretimine liderlik edecek.\n\nUnite sendikasının genel sekreteri Sharon Graham, hükümetin kritik kararlar almaması durumunda İngiltere'de imalat sanayi kalmayacağı konusunda uyarıda bulundu. Graham ve Lancashire milletvekili Andrew Snowden, hükümetin İngiltere yapımı Typhoon'lar ve Collaborative Combat Aircraft (CCA) için derhal sipariş vermesini talep etti. Öte yandan bir Savunma Bakanlığı sözcüsü, hükümetin soğuk savaştan bu yana savunma harcamalarındaki en büyük artışı gerçekleştirdiğini, bu kapsamda BAE'ye Global Combat Air Programme geliştirmelerine liderlik etmesi için 708 milyon sterlinlik sözleşme uzatılması verildiğini ve Türkiye'ye yönelik 8 milyar sterlinlik sözleşmenin desteklendiğini belirtti.",
-      "highlights": [
-        "BAE Systems, merkez ofisi ve hava biriminde 1.070 çalışanı işten planlıyor.",
-        "İşten çıkarmaların gönüllü olarak yapılacağı ve atölye çalışanlarını etkilemeyeceği belirtildi.",
-        "Sendika ve milletvekilleri, hükümete İngiltere yapımı uçaklar için yeni siparişler verme çağrısında bulundu."
-      ],
-      "externalUrl": "https://www.theguardian.com/business/2026/nov/19/bae-to-slash-1000-jobs-across-head-office-and-air-business-to-streamline-orders",
-      "publishedAt": "2026-11-19T09:19:05.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-      "headline": "Badenoch engelli yardımlarının kesilmesi tartışmalarında savunma yaptı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "15 dk önce",
-      "body": "Kemi Badenoch, katıldığı bir medya yayınında engelli yardımlarının kesilmesi konusuna değindi. Yapılan eleştiriler arasında, başbakanın Badenoch'tan çift ampute sporcuların maraton koştuğu gerekçesiyle yardımların azaltılması yönündeki önerisini geri çekmesini istediği bilgisi yer aldı. Badenoch ise bu yaklaşımın bir umut mesajı olduğunu savundu.\n\nBadenoch, önemli sorunları olan kişilerin dahi çalışabileceği durumlarda, dikkat eksikliği hiperaktivite bozukluğu (ADHD) ve hafif düzeyde kaygı yaşayan kişilerin de çalışmaya teşvik edilmesi gerektiğini ifade etti. Bu görüşlerin insanlarda farklı tepkilere yol açabileceğini ve herkesin aynı fikirde olmayabileceğini belirtti.\n\nAyrıca açıklamalarında uluslararası ilişkilere de değinen Badenoch, Donald Trump, Şi Cinping ve Vladimir Putin'in gerçekleştirdiği tarihi görüşmeyi rahatsız edici olarak nitelendirdi. Bu liderlerin dünyayı kendi aralarında paylaşmaya çalıştığı izlenimini uyandırdığını belirten Badenoch, üç kutuplu bir dünya düzeninde Şi'nin Asya'yı, Amerika'nın batı yarımküreyi ve Rusya'nın Avrupa'yı almasının çok kaygı verici olduğunu dile getirdi.\n\nDonald Trump'ın Putin'i dostu olarak adlandırmasını endişe verici bulduğunu belirten Badenoch, Rusya'nın Amerika'nın dostu olmadığını vurguladı. Ukrayna savaşının gidişatından duyulan endişelere de işaret eden siyasetçi, ülkesinin Ukrayna'nın yanında kararlılıkla durmaya devam etmesi gerektiğini ve hükümetin bu politikayı sürdüreceğini kaydetti. Çatışmanın başlangıcından bu yana parlamentonun tüm kanatlarının bu konuda ortak bir duruş sergilediğini belirterek bu durumun takdire şayan olduğunu ifade etti.",
-      "highlights": [
-        "Badenoch, engelli yardımlarının kesilmesi tartışmalarına ve yöneltilen eleştirilere yanıt verdi.",
-        "Donald Trump, Şi Cinping ve Vladimir Putin'in tarihi görüşmesini rahatsız edici bulduğunu belirtti.",
-        "Ülkesinin Ukrayna'nın yanında kararlılıkla durmaya devam etmesi gerektiğini vurguladı."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
-      "publishedAt": "2026-11-19T09:10:03.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T16:24:31.229Z",
-      "sourceTextAttemptedAt": "2026-11-19T09:34:30.884Z",
       "isBreaking": false
     }
   ],
