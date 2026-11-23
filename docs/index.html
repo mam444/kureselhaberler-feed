@@ -225,7 +225,8 @@
     display: flex; align-items: center; gap: 10px;
     font-family: 'Plus Jakarta Sans', sans-serif;
     font-weight: 900; font-size: 22px; letter-spacing: -0.6px;
-    white-space: nowrap; cursor: pointer;
+    white-space: nowrap; cursor: pointer; color: inherit; text-align: left;
+    border: 0; padding: 0; background: transparent; font: inherit;
   }
   .logo-icon {
     width: 42px; height: 42px; flex-shrink: 0; object-fit: contain;
@@ -239,6 +240,7 @@
     width: 34px; height: 34px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.18);
     background: rgba(255,255,255,0.08); color: #fff; display: flex; align-items: center; justify-content: center;
     cursor: pointer; flex-shrink: 0; transition: background .2s, transform .3s; position: relative;
+    padding: 0; font: inherit;
   }
   .icon-btn-header:hover { background: rgba(255,255,255,0.18); }
   .theme-toggle .msr { transition: transform .4s ease; }
@@ -254,7 +256,7 @@
     font-size: 11px; font-weight: 800; text-transform: uppercase; letter-spacing: 0.5px;
     color: var(--text-secondary); padding: 8px 10px 6px;
   }
-  .bell-item { padding: 9px 10px; border-radius: 10px; cursor: pointer; }
+  .bell-item { width:100%; padding: 9px 10px; border:0; border-radius: 10px; background:transparent; color:inherit; text-align:left; font:inherit; cursor: pointer; }
   .bell-item:hover { background: var(--bg); }
   .bell-item-title { font-size: 13px; font-weight: 600; line-height: 1.35; }
   .bell-item-meta { font-size: 11px; color: var(--text-secondary); margin-top: 3px; }
@@ -263,16 +265,20 @@
   .search-box {
     flex: 1; max-width: 360px; margin-left: auto;
     position: relative; cursor: pointer;
+    display:block; width:100%; padding:0; border:0; background:transparent;
+    color:inherit; text-align:left; font:inherit;
   }
-  .search-box input {
+  .search-box .search-placeholder {
+    display:block; box-sizing:border-box;
     width: 100%; padding: 9px 52px 9px 38px;
     border-radius: 999px; border: 1px solid rgba(255,255,255,0.16);
     background: rgba(255,255,255,0.09);
     color: #fff; font-size: 14px;
-    outline: none; cursor: pointer; transition: background .2s, border-color .2s;
+    transition: background .2s, border-color .2s;
   }
-  .search-box:hover input { background: rgba(255,255,255,0.14); border-color: rgba(255,255,255,0.26); }
-  .search-box input::placeholder { color: rgba(255,255,255,0.6); }
+  .search-box:hover .search-placeholder { background: rgba(255,255,255,0.14); border-color: rgba(255,255,255,0.26); }
+  .search-box .search-placeholder { color: rgba(255,255,255,0.6); }
+  .search-box:focus-visible .search-placeholder { outline:2px solid var(--accent-orange); outline-offset:3px; }
   .search-icon { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); opacity: 0.75; font-size: 18px; }
   .kbd-hint {
     position: absolute; right: 9px; top: 50%; transform: translateY(-50%);
@@ -964,8 +970,7 @@
   .logo { flex: 0 0 210px; }
   .logo-lockup { font-family:'Plus Jakarta Sans',sans-serif; font-weight:900; }
   .search-box { max-width: 430px; }
-  .search-box input { background:#F4F0E7; border-color:#E8E1D7; color:#202333; }
-  .search-box input::placeholder { color:var(--text-secondary); opacity:1; }
+  .search-box .search-placeholder { background:#F4F0E7; border-color:#E8E1D7; color:var(--text-secondary); }
   .search-box .msr { color:var(--navy); }
   .kbd-hint { color:var(--text-secondary); border-color:var(--divider); }
   .header-actions { gap:9px; }
@@ -1052,7 +1057,7 @@
     .logo-lockup { font-size:12px; letter-spacing:-.2px; }
     .search-box { order:2; }
     .search-box { max-width:none; min-width:0; }
-    .search-box input { padding:8px 10px 8px 34px; font-size:12px; }
+    .search-box .search-placeholder { padding:8px 10px 8px 34px; font-size:12px; }
     .kbd-hint, .updated-at { display:none; }
     .header-actions { order:3; }
     .header-actions { gap:5px; }
@@ -1110,21 +1115,21 @@
 <header class="site-header">
   <div class="header-inner">
     <button class="mobile-menu-toggle" id="mobileMenuToggle" type="button" aria-label="Menüyü aç" aria-controls="mobileMenu" aria-expanded="false"><span class="msr">menu</span></button>
-    <div class="logo site-logo" id="logoHome">
+    <button class="logo site-logo" id="logoHome" type="button" aria-label="Küresel Haberler ana sayfa">
       <img src="assets/brand/globe-gold-green.png" alt="">
       <span class="logo-lockup"><span class="brand-top">Küresel</span><span class="brand-bottom">Haberler</span></span>
-    </div>
-    <div class="search-box" id="searchBoxTrigger">
-      <span class="msr search-icon">search</span>
-      <input id="searchInput" type="text" placeholder="Haber ara..." readonly>
+    </button>
+    <button class="search-box" id="searchBoxTrigger" type="button" aria-label="Haberlerde ara" aria-haspopup="dialog" aria-controls="cmdkBackdrop">
+      <span class="msr search-icon" aria-hidden="true">search</span>
+      <span class="search-placeholder" aria-hidden="true">Haber ara...</span>
       <span class="kbd-hint" id="kbdHint">Ctrl K</span>
-    </div>
+    </button>
     <div class="header-actions">
       <div class="bell-wrap">
-        <div class="icon-btn-header" id="bellToggle"><span class="msr">notifications</span></div>
+        <button class="icon-btn-header" id="bellToggle" type="button" aria-label="Son haber bildirimleri" aria-haspopup="true" aria-expanded="false" aria-controls="bellDropdown"><span class="msr" aria-hidden="true">notifications</span></button>
         <div class="bell-dropdown" id="bellDropdown"></div>
       </div>
-      <div class="icon-btn-header theme-toggle" id="themeToggle"><span class="msr" id="themeIcon">dark_mode</span></div>
+      <button class="icon-btn-header theme-toggle" id="themeToggle" type="button" aria-label="Koyu görünümü aç" aria-pressed="false"><span class="msr" id="themeIcon" aria-hidden="true">dark_mode</span></button>
     </div>
     <div class="updated-at"><span class="msr" style="font-size:15px">schedule</span> <span id="updatedAt"></span></div>
   </div>
@@ -1229,6 +1234,18 @@
 const FEED_URL = './haberler.json';
 const SITE_NAME = 'Küresel Haberler';
 const AD_EVERY_N = 6;
+function storageGet(key) {
+  try { return localStorage.getItem(key); }
+  catch (_) { return null; }
+}
+function storageSet(key, value) {
+  try { localStorage.setItem(key, value); return true; }
+  catch (_) { return false; }
+}
+function storageRemove(key) {
+  try { localStorage.removeItem(key); return true; }
+  catch (_) { return false; }
+}
 function freshJsonUrl(path) {
   const url = new URL(path, document.baseURI);
   url.searchParams.set('v', Date.now().toString());
@@ -1434,14 +1451,14 @@ function categoryColor(cat) {
 }
 
 function getBookmarks() {
-  try { return JSON.parse(localStorage.getItem('kh_bookmarks') || '[]'); } catch { return []; }
+  try { return JSON.parse(storageGet('kh_bookmarks') || '[]'); } catch { return []; }
 }
 function isBookmarked(id) { return getBookmarks().includes(id); }
 function toggleBookmark(id) {
   const list = getBookmarks();
   const idx = list.indexOf(id);
   if (idx >= 0) list.splice(idx, 1); else list.push(id);
-  localStorage.setItem('kh_bookmarks', JSON.stringify(list));
+  storageSet('kh_bookmarks', JSON.stringify(list));
   return list.includes(id);
 }
 
@@ -1552,6 +1569,9 @@ function applyTheme(theme) {
   else root.removeAttribute('data-theme');
   const isDark = theme === 'dark' || (!theme && matchMedia('(prefers-color-scheme: dark)').matches);
   document.getElementById('themeIcon').textContent = isDark ? 'light_mode' : 'dark_mode';
+  const themeToggle = document.getElementById('themeToggle');
+  themeToggle.setAttribute('aria-label', isDark ? 'Açık görünümü aç' : 'Koyu görünümü aç');
+  themeToggle.setAttribute('aria-pressed', String(isDark));
   const menuIcon = document.getElementById('mobileMenuThemeIcon');
   const menuLabel = document.getElementById('mobileMenuThemeLabel');
   if (menuIcon) menuIcon.textContent = isDark ? 'light_mode' : 'dark_mode';
@@ -1559,13 +1579,14 @@ function applyTheme(theme) {
 }
 
 function initTheme() {
-  const saved = localStorage.getItem('kh_theme');
+  const savedValue = storageGet('kh_theme');
+  const saved = savedValue === 'light' || savedValue === 'dark' ? savedValue : null;
   applyTheme(saved || null);
   document.getElementById('themeToggle').addEventListener('click', () => {
     const current = document.documentElement.getAttribute('data-theme');
     const isDarkNow = current === 'dark' || (!current && matchMedia('(prefers-color-scheme: dark)').matches);
     const next = isDarkNow ? 'light' : 'dark';
-    localStorage.setItem('kh_theme', next);
+    storageSet('kh_theme', next);
     applyTheme(next);
   });
 }
@@ -2044,20 +2065,13 @@ function renderCategoryNav(activeName) {
   const uniqueCats = CORE_CATEGORIES.map(item => item.name).concat(found.filter(c => !CORE_CATEGORIES.some(item => item.name === c)));
 
   const nav = document.getElementById('categoryNav');
-  const allBtn = `<div class="cat-btn ${!activeName ? 'active' : ''}" data-nav="">
-    <span class="msr" style="font-size:16px;vertical-align:-3px">home</span> Ana Sayfa</div>`;
-  const exploreBtn = `<div class="cat-btn ${activeName === 'Keşfet' ? 'active' : ''}" data-explore="true"><span class="msr" style="font-size:16px;vertical-align:-3px">explore</span> Keşfet</div>`;
+  const allBtn = `<a class="cat-btn ${!activeName ? 'active' : ''}" href="#" data-nav="">
+    <span class="msr" style="font-size:16px;vertical-align:-3px">home</span> Ana Sayfa</a>`;
+  const exploreBtn = `<a class="cat-btn ${activeName === 'Keşfet' ? 'active' : ''}" href="#kesfet" data-explore="true"><span class="msr" style="font-size:16px;vertical-align:-3px">explore</span> Keşfet</a>`;
   const videoBtn = `<a class="cat-btn ${activeName === 'Videolar' ? 'active' : ''}" href="#videolar" data-videos="true"><span class="msr" style="font-size:16px;vertical-align:-3px">smart_display</span> Video</a>`;
   nav.innerHTML = allBtn + exploreBtn + videoBtn + uniqueCats.map(c =>
-    `<div class="cat-btn ${c === activeName ? 'active' : ''}" data-nav="${escapeHtml(c)}">${escapeHtml(c)}</div>`
+    `<a class="cat-btn ${c === activeName ? 'active' : ''}" href="#kategori/${encodeURIComponent(c)}" data-nav="${escapeHtml(c)}">${escapeHtml(c)}</a>`
   ).join('');
-  nav.querySelector('[data-explore]').addEventListener('click', () => { location.hash = 'kesfet'; });
-  nav.querySelectorAll('.cat-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const cat = btn.getAttribute('data-nav');
-      location.hash = cat ? 'kategori/' + encodeURIComponent(cat) : '';
-    });
-  });
 }
 
 /* ---------- article detail ---------- */
@@ -2113,12 +2127,12 @@ function pickNextArticle(currentArticle) {
 }
 
 function articleFontSize() {
-  const saved = parseInt(localStorage.getItem('kh_article_font_size') || '18', 10);
+  const saved = parseInt(storageGet('kh_article_font_size') || '18', 10);
   return Math.min(22, Math.max(15, saved || 18));
 }
 function setArticleFontSize(px) {
   const clamped = Math.min(22, Math.max(15, px));
-  localStorage.setItem('kh_article_font_size', String(clamped));
+  storageSet('kh_article_font_size', String(clamped));
   document.getElementById('articleDetail').style.setProperty('--article-font-size', clamped + 'px');
 }
 
@@ -2189,8 +2203,8 @@ function openArticle(id) {
   if (nextUpObserver) { nextUpObserver.disconnect(); nextUpObserver = null; }
   if (nextUpTimer) clearTimeout(nextUpTimer);
 
-  const liked = localStorage.getItem(likeStorageKey(a.id)) === '1';
-  const myReaction = localStorage.getItem(reactionStorageKey(a.id));
+  const liked = storageGet(likeStorageKey(a.id)) === '1';
+  const myReaction = storageGet(reactionStorageKey(a.id));
   const related = pickRelatedArticles(a, 0, 4);
   const nextArticle = pickNextArticle(a);
 
@@ -2333,24 +2347,24 @@ function updateCommentAvatar() {
 }
 
 function setReaction(id, key) {
-  const current = localStorage.getItem(reactionStorageKey(id));
+  const current = storageGet(reactionStorageKey(id));
   const next = current === key ? null : key;
-  if (next) localStorage.setItem(reactionStorageKey(id), next);
-  else localStorage.removeItem(reactionStorageKey(id));
+  if (next) storageSet(reactionStorageKey(id), next);
+  else storageRemove(reactionStorageKey(id));
   openArticle(id); // cheap re-render to reflect the new counts
 }
 
 function toggleLike(id) {
   const key = likeStorageKey(id);
-  const liked = localStorage.getItem(key) === '1';
+  const liked = storageGet(key) === '1';
   const btn = document.getElementById('likeBtn');
   if (liked) {
-    localStorage.removeItem(key);
+    storageRemove(key);
     btn.classList.remove('liked');
     btn.querySelector('.msr').textContent = 'favorite_border';
     btn.querySelector('span:last-child').textContent = 'Beğen';
   } else {
-    localStorage.setItem(key, '1');
+    storageSet(key, '1');
     btn.classList.add('liked');
     btn.querySelector('.msr').textContent = 'favorite';
     btn.querySelector('span:last-child').textContent = 'Beğendin';
@@ -2390,10 +2404,10 @@ function toggleTts(a) {
  * list therefore only ever shows what THIS visitor has posted, never
  * fabricated placeholder comments from invented people. */
 function loadComments(id) {
-  try { return JSON.parse(localStorage.getItem(commentsStorageKey(id)) || '[]'); }
+  try { return JSON.parse(storageGet(commentsStorageKey(id)) || '[]'); }
   catch { return []; }
 }
-function saveComments(id, list) { localStorage.setItem(commentsStorageKey(id), JSON.stringify(list)); }
+function saveComments(id, list) { storageSet(commentsStorageKey(id), JSON.stringify(list)); }
 
 function renderComments(id) {
   const comments = loadComments(id);
@@ -2516,7 +2530,7 @@ async function pushSubscribeRowHtml() {
     const subscribed = window.OneSignal ? await OneSignal.User.PushSubscription.optedIn : false;
     return subscribed
       ? '<div class="bell-item bell-empty" style="text-align:left">Bildirimler açık ✓</div>'
-      : '<div class="bell-item" id="bellSubscribeRow"><div class="bell-item-title"><span class="msr" style="font-size:14px;vertical-align:-2px">notifications_active</span> Yeni haberlerde bildirim al</div></div>';
+      : '<button class="bell-item" id="bellSubscribeRow" type="button"><span class="bell-item-title"><span class="msr" style="font-size:14px;vertical-align:-2px">notifications_active</span> Yeni haberlerde bildirim al</span></button>';
   } catch {
     return '';
   }
@@ -2529,10 +2543,10 @@ async function renderBellDropdown() {
     el.innerHTML = subscribeRow + '<div class="bell-empty">Henüz haber yok.</div>';
   } else {
     el.innerHTML = subscribeRow + '<div class="bell-title">Son Haberler</div>' + allArticles.slice(0, 5).map(a => `
-    <div class="bell-item" data-id="${escapeHtml(a.id)}">
+    <button class="bell-item" type="button" data-id="${escapeHtml(a.id)}" aria-label="${escapeHtml(a.headline)} haberini aç">
       <div class="bell-item-title">${escapeHtml(a.headline)}</div>
       <div class="bell-item-meta">${timeAgo(a.publishedAt)}</div>
-    </div>`).join('');
+    </button>`).join('');
   }
   el.querySelectorAll('[data-id]').forEach(item => {
     item.addEventListener('click', () => {
@@ -2548,13 +2562,17 @@ async function renderBellDropdown() {
     renderBellDropdown();
   });
 }
-function closeBell() { document.getElementById('bellDropdown').classList.remove('open'); }
+function closeBell() {
+  document.getElementById('bellDropdown').classList.remove('open');
+  document.getElementById('bellToggle').setAttribute('aria-expanded', 'false');
+}
 function initBell() {
   document.getElementById('bellToggle').addEventListener('click', (e) => {
     e.stopPropagation();
     const dropdown = document.getElementById('bellDropdown');
     const wasOpen = dropdown.classList.contains('open');
     dropdown.classList.toggle('open');
+    e.currentTarget.setAttribute('aria-expanded', String(!wasOpen));
     if (!wasOpen) renderBellDropdown();
   });
   document.addEventListener('click', (e) => {
@@ -2562,6 +2580,12 @@ function initBell() {
     const toggle = document.getElementById('bellToggle');
     if (dropdown.classList.contains('open') && !dropdown.contains(e.target) && !toggle.contains(e.target)) {
       closeBell();
+    }
+  });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && document.getElementById('bellDropdown').classList.contains('open')) {
+      closeBell();
+      document.getElementById('bellToggle').focus({ preventScroll:true });
     }
   });
 }
@@ -2615,7 +2639,7 @@ async function loadNewsFeed() {
       // same-origin JSON file.
       if (allArticles.length === 0) {
         try {
-          const cached = JSON.parse(localStorage.getItem(FEED_CACHE_KEY) || 'null');
+          const cached = JSON.parse(storageGet(FEED_CACHE_KEY) || 'null');
           if (cached && Array.isArray(cached.articles) && cached.articles.length) {
             allArticles = cached.articles;
             feedGeneratedAt = cached.generatedAt || null;
@@ -2651,9 +2675,7 @@ async function loadNewsFeed() {
       const changed = data.generatedAt !== feedGeneratedAt || articles.length !== allArticles.length;
       allArticles = articles;
       feedGeneratedAt = data.generatedAt || null;
-      try {
-        localStorage.setItem(FEED_CACHE_KEY, JSON.stringify({ generatedAt: feedGeneratedAt, articles }));
-      } catch (_) { /* A full or unavailable browser store must not block news. */ }
+      storageSet(FEED_CACHE_KEY, JSON.stringify({ generatedAt: feedGeneratedAt, articles }));
       if (data.generatedAt) document.getElementById('updatedAt').textContent = 'Güncellendi: ' + timeAgo(data.generatedAt);
       if (allArticles.length === 0) {
         document.getElementById('content').innerHTML = '<div class="feed-error"><span class="msr">inbox</span><strong>Henüz haber yok</strong><button id="retryFeed" type="button"><span class="msr">refresh</span> Yenile</button></div>';
