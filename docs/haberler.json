@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-23T16:26:58.691Z",
+  "generatedAt": "2026-11-23T16:37:02.385Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogandan-fon-sorusturmasi-aciklamasi-yakindan-takip-ediyoruz-7706433",
+      "headline": "Cumhurbaşkanı Erdoğan'dan Kabine Toplantısı Sonrası Önemli Açıklamalar",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1675669562515-e957c9ff436d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VHVya2lzaCUyMGZsYWd8ZW58MXwwfHx8MTc5NTQ1MTY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "engin akyurt",
+        "photographerUrl": "https://unsplash.com/@enginakyurt",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-the-flag-of-turkey-4A7dZHjdlUU"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığındaki Kabine Toplantısı sona erdi. Cumhurbaşkanı Erdoğan, toplantının ardından yaptığı açıklamalarda ülkede ve dünya siyasetindeki önemli gelişmeleri ele aldıklarını belirtti. Küresel ekonominin kabuk değiştirdiği ortamda Türk sanayisini güçlendirmeye yönelik projeleri değerlendirdiklerini ifade eden Erdoğan, Türkiye'yi ve sanayiyi büyütmekte kararlı olduklarını vurguladı. Güncellenen orta vadeli programın paylaşıldığını ve 2027 bütçesinin halkın tüm ihtiyaçları dikkate alınarak hazırlandığını aktaran Erdoğan, Plan ve Bütçe Komisyonu'na yansıyan görüntülere değinerek muhalefet aktörlerini eleştirdi.\n\nSavunma sanayi alanındaki gelişmelere de değinen Cumhurbaşkanı Erdoğan, Bayraktar KIZILELMA'nın TSK'nın emrine verilerek envanterine insansız savaş uçağı katan dünyada ilk ülke olmayı başardıklarını duyurdu. ASELSAN'ın 51. kuruluş yıldönümünde Ejderha adlı yönlendirilmiş enerji silahının 51 dronu aynı anda etkisiz hale getirdiğini belirten Erdoğan, savunma sanayiinde tam bağımsız Türkiye hedefine ulaşana kadar çalışmaya devam edeceklerini kaydetti.\n\nEkim ayının son günleri ve kasım ayında Türkiye'nin önemli uluslararası etkinliklere ev sahipliği yaptığını hatırlatan Erdoğan, Ankara'da Türk Devletleri Teşkilatı 13. Liderler Zirvesi'nin ardından Antalya'da Birleşmiş Milletler İklim Değişikliği Konferansı'nın 31. toplantısının (COP31) gerçekleştirildiğini belirtti. Konferansın 1 milyonu aşkın ziyaretçi sayısıyla en geniş katılımlı COP zirvesi olarak tarihe geçtiğini söyleyen Erdoğan, Çin ve uluslararası kalkınma bankalarıyla çeşitli finansman ve iş birliği anlaşmalarının imzalandığını ifade etti.\n\nTerörsüz Türkiye sürecine de değinen Cumhurbaşkanı Erdoğan, sürecin büyük bir sabır ve kararlılıkla ilerletildiğini belirtti. Son iki senedir terör saldırısı nedeniyle tek bir vatan evladının hayatını kaybetmediğini, Doğu ve Güneydoğu bölgelerinin huzurlu olduğunu dile getiren Erdoğan, güvenlik ikliminin iyileşmesiyle yatırım, üretim, istihdam ve turizmin önündeki engellerin ortadan kalktığını kaydetti.",
+      "highlights": [
+        "Bayraktar KIZILELMA, Türk Silahlı Kuvvetleri'nin envanterine katıldı.",
+        "Antalya'da düzenlenen COP31, 1 milyonu aşkın ziyaretçiyle en geniş katılımlı COP zirvesi oldu.",
+        "Son iki senedir terör saldırısı sebebiyle tek bir vatan evladı hayatını kaybetmedi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogandan-fon-sorusturmasi-aciklamasi-yakindan-takip-ediyoruz-7706433",
+      "publishedAt": "2026-11-23T16:30:00.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/miras-icin-babasinin-olumunu-planladi-cinayeti-600-saatlik-goruntu-cozdu-4875791",
       "headline": "Miras için babasının ölümünü planladı: Cinayeti 600 saatlik görüntü çözdü",
@@ -26,6 +50,30 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+      "headline": "Trump, Nvidia yönetimini Jensen Huang'ı yeniden göreve getirmeye ikna ettiğini söyledi",
+      "source": "The Guardian",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
+      "imageUrl": "https://images.unsplash.com/photo-1727176763565-1d983341bb95?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8TnZpZGlhJTIwSmVuc2VuJTIwSHVhbmd8ZW58MXwwfHx8MTc5NTQ1MTY2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Đào Hiếu",
+        "photographerUrl": "https://unsplash.com/@hieu101193",
+        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-fan-on-a-computer-3UAiwOgoSnE"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "ABD Başkanı Donald Trump, pazartesi günü yaptığı açıklamada, Nvidia yönetim kuruluyla doğrudan ve dolaylı olarak görüştüğünü ve şirketin CEO'su Jensen Huang'ın yeniden göreve getirilmesi için onları ikna ettiğini belirtti. Trump, CNBC'ye verdiği telefon mülakatında bu konuyu çok önemsediğini ve şirketin durumunu gördükten sonra bu inancının daha da güçlendiğini ifade etti.\n\nJensen Huang, ABD istihbaratının Çinli bir casus olduğuna inandığı bir kadınla yaşadığı evlilik dışı ilişki iddialarının ardından bu ayın başlarında Nvidia'dan istifa etmişti. Çip üreticisi şirketin pazartesi günü Huang'ın yeniden göreve getirildiğini duyurmasının ardından Nvidia hisseleri yüzde 33 oranında değer kazandı.\n\nBaşkan Trump, yönetim kurulunun ulusal güvenlik riskleri konusunda güvence istediğini ve kendilerinin de bildikleri ölçüde bu güvenceyi verdiğini açıkladı. Yakın bir kişisel ilişkiye sahip olduğu Huang ile pazar gecesi görüştüğünü belirten Trump, Huang'ı kaybetmenin çok daha büyük bir tehdit olacağını vurguladı.\n\nTrump, Nvidia yönetim kurulunun yeniden göreve getirme kararında çok sorumlu hareket ettiğini ve doğru şeyi yapma cesaretini gösterdiği için çok mutlu olduğunu sözlerine ekledi.",
+      "highlights": [
+        "Trump, Nvidia yönetimini Jensen Huang'ı yeniden göreve getirmek için ikna ettiğini açıkladı.",
+        "Jensen Huang, evlilik dışı ilişki iddialarının ardından istifa etmişti.",
+        "Nvidia'nın yeniden göreve getirme kararının ardından şirket hisseleri yüzde 33 arttı."
+      ],
+      "externalUrl": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
+      "publishedAt": "2026-11-23T16:19:22.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
       "id": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
       "headline": "Airports, public transport shut down amid national strike in Belgium",
       "source": "France 24",
@@ -38,12 +86,17 @@
       },
       "timeAgo": "15 dk önce",
       "body": "Belgium's prime minister on Monday set a new year-end deadline for his coalition government to agree a cost-cutting budget or face collapse. The announcement came as a national strike against the planned cuts grounded all flights in and out of Belgium. Public transport, schools and other public services also faced disruption. France 24's Dave Keating has the latest from Brussels.",
-      "highlights": [],
+      "highlights": [
+        "Belçika'daki ulusal grev nedeniyle tüm uçuşlar durdu",
+        "Toplu taşıma, okullar ve kamu hizmetleri aksadı",
+        "Başbakan, koalisyon hükümeti için yıl sonu bütçe deadline'ı belirledi"
+      ],
       "externalUrl": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium",
       "publishedAt": "2026-11-23T16:10:30.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T16:34:27.462Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-cumhurbaskani-erdogan-dan-aciklamalar-3929516",
@@ -13748,7 +13801,7 @@
       "category": "Türkiye",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T08:43:40.229Z",
-      "imageSearchAttemptedAt": "2026-11-22T07:44:18.895Z",
+      "imageSearchAttemptedAt": "2026-11-23T16:34:27.462Z",
       "isBreaking": true
     },
     {
@@ -14016,7 +14069,7 @@
       "publishedAt": "2026-11-19T07:32:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-22T07:44:18.895Z",
+      "imageSearchAttemptedAt": "2026-11-23T16:34:27.462Z",
       "isBreaking": false
     },
     {
@@ -14559,55 +14612,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T06:04:25.175Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
-      "headline": "Avustralya'nın İlk Yerli Yapım Savaş Gemisinin Batığı Tam 128 Yıl Sonra Bulundu",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1634055636512-30ef37e27f7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8c2hpcHdyZWNrJTIwb2NlYW58ZW58MXwwfHx8MTc5NTA2NjQ3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Intricate Explorer",
-        "photographerUrl": "https://unsplash.com/@intricateexplorer",
-        "unsplashUrl": "https://unsplash.com/photos/a-ship-that-is-sitting-in-the-water-8BsYvNKVrf8"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Avustralya'da yerli olarak inşa edilen ilk savaş gemisi olan HMCS Spitfire'ın batığı, Queensland açılarında batışından tam 128 yıl sonra deniz arkeologları tarafından keşfedildi. Arkeologlar, Ex HMCS Spitfire'ın kalıntılarına 21 Ağustos tarihinde ulaştı. Queensland Çevre, Turizm, Bilim ve İnovasyon Departmanı baş miras memuru Celeste Jordan, bu keşfi \"dikkat çekici bir şans\" olarak nitelendirdi ve bu tür buluntuların geçmişin hikayelerinin korunmasına yardımcı olduğunu belirtti.\n\nOn dokuz metre uzunluğundaki ahşap tabanca botu, 1855 yılında Sidney'de tasarlandı ve inşa edildi. Kırım Savaşı sırasında Vladivostok'taki Rus savaş gemilerine ve Yeni Kaledonya'daki Fransız askeri varlığına karşı koruma sağlamak amacıyla Avustralya sömürge hükümeti tarafından görevlendirilen gemi, 32 poundluk bir top taşıması için tasarlanmıştı ancak silahlandırmanın hiçbir zaman takılmamış olabileceği belirtiliyor.\n\nSpitfire, ilerleyen dönemlerde Queensland'e pilot gemisi olarak hizmet etti ve ardından 300 sterline özel ellere satılarak deniz salatalığı avcılığı gemisi olarak kullanıldı. Demirbark ve karaağaçtan inşa edilen, bakır kaplı gemi Sidney'de gemi yapımcısı John Cuthbert tarafından tasarlandı ve Darling Limanı'nda suya indirildi.\n\nAvustralya Ulusal Denizcilik Müzesi'ne göre Spitfire, 21 Ağustos 1898 tarihinde Queensland'in Cape York yarımadası açıklarında su alarak battı. Mürettebatı, Japon buharlı gemisi Omi Maru tarafından kurtarıldı. Avustralya Ulusal Denizcilik Müzesi, Queensland hükümeti ve Kraliyet Avustralya Donanması'ndan oluşan ekip, arama çalışmaları sonucunda batığı tespit etti. Donanma Komutanı Koramiral Matthew Buckley, geminin Avustralya'nın denizcilik tarihinde eşsiz bir yere sahip olduğunu ifade etti. Batık, Sualtı Kültür Mirası Yasası 2018 kapsamında koruma altına alındı.",
-      "highlights": [
-        "HMCS Spitfire gemisinin batığı 21 Ağustos tarihinde keşfedildi.",
-        "Keşif, geminin Queensland açıklarında batışının 128. yıl dönümünde gerçekleştirildi.",
-        "Batık, Sualtı Kültür Mirası Yasası 2018 kapsamında koruma altında bulunuyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
-      "publishedAt": "2026-11-19T05:22:38.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/diyarbakirda-tirin-gizli-bolmesinde-55-gocmen-yakalandi-4874177",
-      "headline": "Diyarbakır'da tır dorsesindeki gizli bölmede 55 düzensiz göçmen yakalandı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1791162552261-853fc94674b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJ1Y2slMjBoaWdod2F5JTIwcG9saWNlfGVufDF8MHx8fDE3OTUwNjU5MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Erik Mclean",
-        "photographerUrl": "https://unsplash.com/@introspectivedsgn",
-        "unsplashUrl": "https://unsplash.com/photos/police-officer-stopping-white-sports-car-1wIx2Lx5a9o"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Diyarbakır'da gerçekleştirilen bir operasyonda, tır dorsesinin tabanına yapılan gizli bölmede 55 düzensiz göçmen yakalandı. İl Emniyet Müdürlüğü Göçmen Kaçakçılığıyla Mücadele ve Hudut Kapıları Şubesi ekipleri, göçmen kaçakçılığıyla mücadele çalışmaları kapsamında şüphe üzerine Diyarbakır-Mardin kara yolu TRT Jandarma Uygulama Noktası'nda bir tırı durdurdu.\n\nEkiplerin teknik cihazlarla yaptığı kontroller neticesinde, dorsenin tabanında profil demirler kullanılarak 1 metre yükseklikte ve 2,5 metre genişlikte gizli bir bölme oluşturulduğu belirlendi. Bu özel bölmede Afganistan uyruklu 55 düzensiz göçmen tespit edilerek yakalandı.\n\nGizli bölmenin üst kısmının damlama borularıyla örtüldüğü ve dışının çadırla kapatıldığı görüldü. Yakalanan düzensiz göçmenlerin geri gönderme işlemlerinin başlatıldığı bildirildi.\n\nÖte yandan, olayla ilgili olarak göçmen kaçakçılığı yaptığı iddia edilen İ.Ç. gözaltına alındı.",
-      "highlights": [
-        "Diyarbakır-Mardin kara yolundaki uygulama noktasında bir tır durduruldu.",
-        "Dorsedeki gizli bölmede 55 Afganistan uyruklu düzensiz göçmen yakalandı.",
-        "Göçmen kaçakçılığı yaptığı iddia edilen İ.Ç. gözaltına alındı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/diyarbakirda-tirin-gizli-bolmesinde-55-gocmen-yakalandi-4874177",
-      "publishedAt": "2026-11-19T05:18:56.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T06:14:17.506Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
