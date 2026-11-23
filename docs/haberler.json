@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-23T17:46:29.908Z",
+  "generatedAt": "2026-11-23T17:56:30.791Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
+      "headline": "'Deeply shocked': Gisèle Pelicot to sue publisher after nude photos used in book campaign",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1716004649154-28f7cb3ca5fe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8JTI3RGVlcGx5JTIwc2hvY2tlZCUyNyUzQSUyMEdpcyVDMyVBOGxlJTIwUGVsaWNvdCUyMHRvJTIwc3VlJTIwcHVibGlzaGVyJTIwYWZ0ZXIlMjBudWRlJTIwcGhvdG9zJTIwdXNlZCUyMGluJTIwYm9vayUyMGNhbXBhaWdufGVufDF8MHx8fDE3OTU0NTY0Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Hardeep Singh",
+        "photographerUrl": "https://unsplash.com/@hardeepjpg",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-laying-in-a-bathtub-reading-a-book-kyF7B45hY6w"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "French feminist icon Gisèle Pelicot, who became a worldwide symbol against sexual violence during the 2024 rape trials against her husband and dozens of other men, said Monday she will take legal action after nude images of her were sent out without her permission to publicise a psychoanalyst's book on coercive control.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
+      "publishedAt": "2026-11-23T17:52:50.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.milliyet.com.tr/gundem/baygaralar-suc-orgutune-yonelik-operasyon-yakalanan-105-zanlidan-90i-tutuklandi-7706464",
+      "headline": "'Bayğaralar' suç örgütüne yönelik operasyon: Yakalanan 105 zanlıdan 90'ı tutuklandı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Adana Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında 20 Kasım'da gerçekleştirilen eş zamanlı operasyonda gözaltına alınan 101 şüphelinin ardından firari 4 zanlı daha yakalandı. İşlemlerinin tamamlanmasıyla adliyeye sevk edilen şüphelilerden 93'ü tutuklama, 12'si adli kontrol talebiyle hakimliğe çıkarıldı. Hakimlik, 12'si adli süreçteki çocuk 90 zanlının tutuklanmasına, 15 şüpheli hakkında ise adli…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/baygaralar-suc-orgutune-yonelik-operasyon-yakalanan-105-zanlidan-90i-tutuklandi-7706464",
+      "publishedAt": "2026-11-23T17:52:22.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/yerel-haberler/izmir/trafikte-motosikletle-akrobatik-hareketler-yapan-aday-surucunun-ehliyeti-iptal-edildi-3497092",
       "headline": "Trafikte motosikletle akrobatik hareketler yapan aday sürücünün ehliyeti iptal edildi",
@@ -23,7 +59,8 @@
       "publishedAt": "2026-11-23T17:49:22.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T17:54:28.323Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
@@ -61,7 +98,8 @@
       "publishedAt": "2026-11-23T17:24:25.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-23T17:54:28.323Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/sokaklar-beyaza-burundu-goruntuler-istanbuldan-7706457",
@@ -14525,55 +14563,6 @@
       "category": "Spor",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T07:14:22.454Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
-      "headline": "Netanyahu'nun Son Direnişi ve Hayatta Kalma Siyaseti",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1697257365419-c716a44d52fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TmV0YW55YWh1JTIwSXNyYWVsJTIwcG9saXRpY3N8ZW58MXwwfHx8MTc5NTA3MjQ2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Raman Shaunia",
-        "photographerUrl": "https://unsplash.com/@romasha",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-group-of-people-holding-israeli-flags-rzm-bz5amBg"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Siyasi bir yok oluşla karşı karşıya kalan İsrail Başbakanı Netanyahu, ülkeyi şiddet ve kaosa sürükleyebilecek yüksek riskli bir oyun oynuyor. Siyasi geleceğini korumak amacıyla hamleler yapan liderin bu politikaları, uzmanlar tarafından hayatta kalma mücadelesi olarak değerlendiriliyor. Kaynaklarda yer alan bilgilere göre mevcut durum, İsrail'in iç istikrarı ve güvenliği açısından ciddi riskler barındırıyor.\n\nNetanyahu'nun izlediği bu tehlikeli siyasi çizginin, ülkeyi daha büyük bir kaosa ve şiddet sarmalına sürükleme potansiyeli taşıdığı ifade ediliyor. Siyasi hayatta kalma mücadelesinin, iç politikadaki gerilimleri artırdığı ve belirsizlik yarattığı belirtiliyor.\n\nGelinen noktada atılan adımların ve oynanan yüksek riskli oyunun sonuçlarının ne olacağı merakla takip edilirken, durumun yaratabileceği olumsuz etkiler endişe yaratmaya devam ediyor. Haber metninde aktarılanlar, yaşanan siyasi sürecin hassasiyetini ve olası tehlikelerini gözler önüne seriyor.",
-      "highlights": [
-        "Netanyahu siyasi bir yok oluşla karşı karşıya bulunuyor.",
-        "Atılan yüksek riskli adımlar İsrail'i şiddet ve kaosa sürükleyebilir."
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
-      "publishedAt": "2026-11-19T06:58:44.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T07:24:20.797Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
-      "headline": "Bilecik'te feci kaza: Traktörün çamurluk kısmına sıkışan adam hayatını kaybetti",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1758030320380-d1e0926bbd4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8dHJhY3RvciUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTUwNzEyODV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nick Russill",
-        "photographerUrl": "https://unsplash.com/@nickruss",
-        "unsplashUrl": "https://unsplash.com/photos/old-rusty-tractor-in-a-grassy-field-M3Mq-VFZDAM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Bilecik'in merkeze bağlı Koyunköy köyünde üzücü bir kaza meydana geldi. Alınan bilgiye göre, Yaşar Öztürk isimli şahıs, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkıştı.\n\nMeydana gelen olay sonucunda Yaşar Öztürk, olay yerinde hayatını kaybetti. Kazanın ardından olay yerine jandarma ve sağlık ekipleri sevk edildi. Ekipler tarafından olay yerinde gerekli incelemeler gerçekleştirildi.\n\nYaşamını yitiren Öztürk'ün cenazesi, yapılacak işlemler için Bilecik Eğitim ve Araştırma Hastanesi morguna kaldırıldı. Cumhuriyet Savcısının talimatıyla olayla ilgili adli soruşturma başlatıldı.",
-      "highlights": [
-        "Bilecik'in Koyunköy köyünde meydana gelen kazada Yaşar Öztürk hayatını kaybetti.",
-        "Öztürk, traktörüne kepçe aparatı taktığı sırada çamurluk kısmına sıkıştı.",
-        "Cenaze hastane morguna kaldırılırken, olayla ilgili adli soruşturma başlatıldı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/bilecikte-traktor-kazasi-yasar-ozturk-hayatini-kaybetti-4874241",
-      "publishedAt": "2026-11-19T06:51:31.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T07:05:19.948Z",
       "isBreaking": false
     }
   ],
