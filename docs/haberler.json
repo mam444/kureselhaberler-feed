@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-23T20:14:37.125Z",
+  "generatedAt": "2026-11-23T20:24:34.427Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/ekonomi/altin/altin-ve-gumuste-dipten-alim-ruzgari-3497120",
+      "headline": "Altın ve gümüşte \"dipten alım\" rüzgarı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1709295208567-ce817387e977?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QWx0JUM0JUIxbiUyMHZlJTIwZyVDMyVCQ20lQzMlQkMlQzUlOUZ0ZSUyMCUyMmRpcHRlbiUyMGFsJUM0JUIxbSUyMiUyMHIlQzMlQkN6Z2FyJUM0JUIxfGVufDF8MHx8fDE3OTU0NjU0NzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Aslı Yaren Peker Kaya",
+        "photographerUrl": "https://unsplash.com/@asliyarenpekerkaya",
+        "unsplashUrl": "https://unsplash.com/photos/a-bunch-of-gold-bracelets-are-on-display-BxFfhW4I-lg"
+      },
+      "timeAgo": "şimdi",
+      "body": "Son 8 ayın en sert haftalık kaybını yaşayan altın ve gümüş, yeni haftaya güçlü bir 'dipten alım' tepkisiyle başladı. Doların 19 ayın zirvesinden geri çekilmeye başlamasıyla kıymetli metaller nefes almaya başladı. Peki bu yükseliş düşüş trendinin bittiğini işaret eder mi?",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/video/ekonomi/altin/altin-ve-gumuste-dipten-alim-ruzgari-3497120",
+      "publishedAt": "2026-11-23T20:24:30.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/kahramanmarasta-yatalak-hasta-esinin-cesediyle-3-gun-yasadi-4875832",
       "headline": "Kahramanmaraş'ta acı olay: Yatalak hasta eşinin cansız bedeniyle üç gün yaşadı",
@@ -10,12 +30,18 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Kahramanmaraş’ta komşuların kötü kokular üzerine ihbarıyla girilen evde 78 yaşındaki Sultan Kaplan’ın cansız bedeni bulundu. Yaşlı kadının 3 gün önce hayatını kaybettiği belirlenirken, yatalak ve demans hastası eşi Hüseyin Kaplan’ın sesini duyuramadığı için eşinin cansız bedeniyle 3 gün boyunca aynı evde kaldığı ortaya çıktı. Hastaneye kaldırılan yaşlı adamın sağlık durumuna ilişkin bilgi verilmedi.",
-      "highlights": [],
+      "highlights": [
+        "Sultan Kaplan'ın cansız bedeni evinde kötü kokular üzerine bulundu.",
+        "Yatalak ve demans hastası eşi Hüseyin Kaplan, sesini duyuramadığı için üç gün cesetle yaşadı.",
+        "Sultan Kaplan'ın yaşlılığa bağlı hayatını kaybettiği belirlendi."
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/kahramanmarasta-yatalak-hasta-esinin-cesediyle-3-gun-yasadi-4875832",
       "publishedAt": "2026-11-23T20:13:00.000Z",
       "category": "Sağlık",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T20:24:23.389Z",
+      "imageSearchAttemptedAt": "2026-11-23T20:24:23.389Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
@@ -35,7 +61,8 @@
       "publishedAt": "2026-11-23T20:03:48.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-23T20:24:23.389Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/istanbulu-sarsan-aslanla-ilgili-kritik-uyarilar-karsiniza-cikarsa-ne-yapmalisiniz-3497121",
@@ -74,6 +101,26 @@
       "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-haberi-kabine-toplantisi-sona-erdi-3497106",
       "publishedAt": "2026-11-23T19:55:50.000Z",
       "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+      "headline": "As tech outages mount, some New Yorkers prepare for the worst",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1519314101-162c171d3860?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QXMlMjB0ZWNoJTIwb3V0YWdlcyUyMG1vdW50JTJDJTIwc29tZSUyME5ldyUyMFlvcmtlcnMlMjBwcmVwYXJlJTIwZm9yJTIwdGhlJTIwd29yc3R8ZW58MXwwfHx8MTc5NTQ2NTQ3MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Eddi Aguirre",
+        "photographerUrl": "https://unsplash.com/@soloeddi",
+        "unsplashUrl": "https://unsplash.com/photos/person-facing-gate-and-high-rise-buildings-h_QcTGBIWSQ"
+      },
+      "timeAgo": "41 dk önce",
+      "body": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+      "publishedAt": "2026-11-23T19:43:45.000Z",
+      "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -1502,7 +1549,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T14:24:18.968Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:24:18.968Z"
+      "imageSearchAttemptedAt": "2026-11-23T20:24:23.389Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
@@ -14428,55 +14475,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T09:44:16.885Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/gaziosmanpasada-yemek-siparisiniz-var-tuzagi-kapiyi-acan-adami-darbedip-430-bin-lirasini-gasbettiler-4874341",
-      "headline": "Gaziosmanpaşa'da 'Yemek siparişiniz var' tuzağı: Kapıyı açan adamı darbedip 430 bin lirasını gasbettiler",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1713950658643-b6882cc08e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwY3JpbWUlMjBzY2VuZXxlbnwxfDB8fHwxNzk1MDgwMjc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel von Appen",
-        "photographerUrl": "https://unsplash.com/@daniel_von_appen",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-yellow-police-line-behind-bars-WW-4bspunFY"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İstanbul Gaziosmanpaşa'da 2 katlı bir binanın ikinci katında yaşayan Kenan H., evine gelen yabancı uyruklu iki şüphelinin tuzağına uğradı. İddiaya göre zili çalınarak 'Yemek siparişiniz var' denilen Kenan H., kapıyı araladığı sırada şüphelilerin tekme atarak içeri girmesiyle saldırıya uğradı.\n\nSilahla tehdit edilen ve darbedilen ev sahibi, saldırganların kafasına silahla vurduğunu belirtti. Şüpheliler evdeki ziynet eşyaları ile dövizleri alırken, bir miktar parayı da kendi hesaplarına zorla transfer ettirerek kaçtı. Kenan H., olayda toplam 430 bin lira civarında zararının olduğunu ifade etti ve darp raporu aldı.\n\nGüvenlik kamerası kayıtlarında, iki şüphelinin olay öncesi bölgedeki bir pideciden paket yaptırdığı, daireye yöneldikten kısa süre sonra apartmandan uzaklaştığı görüldü. Pideci dükkanının sahibi Serkan Demir, kanlar içindeki komşusunun kendisinden yardım istediğini ve durumu polise bildirdiğini aktardı.\n\nDemir, polis ekiplerinin olay yerine hızla intikal ettiğini söyledi. Mağdur Kenan H. ise yaşadığı dehşet anlarını anlatarak şüphelileri tanımadığını, olay sonrasında Eski Edirne Asfaltı Caddesi istikametine doğru kaçtıklarını dile getirdi. Olayla ilgili soruşturma ve incelemeler sürüyor.",
-      "highlights": [
-        "Yabancı uyruklu 2 şüpheli 'yemek siparişiniz var' diyerek kapıyı açtırdıkları Kenan H.'yi darbedip silahla tehdit etti.",
-        "Evdeki ziynet eşyaları ile dövizi alan ve bir miktar parayı kendi hesaplarına transfer ettiren şüpheliler kaçtı.",
-        "Kenan H., olayda yaklaşık 430 bin lirasının gasbedildiğini belirtti."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/gaziosmanpasada-yemek-siparisiniz-var-tuzagi-kapiyi-acan-adami-darbedip-430-bin-lirasini-gasbettiler-4874341",
-      "publishedAt": "2026-11-19T09:23:26.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T09:44:16.885Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "headline": "Uganda'daki heyelan mağdurları hak aramak için Birleşmiş Milletler'e başvurdu",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1595790527813-6a76c994a1dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VWdhbmRhJTIwbGFuZHNsaWRlJTIwVU58ZW58MXwwfHx8MTc5NTA4MTQ2Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "b40deep",
-        "photographerUrl": "https://unsplash.com/@b40deep",
-        "unsplashUrl": "https://unsplash.com/photos/green-trees-near-houses-under-white-clouds-and-blue-sky-during-daytime-AIfqCEt3eZY"
-      },
-      "timeAgo": "22 dk önce",
-      "body": "Doğu Uganda'da 2019 yılında meydana gelen ve 50'den fazla kişinin ölümüne yol açan heyelandan kurtulanlar, yeniden yerleşim ve tazminat taleplerini Birleşmiş Milletler'e taşıdı. Dağlık bir bölge olan Bududa'da etkili afet yönetimi önlemleri alınmadığı gerekçesiyle şikâyetçi olan 48 kişi, hükümetin anayasayı ihlal ettiğini öne sürüyor. Şiddetli yağışların yeni heyelan riskini artırdığı bu dönemde başvurucular, hükümetin mevcut yerleşim programının güvenliklerini, toprak haklarını ve geçim kaynaklarını göz ardı ettiğini belirtiyor. Birleşmiş Milletler İnsan Hakları Komitesi, iklim adaptasyon önlemleri arayan ve küresel bir emsal oluşturabilecek bu davayı değerlendiriyor.\n\nBududa'da 2019 yılında gerçekleşen felakette 33'ü çocuk olmak üzere 53'ten fazla insan hayatını kaybetmişti. Aradan geçen yıllara rağmen hayatta kalanlar, her şiddetli yağmurda yeni bir facia korkusu yaşadıklarını ifade ediyor. Ailesinden dört kişiyi kaybeden davacılardan William Tsama, bu mücadelenin diğer mağdurlar için bir ders olmasını istediğini belirtti. Uganda yönetimi, heyelan riski taşıyan bölgeler için 2011 yılında bir yeniden yerleşim planı başlatmış ancak süreç sınırlı kalmıştı. Geçtiğimiz ay ise riskli hanelere güvenli bölgelere taşınmaları için maddi destek sunan yeni bir program devreye sokuldu. Buna rağmen bazı kurtulanlar, yardımların yeniden yerleşme maliyetlerini karşılamaya yetip yetmeyeceği konusunda endişe taşıyor.\n\nHükümet, belirlenen yüksek riskli bölgelerdeki sakinlere kasım ve aralık aylarını kapsayan iki aylık bir süre vererek bölgeyi terk etmelerini aksi takdirde zorunlu tahliyeyle karşılaşacaklarını bildirdi. Şikâyetçiler, tehlikenin sadece heyelanlarla sınırlı olmadığını, değişen yağış rejimleri ve azalan toprak verimliliğinin tarımı da olumsuz etkilediğini vurguluyor. 2020 yılında Uganda'da hukuki süreç başlatan mağdurlar, üç yıl sonra çevre örgütü Greenwatch'tan destek aldı. Kaybettikleri yakınları ve geçim kaynakları için tazminat talep eden grup, yüksek riskli bölgelerde erken uyarı sistemleri gibi acil önlemler alınmasını istiyor.\n\nGreenwatch İcra Direktörü Samantha Atukunda Kakuru Mwesigwa, davanın hükümetlerin iklim bağlantılı afetlere hazırlanma biçimini değiştirmeyi amaçladığını söyledi. Davacılara hukuki destek veren ClientEarth avukatı Vesselina Newman ise yoksul ülkelerin küresel emisyonlara az katkıda bulunmalarına rağmen iklim değişikliğinin en ağır sonuçlarıyla karşı karşıya kaldığını belirtti. Uganda hükümetinin Birleşmiş Milletler İnsan Hakları Komitesi önündeki iddialara yanıt vermek için altı ay süresi bulunuyor. Öte yandan Doğu Afrika'da ve dünyanın farklı bölgelerinde benzer iklim kaynaklı afetler can almaya devam ediyor. Kenya ve Ruanda gibi ülkelerde geçmiş yıllarda yaşanan sel ve heyelanlarda yüzlerce insan yaşamını yitirmişti.",
-      "highlights": [
-        "Uganda'da 2019'daki heyelandan kurtulan 48 kişi BM'ye başvurdu.",
-        "Davalılar hükümetin afet yönetiminde yetersiz kaldığını ve anayasayı ihlal ettiğini savunuyor.",
-        "BM İnsan Hakları Komitesi iklim adaptasyonu odaklı bu ilk davayı inceliyor."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T09:21:54.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
