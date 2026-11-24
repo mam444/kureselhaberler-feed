@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-24T17:47:49.954Z",
+  "generatedAt": "2026-11-24T17:57:03.311Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/dunya/abdden-dev-sanayi-hamlesi-pentagon-iha-uretimi-icin-otomotiv-devleriyle-masada-3497553",
+      "headline": "ABD’den dev sanayi hamlesi: Pentagon İHA üretimi için otomotiv devleriyle masada",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1710460095860-8be554c34631?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QUJEJUUyJTgwJTk5ZGVuJTIwZGV2JTIwc2FuYXlpJTIwaGFtbGVzaSUzQSUyMFBlbnRhZ29uJTIwJUM0JUIwSEElMjAlQzMlQkNyZXRpbWklMjBpJUMzJUE3aW4lMjBvdG9tb3RpdiUyMGRldmxlcml5bGUlMjBtYXNhZGF8ZW58MXwwfHx8MTc5NTU0MjkzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Josef Kali",
+        "photographerUrl": "https://unsplash.com/@josefkali",
+        "unsplashUrl": "https://unsplash.com/photos/a-woman-walking-down-a-street-with-a-bag-MTebJe3M-BU"
+      },
+      "timeAgo": "şimdi",
+      "body": "ABD Savunma Bakanlığı Pentagon, milyonlarca insansız hava aracı üretme hedefi doğrultusunda otomotiv devlerini devreye sokmaya hazırlanıyor. Wall Street Journal'ın haberine göre otomobil üreticileri, savunma şirketlerine drone motorları ve kritik bileşenler sağlayabilir. Washington yönetimi bu hamleyle üretim kapasitesini artırmayı ve Çin'e bağımlılığı azaltmayı hedefliyor. Ancak otomotiv şirketleri kârlılık, itibar…",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/video/dunya/abdden-dev-sanayi-hamlesi-pentagon-iha-uretimi-icin-otomotiv-devleriyle-masada-3497553",
+      "publishedAt": "2026-11-24T17:55:51.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/hikmet-cetin-kimdir-chp-eski-genel-baskani-ve-tbmm-eski-baskani-hikmet-cetin-oldu-mu-kac-yasindaydi-nereli-siyasi-hayati-3497639",
       "headline": "CHP Eski Genel Başkanı ve TBMM Eski Başkanı Hikmet Çetin Hayatını Kaybetti",
@@ -41,6 +61,30 @@
       "highlights": [],
       "externalUrl": "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
       "publishedAt": "2026-11-24T17:35:48.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+      "headline": "Iowa'da Yaklaşık Beş Ton Patlayıcı İmha Edilecek",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1729284045177-7a40238e4cd0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8ZXhwbG9zaXZlcyUyMGRldG9uYXRpb258ZW58MXwwfHx8MTc5NTU0Mjg3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emanuel Kypreos",
+        "photographerUrl": "https://unsplash.com/@mankip67",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-cloud-of-smoke-is-billowing-out-of-the-sky-XySaPZljJ54"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "ABD Ordusu, Iowa eyaletinde kararsız durumdaki yaklaşık beş ton patlayıcıyı Çarşamba günü imha etmek üzere hazırlık yapıyor. Yetkililer ve ordu birimleri tarafından yürütülen bu operasyon kapsamında, tehlike arz eden patlayıcı maddelerin kontrollü bir şekilde patlatılması planlanıyor. Çarşamba günü gerçekleştirilmesi öngörülen bu imha faaliyeti için güvenlik önlemlerinin alındığı bildirildi. Konuyla ilgili olarak ABD Ordusu'nun yürüttüğü hazırlık çalışmaları sürerken, operasyonun detaylarına dair başka bir bilgi paylaşılmadı.",
+      "highlights": [
+        "ABD Ordusu Iowa'da patlayıcı imha etmeye hazırlanıyor",
+        "İşlemin Çarşamba günü yapılması planlanıyor",
+        "Yaklaşık beş ton kararsız patlayıcı imha edilecek"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
+      "publishedAt": "2026-11-24T17:33:41.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -297,17 +341,18 @@
         "unsplashUrl": "https://unsplash.com/photos/man-in-sunglasses-adjusts-them-against-blue-background-gaB2hGpOI5o"
       },
       "timeAgo": "1 sa önce",
-      "body": "Fransa'nın eski cumhurbaşkanı Nicolas Sarkozy ile eşi, şarkıcı Carla Bruni-Sarkozy, tanık yönlendirme ve dolandırıcılık kastıyla suç ortaklığı iddialarıyla 2027 yılında hakim karşısına çıkacak. Dava, Sarkozy'nin 2007 yılındaki seçim kampanyasında Libya'dan yasadışı fon sağladığı iddialarıyla ilgili süreci kapsıyor.\n\nSöz konusu suçlamalar, eski liderin Libya'nın merhum lideri Muammer Kaddafi'den yasadışı kampanya finansmanı aradığı iddiasıyla ilgili davanın ardından gündeme geldi. Davanın kilit tanıklarından Fransız-Lübnanlı iş insanı Ziad Takieddine, 2016 yılında Sarkozy'ye nakit para ulaştırdığını iddia etmiş, ancak 2020'de bu ifadesini geri çekmişti.\n\nBu durum, Sarkozy ve eşinin, tanığın ifadesini değiştirmesi için paparazzi yöneticisi Mimi Marchand'ın yardımını aldığı suçlamalarına yol açtı. Carla Bruni'nin, Marchand ile iletişim kurmak amacıyla gizli bir telefon hattı talep ettiğinden şüpheleniliyor. Taraflar suçlamaları reddediyor.\n\nSanıklar, yöneltilen suçlamalar kapsamında en fazla 10 yıl hapis cezası ve 150.000 euro para cezası ile karşı karşıya bulunuyor. Davada Mimi Marchand da dolandırıcılık kastıyla suç ortaklığı ve tanık yönlendirme suçlamalarıyla yargılanacak. Sanık avukatları AFP'nin yorum talebine hemen yanıt vermedi.",
+      "body": "Fransa'nın eski cumhurbaşkanı Nicolas Sarkozy ile eşi, şarkıcı Carla Bruni-Sarkozy ve bir paparazi yöneticisi, 2007 seçim kampanyasının finansmanına ilişkin tanık yönlendirme iddiaları nedeniyle önümüzdeki yıl hakim karşısına çıkacak. Davaya yakın bir kaynağın aktardığı bilgilere göre, çift \"dolandırıcılık kastıyla suç ortaklığı\" ve tanık yönlendirmeden yararlanma suçlamalarıyla yargılanacak.\n\nYeni suçlamalar, Sarkozy'nin Libya'nın devrik lideri Muammer Kaddafi'den yasadışı kampanya finansmanı sağladığı iddiasıyla ilgili dava sürecindeki eylemleriyle bağlantılı bulunuyor. Sarkozy, bu iddialarla ilgili olarak geçen yıl hapis cezası almış, ardından temyiz süreci beklenerek 20 günün ardından serbest bırakılmıştı. Davanın temel suççularından biri olan Fransa-Lübnan kökenli iş insanı Ziad Takieddine, geçen yıl Lübnan'da hayatını kaybetmişti. Takieddine, 2016 yılında Kaddafi'den Sarkozy'ye nakit para aktarıldığını iddia etmiş, ancak Kasım 2020'de bu ifadesini geri çekmişti.\n\nBu durum, Sarkozy ve eşinin, tanığın ifadesini değiştirmesi için paparazi yöneticisi Mimi Marchand'ın yardımını aldığı yönündeki suçlamalara yol açtı. İkili bu iddiaları reddederken, Bruni'nin operasyon için gizli bir telefon hattı talep ettiği şüpheleri bulunuyor. Sanıklar, suçlu bulunmaları halinde en fazla 10 yıl hapis cezası ve 150.000 euro para cezası ile karşı karşıya kalabilir. Sanıkların avukatları AFP'nin yorum talebine hemen yanıt vermedi. Sarkozy'nin daha önce başka davalardan kesinleşmiş iki mahkûmiyeti bulunuyor.",
       "highlights": [
-        "Nicolas Sarkozy ve Carla Bruni 2027 yılında tanık yönlendirme suçlamasıyla yargılanacak.",
-        "Dava, 2007 seçim kampanyasının Libya'dan sağlanan fonlarla finanse edilmesi iddialarıyla bağlantılı.",
-        "Sanıklar en fazla 10 yıl hapis cezası ve 150.000 euro para cezası ile karşı karşıya."
+        "Eski Fransa Cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni, tanık yönlendirme iddialarıyla yargılanacak.",
+        "Yargılama sürecinin önümüzdeki yıl Kasım ayında yapılması planlanıyor.",
+        "Sanıklar \"dolandırıcılık kastıyla suç ortaklığı\" ve tanık yönlendirmeden yararlanma suçlamalarıyla karşı karşıya."
       ],
       "externalUrl": "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
       "publishedAt": "2026-11-24T16:33:12.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T17:54:19.910Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
@@ -1832,7 +1877,7 @@
       "category": "Yaşam",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T11:24:28.893Z",
+      "imageSearchAttemptedAt": "2026-11-24T17:54:19.910Z",
       "sourceTextAttemptedAt": "2026-11-24T14:04:27.822Z"
     },
     {
@@ -1880,7 +1925,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:44:16.261Z",
-      "imageSearchAttemptedAt": "2026-11-24T11:34:38.794Z"
+      "imageSearchAttemptedAt": "2026-11-24T17:54:19.910Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
@@ -14434,55 +14479,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-20T11:34:57.104Z",
       "sourceTextAttemptedAt": "2026-11-19T16:14:35.299Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/dunya/turkiye-ve-ab-arasinda-kritik-schengen-zirvesi-sureclerde-sadelestirilme-talebi-iletildi-3928566",
-      "headline": "Türkiye ve AB arasında kritik 'Schengen' zirvesi",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1655722725332-9925c96dd627?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2NoZW5nZW4lMjB2aXNhfGVufDF8MHx8fDE3OTUxMDMxNTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Global Residence Index",
-        "photographerUrl": "https://unsplash.com/@globalresidenceindex",
-        "unsplashUrl": "https://unsplash.com/photos/passport-with-many-travel-stamps-LPdaW746WAw"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Türk vatandaşlarının Schengen vizesi sürecinde yaşadığı problemlere karşı yeni bir adım atıldı. Ankara'nın girişimiyle, Schengen ülkelerinin Türkiye'deki temsilcilikleri arasında özel bir çalışma grubu oluşturuldu. Bu gelişme, 18 Kasım'da Ankara'da gerçekleştirilen yerel Schengen İşbirliği Toplantısı'nda kararlaştırıldı. Dışişleri Bakanlığı yetkilileri, toplantıda Schengen ülkelerinin Türkiye temsilcileri, Avrupa Birliği Delegasyonu ve Avrupa Komisyonu yetkilileri ile bir araya geldi.\n\nToplantıda Türkiye, vize başvuru süreçlerindeki sıkıntıların giderilmesi için AB'den somut adımlar atılmasını talep etti. Bu kapsamda randevu bulma zorluklarının ortadan kaldırılması, başvuru sürelerinin kısaltılması ve talep edilen belgelerin azaltılması istendi. Ayrıca, daha önce Schengen vizesi almış kişilerin başvurularında kolaylık sağlanması gerektiği vurgulandı.\n\nGörüşmelerde, çok girişli ve uzun süreli vizelerin verilmesini kolaylaştıran Kademeli Vize Sistemi'nin daha yaygın bir şekilde uygulanması talep edildi. Türk tır sürücülerinin Schengen bölgesine kesintisiz erişiminin sağlanması ve kalış süreleriyle ilgili yaşanan problemlerin çözülmesi de toplantıda ele alınan diğer konular arasında yer aldı.\n\nDışişleri Bakanlığı yetkilileri, yaşanan vize sorunlarının vatandaşları yasal faaliyeti bulunmayan danışmanlık şirketlerine yönlendirdiğine dikkat çekti. Bu tür şirketlere karşı adli süreçlerin başlatıldığı da aktarılan bilgiler arasında yer aldı. Yeni kurulan çalışma grubunun, Türk vatandaşlarına yönelik Schengen vizesi uygulamalarını gözden geçireceği ifade edildi.",
-      "highlights": [
-        "Türkiye'nin girişimiyle Schengen ülkelerinin Türkiye'deki temsilcilikleri arasında çalışma grubu kuruldu.",
-        "Ankara'da yapılan toplantıda randevu güçlüğü, başvuru süreleri ve belge azaltılması istendi.",
-        "Vize sorunlarının vatandaşları yasal faaliyeti olmayan danışmanlık şirketlerine yönlendirdiği belirtildi."
-      ],
-      "externalUrl": "https://www.haberturk.com/dunya/turkiye-ve-ab-arasinda-kritik-schengen-zirvesi-sureclerde-sadelestirilme-talebi-iletildi-3928566",
-      "publishedAt": "2026-11-19T15:41:00.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/africa/20261119-number-of-children-near-armed-conflict-in-africa-rises-by-nearly-a-fifth-save-the-children",
-      "headline": "Afrika, çatışma bölgelerinde yaşayan dünya çocuklarının yarısına ev sahipliği yapıyor",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1500823050524-096fd13fa287?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2hpbGRyZW4lMjBjb25mbGljdCUyMEFmcmljYXxlbnwxfDB8fHwxNzk1MTUyMjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alex Radelich",
-        "photographerUrl": "https://unsplash.com/@alexradelich",
-        "unsplashUrl": "https://unsplash.com/photos/boy-showing-hand-with-rubber-rtCfGTI7nCA"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Save the Children tarafından perşembe günü yayımlanan rapora göre, 2025 yılında Afrika'da yaklaşık 260 milyon çocuk silahlı çatışmaların yakınında yaşadı. Bu rakam, kıtadaki her beş çocuktan ikisinin çatışma bölgelerine yakın olduğunu ve bunun şimdiye kadar kaydedilen en yüksek oran olduğunu gösterdi. Küresel genelinde ise yaklaşık her dört çocuktan biri çatışma bölgelerinin yakınında bulundu. Afrika'daki çatışma bölgelerinde yaşayan çocuk sayısı 2024'ten 2025'e yaklaşık yüzde 20 oranında arttı. 2010 yılında her sekiz çocuktan biri çatışma bölgesinde yaşarken, 2025'te bu oran Orta Doğu ile benzer seviyeye ulaştı. 2015 yılında 378 milyon olan küresel çocuk çatışma bölgesi sayısı, 1990'da kayıtların başlamasından bu yana en yüksek seviye olan 589 milyon çocuğa yükseldi. Raporu hazırlayan Oslo Barış Araştırmaları Enstitüsü'nden araştırma profesörü Gudrun Ostby, bu rekor rakamların çatışmaların çocukların günlük yaşamını, eğitimini ve sağlığını tahrip ettiğini belirtti. BM, 2005 yılından bu yana izleme çalışmalarının başladığı dönemdeki ikinci en yüksek yıllık toplam olarak 2025 yılında çocuklara yönelik 38.967 ağır ihlal doğruladı. Bu ihlallerin yarısından fazlası işgal altındaki Filistin topraklarında, Demokratik Kongo Cumhuriyeti'nde ve Nijerya'da gerçekleşti. Öte yandan yardımların engellenmesi, raporda en hızlı artış gösteren ihlal türü olarak kaydedildi. Save the Children International Üst Yöneticisi Inger Ashing, yardımların silah haline getirildiğini ve kasıtlı olarak engellendiğini ifade etti.",
-      "highlights": [
-        "Afrika'da 2025 yılında yaklaşık 260 milyon çocuk silahlı çatışmaya yakın yerlerde yaşadı.",
-        "Bu oran Afrika'da her beş çocuktan ikisine denk geliyor ve şimdiye kadar kaydedilen en yüksek oranı oluşturuyor.",
-        "Dünya genelinde ise yaklaşık her dört çocuktan biri çatışmaların yakınında yaşadı."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/africa/20261119-number-of-children-near-armed-conflict-in-africa-rises-by-nearly-a-fifth-save-the-children",
-      "publishedAt": "2026-11-19T15:37:15.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T05:24:18.381Z",
       "isBreaking": false
     }
   ],
