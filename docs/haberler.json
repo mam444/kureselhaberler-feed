@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-24T12:05:05.516Z",
+  "generatedAt": "2026-11-24T12:14:37.245Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/bakan-tekin-izmirli-ogretmenlere-uzaktan-baglandi-ne-taahhut-edildiyse-yapacagiz-7706995",
+      "headline": "Bakan Tekin, İzmirli öğretmenlere uzaktan bağlandı: 'Ne taahhüt edildiyse yapacağız'",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1577896851231-70ef18881754?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8dGVhY2hlciUyMGNsYXNzcm9vbXxlbnwxfDB8fHwxNzk1NTIyNDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "National Cancer Institute",
+        "photographerUrl": "https://unsplash.com/@nci",
+        "unsplashUrl": "https://unsplash.com/photos/woman-standing-in-front-of-children-N_aihp118p8"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "AK Parti İzmir Milletvekili Ceyda Bölünmez Çankırı, Öğretmenler Günü kapsamında İzmir Kız Lisesi'ni ziyaret etti. Okul girişinde öğrenciler tarafından karşılanan ve onlarla sohbet eden Çankırı'ya, İzmir İl Milli Eğitim Müdürü Ömer Yahşi, AK Parti Konak İlçe Başkanı ve teşkilat mensupları eşlik etti.\n\nÖğretmenler odasında eğitimcilerle bir araya gelen Çankırı, talep ve sorunları dinledikten sonra Milli Eğitim Bakanı Yusuf Tekin'i görüntülü aradı. Çankırı, Bakan Tekin'e öğretmenlerin Öğretmenler Günü'nü kutladığını iletti.\n\nGörüşmede Bakan Tekin, Çankırı'nın öğretmenlerle bir araya gelmesinden duyduğu memnuniyeti belirterek, \"Vekilimiz ne taahhüt ettiyse yapacağımıza söz veriyoruz\" dedi. Tekin, Türkiye'nin eğitim alanında önemli bir atılım sürecinden geçtiğini, eğitim seviyesinin yükseltilmesi ve politikaların güçlendirilmesi çalışmalarının kararlılıkla sürdüğünü ifade etti.\n\nÇankırı, öğretmenliğin ülkenin geleceğini şekillendiren kutsal bir sorumluluk olduğunu vurgulayarak Başöğretmen Gazi Mustafa Kemal Atatürk ve şehit öğretmenleri andı. Türkiye'nin zor dönemlerinde görev yapan öğretmenlerin meslek aşkından vazgeçmediğini belirten Çankırı, terörsüz Türkiye hedefiyle karanlık günlerin geride kaldığını ifade etti. Ziyaret, hatıra fotoğrafı çekilmesiyle sona erdi.",
+      "highlights": [
+        "AK Parti İzmir Milletvekili Ceyda Bölünmez Çankırı İzmir Kız Lisesi'ni ziyaret etti.",
+        "Milli Eğitim Bakanı Yusuf Tekin görüntülü görüşmede, 'Vekilimiz ne taahhüt ettiyse yapacağımıza söz veriyoruz' dedi.",
+        "Ziyaret, öğretmenlerle hatıra fotoğrafı çektirilmesiyle sona erdi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-tekin-izmirli-ogretmenlere-uzaktan-baglandi-ne-taahhut-edildiyse-yapacagiz-7706995",
+      "publishedAt": "2026-11-24T12:11:32.000Z",
+      "category": "Eğitim",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261124-macron-mulls-enshrining-fiscal-rules-in-french-constitution",
+      "headline": "Macron, Fransa Anayasası'na mali kurallar eklemeyi değerlendiriyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1585846328761-acbf5a12beea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RW1tYW51ZWwlMjBNYWNyb258ZW58MXwwfHx8MTc5NTUyMjQ2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "steffen wienberg",
+        "photographerUrl": "https://unsplash.com/@wnbrg",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-jacket-TjWWMh_PnW8"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Fransa Cumhurbaşkanı Emmanuel Macron, ülkenin mali seyrine ilişkin finansal piyasalardaki endişelere bir yanıt olası bir ihtimal olarak, kamu finansmanı için bir çerçeveyi anayasaya dahil etmeye yönelik 15 yıllık bir teklifin yeniden canlandırılmasını önerdi.\n\nLe Figaro'ya konuşan Macron, \"Ocak ayına kadar hâlâ oynaklık olursa, 2011'de önerilen türden bir 'altın kural' üzerinde düşünmek keşfedilmeye değer bir fikir olabilir\" ifadelerini kullandı. Bu önerinin, finansal piyasalardaki kaygılar karşısında gündeme geldiği belirtildi.",
+      "highlights": [
+        "Macron kamu finansmanı çerçevesini anayasaya ekleme önerisini gündeme getirdi",
+        "Öneri finansal piyasalardaki endişelere karşı değerlendiriliyor",
+        "Macron ocak ayına kadar oynaklık sürmesi halinde 2011'deki teklifin incelenebileceğini belirtti"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261124-macron-mulls-enshrining-fiscal-rules-in-french-constitution",
+      "publishedAt": "2026-11-24T11:53:44.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
       "headline": "Kolombiya'nın Villavicencio kentinde bombalı araç saldırısı: 20'den fazla yaralı",
@@ -582,24 +630,29 @@
     },
     {
       "id": "https://www.cnnturk.com/turkiye/baraj-doluluk-oranlari-23-kasim-istanbul-ankara-izmir-ve-bursa-barajlarinda-doluluk-orani-ne-oldu-omerli-tahtali-akyar-baraj-3497112",
-      "headline": "BARAJ DOLULUK ORANLARI 23 KASIM: İstanbul, Ankara, İzmir ve Bursa barajlarında doluluk oranı ne oldu? Ömerli, Tahtalı, Akyar baraj doluluk oranları 2026",
+      "headline": "23 Kasım baraj doluluk oranları: İstanbul, Ankara, İzmir ve Bursa'da son durum",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "2 dk önce",
-      "body": "Baraj doluluk oranları 23 Kasım 2026 Pazartesi günü sorgulanıyor. İstanbul, Ankara, İzmir, Bursa gibi büyük illerdeki barajların doluluk oranları, vatandaşların gündeminde. İSKİ verilerine göre bugün barajların toplam doluluk oranı yüzde 60.56 olarak kaydedildi. Ömerli Barajı doluluk oranı yüzde 78,67 oldu. Peki İstanbul, Ankara, İzmir ve Bursa barajlarında doluluk oranı ne oldu? İşte Ömerli, Tahtalı, Akyar ve diğer…",
-      "highlights": [],
+      "body": "23 Kasım 2026 tarihinde İstanbul, Ankara, İzmir ve Bursa başta olmak üzere büyük illerdeki barajların doluluk oranları vatandaşlar tarafından sorgulanmaya devam ediyor. Kış mevsiminin gelmesi ve yağışların artmasının ardından barajların son durumuna ilişkin veriler paylaşıldı.\n\nİSKİ verilerine göre İstanbul'da barajların toplam doluluk oranı yüzde 60,56 olarak kaydedildi. Kentteki bazı barajların oranları şöyle sıralandı: Ömerli Barajı yüzde 78,67, Darlık Barajı yüzde 89,64, Elmalı Barajı yüzde 68,17, Terkos Barajı yüzde 54,56, Alibey Barajı yüzde 72,02, Büyükçekmece Barajı yüzde 42,72, Sazlıdere Barajı yüzde 45,28, Istrancalar Barajı yüzde 40,57, Kazandere Barajı yüzde 12,35 ve Pabuçdere Barajı yüzde 7,21.\n\nAnkara'daki baraj doluluk oranları ise Kesikköprü'de yüzde 100, Eğrekkaya'da yüzde 56,58, Kurtboğazı'nda yüzde 51, Çubuk 2'de yüzde 48,95, Kavşakkaya'da yüzde 40,49, Akyar'da yüzde 32,68, Çamlıdere'de yüzde 32,06, Peçenek'te yüzde 25,97, Türkşerefli'de yüzde 11,66 ve Kargalı'da yüzde 10,15 olarak açıklandı.\n\nİzmir barajlarında ise oranlar Güzelhisar için yüzde 64,20, Ürkmez için yüzde 63,61, Alaçatı Kutlu Aktaş için yüzde 52,14, Tahtalı için yüzde 40,32, Balçova için yüzde 35,61 ve Gördes için yüzde 27,59 olarak duyuruldu. Öte yandan BUSKİ verilerine göre Bursa'daki barajların ortalama doluluk oranı yüzde 73,93 oldu.",
+      "highlights": [
+        "İstanbul'da toplam baraj doluluk oranı yüzde 60,56 olarak kaydedildi.",
+        "Bursa'daki barajların ortalama doluluk oranı yüzde 73,93 oldu.",
+        "Ankara'da Kesikköprü barajı yüzde 100 doluluk oranına ulaştı."
+      ],
       "externalUrl": "https://www.cnnturk.com/turkiye/baraj-doluluk-oranlari-23-kasim-istanbul-ankara-izmir-ve-bursa-barajlarinda-doluluk-orani-ne-oldu-omerli-tahtali-akyar-baraj-3497112",
       "publishedAt": "2026-11-23T19:12:13.000Z",
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z",
+      "sourceTextAttemptedAt": "2026-11-24T12:14:19.872Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/chpde-kurultay-tartismasi-3497113",
-      "headline": "CHP'de kurultay tartışması",
+      "headline": "CHP'de kurultay tartışması ve erteleme kararı sürüyor",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
       "imageUrl": "https://images.unsplash.com/photo-1753646784650-c956f24e93df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Q0hQJTI3ZGUlMjBrdXJ1bHRheSUyMHRhcnQlQzQlQjElQzUlOUZtYXMlQzQlQjF8ZW58MXwwfHx8MTc5NTQ2MDc4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -609,13 +662,18 @@
         "unsplashUrl": "https://unsplash.com/photos/a-red-building-with-people-walking-around-it-PJvUlXacETg"
       },
       "timeAgo": "şimdi",
-      "body": "CHP’de kurultay tartışması sürüyor. Kongre takviminin bir kez daha ertelenmesi parti içinde itirazlara neden oldu. Oğuz Kaan Salıcı’nın ardından Akif Hamzaçebi de erteleme kararına tepki gösterdi. CHP yönetimi ise itiraz eden isimlerle görüşme kararı aldı. Gözler şimdi çarşamba günü yapılacak MYK toplantısında.",
-      "highlights": [],
+      "body": "Cumhuriyet Halk Partisi'nde (CHP) kurultay takviminin yeniden değiştirilmesi ve kongre takviminin ertelenmesi parti içinde tartışmalara ve itirazlara yol açtı. İl kongrelerinin tamamlanma tarihi 14 Şubat'tan 2 Mayıs'a ertelendi.\n\nAlınan erteleme kararına parti içinden ilk sert tepkilerden biri, genel başkan adaylığı için ismi geçen CHP İstanbul Milletvekili Oğuz Kaan Salıcı'dan geldi. Salıcı, sürecin kurultay yapmama kararına dönüştüğünü savundu. Salıcı'nın ardından CHP Parti Meclisi Üyesi Akif Hamzaçebi de erteleme kararına itiraz eden isimler arasında yer aldı.\n\nParti içinden yükselen seslere CHP Grup Başkanı Faik Öztrak tepki gösterdi. Öztrak, parti yönetiminin meşruiyetinin tartışmaya açılmasının fırsatçılık olduğunu belirterek, zamanın birbirini suçlama zamanı olmadığını ifade etti.\n\nKılıçdaroğlu başkanlığında gerçekleştirilen son MYK toplantısında, itiraz eden isimlerle görüşülmesi kararlaştırıldı. Parti yönetimi, Oğuz Kaan Salıcı ve Akif Hamzaçebi'nin eleştirilerini dinleyerek erteleme kararının gerekçelerini aktaracak. Tüm gözler çarşamba günü yapılacak MYK toplantısına çevrilirken, CHP yönetimi takvimin olası hukuki sorunların önüne geçmek ve Yargıtay'dan beklenen karar doğrultusunda uzatıldığını belirtti. Görüşmelerin ardından kararda bir değişiklik beklenmiyor.",
+      "highlights": [
+        "Kongre takviminin ertelenmesi CHP içinde itirazlara yol açtı.",
+        "Oğuz Kaan Salıcı ve Akif Hamzaçebi erteleme kararına tepki gösterdi.",
+        "CHP yönetimi itiraz eden isimlerle görüşme kararı aldı."
+      ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/chpde-kurultay-tartismasi-3497113",
       "publishedAt": "2026-11-23T19:08:47.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T12:14:19.872Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/valilikten-kritik-uyari-batman-barajindan-olasi-su-tahliyesi-7706472",
@@ -1191,7 +1249,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:04:23.316Z",
-      "imageSearchAttemptedAt": "2026-11-23T17:04:23.316Z"
+      "imageSearchAttemptedAt": "2026-11-24T12:14:19.872Z"
     },
     {
       "id": "https://www.trthaber.com/haber/turkiye/istanbula-soguk-hava-geliyor-sicaklik-8-derece-dusuyor-964227.html",
@@ -1426,7 +1484,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:14:23.506Z",
-      "imageSearchAttemptedAt": "2026-11-23T16:14:23.506Z"
+      "imageSearchAttemptedAt": "2026-11-24T12:14:19.872Z"
     },
     {
       "id": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-xml-mrss",
@@ -14461,55 +14519,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:34:25.266Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ak-parti-milletin-partisidir-1751630",
-      "headline": "Cumhurbaşkanı Erdoğan: AK Parti milletin partisidir",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1664612707232-95ba8d2ed7bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QUslMjBQYXJ0aSUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NTA4Njg3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Pranav Shrivastava",
-        "photographerUrl": "https://unsplash.com/@pranavshrivastava",
-        "unsplashUrl": "https://unsplash.com/photos/a-drink-and-a-bag-of-chips-rpaPCqtBv-g"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Cumhurbaşkanı ve AK Parti Genel Başkanı Recep Tayyip Erdoğan, partisinin Genişletilmiş İl Başkanları Toplantısı'nda açıklamalarda bulundu. Erdoğan, AK Parti'nin 12 milyona yaklaşan üye sayısı ile Türkiye'nin en geniş ailesi ve milletin partisisi olduğunu belirterek, partinin Türkiye'yi büyütmeye devam edeceğini ifade etti. Konuşmasında sokakla bağlarının kopmadığını vurgulayan Erdoğan, siyaseti çarşıda ve pazarda milletin içinde yaptıklarını, milletin hizmetkarı ve emrinde olduklarını kaydetti.\n\nEleştiri maskesi altında yapılan hakaretleri ve iftiraları kabul etmeyeceklerini söyleyen Cumhurbaşkanı Erdoğan, fitnecilere ve araya nifak sokmak isteyenlere karşı uyanık olacaklarını belirtti. Dedikodu ve fısıltılardan uzak durduklarını dile getiren Erdoğan, rehavete kapılmadan çok çalışmaya devam edeceklerini vurguladı.\n\nYerel yönetimler reformu hazırlıklarına da değinen Erdoğan, büyükşehir ve ilçe belediyeleri arasındaki görev ve yetki paylaşımının berraklaştırılmasını amaçlayan çalışmanın 5 başlıkta titizlikle sürdüğünü belirtti. Hedeflerinin güçlü denetim, sağlam mali yapı ve hesap verebilir bir yönetim anlayışı olduğunu kaydetti.\n\nTerörsüz Türkiye sürecini hedefine ulaştırmakta kararlı olduklarını belirten Erdoğan, bu sürece takoz koyanların milletin vicdanında mahkum olacağını ifade etti.\n\nÖte yandan toplantıda, aralarında CHP'den istifa eden Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir ile Yeni Parti'den istifa eden Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer'in de bulunduğu ikisi büyükşehir olmak üzere toplam 9 belediye başkanı AK Parti'ye katıldı. Erdoğan, katılan başkanlara rozetlerini taktı.",
-      "highlights": [
-        "AK Parti 12 milyona yaklaşan üye sayısı ile Türkiye'nin en geniş ailesidir.",
-        "Yerel yönetimler reformu 5 başlıkta çok titiz şekilde devam ediyor.",
-        "İkisi büyükşehir olmak üzere toplam 9 belediye başkanı AK Parti'ye katıldı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-ak-parti-milletin-partisidir-1751630",
-      "publishedAt": "2026-11-19T11:13:26.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T16:14:32.412Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/france/20261119-france-raises-bird-flu-alert-to-highest-level-as-infections-spread-across-europe",
-      "headline": "Fransa, Avrupa'da yayılan kuş gribi vakaları nedeniyle alarm seviyesini en üst düzeye çıkardı",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1632158833280-036628bb3d70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmlyZCUyMGZsdXxlbnwxfDB8fHwxNzk1MDg2ODY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hasan Almasi",
-        "photographerUrl": "https://unsplash.com/@hasanalmasi",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-pink-birds-eye-60gCMt1kVZQ"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Fransa, Avrupa genelinde yaban kuşları arasındaki enfeksiyonların artması üzerine kuş gribi risk seviyesini en yüksek dereceye yükseltti. Cuma günü yürürlüğe girecek karar doğrultusunda kümes hayvanı hareketlerine yasaklar getirilirken, çiftliklerdeki evcil hayvanların yaban kuşlarından ayrı tutulmasına yönelik sıkı kurallar uygulanacak. \n\nTarım Bakanlığı tarafından yapılan açıklamada, kararın ana karadaki evcil hayvan sürülerinde görülen salgınlar ve göç yollarındaki yaban kuşlarında virüsün dolaştığına dair kanıtlar sonrasında alındığı belirtildi. Yetkililer, Fransa'dan geçen göç yolları üzerindeki yaban kuşlarında vakaların doğrulandığını aktardı.\n\nÜlke, Haziran ayından bu yana 'ihmal edilebilir' olan risk seviyesini Kasım ayı başında 'orta' düzeye çıkarmıştı. Resmi Gazete'de yayımlanan kararnameyle birlikte anakara Fransa, son derece patojenik kuş gribi için belirlenen üç aşamalı alarm seviyesinin en üst kademesine taşındı.\n\nAvrupa genelinde göç koridorlarındaki yaban kuşları arasında yeniden bir artış rapor edilirken, uzmanlar virüsün hızla değiştiği konusunda uyarıda bulunuyor. Fransa, Ekim 2023'ten bu yana 250'den fazla ördek yetiştiren çiftliklerde zorunlu aşama programı uygulayan tek Avrupa Birliği ülkesi konumunda bulunuyor. Uzmanlar, aşama programının büyük salgınların kontrol altında tutulmasına yardımcı olduğunu ifade ediyor. Yeni en yüksek alarm seviyesiyle birlikte çiftçiler, enfekte yaban kuşlarıyla teması önlemek amacıyla biyogüvenlik önlemlerini güçlendirmek zorunda kalacak.",
-      "highlights": [
-        "Fransa kuş gribi risk seviyesini en yüksek dereceye çıkardı.",
-        "Kümes hayvanı hareketlerine yasaklar ve yeni kısıtlamalar getirildi.",
-        "Ülke, 250'den fazla ördek yetiştiren çiftliklerde zorunlu aşama programı uyguluyor."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/france/20261119-france-raises-bird-flu-alert-to-highest-level-as-infections-spread-across-europe",
-      "publishedAt": "2026-11-19T11:12:37.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
