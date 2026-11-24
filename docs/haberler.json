@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-24T15:26:17.895Z",
+  "generatedAt": "2026-11-24T15:37:24.508Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/2026/11/24/sanofi-abdli-insmedi-41-milyar-dolara-nakit-karsiligi-alacak",
+      "headline": "Sanofi, ABD'li Insmed'i 41 milyar dolara nakit karşılığı alacak",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": "https://images.unsplash.com/photo-1699380309667-a202c5f4a8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2Fub2ZpJTJDJTIwQUJEJTI3bGklMjBJbnNtZWQlMjdpJTIwNDElMjBtaWx5YXIlMjBkb2xhcmElMjBuYWtpdCUyMGthciVDNSU5RiVDNCVCMWwlQzQlQjElQzQlOUYlQzQlQjElMjBhbGFjYWt8ZW58MXwwfHx8MTc5NTUzNDUxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Austin Crick",
+        "photographerUrl": "https://unsplash.com/@austin_nft",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-up-their-cell-phones-hE-d4XDdKec"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Fransız ilaç şirketi Sanofi, ABD’li biyofarma Insmed’i 41 milyar $ (37,4 milyar €) nakitle satın almayı kabul etti. Bu büyük anlaşma, en çok satan ilacının patenti bitmeden önce yeni ilaç portföyünü güçlendirmeyi hedefliyor.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/2026/11/24/sanofi-abdli-insmedi-41-milyar-dolara-nakit-karsiligi-alacak",
+      "publishedAt": "2026-11-24T15:30:19.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/nigdede-saganak-etkili-oldu-suruculer-zor-anlar-yasadi-4876147",
       "headline": "Niğde'de sağanak etkili oldu: Bazı cadde ve sokaklarda su birikti",
@@ -15,7 +35,8 @@
       "publishedAt": "2026-11-24T15:21:35.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T15:34:23.740Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
@@ -31,12 +52,37 @@
       "timeAgo": "3 dk önce",
       "body": "İngiltere Başbakanı Andy Burnham, başka bir referandum yapılmadan birliğe yeniden katılmanın düşünülemez olduğunu savunmasına rağmen Brexit tartışmasını yeniden başlattı.\n\nİngiltere ve Avrupa Birliği'ni gıda ihracat kontrol standartları, gençlerin hareketliliği ve karbon emisyonları gibi konularda birbirine yaklaşturan bir anlaşma sağlayan Burnham, önümüzdeki haftalarda Brüksel ile ilişkinin geleceğini görüşmeye hazırlanıyor. Görüşmelerin sonuçlarını ise Aralık ayında sunacak.\n\nBu hamle, eski Muhafazakâr Parti başbakanlarının eleştirilerine rağmen gerçekleşiyor.",
       "highlights": [
-        "İngiltere Başbakanı Andy Burnham Brexit tartışmasını yeniden açtı.",
-        "İngiltere ve AB gıda standartları ve gençlerin hareketliliği konularında yakınlaştı.",
-        "Görüşme sonuçları Aralık ayında sunulacak."
+        "İngiltere Başbakanı Andy Burnham Brexit tartışmalarını yeniden açtı",
+        "Gıda ihracat standartları ve genç hareketliliği konularında anlaşma sağlandı",
+        "Görüşme sonuçları Aralık ayında sunulacak"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
       "publishedAt": "2026-11-24T15:21:24.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T15:34:23.740Z"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261124-the-french-mayors-refusing-to-back-presidential-candidates",
+      "headline": "Fransız belediye başkanları cumhurbaşkanlığı adaylarına destek vermeyi reddediyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1673921948536-40c9d42289c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwbWF5b3JzJTIwY29uZ3Jlc3N8ZW58MXwwfHx8MTc5NTUzNDQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Denisse Leon",
+        "photographerUrl": "https://unsplash.com/@denisseleon",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-flag-on-top-of-it-hGwADorAD78"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Paris'te 108. Fransa Belediye Başkanları Kongresi'nin açılışı salı günü gerçekleştirildi. Kongrede cumhurbaşkanlığı yarışının çekişmeli bir konu olduğu belirtilirken, adayların seçime katılabilmesi için 500 belediye başkanının desteğine ihtiyaç duyduğu ifade edildi.\n\nAncak bu yılki kongrede belediye başkanlarının yaklaşık yarısının herhangi bir adaya destek vermeyi reddettiği bildirildi. Kongre kapsamında, Fransa'daki cumhurbaşkanlığı adaylarının belediye başkanları kongresinde kampanya yürüttüğü bilgisi de yer aldı. Konuya ilişkin detayların France 2 ve Caitlin Brown tarafından aktarıldığı kaydedildi.",
+      "highlights": [
+        "108. Fransa Belediye Başkanları Kongresi Paris'te açıldı",
+        "Adayların seçime katılabilmesi için 500 belediye başkanının desteği gerekiyor",
+        "Belediye başkanlarının yaklaşık yarısı bu yıl kimseye destek vermeyeceğini belirtiyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261124-the-french-mayors-refusing-to-back-presidential-candidates",
+      "publishedAt": "2026-11-24T15:18:39.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -13374,7 +13420,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
-      "imageSearchAttemptedAt": "2026-11-23T15:34:27.997Z",
+      "imageSearchAttemptedAt": "2026-11-24T15:34:23.740Z",
       "isBreaking": false
     },
     {
@@ -14443,56 +14489,6 @@
       "category": "Bilim",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T13:24:22.162Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
-      "headline": "Xi, Putin ve Trump'ın Shenzhen'deki Tarihi Üçlü Zirvesi Hakkında Bilinmesi Gerekenler",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1794304931114-9ac314aa32a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aGlzdG9yaWMlMjBzdW1taXR8ZW58MXwwfHx8MTc5NTA5NDA3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Yulya Powell",
-        "photographerUrl": "https://unsplash.com/@matsurimon",
-        "unsplashUrl": "https://unsplash.com/photos/rocky-mountain-above-golden-field-TaK9hEaZEr4"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Çin Devlet Başkanı Xi Jinping, Rusya Devlet Başkanı Vladimir Putin ve ABD Başkanı Donald Trump, Çin'in Shenzhen kentinde Perşembe günü düzenlenen tarihi üçlü zirvede bir araya geldi. Liderler, nükleer savaşın asla yapılmaması gerektiğini yineledikleri bir \"barış bildirisi\" üzerinde uzlaştı. Çin ve Rusya tarafından yapılan açıklamaya göre bu bildiri, Trump'ın Asya turunu taçlandırdı.\n\nİmzalanan bildiride üç lider, Birleşmiş Milletler'de reformların ilerletilmesi, tüm ülkeler için rafine petrol ürünleri arzının artırılması ve devlet yetkililerinin uluslararası mahkemelerdeki dokunulmazlıklarının korunması konularında taahhütte bulundu. Uluslararası Ceza Mahkemesi, Putin ve diğer bazı Rus yetkililer hakkında tutuklama emri çıkarmıştı; Moskova ise bu suçlamaları reddediyor.\n\nZirve, Batı yaptırımları altındaki Rusya için diplomatik bir kazanç olarak değerlendirilirken, ABD müttefikleri arasında soru işaretlerine yol açtı. Liderler Ukrayna, İran, nükleer silahlar ve ticaret konularında derin farklılıklara sahipken, bu durum kalıcı bir sonuç konusunda şüphe uyandırıyor. Çin ve Rusya, Ukrayna'daki çatışmaların çözümünde ortak çıkarları olduğunu belirtti.\n\nToplantının gerçekleştiği Kylin Villa, daha önce de hassas diplomatik buluşmalara ev sahipliği yapmıştı. Zirve öncesinde Trump, Xi ve Putin ile ayrı ayrı görüşmeler gerçekleştirdi ve her iki lideri de dostu olarak nitelendirdi. Toplantının ardından Trump, herhangi bir açıklama yapmadan ABD'ye dönmek üzere hareket etti. Belge, Çin resmi haber ajansı Xinhua ve Kremlin tarafından yayımlandı.",
-      "highlights": [
-        "Xi Jinping, Vladimir Putin ve Donald Trump Shenzhen'de tarihi bir üçlü zirvede buluştu.",
-        "Liderler nükleer savaşın asla yapılmaması gerektiğini belirten bir barış bildirisi imzaladı.",
-        "Bildiride BM'nin reformu, petrol arzının artırılması ve yetkililerin dokunulmazlığı yer aldı."
-      ],
-      "externalUrl": "https://www.france24.com/en/asia-pacific/20261119-what-to-know-about-xi-putin-and-trump-s-historic-trilateral-summit",
-      "publishedAt": "2026-11-19T13:11:27.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T13:24:22.162Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/hayat/buyukcekmecede-tahliye-edilen-evde-ask-siirleri-bulundu-4874467",
-      "headline": "Büyükçekmece'de tahliye edilen evin her yerinde aşk şiirleri: Ev sahibi şikayetçi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1630699144919-681cf308ae82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZW1wdHklMjBhcGFydG1lbnQlMjByb29tfGVufDF8MHx8fDE3OTUwOTM1MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Point3D Commercial Imaging Ltd.",
-        "photographerUrl": "https://unsplash.com/@3dottawa",
-        "unsplashUrl": "https://unsplash.com/photos/white-wooden-framed-glass-door-nQlVMCHPysY"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Büyükçekmece Fatih Mahallesi'nde bulunan 4 katlı binanın 2'nci katındaki dairede 2 yıl yaşayan kiracı, evin tahliye edilmesinin ardından dairenin duvarlarına, tavanına, kapı ve pencerelerine, mutfak dolaplarına, peteklere ve kombiye aşk şiirleri ile ayrılık sözleri yazdı. Yaklaşık 8-9 aydır kira ödemesi alamayan ev sahibi, tahliye davası açarak yasal süreç başlatmıştı. Yasal sürecin tamamlanmasıyla kiracı evi boşalttı.\n\nDaireyi kontrole giden ev sahibinin avukatı, evin demirbaşlarının ve yüzeylerinin yazılarla dolu olduğunu fark etti. Avukatın çektiği görüntüleri inceleyen ev sahibi büyük şaşkınlık yaşadı. Ev sahibi ve avukatı, daha önce benzeri görülmeyen bu durum karşısında şok olduklarını belirtti.\n\nEv sahibinin avukatı Ali Selman Altınbilek, tahsil edilemeyen kiralar için icra takibi ve tahliye süreçlerinin işletildiğini, ayrıca evdeki yazılar ve tahribat nedeniyle 'eve zarar verme' ile 'güveni kötüye kullanma' suçlarından yasal süreç başlatıldığını açıkladı. Avukat Altınbilek, zararların tazmin edileceğini belirtti.\n\nEski kiracının durumla ilgili olarak psikolojik durumunun iyi olmadığını ifade ettiği aktarıldı. Ayrıca dairede daha önce tahliye edilen bir tekel bayine ait eşyaların bulunduğu ve bu eşyaların taşınmasının da zorluk çıkardığı bilgisi paylaşıldı. Hukuki sürecin devam ettiği bildirildi.",
-      "highlights": [
-        "Kiracı, 2 yıl yaşadığı evden taşınırken dairenin çeşitli yerlerine aşk şiirleri ve ayrılık sözleri yazdı.",
-        "Ev sahibi, yaklaşık 9 aydır kira ödemediği belirtilen kiracı hakkında tahliye davası ve icra takibi başlattı.",
-        "Ev sahibinin avukatı, 'eve zarar verme' ve 'güveni kötüye kullanma' suçlarından hukuki sürecin sürdüğünü belirtti."
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/hayat/buyukcekmecede-tahliye-edilen-evde-ask-siirleri-bulundu-4874467",
-      "publishedAt": "2026-11-19T13:00:46.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T13:14:34.282Z",
       "isBreaking": false
     }
   ],
