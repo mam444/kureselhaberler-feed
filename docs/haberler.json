@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T23:04:36.472Z",
+  "generatedAt": "2026-11-24T23:14:29.369Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-3497702",
+      "headline": "Kolombiya’da silahlı saldırı: 25 kişi rehin alındı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Kolombiya’da silahlı saldırganlar başarısız soygun girişiminin ardından girdikleri süpermarkette 25 kişiyi rehin aldı.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-3497702",
+      "publishedAt": "2026-11-24T23:12:02.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/ak-parti-kurmaylarindan-cumhurbaskani-erdogana-yonelik-sloganlara-tepki-3497700",
       "headline": "AK Parti kurmaylarından Cumhurbaşkanı Erdoğan’a yönelik sloganlara tepki",
@@ -34,6 +50,23 @@
       "externalUrl": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
       "publishedAt": "2026-11-24T22:59:39.000Z",
       "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-24T23:14:26.616Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "headline": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "24 dk önce",
+      "body": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
+      "publishedAt": "2026-11-24T22:50:16.000Z",
+      "category": "Spor",
       "isBreaking": false,
       "lang": "en"
     },
@@ -1353,7 +1386,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T17:14:22.817Z",
+      "imageSearchAttemptedAt": "2026-11-24T23:14:26.616Z",
       "sourceTextAttemptedAt": "2026-11-24T17:44:21.856Z"
     },
     {
@@ -14211,54 +14244,6 @@
       ],
       "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
       "publishedAt": "2026-11-20T05:02:16.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-      "headline": "Gazze Sivil Savunması Araçların Arızalanması Nedeniyle Hayat Kurtarmakta Zorlanıyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1627636784403-a9ccdea8174d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cmVzY3VlJTIwdmVoaWNsZXxlbnwxfDB8fHwxNzk1MTUyODY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Geoffrey Moffett",
-        "photographerUrl": "https://unsplash.com/@geoffreymoffett",
-        "unsplashUrl": "https://unsplash.com/photos/white-orange-and-blue-sedan-sT9lZx5J3zE"
-      },
-      "timeAgo": "33 dk önce",
-      "body": "Gazze Sivil Savunma ekipleri, mahsur kalan kişilere ulaşmaya çalışırken büyük zorluklar yaşıyor. Ekiplerin kullandığı araçların yüzde 85'ten fazlası hizmet dışı kalmış durumda. Yaşanan bu araç yetersizliği ve arızalar, sivil savunma faaliyetlerini olumsuz etkiliyor ve ekiplerin yardım çağrılarına müdahale etmesini güçleştiriyor.",
-      "highlights": [
-        "Gazze Sivil Savunma araçlarının yüzde 85'ten fazlası hizmet dışı kaldı",
-        "Ekipler mahsur kalan kişilere ulaşmakta zorlanıyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/20/gaza-civil-defence-struggles-to-rescue-lives-as-vehicles-fall-into-disrepair?traffic_source=rss",
-      "publishedAt": "2026-11-20T05:01:40.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-      "headline": "BM Genel Sekreteri seçimi küresel güçler arasındaki bölünmeleri gözler önüne seriyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1673296630925-a16a5592cc14?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VW5pdGVkJTIwTmF0aW9uc3xlbnwxfDB8fHwxNzk1MTUzNDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Bernd 📷 Dittrich",
-        "photographerUrl": "https://unsplash.com/@hdbernd",
-        "unsplashUrl": "https://unsplash.com/photos/the-united-nations-emblem-is-on-display-in-front-of-a-window-WVXJSJmA0Zc"
-      },
-      "timeAgo": "44 dk önce",
-      "body": "Birleşmiş Milletler (BM) genel sekreterliği için yürütülen yarış, Cuma günü kritik bir aşamaya gelmeye hazırlanıyor. Güvenlik Konseyi'nde yapılacak gizli oylama, Costa Rikalı favori aday Rebeca Grynspan'in büyük güçler tarafından engellenip engellenmeyeceğini gösterecek. Bir ekonomist ve BM içinden bir isim olan Grynspan, 30 Temmuz'dan bu yana yapılan sekiz deneme oylamasının yedisinde lider konumdaydı. Ancak bu durum, daimi beş üye (P5) arasından Rusya ve ABD'nin adaya karşı direndiği düşüncesini beraberinde getiriyor.\n\nCuma günkü oylamada P5 üyeleri kırmızı, seçilmiş 10 üye (E10) ise beyaz oy pusulaları kullanacak. Adayın BM Genel Kurulu'na önerilmesi için dokuz oya ve hiçbir daimi üyeden veto almamaya ihtiyacı var. Süreç, mevcut Genel Sekreter António Guterres'i de zorlayan kutuplaşmayı gözler önüne seriyor. Öte yandan oylama, Birleşik Arap Emirlikleri'nin (BAE) diplomatı Lana Nusseibeh'in adaylığına yönelik tutumları da netleştirebilir. Nusseibeh; ABD ve Rusya'nın desteğini alırken, bazı ülkeler ve milletvekilleri BAE'nin izlediği aktif diplomasi ve Sudan, Somali ile Yemen gibi bölgelerdeki politikaları nedeniyle duruma mesafeli yaklaşıyor.\n\nLatin Amerika ülkeleri ise gayriresmi rotasyon sistemi gereği sıranın kendilerinde olduğunu savunuyor ve Panama ile Kolombiya gibi Konsey üyeleri bu doğrultuda tutum alıyor. Çin de bu rotasyon ilkesini destekliyor. Diğer taraftan, Arjantinli aday Rafael Grossi de Rusya'nın muhalefetiyle karşılaşıyor; Moskova, Grossi'nin Ukrayna'daki Zaporijya nükleer santresine yönelik müdahalelerine itiraz ediyor.\n\n140 gündür süren bu kilitlenme, küresel güçler arasındaki derin ayrışmaları ortaya koyuyor. Cuma günkü renk kodlu gizli oylamanın sonuçları, yeni genel sekreterin belirlenmesi yolundaki dengeleri ve olası vetoları açıkça gözler önüne serecek.",
-      "highlights": [
-        "Rebeca Grynspan bugüne kadarki deneme oylamalarının çoğunda lider konumda yer aldı.",
-        "Güvenlik Konseyi'nde yapılacak Cuma günkü oylamada daimi üyeler kırmızı pusula kullanacak.",
-        "Latin Amerika ülkeleri rotasyon kuralı nedeniyle kendi bölgelerinden bir aday istiyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/2026/nov/20/race-to-be-next-un-secretary-general-exposes-divisions-among-world-powers",
-      "publishedAt": "2026-11-20T05:00:24.000Z",
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
