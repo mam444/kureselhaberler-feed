@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T16:47:00.409Z",
+  "generatedAt": "2026-11-24T16:55:06.417Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
+      "headline": "Gürsel Tekin'den CHP kurultayı ve nisan ayı açıklaması",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3OTU1MzkyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "History in HD",
+        "photographerUrl": "https://unsplash.com/@historyhd",
+        "unsplashUrl": "https://unsplash.com/photos/barack-obama-v_e3Hha4EBA"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "CHP Koordinatörü Gürsel Tekin, bir canlı yayın konuğu olarak partinin kurultay sürecine dair önemli değerlendirmelerde bulundu. TGRT Haber ekranlarında konuşan Tekin, Cumhuriyet Halk Partisi'nin kısa süre içerisinde kurultay gerçekleştireceğini vurguladı.\n\nSüreçle ilgili olarak nisan ayını işaret eden Tekin, partide adaylık düşünen isimlere de net bir mesaj verdi. Kurultayda yarışmak ve aday olmak isteyen her arkadaşının aday olabileceğini belirtti.\n\nTekin, partililerin ve kamuoyunun bu konuda herhangi bir tereddüt yaşamaması gerektiğini ifade ederek, kısa zaman içinde kurultayın yapılacağını yineledi. Açıklamalarında nisan ayında kurultay yapılacağını net bir şekilde dile getirdi.",
+      "highlights": [
+        "Gürsel Tekin CHP'nin kurultayını yapacağını belirtti",
+        "Aday olmak isteyenlerin yarışabileceğini ifade etti",
+        "Kurultay için nisan ayını işaret etti"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
+      "publishedAt": "2026-11-24T16:52:46.000Z",
+      "category": "Eğitim",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
       "headline": "Senegal'in AFCON Kupasını Nasıl Geri Aldığı İnceleniyor",
@@ -22,7 +46,8 @@
       "publishedAt": "2026-11-24T16:41:22.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T16:54:29.299Z"
     },
     {
       "id": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3929634",
@@ -38,13 +63,38 @@
       "timeAgo": "6 dk önce",
       "body": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, İngiltere ekibi Aston Villa'yı RAMS Park'ta konuk ediyor. Kritik mücadele öncesinde iki takımın ilk 11'leri açıklandı. Karşılaşma saat 20.45'te başlayacak ve TRT 1'den yayınlanacak.\n\nGalatasaray'ın ilk 11'inde Uğurcan, Singo, Davinson, Abdülkerim, Jakobs, Torreira, Lemina, Yunus, Batrakov, Eren ve Barış Alper yer alıyor. Konuk ekip Aston Villa'nın ilk 11'i ise Suzuki, Harwood-Bellis, Lindelöf, Mings, Maatsen, McGinn, Joao Gomes, Kamara, Alysson, Manzambi ve Jackson'dan oluşuyor.\n\nSarı-kırmızılı ekipte sakatlıkları bulunan Sallai, Rafael Leao ve Osimhen bu zorlu karşılaşmada forma giyemiyor. Mücadele öncesinde RAMS Park'ın zeminindeki bakım ve iyileştirme çalışmalarının tamamlandığı ve zeminin düzeldiği görüldü. Ayrıca Galatasaray tribünlerinde Filistin yanlısı pankartların yer aldığı dikkat çekti.\n\nŞampiyonlar Ligi'nde oynadığı 4 maçta 6 puan toplayan Galatasaray, bu karşılaşmadan galibiyetle ayrılarak ilk 24 için önemli bir avantaj yakalamayı hedefliyor. Dört maç sonunda 9 puanı bulunan Aston Villa ise 6. sırada yer alıyor. Sarı-kırmızılılar mücadeleye parçalı formasıyla çıkacak.",
       "highlights": [
-        "Galatasaray ve Aston Villa maçının ilk 11'leri açıklandı.",
-        "Sarı-kırmızılılarda sakatlıkları bulunan Sallai, Rafael Leao ve Osimhen forma giyemiyor.",
-        "Galatasaray 4 maçta 6 puanla, Aston Villa ise 9 puanla mücadele ediyor."
+        "Galatasaray - Aston Villa maçı ilk 11'leri açıklandı.",
+        "Galatasaray'da Sallai, Rafael Leao ve Osimhen sakatlıkları nedeniyle forma giyemiyor.",
+        "Karşılaşma RAMS Park'ta saat 20.45'te oynanıyor."
       ],
       "externalUrl": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3929634",
       "publishedAt": "2026-11-24T16:40:12.000Z",
       "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T16:54:29.299Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "headline": "Birleşik Krallık uçuşu engellenen 'hamamböceği' hareketinin lideri: Hindistan hükümeti kontrolü kaybetti",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1761836886143-dadfe8f129a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YWlycG9ydCUyMHByb3Rlc3QlMjBJbmRpYXxlbnwxfDB8fHwxNzk1NTM5MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Upendra Wanmali",
+        "photographerUrl": "https://unsplash.com/@upendrawanmali",
+        "unsplashUrl": "https://unsplash.com/photos/airplanes-parked-at-airport-terminal-on-a-rainy-day-oWrJ41uK-IA"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "Hindistan'daki \"hamamböceği\" hareketinin liderlerinden Saurav Das, Birleşik Krallık'a gitmek üzere ülkeyi terk etmesinin engellenmesinin ardından Delhi hükümetinin \"kontrolü tamamen kaybettiğini\" söyledi. Salı sabahı uçağa binişi planlanan Das, göçmenlik memurları tarafından pasaportunda doğum tarihiyle ilgili uyumsuzluk olduğu gerekçesiyle durdurulduğunu belirtti.\n\nBBC'ye konuşan Das, belgelerinde herhangi bir tutarsızlık olmadığını savunarak, Hint hükümetini aktivistlerin seyahat etmesini ve gençleri ilgilendiren konularda konuşmasını engellemek için ucuz taktikler kullanmakla suçladı. BBC, federal içişleri bakanlığı, Delhi polisi ve havalimanı yetkilileriyle iletişime geçerek yorum talep ettiğini bildirdi.\n\nSaurav Das, yaşananların hükümetin \"korktuğunu\" gösterdiğini ifade ederek, kendilerini soru sormak isteyen bir nesille baş etmek zorunda kalmamış olan yetkililerin bu durumdan ürktüğünü dile getirdi. Seyahat etmesine izin verilmemesinin Hindistan'ın dünya sahnesindeki saygınlığını düşürdüğünü vurgulayan Das, bunun Başbakan Narendra Modi hükümeti tarafından aktivistleri ve genç sesleri taciz etme ve hedef alma yöntemi olduğunu öne sürdü.\n\nOlayın ardından Cockroach Janta Party'nin (CJP) bir diğer lideri Ratna Singh, seyahat engellemesinin ifade özgürlüğü ve gençlerin ses alanına dair derin sorular doğurduğunu ifade etti. Londra Ekonomi Okulu Öğrenci Birliği'ne bağlı Uluslararası Af Örgütü birimi de Das'ın katılacağı bir etkinlik süresiz ertelendiğini duyurdu. Eskiden gazeteci olan Das, mizah olarak başlayıp gençlerin öncülük ettiği bir baskı grubuna dönüşen Z kuşağı odaklı CJP'nin yüzlerinden biri haline gelmişti.\n\nTemmuz ayında CJP öncülüğündeki protestolar, sınav kağıdı sızıntıları nedeniyle Hindistan Eğitim Bakanı Dharmendra Pradhan'ın istifasına yol açmıştı. CJP, ilerleyen dönemde de protestolarını sürdüreceğini belirtirken, şimdilik siyasi bir parti olmayı hedeflemediklerini kaydetti. Diğer yandan, geçmişte de benzer uçuş engelleme vakalarının yaşandığı ve aktivist ile gazetecilerin seyahatlerinin kısıtlandığı biliniyor.",
+      "highlights": [
+        "Saurav Das, pasaportunda uyumsuzluk olduğu gerekçesiyle Birleşik Krallık uçuşundan men edildi.",
+        "Das, hareketin Oxford, Cambridge ve Edinburgh üniversitelerindeki etkinliklerde konuşma yapmasının planlandığını belirtti.",
+        "CJP liderleri daha önce protestolar ve istifa talepleri nedeniyle gözaltına alınmıştı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T16:37:04.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -14432,56 +14482,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T15:24:18.875Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506",
-      "headline": "Şanlıurfa'da yolcu minibüsü şarampole devrildi: 24 yaralı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1534011056808-50c1c6082fe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWluaWJ1cyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTUwOTg4OTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mulberry Digital",
-        "photographerUrl": "https://unsplash.com/@mulberrydigital",
-        "unsplashUrl": "https://unsplash.com/photos/white-toyota-bus-T-WRLSsiZYE"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Şanlıurfa'nın Siverek ilçesinde meydana gelen trafik kazasında aralarında çocukların da bulunduğu 24 kişi yaralandı.\n\nŞ.C. yönetimindeki 60 EA 425 plakalı yolcu minibüsü, kırsal Dilekli Mahallesi yakınlarında sürücüsünün direksiyon hakimiyetini kaybetmesi neticesinde şarampole devrildi.\n\nKazanın ardından çevredeki kişilerin ihbarı üzerine olay yerine sağlık, itfaiye ve jandarma ekipleri sevk edildi.\n\nBölgeye ulaşan sağlık ekiplerinin ilk müdahalesinin ardından yaralılar ambulanslarla Siverek Devlet Hastanesine kaldırıldı. Hastanede tedavi altına alınan yaralılardan 2'sinin sağlık durumunun ciddiyetini koruduğu öğrenildi.",
-      "highlights": [
-        "Şanlıurfa'nın Siverek ilçesinde yolcu minibüsü şarampole devrildi.",
-        "Kazada aralarında çocukların da bulunduğu 24 kişi yaralandı.",
-        "Yaralılardan 2'sinin durumunun ağır olduğu bildirildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/sanliurfada-yolcu-minibusu-sarampole-devrildi-24-yarali-4874506",
-      "publishedAt": "2026-11-19T14:33:38.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:24:18.875Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
-      "headline": "Fransa'da Emekliler 2027 Bütçe Kesintilerine Karşı Yürüdü",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1681899125880-bc57e8d4a585?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cHJvdGVzdCUyMGluJTIwUGFyaXN8ZW58MXwwfHx8MTc5NTA5OTUzN3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sébastien Ramage",
-        "photographerUrl": "https://unsplash.com/@ramagesebastien",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-up-signs-on-a-city-street-7nqFPJrEye4"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Fransa'nın başkenti Paris'te Perşembe günü binden fazla kişi, 2027 bütçesinde emeklileri hedef alan sosyal ve vergi önlemlerine karşı yürüyüş düzenledi. Eylem, öğrenci ve lise gruplarının da katıldığı bir sendika ittifakının çağrısıyla gerçekleştirildi.\n\nHükümet, 1.260 euro üzerindeki emekli maaşlarının endekslemesini dondurmayı ve yüzde 10'luk gelir vergisi istisnasını reforme etmeyi planlıyor. Bu adımlarla emeklilerin yaklaşık 5,4 milyar euro katkı sağlaması hedefleniyor.\n\nSendika liderleri ise bu kaynağın emeklilerin cebinden çıkmaması gerektiği görüşünü savunuyor. Gelişmeler ve protestolarla ilgili detaylar basın yansımalarında yer buldu.",
-      "highlights": [
-        "Paris'te bin kişiden fazla kişi bütçe kesintilerine karşı yürüdü",
-        "Hükümet emeklilerin yaklaşık 5,4 milyar euro katkı sağlamasını istiyor",
-        "Sendika liderleri paranın emeklilerin cebinden çıkmaması gerektiğini savunuyor"
-      ],
-      "externalUrl": "https://www.france24.com/en/france-retirees-march-against-2027-budget-cuts",
-      "publishedAt": "2026-11-19T14:32:57.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:44:21.186Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
