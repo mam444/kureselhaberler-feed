@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T18:34:33.419Z",
+  "generatedAt": "2026-11-24T18:45:07.173Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/busra-bebek-75-gundur-bulunamiyor-3497669",
+      "headline": "Büşra bebek 75 gündür bulunamıyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1485315984760-24a74974eed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8YmFieSUyMHNlYXJjaHxlbnwxfDB8fHwxNzk1NTQ1ODcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Brandon Day",
+        "photographerUrl": "https://unsplash.com/@daybrandon",
+        "unsplashUrl": "https://unsplash.com/photos/persons-eye-b8p8nqFshyY"
+      },
+      "timeAgo": "şimdi",
+      "body": "Sivas'ın Divriği ilçesinde 10 Eylül tarihinde kaybolan 11 aylık Büşra bebek, aradan geçen 75 güne rağmen henüz bulunamadı. Göndüren Köyü kırsalında hayvancılık yapan ailenin bebeğinin kaybolması sonrasında bölgede geniş çaplı arama çalışmaları başlatıldı. Ancak yürütülen çalışmalardan henüz bir sonuç elde edilemedi.\n\nSoruşturma sürecinde aralarında defalarca kez ifadesini değiştiren anne Elif Balıkçı ve baba Balıkçı'nın da bulunduğu 6 kişi tutuklanarak cezaevine gönderildi. Öte yandan, arama çalışmalarının ilk gününde ailenin kaldığı çadırdan 3 kilometre uzaklıkta Büşra bebeğe ait olduğu değerlendirilen kıyafetler ele geçirildi. Söz konusu buluntuların bebeğe ait olup olmadığını kesinleştirmek için Adli Tıp Kurumu'ndan gelecek rapor bekleniyor.\n\nAFAD ve jandarma ekiplerinin katılımıyla sürdürülen arama faaliyetleri, bölgedeki olumsuz hava koşulları sebebiyle durduruldu. Yetkililer, uygun hava şartlarının yeniden sağlanmasıyla birlikte arama çalışmalarına kaldığı yerden devam edileceğini bildirdi. Kayıp bebeğe dair belirsizlik ise sürmeye devam ediyor.",
+      "highlights": [
+        "11 aylık Büşra bebek 10 Eylül'de Sivas'ın Divriği ilçesinde kayboldu",
+        "Anne ve baba dahil 6 kişi tutuklandı",
+        "Arama çalışmaları olumsuz hava şartları nedeniyle durduruldu"
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/busra-bebek-75-gundur-bulunamiyor-3497669",
+      "publishedAt": "2026-11-24T18:49:07.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/magazin/dizi/mehmed-fetihler-sultani-bu-aksam-var-mi-neden-yok-24-kasim-trt-1-yayin-akisi-mehmed-fetihler-sultani-yeni-bolum-ne-zaman-3497481",
       "headline": "MEHMED: FETİHLER SULTANI BU AKŞAM VAR MI, NEDEN YOK? 24 Kasım TRT 1 Yayın Akışı: Mehmed: Fetihler Sultanı Yeni Bölüm Ne Zaman?",
@@ -2549,7 +2573,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:14:28.980Z",
-      "imageSearchAttemptedAt": "2026-11-24T12:04:30.058Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:44:29.302Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
@@ -2571,7 +2595,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:04:23.316Z",
-      "imageSearchAttemptedAt": "2026-11-24T12:14:19.872Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:44:29.302Z"
     },
     {
       "id": "https://www.trthaber.com/haber/turkiye/istanbula-soguk-hava-geliyor-sicaklik-8-derece-dusuyor-964227.html",
@@ -14436,30 +14460,6 @@
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20261119-podcast-living-on-minimum-wage-smic-35-hour-working-week-france-second-biggest-tax-csg",
-      "headline": "Podcast: Yaşama tutunma mücadelesi, Fransa'nın 35 saatlik çalışma haftası ve büyük vergi",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1551866442-64e75e911c23?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwZmxhZ3xlbnwxfDB8fHwxNzk1MTA1NDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anthony Choren",
-        "photographerUrl": "https://unsplash.com/@tony_cm__",
-        "unsplashUrl": "https://unsplash.com/photos/french-flag-waving-in-blue-sky-lYzap0eubDY"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Spotlight on France podcastinin 153üncü bölümünde, Fransa'daki geçim sıkıntısı, 35 saatlik çalışma haftasının etkileri ve ülkenin ikinci büyük vergisi ele alınıyor. Fransız hükümetinin ulusal asgari ücreti artırma hamlesi, hayat pahalılığı kriziyle mücadele eden protestocuları memnun etmedi.\n\nEnflasyona ayak uyduramayan düşük ücretler ve artan hayat pahalılığı nedeniyle Fransız sendikaları ve işçileri protestolar düzenliyor. Buna yanıt olarak hükümet, Smic olarak bilinen asgari ücreti yüzde 1,6 oranında artırmayı kabul etti ve en düşük gelir grubundakilerin cebine ayda ekstra 24 euro koydu. Ancak bu önlem, bu hafta yeniden grev eylemleriyle sokaklara dökülen sendikaları ve kamu sektörü çalışanlarını tatmin etmedi.\n\nFransa, işi daha fazla insan arasında paylaşarak yüksek işsizliği azaltma hedefiyle 2000 yılında 35 saatlik çalışma haftasını uygulamaya koydu. Beş yıllık araştırmanın ardından laboratuvar ekonomisti Elio Nimier-David, reformun politikacıların amaçladığını yerine getirmediğini tespit ederken, insanların ne kadar çalışması gerektiği meselesi bugün politikacıları bölmeye devam ediyor.\n\nGenel sosyal katkı payı anlamına gelen CSG, 1990 yılında yürürlüğe girdi ve KDV'den sonra Fransa'nın en büyük ikinci vergisi konumunda bulunuyor. Sosyal güvenlik sistemini finanse etmek için milyarlarca euro toplayan vergi, geniş kapsamı ve oransal oranı nedeniyle cumhurbaşkanlığı adaylarının hayat pahalılığı krizini hafifletme ve insanların cebine daha fazla para koyma tartışmalarında siyasi bir hedef haline geldi. Bölümün yapımcılığını Cecile Pompeani üstlenirken, program Sarah Elzas ve Alison Hird tarafından hazırlandı.",
-      "highlights": [
-        "Fransız hükümetinin asgari ücreti yüzde 1,6 artırma kararı sendikaları tatmin etmedi ve protestolar sürdü.",
-        "2000 yılında getirilen 35 saatlik çalışma haftasının işsizliği azaltma hedefine ulaşıp ulaşmadığına dair kanıtlar karışık bulundu.",
-        "Fransa'nın KDV'den sonraki en büyük ikinci vergisi olan CSG, politikacılar arasında bölünmelere yol açıyor."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/podcasts/spotlight-on-france/20261119-podcast-living-on-minimum-wage-smic-35-hour-working-week-france-second-biggest-tax-csg",
-      "publishedAt": "2026-11-19T16:19:04.000Z",
-      "category": "Yaşam",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14680,6 +14680,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
   ]
 }
