@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-24T22:44:32.667Z",
+  "generatedAt": "2026-11-24T22:54:23.425Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
+      "headline": "Fon Koordinasyon Kurulu toplandı: Yeni düzenleme hazır",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1571249854210-6efcb5638508?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Rm9uJTIwS29vcmRpbmFzeW9uJTIwS3VydWx1JTIwdG9wbGFuZCVDNCVCMSUzQSUyMFllbmklMjBkJUMzJUJDemVubGVtZSUyMGhheiVDNCVCMXJ8ZW58MXwwfHx8MTc5NTU2MDg2MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Eren Namlı",
+        "photographerUrl": "https://unsplash.com/@namlieren",
+        "unsplashUrl": "https://unsplash.com/photos/people-near-buildings-with-turkey-flag-qHwkrzgq2Fk"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Fon Koordinasyon Kurulu Toplantısı sonrası açıklamada, piyasa dolandırıcılığı cezalarının artırılmasını öngören düzenleme taslağının hazırlandığı bildirildi. Cumhurbaşkanlığı İletişim Başkanlığı, 11'inci Fon Koordinasyon Kurulu Toplantısı'nın Cumhurbaşkanı Yardımcısı başkanlığında gerçekleştirildiğini duyurdu. Toplantıya Adalet Bakanlığı, Hazine ve Maliye Bakanlığı ile bu bakanlıkların ilgili kurum ve kuruluşları…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
+      "publishedAt": "2026-11-24T22:48:50.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
       "headline": "Son dakika deprem mi oldu? Az önce deprem nerede oldu? İstanbul, Ankara, İzmir ve il il AFAD son depremler 25 Kasım 2026",
@@ -16,7 +36,8 @@
       "category": "Türkiye",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T22:44:30.397Z"
+      "imageSearchAttemptedAt": "2026-11-24T22:44:30.397Z",
+      "sourceTextAttemptedAt": "2026-11-24T22:54:21.403Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-haberi-eskisehir-de-askeri-helikopter-dustu-msb-acikladi-5-asker-sehit-oldu-3929841",
@@ -32,7 +53,8 @@
       "publishedAt": "2026-11-24T22:29:14.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T22:54:21.403Z"
     },
     {
       "id": "https://www.haberturk.com/spor/galatasaray-in-filistin-destegine-netanyahu-ve-israil-den-skandal-hareket-uefa-dan-pankart-yaniti-geldi-3929891",
@@ -14056,7 +14078,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T05:44:26.679Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:14:31.434Z",
+      "imageSearchAttemptedAt": "2026-11-24T22:54:21.403Z",
       "isBreaking": false
     },
     {
@@ -14252,31 +14274,6 @@
       "publishedAt": "2026-11-19T23:51:50.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://tr.euronews.com/2026/11/19/macrondan-ukraynanin-nato-uyeliginin-yeniden-gundeme-alinmasi-cagrisi",
-      "headline": "Macron'dan Ukrayna'nın NATO üyeliğinin 'yeniden gündeme alınması' çağrısı",
-      "source": "Euronews",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": "https://images.unsplash.com/photo-1724010732060-9b967f643709?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RW1tYW51ZWwlMjBNYWNyb258ZW58MXwwfHx8MTc5NTExODY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Amin Zabardast",
-        "photographerUrl": "https://unsplash.com/@aminzabardast",
-        "unsplashUrl": "https://unsplash.com/photos/a-building-with-flags-on-the-balcony-of-it-KpycpfsufjM"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Fransa Cumhurbaşkanı Emmanuel Macron, Berlin'de düzenlenen Gönüllüler Koalisyonu toplantısının ardından yaptığı açıklamada, Ukrayna'nın NATO üyeliği konusunun yeniden gündeme alınmasını desteklediğini belirtti. Macron, Rusya'nın maksimalist tutumu karşısında Ukrayna'nın NATO'ya katılımının değerlendirilmesi gerektiğini ifade etti.\n\nMacron, konunun 2022 yılının başlarında tamamen farklı bir konjonktürde gündemden çıkarıldığını hatırlattı. Batılı müttefikler, 2022'deki geniş çaplı işgalin ardından savaş halindeki bir ülkenin NATO'ya alınmasının, 5. Madde uyarınca doğrudan bir çatışmayı tetikleyebileceği endişesiyle Kiev'in üyeliğini kısa vadede dışlamıştı.\n\nUzun vadeli güvenlik açısından Ukrayna'nın NATO üyeliğinin anlamlı olduğunu vurgulayan Macron, Avrupalılar için ertesi gün ne olacağı sorusunun gündeme geldiğini ve Ukrayna'nın son derece iyi donatılmış büyük bir orduya sahip bir ülke olacağını kaydetti. Ayrıca Macron, Kiev'in müttefiklerine gerekli hava savunma sistemlerinin sağlanması için azami çaba gösterme çağrısında bulundu.\n\nÖte yandan Ukrayna Cumhurbaşkanı Volodimir Zelenskiy, 10-11 Kasım'da Abu Dabi'de yapılan barış görüşmelerinde ABD'li müzakerecilerin NATO üyeliği karşılığında Donbas'tan çekilme fikrini gündeme getirdiğini açıklamıştı. Zelenskiy, toprak tavizine hazır olmadığını belirtirken, güvenlik garantileri verilmesi halinde öneriyi topluma danışabileceğini ifade etmişti. Macron'un açıklamaları, Rusya, ABD ve Çin liderlerinin Çin'deki üçlü zirvesinden saatler sonra geldi.",
-      "highlights": [
-        "Fransa Cumhurbaşkanı Emmanuel Macron, Ukrayna'nın NATO üyeliğinin yeniden gündeme alınması çağrısı yaptı.",
-        "Macron, Ukrayna'nın NATO üyeliğinin uzun vadeli güvenlik açısından anlamlı olduğunu belirtti.",
-        "Zelenskiy, Batılı ülkelerin güvenlik güvenceleri sunması halinde konuyu topluma danışacağını kaydetti."
-      ],
-      "externalUrl": "https://tr.euronews.com/2026/11/19/macrondan-ukraynanin-nato-uyeliginin-yeniden-gundeme-alinmasi-cagrisi",
-      "publishedAt": "2026-11-19T20:00:59.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T23:55:18.322Z",
       "isBreaking": false
     }
   ],
