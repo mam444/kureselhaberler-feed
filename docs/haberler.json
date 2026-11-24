@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T21:24:36.274Z",
+  "generatedAt": "2026-11-24T21:32:31.353Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223",
+      "headline": "Bolu Dağı'nda kar yağışı etkili oldu",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Türkiye'nin önemli geçiş güzergâhlarından Bolu Dağı'nda akşam saatlerinde kar yağışı etkili olmaya başladı. Gün boyunca devam eden yağmurun yerini kara bırakmasıyla D-100 kara yolunun bazı kesimleri beyaza büründü.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223",
+      "publishedAt": "2026-11-24T21:30:24.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
       "headline": "30 BİN ÖĞRETMEN ATAMASI SON DAKİKA: 15 bin öğretmen ataması ne zaman yapılacak? Branş dağılımı belli oldu mu?",
@@ -57,6 +73,30 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-24T21:24:34.231Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "headline": "Kolombiya'da Silahlı Kişiler Süpermarkete Sığındı: Rehin Durumu Bildirildi",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1729622493745-03ca9590c64a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c3VwZXJtYXJrZXQlMjBDb2xvbWJpYXxlbnwxfDB8fHwxNzk1NTU1OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ricky Beron",
+        "photographerUrl": "https://unsplash.com/@nacio1966",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-display-of-fruits-and-vegetables-for-sale-V0sZeTunIvY"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Kolombiya'nın Cartagena şehrinde yaşanan olayda, silahlı kişilerin bir süpermarkete kaçmasıyla bir rehin durumunun bildirildiği açıklandı.\n\nDevlet Başkanı Abelardo de la Espriella, olayların gelişmesi üzerine bölgeye polis ve askeri güçlerin sevk edildiğini belirtti.\n\nYetkililer, Cartagena'daki süpermarkette yaşanan olayla ilgili durumu kontrol altına almak için çalışmalarını sürdürüyor.",
+      "highlights": [
+        "Cartagena'da rehin durumu bildirildi",
+        "Silahlı kişiler bir süpermarkete kaçtı",
+        "Polis ve askeri güçler sevk edildi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss",
+      "publishedAt": "2026-11-24T21:04:46.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
@@ -8534,7 +8574,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:34:20.382Z",
-      "imageSearchAttemptedAt": "2026-11-24T14:34:20.000Z"
+      "imageSearchAttemptedAt": "2026-11-24T21:32:28.256Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sivasta-polis-memurunun-dikkati-yurekleri-isitti-4875194",
@@ -8811,8 +8851,12 @@
       "headline": "El Halil'deki Binalar İçin Yıkım Tebligatları Filistinlilerde Korkuya Neden Oldu",
       "source": "Al Jazeera",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1677233859838-be47b0ab6c4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RWwlMjBIYWxpbCUyN2Rla2klMjBCaW5hbGFyJTIwJUM0JUIwJUMzJUE3aW4lMjBZJUM0JUIxayVDNCVCMW0lMjBUZWJsaWdhdGxhciVDNCVCMSUyMEZpbGlzdGlubGlsZXJkZSUyMEtvcmt1eWElMjBOZWRlbiUyME9sZHV8ZW58MXwwfHx8MTc5NTQ0NTE0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Çağlar Oskay",
+        "photographerUrl": "https://unsplash.com/@oskaycaglar",
+        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-cars-that-are-parked-in-front-of-a-building-Lva3ACKlL_8"
+      },
       "timeAgo": "16 dk önce",
       "body": "İsrail makamlarının Batı Şeria'da yasal ruhsata sahip evleri hedef alması, bölgedeki Filistinliler arasında zorunlu göç korkusunu artırdı.\n\nEl Halil bölgesinde yaşanan bu gelişmeler, Filistinli sakinlerin endişelerini en üst seviyeye taşıdı.\n\nYetkililerin hedef aldığı konutların resmi ruhsatlı olması dikkat çekerken, halk yaşanan durum karşısında tedirgin.\n\nBölgedeki zorunlu göç tehlikesi, yerel halkın geleceğe dair kaygılarını güçlendiriyor.",
       "highlights": [
@@ -8824,7 +8868,7 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "imageSearchAttemptedAt": "2026-11-24T14:44:20.844Z",
+      "imageSearchAttemptedAt": "2026-11-24T21:32:28.256Z",
       "isBreaking": false
     },
     {
@@ -14313,52 +14357,6 @@
       "publishedAt": "2026-11-19T18:46:43.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/israil-savas-ucaklari-lubnanin-dogusuna-hava-saldirilari-duzenledi/4131451",
-      "headline": "İsrail savaş uçakları Lübnan'ın doğusuna hava saldırıları düzenledi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1612642132744-cc0e7c59cbae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YWlyJTIwc3RyaWtlJTIwTGViYW5vbnxlbnwxfDB8fHwxNzk1MTEzODgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Charbel Karam",
-        "photographerUrl": "https://unsplash.com/@charbelkaram",
-        "unsplashUrl": "https://unsplash.com/photos/people-raising-flags-during-night-time-C7sGa-Em5so"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "İsrail ordusu, Lübnan'ın doğusunda yer alan Baalbek kentine yönelik hava saldırıları gerçekleştirdi. Söz konusu saldırıların, yürürlükte bulunan ateşkes ile çerçeve anlaşmasına rağmen düzenlendiği bildirildi. Bölgede yaşanan bu askeri hareketlilik, taraflar arasındaki mevcut durum ve gelişmelerle ilgili endişeleri gündeme getirdi. Yetkililer ve ilgili taraflardan konuya ilişkin gelecek olası açıklamalar ve sahadaki gelişmeler yakından takip ediliyor.",
-      "highlights": [
-        "İsrail ordusu Lübnan'ın doğusundaki Baalbek kentine hava saldırıları düzenledi",
-        "Saldırıların yürürlükteki ateşkes ve çerçeve anlaşmasına rağmen gerçekleştirildiği bildirildi"
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/israil-savas-ucaklari-lubnanin-dogusuna-hava-saldirilari-duzenledi/4131451",
-      "publishedAt": "2026-11-19T18:42:04.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T18:54:23.836Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Almanya Başbakanı Merz'ten ABD-Rusya-Çin üçlüsüne Yalta uyarısı: Avrupa'nın bölünmesine izin vermeyiz",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "8 dk önce",
-      "body": "Almanya Başbakanı Friedrich Merz, ABD, Rusya ve Çin liderlerinin bugünkü üçlü zirvesine atıfla \"Yalta formatı barışı getirmeyecek\" diye uyardı, Avrupa'nın yeniden bölünmesine izin vermeyeceklerini söyledi.",
-      "highlights": [
-        "Almanya Başbakanı Merz, Kremlin'in barışa hazır olması halinde Rusya'ya yönelik yaptırımların kademeli olarak askıya alınabileceğini belirtti.",
-        "Merz, ABD, Rusya ve Çin liderlerinin zirvesine atıfta bulunarak Avrupa'nın yeniden bölünmesine izin vermeyeceklerini vurguladı.",
-        "Berlin'deki Gönüllüler Koalisyonu Zirvesi'ne Ukrayna'ya destek veren 45 ülke katıldı."
-      ],
-      "externalUrl": "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-11-19T18:28:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T15:24:30.321Z",
-      "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": false
     }
   ],
