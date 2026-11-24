@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T21:32:31.353Z",
+  "generatedAt": "2026-11-24T21:34:31.256Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223",
@@ -15,7 +15,8 @@
       "publishedAt": "2026-11-24T21:30:24.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T21:34:29.458Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
@@ -115,6 +116,26 @@
       "externalUrl": "https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
       "publishedAt": "2026-11-24T21:03:54.000Z",
       "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+      "headline": "Brazil doctor uses surfboard and sledgehammer in flood rescue",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1652811716902-8c63a4d3f926?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QnJhemlsJTIwZG9jdG9yJTIwdXNlcyUyMHN1cmZib2FyZCUyMGFuZCUyMHNsZWRnZWhhbW1lciUyMGluJTIwZmxvb2QlMjByZXNjdWV8ZW58MXwwfHx8MTc5NTU1NjA2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Daniel Granja",
+        "photographerUrl": "https://unsplash.com/@granja44",
+        "unsplashUrl": "https://unsplash.com/photos/a-flag-on-a-boat-in-the-water-tgmHcIK9pxQ"
+      },
+      "timeAgo": "36 dk önce",
+      "body": "A Brazilian doctor is being hailed a hero after rescuing an old man from severe flooding using a surfboard",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/24/brazil-doctor-uses-surfboard-and-sledgehammer-in-flood-rescue?traffic_source=rss",
+      "publishedAt": "2026-11-24T20:58:41.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -1430,7 +1451,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T15:34:23.740Z",
+      "imageSearchAttemptedAt": "2026-11-24T21:34:29.458Z",
       "sourceTextAttemptedAt": "2026-11-24T15:44:41.931Z"
     },
     {
@@ -14334,30 +14355,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
-      "headline": "Haiti'de Silahlı Kuvvetler Kritik Koridoru Çetelerden Geri Almak İçin Operasyon Başlattı",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1547082733-87e67991b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SGFpdGklMjBnYW5nJTIwY29uZmxpY3R8ZW58MXwwfHx8MTc5NTExNDQ2MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "TopSphere Media",
-        "photographerUrl": "https://unsplash.com/@zvessels55",
-        "unsplashUrl": "https://unsplash.com/photos/selective-focus-photography-of-woman-sitting-on-chair-H3rJJ_PatzE"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Haiti'deki silahlı kuvvetler, ülkenin başkentini batı ve güney bölgelerine bağlayan kritik bir koridoru ele geçiren güçlü çeteleri temizlemek amacıyla Perşembe günü kapsamlı bir operasyon başlattı. Bu hamle, şiddet yanlısı çetelerin başkent Port-au-Prince'in batı ucundaki Martissant'ın kontrolünü ele geçirmesinden bu yana gerçekleşen ilk büyük operasyon olarak kaydedildi. Haiti Ulusal Polisi, X platformunda yayınladığı videoda, eski ABD Deniz Kuvvetleri SEAL ve Blackwater'ın kurucusu Erik Prince tarafından kurulan özel güvenlik firması Vectus Global üyelerinden oluşan görev gücüyle birlikte çalışan polis memurlarıyla yaşanan çatışmada Martissant'ta en az 34 şüpheli çete üyesinin öldürüldüğünü açıkladı.\n\nYerel medya, bölgede yoğun çatışmaların yaşandığını ve patlayıcı dronların kullanıldığını bildirirken, polis zırhlı araçların bölgedeki ilerleyişini gösteren görüntüler paylaştı. Çetelerin bölgeyi ele geçirmesinden önce binlerce kişinin kullandığı ve başkent ekonomisi için hayati önem taşıyan Route 2 ana yolu üzerinde bulunan Martissant, uzun süredir çetelerin kontrolü altındaydı. Çeteler, bu süre zarfında yoldan geçen araçlardan geçiş ücreti almış veya ateş açmıştı. Martissant'ın çete kontrolüne girmesinden bu yana siviller ve yardım çalışanları alternatif yolları kullanmak zorunda kalmıştı.\n\nBirleşmiş Milletler raporlarına göre, bölgedeki çatışmalar ilk olarak Haziran 2021'de başlamış ve binlerce kişinin evlerini terk etmesine yol açmıştı. Öte yandan, BM destekli çete baskılama gücü de çetelerin geri dönmesini engellemek ve stratejik alanlarda kontrolü artırmak için Tabarre ve Artibonite bölgelerinde operasyonlar yürütüyor. Ayrıca, El Salvador'un geçen ay Haiti'ye gönderdiği yaklaşık 2.500 asker de çetelere karşı mücadele ediyor.",
-      "highlights": [
-        "Haiti'de silahlı kuvvetler başkenti batı ve güney bölgelerine bağlayan koridoru çetelerden temizlemek için operasyon başlattı.",
-        "Polis ve özel güvenlik firmasının ortak operasyonunda Martissant'ta en az 34 şüpheli çete üyesi öldürüldü.",
-        "El Salvador tarafından görevlendirilen askerler de başkentte çete liderlerinin evlerine saldırılar düzenledi."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/heavy-fighting-erupts-haiti-armed-forces-fight-gangs-138295678",
-      "publishedAt": "2026-11-19T18:46:43.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
