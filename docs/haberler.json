@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T22:34:38.075Z",
+  "generatedAt": "2026-11-24T22:44:32.667Z",
   "articles": [
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-25-kasim-2026-1752436",
@@ -15,6 +15,23 @@
       "publishedAt": "2026-11-24T22:30:00.000Z",
       "category": "Türkiye",
       "isBreaking": true,
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T22:44:30.397Z"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/son-dakika-haberi-eskisehir-de-askeri-helikopter-dustu-msb-acikladi-5-asker-sehit-oldu-3929841",
+      "headline": "Eskişehir'de askeri helikopter düştü",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "15 dk önce",
+      "body": "Son dakika haberi... Milli Savunma Bakanlığı, Eskişehir'de eğitim amacıyla havalanan Hava Kuvvetlerine ait AS-532 tipi helikopterin kaza kırıma uğradığını açıkladı. Düşen helikopterde 5 kahraman asker şehit oldu.",
+      "highlights": [],
+      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-haberi-eskisehir-de-askeri-helikopter-dustu-msb-acikladi-5-asker-sehit-oldu-3929841",
+      "publishedAt": "2026-11-24T22:29:14.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
       "lang": "tr"
     },
     {
@@ -265,7 +282,28 @@
       "publishedAt": "2026-11-24T21:20:31.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-24T22:44:30.397Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "headline": "Russian jets spark air raid alert in South Korea",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1653016380323-a4496cbe3cf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8UnVzc2lhbiUyMGpldHMlMjBzcGFyayUyMGFpciUyMHJhaWQlMjBhbGVydCUyMGluJTIwU291dGglMjBLb3JlYXxlbnwxfDB8fHwxNzk1NTYwMjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Paran Koo",
+        "photographerUrl": "https://unsplash.com/@kooparan",
+        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-from-a-tall-building-oVXua2kQ4_w"
+      },
+      "timeAgo": "2 sa önce",
+      "body": "South Korea’s residents were urged to seek shelter as Russian military jets approached its airspace on Tuesday.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
+      "publishedAt": "2026-11-24T21:14:57.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
@@ -14239,55 +14277,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T23:55:18.322Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/saglik-bilimleri-universitesi-rektoru-kaza-yapti-akademisyen-esi-hayatini-kaybetti-4874560",
-      "headline": "Sağlık Bilimleri Üniversitesi Rektörü kaza yaptı: Akademisyen eşi hayatını kaybetti",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1627562079145-2e6506b8a280?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8U2ElQzQlOUZsJUM0JUIxayUyMEJpbGltbGVyaSUyMCVDMyU5Q25pdmVyc2l0ZXNpJTIwUmVrdCVDMyVCNnIlQzMlQkMlMjBrYXphJTIweWFwdCVDNCVCMSUzQSUyMEFrYWRlbWlzeWVuJTIwZSVDNSU5RmklMjBoYXlhdCVDNCVCMW4lQzQlQjElMjBrYXliZXR0aXxlbnwxfDB8fHwxNzk1MTE4MDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ankara University",
-        "photographerUrl": "https://unsplash.com/@ankarauni",
-        "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-green-grass-field-during-daytime-aPcHxk3OvTs"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Konya- Kırıkkale yolunda Mehmet Uzunoğlu yönetimindeki makam aracı, kontrolden çıkıp takla attı. Kazada araç içinde bulunan Sağlık Bilimleri Üniversitesi Rektörü Prof. Dr. Kemalettin Aydın, eşi akademisyen Prof. Dr. Sevim Aydın ve sürücü Uzunoğlu, yaralandı. Yaralılar çıkartıldıktan sonra motor kısmında çıkan yangın kısa sürede aracın tamamına yayıldı. İhbar üzerine kaza yerine jandarma, itfaiye ve sağlık ekipleri…",
-      "highlights": [
-        "Konya-Kırıkkale yolunda rektörün makam aracı takla attı",
-        "Kazada yaralanan akademisyen Prof. Dr. Sevim Aydın hayatını kaybetti",
-        "Rektör Kemalettin Aydın ve sürücü Uzunoğlu yaralandı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/saglik-bilimleri-universitesi-rektoru-kaza-yapti-akademisyen-esi-hayatini-kaybetti-4874560",
-      "publishedAt": "2026-11-19T19:52:14.000Z",
-      "category": "Sağlık",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T20:04:26.550Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
-      "headline": "Howard dönemi bakanı Sharman Stone gönüllü yardımlı ötenazi ile 75 yaşında hayatını kaybetti",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1635769325552-e6e3ddf3d2ea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Zm9ybWVyJTIwcG9saXRpY2lhbnxlbnwxfDB8fHwxNzk1MTE4NjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "West Kenya Union Conference Adventist Media",
-        "photographerUrl": "https://unsplash.com/@wkumedia",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-and-red-tie-giving-a-thumbs-up-PMLVG-E4v4Y"
-      },
-      "timeAgo": "20 dk önce",
-      "body": "Eski Liberal Parti milletvekili ve Howard hükümeti bakanı Sharman Stone, agresif bir beyin kanseri türü olan glioblastoma ile uzun süren mücadelenin ardından Çarşamba günü 75 yaşında hayatını kaybetti. Ailesinin yanında yaşamını yitiren Stone'un gönüllü yardımlı ötenazi yöntemiyle vefat ettiği bildirildi.\n\nSiyasi kariyeri boyunca bireylerin kendi bedenleri üzerinde özerkliğe sahip olması gerektiğini savunan Dr. Stone, tartışmalı tıbbi araştırmaları desteklemiş ve kürtaja erişimi savunmuştu. Bu konularda eski lider Tony Abbott ile kamuoyunda anlaşmazlıklar yaşamıştı.\n\nVictoria Islah Dairesi'ndeki ilk kadın müfettişlerden ve Victoria Çiftçiler Federasyonu'nun ilk kadın direktörlerinden biri olan Dr. Stone, iktisat doktorasına sahipti. 1996 yılında federal parlamentoya seçilen Stone, Howard yılları boyunca kuzey Victoria'daki Murray seçim bölgesini temsil etti.\n\nParlamentoda yirmi yıl geçiren ve bağımsızlığıyla tanınan Stone, Howard hükümeti döneminde çevre ve finans bakanlığı parlamenter sekreterliği dahil çeşitli görevlerde bulundu. Liberallerin Kevin Rudd'a yenilmesinin ardından gölge çevre portföyünü de üstlendi.\n\n2016 yılında siyasetten emekli olan Dr. Stone, 2020 yılına kadar Avustralya'nın Kadın ve Kız Çocukları Büyükelçisi olarak görev yaptı. Muhalefet lideri Angus Taylor, onun yerel topluluğu için güçlü bir ses olduğunu belirtti. Hayatını kutlama töreninin 28 Kasım Victoria seçimlerinden sonra yapılması bekleniyor.",
-      "highlights": [
-        "Sharman Stone 75 yaşında gönüllü yardımlı ötenazi ile hayatını kaybetti.",
-        "Glisoblastoma adı verilen agresif beyin kanseriyle uzun süre mücadele etmişti.",
-        "Howard hükümetinde parlamenter sekreterlik ve gölge çevre portföyü gibi görevler üstlenmişti."
-      ],
-      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
-      "publishedAt": "2026-11-19T19:44:24.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
