@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T19:34:26.148Z",
+  "generatedAt": "2026-11-24T19:45:55.600Z",
   "articles": [
     {
       "id": "https://www.milliyet.com.tr/gundem/fon-kurulu-bir-kez-daha-toplandi-1-milyon-tlye-kadar-odemeler-tamamlaniyor-7707235",
@@ -68,7 +68,8 @@
       "publishedAt": "2026-11-24T19:22:44.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T19:45:54.472Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/zelenskiden-nato-uyeligi-cagrisi-3497676",
@@ -91,6 +92,26 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T19:24:22.628Z",
       "imageSearchAttemptedAt": "2026-11-24T19:24:22.628Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "headline": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1624383045192-cf512eb9d78c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TmlnZXJpYW4lMjBtb25hcmNoJTJDJTIwOTIlMkMlMjBzdXNwZW5kZWQlMjBhZnRlciUyMHNleHVhbCUyMGFzc2F1bHQlMjBjbGFpbXN8ZW58MXwwfHx8MTc5NTU0OTU1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Emmanuel Ikwuegbu",
+        "photographerUrl": "https://unsplash.com/@emmages",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-black-and-white-hijab-holding-green-flag-T4q6ZPpYjog"
+      },
+      "timeAgo": "35 dk önce",
+      "body": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T19:10:31.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-duyurdu-hgsde-usulsuz-tahsilatlar-iade-edilecek-1752428",
@@ -14406,28 +14427,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:34:27.823Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/luks-otomobil-kule-dondu-afad-mudahale-etti-otomobil-alevlere-teslim-olmaktan-kurtulamadi-4874538",
-      "headline": "Lüks otomobil küle döndü: AFAD müdahale etti, otomobil alevlere teslim olmaktan kurtulamadı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "2 dk önce",
-      "body": "Şanlıurfa'da seyir halindeki lüks otomobilin motor bölümünde çıkan yangın, kısa sürede büyüyerek aracı alev topuna çevirdi. Yangına ilk müdahaleyi AFAD ekipleri yaparken, olay yerine gelen itfaiye ekiplerinin müdahalesiyle söndürülen otomobil kullanılamaz hale geldi. Yangına müdahalenin geciktiğini öne süren vatandaşlar, itfaiye ekiplerine tepki gösterdi.",
-      "highlights": [
-        "Lüks otomobilin motor kısmından dumanlar yükseldi",
-        "AFAD ekipleri yangın tüpleriyle müdahalede bulundu",
-        "Yangının çıkış nedenini belirlemek için inceleme başlatıldı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/luks-otomobil-kule-dondu-afad-mudahale-etti-otomobil-alevlere-teslim-olmaktan-kurtulamadi-4874538",
-      "publishedAt": "2026-11-19T17:13:24.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:24:18.698Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:34:23.740Z",
       "isBreaking": false
     }
   ],
