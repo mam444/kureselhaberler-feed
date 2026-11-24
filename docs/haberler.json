@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T11:13:10.263Z",
+  "generatedAt": "2026-11-24T11:14:36.880Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
+      "headline": "Şanlıurfa'da kahreden olay: Nefes borusuna elma kaçan 4 yaşındaki çocuk hayatını kaybetti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1753371520468-d7369e462a86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YXBwbGUlMjBjaGlsZCUyMGhvc3BpdGFsfGVufDF8MHx8fDE3OTU1MTg4NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "MACAU PHOTOGRAPHY",
+        "photographerUrl": "https://unsplash.com/@macau_photography",
+        "unsplashUrl": "https://unsplash.com/photos/apple-store-interior-with-large-windows-and-logo-9sPyES81GUs"
+      },
+      "timeAgo": "şimdi",
+      "body": "Şanlıurfa'nın Eyyübiye ilçesine bağlı kırsal Koçören Mahallesi'nde üzüntü verici bir olay yaşandı. Alınan bilgiye göre, sabah saatlerinde evinde elma yiyen 4 yaşındaki Suriye uyruklu Zeynep Cellud'un nefes borusuna elma parçası kaçtı.\n\nKüçük çocuğun nefes almakta zorlandığını fark eden ailesi, durumu hemen 112 Acil Çağrı Merkezi'ne bildirdi. İhbar üzerine olay yerine sağlık ekipleri sevk edildi.\n\nSağlık ekipleri tarafından adresten alınarak Balıklıgöl Devlet Hastanesi'ne kaldırılan Zeynep Cellud, acil serviste tedavi altına alındı. Doktorların tüm müdahalelerine rağmen küçük çocuk kurtarılamadı.\n\nYaşanan bu acı olay, Zeynep Cellud'un ailesini ve yakınlarını yasa boğdu. Olayla ilgili soruşturma başlatıldığı bildirildi.",
+      "highlights": [
+        "Şanlıurfa'da nefes borusuna elma kaçan 4 yaşındaki Zeynep Cellud hayatını kaybetti.",
+        "Ailenin ihbarı üzerine hastaneye kaldırılan çocuk, doktorların müdahalesine rağmen kurtarılamadı.",
+        "Yaşanan olayın ardından soruşturma başlatıldı."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
+      "publishedAt": "2026-11-24T11:14:09.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
       "headline": "'Leyla: Hayat... Aşk... Adalet...' dizisi Uluslararası Emmy Ödülü kazandı",
@@ -14,10 +38,39 @@
       },
       "timeAgo": "1 dk önce",
       "body": "Ay Yapım imzalı 'Leyla: Hayat... Aşk... Adalet...' dizisi, 54. Uluslararası Emmy Ödülleri'nde 'Telenovela' kategorisinde ödül kazandı. New York'taki törende ödülü yapımcı Kerem Çatay, yönetmen Hilal Saral ve Erdi Işık aldı.",
-      "highlights": [],
+      "highlights": [
+        "'Leyla: Hayat... Aşk... Adalet...' dizisi 54. Uluslararası Emmy Ödülleri'nde 'Telenovela' kategorisinde ödül kazandı.",
+        "New York'taki törende ödülü yapımcı Kerem Çatay, yönetmen Hilal Saral ve Erdi Işık aldı.",
+        "Ay Yapım daha önce de 'Kara Sevda', 'Yargı' ve 'Deha' dizileriyle aynı kategoride ödül almıştı."
+      ],
       "externalUrl": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
       "publishedAt": "2026-11-24T11:11:48.000Z",
       "category": "Kültür & Sanat",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:14:29.259Z"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261124-french-astronaut-thomas-pesquet-answers-kids-space-questions",
+      "headline": "Fransız astronot Thomas Pesquet çocukların uzayla ilgili sorularını yanıtlıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1620428268482-cf1851a36764?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YXN0cm9uYXV0JTIwc3BhY2V8ZW58MXwwfHx8MTc5NTUxODg3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kobby Mendez",
+        "photographerUrl": "https://unsplash.com/@kobbymendez",
+        "unsplashUrl": "https://unsplash.com/photos/astronaut-figurine-on-gold-moon-d0oYF8hm4GI"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Fransız astronot Thomas Pesquet, çocukların uzay hakkında merak ettiği soruları yanıtlamak üzere France 24 yayıncısına konuk oldu. Uluslararası Uzay İstasyonu'ndaki deneyimlerini paylaşan Pesquet, roketle uzaya fırlatılmanın nasıl bir his olduğunu ve bir uzay aracına meteor yağmuru sırasında ne olduğunu soran çocukların sorularını yanıtladı. Bu sorular, çocukların gönderdiği merak edilen konular arasında yer aldı.\n\n24 Kasım 2026 tarihinde yayımlanan programda, gençlerin uzay yolculuğu ve uzay araçlarının karşılaştığı durumlarla ilgili soruları ele alındı.",
+      "highlights": [
+        "Fransız astronot Thomas Pesquet çocukların uzayla ilgili sorularını yanıtladı.",
+        "Çocuklar roket fırlatılışı ve meteor yağmuru gibi konuları sordu.",
+        "Program 24 Kasım 2026 tarihinde yayımlandı."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261124-french-astronaut-thomas-pesquet-answers-kids-space-questions",
+      "publishedAt": "2026-11-24T11:08:22.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -206,7 +259,8 @@
       "publishedAt": "2026-11-23T19:43:45.000Z",
       "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:14:29.259Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/nigdede-apartman-dairesinde-yangin-cikti-hasar-olustu-4875829",
@@ -265,7 +319,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T01:51:51.643Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
@@ -306,7 +360,7 @@
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T01:51:51.643Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/chpde-kurultay-tartismasi-3497113",
@@ -14436,56 +14490,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
       "imageSearchAttemptedAt": "2026-11-23T16:24:31.229Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
-      "headline": "Güney Kore Yüksek Mahkemesi eski Başbakan Han Duck-soo'nun sıkıyönetim suçlamasındaki mahkûmiyetini bozdu",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1448523183439-d2ac62aca997?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U291dGglMjBLb3JlYSUyMGNvdXJ0fGVufDF8MHx8fDE3OTUwODIwNjl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Brady Bellini",
-        "photographerUrl": "https://unsplash.com/@brady_bellini",
-        "unsplashUrl": "https://unsplash.com/photos/green-and-red-temple-t5dGNNQVwg8"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Güney Kore Yüksek Mahkemesi, eski Başbakan Han Duck-soo'nun Aralık 2024'teki sıkıyönetim ilanına yardım etmek suretiyle suçlu bulunduğu mahkûmiyet kararını bozdu. Han, görevden alınan Devlet Başkanı Yoon Suk Yeol'un kabine toplantısında onay alarak kararnameyi meşrulaştırmasına yardım ettiği gerekçesiyle suçlu bulunmuştu. Perşembe günü yapılan açıklamaya göre mahkeme, savcıların bu durumu yeterince kanıtlayamadığına hükmetti. Han'ın dosyası, Mayıs ayında kendisine 15 yıl hapis cezası veren Seul Yüksek Mahkemesi'ne geri gönderilecek. Öte yandan Yüksek Mahkeme, Yoon'un eşi Kim Keon Hee'nin yolsuzluk, hisse senedi manipülasyonu ve rüşvet suçlamalarıyla aldığı dört yıllık hapis cezasını ise onayladı. Halihazırda hapishanede bulunan Han ve Kim, karar duruşmasına katılmadı.",
-      "highlights": [
-        "Güney Kore Yüksek Mahkemesi eski Başbakan Han Duck-soo'nun mahkumiyetini bozdu.",
-        "Dava, Seul Yüksek Mahkemesi'ne geri gönderildi.",
-        "Yoon'un eşi Kim Keon Hee'nin dört yıllık hapis cezası onandı."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
-      "publishedAt": "2026-11-19T09:52:10.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T10:04:32.361Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/tekirdag-buyuksehir-belediye-baskani-candan-yuceer-ak-parti-genel-merkezinde-1751605",
-      "headline": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, AK Parti Genel Merkezi'nde",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1624417963912-8532660d9de8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saXRpY2lhbiUyMGJ1aWxkaW5nfGVufDF8MHx8fDE3OTUwODIwNzF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Elijah Mears",
-        "photographerUrl": "https://unsplash.com/@elijahjmears",
-        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-under-blue-sky-during-daytime-E94nZORR5qc"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "12 gün önce Yeni Parti'den istifa eden Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, saat 14.00'te başlayacak AK Parti Genişletilmiş İl Başkanları Toplantısı'na katılmak üzere AK Parti Genel Merkezi'ne geldi. Yüceer'in bir süredir AK Parti'ye geçmesi bekleniyordu ve kulislerdeki tartışmalar sürerken yaşanan bu gelişme dikkat çekti. Yüceer'e rozetinin Cumhurbaşkanı Recep Tayyip Erdoğan tarafından takılması bekleniyor.\n\nCandan Yüceer, 7 Kasım 2026 tarihinde sosyal medya hesabından yaptığı paylaşım ile Yeni Parti'den istifa etmişti. Açıklamasında koltuk hesabı ve kişisel ikbal mücadelesi için siyaset yapmadığını belirten Yüceer, bazılarının kişisel ikbal, makam ve koltuk hesabına düştüğünü ifade ederek eleştirilerde bulunmuştu.\n\nİstifa açıklamasında kurultay sürecine de değinen Yüceer, hasta olduğu bir dönemde il kongresi gündeminin kurultay delegeliği üzerinden tartışmaya açıldığını savunmuştu. Bu tartışmalar nedeniyle kongrenin başlatılmamasını ve şahsının delege yazılmamasını kabul edilebilir bulmadığını belirten Yüceer, meselenin delege listesi değil yol arkadaşlığı hukuku ve siyasi nezaket olduğunu vurgulamıştı.\n\nYaşanan bu gelişmeyle birlikte Yeni Parti yönetimindeki il belediyesi sayısı 20'ye geriledi. 1973 doğumlu olan ve Gazi Üniversitesi Tıp Fakültesini bitiren Candan Yüceer, geçmişte hekimlik yapmış, milletvekilliği görevlerinde bulunmuş ve 31 Mart 2024 seçimlerinde Tekirdağ Büyükşehir Belediye Başkanı seçilmişti. Yüceer, 24 Ağustos 2026'da CHP'den istifa ederek Yeni Parti'ye katılmıştı.",
-      "highlights": [
-        "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer AK Parti Genel Merkezi'ne geldi.",
-        "Yüceer, 12 gün önce Yeni Parti'den istifa etmişti.",
-        "Yüceer'e rozetini Cumhurbaşkanı Recep Tayyip Erdoğan'ın takması bekleniyor."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/tekirdag-buyuksehir-belediye-baskani-candan-yuceer-ak-parti-genel-merkezinde-1751605",
-      "publishedAt": "2026-11-19T09:52:07.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T10:04:32.361Z",
       "isBreaking": false
     }
   ],
