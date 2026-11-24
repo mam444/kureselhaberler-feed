@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T20:04:24.554Z",
+  "generatedAt": "2026-11-24T20:14:34.243Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/azerbaycandan-eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesaji/4136421",
+      "headline": "Azerbaycan'dan Eskişehir'deki helikopter kazasında şehit olan askerler için taziye mesajı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Azerbaycan Savunma Bakanı Zakir Hasanov, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit olan 5 asker için Milli Savunma Bakanı Yaşar Güler'e taziye mesajı gönderdi.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/azerbaycandan-eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesaji/4136421",
+      "publishedAt": "2026-11-24T20:12:46.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
       "headline": "Galatasaray'da şok! Derbi öncesi sakatlık",
@@ -18,6 +34,30 @@
       "externalUrl": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
       "publishedAt": "2026-11-24T19:59:58.000Z",
       "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
+      "headline": "Bukele yöntemi: El Salvador liderinin sert taktikleri Haiti'de işe yarayacak mı?",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1547082733-87e67991b0b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SGFpdGklMjBnYW5nJTIwdmlvbGVuY2V8ZW58MXwwfHx8MTc5NTU1MTI3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "TopSphere Media",
+        "photographerUrl": "https://unsplash.com/@zvessels55",
+        "unsplashUrl": "https://unsplash.com/photos/selective-focus-photography-of-woman-sitting-on-chair-H3rJJ_PatzE"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "Haiti'de vatandaşlar, ülkeyi son altı yıldır ele geçiren çetelerle mücadele konusunda Salvador Devlet Başkanı'nın yöntemini benimsiyor. Americas programında, sevk edilen polis gücünün hukuku ve düzeni yeniden sağlayıp sağlayamayacağı ele alınıyor.\n\nProgramda, uluslararası toplumun Haiti'yi desteklemek için onlarca yıldır yürüttüğü çabalar ile kendisini \"dünyanın en havalı diktatörü\" olarak adlandıran Nayib Bukele'nin durumu masaya yatırılıyor. Sosyal medyada yaptıklarını paylaşan Bukele, yöntemini kendi ülkesinde test ederek uyuşturucu çetelerini ve anayasayı ortadan kaldırdı; binlerce kişiyi adil yargılama olmaksızın tutukladı ve kendi görev süresi sınırlarını kaldırdı.\n\nTrump yanlısı Bukele, üçüncü kez devlet başkanlığına adaylığını duyurdu. Bununla birlikte, Meksika'nın da kendi çetelerine karşı daha çatışmacı bir yaklaşım benimsediği bir dönemde, devletin vatandaş haklarına saygı duyarken otoriteyi elinde tutmasını sağlayacak planın ne olduğu da sorgulanıyor.\n\nHaiti'deki gelişmeler ve uluslararası güvenlik misyonu kapsamında El Salvador'un ülkeye asker göndermesi gibi konular, François Picard, Rebecca Gnignati, Juliette Laffont, Ilayda Habip ve Charles Wente tarafından hazırlanan programda işleniyor.",
+      "highlights": [
+        "Haitili vatandaşlar El Salvador liderinin çetelere karşı yöntemini destekliyor",
+        "Nayib Bukele üçüncü kez devlet başkanlığına adaylığını açıkladı",
+        "Uluslararası güvenlik misyonu kapsamında El Salvador Haiti'ye asker gönderdi"
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
+      "publishedAt": "2026-11-24T19:59:35.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -3587,7 +3627,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T14:24:18.968Z",
-      "imageSearchAttemptedAt": "2026-11-24T13:54:19.029Z"
+      "imageSearchAttemptedAt": "2026-11-24T20:14:30.053Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
@@ -4467,7 +4507,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T11:34:18.648Z",
-      "imageSearchAttemptedAt": "2026-11-24T13:54:19.029Z"
+      "imageSearchAttemptedAt": "2026-11-24T20:14:30.053Z"
     },
     {
       "id": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
@@ -14373,56 +14413,6 @@
       "publishedAt": "2026-11-19T17:38:22.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/ekonomi/turk-ogrenciler-cop31de-dunyaya-seslendi-iklim-krizi-icin-onemli-mesajlar-verdiler-3495489",
-      "headline": "Türk öğrenciler COP31'de dünyaya seslendi: İklim krizi için önemli mesajlar verdiler",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1600454551705-d6e1b013339d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2xpbWF0ZSUyMGNoYW5nZSUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc5NTEwOTc1MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ma Ti",
-        "photographerUrl": "https://unsplash.com/@masplashti",
-        "unsplashUrl": "https://unsplash.com/photos/person-holding-white-and-black-quote-board-YeMFV8ndxrM"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) Türkiye'den iki öğrenci uluslararası katılımcılara seslendi. Global çevrim içi bire bir İngilizce eğitim platformu 51Talk'un Türkiye'den öğrencileri olan 10 yaşındaki Öykü Aslan ve 12 yaşındaki Kemal Uysal, etkinlikte dünyanın geleceğine ilişkin düşüncelerini paylaştı.\n\nTürkiye'nin ev sahipliğinde gerçekleştirilen COP31 kapsamında beş farklı ülkeden genç konuşmacılarla birlikte dünya sahnesine çıkan öğrenciler, iklim krizine dair değerlendirmelerini ve sürdürülebilir bir geleceğe yönelik umutlarını dile getirdi. Dünya genelinden toplam 8 öğrencinin katıldığı etkinlikte, iki Türk öğrencinin yer alması dikkat çekti.\n\n51Talk Türkiye Bölge Müdürü İsmail Emirhan Buldu, AA muhabirine yaptığı açıklamada, platformun genç yaştaki öğrencilerin İngilizceyi özgüvenle konuşabilmelerini hedeflediğini belirtti. Buldu, geçen yıl COP30'a da bir öğrenci katıldığını hatırlatarak, bu yıl Türkiye'den iki öğrencinin bu sahneye çıkmasından duydukları gururu dile getirdi.\n\nCOP31'de konuşma yapan 10 yaşındaki Öykü Aslan, İngilizceyi okulda öğrendiğini ve 51Talk sayesinde dil becerilerini geliştirdiğini ifade etti. Tüm dünyanın kendisini izlediğinin bilincinde olduğunu belirten Aslan, çevrenin korunması gerektiğine dikkat çekerek \"Gideceğimiz başka bir gezegen yok, burayı temiz tutmalıyız\" mesajını verdi.",
-      "highlights": [
-        "Türk öğrenciler Öykü Aslan ve Kemal Uysal Antalya'daki COP31'de konuştu.",
-        "Dünya genelinden 8 öğrencinin katıldığı etkinlikte Türkiye'den iki öğrenci yer aldı.",
-        "Öykü Aslan çevrenin korunması gerektiğini ve başka gezegen olmadığını vurguladı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/ekonomi/turk-ogrenciler-cop31de-dunyaya-seslendi-iklim-krizi-icin-onemli-mesajlar-verdiler-3495489",
-      "publishedAt": "2026-11-19T17:33:59.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T17:46:39.763Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
-      "headline": "Avrupa, Trump, Putin ve Xi ittifakının gölgesinde mi kalıyor?",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1745476557118-58860113c8ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXMlMjBFdXJvcGUlMjBub3clMjBpbiUyMHRoZSUyMHNoYWRvdyUyMG9mJTIwYSUyMFRydW1wJTJDJTIwUHV0aW4lMjBhbmQlMjBYaSUyMGFsbGlhbmNlJTNGJTIwJUUyJTgwJTkzJTIwcG9kY2FzdHxlbnwxfDB8fHwxNzk1MTA5NzM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/people-protest-against-russian-and-us-weapons-in-europe-kUVg4BvdK-E"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Andy Burnham, Ukrayna'yı ve AB ile daha yakın bağları görüşmek üzere bu hafta Berlin ve Brüksel'de batılı liderlerle bir araya geliyor. Bu görüşmeler sürerken Donald Trump, Vladimir Putin ve Xi Jinping Çin'deki Apec zirvesinde buluştu.\n\nYaşanan bu gelişmeler, küresel güç dengesinin Avrupa'dan uzaklaşmaya başladığının bir işareti mi, yoksa sadece abartılmış bir fotoğraflı buluşma mı olduğu sorularını akıllara getiriyor.\n\nKonuya ilişkin daha fazla detay ve AB'nin Birleşik Krallık ile ilişkileri yeniden başlatma yaklaşımı Pippa Crerar'ın makalesinde ele alınıyor.",
-      "highlights": [
-        "Andy Burnham Ukrayna ve AB ilişkileri için Berlin ve Brüksel'de liderlerle görüşüyor.",
-        "Donald Trump, Vladimir Putin ve Xi Jinping Çin'deki Apec zirvesinde bir araya geldi.",
-        "Gelişmelerin küresel bir güç kayması olup olmadığı tartışılıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/audio/2026/nov/19/is-europe-in-shadow-of-trump-putin-xi-alliance-podcast",
-      "publishedAt": "2026-11-19T17:23:36.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T17:46:39.763Z",
       "isBreaking": false
     }
   ],
