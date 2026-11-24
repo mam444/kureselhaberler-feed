@@ -1,6 +1,38 @@
 {
-  "generatedAt": "2026-11-24T20:14:34.243Z",
+  "generatedAt": "2026-11-24T20:24:27.678Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/hurmuz-bogazinda-pes-pese-operasyon-iran-ordusu-abdye-ait-2-ihayi-dusurdugunu-duyurdu-7707251",
+      "headline": "Hürmüz Boğazı'nda peş peşe operasyon! İran ordusu ABD'ye ait 2 İHA'yı düşürdüğünü duyurdu",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "İran ordusu, Basra Körfezi üzerinde Hürmüz Boğazı'nın batısı ve doğusunda ABD'ye ait \"LUCAS\" ve \"MQ-9\" tipi 2 insansız hava aracının (İHA) düşürüldüğünü bildirdi. İran ordusunun Halkla İlişkiler Biriminden yapılan açıklamada, ABD'ye ait \"LUCAS\" tipi İHA'nın Hürmüz Boğazı'nın batısında, Hava Savunma Kuvvetlerine ait yerli sistemler tarafından imha edildiği belirtildi. Bir başka operasyonda ise ABD'ye ait \"MQ-9\" tipi…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/hurmuz-bogazinda-pes-pese-operasyon-iran-ordusu-abdye-ait-2-ihayi-dusurdugunu-duyurdu-7707251",
+      "publishedAt": "2026-11-24T20:22:18.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+      "headline": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "6 dk önce",
+      "body": "Iraq's Prime Minister Ali al-Zaidi has ordered federal forces to take control of oilfields in Kurdish-controlled areas.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
+      "publishedAt": "2026-11-24T20:18:19.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/azerbaycandan-eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesaji/4136421",
       "headline": "Azerbaycan'dan Eskişehir'deki helikopter kazasında şehit olan askerler için taziye mesajı",
@@ -15,7 +47,9 @@
       "publishedAt": "2026-11-24T20:12:46.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T20:24:24.239Z",
+      "imageSearchAttemptedAt": "2026-11-24T20:24:24.239Z"
     },
     {
       "id": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
@@ -30,12 +64,17 @@
       },
       "timeAgo": "4 dk önce",
       "body": "UEFA Şampiyonlar Ligi'nin 5. haftasında Galatasaray, evinde İngiliz ekibi Aston Villa ile kozlarını paylaştı. Süper Lig'de Beşiktaş'a dev derbide konuk olacak sarı-kırmızılılara kötü haber Mario Lemina'dan geldi. Aston Villa maçında sakatlanan tecrübeli futbolcu, oyuna devam edemedi.",
-      "highlights": [],
+      "highlights": [
+        "Mario Lemina Aston Villa maçında sakatlandı ve oyuna devam edemedi",
+        "Lucas Torreira karşılaşmanın son anlarında sakatlanarak oyundan çıktı",
+        "Beşiktaş derbisi öncesi Galatasaray'da sakatlık yaşayan oyuncuların durumu gündemde"
+      ],
       "externalUrl": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
       "publishedAt": "2026-11-24T19:59:58.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T20:24:24.239Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/the-debate/20261124-the-bukele-method-will-salvadoran-leader-s-strong-arm-tactics-work-for-haiti",
@@ -5218,7 +5257,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T09:14:24.856Z",
-      "imageSearchAttemptedAt": "2026-11-24T14:04:27.822Z"
+      "imageSearchAttemptedAt": "2026-11-24T20:24:24.239Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
@@ -14365,55 +14404,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T18:04:21.852Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
-      "headline": "Muhafazakâr Parti, Londra Belediye Başkanlığı Adaylığı İçin James Cleverly'yi Seçti",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1680215589605-c79387e55c98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SmFtZXMlMjBDbGV2ZXJseSUyMExvbmRvbnxlbnwxfDB8fHwxNzk1MTEwNDQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Rodrigo Rodrigues | WOLF Λ R T",
-        "photographerUrl": "https://unsplash.com/@wolfart32",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-a-bridge-looking-at-the-water-IjPgids9W6o"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Muhafazakâr Parti, Londra belediye başkanlığı seçimi için aday olarak James Cleverly'yi seçti. Merkez Londra'daki bir ofis süitinde toplanan adaylar arasında yapılan ilk tur oylamanın ardından Cleverly'nin yüzde 86 oy alarak seçildiği açıklandı. Oylamaya katılan toplam kişi sayısı ise belirtilmedi.\n\nCleverly, sonuçların açıklanmasının ardından diğer adaylar Festus Akinbusoye ve Sara Gezdari'ye kampanyalarından dolayı teşekkür etti. Londra'yı çok sevdiğini belirten Cleverly, bir daha milletvekili olarak aday olmayı planlamadığını ifade etti. Konuşmasında Londra'nın dünyanın en iyi şehri olduğunu savunan Cleverly, aynı zamanda şehirdeki sorunların ve suçların sorumlusu olarak mevcut Belediye Başkanı Sadiq Khan'ı suçladı ve Khan'ın Londra'dan nefret ettiğini öne sürdü.\n\nSoru-cevap kısmında Brexit ve Liz Truss'ın mini bütçesine verdiği eski destekler gündeme geldiğinde, Cleverly bu konulardan kaçınarak geçmişten ziyade geleceğe odaklandığını belirtti. Net sıfır hedeflerinden ve Avrupa İnsan Hakları Sözleşmesi'nden (AİHS) vazgeçme konusundaki sorulara ise isteksiz bir şekilde onay yanıtı verdi.\n\nGeçmişteki bazı siyasi çıkışlarıyla tanınan Cleverly'nin Londra belediye başkanlığı adaylığı, muhafazakârların bu yarışa daha ciddi yaklaşma çabası olarak değerlendiriliyor. Seçim sürecinin ve önümüzdeki dönemin siyaset yazarları için oldukça hareketli geçmesi bekleniyor.",
-      "highlights": [
-        "Muhafazakâr Parti, Londra belediye başkanlığı adayı olarak James Cleverly'yi seçti.",
-        "Cleverly, oyların yüzde 86'sını alarak seçildiğini duyurdu.",
-        "Konuşmasında mevcut belediye başkanını eleştiren Cleverly, geçmişteki bazı politikaları hakkında sorulan sorulara mesafeli yaklaştı."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
-      "publishedAt": "2026-11-19T17:38:48.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T17:54:28.434Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "headline": "Trump, Putin ve Xi Tarihi Zirvenin Ardından 'Barış Deklarasyonu' Yayımladı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1790426319874-66f45aebd6c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VHJ1bXAlMjBQdXRpbiUyMFhpJTIwc3VtbWl0fGVufDF8MHx8fDE3OTUxMTA4Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Olek Buzunov",
-        "photographerUrl": "https://unsplash.com/@olek_bznv_photo",
-        "unsplashUrl": "https://unsplash.com/photos/people-holding-protest-signs-7l4I7FvFG3k"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Xi Jinping, Çin'in Shenzhen kentinde gerçekleştirilen tarihi üçlü görüşmenin ardından ortak bir barış deklarasyonu yayımladı. Asya-Pasifik Ekonomik İşbirliği (APEC) zirvesi marjında basına kapalı olarak 90 dakika süren görüşmede liderler, daha önce ikili temaslarda bulunmalarına rağmen ilk kez üçlü bir zirvede bir araya geldi.\n\nYayımlanan deklarasyonda nükleer savaşın kazanrilemeyeceği ve asla yapılmaması gerektiği vurgulanırken, ülkelerin petrol üretim ve tedarikini artırmayı planladığı ifade edildi. Liderler ayrıca küresel zorluklara daha etkili yanıt verebilmek amacıyla Birleşmiş Milletler'in reform edilmesine bağlı olduklarını belirtti. Ortak açıklamada, Uluslararası Ceza Mahkemesi ve benzeri kurumların yetki alanlarını kötüye kullanmaması gerektiği konusunda anlaşıldığı da kaydedildi.\n\nWashington'a dönerken sosyal medyada zirveyi değerlendiren ABD Başkanı Trump, görüşmeyi \"harika ve son derece önemli bir seyahat\" olarak nitelendirdi ve cuma günü Beyaz Saray'da bir basın toplantısı düzenleyeceğini duyurdu. Çin'deki temasları kapsamında Putin ile ayrı bir görüşme yapan Trump, Rus lideri \"arkadaşı\" olarak selamladı; Xi Jinping ile yaptığı ayrı görüşmede ise ikili ilişkileri \"çok özel\" olarak tanımladı.\n\nZirvenin ardından açıklamalarda bulunan Vladimir Putin, toplantıyı diploması tarihinin önemli bir bölümü olarak nitelendirirken, Ukrayna ve Avrupa'nın henüz bir uzlaşıya hazır olmadığını savundu. Putin ayrıca Rusya'nın Ukrayna'daki çatışmanın son bulmasını umduğunu ifade etti. Çin devlet yayıncılığına göre Xi Jinping ise üç liderin görüşmesini olumlu, yapıcı ve son derece verimli olarak değerlendirdi.\n\nABD'li bazı milletvekilleri ise Trump'ın Rus ve Çinli liderlere yönelik yaklaşımına tepki gösterdi. Cumhuriyetçi Senatör John Curtis nükleer savaşın önlenmesi taahhüdünü memnuniyetle karşılasa da, liderlerin dost olmadığını ve bu durumun ulusal güvenliği riske atabileceğini belirtti. Demokrat Senatör Jeanne Shaheen de Trump'ın tutumunu sert sözlerle eleştirdi.",
-      "highlights": [
-        "Trump, Putin ve Xi Jinping Çin'in Shenzhen kentinde tarihi bir üçlü görüşme gerçekleştirdi.",
-        "Liderler nükleer savaşın asla yapılmaması gerektiğini belirten ortak bir barış deklarasyonu yayımladı.",
-        "Zirve, Rusya'nın Ukrayna'yı işgalinden bu yana Putin'in Batılı liderlerin de yer aldığı uluslararası bir buluşmaya katıldığı ilk zirve oldu."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T17:38:22.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
