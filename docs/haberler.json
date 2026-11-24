@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-24T14:19:57.396Z",
+  "generatedAt": "2026-11-24T14:27:04.094Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
+      "headline": "Balıkesir'de sel otomobilleri ağaçların üzerine çıkardı! 4 saatte metrekareye 90 kilogram yağış düştü",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1753808502274-3dbd71ec0047?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QmFsJUM0JUIxa2VzaXIlMjdkZSUyMHNlbCUyMG90b21vYmlsbGVyaSUyMGElQzQlOUZhJUMzJUE3bGFyJUM0JUIxbiUyMCVDMyVCQ3plcmluZSUyMCVDMyVBNyVDNCVCMWthcmQlQzQlQjElMjElMjA0JTIwc2FhdHRlJTIwbWV0cmVrYXJleWUlMjA5MCUyMGtpbG9ncmFtJTIweWElQzQlOUYlQzQlQjElQzUlOUYlMjBkJUMzJUJDJUM1JTlGdCVDMyVCQ3xlbnwxfDB8fHwxNzk1NTMwMzYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "rü",
+        "photographerUrl": "https://unsplash.com/@rudagallery",
+        "unsplashUrl": "https://unsplash.com/photos/tractors-sit-near-a-palm-tree-and-a-grassy-hill-gyMfjCEA6vY"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Balıkesir'in Havran ilçesi ve kırsal mahallelerinde etkili olan şiddetli yağış, sele yol açtı. Yaklaşık dört saat boyunca devam eden yağışın ardından bazı yollar kapanırken araçlarında ve evlerinde mahsur kalan vatandaşlar için ekipler seferber oldu. Sel sularıyla sürüklenen bazı otomobillerin, suların çekilmesinin ardından dere yatağındaki ağaçların üzerinde kaldığı görüldü. Balıkesir Valisi İsmail Ustaoğlu, Havran…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
+      "publishedAt": "2026-11-24T14:21:15.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
       "headline": "Sports court verdict on Senegal’s appeal over Africa Cup of Nations title due Tuesday",
@@ -35,7 +55,9 @@
       "publishedAt": "2026-11-24T14:05:49.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T14:24:28.927Z",
+      "imageSearchAttemptedAt": "2026-11-24T14:24:28.927Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-aciklamalar-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
@@ -61,6 +83,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:14:30.822Z"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/focus/20261124-rwanda-s-malaria-cases-on-the-rise-climate-change-leads-to-more-mosquitoes",
+      "headline": "Ruanda'da İklim Değişikliği Nedeniyle Sıtma Vakaları Artıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1579210504676-3048cef34c43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8UndhbmRhJTIwbWFsYXJpYSUyMG1vc3F1aXRvZXN8ZW58MXwwfHx8MTc5NTUzMDMxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stuart Isaac Harrier",
+        "photographerUrl": "https://unsplash.com/@stuartisaacharrier",
+        "unsplashUrl": "https://unsplash.com/photos/two-men-sitting-on-ground-lV4aWw3ujpA"
+      },
+      "timeAgo": "32 dk önce",
+      "body": "Ruanda'da sıtma vakalarının iklim değişikliği sebebiyle artış gösterdiği bildirildi. Yüksek sıcaklıklar ve uzun süren yağışlar, sivrisinekler için daha fazla üreme alanı oluşmasına yol açıyor.\n\nAraştırmacılara göre, Rift Vadisi'nde enfeksiyon riskinin 2100 yılına kadar yüzde 20 oranında artabileceği öngörülüyor. Muhabir Aurore Bayoud, ülkenin bu sorunla mücadele etmek için yürüttüğü çalışmaları aktarıyor.\n\nSöz konusu gelişmeler, iklim koşullarının sağlık üzerindeki olumsuz etkilerine dikkat çekerken, yetkililerin ve araştırmacıların artan risklere karşı uyarılarını da beraberinde getiriyor. Konuyla ilgili detaylar ve sahadaki mücadele çalışmaları haberin video içeriğinde ele alınıyor.",
+      "highlights": [
+        "Ruanda'da iklim değişikliği nedeniyle sıtma vakaları artışta",
+        "Yüksek sıcaklıklar ve uzun süreli yağışlar sivrisinek üreme alanlarını çoğaltıyor",
+        "Rift Vadisi'nde enfeksiyon riskinin 2100'e kadar yüzde 20 artabileceği belirtiliyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/focus/20261124-rwanda-s-malaria-cases-on-the-rise-climate-change-leads-to-more-mosquitoes",
+      "publishedAt": "2026-11-24T13:52:59.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskenti-riyaddaki-finans-merkezine-saldiri-7707028",
@@ -6335,7 +6381,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:34:23.025Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:34:25.548Z"
+      "imageSearchAttemptedAt": "2026-11-24T14:24:28.927Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -14473,56 +14519,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T14:24:34.771Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/kusadasinda-firar-eden-deve-kusu-karayoluna-girdi-aydin-kusadasi-haberleri-4874429",
-      "headline": "Çiftlikten kaçan deve kuşu karayolunda tehlike yarattı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1775834501503-49291ca076ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8b3N0cmljaCUyMHJ1bm5pbmclMjByb2FkfGVufDF8MHx8fDE3OTUwOTA0ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ONUR KURT",
-        "photographerUrl": "https://unsplash.com/@bykurt",
-        "unsplashUrl": "https://unsplash.com/photos/ostriches-stand-on-a-road-near-a-car-wlS20uwaujk"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Aydın'ın Kuşadası ilçesinde bulunan kırsal Değirmendere Mahallesi yakınlarında, sabah saatlerinde bir çiftlikten firar eden deve kuşu karayoluna çıktı. Bakıcılarını atlatarak yola giren hayvan, herkesin şaşkın bakışları arasında kontrolsüzce koştu ve sürücülere zor anlar yaşatarak hafif bir kaza atlattı.\n\nDeve kuşunun karayoluna çıktığını gören vatandaşlar durumu 112 Acil Yardım Hattı'na bildirerek yardım talebinde bulundu. Aynı saatlerde deve kuşunun kaçtığını fark eden çiftlik çalışanları da hayvanı yakalamak için harekete geçti. İri cüssesiyle kendisini yakalamaya çalışanları korkutan deve kuşu, kaçışı sırasında bir kamyonete çarptı.\n\nÇarptıktan sonra yere yıkılan fakat koşmaya devam eden deve kuşu, uzun uğraşlar sonucunda kontrol altına alındı. Yakalanan firari hayvan, güvenli bir şekilde kaçtığı çiftliğe geri getirildi. Olayın ardından deve kuşunun sağlık durumunun iyi olduğu öğrenildi.",
-      "highlights": [
-        "Aydın'ın Kuşadası ilçesinde çiftlikten kaçan deve kuşu karayoluna girdi.",
-        "Kaçış sırasında bir kamyonete çarpan deve kuşu hafif bir kaza atlattı.",
-        "Uzun uğraşlar sonucu yakalanan hayvan, kaçtığı çiftliğe geri getirildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/kusadasinda-firar-eden-deve-kusu-karayoluna-girdi-aydin-kusadasi-haberleri-4874429",
-      "publishedAt": "2026-11-19T12:12:50.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:34:30.833Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon",
-      "headline": "Fransa'da 2027 Cumhurbaşkanlığı Yarışı: Yeşil Lider Tondelier, Aşırı Solcu Mélenchon'a Yaklaşıyor",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1531949436674-f35be9281b45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwcG9saXRpY2lhbnN8ZW58MXwwfHx8MTc5NTA5MDQ4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Howard Bouchevereau",
-        "photographerUrl": "https://unsplash.com/@howardbouchevereau",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-standing-between-houses-z6kGdHpSum8"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Fransa'da yaklaşan cumhurbaşkanlığı seçimlerinin ilk turuna altı ay kala, Yeşil parti lideri Marine Tondelier'nin radikal solun lideri Jean-Luc Mélenchon ile yakınlaşma içinde olduğu bildirildi.\n\nFransa 24'ün aktardığına göre, bu hamle soldaki ve merkezdeki diğer adayları, özellikle de Raphaël Glucksmann'ı hazırlıksız yakaladı.\n\nSöz konusu gelişme, ülkedeki siyasi dinamiklerin seçim öncesinde nasıl şekillendiğine dair değerlendirmelerle birlikte France 24 tarafından yayımlandı.",
-      "highlights": [
-        "Yeşil parti lideri Marine Tondelier, aşırı solcu lider Jean-Luc Mélenchon'a yaklaşıyor.",
-        "Bu hamle merkez ve soldaki diğer adayları, özellikle Raphaël Glucksmann'ı hazırlıksız yakaladı.",
-        "Gelişmeler, Fransa'nın 2027 cumhurbaşkanlığı seçimi sürecinde yaşandı."
-      ],
-      "externalUrl": "https://www.france24.com/en/french-2027-presidential-race-green-leader-tondelier-draws-closer-to-hard-left-melenchon",
-      "publishedAt": "2026-11-19T12:09:45.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:34:30.833Z",
       "isBreaking": false
     }
   ],
