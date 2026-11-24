@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-24T20:24:27.678Z",
+  "generatedAt": "2026-11-24T20:34:28.089Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/osimhen-aston-villa-macinda-oynayacak-mi-sampiyonlar-ligi-galatasaray-aston-villa-maci-ne-zaman-victor-osimhenin-saglik-durumu-nasil-3496886",
+      "headline": "OSIMHEN ASTON VILLA MAÇINDA OYNAYACAK MI? Şampiyonlar Ligi Galatasaray Aston Villa Maçı Ne Zaman? Victor Osimhen'in Sağlık Durumu Nasıl?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1777529565014-2b0b39d0d250?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8T1NJTUhFTiUyMEFTVE9OJTIwVklMTEElMjBNQSVDMyU4N0lOREElMjBPWU5BWUFDQUslMjBNSSUzRiUyMCVDNSU5RWFtcGl5b25sYXIlMjBMaWdpJTIwR2FsYXRhc2FyYXklMjBBc3RvbiUyMFZpbGxhJTIwTWElQzMlQTclQzQlQjElMjBOZSUyMFphbWFuJTNGJTIwVmljdG9yJTIwT3NpbWhlbiUyN2luJTIwU2ElQzQlOUZsJUM0JUIxayUyMER1cnVtdSUyME5hcyVDNCVCMWwlM0Z8ZW58MXwwfHx8MTc5NTU1MjQ2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Leo_Visions",
+        "photographerUrl": "https://unsplash.com/@leo_visions_",
+        "unsplashUrl": "https://unsplash.com/photos/two-soccer-players-jump-to-head-the-ball-8LGggtQ9vq4"
+      },
+      "timeAgo": "şimdi",
+      "body": "Osimhen Aston Villa maçında oynayacak mı, Victor Osimhen sakat mı, Galatasaray Aston Villa maçı, Osimhen son durumu, Şampiyonlar Ligi Galatasaray, Galatasaray eksik oyuncular aramaları sarı-kırmızılı taraftarların gündeminde ilk sıralarda yer alıyor. Galatasaray, UEFA Şampiyonlar Ligi'nin 5. haftasında Aston Villa'yı ağırlamaya hazırlanırken gözler takımın yıldız isimlerinden gelecek haberlere çevrildi. Kritik…",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/osimhen-aston-villa-macinda-oynayacak-mi-sampiyonlar-ligi-galatasaray-aston-villa-maci-ne-zaman-victor-osimhenin-saglik-durumu-nasil-3496886",
+      "publishedAt": "2026-11-24T20:38:20.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/hurmuz-bogazinda-pes-pese-operasyon-iran-ordusu-abdye-ait-2-ihayi-dusurdugunu-duyurdu-7707251",
       "headline": "Hürmüz Boğazı'nda peş peşe operasyon! İran ordusu ABD'ye ait 2 İHA'yı düşürdüğünü duyurdu",
@@ -15,7 +35,9 @@
       "publishedAt": "2026-11-24T20:22:18.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
+      "imageSearchAttemptedAt": "2026-11-24T20:34:26.073Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
@@ -31,7 +53,9 @@
       "publishedAt": "2026-11-24T20:18:19.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
+      "imageSearchAttemptedAt": "2026-11-24T20:34:26.073Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/azerbaycandan-eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesaji/4136421",
@@ -119,6 +143,22 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
+      "headline": "Senegal regain AFCON title on appeal at Morocco's expense",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "42 dk önce",
+      "body": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal at the Court of Arbitration for Sport (CAS) against the decision by the Confederation of African Football to declare Morocco the winners following a chaotic final in January. CAS said in a statement it had \"upheld the appeal by the Senegalese Football Federation (FSF) against the Confederation of African Football (CAF) and the…",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
+      "publishedAt": "2026-11-24T19:52:29.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/fon-kurulu-bir-kez-daha-toplandi-1-milyon-tlye-kadar-odemeler-tamamlaniyor-7707235",
@@ -14354,56 +14394,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T18:34:20.319Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/park-halindeki-3-arac-alev-alev-yandi-3495504",
-      "headline": "Park halindeki 3 araç alev alev yandı!",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1662808275637-f4a150802b4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YnVybmluZyUyMGNhcnxlbnwxfDB8fHwxNzk1MTEwNDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Cat Parker",
-        "photographerUrl": "https://unsplash.com/@catparkerphoto",
-        "unsplashUrl": "https://unsplash.com/photos/a-car-on-fire-bo1pWo-X8ig"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İstanbul Bağcılar'da park halindeki araçlarda çıkan yangın paniğe neden oldu. Olay, saat 14.00 sıralarında Göztepe Mahallesi'nde meydana geldi. Park halindeki hafif ticari araçta henüz bilinmeyen bir nedenle başlayan alevler, kısa sürede büyüyerek yanındaki bir başka hafif ticari araç ile otomobile de sıçradı.\n\nÇevredeki vatandaşların ihbarı üzerine olay yerine çok sayıda itfaiye, polis ve sağlık ekibi sevk edildi. Polis ekipleri olay yerinde güvenlik önlemleri alırken, itfaiye ekipleri alevlere müdahale ederek yangını söndürdü.\n\nSağlık ekiplerinin yaptığı kontrollerde yangında ölen ya da yaralanan kimsenin bulunmadığı tespit edildi. Çıkan yangın sonucunda alev alev yanan araçlar kullanılamaz hale geldi. Ekipler yangının çıkış nedeninin belirlenmesi için inceleme başlattı.",
-      "highlights": [
-        "İstanbul Bağcılar'da park halindeki hafif ticari araçtan çıkan yangın 2 araca daha sıçradı.",
-        "İtfaiye ekiplerinin müdahalesiyle söndürülen yangında ölen ya da yaralanan olmadı.",
-        "Alevler nedeniyle 3 araç kullanılamaz hale geldi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/park-halindeki-3-arac-alev-alev-yandi-3495504",
-      "publishedAt": "2026-11-19T17:46:55.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:54:31.783Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/bakan-ciftci-cember-daraliyor-diyerek-duyurdu-emre-yalvan-ve-murat-saydam-turkiyeye-iade-edildi-7704008",
-      "headline": "Bakan Çiftçi duyurdu: Emre Yalvan ve Murat Saydam Türkiye'ye iade edildi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1558456891-5d18cfe1d149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwaGFuZGN1ZmZzfGVufDF8MHx8fDE3OTUxMTA4ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Peppe Occhipinti",
-        "photographerUrl": "https://unsplash.com/@mrpeppeocchipinti",
-        "unsplashUrl": "https://unsplash.com/photos/man-holding-on-metal-round-bar-near-another-person-sitting-inside-vehicle-p4i5WlNOUCQ"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "İçişleri Bakanı Mustafa Çiftçi, sosyal medya hesabından yaptığı açıklamada, yürütülen diplomatik girişimler ve uluslararası iş birliği neticesinde kırmızı bültenle aranan iki firarinin Bulgaristan'dan Türkiye'ye getirildiğini duyurdu. Bakan Çiftçi, iade edilen kişilerden birinin 60 ayrı suç eylemiyle bağlantılı bir organize suç çetesi elebaşı, diğerinin ise kesinleşmiş hapis cezası bulunan bir zehir taciri olduğunu belirtti.\n\nİçişleri Bakanlığı tarafından yapılan açıklamada da sürecin detayları paylaşıldı. Açıklamaya göre; Emniyet Genel Müdürlüğü Interpol Europol Daire Başkanlığı, İstihbarat, Narkotik Suçlarla Mücadele ve KOM Başkanlıkları, İstanbul İl Emniyet Müdürlüğü Organize Suçlarla Mücadele Şube Müdürlüğü ile Adalet Bakanlığı koordinesinde çalışmalar yürütüldü.\n\nBu çalışmalar sonucunda, \"Birden fazla kişi tarafından gece vakti silahla yağma\" suçundan kırmızı bültenle ve 11 ayrı suçtan ulusal seviyede aranan, 60 farklı suça karıştığı tespit edilen organize suç örgütü yöneticisi Emre Yalvan ile \"Uyuşturucu madde ticareti yapma veya sağlama, kişiyi hürriyetinden yoksun kılma, ruhsatsız silah bulundurma, silahla tehdit ve hakaret\" suçlarından kırmızı bültenle aranan Murat Saydam'ın Bulgaristan'dan Türkiye'ye iade edildiği bildirildi.\n\nBakan Çiftçi, Bulgaristan İçişleri Bakanı Ivan Demerdzhiev ve Bulgar makamlarına, emniyet teşkilatına ve Adalet Bakanlığı mensuplarına katkı ve emekleri dolayısıyla teşekkür etti.",
-      "highlights": [
-        "Emre Yalvan ve Murat Saydam Bulgaristan'dan Türkiye'ye iade edildi.",
-        "Emre Yalvan'ın 60 farklı suç eylemine karıştığı tespit edildi.",
-        "Murat Saydam'ın uyuşturucu ve çeşitli suçlardan kırmızı bültenle arandığı belirtildi."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/bakan-ciftci-cember-daraliyor-diyerek-duyurdu-emre-yalvan-ve-murat-saydam-turkiyeye-iade-edildi-7704008",
-      "publishedAt": "2026-11-19T17:46:37.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T18:04:21.852Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
