@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T22:14:24.799Z",
+  "generatedAt": "2026-11-24T22:24:30.437Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/spor/galatasaray-in-filistin-destegine-netanyahu-ve-israil-den-skandal-hareket-uefa-dan-pankart-yaniti-geldi-3929891",
+      "headline": "UEFA'dan Galatasaray ve pankart yanıtı",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "5 dk önce",
+      "body": "Galatasaray Başkanı Dursun Özbek, İsrail Başbakanı Binyamin Netanyahu'nun sarı-kırmızılı kulübü UEFA'ya şikayet ettiğini HT Spor'a açıklamıştı. İsrail cephesinin, her maçta Filistin'e destek mesajı veren pankartlar açtığı gerekçesiyle Galatasaray taraftarını UEFA'ta şikayet etti. HT Spor'un haberini kaynak gösteren The Athletic, konu ile ilgili UEFA yetkilileriyle görüştü ve sürpriz bir yanıt aldı.",
+      "highlights": [],
+      "externalUrl": "https://www.haberturk.com/spor/galatasaray-in-filistin-destegine-netanyahu-ve-israil-den-skandal-hareket-uefa-dan-pankart-yaniti-geldi-3929891",
+      "publishedAt": "2026-11-24T22:19:22.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.trthaber.com/haber/dunya/gazzede-cadirlarda-yasayan-filistinliler-yeni-soguk-hava-dalgasinin-tehdidi-altinda-964379.html",
       "headline": "Gazze'de çadırlarda yaşayan Filistinliler yeni soğuk hava dalgasının tehdidi altında",
@@ -15,7 +31,9 @@
       "publishedAt": "2026-11-24T22:07:00.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T22:24:27.003Z",
+      "imageSearchAttemptedAt": "2026-11-24T22:24:27.003Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
@@ -51,12 +69,17 @@
       },
       "timeAgo": "4 dk önce",
       "body": "UEFA Şampiyonlar Ligi'nin 5. haftasında Real Madrid sahasında PSV'yi ağırladı. Mücadelede 1-0 geriye düşen eflatun-beyazlılar, ikinci yarıda bulduğu gollerle maçtan 5-1 galibiyetle ayrılırken; milli oyuncumuz Arda Güler 2 asistlik performans sergiledi.",
-      "highlights": [],
+      "highlights": [
+        "Real Madrid sahasında PSV'yi 5-1 mağlup etti.",
+        "Milli oyuncu Arda Güler 2 asistlik performans sergiledi.",
+        "Real Madrid bu sonuçla 5'te 5 yaparak 15 puana ulaştı."
+      ],
       "externalUrl": "https://www.haberturk.com/spor/real-madrid-5-psv-1-mac-sonucu-ozeti-ve-golleri-sampiyonlar-ligi-nde-gecenin-sonuclari-3929890",
       "publishedAt": "2026-11-24T22:00:22.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T22:24:27.003Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kahvehaneye-silahli-saldiri-iki-kisiyi-vurdu-kacarken-meydan-dayagi-yedi-4876240",
@@ -118,6 +141,22 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T22:04:27.438Z"
+    },
+    {
+      "id": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
+      "headline": "Armed men take at least 25 hostages in supermarket in Colombia tourist hotspot",
+      "source": "Sky News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=skynews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "48 dk önce",
+      "body": "A group of armed men are holding at least 25 people hostage in a supermarket in Colombia, according to officials.",
+      "highlights": [],
+      "externalUrl": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
+      "publishedAt": "2026-11-24T21:36:00.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/misir-disisleri-bakani-abdulati-abd-ile-iran-arasindaki-arabuluculuk-calismalarina-katki-sunuyoruz/4136496",
@@ -1401,7 +1440,7 @@
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T16:24:21.149Z"
+      "imageSearchAttemptedAt": "2026-11-24T22:24:27.003Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
@@ -14264,56 +14303,6 @@
       "publishedAt": "2026-11-19T19:38:45.000Z",
       "category": "Gündem",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
-      "headline": "Star Wars'un Galaktik Savaşçısı Cardiff'te Welsh Dilinde Prömiyer Yaptı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1579800663822-714e267da4fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U3RhciUyMFdhcnMlMjBwcmVtaWVyZXxlbnwxfDB8fHwxNzk1MTE3NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Matteo Stroppaghetti",
-        "photographerUrl": "https://unsplash.com/@matt_stropp",
-        "unsplashUrl": "https://unsplash.com/photos/unk-unk-unk-unk-unk-4Wsit73pjqw"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Star Wars serisinin 1977 yapımı orijinal filminin ilk kez Galike (Cymraeg) olarak seslendirilen versiyonu, Cardiff'teki Cineworld sinemalarında kırmızı halı etkinlikleriyle izleyiciyle buluştu. Darth Vader'ı seslendiren Mark Lewis Jones ve Luke Skywalker'a ses veren Osian Morgan gibi oyuncular prömiyere katılan isimler arasında yer aldı.\n\nMark Lewis Jones, Galler'in kuzeydoğusundaki Wrexham bölgesinden olduğunu belirterek, Gal dilinin antik ve şiirsel yapısının Vader'a otorite ve statü kazandırdığını ifade etti. Luke Skywalker'ı seslendiren Osian Morgan ise projeden duyduğu heyecanı dile getirerek bunun Galler'deki yaratıcı sanatlar için umut verici olduğunu söyledi. C-3PO'yu seslendiren Llŷr Ifans da etkinlikte hazır bulundu. Obi-Wan Kenobi'yi seslendiren Rhys Ifans ise geceye katılamadı.\n\nLucasfilm ve Disney tarafından Welsh yayın kuruluşu S4C ve Welsh hükümetinin Creative Wales ajansı işbirliğiyle üretilen filmin Galike başlığı Star Wars: Gobaith Newydd (Yeni Bir Umut) olarak belirlendi. Film, Noel Günü'nde S4C platformlarında yayınlanacak.\n\nPrömiyer gecesinde Cardiff'ten Côr Bechgyn Glantaf okul erkek korosu ile Band Pres Llareggub müzikal performans sergiledi. S4C Yöneticisi Geraint Evans, bu anın Welsh dilli çocuklar için sevilen karakterlerin kendi dillerini ilk kez konuşmasını duyma heyecanı yaratacağını belirtti. Welsh hükümetinin Enterprise, Connectivity and Energy Kabine Bakanı Adam Price ise bunun Welsh oyuncular ve prodüksiyon ekiplerinin büyük bir Hollywood stüdyosuyla çalışması için mükemmel bir fırsat olduğunu kaydetti. Welsh hükümeti 2050 yılına kadar bir milyon kişinin Cymraeg konuşmasını hedefliyor.",
-      "highlights": [
-        "Star Wars'un 1977 yapımı orijinal filminin ilk Galike seslendirmesi Cardiff'te prömiyer yaptı.",
-        "Darth Vader'ı seslendiren Mark Lewis Jones ve Luke Skywalker'ı seslendiren Osian Morgan kırmızı halıda yer aldı.",
-        "Film, Noel Günü'nde S4C platformlarında izleyiciyle buluşacak."
-      ],
-      "externalUrl": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
-      "publishedAt": "2026-11-19T19:33:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
-      "headline": "Cezaevi yetkilileri, Russell Brand'in YouTube mesajının kuralları ihlal edip etmediğini inceliyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1618620864043-896c2d11c7fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHJpc29uJTIwY2VsbHxlbnwxfDB8fHwxNzk1MTUxOTMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hasan Almasi",
-        "photographerUrl": "https://unsplash.com/@hasanalmasi",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-black-long-sleeve-shirt-raising-his-right-hand-aIRBGPafi74"
-      },
-      "timeAgo": "25 dk önce",
-      "body": "Cezaevi yetkilileri, cezaevinde bulunan Russell Brand'in eşi aracılığıyla suçsuz olduğunu savunan mesajlar yayımlamasının, mağdurlara yönelik kuralları ihlal edip etmediğini değerlendiriyor. Adalet Bakanlığı tarafından yürütülen incelemede, bu açıklamanın suç mağdurlarında \"ciddi sıkıntı\" yaratmayı önlemeyi amaçlayan kurallara aykırı olup olmadığı araştırılıyor. Değerlendirmede suçların bilinirliği ve mahkûmiyet ile açıklama arasındaki süre gibi faktörler de dikkate alınıyor.\n\nSouthwark Crown Court'ta 5 Kasım'da bir tecavüz ve üç cinsel saldırı suçundan mahkûm edilen Brand, 10 buçuk yıl hapis cezası çekiyor. Brand'in eşi Laura Gallacher'ın, suçlu olmadığını iddia eden mesajı okuduğu video, bakanların kaldırılması yönündeki çağrılarından günler sonra hâlâ YouTube'da yer alıyor.\n\nAndy Burnham, Google'a YouTube'daki videoyu kaldırması çağrısında bulunurken, başbakanlık sosyal medya şirketlerine bu tür içerikleri kaldırma çağrısında bulundu. Hükümetin Google'ı videoyu kaldırmaya zorlama yetkisi bulunmuyor, ancak teknoloji firmasıyla diyalog sürdürülüyor. Google sözcüsü, yeni içeriğin farkında olduklarını ve ekiplerinin inceleme yaptığını belirtti.\n\nResmi rehberliğe göre, mahkûmların medyaya erişiminde cezaevi müdürünün yayın için izin vermesi ve yayının mağdurlarda ciddi sıkıntı veya halkın hassasiyetinde öfke yaratmayacağından emin olması gerekiyor. İncelemenin, mahkûmların suçsuzluklarını protesto etme hakkını da hesaba kattığı anlaşılıyor.",
-      "highlights": [
-        "Cezaevi yetkilileri Russell Brand'in mesajının kuralları ihlal edip etmediğini inceliyor",
-        "Brand 5 Kasım'da mahkûm edildikten sonra 10 buçuk yıl hapis cezası çekiyor",
-        "Video bakanların kaldırılması çağrılarından günler sonra hâlâ YouTube'da yer alıyor"
-      ],
-      "externalUrl": "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
-      "publishedAt": "2026-11-19T19:30:14.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T05:18:45.279Z",
-      "sourceTextAttemptedAt": "2026-11-19T20:04:26.550Z",
       "isBreaking": false
     }
   ],
