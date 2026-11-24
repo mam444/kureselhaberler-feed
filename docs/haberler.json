@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T13:51:22.968Z",
+  "generatedAt": "2026-11-24T13:54:58.296Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskenti-riyaddaki-finans-merkezine-saldiri-7707028",
+      "headline": "Suudi Arabistan'ın başkenti Riyad'daki Finans Merkezi'ne saldırı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1618488623731-e9250a8ddb4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZmluYW5jaWFsJTIwY2VudGVyJTIwc2t5c2NyYXBlcnxlbnwxfDB8fHwxNzk1NTI4NDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Lukas Zischke",
+        "photographerUrl": "https://unsplash.com/@lukaszischke",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-buildings-during-daytime-9UiLvaIbG3g"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Suudi Arabistan'ın başkenti Riyad'da bulunan Finans Merkezi'ndeki kulelerden birinin terörist saldırıya uğradığı bildirildi. Yemen'deki Husi milisleriyle savaşan Suudi liderliğindeki askeri koalisyon, Suudi Kamu Yatırım Fonu'nun genel merkezine ev sahipliği yapan Riyad'ın en yüksek gökdeleninin bir hafta içinde ikinci kez hedef alınarak hasar gördüğünü duyurdu.\n\nKoalisyon sözcüsü Türki el-Malki, sosyal medya hesabından yaptığı açıklamada finans merkezindeki kulelerden birinin korkakça bir terörist saldırının hedefi olduğunu belirterek, ilgili makamların bölgede incelemelerde bulunduğunu kaydetti. AFP'ye konuşan bir görgü tanığı ise hoparlör takılı bir aracın bölgedeki yayalara sığınmaları yönünde uyarıda bulunduğunu aktardı.\n\nSuudi yetkililer, 19 Kasım tarihinde de Riyad'ın finans bölgesindeki bir kuleye saldırı düzenlendiğini, bu saldırının birkaç kata ve iki komşu binaya zarar verdiğini ancak can kaybına yol açmadığını açıklamıştı. Yetkililer binanın adını doğrudan belirtmese de sivil savunma kurumu tarafından paylaşılan fotoğraflarda PIF kulesinde kırık camlar ve dış cephe hasarları görülmüştü. Yemen'deki İran destekli Husi milisleri, geçen hafta gerçekleştirilen saldırının sorumluluğunu üstlenmişti. 385 metre yüksekliğe sahip olan PIF kulesi, ülkenin ekonomik hedeflerinin vitrini konumundaki Kral Abdullah Finans Bölgesi'nde yer alıyor.",
+      "highlights": [
+        "Riyad'daki finans merkezinin kulelerinden biri terörist saldırıya uğradı",
+        "Saldırı bir hafta içinde ikinci kez gerçekleşti",
+        "Geçen hafta düzenlenen saldırının sorumluluğunu Husi milisleri üstlenmişti"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-suudi-arabistanin-baskenti-riyaddaki-finans-merkezine-saldiri-7707028",
+      "publishedAt": "2026-11-24T13:50:23.000Z",
+      "category": "Ekonomi",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
       "headline": "Trump'ın Jensen Huang'ın Nvidia'ya dönüşündeki rolü inceleme altında",
@@ -15,12 +39,37 @@
       "timeAgo": "3 dk önce",
       "body": "Jensen Huang'ın Nvidia'nın CEO'su olarak göreve geri dönmesi, ABD Başkanı Donald Trump tarafından memnuniyetle karşılandı ve yapay zeka çip üreticisinin hisse senedi fiyatlarında büyük bir yükseliş yaşandı. Ancak bu gelişme Kongre'de tepkilere yol açtı.\n\nHuang'ın Çinli casus olduğu iddia edilen kişiyle yaşadığı evlilik dışı ilişkinin ulusal güvenlik açısından doğurabileceği sonuçlar tartışma yarattı. Aynı zamanda Donald Trump'ın, hisse senedi sahibi olduğu bir şirketin operasyonlarına müdahale etmesi de dikkat çekti.\n\nYaşanan bu durum sonrasında Kongre'deki her iki partiden üyeler konunun üzerine gitme kararı aldı. Milletvekilleri, bu duruma yönelik soruşturma başlatma taahhüdünde bulundu.",
       "highlights": [
-        "Jensen Huang'ın Nvidia CEO'su olarak dönüşü Trump tarafından karşılandı",
-        "Hisse senedi fiyatları yükseldi",
-        "Kongre'deki iki partiden üyeler soruşturma vaadinde bulundu"
+        "Jensen Huang'ın Nvidia CEO'su olarak dönüşü Trump tarafından memnuniyetle karşılandı ve şirket hisseleri yükseldi.",
+        "Huang'ın iddia edilen Çinli bir casusla ilişkisinin ulusal güvenlik etkileri Kongre'de incelemeye alındı.",
+        "Trump'ın hisse sahibi olduğu bir şirketin operasyonlarına müdahale etmesi iki partiden milletvekillerinin tepkisini çekti."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261124-trump-s-role-in-huang-s-nvidia-return-under-scrutiny",
       "publishedAt": "2026-11-24T13:48:17.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T13:54:19.029Z"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/dozens-killed-latest-land-dispute-attacks-nigerias-niger-138408925",
+      "headline": "Nijerya'nın Nijer Eyaletindeki Toprak Anlaşmazlığı Saldırılarında Onlarca Kişi Hayatını Kaybetti",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1617660707636-6c17e39a67cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8TmlnZXJpYSUyMHZpb2xlbmNlJTIwY29uZmxpY3R8ZW58MXwwfHx8MTc5NTUyODQ3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Oladipo Adejumo",
+        "photographerUrl": "https://unsplash.com/@eniyato",
+        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-street-during-daytime-16N4Z6kn_RA"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Nijerya'nın kuzey-orta kesiminde yer alan topluluklara düzenlenen son saldırılarda onlarca kişi yaşamını yitirdi. Yerel yetkililer ve savunuculuk grupları, bu şiddet olaylarının çobanlar ile çiftçiler arasında otlak ve diğer kaynaklar nedeniyle yaşanan uzun süreli anlaşmazlıklarla bağlantılı olduğunu belirtti.\n\nÇoğunlukla Fulani etnik grubundan çobanları temsil eden Nijerya Miyetti Allah Sığır Yetiştiricileri Derneği (MACBAN), Nijer eyaletinin Borgu bölgesinde hafta sonu Fulani topluluklarından 64 kişinin öldürüldüğünü açıkladı. MACBAN özel asistanı Yusuf Abubakar, olayın erkek, kadın, çocuk ve yaşlıların hayatına mal olduğunu belirterek faillerin adalete teslim edilmesi için soruşturma çağrısında bulundu.\n\nUluslararası Af Örgütü Nijerya şubesi, çocukların sıraya dizilip boğazlandığını, anne ve babalarının kendi kanları içinde yattığını gösteren video ve fotoğraflara ulaştığını bildirdi. Örgüt, bu baskının cumartesi günkü önceki bir saldırıya misilleme olarak düzenlendiğine inanıldığını kaydetti.\n\nEyalet Enformasyon Komiseri Obed Nuhu Nana, Borgu bölgesindeki Lumma Ba'are topluluğuna cumartesi günü erken saatlerde düzenlenen saldırıda köy muhtarı dahil beş kişinin hayatını kaybettiğini, beş kişinin yaralandığını ve bazı evlerin ateşe verildiğini ifade etti. Yerel sakinlerden Hassan Kafobe Dodo ise Lumma Ba'are sakinlerinin köy muhtarlarını öldüren saldırganların Fulani olduğunu varsaydıklarını ve 300'den fazla kişinin misilleme olarak Fulani topluluklarına saldırdığını aktardı.\n\nAfrika'nın en kalabalık ülkesinde çiftçiler ve çobanlar arasındaki bu tür arazi kaynaklı saldırılar nadir görülen durumlar değil. İklim değişikliğinin otlakları çorak çöllere dönüştürmesi bu sorunu daha da kötüleştiriyor. Onlarca yıldır süren çatışmalar, ülkedeki güvenlik sorunlarını ve bölünmeleri derinleştiriyor.",
+      "highlights": [
+        "Nijer eyaletinin Borgu bölgesinde hafta sonu 64 kişi öldürüldü",
+        "Lumma Ba'are topluluğuna düzenlenen saldırıda köy muhtarı dahil beş kişi yaşamını yitirdi",
+        "Uluslararası Af Örgütü saldırının cumartesi günkü olaya misilleme olduğunu belirtti"
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/dozens-killed-latest-land-dispute-attacks-nigerias-niger-138408925",
+      "publishedAt": "2026-11-24T13:44:46.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -783,13 +832,18 @@
       "imageCredit": null,
       "timeAgo": "5 dk önce",
       "body": "Valilikten yapılan açıklamada, son dönemlerde etkili olan yoğun yağışlar sonucu baraj havzalarına gelen yüksek akımlar nedeniyle gerekli görülmesi halinde DSİ 10. Bölge Müdürlüğü tarafından kontrollü su tahliyesi gerçekleştirilebileceği belirtildi. Açıklamada, vatandaşların muhtemel su tahliyeleri sırasında can ve mal güvenliğinin korunması amacıyla nehir yataklarına yaklaşmaması ve su seviyelerinde yaşanabilecek…",
-      "highlights": [],
+      "highlights": [
+        "Batman Barajı'ndan kontrollü su tahliyesi yapılabileceği açıklandı",
+        "Nehir yataklarına yaklaşılmaması ve ani su yükselmelerine karşı dikkatli olunması istendi",
+        "Batman Çayı yatağında suya girmek, balık avlamak ve araçla girmek yasaklandı"
+      ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/valilikten-kritik-uyari-batman-barajindan-olasi-su-tahliyesi-7706472",
       "publishedAt": "2026-11-23T18:51:28.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T11:24:28.893Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:24:28.893Z",
+      "sourceTextAttemptedAt": "2026-11-24T13:54:19.029Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
@@ -2083,7 +2137,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T14:24:18.968Z",
-      "imageSearchAttemptedAt": "2026-11-23T20:24:23.389Z"
+      "imageSearchAttemptedAt": "2026-11-24T13:54:19.029Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261123-ukraine-sending-the-message-that-we-can-attack-you-where-we-want",
@@ -2963,7 +3017,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T11:34:18.648Z",
-      "imageSearchAttemptedAt": "2026-11-23T20:14:33.661Z"
+      "imageSearchAttemptedAt": "2026-11-24T13:54:19.029Z"
     },
     {
       "id": "https://www.yenisafak.com/spor/altayda-tepki-buyuk-taraftarlar-tepkili-4875423",
@@ -14471,54 +14525,6 @@
       ],
       "externalUrl": "https://www.france24.com/en/asia-pacific/20261119-top-un-court-to-rule-if-myanmar-s-rohingya-crackdown-was-genocide",
       "publishedAt": "2026-11-19T11:41:40.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-7703795",
-      "headline": "Cumhurbaşkanı Erdoğan'dan Genişletilmiş İl Başkanları Toplantısı'nda açıklamalar",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1641376028786-da6f7d7897d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saXRpY2lhbiUyMHNwZWFraW5nJTIwcG9kaXVtfGVufDF8MHx8fDE3OTUwODg2NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ali Khadem",
-        "photographerUrl": "https://unsplash.com/@khademohali",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-speaking-into-a-microphone-Qn8b112WIoU"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Cumhurbaşkanı Erdoğan, Genişletilmiş İl Başkanları Toplantısı'nda partililere ve millete hitap etti. Konuşmasında AK Parti'nin Türkiye'nin en büyük partisi olduğunu belirterek, 12 milyona yaklaşan üye sayısıyla ülkenin en geniş ailesi konumunda bulunduğunu ifade etti. Erdoğan, hareketin milletin iradesinin tecessüm etmiş hâli olduğunu ve aynı kararlılıkla büyümeye devam edeceğini vurguladı.\n\nSokakla bağlarının hiçbir zaman kopmadığını dile getiren Erdoğan, 81 il ve 922 ilçede vatandaşlarla kucaklaşmayı sürdürdüklerini kaydetti. Türkiye Yüzyıl buluşmaları ile toplumun her kesiminin talep ve beklentilerine kulak verdiklerini, esnafı, çiftçiyi ve gençleri ziyaret ettiklerini aktaran Erdoğan, vatandaşlarla aralarına vasıtalar koymadıklarını ve milletin derdini aracılardan öğrenmediklerini belirtti.\n\nSiyaseti milletin içinde yaptıklarını vurgulayan Erdoğan, kendilerini ses geçirmez duvarların içine saklamadıklarını, milletin sinesinden çıktıklarını söyledi. Sırça köşkleri yıktıklarını ve Kaf Dağı'nın zirvesinden siyaset yapanları indirdiklerini ifade eden Erdoğan, milletin arasından kimsenin kendilerini koparamayacağını dile getirdi.\n\nEleştirilere açık olduklarını ancak eleştiri maskesi altında hakareti kabul etmeyeceklerini belirten Erdoğan, yapıcı ve usulünce yapılan tenkitlerin başımızın üzerinde yeri olduğunu kaydetti. Son dönemde puslu havayı fırsat bilenlere karşı uyanık olunması gerektiğini belirten Erdoğan, fitnecilere ve araya fitne sokmak isteyenlere karşı müteyakkız olacaklarını vurguladı.\n\nTeşkilatın en büyük gücünün birlik, beraberlik ve kardeşlik hukuku olduğunu belirten Erdoğan, başkaları ne derse desin sadece işlerine odaklanacaklarını ifade ederek konuşmasını tamamladı.",
-      "highlights": [
-        "AK Parti 12 milyona yaklaşan üyesiyle Türkiye'nin en büyük partisidir.",
-        "Biz sokakla, çarşı ve pazarla bağımız hiçbir zaman kopmamış bir siyasi hareketiz.",
-        "Yapıcı eleştirilere açığız ancak eleştiri maskesi altındaki hakaretleri kabul etmeyiz."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-cumhurbaskani-erdogandan-onemli-aciklamalar-7703795",
-      "publishedAt": "2026-11-19T11:40:47.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "headline": "Avrupalı Bakanlar Berlin'deki Müttefikler Toplantısı Öncesinde Trump'ın Açıklamalarına Temkinli Yaklaştı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1585290153640-b5ff07d5d887?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8RVUlMjBtaW5pc3RlcnMlMjBCZXJsaW58ZW58MXwwfHx8MTc5NTA4ODY3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Christian Lue",
-        "photographerUrl": "https://unsplash.com/@christianlue",
-        "unsplashUrl": "https://unsplash.com/photos/blue-and-white-star-flag-on-top-of-brown-concrete-building-WLMIKr76k5U"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Brüksel'deki AB dışişleri bakanları toplantısına gelen dışişleri bakanları, Trump'ın Xi ve Putin ile yaptığı görüşmelere dair muhabirlerin soruları karşısında ilgi çekici veya tartışmalı açıklamalardan kaçınmaya çalıştı. Bakanların, Berlin'de ilerleyen saatlerde bir araya gelmesi beklenen liderlere konuşma alanını bırakmayı tercih ettiği görüldü.\n\nİspanya'nın AB Bakanı Fernando Sampedro, İspanya ve AB'nin Ukrayna'yı destekleme konusunda \"güçlü bir şekilde kararlı\" kaldığını ifade etti. Sampedro, Trump'ın \"arkadaşı\" Putin hakkındaki sözleri sorulduğunda yalnızca çekingen bir şekilde gülümsedi ve önceki ifadelerini yineledi.\n\nİsveç'in AB Bakanı Jessica Rosencrantz, liderlerin görüşmeyi planladığı toplantının detaylarını, gündemini ve spesifik konularını tam olarak bilmediklerini belirtti. Rosencrantz, genel ilkenin Avrupa güvenliği hakkında Avrupa'sız ve Ukrayna hakkında Ukrayna'sız görüşme yapılmaması gerektiğini vurguladı.\n\nİsveç Dışişleri Bakanı Maria Malmer Stenergard ise dünyanın nasıl yönetilmesi gerektiğine karar vermesi gerektiğini düşünen büyük güçlerin varlığının endişe verici olduğunu dile getirdi. İrlanda'nın AB Bakanı Thomas Byrne da Avrupa hakkında Avrupa'sız hiçbir şeyin kararlaştırılmayacağını belirterek barışın çalışmasının tek yolunun Rusya'nın işgali durdurmaya karar vermesi olduğunu kaydetti.\n\nPolonya'nın Avrupa Bakanı Ignacy Niemczycki ise Shenzhen toplantısının 1945 Yalta konferansıyla kıyaslanmasını reddederek Avrupa'nın hâlâ çok güçlü olduğunu ve durumun tarihsel olarak çok farklı olduğunu ifade etti.",
-      "highlights": [
-        "Avrupalı dışişleri bakanları Brüksel'deki toplantıda Trump'ın görüşmelerine dair açıklamalardan kaçındı.",
-        "İsveçli Bakan Jessica Rosencrantz, Avrupa hakkında Avrupa'sız ve Ukrayna hakkında Ukrayna'sız görüşme yapılmaması gerektiğini belirtti.",
-        "Polonyalı Bakan Ignacy Niemczycki, Avrupa'nın hâlâ çok güçlü olduğunu ve durumun Yalta ile kıyaslanamayacağını söyledi."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "publishedAt": "2026-11-19T11:37:39.000Z",
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
