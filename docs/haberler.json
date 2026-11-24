@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-24T11:24:36.221Z",
+  "generatedAt": "2026-11-24T11:37:36.982Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/teknoloji/openaida-gizli-kayit-skandali-eski-calisan-suudi-arabistanla-mi-baglantili-7706973",
+      "headline": "OpenAI'da gizli kayıt skandalı: Eski çalışan Suudi Arabistan'la mı bağlantılı?",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1610733661495-4aa6ed9fc6f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QUklMjBtaWNyb3Bob25lJTIwc3B5fGVufDF8MHx8fDE3OTU1MjAxOTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "@felirbe",
+        "photographerUrl": "https://unsplash.com/@felirbe",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-black-shirt-holding-microphone-0AfL1ey1h_g"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "OpenAI'ın merkez ofisinde yaşanan gizli kayıt skandalına dair soruşturmada yeni ayrıntılar gün yüzüne çıkıyor. ABD'li savcılar, eski OpenAI çalışanı Abdulrahman Alfozan'ın Suudi Arabistan hükümetiyle bağlantılı kişilerle yoğun iletişim halinde olduğunu iddia ediyor. Savcılık makamı, Alfozan'ın ABD ile bağlarının zayıf olduğunu ve ülkesi Suudi Arabistan'a kaçma riski bulunduğunu savunarak kefaletle serbest bırakılma talebinin reddini talep ediyor.\n\nMahkemeye sunulan belgelere göre, Alfozan'ın bilgisayarında yüzlerce ses dosyası bulundu. Bunların arasında Eylül 2026'da OpenAI bünyesinde yapılan toplantılara ait onlarca kayıt yer alıyor. Kayıtların ticari sırlar barındırabileceği, bir kısmının ise Dropbox'a yüklendiği öne sürülüyor. Ayrıca Alfozan'ın yapay zeka araçlarıyla kayıtları yazıya döktüğü, isimlendirip kategorize ettiği belirtiliyor. Telefonunda ise \"gizli\" ibareli stratejik ortaklık belgesi fotoğrafları tespit edildi.\n\nSkandal, çalışanların üst düzey yöneticilere ait bir toplantı odasındaki televizyon arkasında gizli ses kayıt cihazı bulmasıyla geçen ay ortaya çıktı. Cihazın bulunmasıyla tutuklanan Alfozan'ın OpenAI'daki işine son verildi. Eski çalışan ticari sırları Suudi Arabistan adına çaldığı iddialarını reddederek 1 milyon dolar kefaletle serbest bırakılmayı istiyor.\n\nFederal yargıç Vince Chhabria, daha ciddi bir suçlamayı destekleyecek yeterli delil olmadan tutukluluğun sürmesini sorguluyor. Alfozan'ın kefalet talebinin San Francisco'daki duruşmada değerlendirilmesi bekleniyor. Bu arada Kuzey Kore'nin ilk yerli yapay zeka sohbet robotunu geliştirdiği de gelen bilgiler arasında yer alıyor.",
+      "highlights": [
+        "Abdulrahman Alfozan'ın bilgisayarında OpenAI toplantılarına ait yüzlerce ses dosyası bulundu.",
+        "Toplantı odasındaki televizyonun arkasında gizli ses kayıt cihazı ele geçirildi.",
+        "Eski çalışan suçlamaları reddederek 1 milyon dolar kefaletle serbest bırakılmayı talep ediyor."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/teknoloji/openaida-gizli-kayit-skandali-eski-calisan-suudi-arabistanla-mi-baglantili-7706973",
+      "publishedAt": "2026-11-24T11:32:17.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/press-review/20261124-nothing-will-ever-be-the-same-for-jensen-huang-and-nvidia-after-his-return",
+      "headline": "Jensen Huang'ın Nvidia'ya dönüşü sonrasında hiçbir şey aynı olmayacak",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1662947683270-136b00fbf3c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SmVuc2VuJTIwSHVhbmclMjBOdmlkaWF8ZW58MXwwfHx8MTc5NTUyMDEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo-eyWlM1f0Vu0"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Basın özetine göre Jensen Huang'ın Nvidia'ya dönüşü basında geniş yer buluyor ve birçok gazetenin manşetinde yer alıyor. Financial Times bu durumu kurucu ortak için çarpıcı bir geri dönüş olarak nitelendirirken, The Economist ise düşmanca bir Kongre, sarsılmış çalışanlar ve temkinli iş ortaklarıyla karşı karşıya kalan Huang için hiçbir şeyin aynı olmayacağını belirtiyor. Habere göre, yatırımcılar ilk rahatlamanın ardından ufukta sorunlar görebilir.\n\nBir diğer gündem maddesi olan Rusya'nın Ukrayna'daki askeri kayıplarına ilişkin sızdırılan kayıtlar ise iki pro-Ukraynalı hack grubu tarafından paylaşıldı. The Guardian, tam ölçekli işgalin başlangıcından bu yana binlerce Rus askerinin intihar ettiğini aktarırken, The New York Times ise 700 bin Rus askerinin öldüğünü öne süren kayıplara dikkat çekti ve Moskova'nın 2026 yılında yaklaşık 409 bin asker kaydetme yolunda ilerlediğini ekledi.\n\nSpor haberlerinde ise Birleşik Krallık'ın 2035 Kadınlar Dünya Kupası'na ev sahipliği yapacağı doğrulandı. The Independent'ın aktardığına göre bu organizasyon, İngiltere'nin 1966'daki erkekler turnuvasından bu yana ülkede düzenlenecek ilk Dünya Kupası olma özelliğini taşıyor.\n\nSon olarak, Paris merkezli şef Hugo Riboulet, Devilled Eggs Dünya Şampiyonası'nda birincilik elde etti. Yarışmada konfit yumurta sarısı ve verjus jeli gibi malzemeler kullanıldı.",
+      "highlights": [
+        "Jensen Huang'ın Nvidia'ya dönüşü basında geniş yankı uyandırdı.",
+        "Sızdırılan kayıplara göre Rusya'nın Ukrayna'daki askeri kayıpları yeni verilerle gündeme geldi.",
+        "Birleşik Krallık'ın 2035 Kadınlar Dünya Kupası'na ev sahipliği yapacağı açıklandı."
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/press-review/20261124-nothing-will-ever-be-the-same-for-jensen-huang-and-nvidia-after-his-return",
+      "publishedAt": "2026-11-24T11:28:12.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/tekirdagda-kan-donduran-olay-4-cocuk-annesi-gelinini-oldurdu-4876059",
       "headline": "Tekirdağ’da kan donduran olay: 4 çocuk annesi gelinini öldürdü",
@@ -15,15 +63,15 @@
       "timeAgo": "2 dk önce",
       "body": "Tekirdağ'ın Çerkezköy ilçesinde aile içinde çıkan tartışma kanlı bir saldırıyla sonuçlandı. Kızılpınar Mahallesi'nde meydana gelen olayda, iddiaya göre kayınpeder Mehmet Ç., 4 çocuk annesi gelini Nihal Ç.'yi vücudunun çeşitli bölgelerinden defalarca bıçakladı.\n\nSaldırı sonrasında ağır yaralanan Nihal Ç. için olay yerine sağlık ekipleri sevk edildi. İlk müdahalesi olay yerinde yapılan kadın, ambulansla hastaneye kaldırıldı. Ancak doktorların tüm müdahalelerine rağmen kurtarılamayarak yaşamını yitirdi.\n\nOlayın ardından şüpheli kayınpeder Mehmet Ç., jandarma karakoluna giderek teslim oldu. Jandarmadaki işlemlerinin tamamlanmasının ardından şüpheli adliyeye sevk edildi.",
       "highlights": [
-        "Tekirdağ'ın Çerkezköy ilçesinde aile içi tartışma kanlı bitti.",
-        "Kayınpederi Mehmet Ç. tarafından bıçaklanan 4 çocuk annesi Nihal Ç., hastanede yaşamını yitirdi.",
-        "Olayın ardından jandarmaya teslim olan şüpheli kayınpeder adliyeye sevk edildi."
+        "Tekirdağ'ın Çerkezköy ilçesinde kayınpederi tarafından bıçaklanan 4 çocuk annesi Nihal Ç. hayatını kaybetti.",
+        "Şüpheli kayınpeder Mehmet Ç. olay sonrasında jandarmaya giderek teslim oldu ve adliyeye sevk edildi."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/tekirdagda-kan-donduran-olay-4-cocuk-annesi-gelinini-oldurdu-4876059",
       "publishedAt": "2026-11-24T11:22:33.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:34:38.794Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261124-afcon-ten-months-on-court-to-rule-on-2025-winner",
@@ -39,15 +87,16 @@
       "timeAgo": "3 dk önce",
       "body": "Afrika Uluslar Kupası finalinin Fas ile Senegal arasında sahada kaotik bir şekilde oynanmasının üzerinden on ay geçtikten sonra, şampiyon Salı günü sporun en yüksek mahkemesi tarafından duyurulacak.\n\nUluslararası Spor Tahkim Mahkemesi (CAS), Senegal'in ocak ayında Fas'ta sahada kazandığı ancak mart ayındaki bir hukuk davasında kaybettiği şampiyonluğu geri almak için yaptığı itirazla ilgili üç hakemden oluşan heyetin kararını Pazartesi günü açıklayacağını bildirdi.",
       "highlights": [
-        "Şampiyonluk kararı Salı günü sporun en yüksek mahkemesi tarafından açıklanacak.",
-        "Senegal, ocak ayında sahada kazandığı ve martta kaybettiği unvanı geri almak için itirazda bulundu.",
-        "Karar, üç hakemden oluşan heyet tarafından verilecek."
+        "Mahkeme 2025 AFCON şampiyonu için salı günü kararını verecek.",
+        "Senegal sahada kazandığı unvanı mart ayındaki hukuki davada kaybetmişti.",
+        "Karar Spor Tahkim Mahkemesi'nin (CAS) üç hakemli heyeti tarafından açıklanacak."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261124-afcon-ten-months-on-court-to-rule-on-2025-winner",
       "publishedAt": "2026-11-24T11:21:54.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:34:38.794Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
@@ -511,7 +560,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:44:16.261Z",
-      "imageSearchAttemptedAt": "2026-11-23T18:44:16.261Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:34:38.794Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
@@ -719,7 +768,7 @@
       "category": "Son Dakika",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T18:04:34.117Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:34:38.794Z"
     },
     {
       "id": "https://www.cnnturk.com/yerel-haberler/izmir/trafikte-motosikletle-akrobatik-hareketler-yapan-aday-surucunun-ehliyeti-iptal-edildi-3497092",
@@ -14443,55 +14492,6 @@
       "externalUrl": "https://www.yenisafak.com/gundem/corumda-kan-donduran-cinayette-iddianame-hazirlandi-esini-bocek-ilaciyla-olduren-kadina-agirlastirilmis-muebbet-istemi-4874384",
       "publishedAt": "2026-11-19T10:23:35.000Z",
       "category": "Sağlık",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/video-gaziosmanpasada-akilalmaz-olay-yemek-siparisiniz-var-yalaniyla-evine-girip-gasbettiler-1751609",
-      "headline": "Gaziosmanpaşa'da 'yemek siparişiniz var' yalanıyla gasp: 430 bin lira soygun",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1713950658643-b6882cc08e2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cm9iYmVyeSUyMHBvbGljZSUyMGNyaW1lfGVufDF8MHx8fDE3OTUwODMyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel von Appen",
-        "photographerUrl": "https://unsplash.com/@daniel_von_appen",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-yellow-police-line-behind-bars-WW-4bspunFY"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İstanbul Gaziosmanpaşa'da Hürriyet Mahallesi'nde 29 Ekim Perşembe günü saat 15.00 sıralarında meydana gelen olayda, iki katlı binanın ikinci katında yaşayan Kenan H.'nin evine gelen yabancı uyruklu iki şüpheli soygun gerçekleştirdi. Şüphelilerin, olay öncesinde çevredekiler tarafından fark edilen bir pideciden paket yaptırıp apartmana çıktıkları güvenlik kamerasına yansıdı.\n\nZili çalıp 'Yemek siparişiniz var' diyerek kapıyı açtıran şüpheliler, aralık kalan kapıyı tekmeyle zorla açarak içeri girdi. Ev sahibini darbeden ve silahla tehdit eden şüpheliler, evdeki ziynet eşyası ile dövizleri aldı ve bir miktar parayı da kendi hesaplarına zorla transfer ettirerek olay yerinden kaçtı.\n\nKenan H., toplamda yaklaşık 430 bin lirasının gasbedildiğini belirterek yetkililerden yardım istedi. Yaşadığı korku dolu anları anlatan ev sahibi, şüphelilerin kafasına silahla vurduğunu, evdeki çekmece ve kutuları aradıklarını, olay sonrası darp raporu aldığını ifade etti.\n\nKomşu ve iş yeri sahibi Serkan Demir ise Kenan H.'nin evine geldiğinde kan revan içinde olduğunu belirterek durumu polise bildirdiğini söyledi. Polis ekiplerinin kısa sürede olay yerine geldiği, şüphelilerin kaçarken Eski Edirne Asfaltı Caddesi istikametini kullandığı belirtildi. Olayla ilgili soruşturma ve incelemeler sürüyor.",
-      "highlights": [
-        "Gaziosmanpaşa'da 'yemek siparişiniz var' diyerek kapıyı açtıran iki şüpheli ev sahibini darbetti ve silahla tehdit etti.",
-        "Şüpheliler evdeki ziynet eşyası, döviz ve zorla hesaplarına aktarılan parayla birlikte toplam 430 bin lira değerinde soygun yaptı.",
-        "Güvenlik kamerası görüntülerinde şüphelilerin olay öncesi pideciden paket yaptırıp daireye gittikleri yer aldı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/video-gaziosmanpasada-akilalmaz-olay-yemek-siparisiniz-var-yalaniyla-evine-girip-gasbettiler-1751609",
-      "publishedAt": "2026-11-19T10:13:31.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T11:04:32.573Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "headline": "Anthropic Rekor Kıran Halka Arzında 81 Milyar Dolar Topladı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1651341050677-24dba59ce0fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8c3RvY2slMjBtYXJrZXR8ZW58MXwwfHx8MTc5NTA4MzI3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anne Nygård",
-        "photographerUrl": "https://unsplash.com/@polarmermaid",
-        "unsplashUrl": "https://unsplash.com/photos/graphical-user-interface-application-x07ELaNFt34"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Yapay zeka sohbet botu Claude'un geliştiricisi Anthropic, rekor düzeyde 81 milyar dolar (62 milyar sterlin) toplayarak dünyanın en değerli şirketlerinden biri haline gelecek bir borsa başlangıcı gerçekleştirdi. Zarar eden işletmenin hisselerine yönelik yoğun yatırımcı ilgisi, planlanandan daha fazla hissenin satılmasına yol açtı.\n\nBeş yıllık şirketin hisse fiyatı 83 dolar olarak belirlendi. Bu rakam, daha önce önerilen 70 ila 78 dolar aralığının üzerinde yer aldı. New York'ta Perşembe günü ilerleyen saatlerde işlem görmeye başlayacak olan hisseler, şirketin piyasa değerini yaklaşık 1,5 trilyon dolara taşıyor.\n\nHalka arz, hızla büyüyen yapay zeka sektörü açısından kritik bir test olarak değerlendiriliyor. Anthropic, hisselerini halka açık olarak satan tamamen yapay zeka odaklı ilk firma olma özelliğini taşıyor. Şirketi 2021 yılında kuran yedi kurucu, bu gelişmeyle birlikte anında milyarder olacaklar.\n\nErken dönem yatırımcılarından biri, halka arz öncesinde hisse talebinin mevcut hisse sayısının 10 katından fazla olduğunu belirtti. Canaccord Wealth'ten Leah Bramwell, kurumsal ve bireysel yatırımcılardan gelen güçlü ilginin her kesimde iyi desteklendiğini ifade etti. Şirket ayrıca Nvidia gibi teknoloji firmalarının yanı sıra bankaların opsiyon kullanmasıyla toplamda 107 milyar dolara kadar gelir elde edebilir.\n\nÖte yandan analistler, şirketin gelecekteki gelir ve kâr üretme kapasitesi konusunda bazı endişelerin bulunduğunu belirtiyor. Counterpoint Research'ten Yang Wang, temel sorunun yüz milyarlarca dolarlık finansal yükümlülükler varken iş modelinin ayak uydurup uyduramayacağı olduğunu kaydetti. Empower'dan Marta Norton ise piyasa oynaklığına rağmen Anthropic'in halka açılma kararının şirketin finansmana olan ihtiyacından kaynaklandığını söyledi.",
-      "highlights": [
-        "Anthropic, rekor bir başlangıçla 81 milyar dolar topladı.",
-        "Hisse fiyatı 83 dolar olarak belirlenirken şirket 1,5 trilyon dolar değerlemeye ulaştı.",
-        "Şirket, hisselerini halka satan tamamen yapay zeka odaklı ilk firma konumunda."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T10:12:16.000Z",
-      "category": "Ekonomi",
       "lang": "tr",
       "isBreaking": false
     }
