@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-24T14:27:04.094Z",
+  "generatedAt": "2026-11-24T14:37:50.320Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/eski-tbmm-baskani-hikmet-cetin-hayatini-kaybetti-4876135",
+      "headline": "Gürsel Tekin CHP'nin kurultay tarihi için nisan ayını işaret etti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1721664018959-7968759b91ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RXNraSUyMFRCTU0lMjBCYSVDNSU5RmthbiVDNCVCMSUyMEhpa21ldCUyMCVDMyU4N2V0aW4lMjBoYXlhdCVDNCVCMW4lQzQlQjElMjBrYXliZXR0aXxlbnwxfDB8fHwxNzk1NTMwOTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Firdous Parray",
+        "photographerUrl": "https://unsplash.com/@firdousparray",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-standing-around-each-other-Jx8ts4J-oLY"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "CHP Koordinatörü Gürsel Tekin, katıldığı bir canlı yayında partinin kurultay sürecine dair açıklamalarda bulundu. TGRT Haber'de konuya ilişkin değerlendirmeler yapan Tekin, Cumhuriyet Halk Partisi'nin kısa süre içerisinde kurultayını gerçekleştireceğini belirtti.\n\nAçıklamasında partinin kurultayı nisan ayında yapacağını ifade eden Tekin, yarışmak ve aday olmak isteyen herkesin bu sürece dahil olabileceğini dile getirdi. Aday olmak isteyenlere yönelik net bir mesaj veren Tekin, bu konuda kimsenin tereddüt etmemesi gerektiğini vurguladı. Haber kaynağında yer alan bilgilere göre bu açıklamalar 24 Kasım 2026 tarihinde kamuoyuna yansıdı.",
+      "highlights": [
+        "Gürsel Tekin CHP'nin kurultayını nisan ayında yapacaklarını açıkladı",
+        "Aday olmak isteyen her arkadaşın yarışabileceğini ifade etti",
+        "TGRT Haber'deki canlı yayında açıklamalarda bulundu"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/eski-tbmm-baskani-hikmet-cetin-hayatini-kaybetti-4876135",
+      "publishedAt": "2026-11-24T14:33:39.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "headline": "Who really owns the land in Albania that Jared Kushner wants to develop?",
+      "source": "NPR",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "11 dk önce",
+      "body": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project. (Image credit: Rob Schmitz/NPR)",
+      "highlights": [],
+      "externalUrl": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
+      "publishedAt": "2026-11-24T14:24:04.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
       "headline": "Balıkesir'de sel otomobilleri ağaçların üzerine çıkardı! 4 saatte metrekareye 90 kilogram yağış düştü",
@@ -6870,7 +6910,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:34:25.548Z"
+      "imageSearchAttemptedAt": "2026-11-24T14:34:20.000Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
@@ -6940,7 +6980,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:34:20.382Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:44:26.543Z"
+      "imageSearchAttemptedAt": "2026-11-24T14:34:20.000Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sivasta-polis-memurunun-dikkati-yurekleri-isitti-4875194",
@@ -14470,55 +14510,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T13:54:27.307Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/ekonomi/bakan-bolat-abnin-korumaci-adimlarina-karsi-yogun-diplomasi-yuruttuklerini-belirtti-7703872",
-      "headline": "Bakan Bolat: AB'nin korumacı adımlarına karşı yoğun diplomasi yürütiyoruz",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YnVzaW5lc3MlMjBtZWV0aW5nfGVufDF8MHx8fDE3OTUwOTEwOTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Charles Forerunner",
-        "photographerUrl": "https://unsplash.com/@charles_forerunner",
-        "unsplashUrl": "https://unsplash.com/photos/people-standing-inside-city-building-3fPXt37X6UQ"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Ticaret Bakanı Ömer Bolat, Berlin'deki temasları sırasında Almanya'daki Türk iş insanlarıyla bir araya geldi. Ziyaretinde iki ülke arasındaki ekonomik ilişkiler ve Avrupa Birliği'nin yeni sanayi politikaları üzerine değerlendirmelerde bulunan Bolat, Almanya'nın ikili bazda Türkiye'nin en güçlü ekonomik ortağı olduğuna dikkat çekti. Geçen yıl iki ülke arasındaki dış ticaret hacminin 52 milyar dolara ulaştığını bildirdi.\n\nTürkiye ile Almanya arasında sanayi ve tedarik zincirlerinde güçlü bir entegrasyon bulunduğunu belirten Bolat, Türkiye'de 8 binin üzerinde Alman firmasının faaliyet gösterdiğini aktardı. Ayrıca, Türk firmalarının Almanya'daki yatırımlarının da 3 milyar doları aştığını ifade etti. İki ülke arasında turizm ve havacılık alanlarındaki güçlü bağlara da değinen Bolat, Almanya'dan gelen turistlerin ilk sırada yer aldığını kaydetti.\n\nKovid-19 sonrasında AB'nin korumacılık rüzgarına kapıldığını belirten Bolat; Sınırda Karbon Düzenleme Mekanizması, çelik kotaları, e-ticaret vergileri ve \"Made in EU\" tartışmalarına değindi. Gümrük Birliği ve STA'ların uluslararası anlaşmalar olduğunu hatırlatan Bolat, \"ahde vefa\" ilkesi gereğince bu anlaşmalara tam uyulması gerektiğini vurguladı.\n\nBakan Bolat, Türkiye'nin ve sanayicilerin haklarını korumak amacıyla AB Komisyonu, Konseyi ve Avrupa Parlamentosu nezdinde yoğun diplomasi yürüttüklerini belirtti. Son bir yılda 100'e yakın ziyaret gerçekleştirdiklerini aktaran Bolat, kararlar resmen açıklanana kadar mücadeleyi sürdüreceklerini ifade etti.",
-      "highlights": [
-        "Ticaret Bakanı Ömer Bolat, Almanya'daki Türk iş insanlarıyla Berlin'de bir araya geldi.",
-        "Geçen yıl Türkiye ile Almanya arasındaki dış ticaret hacmi 52 milyar dolara ulaştı.",
-        "Bakan Bolat, AB'nin korumacı adımlarına karşı yoğun diplomasi yürüttüklerini belirtti."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/ekonomi/bakan-bolat-abnin-korumaci-adimlarina-karsi-yogun-diplomasi-yuruttuklerini-belirtti-7703872",
-      "publishedAt": "2026-11-19T12:21:46.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces",
-      "headline": "Nijerya'da Eyaletler Kendi Polis Teşkilatlarını Kurmaya Hazırlanıyor",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1723088672802-07415de2d528?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TmlnZXJpYSUyMHBvbGljZXxlbnwxfDB8fHwxNzk1MDkxMDg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ayano Tosin",
-        "photographerUrl": "https://unsplash.com/@peacetoolmedia",
-        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-men-standing-next-to-each-other-yxi3hIdrjCw"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Nijerya, 36 eyaletinin kendi polis teşkilatlarını kurmasına izin verme konusunda bir adım daha ilerledi. Artan güvensizlik ortamında yetkililerin federal gücü tamamlayacak eyalet düzeyinde polis güçleri arayışına girmesiyle birlikte Ulusal Meclis, anayasa değişiklik tasarı taslağını cumhurbaşkanına iletti.\n\nŞu anda birçok eyalet, Boko Haram gibi silahlı gruplarla mücadele etmek amacıyla yerel milis gruplarını finanse ediyor. Ancak bu grupların söz konusu görev için yetersiz eğitimli ve donanımsız olduğu belirtiliyor.\n\nKonuya ilişkin gelişmeler Fransa 24 muhabiri tarafından aktarılıyor.",
-      "highlights": [
-        "Ulusal Meclis anayasa değişiklik tasarısını başkana gönderdi",
-        "Birçok eyalet Boko Haram'a karşı milis grupları finanse ediyor",
-        "Mevcut yerel gruplar yetersiz eğitim ve ekipmana sahip"
-      ],
-      "externalUrl": "https://www.france24.com/en/nigeria-states-set-to-get-their-own-police-forces",
-      "publishedAt": "2026-11-19T12:20:35.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T14:24:34.771Z",
       "isBreaking": false
     }
   ],
