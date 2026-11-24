@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-24T11:14:36.880Z",
+  "generatedAt": "2026-11-24T11:24:36.221Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/tekirdagda-kan-donduran-olay-4-cocuk-annesi-gelinini-oldurdu-4876059",
+      "headline": "Tekirdağ’da kan donduran olay: 4 çocuk annesi gelinini öldürdü",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1708534925926-0b85747ba69e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8a25pZmUlMjBwb2xpY2UlMjBjcmltZSUyMHNjZW5lfGVufDF8MHx8fDE3OTU1MTk0NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Roman Rezor",
+        "photographerUrl": "https://unsplash.com/@therezor",
+        "unsplashUrl": "https://unsplash.com/photos/a-police-car-parked-on-the-side-of-the-road-p3D65KVBRC4"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Tekirdağ'ın Çerkezköy ilçesinde aile içinde çıkan tartışma kanlı bir saldırıyla sonuçlandı. Kızılpınar Mahallesi'nde meydana gelen olayda, iddiaya göre kayınpeder Mehmet Ç., 4 çocuk annesi gelini Nihal Ç.'yi vücudunun çeşitli bölgelerinden defalarca bıçakladı.\n\nSaldırı sonrasında ağır yaralanan Nihal Ç. için olay yerine sağlık ekipleri sevk edildi. İlk müdahalesi olay yerinde yapılan kadın, ambulansla hastaneye kaldırıldı. Ancak doktorların tüm müdahalelerine rağmen kurtarılamayarak yaşamını yitirdi.\n\nOlayın ardından şüpheli kayınpeder Mehmet Ç., jandarma karakoluna giderek teslim oldu. Jandarmadaki işlemlerinin tamamlanmasının ardından şüpheli adliyeye sevk edildi.",
+      "highlights": [
+        "Tekirdağ'ın Çerkezköy ilçesinde aile içi tartışma kanlı bitti.",
+        "Kayınpederi Mehmet Ç. tarafından bıçaklanan 4 çocuk annesi Nihal Ç., hastanede yaşamını yitirdi.",
+        "Olayın ardından jandarmaya teslim olan şüpheli kayınpeder adliyeye sevk edildi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/tekirdagda-kan-donduran-olay-4-cocuk-annesi-gelinini-oldurdu-4876059",
+      "publishedAt": "2026-11-24T11:22:33.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261124-afcon-ten-months-on-court-to-rule-on-2025-winner",
+      "headline": "AFCON: On ay sonra mahkeme 2025 şampiyonu için kararını açıklayacak",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1667205462612-09a2e51d29ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QUZDT04lMjB0cm9waHl8ZW58MXwwfHx8MTc5NTUxOTQ3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jelly Dollar",
+        "photographerUrl": "https://unsplash.com/@jellydollar",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-trophies-9FlYNO5rjxs"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Afrika Uluslar Kupası finalinin Fas ile Senegal arasında sahada kaotik bir şekilde oynanmasının üzerinden on ay geçtikten sonra, şampiyon Salı günü sporun en yüksek mahkemesi tarafından duyurulacak.\n\nUluslararası Spor Tahkim Mahkemesi (CAS), Senegal'in ocak ayında Fas'ta sahada kazandığı ancak mart ayındaki bir hukuk davasında kaybettiği şampiyonluğu geri almak için yaptığı itirazla ilgili üç hakemden oluşan heyetin kararını Pazartesi günü açıklayacağını bildirdi.",
+      "highlights": [
+        "Şampiyonluk kararı Salı günü sporun en yüksek mahkemesi tarafından açıklanacak.",
+        "Senegal, ocak ayında sahada kazandığı ve martta kaybettiği unvanı geri almak için itirazda bulundu.",
+        "Karar, üç hakemden oluşan heyet tarafından verilecek."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261124-afcon-ten-months-on-court-to-rule-on-2025-winner",
+      "publishedAt": "2026-11-24T11:21:54.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
       "headline": "Şanlıurfa'da kahreden olay: Nefes borusuna elma kaçan 4 yaşındaki çocuk hayatını kaybetti",
@@ -15,15 +63,16 @@
       "timeAgo": "şimdi",
       "body": "Şanlıurfa'nın Eyyübiye ilçesine bağlı kırsal Koçören Mahallesi'nde üzüntü verici bir olay yaşandı. Alınan bilgiye göre, sabah saatlerinde evinde elma yiyen 4 yaşındaki Suriye uyruklu Zeynep Cellud'un nefes borusuna elma parçası kaçtı.\n\nKüçük çocuğun nefes almakta zorlandığını fark eden ailesi, durumu hemen 112 Acil Çağrı Merkezi'ne bildirdi. İhbar üzerine olay yerine sağlık ekipleri sevk edildi.\n\nSağlık ekipleri tarafından adresten alınarak Balıklıgöl Devlet Hastanesi'ne kaldırılan Zeynep Cellud, acil serviste tedavi altına alındı. Doktorların tüm müdahalelerine rağmen küçük çocuk kurtarılamadı.\n\nYaşanan bu acı olay, Zeynep Cellud'un ailesini ve yakınlarını yasa boğdu. Olayla ilgili soruşturma başlatıldığı bildirildi.",
       "highlights": [
-        "Şanlıurfa'da nefes borusuna elma kaçan 4 yaşındaki Zeynep Cellud hayatını kaybetti.",
-        "Ailenin ihbarı üzerine hastaneye kaldırılan çocuk, doktorların müdahalesine rağmen kurtarılamadı.",
-        "Yaşanan olayın ardından soruşturma başlatıldı."
+        "Şanlıurfa'nın Eyyübiye ilçesinde elma yerken nefes borusuna parça kaçan 4 yaşındaki Zeynep Cellud hayatını kaybetti.",
+        "Sağlık ekipleri tarafından Balıklıgöl Devlet Hastanesi'ne kaldırılan çocuk, doktorların müdahalesine rağmen kurtarılamadı.",
+        "Yaşanan acı olayın ardından soruşturma başlatıldı."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
       "publishedAt": "2026-11-24T11:14:09.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:24:28.893Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
@@ -64,15 +113,16 @@
       "timeAgo": "6 dk önce",
       "body": "Fransız astronot Thomas Pesquet, çocukların uzay hakkında merak ettiği soruları yanıtlamak üzere France 24 yayıncısına konuk oldu. Uluslararası Uzay İstasyonu'ndaki deneyimlerini paylaşan Pesquet, roketle uzaya fırlatılmanın nasıl bir his olduğunu ve bir uzay aracına meteor yağmuru sırasında ne olduğunu soran çocukların sorularını yanıtladı. Bu sorular, çocukların gönderdiği merak edilen konular arasında yer aldı.\n\n24 Kasım 2026 tarihinde yayımlanan programda, gençlerin uzay yolculuğu ve uzay araçlarının karşılaştığı durumlarla ilgili soruları ele alındı.",
       "highlights": [
-        "Fransız astronot Thomas Pesquet çocukların uzayla ilgili sorularını yanıtladı.",
-        "Çocuklar roket fırlatılışı ve meteor yağmuru gibi konuları sordu.",
-        "Program 24 Kasım 2026 tarihinde yayımlandı."
+        "Fransız astronot Thomas Pesquet çocukların sorularını yanıtladı",
+        "Çocuklar roket fırlatılışı ve meteor yağmurlarını sordu",
+        "Program 24 Kasım 2026 tarihinde yayımlandı"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261124-french-astronaut-thomas-pesquet-answers-kids-space-questions",
       "publishedAt": "2026-11-24T11:08:22.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:24:28.893Z"
     },
     {
       "id": "https://www.dw.com/en/how-the-ai-trade-could-trap-even-cautious-investors/a-80016412?maca=en-rss-en-world-4025-xml-mrss",
@@ -397,7 +447,7 @@
       "category": "Son Dakika",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T19:04:29.582Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:24:28.893Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/tourists-evacuated-after-fire-destroys-6-hotels-zanzibars-138370519",
@@ -414,7 +464,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T19:04:29.582Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:24:28.893Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-sayisal-loto-sonuclari-aciklandi-dev-ikramiye-sahibini-buldu-mu-mpi-cilgin-sayisal-loto-sorgulama-1752260",
@@ -14443,53 +14493,6 @@
       "publishedAt": "2026-11-19T10:12:16.000Z",
       "category": "Ekonomi",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-      "headline": "Yardım Kuruluşlarına Göre Trump'ın Gazze Barış Planı Başarısız Oldu",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1727762331620-4e21746e1565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8R2F6YSUyMHN0cmlwJTIwY29uZmxpY3R8ZW58MXwwfHx8MTc5NTA4Mzg3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "khalid kwaik",
-        "photographerUrl": "https://unsplash.com/@khalidkwaik",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-next-to-a-pile-of-junk-6p0bkNw0yyc"
-      },
-      "timeAgo": "19 dk önce",
-      "body": "Yardım kuruluşlarının yaptığı değerlendirmelere göre, 'Tasarım gereği yerinden etme' olarak nitelendirilen Trump'ın Gazze barış planı başarısızlıkla sonuçlandı. 130 kilometrekarelik bir alandan daha az bir bölgeye sıkıştırılmış durumda olan iki milyon Filistinli, zorlu koşullarla karşı karşıya kalmaya devam ediyor. Konuya ilişkin olarak Birleşmiş Milletler destekli Gazze barış planının çöktüğü bildirildi. Bölgedeki insani durum ve planın akıbeti uluslararası kamuoyunda tartışılmayı sürdürüyor.",
-      "highlights": [
-        "İki milyon Filistinli 130 kilometrekareden az bir alanda sıkışmış durumda",
-        "BM destekli Gazze barış planı çöktü",
-        "Yardım kuruluşları planın başarısız olduğunu belirtti"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-      "publishedAt": "2026-11-19T10:05:33.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T11:04:32.573Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/kahramanmarasta-cople-dolan-iki-katli-evden-kamyonlarca-cop-tahliye-ediliyor-kahramanmaras-haberleri-4874365",
-      "headline": "Kahramanmaraş'ta çöple dolan iki katlı evden kamyonlarca çöp tahliye ediliyor",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "1 dk önce",
-      "body": "Kahramanmaraş'ta çöp ve atıklarla dolduğu ortaya çıkan iki katlı evde, kaymakamlık kararıyla başlatılan temizlik çalışmaları sürüyor. Evde biriken atıkların toplamda yaklaşık 3 kamyonu bulabileceği değerlendirildi.",
-      "highlights": [
-        "Onikişubat ilçesi Gayberli Mahallesi'ndeki iki katlı evin çöp ve atıklarla doldurulduğu belirlendi",
-        "Kaymakamlık kararı doğrultusunda polis ve avukat eşliğinde temizlik çalışması başlatıldı",
-        "Evden ilk etapta bir kamyon çöp çıkarılırken toplam miktarının 3 kamyonu bulabileceği değerlendiriliyor"
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/kahramanmarasta-cople-dolan-iki-katli-evden-kamyonlarca-cop-tahliye-ediliyor-kahramanmaras-haberleri-4874365",
-      "publishedAt": "2026-11-19T10:04:04.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T10:14:33.500Z",
-      "imageSearchAttemptedAt": "2026-11-23T16:24:31.229Z",
       "isBreaking": false
     }
   ],
