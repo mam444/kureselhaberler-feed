@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-24T17:16:01.023Z",
+  "generatedAt": "2026-11-24T17:24:44.379Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+      "headline": "MSB: Eskişehir'den havalanan askeri helikopter kaza kırıma uğradı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1562361756-ef50fb3d0b2b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBoZWxpY29wdGVyfGVufDF8MHx8fDE3OTU1NDEwNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Daniel Klein",
+        "photographerUrl": "https://unsplash.com/@danielklein",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-helicopter-ps9K6gMM1CE"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Milli Savunma Bakanlığı (MSB) tarafından yapılan açıklamada, Eskişehir'den havalanan askeri bir helikopterin kaza kırıma uğradığı bildirildi. Bakanlık, yaşanan olayla ilgili başka bir ayrıntı paylaşmazken, konuya ilişkin resmi bilgilendirmede helikopterin kaza kırıma uğradığı bilgisi yer aldı.",
+      "highlights": [
+        "MSB açıklama yaptı",
+        "Eskişehir'den havalanan askeri helikopter kaza kırıma uğradı"
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
+      "publishedAt": "2026-11-24T17:22:34.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/shakhtar-donetsk-fenerbahce-maci-ne-zaman-ucl-shakhtar-donetsk-fenerbahce-maci-saat-kacta-hangi-kanalda-sampiyonlar-liginde-iki-3497063",
       "headline": "Shakhtar Donetsk - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? Şampiyonlar Ligi'nde Arda Turan ile Emre Belözoğlu rakip oluyor",
@@ -53,23 +76,29 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
-      "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "headline": "Güney Afrika'da Ukrayna savaşında yer almaya çalışan Zimbabveli mahkûm edildi",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "11 dk önce",
-      "body": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "highlights": [],
+      "body": "Güney Afrika'da bir mahkeme, Ukrayna'da savaşmak amacıyla plan yapmaktan suçlu bulunan 24 yaşındaki Zimbabve vatandaşı Wesley Sothole'u mahkûm etti. Suçunu kabul eden Sothole, beş yıllık ertelenmiş hapis cezasına çarptırıldı ve Güney Afrika'dan sınır dışı edilmesine karar verildi.\n\nSothole, 8 Kasım'da Johannesburg'daki OR Tambo Havalimanı'nda gözaltına alınan beş Zimbabveliden biriydi. Güney Afrikalı savcılar, Zimbabvelilerin hangi taraf için savaşmayı amaçladığını henüz doğrulamadı. Sothole'un sanık olan diğer dört arkadaşı ise henüz suçlamaları kabul etmedi ve 1 Aralık'ta Kempton Park Sulh Ceza Mahkemesi'ne çıkacak.\n\nAynı dönemde ortak bir operasyonla Johannesburg'daki bir otelde yakalanan dört Zimbabveli daha farklı bir yargı sürecinden geçiyor. Soruşturmada Güney Afrika polisi, Interpol ve diğer uluslararası kolluk kuvvetleri yer aldı. Güney Afrika yasaları, denizaşırı savaşlara izinsiz katılımı kısıtlıyor.\n\nUkrayna'daki savaşa Afrika'dan vatandaşların devşirilmesi konusunda kıta genelinde artış gösteren bir endişe bulunuyor. Afrika'dan kişilerin Rusya'da savaşmak üzere toplandığı, bazılarının ise Ukrayna istihbaratına göre çeşitli ülkelerden işe alındığı belirtiliyor. Güney Afrika hükümeti, genç savunmasız kişilerin yabancı askeri unsurlarla çalışanlar tarafından sömürülmesini kınadığını açıkladı.",
+      "highlights": [
+        "Wesley Sothole beş yıl ertelenmiş hapis cezası aldı ve sınır dışı edilecek.",
+        "Sothole, 8 Kasım'da Johannesburg'daki havalimanında gözaltına alınan beş Zimbabveliden biriydi.",
+        "Güney Afrika savcıları, Zimbabvelilerin hangi taraf için savaşmayı amaçladığını doğrulamadı."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T17:04:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T17:24:19.495Z",
+      "imageSearchAttemptedAt": "2026-11-24T17:24:19.495Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
-      "headline": "Gürsel Tekin'den CHP kurultayı ve nisan ayı açıklaması",
+      "headline": "Cumhurbaşkanı Erdoğan'dan 'Öğretmenlere Saygı Gecesi'nde Açıklamalar",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
       "imageUrl": "https://images.unsplash.com/photo-1541872703-74c5e44368f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saXRpY2lhbiUyMHNwZWFraW5nfGVufDF8MHx8fDE3OTU1MzkyNzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -79,17 +108,18 @@
         "unsplashUrl": "https://unsplash.com/photos/barack-obama-v_e3Hha4EBA"
       },
       "timeAgo": "2 dk önce",
-      "body": "CHP Koordinatörü Gürsel Tekin, bir canlı yayın konuğu olarak partinin kurultay sürecine dair önemli değerlendirmelerde bulundu. TGRT Haber ekranlarında konuşan Tekin, Cumhuriyet Halk Partisi'nin kısa süre içerisinde kurultay gerçekleştireceğini vurguladı.\n\nSüreçle ilgili olarak nisan ayını işaret eden Tekin, partide adaylık düşünen isimlere de net bir mesaj verdi. Kurultayda yarışmak ve aday olmak isteyen her arkadaşının aday olabileceğini belirtti.\n\nTekin, partililerin ve kamuoyunun bu konuda herhangi bir tereddüt yaşamaması gerektiğini ifade ederek, kısa zaman içinde kurultayın yapılacağını yineledi. Açıklamalarında nisan ayında kurultay yapılacağını net bir şekilde dile getirdi.",
+      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde düzenlenen \"Öğretmenlere Saygı Gecesi\" programında bir konuşma yaptı. Konuşmasında, 24 Kasım Öğretmenler Günü vesilesiyle maarif ordusunun gününü tebrik eden Erdoğan, öğrencilere yaklaşan tüm öğretmenlere selam ve sevgilerini gönderdi. Hayatını mesleğine adayan ve vefat eden hocalar ile kendi üzerinde emeği bulunan öğretmenlere Allah'tan rahmet dileyen Erdoğan, emekli öğretmenlere de sağlıklı ve huzurlu ömürler temenni etti.\n\nÖğretmenliği geleceği inşa eden ve talebeyi incelikle işleyen bir meslek olarak tanımlayan Erdoğan, ilmi ve muallimi baş tacı eden bir millet için öğretmen hakkının paha biçilmez olduğunu belirtti. Geleceğin gençlerle, ülkenin birikimle, kültür ve kimliğin ise yeni nesillerle aktarıldığını vurgulayan Erdoğan, bu doğrultuda öğretmenlerin hayati önem taşıdığını ifade etti.\n\nDevlet olarak tüm imkanların seferber edildiğini belirten Cumhurbaşkanı Erdoğan, son 24 yıldır merkezi bütçeden en fazla payın eğitime ayrıldığını kaydetti. Açıklanan rakamlara göre, 2027 bütçesinde Milli Eğitim Bakanlığına 2 trilyon 459 milyar lira, yükseköğretim kurumlarına ise 872 milyar lira kaynak ayrılarak toplam eğitim ödeneklerinin 3 trilyon 747 milyar liralık rekor seviyeye ulaştığı bildirildi.\n\nTürkiye Yüzyılı Maarif Modeli ile eğitim sistemine özgün bir yaklaşım kazandırıldığını belirten Erdoğan, öğretmenlerin çalışma koşulları ile özlük ve mali haklarının iyileştirildiğini kaydetti. Kendi iktidarları döneminde 836 bin 550 öğretmen ataması yapıldığını ve şu an okullarda görev yapan 1 milyon 39 bin öğretmenin yüzde 80'inin bu dönemde atandığını aktaran Erdoğan, 15 bin öğretmen alımının da bu hafta Milli Eğitim Bakanlığı tarafından açıklanacağını duyurdu.",
       "highlights": [
-        "Gürsel Tekin CHP'nin kurultayını yapacağını belirtti",
-        "Aday olmak isteyenlerin yarışabileceğini ifade etti",
-        "Kurultay için nisan ayını işaret etti"
+        "Cumhurbaşkanı Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde düzenlenen 'Öğretmenlere Saygı Gecesi'nde konuştu.",
+        "2027 bütçesinde eğitim ödeneklerinin 3 trilyon 747 milyar liralık rekor seviyeye taşındığı açıklandı.",
+        "15 bin öğretmen alımının bu hafta Milli Eğitim Bakanlığı tarafından açıklanacağı belirtildi."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
       "publishedAt": "2026-11-24T16:52:46.000Z",
       "category": "Eğitim",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T17:24:19.495Z"
     },
     {
       "id": "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
@@ -1428,7 +1458,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T20:24:23.389Z",
-      "imageSearchAttemptedAt": "2026-11-24T11:12:54.359Z"
+      "imageSearchAttemptedAt": "2026-11-24T17:24:19.495Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
@@ -14449,28 +14479,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
-      "headline": "Haiti: Salvador'un lideri Bukele çete liderinin evine düzenlenen saldırının videosunu paylaştı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "19 dk önce",
-      "body": "El Salvador Devlet Başkanı Nayib Bukele, Çarşamba günü yaptığı açıklamada, askerlerinin Haiti'de Jeff Gwo Lwa olarak bilinen tanınmış bir çete liderinin lüks evini yıktığını belirtti.\n\nBukele, X hesabından yaptığı paylaşımda \"Haiti halkına Vertières Muharebesi'nin yıl dönümünde hediyem\" ifadelerini kullandı.\n\nBu açıklama, Haiti'nin Fransa'dan bağımsızlığını güvence altına almasında kritik öneme sahip olan 1803 yılındaki bir muharebeye atıfta bulundu.\n\nSöz konusu olayla ilgili olarak Bukele'nin saldırı görüntülerinikamuoyuna duyurduğu bildirildi.",
-      "highlights": [
-        "El Salvador Devlet Başkanı Nayib Bukele, Haiti'deki bir çete liderinin evinin yıkıldığını açıkladı.",
-        "Saldırıya uğrayan konutun Jeff Gwo Lwa adlı çete liderine ait olduğu belirtildi.",
-        "Bukele, videonun Vertières Muharebesi'nin yıl dönümünde paylaşıldığını ifade etti."
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261119-haiti-salvador-s-bukele-publishes-video-of-attack-on-gang-leader-s-house",
-      "publishedAt": "2026-11-19T15:06:06.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T15:57:52.852Z",
-      "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14690,6 +14698,7 @@
     "https://www.aljazeera.com/news/2026/11/23/danish-top-courts-ghetto-law-ruling-supports-hardline-immigration-policy?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss"
   ]
 }
