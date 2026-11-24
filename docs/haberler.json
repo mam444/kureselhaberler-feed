@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-24T15:48:34.917Z",
+  "generatedAt": "2026-11-24T16:00:55.842Z",
   "articles": [
+    {
+      "id": "https://tr.euronews.com/video/2026/11/24/kolombiyada-villavicencioda-bombali-saldiri-siddet-yeniden-tirmaniyor",
+      "headline": "Kolombiya'da Villavicencio'da bombalı saldırı: şiddet yeniden tırmanıyor",
+      "source": "Euronews",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Villavicencio'daki bombalı saldırıda en az 25 kişi yaralandı; kamu binaları, işyerleri ve araçlar zarar gördü. Bu arada, Kolombiya’da şiddetin yeniden yükseldiği ortamda Cúcuta’da yüzlerce kişi ayrı bir saldırı sonrası mumlarla yürüdü.",
+      "highlights": [],
+      "externalUrl": "https://tr.euronews.com/video/2026/11/24/kolombiyada-villavicencioda-bombali-saldiri-siddet-yeniden-tirmaniyor",
+      "publishedAt": "2026-11-24T15:56:13.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.rfi.fr/en/sports/20261124-top-sports-lawyers-declare-senegal-2025-afcon-champions",
+      "headline": "Senegal reclaim Africa Cup of Nations title after 11-month legal fight",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1758061303446-201737ea1f4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8U2VuZWdhbCUyMHJlY2xhaW0lMjBBZnJpY2ElMjBDdXAlMjBvZiUyME5hdGlvbnMlMjB0aXRsZSUyMGFmdGVyJTIwMTEtbW9udGglMjBsZWdhbCUyMGZpZ2h0fGVufDF8MHx8fDE3OTU1MzU5MjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sweder Breet",
+        "photographerUrl": "https://unsplash.com/@sweder_etc",
+        "unsplashUrl": "https://unsplash.com/photos/large-ferry-docked-with-smaller-boat-alongside-BKj-E0MQZCk"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Judges at the Court of Arbitration for Sport (CAS) on Tuesday declared Senegal winners of the 2025 Africa Cup of Nations.",
+      "highlights": [],
+      "externalUrl": "https://www.rfi.fr/en/sports/20261124-top-sports-lawyers-declare-senegal-2025-afcon-champions",
+      "publishedAt": "2026-11-24T15:51:49.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seriada-7-konutu-yikarak-42-filistinliyi-yerinden-etti-/4136105",
       "headline": "İsrail ordusu, işgal altındaki Batı Şeria'da 7 konutu yıkarak 42 Filistinliyi yerinden etti",
@@ -15,7 +51,9 @@
       "publishedAt": "2026-11-24T15:41:17.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T15:57:52.852Z",
+      "imageSearchAttemptedAt": "2026-11-24T15:57:52.852Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
@@ -14046,7 +14084,7 @@
       "publishedAt": "2026-11-19T15:06:06.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T15:54:21.853Z",
+      "imageSearchAttemptedAt": "2026-11-24T15:57:52.852Z",
       "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
       "isBreaking": false
     },
@@ -14436,55 +14474,6 @@
       "publishedAt": "2026-11-19T13:38:20.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/international/20261119-eu-delays-new-methane-emissions-rules-until-2029-despite-climate-concerns",
-      "headline": "AB, iklim endişelerine rağmen yeni metan emisyonu kurallarını 2029'a erteledi",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1701970947932-d5f730c3c1cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWV0aGFuZSUyMGVtaXNzaW9ucyUyMGV1fGVufDF8MHx8fDE3OTUwOTU5MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Janusz Walczak",
-        "photographerUrl": "https://unsplash.com/@jwvein",
-        "unsplashUrl": "https://unsplash.com/photos/smoke-billows-from-the-stacks-of-smoke-stacks-SvOolOyZQPc"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Avrupa Birliği, küresel enerji piyasasındaki baskılar ve artan belirsizlikler nedeniyle yeni metan emisyonu düzenlemelerini iki yıl erteleme konusunda uzlaştı. Üye devletler ile Avrupa Parlamentosu arasında yürütülen uzun müzakerelerin ardından varılan anlaşmayla, kömür, petrol ve gaz ithal eden şirketlerin izleme, raporlama ve doğrulama zorunlulukları Ocak 2027'den Ocak 2029'a ertelendi. Karbon dioksitten sonra küresel ısınmaya en büyük ikinci katkıyı sağlayan güçlü bir sera gazı olan metan için getirilen bu düzenlemenin, ithalatçılar ve AB üreticileri için yoğunluk raporlama şartları da Ağustos 2030'a kadar iki yıl ertelendi.\n\nAvrupa Komisyonu ve üye devletler bir yıllık erteleme talep ederken, Avrupa Parlamentosu üç yıllık gecikme istemişti. Brüksel'deki gece yarısı müzakerelerinin ardından taraflar iki yıld uzlaşmaya varddı. Dönem başkanlığını yürüten İrlanda'nın Çevre Bakanı Darragh O'Brien, enerji piyasasındaki gerilimleri ele alırken metan emisyonlarını azaltmada AB'nin lider rolünü koruyarak pragmatik bir denge sağladıklarını belirtti. Anlaşmanın yürürlüğe girmesi için Avrupa Parlamentosu ve 27 üye devletin resmi onayından geçmesi gerekiyor.\n\nÖte yandan çevre örgütleri karara tepki gösterdi. Çevre grupları, ertelemenin iklim hedeflerini zayıflatma riski taşıdığını vurguladı. Environmental Defence Fund Europe'dan Léa Pilsner ertelemenin gereksiz olduğunu ifade ederken, yasanın özünün korunduğunu belirtti. Clean Air Task Force adına değerlendirme yapan Pablo Lopez Legarreta ise gecikmelerin Avrupa mevzuatının güvenilirliğine zarar verdiğini ve hızlı emisyon azaltımı umutlarına darbe vurduğunu söyledi. Karar, AB'nin metan azaltımını öncelikleri arasında belirlediği Cop31 BM iklim zirvesi için Antalya'da delegelerin toplandığı döneme denk geldi.",
-      "highlights": [
-        "AB, yeni metan emisyonu raporlama gerekliliklerini 2 yıl erteleyerek 2029'a bıraktı.",
-        "İthalatçılar ve üreticiler için metan yoğunluğu raporlama şartları Ağustos 2030'a ertelendi.",
-        "Çevre grupları, ertelemenin iklim hedeflerini ve yasanın güvenilirliğini zayıflatabileceği uyarısında bulundu."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/international/20261119-eu-delays-new-methane-emissions-rules-until-2029-despite-climate-concerns",
-      "publishedAt": "2026-11-19T13:31:36.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/gullunun-olumunde-yeni-gelisme-erkek-sesi-silinen-mesaj-ve-38-saniyelik-internet-detayi-4874473",
-      "headline": "Güllü'nün ölümünde yeni gelişme: Erkek sesi, silinen mesaj ve 38 saniyelik internet detayı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1568458353374-57091a14a11b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RyVDMyVCQ2xsJUMzJUJDJTI3biVDMyVCQ24lMjAlQzMlQjZsJUMzJUJDbSVDMyVCQ25kZSUyMHllbmklMjBnZWxpJUM1JTlGbWUlM0ElMjBFcmtlayUyMHNlc2klMkMlMjBzaWxpbmVuJTIwbWVzYWolMjB2ZSUyMDM4JTIwc2FuaXllbGlrJTIwaW50ZXJuZXQlMjBkZXRheSVDNCVCMXxlbnwxfDB8fHwxNzk1MDk0NjgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Iqrar Ijaz",
-        "photographerUrl": "https://unsplash.com/@iqrarijaz",
-        "unsplashUrl": "https://unsplash.com/photos/man-lying-on-table-j8H-OIBWHKQ"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Yalova'nın Çınarcık ilçesinde 26 Eylül 2025 tarihinde evinin 6'ncı katındaki pencereden düşerek yaşamını yitiren şarkıcı Güllü (Gül Tut) ile ilgili soruşturma ve yargı sürecinde yeni adımlar atıldı. Annesini tasarlayarak öldürme suçundan ağırlaştırılmış müebbet hapis cezasına çarptırılan kızı Tuğyan Ülkem Gülter'in ardından, olay sırasında evde bulunan arkadaşı Sultan Nur Ulu ile eski nişanlı Kervan E. hakkında yeni suç duyurusunda bulunuldu.\n\nGül Tut'un kardeşinin avukatları tarafından Yalova Cumhuriyet Başsavcılığı'na sunulan dilekçede, ses kayıtlarındaki dip seslerin ayrıştırılması, erkek sesine ilişkin iddiaların doğrulanması ve kayıtların yapay zeka tarafından işlenip işlenmediğinin incelenmesi talep edildi. Ayrıca ifadelerdeki çelişkilere dikkat çekilerek özgün kayıtlar üzerinden karşılaştırma yapılması istendi.\n\nDilekçede dijital verilere de odaklanılarak, olay günü saat 01.25.55 ile 01.26.33 arasındaki internet trafiğinin incelenmesi, WhatsApp veya FaceTime gibi uygulamalar üzerinden görüşme yapılıp yapılmadığının tespiti talep edildi. Tuğyan Ülkem Gülter ile Kervan E. arasında geçtiği belirtilen silinen mesajların öncesi ve sonrasının araştırılması, ayrıca daraltılmış baz kayıtları ile konum ve iletişim verilerinin karşılaştırılması istendi.\n\nYapılan incelemeler sonucunda kimlikleri belirlenecek diğer kişilerle birlikte Sultan Nur Ulu ve Kervan E. hakkında tasarlayarak kasten öldürme suçuna müşterek faillik, azmettirme veya yardım etme kapsamında soruşturma yürütülmesi talep edildi. Avukatlar, yeterli şüphe ve tutuklama nedenlerinin bulunması halinde şüphelilerin tutuklama istemiyle hakimliğe sevk edilmelerini isterken, yargılanmasına başlanan Sultan Nur Ulu hakkında yurt dışı çıkış yasağı bulunduğu belirtildi.",
-      "highlights": [
-        "Şarkıcı Güllü'nün ölümüne ilişkin soruşturmada yeni suç duyurusunda bulunuldu.",
-        "Ses kayıtlarındaki erkek sesi, çelişkiler ve olgu saatindeki internet trafiği için inceleme talep edildi.",
-        "Sultan Nur Ulu ve Kervan E. hakkında tasarlayarak kasten öldürme suçuna iştirak iddiasıyla işlem istendi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/gullunun-olumunde-yeni-gelisme-erkek-sesi-silinen-mesaj-ve-38-saniyelik-internet-detayi-4874473",
-      "publishedAt": "2026-11-19T13:23:47.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T13:44:56.800Z",
       "isBreaking": false
     }
   ],
