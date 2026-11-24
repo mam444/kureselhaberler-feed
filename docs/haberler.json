@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-24T20:34:28.089Z",
+  "generatedAt": "2026-11-24T20:44:34.409Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/iletisim-baskani-durandan-yeni-parti-genel-baskani-ozgur-ozele-tepki-3497688",
+      "headline": "İletişim Başkanı Duran'dan Yeni Parti Genel Başkanı Özgür Özel'e tepki",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1627561979957-5604fb1e4e45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8JUM0JUIwbGV0aSVDNSU5RmltJTIwQmElQzUlOUZrYW4lQzQlQjElMjBEdXJhbiUyN2RhbiUyMFllbmklMjBQYXJ0aSUyMEdlbmVsJTIwQmElQzUlOUZrYW4lQzQlQjElMjAlQzMlOTZ6ZyVDMyVCQ3IlMjAlQzMlOTZ6ZWwlMjdlJTIwdGVwa2l8ZW58MXwwfHx8MTc5NTU1MzA2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ankara University",
+        "photographerUrl": "https://unsplash.com/@ankarauni",
+        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-flag-and-a-portrait-of-a-man-jSXEZbOkKSY"
+      },
+      "timeAgo": "şimdi",
+      "body": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Yeni Parti Genel Başkanı Özgür Özel'in açıklamalarına ilişkin, \"Cumhurbaşkanımızı 'diktatörlük' ve 'faşizm' gibi kavramlarla anmak, siyasi eleştiri sınırlarını aşan bir yaklaşımdır. Siyasette farklı görüşler ve sert eleştiriler elbette olabilir. Ancak bunların iftira, hakaret ve itham üzerinden yürütülmesi kabul edilemez.\" ifadelerini kullandı.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/turkiye/iletisim-baskani-durandan-yeni-parti-genel-baskani-ozgur-ozele-tepki-3497688",
+      "publishedAt": "2026-11-24T20:45:37.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/osimhen-aston-villa-macinda-oynayacak-mi-sampiyonlar-ligi-galatasaray-aston-villa-maci-ne-zaman-victor-osimhenin-saglik-durumu-nasil-3496886",
       "headline": "OSIMHEN ASTON VILLA MAÇINDA OYNAYACAK MI? Şampiyonlar Ligi Galatasaray Aston Villa Maçı Ne Zaman? Victor Osimhen'in Sağlık Durumu Nasıl?",
@@ -158,7 +178,8 @@
       "publishedAt": "2026-11-24T19:52:29.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-24T20:44:24.813Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/fon-kurulu-bir-kez-daha-toplandi-1-milyon-tlye-kadar-odemeler-tamamlaniyor-7707235",
@@ -1407,7 +1428,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T14:44:20.844Z"
+      "imageSearchAttemptedAt": "2026-11-24T20:44:24.813Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
@@ -14369,30 +14390,6 @@
       "publishedAt": "2026-11-19T17:52:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
-      "headline": "Çin lideri Şi'den ABD ve Rusya'ya dünya barışı çağrısı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1703783419681-e3247591ba18?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8d29ybGQlMjBwZWFjZXxlbnwxfDB8fHwxNzk1MTEyNjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jon Tyson",
-        "photographerUrl": "https://unsplash.com/@jontyson",
-        "unsplashUrl": "https://unsplash.com/photos/a-blue-flag-with-a-dove-and-peace-on-it-Eg7t0Bb3T6g"
-      },
-      "timeAgo": "34 dk önce",
-      "body": "Çin Devlet Başkanı Şi, ABD Başkanı Trump ve Rusya Devlet Başkanı Putin'e çağrıda bulundu. Şi, dünya barışını korumak amacıyla ABD ve Rusya'nın Çin ile birlikte çalışması gerektiğini belirtti. Yapılan bu açıklama, küresel barışın sağlanması noktasında üç ülkenin iş birliği yapması gerektiği yönündeki talebi içeriyor. Kaynaklarda yer alan bilgilere göre çağrı doğrudan liderlere yöneltildi.",
-      "highlights": [
-        "Çin Devlet Başkanı Şi, ABD Başkanı Trump ve Rusya Devlet Başkanı Putin'e çağrı yaptı.",
-        "Şi, dünya barışını korumak için ülkelerin birlikte çalışmasını istedi."
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
-      "publishedAt": "2026-11-19T17:50:21.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T18:34:20.319Z",
       "isBreaking": false
     }
   ],
