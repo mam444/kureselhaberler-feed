@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T21:34:31.256Z",
+  "generatedAt": "2026-11-24T21:44:34.945Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/misir-disisleri-bakani-abdulati-abd-ile-iran-arasindaki-arabuluculuk-calismalarina-katki-sunuyoruz/4136496",
+      "headline": "Mısır Dışişleri Bakanı Abdulati: ABD ile İran arasındaki arabuluculuk çalışmalarına katkı sunuyoruz",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "Mısır Dışişleri Bakanı Bedr Abdulati, ülkesinin geçen şubat ayından bu yana ABD ile İran arasında süren savaşın durdurulması için yürütülen arabuluculuk çalışmalarına katkı sunduğunu belirtti.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/misir-disisleri-bakani-abdulati-abd-ile-iran-arasindaki-arabuluculuk-calismalarina-katki-sunuyoruz/4136496",
+      "publishedAt": "2026-11-24T21:36:00.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223",
       "headline": "Bolu Dağı'nda kar yağışı etkili oldu",
@@ -17,6 +33,26 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-24T21:34:29.458Z"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/truth-or-fake/20261124-jensen-huang-s-nvidia-comeback-sends-ai-videos-into-overdrive",
+      "headline": "Jensen Huang's Nvidia comeback sends AI videos into overdrive",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1662947683270-136b00fbf3c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8SmVuc2VuJTIwSHVhbmclMjdzJTIwTnZpZGlhJTIwY29tZWJhY2slMjBzZW5kcyUyMEFJJTIwdmlkZW9zJTIwaW50byUyMG92ZXJkcml2ZXxlbnwxfDB8fHwxNzk1NTU2NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo-eyWlM1f0Vu0"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Just 11 days after resigning as Nvidia CEO, Jensen Huang’s return has unleashed a fresh wave of AI-generated videos. But the internet has changed its tune: while last week’s memes mocked Huang, many now celebrate his comeback. One viral video purportedly showing him dancing is actually AI-manipulated footage of a basketball coach from 2016. From humiliation to hero worship, the technology Nvidia helped popularise is…",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/tv-shows/truth-or-fake/20261124-jensen-huang-s-nvidia-comeback-sends-ai-videos-into-overdrive",
+      "publishedAt": "2026-11-24T21:28:36.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
@@ -9458,7 +9494,7 @@
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T14:54:19.377Z",
+      "imageSearchAttemptedAt": "2026-11-24T21:44:31.661Z",
       "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z",
       "isBreaking": false
     },
@@ -9480,7 +9516,7 @@
       "publishedAt": "2026-11-21T08:31:24.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T14:54:19.377Z",
+      "imageSearchAttemptedAt": "2026-11-24T21:44:31.661Z",
       "isBreaking": false
     },
     {
@@ -14305,56 +14341,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T19:14:26.960Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
-      "headline": "Eşinin uyuşturduğu kadın yabancılar tarafından tecavüze uğradı, rıza yasalarının değiştirilmesini istedi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1497460932449-b9099695e195?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8V29tYW4lMjByYXBlZCUyMGJ5JTIwc3RyYW5nZXJzJTIwYWZ0ZXIlMjBiZWluZyUyMGRydWdnZWQlMjBieSUyMGh1c2JhbmQlMjBjYWxscyUyMGZvciUyMGNvbnNlbnQlMjBsYXclMjBjaGFuZ2VzfGVufDF8MHx8fDE3OTUxMTUwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Chris Barbalis",
-        "photographerUrl": "https://unsplash.com/@cbarbalis",
-        "unsplashUrl": "https://unsplash.com/photos/woman-silhouette-ujIs-dBALtI"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "Eşi tarafından uyuşturularak yabancılar tarafından tecavüze uğrayan Joanne Young, mahkeme kararının ardından rıza yasalarının ele alınması çağrısında bulundu. Winchester Ceza Mahkemesi'nde görülen davada, eski eşi Philip Young tarafından İngiltere'deki partner değişimi web sitelerinde ilan verilerek hedef alınan kadına saldıran dört erkek suçlu bulundu.\n\nMahkemede, Philip Young'ın eşini uyuşturarak hareketsiz bir duruma getirdiği ve internet ilanlarına yanıt veren yabancıların kadına cinsel saldırıda bulunmasını sağladığı ifade edildi. Daha önce suçlu olduğunu kabul eden eski muhafazakar meclis üyesi Philip Young'ın yanı sıra, üç haftalık duruşma sonucunda Connor Sanderson-Doyle, Richard Wilkins, Norman Macksoni ve Mohammed Hassan da Joanne Young'a yönelik çeşitli suçlardan mahkûm edildi. Bir diğer sanık Dean Hamilton ise daha önce suçlamaları kabul etmişti.\n\nOlayın ardından basına açıklama yapan Joanne Young, rızanın yalnızca kişinin kendisinden gelmesi gerektiğini belirterek hiç kimsenin bir başkası adına rıza veremeyeceğini vurguladı. Kadınların gelecekte korunması için hükümetin bu konuyu öncelikli olarak ele almasını isteyen Young, yaşadığı acının tarif edilemez olduğunu ifade etti.\n\nCrown Prosecution Service, davanın İngiltere'de organize bir şekilde uyuşturucu kullanılarak gerçekleştirilen cinsel saldırılarla ilgili olarak birden fazla sanığın jüri tarafından suçlu bulunduğu ilk vaka olduğunu açıkladı. Wiltshire polisi, bu tür suçların olduğundan daha az bildiriliyor olabileceğine dikkat çekti. Suçlu bulunan sanıklar kefalet taleplerinin reddedilmesiyle birlikte tutuklu yargılanırken, mahkûmiyet kararının ardından Aralık ayında hakim karşısına çıkacaklar.",
-      "highlights": [
-        "Joanne Young, eşi tarafından uyuşturularak yabancılar tarafından tecavüze uğramasının ardından rıza yasalarında değişiklik yapılmasını istedi.",
-        "Dört erkek, Joanne Young'a yönelik cinsel saldırı ve tecavüz suçlarından Winchester Ceza Mahkemesi'nde suçlu bulundu.",
-        "Eşi Philip Young daha önce onlarca suçlamayı kabul ederken, sanıklar Aralık ayında hakim karşısına çıkacak."
-      ],
-      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/men-convicted-sexual-assault-and-rape-woman-at-invitation-of-husband",
-      "publishedAt": "2026-11-19T18:54:01.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T19:14:26.895Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/gercegi-itiraf-etti-gocmen-kadinin-yalan-ihbari-ekipleri-seferber-etmisti-7704118",
-      "headline": "Göçmen kadının kayıp ihbarı asılsız çıktı: Ekiplerin seferber olduğu olayda gerçeği itiraf etti",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1607357574137-d238e9a14383?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlncmFudCUyMHJlc2N1ZXxlbnwxfDB8fHwxNzk1MTE0NDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mika Baumeister",
-        "photographerUrl": "https://unsplash.com/@kommumikation",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-black-wooden-door-hqVcoLgumgU"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Sahil Güvenlik Komutanlığı ekipleri, dün saat 11.50 sıralarında Mazı Mahallesi Kissebükü Koyu mevkisinde yasadışı yollarla yurt dışına geçiş hazırlığında olan bir grup kaçak göçmeni belirledi. Bodrum İlçe Jandarma Komutanlığı ve Sahil Güvenlik Komutanlığı ekiplerinin ortak operasyonuyla aralarında bir çocuğun da bulunduğu 25 kaçak göçmen yakalandı.\n\nYakalananlar arasında yer alan Kamerun uyruklu L.N.M. isimli kadın, 3 yaşındaki kızının kayıp olduğunu beyan etti. Bu ihbar üzerine güvenlik ve arama kurtarma birimleri hemen harekete geçti. Bodrum İlçe Jandarma Komutanlığı, jandarma komando timleri, Sahil Güvenlik, AFAD ve gönüllü arama kurtarma ekipleri bölgede geniş çaplı arama faaliyeti başlattı.\n\nEkipler, sarp ve makilik arazi ile denizde iz sürerek çalışmalarını sürdürdü. Arama faaliyetlerinde termal dron ve termal kamera gibi teknolojik imkanlardan da yararlanıldı. Güvenlik güçleri bugün de bölgede arama çalışmalarına devam ederken, jandarma ekipleri çevredeki güvenlik kameralarını incelemeye aldı.\n\nYürütülen incelemeler ve sorgulama sırasında L.N.M.'nin yalan beyanda bulunduğu ve çocuğunun bulunmadığını itiraf etmesi üzerine arama kurtarma çalışmaları sonlandırıldı. Kadının sınır dışı edilmemek amacıyla bu yalanı söylediği belirtildi. L.N.M. gözaltına alınırken, olayla ilgili soruşturma başlatıldı.",
-      "highlights": [
-        "25 kaçak göçmen yakalandı",
-        "Kamerunlu kadın kayıp çocuğu olduğunu iddia etti",
-        "Kadının sınır dışı edilmemek için yalan söylediği ortaya çıktı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/gercegi-itiraf-etti-gocmen-kadinin-yalan-ihbari-ekipleri-seferber-etmisti-7704118",
-      "publishedAt": "2026-11-19T18:50:06.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
