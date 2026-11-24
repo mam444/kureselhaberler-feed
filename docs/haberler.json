@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T11:37:36.982Z",
+  "generatedAt": "2026-11-24T11:42:54.390Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
+      "headline": "Galatasaray, Aston Villa Karşısına Osimhen'siz Çıkıyor",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk1NTIwNTUxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fancy Crave",
+        "photographerUrl": "https://unsplash.com/@fancycrave",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Galatasaray, UEFA Şampiyonlar Ligi'nin beşinci haftasında İngiltere temsilcisi Aston Villa'yı evinde ağırlıyor. Türkiye saati ile 20.45'te başlayacak karşılaşmayı hakem Daniel Siebert yönetecek. Galatasaray çalıştırıcısı Okan Buruk, maç öncesi düzenlenen basın toplantısında takımın yıldız oyuncularından Victor Osimhen'in forma giyemeyeceğini açıkladı.\n\nSarı-kırmızılı ekip, Şampiyonlar Ligi'ndeki ilk iki maçında Sporting Lisbon'a 3-1 ve Barcelona'ya 4-1 mağlup olmuştu. Ancak turnuvadaki ilk galibiyetini üçüncü maçta deplasmanda Lille'i 4-2 yenerek alan Galatasaray, dördüncü maçında ise evinde Stuttgart'ı 2-0 mağlup etmeyi başardı. Bu sonuçlarla sarı-kırmızılıların ligde altı puanı bulunuyor.\n\nKonuk ekip Aston Villa ise ilk maçında Belçika temsilcisi Club Brugge'ü deplasmanda 3-2 yendi. Ardından sahasında Fenerbahçe'yi 6-0 ve Norveç temsilcisi Viking'i 3-1 mağlup eden İngiliz ekibi, topladığı 9 puanla ligde altıncı sırada yer alıyor. Maç öncesinde Galatasaray cephesinde Osimhen'in eksikliği dikkat çekiyor.",
+      "highlights": [
+        "Galatasaray, Aston Villa'yı ağırlıyor",
+        "Okan Buruk, Osimhen'in oynamayacağını duyurdu",
+        "Galatasaray'ın ligde altı puanı bulunuyor"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T11:40:02.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/teknoloji/openaida-gizli-kayit-skandali-eski-calisan-suudi-arabistanla-mi-baglantili-7706973",
       "headline": "OpenAI'da gizli kayıt skandalı: Eski çalışan Suudi Arabistan'la mı bağlantılı?",
@@ -27,7 +51,7 @@
     },
     {
       "id": "https://www.france24.com/en/tv-shows/press-review/20261124-nothing-will-ever-be-the-same-for-jensen-huang-and-nvidia-after-his-return",
-      "headline": "Jensen Huang'ın Nvidia'ya dönüşü sonrasında hiçbir şey aynı olmayacak",
+      "headline": "Jensen Huang'ın Nvidia'ya Dönüşü ve Basında Öne Çıkan Diğer Gelişmeler",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
       "imageUrl": "https://images.unsplash.com/photo-1662947683270-136b00fbf3c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SmVuc2VuJTIwSHVhbmclMjBOdmlkaWF8ZW58MXwwfHx8MTc5NTUyMDEyMnww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -37,14 +61,35 @@
         "unsplashUrl": "https://unsplash.com/photos/logo-eyWlM1f0Vu0"
       },
       "timeAgo": "7 dk önce",
-      "body": "Basın özetine göre Jensen Huang'ın Nvidia'ya dönüşü basında geniş yer buluyor ve birçok gazetenin manşetinde yer alıyor. Financial Times bu durumu kurucu ortak için çarpıcı bir geri dönüş olarak nitelendirirken, The Economist ise düşmanca bir Kongre, sarsılmış çalışanlar ve temkinli iş ortaklarıyla karşı karşıya kalan Huang için hiçbir şeyin aynı olmayacağını belirtiyor. Habere göre, yatırımcılar ilk rahatlamanın ardından ufukta sorunlar görebilir.\n\nBir diğer gündem maddesi olan Rusya'nın Ukrayna'daki askeri kayıplarına ilişkin sızdırılan kayıtlar ise iki pro-Ukraynalı hack grubu tarafından paylaşıldı. The Guardian, tam ölçekli işgalin başlangıcından bu yana binlerce Rus askerinin intihar ettiğini aktarırken, The New York Times ise 700 bin Rus askerinin öldüğünü öne süren kayıplara dikkat çekti ve Moskova'nın 2026 yılında yaklaşık 409 bin asker kaydetme yolunda ilerlediğini ekledi.\n\nSpor haberlerinde ise Birleşik Krallık'ın 2035 Kadınlar Dünya Kupası'na ev sahipliği yapacağı doğrulandı. The Independent'ın aktardığına göre bu organizasyon, İngiltere'nin 1966'daki erkekler turnuvasından bu yana ülkede düzenlenecek ilk Dünya Kupası olma özelliğini taşıyor.\n\nSon olarak, Paris merkezli şef Hugo Riboulet, Devilled Eggs Dünya Şampiyonası'nda birincilik elde etti. Yarışmada konfit yumurta sarısı ve verjus jeli gibi malzemeler kullanıldı.",
+      "body": "Jensen Huang'ın Nvidia'ya dönüşü, basın yayın organlarında geniş yer buldu ve birçok gazetenin manşetine taşındı. Financial Times, bu gelişmeyi kurucu ortak için şaşırtıcı bir geri dönüş olarak nitelendirirken; The Economist, düşmanca bir Kongre, sarsılmış çalışanlar ve temkinli iş ortaklarıyla karşı karşıya kalan Huang için hiçbir şeyin aynı olmayacağını belirtti. Wired ise şirket kültürüyle ilgili endişelere dikkat çekerek, bazı çalışanların ayrılığı sınırsız birlik ve minimum bürokrasi kültürünü değiştirmek için bir fırsat olarak gördüğünü ifade etti.\n\nBasında yer alan diğer haberler arasında, Rusya'nın Ukrayna'daki askeri kayıplarına ışık tutan sızdırılmış kayıtlar da yer aldı. İki pro-Ukraynalı hack grubu tarafından yayınlanan verilere dayanan incelemelerde, The Guardian tam ölçekli işgalin başlamasından bu yana bin Rus askerinin intihar ettiğini aktardı. The New York Times ise 700 bin Rus askerinin öldürüldüğünü ve Moskova'nın 2026 yılında yaklaşık 409 bin asker kaydetme yolunda ilerlediğini bildirdi.\n\nSpor alanındaki gelişmelerde ise The Independent, Birleşik Krallık'ın 2035 Kadınlar Dünya Kupası'na ev sahipliği yapacağını doğruladı. Bu organizasyonun, İngiltere'nin 1966 erkekler turnuvasından bu yana ülkede düzenlenen ilk Dünya Kupası olacağı ve 48 takımla 104 maça sahne olacağı kaydedildi.\n\nSon olarak Fransa'dan bildirilen haberde, Devilled Eggs Dünya Şampiyonası'nın kazananı Paris merkezli şef Hugo Riboulet oldu. Yarışmada şef, confit yumurta sarısı ve verjus jeli üzerindeki tarifiyle birinciliği elde etti.",
       "highlights": [
-        "Jensen Huang'ın Nvidia'ya dönüşü basında geniş yankı uyandırdı.",
-        "Sızdırılan kayıplara göre Rusya'nın Ukrayna'daki askeri kayıpları yeni verilerle gündeme geldi.",
-        "Birleşik Krallık'ın 2035 Kadınlar Dünya Kupası'na ev sahipliği yapacağı açıklandı."
+        "Jensen Huang'ın Nvidia'ya dönüşü basında geniş yer buldu ve The Economist, Huang için hiçbir şeyin aynı olmayacağını belirtti.",
+        "Sızdırılan verilere göre, Ukrayna'daki savaşta bin Rus askeri intihar etti ve The New York Times 700 bin Rus askerinin öldürüldüğünü aktardı.",
+        "Birleşik Krallık, 2035 Kadınlar Dünya Kupası'na ev sahipliği yapacak."
       ],
       "externalUrl": "https://www.france24.com/en/tv-shows/press-review/20261124-nothing-will-ever-be-the-same-for-jensen-huang-and-nvidia-after-his-return",
       "publishedAt": "2026-11-24T11:28:12.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:42:07.689Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+      "headline": "Rus savaş gemileri neden Libya açıklarında ve Ukrayna'nın saldırısı bunu değiştirecek mi?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "15 dk önce",
+      "body": "Ukrayna, savaş alanının çok ötesindeki Rus gemilerine yönelik uzun menzilli yaptırım saldırılarını artırıyor. Bu durum, Rus savaş gemilerinin Libya açıklarında neden bulunduğunu ve Ukrayna'nın son hamlelerinin bu durumu değiştirip değiştirmeyeceğini gündeme getiriyor.\n\nSöz konusu gelişmeler, Ukrayna'nın Rus deniz varlıklarını hedef alan operasyonlarını genişlettiği bir süreçte yaşanıyor. Rus gemilerinin Libya kıyılarındaki varlığı ve Ukrayna'nın bu sahadaki etkileri hakkındaki detaylar operasyonların odağında yer alıyor.\n\nUkrayna'nın bu uzun menzilli saldırıları, Rusya'nın uzak bölgelerdeki deniz operasyonları üzerindeki baskıyı artırmayı amaçlıyor. Saldırıların Rus savaş gemilerinin konumunu ve gelecekteki hareket tarzını nasıl etkileyeceği ise izleniyor.",
+      "highlights": [
+        "Ukrayna, savaş alanının ötesindeki Rus gemilerine saldırılarını artırıyor",
+        "Rus savaş gemileri Libya açıklarında bulunuyor",
+        "Saldırıların Rus varlığını değiştirip değiştirmeyeceği merak ediliyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
+      "publishedAt": "2026-11-24T11:27:35.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -396,12 +441,17 @@
       },
       "timeAgo": "2 dk önce",
       "body": "Son dakika haberine göre; Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,24 değer kaybederek 11.104,38 puandan tamamladı.",
-      "highlights": [],
+      "highlights": [
+        "BIST 100 endeksi günü yüzde 0,24 düşüşle 11.104,38 puandan tamamladı",
+        "Toplam işlem hacmi 113,6 milyar lira olarak gerçekleşti",
+        "En çok kazandıran madencilik, en çok kaybettiren finansal kiralama faktoring oldu"
+      ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/borsa/son-dakika-haberi-borsa-gunu-dususle-tamamladi-3497119",
       "publishedAt": "2026-11-23T19:33:01.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:42:07.689Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor-3497117",
@@ -810,15 +860,19 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T18:14:30.764Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:42:07.689Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/galatasaray-aston-villa-maci-nerede-oynanacak-ucl-gs-aston-villa-maci-hangi-statta-oynanacak-rams-parkta-mi-sampiyonlar-ligi-3497045",
       "headline": "Galatasaray Aston Villa Maçı Nerede Oynanacak? Şampiyonlar Ligi Maçının Adresi Açıklandı",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1735587804692-16900a3a7e1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8R2FsYXRhc2FyYXklMjBBc3RvbiUyMFZpbGxhJTIwTWElQzMlQTclQzQlQjElMjBOZXJlZGUlMjBPeW5hbmFjYWslM0YlMjAlQzUlOUVhbXBpeW9ubGFyJTIwTGlnaSUyME1hJUMzJUE3JUM0JUIxbiVDNCVCMW4lMjBBZHJlc2klMjBBJUMzJUE3JUM0JUIxa2xhbmQlQzQlQjF8ZW58MXwwfHx8MTc5NTUyMDU3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ahmet Kurt",
+        "photographerUrl": "https://unsplash.com/@ahmetkurt",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-crowd-of-people-at-a-soccer-game-3LoYOG7Z6mA"
+      },
       "timeAgo": "şimdi",
       "body": "Galatasaray ile Aston Villa arasındaki UEFA Şampiyonlar Ligi karşılaşmasının nerede ve hangi statta oynanacağı futbolseverler tarafından araştırılan konular arasında yer alıyor. Sarı-kırmızılı ekip, Avrupa arenasındaki bu kritik sınavda İngiliz temsilcisi Aston Villa'yı kendi sahasında konuk edecek.\n\nKarşılaşma için herhangi bir stat değişikliği bulunmuyor. Mücadele, İstanbul'daki Ali Sami Yen Spor Kompleksi RAMS Park'ta oynanacak. Galatasaray, Süper Lig'deki Samsunspor maçını zemin yenileme çalışmaları sebebiyle farklı bir statta oynamış olsa da, zemin bakım çalışmalarının tamamlanmasının ardından Avrupa mücadelesinde yeniden evine dönüyor.\n\nUEFA Şampiyonlar Ligi'nin 5. haftasında gerçekleşecek dev mücadele, 24 Kasım 2026 Salı günü oynanacak. Sarı-kırmızılılar, taraftar desteğini arkasına alarak RAMS Park'ta önemli bir sonuç elde etmeyi hedefliyor. Haftanın en çok takip edilen karşılaşmalarından biri olan bu maçta Galatasaray, kendi seyircisinin desteğiyle İngiliz ekibini ağırlayacak.",
       "highlights": [
@@ -831,7 +885,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T17:44:25.657Z",
+      "imageSearchAttemptedAt": "2026-11-24T11:42:07.689Z",
       "sourceTextAttemptedAt": "2026-11-23T17:44:25.657Z"
     },
     {
@@ -14444,55 +14498,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-19T11:04:39.550Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
-      "headline": "APEC Zirvesi: Çok fazla ihtişam, az somut ilerleme mi?",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1794796693699-acc80dbb0385?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QVBFQyUyMHN1bW1pdHxlbnwxfDB8fHwxNzk1MDY4MzA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "leoon liang",
-        "photographerUrl": "https://unsplash.com/@leoonliang",
-        "unsplashUrl": "https://unsplash.com/photos/crowd-waiting-near-apec-china-flags-1BLqTQdJjPc"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Shenzhen'de düzenlenen APEC forumunun kulislerinde Xi Jinping, Donald Trump ve Vladimir Putin, ilk kez üçlü bir zirve gerçekleştirdi. Dünyanın en güçlü üç ülkesinin liderlerini aynı masada buluşturan bu buluşma, tarihi bir an olarak nitelendirildi.\n\nZirvede Ukrayna, İran'daki savaş, nükleer silahsızlanma ve yapay zeka gibi kritik konuların ele alınması bekleniyordu. Bu durum, dünyanın etki alanlarına bölünmesi yönündeki endişeleri de beraberinde getirdi.\n\nAncak yaşanan bu hareketliliğe ve yoğun ilgiye rağmen analistler, zirvenin içerikten ziyade sembolik özellik taşıdığını ifade ediyor. Görüşmeler sonucunda çok az somut atılım yapılması bekleniyor.\n\nBölgedeki muhabirler, tarihi zirvenin sona erdiğini ancak net sonucunun henüz belirsizliğini koruduğunu bildiriyor.",
-      "highlights": [
-        "Xi Jinping, Donald Trump ve Vladimir Putin Shenzhen'de üçlü toplantı gerçekleştirdi.",
-        "Toplantıda Ukrayna, İran'daki savaş, nükleer silahsızlanma ve yapay zeka gibi başlıkların ele alınması bekleniyordu.",
-        "Analistler zirveden somut atılımlar yerine sembolik sonuçlar bekliyor."
-      ],
-      "externalUrl": "https://www.france24.com/en/apec-summit-lots-of-gloss-little-real-progress",
-      "publishedAt": "2026-11-19T10:47:03.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:04:39.550Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/corumda-kan-donduran-cinayette-iddianame-hazirlandi-esini-bocek-ilaciyla-olduren-kadina-agirlastirilmis-muebbet-istemi-4874384",
-      "headline": "Çorum'da eşini böcek ilacıyla öldüren kadın hakkında ağırlaştırılmış müebbet istemiyle iddianame hazırlandı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1701605919891-1824e8dae598?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Y291cnRyb29tJTIwanVzdGljZXxlbnwxfDB8fHwxNzk1MDgzODg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nathan Cima",
-        "photographerUrl": "https://unsplash.com/@nathan_cima",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-columns-and-a-door-A4Qca4vX1Q0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Çorum Cumhuriyet Başsavcılığınca, eşini tasarlayarak öldürdüğü suçlamasıyla tutuklanan Sevim Yabacı hakkında ağırlaştırılmış müebbet hapis istemiyle hazırlanan iddianame kabul edildi. İddianamede, 54 yaşındaki Sevim Yabacı'nın 8 Temmuz 2026 tarihinde 112 Acil Çağrı Merkezi'ni arayarak 77 yaşındaki eşi Hüseyin Yabacı'nın eve alkollü geldiğini ve kendi ağzına sinek ilacı sıktığını belirterek yardım istediği bilgisine yer verildi. Sağlık ekiplerince Hitit Üniversitesi Erol Olçok Eğitim ve Araştırma Hastanesi'ne kaldırılan Hüseyin Yabacı 9 Temmuz'da hayatını kaybetti.\n\nOlay, maktulün oğlu Muhittin Yabacı'nın şikayeti üzerine Kargı Cumhuriyet Başsavcılığı tarafından başlatılan soruşturmayla derinleşti. Gözaltına alınan Sevim Yabacı sorgusunda suçlamaları reddederek, eşiyle sorunları olmadığını, olay günü eşinin eve sarhoş ve düşmüş şekilde geldiğini, kendisini yıkadıktan sonra bahçeye çıktığını, geri döndüğünde ise eşinin nefes almakta zorlandığını fark ederek ambulansı aradığını savundu.\n\nSoruşturma kapsamında Samsun Adli Tıp Grup Başkanlığı Kimya İhtisas Dairesi Toksikoloji Şubesince hazırlanan raporda Hüseyin Yabacı'nın kanında alkol tespit edilmediği belirtildi. Ayrıca İstanbul Adli Tıp Kurumu Başkanlığı 1. İhtisas Daire Kurulunun incelemesinde, ölümün böcek ilacı zehirlenmesinden kaynaklandığı tespit edilerek rapora yansıdı.\n\nÇorum Cumhuriyet Başsavcılığına devredilen dosya kapsamında hazırlanan iddianamenin 1. Ağır Ceza Mahkemesince kabul edilmesinin ardından tensip zaptı düzenlendi. Sanık Sevim Yabacı'nın tutuklu olarak yargılanmasına karar verilirken, sanık ilerleyen günlerde hakim karşısına çıkacak.",
-      "highlights": [
-        "Sevim Yabacı hakkında eşini tasarlayarak öldürme suçundan ağırlaştırılmış müebbet hapis istemiyle iddianame hazırlandı.",
-        "Adli tıp raporlarında Hüseyin Yabacı'nın kanında alkol bulunmadığı ve ölümünün böcek ilacı zehirlenmesinden kaynaklandığı belirlendi.",
-        "Sanık Sevim Yabacı mahkemece kabul edilen iddianamenin ardından tutuklu olarak yargılanacak."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/corumda-kan-donduran-cinayette-iddianame-hazirlandi-esini-bocek-ilaciyla-olduren-kadina-agirlastirilmis-muebbet-istemi-4874384",
-      "publishedAt": "2026-11-19T10:23:35.000Z",
-      "category": "Sağlık",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
