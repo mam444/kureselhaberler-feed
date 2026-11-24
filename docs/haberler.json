@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T17:24:44.379Z",
+  "generatedAt": "2026-11-24T17:35:16.755Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/dunya/ingiliz-basinindan-antalyaya-ovgu-the-telegraph-subatta-gidin-ve-kazak-giymeyin-3497633",
+      "headline": "İngiliz basınından Antalya'ya övgü! The Telegraph: ''Şubat'ta gidin ve kazak giymeyin''",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1712753653371-82c8c6c2e8a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QW50YWx5YSUyMHdpbnRlciUyMHRyYXZlbHxlbnwxfDB8fHwxNzk1NTQxNjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kseniia Poroshkova",
+        "photographerUrl": "https://unsplash.com/@ksulazypie",
+        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-beach-with-a-building-in-the-background-MZMHRZsrSvU"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "İngiliz The Telegraph gazetesinde yayımlanan bir yazıda, kış tatili için Antalya önerildi. Şubat ortasında kenti ziyaret eden yazar Annabelle Thorpe, Perge Antik Kenti'ni gezerken sıcaktan gölgeye sığındığını, Aspendos'a giderken ise kazağını çıkarıp şort ve tişört giydiğini belirtti. Thorpe, Antalya'yı \"kış güneşi için en iyi saklanan sır\" olarak nitelendirirken, Toros Dağları'nın İç Anadolu'dan gelen soğuk havaya set çekerek kentin kış aylarında ılık kalmasında rol oynadığını kaydetti. Gazete, bölgenin yılda yaklaşık 300 gün güneş aldığını aktardı.\n\nYazarın en çok etkilendiği duraklardan biri Aspendos oldu. İkinci yüzyıldan kalma antik tiyatroyu gezen Thorpe, tribünlerde kendisiyle birlikte 20 kişinin bile bulunmadığını ve bu sakinliğin tarihi daha yakından hissetmesini sağladığını ifade etti. Gezi rotasında ayrıca Düden Şelaleleri de yer aldı; Yukarı Düden'de suyun arkasındaki patikadan geçen yazar, Aşağı Düden'in 40 metre yükseklikten Akdeniz'e döküldüğü noktayı da ziyaret etti.\n\nKaleiçi'nde Roma Limanı'nı çevreleyen dar sokaklarda dolaşan Thorpe, Düden Balık Pazarı'nda yediği çipuranın hayatında yediği en iyi çipura olabileceğini belirtti. The Telegraph ayrıca kışın sakinleşen Lara Sahili, antik kalıntılarıyla bilinen Side ve Likya Yolu üzerindeki Kalkan'ı da okurlarına tatil önerileri arasında sıraladı. İngiliz yazar okurlarına seslenerek, \"Şubatta gidin. Kazak giymeyi unutun\" tavsiyesinde bulundu.",
+      "highlights": [
+        "İngiliz The Telegraph gazetesi kış tatili için Antalya'yı önerdi.",
+        "Yazar Annabelle Thorpe Aspendos'u şort ve tişörtle gezdiğini belirtti.",
+        "Gazete Antalya'nın yılda yaklaşık 300 gün güneş aldığını kaydetti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/dunya/ingiliz-basinindan-antalyaya-ovgu-the-telegraph-subatta-gidin-ve-kazak-giymeyin-3497633",
+      "publishedAt": "2026-11-24T17:33:16.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/msb-eskisehirden-havalanan-askeri-helikopter-kaza-kirima-ugradi-1752423",
       "headline": "MSB: Eskişehir'den havalanan askeri helikopter kaza kırıma uğradı",
@@ -22,7 +46,8 @@
       "publishedAt": "2026-11-24T17:22:34.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T17:34:24.410Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/shakhtar-donetsk-fenerbahce-maci-ne-zaman-ucl-shakhtar-donetsk-fenerbahce-maci-saat-kacta-hangi-kanalda-sampiyonlar-liginde-iki-3497063",
@@ -207,6 +232,30 @@
       ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T16:37:04.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
+      "headline": "Fransa'nın eski cumhurbaşkanı Nicolas Sarkozy ve eşi Carla Bruni tanık yönlendirme iddiasıyla yargılanacak",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1758225709244-532b6f7a765b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Tmljb2xhcyUyMFNhcmtvenl8ZW58MXwwfHx8MTc5NTU0MTY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "DJ Tears PLK",
+        "photographerUrl": "https://unsplash.com/@djtearsplk",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-sunglasses-adjusts-them-against-blue-background-gaB2hGpOI5o"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Fransa'nın eski cumhurbaşkanı Nicolas Sarkozy ile eşi, şarkıcı Carla Bruni-Sarkozy, tanık yönlendirme ve dolandırıcılık kastıyla suç ortaklığı iddialarıyla 2027 yılında hakim karşısına çıkacak. Dava, Sarkozy'nin 2007 yılındaki seçim kampanyasında Libya'dan yasadışı fon sağladığı iddialarıyla ilgili süreci kapsıyor.\n\nSöz konusu suçlamalar, eski liderin Libya'nın merhum lideri Muammer Kaddafi'den yasadışı kampanya finansmanı aradığı iddiasıyla ilgili davanın ardından gündeme geldi. Davanın kilit tanıklarından Fransız-Lübnanlı iş insanı Ziad Takieddine, 2016 yılında Sarkozy'ye nakit para ulaştırdığını iddia etmiş, ancak 2020'de bu ifadesini geri çekmişti.\n\nBu durum, Sarkozy ve eşinin, tanığın ifadesini değiştirmesi için paparazzi yöneticisi Mimi Marchand'ın yardımını aldığı suçlamalarına yol açtı. Carla Bruni'nin, Marchand ile iletişim kurmak amacıyla gizli bir telefon hattı talep ettiğinden şüpheleniliyor. Taraflar suçlamaları reddediyor.\n\nSanıklar, yöneltilen suçlamalar kapsamında en fazla 10 yıl hapis cezası ve 150.000 euro para cezası ile karşı karşıya bulunuyor. Davada Mimi Marchand da dolandırıcılık kastıyla suç ortaklığı ve tanık yönlendirme suçlamalarıyla yargılanacak. Sanık avukatları AFP'nin yorum talebine hemen yanıt vermedi.",
+      "highlights": [
+        "Nicolas Sarkozy ve Carla Bruni 2027 yılında tanık yönlendirme suçlamasıyla yargılanacak.",
+        "Dava, 2007 seçim kampanyasının Libya'dan sağlanan fonlarla finanse edilmesi iddialarıyla bağlantılı.",
+        "Sanıklar en fazla 10 yıl hapis cezası ve 150.000 euro para cezası ile karşı karşıya."
+      ],
+      "externalUrl": "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
+      "publishedAt": "2026-11-24T16:33:12.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -1571,7 +1620,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T11:12:54.359Z",
+      "imageSearchAttemptedAt": "2026-11-24T17:34:24.410Z",
       "sourceTextAttemptedAt": "2026-11-23T20:04:22.709Z"
     },
     {
@@ -1618,7 +1667,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z",
+      "imageSearchAttemptedAt": "2026-11-24T17:34:24.410Z",
       "sourceTextAttemptedAt": "2026-11-24T12:04:30.058Z"
     },
     {
@@ -14435,49 +14484,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T16:04:35.611Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-sahte-yardim-mesajlarina-karsi-uyari/4131192",
-      "headline": "Aile ve Sosyal Hizmetler Bakanlığından sahte \"yardım\" mesajlarına karşı uyarı",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "5 dk önce",
-      "body": "Aile ve Sosyal Hizmetler Bakanlığı, Bakanlığın ve sosyal yardımlaşma ve dayanışma vakıflarının adı kullanılarak sosyal yardım vaadiyle gerçekleştirilen dolandırıcılık girişimlerine karşı vatandaşları uyardı.",
-      "highlights": [],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-sahte-yardim-mesajlarina-karsi-uyari/4131192",
-      "publishedAt": "2026-11-19T15:09:52.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:34:22.171Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:44:41.931Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
-      "headline": "Birleşik Krallık'ın iltica başvurularında yapay zeka kullanımı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwxfDB8fHwxNzk1MTAxMjgwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Igor Omilaev",
-        "photographerUrl": "https://unsplash.com/@omilaev",
-        "unsplashUrl": "https://unsplash.com/photos/robot-and-human-hands-reaching-toward-ai-text-FHgWFzDDAOs"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Birleşik Krallık göçmenlik sistemini yönetmek için yapay zekaya daha fazla yöneliyor. Bu kapsamda göçmenlerin telefonlarının analiz edilmesi ve iltica başvurularının işleme konulması gibi alanlarda yapay zekadan yararlanılıyor.\n\nInfoMigrants gazetecisi Stella Elgersma, Birleşik Krallık İç İşleri Bakanlığı'nın iltica başvurularını işlemek için yapay zeka araçlarını test ettiğini aktarıyor. Bu süreçte mülakat özetleri oluşturan bir sistem de kullanılıyor.\n\nYapılandırılmış bilgilere göre sistemde hatalar bulunuyor, insan denetimi sınırlı düzeyde kalıyor ve şeffaflık konusunda endişeler dile getiriliyor. Bu durumun iltica eden kişilerin hayatını risk altına atıp atamayacağı ise tartışma konusu olmaya devam ediyor.",
-      "highlights": [
-        "Birleşik Krallık İç İşleri Bakanlığı, iltica başvurularını işlemek için yapay zeka araçlarını test ediyor.",
-        "Test edilen sistemler arasında iltica mülakatlarının özetlerini oluşturan bir mekanizma da yer alıyor.",
-        "Süreçteki hatalar, sınırlı insan gözetimi ve şeffaflık endişeleri sığınmacıların hayatını riske atıp atmayacağı kaygılarını artırıyor."
-      ],
-      "externalUrl": "https://www.france24.com/en/behind-the-uk-s-use-of-ai-in-asylum-applications",
-      "publishedAt": "2026-11-19T15:07:23.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
       "isBreaking": false
     }
   ],
