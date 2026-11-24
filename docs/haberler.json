@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T21:04:36.938Z",
+  "generatedAt": "2026-11-24T21:14:32.920Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+      "headline": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz gözaltına alındı",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "şimdi",
+      "body": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen uyuşturucu soruşturması kapsamında 35 şüpheli hakkında gözaltı kararı verildi. Gözaltına alınanlar arasında şarkıcı Özcan Deniz de var. İstanbul'da ünlü isimlere yönelik uyuşturucu soruşturmasında yeni bir operasyon düzenlendi. İstanbul Cumhuriyet Başsavcılığı Kaçakçılık, Narkotik ve Ekonomik Suçlar Soruşturma Bürosunca yürütülen soruşturma kapsamında 35 şüpheli…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
+      "publishedAt": "2026-11-24T21:14:03.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
       "headline": "Çok sayıda valinin görev yeri değişti",
@@ -7918,7 +7934,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:34:23.025Z",
-      "imageSearchAttemptedAt": "2026-11-24T14:24:28.927Z"
+      "imageSearchAttemptedAt": "2026-11-24T21:14:27.992Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -8407,7 +8423,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
-      "imageSearchAttemptedAt": "2026-11-24T14:34:20.000Z"
+      "imageSearchAttemptedAt": "2026-11-24T21:14:27.992Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
@@ -14353,31 +14369,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T18:44:27.050Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
-      "headline": "Irak, Silahlı Grup Kalesi Konusunda Ketaib Hizbullah ile Uzlaşıya Vardı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1786528896942-dc4d415d6eca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SXJhcSUyMG1pbGl0YXJ5fGVufDF8MHx8fDE3OTUxMTM4NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AmirHadi Manavi Moghadam",
-        "photographerUrl": "https://unsplash.com/@amirhadimanavimoghadam",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-uniform-raising-fist-8PtT0oLklYk"
-      },
-      "timeAgo": "28 dk önce",
-      "body": "Irak hükümeti ile Ketaib Hizbullah arasında silahlı grubun kalesi konusunda bir uzlaşma sağlandığı bildirildi. Varılan bu uzlaşma kapsamında, bölgeye güçlerin konumlandırılacağı aktarıldı. Aktarılan bilgilere göre, konuşlandırılacak olan bu güçlerin arasında Halk Seferberlik Güçleri'ne (PMF) bağlı tugayların da yer alacağı belirtildi.",
-      "highlights": [
-        "Irak ile Ketaib Hizbullah uzlaşıya vardı",
-        "Bölgeye güçler konumlandırılacak",
-        "Güçler arasında Halk Seferberlik Güçleri tugayları da yer alacak"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
-      "publishedAt": "2026-11-19T18:16:09.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T19:24:22.320Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14600,6 +14591,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
+    "https://news.sky.com/story/life-death-and-terror-24-hours-in-ukraines-kill-zone-13616131"
   ]
 }
