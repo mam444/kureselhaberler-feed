@@ -1,21 +1,71 @@
 {
-  "generatedAt": "2026-11-24T17:08:04.691Z",
+  "generatedAt": "2026-11-24T17:16:01.023Z",
   "articles": [
     {
-      "id": "https://www.cnnturk.com/turkiye/demiroren-medya-ve-teknoloji-mtalde-ogretmenler-gunu-etkinligi-3497542",
-      "headline": "Demirören Medya ve Teknoloji MTAL’de Öğretmenler Günü etkinliği",
+      "id": "https://www.cnnturk.com/spor/futbol/shakhtar-donetsk-fenerbahce-maci-ne-zaman-ucl-shakhtar-donetsk-fenerbahce-maci-saat-kacta-hangi-kanalda-sampiyonlar-liginde-iki-3497063",
+      "headline": "Shakhtar Donetsk - Fenerbahçe maçı ne zaman, saat kaçta, hangi kanalda? Şampiyonlar Ligi'nde Arda Turan ile Emre Belözoğlu rakip oluyor",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1549923015-badf41b04831?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBtYXRjaCUyMHN0YWRpdW18ZW58MXwwfHx8MTc5NTUzODc1MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fred Rivett",
+        "photographerUrl": "https://unsplash.com/@fredrivett",
+        "unsplashUrl": "https://unsplash.com/photos/aerial-view-photography-of-soccer-stadium-during-daytime-tHjoZcCqqPQ"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "UEFA Şampiyonlar Ligi'nin 5. haftasında Shakhtar Donetsk ile Fenerbahçe karşı karşıya gelecek. Londra'daki Stamford Bridge Stadı'nda oynanacak mücadele, Arda Turan'ın çalıştırdığı Shakhtar Donetsk ile Emre Belözoğlu'nun yönetimindeki Fenerbahçe'yi karşı karşıya getirmesi nedeniyle dikkat çekiyor. İki Türk teknik adamın rekabetine sahne olacak dev karşılaşma, 25 Kasım 2026 Çarşamba günü gerçekleştirilecek.\n\nTürkiye saati ile 23.00'te başlayacak olan kritik mücadele, TRT 1 ekranlarından şifresiz olarak futbolseverlerle buluşacak. Karşılaşmanın hakemliğini Michael Oliver üstlenecek. Avrupa'da yoluna devam etmek isteyen ve ilk 24 sıralamasında avantaj elde etmeyi hedefleyen sarı-lacivertliler, son maçında Liverpool'u 3-2 mağlup ederek puanını 5'e yükseltmiş ve 19. sıraya yerleşmişti.\n\nArda Turan yönetimindeki Shakhtar Donetsk ise bu sezon Avrupa'daki iç saha maçlarını Londra'da oynuyor. Son iki karşılaşmasından mağlubiyetle ayrılan Ukrayna temsilcisi 4 puanla 21. sırada yer alırken, iki ekip arasında yalnızca 1 puanlık fark bulunuyor. Puan tablosu ve Avrupa hedefleri açısından büyük önem taşıyan maç, Şampiyonlar Ligi'nin merakla beklenen karşılaşmaları arasında gösteriliyor.\n\nFenerbahçe'nin Şampiyonlar Ligi'nde kalan maç takvimi de netleşti. Sarı-lacivertliler, Shakhtar Donetsk karşılaşmasının ardından 9 Aralık 2026 Çarşamba günü LASK ile deplasmanda oynayacak. Takım, 20 Ocak 2027 Çarşamba günü Villarreal'i konuk edecek ve 27 Ocak 2027 Çarşamba günü ise Atletico Madrid deplasmanına çıkacak.",
+      "highlights": [
+        "Shakhtar Donetsk - Fenerbahçe maçı 25 Kasım 2026 Çarşamba günü Londra'daki Stamford Bridge Stadı'nda oynanacak.",
+        "Türkiye saatiyle 23.00'te başlayacak olan karşılaşma TRT 1'den şifresiz olarak yayınlanacak ve maçı Michael Oliver yönetecek.",
+        "Fenerbahçe 5 puanla 19. sırada yer alırken, Shakhtar Donetsk ise 4 puanla 21. basamakta bulunuyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/shakhtar-donetsk-fenerbahce-maci-ne-zaman-ucl-shakhtar-donetsk-fenerbahce-maci-saat-kacta-hangi-kanalda-sampiyonlar-liginde-iki-3497063",
+      "publishedAt": "2026-11-24T17:14:29.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.cnnturk.com/turkiye/demiroren-medya-ve-teknoloji-mtalde-ogretmenler-gunu-etkinligi-3497542",
+      "headline": "Demirören Medya ve Teknoloji MTAL’de Öğretmenler Günü etkinliği düzenlendi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1660794483744-d6c7ab2ac6fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RGVtaXIlQzMlQjZyZW4lMjBNZWR5YSUyMHZlJTIwVGVrbm9sb2ppJTIwTVRBTCVFMiU4MCU5OWRlJTIwJUMzJTk2JUM0JTlGcmV0bWVubGVyJTIwRyVDMyVCQ24lQzMlQkMlMjBldGtpbmxpJUM0JTlGaSUyMGQlQzMlQkN6ZW5sZW5kaXxlbnwxfDB8fHwxNzk1NTQwNTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Herlambang Tinasih Gusti",
+        "photographerUrl": "https://unsplash.com/@tinasihgusti",
+        "unsplashUrl": "https://unsplash.com/photos/a-person-speaking-into-a-microphone-vPRJ2PQtMDU"
+      },
       "timeAgo": "şimdi",
-      "body": "Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi’nde 24 Kasım Öğretmenler Günü kapsamında kutlama yemeği düzenlendi. Öğretmenler Günü dolayısıyla gerçekleştirilen programda, eğitimcilerle kutlama yapıldı. Program, öğrencilerin öğretmenlere çiçek takdim etmesi ve pasta kesimiyle sona erdi.",
-      "highlights": [],
+      "body": "Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi’nde, 24 Kasım Öğretmenler Günü kapsamında kutlama yemeği gerçekleştirildi. Programda eğitimciler bir araya gelerek günün anlam ve önemini kutladı.\n\nDüzenlenen etkinliğe Demirören Medya Ticari Grup Başkanı Emrah Kurtoğlu, Demirören Medya İnsan Kaynakları Grup Başkanı Elif Karacaoğlu, Demirören Medya Dijital Grup Başkanı Gülgün Bostancı Yavuz, Demirören Medya Grup CFO’su Nihat Ulu, Demirören TV Reklam Satış Grup Başkanı Gül Okan, Demirören Medya Eğitim Projeleri Grup Direktörü Nuran Çakmakçı, Demirören Medya Bayi Yönetimi ve Müşteri Hizmetleri Grup Direktörü Bedri Göğalp, CNN Türk İstanbul Haber Koordinatörü Nihat Uludağ, CNN Türk Özel Haberler Müdürü Fulya Öztürk, okul müdürü Atila Ertoğan ve öğretmenler katıldı.\n\nEtkinlikte konuşan Demirören Medya İnsan Kaynakları Grup Başkanı Elif Karacaoğlu, herkesin unutamadığı tek ismin ilk öğretmeni olduğunu belirterek öğretmenlerin baş tacı olduğunu ifade etti. Karacaoğlu ayrıca okulun altı yıl önce başlayan yolculuğuna değinerek, Nuran Çakmakçı'nın eğitim alanındaki 35 yıllık emeğinin ve vizyonunun okulun şekillenmesinde önemli rol oynadığını kaydetti.\n\nOkul Müdürü Atilla Ertoğan ise öğretmenliğin ders anlatmaktan ibaret olmadığını, bir hayatı değiştirebilmek ve Türkiye'nin yarınlarına ışık tutabilmek demek olduğunu belirtti. Ertoğan, eğitime ve eğitimcilere destek veren Demirören Medya ailesine ve Sayın Meltem Demirören'e teşekkürlerini iletti.\n\nProgram, öğrencilerin öğretmenlere çiçek takdim etmesi ve Öğretmenler Günü pastasının kesilmesiyle sona erdi.",
+      "highlights": [
+        "Demirören Medya ve Teknoloji Mesleki ve Teknik Anadolu Lisesi’nde Öğretmenler Günü kutlama yemeği düzenlendi.",
+        "Programda Elif Karacaoğlu ve Okul Müdürü Atila Ertoğan birer konuşma yaptı.",
+        "Etkinlik, öğrencilerin öğretmenlere çiçek takdim etmesi ve pasta kesimiyle sona erdi."
+      ],
       "externalUrl": "https://www.cnnturk.com/turkiye/demiroren-medya-ve-teknoloji-mtalde-ogretmenler-gunu-etkinligi-3497542",
       "publishedAt": "2026-11-24T17:09:26.000Z",
       "category": "Eğitim",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T17:14:22.817Z",
+      "imageSearchAttemptedAt": "2026-11-24T17:14:22.817Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "headline": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "11 dk önce",
+      "body": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T17:04:00.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
@@ -55,7 +105,8 @@
       "publishedAt": "2026-11-24T16:51:30.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-24T17:14:22.817Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_how-senegal-got-their-afcon-trophy-back-241126?traffic_source=rss",
@@ -14419,55 +14470,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-24T15:57:52.852Z",
       "sourceTextAttemptedAt": "2026-11-20T15:42:05.952Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/mhp-lideri-devlet-bahceli-turkiye-yeni-bir-kutup-basidir-7703996",
-      "headline": "MHP lideri Devlet Bahçeli: Türkiye yeni bir kutup başıdır",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1722113444475-190b4705e178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RGV2bGV0JTIwQmFoJUMzJUE3ZWxpfGVufDF8MHx8fDE3OTUxMDA3MjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mustafa akın",
-        "photographerUrl": "https://unsplash.com/@msaimakin",
-        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-small-village-in-the-mountains-QXEoKp_GsIY"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "MHP Genel Başkanı Devlet Bahçeli, Asya-Pasifik Ekonomik İşbirliği Zirvesi'nde Çin Devlet Başkanı Şi Cinping, ABD Başkanı Donald Trump ve Rusya Devlet Başkanı Vladimir Putin'in bir araya gelmesine ilişkin yazılı bir açıklama yaptı. Bahçeli, Türkiye'nin barış ve diplomasinin merkezi olduğunu belirterek, söz konusu platformun üçlü değil Cumhurbaşkanı Recep Tayyip Erdoğan'ın da yer aldığı dörtlü bir yapıda olması gerektiğini ifade etti.\n\nLiderlerin zirvedeki görüşmelerine değinen Bahçeli, BM reformunu destekleme kararlılığı, rafine petrol ürünlerinin arzını artırma planları, uluslararası ceza mahkemesi yetkileri ve nükleer risklerin azaltılması gibi konuların önemine işaret etti. Ancak tablodaki temsiliyet eksikliğine dikkat çeken Bahçeli, Avrupa, Afrika, Orta Doğu, Güney Asya ve Türkiye'nin bu tabloda yer almadığını belirterek, dünya siyasetinin Türkiye göz ardı edilerek yeniden dizayn edilemeyeceğini vurguladı.\n\nTürkiye'nin 250 milyonluk Türk dünyasını ve 2 milyarlık İslam dünyasını temsil ettiğini belirten Bahçeli, ülkenin dünyanın 16'ncı büyük ekonomisine sahip olduğunu ve ordusunun en güçlüler arasında yer aldığını kaydetti. Türkiye'nin bölgesel ve küresel sorunlarda arabulucu olabilen ender ülkelerden biri olduğunu ifade eden MHP lideri, ülkenin bir teferruat değil merkez devlet olduğunu belirtti.\n\nUluslararası sistemin anarşik yapısına ve kaos haline dikkat çeken Bahçeli, Gazze'deki insanlık dramını örnek göstererek BM'nin uluslararası hukuksal düzeni sağlayamadığını belirtti. Türkiye, Rusya ve Çin'den oluşan TRÇ ittifakı önerisini hatırlatan Bahçeli, bu işbirliği fırsatlarının kıymetli bulunduğunu dile getirdi.\n\nBahçeli açıklamasının devamında, Türkiye'nin bölgesel bir gücün ötesine geçerek hem Batı hem de Doğu ile diyalog kurabilen nadir bir ülke olduğunu belirtti. Ülkenin Asya, Afrika ve Avrupa'yı bağlayan bir köprü rolü üstlendiğini ve NATO'nun güney kanadını oluşturduğunu vurgulayan Bahçeli, Türkiye'nin yeni bir kutup başı olarak dünya ekonomi ve siyaset sahnesindeki yerini aldığını kaydetti.",
-      "highlights": [
-        "Türkiye, APEC Zirvesi'nde dörtlü bir yapıda yer almalıydı.",
-        "Dünya siyaseti Türkiye göz ardı edilerek dizayn edilemez.",
-        "Türkiye, yeni bir kutup başı olarak yerini almaktadır."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/mhp-lideri-devlet-bahceli-turkiye-yeni-bir-kutup-basidir-7703996",
-      "publishedAt": "2026-11-19T15:00:34.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:14:30.873Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
-      "headline": "Sırbistan'da öğrenci hareketinden üniversite görevlisi meclis başkanı seçildi",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1781174849412-f998295ce354?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8U2VyYmlhbiUyMHBhcmxpYW1lbnR8ZW58MXwwfHx8MTc5NTEwMDcxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Anton Borzenkov",
-        "photographerUrl": "https://unsplash.com/@borzenkov",
-        "unsplashUrl": "https://unsplash.com/photos/national-assembly-building-with-traffic-and-clear-sky-zrhrSmXx3Eg"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Sırbistan'da öğrenci öncülüğündeki hareketin desteklediği bir üniversite görevlisi, uzun süredir iktidarda bulunan güçlü isim Aleksandar Vucic ve partisinin düşürülmesinin ardından meclis başkanı oldu. 250 üyeli mecliste yapılan oylamada Aleksandar Cupic 140 oy alırken, Vucic'in partisinin adayı 97 oyda kaldı. Bu sonuç, Students’ List grubunun, 14 yıldır neredeyse rakipsiz şekilde iktidarda olan Sırp İlerisci Partisi karşısındaki üstünlüğünü ortaya koydu.\n\nCupic dahil olmak üzere yeni öğrenci destekli milletvekilleri genellikle kariyer sahibi ancak çok az siyasi deneyimi olan veya hiç deneyimi olmayan öğretmenler, profesörler ve uzmanlardan oluşuyor. Bu durum, Sırbistan'da ilk kez tabandan gelen bir protesto hareketinin hükümet kurmak için gereken çoğunluğu elde etmesini sağladı.\n\nBüyük bir onur, yükümlülük ve sorumluluk üstlendiğini belirten Cupic, meclisin itibarını ve milletvekilleri arasındaki diyalog ve hoşgörüyü yeniden tesis edeceğinin sözünü verdi. Meclisteki oylama, Vucic'in rakiplerinin kendisini ve partisini baskı altına aldığı yönündeki suçlamalarının gölgesinde geçen iki günden fazla süren tartışmaların ardından gerçekleşti.\n\n25 Ekim'deki parlamento seçimi, Vucic ve partisinin tüm iktidar kademelerini kontrol ettiği Sırbistan'da büyük bir değişime işaret etti. Öğrencilerin seçim zaferi, Kasım 2024'te kuzey Sırbistan'daki bir tren istasyonunda 16 kişinin ölümüne yol açan çatı çökmesinin ardından iki yıl boyunca yolsuzluk karşıtı protestolara liderlik etmelerinin ardından geldi.\n\nMeclis başkanı olan Cupic, Vucic'in eylül ayında başbakanlığa aday olmak için istifa etmesi nedeniyle Sırbistan'ın geçici cumhurbaşkanı olarak da görev yapacak. Cupic'in yıl sonuna kadar yapılması gereken erken cumhurbaşkanlığı seçimini yakında açıklaması bekleniyor. Sırbistan Avrupa Birliği üyeliğine aday bir ülkedir, ancak bu süreç demokratik gerileme ve Rusya ile yakın ilişkiler nedeniyle duraksamıştı.",
-      "highlights": [
-        "Sırbistan'da öğrenci hareketinin desteklediği Aleksandar Cupic meclis başkanı seçildi.",
-        "Yeni milletvekilleri genellikle siyasi deneyimi az olan öğretmen, profesör ve uzmanlardan oluşuyor.",
-        "Cupic, Vucic'in istifasının ardından geçici cumhurbaşkanı olarak da görev yapacak."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
-      "publishedAt": "2026-11-19T14:51:38.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
