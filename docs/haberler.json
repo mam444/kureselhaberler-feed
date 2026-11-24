@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-24T21:44:34.945Z",
+  "generatedAt": "2026-11-24T21:54:34.735Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/kahvehaneye-silahli-saldiri-iki-kisiyi-vurdu-kacarken-meydan-dayagi-yedi-4876240",
+      "headline": "Kahvehaneye silahlı saldırı: İki kişiyi vurdu kaçarken meydan dayağı yedi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1699380309667-a202c5f4a8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8S2FodmVoYW5leWUlMjBzaWxhaGwlQzQlQjElMjBzYWxkJUM0JUIxciVDNCVCMSUzQSUyMCVDNCVCMGtpJTIwa2klQzUlOUZpeWklMjB2dXJkdSUyMGthJUMzJUE3YXJrZW4lMjBtZXlkYW4lMjBkYXlhJUM0JTlGJUM0JUIxJTIweWVkaXxlbnwxfDB8fHwxNzk1NTU3MjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Austin Crick",
+        "photographerUrl": "https://unsplash.com/@austin_nft",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-up-their-cell-phones-hE-d4XDdKec"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Tekirdağ'ın Çorlu ilçesinde bir kahvehanenin önünde husumetlisine silahla ateş açan H.A., iki kişiyi yaraladı. Saldırıda husumetlisi Z.D. bacağından, kahvehanede bulunan T.T. ise topuğundan vuruldu. Kaçmaya çalışan şüpheli, çevredeki vatandaşlar tarafından yakalanarak darbedildi.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/kahvehaneye-silahli-saldiri-iki-kisiyi-vurdu-kacarken-meydan-dayagi-yedi-4876240",
+      "publishedAt": "2026-11-24T21:52:46.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+      "headline": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1791787806004-875d8808129a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2hpbmVzZSUyMHRlY2glMjBnaWFudCUyMEh1YXdlaSUyMGZvdW5kJTIwZ3VpbHR5JTIwb2YlMjBjb25zcGlyYWN5JTIwdG8lMjBzdGVhbCUyMHRyYWRlJTIwc2VjcmV0c3xlbnwxfDB8fHwxNzk1NTU3MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "MChe Lee",
+        "photographerUrl": "https://unsplash.com/@mclee",
+        "unsplashUrl": "https://unsplash.com/photos/neon-archway-on-street-in-yantai-lrHDQM9RfiI"
+      },
+      "timeAgo": "11 dk önce",
+      "body": "Jurors acquit the company of the most serious charge it faced of engaging in a criminal racketeering conspiracy.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss",
+      "publishedAt": "2026-11-24T21:43:34.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/misir-disisleri-bakani-abdulati-abd-ile-iran-arasindaki-arabuluculuk-calismalarina-katki-sunuyoruz/4136496",
       "headline": "Mısır Dışişleri Bakanı Abdulati: ABD ile İran arasındaki arabuluculuk çalışmalarına katkı sunuyoruz",
@@ -15,7 +55,9 @@
       "publishedAt": "2026-11-24T21:36:00.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T21:54:32.279Z",
+      "imageSearchAttemptedAt": "2026-11-24T21:54:32.279Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223",
@@ -12158,7 +12200,7 @@
       "publishedAt": "2026-11-20T12:07:14.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T15:04:30.988Z",
+      "imageSearchAttemptedAt": "2026-11-24T21:54:32.279Z",
       "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
       "isBreaking": false
     },
@@ -14293,54 +14335,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-      "headline": "Birleşik Krallık ve AB, reddedilen sığınmacıları üçüncü ülkelere gönderme konusunda ilk görüşmeleri planlıyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1559733711-1b689ab44236?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXN5bHVtJTIwc2Vla2VycyUyMG1pZ3JhdGlvbnxlbnwxfDB8fHwxNzk1MTE1NjY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "mostafa meraji",
-        "photographerUrl": "https://unsplash.com/@mostafa_meraji",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-at-rural-area-enIbuT4DayY"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Sızdırılan bir belgeye göre Birleşik Krallık ve Avrupa Birliği, reddedilen sığınmacıların üçüncü ülke merkezlerine gönderilmesi konusunda ilk kez resmi görüşmeler gerçekleştirmeyi planlıyor. Cuma sabahı bir zirvede imzalanması beklenen ortak bildirinin taslağında, her iki tarafın da \"üçüncü ülkelere geri göndermeleri\" ele almak üzere \"yapılandırılmış bir diyalog\" kuracağı ifade ediliyor.\n\nİçişleri Bakanlığı bugüne kadar göçmenlerin sınır dışı edilmesine olanak tanıyan ikili anlaşmalar aramıştı ancak bu konuda belirgin bir başarı elde edilememişti. Geçtiğimiz hafta Avusturya, Danimarka, Almanya, Yunanistan ve Hollanda'dan oluşan beş AB ülkesi, 2027 yılında Rwanda'da bir göçmen \"geri dönüş merkezi\" kurulması konusunda prensip anlaşmasına varıldığını duyurmuştu. Whitehall kaynakları, Birleşik Krallık'ın artık reddedilen başvuru sahiplerini Rwanda'ya gönderme ihtimaline açık olduğunu belirtiyor.\n\nOrtak anlaşma taslağına göre, üçüncü ülke merkezlerine ilişkin müzakereler, düzensiz göçle mücadeleye yönelik iş birliğinin artırılmasının bir parçası olacak. Belgede tarafların Manş eylem planı, düzensiz göç ve insan kaçakçılığı şebekeleriyle mücadele, sınır yönetimi ve üçüncü ülkelere geri göndermeler gibi konularda yapılandırılmış bir diyalog kuracağı belirtiliyor.\n\nÖte yandan Arnavutluk, Birleşik Krallık ile ikili bir geri dönüş merkezi anlaşmasını reddetti. Daha önce Ermenistan, Mısır, Etiyopya, Gana, Libya, Moritanya, Rwanda, Senegal, Tunus, Uganda ve Özbekistan olmak üzere 11 ülkenin görüşmelerin merkezinde yer aldığı bildirilmişti. Karadağ ise reddedilen sığınmacıları barındırmayı değerlendirdiği yönündeki haberleri yalanladı.\n\nGöçmen merkezleri konusunda planlanan iş birliğine tepki gösteren Oxford Üniversitesi Göçleme Gözlemevi Başkanı Madeleine Sumption, bu ifadenin yer almasının üçüncü ülke seçeneklerine yönelik yaygın ilgiyi teyit edeceğini belirtti. Mülteci Konseyi Dış İlişkiler Direktörü Imran Hussain ise geri dönüş merkezlerinin işletilmesinin zor ve masraflı olacağını ifade etti. Bir İçişleri Bakanlığı sözcüsü ise yasadışı göç küresel sorunuyla başa çıkmak için pratik ve uygulanabilir çözümlere ihtiyaç duyulduğunu belirtti.",
-      "highlights": [
-        "Birleşik Krallık ve AB, reddedilen sığınmacıların üçüncü ülke merkezlerine gönderilmesi konusunda ilk kez resmi görüşmeler planlıyor.",
-        "Beş AB ülkesi, 2027'de Rwanda'da bir göçmen geri dönüş merkezi kurulması için anlaşma duyurmuştu.",
-        "Arnavutluk, Birleşik Krallık ile ikili bir geri dönüş merkezi anlaşmasını reddetti."
-      ],
-      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
-      "publishedAt": "2026-11-19T19:02:45.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
-      "headline": "AB, müzakere masasına oturana kadar Rusya'ya baskıyı sürdürecek",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1608817576203-3c27ed168bd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RXVyb3BlYW4lMjBVbmlvbiUyMGZsYWd8ZW58MXwwfHx8MTc5NTExNTA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Christian Lue",
-        "photographerUrl": "https://unsplash.com/@christianlue",
-        "unsplashUrl": "https://unsplash.com/photos/blue-and-yellow-star-flag-8Yw6tsB8tnc"
-      },
-      "timeAgo": "8 dk önce",
-      "body": "Avrupa Birliği Komisyonu Başkanı Ursula von der Leyen, Moskova yönetimine yönelik baskı politikasına ilişkin açıklamalarda bulundu. Yapılan açıklamada, Rusya'nın müzakere masasına oturmayı kabul edene kadar bu baskının artırılarak sürdürüleceği vurgulandı.\n\nAlınan karar doğrultusunda AB'nin tutumunda herhangi bir değişiklik olmayacağı belirtildi. Rusya tarafı resmi bir müzakere sürecine dahil olana kadar ekonomik ve siyasi tedbirlerin devam edeceği ifade edildi.\n\nSöz konusu gelişmeler, uluslararası kamuoyunda geniş yankı uyandırırken, Avrupalı liderlerin diplomatik çözüm çağrılarını yinelediği kaydedildi. Rusya'nın bu çağrılara nasıl bir yanıt vereceği ise önümüzdeki günlerde netleşecek.",
-      "highlights": [
-        "AB Komisyonu Başkanı Ursula von der Leyen açıklama yaptı.",
-        "Rusya müzakere masasına oturana kadar baskı artırılacak."
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/dunya/ab-muzakere-masasina-oturana-kadar-rusyaya-baskiyi-surdurecek-963868.html",
-      "publishedAt": "2026-11-19T18:57:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T19:14:26.960Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
