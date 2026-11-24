@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T18:45:07.173Z",
+  "generatedAt": "2026-11-24T18:54:41.329Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/sariyer-hakan-kutluya-emanet-3497674",
+      "headline": "Sarıyer, Hakan Kutlu’ya emanet",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1604331546936-ba127df7370e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Zm9vdGJhbGwlMjBtYW5hZ2VyfGVufDF8MHx8fDE3OTU1NDY0NzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Victoria Prymak",
+        "photographerUrl": "https://unsplash.com/@vprmk",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-game-during-daytime-RvA7rX2q9bo"
+      },
+      "timeAgo": "şimdi",
+      "body": "Trendyol 1. Lig ekiplerinden SMS Grup Sarıyer'de teknik direktörlük görevine Hakan Kutlu getirildi. Kulüp, Umut Eskiköy ile yolların ayrılmasının ardından teknik direktörlük koltuğunu Hakan Kutlu'ya teslim etti. \n\nLacivert-beyazlı kulüp tarafından konuya dair yapılan resmi açıklamada, A Takım Teknik Direktörlüğü görevi için Hakan Kutlu ile sözleşme imzalandığı duyuruldu. Açıklamada, teknik direktörün Sarıyer ailesine hoş geldin dediği belirtilerek, kendisine ve ekibine yeni görevlerinde başarı dileklerinde bulunuldu.",
+      "highlights": [
+        "Sarıyer'de teknik direktörlük görevine Hakan Kutlu getirildi",
+        "Umut Eskiköy ile yollar ayrıldı",
+        "Kulüp Hakan Kutlu ile sözleşme imzaladı"
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/sariyer-hakan-kutluya-emanet-3497674",
+      "publishedAt": "2026-11-24T18:58:17.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/turkiye/busra-bebek-75-gundur-bulunamiyor-3497669",
       "headline": "Büşra bebek 75 gündür bulunamıyor",
@@ -15,15 +39,16 @@
       "timeAgo": "şimdi",
       "body": "Sivas'ın Divriği ilçesinde 10 Eylül tarihinde kaybolan 11 aylık Büşra bebek, aradan geçen 75 güne rağmen henüz bulunamadı. Göndüren Köyü kırsalında hayvancılık yapan ailenin bebeğinin kaybolması sonrasında bölgede geniş çaplı arama çalışmaları başlatıldı. Ancak yürütülen çalışmalardan henüz bir sonuç elde edilemedi.\n\nSoruşturma sürecinde aralarında defalarca kez ifadesini değiştiren anne Elif Balıkçı ve baba Balıkçı'nın da bulunduğu 6 kişi tutuklanarak cezaevine gönderildi. Öte yandan, arama çalışmalarının ilk gününde ailenin kaldığı çadırdan 3 kilometre uzaklıkta Büşra bebeğe ait olduğu değerlendirilen kıyafetler ele geçirildi. Söz konusu buluntuların bebeğe ait olup olmadığını kesinleştirmek için Adli Tıp Kurumu'ndan gelecek rapor bekleniyor.\n\nAFAD ve jandarma ekiplerinin katılımıyla sürdürülen arama faaliyetleri, bölgedeki olumsuz hava koşulları sebebiyle durduruldu. Yetkililer, uygun hava şartlarının yeniden sağlanmasıyla birlikte arama çalışmalarına kaldığı yerden devam edileceğini bildirdi. Kayıp bebeğe dair belirsizlik ise sürmeye devam ediyor.",
       "highlights": [
-        "11 aylık Büşra bebek 10 Eylül'de Sivas'ın Divriği ilçesinde kayboldu",
-        "Anne ve baba dahil 6 kişi tutuklandı",
-        "Arama çalışmaları olumsuz hava şartları nedeniyle durduruldu"
+        "Büşra bebek 10 Eylül'de Sivas'ın Divriği ilçesinde kayboldu ve 75 gündür bulunamıyor.",
+        "Anne Elif Balıkçı ve babanın da aralarında bulunduğu 6 kişi tutuklandı.",
+        "Aramalar olumsuz hava şartları nedeniyle durduruldu, uygun havada devam edecek."
       ],
       "externalUrl": "https://www.cnnturk.com/video/turkiye/busra-bebek-75-gundur-bulunamiyor-3497669",
       "publishedAt": "2026-11-24T18:49:07.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T18:54:22.801Z"
     },
     {
       "id": "https://www.cnnturk.com/magazin/dizi/mehmed-fetihler-sultani-bu-aksam-var-mi-neden-yok-24-kasim-trt-1-yayin-akisi-mehmed-fetihler-sultani-yeni-bolum-ne-zaman-3497481",
@@ -86,6 +111,26 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T18:34:18.428Z",
       "imageSearchAttemptedAt": "2026-11-24T18:34:18.428Z"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
+      "headline": "Husiler Aden'e Yaklaşıyor, Yemen Kuvvetleri Savunma Hattı Oluşturdu",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "39 dk önce",
+      "body": "İran destekli Husi isyancılar, Yemen'in uluslararası alanda tanınan hükümetinin merkezi olan Aden şehrine yaklaşık 60 kilometre mesafeye kadar ilerledi. Bir askeri yetkili, isyancılara karşı savaşan güçlerin şehri savunmak amacıyla güçlendirilmiş bir savunma hattı kurduğunu bildirdi.\n\nYemen ordusu sözcüsü Albay Majed al-Nuzaily, batı kıyısından çekilen birliklerin Husi ilerleyişini durdurmak amacıyla Aden'in kuzey ve batısında konuşlandırıldığını ifade etti. Yemen dışişleri bakanlığı yetkilisi Marwan al-Noman ise Batılı ülkelerden Yemen sahil güvenliğine destek vermelerini ve karadaki birliklere eğitim sağlamalarını talep etti.\n\nÖte yandan Yemen İçişleri Bakanlığı, Taiz vilayetinde düzenlenen topçu ateşinde bir çocuk dahil üç sivilin hayatını kaybettiğini, iki çocuğun yaralandığını açıkladı. Suudi Arabistan liderliğindeki koalisyon ise Riyad'daki finans bölgesinde bir kuleye düzenlenen saldırıda 11 kişinin yaralandığını bildirdi.\n\nİran tarafında ise Başmüzakereci ve Meclis Başkanı Muhammed Bakır Kalibaf, yedi şart yerine getirilene kadar ABD ile müzakere yürütmeyeceklerini belirtti. İran Devrim Muhafızları Deniz Kuvvetleri, Hürmüz Boğazı'nda üç petrol tankerinin deniz mayınlarına çarparak alev aldığını duyurdu.\n\nBölgedeki diğer gelişmeler arasında, Gazze'deki yerel yetkililerin açıklamasına göre pazartesi gecesi ve salı sabahı düzenlenen İsrail saldırılarında en az dokuz Filistinlinin yaşamını yitirdiği bildirildi. Ölenler arasında Hamas yönetimindeki İçişleri Bakanlığı'na bağlı üst düzey bir güvenlik yetkilisinin de bulunduğu kaydedildi.",
+      "highlights": [
+        "İran destekli Husi isyancılar Aden'e yaklaşık 60 kilometre mesafeye ilerledi.",
+        "Yemen güçleri Aden'i savunmak için güçlendirilmiş bir savunma hattı kurdu.",
+        "Gazze'deki saldırılarda en az dokuz Filistinli hayatını kaybetti."
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/houthi-rebels-close-aden-yemeni-forces-dig-fortified-138404636",
+      "publishedAt": "2026-11-24T18:15:23.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/bakanlik-harekete-gecti-bebek-bakim-urunlerinde-organik-yalanina-milyonluk-ceza-3497651",
@@ -2830,7 +2875,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:14:23.506Z",
-      "imageSearchAttemptedAt": "2026-11-24T12:14:19.872Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z"
     },
     {
       "id": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-xml-mrss",
@@ -2897,7 +2942,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:04:27.613Z",
-      "imageSearchAttemptedAt": "2026-11-24T12:24:19.463Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogandan-kabine-toplantisinin-ardindan-onemli-aciklamalar-7706433",
@@ -14411,54 +14456,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T16:54:22.810Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/dunya-havacilik-tarihinde-bir-ilk-kizilelma-envantere-girdi-7704000",
-      "headline": "Dünya havacılık tarihinde bir ilk: Kızılelma envantere girdi",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1731579884331-95c1da04e988?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dW5tYW5uZWQlMjBjb21iYXQlMjBhZXJpYWwlMjB2ZWhpY2xlfGVufDF8MHx8fDE3OTUxMDYwOTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sergey Koznov",
-        "photographerUrl": "https://unsplash.com/@sergeykoznov",
-        "unsplashUrl": "https://unsplash.com/photos/a-white-and-blue-model-of-a-plane-on-a-black-background-FPwcLXtBvoY"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Baykar tarafından tamamen öz kaynaklarla milli ve özgün olarak geliştirilen Türkiye’nin ilk insansız savaş uçağı KIZILELMA, güvenlik güçlerine teslim edildi. Kabul testlerini başarıyla tamamlayan ilk 3 KIZILELMA, 19 Kasım 2026 itibarıyla envantere girerek aktif göreve başladı. Bu gelişmeyle Türkiye, dünya havacılık tarihinde insansız bir savaş uçağını envanterine katan ilk ülke oldu.\n\nProje kapsamında bugüne kadar toplam 600 sorti gerçekleştirildi. Kavramsal tasarım görselleri 20 Temmuz 2021’de paylaşılan KIZILELMA, 12 Mart 2022’de üretim hattına girmiş ve 14 Aralık 2022’de ilk uçuşunu başarıyla tamamlamıştı. Süreç boyunca AKINCI TİHA ile yakın kol uçuşu gerçekleştiren platform, TEKNOFEST İstanbul’da insanlı savaş uçaklarıyla da kol uçuşlarına imza atmıştı.\n\nKIZILELMA, test süreçlerinde önemli başarılara imza attı. 29 Kasım 2025’te Sinop açıklarında ASELSAN imzalı MURAD AESA radarının işaretlediği hedefi GÖKDOĞAN füzesiyle vuran platform, görüş ötesi hava-hava füzesi kullanarak jet motorlu bir hava hedefini vuran dünyadaki ilk insansız savaş uçağı oldu. Ayrıca 13 Temmuz 2026’da JET-230 süpersonik füzesiyle hedefini tam isabetle vurdu.\n\nBaykar Yönetim Kurulu Başkanı Selçuk Bayraktar, sosyal medya paylaşımında dünyada ilk kez bir insansız savaş uçağının envantere girdiğini belirterek 3 adet KIZILELMA'nın güvenlik güçlerine teslim edildiğini duyurdu. ASELSAN Genel Müdürü Ahmet Akyol da modern harp sahasının geleceğini şekillendirecek projede yer almaktan gurur duyduklarını ifade etti.",
-      "highlights": [
-        "İlk 3 KIZILELMA, 19 Kasım 2026 itibarıyla güvenlik güçlerine teslim edildi.",
-        "Türkiye, insansız savaş uçağını envanterine katan dünyadaki ilk ülke oldu.",
-        "KIZILELMA, testlerde görüş ötesi hava-hava füzesiyle hedefi vuran ilk insansız savaş uçağı olarak tarihe geçti."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/dunya-havacilik-tarihinde-bir-ilk-kizilelma-envantere-girdi-7704000",
-      "publishedAt": "2026-11-19T16:29:10.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
-      "headline": "Güney Kaliforniya, San Francisco'daki rekor yağışın ardından şiddetli fırtınaya hazırlanıyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1694885145176-159fb2f52525?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2FsaWZvcm5pYSUyMHN0b3JtJTIwZmxvb2Rpbmd8ZW58MXwwfHx8MTc5NTEwNjA4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Brian Wangenheim",
-        "photographerUrl": "https://unsplash.com/@brianwangenheim",
-        "unsplashUrl": "https://unsplash.com/photos/a-white-car-driving-down-a-wet-road-m-T-4oucpMc"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Güney Kaliforniya, eyaletin kuzeyinde rekor yağış bırakan şiddetli bir kış fırtınasının yaklaşmasıyla önlemler almaya başladı. Çarşamba günü San Francisco bölgesini vuran atmosferik nehir, yoğun yağış ve kuvvetli rüzgarlara neden oldu. San Francisco'da 1917 yılına ait yağış rekoru kırılırken, itfaiye ekipleri su baskınları, devrilen ağaçlar ve elektrik telleri nedeniyle yüzlerce çağrıya müdahale etti. Şiddetli rüzgar nedeniyle San Francisco Havalimanı'ndaki uçuşlarda saatlerce rötarlar yaşandı ve bazı feribot seferleri iptal edildi. Bölge genelinde on binlerce hanenin elektriği kesildi.\n\nFırtınanın güneye doğru ilerlemesiyle birlikte Napa, Marin, San Mateo ve Santa Clara ilçelerinde bazı otoyollar su baskınları ve enkaz nedeniyle kapandı. Big Sur yakınlarındaki Highway 1'in bir bölümü ulaşıma kapatılırken, San Luis Obispo ve Santa Barbara ilçelerinde de yollar su altında kaldı. Los Angeles yetkilileri, Palisades, Hurst ve Sunset ile Altadena gibi geçmişte yangın geçirmiş bölgelerde yaşayan sakinlere Perşembe günü fırtınanın gelmesinden önce tahliye uyarısında bulundu ve enkaz akıntıları ile su baskını riskine dikkat çekti.\n\nDağlık kesimlerde ise yoğun kar yağışı Tahoe bölgesindeki otoyolların kapanmasına yol açtı. Sierra Nevada'nın en yüksek kesimlerinde Cuma gününe kadar 1.2 metreye (4 fit) varan kar birikintileri bekleniyor. Yetkililer ayrıca sahil şeridinde, bazı kanyonlarda ve su yolları yakınında olası su baskınlarına karşı uyarıda bulundu. Batı Amerika Birleşik Devletleri'nde atmosferik nehir fırtınaları hayati önem taşıyan yağışlar sağlarken aynı zamanda sel riski de oluşturuyor. Kaliforniya eyaleti, yeni yağışların yüksek dalgalarla çakışacağı önümüzdeki hafta yeni hava koşullarıyla karşılaşmaya hazırlanıyor.",
-      "highlights": [
-        "San Francisco'da Çarşamba günü etkili olan atmosferik nehir 1917'ye ait yağış rekorunu kırdı.",
-        "Los Angeles yetkilileri Palisades, Hurst, Sunset ve Altadena bölgelerinde yaşayan sakinleri tahliye için uyardı.",
-        "Bölge genelinde on binlerce hane elektriksiz kaldı ve bazı otoyollar su baskınları ile enkaz nedeniyle kapandı."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/california-atmospheric-river-san-francisco-rain-record",
-      "publishedAt": "2026-11-19T16:21:07.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
