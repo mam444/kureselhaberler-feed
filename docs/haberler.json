@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-24T16:07:57.066Z",
+  "generatedAt": "2026-11-24T16:15:32.678Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/vicdansizligin-boylesi-samsunda-engelli-badem-saticisina-saldiri-kamerada-4876164",
+      "headline": "Vicdansızlığın böylesi: Samsun'da engelli badem satıcısına saldırı kamerada",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Samsun'un Atakum ilçesinde bisikletiyle badem satarak geçimini sağlayan engelli Aykut Güler, kimliği belirsiz bir kişinin saldırısına uğradı. Hiç beklemediği anda aldığı darbeyle yere düşen Güler'in protez dişi yerinden çıktı. Çevredeki vatandaşlar talihsiz adamın yardımına koşarken saldırı anı güvenlik kamerasına yansıdı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/vicdansizligin-boylesi-samsunda-engelli-badem-saticisina-saldiri-kamerada-4876164",
+      "publishedAt": "2026-11-24T16:12:40.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
+      "headline": "Arsenal - Borussia Dortmund UEFA Şampiyonlar Ligi Maçı Canlı Anlatımı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c29jY2VyJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NTUzNjkxN3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fancy Crave",
+        "photographerUrl": "https://unsplash.com/@fancycrave",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Arsenal ile Borussia Dortmund arasındaki UEFA Şampiyonlar Ligi karşılaşması için canlı anlatım akışı başlatıldı.\n\nFutbolseverler, karşılaşma öncesindeki gelişmeleri ve takım kadrolarına dair son haberleri canlı metin akışı üzerinden takip edebiliyor.\n\nYayınlanan canlı akış kapsamındaki güncellemelerde, Martin Odegaard öne çıkan isimler arasında yer alıyor.",
+      "highlights": [
+        "Arsenal ile Borussia Dortmund maçı için canlı anlatım akışı sunuluyor",
+        "Karşılaşma öncesi gelişmeler ve takım kadro haberleri paylaşıldı",
+        "Martin Odegaard güncellemelerde öne çıkan isimler arasında yer aldı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
+      "publishedAt": "2026-11-24T16:01:23.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/gundem/muglada-46-buyuklugunde-deprem-1752419",
       "headline": "Muğla'da 4,6 büyüklüğünde deprem",
@@ -23,7 +63,8 @@
       "publishedAt": "2026-11-24T16:00:32.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T16:14:32.506Z"
     },
     {
       "id": "https://tr.euronews.com/video/2026/11/24/kolombiyada-villavicencioda-bombali-saldiri-siddet-yeniden-tirmaniyor",
@@ -60,12 +101,17 @@
       },
       "timeAgo": "12 dk önce",
       "body": "A French police officer will stand trial for murder in the killing of a teenager in 2023 that sparked violent protests across the country, the Versailles appeals court said on Tuesday. Nahel Merzouk, 17, was shot in the Paris suburb of Nanterre after he failed to comply with an order to stop his car.",
-      "highlights": [],
+      "highlights": [
+        "Versay Temyiz Mahkemesi polisin yargılanacağını açıkladı",
+        "17 yaşındaki Nahel Merzouk 2023 yılında öldürülmüştü",
+        "Olay ülke genelinde şiddetli protestolara yol açmıştı"
+      ],
       "externalUrl": "https://www.france24.com/en/video/20261124-french-police-officer-who-shot-teenager-to-face-murder-trial",
       "publishedAt": "2026-11-24T15:54:17.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T16:14:32.506Z"
     },
     {
       "id": "https://www.rfi.fr/en/sports/20261124-top-sports-lawyers-declare-senegal-2025-afcon-champions",
@@ -14437,52 +14483,6 @@
       "publishedAt": "2026-11-19T14:02:26.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-kurmaylarina-irana-saldirinin-kacinilmaz-oldugunu-soyledi/4131093",
-      "headline": "İsrail basını: Netanyahu kurmaylarına İran'a saldırının kaçınılmaz olduğunu söyledi",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1777250185554-747195ee5982?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QmVuamFtaW4lMjBOZXRhbnlhaHV8ZW58MXwwfHx8MTc5NTA5NzE4MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ken So",
-        "photographerUrl": "https://unsplash.com/@ken_memoriesinfinity",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-suit-with-hand-on-chest-at-event-nhWi5iBZShw"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "İsrail basınına yansıyan haberlere göre, İsrail Başbakanı Binyamin Netanyahu üst düzey güvenlik yetkilileriyle bir araya geldi. \n\nSöz konusu toplantıda Netanyahu'nun, İran'a yönelik olası bir askeri saldırının kaçınılmaz bir noktaya ulaştığını ifade ettiği öne sürüldü. \n\nToplantının detaylarına ve saldırının olası zamanlamasına ilişkin başka bir ayrıntı ise kaynak metinde yer almadı.",
-      "highlights": [
-        "Netanyahu güvenlik yetkilileriyle toplantı yaptı",
-        "İran'a askeri saldırının kaçınılmaz olduğu öne sürüldü"
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/dunya/israil-basini-netanyahu-kurmaylarina-irana-saldirinin-kacinilmaz-oldugunu-soyledi/4131093",
-      "publishedAt": "2026-11-19T14:01:58.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T14:14:23.712Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/yeni-partiden-provokasyon-tahsin-ocaklidan-mecliste-tartismali-cagri-4874496",
-      "headline": "Yeni Parti’den provokasyon: Tahsin Ocaklı'dan Meclis'te tartışmalı çağrı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "1 dk önce",
-      "body": "TBMM Plan ve Bütçe Komisyonunda Millî Savunma Bakanı Yaşar Güler'e yönelik sözleriyle dikkat çeken Yeni Parti Rize Milletvekili Tahsin Ocaklı, fon soruşturmasında Türk Silahlı Kuvvetlerinin devreye girmesini gündeme getirdi. Askerlere talimat verilmesi hâlinde fon soyguncularının kısa sürede ortaya çıkarılacağını savunan Ocaklı'nın sözleri sırasında diğer Yeni Partili vekillerin gülüşmesi kameralara yansıdı.",
-      "highlights": [
-        "Yeni Parti Rize Milletvekili Tahsin Ocaklı, TSK'ya fon krizinin sorumluları için görev verilmesini savundu.",
-        "Ocaklı, askerlerin emir alması durumunda bir saat ile iki gün içerisinde sonuç alabileceğini öne sürdü.",
-        "Ocaklı, sözlerini önce ironi olarak nitelendirdi, ardından bu düşüncesini gerçekten savunduğunu belirtti."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/yeni-partiden-provokasyon-tahsin-ocaklidan-mecliste-tartismali-cagri-4874496",
-      "publishedAt": "2026-11-19T13:55:50.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T14:14:23.712Z",
-      "imageSearchAttemptedAt": "2026-11-24T16:04:25.059Z",
       "isBreaking": false
     }
   ],
