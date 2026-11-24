@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-24T18:05:56.845Z",
+  "generatedAt": "2026-11-24T18:14:31.782Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/bakanlik-harekete-gecti-bebek-bakim-urunlerinde-organik-yalanina-milyonluk-ceza-3497651",
+      "headline": "Bakanlık harekete geçti! Bebek bakım ürünlerinde 'organik' yalanına milyonluk ceza",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1561525140-9f53730419f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QmFrYW5sJUM0JUIxayUyMGhhcmVrZXRlJTIwZ2UlQzMlQTd0aSUyMSUyMEJlYmVrJTIwYmFrJUM0JUIxbSUyMCVDMyVCQ3IlQzMlQkNubGVyaW5kZSUyMCUyN29yZ2FuaWslMjclMjB5YWxhbiVDNCVCMW5hJTIwbWlseW9ubHVrJTIwY2V6YXxlbnwxfDB8fHwxNzk1NTQ0MDcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Jessica Rockowitz",
+        "photographerUrl": "https://unsplash.com/@jessicarockowitz",
+        "unsplashUrl": "https://unsplash.com/photos/baby-sleeping-on-front-of-couple-on-bed-fOgTWiD7Pj0"
+      },
+      "timeAgo": "şimdi",
+      "body": "Ticaret Bakanlığı, bir e-ticaret platformunda 'yüzde 100 doğal' ve 'organik' ifadeleriyle satışa sunulan bebek bakım ürünlerine ilişkin yanıltıcı tanıtımlar nedeniyle ilgili firmaya 1 milyon 83 bin 706 lira idari para cezası uyguladı.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/bakanlik-harekete-gecti-bebek-bakim-urunlerinde-organik-yalanina-milyonluk-ceza-3497651",
+      "publishedAt": "2026-11-24T18:14:14.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
+      "headline": "Armed men take hostages in Cartagena, one of Colombia's top tourist destinations",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1534586171786-479ba91943f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QXJtZWQlMjBtZW4lMjB0YWtlJTIwaG9zdGFnZXMlMjBpbiUyMENhcnRhZ2VuYSUyQyUyMG9uZSUyMG9mJTIwQ29sb21iaWElMjdzJTIwdG9wJTIwdG91cmlzdCUyMGRlc3RpbmF0aW9uc3xlbnwxfDB8fHwxNzk1NTQ0MDcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ricardo Gomez Angel",
+        "photographerUrl": "https://unsplash.com/@rgaleriacom",
+        "unsplashUrl": "https://unsplash.com/photos/unknown-persons-standing-indoors-d-0GeId5czM"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Colombian police say that a group of armed men have seized a super market in the city of Cartagena and taken an unknown number of people hostage",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/armed-men-hostages-cartagena-colombias-top-tourist-destinations-138416557",
+      "publishedAt": "2026-11-24T18:08:41.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/gunun-maclari-24-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-24-kasim-sali-gunun-maclari-3497646",
       "headline": "GÜNÜN MAÇLARI 24 KASIM 2026: Bugünkü Maçlar Neler? Bugün Kimlerin Maçı Var? 24 Kasım Salı Günün Maçları",
@@ -42,7 +82,8 @@
       "publishedAt": "2026-11-24T18:00:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T18:14:22.342Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/abdden-dev-sanayi-hamlesi-pentagon-iha-uretimi-icin-otomotiv-devleriyle-masada-3497553",
@@ -2266,7 +2307,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T11:44:29.239Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:14:22.342Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
@@ -2283,7 +2324,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T11:44:29.239Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:14:22.342Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/sokaklar-beyaza-burundu-goruntuler-istanbuldan-7706457",
@@ -14429,52 +14470,6 @@
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/british-woman-florida-murder-case-sonia-exelby",
       "publishedAt": "2026-11-19T16:08:17.000Z",
       "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/spor/foto/mauricio-pochettino-istedi-manchester-united-victor-osimhen-icin-devreye-girdi-3928603",
-      "headline": "M. United, Osimhen için devreye girdi!",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "14 dk önce",
-      "body": "Mauricio Pochettino'nun takımın başına geçmesiyle birlikte Manchester United yönetimi hücum hattına takviye yapma kararı aldı. Ses getirecek bir golcü isteyen Arjantinli teknik adam için İngiliz ekibi, Galatasaray'da başarılı bir performans gösteren Victor Osimhen'i listesine ekledi.",
-      "highlights": [
-        "Manchester United, Victor Osimhen'i transfer listesine ekledi.",
-        "Osimhen bu sezon Galatasaray'da 11 maçta 10 gol ve 3 asist üretti.",
-        "Futbolcunun Galatasaray ile sözleşmesi Haziran 2029'da sona eriyor."
-      ],
-      "externalUrl": "https://www.haberturk.com/spor/foto/mauricio-pochettino-istedi-manchester-united-victor-osimhen-icin-devreye-girdi-3928603",
-      "publishedAt": "2026-11-19T15:54:36.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T16:14:35.299Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:44:41.931Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664",
-      "headline": "Kırmızı bültenle aranan 2 kişi Bulgaristan'dan Türkiye'ye iade edildi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1558456891-5d18cfe1d149?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwaGFuZGN1ZmZzfGVufDF8MHx8fDE3OTUxMDM5MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Peppe Occhipinti",
-        "photographerUrl": "https://unsplash.com/@mrpeppeocchipinti",
-        "unsplashUrl": "https://unsplash.com/photos/man-holding-on-metal-round-bar-near-another-person-sitting-inside-vehicle-p4i5WlNOUCQ"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "İçişleri Bakanlığı, kırmızı bültenle uluslararası seviyede aranan Emre Yalvan ve Murat Saydam'ın Bulgaristan'dan Türkiye'ye iadesinin sağlandığını duyurdu. Bakanlık açıklamasına göre; İçişleri Bakanı Mustafa Çiftçi'nin girişimleriyle, Emniyet Genel Müdürlüğü Interpol Europol Daire Başkanlığı, İstihbarat, Narkotik Suçlarla Mücadele ve KOM başkanlıkları, İstanbul İl Emniyet Müdürlüğü Organize Suçlarla Mücadele Şube Müdürlüğü ile Adalet Bakanlığı koordinasyonunda çalışma yürütüldü.\n\nGerçekleştirilen çalışmalar sonucunda, \"birden fazla kişi tarafından gece vakti silahla yağma\" suçundan kırmızı bültenle, 11 ayrı suçtan ulusal seviyede aranan ve 60 farklı suça karıştığı belirlenen \"yeni nesil organize suç örgütü\" yöneticisi Emre Yalvan Bulgaristan'dan Türkiye'ye iade edildi.\n\nAyrıca \"uyuşturucu madde ticareti yapma veya sağlama, cebir, tehdit veya hile kullanarak kişiyi hürriyetinden yoksun kılma, ruhsatsız ateşli silahlarla mermileri satın alma, taşıma veya bulundurma, silahla tehdit ve hakaret\" suçlarından kırmızı bültenle aranan Murat Saydam da Bulgaristan'dan Türkiye'ye getirildi.\n\nİçişleri Bakanı Mustafa Çiftçi sosyal medya hesabından yaptığı açıklamada, yürütülen diplomatik girişimler ve uluslararası işbirliğiyle firariler için çemberin daraldığını belirtti. Komşu ülkelerle geliştirilen işbirliğinin, yurt dışı ziyaretlerinin ve 11 Ağustos'ta Bulgaristan'da yürütülen temasların suçluların iadesinde somut neticeler verdiğini ifade eden Çiftçi, Türkiye'nin kararlı mücadelesinin süreceğini kaydetti. Bakan Çiftçi, Bulgaristan İçişleri Bakanı Ivan Demerdzhiev ile Bulgaristan makamlarına işbirliklerinden ötürü teşekkür etti.",
-      "highlights": [
-        "Emre Yalvan ve Murat Saydam Bulgaristan'dan Türkiye'ye iade edildi",
-        "Emre Yalvan'ın \"yeni nesil organize suç örgütü\" yöneticisi olduğu belirtildi",
-        "Murat Saydam'ın uyuşturucu ticareti ve diğer suçlardan kırmızı bültenle arandığı ifade edildi"
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/kirmizi-bultenle-aranan-2-kisi-bulgaristandan-turkiyeye-iade-edildi-1751664",
-      "publishedAt": "2026-11-19T15:53:02.000Z",
-      "category": "Türkiye",
       "lang": "tr",
       "isBreaking": false
     }
