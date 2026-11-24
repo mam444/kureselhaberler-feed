@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-24T15:16:52.111Z",
+  "generatedAt": "2026-11-24T15:26:17.895Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/nigdede-saganak-etkili-oldu-suruculer-zor-anlar-yasadi-4876147",
+      "headline": "Niğde'de sağanak etkili oldu: Bazı cadde ve sokaklarda su birikti",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "4 dk önce",
+      "body": "Niğde'de Meteoroloji Genel Müdürlüğü 8. Bölge Müdürlüğünün uyarısının ardından akşam saatlerinde etkili olan sağanak hayatı olumsuz etkiledi. Bazı cadde ve sokaklarda su birikintileri oluştu, sürücüler zor anlar yaşadı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/nigdede-saganak-etkili-oldu-suruculer-zor-anlar-yasadi-4876147",
+      "publishedAt": "2026-11-24T15:21:35.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
+      "headline": "İngiltere Başbakanı Burnham AB ile İlişkileri Yeniden Ele Alıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RXVyb3BlYW4lMjBVbmlvbnxlbnwxfDB8fHwxNzk1NTMzODcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Guillaume Périgois",
+        "photographerUrl": "https://unsplash.com/@guillaumeperigois",
+        "unsplashUrl": "https://unsplash.com/photos/row-of-european-union-flags-0NRkVddA2fw"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "İngiltere Başbakanı Andy Burnham, başka bir referandum yapılmadan birliğe yeniden katılmanın düşünülemez olduğunu savunmasına rağmen Brexit tartışmasını yeniden başlattı.\n\nİngiltere ve Avrupa Birliği'ni gıda ihracat kontrol standartları, gençlerin hareketliliği ve karbon emisyonları gibi konularda birbirine yaklaşturan bir anlaşma sağlayan Burnham, önümüzdeki haftalarda Brüksel ile ilişkinin geleceğini görüşmeye hazırlanıyor. Görüşmelerin sonuçlarını ise Aralık ayında sunacak.\n\nBu hamle, eski Muhafazakâr Parti başbakanlarının eleştirilerine rağmen gerçekleşiyor.",
+      "highlights": [
+        "İngiltere Başbakanı Andy Burnham Brexit tartışmasını yeniden açtı.",
+        "İngiltere ve AB gıda standartları ve gençlerin hareketliliği konularında yakınlaştı.",
+        "Görüşme sonuçları Aralık ayında sunulacak."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261124-uk-s-burnham-on-a-mission-to-build-public-support-eu-reset",
+      "publishedAt": "2026-11-24T15:21:24.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/israilli-asiri-sagci-bakan-filistin-asilli-milletvekillerine-barbarlar-diyerek-hakaret-etti/4136065",
       "headline": "İsrailli aşırı sağcı bakan, Filistin asıllı milletvekillerine \"barbarlar\" diyerek hakaret etti",
@@ -15,7 +55,9 @@
       "publishedAt": "2026-11-24T15:09:48.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T15:24:30.321Z",
+      "imageSearchAttemptedAt": "2026-11-24T15:24:30.321Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
@@ -12914,7 +12956,7 @@
       "publishedAt": "2026-11-19T18:28:00.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-23T15:34:27.997Z",
+      "imageSearchAttemptedAt": "2026-11-24T15:24:30.321Z",
       "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": false
     },
@@ -14451,54 +14493,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T13:14:34.282Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/tekirdag-ve-antalya-dahil-9-belediye-ak-partide-candan-yuceer-ve-busra-ozdemir-rozetlerini-takti-1751605",
-      "headline": "Tekirdağ ve Antalya dahil 9 belediye başkanı AK Parti'ye katıldı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1691034545710-036170315565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QUslMjBQYXJ0aSUyMG1lZXRpbmd8ZW58MXwwfHx8MTc5NTA4Njg3Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Hasdi Putra",
-        "photographerUrl": "https://unsplash.com/@hasdiputra",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-holding-a-microphone-standing-in-front-of-a-group-of-people-NWiS2A8-npM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Antalya Büyükşehir Belediyesi Başkanvekili Büşra Özdemir ve İstanbul Beyoğlu Belediye Başkanvekili Sefer Karaahmetoğlu'nun da aralarında bulunduğu 9 belediye başkanı AK Parti'ye geçti. AK Parti'de düzenlenen Genişletilmiş İl Başkanları Toplantısı öncesinde, saat 14.00'te Genel Merkez'e gelen isimler Cumhurbaşkanı Recep Tayyip Erdoğan tarafından karşılandı. Erdoğan, sahneye çıkan belediye başkanlarına rozetlerini taktı.\n\nKatılan isimler arasında Candan Yüceer, Büşra Özdemir ve Sefer Karaahmetoğlu dikkat çekti. Yüceer 12 gün önce Yeni Parti'den istifa ederken, Özdemir ve Karaahmetoğlu bu hafta içinde CHP'den ayrılmıştı. NTV Ankara Muhabiri Ahmet Örsoğlu, 31 Mart 2024 yerel seçimlerinden bu yana AK Parti'ye katılan belediye başkanı sayısının 117'ye ulaştığını belirtti.\n\nAK Parti'ye katılan 9 isim şu şekilde sıralandı: Candan Yüceer (Tekirdağ Büyükşehir Belediye Başkanı), Büşra Özdemir (Antalya Büyükşehir Belediyesi Başkanvekili), Saniye Caran (Antalya Korkuteli Belediye Başkanı), Fahri Duran (Antalya Demre Belediye Başkanı), Sefer Karaahmetoğlu (İstanbul Beyoğlu Belediyesi Başkanvekili), Bülent Kara (Giresun Tirebolu Belediye Başkanı), Erdinç Altıok (Adana Yumurtalık Belediye Başkanı), Özkan Günenç (Edirne Enez Belediye Başkanı) ve Ramazan Karakaya (Uşak Karahallı Belediye Başkanı).\n\nAntalya Demre Belediye Başkanı Fahri Duran, CHP'deki görevini sonlandırdığını ve AK Parti çatısı altında siyaset yapacağını açıklamıştı. Candan Yüceer ise 7 Kasım 2026'da sosyal medya hesabından yaptığı paylaşımla Yeni Parti'den istifa ettiğini duyurmuş, kurultay sürecindeki tartışmalara tepki göstererek yol arkadaşlığı hukukunun çiğnendiğini ifade etmişti. Öte yandan İstanbul Beyoğlu Belediyesi Başkanvekili Sefer Karaahmetoğlu da yazılı bir açıklama yaparak CHP üyeliğinden istifa ettiğini bildirmişti.",
-      "highlights": [
-        "Tekirdağ ve Antalya dahil 9 belediye başkanı AK Parti'ye katıldı.",
-        "Cumhurbaşkanı Recep Tayyip Erdoğan, Genel Merkez'deki toplantı öncesinde belediye başkanlarına rozetlerini taktı.",
-        "31 Mart 2024'ten bu yana AK Parti'ye katılan belediye başkanlarının sayısı 117'ye yükseldi."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/tekirdag-ve-antalya-dahil-9-belediye-ak-partide-candan-yuceer-ve-busra-ozdemir-rozetlerini-takti-1751605",
-      "publishedAt": "2026-11-19T12:51:55.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-      "headline": "Yapay zeka talebi dünya genelinde faiz oranlarını artıracak, IMF başkanı uyardı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwxfDB8fHwxNzk1MDkzNDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Growtika",
-        "photographerUrl": "https://unsplash.com/@growtika",
-        "unsplashUrl": "https://unsplash.com/photos/an-abstract-image-of-a-sphere-with-dots-and-lines-nGoCBxiaRO0"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Uluslararası Para Fonu (IMF) başkanı Kristalina Georgieva, yapay zekaya olan patlama niteliğindeki talebin dünyanın en güçlü merkez bankalarını faiz oranlarını yükseltmeye zorlayacağı konusunda uyardı. Washington merkezli fonun genel müdürü Georgieva, yapay zeka donanımı ve ilgili teknoloji ürünlerine yönelik talebin dünya genelinde tüketici fiyatlarını yukarı çektiğini belirtti.\n\nShenzhen'deki 2026 Apec zirvesinde konuşan Georgieva, bu durumun Orta Doğu'daki savaşın enerji şokuyla birlikte küresel çapta enflasyonist baskılara katkıda bulunduğunu ifade etti. Georgieva, her iki faktörün de bu yıl küresel enflasyonu yüzde 4,7'ye çıkaracağı uyarısında bulunarak, yapay zekanın hızla yaygınlaşmasının İran savaşının yarattığı zorluklara rağmen bazı ülkelerde beklenenden daha güçlü ekonomik büyümeye katkı sağladığını ekledi.\n\nŞubat ayında patlak veren savaşın küresel petrol fiyatını varil başına 100 doların üzerine çıkarmasının ardından merkez bankaları bu yıl faiz oranlarını artırmak zorunda kalmıştı. Avrupa Merkez Bankası haziran ayında 2023'ten bu yana ilk kez faiz artırırken, onu eylül ayında ABD Merkez Bankası ve bu ayın başında İngiltere Merkez Bankası takip etmişti.\n\nGeorgieva, Orta Doğu'daki savaşın etkisinin zamanla ortadan kalkacağını, ancak yapay zekanın kalıcı olduğunu vurgulayarak bunun dünya ticareti, rekabet gücü, verimlilik ve ekonomik büyüme için önemli bir itici güç olduğunu belirtti. Yapay zeka donanımları ve ilgili teknoloji ürünlerinin artık dünya mal ticaretinin onda birinden fazlasını oluşturduğunu söyleyen Georgieva, ülkelerin teknoloji dalgasına hazır olması gerektiğini belirterek \"Basitçe söylemek gerekirse: uyuyan kaybeder\" dedi. Georgieva ülkelerin dijital altyapıya, yapay zekaya hazır iş gücüne ve özellikle finansal istikrar ile siber güvenlik risklerini kontrol altına almak için risk azaltma önlemlerine ihtiyaç duyduğunu ekledi.",
-      "highlights": [
-        "IMF başkanı Kristalina Georgieva, yapay zeka talebinin merkez bankalarını faiz oranlarını artırmaya zorlayacağını belirtti.",
-        "Orta Doğu'daki savaşın enerji şoku ve yapay zeka talebi, küresel enflasyonun bu yıl yüzde 4,7'ye çıkmasında etkili olacak.",
-        "Yapay zeka donanımı ve ilgili teknoloji ürünleri dünya mal ticaretinin onda birinden fazlasını oluşturuyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
-      "publishedAt": "2026-11-19T12:51:16.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
