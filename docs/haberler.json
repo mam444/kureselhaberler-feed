@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T18:54:41.329Z",
+  "generatedAt": "2026-11-24T19:04:53.398Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-duyurdu-hgsde-usulsuz-tahsilatlar-iade-edilecek-1752428",
+      "headline": "Bakan Uraloğlu duyurdu: HGS'de usulsüz tahsilatlar iade edilecek",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Hızlı Geçiş Sistemi (HGS) borçlarında usulüne uygun şekilde yapılmayan tüm tahsilatların iade edileceğini bildirdi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, TBMM Plan ve Bütçe Komisyonu'nda Bakanlığının 2027 yılı bütçesi görüşülürken son günlerde kamuoyunun gündemine gelen HGS tartışmalarına ilişkin açıklamalarda bulundu. HGS borçları nedeniyle başlatılan…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-duyurdu-hgsde-usulsuz-tahsilatlar-iade-edilecek-1752428",
+      "publishedAt": "2026-11-24T19:03:13.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/spor/futbol/sariyer-hakan-kutluya-emanet-3497674",
       "headline": "Sarıyer, Hakan Kutlu’ya emanet",
@@ -15,15 +31,32 @@
       "timeAgo": "şimdi",
       "body": "Trendyol 1. Lig ekiplerinden SMS Grup Sarıyer'de teknik direktörlük görevine Hakan Kutlu getirildi. Kulüp, Umut Eskiköy ile yolların ayrılmasının ardından teknik direktörlük koltuğunu Hakan Kutlu'ya teslim etti. \n\nLacivert-beyazlı kulüp tarafından konuya dair yapılan resmi açıklamada, A Takım Teknik Direktörlüğü görevi için Hakan Kutlu ile sözleşme imzalandığı duyuruldu. Açıklamada, teknik direktörün Sarıyer ailesine hoş geldin dediği belirtilerek, kendisine ve ekibine yeni görevlerinde başarı dileklerinde bulunuldu.",
       "highlights": [
-        "Sarıyer'de teknik direktörlük görevine Hakan Kutlu getirildi",
+        "Sarıyer'in teknik direktörlük görevine Hakan Kutlu getirildi",
         "Umut Eskiköy ile yollar ayrıldı",
-        "Kulüp Hakan Kutlu ile sözleşme imzaladı"
+        "Kulüp A Takım Teknik Direktörlüğü için sözleşme imzaladı"
       ],
       "externalUrl": "https://www.cnnturk.com/spor/futbol/sariyer-hakan-kutluya-emanet-3497674",
       "publishedAt": "2026-11-24T18:58:17.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T19:04:28.505Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "headline": "US attorney general dodges questions about Nvidia investigation",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T18:55:59.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/busra-bebek-75-gundur-bulunamiyor-3497669",
@@ -130,7 +163,8 @@
       "publishedAt": "2026-11-24T18:15:23.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T19:04:28.505Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/bakanlik-harekete-gecti-bebek-bakim-urunlerinde-organik-yalanina-milyonluk-ceza-3497651",
@@ -3099,7 +3133,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T12:24:19.463Z"
+      "imageSearchAttemptedAt": "2026-11-24T19:04:28.505Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-lodos-hizini-artiracak-ruzgar-firtinaya-donusecek-akomdan-istanbul-uyarisi-7706152",
@@ -14407,56 +14441,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:04:25.473Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
-      "headline": "Senegal'de yeni doğan bebek şüpheli sünnet sonrası hayatını kaybetti, akrabaları tutuklandı",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1544374895-c98e79ac19af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8TmV3Ym9ybiUyMGRpZXMlMjBhZnRlciUyMHN1c3BlY3RlZCUyMGZlbWFsZSUyMGdlbml0YWwlMjBtdXRpbGF0aW9uJTIwaW4lMjBTZW5lZ2FsJTNCJTIwcmVsYXRpdmVzJTIwYXJyZXN0ZWR8ZW58MXwwfHx8MTc5NTEwNjczOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Francesca Noemi Marconi",
-        "photographerUrl": "https://unsplash.com/@ffrauss",
-        "unsplashUrl": "https://unsplash.com/photos/women-standing-beside-white-concrete-wall-NJE5Muz1gSo"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Senegal'in doğusunda yeni doğan kız bebek, iddiaya göre kadın sünnetine maruz bırakılmasının ardından kan kaybından yaşamını yitirdi. Yerel bir yetkilinin açıklamasına göre, aralarında bebeğin babası ve büyükannesinin de bulunduğu üç kişi gözaltına alındı.\n\nBölgesel aile işleri direktörü Ndiaye Bousso'nun aktardığına göre, bebek Tambacounda bölgesinde dünyaya geldikten yalnızca bir gün sonra, 12 Kasım'da bu işleme maruz bırakıldı. Babanın, prosedürü organize ettiği şüphesiyle Çarşamba günü tutuklandığı bildirildi. Bebeğin büyükannesi ve işlemi gerçekleştirdiği öne sürülen diğer kadın ise günler önce gözaltına alındı.\n\nBousso, babanın annesinin diğer kadının yardımıyla bebeği yıkamayı teklif ettiğini ancak annenin bilgisi dışında sünnet işlemini gerçekleştirdiğini belirtti. Bebeğin acı çektiğini ve kanadığını sonradan fark eden anne durumu gördü. Şiddetli kanama geçiren bebek, Cuma günü Tambacounda'daki bölgesel bir hastaneye sevk edilirken yolda hayatını kaybetti.\n\nSenegal'de 1999 yılından bu yana yasadışı olan kadın sünneti, beş yıla kadar hapisle cezalandırılıyor; işlemin ölümle sonuçlanması durumunda ise müebbet hapis cezası öngörülüyor. UNICEF verilerine göre ülkede 15-49 yaş arası kadın ve kız çocuklarının yaklaşık yüzde 20'sinin bu prosedüre maruz kaldığı tahmin ediliyor. Yetkililer, geleneğin bu zararlı uygulamayı haklı çıkaramayacağını vurgulayarak yasanın en sert şekilde uygulanmasını talep ediyor.",
-      "highlights": [
-        "Senegal'in doğusunda yeni doğan bir kız bebek, kadın sünneti şüphesiyle hayatını kaybetti.",
-        "Olayla ilgili olarak bebeğin babası ve büyükannesinin de aralarında bulunduğu üç kişi tutuklandı.",
-        "Senegal'de 1999'dan beri yasak olan kadın sünneti, ölümle sonuçlandığında müebbet hapisle cezalandırılabiliyor."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
-      "publishedAt": "2026-11-19T16:40:45.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T16:54:17.001Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.haberturk.com/gundem/muslum-sari-chp-ile-yeniden-temas-kurmak-isteyenlere-kapilarinin-acik-oldugunu-soyledi-3928613",
-      "headline": "Müslim Sarı: Kapımız herkese açık",
-      "source": "Habertürk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1698270723454-a2c84bfb61c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saXRpY2lhbiUyMHNwZWFraW5nJTIwbWljcm9waG9uZXxlbnwxfDB8fHwxNzk1MTA2ODkwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sebastian Romero",
-        "photographerUrl": "https://unsplash.com/@sebasmeroo",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-in-a-suit-holding-a-microphone-aVpE5dVepy8"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "CHP Sözcüsü Müslim Sarı, bir televizyon programında parti içindeki ayrışmalar, başka partilere geçen siyasetçiler ve güncel konulara ilişkin değerlendirmelerde bulundu. Sarı, CHP ile yeniden temas kurmak isteyenlere kapılarının açık olduğunu belirterek, partinin doğal tabanında yer alan ve tartışmalardan etkilenen kişileri ortak siyasi değerler etrafında yeniden bir araya gelmeye çağırdı.\n\nPartiden seçildikten sonra AK Parti'ye katılan belediye başkanlarını eleştiren Sarı, bu geçişleri hem siyasal hem bireysel açıdan ahlaksızlık olarak nitelendirdi. Seçmenlerin yalnızca adaylara değil partilerin siyasi kimliğine oy verdiğini belirten Sarı, bu durumun seçmen güvenini olumsuz etkilediğini ifade etti. Parti içindeki ayrışmalara yönelik tepkilerin ise giderek azaldığını ve vatandaşın öncelikli gündeminin geçim sıkıntısı olduğunu kaydetti.\n\nKurultay sürecine de değinen Sarı, olağan takvimin sürdüğünü ve eylülde başlatılan sürecin 14 Şubat'ta tamamlanmasının planlandığını bildirdi. Yargı süreçlerinin devam ettiğini belirten Sarı, mutlak butlan davası ile kurultay ceza davası arasında bir ilişki bulunduğunu savundu. Kemal Kılıçdaroğlu'nun yeniden genel başkanlık adaylığı konusunda ise kararın kurultay delegeleri tarafından şekilleneceğini söyledi.\n\nİstanbul Büyükşehir Belediyesindeki olası başkanlık seçimine de değinen Sarı, İBB'nin kırmızı çizgileri olduğunu vurguladı. Yargı sürecinde siyasi yasak kararının kesinleşmesi halinde belediye meclisinde yaşanabilecek süreç için iş birliğine hazır olduklarını belirten Sarı, Nuri Aslan'ın olası adaylık durumunda desteklenebileceğini ifade etti. Sarı ayrıca, terörsüz Türkiye sürecini desteklediklerini ve kurulacak izleme komisyonuna üye vereceklerini açıkladı.",
-      "highlights": [
-        "CHP Sözcüsü Müslim Sarı, yeniden temas kurmak isteyenlere kapılarının açık olduğunu söyledi.",
-        "Sarı, CHP'den seçilip AK Parti'ye geçen belediye başkanlarına tepki gösterdi.",
-        "İBB'nin kırmızı çizgileri olduğunu belirten Sarı, olası başkanlık seçimi için iş birliğine hazır olduklarını ifade etti."
-      ],
-      "externalUrl": "https://www.haberturk.com/gundem/muslum-sari-chp-ile-yeniden-temas-kurmak-isteyenlere-kapilarinin-acik-oldugunu-soyledi-3928613",
-      "publishedAt": "2026-11-19T16:38:18.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T16:54:22.810Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
