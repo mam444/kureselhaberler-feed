@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-24T21:14:32.920Z",
+  "generatedAt": "2026-11-24T21:24:36.274Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
+      "headline": "30 BİN ÖĞRETMEN ATAMASI SON DAKİKA: 15 bin öğretmen ataması ne zaman yapılacak? Branş dağılımı belli oldu mu?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1762951506321-84720460a8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8MzAlMjBCJUM0JUIwTiUyMCVDMyU5NiVDNCU5RVJFVE1FTiUyMEFUQU1BU0klMjBTT04lMjBEQUslQzQlQjBLQSUzQSUyMDE1JTIwYmluJTIwJUMzJUI2JUM0JTlGcmV0bWVuJTIwYXRhbWFzJUM0JUIxJTIwbmUlMjB6YW1hbiUyMHlhcCVDNCVCMWxhY2FrJTNGJTIwQnJhbiVDNSU5RiUyMGRhJUM0JTlGJUM0JUIxbCVDNCVCMW0lQzQlQjElMjBiZWxsaSUyMG9sZHUlMjBtdSUzRnxlbnwxfDB8fHwxNzk1NTU1NDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Onur Can Elma",
+        "photographerUrl": "https://unsplash.com/@onurcanelma",
+        "unsplashUrl": "https://unsplash.com/photos/man-standing-outside-a-ferry-terminal-building-entrance-tgR5QZ3sHAA"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "30 bin öğretmen atama haberleri, atama bekleyen adayların gündemindeki yerini koruyor. Cumhurbaşkanı Erdoğan “Öğretmenlere Saygı Gecesi Programı”nda konuya dair müjde verdi. Açıklamanın ardından 15 bin öğretmen atamasına ilişkin araştırmalar hız kazandı. Öğretmen atamasında branş dağılımının ne zaman belli olacağı açıklandı. Peki 15 bin öğretmen ataması ne zaman yapılacak? Branş dağılımı belli oldu mu? Detaylar…",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/turkiye/30-bin-ogretmen-atamasi-son-dakika-15-bin-ogretmen-atamasi-ne-zaman-yapilacak-brans-dagilimi-belli-oldu-mu-3497691",
+      "publishedAt": "2026-11-24T21:22:24.000Z",
+      "category": "Eğitim",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
+      "headline": "Senegal reinstated as AFCON 2025 winners",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594166029135-112184a53c2c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8U2VuZWdhbCUyMHJlaW5zdGF0ZWQlMjBhcyUyMEFGQ09OJTIwMjAyNSUyMHdpbm5lcnN8ZW58MXwwfHx8MTc5NTU1NTQ3NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Demba JooB",
+        "photographerUrl": "https://unsplash.com/@sununataal",
+        "unsplashUrl": "https://unsplash.com/photos/people-riding-on-boat-during-daytime-gGK6WM7MFP8"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "In tonight's edition, Senegal were reinstated as 2025 Africa Cup of Nations winners after the sport's highest court upheld their appeal against being stripped of the title.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
+      "publishedAt": "2026-11-24T21:14:42.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/unlulere-yonelik-yeni-uyusturucu-operasyonu-ozcan-deniz-gozaltina-alindi-1752434",
       "headline": "Ünlülere yönelik yeni uyuşturucu operasyonu: Özcan Deniz gözaltına alındı",
@@ -15,7 +55,8 @@
       "publishedAt": "2026-11-24T21:14:03.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T21:24:34.231Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/cok-sayida-valinin-gorev-yeri-degisti-1752438",
@@ -1417,7 +1458,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T15:24:30.321Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:24:30.321Z"
+      "imageSearchAttemptedAt": "2026-11-24T21:24:34.231Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
@@ -14319,56 +14360,6 @@
       "imageSearchAttemptedAt": "2026-11-24T15:24:30.321Z",
       "sourceTextAttemptedAt": "2026-11-20T19:04:25.874Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-      "headline": "İskoç hastanesindeki cerrahi kaynaklı 19 ölümün ardından polis soruşturması çağrısı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1603488704611-c24b71567172?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Q2FsbCUyMGZvciUyMHBvbGljZSUyMHRvJTIwaW52ZXN0aWdhdGUlMjBTY290dGlzaCUyMGhvc3BpdGFsJTIwYWZ0ZXIlMjAxOSUyMGRlYXRocyUyMGR1ZSUyMHRvJTIwc3VyZ2VyeXxlbnwxfDB8fHwxNzk1MTEzMzI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alex Quezada",
-        "photographerUrl": "https://unsplash.com/@alex_quezada",
-        "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-near-green-mountain-during-daytime-ih8KTb3iLJc"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Aberdeen Kraliyet Hastanesi'nde görev yapan Dr. Mohammed Habib, 2021 yılından bu yana hastanenin karaciğer ve pankreas cerrahisine ilişkin endişelerini defalarca rapor ettiğini belirtti. Hastanede cerrahi operasyonlara bağlı önlenebilir komplikasyonlar nedeniyle en az 19 hastanın hayatını kaybettiğinin ortaya çıkmasının ardından kıdemli bir cerrah, İskoç hastanesinde cezai soruşturma açılması çağrısında bulundu. Dr. Habib, hastaneyi yöneten NHS Grampian sağlık kurulunun üst düzey yetkililerinin doğru adımları yeterince hızlı atmadığını iddia ederek olayla ilgili polisin soruşturma yürütmesini istedi.\n\nHurshid ve ikinci bir ihbarcının iddialarını araştırmak üzere NHS Grampian tarafından görevlendirilen uzman raporu, 2015 ile 2021 yılları arasında cerrahi kaynaklı ciddi olumsuz olaylar nedeniyle 19 hastanın yaşamını yitirdiğini doğruladı. Rapor, Dr. Habib’in avukatı Aamer Anwar tarafından Perşembe günü yayımlandı. Bu bulgular Holyrood'da da ele alındı. İskoçya Birinci Bakanı John Swinney, açıklamaların son derece kaygı verici olduğunu belirtirken, İskoç İşçi Partisi lideri Michael Marra'nın sistemli başarısızlıklar için cezai soruşturma açılması yönündeki taleplerini geri çevirdi. Swinney, hükümetin şikayetleri görmezden geldiği iddialarını reddetti.\n\nNHS Grampian Yöneticisi Laura Skaife-Knight, konuya ilişkin ciddi iddialardan haberdar olduklarını, daha önce kapsamlı bir soruşturma yürütüldüğünü ve gerekli klinik ile yasal süreçlerin takip edildiğini ifade etti. 2022 yılında incelemeyi yürüten dış uzmanlar, 2017-2020 yılları arasında Aberdeen'deki ölüm oranının %18'e kadar çıktığını, ulusal ortalamanın ise %2-3 arasında olduğunu tespit etti. Uzman raporunun tamamlanmasının ardından dört hastanın daha ameliyat sırasında veya sonrasında hayatını kaybettiğini belirten Dr. Habib, Mart 2026'da başka bir dış uzmanın da karmaşık cerrahideki kalıcı yüksek ölüm oranının sistemli bir başarısızlık göstergesi olduğunu belirtmesi üzerine karaciğer ve pankreas cerrahisi departmanının kapatıldığını ifade etti.\n\nDr. Habib, onlarca hastanın gereksiz yere hayatını kaybetmiş olabileceğini ve polise, bakanlara ile ihbarcılık yetkililerine başvurduğunu ancak sonuç alamadığını belirtti. Geçtiğimiz hafta bir sağlık denetçisi olan Healthcare Improvement Scotland tarafından yayımlanan raporda, NHS Grampian'ın liderliğinde çok ciddi eksiklikler ve şeffaflık sorunları olduğu tespit edildi. Avukat Anwar, Lord Advocate'in Polis Scotland'a cezai soruşturma talimatı vermesini ve bakanların NHS Grampian'ı acilen özel önlemler kapsamına almasını talep etti. İskoç hükümeti sözcüsü ise ihbarcının gösterdiği cesareti takdir ettiklerini ve herhangi bir cezai soruşturmanın Polis Scotland'ın yetkisinde olduğunu açıkladı.",
-      "highlights": [
-        "Aberdeen Kraliyet Hastanesi'nde cerrahi kaynaklı en az 19 hastanın hayatını kaybettiği ortaya çıktı.",
-        "Dr. Mohammed Habib, hastanenin karaciğer ve pankreas cerrahisi operasyonlarına ilişkin endişelerini defalarca rapor ettiğini belirtti.",
-        "Avukat Aamer Anwar, olayla ilgili cezai soruşturma açılması ve hastanenin özel önlemler altına alınması çağrısında bulundu."
-      ],
-      "externalUrl": "https://www.theguardian.com/society/2026/nov/19/call-for-police-to-investigate-scottish-hospital-after-19-deaths-due-to-surgery",
-      "publishedAt": "2026-11-19T18:21:59.000Z",
-      "category": "Sağlık",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T18:44:31.677Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/diyarbakirda-korkutan-goruntu-siddetli-saganakta-beton-kopru-coktu-7704100",
-      "headline": "Diyarbakır'da şiddetli sağanak nedeniyle beton köprü çöktü",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1720250599958-66af018cfd8b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YnJva2VuJTIwYnJpZGdlJTIwZmxvb2R8ZW58MXwwfHx8MTc5NTExMjY4MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Wafiq Raza",
-        "photographerUrl": "https://unsplash.com/@wafiqraza",
-        "unsplashUrl": "https://unsplash.com/photos/a-bridge-that-is-over-a-body-of-water-29wPaJ8BXeI"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Diyarbakır'ın Kulp ilçesinde etkili olan şiddetli sağanak yağış, Baloğlu ve Koçkar mahalleleri arasında bulunan bir beton köprünün çökmesine neden oldu. Saat 16.30 sıralarında meydana gelen olayda, bölgedeki sağanak nedeniyle İnikan Deresi'nin debisi yükseldi. Aygün, Koçkar, Saltuk ve Akçesir mahallelerinin bağlantı grup yolu üzerinde yer alan beton köprü, şiddetli akıntıya dayanamayarak yıkıldı.\n\nKöprünün yıkıldığı sırada üzerinde kimsenin bulunmaması olası bir faciayı önledi. Öte yandan köprünün çöküş anı çevredekiler tarafından cep telefonu kamerasıyla kaydedildi.\n\nYaşanan çökmenin ardından güvenlik amacıyla güzergah trafiğe kapatıldı. Yolun yapım ve bakımından sorumlu olan Diyarbakır Büyükşehir Belediyesi ekipleri olay bölgesinde yönlendirme ve onarım çalışması başlattı.\n\nUlaşımın sağlanabilmesi amacıyla alternatif güzergah olarak Hamzalı-Sason-Yücebağ-Sarıçoban mahalleleri üzerindeki yol belirlendi.",
-      "highlights": [
-        "Kulp ilçesinde şiddetli sağanak nedeniyle beton köprü çöktü.",
-        "Olay sırasında köprüde kimsenin olmaması faciayı önledi.",
-        "Güzergah trafiğe kapatılırken alternatif yol belirlendi."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/diyarbakirda-korkutan-goruntu-siddetli-saganakta-beton-kopru-coktu-7704100",
-      "publishedAt": "2026-11-19T18:19:19.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T18:44:27.050Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
