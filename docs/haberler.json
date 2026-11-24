@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T14:37:50.320Z",
+  "generatedAt": "2026-11-24T14:46:31.802Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/gundem/eski-tbmm-baskani-hikmet-cetin-hayatini-kaybetti-4876135",
@@ -23,7 +23,8 @@
       "publishedAt": "2026-11-24T14:33:39.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T14:44:20.844Z"
     },
     {
       "id": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests",
@@ -39,7 +40,8 @@
       "publishedAt": "2026-11-24T14:24:04.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-24T14:44:20.844Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
@@ -123,6 +125,29 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:14:30.822Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+      "headline": "İsrail'in Gazze'deki hava saldırısında üst düzey bir Hamas askeri yetkilisi öldürüldü",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1678047471351-84a24c661587?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8R2F6YSUyMGFpcnN0cmlrZXxlbnwxfDB8fHwxNzk1NTMxNDk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mohammed Ibrahim",
+        "photographerUrl": "https://unsplash.com/@mohammed_ibrahim_mi",
+        "unsplashUrl": "https://unsplash.com/photos/smoke-billows-from-a-factory-in-a-city-jrcvHflmKvg"
+      },
+      "timeAgo": "50 dk önce",
+      "body": "İsrail'in Gazze'ye düzenlediği hava saldırısı sonucunda Hamas'ın üst düzey bir askeri yetkilisinin yaşamını yitirdiği bildirildi. Söz konusu Hamas yetkilisinin, İsrail ile iş birliği yaptığından şüphelenilen Filistinlilerin tespiti ve engellenmesi faaliyetlerinden sorumlu olduğu belirtildi. Olayla ilgili olarak kaynaklarda başka bir ayrıntıya yer verilmedi.",
+      "highlights": [
+        "İsrail hava saldırısında Hamas yetkilisi öldü",
+        "Yetkili, İsrail'le iş birliği şüphelilerini engellemekten sorumluydu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss",
+      "publishedAt": "2026-11-24T13:55:11.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/focus/20261124-rwanda-s-malaria-cases-on-the-rise-climate-change-leads-to-more-mosquitoes",
@@ -7270,7 +7295,7 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "imageSearchAttemptedAt": "2026-11-23T14:44:26.543Z",
+      "imageSearchAttemptedAt": "2026-11-24T14:44:20.844Z",
       "isBreaking": false
     },
     {
@@ -14485,31 +14510,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T13:46:35.367Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "headline": "BM'nin en yüksek mahkemesi, Myanmar'ın Arakanlı Müslümanlara karşı soykırım işlediğine hükmetti",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1635426818233-6cfe593eb3f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VG9wJTIwVU4lMjBjb3VydCUyMHJ1bGVzJTIwTXlhbm1hciUyMGNvbW1pdHRlZCUyMGdlbm9jaWRlJTIwYWdhaW5zdCUyMHRoZSUyMFJvaGluZ3lhfGVufDF8MHx8fDE3OTUwOTE2ODl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Pyae Sone Htun",
-        "photographerUrl": "https://unsplash.com/@kidzz",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-group-of-people-holding-signs-and-wearing-masks-8RMZqdR79qM"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Uluslararası Adalet Divanı, 2017 yılında kuzey Rakhine eyaletindeki askeri operasyonlar sırasında Myanmar güvenlik güçlerinin Arakanlı Müslümanlara karşı 'soykırım niyetiyle hareket ettiğini' tespit etti. Mahkeme tarihindeki ilk kez bir devleti bu suçtan sorumlu tutarken, hakimler askeri operasyonların yok etme niyetiyle gerçekleştirildiği yönünde 9'a karşı 6 oy kullandı.\n\nGambiya tarafından 1948 Soykırım Sözleşmesi kapsamında açılan davada mahkeme, Myanmar ordusunun siviller ile silahlı gruplar arasında ayrım yapmadığını ve şiddetin boyutunun terörle mücadeleyle açıklanamayacağını belirtti. Mahkeme başkanı Yuji Iwasawa; erkeklerin infaz edilmesini, cinsel şiddeti, çocukların hedef alınmasını ve köylerin sistematik şekilde yakılmasını bu karara gerekçe gösterdi.\n\nMyanmar'daki ordu destekli hükümet kararı 'adil dışı' olarak nitelendirirken, Başkan Min Aung Hlaing'in sözcüsü kararı inceledikten sonra pozisyonlarını açıklayacaklarını bildirdi. Bangladeş'teki mülteci kampında yaşayan 18 yaşındaki Arakanlı Ma Roga Bibi kararın duygusal ve tarihi olduğunu belirtirken, sığınmacılar adalete ve onurlu bir şekilde eve dönme imkanına ihtiyaç duyduklarını ifade etti.\n\nMahkeme, Myanmar'ın suçluları soruşturmasını, kovuşturmasını ve tazminat ödemesini kararlaştırdı. Kararın bağlayıcı olduğu ancak mahkemenin kararları uygulama yetkisinin bulunmadığı belirtilirken, ABD Dışişleri Bakanlığı kararın sonuçlarını incelediklerini açıkladı. Birleşmiş Milletler Genel Sekreteri António Guterres ise kararı güçlü bir tanılama olarak memnuniyetle karşıladı.",
-      "highlights": [
-        "Uluslararası Adalet Divanı, Myanmar'ın Arakanlı Müslümanlara karşı soykırım işlediğine karar verdi.",
-        "Hakimler, askeri operasyonların soykırım niyetiyle yürütüldüğüne 9'a karşı 6 oyla hükmetti.",
-        "Myanmar hükümeti kararı 'adil dışı' olarak reddetti."
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya",
-      "publishedAt": "2026-11-19T12:29:41.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T13:54:27.307Z",
       "isBreaking": false
     }
   ],
