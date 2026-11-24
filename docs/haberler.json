@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T11:44:36.575Z",
+  "generatedAt": "2026-11-24T11:54:54.504Z",
   "articles": [
     {
       "id": "https://www.milliyet.com.tr/gundem/ak-parti-sozcusu-celikten-yeni-partinin-grup-toplantisindaki-sloganlara-tepki-7706980",
@@ -23,7 +23,8 @@
       "publishedAt": "2026-11-24T11:41:59.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:54:53.920Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
@@ -195,7 +196,8 @@
       "publishedAt": "2026-11-24T11:19:04.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:54:53.920Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
@@ -1016,7 +1018,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T20:04:22.709Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:54:53.920Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
@@ -1033,7 +1035,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T17:24:29.178Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:54:53.920Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-haberi-istanbul-sariyer-de-disi-aslan-goruldu-aslan-bulundu-mu-ve-yakalandi-mi-iste-3929274",
