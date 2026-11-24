@@ -1,6 +1,49 @@
 {
-  "generatedAt": "2026-11-24T16:15:32.678Z",
+  "generatedAt": "2026-11-24T16:26:20.088Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-mugla-milasta-4-6-buyuklugunde-deprem-7707181",
+      "headline": "Muğla Milas'ta 4,6 büyüklüğünde deprem meydana geldi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1617696795782-cedb140e2f0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8ZWFydGhxdWFrZSUyMHNlaXNtb2dyYXBofGVufDF8MHx8fDE3OTU1Mzc1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Markus Spiske",
+        "photographerUrl": "https://unsplash.com/@markusspiske",
+        "unsplashUrl": "https://unsplash.com/photos/a-black-sign-with-a-price-tag-on-it-C0wrkGoyY-A"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Afet ve Acil Durum Yönetimi Başkanlığının (AFAD) internet sitesinde yer alan bilgilere göre, merkez üssü Muğla'nın Milas ilçesi olan 4,6 büyüklüğünde bir deprem kaydedildi. Saat 18.39'da gerçekleşen depremin yerin 7,28 kilometre derinliğinde olduğu belirlendi.\n\nDeprem; Muğla'nın yanı sıra İzmir, Aydın, Manisa ve Denizli illerinde de hissedildi. Yaşanan sarsıntının ardından AFAD tarafından yapılan açıklamada, an itibarıyla olumsuz bir durumun bulunmadığı bildirildi.\n\nAFAD, saha tarama çalışmalarının devam ettiğini duyurarak etkilenen vatandaşlara geçmiş olsun dileklerini iletti.",
+      "highlights": [
+        "Merkez üssü Muğla'nın Milas ilçesi olan 4,6 büyüklüğünde deprem kaydedildi.",
+        "Deprem Muğla, İzmir, Aydın, Manisa ve Denizli illerinde hissedildi.",
+        "AFAD olumsuz bir durumun bulunmadığını ve saha tarama çalışmalarının sürdüğünü açıkladı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-mugla-milasta-4-6-buyuklugunde-deprem-7707181",
+      "publishedAt": "2026-11-24T16:22:26.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
+      "headline": "İsrail parlamentosunda arbede iddiası tartışma yarattı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "6 dk önce",
+      "body": "İsrail parlamentosunda, Arap asıllı İsrailli milletvekili Ahmad Tibi ile komedyen Guy Hochman arasında yaşandığı iddia edilen bir tartışma ve arbede kamuoyunda tartışmalara yol açtı.\n\nJerusalem Daily'de yer alan bilgilere göre, söz konusu olayın tarafları arasında bir sürtüşme yaşandığı öne sürüldü. Yaşanan bu durumun ardından olayla ilgili çeşitli tartışmalar ve tepkiler ortaya çıktı.\n\nOlayın mahiyeti ve detaylarına ilişkin kaynak metinde başka bir ayrıntı yer almazken, iddiaların tarafları ve yaşananların ardındaki gelişmelerin nasıl şekilleneceği belirsizliğini koruyor.\n\nMilletvekili Ahmad Tibi ile komedyen Guy Hochman'ın karşı karşıya geldiği öne sürülen olayın yankıları sürerken, konuya dair resmi ve net açıklamaların yapılıp yapılmayacağı takip ediliyor.",
+      "highlights": [
+        "Arap asıllı İsrailli milletvekili Ahmad Tibi ile komedyen Guy Hochman arasında arbede iddiası",
+        "Yaşanan olay kamuoyunda tartışmalara yol açtı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/24/jerusalem-daily-clash-in-israeli-parliament?traffic_source=rss",
+      "publishedAt": "2026-11-24T16:18:11.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/video/gundem/vicdansizligin-boylesi-samsunda-engelli-badem-saticisina-saldiri-kamerada-4876164",
       "headline": "Vicdansızlığın böylesi: Samsun'da engelli badem satıcısına saldırı kamerada",
@@ -15,7 +58,8 @@
       "publishedAt": "2026-11-24T16:12:40.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T16:24:21.149Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
@@ -39,7 +83,8 @@
       "publishedAt": "2026-11-24T16:01:23.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T16:24:21.149Z"
     },
     {
       "id": "https://www.ntv.com.tr/gundem/muglada-46-buyuklugunde-deprem-1752419",
@@ -14435,54 +14480,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T16:14:32.412Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-      "headline": "Senegal açıklarında göçmen teknesi alabora oldu: 1 ölü, çok sayıda kayıp",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1617208771491-63face4dbc1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlncmFudCUyMGJvYXQlMjBzZWF8ZW58MXwwfHx8MTc5NTA5NzY3MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jametlene Reskp",
-        "photographerUrl": "https://unsplash.com/@reskp",
-        "unsplashUrl": "https://unsplash.com/photos/people-on-boat-on-sea-during-daytime-QmnAIqDxUOs"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Senegal açıklarında İspanya'ya gitmek üzere yola çıkan bir göçmen teknesinin alabora olması sonucu 1 kişi hayatını kaybetti, çok sayıda kişi ise kayboldu. Yerel yetkililerin Associated Press'e verdiği bilgilere göre kaza, başkent Dakar'ın güneyindeki kıyı kasabası Yenne açıklarında Çarşamba günü sabaha karşı meydana geldi.\n\nYenne belediye binası genel sekreteri Ousmane Sène, kazanın saat 03.00 civarında gerçekleştiğini belirterek olay yerine gittiklerinde teknenin kıyıda olduğunu gördüklerini ifade etti. Sène, itfaiye ekiplerinin bir kişinin cesedini çıkardığını, polisin ise bir kurtulanı gözaltına aldığını kaydetti. Kurtulanların ifadelerine dayanarak teknede yaklaşık 100 kişinin bulunduğunu aktardı. Yakıştaki köylerde iki ceset daha bulunduğunu belirten Sène, bu kişilerin bu kazada boğulup boğulmadığının belirsiz olduğunu ifade etti.\n\nSenegal'in kıyı bölgeleri, Avrupa'ya, özellikle de Kanarya Adaları'na ulaşmaya çalışan göçmenler için önemli hareket noktaları arasında yer alıyor. İspanyol hükümeti verilerine göre, kasım ayının ilk yarısında 11 binden fazla göçmen Kanarya Adaları'na ulaştı.\n\nAy başında kuzeydeki Kébémer kasabası yakınlarında batan başka bir göçmen teknesinde en az 39 kişi hayatını kaybetmişti. Senegal makamları düzensiz göçle mücadele çabalarını artırırken, donanma sadece 48 saat içinde denizde 1.400'den fazla göçmenin kurtarıldığını bildirdi. Cumhurbaşkanı Bassirou Diomaye Faye, göç hareketlerinin yeniden artış göstermesinden duyduğu üzüntüyü dile getirerek kıyılardaki kontrollerin güçlendirilmesi çağrısında bulundu.",
-      "highlights": [
-        "Senegal'in Yenne kasabası açıklarında göçmen teknesinin alabora olması sonucu 1 kişi öldü, çok sayıda kişi kayboldu.",
-        "Kurtulanların ifadelerine göre İspanya'ya giden teknede yaklaşık 100 kişi bulunuyordu.",
-        "Senegal Cumhurbaşkanı Bassirou Diomaye Faye, kıyılardaki kontrollerin artırılması çağrısı yaptı."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-      "publishedAt": "2026-11-19T14:03:39.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
-      "headline": "Bangladeş'in eski geçici liderinin evinde yangın çıktı",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1723056416947-4ca0f01c229a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QmFuZ2xhZGVzaCUyMGZpcmV8ZW58MXwwfHx8MTc5NTA5NzE1OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Refat Ul Islam",
-        "photographerUrl": "https://unsplash.com/@refat3158",
-        "unsplashUrl": "https://unsplash.com/photos/a-woman-holding-a-green-and-red-flag-4Mmh94qB0do"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Bangladeş'te eski geçici lider ve Nobel Barış Ödülü sahibi Muhammad Yunus'un atalarından kalma evinde Çarşamba gecesi geç saatlerde çıkan yangının kasıtlı olarak çıkarıldığı belirtildi. Polis yetkilileri, Chattogram'daki evin zemin katındaki terk edilmiş bir odada çıkan yangının bir polis devriyesi tarafından fark edildiğini ve hemen söndürüldüğünü açıkladı. Olayla ilgili soruşturma sürerken, artan siyasi gerilimlerin devrik eski başbakan Sheikh Hasina'nın ülkeye döneceğini açıklamasının ardından yaşandığı bildirildi.\n\nHasina, Aralık ayında Hindistan'daki sürgününü sonlandıracağını duyurmuştu. Hasina'nın dönüş açıklaması sonrasında başkent Dakka ve ülkenin diğer bölgelerinde el yapımı bombaların patlatılması, kundaklama ve yol kapatma gibi olaylar yaşandı. Polis ve Bangladeş Milliyetçi Partisi liderleri, bu olaylardan Hasina'nın destekçilerini sorumlu tuttu. Başbakan Tarique Rahman'ın liderliğindeki iktidar partisi, Hasina'nın gerekli belgeleri alamayacağını ve Hindistan tarafından iade edilmesi gerektiğini savunuyor. Rahman, Çarşamba günü demokratik güçlere birlik çağrısında bulundu.\n\nYaşanan çatışmalar ve protestolar ülke genelinde sürerken, Narail'in güneybatı bölgesinde Hasina destekçileri ile yaşanan çatışmada en az iki BNP destekçisinin hayat kaybettiği bildirildi. Ayrıca Yunus tarafından kurulan ve Nobel Ödülü'nü paylaşan Grameen Bank, 10-17 Kasım tarihleri arasında en az 22 şubesinin kundaklama ve vandalizm hedefi olduğunu açıkladı. Ülke genelinde 22'den fazla bölgede protestolar ve şiddet olayları rapor edildi.\n\nOlaylar kapsamında Dakka'da eski Belediye Başkanı Mohammad Sayeed Khokon ve eski kabine bakanı Nurul Islam Nahid polis tarafından gözaltına alındı. Daily Star gazetesi, eski Hasina yönetimi ve parti yetkilileri Dipu Moni ile Sujit Roy Nandy'nin evlerinin de Çarşamba günü ateşe verildiğini aktardı. Güvenlik güçleri ve paramiliter sınır birlikleri ülkenin çeşitli bölgelerinde düzeni sağlamak üzere görev yapmaya devam ediyor.",
-      "highlights": [
-        "Bangladeş'in eski geçici lideri Muhammad Yunus'un evinde kasıtlı olduğu değerlendirilen bir yangın çıktı.",
-        "Devrik eski başbakan Sheikh Hasina'nın ülkeye döneceğini açıklamasının ardından siyasi gerilimler ve şiddet olayları arttı.",
-        "Grameen Bank, 10-17 Kasım tarihleri arasında en az 22 şubesinin saldırıya uğradığını bildirdi."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
-      "publishedAt": "2026-11-19T14:02:26.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
