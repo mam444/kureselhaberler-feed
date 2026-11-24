@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T19:04:53.398Z",
+  "generatedAt": "2026-11-24T19:14:29.867Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/dunya/zelenskiden-nato-uyeligi-cagrisi-3497676",
+      "headline": "Zelenski'den NATO üyeliği çağrısı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "1 dk önce",
+      "body": "Ukrayna Devlet Başkanı Volodimir Zelenski, savaş sonrası güvenlik için NATO üyeliğini yeniden gündeme getirdi. Üyeliğin, Ukrayna'ya önerilen güvenlik garantilerinden daha etkili olabileceğini söyledi. Avrupa, ABD ve Rusya'yla dörtlü görüşme için de \"yarın bile hazırız\" mesajı verdi.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/video/dunya/zelenskiden-nato-uyeligi-cagrisi-3497676",
+      "publishedAt": "2026-11-24T19:13:44.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-duyurdu-hgsde-usulsuz-tahsilatlar-iade-edilecek-1752428",
       "headline": "Bakan Uraloğlu duyurdu: HGS'de usulsüz tahsilatlar iade edilecek",
@@ -15,7 +31,25 @@
       "publishedAt": "2026-11-24T19:03:13.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T19:14:27.858Z",
+      "imageSearchAttemptedAt": "2026-11-24T19:14:27.858Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+      "headline": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "12 dk önce",
+      "body": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+      "publishedAt": "2026-11-24T19:02:49.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/sariyer-hakan-kutluya-emanet-3497674",
@@ -56,7 +90,8 @@
       "publishedAt": "2026-11-24T18:55:59.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-24T19:14:27.858Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/busra-bebek-75-gundur-bulunamiyor-3497669",
@@ -14390,56 +14425,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T17:14:26.967Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "headline": "İki çocuğunu boğarak öldüren Susan Smith'in tahliye talebi yeniden reddedildi",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1602657646192-e8915b87bd4b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U3VzYW4lMjBTbWl0aCUyMGRlbmllZCUyMHBhcm9sZSUyMGFnYWluJTIwMzIlMjB5ZWFycyUyMGFmdGVyJTIwZHJvd25pbmclMjBoZXIlMjB0d28lMjBzb25zfGVufDF8MHx8fDE3OTUxMDczMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "QG Creations LLC",
-        "photographerUrl": "https://unsplash.com/@qgcreations",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-jacket-beside-woman-in-white-sleeveless-dress-u9MfvKsLrgM"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Güney Carolina'da 32 yıl önce iki oğlunu arabayla gölete iterek boğduğu için mahkum edilen Susan Smith, ikinci kez şartlı tahliye talebinde bulundu ancak talebi reddedildi. 55 yaşındaki Smith, perşembe günü eyalet kurulunun duruşmasında, aracı gölete bıraktığı anın hayatının en düşük noktası olduğunu ifade etti. Yedi üyeden oluşan kurul, oy birliğiyle Smith'in serbest bırakılması talebini geri çevirdi.\n\nDuruşmada, çocukların babası David Smith de hazır bulundu ve eski eşinin tahliyesine karşı çıktı. Ceketinin yakasına çocuklarının fotoğrafını takan baba Smith, tahliye kararının Michael ve Alex için büyük bir adaletsizlik olacağını belirtti. Savunma avukatları, müvekkillerinin suç işlendiği sırada ruhsal bir çöküntü yaşadığını öne sürerken, savcılar ise o dönemde Smith'in ilişkisi olduğu bir erkeğin çocukları istememesi nedeniyle cinayeti işlediğini savunmuştu. Smith ise duruşmada bu iddiayı reddetti.\n\nÜç yaşındaki Michael ve bir yaşındaki Alex'i 1994 yılında öldüren Susan Smith, 32 yılda değiştiğini ve olgunlaştığını öne sürdü. Olayın ardından çocuklarının güvenli şekilde dönmesi için kamuoyuna çağrıda bulunduktan sonra suçunu itiraf eden Smith, çocukların masum olduğunu ve ölmeyi hak etmediklerini söyledi. Güney Carolina yasaları gereği, mahkumiyetinin ardından belirli bir süreyi geride bırakan Smith, iki yılda bir şartlı tahliye başvurusunda bulunma hakkına sahip bulunuyor. Kurulun bu talebi onaylaması için üyelerin üçte ikisinin lehte oy kullanması gerekiyordu.",
-      "highlights": [
-        "Susan Smith, iki oğlunu boğarak öldürdüğü suçlamasıyla ikinci kez şartlı tahliye alamadı.",
-        "Çocukların babası David Smith duruşmaya katılarak tahliyeye karşı çıktı.",
-        "Güney Carolina eyalet kurulu Smith'in talebini oy birliğiyle reddetti."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-19T16:53:29.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T17:24:17.950Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/savunma-sanayii-baskani-haluk-gorgun-kizilelma-artik-kahraman-guvenlik-guclerimizin-emrinde-7704030",
-      "headline": "Savunma Sanayii Başkanı Haluk Görgün: KIZILELMA kahraman güvenlik güçlerimizin emrinde",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1614121174144-bd53a169780e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8ZmlnaHRlciUyMGpldHxlbnwxfDB8fHwxNzk1MTA3MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "NASA",
-        "photographerUrl": "https://unsplash.com/@nasa",
-        "unsplashUrl": "https://unsplash.com/photos/sr71-jet-above-mountains-Tquhp9Kqkzk"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Savunma Sanayii Başkanı Haluk Görgün, sosyal medya hesabından yaptığı paylaşımda savunma sanayisinde yeni bir eşik atlandığını belirterek, KIZILELMA'nın artık kahraman güvenlik güçlerinin emrinde olduğunu duyurdu. Görgün, yirmi yıllık bir hayalin gerçeğe dönüştüğüne şahitlik edildiğini vurguladı.\n\nPaylaşımında envantere giren ilk insansız savaş uçağı olarak dünya havacılık tarihine adını yazdıran KIZILELMA'nın bu büyük gururunu yaşatan Baykar ailesini, mühendisleri ve teknisyenleri tebrik eden Görgün, Milli Teknoloji Hamlesi'ne ömrünü adayan merhum Özdemir Bayraktar'ı ve vefat eden yol arkadaşlarını rahmetle andı.\n\nAK Parti Sözcüsü Ömer Çelik de KIZILELMA hakkında dünyada bir ilk olduğuna dikkat çeken açıklamalarda bulundu. Türkiye Yüzyılı'nın gökyüzündeki nişanesi olan Kızılelma'nın vatan, millet ve ordu için hayırlı olması temennisinde bulunuldu.",
-      "highlights": [
-        "KIZILELMA envantere giren ilk insansız savaş uçağı oldu",
-        "Haluk Görgün uçağın güvenlik güçlerinin emrinde olduğunu açıkladı",
-        "Ömer Çelik gelişmenin dünyada bir ilk olduğunu belirtti"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/savunma-sanayii-baskani-haluk-gorgun-kizilelma-artik-kahraman-guvenlik-guclerimizin-emrinde-7704030",
-      "publishedAt": "2026-11-19T16:49:40.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:04:25.473Z",
       "isBreaking": true
     }
   ],
