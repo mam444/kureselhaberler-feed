@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T11:54:54.504Z",
+  "generatedAt": "2026-11-24T12:05:05.516Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "headline": "Kolombiya'nın Villavicencio kentinde bombalı araç saldırısı: 20'den fazla yaralı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1588281345136-9893252095bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2FyJTIwYm9tYiUyMGV4cGxvc2lvbnxlbnwxfDB8fHwxNzk1NTIxODczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Luke Jernejcic",
+        "photographerUrl": "https://unsplash.com/@jernejcic",
+        "unsplashUrl": "https://unsplash.com/photos/fireballs-erupting-against-blue-sky-Oi31uKsnM1Q"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Kolombiya'nın merkezi kentlerinden Villavicencio'da patlayıcı yüklü bir aracın infilak etmesi sonucu en az 23 kişi yaralandı. Kent merkezindeki bölgesel hükümet binalarının önünde patlatılan cihaz, çevredeki bazı binalarda hasara yol açtı. Saldırıyı henüz üstlenen bir grup olmadı. Bu olay, resmi binaları ve güvenlik güçlerinin karargahlarını hedef alan son dönemdeki patlayıcı saldırı serisinin en yenisi olarak kayda geçti.\n\nKolombiya Devlet Başkanı Abelardo de la Espriella, saldırıdan \"narkoterörizmi\" sorumlu tuttu ancak ayrıntı vermedi. Silahlı suç gruplarının, De la Espriella'nın kendilerine karşı emrettiği operasyona misilleme olarak saldırılarını artırdığı belirtiliyor. Sosyal medyada açıklama yapan devlet başkanı, dökülen her damla Kolombiya kanına karşı hükümetinin künt ve güçlü bir şekilde yanıt vereceğini, cezasızlık ve geri adım olmayacağını ifade etti.\n\nSaldırı, Kolombiya hükümeti ile Farc gerillaları arasındaki barış anlaşmasının 10. yıl dönümünün arifesinde pazartesi akşamı gerçekleşti. Anlaşmanın ardından binlerce solcu isyancı silah bırakmış olsa da, anlaşmaya karşı çıkan çok sayıda Farc üyesi silah bırakmayı reddederek muhalif gruplara katılmıştı. Son yıllarda uyuşturucu kaçakçılığı, yasadışı madencilik ve haraç kontrolü için savaşan bu gruplar nedeniyle saldırılarda artış yaşanıyor.\n\nEski Devlet Başkanı Juan Manuel Santos ve Farc adına anlaşmayı imzalayan Rodrigo Londoño, yıl dönümü öncesi BBC Mundo'ya verdikleri röportajda anlaşmayı savundu. Santos, De la Espriella'nın şiddetin kaynağını barış anlaşması olarak görmesinin tamamen yanlış olduğunu ve sorunun anlaşmanın uygulanmasındaki eksikliklerden kaynaklandığını savundu.",
+      "highlights": [
+        "Villavicencio kentinde patlayan bombalı araç en az 23 kişinin yaralanmasına yol açtı.",
+        "Devlet Başkanı Abelardo de la Espriella saldırıdan narkoterörizmi sorumlu tuttu.",
+        "Saldırı, hükümet ile Farc arasındaki barış anlaşmasının yıl dönümü arifesinde gerçekleşti."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-24T11:45:52.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/ak-parti-sozcusu-celikten-yeni-partinin-grup-toplantisindaki-sloganlara-tepki-7706980",
       "headline": "AK Parti Sözcüsü Çelik'ten Yeni Parti'nin grup toplantısındaki sloganlara tepki",
@@ -511,20 +535,25 @@
     },
     {
       "id": "https://www.cnnturk.com/dunya/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor-3497117",
-      "headline": "AB, Rusya'ya yeni yaptırımlara hazırlanıyor",
+      "headline": "AB, Rusya'ya yönelik yeni yaptırım paketini hazırladı",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
       "imageUrl": null,
       "imageCredit": null,
       "timeAgo": "şimdi",
-      "body": "Avrupa Birliği (AB) Komisyonu, yaklaşık 60 Rus bankasının SWIFT ödeme sisteminden çıkarılmasını, Rusya'nın gölge filosundaki 70'ten fazla geminin yaptırım listesine alınmasını ve savaşta görev yapmış Ruslara vize yasağı getirilmesini öngören yeni yaptırım paketini sundu.",
-      "highlights": [],
+      "body": "Avrupa Birliği (AB) Komisyonu, Rusya'ya karşı 22'nci yaptırım paketi teklifini duyurdu. Strazburg'da açıklamalarda bulunan AB Komisyonu Başkanı Ursula von der Leyen, yaklaşık 60 Rus bankasının SWIFT ödeme sisteminden çıkarılacağını ve işlem yasağı kapsamına alınacağını belirtti. Ayrıca kripto varlıklar ile ödeme ağlarına yönelik denetimlerin sıkılaştırılacağını ve bu çalışmaları desteklemek amacıyla kripto yaptırımlarına ilişkin bir görev gücü kurulacağını kaydetti. Paket kapsamında, Rusya'nın yaptırımları delmesine yardım eden üçüncü ülkelerin de kapsama alınması planlanıyor.\n\nEnerji sektörüne yönelik yeni tedbirler de içeren teklifte, Avrupa şirketlerinin Rusya'nın enerji altyapısının inşasına, işletilmesine ve onarılmasına destek vermesini engellemek amacıyla enerji hizmetleri yasağının genişletilmesi önerildi. Von der Leyen, Rusya'nın gölge filosundaki 70'ten fazla geminin yaptırım listesine ekleneceğini ve sigortası Rusya'dan sağlanan tüm tankerlerin yasaklanmasını teklif ettiklerini ifade etti. \n\nUkrayna savaşında yer almış Ruslara yönelik vize yasağı getirilmesi de öneriler arasında yer aldı. Eski Rus savaşçıların Avrupa için güvenlik riski oluşturduğunu belirten von der Leyen, bu kişilerin AB'ye girişlerinin yasaklanacağını bildirdi. Teklifte ayrıca Avrupalıların Rusya'daki şirketlerin yönetim organlarında görev yapmasının yasaklanması ve Rus sporcular ile takımların AB'deki etkinliklerde Rus bayrağı ve resmi sembollerini kullanmasının engellenmesi yer aldı.\n\nHazırlanan yeni yaptırım paketi teklifi, üye ülkelerin temsilcileri tarafından görüşülerek AB Konseyinde oy birliği ile ele alınacak. Konseyin onay vermesi durumunda yaptırım paketi, AB Resmi Gazetesi'nde yayımlandıktan sonra yürürlüğe girecek.",
+      "highlights": [
+        "Yaklaşık 60 Rus bankası SWIFT sisteminden çıkarılacak.",
+        "Rus gölge filosundan 70'ten fazla gemi yaptırım listesine eklenecek.",
+        "Ukrayna savaşında görev yapmış Ruslara vize yasağı getirilecek."
+      ],
       "externalUrl": "https://www.cnnturk.com/dunya/ab-rusyaya-yeni-yaptirimlara-hazirlaniyor-3497117",
       "publishedAt": "2026-11-23T19:26:27.000Z",
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:14:29.259Z",
+      "sourceTextAttemptedAt": "2026-11-24T12:04:30.058Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
@@ -548,7 +577,8 @@
       "publishedAt": "2026-11-23T19:20:30.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T12:04:30.058Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/baraj-doluluk-oranlari-23-kasim-istanbul-ankara-izmir-ve-bursa-barajlarinda-doluluk-orani-ne-oldu-omerli-tahtali-akyar-baraj-3497112",
@@ -1097,7 +1127,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T17:44:25.657Z"
+      "imageSearchAttemptedAt": "2026-11-24T12:04:30.058Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
@@ -1139,7 +1169,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:14:28.980Z",
-      "imageSearchAttemptedAt": "2026-11-23T17:14:28.980Z"
+      "imageSearchAttemptedAt": "2026-11-24T12:04:30.058Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
@@ -14480,31 +14510,6 @@
       "publishedAt": "2026-11-19T11:12:37.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo",
-      "headline": "Yapay zeka laboratuvarı Anthropic, 81 milyar dolarlık halka arzla borsa rekoru kırdı",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZXxlbnwxfDB8fHwxNzk1MDMwNTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Igor Omilaev",
-        "photographerUrl": "https://unsplash.com/@omilaev",
-        "unsplashUrl": "https://unsplash.com/photos/a-computer-chip-with-the-letter-a-on-top-of-it-eGGFZ5X2LnA"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Yapay zeka laboratuvarı Anthropic, 81 milyar dolarlık halka arz gerçekleştirerek borsa rekoru kırdı. Halka açılan ilk safkan yapay zeka laboratuvarı olan Anthropic, 1,5 trilyon dolarlık bir değerlemeye ulaştı.\n\nBu gelişme, sektörde finansal bir baloncuk oluştuğuna dair artan endişelerin ortasında önemli bir kilometre taşı olarak değerlendiriliyor. Öte yandan, yayımlanan bilimsel bir araştırma, ABD veri merkezlerinin bütün ülkeler kadar sera gazı salınımı yaptığını ortaya koydu.\n\nFRANCE 24 Business Daily programında yer alan haber, 19 Kasım 2026 tarihinde yayımlandı. Bryan Quinn ve Elitsa Gadeva tarafından hazırlanan içerik, yapay zeka, borsa hareketleri ve Anthropic şirketini konu alıyor.",
-      "highlights": [
-        "Anthropic 81 milyar dolarlık halka arz gerçekleştirdi",
-        "Şirketin değerlemesi 1,5 trilyon dolara ulaştı",
-        "ABD veri merkezleri tüm ülkeler kadar sera gazı salıyor"
-      ],
-      "externalUrl": "https://www.france24.com/en/tv-shows/business/20261119-ai-lab-anthropic-sets-stock-market-record-with-81-billion-ipo",
-      "publishedAt": "2026-11-19T11:02:54.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T11:14:36.728Z",
       "isBreaking": false
     }
   ],
