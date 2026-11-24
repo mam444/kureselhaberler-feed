@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T11:42:54.390Z",
+  "generatedAt": "2026-11-24T11:44:36.575Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/ak-parti-sozcusu-celikten-yeni-partinin-grup-toplantisindaki-sloganlara-tepki-7706980",
+      "headline": "AK Parti Sözcüsü Çelik'ten Yeni Parti'nin grup toplantısındaki sloganlara tepki",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1579619674614-5de0e3953f01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cG9saXRpY2lhbiUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NTIwNjczfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "NOAA",
+        "photographerUrl": "https://unsplash.com/@noaa",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-suit-standing-on-red-and-white-flag-3vZl7C2JT5Y"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "AK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, Yeni Parti grup toplantısında Cumhurbaşkanı Recep Tayyip Erdoğan'a yönelik atılan sloganlar ve kullanılan ifadeler nedeniyle açıklama yaptı.\n\nÇelik, Yeni Parti grup toplantısında Cumhurbaşkanı hakkında kullanılan ifadelerin son derece çirkin olduğunu belirterek bu durumu en güçlü şekilde kınadıklarını ifade etti. Bazı kişilerin toplantıda slogan atarak diktatörlük ve faşizm gibi ahlak dışı ifadeleri Cumhurbaşkanı ile yan yana zikretmesinin demokrasi karşıtı bir zihniyetin ürünü olduğunu vurguladı.\n\nCumhurbaşkanına yönelik çirkin ifadelerin siyasi riyakarlığın en açık göstergesi olduğunu kaydeden Çelik, Cumhurbaşkanının geldiği her makama seçimle ve millet iradesiyle geldiğini belirtti. Bu ifadeleri kullananların kendi tanımını yaptığını aktaran Çelik, esas olanın millet iradesi olduğunu ve bu iradenin seçimlerde defalarca Cumhurbaşkanından yana tecelli ettiğini kaydetti. Çelik, demokrasiden nasibini almamış zihniyetlere verilecek en büyük cevabın millet iradesi olduğunu belirtti.",
+      "highlights": [
+        "AK Parti Sözcüsü Ömer Çelik, Yeni Parti grup toplantısındaki sloganlara tepki gösterdi.",
+        "Cumhurbaşkanı Erdoğan'a yönelik ifadelerin siyasi riyakarlığın en açık göstergesi olduğunu belirtti.",
+        "Millet iradesinin seçimlerde defalarca Cumhurbaşkanından yana tecelli ettiğini vurguladı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/ak-parti-sozcusu-celikten-yeni-partinin-grup-toplantisindaki-sloganlara-tepki-7706980",
+      "publishedAt": "2026-11-24T11:41:59.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
       "headline": "Galatasaray, Aston Villa Karşısına Osimhen'siz Çıkıyor",
@@ -15,15 +39,16 @@
       "timeAgo": "2 dk önce",
       "body": "Galatasaray, UEFA Şampiyonlar Ligi'nin beşinci haftasında İngiltere temsilcisi Aston Villa'yı evinde ağırlıyor. Türkiye saati ile 20.45'te başlayacak karşılaşmayı hakem Daniel Siebert yönetecek. Galatasaray çalıştırıcısı Okan Buruk, maç öncesi düzenlenen basın toplantısında takımın yıldız oyuncularından Victor Osimhen'in forma giyemeyeceğini açıkladı.\n\nSarı-kırmızılı ekip, Şampiyonlar Ligi'ndeki ilk iki maçında Sporting Lisbon'a 3-1 ve Barcelona'ya 4-1 mağlup olmuştu. Ancak turnuvadaki ilk galibiyetini üçüncü maçta deplasmanda Lille'i 4-2 yenerek alan Galatasaray, dördüncü maçında ise evinde Stuttgart'ı 2-0 mağlup etmeyi başardı. Bu sonuçlarla sarı-kırmızılıların ligde altı puanı bulunuyor.\n\nKonuk ekip Aston Villa ise ilk maçında Belçika temsilcisi Club Brugge'ü deplasmanda 3-2 yendi. Ardından sahasında Fenerbahçe'yi 6-0 ve Norveç temsilcisi Viking'i 3-1 mağlup eden İngiliz ekibi, topladığı 9 puanla ligde altıncı sırada yer alıyor. Maç öncesinde Galatasaray cephesinde Osimhen'in eksikliği dikkat çekiyor.",
       "highlights": [
-        "Galatasaray, Aston Villa'yı ağırlıyor",
-        "Okan Buruk, Osimhen'in oynamayacağını duyurdu",
-        "Galatasaray'ın ligde altı puanı bulunuyor"
+        "Galatasaray, UEFA Şampiyonlar Ligi beşinci haftasında Aston Villa'yı ağırlıyor.",
+        "Okan Buruk, Victor Osimhen'in maçta oynamayacağını açıkladı.",
+        "Galatasaray'ın Devler Ligi'nde altı puanı bulunuyor."
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-24T11:40:02.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T11:44:29.239Z"
     },
     {
       "id": "https://www.milliyet.com.tr/teknoloji/openaida-gizli-kayit-skandali-eski-calisan-suudi-arabistanla-mi-baglantili-7706973",
@@ -79,20 +104,25 @@
       "headline": "Rus savaş gemileri neden Libya açıklarında ve Ukrayna'nın saldırısı bunu değiştirecek mi?",
       "source": "Al Jazeera",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1706477758371-97d8351615b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8d2Fyc2hpcCUyMHNlYXxlbnwxfDB8fHwxNzk1NTIwNjc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Stepan Konev",
+        "photographerUrl": "https://unsplash.com/@stepan_konev",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-boats-in-the-distance-9ox4NRBWguw"
+      },
       "timeAgo": "15 dk önce",
       "body": "Ukrayna, savaş alanının çok ötesindeki Rus gemilerine yönelik uzun menzilli yaptırım saldırılarını artırıyor. Bu durum, Rus savaş gemilerinin Libya açıklarında neden bulunduğunu ve Ukrayna'nın son hamlelerinin bu durumu değiştirip değiştirmeyeceğini gündeme getiriyor.\n\nSöz konusu gelişmeler, Ukrayna'nın Rus deniz varlıklarını hedef alan operasyonlarını genişlettiği bir süreçte yaşanıyor. Rus gemilerinin Libya kıyılarındaki varlığı ve Ukrayna'nın bu sahadaki etkileri hakkındaki detaylar operasyonların odağında yer alıyor.\n\nUkrayna'nın bu uzun menzilli saldırıları, Rusya'nın uzak bölgelerdeki deniz operasyonları üzerindeki baskıyı artırmayı amaçlıyor. Saldırıların Rus savaş gemilerinin konumunu ve gelecekteki hareket tarzını nasıl etkileyeceği ise izleniyor.",
       "highlights": [
-        "Ukrayna, savaş alanının ötesindeki Rus gemilerine saldırılarını artırıyor",
-        "Rus savaş gemileri Libya açıklarında bulunuyor",
-        "Saldırıların Rus varlığını değiştirip değiştirmeyeceği merak ediliyor"
+        "Ukrayna Rus gemilerine yönelik uzun menzilli saldırılarını artırıyor",
+        "Saldırılar savaş alanının çok ötesindeki hedefleri kapsıyor"
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/24/why-are-russian-warships-off-libya-and-will-ukraines-attack-change-that?traffic_source=rss",
       "publishedAt": "2026-11-24T11:27:35.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-24T11:44:29.239Z",
+      "sourceTextAttemptedAt": "2026-11-24T11:44:29.239Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/tekirdagda-kan-donduran-olay-4-cocuk-annesi-gelinini-oldurdu-4876059",
@@ -142,6 +172,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T11:34:38.794Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+      "headline": "Irak, Kürt kontrolündeki bölgelerde petrol sahalarına el konulmasını emretti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1600617286412-79e329754c9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8b2lsZmllbGQlMjBJcmFxfGVufDF8MHx8fDE3OTU1MjA2NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "أخٌ‌في‌الله",
+        "photographerUrl": "https://unsplash.com/@mhrezaa",
+        "unsplashUrl": "https://unsplash.com/photos/green-trees-on-brown-rock-in-the-middle-of-water-k1cEi3aXFL0"
+      },
+      "timeAgo": "25 dk önce",
+      "body": "Irak'ta Başbakan Ali al-Zaidi, yürütülen bir petrol kaçakçılığı soruşturmasının ardından hükümetine talimat verdi. Bu kapsamda, Kürt bölgesindeki tüm sınır kapılarının kontrol altına alınması emredildi. Ayrıca, Kürt kontrolü altında bulunan bölgelerde yer alan petrol sahalarına el konulması yönünde karar alındığı bildirildi. Kararlar, yetkili makamlar tarafından gerçekleştirilen soruşturma sürecinin ardından alındı.",
+      "highlights": [
+        "PM Ali al-Zaidi ordered the takeover of oil fields in Kurdish-controlled areas.",
+        "The government was ordered to seize all crossings in the Kurdish region.",
+        "The directives followed an oil smuggling inquiry."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/24/iraq-orders-takeover-of-oilfields-in-areas-under-kurdish-control?traffic_source=rss",
+      "publishedAt": "2026-11-24T11:19:04.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.yenisafak.com/gundem/sanliurfada-kahreden-olay-nefes-borusuna-elma-kacan-4-yasindaki-cocuk-hayatini-kaybetti-4876053",
@@ -903,7 +957,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T19:34:23.185Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:44:29.239Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss",
@@ -920,7 +974,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-23T17:54:28.323Z"
+      "imageSearchAttemptedAt": "2026-11-24T11:44:29.239Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/sokaklar-beyaza-burundu-goruntuler-istanbuldan-7706457",
@@ -14449,55 +14503,6 @@
       "category": "Teknoloji",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T11:14:36.728Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/ekonomi/sifir-atik-vakfi-baskani-agirbastan-iklim-taahhutlerinin-uygulanmasi-cagrisi-7703794",
-      "headline": "Sıfır Atık Vakfı Başkanı Ağırbaş'tan iklim taahhütlerinin uygulanması çağrısı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1561489396-888724a1543d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2xpbWF0ZSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk0OTIxODkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Evangeline Shaw",
-        "photographerUrl": "https://unsplash.com/@evangelineshaw",
-        "unsplashUrl": "https://unsplash.com/photos/people-in-conference-nwLTVwb7DbU"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Sıfır Atık Vakfı Başkanı Ağırbaş, Türkiye'nin ev sahipliğinde Antalya'da sürdürülen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda AA muhabirine açıklamalarda bulundu. 190'ı aşkın ülkenin katıldığı zirvenin Türkiye açısından önemli bir dönüm noktası olduğunu belirten Ağırbaş, Sıfır Atık Hareketi'nin Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan'ın liderliğinde 193 ülkede karşılık bulduğunu ifade etti.\n\nZirve kapsamında farklı ülkelerden temsilcilerin harekete katılmak için temas kurduğunu aktaran Ağırbaş, uluslararası görüşmelerin yanı sıra yerel halkın katılımına da önem verdiklerini kaydetti. Antalya'nın köylerini ziyaret ederek vatandaşlarla bir araya geldiklerini anlatan Ağırbaş, kararların halkın geleceğini doğrudan ilgilendirdiğini vurguladı. Dünyanın farklı bölgelerinde tarım ve hayvancılığın azaltılmasına yönelik tartışmalara karşı olduklarını belirten Ağırbaş, tarımın azaltılması gibi konuların konuşulmasına tahammül edilemeyeceğini söyledi.\n\nAfrika ve Latin Amerika'daki topluluklarla da bir araya geldiklerini bildiren Ağırbaş, sahadaki sorunların müzakerelerde temsil edilmesinin iklim görüşmeleri açısından elzem olduğunu dile getirdi. COP31 bünyesinde kurulan Sıfır Atık Müzesi'nde 300'den fazla etkinlik düzenlendiğini aktaran Ağırbaş, iklim mücadelesinin yalnızca teknik kararlarla sınırlı kalmaması gerektiğini kaydetti.\n\nCOP31'de yeni kararlar alınmasından ziyade mevcut taahhütlerin hayata geçirilmesini talep eden Ağırbaş, \"Artık yeni söylemden ziyade sahadaki etkilerini görmek istiyoruz. Dünya yoruldu\" dedi. Vakıf olarak Anadolu'da saha ziyaretleri yürüttüklerini belirten Ağırbaş, vatandaşları çevre konusunda duyarlı olmaya ve doğal kaynakların korunması için birlikte hareket etmeye davet etti.",
-      "highlights": [
-        "Sıfır Atık Hareketi 193 ülkede karşılık buldu.",
-        "Tarım ve hayvancılığın azaltılmasına yönelik yaklaşımlara karşı çıkıldı.",
-        "COP31'de yeni kararlar yerine mevcut taahhütlerin uygulanması çağrısı yapıldı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/ekonomi/sifir-atik-vakfi-baskani-agirbastan-iklim-taahhutlerinin-uygulanmasi-cagrisi-7703794",
-      "publishedAt": "2026-11-19T11:00:52.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/gundem/oruc-reis-pakistan-kara-sularinda-petrol-ve-dogal-gaz-arayacak/4130525",
-      "headline": "Oruç Reis, Pakistan kara sularında petrol ve doğal gaz arayacak",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1592701649316-3d3afe31a6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cmVzZWFyY2glMjBzaGlwfGVufDF8MHx8fDE3OTUwODU2ODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Erik Mclean",
-        "photographerUrl": "https://unsplash.com/@introspectivedsgn",
-        "unsplashUrl": "https://unsplash.com/photos/red-and-white-ship-on-sea-during-daytime-hnrdJ3ICJb0"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Yerli ve milli imkanlarla geliştirilen Oruç Reis Sismik Araştırma Gemisi, Somali'de gerçekleştirdiği ilk kıtalar arası görevinin ardından yeni görevi için Pakistan'a ulaştı. Oruç Reis'in bu yeni görev kapsamında Pakistan kara sularında petrol ve doğal gaz arama faaliyetleri yürüteceği belirtildi. Somali'deki ilk kıtalar arası görevini tamamlayan gemi, uluslararası sulardaki seyir sürecinin ardından rotasını Pakistan'a çevirmişti. Ulaştığı bölgede sismik araştırma çalışmalarına başlaması beklenen geminin faaliyetleriyle ilgili süreç, yetkililer tarafından takip ediliyor. Gerçekleştirilen bu intikal ile birlikte Oruç Reis, Türkiye'nin enerji arama kapasitesini uluslararası alanda farklı coğrafyalara taşımaya devam ediyor. Geminin Pakistan'daki arama çalışmaları sürecine ilişkin detaylar ilerleyen günlerde netlik kazanacak.",
-      "highlights": [
-        "Oruç Reis Sismik Araştırma Gemisi yeni görevi için Pakistan'a ulaştı.",
-        "Gemi daha önce Somali'de ilk kıtalar arası görevini gerçekleştirmişti.",
-        "Oruç Reis Pakistan kara sularında petrol ve doğal gaz arayacak."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/gundem/oruc-reis-pakistan-kara-sularinda-petrol-ve-dogal-gaz-arayacak/4130525",
-      "publishedAt": "2026-11-19T10:49:36.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T11:04:39.550Z",
       "isBreaking": false
     }
   ],
