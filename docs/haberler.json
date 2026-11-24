@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-24T22:04:33.848Z",
+  "generatedAt": "2026-11-24T22:14:24.799Z",
   "articles": [
+    {
+      "id": "https://www.trthaber.com/haber/dunya/gazzede-cadirlarda-yasayan-filistinliler-yeni-soguk-hava-dalgasinin-tehdidi-altinda-964379.html",
+      "headline": "Gazze'de çadırlarda yaşayan Filistinliler yeni soğuk hava dalgasının tehdidi altında",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "7 dk önce",
+      "body": "Gazze'deki hükümet, birkaç gün içinde bölgede etkili olması beklenen sağanak ve soğuk hava dalgasının çadırlarda yaşayan 1,76 milyon yerinden edilmiş Filistinlinin hayatını tehdit ettiğini bildirdi. 25/11/2026 01:07 © TRT HABER",
+      "highlights": [],
+      "externalUrl": "https://www.trthaber.com/haber/dunya/gazzede-cadirlarda-yasayan-filistinliler-yeni-soguk-hava-dalgasinin-tehdidi-altinda-964379.html",
+      "publishedAt": "2026-11-24T22:07:00.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss",
       "headline": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
@@ -19,7 +35,8 @@
       "publishedAt": "2026-11-24T22:01:26.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T22:14:22.571Z"
     },
     {
       "id": "https://www.haberturk.com/spor/real-madrid-5-psv-1-mac-sonucu-ozeti-ve-golleri-sampiyonlar-ligi-nde-gecenin-sonuclari-3929890",
@@ -58,6 +75,26 @@
       "externalUrl": "https://www.yenisafak.com/gundem/kahvehaneye-silahli-saldiri-iki-kisiyi-vurdu-kacarken-meydan-dayagi-yedi-4876240",
       "publishedAt": "2026-11-24T21:52:46.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+      "headline": "Colombian president blames ex-FARC rebels for car bomb blast",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1564342357069-f5051af4ee79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Q29sb21iaWFuJTIwcHJlc2lkZW50JTIwYmxhbWVzJTIwZXgtRkFSQyUyMHJlYmVscyUyMGZvciUyMGNhciUyMGJvbWIlMjBibGFzdHxlbnwxfDB8fHwxNzk1NTU4NDYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Andrés Gómez",
+        "photographerUrl": "https://unsplash.com/@andresloquesea",
+        "unsplashUrl": "https://unsplash.com/photos/gray-renault-vehicle-beside-concrete-building-RLx5q01Gwfk"
+      },
+      "timeAgo": "29 dk önce",
+      "body": "Colombian President De la Espriella blames the FARC for plotting a bombing that injured tens and pledges to retaliate.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss",
+      "publishedAt": "2026-11-24T21:45:42.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -12462,7 +12499,7 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:44:19.150Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:04:30.988Z",
+      "imageSearchAttemptedAt": "2026-11-24T22:14:22.571Z",
       "isBreaking": false
     },
     {
@@ -12509,7 +12546,7 @@
       "category": "Türkiye",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:24:24.169Z",
-      "imageSearchAttemptedAt": "2026-11-24T15:14:31.434Z",
+      "imageSearchAttemptedAt": "2026-11-24T22:14:22.571Z",
       "isBreaking": false
     },
     {
@@ -14277,56 +14314,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-20T05:18:45.279Z",
       "sourceTextAttemptedAt": "2026-11-19T20:04:26.550Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/suudi-arabistanin-kalbinde-saldiri-riyaddaki-finans-kulesi-hedef-alindi-3495531",
-      "headline": "Suudi Arabistan'ın kalbinde saldırı! Riyad'daki finans kulesi hedef alındı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1694018359679-49465b4c0d61?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZmluYW5jaWFsJTIwdG93ZXIlMjByaXlhZGh8ZW58MXwwfHx8MTc5NTExNjI2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ibrahim Abdullah",
-        "photographerUrl": "https://unsplash.com/@ibra1997",
-        "unsplashUrl": "https://unsplash.com/photos/kingdom-centre-skyscraper-in-riyadh-_UxsPARhtOg"
-      },
-      "timeAgo": "şimdi",
-      "body": "Suudi Arabistan'ın başkenti Riyad'da bulunan Finans Merkezi kulelerinden biri saldırıya uğradı. Suudi Arabistan Sivil Savunma Genel Müdürlüğü, saldırının Husiler tarafından düzenlendiğini açıkladı.\n\nSaldırı sonucunda kulenin bazı katları ile çevredeki binalarda maddi hasar meydana geldi. Yetkililer, olayda ölen ya da yaralanan kimsenin bulunmadığını bildirdi.\n\nSivil Savunma Genel Müdürlüğü, X platformu üzerinden yaptığı açıklamada saldırıyı \"terör eylemi\" olarak nitelendirdi. Bu tür sivil hedeflere yönelik eylemlerin uluslararası insancıl hukukun ihlali olduğu vurgulandı.\n\nOlayın ardından ilgili birimler hızla harekete geçerek bölgede güvenlik önlemlerini artırdı. Vatandaşların can ve mal güvenliğini korumak için gerekli tedbirlerin alındığı aktarıldı.\n\nSaldırının hangi silahla gerçekleştirildiğine dair ise herhangi bir ayrıntı paylaşılmadı.",
-      "highlights": [
-        "Riyad'daki Finans Merkezi kulelerinden biri saldırıya uğradı.",
-        "Saldırıda ölen ya da yaralanan olmadı.",
-        "Saldırının Husiler tarafından düzenlendiği açıklandı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/suudi-arabistanin-kalbinde-saldiri-riyaddaki-finans-kulesi-hedef-alindi-3495531",
-      "publishedAt": "2026-11-19T19:28:02.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T19:34:20.508Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-      "headline": "Blockbuster GTA VI Çıkışı, Video Oyunlarının Kültürel ve Ekonomik Ağırlığını Gösteriyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1511512578047-dfb367046420?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8dmlkZW8lMjBnYW1lc3xlbnwxfDB8fHwxNzk1MTE2ODYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Carl Raw",
-        "photographerUrl": "https://unsplash.com/@carltraw",
-        "unsplashUrl": "https://unsplash.com/photos/gaming-room-with-arcade-machines-m3hn2Kn5Bns"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Popüler serinin büyük başarısı, video oyun endüstrisinin son yıllarda toplu işten çıkarmalarla mücadele ettiği bir dönemde geldi. Bu durum, sektörün hem kültürel hem de ekonomik açıdan sahip olduğu büyük ağırlığı gözler önüne serdi.\n\nOyun dünyasının en çok beklenen yapımlarından biri olan GTA VI'nın elde ettiği devasa başarı, sektörün yaşadığı zorluklara rağmen gücünü koruduğunu gösteriyor. Son dönemde çalışanların işten çıkarılmasıyla sarsılan video oyun sektörü, bu tür büyük yapımların ekonomik ve kültürel etkileriyle yeniden gündeme gelmiş durumda.\n\nKaynakta yer alan bilgilere göre, serinin yakaladığı bu olağanüstü başarı, oyun pazarının genelinde yaşanan çalkantılı süreçle paralellik gösteriyor. Sektör son yıllarda istihdam sorunları ve toplu işten çıkarmalarla boğuşurken, dev yapımların piyasadaki güçlü etkisi dikkat çekmeye devam ediyor.",
-      "highlights": [
-        "Popüler serinin büyük başarısı dikkat çekti",
-        "Sektör son yıllarda toplu işten çıkarmalarla mücadele etti",
-        "Oyun endüstrisinin kültürel ve ekonomik ağırlığı görüldü"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
-      "publishedAt": "2026-11-19T19:27:32.000Z",
-      "category": "Kültür & Sanat",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-19T19:44:26.618Z",
       "isBreaking": false
     }
   ],
