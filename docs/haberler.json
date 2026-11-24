@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-24T19:14:29.867Z",
+  "generatedAt": "2026-11-24T19:24:36.659Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/sislideki-otomotiv-servisine-ceza-3497679",
+      "headline": "Şişli'deki otomotiv servisine denetim ve ceza",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1632733711679-529326f6db12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2FyJTIwcmVwYWlyJTIwc2hvcHxlbnwxfDB8fHwxNzk1NTQ4MjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Maxim Hopman",
+        "photographerUrl": "https://unsplash.com/@nampoh",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-is-working-on-a-cars-engine-s4d_ESS0ylA"
+      },
+      "timeAgo": "şimdi",
+      "body": "Ticaret Bakanlığı, şikayet üzerine İstanbul'un Şişli ilçesinde faaliyet gösteren bir otomotiv servisinde denetim gerçekleştirildiğini açıkladı. Yapılan incelemelerde, işletmenin hem fiyatlandırma hem de bilgilendirme yükümlülüklerine uymadığı tespit edildi.\n\nDenetimler sırasında, motor yağı, cam suyu, fren balata spreyi ve sileceklerde fiyat etiketinin bulunmadığı belirlendi. Ayrıca rot balans, lastik değişimi, jant düzeltme, periyodik bakım ve check-up hizmetlerine ilişkin fiyat listelerinin de yer almadığı saptandı.\n\nİşletmenin özel servis statüsünde olmasına rağmen tabela ve servis fişlerinde 'Özel servis' ibaresine yer vermediği, tüketiciye servis fişi düzenlemediği ve yedek parça fiyat listesi bulundurmadığı anlaşıldı. Servis fişlerinde zorunlu bilgilerin eksik olduğu, satılan araç lastiğinin garanti belgesinin de bulunmadığı ve teslim edilmediği tespit edildi.\n\nTespit edilen aykırılıklar nedeniyle tutanak tutularak firma hakkında cezai işlem uygulandı. Ayrıca, tüketicinin yanıltılması ve yapılmayan işlemlerin yapılmış gibi gösterilmesi iddiaları dolayısıyla konunun Reklam Kuruluna sevk edildiği bildirildi.",
+      "highlights": [
+        "İstanbul'un Şişli ilçesindeki bir otomotiv servisine şikayet üzerine denetim yapıldı.",
+        "Fiyatlandırma ve bilgilendirme yükümlülüklerine uyulmadığı belirlenerek ceza uygulandı.",
+        "Tüketicinin yanıltılması iddiaları Reklam Kuruluna sevk edildi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/sislideki-otomotiv-servisine-ceza-3497679",
+      "publishedAt": "2026-11-24T19:26:17.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/dunya/zelenskiden-nato-uyeligi-cagrisi-3497676",
       "headline": "Zelenski'den NATO üyeliği çağrısı",
@@ -10,12 +34,18 @@
       "imageCredit": null,
       "timeAgo": "1 dk önce",
       "body": "Ukrayna Devlet Başkanı Volodimir Zelenski, savaş sonrası güvenlik için NATO üyeliğini yeniden gündeme getirdi. Üyeliğin, Ukrayna'ya önerilen güvenlik garantilerinden daha etkili olabileceğini söyledi. Avrupa, ABD ve Rusya'yla dörtlü görüşme için de \"yarın bile hazırız\" mesajı verdi.",
-      "highlights": [],
+      "highlights": [
+        "Zelenski, savaş sonrası güvenlik için NATO üyeliğinin doğrudan ve daha etkili bir adım olabileceğini belirtti.",
+        "Ukrayna lideri, Avrupa, ABD ve Rusya'nın katılacağı dörtlü toplantının hızlandırılması için yarın bile hazır olduklarını söyledi.",
+        "Almanya Şansölyesi Merz, Ukrayna'nın 2008'de NATO üyesi olmaması durumunun bir hata olduğunu ve savaşın önlenebileceğini ifade etti."
+      ],
       "externalUrl": "https://www.cnnturk.com/video/dunya/zelenskiden-nato-uyeligi-cagrisi-3497676",
       "publishedAt": "2026-11-24T19:13:44.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-24T19:24:22.628Z",
+      "imageSearchAttemptedAt": "2026-11-24T19:24:22.628Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/bakan-uraloglu-duyurdu-hgsde-usulsuz-tahsilatlar-iade-edilecek-1752428",
@@ -49,7 +79,9 @@
       "publishedAt": "2026-11-24T19:02:49.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "sourceTextAttemptedAt": "2026-11-24T19:24:22.628Z",
+      "imageSearchAttemptedAt": "2026-11-24T19:24:22.628Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/sariyer-hakan-kutluya-emanet-3497674",
@@ -14402,30 +14434,6 @@
       "sourceTextAttemptedAt": "2026-11-19T17:14:23.255Z",
       "imageSearchAttemptedAt": "2026-11-19T23:55:18.322Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/bagcilar-tem-otoyolunda-zincirleme-kaza-yaralilar-var-7704034",
-      "headline": "Bağcılar TEM Otoyolu'nda zincirleme kaza; yaralılar var",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1573068111653-f18bef611c8a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dHJhZmZpYyUyMGFjY2lkZW50fGVufDF8MHx8fDE3OTUxMDc5MTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Lucian Alexe",
-        "photographerUrl": "https://unsplash.com/@lucian_alexe",
-        "unsplashUrl": "https://unsplash.com/photos/orange-and-white-traffic-cone-p3Ip8U0eNNM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "İstanbul Bağcılar TEM Otoyolu'nda, aralarında bir midibüsün de bulunduğu toplam dört aracın karıştığı zincirleme bir trafik kazası yaşandı.\n\nMeydana gelen kaza sonucunda yaralanan kişiler olduğu belirtildi. Olay yerine sevk edilen sağlık ekipleri, yaralılara ilk müdahaleyi olay yerinde yaptı.\n\nYaralılar, yapılan ilk müdahalelerin ardından ambulanslarla hastanelere kaldırılarak tedavi altına alındı.",
-      "highlights": [
-        "Bağcılar TEM Otoyolu'nda 4 araç kazaya karışı",
-        "Kazada yaralananlar hastaneye kaldırıldı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/bagcilar-tem-otoyolunda-zincirleme-kaza-yaralilar-var-7704034",
-      "publishedAt": "2026-11-19T17:02:37.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T17:14:26.967Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
@@ -14647,6 +14655,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/23/ceo-jensen-huang-returns-to-nvidias-office?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/qatar-pm-looks-to-revive-us-iran-talks-after-meeting-rubio?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
+    "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss"
   ]
 }
