@@ -565,6 +565,11 @@
     color: rgba(255,255,255,0.75); font-size: 13px; font-weight: 700; flex-shrink: 0;
     position: relative; isolation: isolate; overflow: hidden;
   }
+  .thumb-fallback .fallback-art { position:absolute; inset:0; z-index:0; width:100%; height:100%; overflow:hidden; }
+  .thumb-fallback .fallback-art svg { display:block; width:100%; height:100%; }
+  .thumb-fallback .fallback-art .art-line { fill:none; stroke:rgba(255,255,255,.68); stroke-width:2.4; stroke-linecap:round; stroke-linejoin:round; }
+  .thumb-fallback .fallback-art .art-soft { fill:rgba(255,255,255,.18); }
+  .thumb-fallback .fallback-art .art-accent { fill:var(--fallback-accent,#E7B643); }
   .thumb-fallback::before {
     content:""; position:absolute; z-index:0; width:66%; aspect-ratio:1; border-radius:50%;
     right:-8%; top:-55%; border:1px solid rgba(255,255,255,.14);
@@ -576,7 +581,8 @@
     border:1px solid rgba(255,255,255,.25); position:relative; z-index:1;
   }
   .thumb-fallback .fallback-mark .msr { font-size:34px; }
-  .thumb-fallback .fallback-label { font-size:11px; letter-spacing:.55px; text-transform:uppercase; position:relative; z-index:1; }
+  .thumb-fallback .fallback-label { position:absolute; left:10px; bottom:9px; z-index:1; max-width:calc(100% - 20px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; border-radius:6px; padding:4px 7px; background:rgba(11,57,44,.84); color:#fff; font-size:9px; font-weight:850; letter-spacing:.55px; text-transform:uppercase; }
+  .side-card .thumb-fallback .fallback-label,.trend-item .thumb-fallback .fallback-label,.cmdk-item .thumb-fallback .fallback-label { left:4px; right:4px; bottom:4px; max-width:none; padding:2px 3px; font-size:6.5px; letter-spacing:.15px; text-align:center; }
   .card.no-image .thumb-fallback { --fallback-accent:#E7B643; }
   .card.no-image[data-category="Ekonomi"] .thumb-fallback { --fallback-accent:#E7B643; }
   .card.no-image[data-category="Spor"] .thumb-fallback { --fallback-accent:#56B883; }
@@ -1382,9 +1388,27 @@ function cardImage(article, cls) {
 function categoryIllustrationHtml(category, extraClass = '') {
   const normalized = canonicalCategory(category);
   const definition = CORE_CATEGORIES.find(item => item.name === normalized);
-  const icon = definition?.icon || categoryFallbackIcon(normalized);
   const color = definition?.color || categoryColor(normalized);
-  return `<div class="thumb-fallback ${extraClass}" style="--fallback-accent:${color}"><span class="fallback-mark">${categoryMarkHtml(normalized, icon)}</span><span class="fallback-label">${escapeHtml(normalized || SITE_NAME)}</span></div>`;
+  return `<div class="thumb-fallback ${extraClass}" style="--fallback-accent:${color}"><span class="fallback-art">${categoryArtworkSvg(normalized)}</span><span class="fallback-label">${escapeHtml(normalized || SITE_NAME)}</span></div>`;
+}
+
+function categoryArtworkSvg(category) {
+  const c = categoryKey(category);
+  let scene;
+  if (c.includes('ekonomi') || c.includes('finans')) scene = `<rect class="art-soft" x="34" y="27" width="112" height="69" rx="12"/><path class="art-line" d="M48 79 70 68l18 7 24-24 21-12m-12 0h12v12"/><path class="art-accent" d="M48 88h10V71H48zm20 0h10V62H68zm20 0h10V55H88zm20 0h10V43h-10zm20 0h10V31h-10z"/>`;
+  else if (c.includes('spor')) scene = `<circle class="art-soft" cx="90" cy="57" r="39"/><circle class="art-line" cx="90" cy="57" r="39"/><path class="art-accent" d="m90 41 13 9-5 15H82l-5-15z"/><path class="art-line" d="m90 41-13 9m26 0 17-3M98 65l8 15M82 65 74 80M77 50l-18-5m44 5 18-5"/><path class="art-line" d="M28 94q62-35 124 0"/>`;
+  else if (c.includes('teknoloji')) scene = `<rect class="art-soft" x="59" y="27" width="62" height="62" rx="12"/><rect class="art-line" x="70" y="38" width="40" height="40" rx="8"/><path class="art-accent" d="M82 51h16v14H82z"/><path class="art-line" d="M67 20v8m15-8v8m16-8v8m15-8v8m-46 61v8m15-8v8m16-8v8m15-8v8M51 35h8m-8 15h8m-8 16h8m-8 15h8m62-46h8m-8 15h8m-8 16h8m-8 15h8"/>`;
+  else if (c.includes('bilim')) scene = `<ellipse class="art-line" cx="90" cy="57" rx="53" ry="19"/><ellipse class="art-line" cx="90" cy="57" rx="53" ry="19" transform="rotate(60 90 57)"/><ellipse class="art-line" cx="90" cy="57" rx="53" ry="19" transform="rotate(-60 90 57)"/><circle class="art-accent" cx="90" cy="57" r="8"/><circle class="art-soft" cx="138" cy="57" r="5"/>`;
+  else if (c.includes('sağlık') || c.includes('saglik')) scene = `<path class="art-soft" d="M90 89 42 54C22 32 55 13 90 43c35-30 68-11 48 11z"/><path class="art-line" d="M90 89 42 54C22 32 55 13 90 43c35-30 68-11 48 11zM36 58h28l10-15 13 34 13-27 10 8h35"/>`;
+  else if (c.includes('kültür') || c.includes('sanat')) scene = `<rect class="art-soft" x="35" y="20" width="110" height="76" rx="12"/><path class="art-accent" d="M35 20q23 16 19 76l-19-4zm110 0q-23 16-19 76l19-4z"/><ellipse class="art-line" cx="76" cy="56" rx="13" ry="19"/><ellipse class="art-line" cx="104" cy="56" rx="13" ry="19"/><path class="art-line" d="M70 62h12m16-6h12m-39 12q7 8 14 0m9 0q7 8 14 0"/>`;
+  else if (c.includes('yaşam') || c.includes('yasam')) scene = `<circle class="art-accent" cx="128" cy="33" r="17"/><path class="art-soft" d="M22 92q34-51 68-5 31-39 68 2v17H22z"/><path class="art-accent" d="M22 99q42-31 80 0 27-21 56-6v13H22z"/><path class="art-line" d="M65 82q-5-27 11-39 8 18-11 39m0 0q9-20 24-18-5 19-24 18m0 0v15"/>`;
+  else if (c.includes('eğitim') || c.includes('egitim')) scene = `<path class="art-soft" d="M37 35q27-10 53 5v52q-26-15-53-5zm106 0q-27-10-53 5v52q26-15 53-5z"/><path class="art-line" d="M37 35q27-10 53 5v52q-26-15-53-5zm106 0q-27-10-53 5v52q26-15 53-5zM90 40v53M49 48l26 8m-26 2 26 8m29-10 26-8m-26 18 26-8"/><path class="art-accent" d="m90 18 43 15-43 15-43-15z"/>`;
+  else if (c.includes('hava') || c.includes('weather')) scene = `<circle class="art-accent" cx="123" cy="34" r="19"/><path class="art-soft" d="M50 80q-14 0-14-13 0-12 15-14 3-23 27-20 17 1 21 18 19-4 22 12 2 17-14 17z"/><path class="art-line" d="M50 80q-14 0-14-13 0-12 15-14 3-23 27-20 17 1 21 18 19-4 22 12 2 17-14 17zM59 88l-5 11m25-11-5 11m25-11-5 11"/>`;
+  else if (c.includes('türkiye') || c.includes('turkey')) scene = `<path class="art-accent" d="m26 56 14-10 13 2 14-9 12 5 15-5 15 8 16-3 16 11 17 1-10 8-18 1-14 7-16-3-14 7-16-8-15 3-11-7-12 2-8-8z"/><path class="art-line" d="M47 36q44-21 86 6"/>`;
+  else if (c.includes('dünya') || c.includes('dunya') || c.includes('world')) scene = `<circle class="art-soft" cx="90" cy="57" r="39"/><circle class="art-line" cx="90" cy="57" r="39"/><ellipse class="art-line" cx="90" cy="57" rx="16" ry="39"/><ellipse class="art-line" cx="90" cy="57" rx="36" ry="14"/><path class="art-accent" d="M44 64q44-33 92-6l-3 7q-43-23-87 7z"/>`;
+  else if (c.includes('son dakika') || c.includes('breaking')) scene = `<circle class="art-line" cx="90" cy="57" r="43"/><circle class="art-line" cx="90" cy="57" r="31"/><path class="art-accent" d="m101 18-38 43h22L72 98l48-50H96z"/>`;
+  else scene = `<rect class="art-soft" x="48" y="17" width="82" height="83" rx="10"/><rect class="art-line" x="48" y="17" width="82" height="83" rx="10"/><rect class="art-accent" x="60" y="30" width="58" height="28" rx="5"/><path class="art-line" d="M60 70h58m-58 9h52m-52 9h39"/><circle class="art-soft" cx="143" cy="75" r="16"/><circle class="art-line" cx="143" cy="75" r="9"/>`;
+  return `<svg viewBox="0 0 180 112" preserveAspectRatio="xMidYMid slice" role="img" aria-label="${escapeHtml(category || 'Haber')} kategori illüstrasyonu">${scene}</svg>`;
 }
 
 function categoryMarkHtml(category, icon) {
