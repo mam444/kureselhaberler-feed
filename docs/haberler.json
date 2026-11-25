@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-25T16:26:22.036Z",
+  "generatedAt": "2026-11-25T16:37:16.637Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
+      "headline": "HSK'nin mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1627561950134-112f5d15e30f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SFNLJTI3bmluJTIwbWF6ZXJldCUyMGthcmFybmFtZXNpeWxlJTIwOTU3JTIwaGFraW0lMjB2ZSUyMHNhdmMlQzQlQjFuJUM0JUIxbiUyMGclQzMlQjZyZXYlMjB5ZXJpJTIwZGUlQzQlOUZpJUM1JTlGdGl8ZW58MXwwfHx8MTc5NTYyNDUzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ankara University",
+        "photographerUrl": "https://unsplash.com/@ankarauni",
+        "unsplashUrl": "https://unsplash.com/photos/a-sign-that-is-in-front-of-a-building-UShdqy_wNYw"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Hakimler ve Savcılar Kurulunun (HSK), mazeret kararnamesiyle 957 hakim ve Cumhuriyet savcısının görev yeri değiştirildi. HSK Birinci Dairesinin adli ve idari yargıya ilişkin mazeret kararnamesi HSK'nin internet sitesinde ilan edildi. Buna göre, adli yargıda 915, idari yargıda 42 olmak üzere toplam 957 hakim ve savcı yeni görevlere atandı. Kararnameyle, Manisa Cumhuriyet Başsavcısı Kurtca Eker İzmir Cumhuriyet…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
+      "publishedAt": "2026-11-25T16:32:48.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
       "headline": "ABD, AB ve Çin dahil büyük ortaklarına yönelik yeni gümrük vergisi teklifini açıkladı",
@@ -26,6 +46,30 @@
       "lang": "tr"
     },
     {
+      "id": "https://www.france24.com/en/video/20261125-iranian-family-seeks-release-of-twin-sisters-facing-death-penalty-and-25-years-in-prison",
+      "headline": "İran'da İkiz Kardeşler İçin Serbest Bırakılma Kampanyası",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1652560403277-8f415f1dd327?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cHJvdGVzdCUyMElyYW58ZW58MXwwfHx8MTc5NTYyNDQ3Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Javad Esmaeili",
+        "photographerUrl": "https://unsplash.com/@javad_esmaeili",
+        "unsplashUrl": "https://unsplash.com/photos/a-flag-laying-on-the-ground-next-to-rocks-ajRGLPdU8c8"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "İran'da ikiz kardeşler Taraneh ve Romina Rahimi için aileleri serbest bırakılmaları yönünde kampanya yürütüyor. 25/11/2026 tarihinde aktarılan bilgilere göre, 19 yaşındaki ikizler Ocak 2026'da rejim karşıtı protestolara katıldıkları gerekçesiyle gözaltına alındı. \n\nTaraneh ve Romina Rahimi kardeşler şu anda haklarındaki kararları bekliyor. Kaynaklarda yer alan bilgilere göre, Taraneh idam cezası ile karşı karşıya bulunurken, Romina ise 25 yıl hapis cezasına çarptırıldı. \n\nİkiz kardeşlerin ailesi, hukuki süreçlerin ve cezaların ardından gençlerin serbest bırakılması amacıyla mücadelelerini sürdürüyor. İran'daki rejim karşıtı protestolar kapsamında tutuklanan kardeşlerin durumu uluslararası alanda da takip ediliyor.",
+      "highlights": [
+        "Taraneh ve Romina Rahimi Ocak 2026'da protestolara katıldıkları için gözaltına alındı.",
+        "Taraneh idam cezasıyla karşı karşıyayken Romina 25 yıl hapse mahkum edildi.",
+        "İkiz kardeşlerin ailesi onların serbest bırakılması için kampanya yürütüyor."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261125-iranian-family-seeks-release-of-twin-sisters-facing-death-penalty-and-25-years-in-prison",
+      "publishedAt": "2026-11-25T16:20:57.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
       "id": "https://www.aa.com.tr/tr/gundem/ilkokullarda-yetistirme-programi-yonergesi-yayimlandi/4137784",
       "headline": "İlkokullarda Yetiştirme Programı Yönergesi yayımlandı",
       "source": "Anadolu Ajansı",
@@ -45,7 +89,8 @@
       "publishedAt": "2026-11-25T16:19:24.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T16:34:23.211Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
@@ -1069,7 +1114,7 @@
       "category": "Türkiye",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T09:44:17.507Z",
+      "imageSearchAttemptedAt": "2026-11-25T16:34:23.211Z",
       "sourceTextAttemptedAt": "2026-11-24T22:54:21.403Z"
     },
     {
@@ -1091,7 +1136,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T09:44:17.507Z",
+      "imageSearchAttemptedAt": "2026-11-25T16:34:23.211Z",
       "sourceTextAttemptedAt": "2026-11-25T14:18:13.668Z"
     },
     {
@@ -14161,55 +14206,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:34:37.315Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "headline": "California investigates Nvidia over whether chip exports ended up in China",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1672307613484-3254a04651fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWljcm9jaGlwfGVufDF8MHx8fDE3OTUxNjc4Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Maxence Pira",
-        "photographerUrl": "https://unsplash.com/@maxence_pira",
-        "unsplashUrl": "https://unsplash.com/photos/a-close-up-of-a-pattern-of-small-squares-7hR3FrFs4Q0"
-      },
-      "timeAgo": "26 dk önce",
-      "body": "California has served an investigative subpoena on Nvidia following a scandal that led to the departure of co-founder and longtime chief executive Jensen Huang. Rob Bonta, the state’s attorney general, issued the subpoena as part of an inquiry into whether exports of the company’s advanced semiconductor chips ended up in China, potentially contravening US restrictions. Bonta stated that the conduct of Nvidia and its former chief executive raises bright red flags, including concerns that the company may have misled investors.\n\nThe subpoena followed Huang’s resignation after it emerged he had multiple affairs, including one with Alice Huang, a suspected Chinese spy. Alice Huang is associated with Singapore-based Megaspeed, which has purchased nearly $5bn of Nvidia chips and hardware in recent years and is being investigated for possibly diverting advanced restricted chips to China. Megaspeed has stated that it is a legitimate and lawful business, and that Huang left the company late last year. Bonta noted that the investigation will also examine whether the former chief’s actions resulted in confidential information being passed to China.\n\nNvidia’s shares have dropped by a fifth since Jensen Huang admitted to the extramarital affair, hitting a one-year low on Thursday and wiping almost $1tn off its market value. Nvidia chair Harvey Jones stated earlier in the week that the company had no intention of reinstating Huang, despite campaigns from Elon Musk and other tech bosses for his return. Huang is scheduled to testify before several congressional committees regarding potential breaches of national security on 1 December.\n\nMeanwhile, shares in rival chipmaker AMD fell following reports warning about its links to China and customer financing. Hunterbrook Media published allegations concerning AMD software use by a US-blacklisted Chinese server maker, while The Bear Cave newsletter raised questions about datacentre lease guarantees. AMD responded that the reports misrepresent its business practices and relationships, emphasizing that the company complies with applicable US export control laws and regulations.",
-      "highlights": [
-        "California served an investigative subpoena on Nvidia regarding potential chip exports to China.",
-        "The investigation follows the departure of CEO Jensen Huang after an extramarital affair scandal.",
-        "Nvidia shares dropped by a fifth, hitting a one-year low on Thursday."
-      ],
-      "externalUrl": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china",
-      "publishedAt": "2026-11-20T09:18:30.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:34:29.932Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-      "headline": "Kenya’nın Büyüyen Doping Krizi Atletizm Ülkesi Mirasını Gölgeliyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1571008887538-b36bb32f4571?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cnVubmluZyUyMGRvcGluZ3xlbnwxfDB8fHwxNzk1MTY4NDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "sporlab",
-        "photographerUrl": "https://unsplash.com/@sporlab",
-        "unsplashUrl": "https://unsplash.com/photos/pair-of-blue-and-white-adidas-running-shoes-XiZ7pRvCzro"
-      },
-      "timeAgo": "38 dk önce",
-      "body": "Kenya'nın atletizm alanındaki güçlü mirası, son yıllarda artan doping vakaları nedeniyle gölgede kalmaya devam ediyor. Athletics Integrity Unit (Atletizm Dürüstlük Birimi) verilerine göre, 2017 yılından bu yana 140'tan fazla Kenyalı sporcu açığa alındı. Cezalandırılan veya uzaklaştırılan bu sporcuların çoğunluğunu ise uzun mesafe koşucuları oluşturuyor. Yaşanan bu durum, ülkenin atletizmdeki tarihi başarıları üzerinde soru işaretleri yaratıyor ve spor dünyasında geniş yankı uyandırıyor.",
-      "highlights": [
-        "2017'den bu yana 140'tan fazla Kenyalı sporcu askıya alındı",
-        "Cezalandırılan sporcuların çoğunluğunu uzun mesafe koşucuları oluşturuyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
-      "publishedAt": "2026-11-20T09:16:30.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:34:29.932Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
