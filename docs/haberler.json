@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-25T15:36:58.756Z",
+  "generatedAt": "2026-11-25T15:47:24.209Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "headline": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1639944771750-abf4f30bf5ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U291dGglMjBBZnJpY2ElMjdzJTIwUmFtYXBob3NhJTIwd2lucyUyMGNvdXJ0JTIwYmF0dGxlJTIwb3ZlciUyMGltcGVhY2htZW50JTIwdGhyZWF0fGVufDF8MHx8fDE3OTU2MjE1NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Soweto Graphics",
+        "photographerUrl": "https://unsplash.com/@sowetographics",
+        "unsplashUrl": "https://unsplash.com/photos/an-old-woman-sitting-at-a-table-with-two-men-in-the-background-C1l1ZYkFB6Y"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T15:42:50.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/iranda-enerji-sikintisinin-asilmasi-icin-hanelere-tuketimi-yuzde-20-azaltma-cagrisi-yapildi/4137742",
+      "headline": "İran'da, enerji sıkıntısının aşılması için hanelere tüketimi yüzde 20 azaltma çağrısı yapıldı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "6 dk önce",
+      "body": "İran İçişleri Bakanı İskender Mumini, ülkede yaşanan enerji sıkıntısının aşılması için evlerde enerji tüketiminin yüzde 20 azaltılması gerektiğini söyledi.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/iranda-enerji-sikintisinin-asilmasi-icin-hanelere-tuketimi-yuzde-20-azaltma-cagrisi-yapildi/4137742",
+      "publishedAt": "2026-11-25T15:40:54.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memura-gecici-uzaklastirma-7707933",
       "headline": "Fransa'da namazla alay eden ve Nazi selamı yapan memura geçici uzaklaştırma",
@@ -15,7 +51,8 @@
       "publishedAt": "2026-11-25T15:27:55.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-25T15:44:40.073Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/helikopter-kazasinda-sehit-dusen-askerlerimiz-icin-3-arap-ulkesinden-taziye-mesaji-7707931",
@@ -30,12 +67,17 @@
       },
       "timeAgo": "4 dk önce",
       "body": "Suudi Arabistan, Ürdün ve Kuveyt, Eskişehir'deki helikopter kazasında şehit olan 5 asker için taziye mesajı yayımladı. İlginizi Çekebilir Suudi Arabistan Dışişleri Bakanlığının ABD merkezli X sosyal medya platformundaki hesabından yapılan açıklamada, eğitim uçuşu sırasında kaza kırıma uğrayan uçakta şehit olan askerler için taziye mesajı paylaşıldı. Açıklamada, Türkiye hükümeti ve halkıyla dayanışma içinde olunduğu…",
-      "highlights": [],
+      "highlights": [
+        "Suudi Arabistan, Ürdün ve Kuveyt, Eskişehir'deki helikopter kazasında şehit olan 5 asker için taziye mesajı yayımladı.",
+        "Suudi Arabistan Dışişleri Bakanlığı, Türkiye hükümeti ve halkıyla dayanışma içinde olunduğunu kaydetti.",
+        "Ürdün ve Kuveyt dışişleri bakanlıkları da taziye ve dayanışma mesajlarını paylaştı."
+      ],
       "externalUrl": "https://www.milliyet.com.tr/dunya/helikopter-kazasinda-sehit-dusen-askerlerimiz-icin-3-arap-ulkesinden-taziye-mesaji-7707931",
       "publishedAt": "2026-11-25T15:21:49.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T15:44:40.073Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
@@ -825,7 +867,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T09:38:35.637Z",
-      "imageSearchAttemptedAt": "2026-11-25T09:38:35.637Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:44:40.073Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
@@ -14168,55 +14210,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T09:44:24.306Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/video-51talkin-iki-ogrencisi-antalyada-iklim-ve-cevre-mesaji-verdi-1751740",
-      "headline": "51Talk'ın iki öğrencisi Antalya'da iklim ve çevre mesajı verdi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1571845599234-790a035f6109?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y2xpbWF0ZSUyMGNoYW5nZSUyMGNoaWxkcmVufGVufDF8MHx8fDE3OTUxNjU0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-holding-a-sign-that-says-the-climate-is-changing-why-aren-1AaRGN_vyq0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "51Talk platformunun iki genç öğrencisi, Antalya'da düzenlenen etkinlikte iklim ve çevre konularında önemli mesajlar paylaştı.\n\nCOP 31 kapsamında gerçekleştirilen programda, 10 yaşındaki Öykü Aslan ile 12 yaşındaki Kemal Uysal kürsüye çıktı.\n\nİkili, küresel iklim krizi ve bu soruna karşı atılabilecek somut adımlar üzerine hazırladıkları sunumu İngilizce dilinde gerçekleştirdi.\n\nÖğrencilerin yaptığı bu sunum, etkinlikteki katılımcılar tarafından büyük bir beğeniyle karşılandı ve tam not aldı.",
-      "highlights": [
-        "10 yaşındaki Öykü Aslan ve 12 yaşındaki Kemal Uysal sunum yaptı.",
-        "İklim krizi ve atılabilecek adımlar İngilizce olarak anlatıldı.",
-        "İkilinin sunumu katılımcılardan tam not aldı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/video-51talkin-iki-ogrencisi-antalyada-iklim-ve-cevre-mesaji-verdi-1751740",
-      "publishedAt": "2026-11-20T09:03:28.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:14:53.072Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "headline": "California'da Yılların En Büyük Dalgaları Kıyı Topluluklarını Alarma Geçirdi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1484291470158-b8f8d608850d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8b2NlYW4lMjB3YXZlc3xlbnwxfDB8fHwxNzk1MTY2MDk1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Christoffer Engström",
-        "photographerUrl": "https://unsplash.com/@christoffere",
-        "unsplashUrl": "https://unsplash.com/photos/photo-of-ocean-waves-at-daytime-wc9avd2RaN0"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "California kıyı toplulukları, eyaleti vuran yılların en büyük dalgaları nedeniyle alarma geçti. Ard arda gelen alçak basınç alanlarının güçlü dalgalar üretmesiyle hafta boyunca eyalet genelinde çok sayıda kıyı tehlike uyarısı yayımlandı. Geçtiğimiz hafta sonu dev dalgaların kıyıya çarpmasıyla plajlar ve iskeleler kapatıldı. Açık denizdeki Ulusal Okyanus ve Atmosfer İdaresi şamandıraları geçen Cuma günü 9 metreden (30 feet) büyük dalga yükseklikleri kaydetti.\n\nMonterey şamandırasının 34.1 feet dalga yüksekliği kaydetmesi, bunun son 30 yıldaki en yüksek ölçüm olabileceğini gösterdi. Cuma gecesine kadar uzanan uyarılarla birlikte kıyı uyarıları geçen hafta sonundan bu haftaya kadar uzatıldı. San Luis Obispo ve Santa Barbara ilçelerinin plajlarında yerel olarak 18-22 feet dalgalar beklenirken, genel olarak 10-18 feet dalgalar bekleniyor.\n\nPasifik fırtına sistemleri ayrıca batı ABD genelinde şiddetli yağmur, dağ karı ve kuvvetli rüzgarlarla istikrarsız koşulları beraberinde getiriyor. Çarşamba günü San Francisco'da rekor kıran yağışlar etkili olurken, Sacramento'da şiddetli yağış 32 bin müşterinin elektriksiz kalmasına neden oldu. Hafta sonuna doğru yeni bir alçak basınç alanı güney Oregon ve kuzey California için önemli miktarda nem getirecek. Pazar gecesine kadar bazı yerlerde 100 milimetreden (4 inç) fazla yağmur bekleniyor.\n\nÖte yandan haberin kaynak metninde, Doğu Hindistan'ın Odisha bölgesinde Tropikal Siklon Akvan yaklaşırken yaklaşık 72 bin kişinin tahliye edildiği, Güney Afrika'nın Johannesburg kentinde ise şiddetli fırtınalar ve sel nedeniyle bir kişinin hayatını kaybettiği bilgileri de yer aldı.",
-      "highlights": [
-        "California kıyılarında son yılların en büyük dalgaları kaydedildi ve kıyı uyarıları yayımlandı.",
-        "Monterey şamandırası 34.1 feet dalga yüksekliği ölçerek son 30 yılın en yüksek okumasını kaydetti.",
-        "Batı ABD'de fırtına sistemleri şiddetli yağmur, kar ve rüzgarlara yol açarken elektrik kesintileri yaşandı."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/california-coastal-communities-alert-big-waves-hit-state",
-      "publishedAt": "2026-11-20T09:03:20.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
