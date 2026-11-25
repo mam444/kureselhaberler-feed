@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-25T18:06:22.131Z",
+  "generatedAt": "2026-11-25T18:15:23.512Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/galeri/gundem/amasyada-tarihi-yapilar-turuncu-isikla-aydinlatildi-4876551",
+      "headline": "Amasya'da tarihi yapılar kadına şiddete karşı turuncuya büründü",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1786252472355-ded26557d4ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8QW1hc3lhJTI3ZGElMjB0YXJpaGklMjB5YXAlQzQlQjFsYXIlMjBrYWQlQzQlQjFuYSUyMCVDNSU5RmlkZGV0ZSUyMGthciVDNSU5RiVDNCVCMSUyMHR1cnVuY3V5YSUyMGIlQzMlQkNyJUMzJUJDbmQlQzMlQkN8ZW58MXwwfHx8MTc5NTYzMDUyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kürşad Ç.",
+        "photographerUrl": "https://unsplash.com/@photocekici",
+        "unsplashUrl": "https://unsplash.com/photos/traditional-houses-along-amasya-river-KEwPDw4qJ_Y"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Amasya'da 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Amasya Valiliği öncülüğündeki farkındalık çalışmasıyla Kral Kaya Mezarları, Kızlar Sarayı, Harşena Kalesi ve Yalıboyu evleri turuncu renkle aydınlatıldı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/galeri/gundem/amasyada-tarihi-yapilar-turuncu-isikla-aydinlatildi-4876551",
+      "publishedAt": "2026-11-25T18:12:00.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879",
       "headline": "ABD, SpaceX'in uzaydaki veri merkezleri için 1 milyon uydu fırlatmasına yetki verdi",
@@ -19,7 +39,8 @@
       "publishedAt": "2026-11-25T18:02:20.000Z",
       "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T18:14:33.723Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
@@ -67,7 +88,8 @@
       "publishedAt": "2026-11-25T17:50:41.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T18:14:33.723Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/trumpin-iran-plani-ortaya-cikti-iste-abdnin-irandaki-suikast-listesi-sirada-kim-var-3498148",
@@ -109,6 +131,26 @@
       "highlights": [],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T17:48:09.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/kenya-cult-leader-found-guilty-new-assault-cruelty-138447436",
+      "headline": "Kenya cult leader found guilty of new assault and cruelty charges",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1591608825526-e8fadc360437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8S2VueWElMjBjdWx0JTIwbGVhZGVyJTIwZm91bmQlMjBndWlsdHklMjBvZiUyMG5ldyUyMGFzc2F1bHQlMjBhbmQlMjBjcnVlbHR5JTIwY2hhcmdlc3xlbnwxfDB8fHwxNzk1NjMwNTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Godfrey Nyangechi",
+        "photographerUrl": "https://unsplash.com/@atimagodie",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-gray-crew-neck-shirt-wearing-black-cap-vEAmWt75MUQ"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Jailed Kenyan cult leader Paul Mackenzie has been found guilty of assault and cruelty to children in a new case",
+      "highlights": [],
+      "externalUrl": "https://abcnews.com/International/wireStory/kenya-cult-leader-found-guilty-new-assault-cruelty-138447436",
+      "publishedAt": "2026-11-25T17:47:30.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -4290,7 +4332,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T17:34:24.410Z",
+      "imageSearchAttemptedAt": "2026-11-25T18:14:33.723Z",
       "sourceTextAttemptedAt": "2026-11-24T12:04:30.058Z"
     },
     {
@@ -4337,7 +4379,7 @@
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T17:44:21.856Z",
+      "imageSearchAttemptedAt": "2026-11-25T18:14:33.723Z",
       "sourceTextAttemptedAt": "2026-11-24T12:14:19.872Z"
     },
     {
@@ -14145,55 +14187,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:24:24.169Z",
       "imageSearchAttemptedAt": "2026-11-24T22:14:22.571Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-      "headline": "Kushner, Rusya'nın Ukrayna için 'NATO benzeri' güvenlik paktına onay verdiğini söyledi: Gerçekten öyle mi?",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1647006870601-27a4b0f21f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8VWtyYWluZSUyME5BVE8lMjBzZWN1cml0eXxlbnwxfDB8fHwxNzk1MTczMjc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marek Studzinski",
-        "photographerUrl": "https://unsplash.com/@jccards",
-        "unsplashUrl": "https://unsplash.com/photos/a-blue-and-yellow-button-sitting-on-top-of-a-table-pplLpREnaaA"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Jared Kushner, Rusya'nın Ukrayna için 'NATO benzeri' bir güvenlik paktına razı olduğunu belirtti. Bu açıklamanın ardından durumun gerçekliği tartışma konusu oldu.\n\nNATO'nun 5. maddesi, üyelerden birine yapılan saldırının tüm üyelere yapılmış sayılacağını hükme bağlıyor. Bu ilkenin Ukrayna'yı kapsayacak şekilde genişletilmesi gündeme geldi.\n\nAnalistler, bu tür bir düzenlemeye Ukrayna'nın dahil edilmesinin inanılırlığı zorladığını ifade ediyorlar. Uzmanlar paktın kapsamı konusunda şüphelerini dile getiriyorlar.",
-      "highlights": [
-        "Kushner Rusya'nın Ukrayna için güvenlik paktına onay verdiğini belirtti",
-        "NATO 5. maddeye göre bir üyeye saldırı tümüne yapılmış sayılır",
-        "Analistler Ukrayna'nın dahil edilmesinin inanılırlığı zorladığını söylüyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
-      "publishedAt": "2026-11-20T11:01:51.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T11:24:35.154Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "headline": "ICE gözaltı merkezindeki açlık grevcisi zorla besleme sürecini anlattı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1602089097457-1badf4b7ffa7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aHVuZ2VyJTIwc3RyaWtlJTIwcHJvdGVzdHxlbnwxfDB8fHwxNzk1MTczODc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kalea Morgan",
-        "photographerUrl": "https://unsplash.com/@kakalea",
-        "unsplashUrl": "https://unsplash.com/photos/people-holding-white-and-black-signage-during-daytime-l2CSvpj065o"
-      },
-      "timeAgo": "24 dk önce",
-      "body": "Kübalı bir sığınmacı olan 32 yaşındaki Luis Alejandro Cora Perez, Teksas'taki bir ABD Göçmenlik ve Gümrük Muhafaza (ICE) gözaltı merkezinde maruz kaldığı zorla besleme uygulamasının fiziksel ve psikolojik olarak travmatik olduğunu belirtti. Federal göçmenlik yetkililerinin yürüttüğü uzun süreli gözaltı sürecini protesto etmek amacıyla ağustos ayında açlık grevine başlayan Perez, sürecin çok acı vermesi nedeniyle grevi sonlandırmak zorunda kaldığını ifade etti.\n\nMahkeme kayıtlarına göre ICE, 30 Ekim'de Perez'in zorla beslenmesi ve hidrate edilmesi için federal bir yargıçtan izin aldı. Perez, bu kararın ardından altı gardiyanın kendisini tuttuğunu ve sağlık personellerinin burnundan boğazına bir tüp sokarak mideye besin pompalediğini aktardı. İnsan hakları kuruluşları tarafından işkence olarak nitelendirilen bu uygulama sonrasında Perez, grevi bıraktığını açıkladı ve ertesi gün gönüllü olarak besin takviyesi almaya başladığını belirtti.\n\nAynı tesiste Özbekistanlı başka bir açlık grevcisi için de federal mahkemeden benzer bir izin alındığı mahkeme kayıtlarında yer aldı. İç Güvenlik Bakanlığı (DHS), Özbek mahkûmun zorla besleme işlemine tabi tutulmadığını bildirdi. Öte yandan Perez, haber vermeksizin Teksas'taki başka bir gözaltı merkezine nakledildi.\n\nICE yetkilileri ve İç Güvenlik Bakanlığı, gözaltı merkezlerindeki uygulamaları savunurken, kurumun mahkûmların tıbbi özerkliğine saygı duyduğunu ve istemsiz tıbbi müdahalenin yalnızca hayati tehlikeyi önlemek amacıyla yapılabildiğini belirtti. Gözaltı merkezindeki güvenlik operasyonları özel bir cezaevi şirketi tarafından yürütülürken, sağlık hizmetleri devlet çalışanları tarafından sağlanıyor.",
-      "highlights": [
-        "Luis Alejandro Cora Perez adlı Kübalı sığınmacı, zorla beslemenin verdiği acı nedeniyle açlık grevini bıraktığını söyledi.",
-        "Mahkeme kayıtlarına göre ICE, ekim ayı sonunda Perez'in zorla beslenmesi için federal yargıçtan izin aldı.",
-        "Teksas'taki tesiste bulunan Özbekistanlı başka bir açlık grevcisi için de benzer bir mahkeme izni alındığı belirlendi."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "publishedAt": "2026-11-20T11:00:31.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
