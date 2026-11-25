@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-24T23:14:29.369Z",
+  "generatedAt": "2026-11-25T04:32:42.275Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/uc-ay-once-baba-olmustu-sehit-demirhanin-evine-turk-bayraklari-asildi-4876265",
+      "headline": "Üç ay önce baba olmuştu: Şehit Demirhan'ın evine Türk bayrakları asıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "3 dk önce",
+      "body": "Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit düşen Hava Personel Astsubay Başçavuş Volkan Demirhan'ın ailesine, Denizli'nin Sarayköy ilçesinde haber verildi. Baba evine ve sokağa Türk bayrakları asıldı.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/gundem/uc-ay-once-baba-olmustu-sehit-demirhanin-evine-turk-bayraklari-asildi-4876265",
+      "publishedAt": "2026-11-25T04:29:19.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+      "headline": "Israeli strike kills four people in Gaza",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1727762331620-4e21746e1565?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXNyYWVsaSUyMHN0cmlrZSUyMGtpbGxzJTIwZm91ciUyMHBlb3BsZSUyMGluJTIwR2F6YXxlbnwxfDB8fHwxNzk1NTgxMTYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "khalid kwaik",
+        "photographerUrl": "https://unsplash.com/@khalidkwaik",
+        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-next-to-a-pile-of-junk-6p0bkNw0yyc"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+      "publishedAt": "2026-11-25T04:13:58.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-3497702",
       "headline": "Kolombiya’da silahlı saldırı: 25 kişi rehin alındı",
@@ -15,7 +51,8 @@
       "publishedAt": "2026-11-24T23:12:02.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-25T04:32:40.335Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/ak-parti-kurmaylarindan-cumhurbaskani-erdogana-yonelik-sloganlara-tepki-3497700",
@@ -68,7 +105,8 @@
       "publishedAt": "2026-11-24T22:50:16.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "imageSearchAttemptedAt": "2026-11-25T04:32:40.335Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/fon-koordinasyon-kurulu-toplandi-yeni-duzenleme-hazir-1752431",
@@ -14197,54 +14235,6 @@
       "externalUrl": "https://www.haberturk.com/kesfet/kenan-cinar-ile-burak-arslan-yuzlerini-kiraladi-3928019",
       "publishedAt": "2026-11-20T05:09:07.000Z",
       "category": "Teknoloji",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "headline": "Afrika'nın iklim finansmanı talebine Avrupa'dan 'mevcut taahhütler kullanılsın' yanıtı",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1655102717581-a6a3fa59a2a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2xpbWF0ZSUyMGNoYW5nZSUyMGFmcmljYXxlbnwxfDB8fHwxNzk1MTUxOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marek Studzinski",
-        "photographerUrl": "https://unsplash.com/@jccards",
-        "unsplashUrl": "https://unsplash.com/photos/a-circular-object-on-a-surface-mCd65WEHwSQ"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Afrika ülkeleri iklim krizinin yıkıcı etkileriyle mücadele ederken, Türkiye'deki COP31 zirvesinde adaptasyon finansmanının artırılması talebi gündeme geldi. Uganda'nın Karamoja bölgesinde yaşayan Elijah Lobur ve Malavirli Mathews Nkhambala gibi çiftçiler, şiddetli kuraklık ve sel felaketleri nedeniyle büyük kayıplar yaşadıklarını ve günlük yaşamlarının olumsuz etkilendiğini anlattı. Uganda ve Malawi gibi ülkelerin yanı sıra 23 Afrika ülkesi, Birleşmiş Milletler iklim konvansiyonu sekreterliğine Ulusal Adaptasyon Planları'nı (NAP) henüz sunmadı. Uzmanlar, bu planların bulunmamasının fon sağlamayı zorlaştırdığını belirtirken, bazı sivil toplum temsilcileri ise bu durumun borç krizi ve kapasite eksikliği gibi çoklu krizlerden kaynaklandığını ifade etti.\n\nCOP31'deki Afrika Müzakereciler Grubu, gelişmiş ülkelerin 2025 yılına kadar sağlamayı taahhüt ettiği yıllık 40 milyar dolarlık tabanın 2035'e kadar üç katına çıkarılmasını talep ediyor. Ancak bu teklif zirvedeki resmi müzakereler için kabul edilmedi. Avrupa Birliği ise yeni fon hedefleri belirlemek yerine mevcut taahhütlerin savunmasız ülkelere ulaşmasının sağlanması gerektiğini savundu. AB heyetine liderlik eden Darragh O'Brien, masaya ek kaynaklarla gelmediklerini, önceliğin halihazırda taahhüt edilenlerin konuşlandırılması olduğunu belirtti.\n\nAvrupa Komisyonu iklim komiseri Wopke Hoekstra, paranın bankada kalıp sahaya ulaşmaması durumunda bunun anlamsız olduğunu vurgulayarak, zirvenin yeni taahhütlerden ziyade mevcut olanların yerine getirilmesine odaklanması gerektiğini söyledi. Öte yandan BM raporlarına göre, gelişmekteki ülkelerin 2035 yılına kadar yılda yaklaşık 300 milyar dolara ihtiyacı olacağı, ancak 2024 yılında bu miktarın yalnızca yüzde 10'unu alabildiği belirtiliyor.\n\nAfrika müzakerecileri, adaptasyon planlarının yatırımları önceliklendirmede önemli olduğunu kabul etmekle birlikte, planların eksikliğinin finansal desteği reddetmek için bir gerekçe olarak kullanılmaması gerektiğini savunuyor. Etiyopya'nın COP32 başkanlığının kıdemli stratejik danışmanı Mahlet Eyassu Melkie, Afrika'nın finansman ihtiyaçlarının bilimsel değerlendirmelere ve iklim kırılganlığına dayandığını ifade etti. Uzmanlar ise plan eksikliğinin ülkeleri afetleri önlemek yerine sürekli acil yardım ve yeniden yapılanmaya kaynak ayırmaya zorlayan kısır bir döngü yarattığını kaydetti.",
-      "highlights": [
-        "Afrika, adaptasyon finansmanının 2035'e kadar yıllık 40 milyar dolardan üç katına çıkarılmasını istiyor.",
-        "Avrupa Birliği, yeni fon hedefleri koymak yerine mevcut taahhütlerin yerine ulaştırılması gerektiğini savunuyor.",
-        "Uganda ve Malawi dahil 23 Afrika ülkesi henüz BM'ye Ulusal Adaptasyon Planları'nı sunmadı."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T05:03:43.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "headline": "Kellie Sloane, Mark Speakman'ın İstifasının Ardından NSW Liberallerindeki Göçün Sona Erdiğinden 'Oldukça Emin'",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1699112109947-1b90a2bf8be7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QXVzdHJhbGlhbiUyMHBvbGl0aWNzfGVufDF8MHx8fDE3OTUxNTIyNjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nikolas Gannon",
-        "photographerUrl": "https://unsplash.com/@nikolasgannon",
-        "unsplashUrl": "https://unsplash.com/photos/a-woman-in-a-black-robe-and-a-crowd-of-people-v8wzuNoZfUQ"
-      },
-      "timeAgo": "22 dk önce",
-      "body": "Yeni Güney Galler (NSW) muhalefet lideri Kellie Sloane, Mark Speakman'ın Mart ayındaki eyalet seçimlerinde alt meclis koltuğu için yeniden aday olmayacağını açıklamasının ardından, seçim öncesi Liberal partideki milletvekili ayrılıklarının sona erdiğinden \"oldukça emin\" olduğunu söyledi.\n\nPerşembe günü yapılan son oturum gününde geç saatlerde bir konuşma yapan Speakman, 2011'den bu yana elinde tuttuğu güney Sidney'deki Cronulla koltuğu için tekrar yarışmayacağını duyurdu. Mevcut 24 Liberal milletvekilinden sekizi, Mart ayındaki seçimlerde yeniden aday olmayacağını bildirdi. Ayrılan isimler arasında Jordan Lane, Mark Coure, Tanya Davies, Ray Williams, James Griffin, Alister Henskens ve Mark Taylor da bulunuyor.\n\nCuma günü düzenlediği basın toplantısında ayrılışların partinin seçim olasılıklarının bir göstergesi olmadığını savunan Sloane, partide yetenek ve kıdem bakımından etkileyici bir kesit bulunduğunu ifade etti. Sloane, Speakman'ı kalmaya ikna etmeye çalıştığını belirtirken, partiden ayrılan milletvekillerinin birçoğunun parlamentoda 10 yıldan uzun süredir görev yaptığını kaydetti. Mart ayındaki seçimler öncesinde daha fazla milletvekilinin istifa edip etmeyeceği sorusuna Sloane, bunun artık bittiğinden emin olduğunu dile getirdi.\n\nParti içindeki gelişmeler ve anket sonuçları da gündemde yer aldı. Sydney Morning Herald Resolve anketlerine göre koalisyonun oyu yüzde 28'den yüzde 23'e gerilerken, Labor yüzde 30'a, One Nation ise yüzde 26'ya ulaştı. Sloane, One Nation ile koalisyon kurulacağı yönündeki iddiaları reddederken, koalisyonun azınlık hükümeti kurmak için altı Labor koltuğunu kazanmasının yeterli olduğunu belirtti.\n\nPartinin Ilımlı kanadından olan Speakman ise Perşembe günkü konuşmasında, federal seçimlerin ardından Liberallerin \"varoluşsal bir tehdit\" ile karşı karşıya olduğunu söyledi ve partiyi \"Labor lite\" veya \"One Nation lite\" olmama konusunda uyardı. Speakman, 2015-2017 yılları arasında çevre bakanlığı, 2017'den 2023 seçimlerindeki yenilgiye kadar da başsavcılık görevlerini yürütmüştü. Perşembe günü ayrıca NSW Premieri Chris Minns, eski Liberal meclis üyesi Tanya Raffoul'un Epping'den Labor adayı olarak yarışacağını açıkladı. Cuma günü Sloane, Raffoul'un kişisel hırs peşinde koştuğunu ve taraf değiştirdiğini söyledi.",
-      "highlights": [
-        "Mark Speakman, Cronulla koltuğu için gelecek yılki eyalet seçimlerinde yarışmayacağını açıkladı.",
-        "Sekiz Liberal milletvekili, Mart ayındaki seçimlerde yeniden koltuk için yarışmayacağını duyurdu.",
-        "Kellie Sloane, Liberal partideki milletvekili ayrılıklarının sona erdiğinden 'oldukça emin' olduğunu belirtti."
-      ],
-      "externalUrl": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
-      "publishedAt": "2026-11-20T05:02:16.000Z",
-      "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
     }
