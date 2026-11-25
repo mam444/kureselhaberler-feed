@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-25T16:47:30.073Z",
+  "generatedAt": "2026-11-25T16:56:19.552Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/teknoloji/100-yeni-istihdamla-istanbuldaki-tesiste-uretim-basladi-3498146",
+      "headline": "100 yeni istihdamla İstanbul’daki tesiste üretim başladı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1717386255767-52643970d483?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZmFjdG9yeSUyMHByb2R1Y3Rpb258ZW58MXwwfHx8MTc5NTYyNTY5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Homa Appliances",
+        "photographerUrl": "https://unsplash.com/@homaappliances",
+        "unsplashUrl": "https://unsplash.com/photos/a-factory-with-a-lot-of-machines-in-it-5hPe-Tr2wog"
+      },
+      "timeAgo": "şimdi",
+      "body": "HONOR, İstanbul Avcılar’daki üretim tesisinde yerel üretime başladığını duyurdu. 2026’nın ikinci yarısında hayata geçirilen projenin ilk aşaması kapsamında 10 milyon dolarlık bir yatırım gerçekleştirildi. Yapılan bu yatırım doğrultusunda yeni üretim hatları kuruldu, gerekli üretim ekipmanları temin edildi ve yerel çalışanlar istihdam edilerek eğitildi.\n\nGerçekleştirilen çalışmalar neticesinde söz konusu projeyle birlikte 100’ü aşkın yeni istihdam alanı yaratıldı. Marka, 2026’nın son çeyreğinde Türkiye’de toplam 50 bin cihaz üretmeyi hedefliyor. 2027 yılından itibaren ise üretim kapasitesinin kademeli olarak önce 100 bine, ardından da 300 bin adede çıkarılması öngörülüyor.\n\nKonuya ilişkin değerlendirmelerde bulunan HONOR Türkiye Genel Müdürü Zhu Wentong (Mike), Türkiye’deki üretimin yalnızca bir yatırım olmadığını belirtti. Wentong, bu adımın Türkiye pazarına kök salma, yatırımı sürdürme ve yerel iş ortaklarıyla birlikte büyüme kararlılığının bir göstergesi olduğunu ifade etti. Ayrıca Türkiye'nin tüketici talebi, sağlam sanayi altyapısı ve nitelikli iş gücüyle stratejik bir pazar konumunda bulunduğunu vurguladı.",
+      "highlights": [
+        "HONOR, İstanbul Avcılar’daki tesisinde yerel üretime başladı.",
+        "İlk aşamada 10 milyon dolarlık yatırımla 100'ü aşkın yeni istihdam sağlandı.",
+        "2026 son çeyreğinde 50 bin cihaz üretilmesi hedefleniyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/teknoloji/100-yeni-istihdamla-istanbuldaki-tesiste-uretim-basladi-3498146",
+      "publishedAt": "2026-11-25T16:58:17.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
       "headline": "Fransız köyü, neredeyse ücretsiz arsa teklifiyle kırsaldaki nüfus düşüşüne meydan okuyor",
@@ -15,15 +39,16 @@
       "timeAgo": "7 dk önce",
       "body": "Fransa'nın başkenti Paris'te belediye başkanları yıllık kongreleri için bir araya gelirken, hem kentsel hem de kırsal alanlardaki yaşam standartları ile kamu hizmetlerindeki düşüş gündemin üst sıralarında yer alıyor. Özellikle kırsal kesimdeki belediye başkanları, topluluklarındaki azalan nüfustan endişe duyuyor. \n\nAncak bu trende meydan okuyan küçük bir Fransız kasabası dikkat çekiyor. Cantal bölgesinde yer alan Parlan adlı kasaba, neredeyse ücretsiz arsa teklifleri sayesinde nüfusunu iki katına çıkardı ve yerel hizmetlerini geliştirdi. \n\nFransa 24 tarafından yayımlanan videonun yapımcılığını Emerald Maxwell üstlendi. Konu, kırsal bölgelerdeki nüfus azalması ve bu soruna karşı üretilen yerel çözümler kapsamında ele alınıyor.",
       "highlights": [
-        "Cantal bölgesindeki Parlan kasabasının nüfusu iki katına çıktı",
-        "Yerel hizmetler neredeyse ücretsiz arsa teklifleri sayesinde gelişti",
-        "Belediye başkanları Paris'teki yıllık kongrede kırsal nüfus düşüşünü görüşüyor"
+        "Parlan kasabası nüfusunu iki katına çıkardı",
+        "Neredeyse bedava arsa teklifi sunuldu",
+        "Yerel hizmetler gelişme gösterdi"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
       "publishedAt": "2026-11-25T16:37:37.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T16:54:28.299Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-husilerin-saldirisina-kinama-sivil-alanlari-hedef-alan-bu-saldirganlik-derhal-son-bulmalidir-4876529",
@@ -39,15 +64,15 @@
       "timeAgo": "10 dk önce",
       "body": "AK Parti Sözcüsü Ömer Çelik, Suudi Arabistan’ın başkenti Riyad’da bulunan Kral Abdullah Finans Merkezi’ne gerçekleştirilen saldırıyı şiddetle kınadı. \n\nSözcü Çelik, sivil alanları hedef alan bu tür saldırganlıkların derhal son bulması gerektiğini vurguladı.\n\nAçıklamada ayrıca saldırıda yaralanan kişiler için acil şifalar dileğinde bulunuldu.",
       "highlights": [
-        "AK Parti Sözcüsü Çelik, Riyad'daki Kral Abdullah Finans Merkezi'ne düzenlenen saldırıyı kınadı.",
-        "Saldırganlığın sivil alanları hedef aldığını ve derhal son bulması gerektiğini belirtti.",
-        "Yaralananlar için acil şifalar diledi."
+        "AK Parti Sözcüsü Ömer Çelik, Riyad'daki Finans Merkezi'ne düzenlenen saldırıyı kınadı.",
+        "Yaralananlara acil şifalar dileyen Çelik, sivil alanları hedef alan saldırganlığın derhal son bulması gerektiğini belirtti."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-husilerin-saldirisina-kinama-sivil-alanlari-hedef-alan-bu-saldirganlik-derhal-son-bulmalidir-4876529",
       "publishedAt": "2026-11-25T16:35:04.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T16:54:28.299Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
@@ -1119,7 +1144,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-25T10:34:33.692Z",
+      "imageSearchAttemptedAt": "2026-11-25T16:54:28.299Z",
       "sourceTextAttemptedAt": "2026-11-25T10:04:32.224Z"
     },
     {
@@ -1202,7 +1227,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T09:54:33.518Z"
+      "imageSearchAttemptedAt": "2026-11-25T16:54:28.299Z"
     },
     {
       "id": "https://www.trthaber.com/haber/dunya/gazzede-cadirlarda-yasayan-filistinliler-yeni-soguk-hava-dalgasinin-tehdidi-altinda-964379.html",
@@ -14179,31 +14204,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:54:23.452Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/kari-kocanin-korkunc-yasak-ask-plani-cesedi-varil-icinde-yok-etmeye-calistilar-7704373",
-      "headline": "Kars'tan Antakya'ya gelen Ahmet Nuri Bezar cinayetinde varil ve nehir detayı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1625449281218-cbb6183f0aec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwaW52ZXN0aWdhdGlvbiUyMGNyaW1lJTIwc2NlbmV8ZW58MXwwfHx8MTc5NTE2NzI4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Campbell Jensen",
-        "photographerUrl": "https://unsplash.com/@visuals_by_campbell",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-blue-ford-f-150-b6hJHLGpPiI"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Kars'ta yaşayan 40 yaşındaki Ahmet Nuri Bezar, birliktelik yaşadığı M.K. ile görüşmek amacıyla Antakya ilçesine geldi. Görüşmenin ardından M.K.'nin kocası E.C.K., eşi ile Bezar arasında ilişki olduğunu öğrendi. Durum üzerine E.C.K. ve karısı M.K., Bezar'ı öldürmek için plan yaptı. Çift, plan doğrultusunda Bezar'ı bıçaklayarak öldürdü.\n\nCinayetin ardından şahsın cesedini yok etmek isteyen şüpheliler, aile üyelerinin de yardımıyla cesedi bir varilin içine koyarak yakmaya çalıştı. Cesedi bu yöntemle tamamen yok edemeyen karı koca, geriye kalan bedeni bir çuvala koyarak Asi Nehri'ne attı. Hatay İl Emniyet Müdürlüğü Asayiş Şube Müdürlüğü Cinayet Büro Amirliği ekipleri olayın aydınlatılması için çalışma başlattı.\n\nYürütülen soruşturma kapsamında M.K. ifadesinde, Bezar'ın kendisiyle görüşmek için Antakya'ya geldiğini ve eşi E.C.K.'nin durumu öğrenmesi üzerine tartışma yaşadıklarını beyan etti. Elde edilen ifadeler doğrultusunda soruşturma derinleştirildi ve Asi Nehri'nde dalgıç polislerince yapılan aramalarda Bezar'ın çuval içerisindeki cesedine ulaşıldı.\n\nOlayla ilgili olarak cinayeti işledikleri belirtilen karı koca ile kendilerine yardım ettiği tespit edilen aile yakını toplam 5 kişi gözaltına alındı. Emniyetteki işlemleri tamamlanan şüpheliler adliyeye sevk edildi. Soruşturma kapsamında elde edilen bulgular ve ifadeler adli makamlara aktarıldı.",
-      "highlights": [
-        "Ahmet Nuri Bezar, M.K. ile görüşmek için geldiği Antakya'da öldürüldü.",
-        "Şüpheliler cesedi varilde yakmaya çalıştıktan sonra çuvalla Asi Nehri'ne attı.",
-        "Olayla ilgili gözaltına alınan 5 kişi emniyetteki işlemlerinin ardından adliyeye sevk edildi."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/kari-kocanin-korkunc-yasak-ask-plani-cesedi-varil-icinde-yok-etmeye-calistilar-7704373",
-      "publishedAt": "2026-11-20T09:32:25.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:44:36.198Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
@@ -14428,6 +14428,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss",
     "https://news.sky.com/story/life-death-and-terror-24-hours-in-ukraines-kill-zone-13616131",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss"
   ]
 }
