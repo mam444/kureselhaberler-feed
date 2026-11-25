@@ -1,6 +1,52 @@
 {
-  "generatedAt": "2026-11-25T15:47:24.209Z",
+  "generatedAt": "2026-11-25T16:26:22.036Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
+      "headline": "ABD, AB ve Çin dahil büyük ortaklarına yönelik yeni gümrük vergisi teklifini açıkladı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1775136357590-1573246b7068?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VVMlMjB0cmFkZSUyMHRhcmlmZnN8ZW58MXwwfHx8MTc5NTYyMzkyMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Oleksii Rozanov",
+        "photographerUrl": "https://unsplash.com/@rozanovz",
+        "unsplashUrl": "https://unsplash.com/photos/american-flags-hang-in-a-row-on-a-building-4bTdXe0RxSc"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Amerika Birleşik Devletleri, Avrupa Birliği ve Çin'in de aralarında bulunduğu 14 ekonomiye yönelik yeni gümrük vergisi teklifini kamuoyuna açıkladı. Çarşamba günü duyurulan bu adım, aşırı üretim iddialarına yönelik aylardır süren bir soruşturmanın ardından atıldı ve ABD Başkanı Donald Trump'ın Washington'ın ticaret ilişkilerini yeniden şekillendirme çabalarının son halkasını oluşturdu.\n\nAçıklanan yeni vergi teklifleri, ABD'nin en büyük ticaret ortaklarından bazılarını hedef alıyor. Teklif edilen bu tarifelerin yürürlüğe girmeden önce bir halka açık görüş ve değerlendirme sürecinden geçmesi gerekiyor.\n\nSöz konusu gelişme, ABD yönetiminin dış ticaret politikalarında attığı yeni adımlar kapsamında duyuruldu. Konuyla ilgili detaylar ve sürecin yansımaları basında yer almaya devam ediyor.",
+      "highlights": [
+        "ABD, aralarında AB ve Çin'in de bulunduğu 14 ekonomiye yönelik gümrük vergisi teklifini açıkladı.",
+        "Karar, aşırı üretim iddialarına yönelik aylardır süren soruşturmanın ardından alındı.",
+        "Yeni tarifeler yürürlüğe girmeden önce halka açık görüş sürecinden geçecek."
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
+      "publishedAt": "2026-11-25T16:21:55.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/gundem/ilkokullarda-yetistirme-programi-yonergesi-yayimlandi/4137784",
+      "headline": "İlkokullarda Yetiştirme Programı Yönergesi yayımlandı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1524069290683-0457abfe42c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cHJpbWFyeSUyMHNjaG9vbCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1NjIzOTI4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Church of the King",
+        "photographerUrl": "https://unsplash.com/@cotk_photo",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-children-taking-picture-j9jZSqfH5YI"
+      },
+      "timeAgo": "6 dk önce",
+      "body": "Milli Eğitim Bakanlığı (MEB) tarafından İlkokullarda Yetiştirme Programı (İYEP) kapsamında hazırlanan yeni yönerge resmi olarak yayımlandı.\n\nYayımlanan bu yönerge ile programın uygulanmasına yönelik usul ve esaslar belirlenmiş oldu.\n\nSöz konusu düzenleme, ilkokul düzeyindeki öğrencilerin yetiştirilmesi amacıyla hayata geçirilen İYEP'in çerçevesini oluşturuyor.",
+      "highlights": [
+        "Milli Eğitim Bakanlığınca hazırlanan İYEP yönergesi yayımlandı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/gundem/ilkokullarda-yetistirme-programi-yonergesi-yayimlandi/4137784",
+      "publishedAt": "2026-11-25T16:19:24.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
       "headline": "South Africa's Ramaphosa wins court battle over impeachment threat",
@@ -35,7 +81,9 @@
       "publishedAt": "2026-11-25T15:40:54.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T16:24:23.442Z",
+      "imageSearchAttemptedAt": "2026-11-25T16:24:23.442Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memura-gecici-uzaklastirma-7707933",
@@ -960,7 +1008,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T09:38:35.637Z",
+      "imageSearchAttemptedAt": "2026-11-25T16:24:23.442Z",
       "sourceTextAttemptedAt": "2026-11-25T10:04:32.224Z"
     },
     {
@@ -14161,55 +14209,6 @@
       "category": "Spor",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T10:34:29.932Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-      "headline": "İngiltere ve AB, İlişkileri Güçlendirmek İçin Nadir Bir Zirvede Bir Araya Geliyor",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1625440153141-1ae4c27ff33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RVUlMjBzdW1taXR8ZW58MXwwfHx8MTc5NTE2NjczOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ALEXANDRE LALLEMAND",
-        "photographerUrl": "https://unsplash.com/@alexandrelallemand",
-        "unsplashUrl": "https://unsplash.com/photos/blue-and-yellow-flag-on-pole-Pcs3mOL14Sk"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "İngiltere ile Avrupa Birliği, ilişkileri güçlendirmek ve bağları onarmak amacıyla Brüksel'de nadir görülen bir zirve düzenliyor. On yıl önce İngiltere'nin birlikten ayrılma kararının ardından gerçekleşen bu buluşmada, Başbakan Andy Burnham, Avrupa Konseyi Başkanı António Costa ve Avrupa Komisyonu Başkanı Ursula von der Leyen ile görüşmeler gerçekleştiriyor. Zirve kapsamında bakanlar ve komiserlerin katılımıyla genel oturumlar da yapılıyor.\n\nBaşbakan Andy Burnham, bu zirveyi ayrılığın yarattığı zararı telafi etme yolunda bir adım olarak nitelendirirken, verilen Brexit'in işe yaramadığını ifade etti. Burnham, gelecekteki ilişkiler için yeniden katılma dahil tüm seçeneklerin masada olması gerektiğini belirtti, ancak bunun İngiliz seçmenlerin desteğinin yanı sıra AB'nin de oybirliğini gerektirdiğini vurguladı.\n\nGörüşmeler öncesinde Ursula von der Leyen zirvenin iddialı ve somut sonuçlar barındırmasını istediğini belirtirken, gençlere yönelik fırsatlar, kolaylaştırılmış tarım-gıda ticareti ve ekonomik güvenlik konularına dikkat çekti. Cuma günü imzalanması beklenen anlaşmalar arasında, 100.000 kadar genç yetişkinin karşılıklı olarak üç yıla kadar yaşayıp çalışabilmesi, bir emisyon ticaret anlaşması ve gıda ürünlerindeki kontrollerin kaldırılması yer alıyor. Bu anlaşmaların İngiltere ekonomisine yüzde 0,4 oranında mütevazı bir katkı sağlayabileceği belirtiliyor.\n\nAncak bu anlaşmaların hayata geçmesi için İngiltere'nin belirlenmesinde rol oynamadığı bazı AB kural ve standartlarını kabul etmesi gerekiyor. Reform UK lideri Nigel Farage ise bu durumun İngiltere'nin bağımsızlığını zedelediğini savunarak tartışmaların yeniden başladığını ifade etti. Öte yandan Ukrayna'daki savaş ve İngiltere'nin askeri gücü tarafları güvenlik ve savunma konularında yakınlaştırıyor. António Costa, güvenlik ve refahın iç içe geçtiğini ve güçlü bir ortaklığın esuf olduğunu belirtti.\n\nBuna rağmen AB yetkilileri, İngiltere'nin yeniden katılmasına yönelik tartışmaları teşvik etme konusunda temkinli yaklaşımını koruyor. Son on yılda görev yapan yedi İngiliz başbakanının değişen taleplerinden yorulan yetkililer, ülkenin niyetleri konusunda gerçek bir netlik talep ediyor. İrlanda'nın Londra Büyükelçisi Sonja Hyland da İngiltere'nin ne istediği konusunda net bir karar vermesi gerektiğini ifade etti.",
-      "highlights": [
-        "İngiltere ve AB yetkilileri ilişkileri güçlendirmek için Brüksel'de bir araya geliyor.",
-        "İmzalanması beklenen anlaşmalar arasında gençlerin karşılıklı çalışması ve gıda ticaretindeki kontrollerin kaldırılması yer alıyor.",
-        "AB yetkilileri İngiltere'nin yeniden katılımı konusunda netlik talep ediyor ve temkinli yaklaşıyor."
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit",
-      "publishedAt": "2026-11-20T09:14:41.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/uyusturucu-tacirlerine-darbe-33-ilde-254-kisi-yakalandi-4874764",
-      "headline": "Uyuşturucu tacirlerine darbe: 33 ilde 254 kişi yakalandı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1538115081112-32c7d8401807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwb3BlcmF0aW9uJTIwZHJ1Z3N8ZW58MXwwfHx8MTc5NTE2NjA5OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AJ Colores",
-        "photographerUrl": "https://unsplash.com/@ajcolores",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-police-in-the-middle-of-the-road-aZ-TRPezwt0"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İçişleri Bakanlığının açıklamasına göre, Cumhuriyet Başsavcılıkları ile Jandarma Genel Komutanlığı Narkotik Suçlarla Mücadele Daire Başkanlığı koordinesinde uyuşturucu madde satıcılarına ve yasa dışı kenevir ekimine karşı bir çalışma gerçekleştirildi. Yapılan tespitlerde, şüphelilerin yasa dışı kenevir ve skunk ekimiyle uyuşturucu üretimine kaynak sağladığı, uyuşturucu ticaretini organize olarak yürüttüğü ve sosyal medya ile mesajlaşma uygulamaları üzerinden satış yaptığı belirlendi.\n\nElde edilen bu bilgiler doğrultusunda, il jandarma komutanlıkları tarafından 33 ilde operasyonlar düzenlendi. Bu operasyonlarda 1620 narkotik ve asayiş ekibinin yanı sıra 8 bin 105 personel ve Narkotik Suçlarla Mücadele Daire Başkanlığı Analiz ve Takip timleri görev aldı.\n\nGerçekleştirilen baskınlarda toplam 254 şüpheli yakalandı. Operasyonlar sırasında 504 kilogram uyuşturucu madde ile 104 bin 56 uyuşturucu hap ele geçirilirken, çok sayıda kök kenevir ve skunk da imha edildi.\n\nGözaltına alınan şüphelilerden 159'u çıkarıldıkları mahkemece tutuklanarak cezaevine gönderildi. Diğer 95 şüpheli hakkında ise adli kontrol kararları uygulandı.",
-      "highlights": [
-        "33 ilde düzenlenen operasyonlarda 254 şüpheli yakalandı",
-        "504 kilogram uyuşturucu madde ile 104 bin 56 uyuşturucu hap ele geçirildi",
-        "Yakalanan şüphelilerden 159'u tutuklandı, 95'ine adli kontrol uygulandı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/uyusturucu-tacirlerine-darbe-33-ilde-254-kisi-yakalandi-4874764",
-      "publishedAt": "2026-11-20T09:13:58.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T09:44:24.306Z",
       "isBreaking": false
     }
   ],
