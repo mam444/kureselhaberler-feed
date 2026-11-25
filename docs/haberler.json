@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-25T18:25:21.677Z",
+  "generatedAt": "2026-11-25T18:35:14.743Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/video/gundem/lgbtlilerin-25-kasim-eylemi-cagrilarinin-ardindan-istiklal-caddesi-ve-taksim-meydani-kapatildi-4876555",
+      "headline": "LGBT’lilerin 25 Kasım eylemi çağrılarının ardından İstiklal Caddesi ve Taksim Meydanı kapatıldı",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "2 dk önce",
+      "body": "İstanbul'da 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında yapılan eylem çağrılarının ardından Taksim Meydanı ve İstiklal Caddesi'nde geniş güvenlik önlemleri alındı. Beyoğlu Kaymakamlığı, ilçe genelinde toplantı ve gösteri yürüyüşlerini 24 saat süreyle yasaklarken İstanbul Valiliği de Taksim Metro İstasyonu ile Kabataş-Taksim Füniküler Hattı'nın kapatıldığını duyurdu.",
+      "highlights": [],
+      "externalUrl": "https://www.yenisafak.com/video/gundem/lgbtlilerin-25-kasim-eylemi-cagrilarinin-ardindan-istiklal-caddesi-ve-taksim-meydani-kapatildi-4876555",
+      "publishedAt": "2026-11-25T18:32:03.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/nigeria-seizes-220-million-worth-meth-arrests-5-138448484",
+      "headline": "Nijerya'da 220 Milyon Dolarlık Metamfetamin Ele Geçirildi, 5 Meksikalı Tutuklandı",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1613057217733-a5902c30dcea?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8bWV0aGFtcGhldGFtaW5lJTIwZHJ1Z3MlMjBzZWl6dXJlfGVufDF8MHx8fDE3OTU2MzE2NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Олег Мороз",
+        "photographerUrl": "https://unsplash.com/@tengyart",
+        "unsplashUrl": "https://unsplash.com/photos/white-and-black-crystal-on-white-sand-3pw834n1fZw"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Nijerya'nın uyuşturucuyla mücadele ajansı, ülkenin güneydoğusunda düzenlenen büyük bir operasyonda en az 220 milyon dolar değerinde metamfetamin ele geçirildiğini ve beş Meksikalı şüphelinin tutuklandığını açıkladı.\n\nUlusal Uyuşturucu Kanunu Uygulama Ajansı (NDLEA) ekipleri, Enugu eyaletinde bulunan ve endüstriyel ölçekte faaliyet gösteren bir laboratuvara baskın düzenledi. Baskında, aralarında \"Meksikalı met uzmanlarının\" da bulunduğu şüpheliler yakalandı.\n\nAjans sözcüsü Femi Babafemi, gizli fabrikada tamamlanmış ve üretim aşamasında olan toplam 1.512 kilogram metamfetamin ele geçirildiğini belirtti. El konulan uyuşturucunun tahmini piyasa değerinin 226,8 milyon dolar olduğu bildirildi.\n\nŞüphelilerin haftalarca gözetim altında tutulduğu, sahte pasaportlarla komşu Benin üzerinden ülkeye giren Meksikalıların hareketlerinin 11 Kasım'daki operasyona kadar takip edildiği kaydedildi. Birleşmiş Milletler Uyuşturucu ve Suç Ofisi'ne göre Batı ve Orta Afrika bölgesi, zayıf sınırlar ve yolsuzluk nedeniyle yasa dışı uyuşturucu kaçakçılığı ve üretimi için önemli bir merkez haline geldi.",
+      "highlights": [
+        "Nijerya'da en az 220 milyon dolar değerinde metamfetamin ele geçirildi.",
+        "Enugu eyaletindeki endüstriyel laboratuvarda beş Meksikalı şüpheli tutuklandı.",
+        "Toplam 1.512 kilogram metamfetaminin ele geçirildiği açıklandı."
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/nigeria-seizes-220-million-worth-meth-arrests-5-138448484",
+      "publishedAt": "2026-11-25T18:25:32.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/amasyada-tarihi-yapilar-turuncu-isikla-aydinlatildi-4876551",
       "headline": "Amasya'da tarihi yapılar kadına şiddete karşı turuncuya büründü",
@@ -122,7 +162,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-      "headline": "US stocks fall further as fears over AI intensify",
+      "headline": "ABD borsalarında yapay zeka endişeleriyle düşüş derinleşti",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": "https://images.unsplash.com/photo-1648461311914-c5cec4e8a09f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VVMlMjBzdG9ja3MlMjBmYWxsJTIwZnVydGhlciUyMGFzJTIwZmVhcnMlMjBvdmVyJTIwQUklMjBpbnRlbnNpZnl8ZW58MXwwfHx8MTc5NTYyOTMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
@@ -132,17 +172,22 @@
         "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-63Y_cnP_fK8"
       },
       "timeAgo": "7 dk önce",
-      "body": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "highlights": [],
+      "body": "ABD borsalarında, yapay zekaya yönelik yatırımların seviyesi ve sürdürülebilirliğine ilişkin artan endişeler nedeniyle Çarşamba günü hisse senedi fiyatlarında düşüş sürdü. Nvidia ve Anthropic hisseleri erken işlemlerde keskin bir şekilde gerilerken, ABD'nin üç ana borsa endeksi de aşağı yönlü seyretti. Teknoloji ağırlıklı Nasdaq endeksindeki kayıp %2'yi aştı. Yatırımcılar, devasa meblağların yatırıldığı yapay zekanın sonunda kâr getirip getirmeyeceği konusunda soru işaretleri yaşıyor.\n\nNvidia Üst Yöneticisi Jensen Huang'ın görevine yeniden getirilmesinin ardından yaşanan hisse artışı geçici kaldı. Şirket hisseleri Çarşamba günkü erken işlemlerde %8 oranında düşerek Salı günkü gerilemeyi devam ettirdi. Huang'ın evlilik dışı ilişkilerinin ortaya çıkmasının ardından istifa etmesi ve yeniden göreve gelmesi, dünyanın önde gelen yapay zeka çip üreticisinin piyasa değerinde dalgalanmalara yol açtı. Nvidia'nın hem tedarikçi hem de finansör konumunda olması, bu çalkantılı dönemin geniş çaplı bir etki yaratmasına neden oldu.\n\nAmazon, Tesla, SpaceX, Microsoft ve Meta dahil diğer büyük teknoloji şirketlerinin hisselerinde de düşüşler görüldü. Anthropic hisseleri geçen hafta piyasaya çıktığı 83 dolar seviyesinin altında işlem görmeye devam ederken, Amazon hisseleri %5'ten fazla değer kaybetti. Düşüşler, ABD borsalarının Perşembe günü Şükran Günü nedeniyle kapanması ve Cuma günü kısa bir seans için açılması öncesinde gerçekleşti.\n\nBunun yanı sıra ABD hükümeti, Başkan Donald Trump'ın amiral gemisi ticaret politikasının bir parçası olarak Çarşamba günü ticaret ortaklarına yönelik yeni tarifeler açıkladı. ABD ara seçimlerinde Demokratların kazançları ve yapay zeka firmalarına yönelik daha sert düzenleme kampanyaları da yatırımcıları tedirgin eden unsurlar arasında yer aldı. Öte yandan Goldman Sachs, tüm bu endişelere rağmen 2026 yılında yapay zeka yatırımlarının 1 trilyon doları aşmasını bekliyor. CrossCheck Management Baş Yatırım Sorumlusu Todd Schoenberger, şirketlerin harcama miktarında birbirleriyle yarışmaya çalıştığını ancak Wall Street'in bunun karşılığının alınıp alınamayacağı konusunda belirsizlik yaşadığını belirtti.",
+      "highlights": [
+        "Nvidia ve Anthropic başta olmak üzere büyük teknoloji firmalarının hisseleri Çarşamba günü düştü.",
+        "Nasdaq endeksi %2'den fazla düşüş yaşadı.",
+        "Goldman Sachs, yapay zeka yatırımlarının 2026'da 1 trilyon doları aşmasını bekliyor."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T17:48:09.000Z",
-      "category": "Dünya",
+      "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T18:34:22.029Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/kenya-cult-leader-found-guilty-new-assault-cruelty-138447436",
-      "headline": "Kenya cult leader found guilty of new assault and cruelty charges",
+      "headline": "Kenya'da tarikat lideri Paul Mackenzie yeni suçlamalardan suçlu bulundu",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
       "imageUrl": "https://images.unsplash.com/photo-1591608825526-e8fadc360437?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8S2VueWElMjBjdWx0JTIwbGVhZGVyJTIwZm91bmQlMjBndWlsdHklMjBvZiUyMG5ldyUyMGFzc2F1bHQlMjBhbmQlMjBjcnVlbHR5JTIwY2hhcmdlc3xlbnwxfDB8fHwxNzk1NjMwNTE0fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -152,13 +197,18 @@
         "unsplashUrl": "https://unsplash.com/photos/man-in-gray-crew-neck-shirt-wearing-black-cap-vEAmWt75MUQ"
       },
       "timeAgo": "28 dk önce",
-      "body": "Jailed Kenyan cult leader Paul Mackenzie has been found guilty of assault and cruelty to children in a new case",
-      "highlights": [],
+      "body": "Hapisteki Kenyalı tarikat lideri Paul Mackenzie, çocuklara yönelik darp ve şiddet suçlamalarıyla açılan yeni bir davada suçlu bulundu. Associated Press'in haberine göre, mahkeme kararını Çarşamba günü açıkladı. Daha önce 190 çocuğun ve bir yetişkinin ölümünden sorumlu tutularak 200 yıl hapis cezasına çarptırılan Mackenzie'nin, bu yeni davanın cezasının 17 Aralık'ta açıklanacağı bildirildi.\n\n Mombasa sahil kentindeki mahkemede görülen davada Mackenzie, 11 takipçisiyle birlikte yargılanırken, 24 kişi beraat etti. Baş Yargıç Nelly Chepchirchir, ebeveynlerin sorumluluğu ile sahip oldukları dini inançların birbirinden ayrılması gerektiğini vurgulayarak dinin çocuklara zulmetmek için bir mazeret olamayacağını belirtti. Davada adı geçen altı çocuğun, İsa'yla önce karşılaşabilmeleri için ebeveynlerinden önce oruç tutmaya zorlandığı iddia edildi. Kaçmaya çalışan ya da gizlice yiyecek ve içecek tüketen çocukların ise bağlandığı, dövüldüğü ve kilit altına alındığı kaydedildi.\n\n Öte yandan Paul Mackenzie'nin Perşembe günü kararı açıklanacak ayrı radikalleşme suçlamalarıyla da karşı karşıya olduğu belirtildi. İyi Haberler Uluslararası Kilisesi'ni kuran Mackenzie, takipçilerine Chakama adı verilen izole çiftliğe taşınmalarını söylemişti. 2023 yılında kayıp yakınları için yapılan ihbarlar sonucunda başlatılan arama operasyonlarında, sığ toplu mezarlarda 400'den fazla ceset bulunmuştu. Takipçilerinin İsa'yı görmek için ölüm orucuna girmesini istediği iddia edilen Mackenzie ise hakkındaki suçlamaları reddederek kimseyi oruç tutmaya zorlamadığını savunuyor.",
+      "highlights": [
+        "Hapisteki tarikat lideri Paul Mackenzie, çocuklara yönelik darp ve şiddet suçlamalarından suçlu bulundu.",
+        "Mahkemenin, cezayı 17 Aralık'ta açıklayacağı bildirildi.",
+        "Mackenzie, 190 çocuğun ve bir yetişkinin ölümünden sorumlu tutularak daha önce 200 yıl hapis cezasına çarptırılmıştı."
+      ],
       "externalUrl": "https://abcnews.com/International/wireStory/kenya-cult-leader-found-guilty-new-assault-cruelty-138447436",
       "publishedAt": "2026-11-25T17:47:30.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T18:34:22.029Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/gunun-maclari-25-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-25-kasim-carsamba-gunun-maclari-3498176",
@@ -215,8 +265,12 @@
       "headline": "Irak Yüksek Mahkemesi'nden Hükümete Sınır ve Petrol Sahaları Kararı",
       "source": "Al Jazeera",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1603456219079-2f9e77cf268f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SXJhayUyMFklQzMlQkNrc2VrJTIwTWFoa2VtZXNpJTI3bmRlbiUyMEglQzMlQkNrJUMzJUJDbWV0ZSUyMFMlQzQlQjFuJUM0JUIxciUyMHZlJTIwUGV0cm9sJTIwU2FoYWxhciVDNCVCMSUyMEthcmFyJUM0JUIxfGVufDF8MHx8fDE3OTU2MzE3MTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Polina Kuzovkova",
+        "photographerUrl": "https://unsplash.com/@p_kuzovkova",
+        "unsplashUrl": "https://unsplash.com/photos/green-car-parked-on-road-near-white-concrete-building-during-daytime-chuboZwHs48"
+      },
       "timeAgo": "55 dk önce",
       "body": "Irak'ın en üst mahkemesi, hükümetin Kürt sınırları ile petrol sahalarının kontrolünü devralabileceğine hükmetti. Bu karar, Kürt yetkililerin Bağdat yönetimini bölgenin anayasal haklarına yönelik bir \"saldırı\" gerçekleştirmekle suçlamasından sadece bir gün sonra geldi. Gelişmeler, merkezi hükümet ile Kürt yönetimi arasındaki gerilimi artırırken, mahkemenin aldığı bu yeni kararın sahadaki yansımaları yakından takip ediliyor. Kürt makamlarının konuya ilişkin sonraki adımları ve konunun tarafları arasında nasıl bir diyalog kurulacağı ise belirsizliğini koruyor.",
       "highlights": [
@@ -227,7 +281,8 @@
       "publishedAt": "2026-11-25T17:29:51.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-25T18:34:22.029Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
@@ -4520,7 +4575,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:44:16.261Z",
-      "imageSearchAttemptedAt": "2026-11-24T17:54:19.910Z"
+      "imageSearchAttemptedAt": "2026-11-25T18:34:22.029Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
@@ -14142,53 +14197,6 @@
       "publishedAt": "2026-11-20T11:23:17.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/28-ilde-dev-feto-operasyonu-83-supheli-yakalandi-47si-tutuklandi-4874836",
-      "headline": "28 ilde dev FETÖ operasyonu: 83 şüpheli yakalandı, 47'si tutuklandı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "2 dk önce",
-      "body": "Emniyet Genel Müdürlüğü birimleri ile Cumhuriyet Başsavcılıkları koordinesinde 28 ilde FETÖ'ye yönelik düzenlenen eş zamanlı operasyonlarda 83 şüpheli yakalandı. Adli makamlara sevk edilen şüphelilerden 47'si tutuklanırken 22'si hakkında adli kontrol kararı verildi.",
-      "highlights": [
-        "28 ilde düzenlenen operasyonlarda 83 şüpheli yakalandı",
-        "Adliyeye sevk edilen 47 şüpheli tutuklandı, 22 kişi hakkında adli kontrol kararı verildi",
-        "Şüphelilerin ByLock kullanıcısı olduğu ve ankesörlü telefonlarla iletişim kurduğu belirlendi"
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/28-ilde-dev-feto-operasyonu-83-supheli-yakalandi-47si-tutuklandi-4874836",
-      "publishedAt": "2026-11-20T11:22:19.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T11:44:19.150Z",
-      "imageSearchAttemptedAt": "2026-11-24T22:14:22.571Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/taskoprude-sis-etkili-oldu-dron-ile-goruntulendi-kastamonu-taskopru-haberleri-4874826",
-      "headline": "Kastamonu'da kadınlar babasının vasiyetiyle kurdukları kooperatifte üretime başladı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1617694820985-a5476fe22722?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8d29tZW4lMjB3ZWF2aW5nfGVufDF8MHx8fDE3OTUxNzMyODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ALAN DE LA CRUZ",
-        "photographerUrl": "https://unsplash.com/@alandelacruz4",
-        "unsplashUrl": "https://unsplash.com/photos/woman-in-white-sweater-lying-on-bed-3irPFKfB0o0"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul'dan Kastamonu'nun Küre ilçesindeki köyüne taşınan Hayriye Yüce, babasının vasiyetini yerine getirmek ve göç veren köyü ile ilçeyi canlandırmak amacıyla kadınlarla bir kooperatif kurdu. Kasım 2024'te 12 kadının bir araya gelmesiyle kurulan kooperatifte, yöresel ürünlerle üretime başlandı. İlk olarak kilim dokuma işi ele alındı ve geçmişi 1800'lü yıllara uzanan Küre kiliminin yangından kurtarılmış hali gün yüzüne çıkarıldı.\n\nDokuz yıl kanser tedavisi gördüğünü belirten Hayriye Yüce, babasının vefat etmeden önce dört kız kardeşi bir araya topladığını ifade etti. Yüce, ikinci bir fırsatta baba vasiyetini gerçekleştirmek üzere köyüne döndüğünü aktardı. Projenin sekiz atölyeden oluştuğunu belirten Yüce, deri dokuma mesleğini dört kadınla birlikte başardıklarını kaydetti.\n\nKooperatif bünyesinde faaliyet gösteren Raziye Türkmez ise üçüncü ve dördüncü denemelerinde başarılı olduğunu belirtti. Köydeki kadınların azmiyle yürütülen çalışmalar, yöresel üretimin canlanmasına katkı sağlarken çevredeki insanlara da örnek teşkil ediyor.",
-      "highlights": [
-        "Hayriye Yüce babasının vasiyetiyle İstanbul'dan Kastamonu'nun Küre ilçesindeki köyüne döndü",
-        "Kasım 2024'te 12 kadın bir araya gelerek kooperatif kurdu",
-        "Geçmişi 1800'lü yıllara uzanan Küre kilimi gün yüzüne çıkarıldı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/taskoprude-sis-etkili-oldu-dron-ile-goruntulendi-kastamonu-taskopru-haberleri-4874826",
-      "publishedAt": "2026-11-20T11:12:12.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T13:24:20.552Z",
       "isBreaking": false
     }
   ],
