@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-25T15:07:58.289Z",
+  "generatedAt": "2026-11-25T15:16:04.465Z",
   "articles": [
+    {
+      "id": "https://www.rfi.fr/en/international/20261125-eu-plans-%E2%82%AC50bn-tech-fund-to-compete-with-us-and-china-in-the-quantum-race",
+      "headline": "EU plans €50bn tech fund to compete with US and China in the quantum race",
+      "source": "RFI English",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
+      "imageUrl": "https://images.unsplash.com/photo-1742845851727-e52e6093bb1e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RVUlMjBwbGFucyUyMCVFMiU4MiVBQzUwYm4lMjB0ZWNoJTIwZnVuZCUyMHRvJTIwY29tcGV0ZSUyMHdpdGglMjBVUyUyMGFuZCUyMENoaW5hJTIwaW4lMjB0aGUlMjBxdWFudHVtJTIwcmFjZXxlbnwxfDB8fHwxNzk1NjE5Njc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Lucas Gallone",
+        "photographerUrl": "https://unsplash.com/@lucasgallone",
+        "unsplashUrl": "https://unsplash.com/photos/flags-of-various-nations-fly-on-building-kHx4KLYKMd4"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "The European Union announced plans on Wednesday for a fund of up to €50 billion to boost artificial intelligence and quantum computing, alongside new rules favouring EU companies for public contracts. The bloc aims to lead the world in quantum technology by 2030 and avoid losing further ground to the United States and China.",
+      "highlights": [],
+      "externalUrl": "https://www.rfi.fr/en/international/20261125-eu-plans-%E2%82%AC50bn-tech-fund-to-compete-with-us-and-china-in-the-quantum-race",
+      "publishedAt": "2026-11-25T15:13:07.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aa.com.tr/tr/spor/besiktas-kafilesini-tasiyan-ucak-olumsuz-hava-kosullari-nedeniyle-batuma-inemedi/4137720",
+      "headline": "Beşiktaş kafilesini taşıyan uçak Batum'a inemedi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1569629743817-70d8db6c323b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8YWlycGxhbmV8ZW58MXwwfHx8MTc5NTYxOTY3OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "John McArthur",
+        "photographerUrl": "https://unsplash.com/@snowjam",
+        "unsplashUrl": "https://unsplash.com/photos/white-airplane-on-mid-air-8KLLgqHMAv4"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Beşiktaş kafilesini taşıyan uçak, olumsuz hava koşulları sebebiyle planlanan havalimanına iniş gerçekleştiremedi. Yaşanan hava muhalefeti nedeniyle kafileyi taşıyan hava aracı Batum'a iniş yapamadı.\n\nAlınan karar doğrultusunda siyah-beyazlı heyetin uçağı Rize-Artvin Havalimanı'na iniş yaptı. \n\nUçağın bu havalimanına inmesinin hemen ardından, Beşiktaş kafilesinin kara yoluyla Batum'a geçiş yapacağı bildirildi.",
+      "highlights": [
+        "Beşiktaş kafilesini taşıyan uçak olumsuz hava koşulları nedeniyle Batum'a inemedi",
+        "Kafile Rize-Artvin Havalimanı'na indi",
+        "Batum'a kara yoluyla geçilecek"
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/spor/besiktas-kafilesini-tasiyan-ucak-olumsuz-hava-kosullari-nedeniyle-batuma-inemedi/4137720",
+      "publishedAt": "2026-11-25T15:12:05.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.dw.com/tr/silahlı-röportaj-görüntüleri-harekete-geçirdi-daltonlar-belgeseli-sonrası-9-gözaltı/a-80051697?maca=tur-rss-tur-all-1495-xml-mrss",
       "headline": "Silahlı röportaj görüntüleri harekete geçirdi: Daltonlar belgeseli sonrası 9 gözaltı",
@@ -15,7 +59,8 @@
       "publishedAt": "2026-11-25T14:55:00.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "imageSearchAttemptedAt": "2026-11-25T15:14:28.603Z"
     },
     {
       "id": "https://www.haberturk.com/ekonomi/abd-den-14-ekonomiye-yeni-gumruk-vergisi-3930098",
@@ -312,12 +357,17 @@
       },
       "timeAgo": "1 sa önce",
       "body": "November 25th is the United Nation's International Day for the Elimination of Violence Against Women. In the age of social media and artificial intelligence, there are now new spaces in which violence against women has appeared, with the internet now a growing weapon in the hands of abusers. 85% of women who spend time online have witnessed violence, and 38% have been the target of it.",
-      "highlights": [],
+      "highlights": [
+        "25 Kasım Kadına Yönelik Şiddetin Ortadan Kaldırılması Uluslararası Günü'dür",
+        "Çevrim içi kadınların yüzde 85'i şiddete şahit olmuştur",
+        "Kadınların yüzde 38'i dijital şiddetin hedefi olmuştur"
+      ],
       "externalUrl": "https://www.france24.com/en/video/20261125-violence-against-women-in-the-digital-age-when-the-internet-becomes-a-weapon",
       "publishedAt": "2026-11-25T13:53:20.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T15:14:28.603Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/25/magyar-ve-zelenskiy-ukrayna-macaristan-iliskilerinde-yeni-sayfa-acti",
@@ -2497,7 +2547,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T15:57:52.852Z",
-      "imageSearchAttemptedAt": "2026-11-24T22:04:27.438Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:14:28.603Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
@@ -14190,55 +14240,6 @@
       "category": "Ekonomi",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T08:54:22.849Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "headline": "Andy Burnham, Birleşik Krallık ve AB Brexit sıfırlama anlaşmasına yaklaşırken Brüksel'e gidiyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1658823276022-d6613757faa3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QnJ1c3NlbHMlMjBFdXJvcGUlMjBmbGFnfGVufDF8MHx8fDE3OTUxNjQ4NzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alexey Larionov",
-        "photographerUrl": "https://unsplash.com/@alexart251",
-        "unsplashUrl": "https://unsplash.com/photos/a-blue-flag-with-stars-1X3li7TGf6o"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "Sızdırılan bir belgeye göre, Birleşik Krallık ve Avrupa Birliği, reddedilen sığınmacıları üçüncü ülke merkezlerine gönderme konusunda ilk kez resmi görüşmeler başlatmayı planlıyor. Cuma sabahı bir zirvede Andy Burnham ve Ursula von der Leyen tarafından imzalanması beklenen ortak bildirinin taslağında, tarafların “üçüncü ülkelere geri dönüşleri” görüşmek üzere “yapılandırılmış bir diyalog” kuracağı belirtiliyor.\n\nİçişleri Bakanlığı bugüne kadar göçmenlerin sınır dışı edilmesine izin verecek ikili anlaşmalar aramıştı ancak belirgin bir başarı elde edilemedi. Geçtiğimiz hafta Avusturya, Danimarka, Almanya, Yunanistan ve Hollanda olmak üzere beş AB ülkesi, orada 2027'de bir göçmen “dönüş merkezi” kurmak için Ruanda ile prensipte bir anlaşma açıkladı.\n\nBurnham geçtiğimiz hafta muhabirlere, Birleşik Krallık'ın dönüş merkezlerine dahil olan Avrupa hükümetleriyle doğrudan görüşmeler yapmadığını ancak bu süreci ilgiyle izleyeceklerini belirtmişti. Burnham, halkın yasadışı göçle başa çıkmak için ellerinden geleni yapmalarını istediğini ifade etti.\n\nBirleşik Krallık, Brüksel'deki müzakereciler tarafından son iki haftada güvence altına alınan yeni “stratejik diyalog” anlaşmasıyla AB ile göç konusunda daha derin bir iş birliği için mücadele ediyor. Bu durum, gençlik hareketlilik programı, Çin ithalatına yönelik tarifeler, AB'ye gıda ve içecek ihracatı ile savunma ve güvenlik konularını kapsayan Birleşik Krallık-AB sıfırlama paktının temel bir parçasını oluşturuyor.\n\nBilgilendirilmiş kaynaklar, bunun, bloğun haziran ayındaki Manş Denizi eylem planının başlatılmasından bu yana Birleşik Krallık ve AB'nin “geri dönüşler konusunda bir diyalog başlatmayı” kabul ettiği ilk sefer olduğunu doğruladı. Whitehall kaynakları, Birleşik Krallık'ın reddedilen başvuru sahiplerini Ruanda'ya gönderme olasılığına artık açık olduğunu belirtti. Ortak anlaşma taslağına göre, üçüncü ülke merkezleri üzerindeki müzakereler, düzensiz göçle mücadeleye yönelik artan iş birliğinin bir parçası olacak.",
-      "highlights": [
-        "UK ve AB, yılda 100 bin AB vatandaşının ülkeye gelmesini sağlayan yeni bir hareketlilik programında geçici uzlaşıya vardı.",
-        "Sızdırılan bir belgeye göre taraflar, reddedilen sığınmacıların üçüncü ülke merkezlerine gönderilmesini ilk kez resmi olarak görüşmeyi planlıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
-      "publishedAt": "2026-11-20T08:22:40.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-20T08:54:22.849Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/imam-kediler-icin-cami-avlusunu-sicak-bir-yuvaya-donusturdu-dinimiz-hayvanlari-korumayi-emreder-4874729",
-      "headline": "Hatay'da Sağanak Yağış Yolları Göle Çevirdi",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1761252986744-b7ab91376257?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Zmxvb2QlMjByYWluJTIwc3RyZWV0fGVufDF8MHx8fDE3OTUxNjMwNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Aldward Castillo",
-        "photographerUrl": "https://unsplash.com/@aldwardcv31",
-        "unsplashUrl": "https://unsplash.com/photos/car-driving-through-floodwater-splashes-ic8V3A59gpg"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Hatay'da etkili olan sağanak yağış nedeniyle yollar göle döndü ve derelerin debisinde artış yaşandı. Meteorolojinin sarı kodlu uyarısının bulunduğu kentte, Dörtyol ilçesinde havanın kararmasıyla birlikte aniden bastıran şiddetli yağış hayatı olumsuz etkiledi. Yağışın etkisiyle Özerli Çayı’nda su seviyesi yükseldi.\n\nSu seviyesinin artması üzerine Kemal Duduoğlu Caddesi üzerinde bulunan köprü, güvenlik gerekçesiyle trafiğe kapatıldı. Yetkililer köprünün hem gidiş hem de geliş yönünü iki ayrı noktadan araç trafiğine kapatarak bölgede önlem aldı.\n\nKentin işlek caddelerinde ise su birikintilerine giren bazı vatandaşlar araçlarıyla mahsur kaldı. Bölgedeki vatandaşlar, sağanak yağışın bir anda bastırdığını ifade ettiler.",
-      "highlights": [
-        "Hatay'da sağanak yağış nedeniyle caddeler göle döndü",
-        "Özerli Çayı'nda su seviyesinin yükselmesiyle köprü trafiğe kapatıldı",
-        "Su birikintilerine giren araçlardaki vatandaşlar mahsur kaldı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/imam-kediler-icin-cami-avlusunu-sicak-bir-yuvaya-donusturdu-dinimiz-hayvanlari-korumayi-emreder-4874729",
-      "publishedAt": "2026-11-20T08:20:28.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T08:35:24.616Z",
       "isBreaking": false
     }
   ],
