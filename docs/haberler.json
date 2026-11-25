@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-11-25T17:06:59.338Z",
+  "generatedAt": "2026-11-25T17:15:04.796Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/istanbul-havalimani-avrupanin-en-yogun-havalimani-oldu-3498158",
+      "headline": "İstanbul Havalimanı Avrupa'nın en yoğun havalimanı oldu",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1686071973008-e9e7a14bc20b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8JUM0JUIwc3RhbmJ1bCUyMEhhdmFsaW1hbiVDNCVCMSUyMEF2cnVwYSUyN24lQzQlQjFuJTIwZW4lMjB5byVDNCU5RnVuJTIwaGF2YWxpbWFuJUM0JUIxJTIwb2xkdXxlbnwxfDB8fHwxNzk1NjI2ODk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Youssef Mohamed",
+        "photographerUrl": "https://unsplash.com/@yusuflens",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-bridge-spanning-over-a-large-body-of-water-Lw0OeEoCuyo"
+      },
+      "timeAgo": "şimdi",
+      "body": "İstanbul Havalimanı, 16-22 Kasım 2026 döneminde günlük ortalama 1379 uçuşla Avrupa'nın en yoğun havalimanı olarak kayıtlara geçti. İstanbul Sabiha Gökçen Havalimanı da günlük 778 uçuşla Avrupa sıralamasında 8'inci oldu.",
+      "highlights": [],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/istanbul-havalimani-avrupanin-en-yogun-havalimani-oldu-3498158",
+      "publishedAt": "2026-11-25T17:16:10.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+      "headline": "Maduro 64. Yaşını Cezaevinde Kutladı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "Gözaltındaki eski Venezuela devlet başkanı Nicolas Maduro, 64 üncü yaş gününü cezaevinde geride bıraktı.\n\nEdinilen bilgilere göre Maduro'nun oğlu, başkent Caracas'ta düzenlenen doğum günü kutlamalarına liderlik etti.\n\nSöz konusu kutlamalar, devrik liderin cezaevinde bulunduğu süreçte gerçekleştirildi.\n\nOlayla ilgili olarak kaynaklarda başka bir ayrıntı yer almadı.",
+      "highlights": [
+        "Nicolas Maduro 64 üncü yaşına girdi",
+        "Kutlamalara Maduro'nun oğlu liderlik etti",
+        "Etkinlikler Caracas'ta gerçekleşti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+      "publishedAt": "2026-11-25T17:05:35.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/teknoloji/100-yeni-istihdamla-istanbuldaki-tesiste-uretim-basladi-3498146",
       "headline": "100 yeni istihdamla İstanbul’daki tesiste üretim başladı",
@@ -15,15 +55,16 @@
       "timeAgo": "şimdi",
       "body": "HONOR, İstanbul Avcılar’daki üretim tesisinde yerel üretime başladığını duyurdu. 2026’nın ikinci yarısında hayata geçirilen projenin ilk aşaması kapsamında 10 milyon dolarlık bir yatırım gerçekleştirildi. Yapılan bu yatırım doğrultusunda yeni üretim hatları kuruldu, gerekli üretim ekipmanları temin edildi ve yerel çalışanlar istihdam edilerek eğitildi.\n\nGerçekleştirilen çalışmalar neticesinde söz konusu projeyle birlikte 100’ü aşkın yeni istihdam alanı yaratıldı. Marka, 2026’nın son çeyreğinde Türkiye’de toplam 50 bin cihaz üretmeyi hedefliyor. 2027 yılından itibaren ise üretim kapasitesinin kademeli olarak önce 100 bine, ardından da 300 bin adede çıkarılması öngörülüyor.\n\nKonuya ilişkin değerlendirmelerde bulunan HONOR Türkiye Genel Müdürü Zhu Wentong (Mike), Türkiye’deki üretimin yalnızca bir yatırım olmadığını belirtti. Wentong, bu adımın Türkiye pazarına kök salma, yatırımı sürdürme ve yerel iş ortaklarıyla birlikte büyüme kararlılığının bir göstergesi olduğunu ifade etti. Ayrıca Türkiye'nin tüketici talebi, sağlam sanayi altyapısı ve nitelikli iş gücüyle stratejik bir pazar konumunda bulunduğunu vurguladı.",
       "highlights": [
-        "HONOR, İstanbul Avcılar’daki tesisinde yerel üretime başladı.",
-        "İlk aşamada 10 milyon dolarlık yatırımla 100'ü aşkın yeni istihdam sağlandı.",
-        "2026 son çeyreğinde 50 bin cihaz üretilmesi hedefleniyor."
+        "HONOR, İstanbul Avcılar'daki tesisinde yerel üretime başladı.",
+        "İlk aşamada 10 milyon dolarlık yatırımla 100'ü aşkın yeni istihdam yaratıldı.",
+        "2026'nın son çeyreğinde 50 bin cihaz üretilmesi hedefleniyor."
       ],
       "externalUrl": "https://www.cnnturk.com/teknoloji/100-yeni-istihdamla-istanbuldaki-tesiste-uretim-basladi-3498146",
       "publishedAt": "2026-11-25T16:58:17.000Z",
       "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T17:14:17.242Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
@@ -64,7 +105,9 @@
       "publishedAt": "2026-11-25T16:36:57.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "sourceTextAttemptedAt": "2026-11-25T17:14:17.242Z",
+      "imageSearchAttemptedAt": "2026-11-25T17:14:17.242Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-husilerin-saldirisina-kinama-sivil-alanlari-hedef-alan-bu-saldirganlik-derhal-son-bulmalidir-4876529",
@@ -1403,7 +1446,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T21:54:32.279Z",
-      "imageSearchAttemptedAt": "2026-11-25T10:04:32.224Z"
+      "imageSearchAttemptedAt": "2026-11-25T17:14:17.242Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223",
@@ -14145,56 +14188,6 @@
       "category": "Teknoloji",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-      "headline": "Rusya'dan Kiev köprülerine misilleme saldırısı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1429041966141-44d228a42775?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YnJpZGdlJTIwYXR0YWNrfGVufDF8MHx8fDE3OTUxNjkwOTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Modestas Urbonas",
-        "photographerUrl": "https://unsplash.com/@modestasu",
-        "unsplashUrl": "https://unsplash.com/photos/golden-gate-bridge-san-francisco-california-vj_9l20fzj0"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Rusya, Kiev'deki köprülere yönelik misilleme niteliğinde bir füze ve roket saldırısı gerçekleştirdi. Gerçekleşen bu saldırı, Vladimir Putin'in Ukrayna'nın sembolik Kırım köprüsüne düzenlediği saldırıya karşılık olarak \"ağır\" ve \"acı verici\" bir yanıt verme vaadinin hemen ardından geldi. Bölgede yaşanan gelişmeler ve saldırının yarattığı hasar konusundaki detaylar henüz sınırlı kalırken, taraflar arasındaki gerilimin bu hamleyle birlikte tırmanmaya devam ettiği bildirildi. Yetkililer ve kaynaklar tarafından sağlanan bilgiler çerçevesinde, söz konusu misilleme harekatının stratejik köprüleri hedef aldığı doğrulandı.",
-      "highlights": [
-        "Rusya Kiev köprülerine misilleme saldırısı düzenledi",
-        "Saldırı Putin'in acı verici yanıt vaadini izledi",
-        "Hedefte sembolik Kırım köprüsüne yapılan Ukrayna saldırısı vardı"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
-      "publishedAt": "2026-11-20T09:54:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:14:23.320Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
-      "headline": "Marmara'da Akılalmaz Manzara: ‘Babamızı Dondurma Dolabında Saklıyoruz’",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1777272469190-98126bf82128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8aXNsYW5kJTIwdmlsbGFnZXxlbnwxfDB8fHwxNzk1MTY4NDc1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Julia Taubitz",
-        "photographerUrl": "https://unsplash.com/@justmejuliee",
-        "unsplashUrl": "https://unsplash.com/photos/cobblestone-street-lined-with-traditional-dutch-houses-oUKwVgGNWdQ"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Balıkesir'in Erdek ilçesine bağlı Paşalimanı Adası'nda yaşayan Mahmut S.'nin sabaha karşı fenalaşması üzerine yakınları 112 ekiplerine haber verdi. İddialara göre, adada sabit bir ambulans bulunmadığı için sağlık ekipleri hastanın Balıklı İskelesi'ne getirilmesini istedi. Aile üyeleri, saat 06.15'te bir panelvanın arkasında hastayla birlikte iskeleye ulaştı ve yaklaşık 45 dakika beklediklerini belirtti. Kıyı emniyetinin gelmesiyle yapılan kontrolde hastanın vefat ettiği anlaşıldı.\n\nÖlümün ardından yakınlarının adaya ulaşmasını beklemek amacıyla merhumun cenazesi camiye götürüldü. Adada morg bulunmadığı için kullanılmak istenen soğutuculu tabutun soğutma sistemi ise çalışmadı. Bunun üzerine Mahmut S.'nin bedeni, yakınlarının Gebze'den adaya varmasına kadar dondurma dolabında bekletildi. Ailenin ulaşmasının ardından Mahmut S. toprağa verildi.\n\nYaşanan olayların ardından ada sakinlerinin durumuna ilişkin çeşitli iddialar gündeme geldi. Adada hastane bulunmadığı, yalnızca bir sağlık ocağı olduğu ve burada tek sağlık görevlisinin çalıştığı öğrenildi. Doktorun ise haftada bir görevlendirme ile adaya geldiği öne sürüldü. Morg hizmeti için yıllarca yapılan başvurulara rağmen ne ilçe belediyesinin ne de büyükşehir belediyesinin morg hizmeti sağlamadığı iddia edildi. Ayrıca sağlık hizmetlerindeki eksikliklerin yanı sıra adada okulun da yer almadığı belirtildi.",
-      "highlights": [
-        "Mahmut S.'nin cenazesi adada morg olmadığı ve soğutuculu tabut çalışmadığı için dondurma dolabında bekletildi.",
-        "Adada sabit ambulans bulunmadığı, hastanın panelvanla iskeleye taşındığı ve Kıyı Emniyeti beklendiği ifade edildi.",
-        "Ada sakinleri hastane, morg, düzenli doktor ve okul gibi hizmetlerin eksikliğinden yakındı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/marmaranin-ortasinda-akilalmaz-manzara-babamizi-dondurma-dolabinda-sakliyoruz-7704399",
-      "publishedAt": "2026-11-20T09:52:41.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:04:43.700Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
