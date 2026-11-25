@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-25T17:45:30.615Z",
+  "generatedAt": "2026-11-25T17:55:51.757Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
+      "headline": "25 Kasım'da birçok ilde kadınlar sokakta: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1594230612502-606960bfe3c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8d29tZW4lMjBwcm90ZXN0JTIwbm92ZW1iZXIlMjAyNXxlbnwxfDB8fHwxNzk1NjI5MzMyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sushil Nash",
+        "photographerUrl": "https://unsplash.com/@sushilnash",
+        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-man-in-black-jacket-holding-black-smartphone-cV2mfX1yLMQ"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü dolayısıyla İstanbul, Ankara ve İzmir başta olmak üzere pek çok ilde kadınlar alanlara çıktı. İstanbul'da Tünel Meydanı'nda toplanan 25 Kasım Kadın Platformu, İstiklal Caddesi'ne doğru yürüyüşe geçerken, eylemde çeşitli dövizler taşındı ve basın açıklaması yapıldı. Ankara'da Yüksel Caddesi'nde toplanan kadınların yürüyüşüne DEM Parti Eş Genel Başkanı Tülay Hatimoğulları da katıldı. İzmir'de ise Fuar Lozan Kapısı önünde bir araya gelen kadınlar yürüyüş düzenledi.\n\nÜlke genelindeki diğer illerde de benzer çağrılarla etkinlikler gerçekleştirildi. Diyarbakır ve Sakarya'daki yürüyüşlerde açılan pankartlarla hak ve özgürlük talepleri dile getirilirken, Sakarya'daki eyleme Yeni Parti Sakarya Milletvekili Ayça Taşkent ile il örgütü de katılım sağladı.\n\nİstanbul Barosu Kadın Hakları Merkezi tarafından yapılan açıklamada, 2026 yılının ilk 10 ayında 245 kadının erkek şiddetiyle öldürüldüğü, 274 kadının ise şüpheli şekilde hayatını kaybettiği bildirildi. Açıklamada 6284 sayılı Kanun'un ve uluslararası mevzuatın eksiksiz uygulanması istendi. Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş ise yayımladığı mesajda şiddete maruz kalan kadınların yalnız olmadığını vurguladı.\n\nEylemler nedeniyle İstanbul Beyoğlu'nda trafik ve metro düzenlemeleri yapıldı. Emniyet açıklamasına göre, bazı yollar araç trafiğine kapatılırken, Metro İstanbul duyurusuyla bazı istasyonlar ve çıkışlar yolcu kullanımına kapatıldı. Öte yandan İstanbul 6. İdare Mahkemesi'nin, 2025 yılındaki 25 Kasım yürüyüşü yasağını 27 Ekim 2026'da oybirliğiyle iptal ettiği bilgisi de basına yansıdı.",
+      "highlights": [
+        "İstanbul, Ankara ve İzmir başta olmak üzere birçok ilde 25 Kasım kapsamında gösteriler düzenlendi.",
+        "İstanbul Barosu, 2026'nın ilk 10 ayında 245 kadının öldürüldüğünü, 274 kadının ise şüpheli şekilde yaşamını yitirdiğini açıkladı.",
+        "Güvenlik önlemleri çerçevesinde İstanbul Beyoğlu'nda bazı yollar trafiğe kapatıldı ve metro seferlerinde düzenlemeye gidildi."
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T17:51:11.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/dunya/trumpin-iran-plani-ortaya-cikti-iste-abdnin-irandaki-suikast-listesi-sirada-kim-var-3498148",
       "headline": "Trump yönetiminde İran'ın üst düzey isimlerine yönelik yeni suikast seçenekleri değerlendiriliyor",
@@ -22,6 +46,26 @@
       "externalUrl": "https://www.cnnturk.com/video/dunya/trumpin-iran-plani-ortaya-cikti-iste-abdnin-irandaki-suikast-listesi-sirada-kim-var-3498148",
       "publishedAt": "2026-11-25T17:48:12.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "headline": "US stocks fall further as fears over AI intensify",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1648461311914-c5cec4e8a09f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VVMlMjBzdG9ja3MlMjBmYWxsJTIwZnVydGhlciUyMGFzJTIwZmVhcnMlMjBvdmVyJTIwQUklMjBpbnRlbnNpZnl8ZW58MXwwfHx8MTc5NTYyOTMwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "David Jones",
+        "photographerUrl": "https://unsplash.com/@davidjones",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-down-a-street-next-to-tall-buildings-63Y_cnP_fK8"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "highlights": [],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T17:48:09.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -52,7 +96,7 @@
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
-      "headline": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "headline": "Dünyanın Savunma Testinin Hedefi Olan Asteroitte Stadyum Büyüklüğünde Krater Ortaya Çıktı",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
       "imageUrl": "https://images.unsplash.com/photo-1702059414922-dad4c1f7a3b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SW1hZ2VzJTIwb2YlMjBhc3Rlcm9pZCUyMHRhcmdldGVkJTIwdG8lMjB0ZXN0JTIwRWFydGglMjdzJTIwZGVmZW5jZXMlMjByZXZlYWwlMjBzdGFkaXVtLXNpemVkJTIwY3JhdGVyfGVufDF8MHx8fDE3OTU2MjgxMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -62,13 +106,18 @@
         "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-an-island-with-a-circular-hole-in-the-middle-oNc3R4iFLck"
       },
       "timeAgo": "5 dk önce",
-      "body": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "highlights": [],
+      "body": "NASA'nın 2022 yılında kasıtlı olarak çarptığı Dimorphos adlı asteroitten elde edilen ilk görüntüler, yüzeyinde stadyum büyüklüğünde bir krater olduğunu ortaya koydu. Dünya için herhangi bir tehdit oluşturmayan asteroit, bir uzay kayasının yörüngesinden saptırılıp saptırılamayacağını görmek amacıyla savunma testi kapsamında hedef alınmıştı. Çarpışmanın ardından dört yıl geçtikten sonra, Avrupa Uzay Ajansı'na (ESA) ait Hera adlı uzay aracı, çarpışmanın sonuçlarını tam olarak değerlendirmek için bölgede inceleme yapıyor.\n\n2022'deki orijinal test, NASA'nın Dart adlı uzay aracının Dimorphos'a saatte 22.000 kilometre hızla çarpmasıyla gerçekleştirilmişti. Çarpışmanın şiddeti o kadar büyüktü ki, yaklaşık 10.000 kilometre uzunluğundaki enkaz izi Dünya'daki ve uzaydaki teleskoplar tarafından tespit edilmişti. Yaklaşık 150 metre genişliğindeki Dimorphos, daha büyük olan 730 metre genişliğindeki Didymos adlı kaya etrafında dönen bir ikili asteroit çiftinden biri olduğu için hedef seçilmişti. Çarpışma, daha küçük asteroidin yolunu değiştirmenin mümkün olduğunu gösterdi.\n\nÇarpışmadan önce Dimorphos'un Didymos etrafındaki turu 11 saat 55 dakika sürerken, çarpışma sonrasında yörünge süresi yaklaşık 33 dakika kısalmıştı. Hera'nın bölgeye varışı, bilim insanlarına çarpışmanın asteroidin şeklini değiştirmekle kalmayıp hareket biçimini de değiştirdiğini gösterdi. Uzmanlar, asteroidin artık yuvarlanan ve hareket eden bir varil gibi kaotik bir şekilde takla attığını belirtti. Öte yandan Hera, Didymos'un yüzeyini de ayrıntılı olarak görüntüledi ve yüzeyde araba ile otobüs büyüklüğünde kayalar tespit etti.\n\nHera misyonu, Dimorphos ve Didymos'u incelemek üzere önümüzdeki altı ay boyunca daha yakından ve daha yüksek çözünürlüklü görüntüler göndermeye devam edecek. Bilim insanları, Dünya'ya çarpma rotasındaki bir uzay kayasıyla karşılaşılması durumunda etkili bir savunma yapılabilmesi için asteroidin kütlesini ölçmeyi ve verileri toplamayı amaçlıyor. Uzmanlar, Güneş Sistemi'nde geçmişe göre potansiyel tehditlerin çok daha az olduğunu, en büyük asteroitlerin tespit edildiğini ve hiçbirinin Dünya'ya doğru gelmediğini ifade etti. Ayrıca 2027 yılında potansiyel tehlikeli asteroitleri takip etmek için NEO Surveyor adlı yeni bir uzay teleskobunun fırlatılması planlanıyor.",
+      "highlights": [
+        "NASA'nın 2022'de çarptığı Dimorphos asteroidinde stadyum büyüklüğünde bir krater oluştuğu görüldü.",
+        "Çarpışma, asteroidin yörüngesini kısaltarak hareket şeklini kaotik ve takla atar hale getirdi.",
+        "Avrupa Uzay Ajansı'nın Hera uzay aracı, çarpışmanın sonuçlarını incelemek için bölgede çalışmalar yürütüyor."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T17:30:16.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T17:54:17.588Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
@@ -297,12 +346,17 @@
       },
       "timeAgo": "3 dk önce",
       "body": "Hakimler ve Savcılar Kurulunun (HSK), mazeret kararnamesiyle 957 hakim ve Cumhuriyet savcısının görev yeri değiştirildi. HSK Birinci Dairesinin adli ve idari yargıya ilişkin mazeret kararnamesi HSK'nin internet sitesinde ilan edildi. Buna göre, adli yargıda 915, idari yargıda 42 olmak üzere toplam 957 hakim ve savcı yeni görevlere atandı. Kararnameyle, Manisa Cumhuriyet Başsavcısı Kurtca Eker İzmir Cumhuriyet…",
-      "highlights": [],
+      "highlights": [
+        "HSK mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
+        "Adli yargıda 915, idari yargıda 42 hakim ve savcı yeni görevlere atandı",
+        "Çeşitli il ve ilçelerde başsavcı ve başsavcıvekillerinin atamaları gerçekleştirildi"
+      ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
       "publishedAt": "2026-11-25T16:32:48.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T17:54:17.588Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
@@ -1933,7 +1987,7 @@
       "isBreaking": false,
       "lang": "en",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
-      "imageSearchAttemptedAt": "2026-11-25T10:44:26.828Z"
+      "imageSearchAttemptedAt": "2026-11-25T17:54:17.588Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/azerbaycandan-eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesaji/4136421",
@@ -3344,7 +3398,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:24:28.927Z",
-      "imageSearchAttemptedAt": "2026-11-24T20:54:19.081Z"
+      "imageSearchAttemptedAt": "2026-11-25T17:54:17.588Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-aciklamalar-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
@@ -14143,55 +14197,6 @@
       "publishedAt": "2026-11-20T10:42:49.000Z",
       "category": "Türkiye",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/asia-pacific/20261120-was-the-historic-shenzhen-summit-political-win-or-humiliation-for-putin",
-      "headline": "Shenzhen Zirvesi Putin İçin Siyasi Bir Zafer mi Yoksa Utanç mı?",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1542464035-59ec39c44a27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8WGklMjBKaW5waW5nJTIwUHV0aW4lMjBUcnVtcHxlbnwxfDB8fHwxNzk1MTcxNDgxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zhu Hongzhi",
-        "photographerUrl": "https://unsplash.com/@zhuzhutrain",
-        "unsplashUrl": "https://unsplash.com/photos/soldier-standing-near-photo-frame-sD5ZGo_rB0s"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Çin, Rusya ve Amerika Birleşik Devletleri başkanları, Shenzhen'de düzenlenen üçlü zirvede 90 dakika süreyle bir araya geldi. ABD Başkanı Donald Trump havalimanında Çin Devlet Başkanı Xi Jinping tarafından coşkuyla karşılanırken, Rusya Devlet Başkanı Vladimir Putin'i karşılamak üzere Çin Komünist Partisi'nin beşinci sıradaki yetkilisi Cai Qi görevlendirildi.\n\nZirvenin resmi fotoğrafında Putin, Xi'nin eşi Peng Liyuan'ın yanına yerleştirildi. Açılış ziyafetindeki oturma düzeninde de Liyuan'ın karşısında ve Endonezya Devlet Başkanı Prabowo Subianto'nun yanında yer aldı. Putin’in danışmanı Yuri Ushakov, bu oturma düzeninin Rus liderin yemek sırasında Trump ve Xi ile konuşmasını engellediğini belirtti. Ayrıca Putin, zirvenin resmi açılışından önce Xi ve Trump'ı bir saatten fazla bekletti.\n\nUzmanlar, otoriter rejimler arasındaki dinamiklerin bir mafya ailesi toplantısına benzediğini ve bu rejimlerin birbirine eşit davranmadığını ifade etti. Bazı Batılı medya organları ile Rus muhalefet sesleri, Putin'in diplomatik bir aşağılanmaya maruz kaldığını öne sürdü. Londra Ekonomi Okulu'ndan Rusya uzmanı Jeff Hawn, Çin'in Rusya'nın çatışmalarından ve Kuzey Kore ile yakınlaşmasından rahatsız olduğunu belirtti.\n\nBuna karşın bazı uzmanlar, zirvenin gerçekleşmesinin dahi Putin için bir zafer olduğunu savundu. Merkezi Avrupa Asya Araştırmaları Enstitüsü'nden Richard Turcsanyi, Putin'in üç liderin en zayıfı olduğunu bildiğini ve onlarla eşit düzeyde görüşmesinin onun için bir kazanç olduğunu ifade etti. Dublin Üniversitesi'nden Scott Lucas ise Putin'in tecrit edilmediğini göstermek ve Ukrayna konusunda koz elde etmek için orada bulunduğunu belirtti. Turcsanyi, bazı medya organlarının Putin'in yaşadığı durumları abartmış olabileceğini de sözlerine ekledi.",
-      "highlights": [
-        "ABD Başkanı Donald Trump, Shenzhen'deki zirvede coşkuyla karşılandı.",
-        "Rusya Devlet Başkanı Vladimir Putin, resmi törende ve oturma düzeninde arka planda bırakıldı.",
-        "Uzmanlar zirvenin Putin için hem zorluklar barındırdığını hem de tecrit edilmediğini göstermesi bakımından bir kazanç olduğunu belirtti."
-      ],
-      "externalUrl": "https://www.france24.com/en/asia-pacific/20261120-was-the-historic-shenzhen-summit-political-win-or-humiliation-for-putin",
-      "publishedAt": "2026-11-20T10:42:26.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/iletisim-baskani-durandan-dunya-cocuk-haklari-gununde-gazze-vurgusu-her-cocuk-guvenle-buyumeli-4874810",
-      "headline": "İletişim Başkanı Duran'dan Dünya Çocuk Hakları Günü'nde Gazze vurgusu: Her çocuk güvenle büyümeli",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1594608661623-aa0bd3a69d98?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2hpbGRyZW4lMjByaWdodHN8ZW58MXwwfHx8MTc5NTE3MDg3OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "note thanun",
-        "photographerUrl": "https://unsplash.com/@notethanun",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-people-wearing-white-and-orange-backpacks-walking-on-gray-concrete-pavement-during-daytime-CYlPykF-qAM"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İletişim Başkanı Burhanettin Duran, 20 Kasım Dünya Çocuk Hakları Günü dolayısıyla sosyal medya üzerinden bir mesaj yayımladı.\n\nDuran mesajında, her çocuğun eşit haklarla, güven ve huzur içinde büyümesinin sağlıklı ve mutlu bir geleceğin temeli olduğunu belirtti. Çocukların eğitimden sağlığa, güvenlikten kendilerini ifade edebilmelerine kadar her alanda haklarına erişebilmesinin geleceğin teminatı olduğunu vurguladı.\n\nİletişim Başkanı Duran, 20 Kasım Dünya Çocuk Hakları Günü'nde, başta Gazze'de olmak üzere savaşların ve çatışmaların gölgesinde yaşam mücadelesi veren çocukların acılarının son bulmasını diledi. Duran, her çocuğun sevgiyle, umutla ve güvenle büyüdüğü bir dünya temennisini paylaştı.",
-      "highlights": [
-        "İletişim Başkanı Burhanettin Duran 20 Kasım Dünya Çocuk Hakları Günü mesajı yayımladı.",
-        "Duran, her çocuğun eşit haklarla güven ve huzur içinde büyümesinin önemini belirtti.",
-        "Mesajda, özellikle Gazze'deki çocukların acılarının son bulması temenni edildi."
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/iletisim-baskani-durandan-dunya-cocuk-haklari-gununde-gazze-vurgusu-her-cocuk-guvenle-buyumeli-4874810",
-      "publishedAt": "2026-11-20T10:32:24.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:44:23.748Z",
       "isBreaking": false
     }
   ],
