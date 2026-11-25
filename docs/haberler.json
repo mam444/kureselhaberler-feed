@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-25T15:26:28.329Z",
+  "generatedAt": "2026-11-25T15:36:58.756Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memura-gecici-uzaklastirma-7707933",
+      "headline": "Fransa'da namazla alay eden ve Nazi selamı yapan memura geçici uzaklaştırma",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "8 dk önce",
+      "body": "Fransa'da çevrim içi yayın yapan Mediapart gazetesinin haberine göre, ülkenin Chaumont kentindeki Gümrük Birliği bünyesinde çalışan memurlar, yıllardır meslektaşlarının sarf ettiği ırkçı söylemleri üstlerine bildirdi. Ocak 2022 tarihli görüntü kayıtlarına göre, Birlikte düzenlenen yemek sırasında Arap ve kurgusal karakter \"Zorro\" kıyafetleri giyen 3 memur, Müslümanları taklit ederek namazla alay etti. Söz konusu…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memura-gecici-uzaklastirma-7707933",
+      "publishedAt": "2026-11-25T15:27:55.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/helikopter-kazasinda-sehit-dusen-askerlerimiz-icin-3-arap-ulkesinden-taziye-mesaji-7707931",
       "headline": "Helikopter kazasında şehit düşen askerlerimiz için 3 Arap ülkesinden taziye mesajı",
@@ -35,7 +51,29 @@
       "publishedAt": "2026-11-25T15:15:53.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en"
+      "lang": "en",
+      "sourceTextAttemptedAt": "2026-11-25T15:34:24.168Z",
+      "imageSearchAttemptedAt": "2026-11-25T15:34:24.168Z"
+    },
+    {
+      "id": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
+      "headline": "Kremlin declines comment on reports 700,000 Russian soldiers killed in Ukraine war",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1700465501826-90bf15df93d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8S3JlbWxpbiUyMGRlY2xpbmVzJTIwY29tbWVudCUyMG9uJTIwcmVwb3J0cyUyMDcwMCUyQzAwMCUyMFJ1c3NpYW4lMjBzb2xkaWVycyUyMGtpbGxlZCUyMGluJTIwVWtyYWluZSUyMHdhcnxlbnwxfDB8fHwxNzk1NjIwOTE1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Marek Studzinski",
+        "photographerUrl": "https://unsplash.com/@jccards",
+        "unsplashUrl": "https://unsplash.com/photos/a-blue-and-yellow-button-sitting-on-top-of-a-pile-of-bullet-shells-bTYRRYupZFw"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Kremlin spokesman Dmitry Peskov on Wednesday declined to comment on reports in Russian and international news outlets that around 700,000 Russian soldiers have been killed in the Ukraine war so far. The reports were based on hacked data from Russia's official statistics agency. Peskov said only the defence ministry can disclose figures and told reporters \"not to pay attention to any other data\".",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
+      "publishedAt": "2026-11-25T15:14:07.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.rfi.fr/en/international/20261125-eu-plans-%E2%82%AC50bn-tech-fund-to-compete-with-us-and-china-in-the-quantum-race",
@@ -2830,7 +2868,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T20:44:24.813Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:34:24.168Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
@@ -14179,55 +14217,6 @@
       "publishedAt": "2026-11-20T09:03:20.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "headline": "Rusya'nın büyük füze ve drone saldırısında Kiev'deki üç köprü vuruldu",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1704971152660-b56fcd93c04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlzc2lsZSUyMGF0dGFjayUyMEt5aXZ8ZW58MXwwfHx8MTc5NTE2NTQ4OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dmytro Tolokonov",
-        "photographerUrl": "https://unsplash.com/@dtolokonov",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-destroyed-building-H1_w-bHby8Y"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Rusya, Ukrayna'nın çeşitli şehirlerine yönelik gece saatlerinde büyük bir füze ve drone saldırısı düzenledi. Saldırılarda Kiev'deki köprüler hedef alınırken, savaşın başından bu yana gerçekleşen en büyük hava saldırılarından birinde altı kişinin hayatını kaybettiği bildirildi. Ukrayna'nın stratejik öneme sahip Kırım Köprüsü'ne büyük zarar vermesinden günler sonra gerçekleşen saldırılarda, batıdaki Lviv şehrinde bulunan bir tren istasyonuna isabet eden füzeler nedeniyle iki kişi de yaşamını yitirdi. Dinyeper Nehri üzerindeki Podilsko-Voskresensky Köprüsü, Darnytskyi Köprüsü ve Güney Köprüsü balistik füzelerle vuruldu ve bu köprüler trafiğe kapatıldı.\n\nKiev Belediye Başkanı Vitali Klitschko, zorunlu olmadıkça vatandaşların şehre özel araçla seyahat etmekten kaçınması çağrısında bulundu. Gece düzenlenen saldırılarda adı açıklanmayan kritik bir altyapı tesisinin de zarar gördüğü ve yedi sağlık personelinin yaralandığı aktarıldı. Ukrayna Hava Kuvvetleri, Rusya'nın gece boyunca yaklaşık 100 füze ve 400 civarında drone fırlattığını, bunun 2022'deki işgalin başlangıcından bu yana yapılan en büyük saldırılardan biri olduğunu açıkladı. Ukrayna Hava Kuvvetleri İletişim Başkanı Yuriy Ignat saldırının en güçlü saldırılardan biri olduğunu belirtti.\n\nDokuz bölgenin hedef alındığı saldırılarda, Kharkiv'deki bir ambulans hastanesinin de hedef alındığı ve 28 kişinin yaralandığı bilgisi paylaşıldı. Lviv'in güneybatısındaki Sknyliv tren istasyonuna düzenlenen saldırıda iki kişinin öldüğü, Lviv Belediye Başkanı Andriy Sadovyi tarafından duyuruldu. İstasyonun bilet terminalinin yıkıntılarına ait bir fotoğraf paylaşan Sadovyi, on kişinin yaralandığını ve bölgede kurtarma çalışmalarının sürdüğünü ifade etti.\n\nÖte yandan, Polonya sınırına 45 kilometre mesafede bir noktada Rus mermisinin düştüğü iddia edildi ve silahlı kuvvetler bu bölgede arama başlattı. Rusya'nın batı Ukrayna'ya yönelik saldırıları sürerken Polonya jetleri NATO'nun doğu kanadında havaya kaldırıldı. Rusya Devlet Başkanı Vladimir Putin, Kırım Köprüsü'ne düzenlenen saldırıya verilecek yanıtın çok daha acı verici olacağını belirtmişti.",
-      "highlights": [
-        "Rusya'nın gece düzenlediği büyük hava saldırısında Kiev'deki üç köprü vuruldu ve altı kişi hayatını kaybetti.",
-        "Lviv'deki bir tren istasyonuna düzenlenen saldırıda iki kişi yaşamını yitirdi, on kişi yaralandı.",
-        "Ukrayna Hava Kuvvetleri, Rusya'nın yaklaşık 100 füze ve 400 drone fırlattığını bildirdi."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T09:01:06.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/istanbulda-kuvvetli-saganak-uyarisi-akom-duyurdu-4874753",
-      "headline": "AKOM'dan İstanbul için kuvvetli sağanak uyarısı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1706940949783-f60ca4ee290e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SXN0YW5idWwlMjByYWlufGVufDF8MHx8fDE3OTUxNjQ4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Amir Komaee",
-        "photographerUrl": "https://unsplash.com/@amirkomaee",
-        "unsplashUrl": "https://unsplash.com/photos/a-flock-of-birds-standing-on-top-of-a-wet-ground-2Em252bh_BI"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İstanbul Büyükşehir Belediyesi Afet Koordinasyon Merkezi, kent genelinde etkili olması beklenen kuvvetli sağanak yağışlara karşı vatandaşlara dikkatli ve tedbirli olmaları çağrısında bulundu.\n\nMerkezin yaptığı açıklamaya göre, bölge genelinde serin ve yağışlı hava dalgası bugün öğle saatlerinden itibaren etkisini gösterecek. Yağışların akşam saatlerine doğru il genelinde şiddetini artıracağı ve gece saatlerine kadar sağanak ile yer yer kuvvetli gök gürültülü sağanak şeklinde süreceği öngörülüyor.\n\nGece saatlerinde durması beklenen yağışların, cumartesi günü öğle saatlerinden itibaren yeniden başlaması tahmin ediliyor. Bu yağışların akşam saatlerine kadar kısa süreli, yerel ve şiddetli gök gürültülü sağanak geçişleri şeklinde görülebileceği belirtiliyor.\n\nYetkililer, yaşanabilecek olumsuzluklar ve olası aksamalara karşı vatandaşların tedbiri elden bırakmaması gerektiğini vurguladı.",
-      "highlights": [
-        "İstanbul'da bugün ve yarın kuvvetli sağanak bekleniyor",
-        "Yağışların akşam saatlerinde etkisini artırması öngörülüyor",
-        "Cumartesi öğleden sonra kısa süreli şiddetli yağışlar tahmin ediliyor"
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/istanbulda-kuvvetli-saganak-uyarisi-akom-duyurdu-4874753",
-      "publishedAt": "2026-11-20T08:53:20.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:04:41.599Z",
       "isBreaking": false
     }
   ],
