@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-11-25T10:04:48.736Z",
+  "generatedAt": "2026-11-25T10:14:48.624Z",
   "articles": [
     {
+      "id": "https://www.milliyet.com.tr/teknoloji/huawei-yapay-zeka-teknolojilerinde-patent-engeli-olusturmak-istemiyor-7707644",
+      "headline": "Huawei, yapay zeka teknolojilerinde patent engeli oluşturmak istemiyor",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1662948199505-e3f7f44b9a1c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8SHVhd2VpJTIwQUklMjB0ZWNobm9sb2d5fGVufDF8MHx8fDE3OTU2MDE2NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "BoliviaInteligente",
+        "photographerUrl": "https://unsplash.com/@boliviainteligente",
+        "unsplashUrl": "https://unsplash.com/photos/logo-T7Ea67PQNHQ"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Huawei'nin Başkan Yardımcısı ve Fikri Mülkiyet İşleri Koordinatörü Alan Fan, Pekin'de düzenlenen 7. İnovasyon ve Fikri Mülkiyet Forumu'nda gazetecilerle bir araya geldi. Fan, şirketin yapay zeka sistemlerine altyapı sağlayan donanımlar için geliştirdiği teknolojilerin endüstri tarafından daha geniş ölçekte kullanılmasını ve eş işlerliğin sağlanmasını hedeflediğini belirtti. Bu kapsamda inovasyonlara fikri mülkiyet kısıtlamaları getirmeyi düşünmediklerini ifade eden Fan, yapay zekaya patent duvarı örmek istemediklerini kaydetti.\n\nFan, yeni bir mikro devre mimarisini örnek göstererek çip tasarımcılarının, imalathanelerin ve rakiplerin de bu yolu izlemesini istediklerini, bunun ekosistemi daha olgun hale getireceğini söyledi. Yarı iletkenleri daha yoğun bir ölçeğe indirmenin tek şirketin değil ortak bir çaba olduğunu vurguladı.\n\nYapay zeka alanındaki teknolojilerin teoriler, kavramlar ve iç algoritmalar niteliğinde olduğunu belirten Fan, patentlerin bunları korumanın iyi bir yolu olmadığını vurguladı. Şirketin UnifiedBus sistem mimarisi ve bağlantılı bazı teknolojilerin patentlerini aldığını aktaran Fan, bunları bedavaya lisansladıklarını ve diğer çip üreticilerinin de sisteme katkı sağlamalarını istediklerini dile getirdi. Fan, patentlerin duvarlar örmek için değil, ekosistemi geliştirecek köprüler kurmak için olduğunu ifade etti.",
+      "highlights": [
+        "Huawei, yapay zeka teknolojilerinde patent engeli oluşturmak istemiyor.",
+        "Alan Fan, patentlerin duvarlar örmek için değil köprüler kurmak için olduğunu belirtti.",
+        "UnifiedBus sistem mimarisi ve bağlantılı bazı teknolojiler bedavaya lisanslanıyor."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/teknoloji/huawei-yapay-zeka-teknolojilerinde-patent-engeli-olusturmak-istemiyor-7707644",
+      "publishedAt": "2026-11-25T10:12:00.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
       "id": "https://www.yenisafak.com/galeri/gundem/magara-sandi-25-milyon-yillik-hazine-cikti-haritada-bile-dikkat-cekmeyen-bolgede-tesadufen-bulundu-4876389",
-      "headline": "Mağara sandı 2,5 milyon yıllık hazine çıktı: Haritada bile dikkat çekmeyen bölgede tesadüfen bulundu",
+      "headline": "Geyik Dağları'ndaki 2,5 milyon yıllık sirk buzulu çevreciler tarafından ziyaret edildi",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
       "imageUrl": "https://images.unsplash.com/photo-1642358695580-963c68ab54b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8TWElQzQlOUZhcmElMjBzYW5kJUM0JUIxJTIwMiUyQzUlMjBtaWx5b24lMjB5JUM0JUIxbGwlQzQlQjFrJTIwaGF6aW5lJTIwJUMzJUE3JUM0JUIxa3QlQzQlQjElM0ElMjBIYXJpdGFkYSUyMGJpbGUlMjBkaWtrYXQlMjAlQzMlQTdla21leWVuJTIwYiVDMyVCNmxnZWRlJTIwdGVzYWQlQzMlQkNmZW4lMjBidWx1bmR1fGVufDF8MHx8fDE3OTU2MDEwODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -13,13 +37,18 @@
         "unsplashUrl": "https://unsplash.com/photos/an-old-building-with-a-bunch-of-rubble-in-front-of-it-N0opS5RgYYk"
       },
       "timeAgo": "1 dk önce",
-      "body": "Türkiye'nin saklı doğal güzelliklerinden biri olan Konya'daki Geyik Dağları, milyonlarca yıllık bir keşifle dünya gündemine geldi. Dağlarda yürüyüş yaptığı sırada fark ettiği çatlağı önce mağara sanan doğa gezgini Hasan Hüseyin Kahriman, yıllar sonra bölgedeki sirk buzulunu ortaya çıkardı. 2 bin 700 metre rakımda bulunan ve 2,5 milyon yıl öncesine uzandığı belirtilen buzul, bilim dünyasının da dikkatini çekti.",
-      "highlights": [],
+      "body": "Konya'da doğa gezgini Hasan Hüseyin Kahriman tarafından Geyik Dağları'nın 2 bin 700 metre rakımında keşfedilen sirk buzulu, COP31 için Türkiye'ye gelen gönüllü çevreciler tarafından ziyaret edildi. Almanya, İtalya, Kolombiya, Filipinler ve Kuzey Amerika'dan temsilcilerin bulunduğu Glacier Nation hareketi üyeleri, Meke Gölü'nün ardından Kahriman'ın rehberliğinde buzullara çıktı.\n\nKeşfi yapan Hasan Hüseyin Kahriman, 2016 yılında bölgede ilk kez bir çatlaklık gördüğünü ve bunu önce mağara sandığını belirtti. Sonraki yıl çatlağın genişleyip çöktüğünü fark ettiğini ifade eden Kahriman, 2023 yılında ise obruklar oluşup buzulların ortaya çıktığını gördüğünü, durumu daha sonra Prof. Dr. Adnan Pınar'a aktardığını söyledi.\n\nNecmettin Erbakan Üniversitesi Coğrafya Eğitimi Anabilim Dalı Öğretim Üyesi Prof. Dr. Adnan Pınar, gruptakilere bilimsel bilgilendirmede bulundu. Pınar, Türkiye'deki nadir örneklerden olan sirk buzulu hakkında, \"2,5 milyon yıl öncesinden bugüne uzanan bir numunedir\" dedi ve ısınmayla birlikte üzerindeki karlar eriyince altındaki buzulun ortaya çıktığını kaydetti.\n\nGlacier Nation hareketi sözcüsü Kolombiyalı çevreci Marcela Fernandez Barreneche ise buzulun 2,5 milyon yıllık olmasına rağmen 2023 yılında henüz bir bilim insanı tarafından bile keşfedilmemiş olmasının dünya için bir mucize olduğunu dile getirdi. Prof. Dr. Pınar, buzulların dünyanın en önemli tatlı su kaynakları olduğunu vurgulayarak su kaynaklarını kullanırken çok bilinçli olunması gerektiğini belirtti.",
+      "highlights": [
+        "Geyik Dağları'ndaki sirk buzulu gezgin Hasan Hüseyin Kahriman tarafından keşfedildi.",
+        "COP31 için Türkiye'ye gelen uluslararası çevreciler buzulu ziyaret etti.",
+        "Prof. Dr. Adnan Pınar, buzulun 2,5 milyon yıl öncesinden bugüne uzanan bir numune olduğunu belirtti."
+      ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/magara-sandi-25-milyon-yillik-hazine-cikti-haritada-bile-dikkat-cekmeyen-bolgede-tesadufen-bulundu-4876389",
       "publishedAt": "2026-11-25T10:03:41.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T10:14:23.132Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
@@ -35,12 +64,36 @@
       "timeAgo": "2 dk önce",
       "body": "Çarşamba günü gerçekleştirilen sürpriz bir grev, Londra, Paris ve Brüksel'i birbirine bağlayan birçok Eurostar tren seferinin iptal edilmesine yol açtı. Tren operatörü, seferlerin aksamasına neden olan eylemin kimler tarafından düzenlendiğini veya grevin gerekçesini henüz netleştirmedi.\n\nOperatör tarafından yapılan açıklamada, Çarşamba günkü iptallerin beklenmeyen bir grevden kaynaklandığı belirtildi. X platformu üzerinden bir kullanıcıya yanıt veren Eurostar, Paris ve Londra arasındaki seferlerin her iki yönde de etkilendiğini bildirdi. Şirketin web sitesindeki seyahat uyarısında yolculara seyahat tarihini değiştirmeleri tavsiye edildi.\n\nYaşanan aksaklıklar sebebiyle yolcuların biletlerini başka bir tarihe yeniden rezervasyon yapabilecekleri veya tam para iadesi alabilecekleri duyuruldu. Eurostar, yaşanan aksaklıktan ötürü özür diledi.\n\nŞirket ayrıca sendikalara doğrudan müzakerelere devam etme çağrısında bulunarak yapıcı diyalog için açık olduklarını belirtti. Kasım 1994'te açılan Manş Tüneli'ndeki amiral gemisi Paris-Londra güzergahının yanı sıra Belçika, Hollanda ve Almanya'ya da seferler düzenleyen Eurostar ağında, Çarşamba sabahı bazı seferlerin gecikmeli olduğu da görüldü.",
       "highlights": [
-        "Londra, Paris ve Brüksel'i birbirine bağlayan bazı Eurostar tren seferleri sürpriz bir grev nedeniyle iptal edildi.",
-        "Operatör şirket, grevi kimin gerçekleştirdiğini ve gerekçesini belirtmedi.",
-        "Etkilenen yolculara biletlerini değiştirme veya tam para iadesi alma hakkı sunuldu."
+        "Londra, Paris ve Brüksel'i bağlayan Eurostar tren seferleri sürpriz bir grev nedeniyle iptal edildi",
+        "İşletmeci şirket grevin kimler tarafından ve hangi nedenle yapıldığını belirtmedi",
+        "Etkilenen yolcuların biletlerini iade alabileceği veya seferlerini yeniden rezerve edebileceği açıklandı"
       ],
       "externalUrl": "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
       "publishedAt": "2026-11-25T10:02:32.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T10:14:23.132Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
+      "headline": "Ukrayna'nın Rus Gemisine Düzenlediği Saldırıda İki Libya Askeri Hayatını Kaybetti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1508530786855-dfea35260b8d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBzaGlwfGVufDF8MHx8fDE3OTU2MDE2NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Michael Afonso",
+        "photographerUrl": "https://unsplash.com/@mafonso",
+        "unsplashUrl": "https://unsplash.com/photos/gray-warship-on-body-of-water-BQgAYwERXhs"
+      },
+      "timeAgo": "16 dk önce",
+      "body": "Rusya tarafından desteklenen Halife Hafter'e bağlı Libya Ulusal Ordusu, askerlerinin ölümünün ardından misilleme yapma taahhüdünde bulundu. Açıklama, Ukrayna'nın bir Rus gemisine gerçekleştirdiği saldırı sonucunda iki Libyalı askerin yaşamını yitirmesinin ardından geldi. Libya Ulusal Ordusu'ndan yapılan açıklamada yaşanan kayıplara sert tepki gösterilirken, olayla ilgili gelişmelerin takip edildiği ve karşılık verileceği vurgulandı.",
+      "highlights": [
+        "Ukrayna'nın Rus gemisine düzenlediği saldırıda iki Libya askeri öldü",
+        "Rusya destekli Libya Ulusal Ordusu olay sonrası misilleme sözü verdi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
+      "publishedAt": "2026-11-25T09:58:02.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -567,7 +620,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T21:34:29.458Z"
+      "imageSearchAttemptedAt": "2026-11-25T10:14:23.132Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/truth-or-fake/20261124-jensen-huang-s-nvidia-comeback-sends-ai-videos-into-overdrive",
@@ -624,7 +677,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T22:44:30.397Z"
+      "imageSearchAttemptedAt": "2026-11-25T10:14:23.132Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss",
@@ -14204,56 +14257,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T08:24:19.510Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/france/20261120-french-union-leader-warns-strikes-will-continue-without-higher-wages-cgt-sophie-binet-interview",
-      "headline": "Fransız sendika liderinden uarı: Ücretler artmazsa grevler sürecek",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1680793343033-577aee8344ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RnJlbmNoJTIwc3RyaWtlJTIwcHJvdGVzdHxlbnwxfDB8fHwxNzk1MTU1MjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sébastien Ramage",
-        "photographerUrl": "https://unsplash.com/@ramagesebastien",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-and-flarers-mUJ1WyC9I1k"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Fransa'da CGT sendikasının lideri Sophie Binet, hükümetin asgari ücreti artırma önerisinin ülkedeki toplumsal krizi çözmekte yetersiz kaldığını belirterek grevlerin ve gösterilerin devam edeceğini açıkladı. RFI'a konuşan Binet, altı haftadır süren eylemlerin ardından çalışanların ve öğrencilerin mücadeleyi sürdürmekte kararlı olduğunu vurguladı. Öğrenci protestolarıyla başlayan süreç; kamu ve özel sektör çalışanları, artan yaşam pahalılığı, kamu hizmetlerindeki yatırım eksikliği ve durgun maaşlardan rahatsız olan diğer kesimlerin katılımıyla ülke çapına yayıldı.\n\nBirlik, kamu sektöründe maaşların dondurulmasına son verilmesini, genel olarak daha yüksek maaşlar, yüksek eğitimde daha fazla kontenjan ve yeni öğretmen kadroları talep ediyor. Hükümetin protestoları sonlandırmak için acil ve önemli duyurular yapması gerektiğini belirten Binet, bu mücadelenin uzun soluklu bir maratona dönüştüğünü ifade etti. Son grevlere katılım oranlarındaki dalgalanmaların bir ivme kaybı olmadığını, çalışanlar için grev yapmanın maliyetli olduğunu ve insanların alım gücünü göz önünde bulundurduğunu kaydetti.\n\nSendika lideri, hükümetin bütçe kesintileri odaklı politikalarını eleştirerek finansmanın hissedarların, ultra zenginlerin ve büyük şirketlerin ceplerinden sağlanması gerektiğini savundu. Savunma bütçesindeki artışa da tepki gösteren Binet, hastanelerin kapatılarak askeri harcamalara kaynak aktarıldığını ve kamu hizmetlerinin bakımsız durumda olduğunu söyledi. Kaynakların şirketlere sağlanan vergi muafiyetleri ve sübvansiyonlardan alınarak hastanelere, eğitime ve küresel ısınmaya karşı uyum çalışmalarına aktarılması gerektiğini dile getirdi.\n\nFransa'nın asgari ücret artışında diğer Avrupa ülkelerinin gerisinde kaldığını belirten Binet, Emmanuel Macron'un politikaları sonucunda en zengin bireyler ile büyük şirketlerin vergilerinin yıllık 60 milyar euro azaltıldığını savundu. Fransa'daki toplumsal hareketliliğin Yunanistan, İtalya, Portekiz, İspanya ve Almanya gibi diğer ülkelere de ilham verdiğini belirten Binet, acil yanıtlar alınana kadar mücadeleden vazgeçmeyeceklerini vurguladı.",
-      "highlights": [
-        "Fransız sendika lideri Sophie Binet, asgari ücret teklifinin krizi çözmediğini söyledi.",
-        "CGT sendikası kamu sektöründe maaş artışı ve daha iyi kamu hizmetleri talep ediyor.",
-        "Binet, hükümetin acil ve önemli adımlar atmaması durumunda grevlerin süreceğini belirtti."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/france/20261120-french-union-leader-warns-strikes-will-continue-without-higher-wages-cgt-sophie-binet-interview",
-      "publishedAt": "2026-11-20T06:07:21.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T06:24:29.340Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
-      "headline": "ABD denizcilik ajansı, İran ablukasının Körfez'deki primleri artırdığı konusunda uyardı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1613690399151-65ea69478674?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y2FyZ28lMjBzaGlwfGVufDF8MHx8fDE3OTUxNTc2NzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Venti Views",
-        "photographerUrl": "https://unsplash.com/@ventiviews",
-        "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-boat-on-water-1cqIcrWFQBI"
-      },
-      "timeAgo": "52 dk önce",
-      "body": "ABD Denizcilik İdaresi, İran deniz ablukasının sigorta primleri ve kargo kapasitesi üzerindeki etkisini kabul etti.\n\nBir nota göre, yaşanan bu durum bölgedeki maliyetlerin yükselmesine sebep oluyor.\n\nYetkililer, söz konusu ablukanın nakliye ve ticaret üzerindeki yansımalarını değerlendirdi.",
-      "highlights": [
-        "ABD Denizcilik İdaresi naval ablukasının etkisini kabul etti",
-        "Sigorta primleri ve kargo kapasitesi etkilendi",
-        "Durum bir notla ortaya çıktı"
-      ],
-      "externalUrl": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
-      "publishedAt": "2026-11-20T06:03:03.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T07:04:26.972Z",
       "isBreaking": false
     }
   ],
