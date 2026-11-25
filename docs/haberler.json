@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-25T17:55:51.757Z",
+  "generatedAt": "2026-11-25T18:06:22.131Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879",
+      "headline": "ABD, SpaceX'in uzaydaki veri merkezleri için 1 milyon uydu fırlatmasına yetki verdi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1634175735590-b2ed7b02d143?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8QUJEJTJDJTIwU3BhY2VYJTI3aW4lMjB1emF5ZGFraSUyMHZlcmklMjBtZXJrZXpsZXJpJTIwaSVDMyVBN2luJTIwMSUyMG1pbHlvbiUyMHV5ZHUlMjBmJUM0JUIxcmxhdG1hcyVDNCVCMW5hJTIweWV0a2klMjB2ZXJkaXxlbnwxfDB8fHwxNzk1NjI5OTM2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anirudh",
+        "photographerUrl": "https://unsplash.com/@lanirudhreddy",
+        "unsplashUrl": "https://unsplash.com/photos/a-model-of-a-rocket-with-a-smaller-rocket-next-to-it-w_WZRYHb-D0"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "ABD Federal İletişim Komisyonu (FCC), uzay, havacılık ve yapay zeka şirketi SpaceX'in uzayda veri merkezleri oluşturmak amacıyla 1 milyon uydu fırlatma talebini onayladı.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879",
+      "publishedAt": "2026-11-25T18:02:20.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
       "headline": "25 Kasım'da birçok ilde kadınlar sokakta: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
@@ -21,6 +41,30 @@
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T17:51:11.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+      "headline": "Ekvador ve ABD ortak askeri operasyonları gözden geçiriyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1608396941316-ea89219bd56e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBvcGVyYXRpb258ZW58MXwwfHx8MTc5NTYyOTg5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Filip Andrejevic",
+        "photographerUrl": "https://unsplash.com/@fandrejevic",
+        "unsplashUrl": "https://unsplash.com/photos/men-in-green-and-brown-camouflage-uniform-1LTunOck3es"
+      },
+      "timeAgo": "14 dk önce",
+      "body": "Ekvador ve Amerika Birleşik Devletleri ortak askeri operasyonları gözden geçirme sürecinde bulunuyor. Konuyla ilgili resmi bir açıklama yapıldı.\n\nYetkililerin verdiği bilgiye göre, ortak askeri çalışmalar geçici olarak durduruldu.\n\nBu durdurma kararının arkasında, Amerika Birleşik Devletleri'nin Ekvador tarafından gerçekleştirilen ölümcül bir operasyonu soruşturması yer alıyor.\n\nSoruşturma süreci ve ortak operasyonların geleceğine ilişkin detaylar taraflarca incelenmeye devam ediyor.",
+      "highlights": [
+        "Ekvador ve ABD ortak askeri operasyonları gözden geçiriyor",
+        "Ortak askeri çabalar geçici olarak durduruldu",
+        "ABD Ekvador'un gerçekleştirdiği ölümcül bir operasyonu soruşturuyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+      "publishedAt": "2026-11-25T17:50:41.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -372,15 +416,16 @@
       "timeAgo": "3 dk önce",
       "body": "Amerika Birleşik Devletleri, Avrupa Birliği ve Çin'in de aralarında bulunduğu 14 ekonomiye yönelik yeni gümrük vergisi teklifini kamuoyuna açıkladı. Çarşamba günü duyurulan bu adım, aşırı üretim iddialarına yönelik aylardır süren bir soruşturmanın ardından atıldı ve ABD Başkanı Donald Trump'ın Washington'ın ticaret ilişkilerini yeniden şekillendirme çabalarının son halkasını oluşturdu.\n\nAçıklanan yeni vergi teklifleri, ABD'nin en büyük ticaret ortaklarından bazılarını hedef alıyor. Teklif edilen bu tarifelerin yürürlüğe girmeden önce bir halka açık görüş ve değerlendirme sürecinden geçmesi gerekiyor.\n\nSöz konusu gelişme, ABD yönetiminin dış ticaret politikalarında attığı yeni adımlar kapsamında duyuruldu. Konuyla ilgili detaylar ve sürecin yansımaları basında yer almaya devam ediyor.",
       "highlights": [
-        "ABD, aralarında AB ve Çin'in de bulunduğu 14 ekonomiye yönelik gümrük vergisi teklifini açıkladı.",
-        "Karar, aşırı üretim iddialarına yönelik aylardır süren soruşturmanın ardından alındı.",
-        "Yeni tarifeler yürürlüğe girmeden önce halka açık görüş sürecinden geçecek."
+        "ABD, aralarında AB ve Çin'in de olduğu 14 ekonomiye yönelik gümrük vergisi tasarılarını açıkladı.",
+        "Karar, aylar süren aşırı üretim soruşturmasının ardından alındı.",
+        "Yeni vergilerin yürürlüğe girmesinden önce kamuoyu görüş sürecinden geçmesi gerekiyor."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261125-us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
       "publishedAt": "2026-11-25T16:21:55.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T18:04:26.410Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-iranian-family-seeks-release-of-twin-sisters-facing-death-penalty-and-25-years-in-prison",
@@ -4085,7 +4130,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T20:24:23.389Z",
-      "imageSearchAttemptedAt": "2026-11-24T17:24:19.495Z"
+      "imageSearchAttemptedAt": "2026-11-25T18:04:26.410Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
@@ -4198,7 +4243,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T17:34:24.410Z",
+      "imageSearchAttemptedAt": "2026-11-25T18:04:26.410Z",
       "sourceTextAttemptedAt": "2026-11-23T20:04:22.709Z"
     },
     {
@@ -14148,54 +14193,6 @@
       "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
       "publishedAt": "2026-11-20T11:00:31.000Z",
       "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
-      "headline": "Polonya'da Ukrayna'daki Rus saldırılarının ardından kimliği belirsiz nesne düştü",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1695584068449-a0ad3cbd7e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8UG9saXNoJTIwbWlsaXRhcnl8ZW58MXwwfHx8MTc5NTE3MjY3NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Artem Lobastov",
-        "photographerUrl": "https://unsplash.com/@lobalobanana",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-top-of-a-polish-air-force-plane-DfpTolhF2Y8"
-      },
-      "timeAgo": "9 dk önce",
-      "body": "Polonya ordusu, Ukrayna sınırına yakın bir bölgede ülkenin hava sahasının \"şüpheli bir şekilde ihlal edildiğini\" incelemeye başladığını bildirdi. Yetkililer, Cuma sabahı Polonya'ya düştüğü görülen kimliği belirsiz bir nesneyi ele geçirmek için çalışma başlattı. Bu olay, Ukrayna'daki Rus saldırılarının ardından yaşandı.\n\nPolonya Başbakanı Donald Tusk, gelişmelere yanıt olarak hükümet bakanları, askeri komutanlar ve güvenlik servisleri başkanıyla bir toplantı düzenleyeceğini açıkladı. Yetkililer, nesnenin ne olduğunu söylemek için henüz çok erken olduğunu belirtti.\n\nOlası düşme yeri, Polonya-Ukrayna sınırına yaklaşık 60 kilometre mesafedeki Nowy Lipowiec köyü yakınlarında bulunuyor. Polonya ajansı PAP'a göre, bölgedeki yakın okullar gün boyunca eğitime ara verdi.\n\nPAP tarafından toplanan bölgedeki kapalı devre kameralara ve cep telefonlarına ait görüntüler, ormanlık bir alanda büyük ve gürültülü bir patlama ile parlak bir flaşın meydana geldiğini gösterdi. Soruşturma sürerken çevrede askeri helikopterler ve kurtarma araçları görüldü, polis geçici yol blokları kurdu.\n\nSöz konusu konum, binlerce Avrupa askerinin savaş sonrası Ukrayna'daki olası bir misyona hazırlanmak amacıyla Cuma günü güneydoğu Polonya'da gerçekleştirdiği askeri tatbikat alanına da yaklaşık 75 kilometre uzaklıkta yer alıyor. Tatbikatın, savaş sona erdiğinde ülkeyi istikrara kavuşturmayı ve ordusunu yeniden kurmayı amaçladığı ifade edildi.",
-      "highlights": [
-        "Polonya ordusu Ukrayna sınırına yakın hava sahası ihlalini inceliyor",
-        "Kimliği belirsiz nesne Nowy Lipowiec köyü yakınlarına düştü",
-        "Başbakan Donald Tusk güvenlik ve askeri yetkililerle toplantı yapacak"
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
-      "publishedAt": "2026-11-20T10:55:19.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/sozcu-sorusturmasinda-yeni-gelisme-1751735",
-      "headline": "Sözcü soruşturmasında yeni gelişme: Gözaltındaki yetkililer hakimliğe sevk edildi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1767321158159-4390cd77968e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwY291cnRob3VzZXxlbnwxfDB8fHwxNzk1MTcxNDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "You Le",
-        "photographerUrl": "https://unsplash.com/@le_y0u",
-        "unsplashUrl": "https://unsplash.com/photos/crowd-watching-a-nighttime-outdoor-event-with-large-illuminated-letters-gYWkTYa5f6U"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Sözcü TV'nin sahibi Burak Akbay'a yönelik yürütülen FETÖ soruşturması çerçevesinde gözaltına alınan kanal yetkilileri hakkında adli kontrol talebinde bulunuldu. İstanbul Cumhuriyet Başsavcılığı'nın açıklamasına göre, kanal binasına 17 Kasım'da operasyon düzenlendi. Akbay hakkında gelen yeni ihbarlar ve FETÖ ile bağlantılı para hareketleri iddiaları üzerine başlatılan soruşturmada, gözaltındaki Yönetim Kurulu Başkanı Funda Tuncer Sıdalı, eski Genel Müdür Asım Akgül, İsmail Öz ve Yonca Yücekaleli emniyetteki işlemlerinin tamamlanmasının ardından hastanedeki sağlık kontrolünden geçirilerek Çağlayan'daki İstanbul Adliyesi'ne sevk edildi.\n\nSavcılığa ifade veren şüphelilerden Yonca Yücekaleli için ev hapsi, diğer 3 şüpheli için ise imza ve yurt dışı çıkış yasağı adli kontrolü talep edilerek sulh ceza hakimliğine sevk edildikleri bildirildi. Soruşturma kapsamında kanal ve internet sitesine kayyum atanmıştı. Başsavcılık, Estetik Yayıncılık A.Ş ve Mega Ajans adlı şirketlerin finanse edildiği ve FETÖ silahlı terör örgütü yöneticiliğinin bu şirketler üzerinden sürdürüldüğüne dair kuvvetli şüphe üzerine kayyım atandığını belirtirken, bu kararın Sözcü, Korkusuz ve Tavır gazetelerini kapsamadığı kaydedildi.\n\nBaşsavcılığın açıklamasında, uzun süredir yurt dışında bulunan Burak Akbay'ın terör örgütüne finansal destek sağladığı ve örgüt yöneticisi konumunda olduğu iddia edildi. MASAK raporları incelemesi neticesinde Akbay'ın yurt dışı banka hesaplarından Estetik Yayıncılık A.Ş ve Mega Ajans'ı finanse ettiğine dair kuvvetli şüphe üzerine arama, el koyma ve gözaltı kararı verildiği ifade edildi. Ayrıca İstanbul 4. Sulh Ceza Hakimliği'nce Mega Ajans ve Reklamcılık Ticaret A.Ş'ye TMSF'nin kayyım olarak atanmasına karar verildiği aktarıldı.\n\nSözcü Grubu'nun avukatı Ersan Barkın da konuya ilişkin açıklama yaparak soruşturmanın 2016'da açılan bir dosya olduğunu hatırlattı. Barkın, Emin Çölaşan, Necati Doğru ve Rahmi Turan gibi gazetecilerin yargılandığını, Yargıtay'ın bozması sonrasında beraat kararları verildiğini ve Burak Akbay o dönem savunma yapmadığı için kendisiyle ilgili hüküm kurulmadığını vurguladı.",
-      "highlights": [
-        "Sözcü TV sahibi Burak Akbay'a yönelik soruşturmada gözaltına alınan 4 yetkili adliyeye sevk edildi.",
-        "Yonca Yücekaleli için ev hapsi, diğer 3 şüpheli için imza ve yurt dışı çıkış yasağı talep edildi.",
-        "Estetik Yayıncılık A.Ş ve Mega Ajans'a TMSF kayyım olarak atandı."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/sozcu-sorusturmasinda-yeni-gelisme-1751735",
-      "publishedAt": "2026-11-20T10:42:49.000Z",
-      "category": "Türkiye",
       "lang": "tr",
       "isBreaking": false
     }
