@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T18:15:23.512Z",
+  "generatedAt": "2026-11-25T18:25:21.677Z",
   "articles": [
     {
       "id": "https://www.yenisafak.com/galeri/gundem/amasyada-tarihi-yapilar-turuncu-isikla-aydinlatildi-4876551",
@@ -14,12 +14,17 @@
       },
       "timeAgo": "3 dk önce",
       "body": "Amasya'da 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Amasya Valiliği öncülüğündeki farkındalık çalışmasıyla Kral Kaya Mezarları, Kızlar Sarayı, Harşena Kalesi ve Yalıboyu evleri turuncu renkle aydınlatıldı.",
-      "highlights": [],
+      "highlights": [
+        "Amasya Valiliği öncülüğünde 25 Kasım kapsamında farkındalık çalışması yapıldı.",
+        "Kral Kaya Mezarları, Kızlar Sarayı, Harşena Kalesi ve Yalıboyu evleri turuncuya büründü.",
+        "Turuncu renk, Birleşmiş Milletler tarafından mücadelenin simge rengi kabul ediliyor."
+      ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/amasyada-tarihi-yapilar-turuncu-isikla-aydinlatildi-4876551",
       "publishedAt": "2026-11-25T18:12:00.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T18:24:25.545Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-spacexin-uzaydaki-veri-merkezleri-icin-1-milyon-uydu-firlatmasina-yetki-verdi/4137879",
@@ -204,6 +209,25 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T17:54:17.588Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+      "headline": "Irak Yüksek Mahkemesi'nden Hükümete Sınır ve Petrol Sahaları Kararı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "55 dk önce",
+      "body": "Irak'ın en üst mahkemesi, hükümetin Kürt sınırları ile petrol sahalarının kontrolünü devralabileceğine hükmetti. Bu karar, Kürt yetkililerin Bağdat yönetimini bölgenin anayasal haklarına yönelik bir \"saldırı\" gerçekleştirmekle suçlamasından sadece bir gün sonra geldi. Gelişmeler, merkezi hükümet ile Kürt yönetimi arasındaki gerilimi artırırken, mahkemenin aldığı bu yeni kararın sahadaki yansımaları yakından takip ediliyor. Kürt makamlarının konuya ilişkin sonraki adımları ve konunun tarafları arasında nasıl bir diyalog kurulacağı ise belirsizliğini koruyor.",
+      "highlights": [
+        "Irak'ın en üst mahkemesi hükümetin Kürt sınırları ve petrol sahalarını devralabileceğine karar verdi.",
+        "Karar, Kürt yetkililerin Bağdat'ı anayasal haklara saldırıyla suçlamasından bir gün sonra açıklandı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
+      "publishedAt": "2026-11-25T17:29:51.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
@@ -4426,7 +4450,7 @@
       "category": "Son Dakika",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T17:44:21.856Z",
+      "imageSearchAttemptedAt": "2026-11-25T18:24:25.545Z",
       "sourceTextAttemptedAt": "2026-11-24T13:54:19.029Z"
     },
     {
@@ -4448,7 +4472,7 @@
       "category": "Yaşam",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T17:54:19.910Z",
+      "imageSearchAttemptedAt": "2026-11-25T18:24:25.545Z",
       "sourceTextAttemptedAt": "2026-11-24T14:04:27.822Z"
     },
     {
@@ -14165,28 +14189,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T13:24:20.552Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/tuncelide-terorsuz-turkiye-toplantisi-8-ilin-valisi-katilacak-1751775",
-      "headline": "Tunceli'de Terörsüz Türkiye toplantısı. 8 ilin valisi katılacak",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
-      "timeAgo": "3 dk önce",
-      "body": "İçişleri Bakanı Mustafa Çiftçi, yarın Tunceli'de 8 ilin valileri ve güvenlik birimlerinin üst düzey yöneticileriyle Terörsüz Türkiye süreciyle ilgili ikinci kez toplantı yapacak. Terörsüz Türkiye sürecine ilişkin yarın Tunceli'de 8 ilin valileri ve güvenlik birimlerinin üst düzey yöneticileriyle toplantı yapılacak. İçişleri Bakanı Mustafa Çiftçi'nin başkanlık edeceği “Bölge Valileri ile Terörsüz Türkiye Konulu…",
-      "highlights": [
-        "İçişleri Bakanı Mustafa Çiftçi başkanlığında Tunceli'de Terörsüz Türkiye toplantısı yapılacak",
-        "Toplantıya Tunceli, Adıyaman, Bayburt, Elazığ, Erzincan, Erzurum, Malatya ve Şanlıurfa valileri katılacak",
-        "İlk toplantı 17 Ekim'de Batman'da gerçekleştirilmişti"
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/tuncelide-terorsuz-turkiye-toplantisi-8-ilin-valisi-katilacak-1751775",
-      "publishedAt": "2026-11-20T11:02:03.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T14:24:24.169Z",
-      "imageSearchAttemptedAt": "2026-11-24T22:14:22.571Z",
       "isBreaking": false
     }
   ],
