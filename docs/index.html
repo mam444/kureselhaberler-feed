@@ -346,6 +346,21 @@
     max-width: 1440px; margin: 6px auto 0; padding: 0 20px;
     font-size: 26px; font-weight: 800; display: flex; align-items: center; gap: 10px;
   }
+  .category-page-hero {
+    display:flex; align-items:center; gap:14px; margin:2px 0 18px; padding:15px 17px;
+    border:1px solid color-mix(in srgb,var(--category-accent) 24%,var(--divider));
+    border-radius:16px; background:linear-gradient(110deg,color-mix(in srgb,var(--category-accent) 9%,var(--card)),var(--card));
+  }
+  .category-page-icon {
+    display:grid; place-items:center; flex:none; width:54px; height:54px; border-radius:16px;
+    background:color-mix(in srgb,var(--category-accent) 13%,var(--card)); color:var(--category-accent);
+    box-shadow:0 5px 14px color-mix(in srgb,var(--category-accent) 16%,transparent);
+  }
+  .category-page-icon .msr { font-size:29px; }
+  .category-page-icon .turkey-mark { width:38px; height:22px; }
+  .category-page-kicker { margin-bottom:3px; color:var(--text-secondary); font-size:9px; font-weight:900; letter-spacing:.12em; text-transform:uppercase; }
+  .category-page-title { margin:0; color:var(--text); font-size:21px; line-height:1.15; }
+  .category-page-count { margin-top:5px; color:var(--category-accent); font-size:11px; font-weight:800; }
 
   /* ---------- Layout ---------- */
   main { max-width: 1240px; margin: 0 auto; padding: 18px 20px 56px; background: var(--card); color: var(--text); border-radius: 0 0 18px 18px; min-height: 68vh; box-shadow: 0 18px 55px rgba(0,0,0,.2); }
@@ -1965,6 +1980,9 @@ function renderCategoryPage(name) {
   renderCategoryNav(name);
 
   const items = categoryArticles(name);
+  const definition = CORE_CATEGORIES.find(item => item.name === name);
+  const accent = definition?.color || categoryColor(name);
+  const icon = definition?.icon || categoryFallbackIcon(name);
 
   const content = document.getElementById('content');
   let main = '';
@@ -1973,7 +1991,11 @@ function renderCategoryPage(name) {
   } else {
     main += `<div style="margin-top:2px">${pagedFeedHtml(items, 'category:' + name)}</div>`;
   }
-  const heading = `<div class="page-heading" style="max-width:none;margin:0;padding:0"><span class="msr" style="color:var(--gold)">grid_view</span>${escapeHtml(name)}</div>`;
+  const heading = `<section class="category-page-hero" style="--category-accent:${escapeHtml(accent)}" aria-label="${escapeHtml(name)} kategorisi">
+    <span class="category-page-icon">${categoryMarkHtml(name, icon)}</span>
+    <div><div class="category-page-kicker">Haber kategorisi</div><h1 class="category-page-title">${escapeHtml(name)}</h1>
+    <div class="category-page-count">${items.length} güncel haber</div></div>
+  </section>`;
   const html = `${heading}<div class="home-layout" style="margin-top:18px"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
   content.innerHTML = `<div class="fade-in">${html}</div>`;
   bindCardClicks(content);
