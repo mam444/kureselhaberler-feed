@@ -145,7 +145,9 @@
   .video-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; margin-top:20px; }
   .video-card { min-width:0; overflow:hidden; border:1px solid var(--card-border); border-radius:16px; background:var(--card); box-shadow:0 3px 12px rgba(55,47,33,.08); transition:transform .18s,box-shadow .18s; }
   .video-card:hover { transform:translateY(-3px); box-shadow:0 12px 26px rgba(55,47,33,.14); }
-  .video-thumb { position:relative; display:block; aspect-ratio:16/9; overflow:hidden; background:linear-gradient(135deg,var(--navy-dark),var(--navy)); }
+  .video-thumb { position:relative; display:block; width:100%; padding:0; border:0; text-align:left; color:inherit; aspect-ratio:16/9; overflow:hidden; background:linear-gradient(135deg,var(--navy-dark),var(--navy)); }
+  button.video-thumb { cursor:pointer; }
+  .video-thumb iframe,.video-thumb video { position:absolute; inset:0; width:100%; height:100%; border:0; background:#07101c; object-fit:contain; }
   .video-thumb img { display:block; width:100%; height:100%; object-fit:cover; transition:transform .3s; }
   .video-card:hover .video-thumb img { transform:scale(1.035); }
   .video-thumb .thumb-fallback { position:absolute; inset:0; }
@@ -1427,7 +1429,6 @@ document.addEventListener('error', event => {
   const image = event.target;
   if (!(image instanceof HTMLImageElement) || !image.hasAttribute('data-news-cover')) return;
   const category = image.dataset.category || '';
-  const definition = CORE_CATEGORIES.find(item => item.name === category);
   const fallback = document.createElement('div');
   const preserveClasses = ['featured-cover','hero','next-up-cover-fallback','explore-cover']
     .filter(name => image.classList.contains(name)).join(' ');
@@ -1438,11 +1439,11 @@ document.addEventListener('error', event => {
   if (image.closest('.featured-main')) fallback.classList.add('featured-cover-fallback');
   if (image.closest('.article-inner')) fallback.classList.add('article-cover-fallback');
   if (image.closest('.next-up-card')) fallback.classList.add('next-up-cover-fallback');
-  fallback.style.setProperty('--fallback-accent', definition?.color || categoryColor(category));
-  const mark = document.createElement('span'); mark.className = 'fallback-mark';
-  mark.innerHTML = categoryMarkHtml(category, definition?.icon || categoryFallbackIcon(category));
-  const label = document.createElement('span'); label.className = 'fallback-label'; label.textContent = category || SITE_NAME;
-  fallback.append(mark,label);
+  fallback.style.setProperty('--fallback-accent', categoryColor(category));
+  // Use the same full editorial SVG illustration as stories without a cover.
+  // The previous error path inserted only a small category glyph, which made
+  // failed remote covers look like missing images across the site.
+  fallback.innerHTML = `<span class="fallback-art">${categoryArtworkSvg(category)}</span><span class="fallback-label">${escapeHtml(category || SITE_NAME)}</span>`;
   image.replaceWith(fallback);
 }, true);
 
@@ -2073,6 +2074,45 @@ function renderAboutPage() {
   </div>`;
 }
 
+function officialYoutubeEmbedUrl(value) {
+  const safe = safeHttpUrl(value);
+  if (!safe) return null;
+  try {
+    const url = new URL(safe);
+    const host = url.hostname.toLowerCase().replace(/^www\./, '');
+    let id = '';
+    if (host === 'youtu.be') id = url.pathname.split('/').filter(Boolean)[0] || '';
+    else if (host === 'youtube.com' || host === 'm.youtube.com' || host === 'youtube-nocookie.com') {
+      if (url.pathname === '/watch') id = url.searchParams.get('v') || '';
+      else id = url.pathname.match(/^\/(?:embed|shorts|live)\/([\w-]{11})/)?.[1] || '';
+    }
+    return /^[\w-]{11}$/.test(id) ? `https://www.youtube-nocookie.com/embed/${id}` : null;
+  } catch { return null; }
+}
+
+function authorizedVideoFile(article) {
+  const rights = article.mediaRights;
+  if (article.mediaRightsConfirmed !== true || rights?.confirmed !== true
+      || !String(rights.rightsHolder || '').trim()
+      || !Number.isFinite(Date.parse(rights.checkedAt || ''))
+      || Date.parse(rights.checkedAt) > Date.now() + 5 * 60_000) return null;
+  const usage = String(rights.usage || '');
+  if (!['owned', 'ai_generated', 'licensed', 'stock'].includes(usage)) return null;
+  if (['licensed', 'stock'].includes(usage)) {
+    try {
+      const evidence = new URL(rights.evidenceUrl || '');
+      if (evidence.protocol !== 'https:' || !evidence.hostname) return null;
+    } catch { return null; }
+  }
+  try {
+    const video = new URL(article.videoUrl || '');
+    if (video.protocol !== 'https:' || !video.hostname || video.username || video.password
+        || !/\.(?:mp4|m4v|webm)$/i.test(video.pathname)) return null;
+    if ([...video.searchParams.keys()].some(key => /(?:token|auth|signature|secret|credential|policy|jwt|expires?)/i.test(key))) return null;
+    return video.href;
+  } catch { return null; }
+}
+
 function renderVideoPage() {
   setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">Video Haberler</span>`);
   document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
@@ -2080,18 +2120,26 @@ function renderVideoPage() {
   const videos = allArticles.filter(article => {
     const sourceUrl = safeHttpUrl(article.externalUrl || article.id);
     if (!sourceUrl) return false;
+    if (officialYoutubeEmbedUrl(sourceUrl) || authorizedVideoFile(article)) return true;
     try { return /(?:^|\/)video(?:[-/]|$)/i.test(new URL(sourceUrl).pathname); }
     catch { return false; }
   }).sort((a, b) => new Date(b.publishedAt || 0) - new Date(a.publishedAt || 0));
   const cards = videos.map(article => {
     const sourceUrl = safeHttpUrl(article.externalUrl || article.id);
+    const embedUrl = officialYoutubeEmbedUrl(sourceUrl);
+    const videoFileUrl = authorizedVideoFile(article);
     const cover = article.imageUrl
       ? `<img data-news-cover data-category="${escapeHtml(canonicalCategory(article.category))}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`
       : categoryIllustrationHtml(article.category);
+    const player = embedUrl || videoFileUrl
+      ? `<button class="video-thumb video-embed-trigger" type="button" ${embedUrl ? `data-video-embed="${escapeHtml(embedUrl)}"` : `data-video-file="${escapeHtml(videoFileUrl)}"`} data-video-title="${escapeHtml(article.headline)}" aria-label="${escapeHtml(article.headline)} — videoyu sitede oynat">
+          ${cover}<span class="video-play"><span class="msr">play_arrow</span></span><span class="video-source-tag">SİTEDE OYNAT</span>
+        </button>`
+      : `<a class="video-thumb" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(article.headline)} — yayıncı sayfasını aç">
+          ${cover}<span class="video-play"><span class="msr">play_arrow</span></span><span class="video-source-tag">YAYINCI SAYFASINDA</span>
+        </a>`;
     return `<article class="video-card">
-      <a class="video-thumb" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(article.headline)} — yayıncı sayfasını aç">
-        ${cover}<span class="video-play"><span class="msr">play_arrow</span></span><span class="video-source-tag">YAYINCI SAYFASINDA</span>
-      </a>
+      ${player}
       <div class="video-card-body">
         <div class="video-card-meta"><span class="video-category">${escapeHtml(canonicalCategory(article.category) || 'Haber')}</span><span>·</span><span>${escapeHtml(article.source || article.originalSource || 'Yayıncı')}</span></div>
         <h2>${escapeHtml(article.headline)}</h2>
@@ -2101,10 +2149,35 @@ function renderVideoPage() {
   }).join('');
   document.getElementById('content').innerHTML = `<div class="fade-in">
     <div class="page-heading"><span class="msr" style="color:var(--gold)">smart_display</span>Video Haberler</div>
-    <p style="margin:8px 0 0;color:var(--text-secondary)">Video içerikleri, yayın hakkı ve oynatıcı yayıncıda kalacak şekilde asıl kaynağında açılır.</p>
+    <p style="margin:8px 0 0;color:var(--text-secondary)">Resmî YouTube oynatıcıları ve hak kaydı doğrulanmış videolar bu sayfada oynar. Diğer içerikler yayıncı kaynağında açılır.</p>
     ${videos.length ? `<div class="video-grid">${cards}</div>` : `<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.45">smart_display</span><br>Şu anda kaynak bağlantısı doğrulanmış bir video haber bulunamadı.</div>`}
-    <p class="video-note">Kapak fotoğrafları haber kartlarına aittir; sitede video dosyası barındırılmaz. Kaynak ve oynatma koşulları yayıncı sitesinde gösterilir.</p>
+    <p class="video-note">Sayfa içinde oynatma yalnızca resmî gömme bağlantısı veya doğrulanmış kullanım hakkı olan videolarda açılır. Diğer videolar ilgili yayıncının sayfasında izlenir.</p>
   </div>`;
+  document.querySelectorAll('.video-embed-trigger').forEach(button => {
+    button.addEventListener('click', () => {
+      const frame = document.createElement('iframe');
+      if (button.dataset.videoEmbed) {
+        const frame = document.createElement('iframe');
+        frame.src = `${button.dataset.videoEmbed}?autoplay=1`;
+        frame.title = button.dataset.videoTitle || 'Video haber';
+        frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share';
+        frame.allowFullscreen = true;
+        frame.referrerPolicy = 'strict-origin-when-cross-origin';
+        button.replaceChildren(frame);
+      } else if (button.dataset.videoFile) {
+        const video = document.createElement('video');
+        video.controls = true;
+        video.autoplay = true;
+        video.playsInline = true;
+        video.preload = 'metadata';
+        video.src = button.dataset.videoFile;
+        video.setAttribute('aria-label', button.dataset.videoTitle || 'Video haber');
+        button.replaceChildren(video);
+      }
+      button.classList.add('video-playing');
+      button.disabled = true;
+    });
+  });
 }
 
 function renderCategoryNav(activeName) {
