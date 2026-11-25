@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-25T16:37:16.637Z",
+  "generatedAt": "2026-11-25T16:47:30.073Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
+      "headline": "Fransız köyü, neredeyse ücretsiz arsa teklifiyle kırsaldaki nüfus düşüşüne meydan okuyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1560706834-afe1ba5d6737?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RnJlbmNoJTIwdmlsbGFnZXxlbnwxfDB8fHwxNzk1NjI1MDkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "V2F",
+        "photographerUrl": "https://unsplash.com/@iv2fi",
+        "unsplashUrl": "https://unsplash.com/photos/white-concrete-building-axD--Oq9uus"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "Fransa'nın başkenti Paris'te belediye başkanları yıllık kongreleri için bir araya gelirken, hem kentsel hem de kırsal alanlardaki yaşam standartları ile kamu hizmetlerindeki düşüş gündemin üst sıralarında yer alıyor. Özellikle kırsal kesimdeki belediye başkanları, topluluklarındaki azalan nüfustan endişe duyuyor. \n\nAncak bu trende meydan okuyan küçük bir Fransız kasabası dikkat çekiyor. Cantal bölgesinde yer alan Parlan adlı kasaba, neredeyse ücretsiz arsa teklifleri sayesinde nüfusunu iki katına çıkardı ve yerel hizmetlerini geliştirdi. \n\nFransa 24 tarafından yayımlanan videonun yapımcılığını Emerald Maxwell üstlendi. Konu, kırsal bölgelerdeki nüfus azalması ve bu soruna karşı üretilen yerel çözümler kapsamında ele alınıyor.",
+      "highlights": [
+        "Cantal bölgesindeki Parlan kasabasının nüfusu iki katına çıktı",
+        "Yerel hizmetler neredeyse ücretsiz arsa teklifleri sayesinde gelişti",
+        "Belediye başkanları Paris'teki yıllık kongrede kırsal nüfus düşüşünü görüşüyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
+      "publishedAt": "2026-11-25T16:37:37.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-husilerin-saldirisina-kinama-sivil-alanlari-hedef-alan-bu-saldirganlik-derhal-son-bulmalidir-4876529",
+      "headline": "AK Parti Sözcüsü Çelik'ten Husilerin saldırısına kınama",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1663900108404-a05e8bf82cda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Uml5YWRoJTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NjI1MTA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "سيف الظاهر",
+        "photographerUrl": "https://unsplash.com/@saifaldhaher",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-at-night-vAkHAP27QMk"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "AK Parti Sözcüsü Ömer Çelik, Suudi Arabistan’ın başkenti Riyad’da bulunan Kral Abdullah Finans Merkezi’ne gerçekleştirilen saldırıyı şiddetle kınadı. \n\nSözcü Çelik, sivil alanları hedef alan bu tür saldırganlıkların derhal son bulması gerektiğini vurguladı.\n\nAçıklamada ayrıca saldırıda yaralanan kişiler için acil şifalar dileğinde bulunuldu.",
+      "highlights": [
+        "AK Parti Sözcüsü Çelik, Riyad'daki Kral Abdullah Finans Merkezi'ne düzenlenen saldırıyı kınadı.",
+        "Saldırganlığın sivil alanları hedef aldığını ve derhal son bulması gerektiğini belirtti.",
+        "Yaralananlar için acil şifalar diledi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-husilerin-saldirisina-kinama-sivil-alanlari-hedef-alan-bu-saldirganlik-derhal-son-bulmalidir-4876529",
+      "publishedAt": "2026-11-25T16:35:04.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/hsknin-mazeret-kararnamesiyle-957-hakim-ve-savcinin-gorev-yeri-degisti-1752573",
       "headline": "HSK'nin mazeret kararnamesiyle 957 hakim ve savcının görev yeri değişti",
@@ -623,7 +671,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T10:44:26.828Z",
-      "imageSearchAttemptedAt": "2026-11-25T10:44:26.828Z"
+      "imageSearchAttemptedAt": "2026-11-25T16:44:43.500Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
@@ -670,7 +718,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T10:34:33.692Z",
-      "imageSearchAttemptedAt": "2026-11-25T10:34:33.692Z"
+      "imageSearchAttemptedAt": "2026-11-25T16:44:43.500Z"
     },
     {
       "id": "https://www.milliyet.com.tr/teknoloji/huawei-yapay-zeka-teknolojilerinde-patent-engeli-olusturmak-istemiyor-7707644",
@@ -14155,56 +14203,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:44:36.198Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
-      "headline": "Eski Fransa Başbakanı Dominique de Villepin başkanlık adaylığını açıklayacak",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1714999484661-aa6ccb657def?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Rm9ybWVyJTIwRnJlbmNoJTIwcHJpbWUlMjBtaW5pc3RlciUyMERvbWluaXF1ZSUyMGRlJTIwVmlsbGVwaW4lMjB0byUyMGFubm91bmNlJTIwcHJlc2lkZW50aWFsJTIwYmlkfGVufDF8MHx8fDE3OTUxNjcyODF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Norbu GYACHUNG",
-        "photographerUrl": "https://unsplash.com/@norbuw",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-speaking-into-a-microphone-in-front-of-a-sign-zmeHA4NO1Bs"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Eski Fransa Başbakanı ve muhafazakâr politikacı Dominique de Villepin, 2027 yılındaki cumhurbaşkanlığı seçimleri için resmi adaylık kampanyasını Cuma günü başlatmaya hazırlanıyor. De Villepin'in ekibi, Paris'teki Maison de l'Amerique Latine'de saat 11.00 için bir basın toplantısı düzenleyeceğini duyurdu. Ekibinin aktardığına göre aday, Fransa'yı böldüğünü savunduğu aşırı sağcı Ulusal Birlik, sol cephedeki Boyun Eğmeyen Fransa ve Macroncu merkez olmak üzere üç güç odağına karşı bir alternatif olarak konumlanacak.\n\nEski başbakan, ülkenin çöküşünden sorumlu tuttuğu bu üç grubun karşısında bir yenilenme simgesi olarak öne çıkmayı hedefliyor. 2027 seçimlerinde seçmenlerin kaderci bir anlayışa teslim olmamasını istemesi beklenen De Villepin'in adaylığı iki yılı aşkın bir süredir planlanıyordu. Bu süreçte kendi siyasi partisi \"İnsaniyetçi Fransa\"yı kuran, bir kitap yayımlayan ve sosyal medya varlığını artıran siyasetçi, ülke genelinde çeşitli konuşmalar gerçekleştirdi.\n\nÖte yandan adaylığı kesinleşmeyen isimlerin 500 belediye başkanı imzası toplama zorunluluğu bulunuyor. De Villepin'in ekibi halihazırda 300 imza taahhüdü alındığını belirtirken, eski başbakan benzer bir imza toplama sorununu 2012 yılında da yaşamıştı. 1980'lerden bu yana iktidar kadrolarında yer almasına ve Jacques Chirac döneminde dışişleri bakanlığı yapmasına rağmen daha önce hiç halkoyuyla bir göreve seçilmeyen De Villepin, uluslararası meselelerdeki analizleriyle tanınıyor. Özellikle Gazze'deki operasyonlara karşı duruşu, genç ve sol eğilimli seçmenlerin dikkatini çekerken, bu kitlenin oylarını alıp alamayacağı merak ediliyor. Anketlerde ise oranının yüzde bir ile üç arasında değiştiği ifade ediliyor.",
-      "highlights": [
-        "Eski Fransa Başbakanı Dominique de Villepin cumhurbaşkanlığı adaylığını Cuma günü duyuracak.",
-        "Adaylık için Fransa genelindeki belediye başkanlarından en az 500 imza toplanması gerekiyor ve ekibi şu ana kadar 300 taahhüt alındığını belirtiyor.",
-        "Mevcut anketlerde De Villepin'in oy oranı yüzde bir ila üç arasında seyrediyor."
-      ],
-      "externalUrl": "https://www.france24.com/en/france/20261120-former-french-prime-minister-dominique-de-villepin-to-announce-presidential-bid",
-      "publishedAt": "2026-11-20T09:31:33.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T10:24:30.419Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-acardan-fon-sorusturmasina-iliskin-aciklama-7704376",
-      "headline": "Fon soruşturmasında son durum ne? AK Parti'den açıklama",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1773047746914-1ddadcf5e3f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bW9uZXklMjBmaW5hbmNpYWwlMjBjb3VydHxlbnwxfDB8fHwxNzk1MTY2NzQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sasun Bughdaryan",
-        "photographerUrl": "https://unsplash.com/@sasun1990",
-        "unsplashUrl": "https://unsplash.com/photos/a-gavel-rests-on-a-sound-block-with-money-HGPvzATN6F0"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "AK Parti Genel Başkan Yardımcısı Acar, sosyal medya hesabından yaptığı açıklamada, fon soruşturmasında Cumhurbaşkanı Recep Tayyip Erdoğan'ın güçlü bir irade ortaya koyduğunu ve verilen talimatlarla, devletin ilgili kurumlarının kararlı operasyonları doğrultusunda adımlar atıldığını belirtti. Sürecin devletin denetimiyle ortaya çıktığını aktaran Acar, SPK, MASAK ve ilgili kurumların incelemeleriyle sürecin başlatıldığını, İstanbul Cumhuriyet Başsavcılığının soruşturma açtığını ve Fon Koordinasyon Kurulunun kurulduğunu ifade etti.\n\nVatandaşların ortada bırakılmadığını anımsatan Acar, 18 günde 7596 sayılı Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun'un çıkarıldığını belirterek, kanunun 27 Ekim'de Resmi Gazete'de yayımlanarak yürürlüğe girdiğini kaydetti. Yaklaşık 161 milyar liranın yatırımcıların hesabına geçtiğini belirten Acar, 119 fonda toplam 444 bin 987 yatırımcıya ödeme yapıldığını, bu kapsamda 144,7 milyar lira nakdi ve 16,2 milyar lira ayni ödeme gerçekleştirildiğini paylaştı.\n\nÖdemelerde küçük yatırımcıların mağduriyetinin önceliklendirildiğini vurgulayan Acar, net yatırım tutarının veya portföy değerinin tamamını alan 371 bin 21 yatırımcı için ara ödeme sürecinin tamamlandığını, kamu bütçesinden hiçbir kaynak kullanılmadığını ifade etti. Ödemelerin fonların kendi varlıklarından, gönüllü iadelerden ve el konulan varlıklardan karşılandığını belirten Acar, gönüllü iadelerin 41 milyar lirayı aştığını, MASAK'ın yurt dışına çıkarıldığı değerlendirilen varlıkların takibini sürdürdüğünü aktardı.\n\nMakam ve unvan ayrımı yapılmadan hesap sorulduğunu vurgulayan Acar; eski bakan, bakan yardımcısı, milletvekili, üst düzey bürokrat ve şirket yöneticileri hakkında işlem yapıldığını kaydetti. Soruşturma kapsamında bugüne kadar 500 şüpheli hakkında adli işlem yapıldığını, bunlardan 136'sının tutuklandığını, 285 şüpheli hakkında adli kontrol hükümlerinin uygulandığını ve 417 kişi ile 149 kurumun mal varlıkları hakkında el koyma ve dondurma kararı verildiğini bildirdi.\n\nSermaye piyasalarındaki denetimi güçlendiren yeni bir düzenlemenin hazırlandığını belirten Acar, yaptırımları ağırlaştıran ve caydırıcılığı artıran hükümler içeren taslak üzerindeki son çalışmaların sürdüğünü ve düzenlemenin TBMM'ye sunulacağını kaydetti. Devlet Denetleme Kurulunun da Cumhurbaşkanı Erdoğan'ın talimatıyla görevlendirildiği anımsatıldı.",
-      "highlights": [
-        "119 fonda toplam 444 bin 987 yatırımcıya ödeme yapıldı.",
-        "Kamu bütçesinden hiçbir kaynak kullanılmadı.",
-        "500 şüpheli hakkında adli işlem yapıldı, 136 kişi tutuklandı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/ak-parti-genel-baskan-yardimcisi-acardan-fon-sorusturmasina-iliskin-aciklama-7704376",
-      "publishedAt": "2026-11-20T09:22:26.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:34:37.315Z",
       "isBreaking": true
     }
   ],
