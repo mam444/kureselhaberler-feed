@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-25T14:52:45.443Z",
+  "generatedAt": "2026-11-25T14:55:46.097Z",
   "articles": [
+    {
+      "id": "https://www.haberturk.com/ekonomi/abd-den-14-ekonomiye-yeni-gumruk-vergisi-3930098",
+      "headline": "ABD'den Çin, AB ve Japonya'nın da aralarında bulunduğu 14 ekonomiye ek gümrük vergisi önerisi",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://images.unsplash.com/photo-1601897690942-bcacbad33e55?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y3VzdG9tcyUyMHRhcmlmZnxlbnwxfDB8fHwxNzk1NjE4NTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Paul .T",
+        "photographerUrl": "https://unsplash.com/@hooverpaul55",
+        "unsplashUrl": "https://unsplash.com/photos/blue-red-and-yellow-intermodal-containers-bukjsECgmeU"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "ABD, Çin, Avrupa Birliği ve Japonya'nın aralarında yer aldığı 14 ekonomiye ek gümrük vergisi getirilmesini önerdi. ABD Ticaret Temsilciliği (USTR), söz konusu ekonomilerin sanayide ihtiyacın üzerinde üretime yol açan uygulamalarının ABD ticaretini kısıtladığına karar verdi. Mart ayında 16 ekonomi hakkında soruşturma başlatan USTR, bunlardan 14'ünün uygulamalarını Ticaret Yasası'nın 301. maddesi kapsamında işlem yapılabilir buldu. Soruşturmadaki diğer ülkelerden Meksika ve Norveç için ise henüz bir karar alınmadı.\n\nEn yüksek vergi önerisi Çin'e yapıldı. Çin'e zorunlu teknoloji transferi uygulamaları nedeniyle 2018'de getirilen yüzde 25'lik verginin üzerine yüzde 20'lik yeni bir vergi eklenmesi öngörüldü. Çin'in Ekim 2025'te Busan kentinde varılan ticaret ateşkesindeki taahhütlerini yerine getirmemesi durumunda bu oranın yüzde 40'a çıkabileceği bildirildi. Diğer 13 ekonomide ise yeni vergilerin, ABD ile imzalanan ticaret anlaşmalarındaki üst sınırları aşmayacağı belirtildi.\n\nÇin dışındaki ekonomiler arasında en yüksek ek vergi önerisi yüzde 35 ile Vietnam'a yapılırken, Vietnam'ın ABD ile ticaret anlaşmasına vararak bu oranı yüzde 20'ye düşürebileceği ifade edildi. Hindistan için yüzde 25, Singapur için yüzde 20, Bangladeş, Kamboçya, Endonezya, Malezya ve Tayland için yüzde 18'e kadar ek vergi önerildi. Avrupa Birliği, Japonya, Kore, İsviçre ve Tayvan'dan gelen ürünlere ise yüzde 15'e kadar ek vergi uygulanması gündeme alındı.\n\nABD Ticaret Temsilcisi Jamieson Greer, uluslararası platformlardaki açıklamaların bu konuda bir değişiklik sağlamadığını belirterek, önerilen vergilerle Amerikalı çalışanlar için eşit rekabet koşulları oluşturabileceklerini kaydetti. Önerilen vergiler henüz kesinleşmezken, USTR görüş ve itirazlar için son tarihin 5 Ocak 2027 olduğunu, kamuya açık oturumların ise 25 Ocak 2027'de başlayacağını açıkladı. Yeni vergi ihtimali piyasalarda da endişeye yol açtı.",
+      "highlights": [
+        "ABD, aralarında Çin, AB ve Japonya'nın bulunduğu 14 ekonomiye ek gümrük vergisi önerdi.",
+        "Çin için önerilen yüzde 20'lik ek vergi, taahhütlerin yerine getirilmemesi halinde yüzde 40'a çıkabilecek.",
+        "Önerilen vergiler henüz kesinleşmezken, görüş ve itirazlar için son tarih 5 Ocak 2027 olarak açıklandı."
+      ],
+      "externalUrl": "https://www.haberturk.com/ekonomi/abd-den-14-ekonomiye-yeni-gumruk-vergisi-3930098",
+      "publishedAt": "2026-11-25T14:47:47.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.trthaber.com/haber/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-deniz-mayinina-carparak-alev-aldi-964459.html",
       "headline": "İran ordusu: Hürmüz Boğazı'nda bir petrol tankeri deniz mayınına çarparak alev aldı",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-25T14:46:00.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T14:54:19.767Z"
     },
     {
       "id": "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
@@ -198,15 +223,16 @@
       "timeAgo": "28 dk önce",
       "body": "Çarşamba günü gerçekleştirilen uzay görevinde, Çin tarafından fırlatılan Shenzhou 24 uzay aracı başarıyla yörüngesine yerleşti. İki Çinli ve bir Pakistanlı olmak üzere toplam üç astronot taşıyan uzay aracı roketten ayrılarak önceden belirlenen yörüngeye girdi.\n\nBu fırlatma, Çin'in insanlı uzay programı tarihinde bir ilk olma özelliğini taşıyor. Gerçekleştirilen bu görev, Çin uzay istasyonuna gönderilen ilk yabancı mürettebat üyesini yörüngeye taşıyan ortak uçuş olarak kayıtlara geçti.",
       "highlights": [
-        "Çin Shenzhou 24 uzay aracını fırlattı",
-        "Araçta iki Çinli ve bir Pakistanlı astronot bulunuyor",
-        "Görev Çin uzay programı tarihinde bir ilk niteliği taşıyor"
+        "Çin, üç astronot taşıyan Shenzhou 24 uzay aracını fırlattı",
+        "Mürettebatta iki Çinli ve bir Pakistanlı astronot yer alıyor",
+        "Bu fırlatma, Çin insanlı uzay programı tarihindeki ilk ortak uçuş oldu"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261125-historic-space-mission-china-launches-shenzhou-24-spacecraft-carrying-pakistani-astronaut",
       "publishedAt": "2026-11-25T14:06:08.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T14:54:19.767Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-colombian-authorities-rescue-all-hostages-held-at-cartagena-supermarket",
@@ -228,6 +254,26 @@
       ],
       "externalUrl": "https://www.france24.com/en/video/20261125-colombian-authorities-rescue-all-hostages-held-at-cartagena-supermarket",
       "publishedAt": "2026-11-25T13:56:39.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261125-violence-against-women-in-the-digital-age-when-the-internet-becomes-a-weapon",
+      "headline": "Violence against women in the digital age: When the internet becomes a weapon",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://images.unsplash.com/photo-1596397125864-8d99cd4af8fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8VmlvbGVuY2UlMjBhZ2FpbnN0JTIwd29tZW4lMjBpbiUyMHRoZSUyMGRpZ2l0YWwlMjBhZ2UlM0ElMjBXaGVuJTIwdGhlJTIwaW50ZXJuZXQlMjBiZWNvbWVzJTIwYSUyMHdlYXBvbnxlbnwxfDB8fHwxNzk1NjE4NTA2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Kirill Dice",
+        "photographerUrl": "https://unsplash.com/@sevendc",
+        "unsplashUrl": "https://unsplash.com/photos/woman-in-black-long-sleeve-shirt-sitting-on-chair-in-front-of-computer-PZp0rFZt-dY"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "November 25th is the United Nation's International Day for the Elimination of Violence Against Women. In the age of social media and artificial intelligence, there are now new spaces in which violence against women has appeared, with the internet now a growing weapon in the hands of abusers. 85% of women who spend time online have witnessed violence, and 38% have been the target of it.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/video/20261125-violence-against-women-in-the-digital-age-when-the-internet-becomes-a-weapon",
+      "publishedAt": "2026-11-25T13:53:20.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -2007,7 +2053,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T17:24:19.495Z",
-      "imageSearchAttemptedAt": "2026-11-24T17:24:19.495Z"
+      "imageSearchAttemptedAt": "2026-11-25T14:54:19.767Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
@@ -2053,7 +2099,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T23:14:26.616Z",
+      "imageSearchAttemptedAt": "2026-11-25T14:54:19.767Z",
       "sourceTextAttemptedAt": "2026-11-24T17:44:21.856Z"
     },
     {
@@ -14202,56 +14248,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T08:34:24.020Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
-      "headline": "Avrupa'daki Gençler 25 Ülkede Hayat Pahalılığı Protestolarına Katılmaya Hazırlanıyor",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1653237168937-6ac70e5a30e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cHJvdGVzdCUyMHlvdXRoJTIwRXVyb3BlfGVufDF8MHx8fDE3OTUxNjMwNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Antoine Schibler",
-        "photographerUrl": "https://unsplash.com/@antoine_schibler",
-        "unsplashUrl": "https://unsplash.com/photos/a-young-girl-holding-a-european-flag-in-front-of-a-crowd-of-people-GimanuXzJBk"
-      },
-      "timeAgo": "27 dk önce",
-      "body": "Avrupa genelinde gençler ve koalisyon organizatörlerinin açıklamasına göre, 25'ten fazla ülkede Cuma günü ve hafta sonu boyunca kitlesel protestolar düzenlenmesi planlanıyor. Göstericiler, artan konut maliyetleri, kötüleşen öğrenim koşulları ve diğer sorunlar nedeniyle hükümetler üzerindeki baskıyı artırmayı hedefliyor.\n\nFransa, Britanya, Belçika, İspanya, İtalya, Portekiz ve Yunanistan'daki sendikalar ve aktivistler, eş zamanlı eylemlerle seslerini duyurmaya çalışıyor. Yükselen konut fiyatları, durgun ücretler, kötüleşen eğitim koşulları ve artan askeri harcamalar gibi ortak kıtasal kaygılar eylemleri tetikleyen unsurlar arasında yer alıyor. Protestolar, Rusya'nın Ukrayna'yı işgalinin beşinci yılına yaklaşırken ve İspanya, Fransa, İtalya ile Yunanistan'daki önemli seçimler öncesinde gerçekleşiyor.\n\nGençlik öncülüğündeki koalisyon, sistemde radikal bir dönüşüm yapılması çağrısında bulunarak militarizme ve sosyal adaletsizliğe karşı çıkılmasını istedi. Fransa'nın Sarı Yelekliler hareketinin de aralarında bulunduğu organizatörler, yeniden silahlanma politikalarına son verilmesini ve fonların eğitim ile konut gibi alanlara aktarılmasını talep ediyor. Almanya'da ise askeri servisin yeniden getirilmesi korkusu ve eğitim fonu talepleri gençlerin sokağa çıkmasında etkili oldu.\n\nİtalya'da gösteriler ulaşım, okullar ve hastaneleri etkileyecek genel bir grevle aynı güne denk gelirken, İspanya'daki eylemler diktatör Francisco Franco'nun ölüm yıl dönümünde gerçekleştiriliyor. Fransa'da ise çağrılar Sarı Yelekliler hareketinin sekizinci yıl dönümüyle örtüşüyor. Uzmanlar, gösterilerin arkasındaki ortak paydanın siyasi otoritelere ve kolluk kuvvetlerine duyulan güvensizlik olduğunu belirtiyor.",
-      "highlights": [
-        "25'ten fazla Avrupa ülkesinde gençlerin katılımıyla hayat pahalılığı protestoları düzenlenecek.",
-        "Göstericiler artan konut maliyetleri, kötüleşen eğitim koşulları ve militarizme karşı tepki gösteriyor.",
-        "Protestolar İspanya, Fransa, İtalya, Yunanistan, Almanya ve Britanya gibi ülkelerde etkili oluyor."
-      ],
-      "externalUrl": "https://www.france24.com/en/europe/20261120-europe-s-youth-set-to-join-mass-cost-of-living-protests-in-25-countries",
-      "publishedAt": "2026-11-20T07:57:53.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T08:35:24.616Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-uc-cocugunu-ve-karisini-katletti-acil-durum-hattindaki-sesler-kan-dondurdu-baba-lutfen-beni-oldurme-7704324",
-      "headline": "Üç çocuğunu ve karısını katletti! Acil durum hattındaki sesler kan dondurdu: 'Baba lütfen beni öldürme'",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1637838792538-4bf60f327589?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8JUMzJTlDJUMzJUE3JTIwJUMzJUE3b2N1JUM0JTlGdW51JTIwdmUlMjBrYXIlQzQlQjFzJUM0JUIxbiVDNCVCMSUyMGthdGxldHRpJTIxJTIwQWNpbCUyMGR1cnVtJTIwaGF0dCVDNCVCMW5kYWtpJTIwc2VzbGVyJTIwa2FuJTIwZG9uZHVyZHUlM0ElMjAlMjdCYWJhJTIwbCVDMyVCQ3RmZW4lMjBiZW5pJTIwJUMzJUI2bGQlQzMlQkNybWUlMjd8ZW58MXwwfHx8MTc5NTE2MTI3OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "KAMRAN gholami",
-        "photographerUrl": "https://unsplash.com/@kamrangholami",
-        "unsplashUrl": "https://unsplash.com/photos/a-black-and-white-photo-of-a-little-girl-mQvM1eS4UM0"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "ABD'nin Florida eyaletinde bir evden gelen acil yardım çağrısı, korkunç bir aile trajedisini ortaya çıkardı. Hillsborough County Şerifliği ekipleri, Perşembe günü saat 15.30 sıralarında Plant City'deki Sparkman Yolu'nda bulunan bir eve yönlendirildi. 911 çağrısında, çağrı merkezi görevlileri içeriden gelen kargaşa seslerini duydu.\n\nHillsborough İlçe Şerifi Chad Chronister, çağrı merkezi görevlisinin hat açıkken bir erkeğin 'Özür dilerim dostum' dediğini, hemen ardından yüksek bir patlama sesi duyulduğunu aktardı. Kayıttaki en sarsıcı anlarda ise küçük bir çocuğun babasına yalvararak yardım istediği duyuldu.\n\nÇocuğun 'Baba, baba, baba, lütfen beni vurma, baba lütfen beni öldürme' sözleri acil çağrı hattına yansıdı. İhbar üzerine adrese ulaşan ekipler, evde bir erkek, bir kadın ve üç çocuğun silahla vurularak hayatını kaybettiğini belirledi.\n\nŞerif Chronister, kimliği açıklanmayan babanın 1, 3 ve 5 yaşlarındaki üç çocuğunu ve eşini öldürdükten sonra intihar ettiğinin değerlendirildiğini açıkladı. Olay, cinayet-intihar vakası olarak soruşturuluyor.\n\nŞerif Chronister yaşananları 'saf kötülükten başka bir şey değil' diye tanımlarken, ailenin yaklaşık bir yıl önce taşındığı evle ilgili daha önce herhangi bir ihbar yapılmadığını belirtti. Yetkililer anne ve babanın suç geçmişi olmadığını, cinayetlerin nedeninin ise henüz netlik kazanmadığını bildirdi. Hayatını kaybedenlerin kimlikleri açıklanmadı.",
-      "highlights": [
-        "Florida'da bir evden gelen 911 çağrısında küçük bir çocuğun babasına 'lütfen beni öldürme' diye yalvardığı duyuldu.",
-        "Olay yerine giden ekipler evde bir erkek, bir kadın ve üç çocuğun cansız bedenini buldu.",
-        "Babanın eşini ve 1, 3, 5 yaşlarındaki üç çocuğunu öldürüp intihar ettiği değerlendiriliyor."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-uc-cocugunu-ve-karisini-katletti-acil-durum-hattindaki-sesler-kan-dondurdu-baba-lutfen-beni-oldurme-7704324",
-      "publishedAt": "2026-11-20T07:52:18.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T08:24:25.896Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
