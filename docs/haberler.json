@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-25T10:44:40.464Z",
+  "generatedAt": "2026-11-25T14:17:50.799Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
+      "headline": "Cumhurbaşkanı Erdoğan: Siyaset çözüm üretme yeridir",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1699380309667-a202c5f4a8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Q3VtaHVyYmElQzUlOUZrYW4lQzQlQjElMjBFcmRvJUM0JTlGYW4lM0ElMjBTaXlhc2V0JTIwJUMzJUE3JUMzJUI2eiVDMyVCQ20lMjAlQzMlQkNyZXRtZSUyMHllcmlkaXJ8ZW58MXwwfHx8MTc5NTYxNjIwOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Austin Crick",
+        "photographerUrl": "https://unsplash.com/@austin_nft",
+        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-up-their-cell-phones-hE-d4XDdKec"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Cumhurbaşkanı Recep Tayyip Erdoğan, muhalefet partilerine terörsüz Türkiye sürecine ilişkin tutumları nedeniyle tepki gösterirken \"Kendilerine perde yapıyorlar. Siyaset çözüm üretme yeridir.\" dedi. Cumhurbaşkanı Recep Tayyip Erdoğan, Beştepe Millet Kongre ve Kültür Merkezi'nde \"25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü\" programında konuştu. Konuşmasına Eskişehir'de kaza kırıma uğrayan…",
+      "highlights": [],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/cumhurbaskani-erdogan-siyaset-cozum-uretme-yeridir-1752561",
+      "publishedAt": "2026-11-25T14:11:48.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/video/20261125-california-braces-for-flooding-threat-from-huge-tides-el-nino",
+      "headline": "California braces for flooding threat from huge tides, El Nino",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "8 dk önce",
+      "body": "Californians are preparing for a confluence of exceptionally high tides and El Nino-fueled weather that threatens coastal areas with extreme flooding during the busiest US travel week of the year. The San Francisco Bay Area is expected to get hit hard with a one-two punch of inclement weather and monster tides, which forecasters warned could push seawater into low-lying areas on Wednesday and Thursday.",
+      "highlights": [],
+      "externalUrl": "https://www.france24.com/en/video/20261125-california-braces-for-flooding-threat-from-huge-tides-el-nino",
+      "publishedAt": "2026-11-25T14:07:37.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://tr.euronews.com/2026/11/25/magyar-ve-zelenskiy-ukrayna-macaristan-iliskilerinde-yeni-sayfa-acti",
       "headline": "Magyar ve Zelenskiy, Ukrayna-Macaristan ilişkilerinde yeni sayfa açtı",
@@ -69,7 +105,8 @@
       "publishedAt": "2026-11-25T10:27:53.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T14:13:35.762Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-zdfye-silahli-roportaj-veren-daltonlar-uyelerine-istanbulda-baskin-1752551",
@@ -1084,7 +1121,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:24:24.239Z",
-      "imageSearchAttemptedAt": "2026-11-24T20:24:24.239Z"
+      "imageSearchAttemptedAt": "2026-11-25T14:13:35.762Z"
     },
     {
       "id": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
@@ -1170,7 +1207,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T20:44:24.813Z"
+      "imageSearchAttemptedAt": "2026-11-25T14:13:35.762Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/fon-kurulu-bir-kez-daha-toplandi-1-milyon-tlye-kadar-odemeler-tamamlaniyor-7707235",
@@ -14211,55 +14248,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T07:24:26.533Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-      "headline": "Canlı: Kiev'de Rusya'nın düzenlediği ölümcül saldırılar iki köprüye zarar verdi",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1674393948725-4bf650a51e89?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8S3lpdiUyMGJyaWRnZSUyMGF0dGFja3xlbnwxfDB8fHwxNzk1MTU3MDc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Kostiantyn Vierkieiev",
-        "photographerUrl": "https://unsplash.com/@kostiantynvierkieiev",
-        "unsplashUrl": "https://unsplash.com/photos/a-very-tall-bridge-over-a-body-of-water-y128vBaclMc"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "Rusya'nın Ukrayna'nın başkenti Kiev'e düzenlediği füze ve insansız hava aracı saldırılarında üç kişi hayatını kaybetti, iki köprü zarar gördü. Kiev şehir askeri idaresi, saldırılarda iki kişinin de yaralandığını bildirdi. Belediye Başkanı Vitali Klitschko, balistik saldırı sonucunda Podilsko-Voskresensky Köprü geçişinin ve Darnytsky Köprüsü'nün zarar gördüğünü, ayrıca Güney Köprüsü'nün de isabet aldığını açıkladı. Başkentteki Obolon ve Podil bölgelerinde de binaların yangın çıktığı belirtildi.\n\nSaldırı dalgası, Rusya Devlet Başkanı Vladimir Putin'in, Ukrayna'nın Kırım köprüsüne verdiği zararın ardından \"ağrılı\" bir misilleme sözü vermesinin ardından geldi. Öte yandan Rusya Savunma Bakanlığı; Kiev dahil birçok bölgedeki savunma sanayi tesisleri, enerji ve ulaşım altyapısı ile Odesa bölgesindeki liman tesislerini ve askeri amaçlı deniz araçlarını vurduğunu açıkladı. Rusya'nın kontrolündeki Luhansk'ta da Ukrayna saldırısı sonucu üç kişi hayatını kaybetti.\n\nRusya'nın Smolensk bölgesinde Vali Vasily Anokhin, Ukrayna'ya ait bir drone saldırısının sanayi tesisine zarar verdiğini belirtti. Harkov'da belediye başkanı Igor Terekhov, bir hastanenin zarar gördüğünü, dört kişinin yaralandığını ve 50'den fazla pencerenin kırıldığını ifade etti. Polonya ordusu ise Rusya'nın saldırılarıyla bağlantılı olarak şüpheli hava sahası ihlali iddialarını ve radar verilerini incelediğini duyururken, Rzeszow'daki bir havalimanı askeri uçak hareketliliği nedeniyle uçuşları askıya aldı.",
-      "highlights": [
-        "Kiev'deki Rus saldırılarında üç kişi hayatını kaybetti, iki köprü zarar gördü.",
-        "Rusya Savunma Bakanlığı, Kiev dahil birçok bölgede enerji, ulaşım ve savunma tesislerini vurduğunu açıkladı.",
-        "Polonya ordusu, Rus saldırıları sürerken şüpheli hava sahası ihlali iddiaları üzerine radar verilerini doğruluyor."
-      ],
-      "externalUrl": "https://www.france24.com/en/europe/20261120-live-deadly-russian-attacks-damage-two-bridges-in-kyiv-mayor-says",
-      "publishedAt": "2026-11-20T06:32:23.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/diyarbakirda-kopru-saniyeler-icinde-yikildi-catirdama-seslerini-duyunca-kameraya-sarildilar-4874656",
-      "headline": "Hatay'da şiddetli sağanak hayatı olumsuz etkiledi: Caddeler göle döndü, köprü trafiğe kapatıldı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1513689559427-a303dfc617d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zmxvb2QlMjByYWluJTIwc3RyZWV0fGVufDF8MHx8fDE3OTUxNTY0Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Wes Hicks",
-        "photographerUrl": "https://unsplash.com/@sickhews",
-        "unsplashUrl": "https://unsplash.com/photos/empty-wet-road-tHgnDUyUkXc"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Hatay genelinde etkili olan şiddetli sağanak yağış, hayatı olumsuz yönde etkiledi. Meteorolojinin sarı kodlu uyarısının ardından kentin bazı ilçelerinde gün boyu şiddetli yağış görüldü. Dörtyol ilçesinde havanın kararmasıyla birlikte aniden bastıran yağış, caddelerin göle dönmesine ve derelerin debisinin artmasına yol açtı.\n\nÖzerli Çayı’nda su seviyesinin yükselmesi üzerine, Kemal Duduoğlu Caddesi üzerinde bulunan köprü sel suları nedeniyle güvenlik gerekçesiyle trafiğe kapatıldı. Köprünün hem gidiş hem de geliş yönü iki ayrı noktadan araç trafiğine kapatılırken, görevli ekipler de bölgede önlem aldı.\n\nKentin işlek caddelerinde ise su birikintilerine giren araçlar mahsur kaldı. Vatandaşlar, bölgede yağışın etkisini sürdürdüğünü ve sağanağın bir anda bastırdığını ifade ettiler. Yaşanan olumsuzluklar ve alınan güvenlik önlemleriyle ilgili detaylar, yerel gündem raporlarında yer aldı.",
-      "highlights": [
-        "Diyarbakır'ın Kulp ilçesinde sağanak nedeniyle dere üzerindeki beton köprü yıkıldı",
-        "Vatandaşlar köprünün ayaklarından gelen sesleri duyarak cep telefonlarıyla kayıt yaptı",
-        "Olayda herhangi bir yaralanma yaşanmadı"
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/diyarbakirda-kopru-saniyeler-icinde-yikildi-catirdama-seslerini-duyunca-kameraya-sarildilar-4874656",
-      "publishedAt": "2026-11-20T06:31:25.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T06:54:26.848Z",
       "isBreaking": false
     }
   ],
