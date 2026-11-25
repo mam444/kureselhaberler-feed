@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-11-25T15:16:04.465Z",
+  "generatedAt": "2026-11-25T15:26:28.329Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/helikopter-kazasinda-sehit-dusen-askerlerimiz-icin-3-arap-ulkesinden-taziye-mesaji-7707931",
+      "headline": "Helikopter kazasında şehit düşen askerlerimiz için 3 Arap ülkesinden taziye mesajı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1687074138915-a1f46cea10b0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SGVsaWtvcHRlciUyMGthemFzJUM0JUIxbmRhJTIwJUM1JTlGZWhpdCUyMGQlQzMlQkMlQzUlOUZlbiUyMGFza2VybGVyaW1peiUyMGklQzMlQTdpbiUyMDMlMjBBcmFwJTIwJUMzJUJDbGtlc2luZGVuJTIwdGF6aXllJTIwbWVzYWolQzQlQjF8ZW58MXwwfHx8MTc5NTYyMDM0M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Samuel Quek",
+        "photographerUrl": "https://unsplash.com/@samuelqyx",
+        "unsplashUrl": "https://unsplash.com/photos/a-group-of-military-helicopters-flying-through-a-cloudy-sky-ANtP9ch-EdE"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Suudi Arabistan, Ürdün ve Kuveyt, Eskişehir'deki helikopter kazasında şehit olan 5 asker için taziye mesajı yayımladı. İlginizi Çekebilir Suudi Arabistan Dışişleri Bakanlığının ABD merkezli X sosyal medya platformundaki hesabından yapılan açıklamada, eğitim uçuşu sırasında kaza kırıma uğrayan uçakta şehit olan askerler için taziye mesajı paylaşıldı. Açıklamada, Türkiye hükümeti ve halkıyla dayanışma içinde olunduğu…",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/helikopter-kazasinda-sehit-dusen-askerlerimiz-icin-3-arap-ulkesinden-taziye-mesaji-7707931",
+      "publishedAt": "2026-11-25T15:21:49.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+      "headline": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "9 dk önce",
+      "body": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, calling him a 'war criminal'.",
+      "highlights": [],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+      "publishedAt": "2026-11-25T15:15:53.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "en"
+    },
     {
       "id": "https://www.rfi.fr/en/international/20261125-eu-plans-%E2%82%AC50bn-tech-fund-to-compete-with-us-and-china-in-the-quantum-race",
       "headline": "EU plans €50bn tech fund to compete with US and China in the quantum race",
@@ -43,7 +79,8 @@
       "publishedAt": "2026-11-25T15:12:05.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T15:24:19.449Z"
     },
     {
       "id": "https://www.dw.com/tr/silahlı-röportaj-görüntüleri-harekete-geçirdi-daltonlar-belgeseli-sonrası-9-gözaltı/a-80051697?maca=tur-rss-tur-all-1495-xml-mrss",
@@ -2613,7 +2650,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T21:34:29.458Z",
+      "imageSearchAttemptedAt": "2026-11-25T15:24:19.449Z",
       "sourceTextAttemptedAt": "2026-11-24T15:44:41.931Z"
     },
     {
@@ -2681,7 +2718,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T15:24:30.321Z",
-      "imageSearchAttemptedAt": "2026-11-24T21:24:34.231Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:24:19.449Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
@@ -14191,55 +14228,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T09:04:41.599Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
-      "headline": "Rusya'nın Kiev'e düzenlediği saldırılarda 3 kişi hayatını kaybetti, köprüler hasar gördü ve elektrikler kesildi",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1704971152660-b56fcd93c04d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8S3lpdiUyMGF0dGFja3xlbnwxfDB8fHwxNzk1MTY0ODY1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dmytro Tolokonov",
-        "photographerUrl": "https://unsplash.com/@dtolokonov",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-around-a-destroyed-building-H1_w-bHby8Y"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Rusya, gece saatlerinde Kiev genelinde füze ve insansız hava araçlarıyla saldırılar düzenledi. Yerel yetkililerin Cuma günü yaptığı açıklamaya göre, saldırılarda 3 kişi yaşamını yitirirken, 9 kişi de yaralandı. Yetkililer, saldırıların başkentin dört bölgesini vurduğunu ve geniş çaplı elektrik kesintilerine yol açtığını bildirdi.\n\nEnerji sağlayıcısı DTEK, Pecherskyi, Solomianskyi, Holosiivskyi, Dniprovskyi ve Darnytskyi ilçelerinin bazı bölgelerinde elektrik verilemediğini açıkladı. Obolonskyi ve Holosiivskyi ilçelerinde konut dışı binalar zarar görürken, Podilskyi ve Darnytskyi ilçelerinde ulaşım ve lojistik altyapısının hedef alındığı belirtildi.\n\nKiev Belediye Başkanı Vitali Klitschko, balistik füze saldırısının Podilskyi Köprüsü'ne zarar verdiğini ve yetkililerin Dnipro Nehri'nin sağ yakasından sol yakasına araç trafiğini kapatmak zorunda kaldığını ifade etti. Darnitskyi Köprüsünün de hasar gördüğünü belirten Klitschko, Güney Köprüsü'ne düzenlenen başka bir saldırı sonucunda ise trafikte kısıtlamalar uygulandığını kaydetti.\n\nSaldırılar, Rusya Devlet Başkanı Vladimir Putin'in, işgal altındaki Kırım'ı Rusya ana karasına bağlayan Kerç Köprüsü'ne bu hafta düzenlenen üç hava saldırısına misilleme yapma sözü vermesinden saatler sonra gerçekleşti. Putin, Çin'deki bir zirvede gazetecilere yaptığı açıklamada köprünün yol tarafının ciddi şekilde zarar gördüğünü söylemişti.\n\nBelediye Başkanı Klitschko, vatandaşlara zorunlu olmadıkça özel araçlarıyla şehre seyahat etmeme çağrısında bulundu. Ayrıca işletme ve kurumlardan mümkün olan yerlerde uzaktan çalışmaya geçmelerini istedi.",
-      "highlights": [
-        "Rusya'nın Kiev'e düzenlediği saldırılarda 3 kişi öldü, 9 kişi yaralandı.",
-        "Saldırılar sonucunda köprüler hasar gördü ve kentte elektrik kesintileri yaşandı.",
-        "Saldırılar, Kerç Köprüsü'ne düzenlenen hava saldırılarının ardından gerçekleşti."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
-      "publishedAt": "2026-11-20T08:51:45.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T09:04:41.599Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aa.com.tr/tr/ekonomi/trenlerin-frenleme-enerjisi-sogutmali-vagon-ve-konteynerlerde-kullanilacak-/4131857",
-      "headline": "Trenlerin frenleme enerjisi soğutmalı vagon ve konteynerlerde kullanılacak",
-      "source": "Anadolu Ajansı",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1527295110-5145f6b148d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8dHJhaW4lMjBicmFraW5nJTIwZW5lcmd5fGVufDF8MHx8fDE3OTUxNjM3MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Daniel Abadia",
-        "photographerUrl": "https://unsplash.com/@pixeldan",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-red-db-train-subway-Njq3Nz6-5rQ"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Van Yüzüncü Yıl Üniversitesi bünyesinde yenilikçi bir proje hayata geçirildi. Geliştirilen bu yeni projeyle birlikte, trenlerin frenleme sırasında açığa çıkardığı enerjinin etkin bir şekilde değerlendirilmesi amaçlanıyor.\n\nElde edilen bu frenleme enerjisinin, özellikle soğutmalı vagonlarda ve konteynerlerde kullanılması sağlanacak. Böylece enerji verimliliğinin artırılması hedefleniyor. Projenin detayları ve uygulama alanlarına ilişkin çalışmalar üniversitede yürütüldü.",
-      "highlights": [
-        "Van Yüzüncü Yıl Üniversitesinde yeni bir proje geliştirildi.",
-        "Trenlerin frenleme enerjisi soğutmalı vagon ve konteynerlerde kullanılacak."
-      ],
-      "externalUrl": "https://www.aa.com.tr/tr/ekonomi/trenlerin-frenleme-enerjisi-sogutmali-vagon-ve-konteynerlerde-kullanilacak-/4131857",
-      "publishedAt": "2026-11-20T08:31:39.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T08:54:22.849Z",
       "isBreaking": false
     }
   ],
