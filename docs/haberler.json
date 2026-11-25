@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-11-25T14:55:46.097Z",
+  "generatedAt": "2026-11-25T15:07:58.289Z",
   "articles": [
+    {
+      "id": "https://www.dw.com/tr/silahlı-röportaj-görüntüleri-harekete-geçirdi-daltonlar-belgeseli-sonrası-9-gözaltı/a-80051697?maca=tur-rss-tur-all-1495-xml-mrss",
+      "headline": "Silahlı röportaj görüntüleri harekete geçirdi: Daltonlar belgeseli sonrası 9 gözaltı",
+      "source": "DW Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
+      "imageUrl": null,
+      "imageCredit": null,
+      "timeAgo": "11 dk önce",
+      "body": "Alman televizyonu ZDF'de yayınlanan Daltonlar çetesi belgeselinin ardından İstanbul'da 9 şüpheli gözaltına alındı. Alman yetkililerin silahlı şiddette artış uyarısı yaptığı belgeselde çete üyeleri de yer almıştı.",
+      "highlights": [],
+      "externalUrl": "https://www.dw.com/tr/silahlı-röportaj-görüntüleri-harekete-geçirdi-daltonlar-belgeseli-sonrası-9-gözaltı/a-80051697?maca=tur-rss-tur-all-1495-xml-mrss",
+      "publishedAt": "2026-11-25T14:55:00.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/ekonomi/abd-den-14-ekonomiye-yeni-gumruk-vergisi-3930098",
       "headline": "ABD'den Çin, AB ve Japonya'nın da aralarında bulunduğu 14 ekonomiye ek gümrük vergisi önerisi",
@@ -22,6 +38,30 @@
       "externalUrl": "https://www.haberturk.com/ekonomi/abd-den-14-ekonomiye-yeni-gumruk-vergisi-3930098",
       "publishedAt": "2026-11-25T14:47:47.000Z",
       "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "headline": "Ukrayna'dan Rusya'daki Savasleyka Hava Üssü'ne Saldırı: Beş Askeri Uçak Hedef Alındı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1536714303373-a2114b28b6b7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlsaXRhcnklMjBqZXR8ZW58MXwwfHx8MTc5NTYxOTA5Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Clayton Holmes",
+        "photographerUrl": "https://unsplash.com/@clayton_holmes",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-grey-fire-fighter-plane-BGaGusB9rL4"
+      },
+      "timeAgo": "18 dk önce",
+      "body": "Ukrayna, Moskova'nın yaklaşık 300 kilometre doğusunda bulunan Rusya'nın Savasleyka askeri hava üssüne düzenlenen saldırıda beş Rus askeri uçağının hasar gördüğünü açıkladı. Kiev Genelkurmay Başkanlığı, üç adet MiG-31 ve iki adet Su-34 uçağının isabet aldığını duyururken, hasar tespit çalışmalarının devam ettiğini ve daha iyi haberlerin gelebileceğini belirtti. Saldırıda hangi silahların kullanıldığına dair detay verilmezken, Rusya tarafı saldırılarla ilgili henüz bir açıklama yapmadı.\n\nNijhny Novgorod bölgesindeki Savasleyka hava üssü, hipersonik füzeler ve süzülme bombaları taşıyan Rus uçaklarına ev sahipliği yapıyor. Özellikle MiG-31'lerin kalkış yapması, taşıdıkları Kinzhal füzelerinin düşürülmesinin zor olması nedeniyle Ukrayna genelinde sık sık alarmlara yol açıyor.\n\nÖte yandan Kiev, cephe hatlarından yaklaşık 800 kilometre uzaktaki Samara bölgesinde bulunan iki petrol rafinerisini de gece saatlerinde vurduğunu bildirdi. Samara Valisi Vyacheslav Fedorishchev gece saldırılarında 145'ten fazla dronun düşürüldüğünü, bir kişinin hayatını kaybettiğini ve bazı kasabalarda elektrik kesintileri yaşandığını ifade etti. Ukrayna savunma bakanlığı, Rusya'nın işgali altındaki bölgelerde de bir radar sistemi ile yakıt ve lojistik depolarının vurulduğunu kaydetti.\n\nRusya Devlet Başkanı Vladimir Putin Salı günü ülkenin enerji tesislerinde güvenlik önlemlerinin artırılması çağrısında bulunurken, Rusya'nın iç akaryakıt piyasasını kritik bir zarar görmeden istikrara kavuşturduğunu ve Ukrayna'ya kaçınılmaz olarak misilleme yapacaklarını söyledi. Ukrayna'da ise Rus saldırıları sonucunda 24-25 Kasım tarihleri arasında çeşitli bölgelerde on kişinin yaşamını yitirdiği ve binlerce kişinin elektriksiz kaldığı bildirildi.",
+      "highlights": [
+        "Ukrayna, Savasleyka hava üssünde üç MiG-31 ve iki Su-34 uçağının vurulduğunu açıkladı.",
+        "Samara bölgesindeki rafinerilere düzenlenen gece saldırılarında bir kişi öldü.",
+        "Rusya Devlet Başkanı Putin enerji tesislerinde güvenlik önlemlerinin artırılmasını istedi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-25T14:46:41.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -248,15 +288,16 @@
       "timeAgo": "56 dk önce",
       "body": "Kolombiya'nın kuzeyindeki turistik Cartagena kentinde, bir süpermarkette yaklaşık bir gün boyunca rehin tutulan kişilerin tamamının güvenlik güçleri tarafından kurtarıldığı bildirildi.\n\nDevlet Başkanı Abelardo de la Espriella Çarşamba günü yaptığı açıklamada, rehin eylemini gerçekleştiren kişilerin zırhlı bir aracı soyma girişimlerinin başarısız olmasının ardından süpermarkete kaçan \"sıradan suçlular\" olduğunu belirtti.\n\nYaşanan rehine krizi, Kolombiya'nın isyancı gruplar tarafından hükümet hedeflerine yönelik bir saldırı dalgasıyla karşı karşıya olduğu bir döneme denk geldi. Olayla ilgili operasyon ve gelişmeler yetkililer tarafından paylaşıldı.",
       "highlights": [
-        "Güvenlik güçleri Cartagena'daki süpermarkette rehin tutulan herkesi kurtardı",
-        "Rehineleri alan kişilerin zırhlı soygun girişiminin ardından kaçan sıradan suçlular olduğu belirtildi",
-        "Olay, Kolombiya'nın isyancı grupların saldırı dalgasıyla karşı karşıya olduğu bir dönemde yaşandı"
+        "Güvenlik güçleri Cartagena'daki süpermarketteki tüm rehineleri kurtardı",
+        "Şüphelilerin zırhlı araç soygunu girişiminin ardından süpermarkete kaçan \"sıradan suçlular\" olduğu belirtildi",
+        "Olay, ülkenin isyancı grupların saldırı dalgasıyla karşı karşıya olduğu bir dönemde yaşandı"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261125-colombian-authorities-rescue-all-hostages-held-at-cartagena-supermarket",
       "publishedAt": "2026-11-25T13:56:39.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-25T15:04:21.763Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-violence-against-women-in-the-digital-age-when-the-internet-becomes-a-weapon",
@@ -2316,7 +2357,7 @@
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T22:24:27.003Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
@@ -2388,7 +2429,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T16:04:25.059Z",
-      "imageSearchAttemptedAt": "2026-11-24T22:04:27.438Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261124-french-police-officer-who-shot-teenager-to-face-murder-trial",
@@ -14198,55 +14239,6 @@
       "category": "Gündem",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T08:35:24.616Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/ispanya-televizyonunda-baskanlik-duellosu-sanchez-ve-feijoo-kartlarini-oynadi-7704339",
-      "headline": "İspanya televizyonunda başkanlık düellosu: Sanchez ve Feijoo kartlarını oynadı!",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1724386248743-b494862e2659?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8U3BhaW4lMjBwb2xpdGljaWFucyUyMGRlYmF0ZXxlbnwxfDB8fHwxNzk1MTYyNTQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Marlon Nartea",
-        "photographerUrl": "https://unsplash.com/@mrlnmntlnrt",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-standing-in-front-of-a-building-nC91J1AVuzM"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "İspanya'da seçimlere 10 gün kala başbakanlık yarışının iki güçlü adayı Sanchez ve Feijoo, İspanyol demokrasisi tarihinde sekizinci kez televizyonda yüz yüze tartışmaya katılan liderler oldu. İki liderin karşı karşıya geldiği programda yolsuzluk skandalları, konut sorunu, yıl içinde yaşanan tren kazaları ve göç krizi ön plana çıkan başlıklar arasında yer aldı.\n\nTartışmanın ardından her iki lider de partilerinin merkez binalarında kendilerini bekleyen sempatizanlarıyla bir araya gelerek tartışmanın galibi olduklarını ilan ettiler. Sanchez seçimleri kazanmaya ve ülkeyi yönetmeye yaklaştıklarını belirtirken, siyaset uzmanlarına göre tartışmanın galibi olarak gösterilen Feijoo değişime olan ihtiyacı vurguladı.\n\nFeijoo, yolsuzluklar, göç krizi ve tren kazaları nedeniyle Sanchez'e suçlamalar yöneltti ve ülkenin düzgün bir başbakanı hak ettiğini söyledi. İspanya'nın vergi yükünün en çok arttığı üçüncü ülke olduğunu savunan Feijoo, yönetimin AB fonlarıyla yürütüldüğünü ifade etti. Sanchez ise Toledo yakınlarında 28 Ekim'de meydana gelen ve 69 kişinin yaşamını yitirdiği tren kazasında hayatını kaybedenlerin yakınlarından özür diledi.\n\nSanchez ayrıca PP'nin aşırı sağcı Vox ile olası koalisyonuna karşı uyarıda bulunarak aşırı sağın ülkelere karanlık dönemler getirdiğini savundu. Donald Trump, Javier Milei ve Jair Bolsonaro'yu örnek gösteren Sanchez, İspanya'nın Gazze'deki soykırımı kınayarak ve Filistin Devleti'ni tanıyarak parladığını dile getirdi. Anketler 29 Kasım'daki erken seçimler öncesinde PP'yi favori gösteriyor.",
-      "highlights": [
-        "Sanchez ve Feijoo televizyonda yüz yüze tartıştı",
-        "Feijoo, Sanchez'e yolsuzluk ve tren kazaları üzerinden suçlamalar yöneltti",
-        "Anketler 29 Kasım'daki seçimler öncesinde PP'yi favori gösteriyor"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/ispanya-televizyonunda-baskanlik-duellosu-sanchez-ve-feijoo-kartlarini-oynadi-7704339",
-      "publishedAt": "2026-11-20T08:15:08.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
-      "headline": "Kıdemli Muhafazakarlardan Badenoch'a Brexit Söylemini Azaltma Çağrısı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1564504430459-2081bae76558?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8U2VuaW9yJTIwVG9yaWVzJTIwdXJnZSUyMEJhZGVub2NoJTIwdG8lMjBkcm9wJTIwQnJleGl0JTIwdGFsayUyMGluJTIwbWFqb3IlMjBzdHJhdGVneSUyMHNoaWZ0JTJDJTIwc291cmNlcyUyMHNheXxlbnwxfDB8fHwxNzk1MTYyNTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sandro Cenni",
-        "photographerUrl": "https://unsplash.com/@sandrocenni",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-and-flags-m-JzXHmoHSM"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "Muhafazakar Parti lideri Kemi Badenoch'un, partisini yıllardır tanımlayan bölücü konulardan uzaklaştırarak Brexit ve Avrupa hakkında harcadığı zamanı sınırlaması yönünde tavsiye aldığı belirtildi. Kaynakların aktardığına göre, stratejik bir değişiklikle ekonomi, sosyal güvenlik maliyetleri ve savunma gibi seçmen nezdinde daha verimli olduğu düşünülen alanlara odaklanılması amaçlanıyor.\n\nBadenoch, Perşembe günü Daily Mail'de yayımlanan makalesinde Andy Burnham'ın AB ile yürüttüğü yeniden müzakere sürecini eleştirse de kaynaklar konunun artık ikincil derecede görüldüğünü ifade ediyor. Stephen Gilbert tarafından Brexit anlatısından uzaklaşılması yönünde tavsiye aldığı belirtilen Badenoch'un son dönemdeki konuşmaları da bu değişimi yansıtır nitelikte görünüyor.\n\nYaz aylarından bu yana gerçekleştirilen başbakanlık soruları oturumlarında, Badenoch ve vekili Alex Burghart'ın Avrupa konusunu yalnızca bir kez ele aldığı, diğer oturumların ise refah devleti, yaşam maliyeti, savunma, bütçe ve borç gibi konulara odaklandığı kaydedildi. Bir kıdemli Muhafazakâr, bu durumun Avrupa'yı kenara itmekten ziyade ekonomi ve savunma gibi güçlü olunan alanları daha fazla konuşma çabası olduğunu belirtti.\n\nParti içindeki bazı gölge bakanlar da bu stratejiyi desteklediklerini ifade etti. Bir gölge bakan Brexit konusunun son derece bölücü olduğunu vurgularken, bir diğeri artık yola devam edilmesi gerektiğini dile getirdi. Muhafazakâr Parti sözcüsü ise ülkenin en son ihtiyaç duyacağı şeyin yeniden bir Brexit tartışmasına çekilmek olduğunu, ancak bu durumun AB'yi hiç tartışmayacakları anlamına gelmediğini belirtti.",
-      "highlights": [
-        "Kemi Badenoch'a Brexit ve Avrupa tartışmalarını sınırlaması yönünde tavsiye verildi.",
-        "Muhafazakar Parti ekonomi, sosyal güvenlik ve savunma alanlarına odaklanmayı amaçlıyor.",
-        "Parti sözcüsü ülkenin yeniden bir Brexit tartışmasına çekilmemesi gerektiğini ifade etti."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/kemi-badenoch-brexit-eu-conservatives",
-      "publishedAt": "2026-11-20T08:00:26.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T08:34:24.020Z",
       "isBreaking": false
     }
   ],
