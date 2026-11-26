@@ -148,6 +148,7 @@
   .video-thumb { position:relative; display:block; width:100%; padding:0; border:0; text-align:left; color:inherit; aspect-ratio:16/9; overflow:hidden; background:linear-gradient(135deg,var(--navy-dark),var(--navy)); }
   button.video-thumb { cursor:pointer; }
   .video-thumb iframe,.video-thumb video { position:absolute; inset:0; width:100%; height:100%; border:0; background:#07101c; object-fit:contain; }
+  .video-player-source { position:absolute; z-index:2; right:9px; bottom:9px; padding:6px 9px; border:1px solid rgba(255,255,255,.55); border-radius:7px; background:rgba(5,17,29,.88); color:#fff; font-size:10px; font-weight:800; }
   .video-thumb img { display:block; width:100%; height:100%; object-fit:cover; transition:transform .3s; }
   .video-card:hover .video-thumb img { transform:scale(1.035); }
   .video-thumb .thumb-fallback { position:absolute; inset:0; }
@@ -2153,13 +2154,9 @@ function renderVideoPage() {
     const cover = article.imageUrl
       ? `<img data-news-cover data-category="${escapeHtml(canonicalCategory(article.category))}" src="${escapeHtml(article.imageUrl)}" alt="" loading="lazy">`
       : categoryIllustrationHtml(article.category);
-    const player = embedUrl || videoFileUrl
-      ? `<button class="video-thumb video-embed-trigger" type="button" ${embedUrl ? `data-video-embed="${escapeHtml(embedUrl)}"` : `data-video-file="${escapeHtml(videoFileUrl)}"`} data-video-title="${escapeHtml(article.headline)}" aria-label="${escapeHtml(article.headline)} — videoyu sitede oynat">
+    const player = `<button class="video-thumb video-embed-trigger" type="button" ${embedUrl ? `data-video-embed="${escapeHtml(embedUrl)}"` : videoFileUrl ? `data-video-file="${escapeHtml(videoFileUrl)}"` : `data-video-source="${escapeHtml(sourceUrl)}"`} data-video-title="${escapeHtml(article.headline)}" aria-label="${escapeHtml(article.headline)} — videoyu bu sitede aç">
           ${cover}<span class="video-play"><span class="msr">play_arrow</span></span><span class="video-source-tag">SİTEDE OYNAT</span>
-        </button>`
-      : `<a class="video-thumb" href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer" aria-label="${escapeHtml(article.headline)} — yayıncı sayfasını aç">
-          ${cover}<span class="video-play"><span class="msr">play_arrow</span></span><span class="video-source-tag">YAYINCI SAYFASINDA</span>
-        </a>`;
+        </button>`;
     return `<article class="video-card">
       ${player}
       <div class="video-card-body">
@@ -2171,9 +2168,9 @@ function renderVideoPage() {
   }).join('');
   document.getElementById('content').innerHTML = `<div class="fade-in">
     <div class="page-heading"><span class="msr" style="color:var(--gold)">smart_display</span>Video Haberler</div>
-    <p style="margin:8px 0 0;color:var(--text-secondary)">Resmî YouTube oynatıcıları ve hak kaydı doğrulanmış videolar bu sayfada oynar. Diğer içerikler yayıncı kaynağında açılır.</p>
+    <p style="margin:8px 0 0;color:var(--text-secondary)">Video kartına dokununca oynatıcı bu sayfada açılır. Yayıncının gömme izni vermediği videolarda, kartın içinden kaynak sayfasına geçebilirsin.</p>
     ${videos.length ? `<div class="video-grid">${cards}</div>` : `<div class="empty-state"><span class="msr" style="font-size:34px;opacity:.45">smart_display</span><br>Şu anda kaynak bağlantısı doğrulanmış bir video haber bulunamadı.</div>`}
-    <p class="video-note">Sayfa içinde oynatma yalnızca resmî gömme bağlantısı veya doğrulanmış kullanım hakkı olan videolarda açılır. Diğer videolar ilgili yayıncının sayfasında izlenir.</p>
+    <p class="video-note">Önce yayıncının resmî oynatıcısı bu sitede açılır. Kaynak site kendi sayfasının içine gömülmesine izin vermiyorsa, kartta kaynak bağlantısı görünür; başka sayfaya kendiliğinden yönlendirme yapılmaz.</p>
   </div>`;
   document.querySelectorAll('.video-embed-trigger').forEach(button => {
     button.addEventListener('click', () => {
@@ -2195,10 +2192,45 @@ function renderVideoPage() {
         video.preload = 'metadata';
         video.src = button.dataset.videoFile;
         video.setAttribute('aria-label', button.dataset.videoTitle || 'Video haber');
-        button.replaceChildren(video);
+        const surface = document.createElement('div');
+        surface.className = 'video-thumb video-playing';
+        surface.setAttribute('role', 'region');
+        surface.setAttribute('aria-label', button.dataset.videoTitle || 'Video haber');
+        surface.append(video);
+        button.replaceWith(surface);
+        return;
+      } else if (button.dataset.videoSource) {
+        const frame = document.createElement('iframe');
+        frame.src = button.dataset.videoSource;
+        frame.title = `${button.dataset.videoTitle || 'Video haber'} — yayıncı oynatıcısı`;
+        frame.allow = 'autoplay; encrypted-media; picture-in-picture; fullscreen';
+        frame.allowFullscreen = true;
+        frame.referrerPolicy = 'strict-origin-when-cross-origin';
+        frame.setAttribute('sandbox', 'allow-scripts allow-same-origin allow-forms allow-presentation allow-popups');
+        const surface = document.createElement('div');
+        surface.className = 'video-thumb video-playing';
+        surface.setAttribute('role', 'region');
+        surface.setAttribute('aria-label', button.dataset.videoTitle || 'Video haber');
+        surface.append(frame);
+        const sourceLink = document.createElement('a');
+        sourceLink.className = 'video-player-source';
+        sourceLink.href = button.dataset.videoSource;
+        sourceLink.target = '_blank';
+        sourceLink.rel = 'noopener noreferrer';
+        sourceLink.textContent = 'Kaynakta aç';
+        surface.append(sourceLink);
+        button.replaceWith(surface);
+        return;
       }
-      button.classList.add('video-playing');
-      button.disabled = true;
+      const frame = button.querySelector('iframe');
+      if (frame) {
+        const surface = document.createElement('div');
+        surface.className = 'video-thumb video-playing';
+        surface.setAttribute('role', 'region');
+        surface.setAttribute('aria-label', button.dataset.videoTitle || 'Video haber');
+        surface.append(frame);
+        button.replaceWith(surface);
+      }
     });
   });
 }
