@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-26T18:34:47.836Z",
+  "generatedAt": "2026-11-26T18:45:06.170Z",
   "articles": [
+    {
+      "id": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+      "headline": "Beşiktaş ile İsrail ekibi Hapoel arasındaki Avrupa Ligi maçı durduruldu",
+      "source": "BBC Türkçe",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a6e/live/2985bbf0-e9c7-11f1-aab6-291bfb79f59f.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC Türkçe",
+        "sourceUrl": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Beşiktaş ile İsrail ekibi Hapoel arasında oynanan UEFA Avrupa Ligi müsabakasına tribünlerde yaşanan olaylar nedeniyle 25. dakikada ara verildi. Gürcistan'ın Batum kentinde gerçekleştirilen karşılaşma Türkiye saatiyle 20.45'te başladı ve maçı Danimarka Futbol Federasyonu'ndan Morten Krogh yönetti. Mücadelenin 25. dakikasında Gürcü polis güçlerinin Beşiktaş tribünlerine müdahale etmesiyle olaylar çıktı. Olayların, Filistin'e destek mesajı içeren bir pankarta müdahale edilmesi neticesinde çıktığı iddia edildi. Tribünlerdeki olayların yatışmasının ardından futbolcular ve hakemler sahaya döndü ve beş dakikalık ısınma süresinin sonrasında karşılaşmanın yeniden başlamasına karar verildi.\n\nKarşılaşma, güvenlik gerekçeleriyle UEFA tarafından İstanbul yerine Gürcistan'ın Batum kentine alınmıştı. Beşiktaş kafilesini taşıyan uçak, olumsuz hava koşulları sebebiyle 25 Kasım'da Rize-Artvin Havalimanı'na iniş yapmış, oradan üç saatlik bir kara yolculuğuyla Batum'a varılmıştı. Siyah-beyazlı ekip UEFA Avrupa Ligi'ne ikinci ön eleme turundan başlamış; Midtjylland ve Hradec Kralove'u elemiş, play-off turunda ise Kauno Zalgiris'i geçerek lig aşamasına kalmıştı. Beşiktaş turnuvanın ilk hafta maçında Olimpik Marsilya'yı 4-1, ikinci maçında Hoffenheim'ı 3-2 yenerken, üçüncü hafta maçında Crystal Palace'la 2-2 berabere kalmış, dördüncü hafta maçında ise İskoçya'da Celtic'e 3-2 mağlup olmuştu.",
+      "highlights": [
+        "Beşiktaş ile Hapoel arasındaki Avrupa Ligi maçı 25. dakikada durduruldu",
+        "Olayların polisin müdahalesi ve Filistin'e destek pankartı nedeniyle çıktığı iddia edildi",
+        "Olayların ardından futbolcular ve hakemler sahaya çıkarak maça devam etti"
+      ],
+      "externalUrl": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T18:40:39.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-persembe-gununu-yukselisle-tamamladi-3498738",
       "headline": "Borsa perşembe gününü yükselişle tamamladı",
@@ -13,17 +37,18 @@
         "sourceUrl": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-persembe-gununu-yukselisle-tamamladi-3498738"
       },
       "timeAgo": "şimdi",
-      "body": "Borsa İstanbul'da BIST 100 endeksi, perşembe gününü küresel piyasalardaki olumlu havanın etkisiyle yüzde 0,82 değer kazanarak 10.743,11 puandan kapattı. Endeks, önceki kapanışa göre 87,38 puan artış kaydederken, toplam işlem hacmi 96,5 milyar lira olarak gerçekleşti.\n\nBankacılık endeksinin yüzde 0,01 ve holding endeksinin yüzde 1,42 değer kazandığı günde, sektör endeksleri arasında en çok kazandıran yüzde 3,97 ile turizm oldu. En fazla kaybettiren sektör ise yüzde 1,53 ile finansal kiralama faktoring olarak kayıtlara geçti.\n\nKüresel piyasalarda, ABD'nin yeni gümrük tarifelerine ilişkin kaygıların hafiflemesiyle Asya ve Avrupa borsalarında alımlar öne çıktı. Borsa İstanbul da Avrupa borsalarına paralel olarak genele yayılan alımlarla günü pozitif bir seyirle tamamladı.\n\nÖte yandan, Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in katılımıyla Cumhurbaşkanlığı Külliyesi Basın Salonu'nda saat 19.00'da fon konusuna ilişkin ortak bir basın toplantısı düzenlendiği bildirildi.\n\nAnalistler, teknik açıdan BIST 100 endeksinde 10.900 ve 11.000 puanın direnç, 10.600 ve 10.500 puanın ise destek konumunda bulunduğunu belirtti. Yarın yurt içinde ekonomik güven endeksi ile TCMB Finansal İstikrar Raporu, yurt dışında ise Japonya'da TÜFE ve Almanya'da işsizlik oranı takip edilecek.",
+      "body": "Borsa İstanbul'da BIST 100 endeksi, küresel piyasalardaki olumlu havanın etkisiyle perşembe gününü yükselişle kapattı. Endeks, önceki kapanışa göre 87,38 puan ve yüzde 0,82 değer kazanarak 10.743,11 puana ulaştı ve toplam işlem hacmi 96,5 milyar lira olarak gerçekleşti.\n\nKüresel piyasalarda ABD'nin yeni gümrük tarifelerine ilişkin kaygıların hafiflemesiyle Asya ve Avrupa borsalarında alımlar öne çıktı. Yurt içinde ise Borsa İstanbul, Avrupa borsalarına paralel olarak genele yayılan alımlarla günü pozitif bir seyirle tamamladı.\n\nSektör bazlı hareketlerde bankacılık endeksi yüzde 0,01 ve holding endeksi yüzde 1,42 değer kazanırken, en çok kazandıran yüzde 3,97 ile turizm sektörü oldu. Buna karşın en fazla kaybettiren sektör yüzde 1,53 ile finansal kiralama faktoring olarak kaydedildi.\n\nÖte yandan piyasalar akşam saat 19.00'da Cumhurbaşkanlığı Külliyesi Basın Salonu'nda gerçekleştirilecek ortak basın toplantısına odaklandı. Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in katılımıyla fon konusuna ilişkin ortak bir basın toplantısı düzenleneceği bildirildi.\n\nAnalistler, teknik açıdan BIST 100 endeksinde 10.900 ve 11.000 puanın direnç, 10.600 ile 10.500 puanın ise destek konumunda bulunduğunu belirtti. Yarın yurt içinde ekonomik güven endeksi ile TCMB Finansal İstikrar Raporu, yurt dışında ise Japonya'da TÜFE ve Almanya'da işsizlik oranı takip edilecek.",
       "highlights": [
         "BIST 100 endeksi günü yüzde 0,82 değer kazanarak 10.743,11 puandan tamamladı.",
-        "En çok kazandıran sektör yüzde 3,97 ile turizm oldu.",
-        "Cumhurbaşkanlığı Külliyesi'nde fon meselesine ilişkin ortak basın toplantısı düzenlendi."
+        "En çok kazandıran sektör yüzde 3,97 artışla turizm oldu.",
+        "Cevdet Yılmaz, Mehmet Şimşek ve Akın Gürlek'in katılımıyla fon konulu ortak basın toplantısı düzenlenecek."
       ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-persembe-gununu-yukselisle-tamamladi-3498738",
       "publishedAt": "2026-11-26T18:37:34.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T18:44:48.482Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
@@ -46,6 +71,30 @@
       "externalUrl": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
       "publishedAt": "2026-11-26T18:32:49.000Z",
       "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/guinea-bissaus-military-junta-postpones-elections-2028-extending-138470757",
+      "headline": "Gine-Bissau'daki askeri cunta seçimleri 2028'e erteledi",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1494172961521-33799ddd43a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlsaXRhcnklMjBqdW50YSUyMGVsZWN0aW9ufGVufDF8MHx8fDE3OTU3MTg2OTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Arnaud Jaegers",
+        "photographerUrl": "https://unsplash.com/@ajaegers",
+        "unsplashUrl": "https://unsplash.com/photos/person-dropping-envelope-into-ballot-box-IBWJsMObnnU"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Gine-Bissau'daki askeri yönetim, başkanlık ve milletvekili seçimlerini Kasım 2028'e erteleyerek sivil yönetime geçiş sürecini yaklaşık iki yıl uzattı. Bu karar, darbenin birinci yıl dönümüne denk geldi.\n\nOrdu, 26 Kasım 2025 tarihinde, genel seçimlerden üç gün sonra yönetime el koymuştu. Darbe, resmi sonuçlar açıklanmadan önce gerçekleşmiş ve Başkan Umaro Sissoco Embaló görevden uzaklaştırılmıştı. Seçimlerde hem Embaló hem de muhalefet adaylarından Fernando Dias zafer ilan etmişti. Yeni başkanlık seçimlerinin başlangıçta önümüzdeki ay yapılması planlanıyordu.\n\nGeçtiğimiz ay Başbakan Ilídio Vieira Té, aralık ayındaki seçimler için koşulların uygun olmadığını belirtmiş ancak başka bir tarih vermemişti. Geçiş dönemi lideri General Horta Inta-a, perşembe günü yayımlanan kararname ile seçim tarihini 26 Kasım 2028 olarak belirledi.\n\nKararnamede, güvenilir seçimler düzenlemek için gereken teknik, maddi ve mali koşulların mevcut olmadığı ifade edildi. Yasal ve operasyonel şartlar karşılanmadan sandık başına gitmenin sürecin şeffaflığını, kapsayıcılığını ve güvenilirliğini zedeleyebileceği kaydedildi.\n\nGeneral Inta-a, kararnamede seçimlerin yasallık, demokratik katılım, fırsat eşitliği, şeffaflık ve seçim bütünlüğü ilkelerine uygun olarak hazırlanması ve gerçekleştirilmesinin şart olduğunu vurguladı.",
+      "highlights": [
+        "Gine-Bissau askeri yönetimi seçimleri Kasım 2028'e erteledi",
+        "Sivil yönetime geçiş süreci yaklaşık iki yıl uzatıldı",
+        "Erteleme kararının gerekçesi olarak gerekli teknik, maddi ve mali koşulların bulunmadığı belirtildi"
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/guinea-bissaus-military-junta-postpones-elections-2028-extending-138470757",
+      "publishedAt": "2026-11-26T18:32:43.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -1002,7 +1051,7 @@
       "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T18:14:33.723Z"
+      "sourceTextAttemptedAt": "2026-11-26T18:44:48.482Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
@@ -3525,7 +3574,7 @@
       "publishedAt": "2026-11-24T18:55:59.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-26T18:34:28.908Z"
     },
     {
@@ -3626,8 +3675,12 @@
       "headline": "Husiler Aden'e Yaklaşıyor, Yemen Kuvvetleri Savunma Hattı Oluşturdu",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1627856905289-241d258ab2fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzE0NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Xavier Li",
+        "photographerUrl": "https://unsplash.com/@xlnyc",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-FZKvy7i1j4o"
+      },
       "timeAgo": "39 dk önce",
       "body": "İran destekli Husi isyancılar, Yemen'in uluslararası alanda tanınan hükümetinin merkezi olan Aden şehrine yaklaşık 60 kilometre mesafeye kadar ilerledi. Bir askeri yetkili, isyancılara karşı savaşan güçlerin şehri savunmak amacıyla güçlendirilmiş bir savunma hattı kurduğunu bildirdi.\n\nYemen ordusu sözcüsü Albay Majed al-Nuzaily, batı kıyısından çekilen birliklerin Husi ilerleyişini durdurmak amacıyla Aden'in kuzey ve batısında konuşlandırıldığını ifade etti. Yemen dışişleri bakanlığı yetkilisi Marwan al-Noman ise Batılı ülkelerden Yemen sahil güvenliğine destek vermelerini ve karadaki birliklere eğitim sağlamalarını talep etti.\n\nÖte yandan Yemen İçişleri Bakanlığı, Taiz vilayetinde düzenlenen topçu ateşinde bir çocuk dahil üç sivilin hayatını kaybettiğini, iki çocuğun yaralandığını açıkladı. Suudi Arabistan liderliğindeki koalisyon ise Riyad'daki finans bölgesinde bir kuleye düzenlenen saldırıda 11 kişinin yaralandığını bildirdi.\n\nİran tarafında ise Başmüzakereci ve Meclis Başkanı Muhammed Bakır Kalibaf, yedi şart yerine getirilene kadar ABD ile müzakere yürütmeyeceklerini belirtti. İran Devrim Muhafızları Deniz Kuvvetleri, Hürmüz Boğazı'nda üç petrol tankerinin deniz mayınlarına çarparak alev aldığını duyurdu.\n\nBölgedeki diğer gelişmeler arasında, Gazze'deki yerel yetkililerin açıklamasına göre pazartesi gecesi ve salı sabahı düzenlenen İsrail saldırılarında en az dokuz Filistinlinin yaşamını yitirdiği bildirildi. Ölenler arasında Hamas yönetimindeki İçişleri Bakanlığı'na bağlı üst düzey bir güvenlik yetkilisinin de bulunduğu kaydedildi.",
       "highlights": [
@@ -3640,7 +3693,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T14:52:03.676Z"
+      "imageSearchAttemptedAt": "2026-11-26T18:44:48.482Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/bakanlik-harekete-gecti-bebek-bakim-urunlerinde-organik-yalanina-milyonluk-ceza-3497651",
@@ -3928,8 +3981,12 @@
       "headline": "Güney Afrika'da Ukrayna savaşında yer almaya çalışan Zimbabveli mahkûm edildi",
       "source": "BBC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1710070213761-acefc882bba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzE0NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim  Dennert",
+        "photographerUrl": "https://unsplash.com/@tim_denn",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-bridge-vW8THslciLA"
+      },
       "timeAgo": "11 dk önce",
       "body": "Güney Afrika'da bir mahkeme, Ukrayna'da savaşmak amacıyla plan yapmaktan suçlu bulunan 24 yaşındaki Zimbabve vatandaşı Wesley Sothole'u mahkûm etti. Suçunu kabul eden Sothole, beş yıllık ertelenmiş hapis cezasına çarptırıldı ve Güney Afrika'dan sınır dışı edilmesine karar verildi.\n\nSothole, 8 Kasım'da Johannesburg'daki OR Tambo Havalimanı'nda gözaltına alınan beş Zimbabveliden biriydi. Güney Afrikalı savcılar, Zimbabvelilerin hangi taraf için savaşmayı amaçladığını henüz doğrulamadı. Sothole'un sanık olan diğer dört arkadaşı ise henüz suçlamaları kabul etmedi ve 1 Aralık'ta Kempton Park Sulh Ceza Mahkemesi'ne çıkacak.\n\nAynı dönemde ortak bir operasyonla Johannesburg'daki bir otelde yakalanan dört Zimbabveli daha farklı bir yargı sürecinden geçiyor. Soruşturmada Güney Afrika polisi, Interpol ve diğer uluslararası kolluk kuvvetleri yer aldı. Güney Afrika yasaları, denizaşırı savaşlara izinsiz katılımı kısıtlıyor.\n\nUkrayna'daki savaşa Afrika'dan vatandaşların devşirilmesi konusunda kıta genelinde artış gösteren bir endişe bulunuyor. Afrika'dan kişilerin Rusya'da savaşmak üzere toplandığı, bazılarının ise Ukrayna istihbaratına göre çeşitli ülkelerden işe alındığı belirtiliyor. Güney Afrika hükümeti, genç savunmasız kişilerin yabancı askeri unsurlarla çalışanlar tarafından sömürülmesini kınadığını açıkladı.",
       "highlights": [
@@ -3943,7 +4000,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T17:24:19.495Z",
-      "imageSearchAttemptedAt": "2026-11-25T14:54:19.767Z"
+      "imageSearchAttemptedAt": "2026-11-26T18:44:48.482Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cumhurbaskani-erdogandan-ogretmenlere-saygi-gecesinde-onemli-aciklamalar-4876169",
@@ -14433,54 +14490,6 @@
       "category": "Ekonomi",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T15:34:28.226Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/hgsde-icra-takipleri-durduruldu-1751808",
-      "headline": "HGS'de özel otoyol şirketlerinin icra takipleri durduruldu",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1782754521601-19691d69c25f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aGlnaHdheSUyMHRvbGwlMjBib290aHxlbnwxfDB8fHwxNzk1MTg3NzA4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "viktor rejent",
-        "photographerUrl": "https://unsplash.com/@viktor_rejent",
-        "unsplashUrl": "https://unsplash.com/photos/cars-approaching-a-multi-lane-toll-booth-with-mountains-in-background-FSTRMIDRq5E"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Ulaştırma ve Altyapı Bakanlığı, otoyol ve köprü geçişlerinde kullanılan Hızlı Geçiş Sistemi (HGS) hakkında yeni kararlar aldı. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, basına ve sosyal medyaya yansıyan HGS şikayetlerine yönelik incelemelerin tamamlandığını bildirdi.\n\nBakan Uraloğlu, söz konusu icra takiplerinin toplam geçişlerin yüzde 0,43'ünü oluşturduğunu ifade ederek özel otoyol şirketlerinin yürüttüğü icra takiplerinin durdurulduğunu açıkladı. Açıklanan yeni kararlar doğrultusunda özel otoyol şirketlerinin avukatlık ve icra uygulamaları derhal durduruldu ve bu uygulamanın yeniden düzenlenmesi kararlaştırıldı.\n\nAlınan tedbirler arasında HGS kullanıcılarının hesaplarını kredi kartına bağlayarak otomatik ödeme talimatı vermelerinin teşvik edilmesi ve kolaylaştırıcı düzenlemelerin yapılması yer aldı. Ayrıca hatalı geçişler konusunda vatandaşların farklı haberleşme yöntemleriyle bilgilendirilmesi ve kişisel verilerin korunması kurallarına uygun şekilde ödeme kanallarının çeşitlendirilmesi için teknik ve idari altyapı hazırlanması kararlaştırıldı. Hukuki mevzuat çalışmaları tamamlanıncaya kadar vatandaşlara yönelik icra takiplerinin uygulanmayacağı belirtildi.\n\nÖte yandan HGS'de ihlalli geçiş süreçlerine ilişkin kurallara göre, sürücüler ilk 15 gün içinde eksik bakiyeyi tamamlayıp ödeme yaparlarsa ceza ödemiyor. 15'inci günden 45'inci güne kadar bir kat ceza uygulanırken, 46'ncı günden sonra en az 15 gün içinde tebligat gönderiliyor ve tebligata rağmen işlem yapılmazsa avukatla takip süreci başlıyor.",
-      "highlights": [
-        "Özel otoyol şirketlerinin yürüttüğü icra takipleri durduruldu.",
-        "İcra takiplerinin toplam geçişlerin yüzde 0,43'ünü oluşturduğu belirtildi.",
-        "HGS kullanıcılarının otomatik ödeme talimatı vermesi teşvik edilecek."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/hgsde-icra-takipleri-durduruldu-1751808",
-      "publishedAt": "2026-11-20T15:10:48.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-      "headline": "ABD Senatosu Enerji Projeleri ve Veri Merkezleri İçin İzin Süreçlerini Hızlandıran Tasarıyı Onayladı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1775147514417-b9b6d50c7b69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8VVMlMjBTZW5hdGUlMjBidWlsZGluZ3xlbnwxfDB8fHwxNzk1MTg3Njg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alexandra Tran",
-        "photographerUrl": "https://unsplash.com/@alexgoesglobal",
-        "unsplashUrl": "https://unsplash.com/photos/the-united-states-capitol-building-under-a-clear-blue-sky-4hlTbLU70Cc"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "ABD Senatosu, artan enerji talebini karşılamak ve elektrik fiyatlarını düşürmek amacıyla enerji arzını artırma çabaları kapsamında, enerji projeleri ve veri merkezleri için izin incelemelerini hızlandırmayı hedefleyen iki partili tasarıyı onayladı. 62-33 oyla kabul edilen tasarı, Kongre'nin ara seçimlerin ardından attığı ilk büyük adım olma özelliğini taşıyor. Tasarı, enerji altyapılarının inşasına yönelik süreçleri kısaltmayı ve veri merkezlerinin kullandıkları enerji için ödeme yapmasını sağlamayı amaçlıyor.\n\nBirlik tarafından Bipartisan American Affordability and Jobs Act of 2026 olarak bilinen tasarı, boru hatları, madenler ve santrallerin daha hızlı inşa edilmesine olanak tanıyacak. Donald Trump, sosyal medya üzerinden yaptığı paylaşımda tasarıya destek vererek bunun enerji bağımsızlığı için büyük bir kazanç olduğunu belirtti. Öte yandan tasarı, bazı Demokratlar ve çevre gruplarının tepkisini çekti. Eleştirmenler, düzenlemenin Ulusal Çevre Politikası Yasası, Temiz Su Yasası ve Tehlike Altındaki Türler Yasası gibi temel çevre kanunlarında zayıflamalara yol açacağını ve fosil yakıt projelerini artıracağını savunuyor.\n\nTasarıya destek verenler, mevcut onay süreçlerinin yıllar sürdüğünü ve maliyetleri artırdığını vurgularken, temiz enerji ve petrol-gaz sektöründen büyük endüstri grupları projelerin gecikmesini önlemek için düzenlemeyi destekliyor. Çevre örgütleri ise kamusal denetimlerin zayıflatılacağını ve halk sağlığı korumalarının tehlikeye atılacağını öne sürüyor. Senato'da yapılan oylamada 15 Demokrat tasarıya lehte oy verirken, 2 Cumhuriyetçi ise ret oyu kullandı.\n\nOregon'lu Demokrat senatörler kamusal alanlarda veri merkezlerini yasaklayacak bir değişiklik önerse de, çoğunluktaki Cumhuriyetçilerin çabalarıyla tasarı önergeler eklenmeden kabul edildi. Senato'dan geçen tasarı, geçen yıl daha sınırlı ve sanayi yanlısı bir versiyonunu onaylayan Temsilciler Meclisi'ne gönderildi. Bazı milletvekilleri sürecin aceleye getirildiğini ve yerli halkların hakları ile su kaynaklarının korunmasının tehlikeye atılabileceğini belirterek endişelerini dile getirdi.",
-      "highlights": [
-        "ABD Senatosu, enerji projeleri ve veri merkezleri için izin incelemelerini hızlandıran tasarıyı 62-33 oyla onayladı.",
-        "Tasarı, Ulusal Çevre Politikası Yasası ve Temiz Su Yasası gibi temel çevre kanunlarında değişiklik öngörüyor.",
-        "Çevre grupları ve bazı Demokratlar, düzenlemenin fosil yakıt projelerini artıracağını ve çevresel korumaları zayıflatacağını savunuyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
-      "publishedAt": "2026-11-20T15:09:09.000Z",
-      "category": "Dünya",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
