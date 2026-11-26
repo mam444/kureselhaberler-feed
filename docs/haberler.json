@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-26T19:05:53.330Z",
+  "generatedAt": "2026-11-26T19:24:35.152Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/live-ak-parti-sozcusu-omer-celik-besiktas-taraftarlarina-yapilan-mudahale-ve-siddet-kabul-edilemez-7708797",
+      "headline": "Beşiktaş'ın yanındayız: Gürcü polisinin müdahalesine tepki",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://image.milimaj.com/i/milliyet/75/460x340/6b088434d314da6ed517b87e.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Milliyet",
+        "sourceUrl": "https://www.milliyet.com.tr/gundem/live-ak-parti-sozcusu-omer-celik-besiktas-taraftarlarina-yapilan-mudahale-ve-siddet-kabul-edilemez-7708797"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Beşiktaş, Gürcistan'da İsrail ekibi Hapoel Beer Sheva ile karşı karşıya geldi.\n\nMaç öncesinde ve esnasında Gürcü polisi, Beşiktaş taraftarına yönelik sert bir müdahalede bulundu.\n\nYaşanan bu müdahale kamuoyunda büyük tepki topladı.\n\nKarşılaşma sırasında tribünlerin karışması ve polisin saldırısı nedeniyle maç durdu.",
+      "highlights": [
+        "Gürcü polisi Beşiktaş taraftarına sert müdahalede bulundu",
+        "Olaylar ve polis müdahalesi nedeniyle maç durdu",
+        "Gürcü polisinin tutumu büyük tepki topladı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/live-ak-parti-sozcusu-omer-celik-besiktas-taraftarlarina-yapilan-mudahale-ve-siddet-kabul-edilemez-7708797",
+      "publishedAt": "2026-11-26T19:22:50.000Z",
+      "category": "Spor",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+      "headline": "Yargıç, Trump'ın ABD'de doğumla vatandaşlığa yönelik son kısıtlamalarını iptal etti",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1688417486375-3508bc17b941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VVMlMjBjb3VydCUyMGp1ZGdlfGVufDF8MHx8fDE3OTU3MjEwNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim Mossholder",
+        "photographerUrl": "https://unsplash.com/@timmossholder",
+        "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-flag-on-top-of-it-3Xl3lI5gjqg"
+      },
+      "timeAgo": "15 dk önce",
+      "body": "ABD'de bir yargıç, Trump yönetiminin doğumla vatandaşlığa getirdiği en son kısıtlamaları iptal etti. Alınan bu hukuki karar, daha önce Yüksek Mahkeme'nin aleyhte verdiği bir kararın ardından geldi. Yüksek Mahkeme'deki davanın kaybedilmesinin ardından Trump yönetimi, daha dar kapsamlı bir kısıtlama seti denemişti. Ancak yargının son hamlesiyle birlikte bu yeni girişim de engellenmiş oldu. Mevcut duruma dair ayrıntılar kaynak metinde sınırlı tutulurken, yönetimin uygulamaya koyduğu dar kapsamlı kısıtlamaların hukuki engelle karşılaştığı doğrulandı.",
+      "highlights": [
+        "Trump yönetimi daha dar kapsamlı kısıtlamalar denemişti",
+        "Yüksek Mahkeme'nin aleyhte kararı sonrasında yeni kısıtlamalar getirilmişti",
+        "Yargıç Trump'ın son kısıtlamalarını iptal etti"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
+      "publishedAt": "2026-11-26T19:09:39.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914",
       "headline": "AK Parti Sözcüsü Çelik'ten Beşiktaş taraftarlarına yönelik şiddete tepki: Yapılan müdahale kabul edilemez",
@@ -23,7 +71,8 @@
       "publishedAt": "2026-11-26T19:05:37.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T19:24:26.416Z"
     },
     {
       "id": "https://www.haberturk.com/spor/cska-sofya-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-iste-muhtemel-11-ler-3930141",
@@ -1393,15 +1442,15 @@
       "body": "İstanbul Havalimanı, 16-22 Kasım 2026 döneminde günlük ortalama 1379 uçuşla Avrupa'nın en yoğun havalimanı olarak kayıtlara geçti. İstanbul Sabiha Gökçen Havalimanı da günlük 778 uçuşla Avrupa sıralamasında 8'inci oldu.",
       "highlights": [
         "İstanbul Havalimanı 16-22 Kasım 2026 döneminde günlük ortalama 1379 uçuşla Avrupa'nın en yoğun havalimanı oldu.",
-        "İstanbul Sabiha Gökçen Havalimanı günlük ortalama 778 uçuşla Avrupa sıralamasında 8'inci sırada yer aldı.",
-        "Veriler EUROCONTROL tarafından yayımlanan Avrupa Havacılık Genel Bakış Raporu'nda açıklandı."
+        "İstanbul Sabiha Gökçen Havalimanı günlük ortalama 778 uçuşla listede 8'inci sırada yer aldı.",
+        "EUROCONTROL tarafından yayımlanan rapora göre İstanbul Havalimanı'nı Madrid Barajas ve Londra Heathrow takip etti."
       ],
       "externalUrl": "https://www.cnnturk.com/ekonomi/istanbul-havalimani-avrupanin-en-yogun-havalimani-oldu-3498158",
       "publishedAt": "2026-11-25T17:16:10.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T17:24:30.478Z"
+      "sourceTextAttemptedAt": "2026-11-26T19:24:26.416Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
@@ -4751,8 +4800,12 @@
       "headline": "Who really owns the land in Albania that Jared Kushner wants to develop?",
       "source": "NPR",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1653157930619-c5e3ffa50ff6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzEwODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "George Nifakos",
+        "photographerUrl": "https://unsplash.com/@gnifakos",
+        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-large-city-with-a-very-tall-building-XA_bqwrCltw"
+      },
       "timeAgo": "11 dk önce",
       "body": "Albania's Prime Minister Edi Rama has vowed that Kushner's resort project will go ahead as planned. But an ongoing investigation by Albania's state prosecutor into forged land titles could halt the project. (Image credit: Rob Schmitz/NPR)",
       "highlights": [],
@@ -4761,7 +4814,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-25T15:34:24.168Z"
+      "imageSearchAttemptedAt": "2026-11-26T19:24:26.416Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/balikesirde-sel-otomobilleri-agaclarin-uzerine-cikardi-4-saatte-metrekareye-90-kilogram-yagis-dustu-7707064",
@@ -4819,7 +4872,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:24:28.927Z",
-      "imageSearchAttemptedAt": "2026-11-25T17:54:17.588Z"
+      "imageSearchAttemptedAt": "2026-11-26T19:24:26.416Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-aciklamalar-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
@@ -14461,55 +14514,6 @@
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.trthaber.com/haber/egitim/ogrenciler-anadolu-medeniyetlerini-dijital-ansiklopediyle-taniyacak-963992.html",
-      "headline": "Öğrenciler Anadolu medeniyetlerini dijital ansiklopediyle tanıyacak",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1610484826917-0f101a7bf7f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8ZGlnaXRhbCUyMGVkdWNhdGlvbnxlbnwxfDB8fHwxNzk1MTg5NTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Compare Fibre",
-        "photographerUrl": "https://unsplash.com/@comparefibre",
-        "unsplashUrl": "https://unsplash.com/photos/boy-in-red-hoodie-wearing-black-headphones-JiOFFI3W7IA"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Milli Eğitim Bakanlığı (MEB), Anadolu'nun kültürel mirasının öğrencilere tanıtılması amacıyla \"Dijital Anadolu Medeniyetleri Ansiklopedisi\" projesini hayata geçirdi.\n\nBu kapsamda, 100 kavrama yönelik olarak hazırlanan toplam 800 dakikalık eğitsel video içeriği hazırlandı.\n\nSöz konusu eğitim içerikleri, dijital eğitim platformları üzerinden kullanıcıların erişimine sunulacak.",
-      "highlights": [
-        "MEB tarafından Dijital Anadolu Medeniyetleri Ansiklopedisi hayata geçirildi",
-        "100 kavrama yönelik 800 dakikalık eğitsel video içeriği hazırlandı",
-        "İçerikler dijital eğitim platformları üzerinden erişime sunulacak"
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/egitim/ogrenciler-anadolu-medeniyetlerini-dijital-ansiklopediyle-taniyacak-963992.html",
-      "publishedAt": "2026-11-20T15:39:00.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:54:28.256Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/depremde-21-kisiye-mezar-olan-kircuval-otel-davasinda-karar-cikti-7704658",
-      "headline": "Depremde 21 kişiye mezar olan Kırçuval Otel davasında karar çıktı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1677588508537-5106322c2d40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Y29sbGFwc2VkJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTE4OTMzOHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vincenzo Cassano",
-        "photographerUrl": "https://unsplash.com/@myphotoblog",
-        "unsplashUrl": "https://unsplash.com/photos/a-bulldozer-digging-through-a-demolished-building-MqAiJPYEFrs"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Kahramanmaraş merkezli 6 Şubat 2023 depremlerinde yıkılan ve 6 voleybolcu ile 4 ampute sporcunun da aralarında bulunduğu 21 kişinin hayatını kaybettiği Malatya'daki 7 katlı Kırçuval Otel davasında karar açıklandı. Soruşturma kapsamında hazırlanan ve 5'inci Ağır Ceza Mahkemesi'nce kabul edilen iddianamede, aralarında eski Battalgazi Belediye Başkan Yardımcısı ve otel sahibi Zafer Kırçuval'ın da bulunduğu 11 sanık 'Bilinçli taksirle birden fazla kişinin ölümüne ve yaralanmasına neden olma' suçundan yargılanıyordu.\n\nDavanın karar duruşmasında taraf avukatları, tutuksuz sanıklar ve depremde enkazda oğlunu kaybeden Zeliha Ağırbaş hazır bulundu. Mahkeme heyeti, tarafları dinledikten sonra verdiği aranın ardından kararını açıkladı. Yargılama sonucunda Aziz Murat Palancı, Fırat Palancı ve İsmail Y. beraat etti.\n\nMahkeme heyeti diğer sanıklara ise hapis cezaları verdi. Buna göre Saffet Kırçuval ve Zafer Kırçuval'a 8 yıl 4'er ay hapis cezası verildi. Fatma Altaş'a 12 yıl 2 ay 20 gün hapis ve 6 yıl 3 ay meslekten men, Hayriye Doğan'a 14 yıl 2 ay hapis ve 7 yıl 7 ay meslekten men, Serpil Yoloğlu'na 12 yıl 2 ay 20 gün hapis ve 6 yıl 3 ay meslekten men cezası uygulandı. Mustafa Bingöl, Mustafa Hakan Büker ve Alper Yiğit ise 11 yıl 1 ay 10'ar gün hapis cezasına çarptırılırken, Alper Yiğit'e ayrıca 5 yıl 2 ay meslekten men cezası verildi. Sanıklar hakkında adli kontrol şartı uygulanması kararlaştırıldı.\n\nKararın ardından açıklama yapan Zeliha Ağırbaş adaletin yerini bulmadığını savunarak tepki gösterdi. Müşteki avukatı Çağrı Sarıoğlu ise sanıkların 'olası kast' ile cezalandırılmasını talep ettiklerini belirterek, beraat kararları ile tutuklama taleplerinin reddedilmesine yönelik istinaf mahkemesine itirazda bulunacaklarını ifade etti.",
-      "highlights": [
-        "Kırçuval Otel davasında mahkeme heyeti 8 sanığa hapis cezası verirken, 3 sanığın beraatine hükmetti.",
-        "Otelin yıkılmasında sorumlulukları bulunduğu iddiasıyla yargılanan sanıklara verilen cezaların yanı sıra bazı sanıklara meslekten men cezaları getirildi.",
-        "Müşteki avukatları beraat kararları ve tutuklama taleplerinin reddedilmesi üzerine istinaf mahkemesine başvuracaklarını açıkladı."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/depremde-21-kisiye-mezar-olan-kircuval-otel-davasinda-karar-cikti-7704658",
-      "publishedAt": "2026-11-20T15:37:51.000Z",
-      "category": "Yaşam",
-      "lang": "tr",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
