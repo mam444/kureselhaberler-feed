@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-26T19:24:35.152Z",
+  "generatedAt": "2026-11-26T23:58:09.078Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/resmi-ilanlar/fatih-belediye-baskanligi-3498734",
+      "headline": "Fatih Belediyesi'nden yol ve kaldırım yenileme ihalesi",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b08509a4e094da32235ca53.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/resmi-ilanlar/fatih-belediye-baskanligi-3498734"
+      },
+      "timeAgo": "şimdi",
+      "body": "Fatih Belediye Başkanlığı Fen İşleri Müdürlüğü, İstanbul İli, Fatih İlçesi, Adnan Menderes Vatan Bulvarı, Atatürk Bulvarı - Gazi M Kemalpaşa Caddesi ve Kennedy Caddeleri arasında kalan bölgede yol-kaldırım tamiratı ve yenileme inşaatı işi için ihale düzenliyor. İhale, 4734 sayılı Kamu İhale Kanununun 19'uncu maddesine göre açık ihale usulü ile gerçekleştirilecek olup, teklifler yalnızca elektronik ortamda EKAP üzerinden alınacak.\n\nİhale kayıt numarası 2026/2355442 olan yapım işinin ihale tarihi ve saati 21.12.2026 - 12:30 olarak açıklandı. E-tekliflerin açılacağı adres ise Cerrahpaşa Mahallesi Samatya Sahili Sokak No:34/4 Aksaray - Fatih / İstanbul olarak belirlendi. İhale dokümanına EKAP internet sayfası üzerinden ulaşılabiliyor.\n\nİhale konusu iş kapsamında 18950 metrekare her kalınlıkta granit, bazalt, andezit kaplama ile kumlamalı parke taşı döşenmesi ve 35000 metrekare parke taşı, beton plak, adi kaldırım ve blokaj sökülmesi gibi işlemler yapılacak. İşe başlama tarihi sözleşmenin imzalandığı tarihten itibaren 5 gün içinde yapılacak yer teslimiyle başlayacak olup, süresi yer tesliminden itibaren 345 takvim günü olarak duyuruldu.\n\nİhaleye sadece yerli istekliler katılabilecek olup konsorsiyum teklif veremeyecek. İsteklilerin teklif ettikleri bedelin yüzde 3'ünden az olmamak üzere geçici teminat vermesi gerekiyor. Verilen tekliflerin geçerlilik süresi ihale tarihinden itibaren 60 takvim günü olarak belirlendi.",
+      "highlights": [
+        "İhale açık ihale usulü ile EKAP üzerinden yapılacak.",
+        "İhale tarihi 21 Aralık 2026 olarak belirlendi.",
+        "İşin süresi yer tesliminden itibaren 345 takvim günüdür."
+      ],
+      "externalUrl": "https://www.cnnturk.com/resmi-ilanlar/fatih-belediye-baskanligi-3498734",
+      "publishedAt": "2026-11-27T00:00:51.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "headline": "Gürcistan'da Beşiktaş taraftarları ile polis arasında Filistin bayrağı gerginliği",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1545558490-d4ca82897db4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBtYXRjaCUyMGZhbiUyMGNsYXNofGVufDF8MHx8fDE3OTU3Mzc0ODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tobias",
+        "photographerUrl": "https://unsplash.com/@herrzett",
+        "unsplashUrl": "https://unsplash.com/photos/people-near-green-field-using-smartphones-WAmXufrAV_M"
+      },
+      "timeAgo": "21 dk önce",
+      "body": "Beşiktaş ile Hapoel Beer-Sheva arasında oynanan karşılaşma, taraftarlar ile polis arasında yaşanan çatışmanın ardından 30 dakika süreyle durduruldu. Yaşanan gerginliğin ardından müsabakaya ara verilirken, olayların detayları ve taraflar arasındaki arbedenin çıkış noktasına ilişkin başka bir resmi ayrıntı paylaşılmadı. Karşılaşmanın durdurulmasına yol açan olaylar güvenliğe dair soru işaretleri doğururken, maç daha sonra kaldığı yerden devam etti.",
+      "highlights": [
+        "Beşiktaş ile Hapoel Beer-Sheva maçı durduruldu",
+        "Taraftarlar ile polis arasında çatışma yaşandı",
+        "Karşılaşmaya 30 dakika ara verildi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
+      "publishedAt": "2026-11-26T23:37:17.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/live-ak-parti-sozcusu-omer-celik-besiktas-taraftarlarina-yapilan-mudahale-ve-siddet-kabul-edilemez-7708797",
       "headline": "Beşiktaş'ın yanındayız: Gürcü polisinin müdahalesine tepki",
@@ -23,7 +71,8 @@
       "publishedAt": "2026-11-26T19:22:50.000Z",
       "category": "Spor",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
@@ -47,7 +96,8 @@
       "publishedAt": "2026-11-26T19:09:39.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914",
@@ -940,8 +990,12 @@
       "headline": "Dışişleri'nden Mısır'daki faciada hayatını kaybedenler için taziye mesajı",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1565478441918-ba8d56c559a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NzExNDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Ed Rojas",
+        "photographerUrl": "https://unsplash.com/@ed91",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-gray-microphone-quvUXEIlE3U"
+      },
       "timeAgo": "2 dk önce",
       "body": "Dışişleri Bakanlığı: Mısır’ın Giza vilayetindeki çevre yolunda dün meydana gelen tanker yangını sonucunda yaşanan can kayıplarından derin üzüntü duyuyoruz. Kazada hayatını kaybedenlere Allah’tan rahmet, yakınlarına ve Mısır halkına başsağlığı, yaralılara acil şifalar diliyoruz.",
       "highlights": [
@@ -955,7 +1009,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-26T10:14:20.271Z",
-      "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z"
+      "imageSearchAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
@@ -1103,7 +1157,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T23:23:43.112Z",
       "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -1477,7 +1531,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T17:24:30.478Z",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:34:21.354Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
@@ -1561,8 +1615,12 @@
       "headline": "Why are school shootings continuing to shake the Balkans?",
       "source": "Al Jazeera",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1627856905289-241d258ab2fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzEwODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Xavier Li",
+        "photographerUrl": "https://unsplash.com/@xlnyc",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-FZKvy7i1j4o"
+      },
       "timeAgo": "28 dk önce",
       "body": "A shooting in Serbia has renewed concerns over firearm access, online warning signs and failures to prevent violence.",
       "highlights": [],
@@ -1572,7 +1630,7 @@
       "isBreaking": false,
       "lang": "en",
       "sourceTextAttemptedAt": "2026-11-26T17:24:22.618Z",
-      "imageSearchAttemptedAt": "2026-11-26T16:24:20.242Z"
+      "imageSearchAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-husilerin-saldirisina-kinama-sivil-alanlari-hedef-alan-bu-saldirganlik-derhal-son-bulmalidir-4876529",
@@ -1811,8 +1869,8 @@
       "lang": "en",
       "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z",
       "imageSearchAttemptedAt": "2026-11-26T16:04:19.107Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
-      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z",
+      "videoCoverAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
@@ -2648,7 +2706,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T09:38:35.637Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:55:20.087Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-3497702",
@@ -3037,7 +3095,7 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -3120,7 +3178,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-26T16:55:20.087Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
@@ -3226,7 +3284,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-26T16:55:20.087Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
@@ -3372,7 +3430,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
       "imageSearchAttemptedAt": "2026-11-26T17:54:36.907Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -3902,7 +3960,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T18:14:22.342Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:55:20.087Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/abdden-dev-sanayi-hamlesi-pentagon-iha-uretimi-icin-otomotiv-devleriyle-masada-3497553",
@@ -3998,7 +4056,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-26T17:04:23.501Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/ingiliz-basinindan-antalyaya-ovgu-the-telegraph-subatta-gidin-ve-kazak-giymeyin-3497633",
@@ -4200,7 +4258,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T16:54:29.299Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:04:23.501Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3929634",
@@ -4376,7 +4434,7 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-24T16:34:31.310Z",
       "sourceTextAttemptedAt": "2026-11-24T16:34:31.310Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:04:23.501Z"
+      "videoEmbedAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/vicdansizligin-boylesi-samsunda-engelli-badem-saticisina-saldiri-kamerada-4876164",
@@ -4813,7 +4871,7 @@
       "publishedAt": "2026-11-24T14:24:04.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-26T19:24:26.416Z"
     },
     {
@@ -14460,57 +14518,6 @@
       ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-20T15:55:16.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
-      "headline": "Avrupa'da Z Kuşağı protestoları: İspanya'da geçim sıkıntısına karşı kitlesel mitingler",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1712604178038-30c07c3c4654?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cHJvdGVzdCUyMFNwYWlufGVufDF8MHx8fDE3OTUxODk1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dmitrii E.",
-        "photographerUrl": "https://unsplash.com/@dmitriielj",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-dressed-in-white-walking-down-a-street-hRE5w76L0tM"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Avrupa genelinde eylemciler, hükümetler üzerindeki baskıyı artırmak amacıyla cuma günü sokaklara çıkmaya hazırlanıyor. Sınır ötesi dayanışma gösterisi niteliğindeki bu eylemler, artan yaşam maliyeti, militarizm ve diğer çeşitli nedenlere karşı koordine edilen gösterileri kapsıyor.\n\nİspanya'nın başkenti Madrid'den aktarım yapan FRANCE 24 muhabiri Sarah Morris, ülkedeki durumu ve protestoların arka planını takip ediyor. Benzer şekilde Avrupa'nın farklı bölgelerinde de vatandaşlar hükümetlerin politikalarına karşı ortak ses çıkarıyor.\n\nSöz konusu gösteriler, Avrupa genelinde artan geçim sıkıntısı ve ekonomik zorluklara karşı düzenlenen protestolar silsilesinin bir parçasını oluşturuyor. Eylemciler, hükümetlerin bu sorunlara karşı daha somut adımlar atmasını talep ediyor.",
-      "highlights": [
-        "Avrupa'daki eylemciler Cuma günü sokaklara çıkmaya hazırlandı",
-        "Protestolar artan yaşam maliyeti ve militarizme karşı düzenlendi",
-        "Eylemler hükümetler üzerindeki baskıyı artırmayı amaçlıyor"
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261120-gen-z-protests-spread-across-europe-mass-rallies-over-cost-of-living-in-spain",
-      "publishedAt": "2026-11-20T15:41:34.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T15:54:28.256Z",
-      "isBreaking": false,
-      "videoEmbedUrl": "https://embed.france24.com/en/video/38FF8F49-1212-4579-985E-9818DD5A3E12",
-      "videoEmbedAttemptedAt": "2026-11-26T17:54:36.907Z"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-      "headline": "ABD Ordusu, Kamu Tepkileri Üzerine Bomba Yapımında Kullanılan Kimyasalın İmha Planını Erteledi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1606964212668-176ea03e8b47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8bWlsaXRhcnklMjBhbW11bml0aW9uJTIwcGxhbnR8ZW58MXwwfHx8MTc5NTE4OTMyOXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Barrett Ward",
-        "photographerUrl": "https://unsplash.com/@barrettward",
-        "unsplashUrl": "https://unsplash.com/photos/stainless-steel-tool-on-black-surface-C-Rxgftu0MA"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "ABD ordusu, Iowa eyaletinin güneydoğusundaki Middletown'da yaklaşık 5 ton kurşun azit maddesini patlatma planını kamu sağlığı risklerine yönelik endişeler ve tepkiler üzerine erteledi. Ordu yetkilileri, bu kontrollü patlamanın hassas bileşeni imha etmenin en güvenli yolu olduğunu savunmuştu. Planın cuma günü öğle saatlerinde gerçekleştirilmesi öngörülüyordu.\n\nPatlama sırasında varillerin beton yapılar ve kum dolgulu bariyerlerle çevrelenmesi planlanıyordu. Ordu, olası cam hasarları nedeniyle bazı bölge sakinlerinin tahliye edilmesini tavsiye etmişti. Patlamanın yol açacağı sarsıntıların kısa süreceği ancak eski camları kırabileceği ve rüzgar hızına bağlı olarak toz bulutunun bir saatten fazla kalmayacağı belirtilmişti. Patlamanın kurşun partikülleri içeren bir bulut oluşturması beklenirken, güncellenen haritalar bulutun kuzeye doğru kayma potansiyelini göstermişti.\n\nPlanın duyulmasının ardından bölge halkı ve eyalet liderleri tepki gösterdi. Vali Kim Reynolds'ın ofisi bilgilendirilirken, yetkililer iletişim eksikliğine dikkat çekti. ABD ordusu vekili sekreteri Adam Telle, kamusal güven için iletişimin önemli olduğunu belirterek erteleme kararını duyurdu. Planın, malzemenin dengesini bozabilecek sıcaklık düşüşlerinden öncesi için pazartesi günü yapılmasının beklenildiği bildirildi.\n\nÇevre Koruma Ajansı (EPA) 13 Kasım'da acil durum izni onaylamıştı. Bölgedeki bazı okullar ve yerel kurumlar tedbir amacıyla kapanış kararı alırken, yetkililer ve uzmanlar kurşun tozunun yayılımı ve olası sağlık etkileri konusundaki belirsizliklere dikkat çekti. EPA belgelerinde nötralizasyon gibi alternatiflerin değerlendirildiği ancak varillerin taşınmasının kaza riskini artıracağı ifade edildi. Planlanan işlemin pazartesi günü yapılması bekleniyor.",
-      "highlights": [
-        "ABD ordusu Middletown'da kurşun azit patlatma planını erteledi.",
-        "Patlamanın kurşun partikülleri içerecek bir toz bulutu yaratması bekleniyordu.",
-        "Planlanan işlemin pazartesi günü yapılması bekleniyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
-      "publishedAt": "2026-11-20T15:39:48.000Z",
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
