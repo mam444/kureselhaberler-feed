@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { ALL_SOURCES } from './sources.mjs';
-import { fetchAllSources, fetchPublisherArticleBody, fetchPublisherVideoEmbedUrl } from './fetch-rss.mjs';
+import { fetchAllSources, fetchPublisherArticleBody, fetchPublisherVideoAssets } from './fetch-rss.mjs';
 import { rewriteArticle } from './gemini.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
@@ -35,7 +35,7 @@ const RSS_FALLBACK_MAX_CHARS = 750;
 // stories another safe chance every six hours without broad stock-photo matches.
 const MAX_IMAGE_BACKFILLS_PER_RUN = 2;
 const MAX_PUBLISHER_RSS_COVER_BACKFILLS_PER_RUN = 12;
-const MAX_PUBLISHER_VIDEO_EMBED_CHECKS_PER_RUN = 4;
+const MAX_PUBLISHER_VIDEO_EMBED_CHECKS_PER_RUN = 12;
 const ENRICHMENT_RETRY_MS = 24 * 60 * 60 * 1000;
 const IMAGE_RETRY_MS = 6 * 60 * 60 * 1000;
 const VIDEO_EMBED_RETRY_MS = 6 * 60 * 60 * 1000;
@@ -86,9 +86,19 @@ async function enrichWithPublisherVideo(raw) {
   try {
     const url = new URL(raw.externalUrl);
     if (!url.pathname.split('/').some((segment) => /^(?:video|videos)$/i.test(segment))) return raw;
-    const videoEmbedUrl = await fetchPublisherVideoEmbedUrl(raw.externalUrl);
-    if (videoEmbedUrl) console.log(`[video] "${raw.headline.slice(0, 60)}" için yayıncının resmî oynatıcı bağlantısı bulundu.`);
-    return { ...raw, ...(videoEmbedUrl ? { videoEmbedUrl } : {}), videoEmbedAttemptedAt: new Date().toISOString() };
+    const assets = await fetchPublisherVideoAssets(raw.externalUrl);
+    const cover = !raw.imageUrl && assets?.coverUrl
+      ? publisherVideoCover({ ...raw, imageUrl: assets.coverUrl })
+      : null;
+    if (assets?.embedUrl) console.log(`[video] "${raw.headline.slice(0, 60)}" için yayıncının resmî oynatıcı bağlantısı bulundu.`);
+    if (cover) console.log(`[video] "${raw.headline.slice(0, 60)}" için yayıncı kapak görseli bulundu.`);
+    return {
+      ...raw,
+      ...(assets?.embedUrl ? { videoEmbedUrl: assets.embedUrl } : {}),
+      ...(cover ?? {}),
+      videoEmbedAttemptedAt: new Date().toISOString(),
+      ...(!raw.imageUrl ? { videoCoverAttemptedAt: new Date().toISOString() } : {}),
+    };
   } catch {
     return raw;
   }
@@ -114,9 +124,18 @@ function publisherRssCover(raw) {
   }
 }
 
+function publisherVideoCover(raw) {
+  const cover = publisherRssCover(raw);
+  if (!cover) return null;
+  return {
+    ...cover,
+    imageCredit: { ...cover.imageCredit, sourceType: 'publisher_video' },
+  };
+}
+
 function hasPreservableImageCredit(credit) {
   if (credit?.unsplashUrl) return true;
-  if (credit?.sourceType !== 'publisher_rss') return false;
+  if (credit?.sourceType !== 'publisher_rss' && credit?.sourceType !== 'publisher_video') return false;
   try {
     const source = new URL(credit.sourceUrl ?? '');
     return source.protocol === 'https:' && Boolean(source.hostname) && !source.username && !source.password;
@@ -428,24 +447,37 @@ async function main() {
   }
   const publisherVideoUpgrades = previous
     .filter((article) => {
-      if (article.videoEmbedUrl || !article.externalUrl) return false;
+      if (!article.externalUrl) return false;
       try {
         const url = new URL(article.externalUrl);
         if (!url.pathname.split('/').some((segment) => /^(?:video|videos)$/i.test(segment))) return false;
       } catch { return false; }
-      const attemptedAt = Date.parse(article.videoEmbedAttemptedAt ?? '');
-      return !Number.isFinite(attemptedAt) || now - attemptedAt >= VIDEO_EMBED_RETRY_MS;
+      const embedAttemptedAt = Date.parse(article.videoEmbedAttemptedAt ?? '');
+      const coverAttemptedAt = Date.parse(article.videoCoverAttemptedAt ?? '');
+      const needsEmbed = !article.videoEmbedUrl
+        && (!Number.isFinite(embedAttemptedAt) || now - embedAttemptedAt >= VIDEO_EMBED_RETRY_MS);
+      const needsCover = !article.imageUrl
+        && (!Number.isFinite(coverAttemptedAt) || now - coverAttemptedAt >= VIDEO_EMBED_RETRY_MS);
+      return needsEmbed || needsCover;
     })
     .filter((article) => !publisherCoverUpgrades.some((item) => item.article.id === article.id))
+    .sort((a, b) => Number(Boolean(a.imageUrl)) - Number(Boolean(b.imageUrl))
+      || new Date(b.publishedAt ?? 0) - new Date(a.publishedAt ?? 0))
     .slice(0, MAX_PUBLISHER_VIDEO_EMBED_CHECKS_PER_RUN);
   for (const article of publisherVideoUpgrades) {
-    const videoEmbedUrl = await fetchPublisherVideoEmbedUrl(article.externalUrl);
+    const assets = await fetchPublisherVideoAssets(article.externalUrl);
+    const cover = !article.imageUrl && assets?.coverUrl
+      ? publisherVideoCover({ ...article, imageUrl: assets.coverUrl })
+      : null;
     oldStoryUpgrades.push({
       ...article,
-      ...(videoEmbedUrl ? { videoEmbedUrl } : {}),
+      ...(assets?.embedUrl ? { videoEmbedUrl: assets.embedUrl } : {}),
+      ...(cover ?? {}),
       videoEmbedAttemptedAt: new Date(now).toISOString(),
+      ...(!article.imageUrl ? { videoCoverAttemptedAt: new Date(now).toISOString() } : {}),
     });
-    if (videoEmbedUrl) console.log(`[video] "${article.headline.slice(0, 60)}" için yayıncının resmî oynatıcı bağlantısı eklendi.`);
+    if (assets?.embedUrl) console.log(`[video] "${article.headline.slice(0, 60)}" için yayıncının resmî oynatıcı bağlantısı eklendi.`);
+    if (cover) console.log(`[video] "${article.headline.slice(0, 60)}" için yayıncı kapak görseli eklendi.`);
   }
   if (GEMINI_API_KEY) {
     const wordCount = (value) => String(value ?? '').trim().split(/\s+/).filter(Boolean).length;

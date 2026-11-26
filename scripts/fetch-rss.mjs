@@ -151,6 +151,26 @@ function collectVideoEmbedUrls(value, results) {
   }
 }
 
+function collectVideoThumbnailUrls(value, results) {
+  if (!value) return;
+  if (Array.isArray(value)) {
+    for (const item of value) collectVideoThumbnailUrls(item, results);
+    return;
+  }
+  if (typeof value !== 'object') return;
+  const types = Array.isArray(value['@type']) ? value['@type'] : [value['@type']];
+  if (types.some((type) => /videoobject/i.test(String(type ?? '')))) {
+    const thumbnail = value.thumbnailUrl ?? value.thumbnailURL;
+    for (const item of asArray(thumbnail)) {
+      const candidate = typeof item === 'string' ? item : item?.url ?? item?.contentUrl;
+      if (candidate) results.push(String(candidate));
+    }
+  }
+  for (const child of Object.values(value)) {
+    if (typeof child === 'object') collectVideoThumbnailUrls(child, results);
+  }
+}
+
 function safePublisherEmbedUrl(candidate, articleUrl) {
   try {
     const article = new URL(articleUrl);
@@ -172,9 +192,21 @@ function safePublisherEmbedUrl(candidate, articleUrl) {
   }
 }
 
-/** Return only an explicitly exposed HTTPS player URL from a publisher page
- * our robots check permits. Raw video files are deliberately excluded here. */
-export async function fetchPublisherVideoEmbedUrl(articleUrl) {
+function safePublisherVideoCoverUrl(candidate, articleUrl) {
+  try {
+    const cover = new URL(candidate, articleUrl);
+    if (cover.protocol !== 'https:' || !cover.hostname || cover.username || cover.password) return null;
+    if ([...cover.searchParams.keys()].some((key) => /(?:token|auth|signature|secret|credential|policy|jwt|expires?)/i.test(key))) return null;
+    if (/\.(?:mp4|m3u8|mpd|webm)(?:$|[?#])/i.test(cover.pathname)) return null;
+    return cover.href;
+  } catch {
+    return null;
+  }
+}
+
+/** Return a publisher's declared video player and poster image from a page our
+ * robots check permits. Raw video files are deliberately excluded. */
+export async function fetchPublisherVideoAssets(articleUrl) {
   if (!articleUrl || !(await publisherAllowsArticleRead(articleUrl))) return null;
   try {
     const response = await fetch(articleUrl, {
@@ -185,7 +217,8 @@ export async function fetchPublisherVideoEmbedUrl(articleUrl) {
     if (new URL(response.url).origin !== new URL(articleUrl).origin) return null;
     if (!response.ok || !/text\/html/i.test(response.headers.get('content-type') ?? '')) return null;
     const html = await response.text();
-    const candidates = [];
+    const embedCandidates = [];
+    const coverCandidates = [];
     const metadata = new Map();
     for (const match of html.matchAll(/<meta\b[^>]*>/gi)) {
       const attrs = Object.fromEntries([...match[0].matchAll(/([:\w-]+)\s*=\s*(?:"([^"]*)"|'([^']*)')/g)]
@@ -195,25 +228,46 @@ export async function fetchPublisherVideoEmbedUrl(articleUrl) {
     }
     const videoType = String(metadata.get('og:video:type') || '').toLowerCase();
     for (const key of ['og:video:embed_url', 'video:embed_url', 'twitter:player']) {
-      if (metadata.has(key)) candidates.push(metadata.get(key));
+      if (metadata.has(key)) embedCandidates.push(metadata.get(key));
     }
     if (videoType === 'text/html') {
       for (const key of ['og:video:secure_url', 'og:video:url', 'og:video']) {
-        if (metadata.has(key)) candidates.push(metadata.get(key));
+        if (metadata.has(key)) embedCandidates.push(metadata.get(key));
       }
     }
+    for (const key of ['og:image', 'og:image:url', 'twitter:image', 'twitter:image:src']) {
+      if (metadata.has(key)) coverCandidates.push(metadata.get(key));
+    }
     for (const script of html.matchAll(/<script\b[^>]*type\s*=\s*["']application\/ld\+json[^"']*["'][^>]*>([\s\S]*?)<\/script>/gi)) {
-      try { collectVideoEmbedUrls(JSON.parse(script[1]), candidates); } catch { /* Ignore malformed metadata. */ }
+      try {
+        const json = JSON.parse(script[1]);
+        collectVideoEmbedUrls(json, embedCandidates);
+        collectVideoThumbnailUrls(json, coverCandidates);
+      } catch { /* Ignore malformed metadata. */ }
     }
-    for (const candidate of candidates) {
-      const embedUrl = safePublisherEmbedUrl(candidate, articleUrl);
-      if (embedUrl) return embedUrl;
+    let embedUrl = null;
+    for (const candidate of embedCandidates) {
+      embedUrl = safePublisherEmbedUrl(candidate, articleUrl);
+      if (embedUrl) break;
     }
-    return null;
+    let coverUrl = null;
+    for (const candidate of coverCandidates) {
+      coverUrl = safePublisherVideoCoverUrl(candidate, articleUrl);
+      if (coverUrl) break;
+    }
+    return { ...(embedUrl ? { embedUrl } : {}), ...(coverUrl ? { coverUrl } : {}) };
   } catch (error) {
-    console.warn(`[video] kaynak oynatıcı bilgisi alınamadı: ${error.message}`);
+    console.warn(`[video] kaynak video bilgisi alınamadı: ${error.message}`);
     return null;
   }
+}
+
+export async function fetchPublisherVideoEmbedUrl(articleUrl) {
+  return (await fetchPublisherVideoAssets(articleUrl))?.embedUrl ?? null;
+}
+
+export async function fetchPublisherVideoCoverUrl(articleUrl) {
+  return (await fetchPublisherVideoAssets(articleUrl))?.coverUrl ?? null;
 }
 
 /** Read only publisher pages that allow our crawler. Prefer schema.org's

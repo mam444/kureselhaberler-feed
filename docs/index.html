@@ -2372,9 +2372,9 @@ function openArticle(id) {
 
     ${a.imageUrl ? `
       <img class="hero" data-news-cover data-category="${escapeHtml(canonicalCategory(a.category))}" src="${escapeHtml(a.imageUrl)}" alt="">
-      ${a.imageCredit?.sourceType === 'publisher_rss' ? `
-        <div class="image-credit">Görsel: ${escapeHtml(a.imageCredit.sourceName || a.source || 'Yayıncı')} ·
-          <a href="${escapeHtml(safeHttpUrl(a.imageCredit.sourceUrl) || safeHttpUrl(a.externalUrl) || '#')}" target="_blank" rel="noopener noreferrer">Kaynak RSS görseli</a>
+      ${['publisher_rss', 'publisher_video'].includes(a.imageCredit?.sourceType) ? `
+        <div class="image-credit">${a.imageCredit.sourceType === 'publisher_video' ? 'Video kapağı' : 'Görsel'}: ${escapeHtml(a.imageCredit.sourceName || a.source || 'Yayıncı')} ·
+          <a href="${escapeHtml(safeHttpUrl(a.imageCredit.sourceUrl) || safeHttpUrl(a.externalUrl) || '#')}" target="_blank" rel="noopener noreferrer">${a.imageCredit.sourceType === 'publisher_video' ? 'Yayıncı video görseli' : 'Kaynak RSS görseli'}</a>
         </div>` : a.imageCredit?.photographer ? `
         <div class="image-credit">Fotoğraf: ${escapeHtml(a.imageCredit.photographer)} /
           <a href="${escapeHtml(a.imageCredit.unsplashUrl || 'https://unsplash.com')}" target="_blank" rel="noopener">Unsplash</a>
