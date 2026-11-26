@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-26T18:54:45.884Z",
+  "generatedAt": "2026-11-26T19:05:53.330Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914",
+      "headline": "AK Parti Sözcüsü Çelik'ten Beşiktaş taraftarlarına yönelik şiddete tepki: Yapılan müdahale kabul edilemez",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/26/73690c2f-ak-parti-sozcusu-celikten-besiktas-taraftarlarina.webp",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914"
+      },
+      "timeAgo": "şimdi",
+      "body": "CHP Elazığ Milletvekili Gürsel Erol, TBMM Plan ve Bütçe Komisyonunda yaptığı konuşmada Türkiye'nin ev sahipliğinde düzenlenen COP31 İklim Zirvesi'ne yönelik değerlendirmelerde bulundu. Hükümetin organizasyondaki başarısını öven Erol, kendi geçmiş deneyimleriyle kıyaslama yaparak parti içindeki organizasyonların bile bu kadar düzenli olmadığını belirtti ve hükümetin başarısını takdir etti. \n\nKonuşmasında devlet ve hükümet vurgusu yapan Erol, zirvenin sadece sonuç bildirgesi üzerinden değerlendirilmesinin doğru olmadığını ifade etti. Zirvenin karar alma mekanizmasını eleştiren milletvekili, sorunun Türkiye'den değil COP31'in yapısından kaynaklandığını savundu. \n\nErol, 194 ülkeden yalnızca birinin dahi itiraz etmesi durumunda kararların geçmediğine dikkat çekerek, bu yapısal duruma yönelik eleştirilerini dile getirdi.",
+      "highlights": [
+        "Gürsel Erol TBMM Plan ve Bütçe Komisyonunda konuştu",
+        "Hükümetin COP31 organizasyonundaki başarısı övüldü",
+        "Zirvenin karar alma mekanizması eleştirildi"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914",
+      "publishedAt": "2026-11-26T19:05:37.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.haberturk.com/spor/cska-sofya-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-iste-muhtemel-11-ler-3930141",
       "headline": "Trabzonspor'un ilk 11'i belli oldu!",
@@ -15,7 +39,7 @@
       "timeAgo": "3 dk önce",
       "body": "UEFA Konferans Ligi'nin 4. haftasında temsilcimiz Trabzonspor, deplasmanda Bulgar ekibi CSKA Sofya ile karşı karşıya geliyor. Bulgarska Armiya Stadı'nda oynanacak müsabaka saat 23.00'te başlayacak ve TRT 1'den canlı yayınlanacak. Karşılaşmayı Fransız hakem Jeremie Pignard yönetecek.\n\nKarşılaşma saati itibarıyla Sofya'da havanın 5 derece olması bekleniyor. Öte yandan bordo-mavili kulüp, CSKA Sofya mücadelesinde siyah forma ile sahaya çıkacağını açıkladı.\n\nTrabzonspor'un bu mücadeledeki ilk 11'i şu isimlerden oluşuyor: Onana, Pina, Nwaiwu, Cenk, Cabral, Melih, Mendy, Bouchouari, Salah, Saviolo, Onuachu.\n\nBordo-mavililer, bu karşılaşmayla birlikte Avrupa kupalarındaki 161. maçına çıkıyor. Karadeniz ekibi daha önce oynadığı 160 Avrupa müsabakasında 58 galibiyet, 39 beraberlik ve 63 mağlubiyet aldı. Trabzonspor, UEFA Konferans Ligi adıyla düzenlenen turnuvada ise 12. kez sahne alıyor. Ayrıca bu maç, Trabzonspor'un tarihinde bir Bulgar takımıyla yapacağı ilk karşılaşma olarak kayıtlara geçiyor. 6 puana sahip bordo-mavililer bu maçı kazanarak ilk 8 şansını sürdürmeyi hedefliyor.",
       "highlights": [
-        "Trabzonspor, CSKA Sofya ile deplasmanda karşılaşacak.",
+        "Trabzonspor'un CSKA Sofya maçı ilk 11'i açıklandı.",
         "Karşılaşma saat 23.00'te başlayacak ve TRT 1'den canlı yayınlanacak.",
         "Trabzonspor, Avrupa kupalarındaki 161. maçına çıkıyor."
       ],
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-26T18:51:40.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T19:05:47.199Z"
     },
     {
       "id": "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
@@ -1150,7 +1175,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T18:14:33.723Z"
+      "sourceTextAttemptedAt": "2026-11-26T19:05:47.199Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/trumpin-iran-plani-ortaya-cikti-iste-abdnin-irandaki-suikast-listesi-sirada-kim-var-3498148",
@@ -4530,8 +4555,12 @@
       "headline": "Niğde'de sağanak etkili oldu: Bazı cadde ve sokaklarda su birikti",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1650984661525-7e6b1b874e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NzE5OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mika Baumeister",
+        "photographerUrl": "https://unsplash.com/@kommumikation",
+        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-sign-on-the-roof-_Y5jvYypnZA"
+      },
       "timeAgo": "4 dk önce",
       "body": "Niğde'de Meteoroloji Genel Müdürlüğü 8. Bölge Müdürlüğünün uyarısının ardından akşam saatlerinde etkili olan sağanak hayatı olumsuz etkiledi. Bazı cadde ve sokaklarda su birikintileri oluştu, sürücüler zor anlar yaşadı.",
       "highlights": [
@@ -4544,7 +4573,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T15:24:19.449Z",
+      "imageSearchAttemptedAt": "2026-11-26T19:05:47.199Z",
       "sourceTextAttemptedAt": "2026-11-24T15:44:41.931Z"
     },
     {
@@ -4605,8 +4634,12 @@
       "headline": "İsrailli aşırı sağcı bakan, Filistin asıllı milletvekillerine \"barbarlar\" diyerek hakaret etti",
       "source": "Anadolu Ajansı",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NzE5OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Joao Cruz",
+        "photographerUrl": "https://unsplash.com/@jcruzweb",
+        "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU"
+      },
       "timeAgo": "6 dk önce",
       "body": "İsrail'in aşırı sağcı Miras Bakanı Amichai Eliyahu, İsrail vatandaşı Filistinlileri temsil eden milletvekillerine \"barbarlar\" ve \"deve binicileri\" diyerek hakaret etti.",
       "highlights": [],
@@ -4616,7 +4649,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T15:24:30.321Z",
-      "imageSearchAttemptedAt": "2026-11-25T15:24:19.449Z"
+      "imageSearchAttemptedAt": "2026-11-26T19:05:47.199Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/france-in-focus/20261124-france-s-femicide-orphans-the-invisible-victims-of-violence-against-women",
@@ -14477,30 +14510,6 @@
       "category": "Yaşam",
       "lang": "tr",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/brezilyada-haftada-5-gun-calisma-donemi-basliyor-3495875",
-      "headline": "Brezilya'da haftada 5 gün çalışma dönemi başlıyor",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1673378273853-39c7d0932978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8QnJhemlsJTIwd29yayUyMHNjaGVkdWxlfGVufDF8MHx8fDE3OTUxODg4OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Joao Neto",
-        "photographerUrl": "https://unsplash.com/@joaoneto8",
-        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-stained-glass-window-in-front-of-it-p-RL0szW7_c"
-      },
-      "timeAgo": "şimdi",
-      "body": "Brezilya'da çalışanların maaşlarında kesinti yapılmadan haftalık çalışma gününün 5'e indirilmesini ve 2 gün izin verilmesini öngören kararname imzalandı. Brezilya Devlet Başkanı Luiz Inacio Lula da Silva, Kongre tarafından ekim ayında onaylanan anayasa değişikliğinin uygulanma esaslarını ve yeni çalışma düzenine geçiş sürecini belirleyen bu kararnameyi imzaladı.\n\nKararnameye göre, haftalık azami çalışma süresinin kademeli olarak azaltılması planlanıyor. Bu kapsamda çalışma süresi 16 Aralık 2026 tarihinde 44 saatten 42 saate düşürülecek. İkinci aşamada ise 16 Aralık 2027 tarihinde 40 saate indirilecek. Çalışanlar her iki aşamada da haftada 2 gün dinlenme hakkına sahip olacak.\n\nBaşkent Brasilia'daki Planalto Sarayı'nda düzenlenen imza töreninde konuşan Devlet Başkanı Lula, yapılan düzenlemenin çalışma hayatını daha insani kılmayı, çalışanlara saygı gösterilmesini ve yeterli dinlenme süresine sahip olmalarını sağlamayı amaçladığını belirtti. Çalışma ve İstihdam Bakanı Luiz Marinho ise hiçbir çalışanın ücretinde kesinti yapılmayacağını ve her meslek grubu için belirlenen taban ücretlerin korunacağını vurguladı.\n\nMevcut düzende ülkede 14,8 milyon işçinin haftada 6 gün çalışıp 1 gün izin yaptığı, 21,7 milyon kişinin ise haftada 5 gün çalışmasına karşın 44 saat mesai yaptığı bilgisi paylaşıldı. Yeni düzenlemeyle birlikte çalışma koşullarında ve sürelerinde önemli değişikliklerin hayata geçirilmesi öngörülüyor.",
-      "highlights": [
-        "Brezilya Devlet Başkanı Lula, çalışanların ücretlerinde kesinti yapılmaksızın haftalık çalışma gününün 5'e indirilmesini içeren kararnameyi imzaladı.",
-        "Haftalık azami çalışma süresi 16 Aralık 2026'da 42 saate, 16 Aralık 2027'de ise 40 saate indirilecek.",
-        "Mevcut düzende 14,8 milyon işçinin haftada 6 gün çalışıp 1 gün izin yaptığı bildirildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/brezilyada-haftada-5-gun-calisma-donemi-basliyor-3495875",
-      "publishedAt": "2026-11-20T15:37:00.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14728,6 +14737,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
     "https://www.cnnturk.com/yerel-haberler/samsun/termede-kadina-yonelik-siddetle-mucadele-icin-farkindalik-programi-duzenlendi-3498173",
-    "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
+    "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
   ]
 }
