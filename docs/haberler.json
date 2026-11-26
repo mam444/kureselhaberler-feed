@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-26T16:04:48.303Z",
+  "generatedAt": "2026-11-26T16:14:35.724Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/ekonomi/fon-sorusturmasi-bilgilendirme-toplantisi-sonrasi-basin-aciklamasi-4876885",
+      "headline": "2026 bekçilik başvuru takvimi ve alım duyurusu için bekleyiş sürüyor",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://images.unsplash.com/photo-1526666361175-e3595627c376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwb2ZmaWNlcnxlbnwxfDB8fHwxNzk1NzA5NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "King's Church International",
+        "photographerUrl": "https://unsplash.com/@kingschurchinternational",
+        "unsplashUrl": "https://unsplash.com/photos/police-standing-on-road-3mjspmQDM_M"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Çarşı ve Mahalle Bekçisi olmak isteyen adayların 2026 yılı yeni dönem alımına ilişkin bekleyişi devam ediyor. Emniyet Genel Müdürlüğü bünyesinde görev almak isteyen adaylar, Polis Akademisi Başkanlığı tarafından yayımlanacak yeni alım ilanını ve başvuru takviminin açıklanıp açıklanmadığını yakından araştırıyor.\n\nAdayların gündeminde güncellenen şartlar ile olası kontenjan bilgileri yer alıyor. Yeni dönem için resmi başvuru ilanının yayımlanması beklenirken, bu ilanla birlikte başvuru tarihleri ve adaylarda aranacak şartlar netlik kazanacak.\n\n2026 yılı bekçilik başvurularının başlayıp başlamadığı ve yeni bekçi alımı yapılıp yapılmayacağı konusu adaylar tarafından merak ediliyor. Ayrıca bekçilik başvuru şartları ile yaş ve eğitim kriterlerinde değişiklik olup olmadığı da araştırılan detaylar arasında bulunuyor. Resmi duyuruların ardından tüm bu konulara dair detayların netleşmesi öngörülüyor.",
+      "highlights": [
+        "Çarşı ve Mahalle Bekçisi adaylarının 2026 yılı yeni dönem alımı için bekleyişi sürüyor",
+        "Emniyet Genel Müdürlüğü bünyesindeki alımlar için Polis Akademisi Başkanlığı'nın ilanı takip ediliyor",
+        "Resmi başvuru ilanının yayımlanmasıyla başvuru tarihleri ve şartlar netleşecek"
+      ],
+      "externalUrl": "https://www.yenisafak.com/ekonomi/fon-sorusturmasi-bilgilendirme-toplantisi-sonrasi-basin-aciklamasi-4876885",
+      "publishedAt": "2026-11-26T16:11:40.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.bbc.com/turkce/articles/cqrmg478l99yo?at_medium=RSS&at_campaign=rss",
       "headline": "Gerard Depardieu, aktris Arnould'ya tecavüz suçlamasıyla yargılanacak",
@@ -39,13 +63,38 @@
       "timeAgo": "3 dk önce",
       "body": "ABD'nin Kaliforniya eyaletinde etkili olan güçlü dalgalar ve istisnai gelgitler sahil şeridinde hasara yol açtı. San Francisco'nun güneyindeki Pacifica'da çarşamba günü meydana gelen olayda, dev dalgalar bir iskelenin bir kısmını yıktı. Marin County'de ise yetkililer durumu dikkate alarak geçici bir tahliye emri çıkardı. Bölge sakinlerine ve vatandaşlara plajlardan uzak durmaları yönünde acil çağrıda bulunuldu. Yetkililerin bölgedeki uyarıları ve önlemleri sürerken, olayla ilgili başka detaylar henüz paylaşılmadı.",
       "highlights": [
-        "Pacifica'da dev dalgalar bir iskeleyi yıktı",
-        "Marin County'de geçici tahliye emri çıkarıldı",
-        "Vatandaşlara plajlardan uzak durma çağrısı yapıldı"
+        "Kaliforniya kıyılarını yaklaşık 9 metre yüksekliğinde dalgalar vurdu",
+        "Pacifica'daki iskelenin bir kısmı yıkıldı",
+        "Marin County'de geçici tahliye emri verildi"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261126-in-california-exceptional-tides-and-nearly-9m-high-waves-batter-the-coast",
       "publishedAt": "2026-11-26T16:01:44.000Z",
       "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "headline": "Şiddetli Hava Koşulları ABD'de Şükran Günü Seyahatlerini Aksattı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://images.unsplash.com/photo-1500740516770-92bd004b996e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c2V2ZXJlJTIwd2VhdGhlcnxlbnwxfDB8fHwxNzk1NzA5NjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Anandu Vinod",
+        "photographerUrl": "https://unsplash.com/@anandu",
+        "unsplashUrl": "https://unsplash.com/photos/cloudy-sky-pbxwxwfI0B4"
+      },
+      "timeAgo": "17 dk önce",
+      "body": "ABD'de Şükran Günü tatili yoğunluğu ile kötü hava koşullarının çakışması sonucunda Perşembe günü itibarıyla 350'den fazla uçuş iptal edildi. Uçuş takip sitesi FlightAware, ABD içi, giriş ve çıkış yapan diğer 700 uçuşun ise rötar yaptığını bildirdi. Ulusal Hava Servisi (NWS), ABD'nin batı ve doğu kıyılarında şiddetli yağış ve su baskınlarına yol açabilecek fırtınalar beklendiğini duyururken, bu hafta 80 milyondan fazla Amerikalının seyahat etmesi öngörülüyordu.\n\nFederal Havacılık İdaresi (FAA), yağmur ve rüzgar nedeniyle hafta boyunca ülke genelinde rötrarların yaşanabileceği konusunda uyardı. Çarşamba günü Miami Uluslararası Havalimanı'nda bir FedEx kargo uçağının pistten çıkması üzerine FAA, havalimanına giden tüm uçuşları kısa süreliğine durdurdu. Yaralananın bildirilmediği olayla ilgili FAA inceleme başlatırken, havalimanı çalışanı yağmurlu hava koşullarının bir etken olabileceği ihtimalini dile getirdi.\n\nOlumsuz hava şartları nedeniyle New Jersey Valisi Mikie Sherrill olağanüstü hal ilan etti. New York City'de ise geleneksel Macy's Şükran Günü geçit töreni organizatörleri etkinliği Cumartesi gününe erteledi. Ülke genelinde Batı Yakası da Pasifik'ten gelen yağmur, dağlarda kar ve kuvvetli rüzgar getirmesi beklenen fırtınaların tehdidi altında bulunuyor.\n\nNWS, Kaliforniya kıyılarında su seviyelerinin bazı bölgelerde 2,4 metreyi aşabileceğini belirterek kıyı kesimlerinde olası taşkınlara karşı uyarıda bulundu. Fırtınaların Kanada'nın Britanya Kolumbiyası eyaletini de kapsayacak şekilde Pasifik Kuzeybatısı için de tahmin edildiği bildirildi. Amerikan Otomobil Birliği (AAA), 7 günlük tatil döneminde milyonlarca kişinin evinden en az 80 kilometre uzaklığa seyahat edeceğini öngörmüştü.",
+      "highlights": [
+        "ABD'de Şükran Günü'nde olumsuz hava koşulları nedeniyle 350'den fazla uçuş iptal edildi.",
+        "FedEx uçağının Miami Havalimanı'nda pistten çıkması nedeniyle uçuşlar geçici olarak durduruldu.",
+        "New Jersey'de olağanüstü hal ilan edilirken, New York'taki Şükran Günü geçit töreni ertelendi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T15:57:26.000Z",
+      "category": "Yaşam",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -142,7 +191,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-26T10:14:20.271Z",
-      "imageSearchAttemptedAt": "2026-11-26T10:14:20.271Z"
+      "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
@@ -285,7 +334,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T23:23:43.112Z",
-      "imageSearchAttemptedAt": "2026-11-26T10:11:26.172Z"
+      "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/nigeria-seizes-220-million-worth-meth-arrests-5-138448484",
@@ -973,7 +1022,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "sourceTextAttemptedAt": "2026-11-25T15:34:24.168Z",
+      "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z",
       "imageSearchAttemptedAt": "2026-11-26T16:04:19.107Z"
     },
     {
@@ -14161,56 +14210,6 @@
       "publishedAt": "2026-11-20T12:42:08.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "headline": "Polonya'ya Rus füzesi düştü: Tusk'tan 'kasıtlı provokasyon' açıklaması",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1695584068449-a0ad3cbd7e82?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlzc2lsZSUyMFBvbGFuZCUyMG1pbGl0YXJ5fGVufDF8MHx8fDE3OTUxNzkzMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Artem Lobastov",
-        "photographerUrl": "https://unsplash.com/@lobalobanana",
-        "unsplashUrl": "https://unsplash.com/photos/a-man-standing-on-top-of-a-polish-air-force-plane-DfpTolhF2Y8"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Polonya, Cuma günü erken saatlerde ülkenin hava sahasını ihlal eden üç nesneden birinin Rus seyir füzesi olduğunu duyurdu. Başbakan Donald Tusk, olay sırasında bölgede Batı askeri tatbikatlarının gerçekleştiğini belirterek bunun bir kaza gibi görünmediğini ifade etti. Ölen ya da yaralananın olmadığını ve herhangi bir hasar bildirilmediğini belirten Varşova yönetimi, yaşananları Moskova'dan gelen bir provokasyon olarak nitelendirdi.\n\nSavunma Bakanı Wladyslaw Kosiniak-Kamysz, Kh-101 tipi füzenin Ukrayna sınırına yaklaşık 50 kilometre mesafede bulunan güneydoğudaki Nowy Lipowiec kırsalına isabet ettiğini açıkladı. Hassas hedefler için tasarlanan seyir füzesinin saat 06:30 civarında düştüğünü belirten yetkililer, Nowy Lipowiec'in batısında Rudnik nad Sanem yakınlarında şüpheli bir başka füzenin, güneyde ise Mołodycz yakınlarında jet motorlu bir dronun düştüğünü kaydetti. Kosiniak-Kamysz, yaşanan bu hava sahası ihlali nedeniyle NATO'dan ek destek isteyeceğini bildirdi.\n\nNATO Genel Sekreteri Mark Rutte, Polonya hava sahasının ciddi şekilde ihlal edilmesini kınayarak duruma karşılık NATO jetlerinin havalandırıldığını belirtti. Rutte, olayın açıkça tehlikeli olduğunu ve bunun Rusya'nın Ukrayna'ya karşı sürdürdüğü savaşın bir sonucu olduğunu ifade etti. Güneydoğu Polonya'da, Batı'nın İstekliler Koalisyonu grubuna dahil 11 ülkenin katılımıyla gerçekleştirilen tatbikat devam ederken Başbakan Tusk, bu nesnelerin Nowa Dęba'daki manevra alanının yakınlarına düşmesinin tesadüf olmadığını söyledi.\n\nSöz konusu hava sahası ihlalleri, 40 ülkenin katıldığı Berlin zirvesinin hemen ardından gerçekleşti. Öte yandan Cuma günü Rus füzeleri ve dronlarının Ukrayna'daki hedefleri vurması sonucunda en az sekiz kişi hayatını kaybetti. Yetkililer, temmuz ayında da bir seyir füzesinin Polonya topraklarına düştüğünü hatırlattı. Rusya ise yaşanan ihlallerle ilgili henüz bir açıklama yapmadı.",
-      "highlights": [
-        "Polonya, hava sahasını ihlal eden nesneler arasında bir Rus seyir füzesi bulunduğunu açıkladı.",
-        "Başbakan Donald Tusk, olayın bölgedeki askeri tatbikatlar sırasında gerçekleşmesinin kaza olmadığını söyledi.",
-        "Olayda ölen ya da yaralanan olmazken, Varşova yönetimi durumu provokasyon olarak nitelendirdi."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T12:41:52.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T13:04:31.029Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/ekonomi/gram-altin-ne-kadar-ceyrek-altin-bugun-kac-tl-20-kasim-kapalicarsi-yarim-tam-cumhuriyet-altini-fiyatlari-3495649",
-      "headline": "20 Kasım Kapalıçarşı altın fiyatları: Gram ve çeyrek altın ne kadar oldu?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1624365168898-1f7189831f41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Z29sZCUyMGJhcnMlMjBjb2luc3xlbnwxfDB8fHwxNzk1MTc4MDc4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Zlaťáky.cz",
-        "photographerUrl": "https://unsplash.com/@zlataky",
-        "unsplashUrl": "https://unsplash.com/photos/gold-and-silver-round-coins-S6cWf7TIk9U"
-      },
-      "timeAgo": "şimdi",
-      "body": "Altın piyasasında yaşanan sert gerileme, 20 Kasım 2026 Cuma günü de yatırımcıların gündeminde yer alıyor. Küresel piyasalarda ons altının 3 bin 600 dolar seviyesinin altına düşmesiyle birlikte gram, çeyrek, yarım, tam ve cumhuriyet altını fiyatlarında aşağı yönlü hareket görülüyor. ABD Merkez Bankası'nın (FED) faiz politikasına ilişkin beklentiler ve doların güçlenmesi, değerli metaller üzerindeki satış baskısını artırıyor.\n\nKasım ayında altın yüzde 4 oranında gerilerken, yıl başından bu yana yaşanan kayıplar yüzde 14'e ulaştı. Ocak 2026'da yaklaşık 5 bin 600 dolar seviyesine kadar yükselerek tarihi zirvesini gören ons altın, kasım ayının ikinci yarısında 3 bin 550 dolar seviyesinin altına geriledi. Küresel piyasalardaki bu kayıp, Türkiye'de gram altın fiyatlarının da 6 bin TL sınırının altına inmesinde etkili oldu.\n\n20 Kasım 2026 Cuma gününün ilk saatlerinde yayımlanan verilere göre Kapalıçarşı'da güncel altın alış ve satış fiyatları şu şekilde sıralandı: Gram altın alış 5.843,24 TL, satış 5.970,28 TL; çeyrek altın alış 9.591,12 TL, satış 9.750,36 TL seviyesinde yer alıyor. Yarım altın alış 19.185,89 TL ve satış 19.509,93 TL olarak kaydedildi.\n\nAynı saatlerde tam altın alış fiyatı 38.264,00 TL, satış fiyatı 38.958,00 TL olurken; Cumhuriyet altını ise 39.304,35 TL alış ve 39.935,09 TL satış fiyatıyla işlem görüyor. Ons altın ise 3.554,95 dolar alış ve 3.555,81 dolar satış seviyelerinde bulunuyor.",
-      "highlights": [
-        "Küresel piyasalarda ons altın 3 bin 600 dolar seviyesinin altına geriledi.",
-        "Gram altın fiyatları 6 bin TL sınırının altına indi.",
-        "Kasım ayında altın yüzde 4, yıl başından bu yana ise yüzde 14 oranında değer kaybetti."
-      ],
-      "externalUrl": "https://www.cnnturk.com/ekonomi/gram-altin-ne-kadar-ceyrek-altin-bugun-kac-tl-20-kasim-kapalicarsi-yarim-tam-cumhuriyet-altini-fiyatlari-3495649",
-      "publishedAt": "2026-11-20T12:36:39.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:54:52.214Z",
       "isBreaking": false
     }
   ],
