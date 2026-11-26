@@ -37,9 +37,8 @@ export async function sendNewArticleNotification(article, { appId, restApiKey, i
       headings: { tr: heading, en: heading },
       contents: { tr: article.headline, en: article.headline },
       url: article.externalUrl ?? undefined,
-      // article.imageUrl is our own Unsplash-sourced stock photo (see
-      // unsplash.mjs), never the original publisher's copyrighted image —
-      // safe to redistribute in the push.
+      // Use the credited cover URL chosen by the feed. This can be a stock
+      // image or the cover explicitly supplied in the publisher's RSS item.
       big_picture: article.imageUrl ?? undefined,
       chrome_web_image: article.imageUrl ?? undefined,
       data: {

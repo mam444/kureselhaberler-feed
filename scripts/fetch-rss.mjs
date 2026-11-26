@@ -30,7 +30,13 @@ function extractImageFromItem(item, descriptionRaw) {
 
   const thumb = item?.['media:thumbnail'];
   if (thumb?.['@_url']) return thumb['@_url'];
-  const mediaContent = asArray(item?.['media:content']).find((m) => m?.['@_url']);
+  const mediaContent = asArray(item?.['media:content']).find((m) => {
+    const url = String(m?.['@_url'] ?? '');
+    const medium = String(m?.['@_medium'] ?? '').toLowerCase();
+    const type = String(m?.['@_type'] ?? '').toLowerCase();
+    return url && (medium === 'image' || type.startsWith('image/')
+      || /\.(?:jpe?g|png|webp|gif)(?:[?#]|$)/i.test(url));
+  });
   if (mediaContent) return mediaContent['@_url'];
 
   const enclosure = item?.enclosure;
@@ -126,6 +132,87 @@ function collectArticleBodies(value, results) {
   }
   for (const child of Object.values(value)) {
     if (typeof child === 'object') collectArticleBodies(child, results);
+  }
+}
+
+function collectVideoEmbedUrls(value, results) {
+  if (!value) return;
+  if (Array.isArray(value)) {
+    for (const item of value) collectVideoEmbedUrls(item, results);
+    return;
+  }
+  if (typeof value !== 'object') return;
+  const types = Array.isArray(value['@type']) ? value['@type'] : [value['@type']];
+  if (types.some((type) => /videoobject/i.test(String(type ?? ''))) && value.embedUrl) {
+    results.push(String(value.embedUrl));
+  }
+  for (const child of Object.values(value)) {
+    if (typeof child === 'object') collectVideoEmbedUrls(child, results);
+  }
+}
+
+function safePublisherEmbedUrl(candidate, articleUrl) {
+  try {
+    const article = new URL(articleUrl);
+    const embed = new URL(candidate, article);
+    if (embed.protocol !== 'https:' || !embed.hostname || embed.username || embed.password) return null;
+    if ([...embed.searchParams.keys()].some((key) => /(?:token|auth|signature|secret|credential|policy|jwt|expires?)/i.test(key))) return null;
+    const hostname = embed.hostname.toLowerCase().replace(/^www\./, '');
+    const articleHost = article.hostname.toLowerCase().replace(/^www\./, '');
+    const isOfficialPlayer = ['youtube.com', 'youtube-nocookie.com', 'youtu.be', 'vimeo.com'].some(
+      (domain) => hostname === domain || hostname.endsWith(`.${domain}`),
+    );
+    const samePublisher = hostname === articleHost
+      || hostname.endsWith(`.${articleHost}`)
+      || articleHost.endsWith(`.${hostname}`);
+    if (!isOfficialPlayer && !samePublisher) return null;
+    return embed.href;
+  } catch {
+    return null;
+  }
+}
+
+/** Return only an explicitly exposed HTTPS player URL from a publisher page
+ * our robots check permits. Raw video files are deliberately excluded here. */
+export async function fetchPublisherVideoEmbedUrl(articleUrl) {
+  if (!articleUrl || !(await publisherAllowsArticleRead(articleUrl))) return null;
+  try {
+    const response = await fetch(articleUrl, {
+      headers: { 'User-Agent': 'KureselHaberlerBot/1.0 (+https://mam444.github.io/kureselhaberler-feed/)', Accept: 'text/html' },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(8_000),
+    });
+    if (new URL(response.url).origin !== new URL(articleUrl).origin) return null;
+    if (!response.ok || !/text\/html/i.test(response.headers.get('content-type') ?? '')) return null;
+    const html = await response.text();
+    const candidates = [];
+    const metadata = new Map();
+    for (const match of html.matchAll(/<meta\b[^>]*>/gi)) {
+      const attrs = Object.fromEntries([...match[0].matchAll(/([:\w-]+)\s*=\s*(?:"([^"]*)"|'([^']*)')/g)]
+        .map((attribute) => [attribute[1].toLowerCase(), attribute[2] ?? attribute[3] ?? '']));
+      const key = String(attrs.property || attrs.name || '').toLowerCase();
+      if (key && attrs.content) metadata.set(key, attrs.content);
+    }
+    const videoType = String(metadata.get('og:video:type') || '').toLowerCase();
+    for (const key of ['og:video:embed_url', 'video:embed_url', 'twitter:player']) {
+      if (metadata.has(key)) candidates.push(metadata.get(key));
+    }
+    if (videoType === 'text/html') {
+      for (const key of ['og:video:secure_url', 'og:video:url', 'og:video']) {
+        if (metadata.has(key)) candidates.push(metadata.get(key));
+      }
+    }
+    for (const script of html.matchAll(/<script\b[^>]*type\s*=\s*["']application\/ld\+json[^"']*["'][^>]*>([\s\S]*?)<\/script>/gi)) {
+      try { collectVideoEmbedUrls(JSON.parse(script[1]), candidates); } catch { /* Ignore malformed metadata. */ }
+    }
+    for (const candidate of candidates) {
+      const embedUrl = safePublisherEmbedUrl(candidate, articleUrl);
+      if (embedUrl) return embedUrl;
+    }
+    return null;
+  } catch (error) {
+    console.warn(`[video] kaynak oynatıcı bilgisi alınamadı: ${error.message}`);
+    return null;
   }
 }
 

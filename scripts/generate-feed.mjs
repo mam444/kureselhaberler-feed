@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { ALL_SOURCES } from './sources.mjs';
-import { fetchAllSources, fetchPublisherArticleBody } from './fetch-rss.mjs';
+import { fetchAllSources, fetchPublisherArticleBody, fetchPublisherVideoEmbedUrl } from './fetch-rss.mjs';
 import { rewriteArticle } from './gemini.mjs';
 import { findPhoto } from './unsplash.mjs';
 import { sendNewArticleNotification } from './onesignal.mjs';
@@ -30,12 +30,15 @@ const MIN_SOURCE_SUMMARY_CHARS = 100;
 // yazılmadı" kabul edilip yayınlanmaz (bir sonraki çalıştırmada tekrar denenir).
 const MAX_ALLOWED_SIMILARITY = 0.56;
 const MAX_FUTURE_SKEW_MS = 5 * 60_000;
-const RSS_FALLBACK_MAX_CHARS = 420;
+const RSS_FALLBACK_MAX_CHARS = 750;
 // The workflow runs every ten minutes. Two backfills per run give missing
 // stories another safe chance every six hours without broad stock-photo matches.
 const MAX_IMAGE_BACKFILLS_PER_RUN = 2;
+const MAX_PUBLISHER_RSS_COVER_BACKFILLS_PER_RUN = 12;
+const MAX_PUBLISHER_VIDEO_EMBED_CHECKS_PER_RUN = 4;
 const ENRICHMENT_RETRY_MS = 24 * 60 * 60 * 1000;
 const IMAGE_RETRY_MS = 6 * 60 * 60 * 1000;
+const VIDEO_EMBED_RETRY_MS = 6 * 60 * 60 * 1000;
 
 function isWithinNewsWindow(article, now = Date.now()) {
   const publishedAt = Date.parse(article.publishedAt ?? '');
@@ -79,6 +82,69 @@ async function enrichWithPublisherBody(raw) {
   return { ...raw, body: publisherBody };
 }
 
+async function enrichWithPublisherVideo(raw) {
+  try {
+    const url = new URL(raw.externalUrl);
+    if (!url.pathname.split('/').some((segment) => /^(?:video|videos)$/i.test(segment))) return raw;
+    const videoEmbedUrl = await fetchPublisherVideoEmbedUrl(raw.externalUrl);
+    if (videoEmbedUrl) console.log(`[video] "${raw.headline.slice(0, 60)}" için yayıncının resmî oynatıcı bağlantısı bulundu.`);
+    return { ...raw, ...(videoEmbedUrl ? { videoEmbedUrl } : {}), videoEmbedAttemptedAt: new Date().toISOString() };
+  } catch {
+    return raw;
+  }
+}
+
+function publisherRssCover(raw) {
+  try {
+    const image = new URL(raw?.imageUrl ?? '');
+    if (image.protocol !== 'https:' || !image.hostname || image.username || image.password) return null;
+    if ([...image.searchParams.keys()].some((key) => /(?:token|auth|signature|secret|credential|policy|jwt|expires?)/i.test(key))) return null;
+    const source = new URL(raw?.externalUrl ?? '');
+    if (source.protocol !== 'https:' || !source.hostname || source.username || source.password) return null;
+    return {
+      imageUrl: image.href,
+      imageCredit: {
+        sourceType: 'publisher_rss',
+        sourceName: raw.source || 'Haber kaynağı',
+        sourceUrl: source.href,
+      },
+    };
+  } catch {
+    return null;
+  }
+}
+
+function hasPreservableImageCredit(credit) {
+  if (credit?.unsplashUrl) return true;
+  if (credit?.sourceType !== 'publisher_rss') return false;
+  try {
+    const source = new URL(credit.sourceUrl ?? '');
+    return source.protocol === 'https:' && Boolean(source.hostname) && !source.username && !source.password;
+  } catch {
+    return false;
+  }
+}
+
+const CATEGORY_STOCK_IMAGE_TERMS = {
+  'Gündem': 'news press conference',
+  'Türkiye': 'Istanbul Turkey skyline',
+  'Dünya': 'world city skyline',
+  'Ekonomi': 'global economy market',
+  'Teknoloji': 'technology computer chip',
+  'Spor': 'football stadium',
+  'Sağlık': 'medical hospital',
+  'Bilim': 'science laboratory',
+  'Kültür & Sanat': 'art museum',
+  'Yaşam': 'nature travel',
+  'Eğitim': 'students university',
+  'Hava Durumu': 'storm clouds weather',
+  'Son Dakika': 'news newsroom',
+};
+
+function categoryStockImageTerm(category) {
+  return CATEGORY_STOCK_IMAGE_TERMS[category] || 'news world map';
+}
+
 async function loadPreviousFeed() {
   try {
     const raw = await readFile(FEED_PATH, 'utf8');
@@ -119,8 +185,13 @@ async function rewriteAndIllustrate(raw) {
       return { article: null, permanentlyRejected: true };
     }
 
-    const photo = await findPhoto(
-      [rewritten.imageKeyword, raw.headline].filter(Boolean),
+    const category = classifyArticleCategory({
+      headline: raw.headline, body: raw.body,
+      sourceCategory: raw.category, url: raw.externalUrl, lang: raw.lang,
+    });
+    const sourceCover = publisherRssCover(raw);
+    const photo = sourceCover ? null : await findPhoto(
+      [rewritten.imageKeyword, raw.headline, categoryStockImageTerm(category)].filter(Boolean),
       UNSPLASH_ACCESS_KEY,
     );
 
@@ -130,17 +201,16 @@ async function rewriteAndIllustrate(raw) {
         headline: rewritten.headline,
         source: raw.source,
         sourceIconUrl: raw.sourceIconUrl,
-        imageUrl: photo?.imageUrl ?? null,
-        imageCredit: photo?.imageCredit ?? null,
+        imageUrl: sourceCover?.imageUrl ?? photo?.imageUrl ?? null,
+        imageCredit: sourceCover?.imageCredit ?? photo?.imageCredit ?? null,
+        ...(raw.videoEmbedUrl ? { videoEmbedUrl: raw.videoEmbedUrl } : {}),
+        ...(raw.videoEmbedAttemptedAt ? { videoEmbedAttemptedAt: raw.videoEmbedAttemptedAt } : {}),
         timeAgo: timeAgoTrSnapshot(raw.publishedAt),
         body: rewritten.body,
         highlights: rewritten.highlights ?? [],
         externalUrl: raw.externalUrl,
         publishedAt: raw.publishedAt,
-        category: classifyArticleCategory({
-          headline: raw.headline, body: raw.body,
-          sourceCategory: raw.category, url: raw.externalUrl, lang: raw.lang,
-        }),
+        category,
         isBreaking: isBreakingArticle({
           headline: raw.headline, sourceCategory: raw.category, isBreaking: raw.isBreaking,
         }),
@@ -169,26 +239,32 @@ async function createRssFallback(raw) {
   const excerpt = summary.length <= RSS_FALLBACK_MAX_CHARS
     ? summary
     : `${summary.slice(0, RSS_FALLBACK_MAX_CHARS).replace(/\s+\S*$/, '').trim()}…`;
-  const photo = await findPhoto([raw.headline], UNSPLASH_ACCESS_KEY);
+  const category = classifyArticleCategory({
+    headline: raw.headline, body: raw.body,
+    sourceCategory: raw.category, url: raw.externalUrl, lang: raw.lang,
+  });
+  const sourceCover = publisherRssCover(raw);
+  const photo = sourceCover ? null : await findPhoto(
+    [raw.headline, categoryStockImageTerm(category)],
+    UNSPLASH_ACCESS_KEY,
+  );
   return {
     id: raw.id,
     headline: raw.headline,
     source: raw.source,
     sourceIconUrl: raw.sourceIconUrl,
-    // If the rewrite or its specific image search fails, use a licensed stock
-    // photo matched to the actual headline. Never substitute an unrelated
-    // generic image or scrape a Google Images result.
-    imageUrl: photo?.imageUrl ?? null,
-    imageCredit: photo?.imageCredit ?? null,
+    // Prefer the image explicitly supplied by the publisher's RSS item. If it
+    // has none, use a credited Unsplash photo matched to the actual story.
+    imageUrl: sourceCover?.imageUrl ?? photo?.imageUrl ?? null,
+    imageCredit: sourceCover?.imageCredit ?? photo?.imageCredit ?? null,
+    ...(raw.videoEmbedUrl ? { videoEmbedUrl: raw.videoEmbedUrl } : {}),
+    ...(raw.videoEmbedAttemptedAt ? { videoEmbedAttemptedAt: raw.videoEmbedAttemptedAt } : {}),
     timeAgo: timeAgoTrSnapshot(raw.publishedAt),
     body: excerpt,
     highlights: [],
     externalUrl: raw.externalUrl,
     publishedAt: raw.publishedAt,
-    category: classifyArticleCategory({
-      headline: raw.headline, body: raw.body,
-      sourceCategory: raw.category, url: raw.externalUrl, lang: raw.lang,
-    }),
+    category,
     isBreaking: isBreakingArticle({
       headline: raw.headline, sourceCategory: raw.category, isBreaking: raw.isBreaking,
     }),
@@ -302,33 +378,34 @@ async function main() {
   let dailyGeminiQuotaExceeded = !GEMINI_API_KEY;
   let geminiRewriteCount = 0;
   for (const raw of brandNewRaw) {
+    const videoSource = await enrichWithPublisherVideo(raw);
+    const articleSource = await enrichWithPublisherBody(videoSource);
     if (
       dailyGeminiQuotaExceeded ||
       geminiRewriteCount >= MAX_GEMINI_REWRITES_PER_RUN
     ) {
-      const fallback = await createRssFallback(raw);
+      const fallback = await createRssFallback(articleSource);
       if (fallback) rewritten.push(fallback);
       continue;
     }
     geminiRewriteCount++;
-    const articleSource = await enrichWithPublisherBody(raw);
     const result = await rewriteAndIllustrate(articleSource);
     if (result.article) rewritten.push(result.article);
     else if (result.dailyQuotaExceeded) {
       dailyGeminiQuotaExceeded = true;
-      const fallback = await createRssFallback(raw);
+      const fallback = await createRssFallback(articleSource);
       if (fallback) rewritten.push(fallback);
       console.warn('[fallback] Gemini günlük kotası dolu; kalan haberlerde yalnızca doğrulanmış RSS başlığı ve kısa özeti kullanılacak.');
     } else if (result.permanentlyRejected) {
       // If Gemini's rewrite is too close to its source, retain the verified
       // publisher summary instead of discarding a valid fresh report.
-      const fallback = await createRssFallback(raw);
+      const fallback = await createRssFallback(articleSource);
       if (fallback) rewritten.push(fallback);
       else permanentlyRejected.push(raw.id);
     } else {
       // A transient Gemini/photo error should not make a fresh story wait for
       // another ten-minute cycle when the publisher already supplied a summary.
-      const fallback = await createRssFallback(raw);
+      const fallback = await createRssFallback(articleSource);
       if (fallback) rewritten.push(fallback);
     }
   }
@@ -337,10 +414,44 @@ async function main() {
   // materially more source text. This runs slowly to stay inside Gemini
   // limits, does not send notifications, and never pads a short source.
   const oldStoryUpgrades = [];
+  const rssById = new Map(fetched.filter((article) => article.id).map((article) => [article.id, article]));
+  const publisherCoverUpgrades = previous
+    .map((article) => ({ article, rss: rssById.get(article.id) }))
+    .filter(({ article, rss }) => !article.imageUrl && publisherRssCover(rss))
+    .slice(0, MAX_PUBLISHER_RSS_COVER_BACKFILLS_PER_RUN);
+  for (const { article, rss } of publisherCoverUpgrades) {
+    oldStoryUpgrades.push({
+      ...article,
+      ...publisherRssCover(rss),
+      imageSearchAttemptedAt: new Date(now).toISOString(),
+    });
+  }
+  const publisherVideoUpgrades = previous
+    .filter((article) => {
+      if (article.videoEmbedUrl || !article.externalUrl) return false;
+      try {
+        const url = new URL(article.externalUrl);
+        if (!url.pathname.split('/').some((segment) => /^(?:video|videos)$/i.test(segment))) return false;
+      } catch { return false; }
+      const attemptedAt = Date.parse(article.videoEmbedAttemptedAt ?? '');
+      return !Number.isFinite(attemptedAt) || now - attemptedAt >= VIDEO_EMBED_RETRY_MS;
+    })
+    .filter((article) => !publisherCoverUpgrades.some((item) => item.article.id === article.id))
+    .slice(0, MAX_PUBLISHER_VIDEO_EMBED_CHECKS_PER_RUN);
+  for (const article of publisherVideoUpgrades) {
+    const videoEmbedUrl = await fetchPublisherVideoEmbedUrl(article.externalUrl);
+    oldStoryUpgrades.push({
+      ...article,
+      ...(videoEmbedUrl ? { videoEmbedUrl } : {}),
+      videoEmbedAttemptedAt: new Date(now).toISOString(),
+    });
+    if (videoEmbedUrl) console.log(`[video] "${article.headline.slice(0, 60)}" için yayıncının resmî oynatıcı bağlantısı eklendi.`);
+  }
   if (GEMINI_API_KEY) {
-    const rssById = new Map(fetched.filter((article) => article.id && article.body).map((article) => [article.id, article]));
     const wordCount = (value) => String(value ?? '').trim().split(/\s+/).filter(Boolean).length;
     const oldCandidates = previous
+      .filter((article) => !publisherCoverUpgrades.some((item) => item.article.id === article.id)
+        && !publisherVideoUpgrades.some((item) => item.id === article.id))
       .map((article) => ({ article, rss: rssById.get(article.id) }))
       .map(({ article, rss }) => {
         const lastTextSearch = Date.parse(article.sourceTextAttemptedAt ?? '');
@@ -385,7 +496,7 @@ async function main() {
           && wordCount(upgraded.body) > wordCount(article.body)
           && jaccardSimilarity(sourceText, rewrittenText) <= MAX_ALLOWED_SIMILARITY;
         const photo = needsImageKeyword && upgraded.imageKeyword
-          ? await findPhoto([upgraded.imageKeyword], UNSPLASH_ACCESS_KEY)
+          ? await findPhoto([upgraded.imageKeyword, categoryStockImageTerm(article.category)], UNSPLASH_ACCESS_KEY)
           : null;
         if (canExpandBody || photo?.imageUrl || needsLongerCopy || needsImageKeyword) {
           oldStoryUpgrades.push({
@@ -418,10 +529,10 @@ async function main() {
           || (Array.isArray(article.highlights) && article.highlights.length > 0));
       return {
         ...article,
-        // Keep licensed Unsplash imagery and replace old publisher thumbnails
-        // gradually with a relevant stock photo where a match is available.
-        imageUrl: article.imageCredit?.unsplashUrl ? article.imageUrl : null,
-        imageCredit: article.imageCredit?.unsplashUrl ? article.imageCredit : null,
+        // Retain credited Unsplash stock imagery and images explicitly supplied
+        // by the article's RSS item; discard uncredited legacy publisher URLs.
+        imageUrl: hasPreservableImageCredit(article.imageCredit) ? article.imageUrl : null,
+        imageCredit: hasPreservableImageCredit(article.imageCredit) ? article.imageCredit : null,
         headline: decodeHtmlEntities(article.headline),
         body: article.body ? decodeHtmlEntities(article.body) : article.body,
         lang: wasTranslatedToTurkish ? 'tr' : article.lang,
@@ -459,7 +570,7 @@ async function main() {
       .slice(0, MAX_IMAGE_BACKFILLS_PER_RUN);
     for (const article of imageBackfillCandidates) {
       article.imageSearchAttemptedAt = new Date(now).toISOString();
-      const photo = await findPhoto([article.headline], UNSPLASH_ACCESS_KEY);
+      const photo = await findPhoto([article.headline, categoryStockImageTerm(article.category)], UNSPLASH_ACCESS_KEY);
       if (photo?.imageUrl) {
         article.imageUrl = photo.imageUrl;
         article.imageCredit = photo.imageCredit;
