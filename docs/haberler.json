@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-26T10:11:38.850Z",
+  "generatedAt": "2026-11-26T10:14:34.403Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/eski-tbmm-baskani-hikmet-cetinin-cenazesi-torenin-ardindan-ankaraya-ugurlandi-7708479",
+      "headline": "Eski TBMM Başkanı Hikmet Çetin'in cenazesi törenin ardından Ankara'ya uğurlandı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://images.unsplash.com/photo-1522752622479-65eefd320386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8ZnVuZXJhbCUyMGNlcmVtb255fGVufDF8MHx8fDE3OTU2ODgwNjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Rhodi Lopez",
+        "photographerUrl": "https://unsplash.com/@20164rhodi",
+        "unsplashUrl": "https://unsplash.com/photos/group-of-people-attending-burial-Cxpqnzd3Psg"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Eski TBMM Başkanı Hikmet Çetin için hastanenin acil bölümü önünde bir tören düzenlendi. Törende Çetin'in ailesi başsağlığı dileklerini kabul etti. İstanbul Büyükşehir Belediyesi (İBB) Başkan Vekili Nuri Aslan, Çetin'in önemli bir siyasetçi ve devlet adamı olduğunu belirterek, uzlaştırıcı ve birleştirici kimliğine dikkat çekti. CHP İstanbul İl Başkanı Özgür Çelik ise Çetin'in ömrünü cumhuriyet ve demokrasi davasına adadığını ifade etti. Görevden uzaklaştırılan eski Esenyurt Belediye Başkanı Ahmet Özer, Çetin ile 1989 yılında Devlet Planlama Teşkilatı adına GAP master planında çalıştığı dönemde tanıştığını anlattı ve Çetin'in nezaket ile uzlaşı simgesi olduğunu kaydetti. Çetin'in oğlu Arın Çetin ise acılarını paylaşanlara teşekkür ederek babasının en değerli unvanının 'Hikmet Abi' olduğunu söyledi. Konuşmaların ardından dua edildi ve helallik alındı. Çetin'in cenazesi, törenin sonrasında cenaze aracına konularak Ankara'ya uğurlandı.",
+      "highlights": [
+        "Eski TBMM Başkanı Hikmet Çetin için tören düzenlendi.",
+        "Törenin ardından Çetin'in cenazesi Ankara'ya uğurlandı."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/eski-tbmm-baskani-hikmet-cetinin-cenazesi-torenin-ardindan-ankaraya-ugurlandi-7708479",
+      "publishedAt": "2026-11-26T10:13:28.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/disislerinden-misirdaki-faciada-hayatini-kaybedenler-icin-taziye-mesaji-4876738",
       "headline": "Dışişleri'nden Mısır'daki faciada hayatını kaybedenler için taziye mesajı",
@@ -10,10 +33,39 @@
       "imageCredit": null,
       "timeAgo": "2 dk önce",
       "body": "Dışişleri Bakanlığı: Mısır’ın Giza vilayetindeki çevre yolunda dün meydana gelen tanker yangını sonucunda yaşanan can kayıplarından derin üzüntü duyuyoruz. Kazada hayatını kaybedenlere Allah’tan rahmet, yakınlarına ve Mısır halkına başsağlığı, yaralılara acil şifalar diliyoruz.",
-      "highlights": [],
+      "highlights": [
+        "Dışişleri Bakanlığı Mısır'daki facia için taziye mesajı yayımladı",
+        "Aytunç Erkin İmamoğlu ve ekibinin cumhurbaşkanı adaylığına dair kulis paylaştı",
+        "Mansur Yavaş konusunda uzlaşma olunmazsa merkez sağ ve milliyetçi muhafazakâr bir ismin düşünüldüğü aktarıldı"
+      ],
       "externalUrl": "https://www.yenisafak.com/gundem/disislerinden-misirdaki-faciada-hayatini-kaybedenler-icin-taziye-mesaji-4876738",
       "publishedAt": "2026-11-26T10:09:19.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T10:14:20.271Z",
+      "imageSearchAttemptedAt": "2026-11-26T10:14:20.271Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "headline": "Ukrayna'nın İnsansız Hava Aracı Saldırısı Rus İşgali Altındaki Zaporijya'da Beş Kişinin Ölümüne Neden Oldu",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1588281345136-9893252095bd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWlzc2lsZSUyMGF0dGFja3xlbnwxfDB8fHwxNzk1Njg4MDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Luke Jernejcic",
+        "photographerUrl": "https://unsplash.com/@jernejcic",
+        "unsplashUrl": "https://unsplash.com/photos/fireballs-erupting-against-blue-sky-Oi31uKsnM1Q"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "Rus kuvvetleri, Ukrayna'nın başkenti Kiev'e bir balistik füze saldırısı düzenledi. Gerçekleştirilen saldırı sonucunda bir alışveriş merkezi ile birlikte diğer bazı binalar da hedef alındı ve vuruldu.\n\nSöz konusu gelişmeler, bölgedeki güvenlik durumunun ciddiyetini koruduğunu gösterirken, yetkililer ve kaynaklar tarafından aktarılan bilgiler doğrultusunda olay yerindeki durum takip ediliyor.\n\nSaldırının ardından başkentte meydana gelen hasar ve tesislere isabet eden füzelerin yol açtığı yıkım, mevcut raporlarda yer alan temel detaylar arasında bulunuyor.",
+      "highlights": [
+        "Rus kuvvetleri Ukrayna'nın başkenti Kiev'e balistik füze saldırısı düzenledi",
+        "Saldırı bir alışveriş merkezini ve diğer binaları vurdu"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "publishedAt": "2026-11-26T10:02:09.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -729,13 +781,18 @@
         "unsplashUrl": "https://unsplash.com/photos/an-old-woman-sitting-at-a-table-with-two-men-in-the-background-C1l1ZYkFB6Y"
       },
       "timeAgo": "3 dk önce",
-      "body": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
-      "highlights": [],
+      "body": "Güney Afrika Devlet Başkanı Cyril Ramaphosa, Phala Phala çiftliğindeki döviz hırsızlığı iddialarını soruşturan bağımsız bir panelin raporunu iptal ettirmek amacıyla açtığı hukuk mücadelesini kazandı. Batı Cape Yüksek Mahkemesi, 2022 yılında hazırlanan raporun hukuka aykırı olduğuna hükmederek tamamen iptal edilmesine karar verdi. Mahkeme, parlamentonun atadığı panelin görev sınırlarını aştığını ve ciddi maddi hukuki hatalar yaptığını belirtti. \n\nSöz konusu skandal, 2020 yılında Phala Phala çiftliğindeki bir kanepede saklanan 580.000 doların çalınmasıyla ortaya çıkmıştı. Eski istihbarat şefi Arthur Fraser'ın 2022'de polise dosya sunmasıyla gündeme gelen olay yerel medyada \"Farmgate\" olarak adlandırıldı. Ramaphosa iddiaları reddederek paranın meşru manda satışından elde edildiğini savunmuş ve herhangi bir suç işlemediğini belirtmişti.\n\nBağımsız panel, Ramaphosa'nın ciddi görevi kötüye kullanma suçlamasıyla karşı karşıya kalabileceğini öne sürmüştü. Anayasa Mahkemesi'nin parlamentonun azil sürecini engellemesinin anayasaya aykırı olduğuna hükmetmesinin ardından Ramaphosa hukuki mücadelesini yeniden başlatmıştı. \n\nMahkemenin son kararı, Ramaphosa'ya yönelik mevcut parlamento azil sürecinin temelini ortadan kaldırıyor. Hukuk uzmanları ve analistler bu kararı başkan için siyasi ve anayasal bir zafer olarak değerlendirirken, muhalefet partilerinin karara itiraz etmeyi planladığı bildirildi.",
+      "highlights": [
+        "Güney Afrika Devlet Başkanı Cyril Ramaphosa, bağımsız panel raporunu iptal ettiren mahkeme savaşını kazandı.",
+        "Batı Cape Yüksek Mahkemesi, raporun hukuka aykırı olduğunu ve tamamen iptal edildiğini açıkladı.",
+        "Mahkeme kararı, Ramaphosa'ya yönelik mevcut parlamento azil sürecinin temelini ortadan kaldırıyor."
+      ],
       "externalUrl": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-25T15:42:50.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T10:14:20.271Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/iranda-enerji-sikintisinin-asilmasi-icin-hanelere-tuketimi-yuzde-20-azaltma-cagrisi-yapildi/4137742",
@@ -770,7 +827,7 @@
       "category": "Son Dakika",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T15:44:40.073Z"
+      "imageSearchAttemptedAt": "2026-11-26T10:14:20.271Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/helikopter-kazasinda-sehit-dusen-askerlerimiz-icin-3-arap-ulkesinden-taziye-mesaji-7707931",
@@ -14145,56 +14202,6 @@
       "publishedAt": "2026-11-20T12:07:08.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
-      "headline": "İranlı bakandan İsrailli büyükelçiye: “ABD ordusunun başkomutanı olduğunu bilmiyorduk”",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1757916315213-b7254eea4f9f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXJhbmlhbiUyMGZsYWd8ZW58MXwwfHx8MTc5NTE3NjI3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "mdreza jalali",
-        "photographerUrl": "https://unsplash.com/@mdrezajalali",
-        "unsplashUrl": "https://unsplash.com/photos/iranian-flag-waving-amidst-green-trees-frcrWWVukuU"
-      },
-      "timeAgo": "şimdi",
-      "body": "İran Dışişleri Bakanı Abbas Erakçi, İsrail'in Washington Büyükelçisi Yechiel Leiter'in açıklamalarına sosyal medya hesabından yanıt verdi. Erakçi, Leiter'in ABD askerlerinin İran'ın yenilgiye uğratılmasının ardından dönebileceği yönündeki sözlerini alıntılayarak tepki gösterdi.\n\nLeiter, bir televizyon kanalına verdiği röportajda ABD'nin İran'a karşı yeni ve kapsamlı bir saldırı başlatması durumunda İsrail'in bu saldırılara katılacağını ifade etmişti. İran'ın Batı medeniyetini hedef aldığını öne süren Leiter, Tahran yönetiminin devrilmesi gerektiğini savunmuştu.\n\nİsrailli büyükelçi, saldırı kararının Trump'a ait olduğunu belirterek Amerikalı askerlerin İran'ın yenilgiye uğramasıyla ailelerinin yanına dönebileceğini öne sürmüştü. İran'ın İsrail için varoluşsal bir tehdit oluşturduğunu iddia eden Leiter, Sovyetler Birliği gibi İran yönetiminin de çökeceğini savunmuştu.",
-      "highlights": [
-        "İran Dışişleri Bakanı Abbas Erakçi, İsrailli büyükelçinin sözlerine sosyal medyadan yanıt verdi.",
-        "İsrail'in Washington Büyükelçisi Yechiel Leiter, ABD'nin İran'a karşı saldırı başlatması halinde İsrail'in de katılacağını söylemişti.",
-        "Leiter, Amerikalı askerlerin İran yenilgiye uğradığında dönebileceğini savunmuştu."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/iranli-bakandan-israilli-buyukelciye-abd-ordusunun-baskomutani-oldugunu-bilmiyorduk-3495721",
-      "publishedAt": "2026-11-20T12:06:52.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T12:24:20.240Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "headline": "Demokratlar İran Savaş Finansmanını Engellemeyi Hedefliyor ve Ordu Iowa'da Kurşun Azid Patlamasını Erteliyor",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1771890155057-409879f0c2f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bWlsaXRhcnklMjBleHBsb3NpdmVzfGVufDF8MHx8fDE3OTUxNzgwNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sergey Koznov",
-        "photographerUrl": "https://unsplash.com/@sergeykoznov",
-        "unsplashUrl": "https://unsplash.com/photos/wooden-crates-and-bags-stacked-against-dark-background-LAIHB1mEKA4"
-      },
-      "timeAgo": "30 dk önce",
-      "body": "Kongre'nin önümüzdeki ay bir hükümet kapanmasını önlemek için bir finansman önlemi geçirmesi gerekiyor. Bu durum, Demokratlara güçlerini kullanma fırsatı sunuyor. Diğer yandan ordu, kurşun azid patlamasının bekletilmesinin tehlikeli bir duruma gelebileceğini belirtiyor.\n\nSöz konusu gelişmeler, federal bütçe süreciyle ilgili atılacak adımların önemini artırıyor. Demokratlar, bütçe görüşmeleri sırasında bu konumu kaldıraç olarak kullanmayı amaçlıyor.\n\nBununla birlikte askeri kanatta da operasyonel süreçlerle ilgili kritik bir uyarı yapıldı. Ordu yetkilileri, kurşun azid patlaması için beklenmesinin risk oluşturabileceğini ifade etti.\n\nHer iki mesele de Washington'daki öncelikli gündem maddeleri arasında yer alıyor ve yetkililerin atacağı adımlar yakından takip ediliyor.",
-      "highlights": [
-        "Kongre'nin kapanmayı önlemek için bir finansman önlemi geçirmesi gerekiyor",
-        "Demokratlar güçlerini kullanma fırsatı buluyor",
-        "Ordu kurşun azid patlamasını bekletmenin tehlikeli olabileceğini söylüyor"
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "publishedAt": "2026-11-20T12:04:57.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T13:04:20.238Z",
       "isBreaking": false
     }
   ],
