@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-11-26T16:34:38.598Z",
+  "generatedAt": "2026-11-26T16:44:54.373Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "headline": "İtalya, Kuveyt'teki İran saldırısında iki vatandaşının hayatını kaybettiğini duyurdu",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "İtalya dışişleri bakanlığı, Kuveyt'teki bir tesise düzenlenen İran saldırısı sonucunda iki İtalyan vatandaşının yaşamını yitirdiğini açıkladı. Bakanlık, hayatını kaybeden kişilerin Alman silah üreticisi Rheinmetall şirketinde çalışan teknisyenler olduğunu belirtti. İtalyan ajansı Ansa'nın aktardığına göre, bu kişiler bir hava savunma tespit istasyonunda Kuveyt Silah Kuvvetleri tarafından kullanılan sistemlerin bakım işlerini yürütüyordu. Kuveyt savunma bakanlığı ise daha önce yaptığı açıklamada, İran'dan tespit edilip önlenen bir dizi dronun ardından düşen şarapnel parçaları nedeniyle dördü yaralanan kişiler olduğunu bildirmişti. Kuveyt ordusu, son saldırının ülkedeki hayati bir noktayı hedef aldığını ve bunun iğrenç bir İran saldırganlığının sonucu olduğunu ifade ederek iki İtalyan vatandaşının ölümünü doğruladı. İran silahlı kuvvetleri sözcüsü Abolfazl Shekarchi, askeri veya taarruz nitelikli hiçbir operasyon yürütülmediğini belirterek sorumluluğu reddetti. Yaşanan olayların ardından İtalya Başbakanı Giorgia Meloni ve Avrupa Komisyonu Başkanı Ursula von der Leyen sosyal medya üzerinden taziye ve kınama mesajları paylaştı. Bu gelişme, Kuveyt'in ABD güçlerine ev sahipliği yapan bir üssüne yönelik gece saatlerinde düzenlenen İran dron saldırılarını püskürttüğünü duyurmasından yaklaşık bir hafta sonra gerçekleşti.",
+      "highlights": [
+        "İtalyan dışişleri bakanlığı, İran'ın Kuveyt'teki bir tesisine düzenlediği saldırıda iki İtalyan vatandaşının hayatını kaybettiğini açıkladı.",
+        "Hayatını kaybeden kişilerin Alman silah üreticisi Rheinmetall'e bağlı teknisyenler olduğu belirtildi.",
+        "İran silahlı kuvvetleri sözcüsü Abolfazl Shekarchi saldırıyla ilgili sorumluluğu reddetti."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-26T16:39:30.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.trthaber.com/haber/dunya/israilde-muhalefetteki-yashar-ve-demokratlar-partileri-koalisyon-anlasmasi-konusunda-uzlastiklarini-acikladi-964578.html",
+      "headline": "İsrail'de muhalefet partileri koalisyon anlaşmasında uzlaştı",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://trthaberstatic.cdn.wp.trt.com.tr/resimler/2502000/eisenkot-aa-2502098.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "TRT Haber",
+        "sourceUrl": "https://www.trthaber.com/haber/dunya/israilde-muhalefetteki-yashar-ve-demokratlar-partileri-koalisyon-anlasmasi-konusunda-uzlastiklarini-acikladi-964578.html"
+      },
+      "timeAgo": "7 dk önce",
+      "body": "İsrail siyasetinde muhalefet kanadında önemli bir gelişme yaşandı. Hükümet kurmakla görevlendirilen Gadi Eisenkot'un liderliğini yaptığı Yashar Partisi ile Yair Golan yönetimindeki Demokratlar Partisi, bir koalisyon anlaşması imzalanması hususunda mutabakata vardıklarını kamuoyuna duyurdu.\n\nSöz konusu gelişme, 26 Kasım 2026 tarihinde saat 19:38'de resmi kaynaklar tarafından paylaşılan bilgiler arasında yer aldı. Tarafların koalisyon sürecine ilişkin attıkları bu adım, ülkede hükümet kurma çalışmaları kapsamında kaydedilen son gelişmelerden biri olarak öne çıktı.\n\nHer iki parti de anlaşmaya varıldığını açıklarken, sürecin ilerleyen aşamalarına veya olası ortak politikalara dair başka bir ayrıntı veya resmi açıklama kaynak metinde yer almadı.",
+      "highlights": [
+        "Yashar Partisi ve Demokratlar Partisi koalisyon anlaşmasında uzlaştı",
+        "Gelişme 26 Kasım 2026 tarihinde duyuruldu"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/dunya/israilde-muhalefetteki-yashar-ve-demokratlar-partileri-koalisyon-anlasmasi-konusunda-uzlastiklarini-acikladi-964578.html",
+      "publishedAt": "2026-11-26T16:38:00.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-aciklama-yapiyor-1752748",
       "headline": "Fon soruşturmasıyla ilgili ortak basın toplantısı: 119 fonda 444 bin 987 yatırımcı ödeme aldı",
@@ -13,17 +60,18 @@
         "sourceUrl": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-aciklama-yapiyor-1752748"
       },
       "timeAgo": "3 dk önce",
-      "body": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ve Adalet Bakanı Akın Gürlek, fon soruşturmasındaki gelişmeleri ve tasfiye sürecini değerlendirmek üzere ortak bir basın toplantısı düzenledi.\n\nToplantıda konuşan Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fonlarda olağan tasfiyelerin tamamlandığını ve nihai tasfiye döneminin başlayacağını belirtti. Sürecin denetlenmesi için 21 müfettiş ve uzmanın çalışmaya devam ettiğini aktaran Yılmaz, yargı sürecinde işlemlerin kapsamı genişlediği için Devlet Denetleme Kurulunun çalışma kapsamının da genişletildiğini ifade etti.\n\nYılmaz, olağan fon sürecindeki tüm ödemelerin gerçekleşeceğini ve olağan tasfiye sürecinin tamamlanacağını duyurdu. Açıklamaya göre, toplam 455 bin 758 tekil yatırımcının 444 bin 987'sine en az bir ödeme yapıldı; bu oran tekil yatırımcıların yüzde 98'ine denk geliyor.\n\nTasfiye sürecinde yarın itibarıyla toplam 199,25 milyar lira ödeme yapılmış olacağını belirten Yılmaz, nakdi olarak 21 bin 723 kişinin 1 milyon lira ara ödeme aldığını, ayni ödemelerle birlikte bu rakamın 40 binin üzerine çıktığını kaydetti. Ödemelerin tamamının fonlardaki likit kaynaklar, ayni ödemeler veya geri kazanım hesaplarındaki birikimlerle yapıldığını, bütçeden ve Hazineden tek kuruş ödeme yapılmadığını vurgulayan Yılmaz, geri kazanım hesaplarından bugüne kadar 45 milyar liranın üzerinde tahsilat sağlandığını bildirdi.",
+      "body": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Hazine ve Maliye Bakanı Mehmet Şimşek ve Adalet Bakanı Akın Gürlek, fon soruşturmasındaki gelişmeleri aktarmak üzere ortak bir basın açıklaması düzenledi. Toplantıda fon soruşturması ve tasfiye sürecindeki son gelişmeler paylaşıldı.\n\nCevdet Yılmaz, fonlarda olağan tasfiyelerin tamamlandığını ve nihai tasfiye döneminin başlayacağını belirtti. 21 müfettiş ve uzmanın fon sürecini denetleme çalışmalarını sürdürdüğünü ifade eden Yılmaz, sermaye piyasalarını korumanın önemine dikkat çekti. Yargı sürecindeki işlemlerin kapsamı genişlediği için Devlet Denetleme Kurulunun çalışma kapsamının da genişletildiğini bildirdi.\n\nYılmaz, olağan fon sürecindeki tüm ödemelerin gerçekleşeceğini ve olağan fon tasfiye sürecinin tamamlandığını aktararak, toplam 455 bin 758 tekil yatırımcının 444 bin 987'sine en az bir ödeme yapıldığını, bunun da tekil yatırımcıların yüzde 98'ine karşılık geldiğini ifade etti. Tasfiye sürecinde toplam 199,25 milyar lira ödeme yapılacağını belirten Yılmaz, nakdi olarak 21 bin 723 kişinin 1 milyon lira ara ödeme aldığını, ayni ödemelerle birlikte bu rakamın 40 binin üzerine çıktığını kaydetti.\n\nÖdemelerin tamamının fonlardaki likit kaynaklar, ayni ödemeler veya geri kazanım hesaplarındaki birikimlerle yapıldığını vurgulayan Yılmaz, bütçeden veya Hazine'den tek kuruş ödeme yapılmadığını, geri kazanım hesaplarından ise 45 milyar liranın üzerinde tahsilat sağlandığını bildirdi.\n\nAdalet Bakanı Akın Gürlek ise fon soruşturmasında 638 şüpheliden 138'inin tutuklu olduğunu, 300 şüpheli hakkında adli kontrol tedbiri uygulandığını ve 49 şüpheli hakkında yakalama kararı bulunduğunu açıkladı. Soruşturmalar kapsamında 550 gerçek kişi ile 184 tüzel kişinin mal varlıklarına el konulduğunu ve banka hesaplarının bloke edildiğini belirten Gürlek, soruşturmada ana omurganın bittiğini ve iddianame yazım aşamasına gelindiğini kaydetti. Gürlek, itirafçı beyanlarıyla soruşturmanın derinleştirileceğini ifade etti.",
       "highlights": [
         "119 fonda 444 bin 987 yatırımcı ödeme aldı.",
-        "Olağan tasfiye süreci tamamlanarak nihai tasfiye dönemi başlayacak.",
-        "199,25 milyar liralık ödemede bütçeden veya Hazineden tek kuruş kullanılmadı."
+        "Olağan tasfiye süreci tamamlandı ve nihai tasfiye dönemi başlayacak.",
+        "Fon soruşturmasında 638 şüpheliden 138'i tutuklu."
       ],
       "externalUrl": "https://www.ntv.com.tr/turkiye/fon-sorusturmasiyla-ilgili-ortak-basin-toplantisi-yilmaz-simsek-ve-gurlek-aciklama-yapiyor-1752748",
       "publishedAt": "2026-11-26T16:31:20.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261126-emilie-konig-french-woman-on-trial-for-islamic-state-propaganda-says-she-is-ashamed",
@@ -419,8 +467,12 @@
       "headline": "LGBT’lilerin 25 Kasım eylemi çağrılarının ardından İstiklal Caddesi ve Taksim Meydanı kapatıldı",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/25/7e09e9e1-lgbtlilerin-25-kasim-eylemi-cagrilarinin-ardindan.webp",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/video/gundem/lgbtlilerin-25-kasim-eylemi-cagrilarinin-ardindan-istiklal-caddesi-ve-taksim-meydani-kapatildi-4876555"
+      },
       "timeAgo": "2 dk önce",
       "body": "İstanbul'da 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında yapılan eylem çağrılarının ardından Taksim Meydanı ve İstiklal Caddesi'nde geniş güvenlik önlemleri alındı. Beyoğlu Kaymakamlığı, ilçe genelinde toplantı ve gösteri yürüyüşlerini 24 saat süreyle yasaklarken İstanbul Valiliği de Taksim Metro İstasyonu ile Kabataş-Taksim Füniküler Hattı'nın kapatıldığını duyurdu.",
       "highlights": [
@@ -435,7 +487,8 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T23:23:43.112Z",
       "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:34:21.354Z"
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/nigeria-seizes-220-million-worth-meth-arrests-5-138448484",
@@ -883,7 +936,9 @@
       "category": "Ekonomi",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T16:54:28.299Z"
+      "sourceTextAttemptedAt": "2026-11-25T16:54:28.299Z",
+      "videoEmbedUrl": "https://embed.france24.com/en/video/912EEE91-1E25-4733-8230-3121671F7FD5",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/25/kragujevac-school-shooting-what-we-know-so-far?traffic_source=rss",
@@ -1023,7 +1078,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T16:34:23.211Z"
+      "sourceTextAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
@@ -1135,7 +1190,9 @@
       "isBreaking": false,
       "lang": "en",
       "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z",
-      "imageSearchAttemptedAt": "2026-11-26T16:04:19.107Z"
+      "imageSearchAttemptedAt": "2026-11-26T16:04:19.107Z",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
@@ -1426,8 +1483,12 @@
       "headline": "Amerikan Şükran Günü Liberia'da Nasıl Kök Saldı ve Evrildi",
       "source": "NPR",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1791748213006-0c116dc5fdb6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QW1lcmlrYW4lMjAlQzUlOUUlQzMlQkNrcmFuJTIwRyVDMyVCQ24lQzMlQkMlMjBMaWJlcmlhJTI3ZGElMjBOYXMlQzQlQjFsJTIwSyVDMyVCNmslMjBTYWxkJUM0JUIxJTIwdmUlMjBFdnJpbGRpfGVufDF8MHx8fDE3OTU3MTE0OTR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "MUHAMMAD NABEEL",
+        "photographerUrl": "https://unsplash.com/@nobleart",
+        "unsplashUrl": "https://unsplash.com/photos/flag-of-liberia-waving-in-sky-c-PAbBUAmRc"
+      },
       "timeAgo": "5 dk önce",
       "body": "Amerikan Şükran Günü'nün Liberya'daki kökenleri ve bu bayramın ülkede nasıl kutlandığı ele alınıyor. Batı Afrika ülkesi Liberya'da kalabalık aileler, her yıl Kasım ayının ilk Perşembe günü Liberya versiyonu Şükran Günü'nü kutlamak için bir araya geliyor. Yvonne Capehart Weah'ın ailesi de büyüdüğü Caldwell kasabasında bu bayramı kutlayanlar arasında yer alıyor.\n\nTatilin kökeni 19. yüzyılın ilk yarısına dayanıyor. Amerikan Sömürge Derneği tarafından kurulan ve özgür doğmuş ya da kölelikten kurtulmuş siyah Amerikalılardan oluşan yerleşimciler, Şükran Günü geleneğini Liberya'ya taşıdı. Ülke 1847'de bağımsızlığını kazandıktan sonra İngilizlerin toprak ele geçirme çabalarına karşı 1883'te Başkan Alfred Francis Russell tanrıdan yardım istemiş ve bu tarihte yasama organı Şükran Günü'nü resmi ulusal tatil ilan etmiştir.\n\nKutlamalar sabah saatlerinde kilisede başlasa da bayram tüm inançlardan insanları kapsıyor. Müslümanlar camilerde dua ederken, Hristiyanlar ve diğer kesimler de günü tatil olarak idrak ediyor. Youtuber Sekou Muhammad Sheriff çocukluğunda bu gün vesilesiyle yeni kıyafetler aldığını ve tatilde tatlı patates yaprağı ile salyangozdan yapılan yemekler yediklerini belirtiyor.\n\nAile toplantılarında sofralar haneden haneye değişiklik gösteriyor. Weah, hindi yerine kızarmış, tütsülenmiş veya fırında tavuk tükettiklerini, ayrıca jollof pilavı, karpuz, ananas ve fufu ile çorba gibi çeşitli yemekler servis edildiğini ifade ediyor. Çorbanın içinde manyok, balık, tavuk, bamya ve biber bulunuyor.\n\nBu yıl imkânı olmadığını belirten Sheriff, ülkeyi sarsan iç çatışmaların ardından Liberia'nın barış içinde kalmasından ve sağlığından dolayı tanrıya şükrettiğini söylüyor. We-Care Vakfı'nda program yöneticisi olan Weah ise geçmişi, bugünü ve geleceği için tanrıya şükrettiğini dile getiriyor. Vakıf, çocuklara okuryazarlık öğreterek bilinçli yetişkinler olmalarını amaçlıyor.",
       "highlights": [
@@ -1440,15 +1501,19 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T14:24:26.022Z"
+      "imageSearchAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-california-braces-for-flooding-threat-from-huge-tides-el-nino",
       "headline": "California braces for flooding threat from huge tides, El Nino",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://s.france24.com/media/display/4697c5a8-e8d7-11f1-975c-95e072ff0a91/w:1280/p:16x9/EN-20261125-141616-141749-CS.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/video/20261125-california-braces-for-flooding-threat-from-huge-tides-el-nino"
+      },
       "timeAgo": "18 dk önce",
       "body": "Californians are preparing for a confluence of exceptionally high tides and El Nino-fueled weather that threatens coastal areas with extreme flooding during the busiest US travel week of the year. The San Francisco Bay Area is expected to get hit hard with a one-two punch of inclement weather and monster tides, which forecasters warned could push seawater into low-lying areas on Wednesday and Thursday.",
       "highlights": [
@@ -1462,7 +1527,10 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-25T14:34:23.237Z",
-      "sourceTextAttemptedAt": "2026-11-25T14:44:28.157Z"
+      "sourceTextAttemptedAt": "2026-11-25T14:44:28.157Z",
+      "videoEmbedUrl": "https://embed.france24.com/en/video/C5BBA50A-A3BB-4F82-A812-5DC0D7F5D231",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-historic-space-mission-china-launches-shenzhou-24-spacecraft-carrying-pakistani-astronaut",
@@ -1568,8 +1636,12 @@
       "headline": "Troya Müzesi'nde Polyksena Lahdi 25 Kasım'da siyah örtüyle kapatıldı",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NzExNDk0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Joao Cruz",
+        "photographerUrl": "https://unsplash.com/@jcruzweb",
+        "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU"
+      },
       "timeAgo": "3 dk önce",
       "body": "Çanakkale'de bulunan ve 5 bin 500 yıllık geçmişe ışık tutan eserlerin sergilendiği Troya Müzesi'nde, 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında bir etkinlik düzenlendi. Etkinlik çerçevesinde, 1994 yılında Biga ilçesindeki Kızöldün Tümülüsü'nde keşfedilen ve üzerinde Troya Kralı Priamos ile kraliçe Hekabe'nin küçük kızları Polyksena'nın kurban edilişinin betimlendiği 2 bin 500 yıllık Polyksena Lahdi'nin üzeri 10 dakika süreyle siyah bir örtüyle kapatıldı.\n\nTroya Müze Müdürü Sinem Düzgören, lahdin kadına yönelik şiddeti anlatan en eski ve en anıtsal eserlerden biri olduğunu belirterek, bu amaçla 25 Kasım'da farkındalık oluşturmak istediklerini ifade etti. Polyksena'nın Troya Savaşı'nın ardından Akhilleus'un oğlu Neoptolemos tarafından mezar başında kurban edildiğini hatırlatan Düzgören, siyah örtü uygulamasıyla geçmişteki şiddetin bugün de farklı biçimlerde sürdüğünü vurgulamak istediklerini kaydetti.\n\nÖrtünün üzerine bırakılan beyaz gülün umudu ve yaşamı simgelediğini belirten Düzgören, Polyksena'nın hikayesinin binlerce yıl öncesine dayanmasına rağmen günümüzde hala geçerliliğini koruyan toplumsal bir yaranın sembolü olduğunu dile getirdi. Müzede gerçekleştirilen bu anlamlı duruş ile kadına yönelik şiddete dikkat çekilmesi amaçlandı.",
       "highlights": [
@@ -1583,7 +1655,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T10:44:26.828Z",
-      "imageSearchAttemptedAt": "2026-11-25T16:44:43.500Z"
+      "imageSearchAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/25/could-netanyahu-take-israel-into-another-war-with-iran-to-cling-to-power?traffic_source=rss",
@@ -2289,8 +2361,12 @@
       "headline": "Bolu Dağı'nda kar yağışı etkili oldu",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/25/46cad6b7-bolu-daginda-kar-yagisi-etkili-oldu.webp",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/video/gundem/bolu-daginda-kar-yagisi-etkili-oldu-4876223"
+      },
       "timeAgo": "2 dk önce",
       "body": "Türkiye'nin önemli geçiş güzergâhlarından Bolu Dağı'nda akşam saatlerinde kar yağışı etkili olmaya başladı. Gün boyunca devam eden yağmurun yerini kara bırakmasıyla D-100 kara yolunun bazı kesimleri beyaza büründü.",
       "highlights": [],
@@ -2299,7 +2375,9 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z"
+      "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/truth-or-fake/20261124-jensen-huang-s-nvidia-comeback-sends-ai-videos-into-overdrive",
@@ -2618,7 +2696,9 @@
       "isBreaking": false,
       "lang": "en",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
-      "imageSearchAttemptedAt": "2026-11-25T17:54:17.588Z"
+      "imageSearchAttemptedAt": "2026-11-25T17:54:17.588Z",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/azerbaycandan-eskisehirdeki-helikopter-kazasinda-sehit-olan-askerler-icin-taziye-mesaji/4136421",
@@ -2799,8 +2879,12 @@
       "headline": "Zelenski'den NATO üyeliği çağrısı",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/1200x675/6b05b74c6b516b82fe259d99.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/video/dunya/zelenskiden-nato-uyeligi-cagrisi-3497676"
+      },
       "timeAgo": "1 dk önce",
       "body": "Ukrayna Devlet Başkanı Volodimir Zelenski, savaş sonrası güvenlik için NATO üyeliğini yeniden gündeme getirdi. Üyeliğin, Ukrayna'ya önerilen güvenlik garantilerinden daha etkili olabileceğini söyledi. Avrupa, ABD ve Rusya'yla dörtlü görüşme için de \"yarın bile hazırız\" mesajı verdi.",
       "highlights": [
@@ -2814,7 +2898,10 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T19:24:22.628Z",
-      "imageSearchAttemptedAt": "2026-11-25T14:24:26.022Z"
+      "imageSearchAttemptedAt": "2026-11-25T14:24:26.022Z",
+      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3497676",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o?at_medium=RSS&at_campaign=rss",
@@ -3575,8 +3662,12 @@
       "headline": "Vicdansızlığın böylesi: Samsun'da engelli badem satıcısına saldırı kamerada",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/24/8e46f2e7-vicdansizligin-boylesi-samsunda-engelli-badem.webp",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/video/gundem/vicdansizligin-boylesi-samsunda-engelli-badem-saticisina-saldiri-kamerada-4876164"
+      },
       "timeAgo": "3 dk önce",
       "body": "Samsun'un Atakum ilçesinde bisikletiyle badem satarak geçimini sağlayan engelli Aykut Güler, kimliği belirsiz bir kişinin saldırısına uğradı. Hiç beklemediği anda aldığı darbeyle yere düşen Güler'in protez dişi yerinden çıktı. Çevredeki vatandaşlar talihsiz adamın yardımına koşarken saldırı anı güvenlik kamerasına yansıdı.",
       "highlights": [],
@@ -3585,7 +3676,9 @@
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/24/arsenal-vs-borussia-dortmund-live-uefa-champions-league?traffic_source=rss",
@@ -3642,8 +3735,12 @@
       "headline": "Kolombiya'da Villavicencio'da bombalı saldırı: şiddet yeniden tırmanıyor",
       "source": "Euronews",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.euronews.com/articles/stories/10/00/64/89/1200x675_cmsv2_47f8f215-a391-5f8b-ad04-2fa5745f9a47-10006489.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "Euronews",
+        "sourceUrl": "https://tr.euronews.com/video/2026/11/24/kolombiyada-villavicencioda-bombali-saldiri-siddet-yeniden-tirmaniyor"
+      },
       "timeAgo": "3 dk önce",
       "body": "Kolombiya'nın Villavicencio kentinde bir araç bombasının patlaması sonucu en az 25 kişi yaralandı, kamu binaları, işyerleri ve araçlar zarar gördü. 24 Kasım 2026 tarihinde paylaşılan görüntüler, Bogota'nın güneydoğusundaki Meta departmanının hükümet merkezi dışında gerçekleşen patlamanın yol açtığı yıkımı gözler önüne serdi. Katedral ve papaz evi yakınındaki dini imgeler satan bir dükkân ile çok sayıda konut ve işyeri hasar gördü. Çökmüş bina cepheleri, yanmış araçlar ve etrafa saçılan cam kırıkları patlamanın şiddetini ortaya koydu.\n\nSöz konusu olay, ülkedeki şiddetin yeniden yükseldiği bir dönemde yaşandı. Özellikle Venezuela sınırı boyunca rakip silahlı grupların kârlı yasadışı ekonomiler ve kaçakçılık ağlarının kontrolü için rekabet ettiği belirtiliyor. \n\nDiğer yandan Cúcuta kentinde yüzlerce yerli, polis memuru ve asker, kentin polis merkezine düzenlenen ayrı bir saldırı nedeniyle mum ışığında yürüyüş düzenledi. Bölgesel yönetimin aktardığına göre bu saldırıda aralarında bir çocuğun da bulunduğu üç kişi yaralandı ve 80'den fazla ev zarar gördü. Polis papazı José Rodríguez de yürüyüşe katılarak hasar gören bir evi kutsal suyla takdis etti.\n\nYetkililer, saldırıların sorumluluğunu henüz resmen doğrulamasa da Ulusal Kurtuluş Ordusu'nun (ELN) olaylarda rol almış olabileceğinden şüpheleniyor. Kolombiya Savunma Bakanlığı verilerine göre, silahlı gruplar patlayıcı yüklü insansız hava araçlarını giderek daha fazla kullanıyor. Ocak ile Kasım 2026 arasında 358 saldırı kaydedilirken, bunlardan 157'si ELN'ye atfedildi.",
       "highlights": [
@@ -3657,7 +3754,10 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T16:04:25.059Z",
-      "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z"
+      "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z",
+      "videoEmbedUrl": "https://tr.euronews.com/embed/2944704",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261124-french-police-officer-who-shot-teenager-to-face-murder-trial",
@@ -5759,8 +5859,12 @@
       "headline": "Üsküdar’da lodos dev dalgalar oluşturdu",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/23/973820bb-uskudarda-lodos-dev-dalgalar-olusturdu.webp",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/video/gundem/uskudarda-lodos-dev-dalgalar-olusturdu-4875784"
+      },
       "timeAgo": "6 dk önce",
       "body": "İstanbul'da sabah saatlerinden itibaren etkili olan lodos, Üsküdar sahilinde dev dalgalar oluşturdu. Şiddetli rüzgârın etkisiyle yükselen dalgalar zaman zaman kıyıya ulaşırken gün batımıyla birlikte Kız Kulesi çevresinde kartpostallık görüntüler ortaya çıktı. Manzarayı izlemek için sahile gelen vatandaşlar, o anları cep telefonlarıyla kaydetti.",
       "highlights": [],
@@ -5770,7 +5874,9 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:14:23.506Z",
-      "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-xml-mrss",
@@ -5822,8 +5928,12 @@
       "headline": "12,000 evacuated from Don Toliver concert after unknown substance sickens fans",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://s.france24.com/media/display/1342f74c-e754-11f1-9e59-1bac47ab2f5d/w:1280/p:16x9/minimanchester.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/video/20261123-12-000-evacuated-from-don-toliver-concert-after-unknown-substance-sickens-fans"
+      },
       "timeAgo": "9 dk önce",
       "body": "More than 12,000 fans were evacuated from a concert by American rapper Don Toliver and over 80 were treated by medics after an unknown irritant was released in the crowd, authorities in the English city of Manchester said Monday.",
       "highlights": [
@@ -5837,7 +5947,10 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:04:27.613Z",
-      "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z"
+      "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z",
+      "videoEmbedUrl": "https://embed.france24.com/en/video/WBMZ605678-F24-EN-20261123",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/cumhurbaskani-erdogandan-kabine-toplantisinin-ardindan-onemli-aciklamalar-7706433",
@@ -8483,8 +8596,12 @@
       "headline": "İzmir'de zehir imalathanesine baskın: 81 bin 500 sentetik hap ele geçirildi",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://img.piri.net/piri/upload/3/2026/11/22/11697449-izmirde-zehir-imalathanesine-baskin-81-bin-500-sentetik.webp",
+      "imageCredit": {
+        "sourceType": "publisher_video",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/video/gundem/izmirde-zehir-imalathanesine-baskin-81-bin-500-sentetik-hap-ele-gecirildi-4875358"
+      },
       "timeAgo": "2 dk önce",
       "body": "İzmir'in Çiğli ilçesinde sentetik ecza üretimi yapıldığı belirlenen bir eve düzenlenen polis operasyonunda 81 bin 500 adet sentetik hap ele geçirildi. Bornova İlçe Emniyet Müdürlüğü ve Narkotik ekiplerinin ortak baskınında 38 kilogram ham madde, üretim ekipmanları ve bir tüfek bulunurken, yakalanan 2 şüpheli gözaltına alındı.",
       "highlights": [
@@ -8498,7 +8615,9 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T06:34:26.907Z",
-      "imageSearchAttemptedAt": "2026-11-24T20:54:19.081Z"
+      "imageSearchAttemptedAt": "2026-11-24T20:54:19.081Z",
+      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
@@ -14196,56 +14315,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T13:54:27.307Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/anadolu-efes-asvel-maci-canli-izle-euroleage-anadolu-efes-asvel-basketbol-maci-nereden-izlenir-hangi-kanalda-saat-kacta-mac-sifresiz-3495843",
-      "headline": "Anadolu Efes - ASVEL EuroLeague Maçı Ne Zaman, Saat Kaçta ve Hangi Kanalda?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1546519638-68e109498ffc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YmFza2V0YmFsbCUyMG1hdGNofGVufDF8MHx8fDE3OTUxODExMzZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/ball-under-basketball-ring-BfphcCvhl6E"
-      },
-      "timeAgo": "şimdi",
-      "body": "THY EuroLeague'in 13. haftasında Anadolu Efes, taraftarı önünde Fransa temsilcisi LDLC ASVEL'i konuk ediyor. Karşılaşma, 20 Kasım 2026 Cuma akşamı saat 20.30'da Turkcell Basketbol Gelişim Merkezi'nde oynanacak.\n\nLacivert-beyazlı ekip, geride kalan haftalardaki istikrarsız sonuçları telafi ederek üst sıralara yaklaşmayı ve iç saha avantajıyla önemli bir galibiyet almayı hedefliyor. Konuk ekip ASVEL ise alt sıralardan uzaklaşma mücadelesi veriyor. İki takımın sezon hedefleri açısından önem taşıyan bu kritik mücadele S Sport ve S Sport Plus ekranlarından canlı olarak yayınlanacak.",
-      "highlights": [
-        "Anadolu Efes, THY EuroLeague 13. hafta maçında LDLC ASVEL ile karşı karşıya gelecek.",
-        "Karşılaşma 20 Kasım 2026 Cuma günü saat 20.30'da Turkcell Basketbol Gelişim Merkezi'nde oynanacak.",
-        "Mücadele S Sport ve S Sport Plus ekranlarından canlı olarak yayınlanacak."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/anadolu-efes-asvel-maci-canli-izle-euroleage-anadolu-efes-asvel-basketbol-maci-nereden-izlenir-hangi-kanalda-saat-kacta-mac-sifresiz-3495843",
-      "publishedAt": "2026-11-20T13:25:43.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T13:44:32.075Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
-      "headline": "AKOM'dan İstanbul için son dakika sağanak uyarısı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1622078909758-d8c4828e9069?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjByYWlufGVufDF8MHx8fDE3OTUxNjQ4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Obaid Ur Rehman",
-        "photographerUrl": "https://unsplash.com/@ripper03",
-        "unsplashUrl": "https://unsplash.com/photos/city-skyline-across-body-of-water-during-night-time-P5E04YnORN4"
-      },
-      "timeAgo": "şimdi",
-      "body": "İstanbul Büyükşehir Belediyesi (İBB) Afet Koordinasyon Merkezi (AKOM), kentte bugün ve yarın etkili olması beklenen sağanak yağışa karşı vatandaşları uyardı.\n\nAKOM raporuna göre, bugün öğle saatlerinden sonra başlaması öngörülen yağışların akşam saatlerine doğru il genelinde etkisini artırması bekleniyor. Yağışların saat 22.00'ye kadar sağanak ve yer yer kuvvetli gök gürültülü sağanak şeklinde, metrekareye 10 ila 20 kilogram düşecek şekilde etkili olacağı tahmin ediliyor.\n\nGece saatlerinde etkisini kaybetmesi beklenen yağışların, cumartesi günü öğle saatlerinden itibaren yeniden başlaması öngörülüyor. Bu yağışların akşam saatlerine kadar kısa süreli ve kuvvetli gök gürültülü sağanak geçişleri şeklinde görüleceği tahmin ediliyor.\n\nYetkililer, yaşanabilecek olumsuzluklara karşı kent sakinlerini dikkatli ve tedbirli olmaları konusunda uyardı.",
-      "highlights": [
-        "AKOM, İstanbul için bugün ve yarın etkili olacak sağanak yağış uyarısında bulundu.",
-        "Yağışların metrekareye 10 ila 20 kilogram düşmesi ve saat 22.00'ye kadar sürmesi bekleniyor.",
-        "Cumartesi günü öğle saatlerinden sonra yağışların kısa süreli ve kuvvetli gök gürültülü sağanak şeklinde yeniden başlaması öngörülüyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/akomdan-istanbul-icin-son-dakika-saganak-uyarisi-3495736",
-      "publishedAt": "2026-11-20T13:19:14.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T14:04:25.326Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
