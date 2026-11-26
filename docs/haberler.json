@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-25T23:23:59.540Z",
+  "generatedAt": "2026-11-26T05:20:08.169Z",
   "articles": [
+    {
+      "id": "https://www.trthaber.com/haber/turkiye/firari-3-fetocu-ankarada-yakalandi-964494.html",
+      "headline": "Ankara'da FETÖ operasyonu: 3 firari yakalandı",
+      "source": "TRT Haber",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
+      "imageUrl": "https://images.unsplash.com/photo-1614982488537-c817e24a94ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cG9saWNlJTIwYXJyZXN0fGVufDF8MHx8fDE3OTU2NzA0MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Valery Tenevoy",
+        "photographerUrl": "https://unsplash.com/@plag",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-black-jacket-and-black-pants-carrying-blue-and-black-backpack-d4N23dB5I-4"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Başkentte gerçekleştirilen Fetullahçı Terör Örgütü (FETÖ) operasyonu sonucunda aranan 3 firari şüpheli polis ekipleri tarafından yakalandı.\n\nEmniyet güçlerinin yürüttüğü çalışmalar kapsamında düzenlenen operasyonla ilgili başka bir ayrıntı paylaşılmazken, yakalanan şahısların emniyetteki işlemlerinin sürdüğü bildirildi.",
+      "highlights": [
+        "Başkentte FETÖ operasyonu düzenlendi",
+        "3 firari yakalandı"
+      ],
+      "externalUrl": "https://www.trthaber.com/haber/turkiye/firari-3-fetocu-ankarada-yakalandi-964494.html",
+      "publishedAt": "2026-11-26T05:11:00.000Z",
+      "category": "Türkiye",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/misirdaki-tanker-yangininda-olenlerin-sayisi-31e-yaralananlarin-sayisi-21e-yukseldi/4138115",
       "headline": "Mısır'daki tanker yangınında ölenlerin sayısı 31'e yükseldi",
@@ -23,7 +46,8 @@
       "publishedAt": "2026-11-25T23:17:12.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T05:20:02.899Z"
     },
     {
       "id": "https://www.rfi.fr/en/sports/20261125-romans-burn-psg-s-perfect-start-to-champions-league-campaign",
@@ -337,7 +361,8 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-25T18:34:22.029Z"
+      "imageSearchAttemptedAt": "2026-11-25T18:34:22.029Z",
+      "sourceTextAttemptedAt": "2026-11-26T05:20:02.899Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
@@ -383,7 +408,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T17:34:25.666Z",
-      "imageSearchAttemptedAt": "2026-11-25T17:34:25.666Z"
+      "imageSearchAttemptedAt": "2026-11-26T05:20:02.899Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/istanbul-havalimani-avrupanin-en-yogun-havalimani-oldu-3498158",
@@ -686,7 +711,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T16:24:23.442Z",
-      "imageSearchAttemptedAt": "2026-11-25T16:24:23.442Z"
+      "imageSearchAttemptedAt": "2026-11-26T05:20:02.899Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/fransada-namazla-alay-eden-ve-nazi-selami-yapan-memura-gecici-uzaklastirma-7707933",
@@ -14179,31 +14204,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:54:18.419Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "AB ve İngiltere, Bağları Yeniden Kurma Girişimiyle Nadir Bir Zirve Düzenledi",
-      "source": "DW English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1516589918325-d3cb170106ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RVUlMjBhbmQlMjBVSyUyMGhvbGQlMjBhJTIwcmFyZSUyMHN1bW1pdCUyMGluJTIwYmlkJTIwdG8lMjAlMjdyZWJ1aWxkJTIwdGllcyUyN3xlbnwxfDB8fHwxNzk1MTc1MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Jessi Pena",
-        "photographerUrl": "https://unsplash.com/@jespl",
-        "unsplashUrl": "https://unsplash.com/photos/elizabeth-tower-london-gpt0X6pLmDU"
-      },
-      "timeAgo": "15 dk önce",
-      "body": "İngiltere Başbakanı Andy Burnham ile Avrupa Birliği üst düzey yetkilileri, Brexit oylamasından yaklaşık on yıl sonra Brüksel'de düzenlenen zirvede bir araya geldi. Bu buluşmanın, ilişkileri yeniden inşa etmek adına ilk adımları oluşturabileceği belirtildi.\n\nBrüksel'deki zirvede ticaret ve gençlerin hareketliliği konularında anlaşmaların duyurulması planlanıyordu. Brüksel, bu anlaşmaların yürürlüğe girmesini, İngiltere'de eğitim gören AB'li öğrenciler için üniversite harçlarının düşürülmesine yönelik bir anlaşmaya varılması koşuluna bağladı.\n\nBrüksel'e varışında açıklamalarda bulunan Başbakan Burnham, İngiltere ile Avrupa'nın değerleri, çıkarları ve küresel bir mahalleyi paylaştığını ifade etti. Daha tehlikeli bir dünyada birlikte daha güçlü olduklarını belirten Burnham, Avrupa ile daha yakın bir ortaklığın çalışan insanlar, İngiltere ve Avrupa için faydalı olduğunu vurguladı. Burnham, gelecekteki ilişki için bloka yeniden katılmak da dahil olmak üzere farklı seçeneklerin değerlendirilmesi gerektiğini dile getirdi.\n\nGörüşmelerde gıda ihracatında bürokrasinin azaltılması, İngiltere ile AB emisyon ticaret sistemlerinin birbirine bağlanması ve bir \"gençlik deneyimi programı\" kurulması olmak üzere üç kilit anlaşma ele alındı. Bu programın, İngiliz şirketlerinin Avrupa'ya gıda ihracatını kolaylaştırması ve gençlerin vize zorunluluğu olmaksızın seyahat etmesini amaçladığı kaydedildi. Tarafların bu meseleler üzerinde önceden uzlaştığı, ancak harç indirimi şartının altı ay içinde çözüme kavuşturulmasının hedeflendiği aktarıldı. Bir İngiliz hükümet sözcüsü AP ajansına yaptığı açıklamada anlaşmanın tamamlandığını belirtti. YouGov anketine göre ise son dönemde İngiltere'nin Brexit kararından pişmanlık duyanların oranı artış gösterdi.",
-      "highlights": [
-        "İngiltere ve AB yetkilileri ilişkileri yeniden kurmak için Brüksel'de bir araya geldi.",
-        "Ticaret ve gençlerin hareketliliği alanlarında üç kilit anlaşma masaya yatırıldı.",
-        "Anlaşmaların yürürlüğe girmesi, AB'li öğrenciler için üniversite harçlarının düşürülmesine bağlı kılındı."
-      ],
-      "externalUrl": "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076?maca=en-rss-en-world-4025-xml-mrss",
-      "publishedAt": "2026-11-20T11:30:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T12:04:27.072Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14430,6 +14430,7 @@
     "https://news.sky.com/story/life-death-and-terror-24-hours-in-ukraines-kill-zone-13616131",
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/see-motorcycle-passengers-viral-cricket-catch?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
-    "https://www.cnnturk.com/yerel-haberler/samsun/termede-kadina-yonelik-siddetle-mucadele-icin-farkindalik-programi-duzenlendi-3498173"
+    "https://www.cnnturk.com/yerel-haberler/samsun/termede-kadina-yonelik-siddetle-mucadele-icin-farkindalik-programi-duzenlendi-3498173",
+    "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss"
   ]
 }
