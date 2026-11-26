@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-26T17:55:02.287Z",
+  "generatedAt": "2026-11-26T18:04:25.849Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/dunya/kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti-3498719",
+      "headline": "Kuveyt'e yönelik İHA saldırısında 2 İtalyan hayatını kaybetti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b084b5d4e094da32235ca15.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/dunya/kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti-3498719"
+      },
+      "timeAgo": "şimdi",
+      "body": "İtalya Dışişleri Bakanlığı tarafından yapılan açıklamaya göre, Kuveyt'te insansız hava araçlarıyla (İHA) düzenlenen saldırıda 2 İtalyan teknisyen yaşamını yitirdi. Bakanlık, İtalya'nın Kuveyt Büyükelçiliği aracılığıyla ülkeye yönelik İHA saldırısı ile patlamanın yakından takip edildiğini bildirdi.\n\nAçıklamada, patlamanın Kuveyt Silahlı Kuvvetleri tarafından kullanılan Skyguard hava savunma sisteminin tespit antenlerinde bakım yapan Rheinmetall Italia'dan 2 İtalyan teknisyenin çalıştığı tesisi etkilediği ve söz konusu kişilerin hayatını kaybettiği ifade edildi. Ayrıca Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani'nin durumu yakından takip ettiği ve hayatını kaybedenlerin ailelerine başsağlığı dilediği aktarıldı.\n\nAvrupa Birliği Liderler Zirvesi için Brüksel'de bulunan Başbakan Giorgia Meloni de sosyal medya hesabından bir paylaşımda bulundu. Meloni, toplantı sırasında Kuveyt'teki saldırıda 2 İtalyan vatandaşının hayatını kaybettiği haberini aldığını belirterek, kendi adıyla hükümet adına derin üzüntülerini ifade etti ve ailelere başsağlığı diledi.\n\nÖte yandan Kuveyt ordusu, İran'ın ülkeye düzenlediği İHA saldırısında kritik öneme sahip bir tesisin hedef alındığını bildirmişti.",
+      "highlights": [
+        "Kuveyt'teki İHA saldırısında 2 İtalyan teknisyen hayatını kaybetti.",
+        "Saldırı Skyguard hava savunma sisteminin tespit antenlerinde bakım yapılan tesisi etkiledi.",
+        "Başbakan Giorgia Meloni ve Dışişleri Bakanı Antonio Tajani başsağlığı dileklerini iletti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/dunya/kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti-3498719",
+      "publishedAt": "2026-11-26T18:08:15.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/dunya/buckingham-magazin-degil-guc-sembolu-3498703",
       "headline": "Buckingham: Magazin değil, güç sembolü",
@@ -16,10 +40,38 @@
       "videoEmbedAttemptedAt": "2026-11-26T17:54:53.647Z",
       "timeAgo": "şimdi",
       "body": "Buckingham: Magazin değil, güç sembolü Paylaş Günün Önemli Haberleri Buckingham: Magazin değil, güç sembolü 26.11.2026 - 17:58 Son Güncelleme 26.11.2026 - 17:58 Kaynak HABER MERKEZİ Paylaş İngiltere denince akla ilk gelen yerlerden biri Buckingham Sarayı. Kraliyet düğünleriyle, cenazeleriyle, kapısına bırakılan çiçeklerle hep magazinin konusu oldu. Ama sarayın kapısına ve karşısındaki Kraliçe Victoria Anıtı'na dikkatle bakınca bambaşka bir hikâye çıkıyor ortaya. Aslan, tek boynuzlu at, küre ve zafer figürleri... Hepsi bir imparatorluğun dünyaya verdiği mesajı taşıyor. Bugün ise \"Avrupa'nın Büyükannesi\" denilen Victoria'nın Avrupa'sı; Rusya, Amerika ve Çin arasındaki güç yarışında sıkışmış durumda. Peki, o eski imparatorluğun bugünkü hâli…",
-      "highlights": [],
+      "highlights": [
+        "Buckingham Sarayı ve Kraliçe Victoria Anıtı bir imparatorluğun mesajlarını taşıyor",
+        "Avrupa, Rusya, Amerika ve Çin arasındaki güç yarışında sıkışmış durumda",
+        "CNN TÜRK Haber Koordinatörü Dr. İdris Arıkan sarayın önünden bildirdi"
+      ],
       "externalUrl": "https://www.cnnturk.com/video/dunya/buckingham-magazin-degil-guc-sembolu-3498703",
       "publishedAt": "2026-11-26T17:58:47.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-26T18:04:18.281Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+      "headline": "Netanyahu'nun Yolsuzluk Davası Gerçekten Bitti mi?",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1589994965851-a8f479c573a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnQlMjB0cmlhbHxlbnwxfDB8fHwxNzk1NzE2MjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tingey Injury Law Firm",
+        "photographerUrl": "https://unsplash.com/@tingeyinjurylawfirm",
+        "unsplashUrl": "https://unsplash.com/photos/lady-justice-statue-with-scales-and-sword-yCdPU73kGSc"
+      },
+      "timeAgo": "26 dk önce",
+      "body": "İsrail lideri Benjamin Netanyahu'nun yargı süreci, siyasi geleceği ve kovuşturmadan kaçınma çabaları mahkeme tavsiyeleriyle yeniden gündemin merkezine yerleşti. Netanyahu'nun yolsuzluk davasının akıbeti hakkındaki tartışmalar devam ederken, ortaya çıkan son tavsiye kararları konunun önemini bir kez daha artırdı. Siyasi kulislerde ve hukuki cephede yaşanan bu gelişmeler, liderin geleceğine dair belirsizlikleri ve dava sürecinin seyrini yeniden odak noktası haline getirdi. Hukuki sürecin nasıl ilerleyeceği ve bu tavsiyelerin Netanyahu'nun siyasi hayatına etkilerinin ne olacağı merakla takip ediliyor. Mahkemenin yönlendirmeleri, ülkedeki siyasi ve hukuki dengeler açısından yeni tartışmaları beraberinde getirdi.",
+      "highlights": [
+        "Mahkeme tavsiyeleri İsrail liderinin davasını yeniden odak noktasına taşıdı",
+        "Siyasi gelecek ve kovuşturmadan kaçınma çabaları tartışılıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss",
+      "publishedAt": "2026-11-26T17:38:02.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -980,7 +1032,7 @@
     },
     {
       "id": "https://www.cnnturk.com/spor/gunun-maclari-25-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-25-kasim-carsamba-gunun-maclari-3498176",
-      "headline": "Günün Maçları 25 Kasım 2026: Bugün Hangi Maçlar Var, Saat Kaçta?",
+      "headline": "25 Kasım 2026 Günün Maçları: Bugün Hangi Maçlar Var ve Saat Kaçta?",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
       "imageUrl": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk1NjI4MTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -990,10 +1042,10 @@
         "unsplashUrl": "https://unsplash.com/photos/man-playing-soccer-game-on-field-AWdCgDDedH0"
       },
       "timeAgo": "şimdi",
-      "body": "25 Kasım 2026 Çarşamba günü oynanacak maçlar ve spor takvimi sporseverler tarafından araştırılıyor. Milli aranın sona ermesinin ardından futbol ve diğer branşlardaki karşılaşmalar yeniden hız kazanıyor.\n\nBugün UEFA Şampiyonlar Ligi kapsamında önemli karşılaşmalar ekrana gelecek. 20.45'te Sabah FK - Barcelona ve Slavia Prag - Villarreal maçları tabii Spor'da yayınlanacak. 23.00 seansında ise Atletico Madrid - Viking FK, Club Brugge - Liverpool, Inter - Stuttgart, Lille - Bayern Münih, Paris Saint-Germain - Roma, Shakhtar Donetsk - Fenerbahçe (TRT 1) ve Sporting Lizbon - Manchester United mücadeleleri oynanacak.\n\nBasketbol heyecanı EuroLeague ile devam ediyor. Saat 19.00'da Dubai Basketball - Partizan, 22.15'te Olympiakos - Hapoel Tel Aviv, 22.30'da Baskonia - Anadolu Efes ve 22.45'te Real Madrid - Zalgiris karşılaşmaları sporseverlerle buluşacak.\n\nAyrıca CEV Şampiyonlar Ligi'nde 19.00'da VakıfBank - Asterix AVO Beveren ve 20.00'de PGE Budowlani Lodz - Galatasaray Daikin maçları yer alıyor. 1. Lig, Premier Lig, La Liga, Bundesliga, Serie A, Fransa Ligue 1, Basketbol Süper Ligi, NBA ve tenis maçları da günün programında bulunuyor.",
+      "body": "25 Kasım 2026 Çarşamba günü oynanacak karşılaşmalar sporseverler tarafından araştırılıyor. Milli aranın sona ermesinin ardından futbol ve diğer branşlarda lig fikstürleri yeniden hareketlenirken, günün maç takvimi merak konusu oldu. \n\nGün boyunca futbol, basketbol ve voleybol alanlarında ulusal ve uluslararası önemli mücadeleler ekranlara gelecek. Futbol sahnesinde UEFA Şampiyonlar Ligi'nin yanı sıra 1. Lig, Premier Lig, La Liga, Bundesliga, Serie A ve Ligue 1 maçlarının oynanacağı belirtiliyor.\n\nUEFA Şampiyonlar Ligi programında saat 20.45'te Sabah FK - Barcelona ile Slavia Prag - Villarreal karşılaşmaları tabii Spor'da yayınlanacak. Saat 23.00'te ise Atletico Madrid - Viking FK, Club Brugge - Liverpool, Inter - Stuttgart, Lille - Bayern Münih, Paris Saint-Germain - Roma, Sporting Lizbon - Manchester United (tabii Spor) ile TRT 1'de yayınlanacak Shakhtar Donetsk - Fenerbahçe mücadeleleri yer alıyor.\n\nBasketbol tarafında ise EuroLeague heyecanı yaşanacak. Saat 19.00'da Dubai Basketball - Partizan (S Sport), 22.15'te Olympiakos - Hapoel Tel Aviv (S Sport 2 / S Sport Plus), 22.30'da Baskonia - Anadolu Efes (S Sport 2) ve 22.45'te Real Madrid - Zalgiris (S Sport Plus) maçları oynanacak. Ayrıca CEV Şampiyonlar Ligi'nde VakıfBank - Asterix AVO Beveren (TRT Spor), PGE Budowlani Lodz - Galatasaray Daikin ve Zaon Kifissia - Aras Kargo karşılaşmaları sporseverleri bekliyor.",
       "highlights": [
         "25 Kasım 2026 Çarşamba günü futbol, basketbol ve voleybol maçları oynanacak.",
-        "Şampiyonlar Ligi'nde Shakhtar Donetsk - Fenerbahçe maçı TRT 1'de yayınlanacak.",
+        "UEFA Şampiyonlar Ligi'nde Shakhtar Donetsk - Fenerbahçe maçı TRT 1'de yayınlanacak.",
         "EuroLeague'de Baskonia - Anadolu Efes karşılaşması S Sport 2 ekranlarında olacak."
       ],
       "externalUrl": "https://www.cnnturk.com/spor/gunun-maclari-25-kasim-2026-bugunku-maclar-neler-bugun-kimlerin-maci-var-25-kasim-carsamba-gunun-maclari-3498176",
@@ -1001,7 +1053,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T17:44:19.068Z"
+      "sourceTextAttemptedAt": "2026-11-26T18:04:18.281Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
@@ -3045,7 +3097,7 @@
       "publishedAt": "2026-11-24T20:18:19.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
       "imageSearchAttemptedAt": "2026-11-26T17:54:36.907Z",
       "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
@@ -3056,8 +3108,12 @@
       "headline": "Azerbaycan'dan Eskişehir'deki helikopter kazasında şehit olan askerler için taziye mesajı",
       "source": "Anadolu Ajansı",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1627856905289-241d258ab2fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzE0NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Xavier Li",
+        "photographerUrl": "https://unsplash.com/@xlnyc",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-FZKvy7i1j4o"
+      },
       "timeAgo": "2 dk önce",
       "body": "Azerbaycan Savunma Bakanı Zakir Hasanov, Eskişehir'de eğitim uçuşu sırasında kaza kırıma uğrayan helikopterde şehit olan 5 asker için Milli Savunma Bakanı Yaşar Güler'e taziye mesajı gönderdi.",
       "highlights": [],
@@ -3067,7 +3123,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:24:24.239Z",
-      "imageSearchAttemptedAt": "2026-11-25T14:18:13.668Z"
+      "imageSearchAttemptedAt": "2026-11-26T18:04:18.281Z"
     },
     {
       "id": "https://www.haberturk.com/spor/besiktas-derbisi-oncesi-galatasaray-da-mario-lemina-soku-aston-villa-macinda-sakatlandi-oyuna-devam-edemedi-3929864",
@@ -3143,8 +3199,12 @@
       "headline": "Senegal regain AFCON title on appeal at Morocco's expense",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1710070213761-acefc882bba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzE0NDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim  Dennert",
+        "photographerUrl": "https://unsplash.com/@tim_denn",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-bridge-vW8THslciLA"
+      },
       "timeAgo": "42 dk önce",
       "body": "Senegal on Tuesday regained their Africa Cup of Nations title after winning an appeal at the Court of Arbitration for Sport (CAS) against the decision by the Confederation of African Football to declare Morocco the winners following a chaotic final in January. CAS said in a statement it had \"upheld the appeal by the Senegalese Football Federation (FSF) against the Confederation of African Football (CAF) and the…",
       "highlights": [],
@@ -3153,7 +3213,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-25T14:18:13.668Z"
+      "imageSearchAttemptedAt": "2026-11-26T18:04:18.281Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/fon-kurulu-bir-kez-daha-toplandi-1-milyon-tlye-kadar-odemeler-tamamlaniyor-7707235",
@@ -14404,58 +14464,6 @@
       "category": "Son Dakika",
       "lang": "tr",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
-      "headline": "Türkiye'deki COP31 Zirvesi Sona Eriyor: Fosil Yakıtların Anılmadığı Taslakta İklim Anlaşması Zor Görünüyor",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1569163139394-de4e5f43e5ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y2xpbWF0ZSUyMGNoYW5nZSUyMHN1bW1pdHxlbnwxfDB8fHwxNzk1MTg1ODc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Spiske",
-        "photographerUrl": "https://unsplash.com/@markusspiske",
-        "unsplashUrl": "https://unsplash.com/photos/person-holding-the-climate-is-changing-signage-RN14PbITnnM"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "BM'nin COP31 iklim görüşmelerinin, fosil yakıtlardan hiç bahsedilmeyen taslak bir anlaşma üzerindeki ülkeler arası anlaşmazlıklar nedeniyle Cuma günü uzatılması bekleniyor. Müzakereleri tıkıyan başka anlaşmazlıkların da bulunduğu bildirildi.\n\nSöz konusu görüşmeler, Avrupa'daki sıcak hava dalgaları ve Nepal'deki yıkıcı seller gibi iklim eyleminin aciliyetini gösteren çarpıcı hatırlatmaların yanı sıra rekor kıran bir El Nino'nun sıcaklıkları artırdığı bir dönemde gerçekleşiyor.\n\nFRANCE 24 Çevre Editörü Valerie Dekimpe, sürece dair ayrıntıları aktardı.",
-      "highlights": [
-        "Türkiye'deki COP31 iklim görüşmeleri cuma günü uzatmalara kalmaya hazırlanıyor",
-        "Taslak anlaşmada fosil yakıtlara yer verilmiyor ve başka anlaşmazlıklar da müzakereleri tıkıyor",
-        "Avrupa'daki sıcak hava dalgaları ve Nepal'deki seller iklim eyleminin aciliyetini hatırlatıyor"
-      ],
-      "externalUrl": "https://www.france24.com/en/video/20261120-cop31-wrapping-up-in-turkey-climate-deal-elusive-as-fossil-fuels-go-unmentioned",
-      "publishedAt": "2026-11-20T14:38:56.000Z",
-      "category": "Bilim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T15:54:26.118Z",
-      "isBreaking": false,
-      "videoEmbedUrl": "https://embed.france24.com/en/video/03201301-7159-4AEB-A88C-CB74AF6FF35E",
-      "videoEmbedAttemptedAt": "2026-11-26T17:54:36.907Z"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/avrupa-devi-greenwoodu-istiyor-3495866",
-      "headline": "Avrupa devi Greenwood'u istiyor!",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1582745699869-45a9011036f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8TWFzb24lMjBHcmVlbndvb2QlMjBGZW5lcmJhaGNlfGVufDF8MHx8fDE3OTUxODUyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "nasro azaizia",
-        "photographerUrl": "https://unsplash.com/@nasro18dz",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-black-hoodie-standing-near-green-trees-during-daytime-8g-pC6iv22w"
-      },
-      "timeAgo": "şimdi",
-      "body": "Fenerbahçe'de sergilediği performansla dikkat çeken Mason Greenwood, Avrupa kulüplerinin radarına girdi. Birçok kulübün, İngiliz yıldızı kış transfer döneminde kadrosuna katmak için harekete geçmeye hazırlandığı belirtildi.\n\nFenerbahçe'nin yaz transfer döneminde Marsilya'dan 39 milyon euro karşılığında transfer ettiği 25 yaşındaki kanat oyuncusu, Avrupa kulüplerinin listesinde yer alıyor. El Gol Digital'in aktardığına göre, La Liga ekiplerinden Atletico Madrid oyuncuyu kadrosuna katmak istiyor. Premier Lig kulüplerinin Alex Baena'ya, Roma'nın ise Ademola Lookman'a ilgi göstermesi nedeniyle Atletico Madrid'in, iki oyuncunun durumuna bağlı olarak temmuz ayında Greenwood için yeniden harekete geçeceği ifade edildi.\n\nDiğer yandan, İtalya Serie A takımlarından Napoli'nin gözlemcilerinin, Fenerbahçe'nin Liverpool ile yaptığı UEFA Şampiyonlar Ligi karşılaşmasını yakından izlediği kaydedildi. Atletico Madrid ve Napoli'nin yanı sıra, 25 yaşındaki futbolcuya Avrupa genelindeki ilginin artmaya devam ettiği aktarıldı. Greenwood'un gelecekteki transfer süreci ve kulüplerin hamleleri futbol gündemindeki yerini koruyor.",
-      "highlights": [
-        "Mason Greenwood sergilediği performansla Avrupa kulüplerinin ilgisini çekti",
-        "Atletico Madrid ve Napoli oyuncuyla ilgilenen kulüpler arasında yer alıyor",
-        "Fenerbahçe oyuncuyu yaz transfer döneminde Marsilya'dan kadrosuna katmıştı"
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/avrupa-devi-greenwoodu-istiyor-3495866",
-      "publishedAt": "2026-11-20T14:35:56.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T15:54:26.118Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
