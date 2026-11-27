@@ -1373,7 +1373,7 @@ const EXPLORE_IMAGE_TERMS = {
   'Son Dakika': ['son dakika', 'son gelisme', 'acil', 'son durum', 'az once'],
 };
 function exploreLeadArticle(name, articles) {
-  if (['Türkiye', 'Dünya'].includes(canonicalCategory(name))) return null;
+  if (canonicalCategory(name) === 'Dünya') return null;
   const terms = EXPLORE_IMAGE_TERMS[name];
   const withImages = articles.filter(article => article.imageUrl);
   if (!terms) return withImages[0] || articles[0];
