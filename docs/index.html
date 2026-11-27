@@ -1380,7 +1380,7 @@ function exploreLeadArticle(name, articles) {
   return withImages.find(article => {
     const headline = categoryKey(article.headline);
     return terms.some(term => headline.includes(categoryKey(term)));
-  }) || null;
+  }) || withImages[0] || articles[0] || null;
 }
 
 function readingTime(text) {
