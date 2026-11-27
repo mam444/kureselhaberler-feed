@@ -1,6 +1,57 @@
 {
-  "generatedAt": "2026-11-27T17:44:29.096Z",
+  "generatedAt": "2026-11-27T17:54:32.265Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/dunya/suudilerin-ekonomisi-hedefte-trumpdan-askeri-destek-mi-isteyecek-3498946",
+      "headline": "Suudilerin ekonomisi hedefte: Trump’tan askeri destek mi istejecek?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b09933fb21c353890157d02.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/video/dunya/suudilerin-ekonomisi-hedefte-trumpdan-askeri-destek-mi-isteyecek-3498946"
+      },
+      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3498946",
+      "videoEmbedAttemptedAt": "2026-11-27T17:54:26.087Z",
+      "timeAgo": "şimdi",
+      "body": "Suudi Arabistan ile İran destekli Husiler arasındaki çatışmalar şiddetlenirken, Suudi Arabistan'daki petrol rafinerileri hedef alındı. Çatışmalarda petrol rafinerileri, ihracat terminalleri ve stratejik noktalar hedef alınırken karşılıklı can kayıpları yaşandı. Suudi Arabistan Enerji Bakanlığı, perşembe günü güneybatıdaki Cizan bölgesinde bir petrol rafinerisine mühimmat isabet ettiğini bildirdi. Saldırıda bir Nepalli işçi hayatını kaybederken çok sayıda kişi yaralandı ve tesisteki bazı faaliyetler geçici olarak durduruldu. Bu olaydan bir gün önce de ülkenin en büyük petrol rafinerisi Ras Tanura hedef alınarak büyük hasar gördü.\n\nBölgedeki gerilimin tırmanmasıyla birlikte Suudi Arabistan öncülüğündeki güçler, Yemen'de Husilerin kontrolündeki bölgelere yönelik saldırılarını artırdı. Koalisyon açıklamasında, Husilerin askeri kapasitesini hedef alan hassas bir askeri operasyon düzenlendiği ve Sana, Hudeyde ile Saada vilayetlerinde 50 noktanın imha edildiği belirtildi. Husiler ise Suudi Arabistan'ın 24 saat içinde Yemen'e 109 hava saldırısı gerçekleştirdiğini duyurdu.\n\nYaşanan gelişmelerin ardından Suudi Arabistan Veliaht Prensi Muhammed bin Selman'ın, İran savaşının başlamasından bu yana ilk kez ABD'yi ziyaret etmeyi planladığı bildirildi. Bin Selman'ın gelecek ay Florida'nın Miami kentinde düzenlenecek G20 Zirvesi'ne katılması ve ABD Başkanı Donald Trump ile bir araya gelmesi bekleniyor. Ziyarette Suudi Veliaht Prensi'nin Trump'tan askeri destek talep edeceği öne sürülüyor.",
+      "highlights": [
+        "Cizan bölgesindeki petrol rafinerisine isabet eden mühimmat nedeniyle bir işçi hayatını kaybetti, faaliyetler geçici olarak durduruldu.",
+        "Suudi Arabistan öncülüğündeki koalisyon, Yemen'de Husilerin kontrolündeki 50 noktaya saldırı düzenledi.",
+        "Veliaht Prens Muhammed bin Selman'ın ABD'yi ziyaret ederek Donald Trump'tan askeri destek istemesi bekleniyor."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/dunya/suudilerin-ekonomisi-hedefte-trumpdan-askeri-destek-mi-isteyecek-3498946",
+      "publishedAt": "2026-11-27T17:56:03.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "headline": "İspanyol kurtarma ekipleri Kanarya Adaları'na gelen göçmenlere müdahale ediyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1608052026785-0bc249c733e3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bWlncmFudHMlMjBib2F0fGVufDF8MHx8fDE3OTU4MDIwNjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Sam Mann",
+        "photographerUrl": "https://unsplash.com/@sammannfilms",
+        "unsplashUrl": "https://unsplash.com/photos/people-in-a-white-boat-during-daytime-41eo5e8jW08"
+      },
+      "videoEmbedAttemptedAt": "2026-11-27T17:54:24.180Z",
+      "timeAgo": "10 dk önce",
+      "body": "İspanya Askeri Acil Durum Birimi, El Hierro adasına karaya çıkarılan göçmenleri tedavi etmek amacıyla bölgeye gönderildi. Kanarya Adaları'na yüzlerce göçmenin ulaşmasının ardından yetkililer harekete geçti. Göçmenlerin ada kıyılarına getirilmesiyle birlikte sağlık müdahaleleri ve yardım çalışmaları başlatıldı. İspanyol ekipler, sahile ulaşan kişilerin sağlık durumlarıyla ilgilenmek üzere sahada görev yapıyor.",
+      "highlights": [
+        "İspanya Askeri Acil Durum Birimi El Hierro adasına gönderildi",
+        "Ekipler karaya çıkarılan göçmenleri tedavi ediyor",
+        "Kanarya Adaları'na yüzlerce göçmen geldi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "publishedAt": "2026-11-27T17:44:50.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/dunya/gurcistanin-ankara-buyukelcisi-bugun-disisleri-bakanligina-cagrildi-3498948",
       "headline": "Gürcistan'ın Ankara Büyükelçisi Dışişleri Bakanlığı’na çağrıldı",
@@ -91,15 +142,16 @@
       "timeAgo": "19 dk önce",
       "body": "İngiliz şarkıcı-söz yazarı ve gitarist Paris Paloma, Yunan mitolojisi, sanat ve feminizme övgü niteliği taşıyan ikinci albümü \"The Fatal Flaw\"ı tanıtıyor. Paris'teki konseri öncesinde set arkasında Dheepthika Laurent ile sohbet eden sanatçı, yeni albümünün ilk albümü \"Cacophony\"den neden daha kişisel olduğunu anlatıyor.\n\nPaloma ayrıca, 2023 yılında yayınlanan ve sosyal medyada ataerkilliğe ile cinsiyetçiliğe karşı bir marş haline gelerek yarım milyar kez dinlenen \"Labour\" şarkısının viral başarısını da değerlendiriyor.\n\nSanatçı aynı zamanda, yeni albümünde yer alan ve kültür alanında yapay zeka kullanımını eleştirdiği \"Miyazaki\" adlı şarkısından da bahsediyor.",
       "highlights": [
-        "Paris Paloma ikinci albümü \"The Fatal Flaw\"ı tanıtıyor",
-        "Sanatçı 2023 şarkısı \"Labour\"ın viral başarısını değerlendiriyor",
-        "Yeni albümdeki \"Miyazaki\" parçasında kültürde yapay zeka kullanımı eleştiriliyor"
+        "Paris Paloma ikinci albümü 'The Fatal Flaw'u duyurdu",
+        "'Labour' şarkısı yarım milyardan fazla dinlendi",
+        "'Miyazaki' parçasında yapay zeka kullanımı eleştiriliyor"
       ],
       "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw",
       "publishedAt": "2026-11-27T17:25:27.000Z",
       "category": "Teknoloji",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T17:54:24.092Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/fonda-ara-odeme-sureci-tamamlandi-1752900",
@@ -1439,16 +1491,16 @@
       "timeAgo": "2 dk önce",
       "body": "Dışişleri Bakanlığı: Mısır’ın Giza vilayetindeki çevre yolunda dün meydana gelen tanker yangını sonucunda yaşanan can kayıplarından derin üzüntü duyuyoruz. Kazada hayatını kaybedenlere Allah’tan rahmet, yakınlarına ve Mısır halkına başsağlığı, yaralılara acil şifalar diliyoruz.",
       "highlights": [
-        "Dışişleri Bakanlığı Mısır'daki facia için taziye mesajı yayımladı",
-        "Aytunç Erkin İmamoğlu ve ekibinin cumhurbaşkanı adaylığına dair kulis paylaştı",
-        "Mansur Yavaş konusunda uzlaşma olunmazsa merkez sağ ve milliyetçi muhafazakâr bir ismin düşünüldüğü aktarıldı"
+        "Mısır'ın Giza vilayetindeki çevre yolunda tanker yangını meydana geldi.",
+        "Dışişleri Bakanlığı, can kayıpları nedeniyle taziye mesajı yayımladı.",
+        "Olayda 31 kişi yaşamını yitirirken, 21 kişi yaralandı."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/disislerinden-misirdaki-faciada-hayatini-kaybedenler-icin-taziye-mesaji-4876738",
       "publishedAt": "2026-11-26T10:09:19.000Z",
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T10:14:20.271Z",
+      "sourceTextAttemptedAt": "2026-11-27T17:54:24.092Z",
       "imageSearchAttemptedAt": "2026-11-26T23:58:02.819Z"
     },
     {
@@ -6887,7 +6939,7 @@
       "publishedAt": "2026-11-23T17:02:18.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-27T17:44:22.811Z"
     },
     {
@@ -6937,8 +6989,12 @@
       "headline": "Adıyaman'daki 2 bin yıllık tünelin sırrı çözülüyor",
       "source": "Euronews",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1710070213761-acefc882bba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1ODAxNDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim  Dennert",
+        "photographerUrl": "https://unsplash.com/@tim_denn",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-bridge-vW8THslciLA"
+      },
       "timeAgo": "2 dk önce",
       "body": "Adıyaman'daki Arsameia Antik Kenti'nde yer alan 158 metre uzunluğundaki basamaklı tünelin yalnızca su temini için kullanılmadığı öne sürüldü. Hollanda'daki Leiden Üniversitesi'nden arkeolog Lennart Wouter Kruijer'in araştırması, kayaların içine oyulmuş gizemli yapının işlevine dair yeni bir bakış açısı sunuyor. Journal of Roman Archaeology dergisinde yayımlanan çalışmaya göre, tünelin karanlığı, dar geçitleri, dik basamakları ve sonundaki yeraltı suyu, antik dönemde kutsal alanı ziyaret edenlerin yaşadığı dini deneyimin bir parçası olabilir.\n\nNemrut Dağı yakınlarında yer alan Arsameia, Kommagene Krallığı'nın önemli dini merkezleri arasında bulunuyordu. Kral I. Mithridates Kallinikos'un mezar ve kutsal alanı olan bölge, oğlu I. Antiochos döneminde kraliyet kültünün merkezine dönüştü. Ziyaretçiler anıtsal bir güzergahı takip ederek Kral I. Mithridates'in mezar odasına ve ardından girişinde \"Büyük Kült Yazıtı\" bulunan 158 metrelik tünele ulaşıyordu. Kruijer, bu yapıların ziyaretçileri belirli bir rota boyunca aşamalı olarak yönlendirdiğini belirtiyor.\n\nTünelin derinliklerine inildikçe ışığın azaldığı, sıcaklığın düştüğü ve düzensiz basamakların insanları öne eğilmeye zorladığı ifade ediliyor. Araştırmacı, bu fiziksel koşulların ziyaretçilerde kaygı yarattığını ve yapının insan hareketlerini yönlendiren bir tür \"tuzak\" işlevi gördüğünü savunuyor. Ayrıca tünel girişindeki Herakles kabartmasının da etkisiyle yapının ölüm ve ölümden sonraki yaşamla sembolik bağlar taşıyabileceği değerlendiriliyor, ancak yeraltı dünyasıyla ilgili kesin bir ritüel kanıtlanmış değil.\n\nTünel, 158,1 metrelik inişin ardından herhangi bir çıkışa açılmadan, yuvarlak oyuklar ve su seviyesi değişen yeraltı suyuyla sona eriyor. Bu durum su temini görüşünü desteklese de Kruijer, suyun yalnızca pratik bir kaynak olmadığını, Kral Antiochos'un yazıtında bölge sularının ilahi niteliklerle ilişkilendirildiğini vurguluyor. Araştırma ayrıca Anadolu'daki benzer basamaklı tünellerin tamamının askeri amaçlı olmadığını, bazı yapıların dini bağlamda değerlendirilmesi gerektiğini ortaya koyuyor.",
       "highlights": [
@@ -6952,7 +7008,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:04:23.316Z",
-      "imageSearchAttemptedAt": "2026-11-24T18:44:29.302Z"
+      "imageSearchAttemptedAt": "2026-11-27T17:54:24.092Z"
     },
     {
       "id": "https://www.trthaber.com/haber/turkiye/istanbula-soguk-hava-geliyor-sicaklik-8-derece-dusuyor-964227.html",
@@ -7421,8 +7477,12 @@
       "headline": "Moscow accuses Estonia of acting ‘on verge of unleashing open war with Russia’ – Europe live",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1686397140636-3842a8895723?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1ODAxNDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Perry Merrity II",
+        "photographerUrl": "https://unsplash.com/@prince_perry",
+        "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-city-with-a-river-running-through-it-ltiFF47i2G4"
+      },
       "timeAgo": "6 dk önce",
       "body": "Estonia has continued to deny it has allowed Ukrainian drones to operate from its territory despite repeated unsubstantiated claims from the Kremlin Turning to Ukraine, Nato’s Rutte stresses the need to secure the flow of “crucial supplies” or air defence weapons and ammunition to Ukraine. “ It helps Ukraine to defend itself today, but it also strengthens Ukraine’s hands in any future negotiations with Russia. … But…",
       "highlights": [],
@@ -7431,7 +7491,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T19:04:28.505Z"
+      "imageSearchAttemptedAt": "2026-11-27T17:54:24.092Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-lodos-hizini-artiracak-ruzgar-firtinaya-donusecek-akomdan-istanbul-uyarisi-7706152",
