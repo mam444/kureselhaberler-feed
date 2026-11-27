@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-27T17:54:32.265Z",
+  "generatedAt": "2026-11-27T18:04:27.434Z",
   "articles": [
+    {
+      "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "headline": "Zelensky, BBC Söyleşisinde Trump ile Putin Arasındaki Dostluğu Eleştirdi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, BBC'ye verdiği röportajda ABD ile ilgili derin rahatsızlıklarını dile getirdi. Donald Trump'ın Vladimir Putin'i \"arkadaşım\" olarak adlandırmasını eleştiren Zelenskiy, kritik füze teslimatlarındaki gecikmelerin Ukraynalıların hayatına mal olduğunu belirtti. Zelenskiy, Trump'ın Putin'e sarıldığı bir fotoğrafları paylaşmasını \"garip\" olarak nitelendirerek, Putin'in bir saldırgan ve katil olduğunu ve arkadaş olamayacağını ifade etti.\n\nZelenskiy, ABD'nin barış görüşmelerinde Rusya'ya yeterince baskı yapmadığından şikayetçi oldu. Bu ay Abu Dabi'de gerçekleştirilen son tur barış görüşmelerinde somut bir ilerleme kaydedilmediği belirtilirken, görüşmelerin aralık ayında yeniden başlamasının beklendiği ifade edildi. Trump ise Truth Social platformunda yaptığı paylaşımda, Çin'deki zirvede Rusya'dan Avrupa genelindeki askeri saldırganlığı durdurmasını istediğini ve Ukrayna ile bir barış anlaşmasının güçlü bir olasılık olduğuna inandığını aktardı. Ancak Rusya'nın kamuoyuna yaptığı açıklamalarda uzlaşmaz müzakere pozisyonlarına geri döndüğü görüldü.\n\nÖte yandan Ukrayna, göklerini savunmakta zorlanmaya devam ediyor. Rus balistik füzeleri ve jet motorlu droneları enerji santrallerini, köprüleri ve büyük şehirleri hedef alırken, Zelenskiy en hızlı Rus dronelarının yaklaşık yüzde 70'ini imha edebildiklerini bildirdi. Ancak balistik füzeleri durdurmak için kullanılan önleyici füzelerde çok büyük bir açık olduğunu ve Amerikalıların Patriot sistemlerinin teslimatını geciktirdiğini söyledi. Zelenskiy ayrıca işgal altındaki bölgelerde ABD uydu iletişim sistemi Starlink ve askeri versiyonu Starshield'ın kullanımının hâlâ kısıtlandığını doğruladı.\n\nUkrayna'nın son haftalarda petrol rafinerileri ve silah taşıyan gemiler dahil olmak üzere Rus hedeflerine yönelik uzun menzilli saldırılarını artırdığı bildirildi. İtalya Başbakanı Giorgia Meloni, Libya'da bir Rus savaş gemisinin batırılmasının savaşı Akdeniz'e yayma riski taşıdığını belirtirken, Zelenskiy bu hamleyi savunarak savaş gemisinin \"kesinlikle adil bir hedef\" olduğunu dile getirdi. Zelenskiy, Ukrayna'nın başkentini ne pahasına olursa olsun savunmaya çalışacaklarını vurguladı.",
+      "highlights": [
+        "Volodymyr Zelensky, BBC'ye verdiği röportajda Donald Trump'ın Vladimir Putin'i \"arkadaşım\" olarak nitelendirmesini eleştirdi.",
+        "Zelenskiy, ABD'nin Patriot füzesi teslimatlarındaki gecikmelerinin Ukraynalıların hayatına mal olduğunu belirtti.",
+        "Ukrayna Devlet Başkanı, Rusya'nın saldırıları ve enerji altyapısına yönelik baskıları nedeniyle zorlu bir kışa hazırlandıklarını ifade etti."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T18:00:40.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/dunya/suudilerin-ekonomisi-hedefte-trumpdan-askeri-destek-mi-isteyecek-3498946",
       "headline": "Suudilerin ekonomisi hedefte: Trump’tan askeri destek mi istejecek?",
@@ -50,7 +74,8 @@
       "publishedAt": "2026-11-27T17:44:50.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T18:04:20.691Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/gurcistanin-ankara-buyukelcisi-bugun-disisleri-bakanligina-cagrildi-3498948",
@@ -7490,7 +7515,7 @@
       "publishedAt": "2026-11-23T15:09:09.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-27T17:54:24.092Z"
     },
     {
@@ -7523,8 +7548,12 @@
       "headline": "Former Tory PMs ‘can’t face up to their bad Brexit deal’, says Burnham – UK politics live",
       "source": "The Guardian",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1663427929917-333d88949f7a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Z2xvYmFsJTIwZWNvbm9teSUyMG1hcmtldHxlbnwxfDB8fHwxNzk1ODAyNjY2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Carl Wang",
+        "photographerUrl": "https://unsplash.com/@carl_wang",
+        "unsplashUrl": "https://unsplash.com/photos/a-view-of-the-earth-from-space-OCe8cTGymSQ"
+      },
       "timeAgo": "13 dk önce",
       "body": "Rishi Sunak joins other former Tory PMs in urging Burnham not to reopen the debate on Brexit In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all…",
       "highlights": [],
@@ -7533,7 +7562,7 @@
       "category": "Ekonomi",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T20:04:17.668Z"
+      "imageSearchAttemptedAt": "2026-11-27T18:04:20.691Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/lastik-firmasinin-sahtekarligi-arac-kamerasiyla-ifsa-oldu-ayari-elleme-bozuk-de-4875771",
@@ -7736,8 +7765,12 @@
       "headline": "PAMELA bring a little light to darker times with 'Dancing on the Edge'",
       "source": "France 24",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXJ0JTIwbXVzZXVtfGVufDF8MHx8fDE3OTU4MDI2Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dannie Jing",
+        "photographerUrl": "https://unsplash.com/@dannie_jing",
+        "unsplashUrl": "https://unsplash.com/photos/assorted-paintings-on-white-painted-wall-3GZlhROZIQg"
+      },
       "timeAgo": "8 dk önce",
       "body": "In this arts24 music show, Jennifer Ben Brahim chats with PAMELA, a Franco-British duo flying the flag for cross-channel friendship. Sam Sprent and Simon Quénéa blend British wit with French flair, carving out a distinctive electro-post-punk sound of their own. They've just released their debut album \"Dancing on the Edge\", an impassioned call to embrace life to the fullest, even when the world beyond feels dark and…",
       "highlights": [],
@@ -7746,7 +7779,7 @@
       "category": "Kültür & Sanat",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T20:04:17.668Z"
+      "imageSearchAttemptedAt": "2026-11-27T18:04:20.691Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/23/portishead-no-music-for-genocide-hareketine-katildi-israilde-muzigini-erisime-kapatti",
@@ -14438,130 +14471,6 @@
       "sourceTextAttemptedAt": "2026-11-21T18:54:21.264Z",
       "isBreaking": false,
       "videoEmbedAttemptedAt": "2026-11-27T16:54:33.924Z"
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/trump-iran-ile-anlasmayi-reddetim-akarkayit-fiyatlari-anlasmaya-bagli-7704708",
-      "headline": "Trump: İran ile anlaşmayı reddettim, akaryakıt fiyatları anlaşmaya bağlı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1569285645462-a3f9c6332d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NTE5Nzg3MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Darren Halstead",
-        "photographerUrl": "https://unsplash.com/@darren1303",
-        "unsplashUrl": "https://unsplash.com/photos/man-wearing-donald-trump-mask-standing-in-front-of-white-house-B_vXFdzvw3g"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "ABD Başkanı Donald Trump, APEC zirvesinde Rusya Devlet Başkanı Vladimir Putin ile Çin Devlet Başkanı Xi Jinping ile yaptığı üçlü görüşmenin ardından Beyaz Saray’da basın toplantısı düzenledi. Dört gün içinde 20’den fazla liderle görüştüğünü ve iki yeni ticaret anlaşmasında uzlaşma sağladıklarını belirten Trump, yaklaşık on anlaşmanın daha geleceğini duyurdu.\n\nAkaryakıt fiyatlarına değinen Trump, petrol fiyatlarının seçimlerin ardından sert düştüğünü ifade ederek, \"Petrol fiyatları, İran ile anlaşmaya da bağlı fakat İran, benim kabul edebileceğim bir anlaşma istemiyor. Ben gerçek bir anlaşma yapmak istiyorum\" dedi. Başkanlık dönemine ve dış politika konularına da değinen Trump, Rusya Devlet Başkanı Putin’in kendisine, kendisi başkan olsaydı Ukrayna’daki savaşın yaşanmayacağını söylediğini aktardı.\n\nDanimarka Parlamentosunun ABD ile Grönland anlaşmasını onaylamasını değerlendiren Trump, Grönland'ın kendilerinde olduğunu ve bu durumun koruma sağladığını belirtti. Ayrıca ABD, Rusya ve Çin'in nükleer çatışma yaşanmasına asla izin verilmemesi konusunda resmen anlaşmaya vardığını açıkladı. Yapay zeka alanında da açıklamalar yapan Trump, ABD dışına veri merkezi kuran şirketlere çok ağır vergiler uygulayacaklarını söyledi.",
-      "highlights": [
-        "Petrol fiyatları İran ile anlaşmaya bağlı ancak İran kabul edebileceğim bir anlaşma istemiyor",
-        "ABD, Rusya ve Çin nükleer çatışma yaşanmaması konusunda anlaştı",
-        "Danimarka Parlamentosunun onayının ardından Grönland'ın ABD'de olduğu belirtildi"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/trump-iran-ile-anlasmayi-reddetim-akarkayit-fiyatlari-anlasmaya-bagli-7704708",
-      "publishedAt": "2026-11-20T18:02:06.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:24:18.888Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-      "headline": "Danimarka'dan Rus istihbaratına suikast suçlaması",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1557081999-0ea3e23579d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwYXJyZXN0fGVufDF8MHx8fDE3OTUxOTc4NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ev",
-        "photographerUrl": "https://unsplash.com/@ev",
-        "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-police-standing-and-leaning-on-wall-pqkGQboKSeM"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Danimarka Başbakanlık ofisi tarafından yapılan açıklamaya göre, yetkililer Danimarka topraklarında bir Amerikan Ukrayna vatandaşını öldürme girişimini engelledi. Söz konusu suikast girişiminin Rus istihbarat servisleri tarafından tasarlandığı iddia edildi. Danimarka yayın kuruluşu DR'ın haberine göre bu gelişmenin ardından Rusya'nın savunma ataşesi Danimarka'dan sınır dışı edildi. Polis, suikast girişimiyle bağlantılı olarak yasaklı Danimarka çetesi \"Loyal to Familia\"nın üyesi olduğu öne sürülen iki kişinin tutuklandığını bildirdi. Danimarka'nın yaptığı bu duyuru, Avrupa ile Rusya arasındaki gerilimin yeniden yükseldiği bir dönemde geldi. Bu arada, Polonya Başbakanı'nın ülkesindeki askeri tatbikatlarla zamanlanmış muhtemel bir provokasyon olarak nitelendirdiği olayda, iki Rus füzesi ve şüpheli bir drone Polonya'ya düştü.",
-      "highlights": [
-        "Danimarka'da Amerikan vatandaşı bir Ukraynalıya suikast girişiminin engellendiği açıklandı.",
-        "Planın Rus istihbarat servisleri tarafından tasarlandığı iddia edilirken Rus savunma ataşesi sınır dışı edildi.",
-        "Suikast girişimiyle bağlantılı olarak iki kişi tutuklandı."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
-      "publishedAt": "2026-11-20T17:59:38.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T19:04:17.220Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-      "headline": "Burnham AB ile Brexit Sonrası En Büyük Yakınlaşmayı Sağladı, Ticaret ve Genç Hareketliliği Anlaşmaları İmzalandı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RVUlMjBzdW1taXQlMjBCcnVzc2Vsc3xlbnwxfDB8fHwxNzk1MTcwODc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Guillaume Périgois",
-        "photographerUrl": "https://unsplash.com/@guillaumeperigois",
-        "unsplashUrl": "https://unsplash.com/photos/row-of-european-union-flags-0NRkVddA2fw"
-      },
-      "timeAgo": "17 dk önce",
-      "body": "Brüksel'deki zirvede AB ve Birleşik Krallık arasında gıda ve içecek, emisyon ticareti ile gençlerin hareketliliğini kapsayan üç anlaşma duyuruldu. Bu kapsamda 100 bin genç Britanyalının AB'de yaşayıp çalışabilmesi, eğitim alabilmesi ve seyahat edebilmesi öngörülürken, Avrupalılara da İngiltere'de karşılıklı erişim hakkı tanınması kararlaştırıldı. Ancak anlaşmalar, İngiltere'nin Avrupalı öğrencilere yerel düzeyde öğrenim ücreti uygulamaması durumunda AB'nin bunları bloke edebileceği tehdidiyle altı ay içinde raydan çıkma riskiyle karşı karşıya kaldı.\n\nBaşbakan anlaşmaların tamamlandığını, hafta sonu veya önümüzdeki hafta parlamentoya sunulacağını belirterek uygulamada bir karışıklık olmadığını savundu. Avrupa Komisyonu Başkanı Ursula von der Leyen ise anlaşmazlığı küçümseyerek bir çözüm bulunacağına olan güvenini dile getirdi. Anlaşmanın İngiltere'nin GSYH'sine yüzde 0,5 oranında, yani İngiliz ekonomisine 17 milyar sterlinlik bir katkı sağlayacağı ifade edildi.\n\nBrüksel'de karşı basın toplantısı düzenleyen Nigel Farage gibi siyasi muhalefet temsilcileri, başbakanın saf davranarak AB tarafından öğrenim ücreti indirimleri konusunda köşeye sıkıştırıldığını iddia etti. Öte yandan Avrupa Konseyi Başkanı António Costa, İngiltere'yi en yakın komşu ve doğal ortak olarak nitelendirerek aynı yönde ilerlediklerini vurguladı.\n\nGizli bir AB belgesine göre, Avrupa Konseyi ve Komisyonu, tüm öğrenciler için öğrenim ücretlerinde ulusal muamele sağlanmadığı sürece bu anlaşmaların yürürlüğe girmeyeceği yönünde bir deklarasyon üzerinde uzlaştı. Ayrıca gıda ve içecek ile emisyon ticareti anlaşmaları, İngiltere'nin AB kurallarına uyum sağlamasını gerektirirken, İngiliz uzmanların oy hakkı olmaksızın ilgili AB toplantılarına davet edileceği belirtildi.",
-      "highlights": [
-        "AB ve İngiltere arasında ticaret, emisyon ve genç hareketliliğini içeren üç anlaşma imzalandı.",
-        "Anlaşmalar, Avrupa'dan gelen öğrencilere İngiltere'de yerel düzeyde öğrenim ücreti uygulanmaması halinde altı ay içinde engellenme tehlikesiyle karşı karşıya.",
-        "Yeni düzenlemelerin İngiliz ekonomisine 17 milyar sterlinlik bir katkı sağlaması hedefleniyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
-      "publishedAt": "2026-11-20T17:57:10.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-yapilacak-saglik-bakanligi-personel-alimi-basvuru-tarihleri-belli-oldu-mu-hemsire-3495181",
-      "headline": "Sağlık Bakanlığı 38 Bin Personel Alımı Ne Zaman Yapılacak? Başvuru Tarihleri ve Detaylar",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1584432810601-6c7f27d2362b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8aG9zcGl0YWwlMjBzdGFmZnxlbnwxfDB8fHwxNzk1MTk3Mjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "JESHOOTS.COM",
-        "photographerUrl": "https://unsplash.com/@jeshoots",
-        "unsplashUrl": "https://unsplash.com/photos/woman-in-white-button-up-shirt-and-blue-stethoscope-l0j0DHVWcIE"
-      },
-      "timeAgo": "şimdi",
-      "body": "Sağlık Bakanlığı tarafından gerçekleştirilmesi planlanan 38 bin personel alımı süreci, kamu hastanelerinde görev almak isteyen adaylar tarafından yakından takip ediliyor. Hekim dışı personel istihdamını kapsayan bu süreçte özellikle hemşire, ebe, sağlık teknikeri, teknisyen ve destek personeli kadrolarında görev almak isteyenler gözlerini yayımlanacak tercih kılavuzuna çevirmiş durumda.\n\nRecep Tayyip Erdoğan, İstanbul Üniversitesi Hastanesi Çapa Yerleşkesi Toplu Temel Atma ve Toplu Açılış Töreni'nde konuyla ilgili bir açıklama yaptı. Erdoğan, sağlık hizmetlerinin etkin şekilde sürdürülebilmesi amacıyla 2026 yılı sona ermeden 38 bin hekim dışı personel alımı için ilana çıkılacağını duyurdu.\n\nAlım sürecine ilişkin başvuru takvimi, kadro dağılımı ve diğer ayrıntıların önümüzdeki günlerde Sağlık Bakanlığı tarafından kamuoyuyla paylaşılacağı belirtildi. Sağlık teşkilatının insan kaynağını güçlendirmeyi amaçlayan istihdam planı kapsamında kadro dağılımları ve başvuru koşullarının ilanla netleşmesi bekleniyor.\n\nŞu an için Sağlık Bakanlığı'nın 38 bin hekim dışı personel alımına dair başvuru takvimi ve şartları henüz açıklanmadı. Adaylar güncel bilgilere Sağlık Bakanlığı'nın resmi duyuruları üzerinden ulaşabiliyor. Yeni bir açıklama yayımlandığında başvuru tarihleri ve kadro bilgileri netlik kazanacak.",
-      "highlights": [
-        "Sağlık Bakanlığı 2026 yılı sona ermeden 38 bin hekim dışı personel alımı için ilana çıkılacağını duyurdu.",
-        "Alım sürecine ilişkin başvuru takvimi, kadro dağılımı ve başvuru şartları henüz açıklanmadı.",
-        "Adaylar hemşire, ebe, sağlık teknikeri, teknisyen ve destek personeli kadroları için yayımlanacak tercih kılavuzunu bekliyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/saglik-bakanligi-38-bin-personel-alimi-ne-zaman-yapilacak-saglik-bakanligi-personel-alimi-basvuru-tarihleri-belli-oldu-mu-hemsire-3495181",
-      "publishedAt": "2026-11-20T17:55:21.000Z",
-      "category": "Sağlık",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:04:26.955Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
-      "headline": "İngiltere'de Beş Parlamenter Sandalyeden Dördünde Seçmenler AB'ye Yeniden Katılmayı Destekliyor",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1625440153141-1ae4c27ff33b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8RXVyb3BlYW4lMjBVbmlvbiUyMGZsYWd8ZW58MXwwfHx8MTc5NTE5OTA3OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "ALEXANDRE LALLEMAND",
-        "photographerUrl": "https://unsplash.com/@alexandrelallemand",
-        "unsplashUrl": "https://unsplash.com/photos/blue-and-yellow-flag-on-pole-Pcs3mOL14Sk"
-      },
-      "timeAgo": "29 dk önce",
-      "body": "Yeni bir kamuoyu araştırmasına göre, Büyük Britanya genelindeki seçmenlerin önemli bir çoğunluğu Birleşik Krallık'ın Avrupa Birliği'ne yeniden katılmasına destek veriyor. 7.000'den fazla kişiyle bu ay gerçekleştirilen anket verilerine dayanan konsolide modelleme, beş parlamento sandalyesinden dördünde seçmenlerin yeniden katılım yönünde eğilim gösterdiğini ortaya koydu. Araştırmayı gerçekleştiren Fortius Global firmasının analizine göre, 512 seçim bölgesinde AB'ye geri dönme taraftarları çoğunlukta bulunurken, 73 bölge dışarıda kalmayı destekliyor ve 47 bölgede ise durum başa baş görünüyor.\n\nAraştırma, 2016 yılında Brexit lehine oy kullandığı tahmin edilen 394 seçim bölgesinden 274'ünde seçmenlerin artık AB'ye yeniden katılmak istediğini gösterdi. Bu bölgeler arasında, aralarında başbakanın seçim bölgesi Makerfield ile Kemi Badenoch'un Kuzey Batı Essex koltuğunun da bulunduğu pek çok eski Brexit yanlısı bölge yer alıyor. Ayrıca kabinedeki bakanların ve milletvekillerinin koltuklarının bulunduğu bazı bölgelerde de benzer bir eğilimin olduğu belirtiliyor.\n\nModelleme sonuçlarına göre AB'ye yeniden katılma seçeneği İngiltere'de %58,3, İskoçya'da %68,9 ve Galler'de %57,9 oranında önde bulunuyor. Bu gelişmeler yaşanırken, Brexit kampanyasını yürüten isimler Michael Gove'un desteklediği \"Stay Out\" adlı yeni bir hareketin kuruluşunu duyururken, Nigel Farage ise Brexit'in tersine çevrilmesi durumunda sokak protestoları olabileceği uyarısında bulundu.\n\nAraştırma, AB'ye yeniden katılma yönündeki tartışmaların İşçi Partisi'nin seçimlardeki oy potansiyeline etkisini de inceledi. Tam AB üyeliği senaryosunda İşçi Partisi'nin olası yeni seçim bölgelerinde öne geçebileceği ve oy payının artabileceği öngörüldü. Andy Burnham, Makerfield seçim bölgesindeki seçmenlerin geçmişte sanayi düşüşü ve kesintiler nedeniyle AB'den ayrılmayı seçtiğini, ancak Brexit destekçilerinin vaat ettiği değişimin gerçekleşmediğini ifade etti.",
-      "highlights": [
-        "Beş parlamenter koltuğundan dördünde seçmenler AB'ye yeniden katılmayı destekliyor.",
-        "2016'da ayrılma yönünde oy kullandığı tahmin edilen 274 seçim bölgesinde artık AB'ye yeniden katılma isteği bulunuyor.",
-        "Modelleme sonuçlarına göre yeniden katılma seçeneği İngiltere, İskoçya ve Galler'de önde yer alıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/2026/nov/20/voters-in-four-out-of-five-uk-parliamentary-seats-back-rejoining-eu",
-      "publishedAt": "2026-11-20T17:55:09.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T18:34:16.595Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
