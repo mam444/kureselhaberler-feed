@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-27T18:24:21.284Z",
+  "generatedAt": "2026-11-27T18:34:45.177Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/finans-haberler/sermaye-piyasasi-kanunu-degisiyor-calisma-tamamlandi-iste-detaylar-3498954",
+      "headline": "Sermaye Piyasası Kanunu Değişikliği İçin Çalışmalar Tamamlandı",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b09a0314e094da32235cdfd.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/video/finans-haberler/sermaye-piyasasi-kanunu-degisiyor-calisma-tamamlandi-iste-detaylar-3498954"
+      },
+      "videoEmbedAttemptedAt": "2026-11-27T18:34:30.270Z",
+      "timeAgo": "şimdi",
+      "body": "Fon piyasasında meydana gelen sorunların ardından sermaye piyasasını güçlendirmek amacıyla önemli bir adım atılıyor. Konuya ilişkin Sermaye Piyasası Kanunu'nda yapılması öngörülen değişikliklere dair çalışmaların tamamlandığı bildirildi. Hazırlanan yeni düzenlemenin yakın bir zamanda Meclis Başkanlığına sunulması bekleniyor.",
+      "highlights": [
+        "Sermaye Piyasası Kanunu değişikliği çalışmaları tamamlandı",
+        "Düzenlemenin yakın zamanda Meclis Başkanlığına sunulması bekleniyor"
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/finans-haberler/sermaye-piyasasi-kanunu-degisiyor-calisma-tamamlandi-iste-detaylar-3498954",
+      "publishedAt": "2026-11-27T18:35:24.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1752904",
       "headline": "On Numara sonuçları açıklandı: 28 Ağustos 2026 çekilişinde kazanan numaralar ve bilet sorgulama ekranı",
@@ -89,15 +113,16 @@
       "timeAgo": "28 dk önce",
       "body": "Uganda ordusu Cuma günü yaptığı açıklamada, Kuzey Kivu eyaletindeki Lubero kasabasından asker çekmeyi planladığını bildirdi. Bu karar, Uganda ordu komutanı ve Devlet Başkanı Yoweri Museveni'nin oğlu Muhoozi Kainerugaba'nın Kuzey Kivu'daki Walikale kasabasının kontrolünü ele geçirme tehdidinde bulunmasının ardından iki ülke arasında diplomatik gerilim yaşanmasının ardından geldi. Kainerugaba sosyal medyada yaptığı paylaşımda ayrıca Haut-Uele eyaletinin başkenti Isiro'daki havalimanının koalisyonsuz teslim edilmesini istemişti. Kinshasa yönetimi, açıklamaların ardından Uganda'nın büyükelçilik misyon şefini dışişleri bakanlığına çağırmıştı.\n\nÖte yandan Uganda ordusu sözcüsü, Kongolu hükümetiyle bağlantılı olduğu görülen milis güçlerinin sivillere yönelik saldırılarını artırdığını öne sürdü. Sözcü, bu milis güçlerinin Ituri ve Kuzey Kivu bölgelerindeki savunmasız topluluklara karşı saldırılar düzenlediğini belirtti. Uganda Silahlı Kuvvetleri (UPDF), Kongo Demokratik Cumhuriyeti'nin (KDC) doğusundaki Ituri ve Kuzey Kivu eyaletlerinde 2021 yılından bu yana konuşlandırılmış durumda bulunuyor.\n\nKDC'nin mineral zengini doğu kesimleri, otuz yılı aşkın süredir çatışmalarla sarsılıyor ve bu durum komşu ülkeler Uganda ile Rwanda'yı da çatışmalara çekiyor. Uganda birlikleri bölgeye, İslam Devleti bağlantılı militanlara karşı Kongo ordusuna destek vermek amacıyla gönderilmişti. Bölgede ayrıca Rwanda destekli M23 olarak bilinen FRN anti-hükümet grubu ile mücadele ediliyor.",
       "highlights": [
-        "Uganda ordusu, Kuzey Kivu'daki Lubero kasabasından asker çekeceğini duyurdu.",
-        "Karar, ordu komutanı Muhoozi Kainerugaba'nın Walikale kasabası hakkındaki tehdidinin ardından alındı.",
-        "KDC yönetimi, söz konusu açıklamalar nedeniyle Uganda'nın misyon şefini çağırmıştı."
+        "Uganda ordusu Kuzey Kivu'daki Lubero kasabasından çekilmeyi planladığını açıkladı.",
+        "Uganda ordu komutanı Muhoozi Kainerugaba'nın Walikale'yi ele geçirme tehdidi diplomatik krize yol açtı.",
+        "Kongo Demokratik Cumhuriyeti, açıklamaların ardından Uganda'nın diplomatını çağırmıştı."
       ],
       "externalUrl": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
       "publishedAt": "2026-11-27T17:56:28.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T18:34:23.735Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/suudilerin-ekonomisi-hedefte-trumpdan-askeri-destek-mi-isteyecek-3498946",
@@ -150,6 +175,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-27T18:04:20.691Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+      "headline": "Ukrayna Karadeniz'de Ateşkes Teklif Etti, Putin Donanmayı Genişletiyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1578664865136-74b450f31cd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8QmxhY2slMjBTZWF8ZW58MXwwfHx8MTc5NTgwNDQ2OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Clayton Tonna",
+        "photographerUrl": "https://unsplash.com/@claytontonna",
+        "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photo-of-body-of-water-qINZ8zEYErY"
+      },
+      "timeAgo": "50 dk önce",
+      "body": "Ukrayna, Karadeniz'de ateşkes sağlanması yönündeki önerisi için Moskova'nın yanıtını bekliyor. Bu gelişme, Rusya Devlet Başkanı Vladimir Putin'in ülkenin donanmasını genişlettiği bir döneme denk geliyor.\n\nSürece ilişkin olarak Ukrayna tarafı, Moskova yönetiminin konuya nasıl yaklaşacağını görmek üzere bekleyişini sürdürüyor. Öte yandan Ukrayna lideri Volodimir Zelenskyy, ABD'nin seçilmiş başkanı Donald Trump ile Putin arasındaki ilişkiyi eleştiren açıklamalarda bulundu.\n\nKaradeniz'deki ateşkes teklifi ve Rus donanmasının büyümesine dair taraflardan gelen açıklamalar uluslararası kamuoyunun gündeminde yer almaya devam ediyor. Moskova'nın öneriye vereceği resmi yanıt henüz netlik kazanmadı.",
+      "highlights": [
+        "Ukrayna Karadeniz'de ateşkes teklifinde bulundu ve Moskova'nın yanıtını bekliyor",
+        "Putin Rusya'nın donanmasını genişletiyor",
+        "Zelenskyy Trump ile Putin arasındaki ilişkiyi eleştirdi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+      "publishedAt": "2026-11-27T17:44:33.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.cnnturk.com/dunya/gurcistanin-ankara-buyukelcisi-bugun-disisleri-bakanligina-cagrildi-3498948",
@@ -899,18 +948,18 @@
         "sourceUrl": "https://www.cnnturk.com/dunya/kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti-3498719"
       },
       "timeAgo": "şimdi",
-      "body": "İtalya Dışişleri Bakanlığı tarafından yapılan açıklamaya göre, Kuveyt'te insansız hava araçlarıyla (İHA) düzenlenen saldırıda 2 İtalyan teknisyen yaşamını yitirdi. Bakanlık, İtalya'nın Kuveyt Büyükelçiliği aracılığıyla ülkeye yönelik İHA saldırısı ile patlamanın yakından takip edildiğini bildirdi.\n\nAçıklamada, patlamanın Kuveyt Silahlı Kuvvetleri tarafından kullanılan Skyguard hava savunma sisteminin tespit antenlerinde bakım yapan Rheinmetall Italia'dan 2 İtalyan teknisyenin çalıştığı tesisi etkilediği ve söz konusu kişilerin hayatını kaybettiği ifade edildi. Ayrıca Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani'nin durumu yakından takip ettiği ve hayatını kaybedenlerin ailelerine başsağlığı dilediği aktarıldı.\n\nAvrupa Birliği Liderler Zirvesi için Brüksel'de bulunan Başbakan Giorgia Meloni de sosyal medya hesabından bir paylaşımda bulundu. Meloni, toplantı sırasında Kuveyt'teki saldırıda 2 İtalyan vatandaşının hayatını kaybettiği haberini aldığını belirterek, kendi adıyla hükümet adına derin üzüntülerini ifade etti ve ailelere başsağlığı diledi.\n\nÖte yandan Kuveyt ordusu, İran'ın ülkeye düzenlediği İHA saldırısında kritik öneme sahip bir tesisin hedef alındığını bildirmişti.",
+      "body": "İtalya Dışişleri Bakanlığı, Kuveyt'te insansız hava araçlarıyla (İHA) gerçekleştirilen saldırıda 2 İtalyan teknisyenin yaşamını yitirdiğini açıkladı. Bakanlığın yazılı açıklamasında, ülkeye yönelik İHA saldırısının ve yaşanan patlamanın İtalya'nın Kuveyt Büyükelçiliği vasıtasıyla yakından takip edildiği bildirildi.\n\nSöz konusu patlamanın, Kuveyt Silahlı Kuvvetleri tarafından kullanılan Skyguard hava savunma sisteminin tespit antenlerinde bakım yapan Rheinmetall Italia şirketine ait 2 İtalyan teknisyenin çalıştığı tesisi etkilediği belirtildi. Olayda bu 2 İtalyan vatandaşının hayatını kaybettiği aktarıldı.\n\nBaşbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani'nin süreci yakından izlediği ve yaşamını yitirenlerin ailelerine başsağlığı dileklerini ilettiği ifade edildi.\n\nÖte yandan, Avrupa Birliği (AB) Liderler Zirvesi dolayısıyla Brüksel'de bulunan Başbakan Giorgia Meloni de sosyal medya hesabından bir açıklama yaptı. Meloni, Kuveyt'teki saldırıda 2 İtalyan vatandaşının hayatını kaybettiği haberini aldığını belirterek, kendi adıyla hükümet adına derin üzüntü duyduğunu kaydetti ve ailelere başsağlığı diledi.\n\nKuveyt ordusu ise daha önce yaptığı açıklamada, İran'ın ülkeye düzenlediği İHA saldırısında kritik önem taşıyan bir tesisin hedef alındığını bildirmişti.",
       "highlights": [
-        "Kuveyt'teki İHA saldırısında 2 İtalyan teknisyen hayatını kaybetti",
-        "İtalya Dışişleri Bakanlığı patlamanın Rheinmetall Italia çalışanlarını etkilediğini duyurdu",
-        "Kuveyt ordusu saldırının İran tarafından düzenlendiğini bildirdi"
+        "Kuveyt'e düzenlenen İHA saldırısında 2 İtalyan teknisyen hayatını kaybetti.",
+        "Olay, Skyguard hava savunma sisteminin tespit antenlerinde bakım yapılan tesisi etkiledi.",
+        "İtalya Başbakanı Meloni ve Dışişleri Bakanı Tajani ailelere başsağlığı diledi."
       ],
       "externalUrl": "https://www.cnnturk.com/dunya/kuveyte-yonelik-iha-saldirisinda-2-italyan-hayatini-kaybetti-3498719",
       "publishedAt": "2026-11-26T18:08:15.000Z",
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T18:24:24.115Z"
+      "sourceTextAttemptedAt": "2026-11-27T18:34:23.735Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
@@ -10900,7 +10949,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T18:44:21.544Z",
-      "imageSearchAttemptedAt": "2026-11-24T21:04:31.699Z"
+      "imageSearchAttemptedAt": "2026-11-27T18:34:23.735Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -12015,8 +12064,12 @@
       "headline": "Altın ve gümüşte sert düşüş! Değerli metaller 34 haftanın en kötü haftasını yaşadı",
       "source": "CNN Türk",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1604893080692-2a656f2a8875?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NzE5OTUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Manny Becerra",
+        "photographerUrl": "https://unsplash.com/@mannyb",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-silver-bicycle-in-front-of-the-man-in-black-shirt-pQ8j__a4He4"
+      },
       "timeAgo": "şimdi",
       "body": "Değerli metaller, Fed'in faiz artırımına gidebileceği endişeleri, doların güçlenmesi ve hisse senedi piyasalarındaki satış baskısının yarattığı nakit ihtiyacı nedeniyle sert değer kaybetti. Altın, gümüş ve platin fiyatlarında yaşanan gerileme, haftalık bazda son 34 haftanın en büyük kayıplarını beraberinde getirdi.",
       "highlights": [],
@@ -12026,7 +12079,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T14:34:23.025Z",
-      "imageSearchAttemptedAt": "2026-11-24T21:14:27.992Z"
+      "imageSearchAttemptedAt": "2026-11-27T18:34:23.735Z"
     },
     {
       "id": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
@@ -14462,55 +14515,6 @@
       "category": "Dünya",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T19:04:17.220Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-      "headline": "İspanya, ABD'nin iadesini istediği aktivist James 'Fergie' Chambers'ı kefaletle serbest bıraktı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591065411478-97722a82fe81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cHJvdGVzdCUyMHByb3Rlc3RvciUyMGFjdGl2aXN0fGVufDF8MHx8fDE3OTUyMDA4Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Koshu",
-        "photographerUrl": "https://unsplash.com/@koshuuu",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-black-jacket-holding-white-printer-paper-ILpe0MpOYww"
-      },
-      "timeAgo": "20 dk önce",
-      "body": "İspanya mahkemesi, ABD'nin iade talebini değerlendirdiği sırada zengin ABD'li aktivist ve bağışçı James “Fergie” Chambers'ı kefaletle serbest bıraktı. Bu gelişmeyle eş zamanlı olarak İrlanda polisi, ABD yetkililerinin talebi üzerine Chambers ve partneri Stella Schnabel'in Dublin'deki evine baskın düzenledi. İspanya'daki temyiz mahkemesi, iade talebinin temel belgelerinin İspanyolcaya yasal olarak gerekli olan çevirisindeki sorunlar nedeniyle Cuma günü tutuksuz yargılanma kararı aldı. Chambers'ın avukatları ve savunma ekibi, ABD'nin orijinal çeviride yaptığı değişikliklerin hukuki etkilerine dikkat çekti. Madrid'deki Aranjuez cezaevinin dışında serbest bırakıldıktan sonra konuşan Chambers, hakkındaki suçlamaların temelsiz olduğunu söyledi.\n\nChambers'ın davası, ABD'nin Hamas'a destek iddiasıyla bir vatandaşının iadesini istediği bilinen ilk örnek olma özelliği taşıyor. İddianın, iade talebinin temelini oluşturan uluslararası kara para aklama suçlaması ve Gazze'deki Filistinlilere yardım eden kuruluşlara yapılan bağışlarla bağlantılı olduğu belirtiliyor. Ailesinin şirketi Cox Enterprises'tan 250 milyon dolarlık mirasın varisi olan Chambers, İsrail ve Gazze konusundaki tartışmalı paylaşımları ve ilerici projelere yaptığı bağışlarla biliniyor.\n\nDiğer yandan, İrlanda polisi (Garda Síochána) ABD yetkililerinin talebiyle Çarşamba günü Chambers ve Schnabel'in Dublin'deki konutuna baskın gerçekleştirdi. Çiftin İrlandalı avukatı Ciarán Mulholland, polisin ön kapıyı kırarak elektronik eşyalara ve diğer bazı mallara el koyduğunu aktardı. Beş aylık hamile olan Stella Schnabel, baskının ABD'li yetkililerin ellerindeki dayı güçlendirmek amacıyla yaptığı çaresiz bir arayıştan ibaret olduğunu ifade etti. Avukat Mulholland, İrlanda devletinin bu şekilde gizli bir tutum sergilemesinin olağandışı olduğunu belirterek yetkililerden arama emri ve el konulan eşyaların listesini talep etti. İspanya'daki yüksek mahkemenin iade kararına ilişkin duruşma süreci, çeviri sorunlarının incelenmesi nedeniyle ertelendi. Savcılığın bu konuya yazılı olarak yanıt vermesi için fırsat tanınırken, savunma ekibi çeviri değişikliklerine dair kapsamlı bir rapor sundu.",
-      "highlights": [
-        "İspanya, ABD'nin iadesini talep ettiği James 'Fergie' Chambers'ı kefaletle serbest bıraktı.",
-        "İrlanda polisi, ABD yetkililerinin talebiyle Chambers ve partnerinin Dublin'deki evine baskın düzenledi.",
-        "Mahkeme, iade talebinin İspanyolca çevirisindeki sorunlar nedeniyle serbest bırakılma kararı aldı."
-      ],
-      "externalUrl": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
-      "publishedAt": "2026-11-20T18:34:13.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-cuma-gununu-dususle-tamamladi-3495922",
-      "headline": "Borsa cuma gününü düşüşle tamamladı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1645226880663-81561dcab0ae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c3RvY2slMjBtYXJrZXR8ZW58MXwwfHx8MTc5NTA4MzI3OXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Adam Śmigielski",
-        "photographerUrl": "https://unsplash.com/@smigielski",
-        "unsplashUrl": "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-stock-chart-K5mPtONmpHM"
-      },
-      "timeAgo": "şimdi",
-      "body": "Borsa İstanbul'da BIST 100 endeksi, haftanın son işlem gününü yüzde 2,36 kayıpla 11.131,32 puandan kapattı. Önceki kapanışa göre 268,7 puan gerileyen endeksin günlük işlem hacmi 84,4 milyar lira oldu.\n\nSektörel bazda bankacılık endeksi yüzde 1,94, holding endeksi ise yüzde 2,52 değer kaybetti. Finansal kiralama ve faktoring sektörü yüzde 1,25 artışla en çok kazandıran olurken, madencilik endeksi yüzde 3,91 düşüşle günün en çok değer kaybeden sektörü olarak kayıtlara geçti.\n\nKüresel piyasalarda ABD Merkez Bankasının (Fed) para politikasına yönelik sıkı duruş endişeleri ve yapay zeka sektörünün sürdürülebilirliğine dair soru işaretleri satış baskısını artırdı. Borsa İstanbul da bu negatif havadan etkilendi.\n\nAnalistler, önümüzdeki hafta yurt içinde TCMB Finansal İstikrar Raporu ile ekonomik güven endeksinin, yurt dışında ise ABD büyüme verileri, çekirdek kişisel tüketim harcamaları ve global imalat sanayi PMI verilerinin takip edileceğini belirtti. Teknik olarak BIST 100 endeksinde 11.000 ve 10.900 seviyeleri destek, 11.300 ve 11.400 seviyeleri ise direnç konumunda bulunuyor.",
-      "highlights": [
-        "BIST 100 endeksi haftanın son işlem gününü yüzde 2,36 kayıpla 11.131,32 puandan tamamladı.",
-        "Madencilik endeksi yüzde 3,91'lik düşüşle günün en fazla değer kaybeden sektörü oldu.",
-        "Küresel piyasalarda Fed'in para politikasına ilişkin endişeler satış baskısını artırdı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-cuma-gununu-dususle-tamamladi-3495922",
-      "publishedAt": "2026-11-20T18:27:14.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:44:20.665Z",
       "isBreaking": false
     }
   ],
