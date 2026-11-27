@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-11-27T16:35:13.933Z",
+  "generatedAt": "2026-11-27T16:45:13.470Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/cop31/rusya-turkiye-cop31de-olgun-ve-sorumlu-bir-yaklasim-sergiledi/4140768",
+      "headline": "Rusya: Türkiye COP31'de olgun ve sorumlu bir yaklaşım sergiledi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/27/thumbs_b_c_c016e6cb661a572f4130ac5d0909adca.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Anadolu Ajansı",
+        "sourceUrl": "https://www.aa.com.tr/tr/cop31/rusya-turkiye-cop31de-olgun-ve-sorumlu-bir-yaklasim-sergiledi/4140768"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, Türkiye'nin ev sahipliğinde gerçekleşen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) süreciyle ilgili değerlendirmelerde bulundu.\n\nZaharova, yapılan açıklamada Türkiye'nin bu süreçte sergilediği tutuma dikkat çekti.\n\nRus yetkili, Türkiye'nin konferansta olgun ve sorumlu bir yaklaşım ortaya koyduğunu ifade etti.",
+      "highlights": [
+        "Mariya Zaharova Türkiye'nin yaklaşımını değerlendirdi",
+        "Türkiye'nin COP31'de olgun ve sorumlu davrandığı belirtildi"
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/cop31/rusya-turkiye-cop31de-olgun-ve-sorumlu-bir-yaklasim-sergiledi/4140768",
+      "publishedAt": "2026-11-27T16:39:54.000Z",
+      "category": "Kültür & Sanat",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
+      "headline": "Türkiye'den Gürcistan'a Futbol Maçındaki Olaylar Nedeniyle Çağrı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://s.france24.com/media/display/520d2918-ea72-11f1-9d01-1991d4929b54/w:1024/p:16x9/AP26330794389547.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Türkiye, Beşiktaş ile İsrail temsilcisi Hapoel Beer-Sheva arasında Batum'da oynanan UEFA Avrupa Ligi maçında yaşanan şiddet olayları sonrasında Gürcistan'ın büyükelçisini dışişleri bakanlığına çağırdı. Güvenlik gerekçesiyle İstanbul'dan Batum'a alınan karşılaşmada, Beşiktaş taraftarlarının Filistin yanlısı pankart açması ve sloganlar atması sonrasında olaylar çıkmış ve maç durdurulmuştu. Dışişleri kaynaklarına göre, Türk tarafı olaylarla ilgili tepkisini ileterek kapsamlı bir soruşturma talep etti ve vatandaşlara yönelik orantısız güç kullanımından sorumlu olanlar hakkında yasal işlem başlatılmasını istedi. Maç sırasında yaşanan olaylarda polis biber gazı kullanmış, Gürcistan içişleri bakanlığı üç polisin yaralandığını ve 16 kişinin gözaltına alındığını açıklamıştı.\n\nOlayların ardından Gürcistan içişleri bakanlığı gözaltına alınan Türk taraftarların Cuma günü serbest bırakıldığını bildirdi. Türkiye'nin resmi ajansı Anadolu, Cumhurbaşkanı Recep Tayyip Erdoğan'ın Adalet Bakanı Akın Gürlek'e talimat verdiğini aktardı. UEFA olayla ilgili soruşturma başlatırken, Beşiktaş kulübü de polisin orantısız güç kullandığı gerekçesiyle UEFA'ya şikayette bulunduğunu duyurdu. Türkiye Futbol Federasyonu ile ülkedeki diğer kulüpler de yaşananları kınayan açıklamalar yaptı.",
+      "highlights": [
+        "Türkiye, Batum'daki maçta yaşanan olaylar nedeniyle Gürcistan'ın büyükelçisini çağırdı.",
+        "Beşiktaş taraftarlarının açtığı Filistin yanlısı pankart ve yaşanan arbede sonrası 16 kişi gözaltına alındıktan sonra serbest bırakıldı.",
+        "UEFA olayla ilgili soruşturma başlatırken, Beşiktaş kulübü orantısız güç kullanımı nedeniyle şikayette bulundu."
+      ],
+      "externalUrl": "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
+      "publishedAt": "2026-11-27T16:37:29.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/video/dunya/atinanin-gozu-washingtonda-turkiyenin-f-35-hamlesinden-endiseleniyor-3498931",
       "headline": "Atina’nın gözü Washington’da! Türkiye’nin F-35 hamlesinden endişeleniyor!",
@@ -17,15 +64,16 @@
       "timeAgo": "şimdi",
       "body": "Türkiye'nin F-35 programına yeniden dahil olma girişimi ve daha önce bedeli ödenen 6 savaş uçağının teslimine yönelik formül arayışı Yunanistan'da yakından takip ediliyor. Millî Savunma Bakanı Yaşar Güler'in pazartesi günü Pentagon'da gerçekleştireceği temaslar Atina'da endişeye yol açtı.\n\nYunan basınındaki değerlendirmelere göre Ankara, ABD Kongresi'nin yapısının değişmesinden önce F-35 konusunda bir uzlaşmaya varmak istiyor. Türkiye'nin talepleri arasında programa dönmenin yanı sıra, parasının CAATSA yaptırımları öncesinde ödendiği belirtilen 6 F-35 savaş uçağının teslimi için yeni bir yol aranması da bulunuyor. Kathimerini gazetesine yansıyan haberde, bu formülün ABD'nin Ankara Büyükelçisi Tom Barrack tarafından geliştirildiği ifade ediliyor.\n\nAtina yönetimi, ABD yasalarının ve Washington'daki Yunan ve Yahudi lobilerinin bu formülün hayata geçmesini engelleyeceğini umuyor. Yunanistan'da, Kongre'nin 3 Ocak'ta Demokratların kontrolüne geçmesi durumunda Ankara'ya karşı daha güçlü bir pozisyon elde edilebileceği düşüncesi öne çıkıyor.\n\nÖte yandan Yunanistan'ın en büyük endişesini ABD Başkanı Donald Trump'ın Türkiye'ye yönelik tutumu oluşturuyor. Cumhurbaşkanı Recep Tayyip Erdoğan ile Trump arasındaki yakın ilişkilerin Türkiye lehine sonuç doğurabileceği ihtimali Atina'da kaygıyla izleniyor.",
       "highlights": [
-        "Millî Savunma Bakanı Yaşar Güler'in Pentagon'daki temasları Atina'da yakından takip ediliyor.",
-        "Ankara'nın daha önce bedeli ödenen 6 F-35 savaş uçağının teslimi için yeni bir formül aradığı belirtiliyor.",
-        "Yunanistan, ABD yasalarına ve Kongre'deki dengelere güvense de Trump'ın tutumundan endişe ediyor."
+        "Milli Savunma Bakanı Yaşar Güler'in Pentagon temasları Atina'da endişeyle izleniyor.",
+        "Ankara'nın daha önce parasını ödediği 6 F-35 uçağı için yeni bir formül aradığı belirtiliyor.",
+        "Yunanistan, ABD yasalarına ve Kongre dengelerine güvenirken Trump'ın tutumundan endişe ediyor."
       ],
       "externalUrl": "https://www.cnnturk.com/video/dunya/atinanin-gozu-washingtonda-turkiyenin-f-35-hamlesinden-endiseleniyor-3498931",
       "publishedAt": "2026-11-27T16:35:35.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.france24.com/en/europe/20261127-spain-far-right-vox-at-the-gates-can-women-bail-out-sanchez-once-again",
@@ -971,16 +1019,16 @@
       "timeAgo": "3 dk önce",
       "body": "ABD'nin Kaliforniya eyaletinde etkili olan güçlü dalgalar ve istisnai gelgitler sahil şeridinde hasara yol açtı. San Francisco'nun güneyindeki Pacifica'da çarşamba günü meydana gelen olayda, dev dalgalar bir iskelenin bir kısmını yıktı. Marin County'de ise yetkililer durumu dikkate alarak geçici bir tahliye emri çıkardı. Bölge sakinlerine ve vatandaşlara plajlardan uzak durmaları yönünde acil çağrıda bulunuldu. Yetkililerin bölgedeki uyarıları ve önlemleri sürerken, olayla ilgili başka detaylar henüz paylaşılmadı.",
       "highlights": [
-        "Kaliforniya kıyılarını yaklaşık 9 metre yüksekliğinde dalgalar vurdu",
-        "Pacifica'daki iskelenin bir kısmı yıkıldı",
-        "Marin County'de geçici tahliye emri verildi"
+        "Yaklaşık 9 metre yüksekliğindeki dalgalar sahilleri vurdu.",
+        "Pacifica'da dev dalgalar bir iskelenin bir kısmını yıktı.",
+        "Marin County'de geçici tahliye emri verilerek plajlardan uzak durulması istendi."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261126-in-california-exceptional-tides-and-nearly-9m-high-waves-batter-the-coast",
       "publishedAt": "2026-11-26T16:01:44.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z",
+      "sourceTextAttemptedAt": "2026-11-27T16:44:59.100Z",
       "videoEmbedUrl": "https://embed.france24.com/en/video/WBMZ606507-F24-EN-20261126",
       "videoEmbedAttemptedAt": "2026-11-26T16:34:21.354Z"
     },
@@ -4564,7 +4612,7 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -5038,7 +5086,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:24:28.927Z",
-      "imageSearchAttemptedAt": "2026-11-26T19:24:26.416Z"
+      "imageSearchAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-aciklamalar-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
@@ -5722,8 +5770,12 @@
       "headline": "Kahramanmaraş'ta acı olay: Yatalak hasta eşinin cansız bedeniyle üç gün yaşadı",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1586773860418-d37222d8fce3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8bWVkaWNhbCUyMGhvc3BpdGFsfGVufDF8MHx8fDE3OTU3OTc5MTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "National Cancer Institute",
+        "photographerUrl": "https://unsplash.com/@nci",
+        "unsplashUrl": "https://unsplash.com/photos/brown-concrete-building-under-blue-sky-during-daytime-1c8sj2IO2I4"
+      },
       "timeAgo": "2 dk önce",
       "body": "Kahramanmaraş’ta komşuların kötü kokular üzerine ihbarıyla girilen evde 78 yaşındaki Sultan Kaplan’ın cansız bedeni bulundu. Yaşlı kadının 3 gün önce hayatını kaybettiği belirlenirken, yatalak ve demans hastası eşi Hüseyin Kaplan’ın sesini duyuramadığı için eşinin cansız bedeniyle 3 gün boyunca aynı evde kaldığı ortaya çıktı. Hastaneye kaldırılan yaşlı adamın sağlık durumuna ilişkin bilgi verilmedi.",
       "highlights": [
@@ -5737,7 +5789,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T20:24:23.389Z",
-      "imageSearchAttemptedAt": "2026-11-25T18:04:26.410Z"
+      "imageSearchAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
@@ -6088,7 +6140,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:54:36.949Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cankirida-uyusturucu-operasyonu-39-kisi-yakalandi-4875818",
@@ -6138,7 +6190,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:24:31.396Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
@@ -6611,7 +6663,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:04:23.316Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
@@ -6803,7 +6855,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:14:23.506Z",
       "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z",
-      "videoEmbedAttemptedAt": "2026-11-26T16:44:34.103Z",
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -7107,7 +7159,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T15:04:44.273Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
@@ -7416,7 +7468,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T14:06:20.268Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/budonun-12-seferi-iptal-edildi-3496671",
@@ -7517,7 +7569,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T23:49:34.402Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/yeni-partide-myk-carsamba-gunu-belirlenecek-3496638",
@@ -7670,7 +7722,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T18:34:20.820Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:24:22.618Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261122-french-right-backs-macron-s-plan-to-put-public-spending-limits-in-constitution",
@@ -7770,7 +7822,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T18:14:19.834Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:24:22.618Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/live-konyaspor-2-4-besiktas-mac-ozeti-kartal-zorlandi-ama-3-puani-aldi-3496449",
@@ -8185,7 +8237,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T11:44:29.119Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:24:22.618Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.ntv.com.tr/turkiye/kepez-belediyesine-rusvet-operasyonu-20-kisi-gozaltina-alindi-1752023",
@@ -8899,7 +8951,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T09:44:24.455Z",
-      "videoEmbedAttemptedAt": "2026-11-26T17:24:22.618Z"
+      "videoEmbedAttemptedAt": "2026-11-27T16:44:59.100Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/evinden-binlercesi-cikti-balya-balya-paralari-kolilerde-saklamis-4875395",
@@ -14408,54 +14460,6 @@
       "sourceTextAttemptedAt": "2026-11-21T20:14:20.624Z",
       "isBreaking": false,
       "videoEmbedAttemptedAt": "2026-11-26T17:54:36.907Z"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/cop31de-11-ulkeden-bir-gunde-1-milyar-agac-dikme-sozu-1751818",
-      "headline": "COP31'de 11 ülkeden bir günde 1 milyar ağaç dikme sözü",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1625758476104-f2ed6c81248f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cGxhbnRpbmclMjB0cmVlc3xlbnwxfDB8fHwxNzk1MTkzMDg4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Vitor Monthay",
-        "photographerUrl": "https://unsplash.com/@vitormonthay",
-        "unsplashUrl": "https://unsplash.com/photos/person-holding-brown-dried-plant-EkEdHarUPTs"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Antalya'da gerçekleşen COP31 zirvesinde, Kenya öncülüğünde bir araya gelen 11 ülke, 22 Nisan 2027 Dünya Günü'nde 24 saat içinde 1 milyardan fazla ağaç dikme taahhüdünde bulundu. GROWalition adlı uluslararası koalisyonun açıklamasına göre Kenya'nın başlattığı bu girişime Brezilya, Fiji, Pakistan, Palau, Papua Yeni Gine, Kongo Cumhuriyeti, Seyşeller, Tayland, Togo ve Venezuela da katıldı. Koalisyon, diğer ülkelerle görüşmelerin devam ettiğini bildirdi.\n\nGirişimin temelleri, bir ağaca 72 saat sarılarak Guinness Dünya Rekorları'na giren Kenyalı çevre aktivisti Truphena Muthoni ile rekorlarıyla tanınan Avustralyalı çevreci Jimi Cohen tarafından atıldı. Kenya'nın 15 milyar ağaç kampanyasının elçisi olan Muthoni, dikilecek 1 milyar fidanın bakımını üstlenecek kişilere ihtiyaç duyulacağını belirtti. Cohen ise Nisan 2024'te 30 bin 469 ve Kasım 2026'da 56 bin 18 mangrov fidanı diktiğini hatırlatarak hedefin önemine değindi.\n\nKenya İzci Derneği 4,4 milyon üyesiyle kampanyaya katılacağını duyurdu. Koalisyon; fidan temini, alan tespiti ve gönüllü organizasyonu için çalışmalar yürütürken, sürece hükümetlerin yanı sıra belediyeler, okullar, şirketler ve sivil toplum kuruluşları da davet edildi.\n\nGirişimin ortaya çıkmasında Etiyopya'nın geçmişteki ağaçlandırma hamlesi etkili oldu. Hedeflenen 22 Nisan 2027 tarihi, BM'nin Ağaçlandırma ve Yeniden Ormanlaştırma On Yılı'nın ilk yılına denk geliyor. Kampanya, fidan dikiminin yanı sıra ağaçların korunmasını ve uzun vadeli bakımını da hedefliyor.",
-      "highlights": [
-        "Kenya öncülüğündeki 11 ülke, 22 Nisan 2027'de 24 saatte 1 milyardan fazla ağaç dikmeyi taahhüt etti.",
-        "Girişimin temelleri aktivist Truphena Muthoni ve çevreci Jimi Cohen tarafından atıldı.",
-        "Kenya İzci Derneği 4,4 milyon üyesiyle kampanyaya katılma taahhüdünde bulundu."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/cop31de-11-ulkeden-bir-gunde-1-milyar-agac-dikme-sozu-1751818",
-      "publishedAt": "2026-11-20T16:43:56.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.rfi.fr/en/environment/20261120-un-climate-talks-run-into-overtime-as-countries-clash-over-fossil-fuel-cuts-cop31",
-      "headline": "BM iklim görüşmeleri fosil yakıt kesintileri anlaşmazlığı nedeniyle uzadı",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1724503757138-0a9087d2412d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y2xpbWF0ZSUyMHN1bW1pdCUyMEFudGFseWF8ZW58MXwwfHx8MTc5NTE5MzA3OHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "engin akyurt",
-        "photographerUrl": "https://unsplash.com/@enginakyurt",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-body-of-water-with-mountains-in-the-background-_ahmkJxfcqE"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Türkiye'nin Antalya kentinde düzenlenen Cop31 BM iklim zirvesi, fosil yakıtlar ve yoksul ülkelere finansal destek konularındaki derin anlaşmazlıklar nedeniyle planlanan Cuma günkü kapanış tarihini geride bırakarak uzadı. Yaklaşık 200 ülke küresel ısınmayla mücadele konusunda uzlaşma sağlamaya çalışıyor.\n\nAkdeniz şehri Antalya'daki iki haftalık konferansın Cuma günü sona ermesi planlanıyordu; ancak ülkeler, iklim değişikliğinin temel nedenleri olan kömür, petrol ve gazdan bahsedilmeyen taslak anlaşma nedeniyle bölünmüş durumda. Perşembe günü yayımlanan son taslak, Suudi Arabistan ve diğer büyük petrol ve gaz üreticilerinin itirazları sonucunda fosil yakıtlardan uzaklaşmaya yönelik önceki atıfları kaldırdı.\n\nFransa, dilin yeniden eklenmesini talep eden bir düzine Avrupa ve gelişmekte olan ülke arasında yer alırken, nihai bir anlaşmanın fosil yakıtlardan uzaklaşmaya yönelik açık bir taahhüt içermesi gerektiği konusunda uyardı. Bir Avrupa Birliği yetkilisi AFP'ye taslağın kabul edilemez ve yeterince iddialı olmadığını söyledi.\n\nDiğer büyük bir engel ise zengin ülkelerin kuraklık, sel ve yükselen deniz seviyeleri gibi iklim değişikliğinin etkileriyle başa çıkmaları için yoksul ülkelere ne kadar para sağlaması gerektiği konusudur. Gelişmekte olan ülkelere yılda 120 milyar dolar sağlanmasına yönelik teklif Perşembe günkü taslaktan çıkarıldı.\n\nMüzakerelere başkanlık eden Avustralya İklim Bakanı Chris Bowen zorlukları kabul etti ancak ülkelerin ortak bir zemin bulabileceğine dair umutlu olduğunu belirtti. Gana Çevre Bakanı Zanetor Agyeman-Rawlings ise kıtanın kaynakları olmayan beyanları kabul etmeyeceğini ifade etti.",
-      "highlights": [
-        "Cop31 iklim zirvesi fosil yakıt anlaşmazlıkları nedeniyle uzadı.",
-        "Perşembe günü yayımlanan taslaktan fosil yakıtlardan uzaklaşma atıfları çıkarıldı.",
-        "Yoksul ülkelere yönelik yıllık 120 milyar dolarlık finansman teklifi taslaktan kaldırıldı."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/environment/20261120-un-climate-talks-run-into-overtime-as-countries-clash-over-fossil-fuel-cuts-cop31",
-      "publishedAt": "2026-11-20T16:38:58.000Z",
-      "category": "Bilim",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
