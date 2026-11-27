@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T18:14:40.763Z",
+  "generatedAt": "2026-11-27T18:24:21.284Z",
   "articles": [
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-on-numara-sonuclari-sorgulama-2026-buyuk-ikramiye-cikti-mi-mpi-on-numara-bilet-sorgulama-ekrani-1752904",
@@ -23,7 +23,8 @@
       "publishedAt": "2026-11-27T18:09:54.000Z",
       "category": "Türkiye",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T18:24:17.287Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -69,6 +70,31 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
       "publishedAt": "2026-11-27T17:58:36.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T18:24:17.287Z"
+    },
+    {
+      "id": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+      "headline": "Uganda, Ordu Komutanının Açıklamasının Ardından DR Kongo Kasabasından Asker Çekeceğini Açıkladı",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://s.france24.com/media/display/c2217142-ea80-11f1-be7e-77d069279b82/w:1024/p:16x9/AFP-20241220-36QY39P-v1-HighRes-DrcongoRwandaColnflictDisplaced.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row"
+      },
+      "timeAgo": "28 dk önce",
+      "body": "Uganda ordusu Cuma günü yaptığı açıklamada, Kuzey Kivu eyaletindeki Lubero kasabasından asker çekmeyi planladığını bildirdi. Bu karar, Uganda ordu komutanı ve Devlet Başkanı Yoweri Museveni'nin oğlu Muhoozi Kainerugaba'nın Kuzey Kivu'daki Walikale kasabasının kontrolünü ele geçirme tehdidinde bulunmasının ardından iki ülke arasında diplomatik gerilim yaşanmasının ardından geldi. Kainerugaba sosyal medyada yaptığı paylaşımda ayrıca Haut-Uele eyaletinin başkenti Isiro'daki havalimanının koalisyonsuz teslim edilmesini istemişti. Kinshasa yönetimi, açıklamaların ardından Uganda'nın büyükelçilik misyon şefini dışişleri bakanlığına çağırmıştı.\n\nÖte yandan Uganda ordusu sözcüsü, Kongolu hükümetiyle bağlantılı olduğu görülen milis güçlerinin sivillere yönelik saldırılarını artırdığını öne sürdü. Sözcü, bu milis güçlerinin Ituri ve Kuzey Kivu bölgelerindeki savunmasız topluluklara karşı saldırılar düzenlediğini belirtti. Uganda Silahlı Kuvvetleri (UPDF), Kongo Demokratik Cumhuriyeti'nin (KDC) doğusundaki Ituri ve Kuzey Kivu eyaletlerinde 2021 yılından bu yana konuşlandırılmış durumda bulunuyor.\n\nKDC'nin mineral zengini doğu kesimleri, otuz yılı aşkın süredir çatışmalarla sarsılıyor ve bu durum komşu ülkeler Uganda ile Rwanda'yı da çatışmalara çekiyor. Uganda birlikleri bölgeye, İslam Devleti bağlantılı militanlara karşı Kongo ordusuna destek vermek amacıyla gönderilmişti. Bölgede ayrıca Rwanda destekli M23 olarak bilinen FRN anti-hükümet grubu ile mücadele ediliyor.",
+      "highlights": [
+        "Uganda ordusu, Kuzey Kivu'daki Lubero kasabasından asker çekeceğini duyurdu.",
+        "Karar, ordu komutanı Muhoozi Kainerugaba'nın Walikale kasabası hakkındaki tehdidinin ardından alındı.",
+        "KDC yönetimi, söz konusu açıklamalar nedeniyle Uganda'nın misyon şefini çağırmıştı."
+      ],
+      "externalUrl": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+      "publishedAt": "2026-11-27T17:56:28.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -9448,8 +9474,12 @@
       "headline": "Evinden binlercesi çıktı: Balya balya paraları kolilerde saklamış",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1650984661525-7e6b1b874e47?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1NzEzMjk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mika Baumeister",
+        "photographerUrl": "https://unsplash.com/@kommumikation",
+        "unsplashUrl": "https://unsplash.com/photos/a-building-with-a-sign-on-the-roof-_Y5jvYypnZA"
+      },
       "timeAgo": "1 dk önce",
       "body": "Şişli’de motorize yunus polislerinin durdurduğu Mustafa Yusuf D.’nin üzerinde kokain bulundu. Çevrede çalışma başlatan polis, satıcı Selçuk Ö.’yü gözaltına aldı. Şüphelinin evinde yapılan aramada market poşetlerinde piyasa değeri yaklaşık 1,7 milyon lira olan uyuşturucu, 4 hassas terazi, karton kolide ise 102 bin 850 lira ele geçirildi. Mustafa Yusuf D. serbest bırakılırken, Selçuk Ö. tutuklandı.",
       "highlights": [
@@ -9463,7 +9493,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T09:14:24.856Z",
-      "imageSearchAttemptedAt": "2026-11-24T20:24:24.239Z"
+      "imageSearchAttemptedAt": "2026-11-27T18:24:17.287Z"
     },
     {
       "id": "https://www.bbc.com/turkce/articles/c5rmg31g88glo?at_medium=RSS&at_campaign=rss",
@@ -10239,8 +10269,12 @@
       "headline": "Beykoz’da İETT otobüsünde bıçakla tehdit eden şüpheli alkollü çıktı",
       "source": "NTV",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1759173214279-61d177954a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8SXN0YW5idWwlMjBUdXJrZXklMjBza3lsaW5lfGVufDF8MHx8fDE3OTU4MDMyODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Pourya Gohari",
+        "photographerUrl": "https://unsplash.com/@_pourya_",
+        "unsplashUrl": "https://unsplash.com/photos/cityscape-with-mosques-and-boats-on-the-water-5gxl1xt-dSw"
+      },
       "timeAgo": "5 dk önce",
       "body": "Beykoz'da seyir halindeki İETT otobüsünde bıçakla tehditte bulunduğu belirtilen şüpheli, polis ekipleri tarafından yakalanarak gözaltına alındı. Şüphelinin 2,41 promil alkollü olduğu belirlendi. Olay, Kuzey Marmara Otoyolu bağlantı yolunda seyir halindeki İETT otobüsünde meydana geldi. Otobüsün içerisinde bir şüphelinin bıçakla tehditte bulunduğu ihbarı üzerine polis ekipleri harekete geçti. Kavacık otobüs durağında…",
       "highlights": [],
@@ -10250,7 +10284,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T06:24:29.014Z",
-      "imageSearchAttemptedAt": "2026-11-24T21:04:31.699Z"
+      "imageSearchAttemptedAt": "2026-11-27T18:24:17.287Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/kadikoyde-aci-olay-is-bulmak-icin-istanbula-gelen-gencin-cesedi-bulundu-4875350",
@@ -14478,30 +14512,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T18:44:20.665Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-      "headline": "New York'ta Sih ayrılıkçıyı öldürme planı nedeniyle Hintli adama 19 yıldan fazla hapis cezası verildi",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1780396209853-a771d772e56d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y291cnRyb29tJTIwc2tldGNofGVufDF8MHx8fDE3OTUxOTk2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Michael D Beckwith",
-        "photographerUrl": "https://unsplash.com/@mdbeckwith",
-        "unsplashUrl": "https://unsplash.com/photos/empty-ornate-courtroom-interior-with-wooden-paneling-and-green-seats-xf5Qn2-GaJQ"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "New York'ta bir Sih ayrılıkçıyı öldürme komplosuna karıştığını kabul eden bir Hintli adam, Cuma günü ABD'de 19 yıldan uzun süre hapis cezasına çarptırıldı. 55 yaşındaki Nikhil Gupta, Şubat ayında kiralık katil tutma, kiralık katil tutmak için komplo kurma ve kara para aklamak için komplo kurma suçlarını kabul etmişti. Manhattan federal mahkemesindeki duruşmada ABD Bölge Hakimi Victor Marrero, 235 aylık hapis cezasını açıkladı.\n\nSavcılar, Gupta'nın New York'taki Sikhs for Justice adlı kuruluşun avukatı ve ABD-Kanada çift vatandaşlığına sahip olan Gurpatwant Singh Pannun'u öldürmek için bir Hint hükümet yetkilisiyle birlikte komplo kurduğunu belirtti. Pannun, Kuzey Hindistan'da egemen bir Sih devleti kurulmasını savunuyor. Dava belgelerine göre Gupta ve Hint hükümet yetkilisi Vikash Yadav, gizli görevdeki bir ABD kolluk görevlisi olan sözde kiralık katile 15.000 dolar nakit teslim edilmesini ayarladı. Yadav da davada suçlanıyor ancak ABD'nin gözetiminde değil ve savunma avukatı tutup tutmadığı bilinmiyor.\n\nHindistan hükümeti Pannun'a yönelik herhangi bir komplo ile bağını reddederek bunun hükümet politikasına aykırı olduğunu söyledi. Manhattan ABD savcılığı yaklaşık 24 yıl hapis cezası talep etmişti. Cuma günü mahkemede konuşan Gupta, Mahatma Gandhi'nin gösterdiği şiddet içermeyen yoldan sapmaktan duyduğu pişmanlığı dile getirdi ve özür diledi. Pannun ise mahkemeye ABD'ye kovuşturma için minnettar olduğunu söyledi ve Sih egemenliği için savunuculuğa devam edeceğini ifade etti. ABD ve Kanada yetkilileri, bu tür keşiflerin Hindistan ile ilişkileri sınadığını belirtti.",
-      "highlights": [
-        "Nikhil Gupta, New York'ta Sih ayrılıkçıyı öldürme komplosu nedeniyle 19 yıldan fazla hapis cezası aldı.",
-        "Gupta, Şubat ayında kiralık katil tutma ve ilgili komplo suçlamalarını kabul etmişti.",
-        "Hindistan hükümeti olayla herhangi bir bağı olduğunu reddetti."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
-      "publishedAt": "2026-11-20T18:24:12.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14730,6 +14740,7 @@
     "https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss",
     "https://www.cnnturk.com/yerel-haberler/samsun/termede-kadina-yonelik-siddetle-mucadele-icin-farkindalik-programi-duzenlendi-3498173",
     "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
-    "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
+    "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
+    "https://www.milliyet.com.tr/gundem/son-dakika-2027-butcesi-tbmmde-kabul-edildi-7709509"
   ]
 }
