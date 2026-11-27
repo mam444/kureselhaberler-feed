@@ -353,20 +353,26 @@
     font-size: 26px; font-weight: 800; display: flex; align-items: center; gap: 10px;
   }
   .category-page-hero {
-    display:flex; align-items:center; gap:14px; margin:2px 0 18px; padding:15px 17px;
-    border:1px solid color-mix(in srgb,var(--category-accent) 24%,var(--divider));
-    border-radius:16px; background:linear-gradient(110deg,color-mix(in srgb,var(--category-accent) 9%,var(--card)),var(--card));
+    position:relative; isolation:isolate; overflow:hidden; display:flex; align-items:center; gap:14px; min-height:164px; margin:2px 0 18px; padding:22px 24px;
+    border:1px solid color-mix(in srgb,var(--category-accent) 35%,var(--divider));
+    border-radius:18px; background:linear-gradient(110deg,var(--navy-dark),var(--navy)); color:#fff;
   }
+  .category-page-cover { position:absolute; inset:0; z-index:-2; width:100%; height:100%; object-fit:cover; }
+  .category-page-hero::after { content:""; position:absolute; z-index:-1; inset:0; background:linear-gradient(90deg,rgba(4,16,29,.84),rgba(4,16,29,.58) 56%,rgba(4,16,29,.18)); }
+  .category-page-art { position:absolute; inset:0; z-index:-2; width:100%; height:100%; aspect-ratio:unset; }
   .category-page-icon {
     display:grid; place-items:center; flex:none; width:54px; height:54px; border-radius:16px;
-    background:color-mix(in srgb,var(--category-accent) 13%,var(--card)); color:var(--category-accent);
-    box-shadow:0 5px 14px color-mix(in srgb,var(--category-accent) 16%,transparent);
+    position:relative; z-index:1; background:rgba(255,255,255,.16); color:#fff;
+    border:1px solid rgba(255,255,255,.28); backdrop-filter:blur(8px);
+    box-shadow:0 5px 14px rgba(0,0,0,.18);
   }
   .category-page-icon .msr { font-size:29px; }
   .category-page-icon .turkey-mark { width:38px; height:22px; }
-  .category-page-kicker { margin-bottom:3px; color:var(--text-secondary); font-size:9px; font-weight:900; letter-spacing:.12em; text-transform:uppercase; }
-  .category-page-title { margin:0; color:var(--text); font-size:21px; line-height:1.15; }
-  .category-page-count { margin-top:5px; color:var(--category-accent); font-size:11px; font-weight:800; }
+  .category-page-kicker { margin-bottom:3px; color:rgba(255,255,255,.76); font-size:9px; font-weight:900; letter-spacing:.12em; text-transform:uppercase; }
+  .category-page-title { margin:0; color:#fff; font-size:25px; line-height:1.15; }
+  .category-page-count { margin-top:5px; color:#fff; font-size:11px; font-weight:800; }
+  .category-page-lead { max-width:660px; margin-top:8px; color:rgba(255,255,255,.9); font-size:12px; line-height:1.4; font-weight:650; }
+  .category-page-copy { position:relative; z-index:1; }
 
   /* ---------- Layout ---------- */
   main { max-width: 1240px; margin: 0 auto; padding: 18px 20px 56px; background: var(--card); color: var(--text); border-radius: 0 0 18px 18px; min-height: 68vh; box-shadow: 0 18px 55px rgba(0,0,0,.2); }
@@ -395,16 +401,18 @@
   }
   .featured-side-title .msr { font-size: 18px; color: var(--gold); flex-shrink: 0; }
   .home-quick-cats { display:grid; grid-template-columns:repeat(8,minmax(0,1fr)); gap:9px; margin:14px 0 22px; }
-  .home-quick-cat { min-width:0; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px;
+  .home-quick-cat { min-width:0; position:relative; isolation:isolate; overflow:hidden; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:6px;
     min-height:78px; padding:8px 5px; border:1px solid var(--divider); border-radius:13px; background:var(--card);
-    color:var(--text); transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease; }
+    color:#fff; transition:transform .18s ease,box-shadow .18s ease,border-color .18s ease; }
   .home-quick-cat:hover { transform:translateY(-2px); border-color:var(--cat-accent,var(--gold)); box-shadow:0 8px 20px var(--shadow); }
+  .home-quick-cat > .quick-cover,.home-quick-cat > .thumb-fallback { position:absolute; inset:0; z-index:-2; width:100%; height:100%; aspect-ratio:unset; object-fit:cover; }
+  .home-quick-cat .quick-scrim { position:absolute; inset:0; z-index:-1; background:linear-gradient(180deg,rgba(5,17,29,.12),rgba(5,17,29,.78)); }
   .home-quick-cat .quick-icon { display:grid; place-items:center; width:37px; height:37px; border-radius:11px;
-    color:var(--cat-accent,var(--gold)); background:color-mix(in srgb,var(--cat-accent,var(--gold)) 11%, transparent); }
+    color:#fff; background:rgba(6,20,31,.36); border:1px solid rgba(255,255,255,.38); backdrop-filter:blur(7px); }
   .home-quick-cat .quick-icon .msr { font-size:21px; }
   .turkey-mark { display:block; width:27px; height:18px; overflow:visible; }
   .fallback-mark .turkey-mark { width:58px; height:29px; }
-  .home-quick-cat span:last-child { max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:10.5px; font-weight:800; }
+  .home-quick-cat .quick-label { position:relative; z-index:1; max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; font-size:10.5px; font-weight:900; text-shadow:0 1px 4px rgba(0,0,0,.6); }
   .explore-grid { display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:14px; margin:18px 0 28px; }
   .explore-card { overflow:hidden; border:1px solid var(--divider); border-radius:16px; background:var(--card); color:var(--text); box-shadow:0 3px 12px var(--shadow); transition:transform .18s,border-color .18s,box-shadow .18s; }
   .explore-card:hover { transform:translateY(-3px); border-color:var(--cat-accent); box-shadow:0 12px 28px var(--shadow); }
@@ -1367,7 +1375,7 @@ function exploreLeadArticle(name, articles) {
   return withImages.find(article => {
     const headline = categoryKey(article.headline);
     return terms.some(term => headline.includes(categoryKey(term)));
-  }) || articles.find(article => !article.imageUrl) || null;
+  }) || withImages[0] || articles[0] || null;
 }
 
 function readingTime(text) {
@@ -1434,7 +1442,7 @@ document.addEventListener('error', event => {
   if (!(image instanceof HTMLImageElement) || !image.hasAttribute('data-news-cover')) return;
   const category = image.dataset.category || '';
   const fallback = document.createElement('div');
-  const preserveClasses = ['featured-cover','hero','next-up-cover-fallback','explore-cover']
+  const preserveClasses = ['featured-cover','hero','next-up-cover-fallback','explore-cover','quick-cover','category-page-cover','category-page-art']
     .filter(name => image.classList.contains(name)).join(' ');
   fallback.className = `thumb-fallback ${preserveClasses}`;
   // A failed hero image is a full-bleed cover, just like the deliberate
@@ -1981,9 +1989,11 @@ function renderHome() {
     return 'article';
   };
   const shortcuts = shortcutCategories.length ? `<nav class="home-quick-cats" aria-label="Kategoriler">
-    ${shortcutCategories.map(category => `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
-      <span class="quick-icon">${categoryMarkHtml(category, shortcutIcon(category))}</span><span>${escapeHtml(category)}</span>
-    </a>`).join('')}
+    ${shortcutCategories.map(category => { const lead = exploreLeadArticle(category, categoryArticles(category)); const visual = lead?.imageUrl
+      ? `<img class="quick-cover" data-news-cover data-category="${escapeHtml(category)}" src="${escapeHtml(lead.imageUrl)}" alt="" loading="lazy">`
+      : categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
+      ${visual}<span class="quick-scrim"></span><span class="quick-icon">${categoryMarkHtml(category, shortcutIcon(category))}</span><span class="quick-label">${escapeHtml(category)}</span>
+    </a>`; }).join('')}
   </nav>` : '';
 
   let main = `<div class="section-title">Güncel Haber Akışı</div>`;
@@ -2013,6 +2023,10 @@ function renderCategoryPage(name) {
   const definition = CORE_CATEGORIES.find(item => item.name === name);
   const accent = definition?.color || categoryColor(name);
   const icon = definition?.icon || categoryFallbackIcon(name);
+  const lead = exploreLeadArticle(name, items);
+  const cover = lead?.imageUrl
+    ? `<img class="category-page-cover" data-news-cover data-category="${escapeHtml(name)}" src="${escapeHtml(lead.imageUrl)}" alt="" fetchpriority="high">`
+    : categoryIllustrationHtml(name, 'category-page-cover category-page-art');
 
   const content = document.getElementById('content');
   let main = '';
@@ -2022,9 +2036,10 @@ function renderCategoryPage(name) {
     main += `<div style="margin-top:2px">${pagedFeedHtml(items, 'category:' + name)}</div>`;
   }
   const heading = `<section class="category-page-hero" style="--category-accent:${escapeHtml(accent)}" aria-label="${escapeHtml(name)} kategorisi">
+    ${cover}
     <span class="category-page-icon">${categoryMarkHtml(name, icon)}</span>
-    <div><div class="category-page-kicker">Haber kategorisi</div><h1 class="category-page-title">${escapeHtml(name)}</h1>
-    <div class="category-page-count">${items.length} güncel haber</div></div>
+    <div class="category-page-copy"><div class="category-page-kicker">Haber kategorisi</div><h1 class="category-page-title">${escapeHtml(name)}</h1>
+    <div class="category-page-count">${items.length} güncel haber</div>${lead ? `<div class="category-page-lead">${escapeHtml(lead.headline)}</div>` : ''}</div>
   </section>`;
   const html = `${heading}<div class="home-layout" style="margin-top:18px"><div class="main-col">${main}</div>${renderSidebar()}</div>`;
   content.innerHTML = `<div class="fade-in">${html}</div>`;
