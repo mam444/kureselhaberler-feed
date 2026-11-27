@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T17:37:40.325Z",
+  "generatedAt": "2026-11-27T17:44:29.096Z",
   "articles": [
     {
       "id": "https://www.cnnturk.com/dunya/gurcistanin-ankara-buyukelcisi-bugun-disisleri-bakanligina-cagrildi-3498948",
@@ -15,15 +15,16 @@
       "timeAgo": "şimdi",
       "body": "Beşiktaş'ın Batum'da gerçekleştirdiği UEFA Avrupa Ligi karşılaşmasında meydana gelen olaylar sebebiyle, Gürcistan'ın Ankara Büyükelçisi Kalandia Dışişleri Bakanlığı'na davet edildi. 27 Kasım 2026 tarihinde gerçekleşen bu gelişmeyle ilgili olarak, Dışişleri Bakanlığı kaynakları tarafından açıklama yapıldı.\n\nAktarılan bilgilere göre, diplomatik görüşmede büyükelçiye yaşanan durumlar karşısında Türkiye'nin duyduğu rahatsızlık ve tepki aktarıldı. Görüşme sırasında ayrıca olayları destekleyen birtakım kanıtlar da karşı taraf ile paylaşıldı.\n\nBakanlık, yaşanan olayların her boyutuyla titizlikle soruşturulmasını talep etti. Bununla birlikte, Türk vatandaşlarına karşı orantısız güç kullanan ve müdahalede bulunan kişilerin tespit edilerek haklarında gerekli hukuki adımların atılması istendi.",
       "highlights": [
-        "Gürcistan'ın Ankara Büyükelçisi Kalandia Dışişleri Bakanlığı'na çağrıldı",
-        "Beşiktaş'ın Batum'daki UEFA Avrupa Ligi maçında yaşanan olaylar nedeniyle tepki iletildi",
-        "Sorumlular hakkında hukuki işlem yapılması ve olayların soruşturulması istendi"
+        "Beşiktaş'ın Batum'daki UEFA Avrupa Ligi maçındaki olaylar nedeniyle Gürcistan'ın Ankara Büyükelçisi Kalandia Dışişleri Bakanlığı'na çağrıldı.",
+        "Büyükelçiye Türkiye'nin tepkisi iletildi ve kanıtlar paylaşıldı.",
+        "Olayların soruşturulması ve vatandaşlara orantısız güç kullanan sorumlular hakkında hukuki işlem yapılması istendi."
       ],
       "externalUrl": "https://www.cnnturk.com/dunya/gurcistanin-ankara-buyukelcisi-bugun-disisleri-bakanligina-cagrildi-3498948",
       "publishedAt": "2026-11-27T17:38:36.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T17:44:22.811Z"
     },
     {
       "id": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
@@ -65,13 +66,38 @@
       "timeAgo": "8 dk önce",
       "body": "Marsilya'da oynanan Avrupa Ligi maçı öncesinde ev sahibi Olympique Marseille ile konuk Bulgar futbol kulübü Levski Sofia taraftarları arasında arbede yaşandı. Perşembe günü meydana gelen olaylarda, Bulgar kulübünün en az 11 taraftarı yaralandı.\n\nFRANCE 24'ün aktardığı detaylara göre, karşılaşma öncesinde taraftarlar arasında çıkan çatışmalar şiddet olaylarına sahne oldu. Yaşanan bu olaylar, Marsilya'daki maçı gölgeledi.\n\nOlaylar sonucunda yaralanan Levski Sofia taraftarlarının durumu ve çıkan arbedenin ayrıntıları hakkında başka bir resmi açıklama yapılmadı. Karşılaşma öncesindeki güvenlik önlemleri ve yaşanan gerginlik maçın önüne geçti.",
       "highlights": [
-        "Marsilya'daki maç öncesi taraftarlar arasında arbede çıktı",
+        "Marsilya ve Levski Sofia taraftarları arasında çatışma çıktı",
         "Bulgar kulübü Levski Sofia'nın en az 11 taraftarı yaralandı",
-        "Olaylar Avrupa Ligi karşılaşması öncesinde meydana geldi"
+        "Olaylar Avrupa Ligi karşılaşması öncesinde gerçekleşti"
       ],
       "externalUrl": "https://www.france24.com/en/video/20261127-om-levski-sofia-a-night-of-violence-disrupts-marseille-match",
       "publishedAt": "2026-11-27T17:29:48.000Z",
       "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-27T17:44:22.811Z"
+    },
+    {
+      "id": "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw",
+      "headline": "Paris Paloma ikinci albümü 'The Fatal Flaw' ile Yunan mitolojisi ve üretken yapay zekayı ele alıyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://s.france24.com/media/display/13a36f9a-ea6b-11f1-aa26-77d069279b82/w:1024/p:16x9/FRA-NEWS-27-11-2026-09-59-ING10-CLEAN-N2-frame-146007.jpeg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "İngiliz şarkıcı-söz yazarı ve gitarist Paris Paloma, Yunan mitolojisi, sanat ve feminizme övgü niteliği taşıyan ikinci albümü \"The Fatal Flaw\"ı tanıtıyor. Paris'teki konseri öncesinde set arkasında Dheepthika Laurent ile sohbet eden sanatçı, yeni albümünün ilk albümü \"Cacophony\"den neden daha kişisel olduğunu anlatıyor.\n\nPaloma ayrıca, 2023 yılında yayınlanan ve sosyal medyada ataerkilliğe ile cinsiyetçiliğe karşı bir marş haline gelerek yarım milyar kez dinlenen \"Labour\" şarkısının viral başarısını da değerlendiriyor.\n\nSanatçı aynı zamanda, yeni albümünde yer alan ve kültür alanında yapay zeka kullanımını eleştirdiği \"Miyazaki\" adlı şarkısından da bahsediyor.",
+      "highlights": [
+        "Paris Paloma ikinci albümü \"The Fatal Flaw\"ı tanıtıyor",
+        "Sanatçı 2023 şarkısı \"Labour\"ın viral başarısını değerlendiriyor",
+        "Yeni albümdeki \"Miyazaki\" parçasında kültürde yapay zeka kullanımı eleştiriliyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw",
+      "publishedAt": "2026-11-27T17:25:27.000Z",
+      "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -6774,7 +6800,7 @@
       "publishedAt": "2026-11-23T17:14:50.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-27T17:37:33.779Z"
     },
     {
@@ -6795,7 +6821,7 @@
       "publishedAt": "2026-11-23T17:07:25.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "en",
+      "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-27T17:37:33.779Z"
     },
     {
@@ -6848,8 +6874,12 @@
       "headline": "Hungary’s Magyar says he will visit Ukraine in a sign of mending relations",
       "source": "ABC News",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1710070213761-acefc882bba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1NzEwODc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim  Dennert",
+        "photographerUrl": "https://unsplash.com/@tim_denn",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-bridge-vW8THslciLA"
+      },
       "timeAgo": "33 dk önce",
       "body": "Hungarian Prime Minister P&eacute;ter Magyar plans to visit Ukraine soon, signaling improved relations between the two countries",
       "highlights": [],
@@ -6858,7 +6888,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "en",
-      "imageSearchAttemptedAt": "2026-11-24T18:34:18.428Z"
+      "imageSearchAttemptedAt": "2026-11-27T17:44:22.811Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
@@ -6900,7 +6930,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:14:28.980Z",
-      "imageSearchAttemptedAt": "2026-11-24T18:44:29.302Z"
+      "imageSearchAttemptedAt": "2026-11-27T17:44:22.811Z"
     },
     {
       "id": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
@@ -14472,82 +14502,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-20T18:34:16.595Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-      "headline": "Anthropic'in halka arzının ardından ABD teknoloji hisselerindeki satış dalgası devam ediyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1560221328-12fe60f83ab8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dGVjaG5vbG9neSUyMHN0b2Nrc3xlbnwxfDB8fHwxNzk1MTk3Mjc5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Nicholas Cappello",
-        "photographerUrl": "https://unsplash.com/@bash__profile",
-        "unsplashUrl": "https://unsplash.com/photos/close-up-photo-of-monitor-displaying-graph-Wb63zqJ5gnE"
-      },
-      "timeAgo": "10 dk önce",
-      "body": "ABD teknoloji sektöründe yaşanan satış dalgası, Anthropic'in büyük halka arzının sonrasında değer kaybetmesiyle birlikte hız kesmeden sürerken, bu durum piyasalarda dikkat çekti. Şirketin borsaya kote olması, yeniden toparlanma mücadelesi veren sektör için potansiyel bir canlanma hamlesi olarak değerlendiriliyordu.\n\nAncak yaşanan son gelişmeler, sektördeki toparlanma beklentilerini ve mevcut piyasa eğilimlerini etkilemeye devam ediyor. Yatırımcılar ve piyasa gözlemcileri, teknoloji hisselerindeki bu dalgalanmanın genel endüstri üzerindeki olası yansımalarını yakından takip ediyor.\n\nAnthropic'in halka arz sürecinin ardından gelen değer kaybı, piyasadaki mevcut belirsizlik ortamını da gözler önüne seriyor. Sektör temsilcileri ve analistler, yaşanan bu sürecin gelecekteki halka arzlar ve teknoloji hisselerinin genel seyri açısından ne anlama geldiğini değerlendiriyor.",
-      "highlights": [
-        "Anthropic'in hisseleri halka arzın ardından düştü",
-        "ABD teknoloji sektöründe satış dalgası sürüyor",
-        "Halka arz sektör için potansiyel bir destek olarak görülüyordu"
-      ],
-      "externalUrl": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-      "publishedAt": "2026-11-20T17:44:18.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:09:30.348Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-dolandiricilik-operasyonunda-12-tutuklama-964001.html",
-      "headline": "Ankara merkezli dolandırıcılık operasyonunda 12 tutuklama",
-      "source": "TRT Haber",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=trthaber.com",
-      "imageUrl": "https://images.unsplash.com/photo-1600081232007-19c495bef255?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwb3BlcmF0aW9ufGVufDF8MHx8fDE3OTUxOTY3MDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ethan Wilkinson",
-        "photographerUrl": "https://unsplash.com/@ethanrwilkinson",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-green-adidas-jersey-shirt-and-black-hat-UJdx3XM3xao"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Ankara merkezli olarak 5 ilde gerçekleştirilen dolandırıcılık operasyonunda gözaltına alınan şüphelilerin adli süreçleri tamamlandı. Operasyon kapsamında gözaltına alınan toplam 15 kişiden 12'si çıkarıldıkları mahkemece tutuklandı.\n\nYetkililer tarafından 20 Kasım 2026 tarihinde duyurulan operasyonun detaylarına göre, soruşturma süreci devam ediyor. Gözaltına alınan diğer şüphelilerin durumuna ilişkin ise başka bir ayrıntı paylaşılmadı.",
-      "highlights": [
-        "Ankara merkezli 5 ilde operasyon düzenlendi",
-        "15 şüpheliden 12'si tutuklandı"
-      ],
-      "externalUrl": "https://www.trthaber.com/haber/turkiye/ankara-merkezli-dolandiricilik-operasyonunda-12-tutuklama-964001.html",
-      "publishedAt": "2026-11-20T17:39:00.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T17:54:41.244Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
-      "headline": "Oruç Reis Pakistan'da Petrol ve Doğal Gaz Arayacak",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1592701649316-3d3afe31a6b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8cmVzZWFyY2glMjB2ZXNzZWx8ZW58MXwwfHx8MTc5NTE5NjA5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Erik Mclean",
-        "photographerUrl": "https://unsplash.com/@introspectivedsgn",
-        "unsplashUrl": "https://unsplash.com/photos/red-and-white-ship-on-sea-during-daytime-hnrdJ3ICJb0"
-      },
-      "timeAgo": "şimdi",
-      "body": "Türkiye petrol ve doğal gaz aramacılığında faaliyet alanını genişletmeye devam ediyor. Ülkenin yerli ve millî sismik araştırma gemisi Oruç Reis, Pakistan sularında görev yapmak üzere bölgeye ulaştı. \n\nGerçekleştirilmesi beklenen keşiflerin hem Türkiye ekonomisine hem de Pakistan ekonomisine önemli katkılar sağlaması hedefleniyor. \n\nPakistan'a varan millî sismik araştırma gemisi CNN TÜRK tarafından görüntülendi. Muhabirler Fulya Öztürk ve Halil Kahraman, Oruç Reis gemisinde görev yapan emekçilerle bir araya gelerek görüştü.",
-      "highlights": [
-        "Millî sismik araştırma gemisi Oruç Reis Pakistan'da petrol ve doğal gaz arayacak.",
-        "Olası bir keşif iki ülke ekonomisine katkı sunacak.",
-        "CNN TÜRK ekibi Pakistan'a ulaşan gemiyi görüntüleyerek emekçilerle görüştü."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/turkiye/oruc-reis-emekcileri-cnn-turkte-milli-gemimiz-pakistanda-petrol-ve-dogal-gaz-arayacak-3495910",
-      "publishedAt": "2026-11-20T17:38:58.000Z",
-      "category": "Türkiye",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T18:14:18.173Z",
-      "isBreaking": false,
-      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3495910",
-      "videoEmbedAttemptedAt": "2026-11-26T17:34:17.094Z"
     }
   ],
   "rejectedIds": [
