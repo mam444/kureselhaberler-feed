@@ -1359,6 +1359,9 @@ function categoryArticles(name) {
   return allArticles.filter(a => canonicalCategory(a.category) === wanted);
 }
 const EXPLORE_IMAGE_TERMS = {
+  'Gündem': ['gündem', 'meclis', 'bakan', 'belediye', 'ankara', 'istanbul', 'açıklama', 'operasyon', 'soruşturma', 'karar', 'kabine'],
+  'Türkiye': ['türkiye', 'turkiye', 'istanbul', 'ankara', 'izmir', 'antalya', 'kapadokya', 'marmara', 'afad', 'deprem', 'taksim', 'boğaz'],
+  'Dünya': ['abd', 'amerika', 'avrupa', 'çin', 'rusya', 'iran', 'ukrayna', 'israil', 'filistin', 'gazze', 'fransa', 'almanya', 'ispanya', 'kanada', 'dünya', 'uluslararası'],
   'Ekonomi': ['altin', 'borsa', 'enflasyon', 'faiz', 'ekonomi', 'dolar', 'yatirim', 'finans', 'butce', 'piyasa'],
   'Teknoloji': ['teknoloji', 'yapay zeka', 'siber', 'nvidia', 'yazilim', 'telefon', 'bilgisayar', 'cip', 'robot', 'openai'],
   'Spor': ['spor', 'futbol', 'basketbol', 'voleybol', 'tenis', 'euroleague', 'fifa', 'mac', 'takim', 'oyuncu'],
@@ -1367,6 +1370,7 @@ const EXPLORE_IMAGE_TERMS = {
   'Kültür & Sanat': ['kultur', 'sanat', 'sergi', 'konser', 'festival', 'tiyatro', 'sinema', 'film', 'muzik', 'kitap'],
   'Yaşam': ['yasam', 'hava durumu', 'meteoroloji', 'turizm', 'seyahat', 'tatil', 'yemek', 'moda', 'otel', 'hayvan'],
   'Eğitim': ['egitim', 'ogrenci', 'universite', 'okul', 'ogretmen', 'sinav', 'yks', 'tyt', 'lgs', 'yok'],
+  'Son Dakika': ['son dakika', 'son gelisme', 'acil', 'son durum', 'az once'],
 };
 function exploreLeadArticle(name, articles) {
   const terms = EXPLORE_IMAGE_TERMS[name];
@@ -1375,7 +1379,7 @@ function exploreLeadArticle(name, articles) {
   return withImages.find(article => {
     const headline = categoryKey(article.headline);
     return terms.some(term => headline.includes(categoryKey(term)));
-  }) || withImages[0] || articles[0] || null;
+  }) || null;
 }
 
 function readingTime(text) {
@@ -1419,7 +1423,7 @@ function categoryArtworkSvg(category) {
   else if (c.includes('yaşam') || c.includes('yasam')) scene = `<circle class="art-accent" cx="128" cy="33" r="17"/><path class="art-soft" d="M22 92q34-51 68-5 31-39 68 2v17H22z"/><path class="art-accent" d="M22 99q42-31 80 0 27-21 56-6v13H22z"/><path class="art-line" d="M65 82q-5-27 11-39 8 18-11 39m0 0q9-20 24-18-5 19-24 18m0 0v15"/>`;
   else if (c.includes('eğitim') || c.includes('egitim')) scene = `<path class="art-soft" d="M37 35q27-10 53 5v52q-26-15-53-5zm106 0q-27-10-53 5v52q26-15 53-5z"/><path class="art-line" d="M37 35q27-10 53 5v52q-26-15-53-5zm106 0q-27-10-53 5v52q26-15 53-5zM90 40v53M49 48l26 8m-26 2 26 8m29-10 26-8m-26 18 26-8"/><path class="art-accent" d="m90 18 43 15-43 15-43-15z"/>`;
   else if (c.includes('hava') || c.includes('weather')) scene = `<circle class="art-accent" cx="123" cy="34" r="19"/><path class="art-soft" d="M50 80q-14 0-14-13 0-12 15-14 3-23 27-20 17 1 21 18 19-4 22 12 2 17-14 17z"/><path class="art-line" d="M50 80q-14 0-14-13 0-12 15-14 3-23 27-20 17 1 21 18 19-4 22 12 2 17-14 17zM59 88l-5 11m25-11-5 11m25-11-5 11"/>`;
-  else if (c.includes('türkiye') || c.includes('turkey')) scene = `<path class="art-accent" d="m26 56 14-10 13 2 14-9 12 5 15-5 15 8 16-3 16 11 17 1-10 8-18 1-14 7-16-3-14 7-16-8-15 3-11-7-12 2-8-8z"/><path class="art-line" d="M47 36q44-21 86 6"/>`;
+  else if (c.includes('türkiye') || c.includes('turkey')) scene = `<path class="art-accent" d="m26 53 14-10 13 2 14-9 12 5 15-5 15 8 16-3 16 11 17 1-10 8-18 1-14 7-16-3-14 7-16-8-15 3-11-7-12 2-8-8z"/><circle class="art-soft" cx="76" cy="54" r="10"/><circle class="art-accent" cx="80" cy="51" r="8"/><path class="art-soft" d="m96 49 2.3 5h5.4l-4.4 3.3 1.7 5.2-5-3.1-4.6 3.1 1.6-5.2-4.3-3.3h5.4z"/><path class="art-soft" d="M29 96h121v8H29zm8-7h13v7H37zm18 3h12v4H55zm18-8h15v12H73zm21 4h11v8H94zm16-6h14v14h-14zm19 7h13v7h-13z"/><path class="art-line" d="M26 91q63-22 128 0M80 81l8-10 8 10m-8-10v21"/>`;
   else if (c.includes('dünya') || c.includes('dunya') || c.includes('world')) scene = `<circle class="art-soft" cx="90" cy="57" r="39"/><circle class="art-line" cx="90" cy="57" r="39"/><ellipse class="art-line" cx="90" cy="57" rx="16" ry="39"/><ellipse class="art-line" cx="90" cy="57" rx="36" ry="14"/><path class="art-accent" d="M44 64q44-33 92-6l-3 7q-43-23-87 7z"/>`;
   else if (c.includes('son dakika') || c.includes('breaking')) scene = `<circle class="art-line" cx="90" cy="57" r="43"/><circle class="art-line" cx="90" cy="57" r="31"/><path class="art-accent" d="m101 18-38 43h22L72 98l48-50H96z"/>`;
   else scene = `<rect class="art-soft" x="48" y="17" width="82" height="83" rx="10"/><rect class="art-line" x="48" y="17" width="82" height="83" rx="10"/><rect class="art-accent" x="60" y="30" width="58" height="28" rx="5"/><path class="art-line" d="M60 70h58m-58 9h52m-52 9h39"/><circle class="art-soft" cx="143" cy="75" r="16"/><circle class="art-line" cx="143" cy="75" r="9"/>`;
@@ -1989,9 +1993,7 @@ function renderHome() {
     return 'article';
   };
   const shortcuts = shortcutCategories.length ? `<nav class="home-quick-cats" aria-label="Kategoriler">
-    ${shortcutCategories.map(category => { const lead = exploreLeadArticle(category, categoryArticles(category)); const visual = lead?.imageUrl
-      ? `<img class="quick-cover" data-news-cover data-category="${escapeHtml(category)}" src="${escapeHtml(lead.imageUrl)}" alt="" loading="lazy">`
-      : categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
+    ${shortcutCategories.map(category => { const visual = categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
       ${visual}<span class="quick-scrim"></span><span class="quick-icon">${categoryMarkHtml(category, shortcutIcon(category))}</span><span class="quick-label">${escapeHtml(category)}</span>
     </a>`; }).join('')}
   </nav>` : '';
