@@ -1,6 +1,56 @@
 {
-  "generatedAt": "2026-11-27T18:44:32.655Z",
+  "generatedAt": "2026-11-27T18:54:36.653Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/spor/futbol/uefadan-besiktasa-kustah-sorusturma-3498958",
+      "headline": "UEFA'dan Beşiktaş'a soruşturma",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b09a8654e094da32235ce24.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/video/spor/futbol/uefadan-besiktasa-kustah-sorusturma-3498958"
+      },
+      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3498958",
+      "videoEmbedAttemptedAt": "2026-11-27T18:54:32.180Z",
+      "timeAgo": "şimdi",
+      "body": "UEFA, Beşiktaş'ın Gürcistan'da İsrail ekibi Hapoel Beer Sheva ile oynadığı UEFA Avrupa Ligi karşılaşmasında yaşanan olaylar nedeniyle soruşturma başlatıldığını açıkladı. Siyah-beyazlıların galibiyetiyle sonuçlanan mücadelede, 25. dakikada tribünde açılan Filistin bayrağı ve sonrasında yaşanan arbede nedeniyle gerilim tırmandı. Gürcistan polisinin müdahalesi ve biber gazı kullanmasıyla taraftarlar ile güvenlik güçleri arasında yaşanan gerginlik sonucu bazı taraftarlar gözaltına alındı. Yaşanan olaylar sebebiyle 26. dakikada duran karşılaşma yaklaşık 30 dakika boyunca oynanmadı. Maçın ardından UEFA, olayların araştırılması amacıyla etik ve disiplin müfettişlerinin atandığını duyurdu. Kurumun internet sitesi üzerinden yapılan açıklamada, stadyumdaki şiddet ve düzensizlik olaylarının şiddetle kınandığı bildirildi.",
+      "highlights": [
+        "UEFA, Beşiktaş'ın Hapoel Beer Sheva ile oynadığı maçtaki olaylar nedeniyle soruşturma başlattı.",
+        "Tribünde açılan Filistin bayrağı sonrası yaşanan arbede nedeniyle maç yaklaşık 30 dakika durdu.",
+        "UEFA, olayların incelenmesi için etik ve disiplin müfettişleri atadı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/spor/futbol/uefadan-besiktasa-kustah-sorusturma-3498958",
+      "publishedAt": "2026-11-27T18:57:44.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "headline": "New York'taki Şükran Günü Geçidi'nin Ertelenmesi Bando Gruplarını Masraflarla Karşı Karşıya Bıraktı",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "New York City yetkililerinin Şükran Günü Geçidi'ni şiddetli yağmur, rüzgar ve su baskınlarına yol açan fırtına nedeniyle ertelemesi, ABD'nin dört bir yanından gelen turis performans sanatçılarını ve bando gruplarını hazırlıksız yakaladı. Çarşamba öğleden sonra, etkinlikten bir gün önce yapılan erteleme duyurusu, dev balonların güçlü rüzgarlardaki tehlikesi ve güvenlik önlemleri doğrultusunda alındı. Bu karar, 100 yıllık geçmişe sahip etkinlikte ilk kez erteleme yapılması anlamına geldi.\n\nTexas'tan gelen Pearland Lisesi bando grubunun direktörü Ryan Demkovich, 500'den fazla kişi için yeni düzenlemeler yapmak zorunda kaldıklarını belirtti. Grubun kaldığı New York Marriott Marquis otelinde yer kalmaması nedeniyle New Jersey'de yeni bir otel ayarlandı. Ek masrafları karşılamak için hızlıca bir bağış kampanyası başlatan grup, kısa süre içinde 350.000 dolar toplamayı başardı.\n\nHawaii'den gelen Nā Koa Aliʻi Hawaiʻi All-State Bando Grubu da ailelerin ve destekçilerin yardımıyla 500.000 dolardan fazla para toplayarak etkinlikte kalmayı başardı. Grubun direktörü Rickey H Badua, öğrencilerin duygusal anlar yaşadığını ancak vazgeçmek istemediklerini ifade etti. Illinois'den gelen University of Illinois Marching Illini grubu ise ek otel, yemek ve otobüs masraflarını karşılamak için 175.000 dolar toplamak üzere çalıştıklarını aktardı.\n\nFırtına nedeniyle ABD'nin doğu kesimlerinde şiddetli rüzgar ve yağmur etkili olurken, yüz binlerce ev elektriksiz kaldı ve kıyı kesimlerinde su baskınları yaşandı. Cumartesi gününe ertelenen geçit töreninin, yaşanan tüm zorluklara rağmen katılımcı bando gruplarının acil bağış kampanyaları ve yoğun çabaları sayesinde gerçekleştirilmesi planlanıyor. Ulusal Hava Durumu Servisi koşulların yavaş yavaş iyileşmesini bekliyor.",
+      "highlights": [
+        "New York City yetkilileri, fırtına uyarısı nedeniyle Şükran Günü Geçidi'ni erteledi.",
+        "Texas'tan gelen Pearland Lisesi bandosu, masrafları karşılamak için kısa sürede 350.000 dolar topladı.",
+        "Hawaii'den gelen bando grubu da destekçilerin bağışladığı 500.000'den fazla dolarla etkinlikte kalabildi."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-27T18:52:33.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-haftayi-yukselisle-tamamladi-3498957",
       "headline": "Borsa haftayı yükselişle tamamladı",
@@ -877,16 +927,16 @@
       "timeAgo": "4 dk önce",
       "body": "Beşiktaş ile İsrail ekibi Hapoel arasında oynanan UEFA Avrupa Ligi müsabakasına tribünlerde yaşanan olaylar nedeniyle 25. dakikada ara verildi. Gürcistan'ın Batum kentinde gerçekleştirilen karşılaşma Türkiye saatiyle 20.45'te başladı ve maçı Danimarka Futbol Federasyonu'ndan Morten Krogh yönetti. Mücadelenin 25. dakikasında Gürcü polis güçlerinin Beşiktaş tribünlerine müdahale etmesiyle olaylar çıktı. Olayların, Filistin'e destek mesajı içeren bir pankarta müdahale edilmesi neticesinde çıktığı iddia edildi. Tribünlerdeki olayların yatışmasının ardından futbolcular ve hakemler sahaya döndü ve beş dakikalık ısınma süresinin sonrasında karşılaşmanın yeniden başlamasına karar verildi.\n\nKarşılaşma, güvenlik gerekçeleriyle UEFA tarafından İstanbul yerine Gürcistan'ın Batum kentine alınmıştı. Beşiktaş kafilesini taşıyan uçak, olumsuz hava koşulları sebebiyle 25 Kasım'da Rize-Artvin Havalimanı'na iniş yapmış, oradan üç saatlik bir kara yolculuğuyla Batum'a varılmıştı. Siyah-beyazlı ekip UEFA Avrupa Ligi'ne ikinci ön eleme turundan başlamış; Midtjylland ve Hradec Kralove'u elemiş, play-off turunda ise Kauno Zalgiris'i geçerek lig aşamasına kalmıştı. Beşiktaş turnuvanın ilk hafta maçında Olimpik Marsilya'yı 4-1, ikinci maçında Hoffenheim'ı 3-2 yenerken, üçüncü hafta maçında Crystal Palace'la 2-2 berabere kalmış, dördüncü hafta maçında ise İskoçya'da Celtic'e 3-2 mağlup olmuştu.",
       "highlights": [
-        "Beşiktaş ile Hapoel arasındaki maçın 25. dakikasında polisin müdahalesiyle olaylar çıktı ve müsabakaya ara verildi.",
-        "Olayların Filistin'e destek mesajı içeren bir pankarta müdahale edilmesi sonucu çıktığı iddia ediliyor.",
-        "Olayların durulmasının ardından futbolcular ve hakemler sahaya dönerek maça devam etti."
+        "Gürcistan'ın Ankara Büyükelçisi Archil Kalandia 27 Kasım'da Dışişleri Bakanlığı'na çağrıldı.",
+        "Beşiktaş ile Hapoel Beer Sheva maçı tribün olayları nedeniyle 25. dakikada durduruldu ve karşılaşmayı Beşiktaş 2-1 kazandı.",
+        "Gürcistan İçişleri Bakanlığı polisin müdahalesine yönelik iddiaları reddederken, üç polisin yaralandığı ve 16 kişinin serbest bırakıldığı bildirildi."
       ],
       "externalUrl": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-11-26T18:40:39.000Z",
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T18:54:28.171Z"
+      "sourceTextAttemptedAt": "2026-11-27T18:54:28.893Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/son-dakika-borsa-persembe-gununu-yukselisle-tamamladi-3498738",
@@ -1034,7 +1084,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T18:34:28.908Z"
+      "sourceTextAttemptedAt": "2026-11-27T18:54:28.893Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/buckingham-magazin-degil-guc-sembolu-3498703",
@@ -13550,8 +13600,12 @@
       "headline": "Trump, Putin ile ilişkilerini savundu: İran’ı dürüst olmamakla suçladı",
       "source": "Euronews",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=euronews.com",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1627856905289-241d258ab2fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1ODAxNDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Xavier Li",
+        "photographerUrl": "https://unsplash.com/@xlnyc",
+        "unsplashUrl": "https://unsplash.com/photos/city-skyline-under-blue-sky-during-daytime-FZKvy7i1j4o"
+      },
       "timeAgo": "3 dk önce",
       "body": "ABD Başkanı Donald Trump, dört günlük Asya ziyaretinin ardından Beyaz Saray’da yaptığı açıklamalarda Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin ile olan ilişkilerini savundu. Her iki liderle yaptığı görüşmeleri olumlu bir gelişme olarak değerlendiren Trump, Putin’i dost olarak tanımlaması nedeniyle yöneltilen eleştirilere yanıt verdi ve ilişkisini harika olarak nitelendirdi. Ukrayna’daki savaşa değinen Trump, Putin’in çatışmayı diplomatik yollarla bitirmek istediğini öne sürdü. Ancak barış anlaşmasına ulaşmanın zor olduğunu belirten Trump, Ukrayna Cumhurbaşkanı Volodimir Zelenskiy ile Putin arasında büyük bir nefret olduğunu ifade etti. Savaş sürerken ABD, Rusya ve Çin liderleri Çin’de ortak bir barış bildirisi yayımlayarak stratejik istikrarı koruma taahhüdünde bulundu.\n\nİran ile süren çatışmaya da değinen Trump, Tahran’ın Washington ile anlaşmak istediğini ancak henüz kabul edilebilir koşullar sunmadığını söyledi. Gerçek bir anlaşma yapmak istediklerini belirten Trump, İran hükümetini 51 yıldır insanları kandırmakla suçladı. Ayrıca doğrulanmamış haberlere atıfta bulunarak İran’ın kirli bomba geliştirmesine izin vermeyeceklerini ifade etti. \n\nMeksika ve Kanada ile yürütülen ticaret görüşmelerine de değinen Trump, Meksika Cumhurbaşkanı Claudia Sheinbaum ile yapılan görüşmelerde anlaşmaya yaklaştıklarını ancak Meksika’nın ticaret fazlası vermesini kabul etmeyeceklerini vurguladı. Kanada ile ilgili olarak ise yapılacak işler olduğunu, ülkenin ticarette yıllarca haksız avantaj sağladığını savundu.\n\nSon olarak, yurt dışında veri merkezi kuran Amerikan şirketlerine yüksek vergiler getirmeyi planladığını açıklayan Trump, bu tesislerin ABD’de kalmasını istediğini belirtti. Önerisine ilişkin ayrıntı vermeyen Trump, konuyu henüz yetkilileriyle görüşmediğini de kabul etti.",
       "highlights": [
@@ -13563,7 +13617,7 @@
       "publishedAt": "2026-11-21T08:32:13.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T21:44:31.661Z",
+      "imageSearchAttemptedAt": "2026-11-27T18:54:28.893Z",
       "sourceTextAttemptedAt": "2026-11-21T09:24:17.870Z",
       "isBreaking": false
     },
@@ -13572,8 +13626,12 @@
       "headline": "Fransa'nın eski başbakanından uyarı: Denizaşırı topraklar kaybedilebilir",
       "source": "RFI English",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1710070213761-acefc882bba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8d29ybGQlMjBjaXR5JTIwc2t5bGluZXxlbnwxfDB8fHwxNzk1ODAxNDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Tim  Dennert",
+        "photographerUrl": "https://unsplash.com/@tim_denn",
+        "unsplashUrl": "https://unsplash.com/photos/an-aerial-view-of-a-city-and-a-bridge-vW8THslciLA"
+      },
       "timeAgo": "3 dk önce",
       "body": "Fransa'nın eski başkenti ve eski denizaşırı topraklar bakanı Manuel Valls, RFI'a yaptığı açıklamada, Fransa'nın denizaşırı topraklarıyla ilişkilerini kökten değiştirmesi gerektiğini belirtti. Valls, Paris yönetiminin bu bölgelerle ilgili merkeziyetçi yapısını azaltmaması durumunda Fransa'nın bu toprakları kaybetme riskiyle karşı karşıya olduğunu ifade etti.\n\nAvrupa dışındaki bu toprakların Fransa'ya beş kıtada ve üç okyanusta stratejik bir varlık sağladığını belirten Valls, anakaradan uzakta yaşayan yaklaşık 3 milyon kişinin derin ekonomik ve sosyal eşitsizliklerle mücadele ettiğini vurguladı. Valls, yeni yayımlanan \"Denizaşırı Topraklar: Acil Durum\" adlı kitabında, Rusya, Azerbaycan ve Çin'in bu bölgeleri hedef aldığını ve Fransa'nın küçülen küresel etkisini korumak için \"metropolleşmeden uzaklaşması\" gerektiğini savundu.\n\nYeni Kaledonya örneğine değinen Valls, Temmuz 2025'te siyasi liderler tarafından imzalanan ancak hem bölgede hem de anakarada muhalefetle karşılaşarak çıkmaza giren Bougival Anlaşması'na dikkat çekti. Bu anlaşmanın Fransız Cumhuriyeti içinde ek yetkilere sahip bir Yeni Kaledonya Devleti yaratmayı amaçladığını hatırlatan Valls, Çin'in bölgedeki mineral rezervlerini ve stratejik konumunu hedef aldığını kaydetti.\n\nBağımsızlık çağrılarının yanı sıra Karayipler'deki Guadeloupe ve Martinique gibi bölgelerde uyuşturucu kaçakçılığının toplumları sarstığını belirten eski başbakan, Fransa'nın bu bölgelere yönelik paternalist ve infantil yaklaşımını terk etmesi gerektiğini dile getirdi. Valls, Fransız Guyanası ve diğer bölgeler için daha fazla özerklik ve kişiselleştirilmiş \"à la carte\" statüler çağrısında bulundu.\n\nValls, Fransa'da Emmanuel Macron'un cumhurbaşkanlığı döneminde dokuz veya on farklı denizaşırı topraklar bakanının görev yapmış olmasının bir saçmalık ve saygısızlık göstergesi olduğunu belirtti. Paris'in bu toprakları yalnızca olimpiyat madalyaları, siklonlar veya isyanlar sırasında hatırladığını ifade eden Valls, saygı ve diyaloğa dayalı yeni bir yaklaşımın inşa edilmesi gerektiğini kaydetti.",
       "highlights": [
@@ -13585,7 +13643,7 @@
       "publishedAt": "2026-11-21T08:31:24.000Z",
       "category": "Dünya",
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-24T21:44:31.661Z",
+      "imageSearchAttemptedAt": "2026-11-27T18:54:28.893Z",
       "isBreaking": false
     },
     {
@@ -14425,105 +14483,6 @@
       "category": "Kültür & Sanat",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T19:24:27.020Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/video/ekonomi/altin-mi-mevduat-mi-2027nin-kazandiran-yatirimi-belli-oluyor-3495920",
-      "headline": "Altın ve gümüşte sert düşüş: 2027 için yatırım değerlendirmesi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1632113988284-31334b398e10?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Z29sZCUyMHNpbHZlciUyMG1hcmtldHxlbnwxfDB8fHwxNzk1MjAwODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Dash Cryptocurrency",
-        "photographerUrl": "https://unsplash.com/@dashpay",
-        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-gold-bars-sitting-on-top-of-a-pile-of-money--3xhXkOcKvE"
-      },
-      "timeAgo": "şimdi",
-      "body": "Altın ve gümüş fiyatlarında yaşanan sert düşüşle birlikte gram altın 5 bin 700 liraya, ons gümüş ise 41 dolar seviyesine geriledi. Posta Gazetesi Ekonomi Müdürü Bilal Emin Turan, bu gerilemede doların güçlenmesinin, Fed'in faiz artırımı beklentilerinin ve küresel piyasalardaki nakit ihtiyacının etkili olduğunu belirtti. Turan, kıymetli metallerdeki düşüşün küresel satışlar ve fonların hareketleriyle hızlandığını ifade etti.\n\nGeçmiş dönemdeki hareketlere değinen Turan, 2011 sonrasında yaşanan tabloya benzer bir sürecin görüldüğünü ve 3 bin 500 dolar seviyesinin kritik bir destek noktası olduğunu kaydetti. Altın fiyatlarındaki düşüşün Türkiye'deki hane halkı servetine de yansıdığını belirten Turan, yaklaşık 750 milyar dolar seviyesinde olan hane halkı altın varlığının 500 milyar dolar seviyelerine gerilediğini ve 200-250 milyar dolarlık servet kaybı yaşandığını aktardı.\n\nGümüş tarafında ise sanayi talebi ve arz endişelerinin etkili olduğunu belirten Turan, Çin'in gümüşü stratejik metal ilan etmesinin piyasadaki kıtlık beklentisini güçlendirdiğini söyledi. Ancak kalıcı bir yükseliş için parasal genişleme ve faizlerde gevşeme gerektiğinin altını çizdi.\n\n2027 yılının piyasalar açısından zorlu geçebileceğini ifade eden Turan, ticaret savaşları, Venezuela ve İran'daki gelişmeler ile Rusya-Ukrayna Savaşı'na ilişkin belirsizliklerin küresel piyasaları baskıladığını dile getirdi. Turan, TL mevduatın ise bileşik getiri sayesinde yatırımcıya reel kazanç sağlamaya devam edebileceğini kaydetti.",
-      "highlights": [
-        "Gram altın 5 bin 700 liraya, ons gümüş ise 41 dolar seviyesine geriledi.",
-        "Hane halkının altın varlığı yaklaşık 500 milyar dolar seviyesine gerileyerek 200-250 milyar dolarlık servet kaybı yaşandı.",
-        "TL mevduatın bileşik getiri sayesinde yatırımcıya reel kazanç sağlamaya devam edebileceği belirtildi."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/ekonomi/altin-mi-mevduat-mi-2027nin-kazandiran-yatirimi-belli-oluyor-3495920",
-      "publishedAt": "2026-11-20T18:54:13.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false,
-      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3495920",
-      "videoEmbedAttemptedAt": "2026-11-26T17:34:17.094Z"
-    },
-    {
-      "id": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-      "headline": "Ahlaksız saldırı suçlamasıyla mahkum olan ve duruşmaya gelmeyen öğretmen tutuklandı",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1538115081112-32c7d8401807?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8cG9saWNlJTIwYXJyZXN0fGVufDF8MHx8fDE3OTUyMDE0Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "AJ Colores",
-        "photographerUrl": "https://unsplash.com/@ajcolores",
-        "unsplashUrl": "https://unsplash.com/photos/group-of-police-in-the-middle-of-the-road-aZ-TRPezwt0"
-      },
-      "timeAgo": "13 dk önce",
-      "body": "1980'li yıllarda bir erkek okulunda iki öğrenciyle cinsel ilişki yaşadığı gerekçesiyle suçlu bulunan eski kimya öğretmeni Sally-Anne Bowen, Cuma günkü ceza duruşmasına katılmamasının ardından Hampshire'da polis tarafından yakalandı. 65 yaşındaki Bowen'ın Harrow Kraliyet Mahkemesi'ndeki duruşmaya gelmemesi üzerine mahkeme tarafından tutuklama emri çıkarılmıştı. Londra'daki evinde bulunamayan eski öğretmenin, Cuma öğleden sonra komşu bölge güçlerindeki memurlar tarafından Hampshire'da bulunarak mahkemeye çıkmam şüphesiyle gözaltına alındığı bildirildi.\n\nAğustos ayında yedi adet uygunsuz saldırı suçundan mahkum edilen Bowen, ceza duruşması öncesinde kefaletle serbest bırakılmıştı. Duruşmada, 1980'lerde Christ's College'da öğretmenlik yaptığı dönemde öğrencileriyle ilişkiler yaşadığı ortaya çıkmıştı. Mağdurlardan biri Bowen ile çok sayıda cinsel ilişki yaşadığını ifade ederken, ikinci mağdur ise onunla öğle yemekleri geçirdiğini belirtmişti. Bowen yargılama sürecindeki iddiaları reddetmişti.\n\nCuma sabahı Harrow Kraliyet Mahkemesi'ndeki duruşmaya katılmayan Bowen için Yargıç Karim Ezzat tarafından kefaletsiz tutuklama emri çıkarıldı. Savcı Neelam Gomersall, polisin eve gittiğinde Bowen'ın 36 yıllık partnerinin evde bulunduğunu ancak Bowen'ın orada olmadığını aktardı. Savcılık, sanığın duruşmaya katılmama durumunun mazeretten ziyade reddetme eğiliminde olduğunu belirtti.\n\nBowen'ın avukatı Mark Kimsey, müvekkilinin avukatlarıyla Perşembe günü iletişimde olduğunu ve kendisinden gelen mesajlar nedeniyle refahına dair endişeler bulunduğunu ifade etti. Cuma öğleden sonra yapılan açıklamada Metropolitan polisi, 65 yaşındaki kadının saat 15.00 civarında Hampshire'da bulunarak gözaltına alındığını ve polis nezarethanesine götürüldüğünü doğruladı. Mahkeme tarafından ileri bir tarihte yeni bir ceza duruşması tarihi belirlenecek.",
-      "highlights": [
-        "Eski öğretmen Sally-Anne Bowen, ceza duruşmasına katılmaması üzerine Hampshire'da tutuklandı.",
-        "Ağustos ayında yedi adet uygunsuz saldırı suçundan suçlu bulunmuştu.",
-        "Polis, Bowen'ı Cuma öğleden sonra saat 15.00 civarında bularak gözaltına aldı."
-      ],
-      "externalUrl": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
-      "publishedAt": "2026-11-20T18:51:57.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-      "headline": "Eski ABD Ulusal Güvenlik Danışmanı Sullivan, MIT'de öğrenciler tarafından protesto edildi",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1570337582148-689f941efedb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHJvdGVzdCUyMGF0JTIwdW5pdmVyc2l0eXxlbnwxfDB8fHwxNzk1MjAyMDY4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Sean Benesh",
-        "photographerUrl": "https://unsplash.com/@seanbenesh",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-black-quote-board-vOL3qO0FLkU"
-      },
-      "timeAgo": "23 dk önce",
-      "body": "Eski ABD Ulusal Güvenlik Danışkmanı Jake Sullivan, Massachusetts Teknoloji Enstitüsü'nde (MIT) gerçekleştirdiği bir konuşma sırasında öğrenci protestocularla karşı karşıya geldi.\n\nOlay, Sullivan'ın bir etkinlikte konuşma yaptığı sırada meydana geldi. Konuşma sırasında bir grup öğrenci, Sullivan'a tepki göstererek onu protesto etti.\n\nProtestoyu gerçekleştiren öğrencilerin Sullivan'ı Gazze meselesi nedeniyle hedef aldığı, olay sırasında eski ulusal güvenlik danışmanının öğrenciler tarafından sıkıştırıldığı bildirildi.\n\nOlayın ardından taraflar arasındaki gerginliğe ve etkinliğin detaylarına dair başka bir ayrıntı veya resmi açıklama kaynak metinde yer almadı.",
-      "highlights": [
-        "Eski ABD Ulusal Güvenlik Danışmanı Jake Sullivan MIT'de konuşturuldu",
-        "Konuşma sırasında öğrenci protestocular Sullivan ile karşı karşıya geldi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-      "publishedAt": "2026-11-20T18:51:26.000Z",
-      "category": "Eğitim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T19:54:28.071Z",
-      "isBreaking": false,
-      "videoEmbedAttemptedAt": "2026-11-27T16:54:33.924Z"
-    },
-    {
-      "id": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-      "headline": "Guardian Araştırmasının Ardından Senatörlerden Finansal Denetim Kurumunu Yeniden Canlandırma Sözü",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1520525003249-2b9cdda513bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VVMlMjBDYXBpdG9sfGVufDF8MHx8fDE3OTUyMDI2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Louis Velazquez",
-        "photographerUrl": "https://unsplash.com/@angelvela",
-        "unsplashUrl": "https://unsplash.com/photos/united-states-capitol-building-in-washington-XWW746i6WoM"
-      },
-      "timeAgo": "33 dk önce",
-      "body": "Dört ABD'li Senatör, Guardian tarafından yapılan bir araştırmaya yanıt olarak, ikinci Trump yönetimi döneminde düzinelerce icra takibinden vazgeçen finansal denetim kurumu Tüketici Finansal Koruma Bürosu'nu (CFPB) yeniden ayağa kaldırmak için çalışacaklarını duyurdu.\n\nGuardian, CFPB'nin bankalara ve şirketlere karşı açtığı 20'den fazla dava dosyasını düşürmesinin ardından, bu firmalara yönelik şikayetlerin ortalama %75'ten fazla arttığını ortaya koydu. Ocak 2008 mali çöküşünün ardından CFPB'nin kurulmasını öneren ve Ocak ayında Senato bankacılık komitesinin başkanlığına gelmeye hazırlanan Massachusetts Senatörü Elizabeth Warren, yönetimin CFPB'yi zayıflatma girişimlerini soruşturma sözü verdi.\n\nTrump'ın göreve gelmesinden bu yana büro, şirketlere yönelik kamusal icra eylemlerini büyük ölçüde azalttı. Biden ataması olan eski direktör Rohit Chopra'nın 30 Ocak 2025'te görevden alınmasından bu yana büro yalnızca bir icra eylemi başlattı. CFPB'nin ikinci Trump yönetimi altındaki yönetimi ise ajansın uzun süredir şirketlere ve tüketiciye zarar verdiğini öne sürdü.\n\nSenato azınlık lideri Chuck Schumer, Demokratların Kongre'nin kontrolünü ele geçirmesinin ardından CFPB'nin tam kapasiteyle çalışmasını sağlayacağına yemin etti. Yeni Kongre toplandığında Senato çoğunluk liderliği için yarışacağını duyuran Maryland Senatörü Chris Van Hollen da CFPB'nin geri adım atmasının çalışan Amerikalılara daha fazla odaklanılmasını gerektirdiğini belirtti.\n\nMaryland'in diğer senatörü Angela Alsobrooks da sürece dahil olarak kurumun Amerikan halkı için çalıştığını ifade etti. Senatörler, zengin çıkarlarının çalışan Amerikalıların ihtiyaçlarının önüne konulduğunu savundu.",
-      "highlights": [
-        "Dört ABD'li Senatör, Guardian araştırmasının ardından CFPB'yi yeniden canlandırma sözü verdi.",
-        "CFPB'nin davaları düşürmesinin ardından ilgili firmalara gelen şikayetler %75'ten fazla arttı.",
-        "Elizabeth Warren, yönetimin kurumu zayıflatma girişimlerini soruşturacaklarını açıkladı."
-      ],
-      "externalUrl": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-      "publishedAt": "2026-11-20T18:51:16.000Z",
-      "category": "Bilim",
-      "lang": "tr",
       "isBreaking": false
     }
   ],
