@@ -1373,6 +1373,7 @@ const EXPLORE_IMAGE_TERMS = {
   'Son Dakika': ['son dakika', 'son gelisme', 'acil', 'son durum', 'az once'],
 };
 function exploreLeadArticle(name, articles) {
+  if (canonicalCategory(name) === 'Türkiye') return null;
   const terms = EXPLORE_IMAGE_TERMS[name];
   const withImages = articles.filter(article => article.imageUrl);
   if (!terms) return withImages[0] || articles[0];
@@ -1993,7 +1994,9 @@ function renderHome() {
     return 'article';
   };
   const shortcuts = shortcutCategories.length ? `<nav class="home-quick-cats" aria-label="Kategoriler">
-    ${shortcutCategories.map(category => { const visual = categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
+    ${shortcutCategories.map(category => { const lead = exploreLeadArticle(category, categoryArticles(category)); const visual = lead?.imageUrl
+      ? `<img class="quick-cover" data-news-cover data-category="${escapeHtml(category)}" src="${escapeHtml(lead.imageUrl)}" alt="" loading="lazy">`
+      : categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
       ${visual}<span class="quick-scrim"></span><span class="quick-icon">${categoryMarkHtml(category, shortcutIcon(category))}</span><span class="quick-label">${escapeHtml(category)}</span>
     </a>`; }).join('')}
   </nav>` : '';
