@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T12:04:27.351Z",
+  "generatedAt": "2026-11-28T12:14:25.227Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/ekonomi/tcmb-fintlixin-faaliyet-iznini-iptal-etti-3499097",
+      "headline": "TCMB, Fintlix'in faaliyet iznini iptal etti",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b0a9bdbac2111579c202a20.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/ekonomi/tcmb-fintlixin-faaliyet-iznini-iptal-etti-3499097"
+      },
+      "timeAgo": "şimdi",
+      "body": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Fintlix Elektronik Para ve Ödeme Hizmetleri AŞ hakkında yeni bir karar aldı. Alınan kararla birlikte, şirketin elektronik para kuruluşu olarak faaliyet gösterme izni iptal edildi.\n\nResmi Gazete'de yayımlanarak yürürlüğe giren karara göre, Fintlix Elektronik Para ve Ödeme Hizmetleri AŞ'ye daha önce 17 Ekim 2024 tarihli ve 11727/21326 sayılı kararla verilen elektronik para kuruluşu faaliyet izninin sonlandırıldığı bildirildi.\n\nSöz konusu faaliyet izni iptal kararının, 6493 sayılı Ödeme ve Menkul Kıymet Mutabakat Sistemleri, Ödeme Hizmetleri ve Elektronik Para Kuruluşları Hakkında Kanun'un 16'ncı maddesinin birinci fıkrasının (b) bendi ile 19'uncu maddesi hükümleri kapsamında alındığı ifade edildi. Karar, Resmi Gazete'deki yayımıyla birlikte yürürlüğe girdi.",
+      "highlights": [
+        "TCMB, Fintlix Elektronik Para ve Ödeme Hizmetleri AŞ'nin faaliyet iznini iptal etti.",
+        "Karar Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+        "İptal işlemi 6493 sayılı Kanun kapsamında gerçekleştirildi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/ekonomi/tcmb-fintlixin-faaliyet-iznini-iptal-etti-3499097",
+      "publishedAt": "2026-11-28T12:16:35.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/turkiye/son-dakika-deprem-28-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-28-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3499094",
       "headline": "Son Dakika Deprem 28 Kasım: Bugün nerede deprem oldu, kaç şiddetinde?",
@@ -15,13 +39,39 @@
       "timeAgo": "şimdi",
       "body": "Son dakika deprem haberleri ve 28 Kasım 2026 tarihli son depremler listesi vatandaşlar tarafından araştırılıyor. Bulundukları bölgede sarsıntı hisseden çok sayıda kişi arama motorlarında güncel deprem bilgilerini sorguluyor.\n\nAFAD tarafından paylaşılan verilere göre, 28 Kasım Cumartesi günü Mersin'de bir deprem meydana geldi. Saat 11:50'de kaydedilen Kırtıl-Silifke merkezli depremin büyüklüğü 0.8 olarak ölçülürken, sarsıntının derinliği 7.8 kilometre olarak açıklandı.\n\nVatandaşlar Kandilli Rasathanesi ve AFAD'ın resmi internet siteleri üzerinden son depremler listesini sorgulayabiliyor. Listelerde depremlerin büyüklüğü, derinliği ve merkez üssü gibi detaylı bilgilere ulaşılabiliyor.",
       "highlights": [
-        "28 Kasım 2026 tarihinde Mersin'in Silifke ilçesinde deprem meydana geldi.",
-        "AFAD verilerine göre deprem saat 11:50'de 0.8 büyüklüğünde ve 7.8 km derinlikte gerçekleşti."
+        "28 Kasım 2026 tarihinde son dakika deprem araştırmaları yapılıyor.",
+        "Mersin'in Silifke ilçesinde Kırtıl bölgesinde deprem meydana geldi.",
+        "Deprem saat 11:50'de 0.8 şiddetinde ve 7.8 km derinlikte gerçekleşti."
       ],
       "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-deprem-28-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-28-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3499094",
       "publishedAt": "2026-11-28T12:08:15.000Z",
       "category": "Türkiye",
       "isBreaking": true,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T12:14:21.314Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+      "headline": "Manchester United - Brentford Premier Lig Karşılaşması",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zm9vdGJhbGwlMjBtYXRjaHxlbnwxfDB8fHwxNzk1ODY4MDYyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Fancy Crave",
+        "photographerUrl": "https://unsplash.com/@fancycrave",
+        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
+      },
+      "timeAgo": "8 dk önce",
+      "body": "Manchester United ile Brentford arasında oynanacak Premier League karşılaşması için canlı metin yorum akışı üzerinden gelişmeler aktarılıyor. Karşılaşma öncesinde yaşanan gelişmeler, maç hazırlıkları ve takım kadrolarına dair son bilgiler canlı olarak takip edilebiliyor. Canlı yayın akışında Bruno Fernandes ön plana çıkan isimler arasında yer alıyor. Maçın gidişatı ve takımlarla ilgili güncel bilgiler ilgili canlı yayın akışı üzerinden izleyicilere sunuluyor.",
+      "highlights": [
+        "Manchester United ile Brentford maçı için canlı gelişmeler aktarılıyor",
+        "Maç öncesi hazırlıklar ve takım kadroları takip edilebiliyor",
+        "Bruno Fernandes haberde öne çıkan isimler arasında yer alıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/liveblog/2026/11/28/manchester-united-vs-brentford-live-premier-league?traffic_source=rss",
+      "publishedAt": "2026-11-28T12:06:46.000Z",
+      "category": "Spor",
+      "isBreaking": false,
       "lang": "tr"
     },
     {
@@ -66,7 +116,8 @@
       "publishedAt": "2026-11-28T11:54:40.000Z",
       "category": "Spor",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T12:14:21.314Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/gazzeden-besiktasa-tesekkur-besiktasli-futbolcunun-resmi-yikilmis-duvara-cizildi-3499086",
@@ -14435,31 +14486,6 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T12:44:24.981Z"
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/formula1/formula-1-heyecani-las-vegasta-pole-pozisyonu-antonellinin-3496185",
-      "headline": "Formula 1 heyecanı Las Vegas'ta! Pole pozisyonu Antonelli'nin",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1767592770276-770450fa541e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Rm9ybXVsYSUyMDElMjBMYXMlMjBWZWdhc3xlbnwxfDB8fHwxNzk1MjYyNjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Chuang XY",
-        "photographerUrl": "https://unsplash.com/@xinyu0421",
-        "unsplashUrl": "https://unsplash.com/photos/f1-arcade-sign-illuminated-at-night-r1FLi5orqh0"
-      },
-      "timeAgo": "şimdi",
-      "body": "Formula 1 sezonunun 21. yarışı olan Las Vegas Grand Prix'sinin sıralama turları, ABD'nin Nevada eyaletindeki Las Vegas şehrinde yer alan 6,2 kilometrelik Las Vegas Cadde Pisti'nde gerçekleştirildi.\n\nSıralama turları sonucunda Mercedes takımının İtalyan pilotu Kimi Antonelli, 1:33.893'lük derecesiyle pole pozisyonunun sahibi oldu.\n\nGerçekleşen sıralama turlarının ardından yarışa Red Bull pilotu Max Verstappen ikinci sırada, Mercedes'ten George Russell ise üçüncü sırada start alacak.\n\nLas Vegas Grand Prix'sinin yarın Türkiye saati ile 07.00'de başlayacağı bildirildi.",
-      "highlights": [
-        "Las Vegas Grand Prix'sinde pole pozisyonunu Mercedes'in İtalyan pilotu Kimi Antonelli kazandı.",
-        "Yarışa Red Bull'dan Max Verstappen ikinci, Mercedes'ten George Russell üçüncü sırada başlayacak.",
-        "Las Vegas Grand Prix'si yarın TSİ 07.00'de başlayacak."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/formula1/formula-1-heyecani-las-vegasta-pole-pozisyonu-antonellinin-3496185",
-      "publishedAt": "2026-11-21T12:06:49.000Z",
-      "category": "Spor",
-      "isBreaking": false,
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T12:14:59.792Z"
     }
   ],
   "rejectedIds": [
