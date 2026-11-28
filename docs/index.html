@@ -419,6 +419,8 @@
   .explore-visual { height:148px; position:relative; overflow:hidden; display:grid; place-items:center; background:var(--bg); }
   .explore-visual > img { position:absolute; inset:0; width:100%; height:100%; object-fit:cover; transition:transform .35s; }
   .explore-card:hover .explore-visual > img { transform:scale(1.045); }
+  .explore-visual .fallback-art img { transition:transform .35s; }
+  .explore-card:hover .explore-visual .fallback-art img { transform:scale(1.045); }
   .explore-visual:has(.explore-cover)::after { content:""; position:absolute; inset:0; background:linear-gradient(180deg,rgba(3,13,28,.02) 35%,rgba(3,13,28,.68)); }
   .explore-art { width:76px; height:76px; display:grid; place-items:center; position:relative; z-index:1; border:1px solid var(--divider); border-radius:20px; color:var(--cat-accent); background:var(--card); box-shadow:0 8px 24px var(--shadow); }
   .explore-art .msr { font-size:38px; }
@@ -581,6 +583,7 @@
   }
   .thumb-fallback .fallback-art { position:absolute; inset:0; z-index:0; width:100%; height:100%; overflow:hidden; }
   .thumb-fallback .fallback-art svg { display:block; width:100%; height:100%; }
+  .thumb-fallback .fallback-art img { display:block; width:100%; height:100%; object-fit:cover; }
   .thumb-fallback .fallback-art .art-line { fill:none; stroke:rgba(255,255,255,.68); stroke-width:2.4; stroke-linecap:round; stroke-linejoin:round; }
   .thumb-fallback .fallback-art .art-soft { fill:rgba(255,255,255,.18); }
   .thumb-fallback .fallback-art .art-accent { fill:var(--fallback-accent,#E7B643); }
@@ -596,6 +599,7 @@
   }
   .thumb-fallback .fallback-mark .msr { font-size:34px; }
   .thumb-fallback .fallback-label { position:absolute; left:10px; bottom:9px; z-index:1; max-width:calc(100% - 20px); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; border-radius:6px; padding:4px 7px; background:rgba(11,57,44,.84); color:#fff; font-size:9px; font-weight:850; letter-spacing:.55px; text-transform:uppercase; }
+  .home-quick-cat .fallback-label,.explore-visual .fallback-label,.category-page-hero .fallback-label { display:none; }
   .side-card .thumb-fallback .fallback-label,.trend-item .thumb-fallback .fallback-label,.cmdk-item .thumb-fallback .fallback-label { left:4px; right:4px; bottom:4px; max-width:none; padding:2px 3px; font-size:6.5px; letter-spacing:.15px; text-align:center; }
   .card.no-image .thumb-fallback { --fallback-accent:#E7B643; }
   .card.no-image[data-category="Ekonomi"] .thumb-fallback { --fallback-accent:#E7B643; }
@@ -1336,6 +1340,18 @@ const CORE_CATEGORIES = [
   { name:'Eğitim', icon:'school', color:'#7A3DA0' },
   { name:'Son Dakika', icon:'bolt', color:'#D92D3B' },
 ];
+const CATEGORY_ARTWORK_FILES = {
+  'Gündem':'gundem', 'Türkiye':'turkiye', 'Dünya':'dunya',
+  'Ekonomi':'ekonomi', 'Teknoloji':'teknoloji', 'Spor':'spor',
+  'Sağlık':'saglik', 'Bilim':'bilim', 'Kültür & Sanat':'kultur-sanat',
+  'Yaşam':'yasam', 'Eğitim':'egitim', 'Son Dakika':'son-dakika',
+  'Hava Durumu':'hava-durumu', 'Video':'video', 'Podcast':'podcast',
+  'Gezi':'gezi',
+};
+function categoryArtworkPath(category) {
+  const normalized = canonicalCategory(category);
+  return `assets/category-illustrations/${CATEGORY_ARTWORK_FILES[normalized] || 'gundem'}.jpg`;
+}
 function categoryKey(value) {
   return String(value || '').normalize('NFKD').replace(/\p{M}/gu,'').toLocaleLowerCase('tr-TR').replaceAll('ı','i').replace(/[^a-z0-9]+/g,' ').trim();
 }
@@ -1422,7 +1438,7 @@ function categoryIllustrationHtml(category, extraClass = '') {
   const normalized = canonicalCategory(category);
   const definition = CORE_CATEGORIES.find(item => item.name === normalized);
   const color = definition?.color || categoryColor(normalized);
-  return `<div class="thumb-fallback ${extraClass}" style="--fallback-accent:${color}"><span class="fallback-art">${categoryArtworkSvg(normalized)}</span><span class="fallback-label">${escapeHtml(normalized || SITE_NAME)}</span></div>`;
+  return `<div class="thumb-fallback ${extraClass}" style="--fallback-accent:${color}"><span class="fallback-art"><img src="${categoryArtworkPath(normalized)}" alt="" loading="lazy"></span><span class="fallback-label">${escapeHtml(normalized || SITE_NAME)}</span></div>`;
 }
 
 function categoryArtworkSvg(category) {
@@ -1470,10 +1486,9 @@ document.addEventListener('error', event => {
   if (image.closest('.article-inner')) fallback.classList.add('article-cover-fallback');
   if (image.closest('.next-up-card')) fallback.classList.add('next-up-cover-fallback');
   fallback.style.setProperty('--fallback-accent', categoryColor(category));
-  // Use the same full editorial SVG illustration as stories without a cover.
-  // The previous error path inserted only a small category glyph, which made
-  // failed remote covers look like missing images across the site.
-  fallback.innerHTML = `<span class="fallback-art">${categoryArtworkSvg(category)}</span><span class="fallback-label">${escapeHtml(category || SITE_NAME)}</span>`;
+  // Keep failed remote news covers readable with the same local category
+  // photograph used by category cards and the Android app.
+  fallback.innerHTML = `<span class="fallback-art"><img src="${categoryArtworkPath(category)}" alt=""></span><span class="fallback-label">${escapeHtml(category || SITE_NAME)}</span>`;
   image.replaceWith(fallback);
 }, true);
 
@@ -1992,25 +2007,9 @@ function renderHome() {
 
   const shortcutCategories = CORE_CATEGORIES.map(item => item.name)
     .filter(name => categoryArticles(name).length > 0).slice(0, 8);
-  const shortcutIcon = category => {
-    const value = category.toLocaleLowerCase('tr-TR');
-    if (value.includes('ekonomi')) return 'trending_up';
-    if (value.includes('spor')) return 'sports_soccer';
-    if (value.includes('teknoloji')) return 'memory';
-    if (value.includes('bilim')) return 'science';
-    if (value.includes('sağlık')) return 'favorite';
-    if (value.includes('kültür')) return 'theater_comedy';
-    if (value.includes('yaşam')) return 'eco';
-    if (value.includes('türkiye')) return 'map';
-    if (value.includes('dünya')) return 'public';
-    if (value.includes('son dakika')) return 'bolt';
-    return 'article';
-  };
   const shortcuts = shortcutCategories.length ? `<nav class="home-quick-cats" aria-label="Kategoriler">
-    ${shortcutCategories.map(category => { const lead = exploreLeadArticle(category, categoryArticles(category)); const visual = lead?.imageUrl
-      ? `<img class="quick-cover" data-news-cover data-category="${escapeHtml(category)}" src="${escapeHtml(lead.imageUrl)}" alt="" loading="lazy">`
-      : categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
-      ${visual}<span class="quick-scrim"></span><span class="quick-icon">${categoryMarkHtml(category, shortcutIcon(category))}</span><span class="quick-label">${escapeHtml(category)}</span>
+    ${shortcutCategories.map(category => { const visual = categoryIllustrationHtml(category, 'quick-cover'); return `<a class="home-quick-cat" href="#kategori/${encodeURIComponent(category)}" style="--cat-accent:${categoryColor(category)}">
+      ${visual}<span class="quick-scrim"></span><span class="quick-label">${escapeHtml(category)}</span>
     </a>`; }).join('')}
   </nav>` : '';
 
@@ -2040,11 +2039,8 @@ function renderCategoryPage(name) {
   const items = categoryArticles(name);
   const definition = CORE_CATEGORIES.find(item => item.name === name);
   const accent = definition?.color || categoryColor(name);
-  const icon = definition?.icon || categoryFallbackIcon(name);
   const lead = exploreLeadArticle(name, items);
-  const cover = lead?.imageUrl
-    ? `<img class="category-page-cover" data-news-cover data-category="${escapeHtml(name)}" src="${escapeHtml(lead.imageUrl)}" alt="" fetchpriority="high">`
-    : categoryIllustrationHtml(name, 'category-page-cover category-page-art');
+  const cover = categoryIllustrationHtml(name, 'category-page-cover category-page-art');
 
   const content = document.getElementById('content');
   let main = '';
@@ -2055,7 +2051,6 @@ function renderCategoryPage(name) {
   }
   const heading = `<section class="category-page-hero" style="--category-accent:${escapeHtml(accent)}" aria-label="${escapeHtml(name)} kategorisi">
     ${cover}
-    <span class="category-page-icon">${categoryMarkHtml(name, icon)}</span>
     <div class="category-page-copy"><div class="category-page-kicker">Haber kategorisi</div><h1 class="category-page-title">${escapeHtml(name)}</h1>
     <div class="category-page-count">${items.length} güncel haber</div>${lead ? `<div class="category-page-lead">${escapeHtml(lead.headline)}</div>` : ''}</div>
   </section>`;
@@ -2069,15 +2064,10 @@ function renderExplorePage() {
   setBreadcrumb(`<a id="bcHome">Ana Sayfa</a> <span class="msr" style="font-size:15px">chevron_right</span> <span class="current">Keşfet</span>`);
   document.getElementById('bcHome').addEventListener('click', () => { location.hash = ''; });
   renderCategoryNav('Keşfet');
-  const cards = CORE_CATEGORIES.map(({ name, icon, color }) => {
+  const cards = CORE_CATEGORIES.map(({ name, color }) => {
     const articles = categoryArticles(name);
-    // Use a category-matching editorial cover only when the headline supports
-    // it; otherwise keep the designed category art instead of showing an
-    // unrelated photo from the general feed.
     const lead = exploreLeadArticle(name, articles);
-    const visual = lead?.imageUrl
-      ? `<img class="explore-cover" data-news-cover data-category="${escapeHtml(name)}" src="${escapeHtml(lead.imageUrl)}" alt="" loading="lazy">`
-      : `<div class="explore-art">${categoryMarkHtml(name, icon)}</div>`;
+    const visual = categoryIllustrationHtml(name, 'explore-cover');
     return `<a class="explore-card" href="#kategori/${encodeURIComponent(name)}" style="--cat-accent:${color}">
       <div class="explore-visual">${visual}<span class="explore-name">${escapeHtml(name)}</span></div>
       <div class="explore-meta"><div class="explore-count"><span class="msr" style="font-size:15px">article</span>${articles.length} güncel haber</div>
