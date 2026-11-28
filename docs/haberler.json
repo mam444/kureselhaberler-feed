@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T08:44:23.656Z",
+  "generatedAt": "2026-11-28T08:54:27.618Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/hayat/yapay-zeka-doktor-taklidi-ozkaya-suc-duyurusunda-bulundu-4877390",
+      "headline": "Doktorun görüntüsü ve sesini yapay zekâ ile taklit ederek ürün pazarladılar",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/28/4c0cb297-sgsxylbejxcm9me6jsusp.webp",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/hayat/yapay-zeka-doktor-taklidi-ozkaya-suc-duyurusunda-bulundu-4877390"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Samsun’da görev yapan Göğüs Hastalıkları Uzmanı Prof. Dr. Şevket Özkaya, görüntüsü ve sesinin yapay zekâ kullanılarak taklit edilmesi üzerine suç duyurusunda bulundu. Hazırlanan sahte reklam videolarında doktorun görüntüleri, sahte tedavi ürünlerinin pazarlanmasında kullanıldı. \n\nSöz konusu videolarda, doktorların gerçekte tavsiye etmedikleri ürünleri öneriyormuş gibi gösterildiği belirtildi. Prof. Dr. Şevket Özkaya’nın da görüntüsü ve sesi yapay zekâ yardımıyla bir ilacın akciğerlerdeki tüm hastalıkları ortadan kaldırdığı iddia edilen bir reklamda yer aldı.\n\nKonuyla ilgili değerlendirmelerde bulunan Özkaya, yapay zekâ ve internet aramalarının yalnızca hastalıklar hakkında bilgi edinmek amacıyla kullanılması gerektiğini vurguladı. İnternet ve yapay zekânın tanı ile tedavide karar verici olarak kullanılmasının tehlikeli ve ölümcül sonuçlar doğurabileceğine dikkat çeken Özkaya, sanal ortamdaki her bilginin doğru olmayabileceğini ve mutlaka doktora danışılması gerektiğini belirtti.\n\nDolandırıcıların birçok doktor ile tanınmış kişinin görüntü, fotoğraf ve videolarını orijinal sesleriyle birlikte kullanarak halkı sahte tedavilere yönlendirdiğini belirten Özkaya, bu durumun en büyük tehlikesinin orijinal sesin taklit edilmesi olduğunu ifade etti. Özkaya, telefonla doktorun sesi taklit edilerek sahte ürünlerin satın alınmasının istenebileceğini veya hayati ilaçların bırakılmasının söylenebileceği konusunda uyararak vatandaşların doktorlarıyla mutlaka yüz yüze görüşmesi gerektiğini kaydetti.",
+      "highlights": [
+        "Samsun’da görev yapan Prof. Dr. Şevket Özkaya’nın görüntüsü ve sesi yapay zekâyla taklit edilerek sahte tedavi ürünlerinin pazarlanmasında kullanıldı.",
+        "Özkaya, yapay zekâ ile hazırlanan videolarda bir ilacın akciğerlerdeki tüm hastalıkları ortadan kaldırdığı yönünde gösterildi.",
+        "Özkaya konuyla ilgili suç duyurusunda bulunarak vatandaşların sanal ortamdaki bilgilere karşı dikkatli olması ve mutlaka doktorlarıyla yüz yüze görüşmesi gerektiğini söyledi."
+      ],
+      "externalUrl": "https://www.yenisafak.com/hayat/yapay-zeka-doktor-taklidi-ozkaya-suc-duyurusunda-bulundu-4877390",
+      "publishedAt": "2026-11-28T08:52:28.000Z",
+      "category": "Teknoloji",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-afganistanda-okulda-siddetli-patlama-can-kaybi-ve-yaralilar-var-7709800",
       "headline": "Afganistan'da bir okulda şiddetli patlama meydana geldi",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-28T08:41:43.000Z",
       "category": "Eğitim",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:54:21.101Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/antalyadan-avrupaya-cicek-ihracati-okkes-duran-anlatti-4877386",
@@ -264,6 +289,30 @@
       "externalUrl": "https://www.cnnturk.com/turkiye/hava-durumu-uyarisi-28-kasim-istanbulda-havalar-nasil-olacak-karla-karisik-yagmur-geliyor-3498989",
       "publishedAt": "2026-11-28T07:38:08.000Z",
       "category": "Yaşam",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "headline": "WWE Duyurdu: Avustralyalı Güreşçi Bronson Reed 38 Yaşında Hayatını Kaybetti",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "1 sa önce",
+      "body": "Dünya Güreş Eğlencesi (WWE), profesyonel güreşçi Bronson Reed'in 38 yaşında hayatını kaybettiğini duyurdu. Şirket, gerçek adı Jermaine Haley olan güreşçinin cuma günü tıbbi komplikasyonlar nedeniyle yaşamını yitirdiğini bildirdi ancak başka bir detay paylaşmadı. WWE, yayınladığı taziye mesajında Haley'nin büyük bir figür olduğunu belirterek ailesine başsağlığı dileğinde bulundu.\n\nHaley, cuma günü Georgia eyaletinin Athens şehrindeki Akins Ford Arena'da düzenlenen WWE etkinliğinde anıldı. Gösteri, Haley için yapılan 10 çan selamıyla başladı. Kanadalı güreşçi Kevin Owens, maçında \"Bronson\" yazılı bir pazubent takarak kalabalığa seslendi ve Haley'nin ailesini her şeyden çok sevdiğini ifade etti.\n\nEmekli dünya şampiyonu Ric Flair ve WWE Hall of Famer Diamond Dallas Page dahil olmak üzere birçok güreş efsanesi sosyal medyada taziye mesajları yayımladı. Güreş medya kuruluşlarına göre Haley, kasım ayı başlarında Suudi Arabistan'ın Riyad şehrinde düzenlenen WWE Crown Jewel etkinliğinde geçirdiği sakatlıklardan yeni kurtuluyordu.\n\nKariyerine bağımsız sahnelerde Jonah Rock ve J-Rock adlarıyla başlayan Haley, 2019 yılında WWE ile sözleşme imzalamıştı. 2021 yılında serbest bırakıldıktan bir yıl sonra geri dönen güreşçi, 2024 yılında André the Giant Memorial Battle Royal'ı kazanmıştı. Haley, eylül ayında 40 yaşında hayatını kaybeden İngiliz güreşçi Benjamin Satterley'nin ardından son birkaç ay içinde yaşamını yitiren ikinci güreşçi oldu.",
+      "highlights": [
+        "Profesyonel güreşçi Bronson Reed 38 yaşında vefat etti.",
+        "Şirket, ölüm nedeninin tıbbi komplikasyonlar olduğunu açıkladı.",
+        "Haley, Georgia'daki WWE etkinliğinde anıldı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T07:31:14.000Z",
+      "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -2674,16 +2723,16 @@
       "timeAgo": "2 dk önce",
       "body": "İstanbul'da 25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında yapılan eylem çağrılarının ardından Taksim Meydanı ve İstiklal Caddesi'nde geniş güvenlik önlemleri alındı. Beyoğlu Kaymakamlığı, ilçe genelinde toplantı ve gösteri yürüyüşlerini 24 saat süreyle yasaklarken İstanbul Valiliği de Taksim Metro İstasyonu ile Kabataş-Taksim Füniküler Hattı'nın kapatıldığını duyurdu.",
       "highlights": [
-        "Beyoğlu Kaymakamlığı ilçe genelinde 24 saat süreyle etkinlik yasaklaması getirdi",
-        "Taksim Meydanı, İstiklal Caddesi ve çevre sokaklar yaya ve araç trafiğine kapatıldı",
-        "Taksim Metro İstasyonu, füniküler hattı ve Şişhane'nin bazı çıkışları ulaşıma kapatıldı"
+        "Taksim Meydanı ve İstiklal Caddesi trafiğe kapatıldı",
+        "Beyoğlu Kaymakamlığı 24 saatlik yasak kararı aldı",
+        "Metro ve füniküler hatlarında düzenlemeye gidildi"
       ],
       "externalUrl": "https://www.yenisafak.com/video/gundem/lgbtlilerin-25-kasim-eylemi-cagrilarinin-ardindan-istiklal-caddesi-ve-taksim-meydani-kapatildi-4876555",
       "publishedAt": "2026-11-25T18:32:03.000Z",
       "category": "Türkiye",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T23:23:43.112Z",
+      "sourceTextAttemptedAt": "2026-11-28T08:54:21.101Z",
       "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z",
       "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
@@ -14256,57 +14305,6 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-21T15:34:28.226Z",
       "sourceTextAttemptedAt": "2026-11-21T09:34:25.162Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss",
-      "headline": "BBC araştırması: Londra'da cinsel suçları araştıran dedektif, mağdurlara tecavüz etti",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1674319637989-67fe3f3f7212?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QkJDJTIwYXJhJUM1JTlGdCVDNCVCMXJtYXMlQzQlQjElM0ElMjBMb25kcmElMjdkYSUyMGNpbnNlbCUyMHN1JUMzJUE3bGFyJUM0JUIxJTIwYXJhJUM1JTlGdCVDNCVCMXJhbiUyMGRlZGVrdGlmJTJDJTIwbWElQzQlOUZkdXJsYXJhJTIwdGVjYXYlQzMlQkN6JTIwZXR0aXxlbnwxfDB8fHwxNzk1MzcxMzA1fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Francesco Bonistalli",
-        "photographerUrl": "https://unsplash.com/@franz01",
-        "unsplashUrl": "https://unsplash.com/photos/the-big-ben-clock-tower-towering-over-the-city-of-london-UHoaxzJxQ1E"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "BBC'nin Panorama programının araştırmasına göre, Londra'da cinsel suçları soruşturan polis dedektifi Warren Arter'ın soruşturmasını yürüttüğü kadınları cinsel istismara uğrattığı ve polis teşkilatının bu dedektifi durdurmak için birçok fırsatı kaçırdığı ortaya çıktı. Londra'nın güneydoğusunda cinsel saldırıları araştıran bir birimin başında bulunan Arter, konumunu korumakla yükümlü olduğu kadınları hedef almak için kullandı. İlk kez konuşan iki kadın, Arter'ın kendilerini manipüle ettiğini anlatırken, kadınlardan biri Arter'ın kendisine tecavüz ettiğini söyledi.\n\nArter, davasını soruşturduğu kadınlardan biri olan Rebekah ile daha sonra evlendi ve bu kadın iki yıl önce Barbados'ta tatildeyken hayatını kaybetti. BBC, Arter'ın buradaki olaylar hakkında yalan söylediğini ortaya çıkardı. Ayrıca Arter'ın eşi Rebekah'nın cinsel istismara uğradığı anları filme alarak görüntüleri dağıttığı, videoların birinde Rebekah'ya hakaret ederek \"Tecavüze uğramalısın\" dediği belirtildi. Arter'ın eşinin taciz videolarını tanıdığı en az dört kadına gönderdiği ifade edildi.\n\nLondra Emniyet Müdürlüğü'nde çalıştığı süre boyunca hakkında birçok soruşturma yürütülen Arter, uyuşturucu suçlarından dolayı 2023'te işten çıkarılana kadar yedi yıl boyunca tam maaş almaya devam etti. Barbados'taki ölümün ardından İngiltere'ye döndüğünde başka bir cinsel suç şikayeti nedeniyle tutuklanan Arter, Wandsworth Cezaevi'nde intihar etti. Aleyhindeki delillere rağmen Londra Polisi, dedektifliği döneminde yürüttüğü soruşturmaları incelemedi. Londra Emniyet Müdürlüğü, BBC'nin araştırmasından sonra ilk kez kamuoyu önünde Arter'ın istismar ettiği kadınlardan özür diledi.\n\nPanorama, polisin Arter'ı durdurmak için ele geçen birçok fırsatı kaçırdığını ortaya koydu. 2010 yılında bir sağlık merkezinde tecavüze uğradığını bildiren bir kadınla yalnız halde bulunmasına rağmen soruşturma açılmadı. Polisin 2014-2018 yılları arasında altı teyit edilmiş istihbarat raporu aldığı, 2024'teki etek altı fotoğrafı ihbarında ise Arter'ı hemen gözaltına almadığı belirtildi. Polis denetleme kurumu IOPC tarafından yürütülen bir soruşturmada Arter'ın potansiyel 21 kurbanının tespit edildiği bildirildi. Londra Polisi, Arter'ın görev süresi boyunca soruşturduğu davalardaki tüm kadınlarla temasa geçmedi.",
-      "highlights": [
-        "Londra'da cinsel suçları soruşturan dedektif Warren Arter'ın mağdurlara tecavüz ettiği ve istismar ettiği ortaya çıktı.",
-        "Arter'ın eşi Rebekah'nın cinsel istismara uğradığı anları filme alıp görüntüleri dağıttığı belirlendi.",
-        "Londra Emniyet Müdürlüğü, BBC'nin araştırmasının ardından ilk kez kamuoyu önünde özür diledi."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/c8e39lrep7vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T08:52:09.000Z",
-      "category": "Bilim",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T09:04:23.465Z",
-      "imageSearchAttemptedAt": "2026-11-22T18:14:19.834Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-      "headline": "Hindistan'ın Manipur Eyaletinde Kaçak İçki 11 Kişinin Ölümüne Yol Açtı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1591704951890-0862b2e98acb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YWxjb2hvbCUyMGJvdHRsZXxlbnwxfDB8fHwxNzk1MjUxMjU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Bobby Donald",
-        "photographerUrl": "https://unsplash.com/@__b_d__",
-        "unsplashUrl": "https://unsplash.com/photos/clear-glass-bottle-with-white-background-KikhsHzIO9o"
-      },
-      "timeAgo": "5 dk önce",
-      "body": "Hindistan'ın kuzeydoğusundaki Manipur eyaletinde yaşanan kaçak alkol olayında 11 kişi hayatını kaybetti, 180 kişi ise zehirlendi.\n\nYaşanan trajik olayın ardından Manipur başbakanı, olayla ilgili kapsamlı bir soruşturma başlatılması talimatını verdi.\n\nBaşbakan, bu olaydan sorumlu olan kişilerin tespit edilerek tutuklanacağını ve adalete teslim edilerek cezalandırılacağını açıkladı.\n\nEyalette kaçak içki tüketimi nedeniyle hastanelere başvuran zehirlenme vakalarındaki tedavi süreçleri ve gelişmeler takip ediliyor.",
-      "highlights": [
-        "Manipur eyaletinde kaçak içki 11 kişinin ölümüne yol açtı",
-        "180 kişi kaçak alkol nedeniyle zehirlendi",
-        "Manipur başbakanı olayla ilgili soruşturma emri verdi"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/21/suspected-toxic-alcohol-kills-at-least-11-people-in-northeast-india?traffic_source=rss",
-      "publishedAt": "2026-11-21T08:48:54.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T09:04:26.727Z",
       "isBreaking": false
     }
   ],
