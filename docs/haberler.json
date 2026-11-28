@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T10:04:17.756Z",
+  "generatedAt": "2026-11-28T10:14:25.745Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigul-dosyasi-ozgur-ozel-ve-4-isme-iliskin-dosya-ankara-cumhuriyet-bassavciliginda-7709840",
+      "headline": "Mustafa Sarıgül soruşturması ve fezleke açıklaması",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://image.milimaj.com/i/milliyet/75/460x340/6b0aa824d71aab190dd814af.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Milliyet",
+        "sourceUrl": "https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigul-dosyasi-ozgur-ozel-ve-4-isme-iliskin-dosya-ankara-cumhuriyet-bassavciliginda-7709840"
+      },
+      "timeAgo": "2 dk önce",
+      "body": "Ankara Cumhuriyet Başsavcılığında Mustafa Sarıgül soruşturması kapsamında Özgür Özel ve 4 isme ilişkin fezleke bulunduğu bildirildi. Konuya dair ayrıntıların birazdan paylaşılacağı aktarıldı. Öte yandan Bolu'da gezi sırasında kaybolan 10 çocuk ile 3 personelin bulunduğu ve konuya ilişkin anların yer aldığı belirtildi. Ayrıca uğruna servetini harcadığı kadının bambaşka biri olmasının ortaya çıktığı ifade edildi. Süleyman amcanın ise büyük bir yıkım yaşadığı ve \"Donuma kadar aldınız\" dediği aktarıldı. Haberde yer alan bu farklı gelişmelerin detaylarının ilerleyen saatlerde netleşmesi bekleniyor. Kaynak metinde paylaşılan sınırlı bilgiler doğrultusunda olaylar bu şekilde özetlendi.",
+      "highlights": [
+        "Özgür Özel ve 4 isme ilişkin fezleke Ankara Cumhuriyet Başsavcılığında",
+        "Bolu'da gezi sırasında kaybolan 10 çocuk ve 3 personel bulundu",
+        "Süleyman amcanın büyük yıkımı aktarıldı"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigul-dosyasi-ozgur-ozel-ve-4-isme-iliskin-dosya-ankara-cumhuriyet-bassavciliginda-7709840",
+      "publishedAt": "2026-11-28T10:12:04.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/dunya/turk-dunyasinin-anesteziyoloji-ve-reanimatoloji-uzmanlari-bakude-bulustu/4141297",
       "headline": "Türk dünyasının anesteziyoloji ve reanimatoloji uzmanları Bakü'de buluştu",
@@ -19,7 +43,8 @@
       "publishedAt": "2026-11-28T10:01:32.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:14:17.575Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-dunyanin-konustugu-christa-pike-infazinda-yeni-gelisme-intikam-plani-devrede-dokuz-sayfalik-dilekce-sizdi-7709827",
@@ -70,6 +95,29 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-28T09:54:24.651Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+      "headline": "Yemen hükümet güçleri Husilerin mevzilerini vurdu, BM açlık krizine karşı uyardı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1656416584402-b720e0d786dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8WWVtZW4lMjBjb25mbGljdHxlbnwxfDB8fHwxNzk1ODYwODU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "asamw",
+        "photographerUrl": "https://unsplash.com/@asamw",
+        "unsplashUrl": "https://unsplash.com/photos/a-city-with-many-buildings-vNTrQ49rByg"
+      },
+      "timeAgo": "39 dk önce",
+      "body": "Yemen'deki hükümet güçleri Husi mevzilerini hedef aldı. Gerçekleşen bu askeri hareketliliğin yanı sıra, uluslararası alanda insani durumla ilgili endişeler de dile getirildi.\n\nBirleşmiş Milletler (BM) tarafından yapılan açıklamalara göre, ülkedeki durum ciddiyetini koruyor. BM'nin paylaştığı verilere göre, hükümetin kontrolü altında bulunan bölgelerde yaşayan yaklaşık 1,8 milyon kişi acil düzeyde açlıkla karşı karşıya bulunuyor.\n\nBölgedeki gelişmeler ve insani kriz riski yakından takip edilirken, taraflar arasındaki çatışmalar ve gıda güvenliğine ilişkin uyarılar uluslararası gündemdeki yerini koruyor. Birleşmiş Milletler yetkilileri, krizin derinleşmemesi için uyarılarda bulunuyor.",
+      "highlights": [
+        "Yemen hükümet güçleri Husi mevzilerini vurdu",
+        "BM hükümet kontrolündeki bölgelerde 1,8 milyon kişinin acil düzeyde açlıkla karşı karşıya olduğunu açıkladı"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+      "publishedAt": "2026-11-28T09:35:15.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kahramanmarasta-ogrenciler-bulduklari-altini-teslim-etti-kahramanmaras-haberleri-4877413",
@@ -3440,8 +3488,8 @@
       "timeAgo": "şimdi",
       "body": "HONOR, İstanbul Avcılar’daki üretim tesisinde yerel üretime başladığını duyurdu. 2026’nın ikinci yarısında hayata geçirilen projenin ilk aşaması kapsamında 10 milyon dolarlık bir yatırım gerçekleştirildi. Yapılan bu yatırım doğrultusunda yeni üretim hatları kuruldu, gerekli üretim ekipmanları temin edildi ve yerel çalışanlar istihdam edilerek eğitildi.\n\nGerçekleştirilen çalışmalar neticesinde söz konusu projeyle birlikte 100’ü aşkın yeni istihdam alanı yaratıldı. Marka, 2026’nın son çeyreğinde Türkiye’de toplam 50 bin cihaz üretmeyi hedefliyor. 2027 yılından itibaren ise üretim kapasitesinin kademeli olarak önce 100 bine, ardından da 300 bin adede çıkarılması öngörülüyor.\n\nKonuya ilişkin değerlendirmelerde bulunan HONOR Türkiye Genel Müdürü Zhu Wentong (Mike), Türkiye’deki üretimin yalnızca bir yatırım olmadığını belirtti. Wentong, bu adımın Türkiye pazarına kök salma, yatırımı sürdürme ve yerel iş ortaklarıyla birlikte büyüme kararlılığının bir göstergesi olduğunu ifade etti. Ayrıca Türkiye'nin tüketici talebi, sağlam sanayi altyapısı ve nitelikli iş gücüyle stratejik bir pazar konumunda bulunduğunu vurguladı.",
       "highlights": [
-        "HONOR, İstanbul Avcılar’daki tesisinde yerel üretime başladı",
-        "İlk aşamada 10 milyon dolarlık yatırımla 100'ü aşkın yeni istihdam yaratıldı",
+        "İstanbul Avcılar’daki tesiste yerel üretime başlandı",
+        "10 milyon dolarlık yatırımla 100'ü aşkın yeni istihdam yaratıldı",
         "2026 son çeyreğinde 50 bin cihaz üretilmesi hedefleniyor"
       ],
       "externalUrl": "https://www.cnnturk.com/teknoloji/100-yeni-istihdamla-istanbuldaki-tesiste-uretim-basladi-3498146",
@@ -3449,7 +3497,7 @@
       "category": "Teknoloji",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T17:14:38.933Z"
+      "sourceTextAttemptedAt": "2026-11-28T10:14:17.575Z"
     },
     {
       "id": "https://www.france24.com/en/video/20261125-free-land-and-thriving-businesses-french-village-defies-rural-decline",
@@ -14245,31 +14293,6 @@
       "category": "Teknoloji",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T10:54:18.312Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945?maca=tur-rss-tur-all-1495-xml-mrss",
-      "headline": "Almanya'da sağcı şiddeti belgeleyen portala destek kesildi",
-      "source": "DW Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1641531339739-1d4f309980e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8R2VybWFueSUyMGdvdmVybm1lbnR8ZW58MXwwfHx8MTc5NTI1NjA2NHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Norbert Braun",
-        "photographerUrl": "https://unsplash.com/@medion4you",
-        "unsplashUrl": "https://unsplash.com/photos/a-german-flag-flying-in-front-of-a-building-oMpz5DU19DU"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Almanya hükümeti, İkinci Dünya Savaşı sonrasında yaşanan sağcı şiddet olaylarını belgelemek amacıyla kurulan internet portalına sağlanan mali desteğin sonlandırılacağını açıkladı.\n\nKültür ve Medyadan Sorumlu Devlet Bakanı Wolfram Weimer, muhalefetteki Yeşiller Partisi milletvekili Marlene Schönberger'in yazılı soru önergesine verdiği yanıtta, 2026 yılı sonrasındaki finansman için ek bütçe kaynağı bulunmadığını belirtti.\n\nKarara tepki gösteren Yeşiller Partisi Federal Meclis İçişleri Komisyonu üyesi Marlene Schönberger, 'Rechte Gewalt' adlı tema portalının yayına girmesinin üzerinden henüz sekiz ay dahi geçmediğine dikkat çekerek hükümetin kararına sert eleştiriler yöneltti.\n\nSchönberger, federal hükümetin sağcı şiddeti önlemekle, önleyemediği durumlarda ise bu şiddeti kabul edip belgelemekle yükümlü olduğunu vurgulayarak, bu adımın mağdurlara karşı bir sorumluluk olduğunu ifade etti.\n\nAlman Dijital Kütüphanesi'nin 'Archivportal-D' platformunda yer alan ve sorumluluğunu Federal Arşiv'in üstlendiği portal, 1945'ten bu yana Almanya'daki sağcı şiddeti merkezî bir yerde toplamayı hedefliyordu. Projeyle devlet ve sivil toplum kaynaklı dağınık arşiv materyallerinin çevrimiçi ortamda bir araya getirilmesi amaçlanıyordu.",
-      "highlights": [
-        "Almanya'da sağcı şiddeti belgeleyen internet portalına verilen hükümet desteği sonlandırılıyor.",
-        "Kültür ve Medyadan Sorumlu Devlet Bakanı Wolfram Weimer, 2026 sonrasında finansman için ek bütçe kaynağı bulunmadığını açıkladı.",
-        "Yeşiller Partisi'nden Marlene Schönberger, henüz sekiz ay önce kurulan portal için alınan kararı eleştirdi."
-      ],
-      "externalUrl": "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945?maca=tur-rss-tur-all-1495-xml-mrss",
-      "publishedAt": "2026-11-21T10:08:00.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:24:22.800Z",
       "isBreaking": false
     }
   ],
