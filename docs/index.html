@@ -1375,12 +1375,25 @@ const EXPLORE_IMAGE_TERMS = {
 function exploreLeadArticle(name, articles) {
   if (canonicalCategory(name) === 'Dünya') return null;
   const terms = EXPLORE_IMAGE_TERMS[name];
-  const withImages = articles.filter(article => article.imageUrl);
-  if (!terms) return withImages[0] || articles[0];
-  return withImages.find(article => {
+  // Publisher thumbnails can include logos, tickers, or a headline rendered
+  // into the image. Use a clean photo for the category hero and keep publisher
+  // covers on their own story cards; if none exists, the category artwork is
+  // clearer than a text-heavy cover under the hero title.
+  const cleanPhotos = articles.filter(article => article.imageUrl
+    && !['publisher_rss', 'publisher_video'].includes(article.imageCredit?.sourceType));
+  if (!cleanPhotos.length) return null;
+  if (!terms) return cleanPhotos[0];
+  let best = null;
+  let bestScore = 0;
+  for (const article of cleanPhotos) {
     const headline = categoryKey(article.headline);
-    return terms.some(term => headline.includes(categoryKey(term)));
-  }) || withImages[0] || articles[0] || null;
+    const score = terms.reduce((total, term) => total + (headline.includes(categoryKey(term)) ? 1 : 0), 0);
+    if (score > bestScore) {
+      best = article;
+      bestScore = score;
+    }
+  }
+  return best || cleanPhotos[0];
 }
 
 function readingTime(text) {
