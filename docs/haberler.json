@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-28T11:54:34.096Z",
+  "generatedAt": "2026-11-28T12:04:27.351Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/son-dakika-deprem-28-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-28-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3499094",
+      "headline": "Son Dakika Deprem 28 Kasım: Bugün nerede deprem oldu, kaç şiddetinde?",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6ac9e610d028a5e7bf581210.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/turkiye/son-dakika-deprem-28-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-28-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3499094"
+      },
+      "timeAgo": "şimdi",
+      "body": "Son dakika deprem haberleri ve 28 Kasım 2026 tarihli son depremler listesi vatandaşlar tarafından araştırılıyor. Bulundukları bölgede sarsıntı hisseden çok sayıda kişi arama motorlarında güncel deprem bilgilerini sorguluyor.\n\nAFAD tarafından paylaşılan verilere göre, 28 Kasım Cumartesi günü Mersin'de bir deprem meydana geldi. Saat 11:50'de kaydedilen Kırtıl-Silifke merkezli depremin büyüklüğü 0.8 olarak ölçülürken, sarsıntının derinliği 7.8 kilometre olarak açıklandı.\n\nVatandaşlar Kandilli Rasathanesi ve AFAD'ın resmi internet siteleri üzerinden son depremler listesini sorgulayabiliyor. Listelerde depremlerin büyüklüğü, derinliği ve merkez üssü gibi detaylı bilgilere ulaşılabiliyor.",
+      "highlights": [
+        "28 Kasım 2026 tarihinde Mersin'in Silifke ilçesinde deprem meydana geldi.",
+        "AFAD verilerine göre deprem saat 11:50'de 0.8 büyüklüğünde ve 7.8 km derinlikte gerçekleşti."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/son-dakika-deprem-28-kasim-bugun-deprem-mi-oldu-nerede-kac-siddetinde-28-kasim-2026-afad-ve-kandilli-rasathanesi-son-depremler-listesi-3499094",
+      "publishedAt": "2026-11-28T12:08:15.000Z",
+      "category": "Türkiye",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/finans-haberler/bakir-fiyatlari-3-haftalik-dusus-serisini-sonlandirdi-3499091",
       "headline": "Bakır fiyatları 3 haftalık düşüş serisini sonlandırdı",
@@ -18,6 +41,30 @@
       "externalUrl": "https://www.cnnturk.com/finans-haberler/bakir-fiyatlari-3-haftalik-dusus-serisini-sonlandirdi-3499091",
       "publishedAt": "2026-11-28T11:59:24.000Z",
       "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T12:04:22.330Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+      "headline": "Hindistan, Christchurch'teki ikinci test maçının ikinci gününde zor anlar yaşadı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1595210382266-2d0077c1f541?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8Y3JpY2tldCUyMG1hdGNofGVufDF8MHx8fDE3OTU4Njc0NjN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Alfred Kenneally",
+        "photographerUrl": "https://unsplash.com/@alken",
+        "unsplashUrl": "https://unsplash.com/photos/man-in-white-pants-and-blue-baseball-mitt-holding-baseball-bat-during-daytime-XqFeVprJ3jQ"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Hindistan takımı, Christchurch'te oynanan ikinci test maçının ikinci gününün sonunda 116-6 skoruyla günü tamamladı. Siyah Kanatlar olarak bilinen Yeni Zelanda, ilk innings'te 356 koşu kaydetmişti. Hindistan, bu skora yanıt ararken günün sonunda zorlu bir tabloyla karşı karşıya kaldı ve altı oyuncusunu kaybetti.",
+      "highlights": [
+        "Yeni Zelanda ilk innings'te 356 koşu kaydetti.",
+        "Hindistan ikinci günün sonunda 116-6 skora ulaştı."
+      ],
+      "externalUrl": "https://www.aljazeera.com/sports/2026/11/28/india-fumble-chances-as-new-zealand-finish-day-two-on-top-in-christchurch?traffic_source=rss",
+      "publishedAt": "2026-11-28T11:54:40.000Z",
+      "category": "Spor",
       "isBreaking": false,
       "lang": "tr"
     },
@@ -98,7 +145,7 @@
     },
     {
       "id": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
-      "headline": "Doğu Afganistan'daki Bir Okulda Patlama: 7 Ölü, 90'dan Fazla Yaralı",
+      "headline": "Doğu Afganistan'daki bir okulda meydana gelen patlamada 7 kişi hayatını kaybetti",
       "source": "NPR",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
       "imageUrl": "https://images.unsplash.com/photo-1558785954-89754bbbf9dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8c2Nob29sJTIwZXhwbG9zaW9ufGVufDF8MHx8fDE3OTU4NTY2NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
@@ -108,17 +155,18 @@
         "unsplashUrl": "https://unsplash.com/photos/wrecked-room--r8_sm71BFg"
       },
       "timeAgo": "22 dk önce",
-      "body": "Afganistan'ın doğusundaki Kunar vilayetinde bulunan bir okulda cumartesi günü bir patlama meydana geldi. Vilayetin kültür ve bilgi direktörü Sami ul Haq Bayan, olayda yedi kişinin hayatını kaybettiğini ve 90'dan fazla kişinin yaralandığını açıkladı. İlk bilgilere göre patlamanın, okulun yakınındaki madencilik şirketlerine ait patlayıcı deposundaki ihmalden kaynaklandığı belirtildi. Olayla ilgili soruşturmanın sürdüğü bildirildi.\n\nYaralılardan en fazla 15'inin hastanede tedavi altında olduğu, geri kalanların ise tedavilerinin ardından taburcu edildiği ifade edildi. Kunar İl Emniyet Müdürlüğü sözcüsü Farid Dehqan, patlamanın Asadabad'ın eteklerindeki Andar Ser bölgesinde bulunan bir okulda saat 10.00'da gerçekleştiğini kaydetti. Sosyal medyada paylaşılan görüntülerde, yaralı çocukların Asadabad'daki bir hastanenin acil servisine araçlarla getirildiği ve okul binasının bir kısmının yıkıldığı görüldü.\n\nHammadde bakımından zengin olan Afganistan'da madencilik önemli bir sektördür; ancak madencilik şirketlerindeki güvenlik standartlarının genellikle zayıf olması kazalara yol açmaktadır. Kunar'da değerli taş madenciliği artış göstermektedir ve çeşitli şirketler çıkardıkları taşları açık artırmayla satmaktadır.\n\nAğustos ayında başkent Kabil'deki bir okul kompleksinde düzenlenen el bombası saldırısında, yaşları 9 ile 14 arasında değişen 40'tan fazla çocuk yaralanmıştı.",
+      "body": "Afganistan'ın doğusundaki Kunar vilayetinde bulunan bir okulda meydana gelen patlama sonucunda 7 kişi yaşamını yitirdi, 90'dan fazla kişi ise yaralandı. Vilayetin kültür ve enformasyon direktörü Sami ul Haq Bayan, patlamanın madencilik şirketlerine ait patlayıcıların depolandığı komşu bir depodaki ihmalden kaynaklandığının ilk incelemelerde belirlendiğini ifade etti. Asadabad şehrinin etrafındaki okulda gerçekleşen olayla ilgili soruşturmanın devam ettiği bildirildi.\n\nYaralıların yaklaşık 15'inin hastanedeki tedavisi sürerken, diğer yaralılar tedavilerinin ardından taburcu edildi. Kunar İl Emniyet Müdürlüğü sözcüsü Farid Dehqan, patlamanın Asadabad dışındaki Andar Ser bölgesinde saat 10.00 sularında meydana geldiğini belirtti. Sosyal medyada paylaşılan görüntülerde, yaralı çocukların araçlarla hastaneye getirildiği ve okul binasının bir kısmının yıkıldığı görüldü.\n\nDemir ore, bakır, kurşun, çinko, altın, kömür ve değerli taşlar gibi hammaddeler açısından zengin olan Afganistan'da madencilik önemli bir sektördür. Ancak madencilik şirketlerindeki güvenlik standartlarının genellikle yetersiz olması kazalara yol açmaktadır. Kunar'da değerli taş madenciliğinin arttığı, şirketlerin çıkardığı taşların müzayedelerde satıldığı kaydedildi. Ağustos ayında da başkent Kabil'deki bir okul kompleksinde düzenlenen el bombası saldırısında yaşları 9 ile 14 arasında değişen 40'tan fazla çocuk yaralanmıştı.",
       "highlights": [
         "Kunar vilayetindeki bir okulda meydana gelen patlamada 7 kişi öldü, 90'dan fazla kişi yaralandı.",
-        "Yetkililer, patlamanın madencilik şirketlerine ait komşu patlayıcı deposundaki ihmalden kaynaklandığını belirtti.",
-        "Yaralılardan en fazla 15'i hastanede kalırken, diğerleri taburcu edildi."
+        "Yetkililer patlamanın madencilik şirketlerine ait patlayıcı deposundaki ihmalden kaynaklandığını belirtti.",
+        "Yaralılardan yaklaşık 15'i hastanede tedavi altında bulunuyor."
       ],
       "externalUrl": "https://www.npr.org/2026/11/28/nx-s1-6056284/explosion-school-eastern-afghanistan",
       "publishedAt": "2026-11-28T11:32:37.000Z",
       "category": "Eğitim",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T12:04:22.330Z"
     },
     {
       "id": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
@@ -14412,54 +14460,6 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T12:14:59.792Z"
-    },
-    {
-      "id": "https://www.rfi.fr/en/france/20261121-former-pm-de-villepin-launches-20207-presidential-bid-with-warning-to-far-right",
-      "headline": "Eski Fransa Başbakanı de Villepin, aşırı sağ uyarısıyla 2027 başkanlık yarışına katıldı",
-      "source": "RFI English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=rfi.fr",
-      "imageUrl": "https://images.unsplash.com/photo-1753187075544-40debfce3ae1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8UGFyaXMlMjBwcmVzcyUyMGNvbmZlcmVuY2V8ZW58MXwwfHx8MTc5NTI2MjY3NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Aleksandr Galichkin",
-        "photographerUrl": "https://unsplash.com/@axga",
-        "unsplashUrl": "https://unsplash.com/photos/a-paris-saint-germain-flag-is-waving-triumphantly-dD2y8EUvJAw"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Eski Fransa Başbakanı Dominique de Villepin, 2027 yılında gerçekleşecek cumhurbaşkanlığı seçimleri için adaylığını açıkladı. Paris'te Cuma günü basın toplantısı düzenleyen 73 yaşındaki siyasetçi, Fransa'nın uluslararası etkisini yeniden kazanmasını sağlamayı, artan eşitsizlikle mücadele etmeyi ve aşırı sağın yükselişine meydan okumayı vadetti.\n\nCumhurbaşkanı Emmanuel Macron'un liderliğini eleştiren de Villepin, ülkedeki siyasi ve sosyal bölünmelerin derinleşmesine izin vermekle suçladığı Macron'u \"hayalet cumhurbaşkanı\" olarak nitelendirdi. Ülkenin sosyal bir çöküş yaşadığını belirten eski başbakan, artan kamu borcundan ve genişleyen eşitsizlikten ardı ardına gelen hükümetleri sorumlu tuttu.\n\nAşırı sağ tehlikesine dikkat çeken de Villepin, Marine Le Pen'in zaferinin ülkeyi kaosa sürükleyebileceği uyarısında bulundu. Ulusal Birlik partisinin yabancı düşmanlığı, ırkçılık ve antisemitizm mirası taşıdığını savunan aday, Le Pen ve solcu Jean-Luc Mélenchon'un cumhuriyet için aynı tehdit seviyesinde olmadığını ifade etti.\n\nEkonomik zorlukları kampanyasının merkezine koyan de Villepin, gayri safi yurt içi hasılanın yüzde 119 civarına ulaştığı kamu borcuyla yüzleşme sözü verdi. Eşitsizliğe katkı sağladığını düşündüğü vergi avantajları ve muafiyetlerinin gözden geçirilmesini talep eden siyasetçi, Beşinci Cumhuriyet'in kurucusu General Charles de Gaulle'ün mirasına atıfta bulunarak cumhurbaşkanlığının daha çok bir hakem rolü üstlenmesi gerektiğini savundu.\n\nSeçimlerin ilk turu 18 Nisan 2027'de yapılacak. Adaylığının resmi olarak onaylanabilmesi için de Villepin'in en az 500 seçilmiş yetkilinin desteğini alması gerekiyor.",
-      "highlights": [
-        "Eski Fransa Başbakanı Dominique de Villepin 2027 cumhurbaşkanlığı seçimlerinde adaylığını ilan etti.",
-        "De Villepin, Cumhurbaşkanı Emmanuel Macron'u ve hükümetlerin politikalarını sert bir şekilde eleştirdi.",
-        "Adaylık için de Villepin'in en az 500 seçilmiş yetkilinin desteğini alması gerekiyor."
-      ],
-      "externalUrl": "https://www.rfi.fr/en/france/20261121-former-pm-de-villepin-launches-20207-presidential-bid-with-warning-to-far-right",
-      "publishedAt": "2026-11-21T12:02:37.000Z",
-      "category": "Dünya",
-      "isBreaking": false,
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
-      "headline": "‘Music was our teacher’: the sound system pioneers reviving the scene in Manchester and beyond",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1746211990995-172d58808b15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8cmVnZ2FlJTIwc291bmQlMjBzeXN0ZW18ZW58MXwwfHx8MTc5NTI2MzMwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Royce Fonseca",
-        "photographerUrl": "https://unsplash.com/@casunshine0508",
-        "unsplashUrl": "https://unsplash.com/photos/a-musician-performs-at-a-reggae-festival-4Fz5KifE8Oc"
-      },
-      "timeAgo": "14 dk önce",
-      "body": "Manchester'da Megatone Sound Foundation ve Baron Turbo Charge gibi grupların öncülük ettiği ses sistemi kültürü yeniden canlanıyor. Bu hareket, genç siyah Mancunians kuşağı için müzik ve Jamaika plakları aracılığıyla bir eğitim ve aidiyet alanı sundu. Baron Turbo Charge kurucularından Errol “Barzy” Beaumont, okul müfredatında yer almayan kültürlerini ve tarihlerini bu müzikler aracılığıyla öğrendiklerini belirtiyor.\n\nWindrush kuşağı öncülerinin çocuklarının bu kültürü ve teknolojiyi uyarlamasından bu yana 50 yıldan fazla süre geçtikten sonra, Manchester'ın ses sistemi sahnesi bir diriliş yaşıyor. Siyahlerin postwar tarihinin arşivcisi Keithly Brandy döneme ait broşür ve evrakları korumak için müze ve üniversitelerle çalışırken, Trafford Bar Studios'un kurucusu Winston Jones bu konuda bir podcast serisi üretiyor. Megatone Sound Foundation ise Kingston'dan Gambiya ve Etiyopya'ya kadar diasporada ses sistemleri kurarak destekliyor.\n\n1970'ler ve 80'lerde Hulme, Moss Side ve Old Trafford gibi mahallelerdeki ev partilerinde, gençlik kulüplerinde gelişen bu kültür, topluluk üyelerine kendilerini ifade etme alanı sağladı. Dönemin gençleri Aquarius, Proctor's, Birley ve Hideaway gibi kulüplerde Dillinger ve Johnny Clarke sesleriyle buluştu. Keithly Brandy, annesi Locita Brandy'yi ikna ederek ses sistemlerinin Manchester Karnavalı'na taşınmasını sağlamıştı.\n\nWinston Jones, Trafford Bar Studios'u Windrush skandalında yaşadıkları nedeniyle aldığı tazminatla kurdu ve finanse etti. Bu mekanda gençlere DJ'lik, fotoğrafçılık, videografi ve podcastçilik gibi beceriler ücretsiz olarak öğretiliyor. Jones, bu çalışmaların ses sistemi hareketinin kolektif ve bireysel güçlenme ethosunu devam ettirdiğini vurguluyor.",
-      "highlights": [
-        "Manchester'da ses sistemi kültürü ve tarihi yeniden canlanıyor.",
-        "Megatone Sound Foundation ve Baron Turbo Charge gibi yapılar kültürü yaşatıyor.",
-        "Trafford Bar Studios gençlere ücretsiz yaratıcı beceriler kazandırıyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/news/2026/nov/21/sound-system-pioneers-music-manchester-windrush",
-      "publishedAt": "2026-11-21T12:00:58.000Z",
-      "category": "Kültür & Sanat",
-      "isBreaking": false,
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
