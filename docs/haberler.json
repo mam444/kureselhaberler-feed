@@ -1,6 +1,50 @@
 {
-  "generatedAt": "2026-11-28T10:14:25.745Z",
+  "generatedAt": "2026-11-28T10:24:25.649Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-zigana-daginda-yamactan-kopan-dev-kayalar-yolu-kapatti-7709845",
+      "headline": "Facianın eşiğinden dönüldü! Zigana Dağı’nda yamaçtan kopan dev kayalar yolu kapattı",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://image.milimaj.com/i/milliyet/75/460x340/6b0aaa46545758672f57a2f1.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Milliyet",
+        "sourceUrl": "https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-zigana-daginda-yamactan-kopan-dev-kayalar-yolu-kapatti-7709845"
+      },
+      "timeAgo": "5 dk önce",
+      "body": "Sabah saatlerinde Gümüşhane-Trabzon karayolunun Köstere mevkii Zigana Dağı Geçidi güzergahında yamaçtan kopan devasa kayalar yola düştü. Tehlikeli madde taşıyan ve Yeni Zigana Tüneli’ni kullanması yasak olan tonajlı araçların kullandığı eski yolda meydana gelen heyelan nedeniyle çift şeritli yolun Gümüşhane istikameti tamamen trafiğe kapandı. Kapanan şerit nedeniyle trafik akışı karşı şeritten kontrollü olarak sağlanmaya başlandı. Olayın yaşandığı sırada bölgede herhangi bir aracın bulunmaması olası bir faciayı önledi.",
+      "highlights": [],
+      "externalUrl": "https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-zigana-daginda-yamactan-kopan-dev-kayalar-yolu-kapatti-7709845",
+      "publishedAt": "2026-11-28T10:19:38.000Z",
+      "category": "Son Dakika",
+      "isBreaking": true,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "headline": "Afganistan'da patlama: 7 öğrenci hayatını kaybetti, yaklaşık 100 yaralı var",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "10 dk önce",
+      "body": "Afganistan'da bir okulun yakınlarında meydana gelen patlama sonucunda en az yedi öğrenci yaşamını yitirdi, 99 kişi ise yaralandı. Olay, Kunar vilayetinin merkezi Esadabad'ın Anderseir bölgesinde cumartesi sabahı gerçekleşti. Taliban hükümetinin içişleri bakanlığı sözcüsü, olayın yaşandığını duyurdu.\n\nSosyal medya platformu X üzerinden açıklama yapan Abdul Mateen Qani, ilk incelemelere göre patlamanın yakınlardaki madencilik şirketlerine ait bir patlayıcı depolarındaki \"ihmal ve dikkatsizlikten\" kaynaklandığını belirtti.\n\nYetkililer, yaşanan patlamayla ilgili soruşturmanın devam ettiğini aktardı. Olayla ilgili gelişmelerin takip edildiği ve yeni ayrıntıların ilerleyen saatlerde paylaşılacağı ifade edildi.",
+      "highlights": [
+        "Patlama sonucunda en az yedi öğrenci hayatını kaybetti.",
+        "99 kişi yaralandı.",
+        "İlk incelemelere göre patlama patlayıcı deposundaki ihmalden kaynaklandı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T10:14:37.000Z",
+      "category": "Eğitim",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigul-dosyasi-ozgur-ozel-ve-4-isme-iliskin-dosya-ankara-cumhuriyet-bassavciliginda-7709840",
       "headline": "Mustafa Sarıgül soruşturması ve fezleke açıklaması",
@@ -23,7 +67,8 @@
       "publishedAt": "2026-11-28T10:12:04.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:24:22.805Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/turk-dunyasinin-anesteziyoloji-ve-reanimatoloji-uzmanlari-bakude-bulustu/4141297",
@@ -117,7 +162,8 @@
       "publishedAt": "2026-11-28T09:35:15.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:24:22.805Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/kahramanmarasta-ogrenciler-bulduklari-altini-teslim-etti-kahramanmaras-haberleri-4877413",
