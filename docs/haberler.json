@@ -1,6 +1,29 @@
 {
-  "generatedAt": "2026-11-28T08:05:40.707Z",
+  "generatedAt": "2026-11-28T08:14:26.247Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/ekonomi/turk-coraplarinin-ihracat-rotasinda-avrupa-ulkeleri-ve-abd-yer-aldi/4141195",
+      "headline": "Türk çoraplarının ihracat rotasında Avrupa ülkeleri ve ABD yer aldı",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/28/thumbs_b_c_2f44c4a0930519db1934509b6a7a868d.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Anadolu Ajansı",
+        "sourceUrl": "https://www.aa.com.tr/tr/ekonomi/turk-coraplarinin-ihracat-rotasinda-avrupa-ulkeleri-ve-abd-yer-aldi/4141195"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Türk çorap sektörü, yılın ilk 9 aylık döneminde dış pazarda önemli bir ilgi gördü. Açıklanan verilere göre, bu dönemde Türk çoraplarına en yoğun talep başta Almanya ve Belçika olmak üzere çeşitli Avrupa ülkelerinden geldi. Avrupa'nın yanı sıra Amerika Birleşik Devletleri de (ABD) çorap ihracatında öne çıkan rotalar arasında yer aldı. Sektörün gerçekleştirdiği bu sevkiyatlar, söz konusu ülkelerin Türk çoraplarına olan ilgisini ortaya koydu.",
+      "highlights": [
+        "Yılın 9 ayında Türk çoraplarına en fazla talep Avrupa ülkeleri ve ABD'den geldi.",
+        "Almanya ve Belçika öne çıkan Avrupa ülkeleri arasında yer aldı."
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/ekonomi/turk-coraplarinin-ihracat-rotasinda-avrupa-ulkeleri-ve-abd-yer-aldi/4141195",
+      "publishedAt": "2026-11-28T08:11:14.000Z",
+      "category": "Ekonomi",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/kucukcekmecedeki-kundaklamada-olu-sayisi-3e-yukseldi-siginak-11-odali-apart-otele-donusturulmus-7709779",
       "headline": "Küçükçekmece'deki kundaklamada ölü sayısı 3'e yükseldi! Sığınak 11 odalı apart otele dönüştürülmüş",
@@ -14,12 +37,17 @@
       },
       "timeAgo": "2 dk önce",
       "body": "Mehmet Akif Mahallesi 23 Kasım Pazartesi günü 1. Akarsu Sokak'taki 5 katlı binanın bodrum katında 04.45 sıralarında yangın çıktı. İhbar üzerine olay yerine itfaiye, polis ve sağlık ekipleri sevk edildi. İtfaiye ekiplerinin müdahale ettiği yangın kontrol altına alınarak söndürüldü. Yangında Emrullah Savaş (20) ve Berkay Ellik (26) hayatını kaybetti. Ağır yaralı Tamer Kaya ile birlikte 6 kişi hastaneye kaldırıldı. ÖLÜ SAYISI 3'E YÜKSELDİ Tamer Kaya, tedavi gördüğü hastanede doktorların tüm müdahalelerine rağmen kurtarılamadı. SIGINAĞI APART OTELE ÇEVİRMİŞLER Yapılan çalışmada binanın sığınak olarak yapılan bölümlerinin 11 odaya bölündüğü ve her bir bölümün stüdyo daire şeklinde kiraya verildiği ortaya çıktı. Polisin olayla ilgili başlattığı…",
-      "highlights": [],
+      "highlights": [
+        "Küçükçekmece'deki binanın bodrum katında çıkan yangında ölü sayısı 3'e yükseldi.",
+        "Sığınağın 11 odaya bölünerek apart otele dönüştürüldüğü belirlendi.",
+        "Yangını kundaklama sonucu çıkardığı tespit edilen Bayram Bulut Ö. tutuklandı."
+      ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/kucukcekmecedeki-kundaklamada-olu-sayisi-3e-yukseldi-siginak-11-odali-apart-otele-donusturulmus-7709779",
       "publishedAt": "2026-11-28T08:03:38.000Z",
       "category": "Yaşam",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:14:17.415Z"
     },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-besiktas-hapoel-beer-sheva-macinin-ardindan-israilden-ilk-aciklama-omrumde-boyle-nefret-gormedim-bizimle-tokalasmadilar-bile-7709769",
@@ -461,6 +489,30 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-28T07:34:21.866Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "headline": "El Nino bağlantılı şiddetli yağışlar Peru ve Ekvador'da şehirleri su altında bıraktı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1542315099045-93937d70c67a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8Zmxvb2QlMjBQZXJ1JTIwRWN1YWRvcnxlbnwxfDB8fHwxNzk1ODUzNjU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Dario Valenzuela",
+        "photographerUrl": "https://unsplash.com/@darvalife",
+        "unsplashUrl": "https://unsplash.com/photos/people-standing-forming-circle-near-house-under-blue-sky-during-daytime-dlVrk8WNWlw"
+      },
+      "timeAgo": "3 sa önce",
+      "body": "El Nino hava olayıyla bağlantılı olan şiddetli yağışlar, Peru ve Ekvador'da sel felaketine yol açarak şehirleri su altında bıraktı. Bölgede etkili olan sağanak yağışlar yaşamı olumsuz etkilerken, binlerce aile ve kişi durumdan zarar gördü.\n\nYetkililerin aktardığı bilgilere göre, aşırı yağışlar Peru'nun Piura bölgesinde 2 bin aileyi doğrudan etkiledi. Komşu ülke Ekvador'da ise durum daha geniş bir nüfusu etkiledi ve toplamda 47 bin kişi yağışlardan zarar gördü.\n\nEkvador'daki yetkililer, felaketle ilgili resmi bilanço verilerini de paylaştı. Yapılan açıklamalara göre, ülkeyi vuran şiddetli yağışlar ve sel olayları sonucunda toplam 34 kişi hayatını kaybetti. \n\nBölgede yaşanan bu olumsuz hava koşullarının etkileri sürerken, sağanak yağışların yol açtığı hasar ve kayıplarla ilgili gelişmeler takip ediliyor. Yağışların yarattığı mağduriyetler için çalışmaların durumu korunuyor.",
+      "highlights": [
+        "Peru'nun Piura bölgesinde 2 bin aile şiddetli yağışlardan etkilendi",
+        "Ekvador'da 47 bin kişi felaketten etkilendi",
+        "Ekvador'da 34 kişinin hayatını kaybettiği bildirildi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "publishedAt": "2026-11-28T04:57:32.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/netflixte-sukran-gunu-rezilligi-3499012",
@@ -2384,7 +2436,7 @@
       "category": "Türkiye",
       "isBreaking": true,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T10:11:26.172Z"
+      "sourceTextAttemptedAt": "2026-11-28T08:14:17.415Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/dunya/misirdaki-tanker-yangininda-olenlerin-sayisi-31e-yaralananlarin-sayisi-21e-yukseldi/4138115",
@@ -14281,82 +14333,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T08:34:25.215Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/video/gundem/462-konutluk-toki-projesinde-sona-yaklasildi-evler-goruntulendi-4875106",
-      "headline": "462 konutluk TOKİ projesinde sona yaklaşıldı",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1516880711640-ef7db81be3e1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8aG91c2luZyUyMGNvbnN0cnVjdGlvbnxlbnwxfDB8fHwxNzk1MjQ4ODY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Randy Fath",
-        "photographerUrl": "https://unsplash.com/@randyfath",
-        "unsplashUrl": "https://unsplash.com/photos/people-building-structure-during-daytime-ymf4_9Y9S_A"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Bandırma'nın Çalışkanlar Mahallesi'nde inşa edilen 462 konutluk TOKİ projesinde çalışmalar devam ediyor. Havadan ve karadan görüntülenen projede konutların yanı sıra 20 dükkân, 1 cami, açık otoparklar, yeşil alanlar ve sosyal donatılar yer alıyor. Toplam 462 bağımsız konuttan oluşan projede dairelerin 382'si 2+1, 80'i ise 3+1 olarak planlandı.\n\nProjenin ihalesi 22 Aralık 2025 tarihinde 1 milyar 33 milyon 300 bin lira bedelle gerçekleştirildi. HBN Elit Enerji ve İnşaat Anonim Şirketi'nin yükleniciliğini üstlendiği projenin sözleşmesi 26 Mart 2026'da imzalandı ve yer teslimi 30 Mart 2026'da yapıldı. Sözleşmeye göre bitiş tarihi 11 Ağustos 2027 olarak belirlenen işin, hava şartlarının elverişli gitmesi durumunda bu tarihten yaklaşık 3 ay önce tamamlanması hedefleniyor.\n\nŞantiyedeki son bilgilere göre projenin genel gerçekleşme seviyesi yaklaşık yüzde 70'e ulaştı. Konutların iç tefrişatlarının tamamlanma aşamasına geldiği ve binaların ısıtma sistemlerinin kurduğu bildirildi. Yüklenici firma yetkilisi Muhammed Kocabaş, yağmur suyu toplama sistemiyle biriktirilecek suların peyzaj çalışmalarında değerlendirileceğini, altyapı bağlantılarının Ayyıldız Mahallesi'ne bağlanacağını belirtti.\n\nTeknik dokümanlara göre proje genelinde 1.001 ağaç dikilmesi ve 30 bin 11,17 metrekare yeşil alan oluşturulması planlanıyor. Yerleşim alanında çocuk oyun grupları, spor alanları ve 251 açık otopark bulunuyor. Çalışkanlar Mahalle Muhtarı Osman Kuşçu da çalışmaların planlı sürdüğünü ve projenin Bandırma'nın konut arzına önemli katkı sağlayacağını ifade etti. Konutların ne zaman hak sahiplerine teslim edileceği ve çevre düzenlemesinin ne zaman biteceği vatandaşlar tarafından takip ediliyor.",
-      "highlights": [
-        "Projede 462 konutun 382'si 2+1, 80'i 3+1 olarak planlandı.",
-        "Projenin genel gerçekleşme seviyesi yaklaşık yüzde 70'e ulaştı.",
-        "Projede 1.001 ağacın dikilmesi ve 30 bin 11,17 metrekare yeşil alan oluşturulması planlanıyor."
-      ],
-      "externalUrl": "https://www.yenisafak.com/video/gundem/462-konutluk-toki-projesinde-sona-yaklasildi-evler-goruntulendi-4875106",
-      "publishedAt": "2026-11-21T08:12:21.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "isBreaking": false,
-      "videoEmbedAttemptedAt": "2026-11-28T06:34:26.079Z"
-    },
-    {
-      "id": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-      "headline": "Birleşmiş Milletler'in Yapay Zeka Destekli Katil Robotlar Görüşmelerinde Bağlayıcı Karar Çıkmadı",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1736564176042-b3d49989b230?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8a2lsbGVyJTIwcm9ib3RzJTIwVU58ZW58MXwwfHx8MTc5NTI0ODg2Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Logan Voss",
-        "photographerUrl": "https://unsplash.com/@loganvoss",
-        "unsplashUrl": "https://unsplash.com/photos/a-digital-image-of-a-man-with-a-robot-face-zXzRePFvCFQ"
-      },
-      "timeAgo": "6 dk önce",
-      "body": "Birleşmiş Milletler öncülüğünde Cenevre'de gerçekleştirilen yapay zeka destekli katil robotlar ve insansız hava araçlarına ilişkin görüşmeler sona erdi. Bir hafta süren konferansın ardından çok sayıda ülke, ölümcül otonom silah sistemlerine yönelik olası bir mutabakatı 2028 yılına kadar detaylandırma konusunda uzlaştı. Ancak taraflar, Birleşmiş Milletler Genel Sekreteri António Guterres ile çok sayıda devlet ve aktivistin talep ettiği bağlayıcı kurallar konusunda net bir taahhütte bulunmadı. Görüşmeler sonucunda tartışmaların iki yıl daha uzatılmasına karar verildi.\n\nBirleşmiş Milletler silahsızlanma işlerinden sorumlu yüksek temsilcisi İzumi Nakamitsu durumu önemli bir başarı olarak nitelendirirken, Genel Sekreter Guterres'in bu yıl yasal olarak bağlayıcı bir anlaşma yapılması yönündeki umutlarına atıfta bulunarak bardağın yarısının dolu veya boş olduğu senaryosunu kabul etti. Aktivistler, Rusya ve Amerika Birleşik Devletleri gibi büyük askeri güçleri daha sert ifadelerin önünü kesmekle suçladı. Stop Killer Robots zayıflatılmış bir yetki mandatından duyduğu üzüntüyü dile getirirken, Lex International'ın kurucusu Beatrice Fihn kararın sorunu iki yıl daha ertelemek anlamına geldiğini belirtti.\n\nToplantı öncesinde yedi ülke, makinelerin insan kontrolü veya sorumluluğu olmaksızın öldürme yeteneğini engelleyebilecek ya da sınırlayabilecek bir kural kitabı için müzakere başlatılmasını teklif etti. Bu çaba sonuçsuz kaldı. Brezilya Büyükelçisi Frederico Meyer, teknolojinin diplomasiye kıyasla daha hızlı ilerlediğini ifade etti. Yıllardır süren müzakerelerin ardından aktivist gruplar, ABD gibi diğer üst düzey yapay zeka silah geliştiricisi ülkelerle birlikte bu tür yüksek teknoloji silahları geliştirmek için daha serbest bir el isteyen Rusya'nın engellemelerinden duydukları rahatsızlığı dile getirdi.\n\nGörev süresi yıl sonunda sona erecek olan Genel Sekreter Guterres, otonom silah sistemlerine ilişkin bir anlaşmaya yönelik müzakerelerin başlatılması için 2026 yılını hedef belirlemişti. Papa Leo XIV ile çok sayıda aktivist ve insani yardım grubu konuyu varoluşsal bir tartışma olarak ele alarak yapay zeka silahlarının kontrol altına alınması için hızlı hareket edilmesi çağrısında bulundu. Görüşmeler, kararların oy birliğiyle alındığı ve 128 ülkenin onayladığı Belirli Konvansiyonel Silahlar Sözleşmesi etrafında yürütüldü. Bu durum, herhangi bir ülkenin anlaşmayı engelleyebileceği anlamına geliyor.",
-      "highlights": [
-        "Cenevre'deki BM görüşmelerinde yapay zeka destekli katil robotlar için bağlayıcı bir karar alınmadı.",
-        "Görüşmelerde tartışmaların iki yıl daha uzatılması ve 2028 yılına kadar olası bir mutabakatın detaylandırılması kararlaştırıldı.",
-        "Aktivistler ve bazı yetkililer, Rusya ve Amerika Birleşik Devletleri gibi askeri güçleri sürecin ilerlemesini engellemekle suçladı."
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/21/g-s1-154914/nations-at-un-talks-on-ai-killer-robots-agree-to-more-talks-but-no-firm-commitment-to-rein-them-in",
-      "publishedAt": "2026-11-21T08:08:01.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-21-11-2026-3495485",
-      "headline": "21 Kasım 2026 Hava Durumu Raporu",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1592210454359-9043f067919b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8d2VhdGhlciUyMGZvcmVjYXN0fGVufDF8MHx8fDE3OTUyNDgyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Wolfgang Hasselmann",
-        "photographerUrl": "https://unsplash.com/@wolfgang_hasselmann",
-        "unsplashUrl": "https://unsplash.com/photos/blue-sky-and-white-clouds-over-lake-bR_-gllg7Bs"
-      },
-      "timeAgo": "şimdi",
-      "body": "CNN Türk verilerine göre 21 Kasım 2026 tarihinde Türkiye genelinde hava durumu bölgelere göre değişiklik gösteriyor. Marmara Bölgesi'nde parçalı bulutlu hava ile zaman zaman yağış geçişleri görülürken gündüz sıcaklıkları 15 ila 20 derece arasında ölçülüyor ve Pazar günü sıcaklıkların birkaç derece düşmesi bekleniyor.\n\nEge Bölgesi'nde parçalı bulutlu bir gökyüzü hakim olup İzmir'de sıcaklık 20, Muğla'da 17 ve Afyonkarahisar'da 13 derece olarak kaydediliyor. Pazar günü gökyüzü durumunu korurken sıcaklıkların 1-2 derece azalması öngörülüyor. Akdeniz Bölgesi'nde de parçalı bulutlu hava etkili olurken gündüz sıcaklıkları Antalya'da 22, Adana'da 21 ve Kahramanmaraş'ta 16 derece civarında seyrediyor, Pazar günü ise bölgenin doğusunda yağış bekleniyor.\n\nİç Anadolu Bölgesi'nde parçalı bulutlar görülürken gündüz sıcaklıkları genellikle 10 ile 15 derece arasında değişiyor, doğu kesimlerde ise 10 derecenin altında kalıyor. Karadeniz Bölgesi'nde yağışlı bir hava etkisini sürdürürken Bolu'da sıcaklık 11, Samsun ve Trabzon'da 15 derece olup Pazar günü birkaç derecelik azalış bekleniyor.\n\nDoğu Anadolu Bölgesi'nin batısında parçalı bulutlar görülürken kuzey ve güney kesimlerinde yağmur ve karla karışık yağmur etkili oluyor; Kars'ta sıcaklık 6, Elazığ'da 12, Hakkari'de 7 derece olarak ölçülüyor. Güneydoğu Anadolu Bölgesi'nde ise parçalı bulutlu hava hakim olup sıcaklıklar 15 ile 20 derece arasında değişiyor.",
-      "highlights": [
-        "Marmara'da parçalı bulutlu hava ve zaman zaman yağış geçişleri görülüyor.",
-        "Ege Bölgesi'nde sıcaklıkların Pazar günü 1-2 derece azalması bekleniyor.",
-        "Doğu Anadolu'nun kuzey ve güney kesimlerinde yağmur ve karla karışık yağmur etkili oluyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/video/hava-durumu/cnn-turk-hava-durumu/hava-durumu-21-11-2026-3495485",
-      "publishedAt": "2026-11-21T08:07:14.000Z",
-      "category": "Yaşam",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T08:14:22.698Z",
-      "isBreaking": false,
-      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3495485",
-      "videoEmbedAttemptedAt": "2026-11-26T17:34:17.094Z"
     }
   ],
   "rejectedIds": [
