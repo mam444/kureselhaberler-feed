@@ -1,6 +1,26 @@
 {
-  "generatedAt": "2026-11-28T09:54:43.649Z",
+  "generatedAt": "2026-11-28T10:04:17.756Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/dunya/turk-dunyasinin-anesteziyoloji-ve-reanimatoloji-uzmanlari-bakude-bulustu/4141297",
+      "headline": "Türk dünyasının anesteziyoloji ve reanimatoloji uzmanları Bakü'de buluştu",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/28/thumbs_b_c_d542802ab37e74637afa3c783b87ecf7.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Anadolu Ajansı",
+        "sourceUrl": "https://www.aa.com.tr/tr/dunya/turk-dunyasinin-anesteziyoloji-ve-reanimatoloji-uzmanlari-bakude-bulustu/4141297"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "2. Türk Dünyası Anesteziyoloji ve Reanimatoloji Kongresi, Azerbaycan'ın başkenti Bakü'de gerçekleştirildi.",
+      "highlights": [],
+      "externalUrl": "https://www.aa.com.tr/tr/dunya/turk-dunyasinin-anesteziyoloji-ve-reanimatoloji-uzmanlari-bakude-bulustu/4141297",
+      "publishedAt": "2026-11-28T10:01:32.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/dunya/son-dakika-dunyanin-konustugu-christa-pike-infazinda-yeni-gelisme-intikam-plani-devrede-dokuz-sayfalik-dilekce-sizdi-7709827",
       "headline": "Christa Pike'ın avukatlarından mahkemeye acil başvuru: Dokuz sayfalık dilekçe sızdı",
@@ -3377,7 +3397,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T17:24:30.478Z",
+      "sourceTextAttemptedAt": "2026-11-28T10:04:15.903Z",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
       "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
@@ -3404,7 +3424,7 @@
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-25T17:34:25.666Z"
+      "sourceTextAttemptedAt": "2026-11-28T10:04:15.903Z"
     },
     {
       "id": "https://www.cnnturk.com/teknoloji/100-yeni-istihdamla-istanbuldaki-tesiste-uretim-basladi-3498146",
@@ -14251,56 +14271,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T10:24:22.800Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/masaktan-gildencrest-capital-raporu-bahamalara-195-milyarlik-transfer-son-anda-engellendi-1751887",
-      "headline": "MASAK'tan Gildencrest Capital raporu: Bahamalar'a 1,95 milyarlık transfer son anda engellendi",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1771347088122-8ec44eee4af7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8TUFTQUslMjd0YW4lMjBHaWxkZW5jcmVzdCUyMENhcGl0YWwlMjByYXBvcnUlM0ElMjBCYWhhbWFsYXIlMjdhJTIwMSUyQzk1JTIwbWlseWFybCVDNCVCMWslMjB0cmFuc2ZlciUyMHNvbiUyMGFuZGElMjBlbmdlbGxlbmRpfGVufDF8MHx8fDE3OTUyNTU0OTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Brett Jordan",
-        "photographerUrl": "https://unsplash.com/@brett_jordan",
-        "unsplashUrl": "https://unsplash.com/photos/close-up-of-a-page-from-a-book-with-text-3HqVexWBUMs"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturmasında mercek altına alınan Gildencrest Capital aracı kurumuyla ilgili Mali Suçları Araştırma Kurulu (MASAK) raporunun tamamlandığını açıkladı. Rapora göre, 2011'de Londra'da Tera Europe adıyla kurulan şirketin yüzde 49'unun Tera Yatırım Holding'in tutuklanan Yönetim Kurulu Başkanı Emre Tezmen'e, yüzde 40'ının ise Oğuz Tezmen'e ait olduğu belirlendi. Şirketin adının 2024'te Gildencrest Capital olarak değiştirildiği kaydedildi.\n\nRaporda, Londra'da kayıtlı olan şirketin fiili işlerinin İstanbul'dan ve Tera Holding çalışanları aracılığıyla yönetildiği, bağlantılı şirketlerin başına ise kâğıt üzerinde eski makam şoförü ile büro memurunun getirildiği ifade edildi. Gildencrest Capital'in banka hesaplarından dokuz yılda 21 milyar lira geçtiği; bu tutarın 11,9 milyar lirasının Tera Yatırım'dan, 6,3 milyar lirasının ise Ruzy Madencilik Yönetim Kurulu Başkanı Mehmed Nureddin Çevik ile 18 kişi tarafından yatırıldığı aktarıldı.\n\nİşlem emirlerinin Londra'dan İsviçre merkezli Century City'e, buradan da Borsa İstanbul'a iletildiği belirtilen raporda, hisselerin yabancı yatırımcı adına yapılmış gibi görünmesine rağmen arkasındaki kişilerin kayıtlara yansımadığı kaydedildi. Hisselerin yabancı hesaplar üzerinden alınıp satılmasıyla yurt dışında yaklaşık 7,8 milyar lira kazanç biriktiği tespit edildi.\n\nBaşsavcılığın açıklamasına göre Çekya ve Londra'daki hesaplara toplam 6,3 milyar lira aktarıldı; bunun 2,2 milyar lirası Türkiye'ye dönerken 4,1 milyar lirası yurt dışında kaldı. Yurt dışında kalan tutarın 3,4 milyar lirasının Tera Yatırım'a ait olduğu belirlendi. Ayrıca Lydia Holding Yönetim Kurulu Başkanı Enver Çevik'in İsviçre'deki hesabına 4,5 milyar lira, Pusula Portföy Yönetim Kurulu Başkanı Muhammed Yarız'ın İsviçre'deki hesabına 500 milyon lira ve Burhan Tunç Özkan'a 1 milyar lira ödeme yapıldığı ifade edildi.\n\nRaporda, kasım ayında açılan yeni bir hesapla 504 milyon lira değerindeki hisselerin Bahamalar'a aktarıldığı, 1,95 milyar lira değerindeki hisse transferinin ise MASAK tarafından son anda engellendiği bildirildi. Başsavcılık, paranın TMSF bünyesindeki gönüllü iade hesabına yatırılmasına karar verirken, malvarlıklarının Türkiye'ye getirilmesi için adli süreç başlatıldı.",
-      "highlights": [
-        "Şirketin fiili işlerinin İstanbul'dan ve Tera Holding çalışanları aracılığıyla yönetildiği tespit edildi.",
-        "Dokuz yıllık süreçte şirketin hesaplarından 21 milyar lira geçtiği belirlendi.",
-        "Bahamalar'daki hesaba 1,95 milyar lira değerinde hisse aktarılması MASAK tarafından son anda engellendi."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/masaktan-gildencrest-capital-raporu-bahamalara-195-milyarlik-transfer-son-anda-engellendi-1751887",
-      "publishedAt": "2026-11-21T10:03:08.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:14:18.146Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
-      "headline": "Verstappen Las Vegas'ta Ceza Almadı, Pol Pozisyonunu Aldı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1614949194403-9602bdc14a3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8Rm9ybXVsYSUyMDElMjByYWNlfGVufDF8MHx8fDE3OTUyNTY2NjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Clément Delacre",
-        "photographerUrl": "https://unsplash.com/@clementdelacre",
-        "unsplashUrl": "https://unsplash.com/photos/race-car-on-track-with-curbs-M5s9Ffs1KqU"
-      },
-      "timeAgo": "25 dk önce",
-      "body": "Max Verstappen, Las Vegas'taki Formula 1 antrenman seanslarında yaşadığı olayların ardından disiplin cezasından kurtuldu. Seans boyunca çeşitli olaylara karışan pilot, cezadan kaçınmayı başararak pol pozisyonunun sahibi oldu. Öte yandan sıralamalarda Kimi Antonelli bir cezaya çarptırıldı. Yaşanan bu gelişmelerin ardından hafta sonundaki yarış öncesi Formula 1 gündemi hareketlendi.",
-      "highlights": [
-        "Max Verstappen Vegas F1 antrenmanlarındaki olaylar sonrası disiplin cezası almadı",
-        "Verstappen pol pozisyonunu elde etti",
-        "Kimi Antonelli cezaya çarptırıldı"
-      ],
-      "externalUrl": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
-      "publishedAt": "2026-11-21T09:58:59.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:34:18.844Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
@@ -14535,6 +14505,7 @@
     "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
-    "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss"
+    "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+    "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss"
   ]
 }
