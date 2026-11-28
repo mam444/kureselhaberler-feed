@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T12:24:29.784Z",
+  "generatedAt": "2026-11-28T12:34:37.181Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/turkiye/aselsandan-bir-basari-daha-3499102",
+      "headline": "ASELSAN'ın Elektronik Destek Podu ANTIDOT 2ES sahadaki başarısını sürdürüyor",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b0aa08f6b516b82fe25a43a.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/turkiye/aselsandan-bir-basari-daha-3499102"
+      },
+      "timeAgo": "şimdi",
+      "body": "ASELSAN tarafından geliştirilen düşük ağırlığı ve düşük güç tüketimiyle öne çıkan ANTIDOT 2ES Elektronik Destek (ED) Podu, 10 bin saati aşan uçuş süresiyle sahadaki başarısını kanıtlamaya devam ediyor. İnsansız hava araçlarına (İHA) entegre edilebilen sistem, hava savunma radarları başta olmak üzere radar sistemlerinin hassas konumlarını tespit ederek operasyonel farkındalık kazandırıyor.\n\nASELSAN'ın yazılı açıklamasına göre, sistem radar sistemlerinin hassas yönünü, parametrelerini ve uygun uçuş profiliyle birlikte konumunu bulmak amacıyla geliştirildi. ANTIDOT, İHA'ları tehdit eden sistemlerin hassas konumlarını tespit ederek bu tehditlerin imha edilmesini sağlıyor ve diğer dost hava unsurları için güvenli bir hava sahası oluşturulmasına katkıda bulunuyor.\n\nİlk teslimatı 2025 yılında gerçekleştirilen ANTIDOT ED Podu, Türkiye'de ve yurt dışında yoğun ilgi görüyor. Düşük ağırlık ve güç tüketimi sayesinde Bayraktar TB2 seviyesindeki küçük İHA'lara dahi entegre edilebilen pod, takıldığı platformun havada kalma süresine minimum etki ediyor.\n\nTürkiye'de bugüne kadar TB2, TB3, AKINCI, TUSAŞ ANKA ve AKSUNGUR hava araçlarına entegre edilen ANTIDOT 2ES, halihazırda beş farklı ülkede aktif görev alıyor. Dünyada bir eşi bulunmayan kompakt yapılı sistem, ASELSAN geliştirmesi ANTIDOT 2EA Elektronik Taarruz Podu ile birlikte de görev yapabiliyor.",
+      "highlights": [
+        "ANTIDOT 2ES 10 bin saati aşan uçuş süresine ulaştı.",
+        "İlk teslimatı 2025 yılında gerçekleştirilen sistem beş farklı ülkede aktif görev alıyor.",
+        "TB2, TB3, AKINCI, ANKA ve AKSUNGUR hava araçlarına entegre edildi."
+      ],
+      "externalUrl": "https://www.cnnturk.com/turkiye/aselsandan-bir-basari-daha-3499102",
+      "publishedAt": "2026-11-28T12:36:35.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/meteorolojiden-6-il-icin-kuvvetli-yagis-uyarisi-4877458",
       "headline": "Meteoroloji’den 6 il için kuvvetli yağış uyarısı",
@@ -16,14 +40,15 @@
       "body": "Meteoroloji 15. Bölge Müdürlüğü Tahmin ve Uyarı Merkezi tarafından yapılan son değerlendirmelere göre, Diyarbakır, Şanlıurfa, Mardin, Siirt, Batman ve Şırnak çevrelerinde kuvvetli yağış bekleniyor.\n\nYetkililerin paylaştığı bilgilere göre, yarın sabah saatlerinden itibaren etkili olması öngörülen yağışların yerel kuvvetli yağmur ve sağanak şeklinde görüleceği tahmin ediliyor.\n\nYağışların akşam saatlerinden itibaren Şırnak’ın kuzey ve doğu kesimlerinde bulunan Uludere ve Beytüşşebap ilçelerinde ise kuvvetli karla karışık yağmur ve kar şeklinde etkili olacağı öngörülüyor.\n\nYetkililer, beklenen olumsuz hava koşulları nedeniyle sel, su baskını, buzlanma, don ve ulaşımda yaşanabilecek aksamalara karşı vatandaşların dikkatli ve tedbirli olmaları gerektiğini bildirdi.",
       "highlights": [
         "Diyarbakır, Şanlıurfa, Mardin, Siirt, Batman ve Şırnak için kuvvetli yağış uyarısı yapıldı.",
-        "Yağışların pazar sabah saatlerinden itibaren yerel kuvvetli yağmur ve sağanak şeklinde görülmesi bekleniyor.",
-        "Akşam saatlerinde Şırnak'ın Uludere ve Beytüşşebap ilçelerinde karla karışık yağmur ve kar öngörülüyor."
+        "Yağışların pazar sabah saatlerinden itibaren etkili olması bekleniyor.",
+        "Şırnak'ın Uludere ve Beytüşşebap ilçelerinde karla karışık yağmur ve kar öngörülüyor."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/meteorolojiden-6-il-icin-kuvvetli-yagis-uyarisi-4877458",
       "publishedAt": "2026-11-28T12:20:02.000Z",
       "category": "Yaşam",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.cnnturk.com/ekonomi/tcmb-fintlixin-faaliyet-iznini-iptal-etti-3499097",
@@ -4225,16 +4250,16 @@
       "timeAgo": "14 dk önce",
       "body": "İran'da ikiz kardeşler Taraneh ve Romina Rahimi için aileleri serbest bırakılmaları yönünde kampanya yürütüyor. 25/11/2026 tarihinde aktarılan bilgilere göre, 19 yaşındaki ikizler Ocak 2026'da rejim karşıtı protestolara katıldıkları gerekçesiyle gözaltına alındı. \n\nTaraneh ve Romina Rahimi kardeşler şu anda haklarındaki kararları bekliyor. Kaynaklarda yer alan bilgilere göre, Taraneh idam cezası ile karşı karşıya bulunurken, Romina ise 25 yıl hapis cezasına çarptırıldı. \n\nİkiz kardeşlerin ailesi, hukuki süreçlerin ve cezaların ardından gençlerin serbest bırakılması amacıyla mücadelelerini sürdürüyor. İran'daki rejim karşıtı protestolar kapsamında tutuklanan kardeşlerin durumu uluslararası alanda da takip ediliyor.",
       "highlights": [
-        "Taraneh ve Romina Rahimi adlı ikiz kardeşler Ocak 2026'da rejim karşıtı protestolara katıldıkları için 19 yaşında tutuklandı.",
-        "Taraneh idam cezasıyla karşı karşıyayken, Romina 25 yıl hapis cezasına çarptırıldı.",
-        "Ailesi, ikiz kardeşlerin serbest bırakılması için kampanya yürütüyor."
+        "Taraneh ve Romina Rahimi adlı ikiz kardeşler Ocak 2026'da tutuklandı.",
+        "Taraneh idam cezasıyla karşı karşıyayken, Romina 25 yıl hapis cezası aldı.",
+        "Aileleri kardeşlerin serbest bırakılması için kampanya yürütüyor."
       ],
       "externalUrl": "https://www.france24.com/en/video/20261125-iranian-family-seeks-release-of-twin-sisters-facing-death-penalty-and-25-years-in-prison",
       "publishedAt": "2026-11-25T16:20:57.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T10:11:26.172Z",
+      "sourceTextAttemptedAt": "2026-11-28T12:34:28.184Z",
       "videoEmbedUrl": "https://embed.france24.com/en/video/4047CA06-0BE1-4A38-9FF5-8748792FA631",
       "videoEmbedAttemptedAt": "2026-11-26T16:55:20.087Z"
     },
@@ -6773,7 +6798,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T16:54:29.299Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.haberturk.com/spor/galatasaray-aston-villa-maci-canli-anlatim-gs-aston-villa-maci-ne-zaman-saat-kacta-ve-hangi-kanalda-3929634",
@@ -6949,7 +6974,7 @@
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-24T16:34:31.310Z",
       "sourceTextAttemptedAt": "2026-11-24T16:34:31.310Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.yenisafak.com/video/gundem/vicdansizligin-boylesi-samsunda-engelli-badem-saticisina-saldiri-kamerada-4876164",
@@ -6971,7 +6996,7 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-25T15:04:21.763Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z",
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -8402,8 +8427,12 @@
       "headline": "Valilikten kritik uyarı: Batman Barajı'ndan olası su tahliyesi",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1759173214279-61d177954a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXN0YW5idWwlMjBUdXJrZXklMjBza3lsaW5lfGVufDF8MHx8fDE3OTU3MTIxNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Pourya Gohari",
+        "photographerUrl": "https://unsplash.com/@_pourya_",
+        "unsplashUrl": "https://unsplash.com/photos/cityscape-with-mosques-and-boats-on-the-water-5gxl1xt-dSw"
+      },
       "timeAgo": "5 dk önce",
       "body": "Valilikten yapılan açıklamada, son dönemlerde etkili olan yoğun yağışlar sonucu baraj havzalarına gelen yüksek akımlar nedeniyle gerekli görülmesi halinde DSİ 10. Bölge Müdürlüğü tarafından kontrollü su tahliyesi gerçekleştirilebileceği belirtildi. Açıklamada, vatandaşların muhtemel su tahliyeleri sırasında can ve mal güvenliğinin korunması amacıyla nehir yataklarına yaklaşmaması ve su seviyelerinde yaşanabilecek…",
       "highlights": [
@@ -8416,7 +8445,7 @@
       "category": "Türkiye",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-28T06:27:47.435Z",
+      "imageSearchAttemptedAt": "2026-11-28T12:34:28.184Z",
       "sourceTextAttemptedAt": "2026-11-24T13:54:19.029Z"
     },
     {
@@ -8519,7 +8548,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:54:36.949Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.yenisafak.com/gundem/cankirida-uyusturucu-operasyonu-39-kisi-yakalandi-4875818",
@@ -8569,7 +8598,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T18:24:31.396Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
@@ -8694,8 +8723,12 @@
       "headline": "'Bayğaralar' suç örgütüne yönelik operasyon: Yakalanan 105 zanlıdan 90'ı tutuklandı",
       "source": "Milliyet",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": null,
-      "imageCredit": null,
+      "imageUrl": "https://images.unsplash.com/photo-1538449327350-43b4fcfd35ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8bmV3cyUyMHByZXNzJTIwY29uZmVyZW5jZXxlbnwxfDB8fHwxNzk1Nzk5NjcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Joao Cruz",
+        "photographerUrl": "https://unsplash.com/@jcruzweb",
+        "unsplashUrl": "https://unsplash.com/photos/shallow-focus-photo-of-black-corded-microphone-IkEpl3JkVqU"
+      },
       "timeAgo": "3 dk önce",
       "body": "Adana Cumhuriyet Başsavcılığınca yürütülen soruşturma kapsamında 20 Kasım'da gerçekleştirilen eş zamanlı operasyonda gözaltına alınan 101 şüphelinin ardından firari 4 zanlı daha yakalandı. İşlemlerinin tamamlanmasıyla adliyeye sevk edilen şüphelilerden 93'ü tutuklama, 12'si adli kontrol talebiyle hakimliğe çıkarıldı. Hakimlik, 12'si adli süreçteki çocuk 90 zanlının tutuklanmasına, 15 şüpheli hakkında ise adli…",
       "highlights": [],
@@ -8704,7 +8737,7 @@
       "category": "Gündem",
       "isBreaking": true,
       "lang": "tr",
-      "imageSearchAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "imageSearchAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.cnnturk.com/yerel-haberler/izmir/trafikte-motosikletle-akrobatik-hareketler-yapan-aday-surucunun-ehliyeti-iptal-edildi-3497092",
@@ -9070,7 +9103,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T17:04:23.316Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
@@ -9262,7 +9295,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T16:14:23.506Z",
       "imageSearchAttemptedAt": "2026-11-24T18:54:22.801Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z",
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -9574,7 +9607,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T15:04:44.273Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
@@ -9891,7 +9924,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-23T14:06:20.268Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/budonun-12-seferi-iptal-edildi-3496671",
@@ -9992,7 +10025,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T23:49:34.402Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/yeni-partide-myk-carsamba-gunu-belirlenecek-3496638",
@@ -10145,7 +10178,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T18:34:20.820Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.rfi.fr/en/france/20261122-french-right-backs-macron-s-plan-to-put-public-spending-limits-in-constitution",
@@ -10245,7 +10278,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T18:14:19.834Z",
-      "videoEmbedAttemptedAt": "2026-11-28T06:27:47.435Z"
+      "videoEmbedAttemptedAt": "2026-11-28T12:34:28.184Z"
     },
     {
       "id": "https://www.cnnturk.com/spor/futbol/live-konyaspor-2-4-besiktas-mac-ozeti-kartal-zorlandi-ama-3-puani-aldi-3496449",
@@ -14411,80 +14444,6 @@
       "sourceTextAttemptedAt": "2026-11-21T12:54:25.100Z",
       "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3496192",
       "videoEmbedAttemptedAt": "2026-11-26T17:34:17.094Z"
-    },
-    {
-      "id": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
-      "headline": "Çiğdem Batur hakkında soruşturma başlatıldı",
-      "source": "NTV",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1583014458773-7c633737edc9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8SXN0YW5idWwlMjBUdXJrZXklMjBza3lsaW5lfGVufDF8MHx8fDE3OTU4MDUwNzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ivan Aleksic",
-        "photographerUrl": "https://unsplash.com/@ivalex",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-brown-dome-building-HywGjvT39Dk"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı. Oyuncu Çiğdem Batur, geçen günler Sultanahmet Camisi'nden yaptığı paylaşımda kullandığı “ayak kokusu” ve “rezil oluyoruz” ifadeleri tepki çekmişti. İstanbul Cumhuriyet Başsavcılığı, Batur hakkında resen soruşturma başlatıldığını duyurdu. “AŞAĞILAYICI NİTELİK” Başsavcılık'ın açıklamasında \"Söz…",
-      "highlights": [
-        "Oyuncu Çiğdem Batur hakkında \"Halkın bir kesimini ve dini değerleri alenen aşağılama\" suçlamasıyla soruşturma başlatıldı.",
-        "İstanbul Cumhuriyet Başsavcılığı, Batur hakkında resen soruşturma başlatıldığını duyurdu.",
-        "Çiğdem Batur sosyal medya hesabından açıklama yaparak amacının inançları veya kutsal mekanları hedef almak olmadığını belirtti."
-      ],
-      "externalUrl": "https://www.ntv.com.tr/turkiye/cigdem-batur-hakkinda-sorusturma-baslatildi-1751930",
-      "publishedAt": "2026-11-21T12:32:26.000Z",
-      "category": "Türkiye",
-      "isBreaking": false,
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T12:44:26.874Z",
-      "imageSearchAttemptedAt": "2026-11-27T18:44:24.276Z"
-    },
-    {
-      "id": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-      "headline": "Anthropic Çalışanı Yapay Zeka Desteğiyle Riemann Hipotezi'ni Çözdüğünü İddia Etti",
-      "source": "NPR",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=npr.org",
-      "imageUrl": "https://images.unsplash.com/photo-1674027444485-cec3da58eef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGh8ZW58MXwwfHx8MTc5NTI2NDQ2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Growtika",
-        "photographerUrl": "https://unsplash.com/@growtika",
-        "unsplashUrl": "https://unsplash.com/photos/an-abstract-image-of-a-sphere-with-dots-and-lines-nGoCBxiaRO0"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "Yapay zeka devi Anthropic'te görev yapan bir matematikçi, şirketin yapay zeka aracı Claude'un yardımıyla önemli bir matematik problemini çözdüğünü öne sürdü. Şirketin teknik kadrosunda yer alan Levent Alpöge, web sitesinde yayımladığı dört sayfalık bir açıklamayla Riemann Hipotezi'ne dair bir kanıt bulduğunu duyurdu.\n\nAlpöge, Claude ile birlikte çalıştıklarını ve son çizgide yapay zekanın kendisini geride bıraktığını belirtti. 1859 yılında formüle edilen Riemann Hipotezi, asal sayıların sonsuza giderken nasıl dağıldığı üzerine odaklanıyor.\n\nKeşfinin ardından Anthropic CEO'su Dario Amodei'ye duyuru yapabilmek için mesaj attığını belirten Alpöge, bu açıklamayı şirketin tarihindeki en büyük halka arzın gerçekleştiği dönemin hemen ardından yaptı. Anthropic, iddiayla ilgili Associated Press'in e-postasın yanıt vermedi.\n\nAlpöge ve Claude'un kanıtı, matematiksel teoremlerin programlanmasını sağlayan Lean kodunun 17 milyon satırı içinde yayımlandı. Rutgers Üniversitesi'nden matematik profesörü Alex Kontorovich, Claude'un kodu takip ederek kanıtın doğru olduğunu söylediğini belirtti. Clay Mathematics Institute başkanı Martin Bridson, sorunun çözülüp çözülmediğinin değerlendirilmesinin zaman alacağını ifade etti. Enstitü, hipotezi 2000 yılında Yedi Millennium Ödül Problemi'nden biri olarak seçmiş ve 1 milyon dolar ödül koymuştu. Açıklamanın ardından Riemann Hipotezi enstitünün web sitesinde hala çözülmemiş olarak listelenmeye devam etti. Eylül ayında da OpenAI, Navier-Stokes denkleminde benzer bir yapay zeka başarısına imza atıldığını duyurmuştu. Tüm bu gelişmeler, Anthropic'in rekor kıran 81 milyar dolarlık halka arzının ardından yaşandı.",
-      "highlights": [
-        "Anthropic çalışanı Levent Alpöge, Claude yardımıyla Riemann Hipotezi'ni çözdüğünü iddia etti.",
-        "İddia, 17 milyon satırlık Lean kodu ile web sitesinde paylaşıldı.",
-        "Clay Mathematics Institute, çözümün değerlendirilmesinin zaman alacağını belirtti."
-      ],
-      "externalUrl": "https://www.npr.org/2026/11/21/g-s1-154922/anthropic-worker-claims-to-have-solved-a-holy-grail-of-math-problems-with-the-help-of-ai",
-      "publishedAt": "2026-11-21T12:30:16.000Z",
-      "category": "Teknoloji",
-      "isBreaking": false,
-      "lang": "tr"
-    },
-    {
-      "id": "https://www.cnnturk.com/saglik/uzmani-sessiz-tehlikeye-karsi-uyardi-3496190",
-      "headline": "Uzmanı 'sessiz tehlikeye' karşı uyardı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1743000332522-c0cd8b66b8d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VXptYW4lQzQlQjElMjAlMjdzZXNzaXolMjB0ZWhsaWtleWUlMjclMjBrYXIlQzUlOUYlQzQlQjElMjB1eWFyZCVDNCVCMXxlbnwxfDB8fHwxNzk1MjYzODcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Mahmut Yıldız",
-        "photographerUrl": "https://unsplash.com/@iammahmutyildiz",
-        "unsplashUrl": "https://unsplash.com/photos/a-protestor-holds-a-sign-in-turkish-mqBBKn_RjKw"
-      },
-      "timeAgo": "şimdi",
-      "body": "Kayseri Devlet Hastanesi Acil Servis Sorumlusu Uzman Doktor Mürsel Koçer, kış aylarının gelmesiyle birlikte artan karbonmonoksit zehirlenmelerine karşı vatandaşları uyardı. Koçer, karbonmonoksitin renksiz, kokusuz ve tatsız olması nedeniyle fark edilmesinin güç olduğunu ve son derece tehlikeli bir gaz olduğunu belirtti.\n\nKoçer, gazın yakıtların tam yanmaması sonucu kapalı ve yeterince havalandırılmayan ortamlarda ortaya çıktığını ifade etti. Solunum yoluyla vücuda giren gazın kanın oksijen taşıma kapasitesini düşürerek beyin ve kalp başta olmak üzere hayati organlarda ciddi hasara yol açabileceğini kaydetti.\n\nZehirlenme belirtileri arasında sıradan baş ağrısı, halsizlik, baş dönmesi, bulantı ve yorgunluk yer alırken; durumun ilerlemesiyle kusma, göğüs ağrısı, nefes darlığı, bilinç bulanıklığı ve bayılma gibi yaşamı tehdit eden tabloların gelişebileceği bildirildi. Aynı evde yaşayan birden fazla kişide eş zamanlı bu belirtilerin görülmesinin önemli bir uyarı işareti olduğu vurgulandı.\n\nBasit önlemlerle zehirlenmelerin büyük ölçüde engellenebileceğini belirten Koçer, soba ve bacaların düzenli temizletilmesi, kombi ile şofbenlerin yıllık kontrollerinin yaptırılması, kapalı ortamlarda mangal ve jeneratör gibi cihazların kullanılmaması ve evlerde karbonmonoksit dedektörleri bulundurulması gerektiğini kaydetti. Şüphe durumunda kişinin güvenli bir şekilde temiz havaya çıkarılması ve vakit kaybetmeden acil çağrı merkezinin aranması gerektiği ifade edildi.",
-      "highlights": [
-        "Uzman Doktor Mürsel Koçer, karbonmonoksit gazının renksiz, kokusuz ve tatsız olduğunu belirtti.",
-        "Zehirlenmenin ilk belirtileri arasında baş ağrısı, halsizlik, baş dönmesi ve bulantı yer alıyor.",
-        "Soba ve bacaların düzenli temizliği ile cihaz kontrollerinin yapılması önem taşıyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/saglik/uzmani-sessiz-tehlikeye-karsi-uyardi-3496190",
-      "publishedAt": "2026-11-21T12:25:02.000Z",
-      "category": "Sağlık",
-      "isBreaking": false,
-      "lang": "tr"
     }
   ],
   "rejectedIds": [
@@ -14720,6 +14679,7 @@
     "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss",
     "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
-    "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss"
+    "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+    "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss"
   ]
 }
