@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T06:34:40.954Z",
+  "generatedAt": "2026-11-28T06:44:42.303Z",
   "articles": [
+    {
+      "id": "https://www.yenisafak.com/gundem/boyabatta-kurt-goruntulendi-pazaryokusu-mevkiinde-sinop-boyabat-haberleri-4877346",
+      "headline": "Sinop'ta kurt görüntülendi",
+      "source": "Yeni Şafak",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
+      "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/28/55dd070f-t6fwb6djk1cvf1sfi1y8j9.webp",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Yeni Şafak",
+        "sourceUrl": "https://www.yenisafak.com/gundem/boyabatta-kurt-goruntulendi-pazaryokusu-mevkiinde-sinop-boyabat-haberleri-4877346"
+      },
+      "timeAgo": "1 dk önce",
+      "body": "Sinop'un Boyabat ilçesinde bir vatandaş tarafından kurt görüntülendi. Kaynak metinde yer alan bilgilere göre olay, vatandaşın cep telefonu kaydıyla kaydedildi.\n\nÖte yandan kaynakta, kralların yiyeceği olarak bilinen ve kilogram fiyatı 255 bin TL'yi bulduğu belirtilen trüf mantarı hakkında da bilgiler yer aldı. Gastronomi dünyasında kara elmas olarak anılan trüf mantarının yüksek maliyetiyle dünyanın en pahalı besinleri arasında ilk sıralarda yer aldığı ifade edildi.\n\nBatı Avustralya Üniversitesi araştırmacılarının Fungal Biology and Biotechnology dergisinde yayımlanan incelemesine göre, bu nadir mantar lüks sofraların yanı sıra amino asitler ve güçlü antioksidan bileşikler gibi kritik özellikler taşıyor.",
+      "highlights": [
+        "Sinop'un Boyabat ilçesinde kurt görüntülendi",
+        "Trüf mantarının kilogram fiyatı 255 bin TL'yi buluyor",
+        "Batı Avustralya Üniversitesi araştırmacılara göre trüf mantarı antioksidan bileşikler içeriyor"
+      ],
+      "externalUrl": "https://www.yenisafak.com/gundem/boyabatta-kurt-goruntulendi-pazaryokusu-mevkiinde-sinop-boyabat-haberleri-4877346",
+      "publishedAt": "2026-11-28T06:43:19.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/son-dakika-deprem-mi-oldu-az-once-deprem-nerede-oldu-istanbul-ankara-izmir-ve-il-il-afad-son-depremler-28-kasim-2026-1752912",
       "headline": "28 Kasım 2026 Son Dakika Deprem Haberleri: AFAD ve Kandilli Son Depremler Listesi",
@@ -23,7 +47,8 @@
       "publishedAt": "2026-11-28T06:30:00.000Z",
       "category": "Türkiye",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/1-5-saatte-gelen-mujde-umutlar-kesilmisti-2-milyon-tl-degerinde-7709738",
@@ -70,6 +95,29 @@
       ],
       "externalUrl": "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
       "publishedAt": "2026-11-28T06:25:33.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+      "headline": "Elon Musk'ın servetinin iki partili çekiciliği sürüyor",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1585011650347-c59dbef5a823?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RWxvbiUyME11c2t8ZW58MXwwfHx8MTc5NTg0ODI3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Austin Ramsey",
+        "photographerUrl": "https://unsplash.com/@austin__ramsey",
+        "unsplashUrl": "https://unsplash.com/photos/black-and-gray-nike-logo-9X3DmoEM64k"
+      },
+      "timeAgo": "19 dk önce",
+      "body": "Elon Musk'ın Cumhuriyetçilere yönelik başarısız bahsi, servetinin partiler üstü cazibesini azaltmak için herhangi bir etki yaratmadı. Kaynaklarda yer alan bilgilere göre, milyarder ismin servetine gösterilen bu ilgi, siyasi hamlelerinden bağımsız olarak varlığını sürdürmeye devam ediyor. Yaşanan bu gelişmeler, iş dünyası ile siyaset arasındaki dengelerin Musk özelinde nasıl şekillendiğini gözler önüne seriyor.",
+      "highlights": [
+        "Cumhuriyetçilere yapılan başarısız bahis servetin çekiciliğini azaltmadı",
+        "Servetin iki partili cazibesi korunuyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/opinions/2026/11/28/elon-musk-can-afford-a-little-maga-amnesia?traffic_source=rss",
+      "publishedAt": "2026-11-28T06:25:24.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -308,7 +356,7 @@
         "sourceName": "CNN Türk",
         "sourceUrl": "https://www.cnnturk.com/video/finans-haberler/sermaye-piyasasi-kanunu-degisiyor-calisma-tamamlandi-iste-detaylar-3498954"
       },
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "timeAgo": "şimdi",
       "body": "Fon piyasasında meydana gelen sorunların ardından sermaye piyasasını güçlendirmek amacıyla önemli bir adım atılıyor. Konuya ilişkin Sermaye Piyasası Kanunu'nda yapılması öngörülen değişikliklere dair çalışmaların tamamlandığı bildirildi. Hazırlanan yeni düzenlemenin yakın bir zamanda Meclis Başkanlığına sunulması bekleniyor.",
       "highlights": [
@@ -458,7 +506,7 @@
         "photographerUrl": "https://unsplash.com/@sammannfilms",
         "unsplashUrl": "https://unsplash.com/photos/people-in-a-white-boat-during-daytime-41eo5e8jW08"
       },
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "timeAgo": "10 dk önce",
       "body": "İspanya Askeri Acil Durum Birimi, El Hierro adasına karaya çıkarılan göçmenleri tedavi etmek amacıyla bölgeye gönderildi. Kanarya Adaları'na yüzlerce göçmenin ulaşmasının ardından yetkililer harekete geçti. Göçmenlerin ada kıyılarına getirilmesiyle birlikte sağlık müdahaleleri ve yardım çalışmaları başlatıldı. İspanyol ekipler, sahile ulaşan kişilerin sağlık durumlarıyla ilgilenmek üzere sahada görev yapıyor.",
       "highlights": [
@@ -1039,7 +1087,7 @@
     },
     {
       "id": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914",
-      "headline": "AK Parti Sözcüsü Çelik'ten Beşiktaş taraftarlarına yönelik şiddete tepki: Yapılan müdahale kabul edilemez",
+      "headline": "AK Parti Sözcüsü Çelik'ten Beşiktaş taraftarlarına yönelik şiddete tepki",
       "source": "Yeni Şafak",
       "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
       "imageUrl": "https://img.piri.net/piri/ys/img/2026/11/26/73690c2f-ak-parti-sozcusu-celikten-besiktas-taraftarlarina.webp",
@@ -1049,18 +1097,18 @@
         "sourceUrl": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914"
       },
       "timeAgo": "şimdi",
-      "body": "CHP Elazığ Milletvekili Gürsel Erol, TBMM Plan ve Bütçe Komisyonunda yaptığı konuşmada Türkiye'nin ev sahipliğinde düzenlenen COP31 İklim Zirvesi'ne yönelik değerlendirmelerde bulundu. Hükümetin organizasyondaki başarısını öven Erol, kendi geçmiş deneyimleriyle kıyaslama yaparak parti içindeki organizasyonların bile bu kadar düzenli olmadığını belirtti ve hükümetin başarısını takdir etti. \n\nKonuşmasında devlet ve hükümet vurgusu yapan Erol, zirvenin sadece sonuç bildirgesi üzerinden değerlendirilmesinin doğru olmadığını ifade etti. Zirvenin karar alma mekanizmasını eleştiren milletvekili, sorunun Türkiye'den değil COP31'in yapısından kaynaklandığını savundu. \n\nErol, 194 ülkeden yalnızca birinin dahi itiraz etmesi durumunda kararların geçmediğine dikkat çekerek, bu yapısal duruma yönelik eleştirilerini dile getirdi.",
+      "body": "Gürcistan'ın Batum kentindeki Batumi Dinamo Stadyumu'nda oynanan maçta Beşiktaş taraftarlarının Filistin'e destek pankartları ve sloganları nedeniyle Gürcistan polisi vatandaşlara biber gazı ve coplarla müdahale etti. Olaylarda bazı taraftarlar yaralandı.\n\nAK Parti Genel Başkan Yardımcısı ve Parti Sözcüsü Ömer Çelik, sosyal medya hesabından yaptığı paylaşımda, Beşiktaş taraftarlarına yapılan müdahale ve şiddetin kabul edilemez olduğunu vurguladı. Çelik, İsrail takımının saha içindeki tahriklerini kınadıklarını ve yaralanan taraftarlara geçmiş olsun dileklerini ilettiklerini belirtti.\n\nYaşananlara Türkiye'den birçok isim de tepki gösterdi. Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, TBMM Başkanı Numan Kurtulmuş, İletişim Başkanı Burhanettin Duran, Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Ticaret Bakanı Ömer Bolat, Gençlik ve Spor Bakanı Osman Aşkın Bak ve Adalet Bakanı Akın Gürlek taraftarlara yönelik orantısız güç kullanımı ve şiddeti kınayarak Beşiktaş camiasına destek mesajları iletti.\n\nDışişleri Bakanlığı, Batum'daki Türk vatandaşlarının durumunun yakından takip edildiğini açıkladı. Dışişleri Bakanı Hakan Fidan, Gürcistan Dışişleri Bakanı Maka Botchorishvili ile telefon görüşmesi gerçekleştirdi. Türkiye'nin Tiflis Büyükelçiliği ve Batum Başkonsolosluğu yetkililerinin stadyumda bulunduğu, vatandaşların güvenliği ve haklarının korunması için girişimlerin yürütüldüğü bildirildi.",
       "highlights": [
-        "Gürsel Erol TBMM Plan ve Bütçe Komisyonunda konuştu",
-        "Hükümetin COP31 organizasyonundaki başarısı övüldü",
-        "Zirvenin karar alma mekanizması eleştirildi"
+        "Gürcistan polisi Beşiktaş taraftarlarına biber gazı ve coplarla müdahale etti.",
+        "AK Parti Sözcüsü Çelik, taraftarlara yapılan şiddetin kabul edilemez olduğunu belirtti.",
+        "Dışişleri Bakanı Fidan, Gürcistan Dışişleri Bakanı ile telefon görüşmesi gerçekleştirdi."
       ],
       "externalUrl": "https://www.yenisafak.com/gundem/ak-parti-sozcusu-celikten-besiktas-taraftarlarina-yonelik-siddete-tepki-yapilan-mudahale-kabul-edilemez-4876914",
       "publishedAt": "2026-11-26T19:05:37.000Z",
       "category": "Spor",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T19:24:26.416Z"
+      "sourceTextAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.haberturk.com/spor/cska-sofya-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-canli-yayinlanacak-iste-muhtemel-11-ler-3930141",
@@ -2096,7 +2144,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T23:23:43.112Z",
       "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -2470,7 +2518,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T17:24:30.478Z",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
@@ -2816,7 +2864,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z",
       "imageSearchAttemptedAt": "2026-11-27T07:29:26.140Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "videoCoverAttemptedAt": "2026-11-27T07:29:26.140Z"
     },
     {
@@ -3657,7 +3705,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T09:38:35.637Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-3497702",
@@ -4046,7 +4094,7 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -4129,7 +4177,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
@@ -4235,7 +4283,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
@@ -4358,7 +4406,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
-      "imageSearchAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "imageSearchAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
@@ -4381,7 +4429,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
       "imageSearchAttemptedAt": "2026-11-26T17:54:36.907Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -4911,7 +4959,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T18:14:22.342Z",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/abdden-dev-sanayi-hamlesi-pentagon-iha-uretimi-icin-otomotiv-devleriyle-masada-3497553",
@@ -5007,7 +5055,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "videoEmbedAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/ingiliz-basinindan-antalyaya-ovgu-the-telegraph-subatta-gidin-ve-kazak-giymeyin-3497633",
@@ -5881,7 +5929,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:24:28.927Z",
-      "imageSearchAttemptedAt": "2026-11-28T00:41:26.466Z"
+      "imageSearchAttemptedAt": "2026-11-28T06:44:28.183Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-aciklamalar-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
@@ -14336,55 +14384,6 @@
       ],
       "externalUrl": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
       "publishedAt": "2026-11-21T06:53:13.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/beyoglunda-degnekcilere-operasyon-7704946",
-      "headline": "Beyoğlu’nda 'değnekçilere' operasyon!",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1709839549505-759334d2ca62?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwb3BlcmF0aW9uJTIwSXN0YW5idWx8ZW58MXwwfHx8MTc5NTI0MzQ2NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tolga Ahmetler",
-        "photographerUrl": "https://unsplash.com/@t_ahmetler",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-people-walking-on-a-bridge-next-to-a-body-of-water-fVkynUyxgC0"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "İstanbul Emniyet Müdürlüğü Beyoğlu İlçe Emniyet Müdürlüğü ekipleri, Asmalı Mescit Mahallesi Meşrutiyet Caddesi’nde park etmek isteyen sürücülerden para talep edildiği yönündeki ihbarlar üzerine harekete geçti. Yürütülen saha çalışmaları sonucunda, şüphelilerin kamuya ait alana araçlarını park eden kişilerden para istediği ve parayı vermeyi reddedenleri 'Aracınız zarar görür' diyerek tehdit ettiği saptandı.\n\nPolis ekipleri, bölgedeki iş yerlerine ait güvenlik kameralarını incelemeye aldı. Yapılan incelemeler neticesinde, söz konusu bölgede değnekçilik yaparak haksız kazanç sağladığı tespit edilen Ş.Ü. (62), A.Ü. (31), H.Ü. (28) ve İ.G. (42) isimli şüpheliler gözaltına alındı.\n\nGözaltına alınan şüpheliler hakkında Karayolları Trafik Kanunu çerçevesinde 'korsan otoparkçılık' suçundan yasal işlem başlatıldı. Emniyetteki işlemleri tamamlanan şüphelilerin adliyeye sevk edileceği bildirildi.",
-      "highlights": [
-        "Beyoğlu'nda park etmek isteyenlerden para isteyip tehdit eden kişilere operasyon düzenlendi.",
-        "Güvenlik kameralarının incelenmesiyle değnekçilik yaptığı belirlenen 4 şüpheli gözaltına alındı.",
-        "Şüpheliler hakkında korsan otoparkçılık suçundan işlem başlatıldı ve adliyeye sevk edileceği öğrenildi."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/beyoglunda-degnekcilere-operasyon-7704946",
-      "publishedAt": "2026-11-21T06:42:36.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T06:54:26.848Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
-      "headline": "Rusya, ABD'nin Avrupa güvenliği teklifini fırsat bilerek savaş öncesi taleplerini yeniliyor",
-      "source": "ABC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
-      "imageUrl": "https://images.unsplash.com/photo-1645930898474-d81662d92477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8VmxhZGltaXIlMjBQdXRpbnxlbnwxfDB8fHwxNzk1MjQ1MjcwfDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Yohan Marion",
-        "photographerUrl": "https://unsplash.com/@yohanmarion",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-holding-signs-and-flags-iBd3bnkZGmo"
-      },
-      "timeAgo": "35 dk önce",
-      "body": "Yaklaşık beş yıldır Ukrayna'da süren çatışmaların ardından Kremlin, ABD'nin savaş sonrası Avrupa güvenliğini tartışma teklifini memnuniyetle karşıladı. Moskova bu diplomatik açılımı, Rusya Devlet Başkanı Vladimir Putin'in tam kapsamlı işgal öncesinde öne sürdüğü sert talepleri yeniden savunmak için kullanıyor. ABD Başkanı Donald Trump'ın elçileri tarafından ortaya atılan daha geniş güvenlik düzenlemeleri teklifi, Ukrayna ve Batılı müttefiklerini endişelendirirken, Kremlin bu gözden geçirmeyi destekliyor.\n\nPutin, Ukrayna'daki çatışmayı Çin'in Shenzhen kentindeki APEC zirvesinde Trump ve Çin Devlet Başkanı Xi Jinping ile yaptığı üçlü görüşmede ele aldı. Bu temas, Kyiv'in katılımı olmadan bir anlaşmaya varılabileceği korkularını artırdı. Ukrayna Devlet Başkanı Volodimir Zelenskiy, olası bir ateşkesin Rusya'nın saldırılarını önleyecek bir güvenlik çerçevesi içermesini isterken, Avrupalı liderler bu yapının halihazırda NATO formunda mevcut olduğunu savunuyor.\n\nRusya, Aralık 2021'de ABD ve NATO'ya sunduğu taslak anlaşmalarda; NATO'nun Ukrayna, Gürcistan veya eski Sovyet ülkelerine genişlemesinin dışlanmasını, bu bölgelerde askeri faaliyetlerde bulunulmamasını ve 1997 öncesi sınırlara dönülmesini talep etmişti. NATO müttefikleri bu talepleri reddetmişti. Putin, Batı'nın bu önerileri dikkate almamasını 24 Şubat 2022'de Ukrayna'ya asker gönderme kararının temel nedeni olarak gösterdi.\n\nXi ve Trump ile görüşmesinin ardından konuşan Putin, Batı'nın NATO genişlemesine ilişkin şikayetlerini dikkate almamasını eleştirdi. Moskova'nın Avrupalılarla güvenlik düzenlemelerini tartışmaya açık olduğunu belirten Putin, Rusya'nın kilit taleplerinden taviz vermeyeceğini vurguladı. Kremlin dış ilişkiler danışmanı Yuri Ushakov, 12 Kasım'da Kremlin'de Trump'ın elçileri Steve Witkoff ve Jared Kushner ile yapılan görüşmede Putin'in 2021 tekliflerini hatırlattığını kaydetti.\n\nBazı gözlemciler, Moskova'nın diğer taleplerinde taviz verebileceğini savunurken, Carnegie Rusya Avrasya Merkezi'nden Tatiana Stanovaya, Moskova'nın 2022'den bu yana ilk kez savaşın kök nedenlerini ele alabilecek somut bir müzakere açılımı gördüğünü belirtti. Avrupalı liderler ve Zelenskiy ise ABD'nin önerdiği bu tartışmaların NATO'yu zayıflatabileceği ve tehlikeli olabileceği konusunda uyarıda bulunuyor. Jared Kushner ise Trump'ın Avrupa ile birlikte anlaşma yapmak istediğini ve savaş sonrası Ukrayna için NATO benzeri güvenlik garantilerine açık olduğunu ifade etti.",
-      "highlights": [
-        "Kremlin, ABD'nin savaş sonrası Avrupa güvenliği teklifini olumlu karşılıyor.",
-        "Putin, Rusya'nın 2021 yılındaki güvenlik taleplerini yineledi.",
-        "Ukrayna ve Batılı müttefikler, olası müzakerelerin NATO'yu zayıflatabileceğinden endişe ediyor."
-      ],
-      "externalUrl": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
-      "publishedAt": "2026-11-21T06:39:23.000Z",
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
