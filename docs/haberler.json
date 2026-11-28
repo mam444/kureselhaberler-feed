@@ -1,6 +1,53 @@
 {
-  "generatedAt": "2026-11-28T11:14:35.660Z",
+  "generatedAt": "2026-11-28T11:34:34.618Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/futbol/besiktas-galatasaray-derbisinde-15-isim-ilk-randevusuna-cikacak-3499087",
+      "headline": "Beşiktaş - Galatasaray derbisinde 15 isim ilk randevusuna çıkacak",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b0a92d04e094da32235d011.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/spor/futbol/besiktas-galatasaray-derbisinde-15-isim-ilk-randevusuna-cikacak-3499087"
+      },
+      "timeAgo": "şimdi",
+      "body": "Trendyol Süper Lig'in 13. haftasında Beşiktaş ile Galatasaray arasında 30 Kasım Pazartesi günü oynanacak derbide, görev verilmeleri durumunda 15 futbolcu kariyerlerinde ilk kez bu iki takım arasındaki bir müsabakada sahaya çıkacak. Karşılaşma öncesinde ev sahibi Beşiktaş'ta 10, Galatasaray'da ise 5 oyuncu ilk kez bu rekabetin heyecanını yaşama potansiyeli taşıyor.\n\nSiyah-beyazlı ekipte teknik direktör Vincenzo Italiano'nun şans vermesi halinde Alexander Nübel, Leandro Trossard, Kassoum Ouattara, Ernest Poku, İlhan Fakılı, Fabio Miretti, Doğan Alemdar, Dusan Vlahovic, Salih Özcan ve Ümit Akdağ, sarı-kırmızılılara karşı ilk kez forma giyecek yeni isimler arasında yer alıyor. Beşiktaş kadrosunda Galatasaray'a karşı daha önce en fazla forma giyen oyuncular ise 4'er maçla Milot Rashica ve Rıdvan Yılmaz oldu.\n\nGalatasaray cephesinde ise teknik direktör Okan Buruk'un görev vermesi beklenen Rafael Leao, Aleksey Batrakov, Deniz Gül, Lesley Ugochukwu ve El Chadaille Bitshiabu, şans bulmaları halinde ilk kez siyah-beyazlılara karşı mücadele edecek. Sarı-kırmızılı takımda Beşiktaş derbisi tecrübesi en yüksek futbolcu olarak 9 karşılaşmayla Barış Alper Yılmaz öne çıkıyor.\n\nBeşiktaş'ta Milot Rashica ve Rıdvan Yılmaz'ın ardından Semih Kılıçsoy ile Emirhan Topçu 3'er, Mustafa Erhan Hekimoğlu ise 2 kez Galatasaray'a karşı oynadı. Galatasaray'da ise Barış Alper Yılmaz'ı 8 maçla Lucas Torreira, 7 maçla Abdülkerim Bardakcı ve 6 maçla Davinson Sanchez takip etti.",
+      "highlights": [
+        "Beşiktaş ve Galatasaray derbisinde 15 futbolcu ilk kez bu rekabette forma giyebilir.",
+        "Beşiktaş'ta 10 yeni transfer ve oyuncu ilk kez sarı-kırmızılılara karşı şans arayacak.",
+        "Galatasaray'da ise 5 futbolcu ilk kez siyah-beyazlı rakibe karşı sahaya çıkma adayı."
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/futbol/besiktas-galatasaray-derbisinde-15-isim-ilk-randevusuna-cikacak-3499087",
+      "publishedAt": "2026-11-28T11:38:21.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
+      "headline": "Fransa'da kadına yönelik şiddete karşı ülke çapında protestolar düzenleniyor",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://s.france24.com/media/display/d0206026-eb1d-11f1-85b9-174dac1c1bf0/w:1024/p:16x9/EN-20261128-110846-111002-CS.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Fransa genelinde kadına yönelik şiddeti protesto etmek amacıyla gösteriler gerçekleştiriliyor. 28 Kasım 2026 tarihinde yayımlanan bilgilere göre, söz konusu eylemler ülke çapında düzenleniyor. Aktarılan verilere göre dünya genelinde yaklaşık 840 milyon kadın şiddete maruz kalıyor. Haber kaynağında protestoların detaylarına ve katılımcı gruplara ilişkin başka bir ayrıntıya yer verilmiyor.",
+      "highlights": [
+        "Fransa'da kadına yönelik şiddete karşı ülke çapında protestolar düzenleniyor",
+        "Dünya genelinde yaklaşık 840 milyon kadın şiddete maruz kalıyor"
+      ],
+      "externalUrl": "https://www.france24.com/en/france-holds-nationwide-protests-against-violence-towards-women",
+      "publishedAt": "2026-11-28T11:25:52.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/intikam-icin-bombali-paket-hazirladi-davada-karar-7709858",
       "headline": "İntikam için bombalı paket hazırladı! Davada karar",
@@ -13,17 +60,18 @@
         "sourceUrl": "https://www.milliyet.com.tr/gundem/intikam-icin-bombali-paket-hazirladi-davada-karar-7709858"
       },
       "timeAgo": "2 dk önce",
-      "body": "Zeytinburnu'ndaki bir sitede, 11 Ocak sabahı Çinli iş insanı J.H.'ye kuryeyle gelen ve üzerinde Çin Konsolosluğu ibaresi bulunan paket, resepsiyonda açıldığı sırada patladı. Olayda J.H. ile çevredeki bazı kişiler yaralandı. Bakırköy Cumhuriyet Başsavcılığınca hazırlanan iddianamede, olay yerine ilişkin yapılan incelemelerde havai fişek kalıntıları, pil blokları ve kablolar tespit edildi.\n\nMüşteki J.H. ifadesinde, yaklaşık iki yıl önce tanıştığı şüpheli Muhammet Kartal'a inşaat işi verdiğini, Kartal'ın işleri tamamlamayarak ek para talep ettiğini ve kendisini tehdit ettiğini belirtti. J.H., olay günü kargoyu teslim aldığını ve paketi açtığı sırada patlamanın meydana geldiğini ifade etti.\n\nKurye E.C., paketi Fatih'teki açık otoparkta yüzü yarı kapalı cerrahi maskeli bir erkekten 300 lira kurye ücreti karşılığında teslim aldığını söyledi. Soruşturma kapsamında hat temin eden kişilerin Arjin Aşan ve Siyabend Aşan olduğu belirlendi. Şüpheli Muhammet Kartal ise ifadesinde, J.H.'yi korkutmak amacıyla patlayıcı düzeneği hazırladığını ve öldürme amacı olmadığını savundu.\n\nİddianamede, kullanılan patlayıcı düzeneğin öldürmeye elverişli olduğu, Kartal'ın saldırıyı planlayarak gerçekleştirdiği ve şüphelilerin fikir ve eylem birliği içinde hareket ettiği değerlendirildi. 3 şüpheli hakkında ağırlaştırılmış müebbet ve 8'er yıla kadar hapis cezası talep edildi.",
+      "body": "Zeytinburnu'nda bir sitede Çinli iş insanı J.H.'ye 11 Ocak sabahı kuryeyle getirilen, üzerinde Çin Konsolosluğu ibaresi bulunan paket resepsiyonda açılırken patladı. Patlamada J.H. ile çevredeki bazı kişiler yaralandı. Olayla ilgili yürütülen soruşturma sonucunda hazırlanan iddianamede 3 kişi hakkında ağırlaştırılmış müebbet ve 8'er yıla kadar hapis cezası istendi.\n\nBakırköy Cumhuriyet Başsavcılığınca hazırlanan iddianamede, olay yerinde havai fişek türü madde, tetikleyici düzenek bulguları, pil blokları ve kablo tespit edildiği belirtildi. Müşteki J.H. ifadesinde, şüpheli Muhammet Kartal'a inşaat işi verdiğini, Kartal'ın işleri tamamlamayarak ek para istediğini ve kendisini tehdit ettiğini anlattı. J.H., 9 Ocak'ta kargosu olduğuna dair telefon aldığını, ertesi gün paketi teslim aldığını ve açtığı sırada patlama meydana geldiğini ifade etti.\n\nKamera tespit çalışmalarında paketi teslim eden kuryenin motosikletinin E.C.'ye ait olduğu belirlendi. E.C., paketi Fatih'te yüzü yarı kapalı cerrahi maskeli bir erkekten 300 lira kurye ücreti karşılığında aldığını söyledi. İddianamede, hat satışının yapıldığı iş yerindeki kamera görüntülerinde şüphelilerin Arjin Aşan ve Siyabend Aşan olduğu tespit edildi.\n\nŞüpheli Muhammet Kartal ifadesinde, J.H. ile aralarındaki borç tartışmaları nedeniyle J.H.'yi korkutmak amacıyla patlayıcı düzeneği kendisinin hazırladığını, amacının öldürmek olmadığını söyledi. Kartal, yanında çalışan Arjin Aşan'dan hat ve telefon almasını istediğini, olay günü kurye siparişi oluşturarak paketi teslim ettiğini aktardı.\n\nİddianamede, müşteki J.H.'nin vücudunda çok sayıda yaralanma olduğu belirtildi. Muhammet Kartal'ın saldırıyı planlayarak gerçekleştirdiği, kullanılan patlayıcı düzeneğin öldürmeye elverişli olduğu vurgulandı. Arjin ve Siyabend Aşan'ın da eylem sürecinden haberdar oldukları değerlendirildi.",
       "highlights": [
-        "Zeytinburnu'nda Çinli iş insanına gelen paket resepsiyonda patladı.",
-        "Şüpheli Muhammet Kartal, J.H.'yi korkutmak için düzenek hazırladığını öne sürdü.",
-        "3 şüpheli hakkında ağırlaştırılmış müebbet ve 8'er yıla kadar hapis cezası istendi."
+        "Zeytinburnu'nda Çinli iş insanına gönderilen paket resepsiyonda açılırken patladı.",
+        "Olayla ilgili 3 şüpheli hakkında ağırlaştırılmış müebbet ve 8'er yıla kadar hapis cezası istendi.",
+        "Şüpheli Muhammet Kartal ifadesinde J.H.'yi korkutmak amacıyla düzeneği hazırladığını söyledi."
       ],
       "externalUrl": "https://www.milliyet.com.tr/gundem/intikam-icin-bombali-paket-hazirladi-davada-karar-7709858",
       "publishedAt": "2026-11-28T11:12:27.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T11:34:27.659Z"
     },
     {
       "id": "https://www.cnnturk.com/magazin/dizi/27-kasim-2026-cuma-reyting-sonuclari-dunun-reyting-siralamasinda-ilk-10a-hangi-yapimlar-girdi-3499075",
@@ -64,15 +112,16 @@
       "timeAgo": "8 dk önce",
       "body": "Tayvan, belediye başkanları ile diğer yerel liderleri belirlemek üzere yerel seçimler düzenledi. 28 Kasım 2026 tarihinde yayımlanan bilgilere göre, ada genelinde gerçekleştirilen bu seçimlerin sonuçları bekleniyor.\n\nSeçim sürecini yakından takip eden Çin'in, oylama sonuçlarını izlediği belirtiliyor. Taipei'den canlı yayın aktaran Jan Camenzind Broomby ve Jan Camenzind Broomby tarafından hazırlanan video içeriklerle süreç haberleştirildi.\n\nMedya kuruluşunun paylaştığı detaylarda, söz konusu yerel seçimlerin 28.11.2026 tarihinde gerçekleştiği ve Çin'in bu süreci izlediği bilgisi yer alıyor.",
       "highlights": [
-        "Tayvan belediye başkanları ve yerel liderleri seçmek için seçim yaptı",
-        "Çin'in yerel seçim sonuçlarını izlediği belirtildi",
-        "Seçimler 28 Kasım 2026 tarihinde gerçekleştirildi"
+        "Tayvan belediye başkanları ve yerel liderler için seçim yaptı",
+        "Seçim sonuçları Çin tarafından da izleniyor",
+        "Jan Camenzind Broomby Taipei'den canlı yayın aktardı"
       ],
       "externalUrl": "https://www.france24.com/en/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders",
       "publishedAt": "2026-11-28T11:06:49.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T11:34:27.659Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/osmanli-padisahinin-ispanya-kralina-yolladigi-dev-mektup-tarihi-nasil-bastan-yazdi-ispanyol-ve-turk-tarihciler-anlatti-7709821",
@@ -14388,55 +14437,6 @@
       "category": "Spor",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T12:14:21.235Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-      "headline": "İngiltere'nin ticaret ve gençlik anlaşmaları sonrası AB'ye yeniden katılımı 'masada'",
-      "source": "The Guardian",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=theguardian.com",
-      "imageUrl": "https://images.unsplash.com/photo-1594810205183-18a8b0ce6c13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8RXVyb3BlYW4lMjBVbmlvbiUyMGZsYWdzfGVufDF8MHx8fDE3OTUyNjE0Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Guillaume Périgois",
-        "photographerUrl": "https://unsplash.com/@guillaumeperigois",
-        "unsplashUrl": "https://unsplash.com/photos/row-of-european-union-flags-0NRkVddA2fw"
-      },
-      "timeAgo": "11 dk önce",
-      "body": "Ed Miliband, Brüksel'de gerçekleştirilen görüşmelerin ardından, İngiltere'nin Avrupa Birliği'ne yeniden katılmasının gelecekteki informal görüşmelerde masada olabileceğini belirtti. Başbakanın Cuma günü AB ile ticaret ve gençlik konularında anlaşmalara varmasının ardından konuşan Dışişleri Bakanı, gelecekteki süreçte \"tüm seçeneklerin\" inceleneceğini ifade etti. Bu hafta yapılan görüşmelerin ardından gıda ve içecek standartları, emisyon ticareti ve gençlerin hareketliliğine ilişkin anlaşmalar duyuruldu.\n\nPlanlar kapsamında 100 bin genç Britanyalının AB'de yaşamasına, çalışmasına, eğitim almasına ve seyahat etmesine izin verilirken, Avrupalılar için de Birleşik Krallık'ta benzer bir erişim sağlanacak. Miliband, önümüzdeki yıl içerisinde ne yapılabileceğine dair AB ile daha fazla \"beyin fırtınası\" görüşmeleri yapılacağını kaydetti. İşçi Partisi 2024'te iktidara gelmesinden bu yana tek pazara veya gümrük birliğine yeniden katılmayacaklarını ve serbest dolaşımı dışarıda bırakacaklarını belirten manifestodaki \"kırmızı çizgilere\" bağlı kaldı.\n\nBununla birlikte, AB'nin Avrupalı öğrencilerin İngiliz üniversitelerinde yerel düzeyde öğrenim ücreti ödemesine izin verilmemesi durumunda bu üçlü anlaşma paketini bloke etme tehdidinde bulunduğu bildirildi. BBC'nin Sunday with Laura Kuenssberg programına konuşan Miliband, blokla yeniden birleşmenin değerlendirilip değerlendirilmeyeceği sorulduğunda tüm seçeneklerin masada olacağını vurgulayarak maliyet ve faydaların inceleneceğini aktardı.\n\nBaşbakan, gelecek seçimden sonra İngiltere'nin AB'ye nasıl daha fazla yaklaşabileceğini incelemek üzere 10 yıllık planının duyurusunu Noel öncesinde yapacak. Önümüzdeki yıl gerçekleştirilecek İngiltere-AB zirvesi öncesinde Brüksel ile informal görüşmelerin yapılacağı ifade edildi. Cuma günü yapılan açıklamalarda anlaşmanın yasalaşması için gelecek hafta parlamentoya sunulacağı belirtilirken, Avrupa Komisyonu Başkanı Ursula von der Leyen de bir çözüm bulacaklarından emin olduğunu dile getirdi.",
-      "highlights": [
-        "İngiltere'nin AB'ye yeniden katılımı gelecekteki görüşmelerde masada olabilir.",
-        "Gençlik hareketliliği planıyla 100 bin genç Britanyalı AB'de yaşama ve çalışma hakkı elde edecek.",
-        "İşçi Partisi tek pazar ve gümrük birliğine dönmeme yönündeki kırmızı çizgilerini koruyor."
-      ],
-      "externalUrl": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-      "publishedAt": "2026-11-21T11:33:01.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/yerel-haberler/samsun/samsunda-trafik-levhasina-ve-otobuse-carpan-otomobildeki-3-kisi-yaralandi-3496167",
-      "headline": "Samsun'da trafik levhasına ve otobüse çarpan otomobildeki 3 kişi yaralandı",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1615423263169-36d38558bd53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8dHJhZmZpYyUyMGFjY2lkZW50JTIwY2FyfGVufDF8MHx8fDE3OTUyNjAzMDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "C Joyful",
-        "photographerUrl": "https://unsplash.com/@alonly",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-white-and-black-stripe-shirt-and-black-pants-standing-beside-black-car-during-daytime-uWOBgtCD_m8"
-      },
-      "timeAgo": "şimdi",
-      "body": "Samsun'un İlkadım ilçesinde meydana gelen trafik kazasında, otomobilin trafik levhasına ve otobüse çarpması neticesinde 3 kişi yaralandı.\n\nEdinilen bilgilere göre kaza, ilçede bulunan 2. Bulvar Yolu'nda gerçekleşti. E.K. (43) yönetimindeki 38 BZ 771 plakalı otomobil, sürücüsünün direksiyon hakimiyetini yitirmesi sonucunda refüjde yer alan trafik levhasına çarptı.\n\nÇarpmanın etkisiyle karşı şeride geçen otomobil, yol kenarında park halinde bulunan 55 C 0382 plakalı otobüse çarparak durabildi. Bu sırada yerinden kopan trafik levhası da park halindeki 55 AOV 289 plakalı kamyonete zarar verdi.\n\nYaşanan kaza sonucunda otomobil sürücüsü E.K. ile birlikte araç içerisinde bulunan T.K. (17) ve A.K. (19) yaralandı. Olayın ardından yaralıların hayati tehlikesinin bulunmadığı bilgisine ulaşıldı.",
-      "highlights": [
-        "Samsun'un İlkadım ilçesinde otomobilin trafik levhasına ve otobüse çarpması sonucu 3 kişi yaralandı",
-        "Kazada sürücü E.K. ile araçtaki T.K. ve A.K. yaralandı, hayati tehlikelerinin bulunmadığı öğrenildi",
-        "Kontrolden çıkan otomobil karşı şeride geçerek park halindeki otobüse çarptı"
-      ],
-      "externalUrl": "https://www.cnnturk.com/yerel-haberler/samsun/samsunda-trafik-levhasina-ve-otobuse-carpan-otomobildeki-3-kisi-yaralandi-3496167",
-      "publishedAt": "2026-11-21T11:29:32.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T11:44:29.119Z",
       "isBreaking": false
     }
   ],
