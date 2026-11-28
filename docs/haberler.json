@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T07:44:24.513Z",
+  "generatedAt": "2026-11-28T07:54:25.922Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-besiktas-hapoel-beer-sheva-macinin-ardindan-israilden-ilk-aciklama-omrumde-boyle-nefret-gormedim-bizimle-tokalasmadilar-bile-7709769",
+      "headline": "Beşiktaş-Hapoel Beer Sheva maçının ardından İsrail'den ilk açıklama: 'Ömrümde böyle nefret görmedim'",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://image.milimaj.com/i/milliyet/75/460x340/6b0a834dd314da6ed517c26c.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Milliyet",
+        "sourceUrl": "https://www.milliyet.com.tr/dunya/son-dakika-besiktas-hapoel-beer-sheva-macinin-ardindan-israilden-ilk-aciklama-omrumde-boyle-nefret-gormedim-bizimle-tokalasmadilar-bile-7709769"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva, Gürcistan'ın Batum kentinde karşı karşıya geldi. Siyah-beyazlıların 2-1 kazandığı maçın öncesinde ve sırasında yaşanan olaylar gündem oldu.\n\nKarşılaşma öncesinde seromoni için sahaya çıkan iki takım futbolcuları arasında Beşiktaşlı oyuncular, Hapoel Beer-Sheva futbolcularının ellerini sıkmayarak protesto gerçekleştirdi. Tribünlerdeki Beşiktaş taraftarları da \"Kahrolsun İsrail, Filistin'e özgürlük\" sloganlarıyla tepkilerini dile getirdi.\n\nMücadelenin 26'ncı dakikasında tribünlerde yaşanan olaylar sebebiyle maç durdu. Filistin bayrağı açan taraftarlara müdahale eden Gürcistan polisi, Türk taraftarlara biber gazı kullanarak saldırdı. Hakem Morten Krogh futbolcularla soyunma odasına giderken, yaklaşık 40 dakikalık duraksamanın ardından karşılaşma yeniden başladı.\n\nMaçın ardından İsrail basınına konuşan Hapoel Beer-Sheva Başkanı Alona Barkat, Beşiktaşlı futbolcuların kendileriyle tokalaşmadığını belirterek, \"Ömrümde böyle bir nefret görmedim\" dedi.\n\nÖte yandan UEFA, yaşanan olayları kınayarak soruşturma başlatıldığını duyurdu. Yapılan açıklamada şiddet, saldırganlık ve nefretin futbolda yeri olmadığı vurgulandı.",
+      "highlights": [
+        "Beşiktaşlı futbolcular maç öncesi Hapoel Beer-Sheva oyuncularıyla tokalaşmadı.",
+        "Gürcistan polisi tribünlerdeki Türk taraftarlara biber gazıyla saldırdı, maç yaklaşık 40 dakika durdu.",
+        "Hapoel Beer-Sheva Başkanı Alona Barkat, \"Ömrümde böyle bir nefret görmedim\" dedi."
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-besiktas-hapoel-beer-sheva-macinin-ardindan-israilden-ilk-aciklama-omrumde-boyle-nefret-gormedim-bizimle-tokalasmadilar-bile-7709769",
+      "publishedAt": "2026-11-28T07:51:25.000Z",
+      "category": "Spor",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/gundem/muglada-hava-sicakligi-1-dereceye-kadar-dusecek-antalya-mugla-hava-durumu-4877371",
       "headline": "Muğla'da hava sıcaklığı 1 dereceye kadar düşecek: Meteoroloji uyardı",
@@ -19,7 +43,8 @@
       "publishedAt": "2026-11-28T07:43:46.000Z",
       "category": "Yaşam",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T07:54:24.005Z"
     },
     {
       "id": "https://www.cnnturk.com/turkiye/hava-durumu-uyarisi-28-kasim-istanbulda-havalar-nasil-olacak-karla-karisik-yagmur-geliyor-3498989",
@@ -1749,7 +1774,7 @@
       "category": "Kültür & Sanat",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T17:54:36.907Z"
+      "sourceTextAttemptedAt": "2026-11-28T07:54:24.005Z"
     },
     {
       "id": "https://www.milliyet.com.tr/ekonomi/akkuyu-ve-dogal-gaz-masada-bakan-bayraktar-rusya-basbakan-yardimcisi-novak-ile-gorustu-7708775",
@@ -14335,31 +14360,6 @@
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/dunya/son-dakika-kartel-lideri-el-chapo-isidro-yakalandi-meksika-karisti-sokaklar-savas-alanina-dondu-7704965",
-      "headline": "Meksika'da Kartel Lideri El Chapo Isidro Yakalandı, Sokaklar Savaş Alanına Döndü",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1533957210292-115e3fe529d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cG9saWNlJTIwTWV4aWNvfGVufDF8MHx8fDE3OTUyNDc2NjJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Denisse Leon",
-        "photographerUrl": "https://unsplash.com/@denisseleon",
-        "unsplashUrl": "https://unsplash.com/photos/black-helicopter-bDc6uSftOm0"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Meksika Güvenlik Kabinesi kaynaklarına göre, Savunma Bakanlığı askerleri Guasave Karteli'nin lideri Fausto Isidro Meza Flores'i yakaladı. Hem Meksika'nın hem de ABD'nin arananlar listesinde yer alan kartel liderinin yakalanmasının ardından bölgede büyük bir çatışma çıktı. Örgüt üyeleri, liderlerinin kurtarılması için güvenlik güçlerine karşılık verirken bölgeye kara ve hava unsurları sevk edildi.\n\nLa Cronica de Hoy'un aktardığına göre, cuma akşamı saat 20.00 sıralarında Guasave ile Guamúchil arasındaki otoyolun kuzey çıkışında ve Benito Juárez Otoyolu'nda çok sayıda ağır araç ateşe verildi. Yaklaşık 300 bin nüfuslu Guasave'ye ulaşan federal karayolu yanan kamyonlarla kapatıldı. Sinaloa Kamu Güvenliği Sekreterliği saldırıları doğrularken, halka evlerinden çıkmama çağrısı yapıldı.\n\nYaşanan gerilim Kuroda Park'taki beyzbol maçına da sıçradı. Meksika Pasifik Ligi'nde Algodoneros ile Venados de Mazatlán karşılaşırken üçüncü bölümün başında silah ve patlama sesleri duyuldu. Oyuncular ve hakemler sahadan kaçarken, tribündeki kadın ve çocuklar yere kapandı ve maç yarıda kaldı.\n\nGuasave Karteli'nin merkezi olan Guasave, Sinaloa eyaletinin başkenti ve ülkenin uyuşturucu kaçakçılığı merkezlerinden Culiacán'a yaklaşık 150 kilometre mesafede bulunuyor. Güvenlik operasyonunun ardından ayrıntıların açıklanacağı duyuruldu ancak ilk açıklamalarda can kaybı, yaralanma veya tutuklama bilgisi paylaşılmadı.",
-      "highlights": [
-        "Guasave Karteli lideri Fausto Isidro Meza Flores yakalandı",
-        "Örgüt üyeleri tırları yakıp otoyolları kapatarak güvenlik güçlerine saldırdı",
-        "Silah sesleri nedeniyle Guasave'deki beyzbol maçı yarıda kaldı"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-kartel-lideri-el-chapo-isidro-yakalandi-meksika-karisti-sokaklar-savas-alanina-dondu-7704965",
-      "publishedAt": "2026-11-21T07:50:59.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T08:24:29.687Z",
-      "isBreaking": true
     }
   ],
   "rejectedIds": [
@@ -14590,6 +14590,7 @@
     "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
     "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss",
     "https://www.milliyet.com.tr/gundem/son-dakika-2027-butcesi-tbmmde-kabul-edildi-7709509",
-    "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
+    "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss"
   ]
 }
