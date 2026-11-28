@@ -1,6 +1,55 @@
 {
-  "generatedAt": "2026-11-27T19:04:31.980Z",
+  "generatedAt": "2026-11-28T00:41:34.928Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/video/turkiye/netflixte-sukran-gunu-rezilligi-3499012",
+      "headline": "Netflix’te Şükran Günü rezilliği",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b09f4f54e094da32235cf78.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/video/turkiye/netflixte-sukran-gunu-rezilligi-3499012"
+      },
+      "videoEmbedUrl": "https://www.cnnturk.com/video/embed/?vid=3499012",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:28.288Z",
+      "timeAgo": "7 dk önce",
+      "body": "Dijital platform Netflix, Şükran Günü vurgusuyla sanal medya hesabından bir paylaşım yaptı. Özellikle ABD ve Kanada'da hasada ve geçmiş yılın nimetlerine şükretmek için kutlanan ulusal bayramda yapılan bu paylaşım, gözleri dijital platformlardaki içerik sınırlarına çevirdi. Aile Günü anlamına da gelen bayramda paylaşılan müstehcen dizi sahnesi ve LGBT içerikli görüntüye Şükran Günü tabağı notunun düşülmesi geniş çaplı bir tartışma başlattı ve kısa sürede milyonlarca görüntülenmeye ulaştı.\n\nKonuya ilişkin CNN TÜRK'e değerlendirmelerde bulunan Adli Bilişim Uzmanı Prof. Dr. Ali Murat Kırık, kutsal bir günde bu tür müstehcen içeriklerin paylaşılmasının ve LGBT propagandasının yapılmasının kabul edilemez olduğunu belirtti. Kırık, iki kadının öpüşme sahnesinin sunulmasının dünyanın tepkisini çektiğini ifade etti.\n\nÇocukların ve gençlerin bu tarz platformlara yoğun ilgi göstermesinin büyük bir sorun ve tehdit oluşturduğunu vurgulayan Kırık, normal televizyon yayınlarında yer almayacak görüntülerin dijital platformlarda fütursuzca yayınlandığına dikkat çekti.\n\nAdli Bilişim Uzmanı Prof. Dr. Ali Murat Kırık, Radyo Televizyon Üst Kurulu'nun geleneksel yayın organlarını denetlediği gibi Netflix gibi dijital mecraları da denetlemesi gerektiğini belirtti. Kırık, buradaki içeriklerin yapay zeka destekli bir şekilde taranarak ivedilikle kataloglardan kaldırılması çağrısında bulundu.",
+      "highlights": [
+        "Netflix, Şükran Günü'nde sanal medyada müstehcen bir dizi sahn Христос",
+        "Prof. Dr. Ali Murat Kırık, içeriğin LGBT propagandasını normalize ettiğini belirtti",
+        "Uzmanlar, dijital platformların RTÜK tarafından denetlenmesi gerektiğini ifade etti"
+      ],
+      "externalUrl": "https://www.cnnturk.com/video/turkiye/netflixte-sukran-gunu-rezilligi-3499012",
+      "publishedAt": "2026-11-28T00:34:39.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345",
+      "headline": "Tayvan'da yakından takip edilen yerel seçimler için oy verme işlemleri başladı",
+      "source": "ABC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=abcnews.go.com",
+      "imageUrl": "https://images.unsplash.com/photo-1621584728858-616080e4bd01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VGFpd2FuJTIwZWxlY3Rpb258ZW58MXwwfHx8MTc5NTgyNjQ4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Timo Volz",
+        "photographerUrl": "https://unsplash.com/@magict1911",
+        "unsplashUrl": "https://unsplash.com/photos/high-rise-building-during-sunset-9-JFZIORoRw"
+      },
+      "timeAgo": "23 dk önce",
+      "body": "Associated Press'in aktardığı bilgilere göre, Tayvan genelinde yakından takip edilen yerel seçimler için sandıklar açıldı. Oy verme işlemleri 27 Kasım 2026 tarihinde, saat 09:44 AM itibarıyla başladı. Tayvan'ın başkenti Taipei'de ve ülke genelinde gerçekleştirilen bu yerel seçimler, kamuoyunun ve gözlemcilerin yakın takibinde bulunuyor. Seçimlerle ilgili olarak kaynak metinde başka bir detay, aday bilgisi veya sonuç yer almıyor.",
+      "highlights": [
+        "Tayvan genelinde yerel seçimler için sandıklar açıldı.",
+        "Oy verme işlemleri 27 Kasım 2026 tarihinde başladı."
+      ],
+      "externalUrl": "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345",
+      "publishedAt": "2026-11-28T00:18:40.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.cnnturk.com/magazin/kiyametten-sonra-filminin-konusu-nedir-kiyametten-sonra-filminin-oyunculari-kimler-3447342",
       "headline": "Kıyametten Sonra filminin konusu nedir? Kıyametten Sonra filminin oyuncuları kimler?",
@@ -15,15 +64,16 @@
       "timeAgo": "5 dk önce",
       "body": "Televizyon ekranlarında izleyicilerle buluşan Kıyametten Sonra filminin konusu ve oyuncu kadrosu merak ediliyor. Yapımın yönetmenliğini Frédéric Jardin üstlenirken, senaryosu Matt Alexander tarafından kaleme alındı. Film, bir ailenin okyanus ortasındaki dramatik hayatta kalma mücadelesini ekranlara taşıyor.\n\nHikayeye göre Julia ve kocası, oğullarının doğum gününü kutlamak amacıyla tekneleriyle denize açılıyor. Fakat bu sırada çıkan şiddetli fırtına teknelerini neredeyse alabora ediyor. Fırtınanın dinmesinin ardından aile, okyanusların çekildiği ve dünyanın büyük bir değişime uğradığı ıssız bir arazide kalıyor. Denizlerin kaybolmasıyla beraber okyanusun derinliklerinden aç ve tehlikeli yaratıklar ortaya çıkıyor.\n\nJulia, ailesini ve çocuklarını bu tehlikeli dünyada güvende tutabilmek için hem zorlu doğa şartları hem de yaratıklarla mücadele etmek durumunda kalıyor. Yapım, aile bağlarının gücünü ve hayatta kalma içgüdüsünü ele alan gerilim dolu bir macera sunuyor.\n\nKıyametten Sonra filminin oyuncu kadrosunda Émilie Dequenne (Julia), Andreas Pietschmann (Tom), Lisa Delamar (Cassie), Lucas Ebel (Ben) ile birlikte Arben Bajraktaraj ve Olivier Ho Hio Hen yer alıyor.",
       "highlights": [
-        "Kıyametten Sonra filminin yönetmenliğini Frédéric Jardin, senaryosunu ise Matt Alexander üstleniyor.",
-        "Film, bir ailenin okyanusun ortasındaki dramatik hayatta kalma hikayesini konu alıyor.",
-        "Filmin oyuncu kadrosunda Émilie Dequenne, Andreas Pietschmann, Lisa Delamar, Lucas Ebel, Arben Bajraktaraj ve Olivier Ho Hio Hen bulunuyor."
+        "Filmin yönetmenliğini Frédéric Jardin üstlenirken, senaryosunu Matt Alexander yazmıştır.",
+        "Hikaye, bir ailenin fırtına sonrası okyanusların çekildiği ıssız bir arazideki hayatta kalma mücadelesini anlatır.",
+        "Oyuncu kadrosunda Émilie Dequenne, Andreas Pietschmann, Lisa Delamar, Lucas Ebel, Arben Bajraktaraj ve Olivier Ho Hio Hen bulunmaktadır."
       ],
       "externalUrl": "https://www.cnnturk.com/magazin/kiyametten-sonra-filminin-konusu-nedir-kiyametten-sonra-filminin-oyunculari-kimler-3447342",
       "publishedAt": "2026-11-27T18:59:45.000Z",
       "category": "Kültür & Sanat",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://abcnews.com/International/wireStory/rapporteur-albanese-limbo-airport-after-denied-entry-costa-138484778",
@@ -159,7 +209,7 @@
         "sourceName": "CNN Türk",
         "sourceUrl": "https://www.cnnturk.com/video/finans-haberler/sermaye-piyasasi-kanunu-degisiyor-calisma-tamamlandi-iste-detaylar-3498954"
       },
-      "videoEmbedAttemptedAt": "2026-11-27T18:34:30.270Z",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
       "timeAgo": "şimdi",
       "body": "Fon piyasasında meydana gelen sorunların ardından sermaye piyasasını güçlendirmek amacıyla önemli bir adım atılıyor. Konuya ilişkin Sermaye Piyasası Kanunu'nda yapılması öngörülen değişikliklere dair çalışmaların tamamlandığı bildirildi. Hazırlanan yeni düzenlemenin yakın bir zamanda Meclis Başkanlığına sunulması bekleniyor.",
       "highlights": [
@@ -309,7 +359,7 @@
         "photographerUrl": "https://unsplash.com/@sammannfilms",
         "unsplashUrl": "https://unsplash.com/photos/people-in-a-white-boat-during-daytime-41eo5e8jW08"
       },
-      "videoEmbedAttemptedAt": "2026-11-27T17:54:24.180Z",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
       "timeAgo": "10 dk önce",
       "body": "İspanya Askeri Acil Durum Birimi, El Hierro adasına karaya çıkarılan göçmenleri tedavi etmek amacıyla bölgeye gönderildi. Kanarya Adaları'na yüzlerce göçmenin ulaşmasının ardından yetkililer harekete geçti. Göçmenlerin ada kıyılarına getirilmesiyle birlikte sağlık müdahaleleri ve yardım çalışmaları başlatıldı. İspanyol ekipler, sahile ulaşan kişilerin sağlık durumlarıyla ilgilenmek üzere sahada görev yapıyor.",
       "highlights": [
@@ -861,7 +911,7 @@
       "category": "Spor",
       "isBreaking": true,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-26T23:58:02.819Z"
+      "sourceTextAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
@@ -1947,7 +1997,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T23:23:43.112Z",
       "imageSearchAttemptedAt": "2026-11-26T16:14:22.334Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -2321,7 +2371,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T17:24:30.478Z",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.aljazeera.com/sports/liveblog/2026/11/25/sporting-lisbon-vs-manchester-united-live-uefa-champions-league?traffic_source=rss",
@@ -2667,7 +2717,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-26T16:14:22.334Z",
       "imageSearchAttemptedAt": "2026-11-27T07:29:26.140Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
       "videoCoverAttemptedAt": "2026-11-27T07:29:26.140Z"
     },
     {
@@ -3508,7 +3558,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-25T09:38:35.637Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.cnnturk.com/dunya/kolombiyada-silahli-saldiri-25-kisi-rehin-alindi-3497702",
@@ -3897,7 +3947,7 @@
       "isBreaking": false,
       "lang": "tr",
       "imageSearchAttemptedAt": "2026-11-25T17:24:30.478Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -3980,7 +4030,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.france24.com/en/senegal-reinstated-as-afcon-2025-winners",
@@ -4086,7 +4136,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
@@ -4209,7 +4259,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
-      "imageSearchAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "imageSearchAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss",
@@ -4232,7 +4282,7 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T20:34:26.073Z",
       "imageSearchAttemptedAt": "2026-11-26T17:54:36.907Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z",
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z",
       "videoCoverAttemptedAt": "2026-11-26T16:44:34.103Z"
     },
     {
@@ -4762,7 +4812,7 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T18:14:22.342Z",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/abdden-dev-sanayi-hamlesi-pentagon-iha-uretimi-icin-otomotiv-devleriyle-masada-3497553",
@@ -4858,7 +4908,7 @@
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr",
-      "videoEmbedAttemptedAt": "2026-11-27T16:34:59.262Z"
+      "videoEmbedAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.cnnturk.com/video/dunya/ingiliz-basinindan-antalyaya-ovgu-the-telegraph-subatta-gidin-ve-kazak-giymeyin-3497633",
@@ -5732,7 +5782,7 @@
       "isBreaking": true,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-24T14:24:28.927Z",
-      "imageSearchAttemptedAt": "2026-11-27T16:44:59.100Z"
+      "imageSearchAttemptedAt": "2026-11-28T00:41:26.466Z"
     },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/bekcilik-basvuru-takvimi-egm-son-aciklamalar-2026-bekcilik-alimi-duyurusu-yayimlandi-mi-ne-zaman-yapilacak-4853214",
@@ -14361,178 +14411,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T06:34:20.859Z",
       "isBreaking": true
-    },
-    {
-      "id": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "headline": "ABD'li yasa koyucular Çin ihracat kısıtlamalarının ardından daha sert yapay zeka çipi kuralları talep ediyor",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1697577418970-95d99b5a55cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8QUklMjBtaWNyb2NoaXB8ZW58MXwwfHx8MTc5NTIxMzM0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Igor Omilaev",
-        "photographerUrl": "https://unsplash.com/@omilaev",
-        "unsplashUrl": "https://unsplash.com/photos/a-computer-chip-with-the-letter-a-on-top-of-it-eGGFZ5X2LnA"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Washington yönetimi, gelişmiş ABD yapay zeka çiplerine uzaktan erişimi kısıtlayan yeni kurallar yürürlüğe koydu. Ancak ABD'li yasa vericiler mevcut düzenlemelerin ötesine geçilmesini istiyor.\n\nSöz konusu adımlar, Çin'e yönelik ihracat denetimleri ve kısıtlamaları kapsamında atılıyor. Yeni kurallar, gelişmiş teknoloji ürünlerinin uzaktan kullanımını sınırlamayı hedefliyor.\n\nYetkililer ve yasa koyucular arasındaki tartışmalar, ihracat denetimlerinin kapsamının genişletilmesi yönünde ilerliyor. Mevcut kısıtlamalara rağmen ek önlemlerin alınması yönündeki baskılar sürdürülüyor.",
-      "highlights": [
-        "Washington gelişmiş ABD yapay zeka çiplerine uzaktan erişimi kısıtlayan yeni kurallar getirdi",
-        "Yasa koyucular mevcut kurallardan daha fazlasını istiyor",
-        "Süreç Çin'e yönelik ihracat kısıtlamaları çerçevesinde yürütülüyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
-      "publishedAt": "2026-11-20T22:15:07.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T03:18:38.636Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/dunya/son-dakika-trump-cin-donusu-konustu-irana-anlasma-mesaji-fede-sert-tepki-3495949",
-      "headline": "Trump Çin dönüşü konuştu: İran'a anlaşma mesajı, Fed'e faiz eleştirisi",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1550531996-ff3dcede9477?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RG9uYWxkJTIwVHJ1bXB8ZW58MXwwfHx8MTc5NTIxMzM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "History in HD",
-        "photographerUrl": "https://unsplash.com/@historyhd",
-        "unsplashUrl": "https://unsplash.com/photos/donald-trump-beside-man-in-black-suit-cTz5-T7voqQ"
-      },
-      "timeAgo": "12 dk önce",
-      "body": "ABD Başkanı Donald Trump, Çin'deki zirvelerin ardından düzenlediği ilk basın toplantısında İran, küresel ticaret, enerji piyasaları, ABD ekonomisi ve Merkez Bankası'nın politikalarına ilişkin değerlendirmelerde bulundu. Çin ve Rusya ile gerçekleştirilen temasların önemine vurgu yapan Trump, dört gün içerisinde dört büyük uluslararası zirveye katıldıklarını ve bu görüşmelerden hem Çin ile Rusya'nın hem de kendisinin etkilendiğini ifade etti.\n\nİran ile yaşanan gerilime de değinen Trump, Tahran yönetiminin ABD ile anlaşma yapmak istediğini ancak henüz kendi kabul edebileceği bir teklif sunmadığını belirtti. Enerji piyasalarındaki son duruma ilişkin ham petrol fiyatlarının ekim başından bu yana yüzde 20 gerileyerek varil başına 80 dolara düştüğünü aktaran Trump, ABD'deki akaryakıt fiyatlarının da geçen aya kıyasla 60 sent azaldığını kaydetti.\n\nABD ekonomisinin performansına dair veriler paylaşan Trump, son 10 ayda üretim kapasitesinin yüzde 21 oranında arttığını, göreve geldiğinden bu yana 25 trilyon dolarlık kazanım sağlandığını, seçimden bu yana ise 4 trilyonluk kayıp yaşandığını öne sürdü. Ayrıca yoksullukta tarihi bir düşüş görüldüğünü ve ülkenin borçlarının hızlı şekilde ödeneceğini belirtti.\n\nKonuşmasında ABD Merkez Bankası'nı (Fed) da hedef alan Trump, kurumun yüksek faiz politikalarını eleştirerek Fed'in siyasi kararlar aldığını savundu. Öte yandan Nvidia'nın görevden ayrılan CEO'su Jensen Huang'a ikinci bir şans verilmesi gerektiğini söyleyen Trump, televizyon, dizi ve sinema sektörünü desteklemek amacıyla adımlar atacaklarını dile getirdi.",
-      "highlights": [
-        "İran'ın anlaşmak istediğini ancak kabul edilebilir bir teklif sunmadığını söyledi.",
-        "Fed'i yüksek faiz politikası nedeniyle siyasi davranmakla suçladı.",
-        "Ham petrol fiyatlarının yüzde 20 düşerek 80 dolara gerilediğini belirtti."
-      ],
-      "externalUrl": "https://www.cnnturk.com/dunya/son-dakika-trump-cin-donusu-konustu-irana-anlasma-mesaji-fede-sert-tepki-3495949",
-      "publishedAt": "2026-11-20T22:10:33.000Z",
-      "category": "Ekonomi",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/gundem/son-dakika-fon-sorusturmasi-yakalama-karari-bulunan-serdar-altinbas-cekyada-yakalandi-7704784",
-      "headline": "Fon soruşturmasında aranan Serdar Altınbaş Çekya'da yakalandı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1592348283512-f40aef178d24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8cG9saWNlJTIwYXJyZXN0fGVufDF8MHx8fDE3OTUxMTAzNDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Charlie Fair",
-        "photographerUrl": "https://unsplash.com/@bycharlieco",
-        "unsplashUrl": "https://unsplash.com/photos/man-in-black-and-white-uniform-standing-near-woman-in-black-jacket-FH3nsl6pvL4"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Sermaye Piyasası Kanuna Muhalefet ve Suçtan Kaynaklanan Mal Varlığı Değerlerini Aklama suçlarından difüzyonla uluslararası seviyede aranan Serdar Altınbaş, Çekya'da yakalandı.\n\nEmniyet Genel Müdürlüğü Interpol Europol Daire Başkanlığı, İstanbul Cumhuriyet Başsavcılığı ve Adalet Bakanlığı koordinesinde yürütülen çalışmalar neticesinde şahsın Çekya'da yakalanması sağlandı.\n\nYetkililer tarafından Serdar Altınbaş'ın iade işlemlerinin derhal başlatıldığı bildirildi.",
-      "highlights": [
-        "Serdar Altınbaş Çekya'da yakalandı",
-        "Türkiye'ye iadesine yönelik işlemler başlatıldı",
-        "Hakkında Sermaye Piyasası Kanunu'na muhalefet ve suçtan kaynaklanan mal varlığı değerlerini aklama suçlarından arama kaydı bulunuyordu"
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/gundem/son-dakika-fon-sorusturmasi-yakalama-karari-bulunan-serdar-altinbas-cekyada-yakalandi-7704784",
-      "publishedAt": "2026-11-20T19:32:12.000Z",
-      "category": "Son Dakika",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-20T22:22:24.435Z",
-      "isBreaking": true
-    },
-    {
-      "id": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "headline": "ABD'de Sikh ayrılıkçı lideri öldürme planından mahkum olan Hintli adama 19 yıldan fazla hapis cezası verildi",
-      "source": "BBC News",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1753787320279-e501f1a6ae16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8Y291cnRyb29tJTIwc2tldGNofGVufDF8MHx8fDE3OTUxOTk2NTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "The New York Public Library",
-        "photographerUrl": "https://unsplash.com/@nypl",
-        "unsplashUrl": "https://unsplash.com/photos/architectural-drawing-of-a-grand-hall-with-tiered-seating-fg8d6EiV790"
-      },
-      "timeAgo": "7 dk önce",
-      "body": "Amerikalı bir federal yargıç, Amerika Birleşik Devletleri'nde yaşayan önde gelen bir Sikh siyasi figürüne yönelik başarısız suikast planıyla ilgili olarak bir Hintli erkeği 235 ay, yani 19 yıldan uzun bir süre hapis cezasına çarptırdı. Hint vatandaşı olan Nikhil Gupta, şubat ayında kiralık katil tutma, kiralık katil tutmak için komplo kurma ve kara para aklamak için komplo kurma suçlamalarını kabul etmişti. Yargıç, cuma günü yaptığı açıklamada Gupta'nın cezasının ardından muhtemelen sınır dışı edileceğini veya uzaklaştırılacağını belirtti.\n\nABD'li savcılar, Gupta'nın Hindistan'ın kuzeyinde egemen bir Sikh devleti kurulmasını savunan Halistan hareketinin önde gelen isimlerinden Gurpatwant Singh Pannun'u öldürmesi için bir Hint hükümet yetkilisi tarafından yönlendirildiğini iddia etti. Hindistan ise iddiaya karışmadığını reddederken, hükümeti Pannun'u terörist olmakla suçluyor. Pannun ise bu suçlamayı reddediyor. Hindistan'da 2019'dan beri yasaklı olan Sikhs for Justice grubunun sözcülüğünü yürüten ve ABD vatandaşı olan Pannun, daha önce BBC'ye yaptığı açıklamada Gupta'nın suçunu kabul etmesinin Hindistan'ın Modi hükümetinin Amerikan topraklarında suikast planı düzenlediğinin yargı yoluyla tescili olduğunu ifade etmişti.\n\nSavcılık makamları, Mayıs 2023'te bir Hint istihbarat görevlisi olan Vikash Yadav'ın Pannun'a suikast düzenlemesi için Gupta'yı işe aldığını bildirdi. Yadav'ın Gupta'ya Pannun'un New York'taki adresi dahil kişisel bilgilerini ve günlük faaliyetlerini ilettiği kaydedildi. Talimatlar doğrultusunda suikastı kolaylaştırmak için biriyle temasa geçen Gupta'nın konuştuğu kişinin aslında bir ABD hükümeti muhbiri olduğu, bu kişinin de Gupta'yı Uyuşturucu Enforcement Administration bünyesinde gizli görev yapan bir memurla tanıştırdığı aktarıldı.\n\nHaziran 2023'te Çekya'nın Prag kentindeki bir havalimanında tutuklanan Gupta, ABD'ye iade edilerek Manhattan mahkemesindeki cuma günkü karar duruşmasına kadar New York'taki bir cezaevinde tutuldu. Olayla ilgili olarak dönemin ABD savcısı Jay Clayton, Gupta'nın ifade özgürlüğünü kullandığı için birini öldürebileceğini sandığını belirtti. Hindistan Dışişleri Bakanlığı sözcüsü ise Gupta'nın tutuklanmasının ardından Yadav'ın artık Hint hükümetinde çalışmadığını ve ABD'nin dile getirdiği güvenlik kaygılarını ele almak üzere bir soruşturma komitesi kurulduğunu açıklamıştı. Gupta'nın davası, Kanada'da Britanya Kolumbiyası'nda 2023 yılında bir Sikh ayrılıkçı liderin öldürüldüğü ve Hindistan ile Kanada arasında gerilime yol açan ayrı bir olaya yönelik incelemeleri de artırmıştı.",
-      "highlights": [
-        "Federal bir yargıç, Hintli Nikhil Gupta'yı Pannun'a suikast planından 235 ay hapis cezasına çarptırdı.",
-        "Nikhil Gupta şubat ayında kiralık katil tutma ve ilgili suçlamaları kabul etmişti.",
-        "Hindistan olayla ilgisi olduğunu reddetti."
-      ],
-      "externalUrl": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-20T19:27:49.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/spor/futbol/al-ahli-al-nassr-maci-hangi-kanalda-al-ahli-al-nassr-maci-saat-kacta-nereden-izlenir-3495933",
-      "headline": "Al Ahli-Al Nassr maçı hangi kanalda? Al Ahli-Al Nassr maçı saat kaçta, nereden izlenir?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1434648957308-5e6a859697e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8c29jY2VyJTIwbWF0Y2h8ZW58MXwwfHx8MTc5NTIwMjY2N3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Fancy Crave",
-        "photographerUrl": "https://unsplash.com/@fancycrave",
-        "unsplashUrl": "https://unsplash.com/photos/people-watching-soccer-arena-qowyMze7jqg"
-      },
-      "timeAgo": "1 dk önce",
-      "body": "Suudi Arabistan Pro Lig'de 9. haftadan ertelenen karşılaşmada Al Ahli ile Al Nassr karşı karşıya geliyor. Cristiano Ronaldo'nun formasını giydiği Al Nassr, zirve yarışında deplasmana çıkarken, Cidde temsilcisi Al Ahli taraftarı önünde galibiyet hedefliyor.\n\nAl Ahli ile Al Nassr arasındaki erteleme maçı, 20 Kasım 2026 Cuma günü saat 20.30'da başlayacak. Mücadele, Türkiye'de HT Spor ve S Sport Plus ekranlarından canlı olarak yayınlanacak. Futbolseverler karşılaşmayı HT Spor üzerinden şifresiz ya da S Sport Plus platformundan takip edebilecek.\n\nAl Nassr'ın Portekizli futbolcusu Cristiano Ronaldo, bu sezon Suudi Arabistan Pro Lig'de çıktığı 10 maçta 7 gol attı. 41 yaşındaki oyuncu, Al Ahli maçı öncesinde kariyerinde toplam 985 gole ulaştı. Ronaldo'nun bin gol hedefine ilerleyişi, bu sezon Al Nassr maçlarının öne çıkan başlıkları arasında bulunuyor.",
-      "highlights": [
-        "Al Ahli ile Al Nassr erteleme maçında karşı karşıya geliyor.",
-        "Karşılaşma 20 Kasım 2026 Cuma günü saat 20.30'da başlayacak ve HT Spor ile S Sport Plus'tan yayınlanacak.",
-        "Cristiano Ronaldo'nun kariyerinde 985 golü bulunuyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/spor/futbol/al-ahli-al-nassr-maci-hangi-kanalda-al-ahli-al-nassr-maci-saat-kacta-nereden-izlenir-3495933",
-      "publishedAt": "2026-11-20T19:23:22.000Z",
-      "category": "Spor",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T19:34:19.157Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/turkiye/21-kisinin-oldugu-kircuval-oteli-davasinda-karar-8-saniga-hapis-cezasi-3495932",
-      "headline": "21 kişinin öldüğü Kırçuval Oteli davasında karar! 8 sanığa hapis cezası",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1706988056350-d112eabb6835?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NHx8Y291cnRyb29tJTIwdHJpYWx8ZW58MXwwfHx8MTc5NTIwMjA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Alin Andersen",
-        "photographerUrl": "https://unsplash.com/@onixion",
-        "unsplashUrl": "https://unsplash.com/photos/a-large-room-with-chairs-and-a-chandelier-RPU3Ssj1tVs"
-      },
-      "timeAgo": "şimdi",
-      "body": "Kahramanmaraş merkezli 6 Şubat 2023 depremlerinde Malatya'da yıkılan ve aralarında sporcuların da bulunduğu 21 kişinin hayatını kaybettiği Kırçuval Oteli'ne ilişkin davada karar açıklandı. Malatya 5'inci Ağır Ceza Mahkemesi'nde görülen duruşmada, aralarında eski Battalgazi Belediye Başkan Yardımcısı ve otel sahibi Zafer Kırçuval'ın da yer aldığı 11 sanık hakkında hüküm verildi.\n\nYapılan yargılama sonucunda mahkeme, 8 sanığı hapis cezasına çarptırırken, 3 sanığın beraatine hükmetti. Sanıkların tutuklanması yönündeki talepler ise kabul edilmedi.\n\nMahkemenin açıkladığı karara göre Saffet Kırçuval ile Zafer Kırçuval 8 yıl 4 ay hapis cezası alırken; Fatma Altaş ve Serpil Yoloğlu 12 yıl 2 ay 20 gün hapis ve 6 yıl 3 ay meslekten men cezasına çarptırıldı. Hayriye Doğan'a 14 yıl 2 ay hapis ve 7 yıl 7 ay meslekten men cezası verilirken; Mustafa Bingöl, Mustafa Hakan Büker ve Alper Yiğit 11 yıl 1 ay 10'ar gün hapis cezası aldı. Alper Yiğit ayrıca 5 yıl 2 ay meslekten men cezasına çarptırıldı. Aziz Murat Palancı, Fırat Palancı ve İsmail Y. ise beraat etti.\n\nDepremde oğlunu kaybeden Zeliha Ağırbaş, karara tepki göstererek adalet mücadelesi verdiklerini belirtti. Müşteki avukatlarından Çağrı Sarıoğlu ise sanıkların tutuklanması taleplerinin reddedildiğini ve beraat kararları ile verilen hükümlere karşı istinafa başvuracaklarını açıkladı.",
-      "highlights": [
-        "Kırçuval Oteli davasında 11 sanıktan 8'ine hapis cezası verildi, 3 sanık beraat etti.",
-        "Enkaz altında kalanlar arasında 6 voleybolcu ile 4 ampute sporcu da bulunuyordu.",
-        "Müşteki avukatları kararı istinafa taşıyacaklarını açıkladı."
-      ],
-      "externalUrl": "https://www.cnnturk.com/turkiye/21-kisinin-oldugu-kircuval-oteli-davasinda-karar-8-saniga-hapis-cezasi-3495932",
-      "publishedAt": "2026-11-20T19:19:19.000Z",
-      "category": "Yaşam",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.cnnturk.com/magazin/buz-devri-5-filmi-konusu-nedir-buz-devri-5-kimler-seslendiriyor-3495930",
-      "headline": "Buz Devri 5 filmi konusu nedir? Buz Devri 5 kimler seslendiriyor?",
-      "source": "CNN Türk",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
-      "imageUrl": "https://images.unsplash.com/photo-1508311526572-9cb64df0956a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8SWNlJTIwQWdlJTIwbW92aWV8ZW58MXwwfHx8MTc5NTIwMTQ3MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Thom Milkovic",
-        "photographerUrl": "https://unsplash.com/@thommilkovic",
-        "unsplashUrl": "https://unsplash.com/photos/brown-natural-arch-under-clear-sky-XXuNnB17utY"
-      },
-      "timeAgo": "şimdi",
-      "body": "Büyük ve küçük birçok kişinin ilgiyle izlediği Buz Devri 5, televizyon ekranlarında izleyiciyle buluşuyor. Sevilen animasyon serisinin beşinci filmi, ekranlardaki yerini almasının ardından izleyicilerin merak konusu oldu. Yönetmenliğini Carlos Saldanha'nın üstlendiği yapım, tahmini 80 milyon dolarlık bütçesine karşılık 660 milyon 998 bin 756 dolar gişe hasılatı elde etti. Bu sonuçla film, animasyon filmleri arasında dünya listesinde 27. sıraya yerleşti.\n\nFilmin konusu ise meşe palamudu delisi firavun faresi Scrat'ın karnını doyurmaya çalışırken kozmik olayları tetiklemesiyle başlıyor. Yaşanan bu gelişmeler, serinin sevilen kahramanlarının dünyasına kadar uzanıyor ve dünya bir kez daha yok olma tehlikesiyle karşı karşıya kalıyor. Bu kez dünyaya çarpabilecek hızda bir meteor yörüngeye yaklaşmaktadır.\n\nİzleyiciler tarafından seslendirme kadrosu da merak ediliyor. Filmde rol alan ve karakterleri seslendiren isimler arasında Carlos Saldanha (Dodo), John Leguizamo (Sid), Chris Wedge (Scrat), Ray Romano (Manfred), Queen Latifah (Ellie), Denis Leary (Diego), Josh Peck (Eddie) ve Seann William Scott (Crash) yer alıyor.",
-      "highlights": [
-        "Buz Devri 5 filminin yönetmenliğini Carlos Saldanha üstleniyor.",
-        "Scrat'ın tetiklediği olaylar sonucu bir meteor dünyaya yaklaşarak tehlike yaratıyor.",
-        "Seslendirme kadrosunda John Leguizamo, Ray Romano ve Queen Latifah gibi isimler bulunuyor."
-      ],
-      "externalUrl": "https://www.cnnturk.com/magazin/buz-devri-5-filmi-konusu-nedir-buz-devri-5-kimler-seslendiriyor-3495930",
-      "publishedAt": "2026-11-20T19:06:16.000Z",
-      "category": "Kültür & Sanat",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T19:24:27.020Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
