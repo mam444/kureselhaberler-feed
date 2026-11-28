@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T08:14:26.247Z",
+  "generatedAt": "2026-11-28T08:24:45.841Z",
   "articles": [
+    {
+      "id": "https://www.ntv.com.tr/turkiye/galeri-antalyadan-vatikana-mektup-papadan-zinciri-istedi-1752960",
+      "headline": "Antalya'dan Vatikan'a mektup: Papa'dan zinciri istedi",
+      "source": "NTV",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=ntv.com.tr",
+      "imageUrl": "https://images.ntv.com.tr/images/antalya-mektup-117410.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "NTV",
+        "sourceUrl": "https://www.ntv.com.tr/turkiye/galeri-antalyadan-vatikana-mektup-papadan-zinciri-istedi-1752960"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Antalya'da yüzyıllar boyunca limanı düşman saldırılarından koruyan ve 1472 yılında Haçlı donanması tarafından Vatikan'a götürülen tarihi zincirin iadesi için Papa'ya mektup yazıldı. Su Altı Tarih Araştırmacısı Mustafa Aydemir, 1453 yılında İstanbul'un fethinin ardından Avrupa'da büyük bir donanma oluşturulduğunu, Fatih Sultan Mehmet'in Uzun Hasan seferinin fırsat bilinerek 133 parçalık Haçlı donanmasının ilk olarak Antalya'ya saldırdığını aktardı.\n\nAydemir'in verdiği bilgilere göre, Venedikli amiral Mocenigo'nun komuta ettiği donanmada 70 Venedik, 17 Napoli, 22 Rodos, 5 Kıbrıs ve 19 Papalık gemisi yer aldı. Antalya'nın ardından İzmir'e yönelen donanma İzmir'i yağmalarken, Antalya'da kenti ele geçiremedi. Papalığa ait Kardinal Carafa komutasındaki gemiler, 1472 yılında limanı koruyan zinciri kırarak içeri girmesine rağmen sabahtan akşama kadar süren kanlı savaşta Antalyalılar karşısında kaybetti ve kaleleri geçemedi.\n\nSaldırı sırasında kırılan zincir savaş ganimeti olarak Papa'ya hatıra sunuldu ve Vatikan'ın duvarına astırılarak bir mermer kitabeye yazdırıldı. Önceki yıllarda eski Antalya Müzesi Müdürü Kayhan Dörtlük'ün Vatikan'da izini sürdüğü zinciri görmek ve fotoğraflamak istediği, ancak izin verilmemesi üzerine ısrarla duvarda çekilmiş fotoğrafının sunulduğu belirtildi.\n\nTarihi zincirin Antalya'ya geri getirilmesi için resmi yollar üzerinden Papa'ya mektup yazdığını belirten Mustafa Aydemir, zincirin iki ülkenin dostluğu adına ait olduğu yere verileceğine inandığını ifade etti. Antalya'da önümüzdeki yıl kurulması planlanan büyük denizcilik müzesinde sergilenmesi istenen zincirin, sadece bir eşya değil Antalya'nın derin denizcilik tarihi anlamına geldiği vurgulandı.",
+      "highlights": [
+        "1472 yılında Haçlı donanması tarafından Vatikan'a götürülen Antalya liman zincirinin iadesi için Papa'ya mektup yazıldı.",
+        "Kardinal Carafa komutasındaki donanma zinciri kırarak limana girdi ancak kenti zapt edemedi.",
+        "Tarihi zincirin, Antalya'da kurulması planlanan denizcilik müzesinde sergilenmesi isteniyor."
+      ],
+      "externalUrl": "https://www.ntv.com.tr/turkiye/galeri-antalyadan-vatikana-mektup-papadan-zinciri-istedi-1752960",
+      "publishedAt": "2026-11-28T08:20:45.000Z",
+      "category": "Türkiye",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.aa.com.tr/tr/ekonomi/turk-coraplarinin-ihracat-rotasinda-avrupa-ulkeleri-ve-abd-yer-aldi/4141195",
       "headline": "Türk çoraplarının ihracat rotasında Avrupa ülkeleri ve ABD yer aldı",
@@ -22,7 +46,8 @@
       "publishedAt": "2026-11-28T08:11:14.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:24:36.181Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/kucukcekmecedeki-kundaklamada-olu-sayisi-3e-yukseldi-siginak-11-odali-apart-otele-donusturulmus-7709779",
@@ -510,6 +535,30 @@
       ],
       "externalUrl": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
       "publishedAt": "2026-11-28T04:57:32.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:24:36.181Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
+      "headline": "BM genel sekreteri adayı Rebeca Grynspan'a Albanese'in gözaltına alınması konusunda çağrı yapıldı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1590274853856-f22d5ee3d228?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VW5pdGVkJTIwTmF0aW9uc3xlbnwxfDB8fHwxNzk1ODU0Mjc3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Mathias Reding",
+        "photographerUrl": "https://unsplash.com/@matreding",
+        "unsplashUrl": "https://unsplash.com/photos/flags-on-green-grass-field-near-brown-concrete-building-during-daytime-yfXhqAW5X0c"
+      },
+      "timeAgo": "4 sa önce",
+      "body": "Birleşmiş Milletler'in son ön oylamasında önde gelen isim olan Kosta Rikalı aday Rebeca Grynspan, Albanese'in gözaltına alınması meselesiyle karşı karşıya bulunuyor. Grynspan'ın bu duruma yönelik bir açıklama yapması yönünde çağrıda bulunuldu. Albanese'in gözaltına alınması olayı, son dönemde BM liderlik yarışında öne çıkan Grynspan açısından önemli bir test niteliği taşıyor. Sürece dair gelişmeler ve adayların bu konudaki tutumları uluslararası kamuoyunda takip ediliyor.",
+      "highlights": [
+        "Albanese'nin gözaltına alınması Kosta Rikalı aday Rebeca Grynspan için bir test oluşturuyor",
+        "Grynspan BM'nin son ön oylamasında lider konumda yer alıyor"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/28/un-chief-frontrunner-urged-to-speak-out-over-albanese-detention-2?traffic_source=rss",
+      "publishedAt": "2026-11-28T04:46:16.000Z",
       "category": "Dünya",
       "isBreaking": false,
       "lang": "tr"
@@ -14308,31 +14357,6 @@
       "sourceTextAttemptedAt": "2026-11-21T09:34:25.162Z",
       "isBreaking": false,
       "videoEmbedAttemptedAt": "2026-11-28T06:34:26.079Z"
-    },
-    {
-      "id": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
-      "headline": "Bizans'tan günümüze uzanan su mirası: Zeyrek Sarnıcı ve Zeyrek Çinili Hamam",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1605988743975-c9c5b8550a91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8aGlzdG9yaWMlMjBjaXN0ZXJuJTIwYmF0aCUyMElzdGFuYnVsfGVufDF8MHx8fDE3OTUyNDk0Njd8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Fatmanur Şimşek",
-        "photographerUrl": "https://unsplash.com/@fatmanursimsek",
-        "unsplashUrl": "https://unsplash.com/photos/people-walking-on-sidewalk-near-brown-concrete-building-during-daytime-VcRIZH1dUoo"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "İstanbul'un su ihtiyacını karşılamak amacıyla Bizans döneminde inşa edilen Zeyrek Sarnıcı, mimarisi ve tarihi katmanlarıyla geçmişin izlerini bugüne ulaştırıyor. Yapı, dönemin su ihtiyacını karşılayan özellikleriyle dikkat çekiyor.\n\nOsmanlı döneminde inşa edilen Zeyrek Çinili Hamamı ise duvarlarında yer alan gemi grafitileriyle öne çıkıyor. Bu grafitiler, yapının en dikkat çekici detayları arasında bulunuyor.\n\nSanat tarihçisi Hayri Fehmi Yılmaz, bu iki tarihi yapıya dair soruları yanıtladı. Açıklamalarda Zeyrek Sarnıcı'nın Bizans, Zeyrek Çinili Hamamı'nın ise Osmanlı dönemine ait olduğu vurgulandı.",
-      "highlights": [
-        "Zeyrek Sarnıcı, İstanbul'un su ihtiyacını karşılamak için Bizans döneminde inşa edildi.",
-        "Osmanlı dönemine ait Zeyrek Çinili Hamamı'nın duvarlarında gemi grafitileri bulunuyor.",
-        "Sanat tarihçisi Hayri Fehmi Yılmaz, iki yapı hakkındaki soruları yanıtladı."
-      ],
-      "externalUrl": "https://www.yenisafak.com/galeri/gundem/zeyrek-sarnici-ve-zeyrek-cinili-hamamindaki-tarihi-izler-4875112",
-      "publishedAt": "2026-11-21T08:20:49.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T08:34:25.215Z",
-      "isBreaking": false
     }
   ],
   "rejectedIds": [
