@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-28T10:24:25.649Z",
+  "generatedAt": "2026-11-28T10:34:27.331Z",
   "articles": [
+    {
+      "id": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
+      "headline": "Göçmenlik, İspanya'daki erken seçimin temel gündem maddesi",
+      "source": "France 24",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
+      "imageUrl": "https://s.france24.com/media/display/2bd6c066-eb16-11f1-b012-f9cf020caef6/w:1024/p:16x9/2026-11-27T202624Z-1130337193-RC2JWOAD7O7N-RTRMADP-3-MIGRATION-SPAIN-CANARY-ISLANDS.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "France 24",
+        "sourceUrl": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election"
+      },
+      "timeAgo": "4 dk önce",
+      "body": "Göçmenlik meselesi, Pazar günü yapılacak İspanya'daki erken seçimin kilit konularından biri olarak öne çıkıyor. Vox partisi, seçim kampanyasını doğrudan göçmenlik üzerine odakladı.\n\nSöz konusu politika tartışmaları, temmuz ayında Fas'tan İspanya'nın Kuzey Afrika'daki şehri Ceuta'ya on binlerce göçmenin akın etmesinin ardından siyaset sahnesinde baskın bir hale geldi.",
+      "highlights": [
+        "Göçmenlik, İspanya'daki erken seçimin kilit konularından biri oldu",
+        "Vox partisi kampanyasını göçmenlik üzerine odakladı",
+        "Temmuz ayında on binlerce göçmen Fas'tan Ceuta'ya akın etti"
+      ],
+      "externalUrl": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
+      "publishedAt": "2026-11-28T10:30:47.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818",
+      "headline": "Sarıgül soruşturmasında Özgür Özel'e fezleke",
+      "source": "Habertürk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=haberturk.com",
+      "imageUrl": "https://im.haberturk.com/l/2026/11/28/ver1795861265/3930818/jpg/1920x1080",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Habertürk",
+        "sourceUrl": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818"
+      },
+      "timeAgo": "12 dk önce",
+      "body": "İstanbul Cumhuriyet Başsavcılığı, Mustafa Sarıgül hakkında yürütülen suç örgütü soruşturmasında adı geçen isimlerle ilgili yeni bir adım attı. Yürütülen soruşturma kapsamında, YENİ Parti Genel Başkanı Özgür Özel ile birlikte Veli Ağbaba, Umut Akdoğan, Burhanettin Bulut ve Gökhan Zeybek hakkında dosya hazırlandı.\n\nBaşsavcılık, belirtilen 5 isimle ilgili dosyanın fezleke düzenlenmesi amacıyla Ankara Cumhuriyet Başsavcılığı'na gönderildiğini bildirdi. Gelişme, soruşturma sürecinde adli makamlarca yürütülen işlemler arasında yer aldı.",
+      "highlights": [
+        "İstanbul Cumhuriyet Başsavcılığı dosyayı Ankara'ya gönderdi.",
+        "Fezleke düzenlenmesi istenen isimler arasında Özgür Özel de yer alıyor.",
+        "Soruşturma Mustafa Sarıgül hakkındaki suç örgütü iddiasıyla yürütülüyor."
+      ],
+      "externalUrl": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818",
+      "publishedAt": "2026-11-28T10:22:10.000Z",
+      "category": "Gündem",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-zigana-daginda-yamactan-kopan-dev-kayalar-yolu-kapatti-7709845",
       "headline": "Facianın eşiğinden dönüldü! Zigana Dağı’nda yamaçtan kopan dev kayalar yolu kapattı",
@@ -19,7 +67,8 @@
       "publishedAt": "2026-11-28T10:19:38.000Z",
       "category": "Son Dakika",
       "isBreaking": true,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:34:23.795Z"
     },
     {
       "id": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
@@ -43,7 +92,8 @@
       "publishedAt": "2026-11-28T10:14:37.000Z",
       "category": "Eğitim",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:34:23.795Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/son-dakika-mustafa-sarigul-dosyasi-ozgur-ozel-ve-4-isme-iliskin-dosya-ankara-cumhuriyet-bassavciliginda-7709840",
@@ -14264,81 +14314,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
       "imageSearchAttemptedAt": "2026-11-24T21:32:28.256Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
-      "headline": "AB Lideri Ursula von der Leyen'den Danimarka'daki Suikast Girişimine Sert Tepki",
-      "source": "France 24",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=france24.com",
-      "imageUrl": "https://images.unsplash.com/photo-1553522622-dbbcea69d15f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8VXJzdWxhJTIwdm9uJTIwZGVyJTIwTGV5ZW58ZW58MXwwfHx8MTc5NTI1NzI2MXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tolga Ahmetler",
-        "photographerUrl": "https://unsplash.com/@t_ahmetler",
-        "unsplashUrl": "https://unsplash.com/photos/woman-fishing-on-bridge-during-daytime-ae3HsYShHPc"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Avrupa Komisyonu Başkanı Ursula von der Leyen, Danimarka'da bir ABD-Ukrayna vatandaşını hedef alan ve Rus istihbarat servisleri tarafından tasarlandığı iddia edilen suikast girişimini şiddetle kınadı.\n\nCumartesi günü yaptığı açıklamada von der Leyen, Danimarka ile tam dayanışma içinde olduklarını vurguladı. Sosyal medya platformu X üzerinden bir mesaj paylaşan Komisyon Başkanı, olayın Avrupa Birliği topraklarında gerçekleştirilen bir saldırı olduğunu belirtti ve bunu kabul edilemez olarak nitelendirdi.\n\nAyrıca von der Leyen, Rus hibrit saldırılarının hedefi olan tüm üye devletlerin yanında olduklarını ifade etti. Hazırlık ve caydırıcılığı güçlendirmek amacıyla AB'nin yakında yeni bir Avrupa Güvenlik Stratejisi önereceğini de sözlerine ekledi.\n\nÖte yandan, Danimarka'daki Rus büyükelçiliği Cuma günü yaptığı açıklamada, yöneltilen suçlamaların herhangi bir kanıtla desteklenmediğini savundu.",
-      "highlights": [
-        "AB Lideri Ursula von der Leyen, Rus istihbaratına bağlanan suikast girişimini kınadı.",
-        "Rusya'nın Kopenhag büyükelçiliği, iddiaların kanıtlanmadığını açıkladı.",
-        "AB, hazırlık ve caydırıcılığı güçlendirmek için yeni bir güvenlik stratejisi önerecek."
-      ],
-      "externalUrl": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
-      "publishedAt": "2026-11-21T10:32:36.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:44:26.543Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
-      "headline": "FBI'ın suç kayıtları veri tabanında güvenlik ihlali şüphesi",
-      "source": "BBC Türkçe",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
-      "imageUrl": "https://images.unsplash.com/photo-1688956020469-50f4ecef7489?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8RkJJJTIwYnVpbGRpbmd8ZW58MXwwfHx8MTc5NTI1NzI2M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "David Trinks",
-        "photographerUrl": "https://unsplash.com/@dtrinksrph",
-        "unsplashUrl": "https://unsplash.com/photos/the-seal-of-the-department-of-justice-on-a-wall-Vvh_9ooeEZ0"
-      },
-      "timeAgo": "4 dk önce",
-      "body": "ABD basını, FBI'ın suç bilgilerini içeren veri tabanına izinsiz girilmiş olabileceği şüphesiyle soruşturma başlattığını aktardı. Konuya ilişkin bilgiler, konudan haberdar edilen iki kişinin açıklamalarına dayandırıldı. Federal ve yerel kolluk kuvvetleri, Ulusal Suç Bilgi Merkezi (NCIC) veri tabanını adli geçmiş sorgulamaları ve yakalama emirleri ile ilgili bilgi paylaşımı amacıyla kullanıyor. BBC, konuyla ilgili olarak FBI'dan açıklama talep etti. ABD'nin iç istihbarat ve güvenlik teşkilatı olan FBI, daha önce de bilgisayar korsanlarının hedefi olmuştu. Eylül ayında ShinyHunters adlı siber suç grubunun sistemlere izinsiz girmiş olabileceği şüphesiyle soruşturma yürütüldüğü açıklanmış, grup teşkilatın yaklaşık 38 bin çalışanına ait hassas bilgileri çaldığını iddia etmişti. Söz konusu olayın ardından eski bir FBI ajanı, görevdeki çalışanların güvenliğinden endişe duyduğunu ve kişisel bilgilerin internette suçlular ile ABD'ye hasım devletler adına çalışan korsanların eline geçebileceğini belirtmişti. Öte yandan NBC'nin haberine göre, ABD Tarım Bakanlığı da siber saldırıya uğramış olabilecek bir gelişmeyle karşılaştı ve çalışanlara çiftçilere yapılan ödemelerin yürütüldüğü sistemin hedef alındığı bildirildi. ABD Tarım Bakanlığı konu hakkında kamuoyuna herhangi bir açıklama yapmadı.",
-      "highlights": [
-        "ABD basını, FBI'ın suç kayıtları veri tabanına izinsiz girilmiş olabileceği şüphesiyle soruşturma başlattığını bildirdi.",
-        "Federal ve yerel kolluk kuvvetleri NCIC veri tabanını yakalama emirleri ve adli geçmiş sorgulamaları için kullanıyor.",
-        "NBC'ye göre ABD Tarım Bakanlığı'nın çiftçilere ödeme yapılan sistemi de siber saldırının hedefi oldu."
-      ],
-      "externalUrl": "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-11-21T10:30:24.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:44:26.543Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-xml-mrss",
-      "headline": "Anthropic araştırmacısı, yapay zekayı kullanarak matematiğin en büyük bilmecesini çözdüğünü açıkladı",
-      "source": "DW English",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=dw.com",
-      "imageUrl": "https://images.unsplash.com/photo-1677442135703-1787eea5ce01?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMG1hdGhlbWF0aWNzfGVufDF8MHx8fDE3OTUyNTc4NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Steve A Johnson",
-        "photographerUrl": "https://unsplash.com/@steve_j",
-        "unsplashUrl": "https://unsplash.com/photos/a-computer-circuit-board-with-a-brain-on-it-_0iV9LmPDn0"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "Yapay zeka alanında faaliyet gösteren Anthropic şirketinde çalışan bir matematikçi, şirketin geliştirdiği Claude adlı yapay zeka aracını kullanarak yüzyıldan uzun süredir çözülemeyen Riemann hipotezini çözdüğünü bildirdi. 1859 yılına dayanan Riemann hipotezi, asal sayıların dağılımını konu alıyor.\n\nAnthropic teknik ekibinde yer alan Levent Alpoge, Cuma günü internet sitesinde yaptığı açıklamada, Claude ile birlikte çalışarak Riemann Hipotezi'nin bir kanıtını keşfettiğine inandığını belirtti. Alpoge, yapay zeka ile gerçekleştirdiği bu iş birliğinin 250 bin sayfadan fazla matematiksel materyal ürettiğini ifade etti.\n\nAlpoge, sürecin ardından yaptığı değerlendirmede Claude'un son aşamada kendisini geride bıraktığını kaydetti. Öne sürülen bu kanıtın diğer matematikçiler tarafından doğrulanması ve onaylanması gerektiği belirtildi.\n\nAlmanyak matematikçi Bernhard Riemann tarafından 19. yüzyılda formüle edilen hipotez, Clay Matematik Enstitüsü tarafından belirlenen yedi Milenyum Ödüllü Problem'den biri olma özelliği taşıyor. Enstitü başkanı Martin Bridson, AP ajansına yaptığı açıklamada bunun tarihi öneme sahip bir duyuru olduğunu ifade etti. Öte yandan enstitü, gerçek bir anlayışa ulaşmanın uzun ve zorlu bir yol olacağını vurguladı.",
-      "highlights": [
-        "Anthropic araştırmacısı Levent Alpoge, Claude yapay zeka aracını kullanarak Riemann hipotezini çözdüğünü açıkladı.",
-        "Öne sürülen matematiksel kanıtın bağımsız matematikçiler tarafından doğrulanması gerekiyor.",
-        "Riemann hipotezi, Clay Matematik Enstitüsü'nün belirlediği yedi Milenyum Ödüllü Problem'den biri arasında yer alıyor."
-      ],
-      "externalUrl": "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-world-4025-xml-mrss",
-      "publishedAt": "2026-11-21T10:29:00.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T10:54:18.312Z",
       "isBreaking": false
     }
   ],
