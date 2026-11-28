@@ -29,7 +29,7 @@ const TOPIC_TERMS = {
   'Spor': ['spor', 'futbol', 'basketbol', 'voleybol', 'tenis', 'euroleague', 'nba', 'uefa', 'fifa', 'süper lig', 'super lig', 'derbi', 'şampiyon', 'sampiyon', 'maçında', 'maçı', 'maçı', 'transfer', 'milli takım', 'milli takim', 'formula 1', 'f1 yarışı', 'gol attı', 'gol atti', 'fenerbahçe', 'galatasaray', 'beşiktaş', 'trabzonspor', 'başakşehir', 'adana demirspor', 'anadolu efes', 'pınar karşıyaka'],
   'Ekonomi': ['ekonomi', 'enflasyon', 'faiz', 'borsa', 'döviz', 'doviz', 'dolar', 'euro kuru', 'altın fiyat', 'altin fiyat', 'yatırım', 'yatirim', 'ihracat', 'ithalat', 'bütçe', 'butce', 'asgari ücret', 'asgari ucret', 'merkez bankası', 'merkez bankasi', 'şirket', 'sirket', 'piyasa', 'vergi', 'kripto', 'bitcoin', 'finans'],
   'Teknoloji': ['teknoloji', 'yapay zeka', 'yapay zekâ', 'yazılım', 'yazilim', 'akıllı telefon', 'akilli telefon', 'siber saldırı', 'siber saldiri', 'siber güvenlik', 'siber guvenlik', 'uygulama güncelle', 'uygulama guncelle', 'işlemci', 'islemci', 'çip', 'cip', 'robot', 'android', 'iphone', 'google', 'openai', 'yeni model'],
-  'Bilim': ['bilim', 'bilim insan', 'araştırma', 'arastirma', 'keşif', 'kesif', 'nasa', 'uzay teleskop', 'astronomi', 'arkeolog', 'fosil', 'deney', 'iklim araştır'],
+  'Bilim': ['bilim', 'bilim insan', 'araştırma', 'arastirma', 'keşif', 'kesif', 'nasa', 'uzay teleskop', 'astronomi', 'arkeolog', 'fosil', 'deney', 'iklim araştır', 'botanik', 'bitki', 'bitki türü', 'endemik', 'herbaryum'],
   'Sağlık': ['sağlık', 'saglik', 'hastalık', 'hastalik', 'kanser', 'tedavi', 'ilaç', 'ilac', 'doktor', 'hasta', 'salgın', 'salgin', 'ameliyat', 'aşı', 'asi', 'tıp ', 'tıp dünyası', 'tıp dunyasi'],
   'Kültür & Sanat': ['kültür', 'kultur', 'sanat', 'sergi', 'konser', 'festival', 'tiyatro', 'sinema', 'film', 'dizi', 'albüm', 'album', 'müzik', 'muzik', 'oyuncu', 'yazar', 'kitap', 'bienal'],
   'Eğitim': ['eğitim', 'egitim', 'üniversite', 'universite', 'öğrenci', 'ogrenci', 'öğretmen', 'ogretmen', 'okul', 'sınav', 'sinav', 'müfredat', 'mufredat', 'yks', 'tyt', 'lgs', 'yök', 'yok'],
@@ -37,6 +37,23 @@ const TOPIC_TERMS = {
 };
 
 const GENERIC_CATEGORIES = new Set(['Gündem', 'Son Dakika', 'Dünya']);
+const TURKEY_PLACE_NAMES = [
+  'Türkiye', 'Turkey', 'Adana', 'Adıyaman', 'Afyon', 'Ağrı', 'Amasya', 'Ankara', 'Antalya',
+  'Artvin', 'Aydın', 'Balıkesir', 'Bilecik', 'Bingöl', 'Bitlis', 'Bolu', 'Burdur', 'Bursa',
+  'Çanakkale', 'Çankırı', 'Çorum', 'Denizli', 'Diyarbakır', 'Edirne', 'Elazığ', 'Erzincan',
+  'Erzurum', 'Eskişehir', 'Gaziantep', 'Giresun', 'Gümüşhane', 'Hakkari', 'Hatay', 'Isparta',
+  'Mersin', 'İstanbul', 'İzmir', 'Kars', 'Kastamonu', 'Kayseri', 'Kırklareli', 'Kırşehir',
+  'Kocaeli', 'Konya', 'Kütahya', 'Malatya', 'Manisa', 'Kahramanmaraş', 'Mardin', 'Muğla',
+  'Muş', 'Nevşehir', 'Niğde', 'Rize', 'Sakarya', 'Samsun', 'Siirt', 'Sinop', 'Sivas',
+  'Tekirdağ', 'Tokat', 'Trabzon', 'Tunceli', 'Şanlıurfa', 'Uşak', 'Van', 'Yozgat', 'Zonguldak',
+  'Aksaray', 'Bayburt', 'Karaman', 'Kırıkkale', 'Batman', 'Şırnak', 'Bartın', 'Ardahan',
+  'Iğdır', 'Yalova', 'Karabük', 'Kilis', 'Osmaniye', 'Düzce',
+];
+const TURKEY_PLACE_KEYS = new Set(TURKEY_PLACE_NAMES.map(categoryKey));
+
+function headlineMentionsTurkey(headlineText) {
+  return headlineText.split(' ').some((word) => TURKEY_PLACE_KEYS.has(word));
+}
 
 function categoryFromUrl(url) {
   if (!url) return null;
@@ -45,6 +62,7 @@ function categoryFromUrl(url) {
     const parts = `${parsed.pathname} ${parsed.searchParams.get('cat') ?? ''}`;
     const key = categoryKey(parts);
     const paths = [
+      [/\bgundem\b|\bgeneral\b/, 'Gündem'],
       [/\bspor\b|sports/, 'Spor'], [/\bekonomi\b|business|finance/, 'Ekonomi'],
       [/\bteknoloji\b|technology|\btech\b/, 'Teknoloji'], [/\bbilim\b|science/, 'Bilim'],
       [/\bsaglik\b|health/, 'Sağlık'], [/\begitim\b|education/, 'Eğitim'],
@@ -86,14 +104,20 @@ export function classifyArticleCategory({
   }
 
   const pathCategory = categoryFromUrl(url);
-  if (pathCategory && pathCategory !== 'Dünya') return pathCategory;
-
   const sourceLabel = normalizeCategory(sourceCategory);
   if (sourceLabel && !GENERIC_CATEGORIES.has(sourceLabel)) return sourceLabel;
+
+  // International publishers label their entire Turkish-language section as
+  // World. A concrete Turkish city or country name is stronger evidence for
+  // the reader-facing section than that broad publisher default.
+  if (headlineMentionsTurkey(headlineText)) return 'Türkiye';
+
+  if (pathCategory && pathCategory !== 'Gündem') return pathCategory;
+  if (pathCategory) return pathCategory;
   if (sourceLabel === 'Dünya' || String(sourceCategory).toLowerCase() === 'world' || lang === 'en') {
     return 'Dünya';
   }
-  return sourceLabel || 'Gündem';
+  return 'Gündem';
 }
 
 export function isBreakingArticle({ headline = '', sourceCategory = '', isBreaking = false } = {}) {
