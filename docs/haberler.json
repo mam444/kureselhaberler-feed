@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T08:34:33.682Z",
+  "generatedAt": "2026-11-28T08:44:23.656Z",
   "articles": [
+    {
+      "id": "https://www.milliyet.com.tr/dunya/son-dakika-afganistanda-okulda-siddetli-patlama-can-kaybi-ve-yaralilar-var-7709800",
+      "headline": "Afganistan'da bir okulda şiddetli patlama meydana geldi",
+      "source": "Milliyet",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
+      "imageUrl": "https://image.milimaj.com/i/milliyet/75/460x340/6b0a93b0d314da6ed517c2bd.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Milliyet",
+        "sourceUrl": "https://www.milliyet.com.tr/dunya/son-dakika-afganistanda-okulda-siddetli-patlama-can-kaybi-ve-yaralilar-var-7709800"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Afganistan'ın Kunar vilayetinde yer alan bir ortaokulda şiddetli bir patlama yaşandı. Kunar Vilayeti Polisi Sözcüsü Farid Dehkan, patlamanın yerel saatle 10.00'da vilayete bağlı Andar Ser bölgesindeki bir ortaokulda gerçekleştiğini bildirdi.\n\nSözcü Dehkan, olayda hayatını kaybeden ve yaralanan öğrencilerin bulunduğunu ifade etti. Ancak patlamanın kesin nedeni ile ölü ve yaralı sayısına ilişkin henüz herhangi bir detay paylaşılmadı.\n\nPatlama haberinin alınmasının ardından güvenlik ve soruşturma ekipleri hızla harekete geçti. Ekiplerin olay yerindeki inceleme ve araştırmaları sürerken, yaşanan şiddetli patlamayla ilgili detayların netleşmesi bekleniyor.",
+      "highlights": [
+        "Kunar vilayetindeki bir ortaokulda patlama meydana geldi",
+        "Ölü ve yaralı öğrencilerin bulunduğu açıklandı",
+        "Patlamanın nedeni ve kayıp sayısı henüz bilinmiyor"
+      ],
+      "externalUrl": "https://www.milliyet.com.tr/dunya/son-dakika-afganistanda-okulda-siddetli-patlama-can-kaybi-ve-yaralilar-var-7709800",
+      "publishedAt": "2026-11-28T08:41:43.000Z",
+      "category": "Eğitim",
+      "isBreaking": true,
+      "lang": "tr"
+    },
     {
       "id": "https://www.yenisafak.com/galeri/gundem/antalyadan-avrupaya-cicek-ihracati-okkes-duran-anlatti-4877386",
       "headline": "Antalya'dan Avrupa'ya çiçek ihracatı: Karanfil ve gerbera için talep geliyor",
@@ -16,14 +40,15 @@
       "body": "Antalya'da 35 dönüm serada çiçek üretimi yapan Ökkeş Duran, Türkiye'nin çiçek ihracatında Antalya'nın önemli bir yere sahip olduğunu belirterek, Avrupa ülkelerinden özellikle karanfil, gerbera ve sprey karanfil türlerine talep geldiğini açıkladı. Duran, Avrupa'nın yanı sıra Orta Doğu, Rusya ve Gürcistan'a da çiçek gönderildiğini, Romanya, Hollanda, İngiltere ve Bulgaristan'ın ise Avrupa'daki önemli alıcılar arasında bulunduğunu aktardı.\n\nAvrupa'da belirli dönemlerde çiçek talebinin normal zamanlara göre ciddi oranda yükseldiğini ifade eden Duran; Christmas, Cadılar Bayramı, Sevgililer Günü ve Kadınlar Günü gibi özel dönemlerde talebin çok fazla arttığını kaydetti. Üretim planlamasını bu dönemlerdeki talebe göre yaptıklarını belirten üretici, birçok ülkeden firmayla sözleşmeli çalıştıklarını dile getirdi. Duran, Avrupa'da karanfilin dayanma süresinin daha fazla olması ve özel gün tercihleri nedeniyle öne çıktığını vurguladı.\n\nÇiçek ihracatının yalnızca üreticinin kazancı olarak görülmemesi gerektiğini belirten Ökkeş Duran, bu faaliyetin ülke için büyük önem taşıdığını ifade etti. Diğer üreticilere de ihracatta bulunmalarını tavsiye eden Duran, kaliteli çiçeklerin yurt dışına gitmesinin hem kendilerinin hem de ülkenin başarısı olduğunu belirterek, uluslararası alanda ülkeyi temsil ettiklerini sözlerine ekledi.",
       "highlights": [
         "Antalya'dan Avrupa ülkelerine karanfil, gerbera ve sprey karanfil ihraç ediliyor.",
-        "Christmas, Cadılar Bayramı, Sevgililer Günü ve Kadınlar Günü gibi özel dönemlerde çiçek talebi ciddi oranda artıyor.",
-        "Romanya, Hollanda, İngiltere ve Bulgaristan Avrupa'daki önemli alıcılar arasında yer alıyor."
+        "Romanya, Hollanda, İngiltere ve Bulgaristan Avrupa'daki önemli alıcılar arasında yer alıyor.",
+        "Noel, Cadılar Bayramı ve Sevgililer Günü gibi özel dönemlerde çiçek talebi artıyor."
       ],
       "externalUrl": "https://www.yenisafak.com/galeri/gundem/antalyadan-avrupaya-cicek-ihracati-okkes-duran-anlatti-4877386",
       "publishedAt": "2026-11-28T08:33:00.000Z",
       "category": "Ekonomi",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:44:17.594Z"
     },
     {
       "id": "https://www.rfi.fr/en/africa/20261128-kenyan-starvation-cult-leader-convicted-over-further-123-deaths",
@@ -37,17 +62,18 @@
         "sourceUrl": "https://www.rfi.fr/en/africa/20261128-kenyan-starvation-cult-leader-convicted-over-further-123-deaths"
       },
       "timeAgo": "3 dk önce",
-      "body": "Kenya'da kıtlık tarikatının lideri Paul Mackenzie, 123 takipçisinin ölümü nedeniyle taksirle adam öldürme suçundan mahkum edildi. Mombasa şehrindeki mahkeme, kıyamet tarikatı liderinin Ocak 2021 ile Eylül 2023 tarihleri arasında kıyı kesimindeki Shakahola ormanında aralarında yalnızca yetişkinlerin bulunduğu takipçilerine açlıktan ölme talimatı verdiğini tespit etti. \n\nMagistrate Alex Ithuku kararında, Mackenzie'nin açlıktan ölü talimatı verdiğini, insanların ölüm sırasını belirlediğini ve inananları ücra bölgelerdeki oruç yerlerine yönlendirdiğini belirtti. Suçlamaları reddeden tarikat liderinin avukatlarından biri, karara karşı cezanın ardından temyize gideceklerini ifade etti.\n\nAy başlarında Mackenzie, aynı toplu kıyımda çoğu çocuk 191 kişinin cinayetinden dolayı 200 yıl hapis cezasına çarptırılmıştı. Yargılama sürecinin ardından mahkeme, aralarında liderin eşi Rhoda Mumbua Maweu'nun da bulunduğu 29 kişiyi taksirle adam öldürmeye katılmaktan suçlu bulurken, 60 sanık ise beraat etti.\n\nShakahola Ormanı'ndaki ölümlerin boyutu Kenya'da şok etkisi yaratırken, dini gruplar üzerinde daha sıkı denetim yapılması çağrılarına yol açtı. Cumhurbaşkanı William Ruto, 2023 yılında ölümlerin önlenememesindeki hükümet başarısızlığından devlet başkanı olarak sorumluluk aldığını belirtmişti.",
+      "body": "Kenya'da bir mahkeme, kıyamet tarikatı lideri Paul Mackenzie'yi 123 takipçisinin ölümü nedeniyle taksirle adam öldürme suçundan suçlu buldu. Mombasa şehrindeki mahkeme, Mackenzie'nin Ocak 2021 ile Eylül 2023 tarihleri arasında sahil yakınındaki Shakahola ormanında yetişkin takipçilerine açlıktan ölmeleri yönünde talimat verdiğine hükmetti. Hakimin kararına göre Mackenzie, açlık talimatlarını verdi ve ölümlerin gerçekleştiği süreçte rol aldı. Daha önce suçlamaları reddeden Mackenzie'nin avukatı, karar sonrasında temyize gideceklerini belirtti.\n\nBu karar, modern tarihin en ölümcül tarikat katliamlarından biriyle ilgili son mahkûmiyet oldu. Mackenzie, bu ayın başında aynı toplu katliam kapsamında, aralarında çocukların da bulunduğu 191 kişinin cinayetinden dolayı 200 yıl hapis cezasına çarptırılmış, ayrıca çocuklara zulüm, saldırı, radikalleşme ve terör bağlantılı suçlardan da mahkûm edilmişti.\n\nMahkeme, Mackenzie'nin eşi Rhoda Mumbua Maweu'nun da aralarında bulunduğu 29 kişiyi taksirle adam öldürmeye katılmaktan suçlu bulurken, 60 sanık ise beraat etti. Kamu Başsavcılığı beraat kararlarına karşı temyize başvuracağını açıkladı. Shakahola Ormanı'ndaki ölümlerin boyutu Kenya'da şok yaratmış ve dini gruplar üzerinde daha sıkı denetim çağrılarına yol açmıştı. 2023 yılında Devlet Başkanı William Ruto, ölümlerin önlenememesindeki devlet başarısızlığından dolayı sorumluluk üstlendiğini ifade etmişti.",
       "highlights": [
-        "Paul Mackenzie 123 takipçisinin ölümü nedeniyle suçlu bulundu.",
-        "Mahkeme Mackenzie'ye açlıktan ölüm talimatı vermekten ceza verdi.",
-        "Mackenzie'nin eşi dahil 29 kişi suçlu bulunurken 60 sanık beraat etti."
+        "Paul Mackenzie 123 takipçisinin ölümünden suçlu bulundu",
+        "Mahkeme 29 sanığı da taksirle adam öldürmeden mahkûm etti, 60 sanık beraat etti",
+        "Savcılık beraat kararları için temyize gidecek"
       ],
       "externalUrl": "https://www.rfi.fr/en/africa/20261128-kenyan-starvation-cult-leader-convicted-over-further-123-deaths",
       "publishedAt": "2026-11-28T08:31:24.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:44:17.594Z"
     },
     {
       "id": "https://www.aa.com.tr/tr/spor/teknik-direktor-okan-burukun-galatasaraydaki-derbi-karnesi/4141221",
@@ -14282,55 +14308,6 @@
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-22T09:04:26.727Z",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.milliyet.com.tr/teknoloji/isteyen-telefonunu-terminatore-donusturebilir-cin-menseli-artexle-yapay-zekaya-yemek-tarifi-sorar-gibi-siber-saldiri-7704972",
-      "headline": "'İsteyen telefonunu Terminatör'e dönüştürebilir!' Çin menşeli ARTEX'le yapay zekaya yemek tarifi sorar gibi siber saldırı",
-      "source": "Milliyet",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=milliyet.com.tr",
-      "imageUrl": "https://images.unsplash.com/photo-1591696331111-ef9586a5b17a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YXJ0aWZpY2lhbCUyMGludGVsbGlnZW5jZSUyMGN5YmVyc2VjdXJpdHl8ZW58MXwwfHx8MTc5NTI1MDY2NXww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Markus Winkler",
-        "photographerUrl": "https://unsplash.com/@markuswinkler",
-        "unsplashUrl": "https://unsplash.com/photos/white-and-black-typewriter-with-white-printer-paper-tGBXiHcPKrM"
-      },
-      "timeAgo": "3 dk önce",
-      "body": "Çin menşeli ARTEX adlı araç, yapay zeka destekli siber saldırı araçlarını sıradan vatandaşların ve suçluların erişimine sunuyor. Bu yılın Temmuz ayında piyasaya sürülen araç sayesinde büyük paralara, pahalı donanımlara veya sunuculara ihtiyaç duyulmadan ciddi yıkımlar yaratılabiliyor. FBI ve siber güvenlik kuruluşlarının iddialarına göre ARTEX, ConnectWise Cloud Backup gibi dünya genelindeki kuruluşları hedef alan büyük saldırıların arkasında yer alıyor. Microsoft, binlerce Microsoft 365 kullanıcısını riske atan saldırıyı Çin bağlantılı Storm-0940 grubuna bağlayarak grubun ARTEX'i yüzlerce kuruluşu hedef almak için kullandığını belirtti.\n\nDirectDefense bilgi güvenliği sorumlusu Christopher Walcutt, ARTEX'i yalın bir dille görevler verilebilen bir Terminatör'e benzeterek aracın hedefleri belirleyip sonuçlara acımasızca ulaştığını ifade etti. Araç, doğal dil girdilerini kullanarak ChatGPT'den lazanya tarifi istemek kadar kolay bir şekilde komuta edilebiliyor. Sistem aynı anda birden fazla görevi yerine getirebiliyor, ajanların öğrendiklerini analiz edebiliyor ve kredi kartı verilerini çalmak, gizli dosyaları indirmek veya kötü amaçlı yazılım yüklemek için yeni yardımcılar üretebiliyor.\n\nDatadog araştırmacılarına göre ARTEX, Temmuz ayında bir Çinli yazılım geliştiricisi tarafından güvenlik açıklarını bulmak için bir teşhis aracı olarak GitHub'da yayınlandı ve iki ay sonra yayından kaldırıldı. FBI, Kasım 2026 başı itibarıyla 1.600'den fazla halka açık ARTEX konsol örneği tespit edildiğini bildirdi. Benzer şekilde Google'ın Tehdit İstihbarat Grubu da kötü amaçlı aktörlerce kullanılan PentAGI gibi diğer araçların izini sürdü.\n\nSiber güvenlik uzmanı Scott Schober, saldırganların zaafları istismar etme hızının kurumların sistemlerini güncelleme hızını aştığını belirtti. Schober, siber suçluların yapay zeka gelişmelerinden faydalandığını ve sisteme bir kez girmenin ihlaller, erişim sorunları veya kesintiler için yeterli olduğunu vurguladı. Walcutt ise yapay zekanın yeni güvenlik açıkları yaratmadığını, halihazırda var olanları bulmayı ve istismar etmeyi kolaylaştırdığını ifade etti.",
-      "highlights": [
-        "ARTEX, Çin menşeli yapay zeka destekli bir siber saldırı aracı olarak dikkat çekiyor.",
-        "Araç, doğal dil girdileriyle komuta edilerek kredi kartı verilerini çalma veya kötü amaçlı yazılım yükleme gibi işlemleri otomatize edebiliyor.",
-        "FBI ve siber güvenlik uzmanları, saldırganların zaafları istismar etme hızının kurumların yama yapma hızını geçtiğini belirtiyor."
-      ],
-      "externalUrl": "https://www.milliyet.com.tr/teknoloji/isteyen-telefonunu-terminatore-donusturebilir-cin-menseli-artexle-yapay-zekaya-yemek-tarifi-sorar-gibi-siber-saldiri-7704972",
-      "publishedAt": "2026-11-21T08:41:49.000Z",
-      "category": "Teknoloji",
-      "lang": "tr",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-      "headline": "Yüzücü Lewis Pugh, Hürmüz'deki Tanker Saldırıları Arasında Deniz Kirliliğini Gözler Önüne Serdi",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1632247620837-970aa94d2b99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8MXx8c3dpbW1lciUyMG9jZWFuJTIwcG9sbHV0aW9ufGVufDF8MHx8fDE3OTUyNTE4NjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Naja Bertolt Jensen",
-        "photographerUrl": "https://unsplash.com/@naja_bertolt_jensen",
-        "unsplashUrl": "https://unsplash.com/photos/a-group-of-garbage-floating-in-the-ocean-FxnqdmKBJps"
-      },
-      "timeAgo": "25 dk önce",
-      "body": "Hürmüz Boğazı'nda tankerlerin yandığı sırada yüzücü Lewis Pugh, ABD-İsrail'in İran'a yönelik savaşının bir başka kurbanı olan deniz yaşamını gözler önüne serdi.\n\nBölgedeki çatışmalar ve tanker yangınları sürerken, Pugh'un gerçekleştirdiği yüzme eylemi deniz kirliliği tehlikesini, yaşanan diğer çatışmaların gölgesinde kalan bir başka unsur olarak ortaya koydu.\n\nABD-İsrail'in İran'a karşı yürüttüğü askeri faaliyetlerin ve bunun bir sonucu olarak alev alan tankerlerin çevresel etkileri, bu girişimle birlikte dikkat çekici bir boyuta taşındı.\n\nSöz konusu eylem, bölgedeki çatışma ortamının sadece stratejik ve insani değil, aynı zamanda deniz ekosistemi üzerinde yarattığı tahribatı da tartışmaya açtı.",
-      "highlights": [
-        "Yüzücü Lewis Pugh Hürmüz'deki tanker saldırıları sırasında deniz yaşamındaki kirliliği ortaya çıkardı",
-        "Olay ABD-İsrail'in İran'a karşı yürüttüğü savaş ortamında gerçekleşti"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
-      "publishedAt": "2026-11-21T08:39:35.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T09:14:29.224Z",
-      "isBreaking": false,
-      "videoEmbedAttemptedAt": "2026-11-28T06:34:26.079Z"
     }
   ],
   "rejectedIds": [
@@ -14563,6 +14540,7 @@
     "https://www.milliyet.com.tr/gundem/son-dakika-2027-butcesi-tbmmde-kabul-edildi-7709509",
     "https://www.aljazeera.com/news/2026/11/28/uganda-starts-mrna-ebola-vaccine-trial-in-first-for-africa?traffic_source=rss",
     "https://www.aljazeera.com/news/2026/11/28/how-israel-is-fast-tracking-data-centres-in-bid-to-become-ai-superpower?traffic_source=rss",
-    "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss"
+    "https://www.aljazeera.com/news/2026/11/28/students-killed-injured-in-school-explosion-in-afghanistans-kunar-region?traffic_source=rss",
+    "https://www.aljazeera.com/news/2026/11/28/sudanese-launch-clean-up-drive-as-garbage-overwhelms-khartoum-streets?traffic_source=rss"
   ]
 }
