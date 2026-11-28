@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-11-28T10:34:27.331Z",
+  "generatedAt": "2026-11-28T10:44:29.392Z",
   "articles": [
+    {
+      "id": "https://www.cnnturk.com/spor/nba/antetokounmpodan-yeni-kariyer-rekoru-3499070",
+      "headline": "Antetokounmpo'dan yeni kariyer rekoru",
+      "source": "CNN Türk",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=cnnturk.com",
+      "imageUrl": "https://image.cnnturk.com/i/cnnturk/75/720x490/6b0a87344e094da32235d009.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "CNN Türk",
+        "sourceUrl": "https://www.cnnturk.com/spor/nba/antetokounmpodan-yeni-kariyer-rekoru-3499070"
+      },
+      "timeAgo": "şimdi",
+      "body": "Amerikan Basketbol Ligi (NBA) Kupası'nda Miami Heat, Giannis Antetokounmpo'nun 23 ribauntluk kariyer rekoru kırarak yıldızlaştığı maçta deplasmanda New York Knicks'i 108-105 mağlup etti. Bu sonuçla Heat, rakibinin 6 maçlık galibiyet serisini sona erdirdi.\n\nKarşılaşmada galibiyete önemli katkı sağlayan Giannis Antetokounmpo 22 sayı ve kariyer rekoru olan 23 ribaunt ile oynarken, takım arkadaşı Bam Adebayo 25 sayı kaydetti. New York Knicks cephesinde ise Jalen Brunson attığı 27 sayı ile maçın en skorer ismi oldu.\n\nÖte yandan Philadelphia 76ers, LeBron James'in 21 sayı, 7 ribaunt ve 6 asistlik performans sergilediği mücadelede deplasmanda Indiana Pacers'ı 111-87 yendi. 76ers forması giyen milli oyuncu Adem Bona maçı 3 ribaunt ve 1 blok ile tamamlarken, Pacers'ta Jay Huff 18 sayı, Andrew Nembhard ise 14 sayı üretti.",
+      "highlights": [
+        "Miami Heat deplasmanda New York Knicks'i 108-105 yendi",
+        "Giannis Antetokounmpo 23 ribauntluk kariyer rekoru kırdı",
+        "Philadelphia 76ers deplasmanda Indiana Pacers'ı 111-87 mağlup etti"
+      ],
+      "externalUrl": "https://www.cnnturk.com/spor/nba/antetokounmpodan-yeni-kariyer-rekoru-3499070",
+      "publishedAt": "2026-11-28T10:48:43.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
+    {
+      "id": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "headline": "Sınır Tanımayan Doktorlar: Gazze'deki Sağlık Kliniğine Düzenlenen İsrail Saldırısında İki Personel Yaşamını Yitirdi",
+      "source": "BBC News",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=bbc.com",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "BBC News",
+        "sourceUrl": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss"
+      },
+      "timeAgo": "9 dk önce",
+      "body": "Sınır Tanımayan Doktorlar (MSF) örgütü, Gazze'deki bir tıp kliniğine düzenlenen İsrail saldırısında iki çalışanının hayatını kaybettiğini duyurdu. Yapılan açıklamada, hedef olan kliniğin konumunun İsrail ordusu tarafından bilindiği ve binanın MSF logolarıyla açıkça işaretlendiği belirtildi. Bu olayla birlikte Gazze'de yaşamını yitiren MSF çalışanlarının sayısının 17'ye yükseldiği bildirildi.\n\nİsrail Savunma Kuvvetleri (IDF) tarafından yapılan açıklamada ise hayatını kaybeden iki kişinin Ahmed Sufyan Muhammad Ali Abu Hasira ve Moaz Yousef Alitsbach olduğu ifade edildi. IDF, bu kişilerin Hamas'ın askeri kanadından teröristler olduğunu ve MSF tarafından işletilen birlikte güvenlik görevlisi kisvesi altında hareket ettiklerini öne sürdü. İsrail ordusu, saldırının bir hastaneye yönelik olmadığını ve tıbbi altyapıya zarar vermediğini belirtti.\n\nSaldırıya tanıklık edenler BBC'ye yaptıkları açıklamada, iki kişinin kliniğin girişinde oturduğu sırada bir İsrail dronunun yaklaşarak füze ateşlediğini aktardı. Hayatını kaybeden Abu Hasira'nın yakın arkadaşı Mohammed Imad, arkadaşının herhangi bir silahlı grup bağlantısının bulunmadığını ve tek kaygısının ailesine bakmak olan barışçıl bir insan olduğunu söyledi. Olayın ardından yüzlerce Filistinli, hayatını kaybeden MSF çalışanlarının cenaze törenine katıldı.\n\nDünya Sağlık Örgütü (WHO) başkanı Dr. Tedros Adhanom Ghebreyesus, sosyal medya platformu X üzerinden yaptığı paylaşımda, Gazze'deki sağlık tesislerine ve çalışanlarına yönelik saldırıların kabul edilemez olduğunu belirtti. Öte yandan, Hamas öncülüğündeki saldırının 7 Ekim 2023'te başlamasından bu yana çatışmaların ve İsrail saldırılarının devam ettiği, bölgedeki insani durumun ise olumsuz hava koşulları ve kısıtlı yardımlar nedeniyle kritik seviyede kaldığı bildirildi.",
+      "highlights": [
+        "Sınır Tanımayan Doktorlar (MSF), Gazze'deki kliniğe düzenlenen saldırıda iki personelinin öldüğünü açıkladı.",
+        "İsrail Savunma Kuvvetleri (IDF), ölen kişilerin Hamas bağlantılı olduğunu iddia etti.",
+        "Bu olayla birlikte Gazze'de hayatını kaybeden MSF çalışanlarının sayısı 17'ye ulaştı."
+      ],
+      "externalUrl": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-11-28T10:34:58.000Z",
+      "category": "Sağlık",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
       "headline": "Göçmenlik, İspanya'daki erken seçimin temel gündem maddesi",
@@ -15,7 +63,7 @@
       "timeAgo": "4 dk önce",
       "body": "Göçmenlik meselesi, Pazar günü yapılacak İspanya'daki erken seçimin kilit konularından biri olarak öne çıkıyor. Vox partisi, seçim kampanyasını doğrudan göçmenlik üzerine odakladı.\n\nSöz konusu politika tartışmaları, temmuz ayında Fas'tan İspanya'nın Kuzey Afrika'daki şehri Ceuta'ya on binlerce göçmenin akın etmesinin ardından siyaset sahnesinde baskın bir hale geldi.",
       "highlights": [
-        "Göçmenlik, İspanya'daki erken seçimin kilit konularından biri oldu",
+        "Göçmenlik, Pazar günkü erken seçimlerin kilit meselesi oldu",
         "Vox partisi kampanyasını göçmenlik üzerine odakladı",
         "Temmuz ayında on binlerce göçmen Fas'tan Ceuta'ya akın etti"
       ],
@@ -23,7 +71,8 @@
       "publishedAt": "2026-11-28T10:30:47.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:44:23.574Z"
     },
     {
       "id": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818",
@@ -39,15 +88,16 @@
       "timeAgo": "12 dk önce",
       "body": "İstanbul Cumhuriyet Başsavcılığı, Mustafa Sarıgül hakkında yürütülen suç örgütü soruşturmasında adı geçen isimlerle ilgili yeni bir adım attı. Yürütülen soruşturma kapsamında, YENİ Parti Genel Başkanı Özgür Özel ile birlikte Veli Ağbaba, Umut Akdoğan, Burhanettin Bulut ve Gökhan Zeybek hakkında dosya hazırlandı.\n\nBaşsavcılık, belirtilen 5 isimle ilgili dosyanın fezleke düzenlenmesi amacıyla Ankara Cumhuriyet Başsavcılığı'na gönderildiğini bildirdi. Gelişme, soruşturma sürecinde adli makamlarca yürütülen işlemler arasında yer aldı.",
       "highlights": [
-        "İstanbul Cumhuriyet Başsavcılığı dosyayı Ankara'ya gönderdi.",
-        "Fezleke düzenlenmesi istenen isimler arasında Özgür Özel de yer alıyor.",
-        "Soruşturma Mustafa Sarıgül hakkındaki suç örgütü iddiasıyla yürütülüyor."
+        "İstanbul Cumhuriyet Başsavcılığı soruşturma dosyasını gönderdi",
+        "Fezleke düzenlenmesi için Ankara Cumhuriyet Başsavcılığı'na iletildi",
+        "Özgür Özel ve 4 isim dosyada yer alıyor"
       ],
       "externalUrl": "https://www.haberturk.com/gundem/son-dakika-sarigul-sorusturmasinda-ozgur-ozel-ve-4-isim-icin-fezleke-duzenlemesi-3930818",
       "publishedAt": "2026-11-28T10:22:10.000Z",
       "category": "Gündem",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T10:44:23.574Z"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/facianin-esiginden-donuldu-zigana-daginda-yamactan-kopan-dev-kayalar-yolu-kapatti-7709845",
@@ -14264,56 +14314,6 @@
       "category": "Teknoloji",
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
-      "headline": "445 kilogram su ürünü ele geçirildi: 15 kişiye ceza",
-      "source": "Yeni Şafak",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yenisafak.com",
-      "imageUrl": "https://images.unsplash.com/photo-1680357680725-f350480aee35?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8M3x8NDQ1JTIwa2lsb2dyYW0lMjBzdSUyMCVDMyVCQ3IlQzMlQkNuJUMzJUJDJTIwZWxlJTIwZ2UlQzMlQTdpcmlsZGklM0ElMjAxNSUyMGtpJUM1JTlGaXllJTIwY2V6YXxlbnwxfDB8fHwxNzk1MjU3ODc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Tim Johnson",
-        "photographerUrl": "https://unsplash.com/@mangofantasy",
-        "unsplashUrl": "https://unsplash.com/photos/a-pile-of-bags-of-cement-sitting-next-to-each-other-rc5crEySTXo"
-      },
-      "timeAgo": "2 dk önce",
-      "body": "Mersin’de su ürünlerinin korunması ve sürdürülebilir avcılığın sağlanması amacıyla gerçekleştirilen denetimlerde, mevzuata aykırı faaliyetlerde bulunduğu belirlenen 15 kişiye idari para cezası uygulanırken, avlanması yasak olan ve yasal boy sınırının altında bulunan toplam 445 kilogram su ürününe el konuldu.",
-      "highlights": [
-        "Mersin'de 9-14 Kasım 2026 tarihlerinde su ürünleri denetimleri yapıldı",
-        "1380 Sayılı Su Ürünleri Kanununa aykırı davranan 15 kişiye para cezası verildi",
-        "Avlanması yasak ve boy sınırının altında olan 445 kilogram su ürününe el konuldu"
-      ],
-      "externalUrl": "https://www.yenisafak.com/gundem/445-kilogram-su-urunu-ele-gecirildi-15-kisiye-ceza-4875159",
-      "publishedAt": "2026-11-21T10:43:02.000Z",
-      "category": "Gündem",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-22T11:20:28.900Z",
-      "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-      "headline": "El Halil'deki Binalar İçin Yıkım Tebligatları Filistinlilerde Korkuya Neden Oldu",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1677233859838-be47b0ab6c4a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8RWwlMjBIYWxpbCUyN2Rla2klMjBCaW5hbGFyJTIwJUM0JUIwJUMzJUE3aW4lMjBZJUM0JUIxayVDNCVCMW0lMjBUZWJsaWdhdGxhciVDNCVCMSUyMEZpbGlzdGlubGlsZXJkZSUyMEtvcmt1eWElMjBOZWRlbiUyME9sZHV8ZW58MXwwfHx8MTc5NTQ0NTE0Nnww&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Çağlar Oskay",
-        "photographerUrl": "https://unsplash.com/@oskaycaglar",
-        "unsplashUrl": "https://unsplash.com/photos/a-couple-of-cars-that-are-parked-in-front-of-a-building-Lva3ACKlL_8"
-      },
-      "timeAgo": "16 dk önce",
-      "body": "İsrail makamlarının Batı Şeria'da yasal ruhsata sahip evleri hedef alması, bölgedeki Filistinliler arasında zorunlu göç korkusunu artırdı.\n\nEl Halil bölgesinde yaşanan bu gelişmeler, Filistinli sakinlerin endişelerini en üst seviyeye taşıdı.\n\nYetkililerin hedef aldığı konutların resmi ruhsatlı olması dikkat çekerken, halk yaşanan durum karşısında tedirgin.\n\nBölgedeki zorunlu göç tehlikesi, yerel halkın geleceğe dair kaygılarını güçlendiriyor.",
-      "highlights": [
-        "İsrail makamları Batı Şeria'daki yasal ruhsatlı evleri hedef alıyor",
-        "Filistinliler zorunlu göç korkusu yaşıyor"
-      ],
-      "externalUrl": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-      "publishedAt": "2026-11-21T10:38:13.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T11:25:04.635Z",
-      "imageSearchAttemptedAt": "2026-11-24T21:32:28.256Z",
       "isBreaking": false
     }
   ],
