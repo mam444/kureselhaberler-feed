@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-28T08:24:45.841Z",
+  "generatedAt": "2026-11-28T08:28:08.189Z",
   "articles": [
+    {
+      "id": "https://www.aa.com.tr/tr/spor/teknik-direktor-okan-burukun-galatasaraydaki-derbi-karnesi/4141221",
+      "headline": "Galatasaray Teknik Direktörü Okan Buruk'un Derbi Karnesi",
+      "source": "Anadolu Ajansı",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aa.com.tr",
+      "imageUrl": "https://cdnuploads.aa.com.tr/uploads/Contents/2026/11/28/thumbs_b_c_7c262f24e73af4d396e69799dbad6883.jpg",
+      "imageCredit": {
+        "sourceType": "publisher_rss",
+        "sourceName": "Anadolu Ajansı",
+        "sourceUrl": "https://www.aa.com.tr/tr/spor/teknik-direktor-okan-burukun-galatasaraydaki-derbi-karnesi/4141221"
+      },
+      "timeAgo": "3 dk önce",
+      "body": "Trendyol Süper Lig'in 13. haftasında gerçekleştirilecek olan Beşiktaş-Galatasaray karşılaşmasında sarı-kırmızılı takımın teknik direktörü Okan Buruk, kariyerindeki önemli bir eşiği geride bırakmaya hazırlanıyor.\n\n30 Kasım Pazartesi günü oynanacak bu kritik mücadele, tecrübeli çalıştırıcı için ayrı bir önem taşıyor. Okan Buruk, Beşiktaş ile yapılacak bu müsabakayla birlikte Galatasaray'ın teknik direktörü olarak toplamda 22. kez bir derbi heyecanı yaşayacak.\n\nSarı-kırmızılı kulüpte görev yaptığı süre boyunca birçok önemli maça çıkan Buruk, bu derbi istatistiği ile takımın başındaki kritik maç deneyimini bir kez daha artırmış olacak. Futbol kamuoyunun yakından takip ettiği karşılaşma, ligin seyrini etkileyecek maçlar arasında yer alıyor.",
+      "highlights": [
+        "Okan Buruk Galatasaray'ın başında 22. kez derbiye çıkacak",
+        "Maç 30 Kasım Pazartesi günü oynanacak",
+        "Karşılaşma Trendyol Süper Lig'in 13. haftasında yapılacak"
+      ],
+      "externalUrl": "https://www.aa.com.tr/tr/spor/teknik-direktor-okan-burukun-galatasaraydaki-derbi-karnesi/4141221",
+      "publishedAt": "2026-11-28T08:25:01.000Z",
+      "category": "Spor",
+      "isBreaking": false,
+      "lang": "tr"
+    },
     {
       "id": "https://www.ntv.com.tr/turkiye/galeri-antalyadan-vatikana-mektup-papadan-zinciri-istedi-1752960",
       "headline": "Antalya'dan Vatikan'a mektup: Papa'dan zinciri istedi",
@@ -48,6 +72,29 @@
       "isBreaking": false,
       "lang": "tr",
       "sourceTextAttemptedAt": "2026-11-28T08:24:36.181Z"
+    },
+    {
+      "id": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+      "headline": "BM'nin Albanese'i Anayasa Mahkemesi Kararının Ardından Kosta Rika Havalimanından Ayrıldı",
+      "source": "Al Jazeera",
+      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
+      "imageUrl": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8NXx8YWlycG9ydHxlbnwxfDB8fHwxNzk1ODU0NDg1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageCredit": {
+        "photographer": "Bao Menglong",
+        "photographerUrl": "https://unsplash.com/@__menglong",
+        "unsplashUrl": "https://unsplash.com/photos/white-airplane--FhoJYnw-cg"
+      },
+      "timeAgo": "23 dk önce",
+      "body": "Birleşmiş Milletler yetkilisi Albanese, mahkemenin tesislerden serbest bırakılması yönündeki kararının ardından tutulduğu Kosta Rika havalimanından ayrıldı.\n\nMahkeme tarafından verilen tahliye emri doğrultusunda, Albanese'in havalimanı binasından çıkışı gerçekleştirildi.\n\nYetkilinin havalimanında tutulduğu süreç, mahkeme kararının ardından sona erdi.\n\nYaşanan bu gelişmeyle birlikte Albanese, tutulduğu alandan ayrılarak havalimanından ayrılmış oldu.",
+      "highlights": [
+        "Albanese Kosta Rika havalimanından ayrıldı",
+        "Mahkeme serbest bırakılması yönünde karar verdi"
+      ],
+      "externalUrl": "https://www.aljazeera.com/news/2026/11/28/uns-albanese-leaves-costa-rica-airport-after-constitutional-court-verdict?traffic_source=rss",
+      "publishedAt": "2026-11-28T08:05:18.000Z",
+      "category": "Dünya",
+      "isBreaking": false,
+      "lang": "tr"
     },
     {
       "id": "https://www.milliyet.com.tr/gundem/kucukcekmecedeki-kundaklamada-olu-sayisi-3e-yukseldi-siginak-11-odali-apart-otele-donusturulmus-7709779",
@@ -561,7 +608,8 @@
       "publishedAt": "2026-11-28T04:46:16.000Z",
       "category": "Dünya",
       "isBreaking": false,
-      "lang": "tr"
+      "lang": "tr",
+      "sourceTextAttemptedAt": "2026-11-28T08:28:04.460Z"
     },
     {
       "id": "https://www.cnnturk.com/video/turkiye/netflixte-sukran-gunu-rezilligi-3499012",
@@ -2510,7 +2558,7 @@
       "category": "Gündem",
       "isBreaking": false,
       "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-27T07:29:26.140Z"
+      "sourceTextAttemptedAt": "2026-11-28T08:28:04.460Z"
     },
     {
       "id": "https://www.rfi.fr/en/sports/20261125-romans-burn-psg-s-perfect-start-to-champions-league-campaign",
@@ -14332,31 +14380,6 @@
       "category": "Dünya",
       "lang": "tr",
       "isBreaking": false
-    },
-    {
-      "id": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
-      "headline": "İspanya mahkemesi Filistin yanlısı aktivist James 'Fergie' Chambers'a kefaletle serbestlik tanıdı",
-      "source": "Al Jazeera",
-      "sourceIconUrl": "https://www.google.com/s2/favicons?sz=64&domain=aljazeera.com",
-      "imageUrl": "https://images.unsplash.com/photo-1651669596427-6feb5941141c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDM3OTQwfDB8MXxzZWFyY2h8Mnx8cHJvdGVzdCUyMGNvdXJ0fGVufDF8MHx8fDE3OTUyNTI0NzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageCredit": {
-        "photographer": "Ian Hutchinson",
-        "photographerUrl": "https://unsplash.com/@ianhutchinson92",
-        "unsplashUrl": "https://unsplash.com/photos/a-crowd-of-people-outside-of-a-white-building-xENKE2dzxow"
-      },
-      "timeAgo": "48 dk önce",
-      "body": "İspanya Yüksek Mahkemesi, Filistin yanlısı hayırsever James 'Fergie' Chambers hakkında koşullu kefalet kararını onayladı.\n\nAlınan karar doğrultusunda Chambers tutuksuz yargılanmak üzere serbest bırakıldı.\n\nSüreçle ilgili detaylar İspanyol adli makamları tarafından paylaşıldı.",
-      "highlights": [
-        "İspanya Yüksek Mahkemesi kefalet verdi",
-        "James 'Fergie' Chambers koşullu serbest bırakıldı"
-      ],
-      "externalUrl": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
-      "publishedAt": "2026-11-21T08:26:22.000Z",
-      "category": "Dünya",
-      "lang": "tr",
-      "sourceTextAttemptedAt": "2026-11-21T09:34:25.162Z",
-      "isBreaking": false,
-      "videoEmbedAttemptedAt": "2026-11-28T06:34:26.079Z"
     }
   ],
   "rejectedIds": [
